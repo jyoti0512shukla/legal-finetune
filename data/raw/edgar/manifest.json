@@ -96,16 +96,16 @@
     "chars": 124247
   },
   {
-    "source_id": "0001628280-24-041596",
-    "type": "Master Services Agreement",
-    "entity": "Cerebras Systems Inc.",
-    "chars": 87920
-  },
-  {
     "source_id": "0001437749-21-013170",
     "type": "Master Services Agreement",
     "entity": "iShares S&P GSCI Commodity-Indexed Trust",
     "chars": 175867
+  },
+  {
+    "source_id": "0001628280-24-041596",
+    "type": "Master Services Agreement",
+    "entity": "Cerebras Systems Inc.",
+    "chars": 87920
   },
   {
     "source_id": "0001628279-24-000336",
@@ -282,12 +282,6 @@
     "chars": 27743
   },
   {
-    "source_id": "0000092230-21-000032",
-    "type": "Master Services Agreement",
-    "entity": "TRUIST FINANCIAL CORP",
-    "chars": 35337
-  },
-  {
     "source_id": "0001193125-22-072017",
     "type": "Master Services Agreement",
     "entity": "BELLRING BRANDS, INC.",
@@ -298,6 +292,312 @@
     "type": "Master Services Agreement",
     "entity": "Bullish",
     "chars": 111087
+  },
+  {
+    "source_id": "0001654954-19-008743",
+    "type": "Master Services Agreement",
+    "entity": "Exactus, Inc.",
+    "chars": 10971
+  },
+  {
+    "source_id": "0001213900-23-038651",
+    "type": "Master Services Agreement",
+    "entity": "Akerna Corp.",
+    "chars": 10310
+  },
+  {
+    "source_id": "0001232524-19-000026",
+    "type": "Master Services Agreement",
+    "entity": "Jazz Pharmaceuticals plc",
+    "chars": 1728
+  },
+  {
+    "source_id": "0001104659-21-154308",
+    "type": "Master Services Agreement",
+    "entity": "CompoSecure, Inc.",
+    "chars": 31106
+  },
+  {
+    "source_id": "0001683168-22-001839",
+    "type": "Master Services Agreement",
+    "entity": "Xenetic Biosciences, Inc.",
+    "chars": 12052
+  },
+  {
+    "source_id": "0001232524-21-000045",
+    "type": "Master Services Agreement",
+    "entity": "Jazz Pharmaceuticals plc",
+    "chars": 2646
+  },
+  {
+    "source_id": "0001213900-21-023103",
+    "type": "Master Services Agreement",
+    "entity": "APPLIED ENERGETICS, INC.",
+    "chars": 3137
+  },
+  {
+    "source_id": "0001213900-24-082799",
+    "type": "Master Services Agreement",
+    "entity": "Serve Robotics Inc. /DE/",
+    "chars": 3045
+  },
+  {
+    "source_id": "0001628280-20-009096",
+    "type": "Master Services Agreement",
+    "entity": "ArcherDX, Inc.",
+    "chars": 140448
+  },
+  {
+    "source_id": "0001232524-22-000012",
+    "type": "Master Services Agreement",
+    "entity": "Jazz Pharmaceuticals plc",
+    "chars": 3313
+  },
+  {
+    "source_id": "0001367644-20-000163",
+    "type": "Master Services Agreement",
+    "entity": "Emergent BioSolutions Inc.",
+    "chars": 9654
+  },
+  {
+    "source_id": "0001232524-22-000046",
+    "type": "Master Services Agreement",
+    "entity": "Jazz Pharmaceuticals plc",
+    "chars": 3925
+  },
+  {
+    "source_id": "0001213900-24-016482",
+    "type": "Master Services Agreement",
+    "entity": "Serve Robotics Inc. /DE/",
+    "chars": 42301
+  },
+  {
+    "source_id": "0001999371-24-013008",
+    "type": "Master Services Agreement",
+    "entity": "CoinShares Valkyrie Bitcoin Fund",
+    "chars": 113147
+  },
+  {
+    "source_id": "0001232524-22-000046",
+    "type": "Master Services Agreement",
+    "entity": "Jazz Pharmaceuticals plc",
+    "chars": 4153
+  },
+  {
+    "source_id": "0001628279-20-000095",
+    "type": "Master Services Agreement",
+    "entity": "ArcherDX, Inc.",
+    "chars": 140422
+  },
+  {
+    "source_id": "0001628279-24-000393",
+    "type": "Master Services Agreement",
+    "entity": "Chime Financial, Inc.",
+    "chars": 206804
+  },
+  {
+    "source_id": "0001411690-24-000049",
+    "type": "Master Services Agreement",
+    "entity": "Bionano Genomics, Inc.",
+    "chars": 103892
+  },
+  {
+    "source_id": "0001232524-22-000035",
+    "type": "Master Services Agreement",
+    "entity": "Jazz Pharmaceuticals plc",
+    "chars": 3997
+  },
+  {
+    "source_id": "0001999371-24-012737",
+    "type": "Master Services Agreement",
+    "entity": "CoinShares Valkyrie Bitcoin Fund",
+    "chars": 91001
+  },
+  {
+    "source_id": "0001753926-21-000167",
+    "type": "Master Services Agreement",
+    "entity": "XORTX Therapeutics Inc.",
+    "chars": 74653
+  },
+  {
+    "source_id": "0001410578-24-000297",
+    "type": "Master Services Agreement",
+    "entity": "Marker Therapeutics, Inc.",
+    "chars": 19688
+  },
+  {
+    "source_id": "0001213900-23-038651",
+    "type": "Master Services Agreement",
+    "entity": "Akerna Corp.",
+    "chars": 5214
+  },
+  {
+    "source_id": "0001213900-22-000613",
+    "type": "Master Services Agreement",
+    "entity": "Sphere 3D Corp",
+    "chars": 5239
+  },
+  {
+    "source_id": "0000950170-22-021438",
+    "type": "Master Services Agreement",
+    "entity": "ACADIA PHARMACEUTICALS INC",
+    "chars": 18393
+  },
+  {
+    "source_id": "0001558370-23-003964",
+    "type": "Master Services Agreement",
+    "entity": "Immunome Inc.",
+    "chars": 2041
+  },
+  {
+    "source_id": "0001193125-24-142956",
+    "type": "Master Services Agreement",
+    "entity": "Tempus AI, Inc.",
+    "chars": 1818
+  },
+  {
+    "source_id": "0001558370-23-003964",
+    "type": "Master Services Agreement",
+    "entity": "Immunome Inc.",
+    "chars": 1840
+  },
+  {
+    "source_id": "0001140361-20-014573",
+    "type": "Master Services Agreement",
+    "entity": "Amryt Pharma plc",
+    "chars": 1892
+  },
+  {
+    "source_id": "0001140361-20-011158",
+    "type": "Master Services Agreement",
+    "entity": "Amryt Pharma plc",
+    "chars": 1865
+  },
+  {
+    "source_id": "0001082554-24-000035",
+    "type": "Master Services Agreement",
+    "entity": "UNITED THERAPEUTICS Corp",
+    "chars": 2269
+  },
+  {
+    "source_id": "0001213900-22-004881",
+    "type": "Master Services Agreement",
+    "entity": "AmeriCrew Inc.",
+    "chars": 2442
+  },
+  {
+    "source_id": "0001082554-24-000005",
+    "type": "Master Services Agreement",
+    "entity": "UNITED THERAPEUTICS Corp",
+    "chars": 2431
+  },
+  {
+    "source_id": "0001104659-22-074469",
+    "type": "Master Services Agreement",
+    "entity": "Vickers Vantage Corp. I",
+    "chars": 2105
+  },
+  {
+    "source_id": "0001554855-24-000091",
+    "type": "Master Services Agreement",
+    "entity": "Eve Holding, Inc.",
+    "chars": 8181
+  },
+  {
+    "source_id": "0001169245-22-000028",
+    "type": "Master Services Agreement",
+    "entity": "PhaseBio Pharmaceuticals Inc",
+    "chars": 2731
+  },
+  {
+    "source_id": "0001193125-24-142956",
+    "type": "Master Services Agreement",
+    "entity": "Tempus AI, Inc.",
+    "chars": 2693
+  },
+  {
+    "source_id": "0000950123-24-012020",
+    "type": "Master Services Agreement",
+    "entity": "Omada Health, Inc.",
+    "chars": 2793
+  },
+  {
+    "source_id": "0001082554-23-000031",
+    "type": "Master Services Agreement",
+    "entity": "UNITED THERAPEUTICS Corp",
+    "chars": 2979
+  },
+  {
+    "source_id": "0001459200-23-000028",
+    "type": "Master Services Agreement",
+    "entity": "Alarm.com Holdings, Inc.",
+    "chars": 2630
+  },
+  {
+    "source_id": "0001213900-24-053492",
+    "type": "Master Services Agreement",
+    "entity": "Brag House Holdings, Inc.",
+    "chars": 2358
+  },
+  {
+    "source_id": "0000890319-19-000030",
+    "type": "Master Services Agreement",
+    "entity": "TAUBMAN CENTERS INC",
+    "chars": 60955
+  },
+  {
+    "source_id": "0001193125-19-280540",
+    "type": "Master Services Agreement",
+    "entity": "AnPac Bio-Medical Science Co., Ltd.",
+    "chars": 55212
+  },
+  {
+    "source_id": "0001193125-21-251454",
+    "type": "Master Services Agreement",
+    "entity": "iCIMS Holding LLC",
+    "chars": 62917
+  },
+  {
+    "source_id": "0001558370-23-003964",
+    "type": "Master Services Agreement",
+    "entity": "Immunome Inc.",
+    "chars": 3035
+  },
+  {
+    "source_id": "0001468666-22-000044",
+    "type": "Master Services Agreement",
+    "entity": "SecureWorks Corp",
+    "chars": 3256
+  },
+  {
+    "source_id": "0001564590-21-026084",
+    "type": "Master Services Agreement",
+    "entity": "Larimar Therapeutics, Inc.",
+    "chars": 3222
+  },
+  {
+    "source_id": "0001213900-24-011153",
+    "type": "Master Services Agreement",
+    "entity": "Serve Robotics Inc. /DE/",
+    "chars": 3209
+  },
+  {
+    "source_id": "0000950123-21-005245",
+    "type": "Master Services Agreement",
+    "entity": "iCIMS Holding LLC",
+    "chars": 62905
+  },
+  {
+    "source_id": "0000950123-24-012020",
+    "type": "Master Services Agreement",
+    "entity": "Omada Health, Inc.",
+    "chars": 3482
+  },
+  {
+    "source_id": "0001193125-21-290398",
+    "type": "Master Services Agreement",
+    "entity": "Zosano Pharma Corp",
+    "chars": 3629
   },
   {
     "source_id": "0001193125-21-363646",
@@ -540,13 +840,13 @@
     "chars": 257895
   },
   {
-    "source_id": "0001193125-20-288095",
+    "source_id": "0001193125-20-285895",
     "type": "SaaS Subscription Agreement",
     "entity": "Upstart Holdings, Inc.",
     "chars": 294789
   },
   {
-    "source_id": "0001193125-20-285895",
+    "source_id": "0001193125-20-288095",
     "type": "SaaS Subscription Agreement",
     "entity": "Upstart Holdings, Inc.",
     "chars": 294789
@@ -870,6 +1170,306 @@
     "chars": 37310
   },
   {
+    "source_id": "0001828852-23-000150",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Mondee Holdings, Inc.",
+    "chars": 40291
+  },
+  {
+    "source_id": "0001600641-22-000023",
+    "type": "Non-Disclosure Agreement",
+    "entity": "1stdibs.com, Inc.",
+    "chars": 16583
+  },
+  {
+    "source_id": "0001104659-22-080993",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Mondee Holdings, Inc.",
+    "chars": 41484
+  },
+  {
+    "source_id": "0001564590-22-005966",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Dorman Products, Inc.",
+    "chars": 36118
+  },
+  {
+    "source_id": "0000950170-21-002660",
+    "type": "Non-Disclosure Agreement",
+    "entity": "HERBALIFE NUTRITION LTD.",
+    "chars": 4729
+  },
+  {
+    "source_id": "0000950170-23-016715",
+    "type": "Non-Disclosure Agreement",
+    "entity": "HERBALIFE LTD.",
+    "chars": 4724
+  },
+  {
+    "source_id": "0001065949-23-000115",
+    "type": "Non-Disclosure Agreement",
+    "entity": "YOUNEEQAI TECHNICAL SERVICES, INC.",
+    "chars": 47935
+  },
+  {
+    "source_id": "0001437749-19-021796",
+    "type": "Non-Disclosure Agreement",
+    "entity": "ACELRX PHARMACEUTICALS INC",
+    "chars": 26144
+  },
+  {
+    "source_id": "0001564590-19-017175",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Sarepta Therapeutics, Inc.",
+    "chars": 33447
+  },
+  {
+    "source_id": "0001193125-22-312839",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Empatan Public Ltd Co",
+    "chars": 13108
+  },
+  {
+    "source_id": "0001410578-19-000634",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Archrock, Inc.",
+    "chars": 32881
+  },
+  {
+    "source_id": "0000896841-19-000190",
+    "type": "Non-Disclosure Agreement",
+    "entity": "AVID TECHNOLOGY, INC.",
+    "chars": 58140
+  },
+  {
+    "source_id": "0000950123-21-003174",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Talaris Therapeutics, Inc.",
+    "chars": 95849
+  },
+  {
+    "source_id": "0001193125-21-119531",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Talaris Therapeutics, Inc.",
+    "chars": 95864
+  },
+  {
+    "source_id": "0001493152-24-052728",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Greenlane Holdings, Inc.",
+    "chars": 108300
+  },
+  {
+    "source_id": "0001213900-21-059419",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Maris Tech Ltd.",
+    "chars": 13913
+  },
+  {
+    "source_id": "0001193125-24-186617",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Veradigm Inc.",
+    "chars": 56082
+  },
+  {
+    "source_id": "0001493152-23-006057",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Qilun Group Inc.",
+    "chars": 24907
+  },
+  {
+    "source_id": "0001493152-23-009029",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Qilun Group Inc.",
+    "chars": 24907
+  },
+  {
+    "source_id": "0001493152-23-007566",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Qilun Group Inc.",
+    "chars": 24907
+  },
+  {
+    "source_id": "0001493152-22-033263",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Qilun Group Inc.",
+    "chars": 24907
+  },
+  {
+    "source_id": "0001193125-22-232754",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Nikola Corp",
+    "chars": 34860
+  },
+  {
+    "source_id": "0001213900-20-006126",
+    "type": "Non-Disclosure Agreement",
+    "entity": "RELMADA THERAPEUTICS, INC.",
+    "chars": 15341
+  },
+  {
+    "source_id": "0001493152-23-001498",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Qilun Group Inc.",
+    "chars": 24907
+  },
+  {
+    "source_id": "0001144204-19-014646",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Majesco",
+    "chars": 7095
+  },
+  {
+    "source_id": "0001025996-22-000131",
+    "type": "Non-Disclosure Agreement",
+    "entity": "KILROY REALTY CORP",
+    "chars": 45978
+  },
+  {
+    "source_id": "0001104659-24-037253",
+    "type": "Non-Disclosure Agreement",
+    "entity": "INNOVATIVE SOLUTIONS & SUPPORT INC",
+    "chars": 21247
+  },
+  {
+    "source_id": "0001025996-23-000113",
+    "type": "Non-Disclosure Agreement",
+    "entity": "KILROY REALTY CORP",
+    "chars": 25754
+  },
+  {
+    "source_id": "0001177609-19-000010",
+    "type": "Non-Disclosure Agreement",
+    "entity": "FIVE BELOW, INC",
+    "chars": 19667
+  },
+  {
+    "source_id": "0001213900-22-082965",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Courtside Group, Inc.",
+    "chars": 59259
+  },
+  {
+    "source_id": "0001628280-23-034847",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Tesla, Inc.",
+    "chars": 35591
+  },
+  {
+    "source_id": "0001437749-20-004191",
+    "type": "Non-Disclosure Agreement",
+    "entity": "PETROGRESS, INC",
+    "chars": 26309
+  },
+  {
+    "source_id": "0001104659-20-113271",
+    "type": "Non-Disclosure Agreement",
+    "entity": "INNODATA INC",
+    "chars": 7972
+  },
+  {
+    "source_id": "0000866291-22-000008",
+    "type": "Non-Disclosure Agreement",
+    "entity": "ALLEGRO MICROSYSTEMS, INC.",
+    "chars": 7296
+  },
+  {
+    "source_id": "0001144204-19-020273",
+    "type": "Non-Disclosure Agreement",
+    "entity": "INNODATA INC",
+    "chars": 7488
+  },
+  {
+    "source_id": "0001493152-21-024881",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Vinco Ventures, Inc.",
+    "chars": 17173
+  },
+  {
+    "source_id": "0001144204-19-018562",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Majesco",
+    "chars": 7544
+  },
+  {
+    "source_id": "0001393905-21-000284",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Rapid Therapeutic Science Laboratories, Inc.",
+    "chars": 23836
+  },
+  {
+    "source_id": "0001025996-23-000072",
+    "type": "Non-Disclosure Agreement",
+    "entity": "KILROY REALTY CORP",
+    "chars": 55904
+  },
+  {
+    "source_id": "0001564590-20-022403",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Aeglea BioTherapeutics, Inc.",
+    "chars": 8719
+  },
+  {
+    "source_id": "0001025996-20-000137",
+    "type": "Non-Disclosure Agreement",
+    "entity": "KILROY REALTY CORP",
+    "chars": 58010
+  },
+  {
+    "source_id": "0001025996-19-000200",
+    "type": "Non-Disclosure Agreement",
+    "entity": "KILROY REALTY CORP",
+    "chars": 59439
+  },
+  {
+    "source_id": "0001320461-22-000136",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Cooper-Standard Holdings Inc.",
+    "chars": 8645
+  },
+  {
+    "source_id": "0001171843-21-003556",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Zomedica Corp.",
+    "chars": 8810
+  },
+  {
+    "source_id": "0001493152-21-018876",
+    "type": "Non-Disclosure Agreement",
+    "entity": "OVERSEAS SHIPHOLDING GROUP INC",
+    "chars": 22301
+  },
+  {
+    "source_id": "0001213900-20-044181",
+    "type": "Non-Disclosure Agreement",
+    "entity": "BurgerFi International, Inc.",
+    "chars": 8913
+  },
+  {
+    "source_id": "0001564590-20-048360",
+    "type": "Non-Disclosure Agreement",
+    "entity": "IMPINJ INC",
+    "chars": 75259
+  },
+  {
+    "source_id": "0001564590-20-047291",
+    "type": "Non-Disclosure Agreement",
+    "entity": "SMART Global Holdings, Inc.",
+    "chars": 34988
+  },
+  {
+    "source_id": "0001193125-20-138407",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Intersect ENT, Inc.",
+    "chars": 39282
+  },
+  {
+    "source_id": "0001213900-24-011894",
+    "type": "Non-Disclosure Agreement",
+    "entity": "Alpha Cognition Inc.",
+    "chars": 36490
+  },
+  {
     "source_id": "0001637913-19-000010",
     "type": "Employment Agreement",
     "entity": "Milacron Holdings Corp.",
@@ -948,16 +1548,16 @@
     "chars": 34075
   },
   {
-    "source_id": "0001144204-19-038871",
-    "type": "Employment Agreement",
-    "entity": "JAKKS PACIFIC INC",
-    "chars": 25974
-  },
-  {
     "source_id": "0001628280-23-037408",
     "type": "Employment Agreement",
     "entity": "Forge Global Holdings, Inc.",
     "chars": 53783
+  },
+  {
+    "source_id": "0001144204-19-038871",
+    "type": "Employment Agreement",
+    "entity": "JAKKS PACIFIC INC",
+    "chars": 25974
   },
   {
     "source_id": "0001193125-22-000615",
@@ -972,12 +1572,6 @@
     "chars": 25603
   },
   {
-    "source_id": "0001104659-24-068284",
-    "type": "Employment Agreement",
-    "entity": "PENNS WOODS BANCORP INC",
-    "chars": 8047
-  },
-  {
     "source_id": "0000950170-24-114404",
     "type": "Employment Agreement",
     "entity": "BrightSpring Health Services, Inc.",
@@ -990,22 +1584,16 @@
     "chars": 10828
   },
   {
-    "source_id": "0001104659-22-119545",
+    "source_id": "0001104659-24-068284",
     "type": "Employment Agreement",
-    "entity": "DAWSON GEOPHYSICAL CO",
-    "chars": 7116
+    "entity": "PENNS WOODS BANCORP INC",
+    "chars": 8047
   },
   {
     "source_id": "0001104659-23-126146",
     "type": "Employment Agreement",
     "entity": "PENNS WOODS BANCORP INC",
     "chars": 5397
-  },
-  {
-    "source_id": "0001604643-23-000046",
-    "type": "Employment Agreement",
-    "entity": "Evoqua Water Technologies Corp.",
-    "chars": 58171
   },
   {
     "source_id": "0001104659-21-069970",
@@ -1020,16 +1608,16 @@
     "chars": 53459
   },
   {
-    "source_id": "0001432133-24-000088",
+    "source_id": "0001104659-22-119545",
     "type": "Employment Agreement",
-    "entity": "KALTURA INC",
-    "chars": 54453
+    "entity": "DAWSON GEOPHYSICAL CO",
+    "chars": 7116
   },
   {
-    "source_id": "0001377630-24-000042",
+    "source_id": "0001604643-23-000046",
     "type": "Employment Agreement",
-    "entity": "National CineMedia, Inc.",
-    "chars": 4565
+    "entity": "Evoqua Water Technologies Corp.",
+    "chars": 58171
   },
   {
     "source_id": "0001657853-19-000164",
@@ -1038,13 +1626,37 @@
     "chars": 91388
   },
   {
+    "source_id": "0001377630-24-000042",
+    "type": "Employment Agreement",
+    "entity": "National CineMedia, Inc.",
+    "chars": 4565
+  },
+  {
+    "source_id": "0001432133-24-000088",
+    "type": "Employment Agreement",
+    "entity": "KALTURA INC",
+    "chars": 54453
+  },
+  {
     "source_id": "0001437749-20-023058",
     "type": "Employment Agreement",
     "entity": "CATHAY GENERAL BANCORP",
     "chars": 69933
   },
   {
+    "source_id": "0001564590-20-032525",
+    "type": "Employment Agreement",
+    "entity": "CATHAY GENERAL BANCORP",
+    "chars": 69651
+  },
+  {
     "source_id": "0001104659-22-007461",
+    "type": "Employment Agreement",
+    "entity": "CyrusOne Inc.",
+    "chars": 11355
+  },
+  {
+    "source_id": "0001104659-22-007462",
     "type": "Employment Agreement",
     "entity": "CyrusOne Inc.",
     "chars": 11355
@@ -1056,34 +1668,10 @@
     "chars": 3684
   },
   {
-    "source_id": "0001564590-20-032525",
-    "type": "Employment Agreement",
-    "entity": "CATHAY GENERAL BANCORP",
-    "chars": 69651
-  },
-  {
-    "source_id": "0001104659-22-007462",
-    "type": "Employment Agreement",
-    "entity": "CyrusOne Inc.",
-    "chars": 11355
-  },
-  {
     "source_id": "0001213900-24-041383",
     "type": "Employment Agreement",
     "entity": "Biomotion Sciences",
     "chars": 3567
-  },
-  {
-    "source_id": "0001571949-21-000007",
-    "type": "Employment Agreement",
-    "entity": "Intercontinental Exchange, Inc.",
-    "chars": 48749
-  },
-  {
-    "source_id": "0001628280-23-006327",
-    "type": "Employment Agreement",
-    "entity": "Kenvue Inc.",
-    "chars": 23521
   },
   {
     "source_id": "0001628280-24-013099",
@@ -1092,10 +1680,34 @@
     "chars": 53302
   },
   {
+    "source_id": "0001628280-23-006327",
+    "type": "Employment Agreement",
+    "entity": "Kenvue Inc.",
+    "chars": 23521
+  },
+  {
+    "source_id": "0001571949-21-000007",
+    "type": "Employment Agreement",
+    "entity": "Intercontinental Exchange, Inc.",
+    "chars": 48749
+  },
+  {
+    "source_id": "0001185185-21-001434",
+    "type": "Employment Agreement",
+    "entity": "JAKKS PACIFIC INC",
+    "chars": 6525
+  },
+  {
     "source_id": "0001515971-22-000069",
     "type": "Employment Agreement",
     "entity": "KonaTel, Inc.",
     "chars": 3351
+  },
+  {
+    "source_id": "0000950170-23-010038",
+    "type": "Employment Agreement",
+    "entity": "P10, Inc.",
+    "chars": 42371
   },
   {
     "source_id": "0001185348-23-000039",
@@ -1110,16 +1722,10 @@
     "chars": 34924
   },
   {
-    "source_id": "0001104659-22-081449",
+    "source_id": "0001104659-21-000957",
     "type": "Employment Agreement",
-    "entity": "PENNS WOODS BANCORP INC",
-    "chars": 8258
-  },
-  {
-    "source_id": "0001185185-21-001434",
-    "type": "Employment Agreement",
-    "entity": "JAKKS PACIFIC INC",
-    "chars": 6525
+    "entity": "FERRELLGAS PARTNERS L P",
+    "chars": 34924
   },
   {
     "source_id": "0000877890-22-000019",
@@ -1128,16 +1734,22 @@
     "chars": 14468
   },
   {
-    "source_id": "0001104659-19-033456",
+    "source_id": "0001104659-22-081449",
     "type": "Employment Agreement",
     "entity": "PENNS WOODS BANCORP INC",
-    "chars": 11614
+    "chars": 8258
   },
   {
     "source_id": "0001564590-22-021843",
     "type": "Employment Agreement",
     "entity": "Ponce Financial Group, Inc.",
     "chars": 9065
+  },
+  {
+    "source_id": "0001104659-19-033456",
+    "type": "Employment Agreement",
+    "entity": "PENNS WOODS BANCORP INC",
+    "chars": 11614
   },
   {
     "source_id": "0001193125-23-073900",
@@ -1150,6 +1762,18 @@
     "type": "Employment Agreement",
     "entity": "KALTURA INC",
     "chars": 54149
+  },
+  {
+    "source_id": "0001140361-19-013110",
+    "type": "Employment Agreement",
+    "entity": "CROSSFIRST BANKSHARES, INC.",
+    "chars": 7595
+  },
+  {
+    "source_id": "0001516912-23-000013",
+    "type": "Employment Agreement",
+    "entity": "Origin Bancorp, Inc.",
+    "chars": 6251
   },
   {
     "source_id": "0001185185-21-001434",
@@ -1168,6 +1792,282 @@
     "type": "Employment Agreement",
     "entity": "Benefitfocus, Inc.",
     "chars": 7500
+  },
+  {
+    "source_id": "0001798100-22-000016",
+    "type": "Employment Agreement",
+    "entity": "NETSTREIT Corp.",
+    "chars": 59547
+  },
+  {
+    "source_id": "0000811808-20-000012",
+    "type": "Employment Agreement",
+    "entity": "SUMMIT FINANCIAL GROUP INC",
+    "chars": 3717
+  },
+  {
+    "source_id": "0001683168-20-001019",
+    "type": "Employment Agreement",
+    "entity": "QS Energy, Inc.",
+    "chars": 2726
+  },
+  {
+    "source_id": "0001445866-19-000745",
+    "type": "Employment Agreement",
+    "entity": "ACQUIRED SALES CORP",
+    "chars": 14623
+  },
+  {
+    "source_id": "0001013762-23-002911",
+    "type": "Employment Agreement",
+    "entity": "CleanCore Solutions, Inc.",
+    "chars": 28194
+  },
+  {
+    "source_id": "0000950170-22-017508",
+    "type": "Employment Agreement",
+    "entity": "OLD DOMINION FREIGHT LINE, INC.",
+    "chars": 6048
+  },
+  {
+    "source_id": "0001104659-20-122503",
+    "type": "Employment Agreement",
+    "entity": "Checkpoint Therapeutics, Inc.",
+    "chars": 7202
+  },
+  {
+    "source_id": "0001516912-23-000013",
+    "type": "Employment Agreement",
+    "entity": "Origin Bancorp, Inc.",
+    "chars": 6317
+  },
+  {
+    "source_id": "0000950170-24-025067",
+    "type": "Employment Agreement",
+    "entity": "Emerald Holding, Inc.",
+    "chars": 42553
+  },
+  {
+    "source_id": "0001013762-23-002911",
+    "type": "Employment Agreement",
+    "entity": "CleanCore Solutions, Inc.",
+    "chars": 29659
+  },
+  {
+    "source_id": "0001185185-21-000861",
+    "type": "Employment Agreement",
+    "entity": "JAKKS PACIFIC INC",
+    "chars": 11384
+  },
+  {
+    "source_id": "0001193125-24-035074",
+    "type": "Employment Agreement",
+    "entity": "enGene Holdings Inc.",
+    "chars": 22283
+  },
+  {
+    "source_id": "0001493152-24-052454",
+    "type": "Employment Agreement",
+    "entity": "Aether Holdings, Inc.",
+    "chars": 21853
+  },
+  {
+    "source_id": "0001193125-21-303985",
+    "type": "Employment Agreement",
+    "entity": "Bakkt Holdings, Inc.",
+    "chars": 52105
+  },
+  {
+    "source_id": "0000930236-21-000019",
+    "type": "Employment Agreement",
+    "entity": "REDWOOD TRUST INC",
+    "chars": 18165
+  },
+  {
+    "source_id": "0001437749-24-037803",
+    "type": "Employment Agreement",
+    "entity": "US Alliance Corp",
+    "chars": 3318
+  },
+  {
+    "source_id": "0001140361-19-013110",
+    "type": "Employment Agreement",
+    "entity": "CROSSFIRST BANKSHARES, INC.",
+    "chars": 7547
+  },
+  {
+    "source_id": "0001193125-21-303985",
+    "type": "Employment Agreement",
+    "entity": "Bakkt Holdings, Inc.",
+    "chars": 53203
+  },
+  {
+    "source_id": "0001013762-23-002911",
+    "type": "Employment Agreement",
+    "entity": "CleanCore Solutions, Inc.",
+    "chars": 26030
+  },
+  {
+    "source_id": "0001193125-19-215393",
+    "type": "Employment Agreement",
+    "entity": "MKS INSTRUMENTS INC",
+    "chars": 29704
+  },
+  {
+    "source_id": "0001185185-23-000288",
+    "type": "Employment Agreement",
+    "entity": "JAKKS PACIFIC INC",
+    "chars": 6699
+  },
+  {
+    "source_id": "0001712189-21-000005",
+    "type": "Employment Agreement",
+    "entity": "Target Hospitality Corp.",
+    "chars": 3088
+  },
+  {
+    "source_id": "0000916540-19-000015",
+    "type": "Employment Agreement",
+    "entity": "DARLING INGREDIENTS INC.",
+    "chars": 21822
+  },
+  {
+    "source_id": "0001193125-24-031070",
+    "type": "Employment Agreement",
+    "entity": "Digital World Acquisition Corp.",
+    "chars": 14172
+  },
+  {
+    "source_id": "0001193125-23-000755",
+    "type": "Employment Agreement",
+    "entity": "LIFE STORAGE LP",
+    "chars": 31239
+  },
+  {
+    "source_id": "0001193125-23-085151",
+    "type": "Employment Agreement",
+    "entity": "ADTRAN Holdings, Inc.",
+    "chars": 48685
+  },
+  {
+    "source_id": "0001104659-19-060856",
+    "type": "Employment Agreement",
+    "entity": "Simply Good Foods Co",
+    "chars": 62184
+  },
+  {
+    "source_id": "0001144204-19-033071",
+    "type": "Employment Agreement",
+    "entity": "ProSight Global, Inc.",
+    "chars": 12637
+  },
+  {
+    "source_id": "0001193125-24-039385",
+    "type": "Employment Agreement",
+    "entity": "COHERENT CORP.",
+    "chars": 14338
+  },
+  {
+    "source_id": "0001604643-23-000046",
+    "type": "Employment Agreement",
+    "entity": "Evoqua Water Technologies Corp.",
+    "chars": 56018
+  },
+  {
+    "source_id": "0000811808-22-000004",
+    "type": "Employment Agreement",
+    "entity": "SUMMIT FINANCIAL GROUP, INC.",
+    "chars": 3687
+  },
+  {
+    "source_id": "0001688476-21-000031",
+    "type": "Employment Agreement",
+    "entity": "NEXTIER OILFIELD SOLUTIONS INC.",
+    "chars": 57210
+  },
+  {
+    "source_id": "0001631569-23-000006",
+    "type": "Employment Agreement",
+    "entity": "Community Healthcare Trust Inc",
+    "chars": 4134
+  },
+  {
+    "source_id": "0001185185-22-001017",
+    "type": "Employment Agreement",
+    "entity": "CLS Holdings USA, Inc.",
+    "chars": 5543
+  },
+  {
+    "source_id": "0001688476-21-000147",
+    "type": "Employment Agreement",
+    "entity": "NEXTIER OILFIELD SOLUTIONS INC.",
+    "chars": 51588
+  },
+  {
+    "source_id": "0001558370-22-003403",
+    "type": "Employment Agreement",
+    "entity": "Target Hospitality Corp.",
+    "chars": 3624
+  },
+  {
+    "source_id": "0001104659-24-106687",
+    "type": "Employment Agreement",
+    "entity": "Match Group, Inc.",
+    "chars": 6004
+  },
+  {
+    "source_id": "0001193125-21-062329",
+    "type": "Employment Agreement",
+    "entity": "Quotient Ltd",
+    "chars": 53397
+  },
+  {
+    "source_id": "0001493152-22-017999",
+    "type": "Employment Agreement",
+    "entity": "Permex Petroleum Corp",
+    "chars": 15234
+  },
+  {
+    "source_id": "0001558370-21-000147",
+    "type": "Employment Agreement",
+    "entity": "Blueprint Medicines Corp",
+    "chars": 8273
+  },
+  {
+    "source_id": "0001140361-19-013110",
+    "type": "Employment Agreement",
+    "entity": "CROSSFIRST BANKSHARES, INC.",
+    "chars": 8749
+  },
+  {
+    "source_id": "0001193125-22-261792",
+    "type": "Employment Agreement",
+    "entity": "Bakkt Holdings, Inc.",
+    "chars": 50328
+  },
+  {
+    "source_id": "0001564590-21-007630",
+    "type": "Employment Agreement",
+    "entity": "MKS INSTRUMENTS INC",
+    "chars": 30849
+  },
+  {
+    "source_id": "0001193125-23-073900",
+    "type": "Employment Agreement",
+    "entity": "LIFE STORAGE, INC.",
+    "chars": 38974
+  },
+  {
+    "source_id": "0001493152-24-040338",
+    "type": "Employment Agreement",
+    "entity": "Eastside Distilling, Inc.",
+    "chars": 6313
+  },
+  {
+    "source_id": "0001558370-24-009704",
+    "type": "Employment Agreement",
+    "entity": "ReShape Lifesciences Inc.",
+    "chars": 7142
   },
   {
     "source_id": "0001213900-24-106630",
@@ -1260,16 +2160,16 @@
     "chars": 3267
   },
   {
-    "source_id": "0001564590-22-010868",
-    "type": "Software License Agreement",
-    "entity": "KLDiscovery Inc.",
-    "chars": 3563
-  },
-  {
     "source_id": "0000950170-23-041271",
     "type": "Software License Agreement",
     "entity": "KLDiscovery Inc.",
     "chars": 3509
+  },
+  {
+    "source_id": "0001564590-22-010868",
+    "type": "Software License Agreement",
+    "entity": "KLDiscovery Inc.",
+    "chars": 3563
   },
   {
     "source_id": "0001104659-22-127433",
@@ -1468,5 +2368,905 @@
     "type": "Software License Agreement",
     "entity": "BM Technologies, Inc.",
     "chars": 96821
+  },
+  {
+    "source_id": "0001493152-19-000620",
+    "type": "Software License Agreement",
+    "entity": "Medovex Corp.",
+    "chars": 31244
+  },
+  {
+    "source_id": "0001193125-21-176926",
+    "type": "Software License Agreement",
+    "entity": "Otonomo Technologies Ltd.",
+    "chars": 60068
+  },
+  {
+    "source_id": "0001213900-23-094515",
+    "type": "Software License Agreement",
+    "entity": "SU Group Holdings Ltd",
+    "chars": 55728
+  },
+  {
+    "source_id": "0001104659-22-109030",
+    "type": "Software License Agreement",
+    "entity": "Snail, Inc.",
+    "chars": 54435
+  },
+  {
+    "source_id": "0001683168-23-002005",
+    "type": "Software License Agreement",
+    "entity": "LNPR GROUP INC.",
+    "chars": 61206
+  },
+  {
+    "source_id": "0001193125-21-176926",
+    "type": "Software License Agreement",
+    "entity": "Otonomo Technologies Ltd.",
+    "chars": 36047
+  },
+  {
+    "source_id": "0001488813-21-000008",
+    "type": "Software License Agreement",
+    "entity": "Customers Bancorp, Inc.",
+    "chars": 35144
+  },
+  {
+    "source_id": "0001493152-21-027435",
+    "type": "Software License Agreement",
+    "entity": "Cryptyde, Inc.",
+    "chars": 87329
+  },
+  {
+    "source_id": "0001558370-20-001804",
+    "type": "Software License Agreement",
+    "entity": "GLU MOBILE INC",
+    "chars": 41795
+  },
+  {
+    "source_id": "0001161697-20-000304",
+    "type": "Software License Agreement",
+    "entity": "BLACK CACTUS GLOBAL, INC.",
+    "chars": 11741
+  },
+  {
+    "source_id": "0001193125-19-202730",
+    "type": "Software License Agreement",
+    "entity": "Pivotal Acquisition Corp",
+    "chars": 131676
+  },
+  {
+    "source_id": "0001193125-22-104477",
+    "type": "Software License Agreement",
+    "entity": "Alpha Capital Holdco Co",
+    "chars": 128281
+  },
+  {
+    "source_id": "0001193125-22-155344",
+    "type": "Software License Agreement",
+    "entity": "Alpha Capital Holdco Co",
+    "chars": 128281
+  },
+  {
+    "source_id": "0001214659-20-006165",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 15428
+  },
+  {
+    "source_id": "0001214659-20-006235",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 14770
+  },
+  {
+    "source_id": "0001214659-20-006205",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 15431
+  },
+  {
+    "source_id": "0001214659-20-006165",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 15431
+  },
+  {
+    "source_id": "0001214659-20-006205",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 15416
+  },
+  {
+    "source_id": "0001214659-20-006235",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 14762
+  },
+  {
+    "source_id": "0001214659-20-006235",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 14777
+  },
+  {
+    "source_id": "0001214659-20-006205",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 15428
+  },
+  {
+    "source_id": "0001214659-20-006205",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 15428
+  },
+  {
+    "source_id": "0001214659-20-006165",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 15428
+  },
+  {
+    "source_id": "0001214659-20-005877",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 15431
+  },
+  {
+    "source_id": "0001214659-20-005877",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 15428
+  },
+  {
+    "source_id": "0001214659-20-005877",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 15416
+  },
+  {
+    "source_id": "0001214659-20-006165",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 15416
+  },
+  {
+    "source_id": "0001214659-20-005877",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 15428
+  },
+  {
+    "source_id": "0001214659-20-006235",
+    "type": "Software License Agreement",
+    "entity": "Father Time, Inc.",
+    "chars": 14774
+  },
+  {
+    "source_id": "0001683168-24-007021",
+    "type": "Software License Agreement",
+    "entity": "BIOREGENX, INC.",
+    "chars": 79139
+  },
+  {
+    "source_id": "0001193125-20-265672",
+    "type": "Software License Agreement",
+    "entity": "McAfee Corp.",
+    "chars": 16188
+  },
+  {
+    "source_id": "0001559865-22-000044",
+    "type": "Software License Agreement",
+    "entity": "EVERTEC, Inc.",
+    "chars": 16101
+  },
+  {
+    "source_id": "0001047469-19-003315",
+    "type": "Software License Agreement",
+    "entity": "China Index Holdings Ltd",
+    "chars": 126640
+  },
+  {
+    "source_id": "0001047469-19-003017",
+    "type": "Software License Agreement",
+    "entity": "China Index Holdings Ltd",
+    "chars": 126382
+  },
+  {
+    "source_id": "0000912057-19-000166",
+    "type": "Software License Agreement",
+    "entity": "China Index Holdings Ltd",
+    "chars": 124258
+  },
+  {
+    "source_id": "0001140361-22-019477",
+    "type": "Software License Agreement",
+    "entity": "Aspen Technology, Inc.",
+    "chars": 109600
+  },
+  {
+    "source_id": "0001193125-19-180221",
+    "type": "Software License Agreement",
+    "entity": "AssetMark Financial Holdings, Inc.",
+    "chars": 49355
+  },
+  {
+    "source_id": "0001493152-24-002939",
+    "type": "Software License Agreement",
+    "entity": "TETE Technologies Inc",
+    "chars": 47396
+  },
+  {
+    "source_id": "0001493152-23-026468",
+    "type": "Software License Agreement",
+    "entity": "TETE Technologies Inc",
+    "chars": 47400
+  },
+  {
+    "source_id": "0001493152-23-039962",
+    "type": "Software License Agreement",
+    "entity": "TETE Technologies Inc",
+    "chars": 47398
+  },
+  {
+    "source_id": "0001213900-24-004947",
+    "type": "Software License Agreement",
+    "entity": "Micropolis Holding Co",
+    "chars": 18495
+  },
+  {
+    "source_id": "0001493152-24-037842",
+    "type": "Software License Agreement",
+    "entity": "PicoCELA Inc.",
+    "chars": 18275
+  },
+  {
+    "source_id": "0001161697-20-000267",
+    "type": "Software License Agreement",
+    "entity": "BLACK CACTUS GLOBAL, INC.",
+    "chars": 18326
+  },
+  {
+    "source_id": "0001104659-22-109030",
+    "type": "Software License Agreement",
+    "entity": "Snail, Inc.",
+    "chars": 54070
+  },
+  {
+    "source_id": "0001104659-20-127869",
+    "type": "Software License Agreement",
+    "entity": "Medirom Healthcare Technologies Inc.",
+    "chars": 98888
+  },
+  {
+    "source_id": "0000950170-23-041271",
+    "type": "Software License Agreement",
+    "entity": "KLDiscovery Inc.",
+    "chars": 105936
+  },
+  {
+    "source_id": "0001104659-20-134744",
+    "type": "Software License Agreement",
+    "entity": "Medirom Healthcare Technologies Inc.",
+    "chars": 99500
+  },
+  {
+    "source_id": "0001104659-20-116579",
+    "type": "Software License Agreement",
+    "entity": "Medirom Healthcare Technologies Inc.",
+    "chars": 98878
+  },
+  {
+    "source_id": "0001377630-23-000056",
+    "type": "Software License Agreement",
+    "entity": "National CineMedia, Inc.",
+    "chars": 162653
+  },
+  {
+    "source_id": "0000918965-21-000022",
+    "type": "Software License Agreement",
+    "entity": "SCANSOURCE, INC.",
+    "chars": 30846
+  },
+  {
+    "source_id": "0000950170-24-026195",
+    "type": "Supply Agreement",
+    "entity": "CERUS CORP",
+    "chars": 30598
+  },
+  {
+    "source_id": "0001000694-22-000004",
+    "type": "Supply Agreement",
+    "entity": "NOVAVAX INC",
+    "chars": 55692
+  },
+  {
+    "source_id": "0001628280-21-005481",
+    "type": "Supply Agreement",
+    "entity": "NeuroPace Inc",
+    "chars": 73149
+  },
+  {
+    "source_id": "0001140361-22-041175",
+    "type": "Supply Agreement",
+    "entity": "Roivant Sciences Ltd.",
+    "chars": 16877
+  },
+  {
+    "source_id": "0001000694-24-000035",
+    "type": "Supply Agreement",
+    "entity": "NOVAVAX INC",
+    "chars": 98421
+  },
+  {
+    "source_id": "0001558370-19-001310",
+    "type": "Supply Agreement",
+    "entity": "RIGEL PHARMACEUTICALS INC",
+    "chars": 57209
+  },
+  {
+    "source_id": "0001528287-24-000005",
+    "type": "Supply Agreement",
+    "entity": "NeuroPace Inc",
+    "chars": 88589
+  },
+  {
+    "source_id": "0001193125-20-150234",
+    "type": "Supply Agreement",
+    "entity": "Vaxcyte, Inc.",
+    "chars": 101049
+  },
+  {
+    "source_id": "0001628280-23-037809",
+    "type": "Supply Agreement",
+    "entity": "ChromaDex Corp.",
+    "chars": 4906
+  },
+  {
+    "source_id": "0001829126-21-005352",
+    "type": "Supply Agreement",
+    "entity": "New Beginnings Acquisition Corp.",
+    "chars": 13145
+  },
+  {
+    "source_id": "0001558370-24-014862",
+    "type": "Supply Agreement",
+    "entity": "RIGEL PHARMACEUTICALS INC",
+    "chars": 55319
+  },
+  {
+    "source_id": "0001628280-21-006852",
+    "type": "Supply Agreement",
+    "entity": "NeuroPace Inc",
+    "chars": 80349
+  },
+  {
+    "source_id": "0001628280-21-006852",
+    "type": "Supply Agreement",
+    "entity": "NeuroPace Inc",
+    "chars": 3290
+  },
+  {
+    "source_id": "0001193125-21-146737",
+    "type": "Supply Agreement",
+    "entity": "Artius Acquisition Inc.",
+    "chars": 169398
+  },
+  {
+    "source_id": "0001628280-21-005481",
+    "type": "Supply Agreement",
+    "entity": "NeuroPace Inc",
+    "chars": 2874
+  },
+  {
+    "source_id": "0001628280-24-044540",
+    "type": "Supply Agreement",
+    "entity": "ChromaDex Corp.",
+    "chars": 6280
+  },
+  {
+    "source_id": "0000950123-19-009468",
+    "type": "Supply Agreement",
+    "entity": "SutroVax, Inc.",
+    "chars": 101033
+  },
+  {
+    "source_id": "0001564590-21-040926",
+    "type": "Supply Agreement",
+    "entity": "DYNAVAX TECHNOLOGIES CORP",
+    "chars": 117347
+  },
+  {
+    "source_id": "0000950123-19-008458",
+    "type": "Supply Agreement",
+    "entity": "Viela Bio, Inc.",
+    "chars": 135131
+  },
+  {
+    "source_id": "0000950170-23-004654",
+    "type": "Supply Agreement",
+    "entity": "Vaxcyte, Inc.",
+    "chars": 103059
+  },
+  {
+    "source_id": "0001104659-19-039944",
+    "type": "Supply Agreement",
+    "entity": "RITE AID CORP",
+    "chars": 26514
+  },
+  {
+    "source_id": "0001104659-22-081279",
+    "type": "Supply Agreement",
+    "entity": "Vickers Vantage Corp. I",
+    "chars": 78209
+  },
+  {
+    "source_id": "0001193125-19-234073",
+    "type": "Supply Agreement",
+    "entity": "Viela Bio, Inc.",
+    "chars": 135257
+  },
+  {
+    "source_id": "0001564590-21-040926",
+    "type": "Supply Agreement",
+    "entity": "DYNAVAX TECHNOLOGIES CORP",
+    "chars": 107118
+  },
+  {
+    "source_id": "0001193125-19-234073",
+    "type": "Supply Agreement",
+    "entity": "Viela Bio, Inc.",
+    "chars": 135145
+  },
+  {
+    "source_id": "0000950170-23-055178",
+    "type": "Supply Agreement",
+    "entity": "Alkermes plc.",
+    "chars": 43413
+  },
+  {
+    "source_id": "0000950123-19-008458",
+    "type": "Supply Agreement",
+    "entity": "Viela Bio, Inc.",
+    "chars": 135241
+  },
+  {
+    "source_id": "0001047469-20-001479",
+    "type": "Supply Agreement",
+    "entity": "VectoIQ Acquisition Corp.",
+    "chars": 37989
+  },
+  {
+    "source_id": "0001653477-24-000073",
+    "type": "Supply Agreement",
+    "entity": "Ingevity Corp",
+    "chars": 30222
+  },
+  {
+    "source_id": "0001193125-21-146737",
+    "type": "Supply Agreement",
+    "entity": "Artius Acquisition Inc.",
+    "chars": 168899
+  },
+  {
+    "source_id": "0001193125-21-217544",
+    "type": "Supply Agreement",
+    "entity": "Fresh Market Holdings, Inc.",
+    "chars": 19500
+  },
+  {
+    "source_id": "0001564590-21-008958",
+    "type": "Supply Agreement",
+    "entity": "CERUS CORP",
+    "chars": 4401
+  },
+  {
+    "source_id": "0001213900-24-020389",
+    "type": "Supply Agreement",
+    "entity": "IMMUCELL CORP /DE/",
+    "chars": 7623
+  },
+  {
+    "source_id": "0000950170-24-026195",
+    "type": "Supply Agreement",
+    "entity": "CERUS CORP",
+    "chars": 55519
+  },
+  {
+    "source_id": "0000939767-21-000045",
+    "type": "Supply Agreement",
+    "entity": "EXELIXIS, INC.",
+    "chars": 83422
+  },
+  {
+    "source_id": "0000928054-22-000010",
+    "type": "Supply Agreement",
+    "entity": "FLOTEK INDUSTRIES INC/CN/",
+    "chars": 7558
+  },
+  {
+    "source_id": "0001401914-23-000048",
+    "type": "Supply Agreement",
+    "entity": "Dare Bioscience, Inc.",
+    "chars": 12886
+  },
+  {
+    "source_id": "0001193125-20-028298",
+    "type": "Supply Agreement",
+    "entity": "Conatus Pharmaceuticals Inc.",
+    "chars": 30758
+  },
+  {
+    "source_id": "0001564590-19-029323",
+    "type": "Supply Agreement",
+    "entity": "Flexion Therapeutics Inc",
+    "chars": 4455
+  },
+  {
+    "source_id": "0001104659-23-113408",
+    "type": "Supply Agreement",
+    "entity": "RITE AID CORP",
+    "chars": 13158
+  },
+  {
+    "source_id": "0001396814-24-000030",
+    "type": "Supply Agreement",
+    "entity": "Pacira BioSciences, Inc.",
+    "chars": 4978
+  },
+  {
+    "source_id": "0001397702-23-000036",
+    "type": "Supply Agreement",
+    "entity": "Silk Road Medical Inc",
+    "chars": 16571
+  },
+  {
+    "source_id": "0001365916-21-000007",
+    "type": "Supply Agreement",
+    "entity": "AMYRIS, INC.",
+    "chars": 19142
+  },
+  {
+    "source_id": "0000950170-23-009491",
+    "type": "Supply Agreement",
+    "entity": "ARS Pharmaceuticals, Inc.",
+    "chars": 23196
+  },
+  {
+    "source_id": "0001213900-21-032196",
+    "type": "Supply Agreement",
+    "entity": "Alpha Healthcare Acquisition Corp.",
+    "chars": 11793
+  },
+  {
+    "source_id": "0001628280-22-012816",
+    "type": "Supply Agreement",
+    "entity": "ViewRay, Inc.",
+    "chars": 70242
+  },
+  {
+    "source_id": "0001437749-21-013956",
+    "type": "Supply Agreement",
+    "entity": "AMERICAN SUPERCONDUCTOR CORP /DE/",
+    "chars": 17909
+  },
+  {
+    "source_id": "0001396814-22-000021",
+    "type": "Supply Agreement",
+    "entity": "Pacira BioSciences, Inc.",
+    "chars": 4968
+  },
+  {
+    "source_id": "0001564590-19-029323",
+    "type": "Supply Agreement",
+    "entity": "Flexion Therapeutics Inc",
+    "chars": 4005
+  },
+  {
+    "source_id": "0000950170-22-003779",
+    "type": "Supply Agreement",
+    "entity": "Talis Biomedical Corp",
+    "chars": 14540
+  },
+  {
+    "source_id": "0000950170-24-018765",
+    "type": "Supply Agreement",
+    "entity": "UNIVERSAL DISPLAY CORP \\PA\\",
+    "chars": 16657
+  },
+  {
+    "source_id": "0000950170-24-026195",
+    "type": "Supply Agreement",
+    "entity": "CERUS CORP",
+    "chars": 24430
+  },
+  {
+    "source_id": "0001564590-20-010463",
+    "type": "Supply Agreement",
+    "entity": "ViewRay, Inc.",
+    "chars": 23234
+  },
+  {
+    "source_id": "0001193125-20-028298",
+    "type": "Supply Agreement",
+    "entity": "Conatus Pharmaceuticals Inc.",
+    "chars": 17895
+  },
+  {
+    "source_id": "0000950123-21-008442",
+    "type": "Supply Agreement",
+    "entity": "Fresh Market Holdings, Inc.",
+    "chars": 19414
+  },
+  {
+    "source_id": "0001564590-20-051315",
+    "type": "Supply Agreement",
+    "entity": "FIBROGEN INC",
+    "chars": 4745
+  },
+  {
+    "source_id": "0001193125-20-162195",
+    "type": "Supply Agreement",
+    "entity": "Fusion Pharmaceuticals Inc.",
+    "chars": 42202
+  },
+  {
+    "source_id": "0001492658-19-000022",
+    "type": "Supply Agreement",
+    "entity": "Wright Medical Group N.V.",
+    "chars": 5263
+  },
+  {
+    "source_id": "0001564590-20-037760",
+    "type": "Supply Agreement",
+    "entity": "FIBROGEN INC",
+    "chars": 9059
+  },
+  {
+    "source_id": "0001193125-20-211886",
+    "type": "Supply Agreement",
+    "entity": "Translate Bio, Inc.",
+    "chars": 31559
+  },
+  {
+    "source_id": "0001564590-20-022827",
+    "type": "Supply Agreement",
+    "entity": "Flexion Therapeutics Inc",
+    "chars": 5023
+  },
+  {
+    "source_id": "0001564590-19-018022",
+    "type": "Supply Agreement",
+    "entity": "FIBROGEN INC",
+    "chars": 8796
+  },
+  {
+    "source_id": "0001477932-22-000165",
+    "type": "Supply Agreement",
+    "entity": "Regnum Corp.",
+    "chars": 9132
+  },
+  {
+    "source_id": "0001437749-22-002169",
+    "type": "Supply Agreement",
+    "entity": "tru Shrimp Companies, Inc.",
+    "chars": 11440
+  },
+  {
+    "source_id": "0000884940-20-000019",
+    "type": "Supply Agreement",
+    "entity": "STEIN MART INC",
+    "chars": 13054
+  },
+  {
+    "source_id": "0001564590-21-024933",
+    "type": "Supply Agreement",
+    "entity": "UNIVERSAL DISPLAY CORP \\PA\\",
+    "chars": 23929
+  },
+  {
+    "source_id": "0001564590-20-021316",
+    "type": "Supply Agreement",
+    "entity": "NEVRO CORP",
+    "chars": 13727
+  },
+  {
+    "source_id": "0001193125-19-012969",
+    "type": "Supply Agreement",
+    "entity": "AVEDRO INC",
+    "chars": 11880
+  },
+  {
+    "source_id": "0001319947-20-000053",
+    "type": "Supply Agreement",
+    "entity": "Designer Brands Inc.",
+    "chars": 12748
+  },
+  {
+    "source_id": "0001193125-21-217544",
+    "type": "Supply Agreement",
+    "entity": "Fresh Market Holdings, Inc.",
+    "chars": 10181
+  },
+  {
+    "source_id": "0001000694-22-000024",
+    "type": "Supply Agreement",
+    "entity": "NOVAVAX INC",
+    "chars": 5752
+  },
+  {
+    "source_id": "0001651308-20-000020",
+    "type": "Supply Agreement",
+    "entity": "BeiGene, Ltd.",
+    "chars": 3709
+  },
+  {
+    "source_id": "0000950123-21-008442",
+    "type": "Supply Agreement",
+    "entity": "Fresh Market Holdings, Inc.",
+    "chars": 5682
+  },
+  {
+    "source_id": "0000950170-23-038029",
+    "type": "Supply Agreement",
+    "entity": "DYNAVAX TECHNOLOGIES CORP",
+    "chars": 13559
+  },
+  {
+    "source_id": "0001193125-21-146737",
+    "type": "Supply Agreement",
+    "entity": "Artius Acquisition Inc.",
+    "chars": 37050
+  },
+  {
+    "source_id": "0000950123-20-005457",
+    "type": "Supply Agreement",
+    "entity": "Fusion Pharmaceuticals Inc.",
+    "chars": 42186
+  },
+  {
+    "source_id": "0001628280-24-035879",
+    "type": "Supply Agreement",
+    "entity": "Akebia Therapeutics, Inc.",
+    "chars": 3697
+  },
+  {
+    "source_id": "0001558370-20-001571",
+    "type": "Supply Agreement",
+    "entity": "Adaptimmune Therapeutics PLC",
+    "chars": 9714
+  },
+  {
+    "source_id": "0000950170-23-004130",
+    "type": "Supply Agreement",
+    "entity": "DYNAVAX TECHNOLOGIES CORP",
+    "chars": 9800
+  },
+  {
+    "source_id": "0001628280-19-001879",
+    "type": "Supply Agreement",
+    "entity": "CORCEPT THERAPEUTICS INC",
+    "chars": 11409
+  },
+  {
+    "source_id": "0001193125-21-217544",
+    "type": "Supply Agreement",
+    "entity": "Fresh Market Holdings, Inc.",
+    "chars": 5696
+  },
+  {
+    "source_id": "0001628280-22-020662",
+    "type": "Supply Agreement",
+    "entity": "Origin Materials, Inc.",
+    "chars": 17913
+  },
+  {
+    "source_id": "0001193125-21-146737",
+    "type": "Supply Agreement",
+    "entity": "Artius Acquisition Inc.",
+    "chars": 43572
+  },
+  {
+    "source_id": "0001628280-24-045979",
+    "type": "Supply Agreement",
+    "entity": "Akebia Therapeutics, Inc.",
+    "chars": 6209
+  },
+  {
+    "source_id": "0001104659-21-059406",
+    "type": "Supply Agreement",
+    "entity": "Therapeutics Acquisition Corp.",
+    "chars": 50419
+  },
+  {
+    "source_id": "0001829126-21-005352",
+    "type": "Supply Agreement",
+    "entity": "New Beginnings Acquisition Corp.",
+    "chars": 3547
+  },
+  {
+    "source_id": "0000950123-21-008442",
+    "type": "Supply Agreement",
+    "entity": "Fresh Market Holdings, Inc.",
+    "chars": 10369
+  },
+  {
+    "source_id": "0001213900-24-104543",
+    "type": "Supply Agreement",
+    "entity": "IMMUCELL CORP /DE/",
+    "chars": 5466
+  },
+  {
+    "source_id": "0001564590-22-007632",
+    "type": "Supply Agreement",
+    "entity": "FIBROGEN INC",
+    "chars": 7760
+  },
+  {
+    "source_id": "0001437749-21-012543",
+    "type": "Supply Agreement",
+    "entity": "AYTU BIOPHARMA, INC",
+    "chars": 43958
+  },
+  {
+    "source_id": "0001437749-22-000171",
+    "type": "Supply Agreement",
+    "entity": "DELTA APPAREL, INC",
+    "chars": 10287
+  },
+  {
+    "source_id": "0001193125-21-116316",
+    "type": "Supply Agreement",
+    "entity": "Organon & Co.",
+    "chars": 41508
+  },
+  {
+    "source_id": "0001213900-21-017053",
+    "type": "Supply Agreement",
+    "entity": "Alpha Healthcare Acquisition Corp.",
+    "chars": 23502
+  },
+  {
+    "source_id": "0001564590-20-058855",
+    "type": "Supply Agreement",
+    "entity": "TPI COMPOSITES, INC",
+    "chars": 33460
+  },
+  {
+    "source_id": "0000939767-21-000045",
+    "type": "Supply Agreement",
+    "entity": "EXELIXIS, INC.",
+    "chars": 15220
+  },
+  {
+    "source_id": "0001437749-22-002740",
+    "type": "Supply Agreement",
+    "entity": "DELTA APPAREL, INC",
+    "chars": 8975
+  },
+  {
+    "source_id": "0000950170-21-004377",
+    "type": "Supply Agreement",
+    "entity": "Flexion Therapeutics Inc",
+    "chars": 90290
+  },
+  {
+    "source_id": "0001564590-21-007818",
+    "type": "Supply Agreement",
+    "entity": "Horizon Therapeutics Public Ltd Co",
+    "chars": 127748
+  },
+  {
+    "source_id": "0000884940-20-000019",
+    "type": "Supply Agreement",
+    "entity": "STEIN MART INC",
+    "chars": 12318
+  },
+  {
+    "source_id": "0001564590-21-046613",
+    "type": "Supply Agreement",
+    "entity": "Stronghold Digital Mining, Inc.",
+    "chars": 5949
   }
 ]

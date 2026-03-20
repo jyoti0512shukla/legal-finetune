@@ -1,0 +1,751 @@
+EX-10.6
+
+7
+
+filename7.htm
+
+ 
+
+Exhibit
+10.6
+
+ 
+
+Software
+License Agreement
+
+ 
+
+Customer
+Name (hereinafter referred to as “Party A”) and PicoCELA Inc. (hereinafter referred to as “Party B”) hereby enter
+into the following agreement (hereinafter referred to as “this Agreement”) regarding Party B’s licensing of the software
+(defined below) to Party A.
+
+ 
+
+Article
+
+1
+
+(Definitions)
+
+ 
+
+The
+terms used in this Agreement shall have the following meanings:
+
+ 
+
+(1)
+“PBE”
+ refers to the PicoCELA Backhaul Engine developed by Party B.
+
+(2)
+“Software”
+ refers to the software owned by Party B regarding PBE, any modifications made by Party B
+ to such software, and related documentation. The details of the Software are listed in Appendix
+ 1.
+
+(3)
+“Product”
+ refers to the products of Party A in which PBE is implemented using the Software under this
+ Agreement. The details of the products are listed in Appendix 2.
+
+(4)
+“Kyushu
+ University” refers to National University Corporation Kyushu University.
+
+ 
+
+Article
+
+2
+
+(Grant of License)
+
+ 
+
+1
+Party
+ B grants Party A an irrevocable, non-terminable, non-transferable, non-exclusive, non-sublicensable,
+ and perpetual license to manufacture and sell the Product incorporating PBE and the Software
+ in Japan and overseas during the term of this Agreement.
+
+2
+Party
+ B grants Party A a sublicense for the patent rights owned by Kyushu University related to
+ PBE and the Software.
+
+ 
+
+Article
+
+3
+
+(Provision of Software and
+ Related Materials)
+
+ 
+
+1
+Party
+ B shall provide the Software to Party A according to the schedule mutually agreed upon by
+ both parties. The method of acceptance inspection shall be determined through mutual consultation.
+
+2
+Party
+ A may request technical support related to the Software during the term of this Agreement,
+ and Party B shall consider the request and, upon mutual agreement on the content, compensation,
+ schedule, and other conditions, provide such support.
+
+3
+For
+ technical support related to technologies other than the Software, a separate agreement shall
+ be concluded between Party A and Party B.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article 4
+
+(Compensation and Payment
+ Method)
+
+ 
+
+1
+Party
+ A shall pay Party B the compensation specified in Appendix 3 as a lump sum for the license
+ granted under this Agreement. There will be no running royalties. The amount and payment
+ method are detailed in Appendix 3.
+
+2
+Party
+ A shall not request a refund of any compensation paid to Party B for any reason.
+
+ 
+
+Article
+
+5
+
+(Handling of Third-Party
+ Software)
+
+ 
+
+1
+Party
+ B shall notify Party A in advance of the module names, license names, and usage conditions
+ of any third-party software, including open-source software, contained in PBE and the Software.
+
+2
+Party
+ B guarantees that the implementation of PBE and the Software in the Product will not create
+ any obligations (including source code disclosure obligations) for Party A or grant any rights
+ to third parties over Party A’s intellectual property or proprietary rights related
+ to the Product.
+
+3
+If
+ Party B violates the above provisions, Party B shall promptly rectify PBE and the Software
+ at its own expense and responsibility.
+
+ 
+
+Article
+
+6
+
+(Ownership of Intellectual
+ Property Rights)
+
+ 
+
+1
+The
+ intellectual property rights, including copyrights and patent rights, related to PBE and
+ the Software belong to Party B, or partially to Kyushu University for certain patents.
+
+2
+Party
+ A shall not perform reverse engineering on the Software unless otherwise required by the
+ license terms of any open-source software included in the Software. If Party A proposes specifications
+ or requests modifications related to PBE and the Software, and Party B agrees to perform
+ such modifications, the intellectual property rights related to such modifications shall
+ belong to Party B.
+
+ 
+
+Article
+
+7
+
+(Infringement of Intellectual
+ Property Rights)
+
+ 
+
+1
+Party
+ B guarantees that PBE and the Software do not infringe on any third party’s industrial
+ property rights, including patents, utility model rights, design rights, trademark rights,
+ etc., as well as copyrights and rights to the use of circuit layouts (including those under
+ application or examination, and those not subject to a registration system) both within Japan
+ and abroad. If there is a risk of such infringement, Party B will report it to Party A, and
+ both parties will sincerely discuss how to address the issue. In the event of a dispute or
+ the threat of a dispute with a third party, Party B will immediately notify Party A and resolve
+ the issue at Party B’s own responsibility and expense, ensuring that Party A incurs
+ no damage (including legal fees).
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+If
+ either Party A or Party B discovers that PBE and the Software are being infringed upon or
+ are at risk of infringement, they shall immediately notify the other party in writing. In
+ such a case, both parties shall provide the other with the materials that form the basis
+ of the infringement or potential infringement.
+
+3
+If
+ a dispute or the threat of a dispute (hereinafter referred to as “Dispute”) arises
+ due to PBE and the Software infringing on a third party’s industrial property rights,
+ copyrights, or rights to the use of circuit layouts (including those under application or
+ examination, and those not subject to a registration system) both within Japan and abroad,
+ and Party A, Party A’s affiliated companies, their distributors, or Party A’s
+ customers, etc., are subject to litigation or warnings, Party A shall promptly notify Party
+ B in writing.
+
+4
+In
+ the event of the preceding paragraph, Party B shall resolve the Dispute at its own responsibility
+ and expense, provided that Party A cooperates to the extent possible by providing information
+ regarding the Dispute. However, this does not apply if the Dispute falls under any of the
+ following conditions:
+
+ 
+
+ 
+
+4.1
+
+If the Dispute is caused
+ by Party A’s use of the Software in violation of this contract.
+
+ 
+
+4.2
+
+If it is confirmed between Party A and Party
+ B that the Dispute is attributable to reasons for which Party A is responsible other than the above.
+
+ 
+
+Article
+
+8
+
+(Non-conformity of Contract)
+
+ 
+
+If
+any defect (Non-conformity of Contract) in the Software is discovered within one year from the date of provision, Party A shall notify
+Party B in writing, and Party B shall rectify the defect at its expense and responsibility. If rectification is impossible or extremely
+difficult, Party B shall reduce the compensation corresponding to the defect after mutual consultation with Party A.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+
+9
+
+(Prohibition of Commissioning
+ Similar Development)
+
+ 
+
+For
+a period of 10 years from the date of this contract, Party B shall not, without prior written consent from Party A, accept any commission
+from third parties specified in Appendix 4 to develop programs identical or similar to the Software. Furthermore, for the same period
+of 10 years from the date of this contract, Party B shall not, without prior written consent from Party A, grant licenses to the third
+parties specified in Appendix 4 for programs identical or similar to the Software (including licenses granted in connection with the
+provision of hardware that incorporates programs identical or similar to the Software).
+
+ 
+
+Article
+
+10
+
+(Prohibition of Assignment
+ of Rights and Obligations)
+
+ 
+
+Neither
+Party A nor Party B shall, without the prior written consent of the other party, assign, transfer, or provide as collateral all or any
+part of the rights and obligations arising under this contract to any third party.
+
+ 
+
+Article
+
+11
+
+(Confidentiality Obligations)
+
+ 
+
+1
+Neither
+ Party A nor Party B shall disclose or leak any technical, business, or other information
+ (hereinafter referred to as “Confidential Information”) related to this contract
+ that they have obtained, to any third party (including each party’s parent company,
+ subsidiaries, and affiliates) without the prior written consent of the other party.
+
+2
+Notwithstanding
+ the provisions of the preceding paragraph, the following information shall not be treated
+ as Confidential Information:
+
+ 
+
+ 
+
+2.1
+
+Information already in possession at the
+ time of disclosure.
+
+ 
+
+2.2
+
+Information that is public knowledge at
+ the time of disclosure or becomes public knowledge after disclosure without violating this contract.
+
+ 
+
+2.3
+
+Information independently developed without
+ reference to the disclosed information.
+
+ 
+
+2.4
+
+Information lawfully obtained from a third
+ party without confidentiality obligations.
+
+ 
+
+3
+Notwithstanding
+ the provisions of paragraph 1 of this Article, if Party A or Party B is required to disclose
+ the other party’s Confidential Information by law, regulation, court decision/order,
+ or administrative order/guidance, they may disclose the necessary and minimum information
+ to the relevant court or administrative authority after obtaining the prior written consent
+ of the other party. However, if it is difficult to obtain prior written consent from the
+ other party, each party shall promptly notify the other party.
+
+ 
+
+ 
+
+ 
+
+ 
+
+4
+Party
+ A and Party B shall not use the Confidential Information disclosed by the other party for
+ any purpose other than performing this contract, nor shall they reproduce or modify the Confidential
+ Information for any purpose other than performing this contract without the prior written
+ consent of the other party.
+
+5
+Party
+ A and Party B shall strictly manage the Confidential Information with the care of a good
+ manager and ensure that those engaged in work related to this contract comply with the confidentiality
+ obligations of this Article. Party A and Party B shall disclose the Confidential Information
+ disclosed by the other party only to their officers and employees who need to know it for
+ the performance of this contract. In this case, Party A and Party B shall ensure that such
+ officers and employees comply with the same confidentiality obligations imposed on themselves
+ under this Article and shall be responsible to the other party for any breach of such obligations
+ by their officers and employees.
+
+6
+The
+ confidentiality obligations of this Article shall remain in effect even after the termination
+ of this contract.
+
+7
+Notwithstanding
+ the provisions of this Article, Party A agrees that Party B may notify Kyushu University
+ of the date of conclusion of this contract and the name of Party A as the sublicensed party
+ in relation to granting the sublicense to the patent rights owned by Kyushu University related
+ to PBE and the Software. Party B shall ensure that Kyushu University treats the contents
+ of such notification as Confidential Information as defined in Article 10 (Confidentiality)
+ of the Patent License Agreement concluded between Kyushu University and Party B on April
+ 1, 2014.
+
+8
+8.
+ Party A and Party B shall not disclose or leak to any third party the fact of transactions
+ and potential transactions related to PBE and the Software with the other party and their
+ contents without the prior written consent of the other party. The following acts, which
+ suggest the transactions between Party A and Party B, shall also be prohibited:
+
+ 
+
+ 
+
+8.1
+
+Describing the transactions or other matters
+ related to the other party in company brochures or on the website.
+
+ 
+
+8.2
+
+Announcing the transactions or other matters
+ related to the other party in newspapers, magazines, or other media.
+
+ 
+
+8.3
+
+Publicly disclosing the transaction record
+ with Party A to credit investigation agencies.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+
+12
+
+(Prohibition on Use of Kyushu
+ University’s Trademarks)
+
+ 
+
+Party
+A shall not use Kyushu University’s trademarks (including names, trademarks, marks, designs, or any representations that directly
+or indirectly suggest Kyushu University) on the Product or in promotional or advertising activities indicating that the Product is manufactured
+under a license from Kyushu University.
+
+ 
+
+Article 13
+
+(Term of Validity)
+
+ 
+
+1
+The
+ term of this contract shall be 10 years from the date of its conclusion. However, unless
+ either Party A or Party B expresses a different intention in writing at least three months
+ before the expiration of the term, this contract shall be extended for an additional year,
+ and the same shall apply thereafter.
+
+2
+Even
+ if this contract is terminated or expires, Article 6 (Ownership of Intellectual Property
+ Rights), Article 7 (Infringement of Intellectual Property Rights), Article 8 (Non-conformity
+ of Contract), Article 9 (Disclaimer and Indemnity), Article 10 (Prohibition of Assignment
+ of Rights and Obligations), Article 11 (Confidentiality Obligations), Article 15 (Obligations
+ Upon Termination of Contract), Article 16, Paragraph 3 (Termination of Contract), Article
+ 17 (Compensation for Damages), and Articles 19 through 21 (Governing Law, Jurisdiction, Matters
+ for Consultation), as well as any provisions that should naturally survive due to their nature,
+ shall remain in effect.
+
+3
+Upon
+ termination or expiration of this contract, Party A shall return all materials provided by
+ Party B under Article 3, Paragraph 1 to Party B.
+
+ 
+
+Article
+
+14
+
+(Maintenance of the Agreement)
+
+ 
+
+Party
+B shall make every effort to ensure that any mergers, company splits, business transfers, or other corporate reorganizations do not affect
+Party A’s status as a licensee under this Agreement.
+
+ 
+
+Article 15
+
+(Obligations Upon Termination
+ of Contract)
+
+ 
+
+Regardless
+of the reason for termination, upon termination of this Agreement, Party A shall immediately cease manufacturing and selling the Product.
+However, if this Agreement is terminated due to expiration, Party A may continue to sell the Product manufactured during the term of
+this Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+
+16
+
+(Termination of Contract)
+
+ 
+
+1
+Party
+ A and Party B may immediately terminate all or part of this contract without any notice if
+ the other party falls under any of the following circumstances:
+
+ 
+
+ 
+
+1.1.
+
+If the other party breaches any provision
+ of this contract and fails to correct such breach within a reasonable period after being notified by the other party specifying such
+ period.
+
+ 
+
+1.2.
+
+If the other party, without a legitimate
+ reason, is not expected to fulfill its obligations under this contract within the specified period.
+
+ 
+
+1.3.
+
+If it becomes difficult to perform the obligations
+ under this contract due to natural disasters or other force majeure events.
+
+ 
+
+1.4.
+
+If the other party suspends or becomes unable
+ to make payments, or if a promissory note or check issued by the other party is dishonored.
+
+ 
+
+1.5.
+
+If the other party is subject to seizure,
+ provisional seizure, provisional disposition, or auction, if there is a disposition for delinquent taxes, if there is a petition
+ for bankruptcy, civil rehabilitation proceedings, or corporate reorganization proceedings, or if there is a similar threat.
+
+ 
+
+1.6.
+
+If the other party receives a business cancellation
+ or suspension order from the supervisory authority.
+
+ 
+
+1.7.
+
+If the other party causes significant harm
+ or damage to the other party.
+
+ 
+
+1.8.
+
+If there are other reasonable grounds to
+ consider that the continuation of this contract is not feasible.
+
+ 
+
+2
+Party
+ A and Party B shall promptly notify the other party in the event of significant changes or
+ potential changes in their financial condition, such as falling under the circumstances specified
+ in Paragraph 1, Items 4 to 6.
+
+3
+If
+ Party A or Party B suffers damage due to the other party falling under any of the items in
+ Paragraph 1 (excluding Item 3), they may claim compensation for such damage from the other
+ party. The amount of compensation shall be determined through sincere consultation between
+ Party A and Party B.
+
+ 
+
+Article
+
+17
+
+(Compensation for Damages)
+
+ 
+
+Party
+A and Party B shall compensate for damages caused to the other party due to intentional or negligent acts. Except for cases of intentional
+or negligent acts, Party B’s compensation to Party A shall be determined through mutual consultation in good faith.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+
+18
+
+(Exclusion of Anti-Social
+ Forces)
+
+ 
+
+1
+Party
+ A and Party B represent and warrant that neither they nor persons substantially involved
+ in their management are anti-social forces (including organized crime groups, members of
+ organized crime groups, associate members of organized crime groups, companies affiliated
+ with organized crime groups, corporate racketeers, political racketeers, pseudo-social activists,
+ and special intelligence violence groups) and do not have close relationships with anti-social
+ forces.
+
+2
+Party
+ A and Party B assure that they will not engage in violent demands or unreasonable demands
+ exceeding legal responsibilities.
+
+3
+If
+ Party A or Party B violates the preceding paragraphs, the other party may immediately terminate
+ this Agreement and claim compensation for damages caused by the termination. In such cases,
+ the party terminating the Agreement shall not be liable for any damages suffered by the other
+ party due to the termination.
+
+ 
+
+Article 19
+
+(Governing Law)
+
+ 
+
+1
+This
+ Agreement shall be governed by and interpreted in accordance with Japanese law.
+
+2
+This
+ Agreement is written in Japanese, and any translations into other languages shall not be
+ considered in the interpretation of this Agreement.
+
+ 
+
+Article 20
+
+(Exclusive Jurisdiction)
+
+ 
+
+The
+Tokyo District Court shall have exclusive jurisdiction as the court of first instance for all disputes related to this Agreement.
+
+ 
+
+Article 21
+
+(Matters for Consultation)
+
+ 
+
+If
+any matters are not covered by this Agreement or if there are any doubts about the interpretation of any provisions, Party A and Party
+B shall resolve the issue through mutual consultation in good faith based on the Civil Code, the Act on Land and Building Leases, other
+related laws and regulations, and real estate transaction practices.
+
+ 
+
+ 
+
+ 
+
+ 
+
+This
+Agreement is executed in duplicate, with each party retaining one copy after signing and sealing.
+
+ 
+
+March
+18, 2022
+
+ 
+
+Party
+A
+
+Address:
+
+Company:
+
+Representative:
+
+ 
+
+Party
+B
+
+Address:
+SANOS Nihonbashi 4th Floor, 2-34-5 Nihonbashi Ningyocho, Chuo-ku, Tokyo
+
+Company:
+PicoCELA Inc.
+
+Representative:
+Hiroshi Furukawa, President and CEO (Company chop)

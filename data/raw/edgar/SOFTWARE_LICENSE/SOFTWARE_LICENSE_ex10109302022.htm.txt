@@ -1,0 +1,371 @@
+EX-10.1
+
+2
+
+ex10109302022.htm
+
+EX-10.1
+
+Document
+AMENDMENT NO. 1 TO
+ASSET PURCHASE AGREEMENT
+This AMENDMENT NO. 1 TO ASSET PURCHASE AGREEMENT (this “
+Amendment
+”), dated as of July 1, 2022, is entered into by and among Evertec, Inc., a corporation organized under the laws of the Commonwealth of Puerto Rico (“
+Seller Parent
+”), Evertec Group, LLC, a limited liability company organized under the laws of the Commonwealth of Puerto Rico and wholly owned Subsidiary of Seller Parent (“
+Seller
+”), Popular, Inc., a corporation organized under the laws of the Commonwealth of Puerto Rico (“
+Buyer Parent
+”) and Banco Popular de Puerto Rico, a bank chartered under the laws of the Commonwealth of Puerto Rico and wholly owned Subsidiary of Buyer Parent (“
+Buyer
+” and, together with Seller Parent, Seller and Buyer Parent, the “
+Parties
+” or each a “
+Party
+”). All capitalized terms used but not defined herein shall have the meanings specified in the Original Purchase Agreement (as defined below).
+RECITALS
+WHEREAS, Seller, Seller Parent, Buyer and Buyer Parent are parties to that certain Asset Purchase Agreement, dated as of February 24, 2022 (the “
+Original Purchase Agreement
+”, and as such may be amended from time to time, including pursuant to this Amendment, the “
+Purchase Agreement
+”), pursuant to which Seller has agreed to sell and transfer to Buyer, and Buyer has agreed to purchase and assume, as applicable, from Seller, the Transferred Assets and Assumed Liabilities, upon the terms and subject to the conditions set forth therein; and
+WHEREAS, pursuant to Section 10.4 of the Original Purchase Agreement, the Parties have agreed to amend the Original Purchase Agreement pursuant to this Amendment, on the terms and conditions set forth herein.
+AGREEMENT
+NOW, THEREFORE, in consideration of the foregoing and the respective agreements set forth herein and for other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the Parties, intending to be legally bound, hereby agree that notwithstanding anything to the contrary set forth in the Original Purchase Agreement:
+1.
+Delayed Transfer of NOWS Contract
+.
+(a)
+In connection with that certain Software License Agreement between Everest party and Now Wireless Ltd. listed under Section VI of Schedule 1.1(b) to the Original Purchase Agreement (the “
+NOWS Contract
+”), the Parties each acknowledge and agree that:
+(i)
+the NOWS Contract shall be retained by Seller and/or its Subsidiaries as of the Closing and shall not be assigned or transferred to Buyer until the NOWS Assignment Date (as defined below);
+(ii)
+as promptly as practicable following the Closing, Seller shall use commercially reasonable efforts to install a replacement solution to NOW SMS in order to continue providing services related to the Retained Business (the “
+NOWS Migration
+”);
+(iii)
+following the completion of the NOWS Migration, Seller and Buyer shall, as promptly as reasonably practicable, cause the assignment and transfer of such NOWS Contract to Buyer (the date of such assignment, the “
+NOWS Assignment Date
+”); and 
+(iv)
+during the period from the Closing Date and the NOWS Assignment Date, Seller and its Affiliates shall provide Buyer with the economic and operational equivalent of the transfer of the NOWS Contract at cost and otherwise on the terms and conditions set forth in the Transition Services Agreement.
+2.
+PCAS Contracts
+.
+(a)
+In connection with the (i) Attachment for Service Extension Support – Order Confirmation and Additional Terms, by and between Seller and IBM Corporation, as successor-in interest to Lombardi Software, Inc., dated June 29, 2021 and (ii) Mainline Information Systems - IBM Cloud Pak for Automation, dated December 5, 2019 (collectively, the “
+PCAS Contracts
+”):
+(i)
+the PCAS Contracts shall not be Assigned Contracts but shall be De Novo Contracts;
+(ii)
+the Asset Schedules to the Original Purchase Agreement are hereby amended to remove the PCAS Contracts from Schedule 1.1(b) to the Original Purchase Agreement and to add the PCAS Contracts to Schedule 1.11 to the Original Purchase Agreement; and
+(iii)
+Seller and its Affiliates shall not be responsible for renewing any of the PCAS Contracts.
+3.
+SendGrid Contracts
+.
+(a)
+Item 3 under the heading named “Commercial Application Agreement” in Schedule 1.11 to the Original Purchase Agreement shall no longer be a Clone & Split Shared Contract but shall be a De Novo Shared Contract and is hereby amended and restated in its entirety as follows:
+“3.    Terms of Service 2017, dated December 1, 2017, by and between SendGrid, Inc. and Seller, and Order Confirmation, dated January 30, 2018, by and between SendGrid, Inc. and Seller. (
+De Novo Shared Contract)
+”
+4.
+Xpress Deposit
+.
+(b)
+Section V of Schedule 1.1(b) to the Original Purchase Agreement is hereby amended and restated in its entirety as follows:
+“1.    Amendment to Information Technology Services Agreement by and between Seller and Fidelity Information Services, LLC, dated September 30, 2020.
+2.    FIS Xpress Deposit service under the Xpress Deposit Services Addendum, dated as of December 31, 2013, by and between Seller and Fidelity Information Services, LLC. 
+3    FIS Xpress Deposit service Order Form, dated as of October 3, 2019, to the Information Technology Services Agreement by and between Seller and Fidelity Information Services, LLC, dated September 30, 2020.”
+2
+5.
+RSA Adaptive Authentication
+.
+(c)
+The following is hereby removed in its entirety from Schedule 1.1(a) to the Original Purchase Agreement:
+“15.    Adaptive Authentication for Mi Banco RSA”
+(d)
+Items 16 through 19 under Schedule 1.1(a) to the Original Purchase Agreement are hereby re-lettered to become new items 15 through 18 thereof.
+6.
+MIBA: Mi Banco Adaptive Authentication
+.
+(e)
+The following Channel Application is hereby incorporated to Schedule 1.1(a) to the Original Purchase Agreement:
+“19.    MIBA: Mi Banco Adaptive Authentication”
+7.
+Removal of De Novo Shared Contracts
+.
+(f)
+The following is hereby removed in its entirety from the heading named “
+Middleware
+” in Schedule 1.11 to the Original Purchase Agreement: 
+“IIS Windows Servers 
+(De Novo Shared Contract)
+”
+(g)
+Each of the following is hereby removed in its entirety from the heading named “
+Developer Tools: Licensed
+” in Schedule 1.11 to the Original Purchase Agreement: 
+“eProjects / Clarity 
+(De Novo Shared Contract)
+”
+“Jira 
+(De Novo Shared Contract)
+*”
+(h)
+Each of the following is hereby removed in its entirety from the heading named “
+Developer Tools: Free / Open Source
+” in Schedule 1.11 to the Original Purchase Agreement: 
+“Dotcover 
+(De Novo Shared Contract)
+” 
+“Mockito: powermock 
+(De Novo Shared Contract)
+” 
+(i)
+The following is hereby removed in its entirety from the heading named “
+Professional Services Agreements
+” in Schedule 1.11 to the Original Purchase Agreement: 
+“Professional Services Agreement, by and between Seller and Knowledge Power Group, dated January 15, 2007, as amended by that certain Amendment No. 1 to the Professional Services Agreement, dated June 23, 2014. 
+(De Novo Shared Contract)
+*”
+8.
+Closing
+.
+(j)
+Section 1.7(a) of the Original Purchase Agreement is hereby amended and restated in its entirety as follows:
+3
+“(a) The closing of the transactions contemplated hereby (the “
+Closing
+”) shall take place at 12:01 a.m., Eastern Time, on July 1, 2022 (the 
+Closing Date
+”) at the offices of Latham & Watkins LLP, 1271 6th Ave, New York, New York 10020. The Closing will be deemed effective as of 12:01 a.m., Eastern Time, on the Closing Date for tax and accounting purposes (except as otherwise required by applicable Law).”
+9.
+Additional De Novo Shared Contracts
+.
+(k)
+The following is hereby added to Schedule 1.11 to the Original Purchase Agreement under the heading named “
+Developer Tools: Licensed
+”:
+“Flyway (Red Gate)
+ 
+(
+De Novo Shared Contract)
+(l)
+The following is hereby added to Schedule 1.11 to the Original Purchase Agreement under the heading named “
+Developer Tools: Free / Open Source
+”: 
+“Mockito 
+(De Novo Shared Contract)
+Powermock 
+(De Novo Shared Contract)
+WinSCP 
+(De Novo Shared Contract)
+PUTTY 
+(De Novo Shared Contract)
+Sharex 
+(De Novo Shared Contract)
+Notepad 
+(De Novo Shared Contract)
+Sourcetree 
+(De Novo Shared Contract)
+IntelliJ 
+(De Novo Shared Contract)
+WinMerge 
+(De Novo Shared Contract)
+Greenshot 
+(De Novo Shared Contract)
+Jacksum 
+(De Novo Shared Contract)
+7zip 
+(De Novo Shared Contract)
+SQL Server Manager 
+(De Novo Shared Contract)
+Captiva Cloud Toolkit 
+(De Novo Shared Contract)
+Cucumber 
+(De Novo Shared Contract)
+Debugger for Java 
+(De Novo Shared Contract)
+Docker Engine 
+(De Novo Shared Contract)
+Driver Chrome 
+(De Novo Shared Contract)
+4
+Extends Report 
+(De Novo Shared Contract)
+Extension for Google Chrome y Firefox “Chropath” 
+(De Novo Shared Contract)
+Extension pack for Java 
+(De Novo Shared Contract)
+Gherkin full support 
+(De Novo Shared Contract)
+Gitbash 
+(De Novo Shared Contract)
+Gradle 
+(De Novo Shared Contract)
+Groovy 
+(De Novo Shared Contract)
+JD GUI 
+(De Novo Shared Contract)
+Language Support for Java/TM 
+(De Novo Shared Contract)
+Snippets and Syntax highlight for Gherkin 
+(De Novo Shared Contract)
+Test Runner for Java 
+(De Novo Shared Contract)
+Test NG 
+(De Novo Shared Contract)
+Transporter 
+(De Novo Shared Contract)
+Xming 
+(De Novo Shared Contract)
+Git 
+(De Novo Shared Contract)
+Java SDK 
+(De Novo Shared Contract)
+Snagit 
+(De Novo Shared Contract)
+Docker Desktop - Workstation (
+De Novo Shared Contract)
+”
+(m)
+Item 6 under the heading named “
+Middleware
+” in Schedule 1.11 to the Original Purchase Agreement is hereby amended and restated in its entirety as follows to become Item 5 under such heading: 
+“Open JDK (Red Hat Open JDK) (
+De Novo Shared Contract)
+”
+10.
+Section Reference in Original Purchase Agreement
+.
+(n)
+Section 7.2(d) of the Original Purchase Agreement is hereby amended and restated in its entirety as follows:
+“(d)    Buyer and Buyer Parent shall have received a certificate, dated the Closing Date and signed by a duly authorized representative of each of Seller Parent and Seller, stating on behalf of Seller Parent and Seller that each of the conditions set forth in 
+Section 7.2(a)
+, 
+Section 7.2(b),
+ 
+Section 7.2(c)
+, and 
+Section 7.2(e)
+ (
+Other Conditions to the Obligations of 
+5
+Buyer Parent and Buyer
+) were satisfied or had been waived by Buyer as of the Closing Date.”
+ 
+11.
+Definition of Financial Information
+.
+(o)
+The definition of “Financial Information” in Section 11.1 of the Original Purchase Agreement is hereby amended and restated in its entirety as follows: 
+“
+Financial Information
+” means the unaudited, adjusted carve-out statement of revenue and expenses relating to the Acquired Services for the fiscal years ended December 31, 2019 and December 31, 2020 and the six (6) months ended June 30, 2021 and select balance sheet information relating to the Acquired Services as of December 31, 2020 and June 30, 2021, attached to 
+Section 2.3
+ (
+Financial Information and 2020 Adjusted EBITDA
+) of the Seller Disclosure Schedule.”
+12.
+Additional Transferred Intellectual Property
+.
+Schedule 1.1(d) to the Original Purchase Agreement is hereby amended and restated in its entirety as 
+Annex 1
+ attached hereto.
+13.
+Additional Transferred Assets
+.
+Schedule 1.1(h) to the Original Purchase Agreement is hereby amended and restated in its entirety as 
+Annex 2
+ attached hereto.
+14.
+T+1 Milestones
+.
+The T+1 Milestone Schedule included as 
+Annex B
+ of the Original Purchase Agreement is hereby amended and restated in its entirety as 
+Annex 3
+ attached hereto.
+15.
+Certain Excluded Services
+.
+(p)
+Item 2 under Schedule 1.2(g) to the Original Purchase Agreement is hereby amended by adding the following after last sentence of such item: 
+“Fees pursuant to these retained services shall be included in service code 3272.”
+(q)
+Item 3 under Schedule 1.2(g) to the Original Purchase Agreement is hereby amended by adding the following after last sentence of such item: 
+“Fees pursuant to these retained services shall be included in service code 3273.”
+(r)
+Item 5 under Schedule 1.2(g) to the Original Purchase Agreement is hereby amended by adding the following after last sentence of such item: 
+“Fees pursuant to these retained services shall be included in service code 3281.”
+(s)
+Item 6 under Schedule 1.2(g) to the Original Purchase Agreement is hereby amended by adding the following after last sentence of such item: 
+6
+“These transactions are related to applications TSMS (Purchase Alerts), 3DS (3D Secure), ESTA (Account Statement, E-commercial and Other Notifications), PerWeb notifications and DEBQ (Virtual Queueing). Fees pursuant to these retained services shall be included in service code 3271.”
+16.
+Schedule Amendments
+.
+(t)
+Schedule 1.1(a) of the Original Purchase Agreement shall be as set forth on 
+Annex 4
+ attached hereto (which reflects the amendments set forth in this Amendment);
+(u)
+Schedule 1.1(b) of the Original Purchase Agreement shall be as set forth on 
+Annex 5
+ attached hereto (which reflects the amendments set forth in Amendment); 
+(v)
+Schedule 1.2(g) of the Original Purchase Agreement shall be as set forth on 
+Annex 6
+ attached hereto (which reflects the amendments set forth in Amendment); and 
+(w)
+Schedule 1.11 of the Original Purchase Agreement shall be as set forth on 
+Annex 7
+ attached hereto (which reflects the amendments set forth in Amendment).
+17.
+No Waiver
+. The Parties each acknowledge and agree that (i) the Closing shall not constitute a waiver by either Party of Seller’s obligation under Section 1.1 of the Purchase Agreement to sell, transfer, convey, assign and deliver to Buyer the Transferred Assets at the Closing, in each case free and clear of all Encumbrances other than Permitted Encumbrances, and (ii) it shall not be a violation of Seller’s covenant and obligation under Section 1.1 of the Purchase Agreement if any Encumbrances other than Permitted Encumbrances on the Transferred Assets are released on the Closing Date after 12:01 a.m., Eastern Time.
+18.
+Miscellaneous Provisions
+. Sections 10.2 (Notices), 10.3 (Entire Agreement), 10.4 (Amendment), 10.5 (Waivers), 10.6 (Severability), 10.7 (No Third Party Beneficiaries), 10.8 (Assignment), 10.9 (Governing Law; Submission to Jurisdiction; Waiver of Jury Trial), 10.10 (Remedies), 10.11 (Interpretation; Construction) and 10.12 (Counterparts and Electronic Signatures) of the Original Purchase Agreement are hereby incorporated by reference, 
+mutatis mutandis
+.
+19.
+Full Force and Effect
+. Each of the Parties confirms that this Amendment is intended to be a part of, and will serve as a valid, written amendment to, the Original Purchase Agreement. Except as otherwise set forth in this Amendment, this Amendment shall not by implication or otherwise alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Original Purchase Agreement, which are hereby ratified and affirmed in all respects and shall continue in full force and effect, and this Amendment will not operate as an extension or waiver by the parties to the Original Purchase Agreement of any other condition, covenant, obligation, right, power or privilege under the Original Purchase Agreement.
+7
+IN WITNESS WHEREOF, this Amendment has been signed by or on behalf of each of the Parties as of the date first above written.
+BUYER
+:
+Banco Popular de Puerto Rico
+By:
+/s/ Felix Hernandez
+Name: Felix Fernandez
+Title: Senior Vice President of Popular, Inc.
+BUYER PARENT
+:
+Popular, Inc.
+By:
+/s/ Felix Hernandez
+Name: Felix Fernandez
+Title: Senior Vice President
+[Signature Page to Amendment No. 1 to Purchase Agreement]
+SELLER
+:
+Evertec, Inc.
+By:
+/s/ Luis A. Rodriguez
+Name: Luis A. Rodriguez
+Title: Executive Vice President, Chief Legal and Corporate Development Officer
+SELLER PARENT
+:
+Evertec Group, LLC
+By:
+/s/ Luis A. Rodriguez
+Name: Luis A. Rodriguez
+Title: Executive Vice President, Chief Legal and Corporate Development Officer
+[Signature Page to Amendment No. 1 to Purchase Agreement]

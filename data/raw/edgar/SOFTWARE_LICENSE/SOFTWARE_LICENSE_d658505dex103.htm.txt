@@ -1,0 +1,2413 @@
+EX-10.3
+
+7
+
+d658505dex103.htm
+
+EX-10.3
+
+EX-10.3
+
+Exhibit 10.3 
+
+The redacted information has been excluded because it is both (i) not material and (ii) would be competitively
+harmful if publicly disclosed. 
+ 
+HWA INTERNATIONAL, INC./CENTURION TRUST COMPANY 
+
+TRUSTNET SOFTWARE LICENSE AGREEMENT 
+
+Upon this Agreement becoming effective as provided in Section 20 (the “Effective Date”), HWA International, Inc. (“Licensor”), whose
+address is 2525 Horizon Lake Drive, Suite 110, Memphis, Tennessee 38133, hereby grants, and Centurion Trust Company (“Licensee”), whose address is 2625 East Camelback Road, Suite 540, Phoenix, Arizona 85016, hereby accepts, according to
+the terms of this Agreement, a license (the “License”) to use the Licensed Software. The term; (a) “Agreement” means this 7-page Trustnet Software License Agreement, including Addendum I and Exhibits “A” through
+“D” hereto; and (b) “Licensed Software” means all programs, updates, revisions, enhancements, modifications, manuals and related materials supplied by Licensor pursuant to this Agreement, and includes (i) the
+“Initial Standard Software” which means the Licensed Software described on Exhibit “A” hereto and, (ii) the “Initial Custom Software,” which means the Licensed Software described on Exhibit “B” hereto.
+The “Initial Software” means only the Initial Starboard Software and the Initial Custom Software. 
+
+ 
+
+1.
+
+ 
+OWNERSHIP. 
+
+The Licensed Software, including all related notes, flow charts and other Materials and all duplicates thereof, shall remain at all times the
+exclusive property of Licensor. 
+ 
+ 
+
+2.
+
+ 
+SCOPE OF LICENSE. 
+
+The License is for the current version of the Initial Standard Software and the related Initial Custom Software, and also covers all future
+standard updates, revisions, enhancements and modifications, any additional custom software which may be provided in the future by Licensor to Licensee pursuant to this Agreement, and all related notes, flow charts and other materials. 
+
+Licensee may use the Licensed Software in machine readable form on one central processing unit located at its address set forth above (or any
+future new and substitute address of Licensee in the State of Arizona) and any associated remote terminals or units which have the capacity to utilize or call into use the Licensed Software. Subject to the provisions of the following sentence,
+Licensee may use the Licensed Software only for its own internal data processing needs (which may include limited access to data files by WAN or other method by Licensee’s customers in the ordinary course of business) and not for any other
+purpose or at any other location. Licensee may use the Licensed Software on a back-up system for security purposes and/or when the primary central processing unit is temporarily inoperable until it is restored to operable status.
+
+Except as is provided in the following sentence the License and Licensee’s other rights
+under this Agreement may not be assigned, sub-licensed or otherwise transferred, whether voluntarily, involuntarily or by operation of law, without Licensor’s prior written consent. Licensee may transfer the License and its other rights under
+this Agreement to an entity which succeeds to Licensee’s trust accounting business by merger, consolidation, purchase or otherwise; provided that, any transferee shall then be subject to the same restrictions on use and transfer as if it were
+the original named Licensee, and Licensor may charge a transfer fee equal to one-half the current license fee. 
+ 
+The License will be
+non-exclusive and Licensor may also grant non-exclusive licenses to use all or any portion of the Licensed Software to any other customer(s) of Licensor. Licensee will have no right to any payment or other consideration based on any such other
+licenses. 
+ 
+ 
+
+3.
+
+ 
+TERM. 
+
+The term of this Agreement will commence on the Effective Date and continue until December 31, 2016, unless cancelled or terminated
+earlier as provided in this Agreement. Thereafter the License is renewable on an annual basis at Licensee’s option for an additional annual fee of $1.00, unless terminated earlier as provided in this Agreement. The License will remain in effect
+during the term of this Agreement. 
+ 
+
+4.
+
+ 
+BASIC FEES; ADDITIONAL USERS; OPTION. 
+
+The one-time basic fee (the “Base Fee”) is: (a) $[***]; plus (b) for the Initial Custom Software, a sum computed in
+accordance with Exhibit “D.” but not in excess of $[***] (the “Custom Fee”). In addition, Licensee will pay Licensor a one-time consulting fee in the amount of $[***] (the “Consulting Fee”). The Base Fee and the
+Consulting Fee do not Include the analytic and design fees which will be separately billed in accordance with Exhibit “0.” The Base Fee and the Consulting Fee constitute the entire consideration Licensee will be required to pay, except as
+specifically provided in the preceding sentence, in the following two subsections, in Sections 2. 5 through 9 and 15, and in Addendum I. Licensee agrees to pay the Base Fee and the Consulting Fee to Licensor as follows: (a) $[***] at the Effective
+Date; (b) $[***] on the earlier of receipt of a Confirmation Letter or completion of conversion pursuant to Section 6; and (c) the Custom fee as invoiced monthly for hours of work completed on the Initial Custom Software. The term
+“Confirmation Letter” means a notice from Licensor received by Licensee at any time prior to July 1, 1995, which confirms that the Initial Custom Software will be completed and the operational date described in Section 6 will be
+on or before July 3, 1995. 
+ 
+The Base Fee is computed on the basis of a maximum of [***] user/terminals. For each additional
+user/terminal employed by Licensee, Licensee will pay Licensor an additional onetime fee of $[***]. 
+ 
+Licensee is also granted the option
+to include Licensor’s Performance Measurement software in the Licensed Software for an additional onetime fee of: (a) $[***] for Performance Summary; (b) $[***] for Performance Report: or (c) $[***] for both Performance Summary and
+Performance Report. 
+ 
+The fees in the preceding two paragraphs may be increased pursuant to Section 17.
+
+5.
+
+ 
+TAXES. 
+
+In addition to the Base Fee and all other fee(s) and charge(s) payable by Licensee to Licensor pursuant to this Agreement (collectively the
+“Fees”), Licensee agrees to either pay directly, or reimburse Licensor if Licensor pays, any sales, transaction privilege, use and/or similar excise taxes which are based on or measured by any fees and payable to the State of Tennessee or
+the State of Arizona or any of their counties, municipalities or other governmental subdivisions; provided that. Licensee shall not be obligated to pay or reimburse: (a) any corporate franchise or net income tax of Licensor; or (b) any
+interest or penalty which may accrue on any tax which is not timely and accurately reported and paid to the relevant governmental entity. Licensor confirms that it knows of no such tax in the State of Tennessee which is in effect on May 19,
+1995. 
+ 
+ 
+
+6.
+
+ 
+INSTALLATION: CONVERSION. 
+
+Licensor will make reasonable efforts to (and if a Confirmation Letter has been sent Licensor will) deliver and install the Initial Software
+and assist in the conversion of Licensee’s system, data and operations on a coordinated schedule which will allow the initial training described in Section 7 to be completed and the Initial Software to be operative on Licensee’s
+system for use in the ordinary course of Licensee’s business on or before July 3, 1995. If no Confirmation Letter is sent Licensor will assure that the operational date is no later than October 2, 1995. Upon installation and
+conversion Licensor will demonstrate that the Initial Software is operating in accordance with Licensor’s specifications described on Exhibit “C” hereto. 
+
+Licensee will cooperate with Licensor to provide access to its premises for installation and conversion and Licensor agrees to conform to
+Licensee’s security requirements while on Licensee’s premises. Licensor agrees to indemnify Licensee for losses to property or claims based on bodily injury or death caused by or arising from Licensor’s employees’ or agents’
+negligence or willful misconduct while on Licensee’s premises. 
+ 
+
+ 
+ 
+-2- 
+
+The total Fee for the initial delivery, installation and conversion, including all conversion
+software programming, which will be $[***], plus directly related travel, lodging, meals and communications expenses, will be payable by Licensee to Licensor upon completion of conversion. Licensor will notify Licensee in writing when the conversion
+has been completed. 
+ 
+Any delays in the installation and conversion caused by malfunction of Licensee’s computer hardware will be the
+sole responsibility of Licensee; provided that, Licensee has confirmed that the Licensed Software will be compatible with Licensee’s properly operating existing hardware. Licensor may charge Fees for time and expenses incurred as a result of
+delays caused by Licensee’s malfunctioning computer hardware, or for future installation services not covered by Addendum I, in accordance with Exhibit “D” hereto. 
+
+ 
+
+7.
+
+ 
+TRAINING. 
+
+Licensor will provide three days’ training for Licensee’s employees in Phoenix, Arizona, in conjunction with the initial conversion
+described in Section 6. The Fee for the three days of initial training is included in the Base Fee. Additional expenses for directly related travel, lodging, meals and communications expenses for the trip will be billed after the trip, along
+with travel time, in accordance with Exhibit “D.” Fees and expenses for any future training [not covered by Addendum 1] will be computed in accordance with Exhibit “D” hereto. 
+
+ 
+
+8.
+
+ 
+LIMITED WARRANTY. 
+
+Licensor warrants that all Licensed Software provided by Licensor pursuant to this Agreement will be free from defects at the time(s) of
+delivery and installation and for 90 days thereafter, will then comply with and perform the relevant current functions and specifications communicated by Licensor to Licensee, and will represent the most current version of the relevant Licensed
+Software. The foregoing warranty, and Licensor’s obligations under this Section 8, will continue beyond the 90-day period only so long as the Software Maintenance Agreement (Addendum I) remains in effect.
+
+Licensor will issue periodic Licensed Software updates and revisions containing modifications
+reasonably necessary or appropriate to enhance or improve, reflect regulatory changes and/or correct the operation of the Licensed Software. Licensee must apply such updates and revisions according to instructions received from Licensor. Failure to
+apply such an update or revision within 30 working days from the date received with instructions by Licensee will suspend the warranty provisions of this Section 8 with respect to any affected portion of the Licensed Software until such update
+or revision has been applied by Licensee. 
+ 
+Licensor agrees to provide Licensee such telephone consultation during Licensor’s
+published hours then in effect as may be required by Licensee to resolve technical problems encountered while working with the Licensed Software. Licensor agrees, upon receiving written notice of any failure(s) of the Licensed Software to conform to
+the above warranty promptly after Licensee becomes aware of the relevant failure(s), to verify and correct errors in the Licensed Software provided the errors can be recreated with the latest unaltered version of the Licensed Software. Licensee may
+be required to supply copies of Licensee’s reports, files and/or programs to assist Licensor in problem determination. Error verification will be conducted at Licensor’s facilities. Licensor will respond to verified errors, at no charge,
+by issuing a program temporary fix and/or corrections to Licensee via Licensor’s Bulletin Board System. 
+ 
+The limited warranty in
+this Section 8 will become void If the Licensed Software is modified in any material manner except by or under the direction of or with the consent of Licensor, or if any of Licensee’s data file structure is altered except by the Licensed
+Software. Errors due to modifications not approved by Licensor, hardware malfunction or error, software supplied by any party other than Licensor, or improper use are the responsibility of Licensee, and efforts expended identifying and correcting
+such errors may be charged to Licensee in accordance with Exhibit “D” hereto. 
+ 
+
+ 
+ 
+-3- 
+
+THE FOREGOING WARRANTIES ARE IN LIEU OF ALL OTHER WARRANTIES OF PERFORMANCE OR AGAINST
+DEFECTS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANT- ABILITY OR FITNESS FOR A PARTICULAR PURPOSE. EXCEPT AS IS SPECIFICALLY STATED IN THIS AGREEMENT, LICENSOR DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED
+IN THE LICENSED SOFTWARE WILL MEET LICENSEE’S REQUIREMENTS OR THAT THE OPERATION OF THE LICENSED SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE. LICENSEE AGREES THAT LICENSOR’S LIABILITY FOR DAMAGES UNDER THIS SECTION 8. EXCEPT FOR ANY
+DAMAGES RESULTING FROM ANY INTENTIONAL BREACH BY LICENSOR, SHALL NOT EXCEED THE TOTAL FEES PAYABLE BY LICENSEE AND SHALL NOT INCLUDE ANY SPECIAL OR CONSEQUENTIAL DAMAGES (EVEN IF LICENSOR IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES). AS USED IN
+THE PRECEDING SENTENCE, THE TERM “INTENTIONAL BREACH” MEANS A KNOWING, WILLFUL REFUSAL BY LICENSOR TO PROVIDE LICENSED SOFTWARE OR SUPPORT AS SPECIFICALLY REQUIRED, AND DOES NOT INCLUDE ANY OTHER BREACH OR DEFAULT, INCLUDING, WITHOUT
+LIMITATION, ANY BREACH OR DEFAULT BASED ON NEGLIGENCE OR ANY INABILITY TO PERFORM. 
+ 
+ 
+
+9.
+
+ 
+CUSTOM SOFTWARE; MODIFICATIONS. 
+
+Licensee may from time to time in the future desire custom software enhancements or additions which are not included in the Initial Custom
+Software and not generally available to Licensor’s customers. If Licensee makes such a request and the proposed enhancement or addition is feasible and compatible with the then current Licensed Software, Licensor will quote Licensee an
+estimated timeline and Fee (which will reasonably reflect the pricing on Exhibit “D”) therefor. If Licensee accepts the quotation, Licensor will develop and deliver the enhancement or addition, which will then be included in the Licensed
+Software. 
+ 
+Any modified Licensed Program(s) will remain subject to the same restrictions on use. reproduction, and disclosure as are
+applicable to the unmodified Licensed Software. 
+
+10.
+
+ 
+CONFIDENTIALITY. 
+
+Licensee acknowledges the Licensed Software Contains trade secrets, that they are of substantial value to Licensor, and that their
+unauthorized use, disclosure or reproduction could cause Licensor irreparable harm. Licensee agrees not to disclose, use, reproduce, publish, release, transfer or otherwise make available any portion of the Licensed Software, in any form, to any
+person other than Licensee’s or Licensor’s authorized employees, agents or customers as allowed by Section 
+2, 
+without Licensor’s prior written approval. Licensee agrees that all materials supplied by Licensor under this
+Agreement shall be kept in a secure place, and Licensee will take appropriate action reasonably satisfactory to Licensor, by instruction, agreement or otherwise, with any persons permitted access to the Licensed Software to assure continuous
+confidentiality. Licensee will be responsible for the supervision and control of its use of the Licensed Software including but not limited to assuring Licensee’s personnel are instructed in the restrictions and conditions of the License;
+protecting the Licensed Software from theft or destruction; and assuring proper machine configuration, audit controls and operating methods. The parties agree that all confidential or proprietary information communicated to either party, before or
+after the Effective Date, will be regarded as given in confidence. Licensee may not remove or destroy any proprietary markings or proprietary legends on or contained within the Licensed Software. Licensee agrees that all Information relating to the
+Licensed Software is confidential and proprietary to Licensor and that all such information will be disclosed only to those employees or consultants of Licensee with a need to know. Licensor shall have the sane responsibilities to safeguard the
+confidentiality of any records or other information regarding Licensee’s business and customers which is disclosed to Licensor in connection with the natters described in this Agreement. Both parties acknowledge that no adequate remedy at law
+will exist in the event of a breach of any obligation imposed by this 
+ 
+Section 10, and injunctive and/or other equitable relief to
+prevent or remedy any such breach will be available. 
+ 
+
+ 
+ 
+-4- 
+
+11.
+
+ 
+PERMISSION TO COPY LICENSED SOFTWARE. 
+
+Subject to the provisions of Sections 1, 2 and 10, Licensee may make one copy of the Licensed Software, in whole or in part, for back-up or
+archival purposes, and will maintain appropriate records of the location of any such copy. Licensee agrees to reproduce and include any copyright notice or proprietary notice of Licensor contained in the original Licensed Software on any form of any
+copy of any of the Licensed Software made by Licensor. 
+ 
+ 
+
+12.
+
+ 
+UNAUTHORIZED ACTS. 
+
+Each party agrees to notify the other party immediately after learning thereof of the possession, use, knowledge, disclosure or reproduction
+of any Licensed Software or information which is disclosed to any person or entity in violation of this Agreement, and to reasonably cooperate with the other party in any investigation of and litigation against any such person or entity. 
+
+ 
+
+13.
+
+ 
+CANCELLATION. 
+
+Licensee may at its option cancel this Agreement by written notice to Licensor (and receive a full refund of all Fees paid) at any time prior
+to 30 days after completion of the initial installation and conversion described in Section 6; provided that, Licensee will promptly return all Licensed Software and, if Licensor is not in default under this Agreement at the time of such
+notice, Licensee will be charged for all actual time, materials and expenses expended and incurred by Licensor in performing under this Agreement prior to receipt of such notice computed in accordance with Exhibit “0.” Any such
+reimbursement will then constitute the total payment liability of Licensee. 
+ 
+ 
+
+14.
+
+ 
+INFRINGEMENT. 
+
+Licensor warrants that: (a) Licensor has good title to the Licensed Software and/or the unrestricted right to grant Licensee the
+License; and (b) the Licensed Software, when and to the extent used by Licensee within the scope of the License, does not and will not
+
+infringe on any patent, copyright, trademark, trade secret or any other third-party
+proprietary right. Licensor will defend at its expense any action brought against Licensee to the extent it is based on a claim that, if true, would constitute or reflect a violation of the foregoing warranty, and will pay any costs, damages and
+attorney fees incurred by or awarded against Licensee in such action which are attributable to such claim. Licensee shall give Licensor prompt written notice upon receipt of any such claim and Licensor may participate reasonably and in good faith in
+the defense of such action and negotiations regarding any settlement of such claim. If any of the Licensed Software becomes, or in Licensee’s opinion be likely to become, the subject of a claim of infringement of a copyright, patent, trademark,
+trade secret or other right, Licensor may procure for Licensee the right to continue using the Licensed Software or replace or modify it to make it non-infringing. 
+ 
+ 
+
+15.
+
+ 
+DEFAULT. 
+
+If Licensor or Licensee (a “Defaulting Party”) fails in any material respect to pay any Fees or comply with any other term or
+provision of this Agreement or becomes the subject of an order for relief under Chapter 7 of the federal Bankruptcy Code (a “Default”), and such Default is not cured within 60 days after written notice thereof is received by the Defaulting
+Party from the other party (a “Non-Defaulting Party”), then the Non-Defaulting Party may terminate this Agreement by written notice of termination to the Defaulting Party at any time thereafter that the noticed Default remains uncured. If
+Licensor terminates this Agreement pursuant to this Section 15, Licensee shall return all copies of the Licensed Software to Licensor, and cease all use thereof, no later than 60 days after the effective date of termination. Licensee shall then
+pay Licensor a temporary use fee of $[***] for every day from the date of termination by licensor until Licensee returns the Licensed Software and ceases such use. If Licensee fails to return the Licensed Software and cease use as required by the
+second preceding sentence, Licensor shall have the right to peaceably enter the premises of Licensee and take physical possession of and remove the Licensed Software.
+
+ 
+
+ 
+ 
+-5- 
+
+Subject only to the specific limitations in Section 8, both parties shall have available,
+in the event of Default, all rights and remedies specifically provided in this Agreement and all other remedies available at law or in equity. In the event of any litigation, the prevailing party shall be entitled to collect from the other party its
+reasonable costs and attorneys’ fees incurred therein. 
+ 
+Licensor will deposit, and update on a calendar quarterly basis during the
+term of this Agreement (which may be confirmed by Licensee), a copy of the current version of all Licensed Software and related technical documentation, including all source code required for maintenance and/or correction, at First Security Bank in
+Batesville, Mississippi, or (with prior notice to Licensee) another responsible unaffiliated escrow agent for distribution to Licensee only if and when Licensor (but not Licensee) is in Default under, and Licensor is grossly negligently or
+intentionally failing to provide the support specifically required by, this Agreement. The purpose of this paragraph is solely to assure Licensee the ability to use the Licensed Software in accordance with the terms (and subject to all limitations)
+of the License granted in this Agreement if the required support is not being provided by Licensor because of an uncured Default by Licensor. 
+ 
+ 
+
+16.
+
+ 
+MISCELLANEOUS. 
+
+This Agreement is the complete and exclusive statement between the parties relating to the subject matter of this Agreement, superseding all
+other communications, whether oral or written. No waiver of any right or obligation under, and no amendment of, this Agreement will be effective unless and until it is evidenced by a writing signed by both parties. This Agreement shall be governed
+by the laws of the State of Tennessee and the United States of America. This Agreement shall be binding upon and inure to the benefit of the parties, their employees, agents, representatives, affiliates, subsidiaries and successors and assigns (both
+authorized and unauthorized). Neither party shall be liable for delays which result from power failure, failure of common carriers or
+
+communication lines, weather disruption, theft or vandalism, war, civil unrest, fire, flood or
+other acts of God. or similar causes (which do not include failure to adequately staff work unless the party is making reasonable good faith efforts to do so) which are beyond the reasonable control of that party. Time is of the essence of this
+Agreement. 
+ 
+ 
+
+17.
+
+ 
+PRICE INCREASES. 
+
+Licensor may from time to time increase any price or rate set forth on Addendum I or Exhibit “D” hereto or the $[***] additional
+user and the Performance Measurement fees set forth in Section 4 (but not more than once in any calendar year or before January 1, 1996, or without prior notice to Licensee) so long as; (a) the percentage increase (computed on a
+cumulative basis with all prior percentage increases) does not exceed [***]% per annum from the Effective Date to the effective date of such increase; and (b) the resulting price or rate does not exceed Licensor’s standard published prices
+and rates to its customers. 
+ 
+ 
+
+18.
+
+ 
+NOTICES. 
+
+Except as is provided in this Agreement with respect to telephonic communications, all notices and requests which may be given pursuant to
+this Agreement shall be in writing and personally delivered, sent by United States certified mail, or given by telecopy transmission to the parties at their respective addresses or telecopy numbers set forth in this Agreement. Either party may
+change its address or telecopy number by notice given to the other party pursuant to this Section 18. 
+ 
+ 
+
+19.
+
+ 
+ADDENDUM/EXHIBITS. 
+
+The attached Addendum I (Software Maintenance Agreement) and Exhibit “A” (Initial Standard Software), “B” (Initial Custom
+Software), “C” (Specifications and Functions) and “D” (Standard Billing Policies) are incorporated in this Agreement.
+
+ 
+
+ 
+ 
+-6- 
+
+20.
+
+ 
+EFFECTIVE DATE. 
+
+The Effective Date will be the first business day on or before JUNE 5, 1995 that Licensee has in its possession at its address set forth
+above an original counterpart of this Agreement executed by Licensor and Licensee.
+
+ 
+
+ 
+
+LICENSOR: HWA INTERNATIONAL, INC.
+
+ 
+
+ 
+
+LICENSEE: CENTURION TRUST COMPANY
+
+By
+
+ 
+
+ 
+/s/ Steve W. Suter
+
+ 
+
+ 
+
+By
+
+ 
+
+ 
+/s/ Tom L. Peterson
+
+Title
+
+ 
+
+President
+
+ 
+
+ 
+
+Title
+
+ 
+
+M
+ANAGING
+ D
+IRECTOR
+
+Date
+
+ 
+
+June 1, 1995
+
+ 
+
+ 
+
+Date
+
+ 
+
+June 1, 1995
+
+Telecopy (901) 388-5574
+
+ 
+
+ 
+
+Telecopy (602) 957-9788
+
+ 
+ 
+-7- 
+
+ADDENDUM I 
+
+SOFTWARE MAINTENANCE AGREEMENT 
+ 
+The term
+of this Addendum I will commence on July 1, 1995, and expire (absent earlier cancellation or termination of the entire Agreement) on the earlier of any effective date selected and set forth in a written notice (which must be received at least
+90 days prior to the effective date): (a) by Licensee to Licensor which is on or after December 31, 1996: or (b) by Licensor to Licensee which is on or after December 31, 2000. 
+
+Licensee is guaranteed access to a staff member who will answer Licensee’s questions and provide such telephone support for the Licensed Software as may
+be needed by Licensee, and Licensee will receive continued no-charge, error-correction support for the Licensed Software. Support will be provided during Licensor’s published hours in effect from time to time, which shall at a minimum be from
+8:00 a.m. to 5:00 p.m. Central Standard time Monday through Friday, normal Licensor published holidays excluded. 
+ 
+Licensor will provide Licensee the above
+services for all levels of service and the following additional services based on the level of support selected in writing by Licensee: 
+ 
+ 
+
+level 1:
+
+ 
+Licensee is provided all new releases, enhancements and upgrades which will be sent to Licensee at no
+additional cost (except for Licensor’s actual costs of media, shipping and handling). Such releases, enhancements and upgrades exclude newly developed and completely independent software packages. Telephone support is billed as used. Licensee
+also receives preferential customer rates for such other services as are offered by Licensor. 
+ 
+ 
+
+Level
+ 2
+:
+
+ 
+Licensee receives Level 1 service plus up to [***] hours per month of free telephone support. Telephone support
+in excess of [***] hours per month is billed as used. Unused telephone support is not transferable from one month to the next. 
+ 
+ 
+
+Level 3:
+
+ 
+Licensee receives Level 1 service plus up to [***] hours per year of free telephone support. Registration fees
+for the annual users’ meeting for [***] participant are included, as is [***] registration at any supplemental training session held by Licensor. Unused telephone support and registration fee waivers are not transferable from one year to the
+next. 
+ 
+Licensor will provide Level 3 service without charge only through June 30, 1996. Thereafter the annualized fee for:
+(a) Level 1 service will be $[***] plus $[***] for each terminal /user in excess of two: (b) Level 
+2
+ services will be $[***] plus $[***] per terminal/user in excess of two: and (c) Level 3 service will be $[***] plus $[***] per
+terminal/user in excess of two. 
+ 
+Weekly dividend announcements are available as an option based on a monthly fee of $[***]. 
+
+Telephone support, except that covered in Levels 
+2
+ and 3, is charged monthly pursuant to Exhibit “D.” Long distance telephone toll
+charges are billed at Licensor’s cost. Licensor shall invoice Licensee on a monthly basis for services provided and Licensee shall pay all valid invoices within 15 days of receipt of each invoice. 
+
+Licensee may change the level of service from time to time but only as of any January 1. Any charges shall be proportionately pro-rated based on any
+change in level of service or partial period included in the term of this Addendum. 
+
+Initial Standard Software 
+
+ 
+
+1.
+
+ 
+TrustNet Serial No. A15427. 
+
+ 
+
+2.
+
+ 
+Checkwriting module. 
+
+ 
+
+3.
+
+ 
+Multi-User IQ Report Generator. 
+
+ 
+
+4.
+
+ 
+Portfolio Modeling. 
+
+ 
+ 
+Exhibit “A”
+
+Exhibit B - Page 1 of 2 
+
+ 
+
+1.
+
+ 
+“F2” Notes capability
+. This function will allow display and addition of customer service notes
+relating to any account. you will be able to press an F-key to display the most recent screen of notes for the account. This “front” screen will show one line for each note, with the ability to expand any note to full size (up to 6 lines
+of 70 characters each). The notes function will be available from Account Inquiry. Trust Holdings Inquiry and Transaction Inquiry. ($[***] to $[***])
+ 
+ 
+
+2
+.
+
+ 
+600 number interface
+. This program will create the file that will be used by the 800 inquiry line.
+Customers will be able to call in using either their BHG account number or their THET account number. ($[***] to $[***]) 
+ 
+ 
+
+3.
+
+ 
+Trade Consolidation.
+ This function will be accomplished using two separate programs—one to set the
+trade batch for the group of transactions to be included, and a second to consolidate that batch into trades by fund. The consolidations will net transactions by 
+
+a) Dollar purchases/redemptions for a fund 
+
+b) Shares purchases/redemptions for a fund 
+
+c) Exchanges within a fund family 
+
+Two reports will be printed—one for TFTC trades, and another for direct trades. A file for transmission to IFTC will also be produced.
+($[***] to $[***]) 
+ 
+ 
+
+4.
+
+ 
+Accrual Dividend programming for various scenarios
+. we will add a place to set up the accrual processing
+rules for each accrual fund. Accrual rules will specify if transactions will take effect (for accrual purposes) on same day, next calendar day. or next business day. The transaction types are: purchase, sale, exchange in, exchange out, dividend
+reinvestment, transfer in, transfer out. 
+ 
+We will add a place to set up the holiday schedule (up to 10 dates). 
+
+A daily program will scan the pending accruals file for records that are effective today, and update the dally balance for the account. This
+program will correctly handle weekend and holiday acruals. For dividend reinvestment transactions, the program will probably need to apply the adjustment back a few days to the trade date of the reinvestment. 
+
+A monthly program will calculate dividends due to each account, and create suspended transactions. The program will need to span months for
+funds that pay mid-month. ($[***] to $[***]) 
+ 
+ 
+
+5.
+
+ 
+Daily 
+pricing interface to trade 
+file
+ (
+from FM Signal feed)
+. This program will read
+the file received form the FM feed, print a report and update prices on the asset file and the market pricing history file. It will also “fill in” the price per unit for all transactions with today’s trade date, and recalculate the
+shares or dollars (depending on transaction type). ($[***] to $[***]) 
+ 
+ 
+
+6.
+
+ 
+Cash Balancing Report
+. This program will print a report showing one line for each account that has a
+balance in (Income + Principal) Cash or any pending (unsettled) sales transactions. The Net Cash Balance should balance to the DDA account ($[***] to $[***]) 
+
+ 
+ 
+Exhibit “B”
+
+Exhibit B - Page 2 of 2 
+
+ 
+
+7.
+
+ 
+Remittance processing
+. We will write a program to establish the available cash balance. We also will
+establish a place for the account wire information and withholding percentage. The daily remittance processing program will scan the checks files, and attempt to process each check with a due date of today or earlier. Four different cases must be
+handled: 
+ 
+ 
+
+ 
+
+A)
+
+ 
+If available cash is insufficient to cover the amount, a line is printed on the Insufficient Funds Report.
+
+ 
+ 
+
+ 
+
+B)
+
+ 
+If available cash is sufficient to cover the amount, the program will subtract the amount from the available
+cash balance and determine the processing method: 
+ 
+ 
+
+ 
+
+B1)
+
+ 
+the payment is by check, the program will assign a check number, print a line on the Pre-Check Listing, output
+the check information to the laser printer checks file, create a transaction on the daily file, and delete the record from the checks file, 
+ 
+ 
+
+ 
+
+B2)
+
+ 
+the payment is by wire, the program will print a line on the Wire Advice Report, create a transaction on the
+daily file, and delete the record from the checks file. If the wire transfer is chargeable, it will also create a wire fee transaction on the daily file. 
+ 
+ 
+
+ 
+
+B3)
+
+ 
+the payment is by Kemper Journal, the program will print a line on the Kemper Journal Report, create a
+transaction on the daily file, and delete the record from the checks file. 
+ 
+For any processing method, the account may
+also be set up for a withholding percentage. If it is, two transactions will be created (one for the net payment, and another for the withholding amount). After all reports print, a final Remittance Processing Summary Report will recap totals from
+processing method to use for funds transfer. ($[***] to $[***]) 
+ 
+ 
+
+8.
+
+ 
+Cash Sweeps (for both overdrafts and positive balances.
+ This program will scan each account, and create
+a transaction to sweep cash between the cash (DDA) account and the ACM fund for that account as needed. If the cash balance minus non-suspended fee and check transactions is greater than zero, it will create a transaction to purchase the ACM fund.
+If that amount is less than zero, it will create a transaction to sell the ACM fund. ($[***] to $[***]) 
+
+Specifications and Functions 
+
+General 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Menu-based system - easy to learn and operate 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Comprehensive array of features/capabilities 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Runs under DOS or Windows - networks with NetBIOS compatible systems (like Novell) 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Daily or Weekly Officer’s Report 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Statistical report shows 2-page summary of department 
+
+Management Reporting 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Integrated tickler file and reporting 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Investment Review and Securities transaction report for committee Meetings 
+
+Accounting and Operations Reporting 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Daily balancing reports - cash and inventory 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Dividend/Interest Hap. with automated posting 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Cash Management (Money Market Funds) 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Six different formats of Customer Report available 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Annual report to Comptroller of the Currency (or FDIC) 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Tax Worksheet, Schedule D report 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+1099/5498 magnetic media reporting to IRS 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Trust fee calculation and processing 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Additional transaction codes may be defined by the user 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Suppresses incorrect entries and their reversals for the Customer Report 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Tickler researcher locates accounts missing vital data such as trust fee or distribution information
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Central address file option 
+
+Security 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Solid-state software key required to access the system 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Individual password for each operator 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Four security levels 
+
+Audit 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Broker report 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Dramatic reduction in time spent by bank examiners - tine for which you are charged 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Contains self-auditing features 
+
+Automated Market Value Updating 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+TrustNet Features automatic updating of the market value and ratings of nationally-traded securities.
+
+ 
+Data is received by modem from our Memphis office. 
+
+Advanced Modules 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+IQ Report Generator for ad hoc reporting 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Portfolio Modeling for asset re-allocation 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Checkwriting 
+
+Additional functions with Initial Custom Software 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+“F2” Notes Capability 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+800 Number Interface 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Trades Consolidation & Sub-Custodian Interface 
+
+ 
+ 
+Exhibit “C”
+
+Standard Billing Policies 
+
+General 
+ 
+Invoices for professional services and telephone
+support may be produced at any time but are primarily issued on a monthly basis. Invoices for software, hardware, supplies and miscellaneous services are issued at the time of delivery. 
+
+Personnel time 
+ 
+ 
+
+ 
+Installation/Training
+
+  
+
+$
+
+[
+
+***]/hr. 
+
+ 
+Telephone suport for SMS clients ([***] minimum)
+
+  
+
+$
+
+[
+
+***]/hr. 
+
+ 
+Programming ([***] minimum)
+
+  
+
+$
+
+[
+
+***]/hr. 
+
+ 
+System design and analysis
+
+  
+
+$
+
+[
+
+***]/hr. 
+
+ 
+Consulting
+
+  
+
+$
+
+[
+
+***]/hr. 
+
+ 
+Design, Programming and Telephone support for non-SMS customers
+
+  
+
+$
+
+[
+
+***]/hr. 
+
+ 
+Travel time 
+ 
+The first 4
+hours of travel time are billed at $[***] per hour. Travel time in excess of [***] hours for one trip will be charged at $[***] per hour. One trip may involve more than one travel day. Total travel and working time in any one day will not exceed
+[***] hours unless otherwise authorized by Licensee. 
+ 
+Expenses 
+
+Travel expenses will be charged at cost and includes reasonable transportation, lodging, meals and incidental expenses. Automobile mileage is billed at $[***]
+per mile. 
+ 
+Long distance telephone toll expenses to and from Licensee and calls made on Licensee’s behalf will be charged at $[***] per minute.
+Miscellaneous expenses incurred on Licensee’s behalf will be charged at actual cost. 
+ 
+Media & shipping charges 
+
+Shipments made at the request of Licensee will be shipped via United States Postal Service first class or standard United Parcel Service ground, unless another
+method is specified by Licensee. If alternate shipping is requested (e.g., Express Mail. Federal Express) Licensee will be charged that fee or Licensor will use Licensee’s account number to reverse the charges. All shipping costs by whatever
+carrier will be charged to Licensee. 
+ 
+Terms 
+ 
+Charges
+are due and payable within 15 days of receipt of invoice unless otherwise stated in the Agreement. Finance charges on delinquent balances will be accrued at [***]% per month. Payments received will be credited to outstanding finance charges first.
+
+ 
+ 
+Exhibit “D”
+
+HWA INTERNATIONAL 
+
+SOFTWARE LICENSE AMENDMENT 
+ 
+HWA
+International, hereinafter referred to as the licensor, by its acceptance of this amendment by authorized signature, and 
+Centurion Trust Company, 
+hereinafter referred to as the licensee, agree to accept the following amendment to the existing
+license agreement covering TrustNet. 
+ 
+Licensor grants permission to licensee to operate TrustNet on one additional properly configured Server located at
+its affiliate 
+FundMinder, Inc., 15233
+ 
+Ventura Boulevard, Suite 512,
+ Sherman
+ Oaks, CA 91403.
+ 
+ 
+This increases the number of licensed
+workstations to be shared by the two sites from 
+35 
+to 
+50.
+ 
+ 
+The amendment fee is 
+$[***]
+ 
+payable as a single payment with signed
+amendment. The amendment fee is payable at the offices of HWA International, Inc., 2565 Horizon Lake Drive, Suite 110, Memphis, Tennessee 38133. 
+ 
+SMS fee
+will increase by $[***] per workstation, beginning January 1, 1999. There is no SMS increase for the second server. 
+ 
+The licensor hereby grants and
+the licensee accepts the amendment. 
+ 
+ 
+
+ 
+HWA International, Inc.
+
+(Licensor)
+
+ 
+
+ 
+Centurion Trust Company
+
+2425 East Camelback Road, Suite 530
+ 
+Phoenix, AZ
+85016
+
+By:
+
+ 
+
+ 
+/s/ Donna Manley, VP
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+/s/ Gerard Dipoto
+
+(Authorized signature & title)
+
+ 
+
+ 
+
+(Authorized signature & title)
+
+Date:
+
+ 
+
+1-8-99
+
+ 
+
+ 
+
+Date:
+
+ 
+
+1/4/99
+
+ 
+June 9, 2008 
+
+Mr. Dennis Chance 
+ 
+Genworth Financial Trust Company 
+
+3200 North Central Avenue 
+ 
+7
+th
+ Floor 
+ 
+Phoenix, AZ 85012 
+
+Dear Dennis: 
+ 
+Enclosed is a counter-signed agreement for your
+records. 
+ 
+We deeply appreciate the confidence you have placed in us, and will do our best to take care of your immediate and long-term needs. 
+
+Please call if there is anything we can do to improve the efficiency of your operations. 
+
+With warmest regards, 
+
+/s/ Donna Manley
+
+Donna Manley
+
+Executive Vice President
+
+ 
+1-800-328-8661     phone: (901)388-6120     fax: (901)
+388-5574     www.hwainternational.com 
+
+HWA INTERNATIONAL 
+
+SOFTWARE LICENSE AMENDMENT 
+ 
+HWA
+International, Inc., hereinafter referred to as “Licensor”, by its acceptance of this amendment by authorized signature, and 
+Genworth Financial Trust Company
+ hereinafter referred to as “Licensee”, agree to accept the
+following amendment to the existing license agreement of TrustNet dated June 1, 1995. 
+ 
+Licensor grants permission to Licensee to add the following:
+
+ 
+ 
+
+ 
+Module Name
+
+  
+
+Std License Upgrade
+
+ 
+
+  
+
+Annual SMS
+
+ 
+
+ 
+109 additional workstations at $995 each
+
+  
+
+$
+
+[***]
+
+ 
+
+  
+
+$
+
+[***]
+
+ 
+
+ 
+This increases the number of licensed workstations from 75 to 184. Because this is the first workstation in a new pricing
+tier, the following modules also need to be upgraded to the level for 
+151-200
+ workstations. For the next 16 workstations that are added, there would be no increase in the license fees for the 
+add-on
+ modules. 
+ 
+ 
+
+ 
+Module Name
+
+  
+
+License for 1-5
+workstations
+
+ 
+
+  
+
+License for 151-200
+workstations
+
+ 
+
+  
+
+License Upgrade
+
+ 
+
+ 
+Check Writing
+
+  
+
+$
+
+[***]
+
+ 
+
+  
+
+$
+
+[***]
+
+ 
+
+  
+
+$
+
+[***]
+
+ 
+
+ 
+Quick Query
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+ 
+1099-MISC
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+ 
+MF Modeling
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+ 
+The license fee of, $[***] plus SMS for 2008 of $[***] is payable with the signed amendment at the offices of HWA
+International, Inc., at the address shown below. The annual SMS fee will increase as shown above, prorated this year. 
+ 
+Licensor hereby grants and Licensee
+accepts the amendment. 
+ 
+ 
+
+ 
+HWA International, Inc.
+ 
+8363 Wolf Lake
+Drive
+ 
+Suite 101
+ 
+Memphis, TN 38133
+
+ 
+
+ 
+
+ 
+Genworth Financial Trust Company 
+
+3200 North Central Avenue 7
+th
+ Floor
+
+Phoenix, AZ 85012
+
+ 
+/s/ Donna Manley
+
+ 
+
+ 
+
+ 
+/s/ Ron Link
+
+Authorized signature
+
+ 
+
+ 
+
+Authorized signature
+
+ 
+Donna Manley
+
+Printed name
+
+ 
+
+ 
+
+ 
+Ron Link
+
+Printed name
+
+ 
+Vice - President
+
+Title
+
+ 
+
+ 
+
+ 
+CFO
+
+Title
+
+ 
+6/10/08
+
+Date
+
+ 
+
+ 
+
+ 
+4/21/08
+
+Date
+
+ 
+October 27, 2009 
+
+Mr. Dennis Chance 
+ 
+Genworth Financial Trust Co. 
+
+3200 North Central Avenue 
+ 
+Phoenix, AZ 85012 
+
+Dear Dennis: 
+ 
+Enclosed is a counter-signed agreement for your
+records. 
+ 
+We deeply appreciate the confidence you have placed in us, and will do our best to take care of your immediate and long-term needs. 
+
+With warmest regards, 
+ 
+ 
+
+ 
+/s/ Donna Manley
+
+Donna Manley
+
+Executive Vice President
+
+ 
+1-800-328-8661     phone: (901)388-6120     fax: (901) 388-5574
+    www.hwainternational.com 
+
+RECEIVED OCT 27 2009 
+
+HWA INTERNATIONAL 
+
+SOFTWARE LICENSE AMENDMENT 
+ 
+HWA
+International, Inc., hereinafter referred to as “Licensor”, by its acceptance of this amendment by authorized signature, and 
+Genworth Financial Trust Company 
+hereinafter referred to as “Licensee”, agree to accept the
+following amendment to the existing license agreement of TrustNet dated June 1, 1995. 
+ 
+Licensor grants permission to Licensee to add the following:
+
+ 
+ 
+
+ 
+Module Name
+
+  
+
+Std License Upgrade
+
+ 
+
+  
+
+Annual SMS
+
+ 
+
+ 
+36 additional workstations at $995 each
+
+  
+
+$
+
+[***]
+
+ 
+
+  
+
+$
+
+[***]
+
+ 
+
+ 
+This increases the number of licensed workstations from 
+184
+ to 
+220
+. Because workstations over 200 are a new
+module pricing tier, the following modules also need to be upgraded to the level for 
+201-220
+ workstations. For the next 30 workstations that are added, there would be no increase in the license fees for the 
+add-on
+ modules. 
+ 
+ 
+
+ 
+Module Name
+
+  
+
+License for 151-200
+workstations
+
+ 
+
+  
+
+License for 201-250
+workstations
+
+ 
+
+  
+
+License Upgrade
+
+ 
+
+ 
+Check Writing
+
+  
+
+$
+
+[***]
+
+ 
+
+  
+
+$
+
+[***]
+
+ 
+
+  
+
+$
+
+[***]
+
+ 
+
+ 
+Quick Query
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+ 
+1099-MISC
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+ 
+MF Modeling
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+ 
+The license fee of $[***] plus SMS for the remainder of 2009 of $[***] is payable with the signed amendment at the offices of
+HWA International, Inc., at the address shown below. The annual SMS fee will increase as shown above, prorated this year. 
+ 
+Licensor hereby grants and
+Licensee accepts the amendment. 
+ 
+ 
+
+ 
+HWA International, Inc.
+ 
+8363 Wolf Lake
+Drive
+ 
+Suite 101
+ 
+Memphis, TN 38133
+
+ 
+
+ 
+
+ 
+Genworth Financial Trust Company
+
+3200
+ 
+North Central Avenue 7
+th
+ Floor
+
+Phoenix, AZ 85012
+
+ 
+/s/ Donna Manley
+
+Authorized signature
+
+ 
+
+ 
+
+ 
+/s/ Ron A. Link, CPA
+
+Authorized signature
+
+ 
+Donna Manley
+
+Printed name
+
+ 
+
+ 
+
+ 
+Ron A. Link, Cpa
+
+Printed name
+
+ 
+Vice President
+
+Title
+
+ 
+
+ 
+
+ 
+CFO
+
+Title
+
+ 
+10-27-09
+
+Date
+
+ 
+
+ 
+
+ 
+10/26/09
+
+Date
+
+HWA INTERNATIONAL 
+
+SOFTWARE LICENSE AMENDMENT 
+ 
+HWA
+International, Inc., hereinafter referred to as “Licensor”, by its acceptance of this amendment by authorized signature, and 
+AssetMark Trust Company, 
+hereinafter referred to as “Licensee”, agree to accept the following
+amendment to the existing license agreement of TrustNet dated June 1, 1995. 
+ 
+Licensor grants permission to Licensee to add the following: 
+
+ 
+
+ 
+Module Name
+
+  
+
+Std License Upgrade
+
+ 
+
+  
+
+Annual SMS
+
+ 
+
+ 
+30 additional workstations (#246 - # 275)
+
+  
+
+$
+
+[***]
+
+ 
+
+  
+
+$
+
+[***]
+
+ 
+
+ 
+This increases the number of licensed workstations from 245 to 275. Because workstations over 250 are a new module pricing
+tier, the following modules also need to be upgraded to the level for 
+251-300
+ workstations. For the next 25 workstations that are added, there would be no increase in the license fees for the 
+add-on
+ modules. 
+ 
+ 
+
+ 
+Module Name
+
+  
+
+Std License Upgrade for
+251-300
+ workstations
+
+ 
+
+  
+
+Annual SMS Increase for
+251-300
+ workstations
+
+ 
+
+ 
+Check Writing
+
+  
+
+$
+
+[***]
+
+ 
+
+  
+
+$
+
+[***]
+
+ 
+
+ 
+Quick Query
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+ 
+Licensor also grants permission to Licensee to delete the following module(s): 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+1099-MISC 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+1099-OID
+ 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Mutual Fund Modeling 
+
+The annual SMS fee will increase as shown above, prorated this year. 
+
+The following items are payable with the signed amendment at the offices of HWA International, Inc., at the address shown below.      
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+License Fee: $[***] 
+
+ 
+
+•
+
+ 
+
+ 
+Pro-rated
+ SMS: $[***] 
+
+Licensor hereby grants and Licensee accepts the amendment. 
+ 
+ 
+
+ 
+AssetMark Trust Company
+ 
+3200 N.
+Central Ave., 7
+th
+ Floor
+ 
+7
+th
+ Floor
+
+Phoenix, AZ 85012
+
+ 
+
+ 
+
+ 
+HWA International, Inc.
+ 
+8363 Wolf Lake
+Drive
+ 
+Suite 101
+ 
+Memphis, TN 38133
+
+ 
+/s/ Carla Binghan
+
+Authorized signature
+
+ 
+
+ 
+
+ 
+/s/ Donna Manley
+
+Authorized signature
+
+ 
+Carla Binghan
+
+Printed name
+
+ 
+
+ 
+
+ 
+Donna Manley
+
+Printed name
+
+ 
+IT Manager
+
+Title
+
+ 
+
+ 
+
+ 
+Vice - President
+
+Title
+
+ 
+9/27/17
+
+Date
+
+ 
+
+ 
+
+ 
+9/27/17
+
+Date
+
+HWA INTERNATIONAL 
+
+SOFTWARE LICENSE AMENDMENT 
+ 
+HWA
+International, Inc., hereinafter referred to as “Licensor”, by its acceptance of this amendment by authorized signature, and 
+AssetMark Trust Company, 
+hereinafter referred to as “Licensee”, agree to accept the following
+amendment to the existing license agreement of TrustNet dated June 1, 1995. 
+ 
+Licensor grants permission to Licensee to add the following: 
+
+ 
+
+ 
+Module Name
+
+  
+
+Std License Upgrade
+
+ 
+
+  
+
+Annual SMS
+
+ 
+
+ 
+[***]
+ additional users (#[***] - # [***])
+
+  
+
+$
+
+[***]
+
+ 
+
+  
+
+$
+
+[***]
+
+ 
+
+ 
+This increases the number of licensed users from [***] to [***] Because users over [***] are a new module pricing tier, the
+following modules also need to be upgraded to the level for [***]
+-[***] 
+users. For the next [***] 
+users
+ 
+that are added, there would be no increase in the license fees for the 
+add-on
+
+modules. 
+ 
+ 
+
+ 
+Module Name
+
+  
+
+Std License Upgrade for
+[***]-[***]
+ users
+
+ 
+
+  
+
+Annual SMS Increase for
+[***]-[***] users
+
+ 
+
+ 
+Check Writing
+
+  
+
+$
+
+[***]
+
+ 
+
+  
+
+$
+
+[***]
+
+ 
+
+ 
+Quick Query
+
+  
+
+ 
+
+[***]
+
+ 
+
+  
+
+ 
+
+[***]
+
+ 
+
+ 
+The annual SMS fee will increase as shown above, prorated this year. 
+
+The following items are payable with the signed amendment at the offices of HWA International, Inc., at the address shown below. 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+License Fee: $[***] 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Pro-rated
+ SMS: $[***] (March – December 31, 2018)
+
+ 
+Licensor hereby grants and Licensee accepts the amendment. 
+ 
+ 
+
+ 
+AssetMark Trust Company
+ 
+3200 N.
+Central Avenue
+ 
+7
+th
+ Floor
+
+Phoenix, AZ 85012
+
+ 
+
+ 
+
+ 
+HWA International, Inc.
+ 
+8363 Wolf Lake
+Drive
+ 
+Suite 101
+ 
+Memphis, TN 38133
+
+ 
+/s/ Muk Mehta
+
+Authorized signature
+
+ 
+
+ 
+
+ 
+/s/ Donna Manley
+
+Authorized signature
+
+ 
+Muk Mehta
+
+Printed name
+
+ 
+
+ 
+
+ 
+Donna Manley
+
+Printed name
+
+ 
+Chief Information Officer
+
+Title
+
+ 
+
+ 
+
+ 
+Vice - President
+
+Title
+
+ 
+11-8-18
+
+Date
+
+ 
+
+ 
+
+ 
+10/17/18
+
+Date

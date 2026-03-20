@@ -1,0 +1,2374 @@
+EX-10.14
+
+13
+
+d12389dex1014.htm
+
+EX-10.14
+
+EX-10.14
+
+Exhibit 10.14 
+
+PURSUANT TO ITEM 601(B)(10) OF REGULATION S-K, CERTAIN PORTIONS OF THIS EXHIBIT HAVE BEEN REDACTED AND, WHERE APPLICABLE, HAVE BEEN MARKED
+“[***].” SUCH REDACTIONS ARE IMMATERIAL AND WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED. 
+ 
+ANNEX 2 
+
+IOT HUB SOFTWARE LICENSE AGREEMENT 
+
+THIS IOT HUB SOFTWARE LICENSE AGREEMENT 
+(“
+Agreement
+”) is made and entered into on June 30, 2020: 
+
+ 
+
+ 
+
+(1)
+
+ 
+Otonomo Technologies Ltd., 
+a company incorporated in Israel, with its registered address at 16 Abba Eben
+Blvd. Hertzelyia, Israel (Parent Company of Otonomo GmbH) (“
+Licensor
+”); 
+ 
+AND 
+
+ 
+
+ 
+
+(2)
+
+ 
+Mitsubishi Motors Corporation, 
+a company incorporated in Japan, with its registered address/principal
+place of business at 
+l-21,
+ Shibaura 3chome, 
+Minato-ku,
+ Tokyo Japan (“
+Licensee
+”). 
+
+(Licensor and Licensee are collectively referred to as the “
+Parties
+” and individually referred to as “
+Party
+”) 
+
+RECITALS 
+ 
+ 
+
+(A)
+
+ 
+Licensor wishes to license to Licensee the access to the Licensed Software (as defined herein) used as an
+interface to the Otonomo Vehicle-data Marketplace Platform (“Marketplace”) so that it may receive the Provider’s Data through [***] (as defined herein). 
+
+ 
+
+(B)
+
+ 
+Licensee wishes to access the Licensed Software in the Territory (as defined herein) in order to transmit
+Provider’s Data (as defined herein) which Licensee has sufficient rights in to the Marketplace pursuant to the Vehicle-data Marketplace Agreement originally executed between the Otonomo GmbH (wholly owned subsidiary of Licensor) and Licensee on
+December 25, 2019, and revised on June 30, 2020 (“Marketplace Agreement”). Licensee collects Provider’s Data through Licensee’s own software [***], and sends the Provider’s Data to the Marketplace using the Client
+Application. 
+ 
+ 
+
+(C)
+
+ 
+Licensee desires to get a license from Licensor, and Licensor desires to grant to Licensee, a 
+non-exclusive
+ license to use the Licensed Software in the Territory pursuant to the terms of this Agreement. 
+
+NOW IT IS HEREBY AGREED 
+as follows: 
+ 
+ 
+
+1.
+
+ 
+DEFINITIONS AND INTERPRETATIONS
+ 
+
+ 
+
+1.1
+
+ 
+In this Agreement, if the context so permits or requires and where not inapplicable, the following terms shall
+have the following meanings: - 
+ 
+ 
+
+“Active Users”
+
+ 
+
+:    
+
+  
+
+means (i) in case of Personal Use Cases, users of the Client Application who have agreed to the Privacy Policy of Licensee and/or Licensee Affiliates displayed on the Client Application and gave full consent to Licensee for
+using their data for at least two specific Personal Use Cases on the Marketplace (for example, insurance, fleet management, parking and/or on-demand services) after the Service Launch, and (ii) in case of Aggregated Use Cases, users of the
+Client Application who provide at least 1 trip data per day on average and have agreed to the Privacy Policy of Licensee and/or Licensee Affiliates displayed on the Client Application and gave full consent to Licensee for using their
+data;
+
+ 
+ 
+1 
+
+“Aggregated Use Cases”
+
+ 
+
+:
+
+  
+
+means data use cases that require to use 
+non-personal
+ data and Provider’s Data which will be processed by Otonomo so that identifiable information directly connected to a specific
+individual will not be included in the data once transmitted to Data Consumers;
+
+“Claims”
+
+ 
+
+:
+
+  
+
+means any claims, suits, demands, causes of action, proceedings, losses, damages, liabilities, costs and expenses including reasonable legal fees;
+
+“Client Application”
+
+ 
+
+:
+
+  
+
+means any computer application or service developed and distributed by Licensee and/or Licensee Affiliates in order to access and communicate with the Licensed Software and provide the Provider’s Data to the
+Marketplace;
+
+“Confidential Information”
+
+ 
+
+:
+
+  
+
+means any information of a confidential nature which relates to a Party including all 
+know-how,
+ trade secrets, Intellectual Property and other information of a confidential nature (including,
+without limitation, all proprietary technical, industrial and commercial information and techniques in whatever form held, such as paper, electronically stored data, magnetic media film and microfilm or orally);
+
+“Credit”
+
+ 
+
+:
+
+  
+
+means a credit given to Licensee at the rate of USD [***] per Active User as of the end of each Fiscal Year after the Service Launch, as further provided in Section 3.1;
+
+“Dispute”
+
+ 
+
+:
+
+  
+
+has the meaning ascribed to it in Section 13.1;
+
+“Documentation”
+
+ 
+
+:    
+
+  
+
+means manuals, documents and any other supporting materials relating to the Licensed Software as provided by Licensor to Licensee for aiding the access to the Licensed Software by Licensee;
+
+“Effective Date”
+
+ 
+
+:
+
+  
+
+means the date shown at the top of the first page of this Agreement;
+
+“Fiscal Year”
+
+ 
+
+:
+
+  
+
+means the twelve (12) month period commencing from the first day of the month of the Service Launch each year;
+
+“Infringe” or “Infringement”
+
+ 
+
+:
+
+  
+
+means the acts of infringement under the laws of any jurisdiction, whether direct, or indirect (including contributory infringement, by inducement, or otherwise);
+
+“Intellectual Property”
+
+ 
+
+:
+
+  
+
+means and includes (as the context requires) any and all know-how, technology, technical experience and information, inventions, patents, patent applications, and patent disclosures (including all related divisions, continuations,
+continuing prosecution applications, continuations in part, reissues, renewals, 
+re-examinations,
+ and extensions thereof), works of authorship, copyrights, trade secrets, design rights, computer programs (in
+source code and object code form), flow charts, formulae, translations, specifications, designs, process technology, manufacturing requirements, quality control
+
+ 
+ 
+2 
+
+ 
+
+  
+
+standards, information and supply chain systems, and any other intellectual property rights, industrial property rights, intangible property rights, and proprietary rights, business goodwill anywhere in the world, whether registered
+or unregistered, and any and all additions, modifications, enhancements, updates, adaptions, extensions, derivative works, formulations or further developments thereto, used in connection with the manufacturing, marketing, distribution, sale, lease,
+licensing, use and exploitation of the products, and may be updated from time to time to include Intellectual Property that the Parties anticipate the Party will develop, or otherwise acquire, in the future;
+
+“License”
+
+ 
+
+:    
+
+  
+
+has the meaning ascribed to it in Section 2.2;
+
+“Licensee Affiliates”
+
+ 
+
+:
+
+  
+
+means Licensee’s subsidiaries, affiliates, group companies, authorized distributors in the Territory, and other companies directly or indirectly controlling, controlled by Licensee;
+
+“Licensed Software”
+
+ 
+
+:
+
+  
+
+shall mean server software service and interface software developed by Licensor, which enables Client Application access the server software so that the Marketplace receives Provider’s Data through [***];
+
+[***]
+
+ 
+
+:
+
+  
+
+means technology developed by Licensee to transmit Licensee’s vehicle data to smartphones from the 
+In-Vehicle
+ Infotainment system installed on vehicles developed and sold by
+Licensee;
+
+“Person”
+
+ 
+
+:
+
+  
+
+means an individual, trust, corporation, partnership, joint venture, limited liability company, association, unincorporated organization or other legal entity;
+
+“Personal Use Cases”
+
+ 
+
+:
+
+  
+
+means data use cases that require to use any Provider’s Data on a personal basis and require the consent from each individual for a specific service, i.e. data on specific identified or identifiable Individual;
+
+“Provider’s Data”
+
+ 
+
+:
+
+  
+
+has the same meaning as defined in the Marketplace Agreement;
+
+“Service Launch”
+
+ 
+
+:
+
+  
+
+means the first transmission of Provider’s Data, which shall be (i) twelve (12) weeks after the Effective Date; or (ii) the date of delivery from Licensor and acceptance by Licensee of the Licensed Software specified
+in Section 2.1, whichever comes later;;
+
+“Territory”
+
+ 
+
+:
+
+  
+
+shall mean any countries in the world;
+
+“Term”
+
+ 
+
+:
+
+  
+
+has the meaning ascribed to it in Section 8.1; and
+
+“Third Party”
+
+ 
+
+:
+
+  
+
+means any Person but excluding Licensor or Licensee.
+
+ 
+ 
+
+1.2
+
+ 
+The capitalized terms used in this Agreement but not otherwise defined in this Agreement shall have the
+meanings given to them in the Marketplace Agreement. 
+
+ 
+ 
+3 
+
+1.3
+
+ 
+Words denoting the singular number only shall include the plural number and vice versa. 
+
+ 
+
+1.4
+
+ 
+Headings in this Agreement are for convenience only and shall have no legal effect. 
+
+ 
+
+1.5
+
+ 
+The Appendices attached hereto form part of this Agreement and shall have effect as if set out in full in the
+body of this Agreement and any references to the Agreement shall include the Appendices (as may be amended from time to time). 
+ 
+ 
+
+1.6
+
+ 
+The Agreement binds the Parties and their respective assignees, successors and personal representatives.
+
+ 
+ 
+
+2.
+
+ 
+GRANT OF 
+NON-EXCLUSIVE
+ LICENSE
+ 
+
+ 
+
+2.1
+
+ 
+Delivery and Acceptance.
+ Licensor shall make the Licensed Software together with one set of
+Documentation available to Licensee as a service in accordance with the delivery schedule to be agreed between the Parties. Within 7 days after the Licensed Software being made available to the Licensee, Licensee shall conduct a connectivity test
+between Licensed Software and Client Application pursuant to the technical specifications that should be separately agreed between Licensor and Licensee, in order to check whether Licensee may transmit Provider’s Data to the Marketplace at a
+reasonable level, before Licensee commences providing Provider’s Data to the Marketplace using Licensed Software, [***] and Client Application. The Parties will agree on a set of test cases before Service Launch, and such connectivity test will
+be deemed successful if; 
+ 
+ 
+
+ 
+
+a.
+
+ 
+those test cases are executed without an issue; or 
+
+ 
+
+ 
+
+b.
+
+ 
+2 weeks after the Licensed Software is made available to and ready to be tested by Licensee, and (i) no
+major issues were identified in such test cases or (ii) such test cases are not conducted or not successful due to the reasons attributed to Licensee. 
+ 
+ 
+
+2.2
+
+ 
+Grant of License
+. Subject to the terms and conditions of this Agreement including payment of the fees,
+Licensor hereby grants to Licensee and Licensee Affiliates a 
+non-exclusive,
+ 
+non-transferable
+ (except as provided herein) license, during the Term, to access and use the
+Licensed Software for the sole purpose of providing Provider’s Data to the Marketplace (“
+License
+”). Licensor acknowledges and agrees that the Provider’s Data will be collected by Licensee’s 
+In-Vehicle
+ Infotainment (IVI) system, “[***]”, and sent through Client Application that will connect to the Licensed Software to transmit the Provider’s Data to the Marketplace. Licensee’s access
+to the Licensed Software shall be limited to access required in order to transmit the Provider’s Data to the Marketplace. 
+ 
+ 
+
+2.3
+
+ 
+Authorized Users
+. Licensee may authorise the use of the Licensed Software by Licensee Affiliates and its
+independent contractors who are engaged by Licensee in the project of collecting Provider’s Data and transmitting the Provider’s Data to Marketplace (through the Client Application or other software compatible with the Client Application
+which are subject to the same limitations as per this Agreement), provided that any sublicenses to such Authorized User (i) do not exceed the Term or the scope of the license granted herein, (ii) are on terms no less onerous than and are
+consistent with this Agreement and under which any Authorized Users shall be bound by the same obligations as Licensor has imposed on Licensee under the Marketplace Agreement; and Licensee (i) maintains a written list of current Authorized
+Users, and provides such list to Licensor upon request from time to time; and (ii) use its best endeavours to prevent any unauthorized access to, or use of, the Licensed Software and notify Licensor promptly of any such unauthorized access or
+use. 
+
+ 
+ 
+4 
+
+3.
+
+ 
+LICENSE FEES
+ 
+
+ 
+
+3.1
+
+ 
+License Fee.
+ In consideration for the grant of License under this Agreement, Licensee shall pay annual
+license fees (“License Fees”) based on the following: 
+ 
+ 
+
+ 
+
+a.
+
+ 
+Licensee shall pay USD [***] (“Base License Fee”) for Aggregated Use Cases and Personal Use Cases to
+the Licensor as the annual License Fees for the first Fiscal Year, which is due and payable as follows: (1) the first 50% of the Base License Fees to be paid by the end of the month following the month of the Effective Date and (2) the
+second 50% of the Base License Fees to be paid by the end of the month following the month of the Service Launch. Provided, however, that in the event Licensee may not transmit Provider’s Data to the Marketplace pursuant to Section 2.1 due
+to the reasons attributed to Licensor, Licensor shall refund to Licensee the first 50% of the Base License Fees paid to Licensor. 
+
+Subsequently, Licensee shall make the advance payment of the License Fees for the coming 12 months at the beginning of each Fiscal Year, based
+on invoices issued pursuant to Section 3.3. 
+ 
+ 
+
+ 
+
+b.
+
+ 
+When the number of Active Users at the end of a Fiscal Year reaches [***] and each time thereafter when the
+number of Active Users at the end of the a Fiscal Year increases by [***], Licensee shall pay additional License Fee of USD [***] (“Additional License Fee”) to Licensor pursuant to the invoice of Licensor issued under Section 3.3.
+
+ 
+ 
+
+ 
+
+c.
+
+ 
+Licensee shall be entitled to receive the Credit of USD [***] per Active User from the Licensor, which can be
+offset against the payment of License Fees in the next Fiscal Year. Namely, Licensee shall pay the following amount as the License Fees for the second and subsequent Fiscal Year: 
+
+(Base License Fee + Additional License Fee) - Credit given in the previous Fiscal Year 
+
+ 
+
+ 
+
+d.
+
+ 
+If the aggregate number of Active Users reaches or exceeds the threshold as specified in the table below
+(“Threshold”) by the end of the first Fiscal Year or any subsequent Fiscal Year, Licensee no longer needs to pay Base License Fees or Additional License Fee and shall be entitled to receive the Revenue Share from the next Fiscal Year
+pursuant to Section 3.2 and the terms of the Marketplace Agreement. 
+ 
+ 
+
+ 
+Total Number of
+Active Users
+
+  
+
+Total Base License Fee
+(USD)
+
+ 
+
+ 
+
+Total Additional
+License Fee (USD)
+
+ 
+
+ 
+
+Threshold
+
+ 
+
+ 
+1 – 20,000
+
+  
+
+ 
+
+[
+
+***] 
+
+ 
+
+ 
+
+[
+
+***] 
+
+ 
+
+ 
+
+[
+
+***] 
+
+ 
+20,001 – 40,000
+
+  
+
+ 
+
+[
+
+***] 
+
+ 
+
+ 
+
+[
+
+***] 
+
+ 
+
+ 
+
+[
+
+***] 
+
+ 
+40,001 – 60,000
+
+  
+
+ 
+
+[
+
+***] 
+
+ 
+
+ 
+
+[
+
+***] 
+
+ 
+
+ 
+
+[
+
+***] 
+
+ 
+60,000 – 80,000
+
+  
+
+ 
+
+[
+
+***] 
+
+ 
+
+ 
+
+[
+
+***] 
+
+ 
+
+ 
+
+[
+
+***] 
+
+ 
+For every additional 20,000 Active Users
+
+  
+
+ 
+
+[
+
+***] 
+
+ 
+
+ 
+
+[
+
+***] 
+
+ 
+
+ 
+
+[
+
+***] 
+
+ 
+ 
+
+ 
+
+e.
+
+ 
+If the Marketplace Agreement is terminated by Licensee within three years from the effective date of this
+Agreement, Licensee is not entitled to receive any Credit which Licensee has obtained by the time of the termination. If the Marketplace Agreement is 
+
+ 
+ 
+5 
+
+ 
+
+terminated by Licensee after three years from the effective date, Licensee is entitled to receive a refund of unused Credit from Licensor which shall be USD [***] per Active User as of the most
+recent Fiscal Year. 
+ 
+ 
+
+3.2
+
+ 
+Revenue Share.
+ 
+
+ 
+
+ 
+
+a.
+
+ 
+If the aggregate number of Active Users does not reach [***] at the end of the first Fiscal Year or any
+subsequent Fiscal Year, Licensee shall not be entitled to receive any Revenue Share under the Marketplace Agreement. 
+ 
+ 
+
+ 
+
+b.
+
+ 
+If the aggregate number of Active Users reaches or exceeds the Threshold by the end of the first Fiscal Year or
+any subsequent Fiscal Year pursuant to Section 3.1, Licensor shall pay to Licensee [***]% of the revenues actually collected by Licensor from selling Marketplace Data relating to Active Users to Customers, apart from refunds and chargebacks.
+
+ 
+ 
+
+ 
+
+c.
+
+ 
+Active Users shall be allocated for issuing of Credits by date and time on which they agreed to the Privacy
+Policy of the Client Application and gave full consent for using their data for two specific personal 
+use-cases
+ on the Marketplace (for example, insurance, fleet management, parking and/or 
+on-demand
+ services) in ascending order. 
+ 
+ 
+
+3.3
+
+ 
+Report and Invoice.
+ Licensor and Licensee shall submit reports and invoices based on the following
+procedures. 
+ 
+ 
+
+ 
+
+a.
+
+ 
+By the end of each Fiscal Year, Licensee shall provide a written report to Licensor indicating the aggregate
+number of Active Users. 
+ 
+ 
+
+ 
+
+b.
+
+ 
+By the end of each Fiscal Year, Licensee shall issue an invoice to the Licensor in relation to the Revenue
+Share (if any) for the last 12 months, calculated pursuant to Section 3.2 and based on the provisions of the Marketplace Agreement and the Licensor’s monthly reports provided by Licensor as per the Marketplace Agreement.
+
+ 
+ 
+
+ 
+
+c.
+
+ 
+Licensor and Licensee may request, within 14 days from the receipt of the report or invoice stipulated in
+preceding sections, that the other party provide detailed explanation of the basis of calculation. The Parties then shall enter into faithful discussions, and if the Parties agree to make a correction to the number of the Active User or Credit,
+adjust the number of the Active User or Credit accordingly. The parties will make good-faith efforts to resolve any such dispute pursuant to the dispute resolution process under Section 13.1. 
+
+ 
+
+ 
+
+d.
+
+ 
+By the beginning of each Fiscal Year, Licensor shall issue an invoice for the License Fees for the coming 12
+months. 
+ 
+ 
+
+ 
+
+e.
+
+ 
+By the end of the month following the month in which Licensor issues the invoice, Licensee shall pay to
+Licensor the License Fees. 
+ 
+ 
+
+ 
+
+f.
+
+ 
+The Revenue Share to be paid by Licensor to Licensee shall be as per the provisions of the Marketplace
+Agreement. 
+ 
+ 
+
+3.4
+
+ 
+Taxes and Duties
+. All payments due under the terms of this Agreement shall be made free and clear of,
+and without deduction or withholding for or on account of, any present or future tax, levy, impost, duty, charge, assessment or fee (including, without limitation, any withholding taxes and any interest or penalties) imposed by any applicable
+federal, provincial or local taxing authority on any person including Licensor. 
+
+ 
+ 
+6 
+
+3.5
+
+ 
+After the Service Launch, the Parties will determine the technical methodology and process by which Licensee
+may make Provider’s Data available for Personal Use Cases as well as Aggregated Use Cases to Licensor through the Marketplace. If the Parties may not agree on such technical methodology and process within two months after the Service Launch,
+which may be extended from time to time upon mutual consent in writing between the Parties, both the Marketplace Agreement and this Agreement will be automatically terminated. 
+
+ 
+
+4.
+
+ 
+LICENSOR’S OBLIGATIONS
+ 
+
+ 
+
+4.1
+
+ 
+Security.
+ Licensor hereby represents and warrants that Licensor satisfies all items of the IT Security
+Checklist specified in ANNEX 3 and of the Processing of Personal Data specified in ANNEX 4. 
+ 
+ 
+
+4.2
+
+ 
+Penetration Test.
+ Licensor shall conduct from time to time and before the Service Launch security
+diagnosis test of the system in general which will cover also diagnosis in relation to provision of Provider’s Data to Marketplace including but not limited to a penetration test. Upon request from Licensee Licensor will provide Licensee with
+such security diagnosis tests results. In case that any vulnerabilities are found during such security diagnosis tests, the Parties shall take all commercially reasonable steps to address any severe vulnerabilities found before the Service Launch,
+based on priorities agreed between the Parties. 
+ 
+ 
+
+4.3
+
+ 
+Incident Response.
+ Licensor agrees to take the following incident response actions:
+
+ 
+ 
+
+ 
+
+a.
+
+ 
+Licensor and Licensee will establish organizational structure and internal process concerning response to
+incidents (such as hacking, disclosure of personal data, violation of applicable laws and regulations) relating to Provider’s Data and Marketplace Data originating from Provider’s Data (as applicable) before commencement of provision of
+Provider’s Data to Marketplace by Licensee using Licensed Software, [***] and Client Application. Both parties shall provide a report to the other party upon completion of implementing such organizational structure and internal process.
+
+ 
+ 
+
+ 
+
+b.
+
+ 
+Licensor and Licensee shall appoint a contact in relation to incident response in case of emergency situations
+and ordinary activities (including monitoring of system and joint assessment of third party products vulnerability) and provide information concerning the contact to the other party. 
+
+ 
+
+ 
+
+c.
+
+ 
+Licensor shall provide responses to inquiries from Licensee concerning security incidents concerning
+Provider’s Data within 48 hours. 
+ 
+ 
+
+ 
+
+d.
+
+ 
+Licensor shall provide a report to Licensee within 48 hours since Licensor becomes aware of a security incident
+concerning Provider’s Data, and shall provide necessary notices and supports to 
+end-users
+ pursuant to the instructions and information provided by Licensee. 
+
+ 
+
+ 
+
+e.
+
+ 
+Any processing of Personal Information for the transition of the Provider’s Data to the Licensed Software
+shall be, by both Licensor and Licensee, pursuant to the provision of Processing of Personal Data specified in ANNEX 4. 
+
+ 
+ 
+7 
+
+ 
+
+f.
+
+ 
+Licensee shall have the right to immediately suspend provision of Provider’s Data to the Marketplace when
+Licensee determines based on its sole discretion that Licensor is not compliant with the security requirements in this Section. 
+ 
+ 
+
+ 
+
+g.
+
+ 
+Licensee shall have the right to immediately suspend provision of Provider’s Data to the Marketplace when
+Licensee becomes aware of any vulnerability in [***] and/or the Client Application, and Licensor shall not seek compensation to Licensee for damages arising from such suspension of provision of Provider’s Data (for avoidance of doubt such
+suspension shall not affect the Licensee’s obligation to pay the agreed License fees). 
+ 
+Privacy –
+ 
+
+The Parties agree that Privacy provisions under the Marketplace Agreement shall apply to this Agreement.
+ 
+
+ 
+
+4.4
+
+ 
+Support and Maintenance.
+ In the event that a material technical defect or security issue is found in the
+Licensed Software or otherwise the Licensed Software does not materially operate pursuant to the technical specifications, Licensor shall, in coordination with Licensee, provide to Licensee within two (2) weeks an initial report detailing the
+plans to address such technical defects or security issues and, in coordination with Licensee, take necessary steps within one (1) month. Licensor also shall conduct periodical monitoring of vulnerability information and apply all relevant
+software patches and updates. 
+ 
+ 
+
+4.5
+
+ 
+Roles and Responsibilities of Licensor and Licensee.
+ Licensor and Licensee take the following actions so
+that Licensee may provide the Provider’s Data to the Marketplace and Licensor may sell Marketplace Data and Derivative Data on the Marketplace: 
+ 
+ 
+
+ 
+
+a.
+
+ 
+Licensor shall provide the following to Licensee: 
+
+ 
+
+ 
+
+(i)
+
+ 
+Operation and technical support for integration and deployment of the connectivity to the IOT HUB so that
+Licensee may transmit Provider’s Data from [***] to the Marketplace; 
+ 
+ 
+
+ 
+
+(ii)
+
+ 
+Relevant APIs and documentation in order to allow Client Application to lawfully send Provider’s Data in
+which Provider has sufficient rights, to Licensor; 
+ 
+ 
+
+ 
+
+(iii)
+
+ 
+Licensor represents and warrants that Licensor conducts Data Protection Impact Assessment (“DPIA”) on
+the Licensed Software before the Service Launch, and in case of any change of the risks resulting from the processing operations, for example, because of the change or modification to the Licensed Software, Licensor shall, if required under the
+applicable privacy regulations, shall 
+re-conduct
+ DPIA and provide the results to Licensee. 
+ 
+ 
+
+ 
+
+b.
+
+ 
+Licensee shall provide the following to Licensor: 
+
+ 
+
+ 
+
+(i)
+
+ 
+software and technical support for [***]; 
+
+ 
+
+ 
+
+(ii)
+
+ 
+software and technical support for the Client Application, in order to send vehicle data and personal data to
+the Licensed Software through MQTT protocol. 
+
+ 
+ 
+8 
+
+ 
+
+(iii)
+
+ 
+Licensee shall represent and warrant that it obtains consent from
+
+end-users
+ for sales and provision of the 
+end-user’s
+ personal data to Licensor and that it has all rights, title, licenses, permissions, consents, authorization and
+title to grant the rights and permissions to use such personal data under the terms of this Agreement. 
+ 
+ 
+
+ 
+
+(iv)
+
+ 
+Licensee represents and warrants that Licensee conducts Data Protection Impact Assessment (“DPIA”) on
+the Client Application and the [***] before the Service Launch, and in case of any change of the risks resulting from the processing operations, for example, because of the change or modification to the Client Application and /or the [***] Licensee
+shall, if required under the applicable privacy regulations, shall 
+re-conduct
+ DPIA and provide the results to Licensor. 
+
+ 
+
+5.
+
+ 
+SPECIAL PROVISIONS CONCERNING THE LICENSED SOFTWARE AND TRANSMITION OF DATA
+
+ 
+ 
+
+5.1
+
+ 
+Compliance with Law.
+ Either Party shall comply with all applicable laws, regulations and governmental
+orders concerning the transition and use of the Provider’s Data, including but not limited to applicable data privacy and IT security laws, pursuant to the provisions of the Marketplace Agreement. Either Party shall, at its own expense, obtain
+and maintain in full force and effect throughout the continuance of this Agreement, all licenses, permits, authorisations, approvals and government filings and registrations. 
+
+ 
+
+5.2
+
+ 
+Further assurances.
+ Neither Party shall adopt or use any trademark, trade name, symbol or logo that is
+confusingly similar to any of the marks of the other Party, and shall not seek to register in its own name any of the marks of the other Party or any confusingly similar marks, or any translations or transliterations thereof, in any country during
+and after the term of this Agreement, which obligations shall survive expiration or termination of this Agreement for any reason whatsoever. 
+ 
+ 
+
+6.
+
+ 
+BOOKS AND RECORDS
+ 
+
+ 
+
+6.1
+
+ 
+Maintenance of Revenue Records.
+ At all times during the Term, Licensor shall maintain, complete and
+accurate records of sales of Provider’s Data, the revenue and allocation of Active Users for issuing of Credits. At all times during the Term, Licensee shall maintain, complete and accurate records of Active Users. 
+
+ 
+
+6.2
+
+ 
+Examination of Records.
+ Licensee and/or its independent, reputable, recognized third party auditor shall
+have the right, at its sole expense, upon reasonable notice during normal business hours, to examine or audit at Licensor’s business premises the books and records of Licensor pertaining to this Agreement. Licensor shall render all reasonable
+assistance to Licensee and/or its independent, reputable, recognized third party auditor for the purposes of carrying out inspections and audits. In this regard, Licensee may request Licensor to disclose all related information for examination or
+audit to Licensee, except for third parties’ confidential information that Licensor is restricted from sharing despite its reasonable efforts to obtain consent to disclose such confidential information therefrom. Licensee is entitled to
+exercise its right to inspect and audit Licensee’s books and records one (1) time in each calendar year during the Term. Audit access by any third party representative of Licensee shall be subject to such representative agreeing
+confidentiality obligations with Licensee in respect of Licensor’s information to be obtained. The final audit report shall be confidential information of Licensor and the auditor will submit a copy of the report to Licensor.
+
+ 
+ 
+9 
+
+6.3
+
+ 
+Licensor
+ and/or its independent, reputable, recognized third party auditor shall have the right, at its
+sole expense, upon reasonable notice during normal business hours, to examine or audit at Licensee’s business premises the books and records of Licensee pertaining to this Agreement and in particular the calculation of Active Users. Licensee
+shall render all reasonable assistance to Licensor and/or its independent, reputable, recognized third party auditor for the purposes of carrying out inspections and audits. In this regard, Licensor may request Licensee to disclose all related
+information for examination or audit to Licensor, except for third parties’ confidential information that Licensee is restricted from sharing despite its reasonable efforts to obtain consent to disclose such confidential information therefrom.
+Licensor is entitled to exercise its right to inspect and audit Licensor’s books and records one (1) time in each calendar year during the Term. Audit access by any third party representative of Licensor shall be subject to such
+representative agreeing confidentiality obligations with Licensor in respect of Licensee’s information obtained. The final audit report shall be confidential information of Licensee and the auditor will submit a copy of the report to Licensee.
+
+ 
+ 
+
+6.4
+
+ 
+Deficiency in Payment.
+ In the event that an examination or audit reveals any underpayment of Revenue
+Share, Licensor immediately shall pay the amount of deficiency, together with arm’s-length interest from the due date to the date such deficiency is paid in full. 
+
+ 
+
+7.
+
+ 
+INTELLECTUAL PROPERTY RIGHTS
+ 
+
+ 
+
+7.1
+
+ 
+Licensor’s Property.
+ Licensee hereby acknowledges that Licensor is the owner, or authorised
+licensee, of all rights, title and interests in and to all of the Licensed Software, and Licensee shall acquire no rights whatsoever in or to any of Licensed Software, except as rights specifically provided in this Agreement. 
+
+ 
+
+7.2
+
+ 
+Licensee’s Property.
+ Licensor hereby acknowledges that Licensee is the owner, or authorised
+licensee, of all rights, title and interests in and to all of [***] and the Client Application, and Licensor shall acquire no rights whatsoever in or to any of them, except as specifically provided in this Agreement. 
+
+ 
+
+7.3
+
+ 
+Protection.
+ Both Parties shall take all actions, and shall provide the other Party with all assistance,
+as Licensor shall reasonably request, to protect and perfect the Intellectual Property of the other Party. 
+ 
+ 
+
+7.4
+
+ 
+No reproduction, analysis sand reverse engineering
+. Licensee agrees not to reproduce, decompile,
+disassemble, reverse engineer or otherwise attempt to derive the Licensed Software’s source code from object code. Licensor agrees not to not to reproduce, decompile, disassemble, reverse engineer or otherwise attempt to derive the source code
+of [***] and the Client Application from object code. 
+ 
+ 
+
+7.5
+
+ 
+Infringement
+. Each Party shall promptly notify the other Party of any actual or suspected misuse,
+infringement or other violation of the Intellectual Property of the other Party that comes to its attention. 
+ 
+ 
+
+8.
+
+ 
+TERM AND TERMINATION
+ 
+
+ 
+
+8.1
+
+ 
+Term.
+ This Agreement shall be effective from the Effective Date until the Marketplace Agreement is
+terminated (“Term”). 
+ 
+ 
+
+8.2
+
+ 
+Termination
+. Either Party may, without limiting its other rights or remedies hereunder, terminate this
+Agreement or the Marketplace Agreement, in whole or in part, if the other Party (i) fails to perform any of its obligations hereunder in any material respect or repeatedly fails 
+
+ 
+ 
+10 
+
+to perform any of its obligations hereunder and the cumulative effect thereof could
+reasonably be considered material, and does not cure such breach within thirty (30) days after receipt of a notice of breach from the other Party; or (ii) materially breaches any duty or obligation hereunder that is not capable of being
+corrected within thirty (30) days. 
+ 
+ 
+
+8.3
+
+ 
+Obligation after Termination.
+ Termination of this Agreement for any reason whatsoever shall not relieve
+Licensee of its obligations under Section 4 to pay all outstanding License Fees due. Licensor shall refund the Credit, if any, pursuant to Section 4.1. 
+
+ 
+
+8.4
+
+ 
+No Waiver.
+ Termination of this Agreement by either Party shall be without prejudice to any right that
+exists at law or in equity prior to termination. Notwithstanding anything to the contrary in this Agreement, Licensor acknowledges and agrees that (a) its failure to perform its obligations under Section 11 of this Agreement shall result
+in immediate and irreparable damage to Licensee, (b) no adequate remedy at law exists for such damage, and (c) in the event of such failure or breach, Licensee shall be entitled to equitable relief by way of temporary, preliminary and
+permanent injunctions, and such other and further relief as any court of competent jurisdiction may deem just and proper, in addition to, and without prejudice to, any other relief to which Licensee may be entitled. 
+
+ 
+
+9.
+
+ 
+REPRESENTATIONS AND WARRANTIES
+ 
+
+Each Party represents and warrants to the other Party that it has full corporate power and authority to enter into this Agreement and to
+perform its respective duties and obligations under this Agreement. 
+ 
+ 
+
+10.
+
+ 
+INDEMNIFICATION
+ 
+
+ 
+
+10.1
+
+ 
+Indemnity by Licensee.
+ Licensee shall indemnify, defend and hold harmless Licensor, and its officers,
+directors, employees and agents, against any and all Claims, arising from, or attributable to the acts or omissions of Licensee, and any of its officers, directors, employees and agents, including but not limited to any provision of data and 
+non-compliance
+ with the applicable law and unauthorised use of the Intellectual Property in the Client Application and the [***]. Licensor agrees to give Licensee prompt and timely notice of any Claim.
+Licensee’s indemnification obligation is subject to the following conditions: (a) Licensor provides Licensee with prompt and timely notice of any Claim, (b) Licensee or its designee shall be solely responsible for the defense,
+settlement and discharge of such Claim, and (c) Licensor shall furnish Licensee with such assistance as Licensee shall reasonably request in connection with the defense, settlement and/or discharge of such Claim, including without limitation
+agreeing to act as the sole or joint claimant or plaintiff in any lawsuits or other proceedings, as permitted under applicable law, as directed by Licensee. 
+ 
+ 
+
+10.2
+
+ 
+lndemnity by Licensor.
+ Licensor shall indemnify, defend and hold harmless Licensee against all Claims
+arising from, or attributable to any allegation that Licensee’s use of the Intellectual Property in Licensed Software in accordance with the terms of this Agreement infringes or otherwise violates any patent, trademark, service mark, copyright,
+design rights, trade secret or other intellectual property right of a Third Party. Licensee agrees to give Licensor prompt and timely notice of any Claim. Licensor’s indemnification obligation is subject to the following conditions:
+(a) Licensee provides Licensor with prompt and timely notice of any Claim, (b) Licensor or its designee shall be solely responsible for the defense, settlement and discharge of such Claim, and (c) Licensee shall furnish Licensor with
+such assistance as Licensor shall reasonably request in connection with the defense, settlement and/or discharge of such Claim, including without limitation agreeing to act as the sole or joint claimant or plaintiff in any lawsuits or other
+proceedings, as permitted under applicable law, as directed by Licensor. 
+
+ 
+ 
+11 
+
+11.
+
+ 
+CONFIDENTIAL INFORMATION
+ 
+
+ 
+
+11.1
+
+ 
+Nondisclosure Obligation
+. Both Parties hereby acknowledge that each Party’s Confidential
+Information shall remain the sole and exclusive property of the Party. All of the Confidential Information disclosed or revealed to one Party to the other hereunder is disclosed solely to permit the Party to exercise its rights and perform its
+obligations under this Agreement. The receiving party shall not use any of the Confidential Information for any other purpose, and shall not disclose or reveal any of the Confidential Information to any Third Party without the prior written
+authorisation of the disclosing Party. 
+ 
+ 
+
+11.2
+
+ 
+Security.
+ Both Parties shall implement all reasonable security measures, and shall take all reasonable
+actions, including, but not limited to, the initiation and prosecution of legal or administrative actions, to prevent the unauthorised use, appropriation or disclosure of any of other Party’s Confidential Information. 
+
+ 
+
+11.3
+
+ 
+Ownership of Materials
+. Both Parties expressly acknowledges and agrees that all documents and materials
+that contain or embody any Confidential Information are and shall remain the sole property of the disclosing Party. Such materials shall be promptly returned to the disclosing Party upon the disclosing Party’s reasonable request, or upon
+termination of this Agreement. 
+ 
+ 
+
+11.4
+
+ 
+Exceptions
+. The provisions of this Section II shall not apply to data and information if they
+(a) were already known to the receiving Party prior to disclosure, (b) have come into the public domain without breach of confidence by the receiving Party or any other Person, (c) were received by the receiving Party from a Third
+Party without restrictions on their use in favor of the disclosing Party, or (d) are required to be disclosed pursuant to any applicable law, rule, regulation, or government or court order. 
+
+ 
+
+12.
+
+ 
+ASSIGNMENT
+ 
+
+This Agreement and the rights, license, and obligations hereunder may not be assigned, by operation of law or otherwise, by Licensor to any
+Third Party without the express prior written consent of Licensee, in its sole and absolute discretion, except as otherwise provided in this Agreement. Licensee may assign a part or whole of its rights and obligations under this Agreement to
+Licensee Affiliates pursuant to the provisions of the Marketplace Agreement. 
+ 
+ 
+
+13.
+
+ 
+CHOICE OF LAW
+ 
+
+ 
+
+13.1
+
+ 
+Dispute Resolution
+. Prior and as a condition for commencing a legal action, a Party will create an
+escalation process and provide a written copy to the other Party within five (5) business days of any dispute arising out of or relating to this Agreement. The escalation process will be used to resolve any and all issues, including but not
+limited to legal issues and technical problems. The Parties will communicate regularly about the issues as set forth in their respective escalation process documentation and attempt in good faith to resolve any dispute arising out of or relating to
+this Agreement, first as set forth above in the escalation process and next by negotiation between higher level executives with authority to settle the controversy. Any Party may give the other Party a written notice of any dispute not resolved in
+the escalation process. Within two (2) business days after delivery of the notice, the receiving Party will submit to the other a written response. The notice and the response will include (a) a statement of each Party’s position and
+a summary of arguments supporting that position and (b) the name and title of the executive who will represent that Party. Within five (5) business days after delivery of the disputing Party’s notice, the executives of both Parties
+will meet at a mutually acceptable time and place, including telephonically, and thereafter as often as they reasonably deem necessary, to attempt to resolve the dispute. All reasonable requests for information made by one Party to the other will be
+honored. All negotiations pursuant to this clause are confidential and will be treated as compromise and settlement negotiations for purposes of applicable rules of evidence. 
+
+ 
+ 
+12 
+
+13.2
+
+ 
+Governing Law.
+ This Agreement and any dispute arising out of or related thereto or to the Agreement are
+governed solely by the laws of the England, without giving effect to any conflicts of law principles which would result in the application of the laws of a jurisdiction other than the England. Any dispute, claim or controversy arising out of,
+connected with or relating to the Agreement will be finally settled by arbitration in London in accordance with the Rules of Arbitration of the International Chamber of Commerce by one or more arbitrators appointed in accordance with the said Rules.
+Such arbitration shall be conducted in English. The award of the arbitrators shall be final and binding upon the Parties 
+ 
+ 
+
+14.
+
+ 
+GENERAL PROVISIONS
+ 
+
+ 
+
+14.1
+
+ 
+No Waiver
+. The failure of either Party to assert any of its rights under this Agreement shall not be
+deemed to constitute a waiver of that Party’s right thereafter to enforce each and every provision of this Agreement in accordance with its terms. 
+ 
+ 
+
+14.2
+
+ 
+Subject Headings
+. The subject headings of this Agreement are included for purposes of convenience only
+and shall not affect the construction or interpretation of any of its provisions. 
+ 
+ 
+
+14.3
+
+ 
+Severability
+. In the event that any provision hereof is found invalid or unenforceable pursuant to a
+final judicial decree or decision, the remainder of this Agreement will remain valid and enforceable according to its terms. In the event of such partial invalidity, the Parties shall seek in good faith to agree on replacing any such legally invalid
+provision with a provision which, in effect, will most nearly and fairly approach the effect of the invalid provision. 
+ 
+ 
+
+14.4
+
+ 
+Language of the Contract; Counterparts
+. Both Parties agree that the English language shall be the
+language of interpretation of this Agreement. This Agreement may be executed in two or more counterparts, each of which will be deemed an original, but all of which together constitute one and the same instrument. 
+
+ 
+
+14.5
+
+ 
+Enforcement
+. To the maximum extent permitted under applicable laws, a Person who is not a Party to this
+Agreement shall have no right to rely upon or enforce any term of this Agreement. 
+ 
+ 
+
+14.6
+
+ 
+Entire Agreement and Amendments
+. This Agreement constitutes the entire agreement between the Parties,
+and supersedes all prior agreements, understandings and communications between the Parties, with respect to the subject matter hereof. No modification or amendment to this Agreement shall be effective unless in writing and executed by the duly
+authorised representative of each of the Parties. 
+ 
+ 
+
+14.7
+
+ 
+Conflict
+. In case of a conflict between the provisions of this Agreement and those of the Marketplace
+Agreement, this Agreement will prevail. 
+ 
+[
+The remainder of this page intentionally left blank
+]
+ 
+
+ 
+ 
+13 
+
+The Parties have caused this Agreement to be executed by their duly authorised representatives effective as
+of the Effective Date. 
+ 
+ 
+
+Signed for and on behalf of
+
+  
+
+  
+
+Signed for and on behalf of
+
+Otonomo Technologies Ltd.
+
+  
+
+  
+
+Mitsubishi Motors Corporation
+
+ 
+/s/ Ben Volkow
+
+  
+
+  
+
+ 
+/s/ Shingaku Kochi
+
+Name :
+
+  
+
+Ben Volkow
+
+  
+
+  
+
+Name :
+
+  
+
+Shingaku Kochi
+
+Title   :
+
+  
+
+     CEO
+
+  
+
+  
+
+Title   :
+
+  
+
+General Manager,
+
+  
+
+  
+
+  
+
+  
+
+Connected Information Business
+
+ 
+ 
+14 
+
+ANNEX 3 
+
+IT SECURITY CHECKLIST 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+In order to manage information security and protect personal information, an organizational structure or process
+has been established. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+A responsible party has been established for the management of information security and protection of personal
+information. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Rules have been established, and the application of those rules is enforced, for the management of information
+security and protection of personal information. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+The implementation status of security control measures of information is assessed periodically, and fixes or
+improvements are conducted therein. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+In relation to offered services or stored informational property, the following items can be disclosed within 30
+days of request: 
+ 
+ 
+
+ 
+
+1.
+
+ 
+Fundamental information security objectives/policy 
+
+ 
+
+ 
+
+2.
+
+ 
+Information necessary for the governance of the company (e.g. identified risks; management policy assessments;
+the status of fixes or improvements; necessary maintenance status, application status, management policy, and machine data that reflects system status, to the extent that it is needed for assessments of the company) 
+
+ 
+
+ 
+
+3.
+
+ 
+In the case of a Cloud service-level offering, the effects of any changes to offered services on third parties
+(defined as other Cloud users), including the effects changes may have on third parties’ remote access and mobile computing 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+All provided information is used solely for the purpose of the contract, and for no any other purpose whatsoever.
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+There is access management to data protocols, with strong authorization and authentication mechanism that
+protects from receiving unauthorized data. In addition all data is encrypted at rest and in transit. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Recording of the provided information onto personal devices or storage mediums is prohibited.
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Access for any given person is limited as much as possible, and a practice of denying unauthorized access is in
+place. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+In the case of a datacenter-level offering, there are restrictions on parties who are allowed to enter the
+premises, and a record is kept of all who enter and leave. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+In order to discern who has access to systems of provided information, a user ID and password (and so on) is used
+for authentication. 
+
+ 
+ 
+15 
+
+ 
+
+•
+
+ 
+
+ 
+Regarding passwords, rules on configuration and management have been established, and individual users manage
+their passwords in accordance with those rules. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+In order to minimize the danger of unauthorized computer access, a system is in use whereby access is granted
+based on division of duties. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+In the case of an application-level offering, application changes do not produce unintended and unnecessary
+effects, direct changes to the production application are not conducted; instead, a development/testing application layer is defined, and changes are enacted first on the development/testing application before being pushed to the production
+application. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Administrators have been appropriately restricted and controlled. 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Access logs are kept on information systems. 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Regarding the handling of provided information, confidentiality to the extent of the contract as well as security
+control measures are fully documented and known. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Information security training is provided beyond the extent needed just for compliance with the contract.
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Measures are in place to prevent the leakage, loss, destruction, or falsification of information.
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Monitoring software, etc. is in place to protect against and detect any penetration of computer viruses or
+unauthorized access. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Anti-virus software is in place, and the pattern file is updated and virus scans are conducted regularly.
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+In order to protect against any vulnerabilities in software, recent patches are applied and version updates are
+conducted. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Installing software without the permission of the company is prohibited. 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Access to unnecessary websites is limited. 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Protection against loss or theft of portable devices or storage mediums is enforced through supervision and
+training. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Copying, reproduction, printing, transfer or transmission is enforced to the extent which it is consented upon by
+the entrusted party. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+The deletion of information is conducted in accordance with rules which leave data in a state in which it has
+been completely wiped and cannot be accessed or used again. (Beyond what is contracted, this also applies to third party users in the Cloud and other offerings.) 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+When the Internet or a wireless LAN to deal with provided information is used, and each has the possibility of
+having information intercepted, ciphers/encryption are utilized. 
+
+ 
+ 
+16 
+
+ 
+
+•
+
+ 
+
+ 
+Backing up information involves the designation of a supervisor who manages strictly in accordance with rules.
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+In order to protect data backups, except when strictly supervised delivery/transport of backup mediums is
+undertaken, actions are taken to prevent the recording of provided information onto portable devices or storage mediums, and to protect data via ciphers/encryption so that it cannot be leaked, lost, or stolen. 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+When an incident occurs, or the possibility is high that an incident may occur, reporting line to the entruster
+should be established within reasonable time. In the event of reconsignment, to the extent consented to via the original entrusted party, the aforementioned standards continue to be applied. 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Services and their system resources are regularly monitored in a reasonable and appropriate manner in accordance
+with industry best practices for security weaknesses, and system and software security threat information published or announced by industry security groups, governmental organizations or other sources 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Process is established to evaluate, assess, and design or develop corrective actions or software updates
+information brought to the attention by MMC, end-users, or other sources 
+ 
+[
+The remainder of this page intentionally
+left blank
+] 
+
+ 
+ 
+17 
+
+ANNEX 4 
+
+PROCESSING OF PERSONAL DATA 
+ 
+ 
+
+1.
+
+ 
+This Schedule for Processing of Personal Data (the “Schedule”), applies when any data that may
+identity a specific individual (“Personal Data”) is processed by otonomo Technologies Ltd. and or its affiliates (“Otonomo”) or MITSUBISHI MOTORS CORPORATION (“MMC”) (Otonomo and MMC together referred to as the
+“Parties” and each referred to as a “Party”) on Otonomo’s cloud-based marketplace for vehicles-generated data (“Marketplace”) as well as in the provision and use of the Licensed Software under the Marketplace
+Agreement and the lot Hub Software License Agreement (for purposes of this Annex together with the Marketplace Agreement the “Agreement”). For the purpose of this Annex, such processing by each Party shall be called “Processing”.
+In particular: 
+ 
+Each Party undertakes to Process Personal Data only in accordance with this Schedule. Processing of
+Personal Data outside the scope of this Schedule (if any) will require prior written agreement between Otonomo and MMC. 
+ 
+The Parties
+further undertake to follow the following general principles: 
+ 
+ 
+
+ 
+
+1.
+
+ 
+Personal Data is Processed lawfully, fairly and transparently; 
+
+ 
+
+ 
+
+2.
+
+ 
+Personal Data is collected for specified, explicit and legitimate purposes and not further Processed in a
+manner that is incompatible with those purposes; 
+ 
+ 
+
+ 
+
+3.
+
+ 
+Personal Data is adequate, relevant and limited to what is necessary in relation to the purposes for which the
+Personal Data is Processed; 
+ 
+ 
+
+ 
+
+4.
+
+ 
+Reasonable steps are taken to make sure that the Personal Data is accurate and, where necessary, kept up to
+date and that inaccurate data is rectified or deleted without delay; 
+ 
+ 
+
+ 
+
+5.
+
+ 
+Personal Data is kept in an identifiable form for no longer than necessary for the purposes for which the
+Personal Data is Processed; 
+ 
+ 
+
+ 
+
+6.
+
+ 
+Personal Data is protected and secured, including against unauthorized or unlawful Processing, accidental loss,
+destruction or damage, using appropriate technical or organizational measures. 
+ 
+ 
+
+2.
+
+ 
+Otonomo and MMC each agrees at all times: 
+
+ 
+
+ 
+
+a)
+
+ 
+to comply with its obligations under applicable data protection laws or any applicable laws or regulations
+(“Applicable Laws”), including the obligation, if any, to appoint a data protection officer; Each Party will provide the name and contact details of its Data Protection Officer to the other Party at the email address provided on the
+Provider Form of the Marketplace Agreement; 
+ 
+ 
+
+ 
+
+b)
+
+ 
+to Process Personal Data only as necessary to provide the obligations and services as set out in this
+Agreement; 
+ 
+ 
+
+ 
+
+c)
+
+ 
+to respond promptly to all enquiries by the other Party regarding the Processing of the Personal Data;
+
+ 
+
+d)
+
+ 
+to Process Personal Data solely for purposes allowed under the Agreement and not to Process such data further
+for any other purpose or in any other manner except where such further Processing is required by any Applicable Laws, in which case such Party will inform the other Party of this Processing and the Applicable Laws concerned; 
+
+ 
+
+ 
+
+e)
+
+ 
+to subject its staff that Process the Personal Data pursuant to this Agreement to an appropriate
+confidentiality obligation that continues to apply once the Processing activities have ended; 
+ 
+ 
+
+ 
+
+f)
+
+ 
+to cooperate and provide reasonable assistance to the other Party in meeting its data transparency obligations
+towards individuals; 
+ 
+ 
+
+ 
+
+g)
+
+ 
+to establish and maintain a procedure for the exercise of individual’s personal rights, as required by
+Applicable Laws. Specifically, each party will provide individuals with a clear and accessible right to object to any further Processing of their Personal Data for the purposes under the Agreement. Each party undertakes to make all reasonable
+efforts to accommodate these requests. 
+ 
+ 
+
+ 
+
+h)
+
+ 
+to ensure that the other Party is notified promptly, to the extent legally permitted, at the address specified
+in Section [8] of any communication received from any individual relating to that individual’s rights to access, modify or correct the Processed Personal Data or to restrict, erase, or oppose its Processing 
+
+ 
+
+ 
+
+i)
+
+ 
+to ensure that technical and organizational measures are adopted to protect the Processed Personal Data against
+accidental or unlawful destruction or accidental loss or damage, alteration, unauthorized disclosure or access and against all other unauthorized or unlawful forms of Processing or required by any Applicable Laws and to notify the other Party of any
+material changes impacting the technical and organizational security measures implemented by a Party which cause such measures to fall short of the Party’s information security obligations under this Schedule ; 
+
+ 
+
+ 
+
+j)
+
+ 
+to maintain security incident management policies and procedures and will, to the extent permitted by law,
+inform the other Party in writing at the address specified in Section [8] within forty eight (48) hours of becoming aware of any accidental or unlawful destruction or accidental loss or damage, alteration, unauthorized disclosure or access to
+the Processed Personal Data (“Incident”), regardless of whether the Incident occurs at such Party or its sub-processors as defined in the Agreement, and, if applicable, to reasonably assist the other Party with its obligation, in
+accordance with Applicable Laws, to notify a security breach to competent regulatory or supervisory authorities and individuals, to the extent that such Party has relevant information for the other Party to meet its notification obligations or is
+better placed to inform relevant authorities or individuals; 
+ 
+ 
+
+ 
+
+k)
+
+ 
+to implement without undue delay appropriate security and mitigating measures to limit the potential adverse
+effects of a security breach; 
+ 
+ 
+
+ 
+
+l)
+
+ 
+to reasonably assist the other Party in performing privacy impact assessments and preparing consultations with
+regulatory or supervisory authorities, and 
+ 
+ 
+
+ 
+
+m)
+
+ 
+to train staff responsible for Processing the Personal Data regarding the obligations set forth in this
+Agreement and to discipline staff for failing to comply with those obligations. 
+ 
+ 
+
+3.
+
+ 
+Each Party will regularly monitor the services and its systems in a reasonable and appropriate manner in
+accordance with industry best practices for security weaknesses in the system design, implementation or configuration (“Vulnerabilities”), and will keep informed about Vulnerabilities or system and
+
+ 
+
+software security threat information published or announced by industry security groups, governmental organizations or other sources that such Party reasonably believes may materially affect the
+security or other use or operation of the services. Each Party will further collaborate with the aforementioned industry and/or governmental organizations or other sources when appropriate to evaluate, assess, and design or develop corrective
+actions or software updates. 
+ 
+ 
+
+4.
+
+ 
+Each Party represents and warrants that nothing in any applicable data protection legislation (or any other
+Applicable Laws) prevents it from fulfilling its obligations under this Schedule and undertakes and agrees that, in the event of a change in any such laws that is likely to have a material adverse effect on its compliance with this Schedule or in
+the event such Party otherwise cannot comply with this Section [6] for whatever reason(s), such Party shall notify the other Party within fifteen (15) days. 
+
+ 
+
+5.
+
+ 
+Each Party will retain Personal Data in accordance with the procedures and timeframes specified in the
+Party’s data retention and destruction policies and procedures. 
+ 
+ 
+
+6.
+
+ 
+Notwithstanding, a Party may retain copies of Personal Data as necessary in connection with its routine backup
+and archiving procedures and to ensure compliance with its legal obligations and its continuing obligations under the Applicable Laws, including to retain data pursuant to legal requirements and to use such data to protect the Party, its Affiliates,
+agents and any person on their behalf in court and administrative proceedings, and for investigations and inspections related to the use of Marketplace. 
+ 
+ 
+
+7.
+
+ 
+The Parties may use, engage in, certify, or self-certify with applicable instruments, measures, contracts and
+other mechanisms, to facilitate the lawful transfer of Personal Data between territories, as required under Applicable Laws. 
+ 
+ 
+
+8.
+
+ 
+The parties may transfer Personal Data related to individuals in the European Economic Area (“EEA”),
+to other territories which were formally recognized by the European Commission as providing adequate protection to Personal Data (“Adequacy Recognition”). 
+
+ 
+
+9.
+
+ 
+Each Party’s and its Affiliates’ liability arising out of or related to this Schedule (whether in
+contract, tort or under any other theory of liability) is subject to the section ‘Limitation of Liability’ of the Agreement, and any reference in such section to the liability of a Party means that party and its Affiliates in the
+aggregate. Notwithstanding, where required under Applicable Laws, each Party and its Affiliates’ liability and accountability toward individuals, with respect to a breach by such Party of this Statement and the Processing of the
+individuals’ Personal Data is not limited. 
+ 
+ 
+
+10.
+
+ 
+Any notice given under the Agreement, or this Schedule shall be deemed to be sufficiently given if made in
+writing and sent (i) by international courier, registered or certified airmail and (ii) by electronic mail dispatched simultaneously by international courier, or registered or certified airmail, and such courier or airmails shall be
+addressed as provided below. Such notice shall be deemed to have been given on the date of dispatch of a notice by electronic mail. Either party may change its address by a notice given to the other party in the manner herein provided.
+
+ 
+The address of MMC is: 
+
+Attention: General Manager, Connected Information Business Dept. 
+
+Shingaku Kochi 
+ 
+MITSUBISHI
+MOTORS CORPORATION 
+ 
+1-21, Shibaura 3-chome, Minato-ku, Tokyo, Japan 
+
+E-Mail: [***] 
+
+The address of LICENSOR is: 
+
+Attention: Privacy Team 
+ 
+16
+Abba Eben Blvd. 
+ 
+Hertzelyia, Israel 
+
+E-Mail: [***] 
+ 
+ 
+
+11.
+
+ 
+In case of a conflict between the provisions of this Schedule with other provisions relating to Processing of
+Personal Data under the Agreement, this Schedule will prevail.

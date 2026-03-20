@@ -1,0 +1,3962 @@
+EX-10.1
+
+2
+
+pi-ex101_139.htm
+
+EX-10.1
+
+pi-ex101_139.htm
+
+ 
+
+CERTAIN INFORMATION HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS BOTH NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE REGISTRANT IF PUBLICLY DISCLOSED. OMISSIONS ARE DESIGNATED AS [***].
+
+Exhibit 10.1
+
+LICENSE AGREEMENT
+
+This License Agreement (“
+Agreement
+”) is entered into as of July 3, 2008 (“
+Effective Date
+”) by and between Impinj Inc., a Delaware corporation (“
+Purchaser
+”), and Intel Corporation, a Delaware corporation (“
+Seller
+”). Seller and Purchaser are sometimes referred to as the “
+Parties
+” and each individually as a “
+Party
+.”
+
+WHEREAS, Seller and Purchaser have entered into an Asset Purchase Agreement dated as of the date hereof (the “
+Asset Purchase Agreement
+”), including certain Transfer Documents in connection therewith, pursuant to which Purchaser is to purchase certain specific assets of Seller; and
+
+WHEREAS, Seller owns certain valuable Intellectual Property relevant to the assets that are the subject of the Asset Purchase Agreement; and
+
+WHEREAS, Seller and Purchaser wish to enter into this Agreement with respect to certain of such Intellectual Property in certain products.
+
+NOW, THEREFORE, IN CONSIDERATION OF THE MUTUAL COVENANTS AND PREMISES CONTAINED HEREIN, THE PARTIES AGREE AS FOLLOWS:
+
+ARTICLE I
+
+DEFINITIONS
+
+1.1 
+Definitions
+. Capitalized terms used in this Agreement shall have the respective meanings ascribed to such terms in 
+Appendix A
+ to this Agreement. Capitalized terms used but not defined in this Agreement shall have the meanings ascribed to such terms in the Asset Purchase Agreement.
+
+Defined Terms Generally
+. The definitions set forth in 
+Appendix A
+ or otherwise referred to in this Agreement shall apply equally to both the singular and plural forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms. The words “include,” “includes” and “including” shall be deemed to be followed by the phrase “without limitation.” The words “hereof,” “herein” and “hereunder” and words of similar import, when used in this Agreement, refer to this Agreement as a whole and not to any particular provision of this Agreement. References to a Person are also to its permitted successors and assigns. All references herein to Articles, Sections, Exhibits, Appendices and Schedules shall be deemed to be references to Articles and Sections of, and Exhibits, Appendices and Schedules to, this Agreement unless the context shall otherwise require. Unless the context shall otherwise require, any reference to any contract, instrument, statute, rule or regulation is a reference to it as amended and supplemented from time to time (and, in the case of a statute, rule or regulation, to any successor provision). Any reference in this Agreement to a “day” or a number of “days” (without the explicit qualification of “Business”) shall be interpreted as a reference to a calendar day or number of calendar days. If any action is to be taken by any Party hereto pursuant to this Agreement on a day that is not a Business Day, such action shall be taken on the next Business Day following such day.
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ARTICLE II
+
+PURCHASER LICENSE RIGHTS
+
+2.1 
+License to Seller Licensed Patents
+. Subject to all terms and conditions of this Agreement (including 
+Article V
+ hereof), Seller hereby grants to Purchaser a non-exclusive, perpetual, non-transferable (except as provided in 
+Section 8.2
+ hereof), non-assignable (except as provided in 
+Section 8.2
+ hereof), royalty-free, fully paid-up, worldwide, irrevocable (except as provided in 
+Article V
+ hereof) license (without the right to sublicense), under only the Licensed Claims of the Seller Licensed Patents, to:
+
+(a) make, have made, use, sell, offer for sale, import and export, in each case through all levels of manufacturing and distribution channels for the Licensed Products, the Licensed Products; and
+
+(b) practice or have practiced any method or process for the manufacture of the Licensed Products.
+
+For purposes of clarity, (i) the provisions of this 
+Article II
+ are not intended to restrict or expand any right an end user may have to use a Licensed Product manufactured and sold during the Term of this Agreement in strict accordance with the license granted pursuant to this 
+Section 2.1
+ and (ii) the incorporation of a Licensed Product into another device or the combination of a Licensed Product with any other item(s) shall not negate the license with respect to such Licensed Product, but no license or immunity is granted by Seller under this Agreement directly or by implication, estoppel or otherwise for such device or such combination or the use of such device or such combination.
+
+2.2 
+Clarification Regarding Patent Laundering
+. The Parties understand, acknowledge and agree that the Patent license granted by Seller to Purchaser under 
+Section 2.1
+ above is intended to cover only products of Purchaser that meet the definition of Licensed Products and is not intended to cover any manufacturing activities that Purchaser may undertake on behalf of any third parties (i.e., Patent laundering activities). A product shall not be considered to be a Licensed Product unless such product is manufactured by or on behalf of Purchaser in strict accordance with the license granted by Seller to Purchaser pursuant to 
+Section 2.1
+ above and sold by Purchaser (either directly or through Purchaser’s distribution channels) as Purchaser’s own product and under Purchaser’s Mark(s) (or, solely as set forth in, and subject to, the Transition Services Agreement between Seller and Purchaser, dated of even date herewith (the “
+Transition Services Agreement
+”), Seller’s Mark(s)), and otherwise complies with this 
+Section 2.2
+ and the other terms and conditions of this Agreement. Similarly, the Patent license granted by Seller to Purchaser under 
+Section 2.1
+ above is not intended to cover any services provided by Purchaser to the extent that such services are provided to or on behalf of any third party using tangible or intangible materials provided by or on behalf of any third party. Accordingly, by way of clarification, the following non-exhaustive general guidelines are provided to aid the determination of whether a product or portion thereof is a Licensed Product or whether such product or portion thereof is disqualified from being a Licensed Product because circumstances surrounding the manufacture of the product suggest Patent laundering.
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) Any products, components or modules that otherwise meet the definition of Licensed Products are disqualified as Licensed Products if such products, components or modules are manufactured on behalf of any third party from designs received in a substantially completed form from any third party for resale to or on behalf of any third party.
+
+(b) Any products, components or modules of Purchaser that otherwise meet the definition of Licensed Products are not disqualified as Licensed Products under the prohibition against Patent laundering set forth in this 
+Section 2.2
+ if:
+
+(i) Purchaser owns the design of and is under no obligation that restricts the sale of such products, components or modules; or
+
+(ii) Purchaser has an unrestricted license right to the design of such products, components or modules.
+
+2.3 
+License to Seller Licensed Trade Secrets
+. Subject to all terms and conditions of this Agreement, Seller hereby grants to Purchaser a non-exclusive, perpetual, irrevocable, worldwide, non-transferable (except as provided in 
+Section 8.2
+ hereof), non-assignable (except as provided in 
+Section 8.2
+ hereof), royalty-free, fully paid-up license (without the right to sublicense), under the Seller Licensed Trade Secrets, to use the Seller Licensed Trade Secrets solely within the Field of Use. Purchaser shall maintain in confidence all Seller Licensed Trade Secrets as the Confidential Information of Seller in accordance with the Non-disclosure Agreement. Without limiting the generality of the foregoing in this 
+Section 2.3
+ or the terms and conditions of the Non-disclosure Agreement, Purchaser shall have no right to disclose to any third party any Seller Licensed Trade Secrets, except as reasonably necessary, and solely to the extent reasonably necessary, in connection with the manufacture, sale, offering for sale, import, export or other disposition of Licensed Products in accordance with the license granted by Seller to Buyer under 
+Section 2.1
+ above; 
+provided
+ that any such third party has agreed in writing to maintain the confidentiality of the Seller Licensed Trade Secrets pursuant to a confidentiality agreement that is no less restrictive than the confidentiality requirements of the Non-disclosure Agreement.
+
+2.4 
+Use of Seller Marks
+. Any use by Purchaser of the Marks of Seller shall be in accordance with and subject to the terms and conditions of the Transition Services Agreement.
+
+2.5 
+Restrictions on Seller
+. Except as set forth in the Transition Services Agreement and except as provided in 
+Section 3.2
+ herein, for a period of [***] years after the Effective Date, Seller agrees not to (a) make, have made, sell, license or otherwise provide to any third party the Products or any products derived from and substantially identical to the Products, or (b) sell, license or otherwise provide to any third party the Restricted Documents.
+
+ARTICLE III
+
+SELLER LICENSE RIGHTS
+
+3.1 
+Transfer of Technical Information
+. Seller agrees to convey, transfer and assign to Purchaser all right, title, and interest, subject to the license rights granted back to Seller pursuant
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+to 
+Section 3.2
+ herein, that Seller may have in the documents and other tangible materials and things set forth on 
+Exhibit A
+ to the Asset Purchase Agreement (“
+Technical Information
+”) pursuant to an operative transfer provision in the Asset Purchase Agreement (and/or an instrument of assignment attached thereto). Notwithstanding the foregoing in this 
+Section 3.1
+, Seller may retain copies of the Technical Information, subject to the license rights granted back to Seller pursuant to 
+Section 3.2
+ herein. Seller shall maintain in confidence the Technical Information as the Confidential Information of Purchaser in accordance with the terms of the Non-disclosure Agreement.
+
+3.2 
+License Back to Seller
+. Purchaser hereby grants to Seller a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, fully paid-up license (without the right to sublicense), under any Intellectual Property or other rights in or to the Technical Information transferred to Purchaser as set forth in 
+Section 3.1
+ above, to use, reproduce, modify, adapt, create derivative works of, perform, display and otherwise exploit the Technical Information in and in connection with any Seller Products solely outside the Field of Use, and to make, have made, use, sell, offer to sell, import, export and otherwise exploit any such Seller Products. Seller has the right to disclose the Technical Information to third parties for the purpose of the manufacture, sale, offering for sale, import, export or other disposition of Seller Products solely outside the Field of Use in accordance with the license rights granted by Purchaser to Seller under this 
+Section 3.2
+; 
+provided
+ that any such third party has agreed in writing to maintain the confidentiality of the Technical Information pursuant to a confidentiality agreement that is no less restrictive than the confidentiality requirements of the Non-disclosure Agreement.
+
+3.3 
+Purchaser Covenant Not to Sue
+.
+
+(a) From and after the Closing Date, Purchaser hereby covenants and agrees, subject to the terms and conditions of this Agreement (including 
+Section 3.3(b)
+ below), the Asset Purchase Agreement and the Transfer Documents, on behalf of itself and its Affiliates and Purchaser’s and its Affiliates’ respective officers, directors, employees and agents, or any of them in their respective capacity as such, that none of them will Assert (whether in law or in equity) against any Covered Seller Party any claim that the manufacture, use, import, export, offer for sale, sale, distribution or other exploitation of any Seller Product or any process or method employed in the manufacture, testing, distribution, use or other exploitation of any Seller Product infringes, directly or indirectly, any Purchaser Patent (the foregoing covenant, the “
+Purchaser Covenant
+”).
+
+(b) (i) If Seller or any of its Affiliates makes a Prohibited Claim against a Covered Purchaser Party, Purchaser shall deliver to Seller a written notice of termination of the Purchaser Covenant. If Seller or its Affiliate, as applicable, fails to dismiss or have dismissed such Prohibited Claim with prejudice within thirty (30) days after Seller’s receipt of such termination notice, the Purchaser Covenant shall terminate and be null and void at the end of such thirty (30) day period with respect to all Covered Seller Parties, without giving rise in and of itself to any right of Seller pursuant to 
+Section 5.3
+ herein to terminate the Patent license granted by Seller to Purchaser under 
+Section 2.1
+ above; 
+provided
+ that Purchaser (on behalf of itself and each of its Affiliates) waives any claims, damages or liability with respect to any
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+activities of any Covered Seller Parties within the scope of the Purchaser Covenant prior to the date of such termination of the Purchaser Covenant.
+
+(ii) If a Covered Seller Party that is not Seller, an Affiliate of Seller or a Seller Indemnified Party makes a Prohibited Claim against a Covered Purchaser Party, Purchaser shall deliver to Seller and such Covered Seller Party a written notice of termination of the Purchaser Covenant only with respect to such Covered Seller Party. If such a Covered Seller Party fails to dismiss or have dismissed such Prohibited Claim with prejudice within thirty (30) days after such Covered Seller Party’s receipt of such termination notice, the Purchaser Covenant shall terminate and be null and void at the end of such thirty (30) day period with respect only to such Covered Seller Party, without giving rise in and of itself to any right of Seller pursuant to 
+Section 5.3
+ herein to terminate the Patent license granted by Seller to Purchaser under 
+Section 2.1
+ above; 
+provided
+ that Purchaser (on behalf of itself and each of its Affiliates) waives any claims, damages or liability with respect to any activities of such Covered Seller Party within the scope of the Purchaser Covenant prior to the date of such termination of such Purchaser Covenant.
+
+(iii) For purposes of this 
+Section 3.3(b)
+ , “
+Prohibited Claim
+” means an Assertion by a Covered Seller Party against a Covered Purchaser Party of a claim that the manufacture, use, import, export, offer for sale, sale, distribution or other exploitation of any product or any process or method employed in the manufacture, testing, distribution, use or other exploitation thereof, in each of the foregoing cases in the Field of Use, infringes, directly or indirectly, any Patent of such Covered Seller Party.
+
+(iv) For purposes of this 
+Section 3.3(b)
+ , “
+Seller Indemnified Party
+” means any Covered Seller Party to whom Seller or any of its Affiliates have, as of the Effective Date, an obligation to indemnify in the event Purchaser Asserts against such Covered Seller Party any claim that the manufacture, use, import, export, offer for sale, sale, distribution or other exploitation of any Seller Product or any process or method employed in the manufacture, testing, distribution, use or other exploitation of any Seller Product infringes, directly or indirectly, any Purchaser Patent.
+
+(c) In the event that Purchaser or any of its Affiliates (or any Purchaser Patent Successor) intends to sell, assign, transfer or convey (expressly or by operation of law or otherwise), or exclusively license or grant or convey any right to enforce or Assert, or otherwise dispose of any Purchaser Patent (“
+Purchaser Patent Sale
+”) to any third party, then, prior to such Purchaser Patent Sale, Purchaser (or such Purchaser Patent Successor) agrees to cause any such third party to grant a covenant not to sue with respect to such Purchaser Patent(s) in writing of the same scope and having all of the same terms as the covenant not to sue granted by Purchaser to Seller and the Covered Seller Parties in 
+Section 3.3(a)
+ above. In the event Purchaser (or such Purchaser Patent Successor) is unable to cause any such third party to comply in full with the foregoing sentence prior to any such Purchaser Patent Sale, then, effective immediately prior to the closing of such Purchaser Patent Sale, Purchaser (or such Purchaser Patent Successor) agrees to grant and does hereby grant to Seller and its Affiliates a perpetual, irrevocable, non-exclusive, royalty-free, non-assignable (except as provided in 
+Section 8.2
+ hereof), sublicensable,
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+non-transferable (except as provided in 
+Section 8.2
+ hereof), worldwide license (the rights of which shall extend and apply to Seller’s and its Affiliates’ direct and indirect suppliers, distributors and customers), solely under the Purchaser Patent(s) that is or are the subject of such Purchaser Patent Sale, to:
+
+(i) make, have made, use, sell, offer to sell, import, export and otherwise exploit and dispose of, in each case through all levels of manufacturing and distribution channels for Seller Products, all Seller Products; and
+
+(ii) practice or have practiced any method or process for the manufacture, testing, distribution, use or other exploitation or other disposition of Seller Products;
+
+and such Purchaser Patent Sale of such Purchaser Patent(s) shall be deemed subject to such license to Seller and its Affiliates, and the third party to which such Purchaser Patent Sale is made shall simultaneously assume such license in writing. Any such Purchaser Patent Sale without such written assumption of the foregoing license by such third party shall be null and void ab-initio and of no force or effect. For the avoidance of doubt, this 
+Section 3.3
+ applies only to Purchaser Patents and does not extend or purport to extend to any Patent of any third party or its Affiliates other than any Purchaser Patent owned by such third party or its Affiliates as a result of a Purchaser Patent Sale. For the purposes of this 
+Section 3.3
+, “
+Purchaser Patent Successor
+” shall mean any Person to which a Purchaser Patent is sold, assigned, transferred, conveyed or otherwise disposed of, or that is granted or conveyed an exclusive license or any right to enforce or Assert a Purchaser Patent.
+
+ARTICLE IV
+
+NO OTHER RIGHTS
+
+4.1 
+No Other Rights
+. No other rights are granted or licensed by either Party to the other Party under this Agreement, by implication, estoppel, statute or otherwise, except as expressly provided in 
+Article II
+ and 
+Article III
+ of this Agreement. Without limiting the generality of the foregoing, (a) nothing in the licenses granted in 
+Article II
+ above shall expressly or by implication, estoppel or otherwise give Purchaser any right to license or sublicense any of the Seller Licensed Patents to any third party, and (b) nothing in this Agreement grants or otherwise provides Purchaser with any rights whatsoever under any claims of any Patent other than the Licensed Claims of the Seller Licensed Patents.
+
+4.2 
+No Delivery or Support
+. Nothing in this Agreement shall be construed to require any delivery of any physical devices, software, source code, object code or other items by one Party to the other Party, or to require any support obligations whatsoever on the part of Seller with respect to any physical devices, software, source code, object code or other items; to the extent the Parties have agreed upon provisions related to such delivery or such support obligations, such provisions are contained in the Asset Purchase Agreement or another Transfer Document, and are not a part of this Agreement.
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.3 
+No Third Party Rights
+. Notwithstanding any provision of this Agreement to the contrary, the Parties acknowledge and agree that Seller is not transferring to Purchaser hereunder, or purporting to transfer to Purchaser hereunder, ownership of any Intellectual Property rights that are owned by any third party. Notwithstanding any provision of this Agreement to the contrary, the Parties acknowledge and agree that Seller is not licensing to Purchaser hereunder, or purporting to license to Purchaser hereunder (or granting any other rights to Purchaser hereunder with respect to, or purporting to grant any other rights to Purchaser hereunder with respect to) any Intellectual Property rights that are owned by any third party.
+
+4.4 
+Ownership of Seller Licensed Patents and Seller Licensed Trade Secrets
+. As between the Parties, and subject only to the licenses granted by Seller to Purchaser under 
+Article II
+ above, Seller retains and owns all right, title and interest in and to the Seller Licensed Patents and the Seller Licensed Trade Secrets.
+
+ARTICLE V
+
+EFFECTIVE DATE, TERM AND TERMINATION
+
+5.1 
+Term
+. This Agreement and the rights and licenses granted hereunder shall become effective on the Effective Date. Subject to the survival provisions of 
+Section 5.4
+ hereof, this Agreement shall continue in effect unless and until terminated pursuant to 
+Section 5.2
+ or 
+Section 5.3
+ hereof (the “
+Term
+”).
+
+5.2 
+Termination
+.
+
+(a) 
+Bankruptcy or Insolvency
+. Subject to the survival provisions of 
+Section 5.4
+ hereof, this Agreement shall automatically terminate upon the occurrence of any of the following events:
+
+(i) any adjudication that a Party is bankrupt or insolvent;
+
+(ii) the filing by a Party of a petition in bankruptcy or insolvency, any petition or answer seeking reorganization, readjustment or arrangement of its business under any law relating to bankruptcy or insolvency;
+
+(iii) the appointment of a trustee in bankruptcy for all or substantially all of the property of a Party; or
+
+(iv) the making by a Party of any assignment for the benefit of creditors;
+
+unless such Party continues as an operational entity and, in the case of Purchaser, continues to conduct its business related to the Licensed Products.
+
+(b) 
+Breach
+. Subject to the survival provisions of 
+Section 5.4
+ hereof, Seller shall have the right to terminate this Agreement upon thirty (30) days prior written notice to
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+Purchaser of the occurrence of any of the following events, if Purchaser does not cure its default within such time:
+
+(i) Purchaser breaches its confidentiality obligations with respect to any Trade Secrets licensed to Purchaser as set forth under this Agreement and the Non-disclosure Agreement; or
+
+(ii) Purchaser breaches 
+Section 2.1
+, 
+Section 2.2
+ and/or 
+Section 3.3
+ hereof.
+
+Prior to Seller’s providing of any such notice pursuant to this 
+Section 5.2(b)
+ , the Parties shall attempt to resolve any dispute regarding Seller’s right to terminate this Agreement pursuant to this 
+Section 5.2(b)
+ in accordance with the terms of 
+Section 8.10(a)
+ hereof, 
+provided
+ that Seller may provide such notice immediately after the Parties meet with an impartial mediator as provided in 
+Section 8.10(a)
+ hereof if any disagreement remains after such meeting.
+
+5.3 
+Termination Due to Proceedings
+.
+
+(a) The Patent license that is granted to Purchaser under 
+Section 2.1
+ above is subject to the ongoing condition, which condition is further subject to 
+Section 5.3(b)
+ hereof, that neither Purchaser nor any of its Affiliates shall Assert against any Covered Seller Party any claim that the manufacture, use, import, export, sale, offer for sale, distribution or other exploitation of any Seller Product or any process or method employed in the manufacture, testing, distribution, use or other exploitation of any Seller Product infringes, directly or indirectly, any Patent of Purchaser or any of Purchaser’s Affiliates. Upon any such Assertion by Purchaser or any of its Affiliates (except where Seller or an Affiliate of Seller has first Asserted or threatened in writing to Assert a Patent-related action against Purchaser or a Covered Purchaser Party), Seller shall deliver to Purchaser a written notice of termination of the Patent license granted by Seller under 
+Section 2.1
+ above. If Purchaser fails to dismiss or have dismissed any such Assertion with prejudice within thirty (30) days after Purchaser’s receipt of such termination notice, the Patent license granted by Seller to Purchaser under 
+Section 2.1
+ above shall immediately and automatically (without any action required by Seller) terminate at the end of such thirty (30) day period. For the avoidance of doubt, this 
+Section 5.3(a)
+ survives and remains applicable to Purchaser even after any Change of Control.
+
+(b) Notwithstanding the foregoing provisions of 
+Section 5.3(a)
+ above, Seller may not terminate the Patent license granted by Seller to Purchaser under 
+Section 2.1
+ above as a result of a counterclaim by Purchaser in a Patent infringement lawsuit initiated by Seller.
+
+5.4 
+Survival
+. The provisions of 
+Article I
+, 
+Section 2.3
+, 
+Section 3.1
+, 
+Section 3.2
+, 
+Section 3.3
+, 
+Article IV
+, this 
+Section 5.4
+, 
+Article VI
+, 
+Article VII
+ and 
+Article VIII
+ will survive any termination of this Agreement.
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARTICLE VI
+
+DISCLAIMER
+
+6.1 
+Disclaimer
+. Excepting only those representations and warranties, if any, that are expressly set forth in the Asset Purchase Agreement, and notwithstanding any provision of this Agreement, any Transfer Document or any other agreement to the contrary, Seller makes no warranty or representation to Purchaser with respect to any Intellectual Property rights. Nothing contained in this Agreement shall be construed as:
+
+(a) a warranty or representation by Seller as to the validity, enforceability or scope of any Patent rights or other Intellectual Property rights; or
+
+(b) a warranty or representation that any manufacture, sale, lease, use or other disposition or exploitation of any Licensed Products will be free from infringement or misappropriation of any Patent rights or other Intellectual Property rights of either Party or any third party; or
+
+(c) (i) an agreement by or obligation of a Party that licensed to the other Party any Intellectual Property or Technology hereunder to bring or prosecute any actions or suits against any third parties for infringement or misappropriation of such Intellectual Property or Technology or to otherwise enforce such Intellectual Property or Technology against any third party, or (ii) conferring any right on a Party licensed under any Intellectual Property or Technology hereunder to bring or prosecute actions or suits against any third parties for infringement or misappropriation of such Intellectual Property or Technology or to otherwise enforce such Intellectual Property or Technology against any third party; or
+
+(d) other than as specifically set forth in the Transition Services Agreement, conferring to either Party any right to use, in advertising, publicity or otherwise, any Mark of the other Party, or any contraction, abbreviation or simulation thereof, or any Mark confusingly similar thereto; or
+
+(e) conferring, by implication, estoppel or otherwise, upon any Party licensed hereunder, any license or other right under any Patent, Copyright, Trade Secret, Mark or other Intellectual Property right except the licenses and rights expressly granted hereunder; or
+
+(f) an obligation on Seller’s part to furnish any know-how to Buyer related to any Patents; or
+
+(g) a requirement that either Party file any Patent application, secure any Patent, or maintain any Patent in force.
+
+6.2 
+NO IMPLIED WARRANTIES
+. EXCEPT AS EXPLICITLY SET FORTH IN THE ACCOMPANYING ASSET PURCHASE AGREEMENT, SELLER LICENSES AND PROVIDES THE SELLER LICENSED PATENTS AND SELLER LICENSED TRADE SECRETS, AND PURCHASER LICENSES AND PROVIDES THE TECHNICAL INFORMATION, ON AN “AS IS” BASIS, AND EACH PARTY EXPRESSLY DISCLAIMS
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANY REPRESENTATIONS, WARRANTIES OR CONDITIONS, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, WITH RESPECT TO THE SAME, INCLUDING ANY WARRANTY OF MERCHANTABILITY, NON-INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS OR FITNESS FOR A PARTICULAR PURPOSE.
+
+ARTICLE VII
+
+LIMITATION OF LIABILITY
+
+7.1 NEITHER PARTY SHALL UNDER ANY CIRCUMSTANCES BE LIABLE TO THE OTHER FOR ANY EXEMPLARY, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, INCLUDING COMPENSATION OR DAMAGES FOR LOSS OF PRESENT OR PROSPECTIVE PROFITS OR REVENUES, OR EXPENDITURES, INVESTMENTS OR COMMITMENTS MADE IN CONNECTION WITH THE ESTABLISHMENT OF THIS AGREEMENT, OR COST OF PROCUREMENT OF SUBSTITUTE INTELLECTUAL PROPERTY, TECHNOLOGY, PRODUCTS OR SERVICES; EVEN IF SUCH PARTY HAS BEEN ADVISED OF ANY SUCH DAMAGES AND REGARDLESS OF THE LEGAL THEORY ON WHICH SUCH DAMAGES MAY BE BASED; 
+PROVIDED
+ , 
+HOWEVER
+ , WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, THE PARTIES HERETO ACKNOWLEDGE THAT PURCHASER SHALL BE ENTITLED TO RECOVER FOR LOSS OF PROFITS RESULTING FROM SELLER’S BREACH OF 
+SECTION 2.5
+ HEREOF.
+
+ARTICLE VIII
+
+MISCELLANEOUS PROVISIONS
+
+8.1 
+Authority
+. Each of the Parties hereto represents and warrants that it has the right to enter into this Agreement and perform all of its obligations hereunder.
+
+8.2 
+No Assignment
+. This Agreement is personal to the Parties. This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and permitted assigns. No assignment of this Agreement or of any rights or obligations hereunder may be made by either Seller or Purchaser, directly or indirectly (by operation of law or otherwise), without the prior written consent of the other Party hereto and any attempted assignment without the required consents shall be void, except that either Party may assign this Agreement or any of its rights, interests or obligations hereunder as part of the sale or transfer of all or substantially all of the assets or stock of such Party or the business of such Party to which this Agreement relates. No assignment of this Agreement or any obligations hereunder shall relieve the Parties hereto of any such obligations. Upon any such permitted assignment, the references in this Agreement to Purchaser or Seller shall also apply to any such assignee of Purchaser or Seller, respectively, unless the context otherwise requires.
+
+8.3 
+Notice of Change of Control
+. Promptly upon the earlier of a Party’s approving or entering into any transaction constituting a Change of Control or an announcement by such Party or any other Person of a Change of Control of such Party, such Party shall give the other Party written notice thereof, describing in reasonable detail the applicable Change of Control and identifying each Person that is a party to such transaction or transactions.
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.4 
+Notices
+. All notices and other communications pursuant to this Agreement shall be in writing and shall be deemed given if delivered personally, telecopied, nationally-recognized overnight courier or mailed by registered or certified mail (return receipt requested), postage prepaid, to the Parties at the addresses set forth below or to such other address as the Party to whom notice is to be given may have furnished to the other Party hereto in writing in accordance herewith. Any such notice or communication shall be deemed to have been delivered and received (a) in the case of personal delivery, on the date of such delivery, (b) in the case of telecopier, on the date sent if confirmation of receipt is received and such notice is also promptly mailed by registered or certified mail (return receipt requested), (c) in the case of a nationally-recognized overnight courier in circumstances under which such courier guarantees next Business Day delivery, on the next Business Day after the date when sent and (d) in the case of mailing, on the third Business Day following that on which the piece of mail containing such communication is posted:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+if to Seller:
+
+  
+
+Intel Corporation
+
+2200 Mission College Boulevard
+
+Santa Clara, CA 95054
+
+Telecopier:
+
+Attention: General Counsel
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and:
+
+  
+
+Intel Corporation
+
+2200 Mission College Boulevard
+
+Santa Clara, CA 95054
+
+Telecopier:
+
+Attention: Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with a copy to: (which shall not constitute notice)
+
+  
+
+Weil, Gotshal, Manges LLP
+
+201 Redwood Shores Parkway
+
+Redwood Shores, California 94065
+
+Telecopier:
+
+Attention: Richard S. Millard
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+if to Purchaser:
+
+  
+
+Impinj Inc.
+
+701 North 34th Street, Suite 300
+
+Seattle, WA 98103
+
+Telecopier:
+
+Attention: Vice President, Finance
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with a copy to:
+
+(which shall not constitute notice)
+
+  
+
+Wilson Sonsini Goodrich & Rosati, P.C.
+
+701 Fifth Avenue, Suite 5100
+
+Seattle, Washington 98104
+
+Telecopier:
+
+Attention: Patrick J. Schultheis
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+or to such other address as the person to whom notice is given may have previously furnished to the others in writing in the manner set forth above.
+
+8.5 
+No Presumption Against Drafting Party
+. Each of Purchaser and Seller acknowledges that it has participated jointly in the negotiation and drafting of this Agreement and has been represented by counsel in connection therewith. Accordingly, each of Purchaser and Seller hereby acknowledges that this Agreement shall be construed as jointly drafted by the Parties and no presumption or burden of proof shall arise favoring or disfavoring any Party by virtue of authorship of any provision or this Agreement, and any rule of Law or any legal decision that would require interpretation of any claimed ambiguities in this Agreement against the drafting Party has no application and is expressly waived.
+
+8.6 
+Severability
+. If any term or other provision of this Agreement is invalid, illegal, or incapable of being enforced by any Law or public policy, all other terms or provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any Party. Upon such determination that any term or other provision is invalid, illegal, or incapable of being enforced, the Parties shall negotiate in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby are consummated as originally contemplated to the greatest extent possible.
+
+8.7 
+Taxes and Expenses
+. Except as otherwise provided in the Asset Purchase Agreement, all costs and expenses (including any Taxes as defined in the Asset Purchase Agreement) incurred in connection with this Agreement and in closing and carrying out the transactions contemplated hereby and thereby shall be paid by the Party incurring such cost or expense.
+
+8.8 
+Entire Agreement; Amendments and Waivers
+. This Agreement (including the Schedules, Exhibits and Appendices hereto), the Asset Purchase Agreement and the other Transfer Documents represent the entire understanding and agreement between the Parties with respect to the subject matter hereof and thereof and supersede all prior and contemporaneous agreements, understandings and negotiations, both written and oral, express or implied, between and among the Parties with respect to the subject matter of this Agreement. No representation, warranty, promise, inducement or statement of intention has been made by either Party that is not embodied in this Agreement, the Asset Purchase Agreement or the other Transfer Documents, and neither Party shall be bound by, or be liable for, any alleged representation, warranty, promise, inducement or statement of intention not embodied herein or therein. This Agreement can be amended, supplemented or changed, and any provision hereof can be waived, only by written instrument making specific reference to this Agreement signed by both Parties. No action taken pursuant to this Agreement, including any investigation by or on behalf of any Party, shall be deemed to constitute a waiver by the Party taking such action of compliance with any representation, warranty, covenant or agreement contained herein. The waiver by any Party hereto of a breach of any provision of this Agreement shall not operate or be construed as a further or continuing waiver of such breach or as a waiver of any other or subsequent breach. No
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+failure on the part of any Party to exercise, and no delay in exercising, any right, power or remedy hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of such right, power or remedy by such Party preclude any other or further exercise thereof or the exercise of any other right, power or remedy. In addition, the provisions of 
+Section 5.3
+ of this Agreement will not be triggered by the initiation of an action by either Party for contractual breach of one or more of this Agreement, the Asset Purchase Agreement, the other Transfer Documents or the Non-disclosure Agreement.
+
+8.9 
+Governing Law
+. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware applicable to contracts made and performed in such State without giving effect to the choice of law principles of such State that would require or permit the application of the laws of another jurisdiction.
+
+8.10 
+Dispute Resolution; Submission to Jurisdiction; Consent to Service of Process
+.
+
+(a) All disputes arising directly under this Agreement or the grounds for termination thereof shall be resolved as follows: The senior management of both Parties shall meet to attempt to resolve any such dispute. If the dispute cannot be resolved by the senior management, either Party may make a written demand for formal dispute resolution and specify therein the scope of the dispute. Within thirty (30) days after such written notification, the Parties agree to meet for one day with an impartial mediator and consider dispute resolution alternatives other than litigation. If an alternative method of dispute resolution is not agreed upon within thirty (30) days after the one-day mediation, either Party may begin litigation proceedings.
+
+(b) Notwithstanding the provisions of 
+Section 8.10(a)
+ , each Party shall have the right, without the requirement of first seeking a remedy through any dispute resolution alternative (including arbitration) that has been agreed upon, to seek preliminary injunctive or other equitable relief in any proper court in the event that such Party determines that eventual redress through the dispute resolution alternative will not provide a sufficient remedy for any violation of this Agreement by the other Party.
+
+(c) The Parties hereby irrevocably submit to the jurisdiction of the courts of the State of California and the Federal courts of the United States of America, in each case located in the County of Santa Clara, solely in respect of the interpretation and enforcement of the provisions of this Agreement and of the documents referred to in this Agreement, and in respect of the transactions contemplated hereby, and hereby waive, and agree not to assert, as a defense in any action, suit or proceeding for the interpretation or enforcement hereof or of any such document, that it is not subject thereto or that such action, suit or proceeding may not be brought or is not maintainable in said courts or that the venue thereof may not be appropriate or that this Agreement or any such document may not be enforced in or by such courts. The Parties hereby consent to and grant any such court jurisdiction over the person of such Parties and over the subject matter of such dispute.
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d) EACH PARTY ACKNOWLEDGES AND AGREES THAT ANY CONTROVERSY WHICH MAY ARISE UNDER THIS AGREEMENT IS LIKELY TO INVOLVE COMPLICATED AND DIFFICULT ISSUES, AND THEREFORE EACH SUCH PARTY HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY RIGHT SUCH PARTY MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OF THE OTHER TRANSACTION DOCUMENTS OR THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT OR ANY OF THE OTHER TRANSACTION DOCUMENTS. EACH PARTY CERTIFIES AND ACKNOWLEDGES THAT (I) NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER, (II) EACH SUCH PARTY UNDERSTANDS AND HAS CONSIDERED THE IMPLICATIONS OF THIS WAIVER, (III) EACH SUCH PARTY MAKES THIS WAIVER VOLUNTARILY, AND (IV) EACH SUCH PARTY HAS BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE WAIVERS AND CERTIFICATIONS IN THIS 
+SECTION 8.10
+ .
+
+(e) Each of the Parties hereby consents to process being served by any Party to this Agreement in any suit, action or proceeding by the delivery of a copy thereof in accordance with the provisions of 
+Section 8.4
+.
+
+8.11 
+Specific Performance
+. The Parties hereby acknowledge and agree that the breach of or failure of any Party to perform its agreements and covenants hereunder, including its failure to take all actions as are necessary on its part to the consummation of the transactions contemplated herein, may cause irreparable injury to the other Party, for which damages, even if available, may not be an adequate remedy. Accordingly, each Party hereby consents to the issuance of injunctive relief by any court of competent jurisdiction to compel performance of such Party’s obligations and to the granting by any court of the remedy of specific performance of its obligations hereunder.
+
+8.12 
+Confidentiality of Terms
+. The terms of this Agreement shall be expressly subject to the confidentiality requirements of the Asset Purchase Agreement and the Non-disclosure Agreement.
+
+8.13 
+Compliance with Laws
+. Notwithstanding anything contained in this Agreement to the contrary, the obligations of the Parties hereto and of the Affiliates of the Parties shall be subject to all laws, present and future, of any government having jurisdiction over the Parties hereto or the Affiliates of the Parties, and to orders, regulations, directions or requests of any such government.
+
+8.14 
+Force Majeure
+. The Parties hereto shall be excused from any failure to perform any obligation hereunder to the extent such failure is caused by war, acts of public enemies, strikes or other labor disturbances, fires, floods, acts of God, or any causes of like or different kind beyond the control of the Parties.
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.15 
+Third Party Beneficiaries
+. No provision of this Agreement shall create any third party beneficiary rights in any Person, including any employee or former employee of Seller or any Affiliate thereof (including any beneficiary or dependent thereof).
+
+8.16 
+Counterparts
+. This Agreement may be executed in one or more counterparts, each of which will be deemed to be an original copy of this Agreement and all of which, when taken together, will be deemed to constitute one and the same agreement.
+
+8.17 
+Headings
+. The headings in this Agreement are for convenience of reference only and shall not affect or be utilized in construing or interpreting this Agreement.
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed as of the Effective Date.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INTEL CORPORATION
+
+ 
+
+IMPINJ INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Ravi Jacob
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Evan Fein
+
+Name:
+
+ 
+
+Ravi Jacob
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Evan Fein
+
+Title:
+
+ 
+
+Vice President & Treasurer
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP Finance
+
+[SIGNATURE PAGE TO LICENSE AGREEMENT
+
+BETWEEN INTEL CORPORATION AND IMPINJ, INC.]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Schedule A
+
+RFID Patents of a Purchaser
+
+US APPLICATION FILED AND PENDING — RFID
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item No.
+
+  
+
+Filed regular - formal title
+
+  
+
+Filed regular - serial
+number
+
+  
+
+Filed regular (non
+provisional) (date)
+
+1    
+
+  
+
+RFID Tag Systems, RFID Tags and RFID Processes Using N-ary FSK
+
+  
+
+11/090,961
+
+  
+
+3/25/2005
+
+2    
+
+  
+
+RFID Tag Systems, RFID Tags and RFID Processes With Branch Node Indexing
+
+  
+
+11/090,899
+
+  
+
+3/25/2005
+
+3    
+
+  
+
+RFID TAG UNCOUPLING ONE OF ITS ANTENNA PORTS AND METHODS
+
+  
+
+10/891,894
+
+  
+
+7/14/2004
+
+4    
+
+  
+
+INTERFERENCE CANCELLATION IN RFID SYSTEMS
+
+  
+
+10/981,893
+
+  
+
+11/5/2004
+
+5    
+
+  
+
+DECODING WITH MEMORY IN RFID SYSTEM
+
+  
+
+10/861,073
+
+  
+
+6/4/2004
+
+6    
+
+  
+
+RFID READERS TRANSMITTING PREAMBLES DENOTING DATA RATE AND METHODS
+
+  
+
+10/890,662
+
+  
+
+7/13/2004
+
+7    
+
+  
+
+RFID READERS TRANSMITTING PREAMBLES DENOTING COMMUNICATION PARAMETERS AND RFID TAGS INTERPRETING THE SAME AND METHODS
+
+  
+
+10/890,976
+
+  
+
+7/13/2004
+
+8    
+
+  
+
+RFID JOINT ACQUISITION OF TIME SYNC AND TIMEBASE
+
+  
+
+11/136,948
+
+  
+
+5/24/2005
+
+9    
+
+  
+
+METHOD AND SYSTEM TO CALIBRATE AN OSCILLATOR WITHIN AN RFID CIRCUIT UTILIZING A TEST SIGNAL SUPPLIED TO THE RFID CIRCUIT
+
+  
+
+10/824,071
+
+  
+
+4/13/2004
+
+10    
+
+  
+
+On Die RFID Tag Antenna
+
+  
+
+11/069,005
+
+  
+
+2/28/2005
+
+11    
+
+  
+
+RFID TAG CIRCUITS OPERABLE AT DIFFERENT SPEEDS
+
+  
+
+11/707,509
+
+  
+
+2/15/2007
+
+12    
+
+  
+
+Radio Frequency Identification Tag Antenna Assembly
+
+  
+
+29/220,504
+
+  
+
+12/30/2004
+
+13    
+
+  
+
+Conductor For Radio Identification Tag Antenna Assembly
+
+  
+
+29/220,496
+
+  
+
+12/30/2004
+
+14    
+
+  
+
+RFID SYSTEM COMPONENTS IMPLEMENTING ADJUSTED BACKSCATTER CALCULATIONS AND METHODS
+
+  
+
+11/114,614
+
+  
+
+4/25/2005
+
+15    
+
+  
+
+SELECTING RFID TAGS USING MEMORY-MAPPED PARAMETERS
+
+  
+
+11/217,616
+
+  
+
+8/31/2005
+
+16    
+
+  
+
+RFID TAGS WITH POWER RECTIFIERS THAT HAVE BIAS
+
+  
+
+11/236,709
+
+  
+
+9/26/2005
+
+17    
+
+  
+
+On Wafer Testing of RFID Tag Circuit With Pseudo Antenna Signal
+
+  
+
+11/325,988
+
+  
+
+1/4/2006
+
+18    
+
+  
+
+INVENTORYING RFID TAGS BY EMPLOYING A QUERY PARAMETER Q THAT IS ADJUSTED FOR IMPROVING
+
+  
+
+11/210,384
+
+  
+
+8/24/2005
+
+19    
+
+  
+
+CHANGING MANNER OF DETERMINING A QUERY PARAMETER Q USED FOR INVENTORYING RFID TAGS
+
+  
+
+11/210,575
+
+  
+
+8/24/2005
+
+20    
+
+  
+
+PREVENTING COMMUNICATION CONFLICT WITH OTHER RFID READERS
+
+  
+
+11/195,468
+
+  
+
+8/1/2005
+
+21    
+
+  
+
+ERROR RECOVERY IN RFID READER SYSTEMS
+
+  
+
+11/388,235
+
+  
+
+3/22/2006
+
+22    
+
+  
+
+RFID TAG USING UPDATABLE SEED VALUES FOR GENERATING A RANDOM NUMBER
+
+  
+
+11/251,122
+
+  
+
+10/13/2005
+
+23    
+
+  
+
+RFID TAG WITH RANDOM NUMBER GENERATOR HAVING A NOISE- BASED INPUT
+
+  
+
+11/355,665
+
+  
+
+2/15/2006
+
+24    
+
+  
+
+STORING AND RETRIEVING A QUERY PARAMETER Q USED FOR INVENTORYING RFID TAGS
+
+  
+
+11/210,418
+
+  
+
+8/24/2005
+
+25    
+
+  
+
+INVENTORYING RFID TAGS BY EMPLOYING A QUERY PARAMETER Q THAT CONVERGES HEURISTICALLY
+
+  
+
+11/210,573
+
+  
+
+8/24/2005
+
+26    
+
+  
+
+INTERFERENCE REJECTION IN RFID TAGS
+
+  
+
+11/386,177
+
+  
+
+3/22/2006
+
+27    
+
+  
+
+ADJUSTING RFID WAVEFORM SHAPE IN VIEW OF DETECTED RF ENERGY
+
+  
+
+11/412,170
+
+  
+
+4/25/2006
+
+28    
+
+  
+
+RFID TAGS HAVING A RECTIFIER CIRCUIT INCLUDING A DUAL- TERMINAL RECTIFIER DEVICE
+
+  
+
+11/484,523
+
+  
+
+7/10/2006
+
+29    
+
+  
+
+AUTOMATIC ON-DIE DEFECT ISOLATION
+
+  
+
+11/336,161
+
+  
+
+1/20/2006
+
+30    
+
+  
+
+RFID TAG SWITCHED CAPACITOR SLICER THRESHOLD
+
+  
+
+11/340,033
+
+  
+
+1/26/2006
+
+31    
+
+  
+
+ADAPTIVELY ADJUSTING A QUERY PARAMETER Q USED FOR INVENTORYING RFID TAGS
+
+  
+
+11/210,422
+
+  
+
+8/24/2005
+
+32    
+
+  
+
+LOCAL PROCESSING OF RECEIVED RFID TAG RESPONSES
+
+  
+
+11/472,179
+
+  
+
+6/20/2006
+
+ 
+
+ 
+
+33    
+
+  
+
+CIRCUITS FOR RFID TAGS WITH MULTIPLE NON-
+
+INDEPENDENTLY DRIVEN RF PORTS
+
+  
+
+11/213,631
+
+  
+
+8/26/2005
+
+34    
+
+  
+
+RFID TAGS COMBINING SIGNALS RECEIVED FROM MULTIPLE RF PORTS
+
+  
+
+11/213,632
+
+  
+
+8/26/2005
+
+35    
+
+  
+
+RACE FLAG FEATURE FOR RADIO FREQUENCY IDENTIFICATION TAG ANTENNA LAYOUT
+
+  
+
+29/239,503
+
+  
+
+9/30/2005
+
+36    
+
+  
+
+RFID TAG CIRCUITS USING RING FET
+
+  
+
+11/489,019
+
+  
+
+7/18/2006
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+37    
+
+  
+
+HANDLING LEGITIMATE AND UNAUTHORIZED ITEMS IN SUPPLY CHAIN ACCORDING TO AUTHENTICATION OF THEIR RFID TAGS
+
+  
+
+11/637,372
+
+  
+
+12/11/2006
+
+38    
+
+  
+
+RFID READER SYSTEMS AIDED BY RF POWER MEASUREMENT
+
+  
+
+11/622,066
+
+  
+
+1/11/2007
+
+39    
+
+  
+
+RFID Reader Systems Detecting Pilot Tone
+
+  
+
+11/622,092
+
+  
+
+1/11/2007
+
+40    
+
+  
+
+Discontinuous-Loop RFID Reader Antenna and Methods
+
+  
+
+11/623,403
+
+  
+
+1/16/2007
+
+41    
+
+  
+
+RFID TAGS CIRCUITS AND METHODS FOR SENSING OWN POWER TO PREDETERMINE FEASIBILITY OF REQUESTED ACTION
+
+  
+
+11/624,197
+
+  
+
+1/17/2007
+
+42    
+
+  
+
+ADJUSTING RFID WAVEFORM SHAPE IN VIEW OF SIGNAL FROM ANOTHER READER
+
+  
+
+11/412,192
+
+  
+
+4/25/2006
+
+43    
+
+  
+
+ADJUSTING RFID WAVEFORM SHAPE IN VIEW OF SIGNAL FROM AN RFID TAG
+
+  
+
+11/411,657
+
+  
+
+4/25/2006
+
+44    
+
+  
+
+PERFORMANCE DRIVEN ADJUSTMENT OF RFID WAVEFORM SHAPE
+
+  
+
+11/412,172
+
+  
+
+4/25/2006
+
+45    
+
+  
+
+RECONSTRUCTING RFID WAVEFORM SHAPE FOR REUSE IN INDIVIDUAL CHANNEL
+
+  
+
+11/412,171
+
+  
+
+4/25/2006
+
+46    
+
+  
+
+SECURE TWO-WAY RFID COMMUNICATIONS
+
+  
+
+11/356,885
+
+  
+
+2/17/2006
+
+47    
+
+  
+
+SEMI-STATIC FLIP-FLOPS FOR RFID TAGS
+
+  
+
+11/490,671
+
+  
+
+7/20/2006
+
+48    
+
+  
+
+Adaptable Detection Threshold for RFID Tags and Chips
+
+  
+
+11/670,587
+
+  
+
+2/2/2007
+
+49    
+
+  
+
+RFID Reader Systems with Digital Rate Conversion
+
+  
+
+11/622,140
+
+  
+
+1/11/2007
+
+50    
+
+  
+
+AHEAD-OF-TIME SCHEDULING OF COMMANDS IN RFID READER SYSTEMS
+
+  
+
+11/509,290
+
+  
+
+8/23/2006
+
+51    
+
+  
+
+PREVENTING TIMEOUT OF RFID TAG IN TIMED STATE OF AIR- INTERFACE PROTOCOL
+
+  
+
+11/503,420
+
+  
+
+8/11/2006
+
+52    
+
+  
+
+INTEGRATED CIRCUIT TEST RESULT COMMUNICATION
+
+  
+
+11/470,526
+
+  
+
+9/6/2006
+
+53    
+
+  
+
+RADIO-FREQUENCY IDENTIFICATION TAG WITH OSCILLATOR CALIBRATION
+
+  
+
+11/460,200
+
+  
+
+7/26/2006
+
+54    
+
+  
+
+MULTIPLE RF-PORT MODULATOR FOR RFID TAG
+
+  
+
+11/712,759
+
+  
+
+2/28/2007
+
+55    
+
+  
+
+RFID TAG TRAVEL DIRECTION DETERMINATION
+
+  
+
+11/818,810
+
+  
+
+6/14/2007
+
+56    
+
+  
+
+RFID ANTENNA MODULES AND METHODS THEREOF
+
+  
+
+11/807,114
+
+  
+
+5/25/2007
+
+57    
+
+  
+
+RFID READER SYSTEMS WITH DOUBLE CONVERSION AND METHODS
+
+  
+
+11/742,650
+
+  
+
+5/1/2007
+
+58    
+
+  
+
+RFID TAG CIRCUITS TAGS AND METHODS FOR BACKSCATTERING WITH CONTROLLABLE ADMITTANCE
+
+  
+
+11/765,552
+
+  
+
+6/20/2007
+
+59    
+
+  
+
+Disabling Poorly Testing RFID ICS
+
+  
+
+11/519,507
+
+  
+
+9/11/2006
+
+60    
+
+  
+
+RFID READERS AND SYSTEMS WITH ANTENNA SWITCHING UPON TAG SENSING, AND METHODS
+
+  
+
+11/749,235
+
+  
+
+5/16/2007
+
+61    
+
+  
+
+RFID READERS AND SYSTEMS INITIALIZING AFTER FREQUENCY HOP AND METHODS
+
+  
+
+11/774,285
+
+  
+
+7/6/2007
+
+62    
+
+  
+
+RFID READER LOW DUTY CYCLE MODE
+
+  
+
+11/770,987
+
+  
+
+6/29/2007
+
+63    
+
+  
+
+RFID READERS AND SYSTEMS PERFORMING PARTIAL OPERATION PER ANTENNA AND METHODS
+
+  
+
+11/769,444
+
+  
+
+6/27/2007
+
+64    
+
+  
+
+AUTOMATED RFID READER FIRMWARE UPGRADE SYSTEM
+
+  
+
+11/789959
+
+  
+
+4/25/2007
+
+65    
+
+  
+
+RFID TAG CHIPS AND TAGS ABLE TO BE PARTIALLY KILLED AND METHODS
+
+  
+
+11/852,439
+
+  
+
+9/10/2007
+
+66    
+
+  
+
+RFID TAG CHIPS AND TAGS WITH ALTERNATIVE MEMORY LOCK BITS AND METHODS
+
+  
+
+11/872,774
+
+  
+
+10/16/2007
+
+67    
+
+  
+
+RFID TAG CHIPS AND TAGS ARRANGING PROTOCOL-RELATED BIT AND LOCK BIT IN SINGLE NVM MEMORY WORD AND METHODS
+
+  
+
+11/877,054
+
+  
+
+10/23/2007
+
+68    
+
+  
+
+Determining Authentication of RFID Tags for Indicating Legitimacy of Their Associated Items
+
+  
+
+11/637,479
+
+  
+
+12/11/2006
+
+69    
+
+  
+
+Reporting on Authentication of RFID Tags for Indicating Legitimacy of Their Associated Items
+
+  
+
+11/637,255
+
+  
+
+12/11/2006
+
+70    
+
+  
+
+RFID READERS AND SYSTEMS INITIALIZING AFTER ANTENNA SWITCH AND METHODS
+
+  
+
+11/774,338
+
+  
+
+7/6/2007
+
+71    
+
+  
+
+RFID Reader Q-Parameter Aided by RF Power Measurement
+
+  
+
+11/622,686
+
+  
+
+1/12/2007
+
+72    
+
+  
+
+DECODING WITH MEMORY IN RFID SYSTEM
+
+  
+
+11/717,477
+
+  
+
+3/12/2007
+
+73    
+
+  
+
+RFID TAGS WITH SUBSTANTIALLY SIMILAR POWER CONSUMPTION WHEN CHECKING INCOMING PASSWORD BITS
+
+  
+
+11/707,728
+
+  
+
+2/16/2007
+
+74    
+
+  
+
+MASKING RFID TAG POWER CONSUMPTION WHEN CHECKING INCOMING PASSWORD BITS
+
+  
+
+11/707,793
+
+  
+
+2/16/2007
+
+75    
+
+  
+
+Radio Frequency Identification Tag Antenna Assembly
+
+  
+
+29/285,843
+
+  
+
+4/11/2007
+
+76    
+
+  
+
+RFID READERS AND SYSTEMS WITH ANTENNA SWITCHING UPON DETECTING TOO FEW TAGS AND METHODS
+
+  
+
+11/749,281
+
+  
+
+5/16/2007
+
+77    
+
+  
+
+RFID TAGS COMBINING SIGNALS RECEIVED FROM MULTIPLE RF PORTS
+
+  
+
+11/803,995
+
+  
+
+5/15/2007
+
+78    
+
+  
+
+RFID TAG CIRCUIT DIE WITH SHIELDING LAYER TO CONTROL I/O BUMP FLOW
+
+  
+
+11/891,391
+
+  
+
+8/10/2007
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+79    
+
+  
+
+DEVICES AND METHODS FOR GENERATING REFERENCE CURRENT HAVING LOW TEMPERATURE COEFFICIENT DEPENDENCE
+
+  
+
+11/981,396
+
+  
+
+10/30/2007
+
+80    
+
+  
+
+RFID READER DEVICES AND METHODS THEREOF
+
+  
+
+11/807,115
+
+  
+
+5/25/2007
+
+81    
+
+  
+
+RFID READER SYSTEMS AND METHODS OF ASSEMBLY
+
+  
+
+11/807,118
+
+  
+
+5/25/2007
+
+82    
+
+  
+
+RFID TAGS WITH LONG RANGE ON-CHIP ANTENNAS AND METHODS OF MAKING
+
+  
+
+11/823,193
+
+  
+
+6/26/2007
+
+83    
+
+  
+
+RFID READERS SYSTEMS AND METHODS FOR EARLY HOPPING OUT OF A FREQUENCY CHANNEL IN THE PRESENCE OF RF INTERFERENCE
+
+  
+
+11/849,737
+
+  
+
+9/4/2007
+
+84    
+
+  
+
+ETCH BEFORE GRIND FOR SEMICONDUCTOR DIE SINGULATION
+
+  
+
+11/891,392
+
+  
+
+8/9/2007
+
+85    
+
+  
+
+RFID TAG CHIPS AND TAGS REFRAINING FROM PARTICIPATING IN A SUBSEQUENT INVENTORYING ATTEMPT AND METHODS
+
+  
+
+12/057,467
+
+  
+
+3/28/2008
+
+86    
+
+  
+
+SOFTWARE FOR EXPOSING MULTIPLE RFID READER APPLICATION PROGRAMMING INTERFACES
+
+  
+
+11/ 923,774
+
+  
+
+10/25/2007
+
+87    
+
+  
+
+DEVICES, SYSTEMS AND METHODS FOR GENERATING REFERENCE CURRENT FROM VOLTAGE DIFFERENTIAL HAVING LOW TEMPERATURE COEFFICIENT
+
+  
+
+11/981,387
+
+  
+
+10/30/2007
+
+88    
+
+  
+
+RFID READERS SYSTEMS AND METHODS FOR HOPPING AWAY FROM A FREQUENCY CHANNEL WITH RF INTERFERENCE
+
+  
+
+11/849,804
+
+  
+
+9/4/2007
+
+89    
+
+  
+
+RFID-EQUIPPED STATIONS FOR HANDLING PASSING TAGGED ITEMS AND METHODS
+
+  
+
+11/949,124
+
+  
+
+12/3/2007
+
+90    
+
+  
+
+RFID TAGS WITH SYNCHRONOUS POWER RECTIFIER
+
+  
+
+12/042,117
+
+  
+
+3/4/2008
+
+91    
+
+  
+
+RFID TAG WITH DOUBLE -SWITCH RECTIFIER
+
+  
+
+12/042,141
+
+  
+
+3/4/2008
+
+92    
+
+  
+
+EXTENDING AN RFID READER API
+
+  
+
+11/959,592
+
+  
+
+12/19/2007
+
+93    
+
+  
+
+RFID TAG CHIPS AND TAGS CAPABLE OF BACKSCATTERING MORE CODES AND METHODS
+
+  
+
+12/112,699
+
+  
+
+4/30/2008
+
+94    
+
+  
+
+BROKEN-LOOP RFID READER ANTENNA FOR NEAR FIELD AND FAR FIELD UHF RFID TAGS
+
+  
+
+29/303,658
+
+  
+
+2/14/2008
+
+95    
+
+  
+
+BROKEN-LOOP RFID READER ANTENNA FOR NEAR FIELD AND FAR FIELD UHF RFID TAGS
+
+  
+
+29/303,663
+
+  
+
+2/14/2008
+
+96    
+
+  
+
+METHODS FOR EXPOSING MULTIPLE RFID READER APPLICATION PROGRAMMING INTERFACES
+
+  
+
+11/923,968
+
+  
+
+10/25/2007
+
+97    
+
+  
+
+DISCRIMINATING BETWEEN RFID TAG CODES READ INTENTIONALLY AND UNINTENTIONALLY
+
+  
+
+11/949,218
+
+  
+
+12/3/2007
+
+98    
+
+  
+
+READING CODES OF RFID TAGS INCOMING AT PREMISES AND REMOVING THEM LATER AS THEY EXIT
+
+  
+
+12/018,937
+
+  
+
+1/24/2008
+
+99    
+
+  
+
+RFID TAG CHIPS AND TAGS COMPLYING WITH ONLY A LIMITED NUMBER OF REMAINING COMMANDS, AND METHODS
+
+  
+
+12/035,379
+
+  
+
+2/21/2008
+
+100    
+
+  
+
+CAUSING RFID TAGS TO REPLY USING CHANGED REPLY TIMING
+
+  
+
+12/035,397
+
+  
+
+2/21/2008
+
+101    
+
+  
+
+VOLTAGE REFERENCE CIRCUIT WITH LOW-POWER BANDGAP
+
+  
+
+12/108,311
+
+  
+
+4/23/2008
+
+102    
+
+  
+
+RFID TAG WITH REDUNDANT NON-VOLATILE MEMORY CELL
+
+  
+
+12/020,522
+
+  
+
+1/26/2008
+
+103    
+
+  
+
+RFID TAG HAVING NON-VOLATILE MEMORY DEVICE HAVING FLOATING-GATE FETS WITH DIFFERENT SOURCE-GATE AND DRAIN-GATE BORDER LENGTHS
+
+  
+
+12/006,330
+
+  
+
+12/31/2007
+
+104    
+
+  
+
+RFID TAG SEMICONDUCTOR CHIP WITH MEMORY MANAGMENT UNIT (MMU) TO MAKE ONLY ONE TIME PROGRAMMABLE (OTP) MEMORY APPEAR MULTIPLE TIMES PROGRAMMABLE (MTP)
+
+  
+
+12/006,321
+
+  
+
+12/31/2007
+
+105    
+
+  
+
+RADIO FREQUENCY IDENTIFICATION DEVICE POWER-ON RESET MANAGEMENT
+
+  
+
+11/965,359
+
+  
+
+12/27/2007
+
+106    
+
+  
+
+RADIO FREQUENCY IDENTIFICATION DEVICE ELECTROSTATIC DISCHARGE MANAGEMENT
+
+  
+
+11/965,307
+
+  
+
+12/27/2007
+
+107    
+
+  
+
+Radio Frequency (RFID) Tag Including Configurable Single Bit/Dual Bits Memory
+
+  
+
+12/012,910
+
+  
+
+2/5/2008
+
+108    
+
+  
+
+PREMISES ADAPTED TO READ CODES OF INCOMING RFID TAGS AND REMOVING THEM LATER AS THEY EXIT
+
+  
+
+12/019,030
+
+  
+
+1/24/2008
+
+109    
+
+  
+
+RFID READERS CO-EXISTING WITH OTHER ISM-BAND DEVICES
+
+  
+
+12/056,120
+
+  
+
+3/26/2008
+
+110    
+
+  
+
+CAUSING RFID TAG TO CHANGE HOW MANY REMAINING COMMANDS IT WILL COMPLY WITH
+
+  
+
+12/035,372
+
+  
+
+2/21/2008
+
+111    
+
+  
+
+RFID TAGS REPLYING USING CHANGED REPLY TIMING
+
+  
+
+12/035,393
+
+  
+
+2/21/2008
+
+112    
+
+  
+
+FACILITATING RFID TAGS TO REFRAIN FROM PARTICIPATING IN A SUBSEQUENT INVENTORYING ATTEMPT
+
+  
+
+12/057,509
+
+  
+
+3/28/2008
+
+113    
+
+  
+
+CAUSING RFID TAGS TO BACKSCATTER MORE CODES
+
+  
+
+12/112,832
+
+  
+
+4/30/2008
+
+ 
+
+ 
+
+114    
+
+  
+
+METHODS TO DISINCENTIVIZE SELLERS FROM SELLING WITHOUT AUTHORIZATION
+
+  
+
+12/122,327
+
+  
+
+5/16/2008
+
+115    
+
+  
+
+ADJUSTING COMMUNICATION PARAMETERS WHILE INVENTORYING RFID TAGS
+
+  
+
+12/133,180
+
+  
+
+6/4/2008
+
+ 
+
+ 
+
+ 
+
+ 
+
+FOREIGN (INTL & NATL) APPLICATION FILED AND PENDING — RFID
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1    
+
+  
+
+RFID READERS TRANSMITTING AND RECEIVING WAVEFORM SEGMENT WITH ENDING-TRIGGERING TRANSITION
+
+  
+
+5785584.3
+
+  
+
+8/9/2005
+
+2    
+
+  
+
+RFID READERS SYSTEMS AND METHODS FOR EARLY HOPPING OUT OF A FREQUENCY CHANNEL IN THE PRESENCE OF RF INTERFERENCE
+
+  
+
+PCT/US2007/019360
+
+  
+
+9/5/2007
+
+ 
+
+PROVISIONAL APPLICATION FILED AND PENDING — RFID
+
+ 
+
+Item No.
+
+  
+
+Filed regular - formal title
+
+  
+
+Filed serial number
+
+  
+
+Filed date
+
+1    
+
+  
+
+MULTIPLEXING RFID ANTENNA MODULES
+
+  
+
+61/027,005
+
+  
+
+2/7/2008
+
+2    
+
+  
+
+REDUNDANT DIFFERENTIAL RFID TAGGING SCHEME FOR ITEM AUTHENTICATION
+
+  
+
+61/005,521
+
+  
+
+12/4/2007
+
+3    
+
+  
+
+READER ANTENNA ARRAY PROCESSING FOR HIGH DATA RATE
+
+  
+
+61/046,614
+
+  
+
+4/21/2008
+
+ 
+
+  
+
+ROBUST RFID
+
+  
+
+ 
+
+  
+
+ 
+
+4    
+
+  
+
+EXPEDITED RFID TAG SINGULATION USING GEN2 TRUNCATED EPC
+
+  
+
+61/039,916
+
+  
+
+3/27/2008
+
+5    
+
+  
+
+A HV LDMOS DEVICE IN CMOS PROCESS
+
+  
+
+61/003,017
+
+  
+
+11/13/2007
+
+6    
+
+  
+
+RFID TAG ASSEMBLY MACHINE AND METHODS
+
+  
+
+60/997,493
+
+  
+
+10/3/2007
+
+7    
+
+  
+
+TAG POPULATION ESTIMATION
+
+  
+
+61/040,922
+
+  
+
+3/31/2008
+
+8    
+
+  
+
+USE CLASS1 GEN2 (C1G2) AS NETWORK PROTOCOL
+
+  
+
+61/023,359
+
+  
+
+1/24/2008
+
+9    
+
+  
+
+RFID SECURITY WITH ACCESS PASSWORD
+
+  
+
+61/001,257
+
+  
+
+10/30/2007
+
+10    
+
+  
+
+RFID USING PASSWORD STORED IN TAG FOR AUTHENTICATION
+
+  
+
+61/021,591
+
+  
+
+1/16/2008
+
+11    
+
+  
+
+AUTOMATIC TUNING OF RFID TAG COMMISSIONING
+
+  
+
+60/966,069
+
+  
+
+8/24/2007
+
+12    
+
+  
+
+RFID BULK-WRITE
+
+  
+
+61/003,627
+
+  
+
+11/19/2007
+
+13    
+
+  
+
+BULK WRITE ALGORITHM FOR RFID READER SYSTEM
+
+  
+
+60/931,180
+
+  
+
+5/21/2007
+
+14    
+
+  
+
+RFID BULK-WRITE
+
+  
+
+61/004,275
+
+  
+
+11/26/2007
+
+15    
+
+  
+
+RFID BULK-WRITE WITH SECONDARY DATA CARRIER
+
+  
+
+61/005,250
+
+  
+
+12/4/2007
+
+16    
+
+  
+
+EXPEDITED RFID TAG ASSEMBLY METHOD
+
+  
+
+61/035,710
+
+  
+
+3/11/2008
+
+17    
+
+  
+
+RFID TAG WITH POS PASSWORD OF FLEETING VALIDITY FOR EAS
+
+  
+
+61/031,656
+
+  
+
+2/26/2008
+
+18    
+
+  
+
+RFID READERS MODIFYING TAG INTERNAL OPERATIONS
+
+  
+
+61/028,644
+
+  
+
+2/14/2008
+
+19    
+
+  
+
+LARGER RFID READER TRANSMIT POWER WHILE SUPPLIED BY POWER OVER ETHERNET (POE)
+
+  
+
+61/027,379
+
+  
+
+2/8/2008
+
+20    
+
+  
+
+RFID TAG DYNAMICALLY ADJUSTING CLOCK FREQUENCY
+
+  
+
+61/036,422
+
+  
+
+3/13/2008
+
+21    
+
+  
+
+RFID TAG HAVING EAS FEATURE WITH PRIVATIZATION
+
+  
+
+61/043,049
+
+  
+
+4/7/2008
+
+22    
+
+  
+
+RFID READER SYSTEM WITH ADAPTABLE ANTENNA
+
+  
+
+61/050,924
+
+  
+
+5/6/2008
+
+23    
+
+  
+
+RFID READER ANTENNA WITH MEANDER SLOT
+
+  
+
+61/042,177
+
+  
+
+4/3/2008
+
+24    
+
+  
+
+RFID TAGS BACKSCATTERING ALTERNATING VERSIONS OF CODE, AND READERS FOR THEM
+
+  
+
+61/047,653
+
+  
+
+4/24/2008
+
+25    
+
+  
+
+CACHING RFID TAG TID INFORMATION BY RFID READER
+
+  
+
+61/048,505
+
+  
+
+4/28/2008
+
+26    
+
+  
+
+RFID READERS LIMITING PASSWORD THEFT
+
+  
+
+61/039,040
+
+  
+
+3/24/2008
+
+27    
+
+  
+
+DETECTING UNAUTHORIZED READERS / TAG ACCESS
+
+  
+
+61/003,632
+
+  
+
+11/19/2007
+
+28    
+
+  
+
+DETECTING AND REACTING TO UNAUTHORIZED READERS / TAG ACCESS BY ROGUE IN PREMISES
+
+  
+
+61/021,595
+
+  
+
+1/16/2008
+
+29    
+
+  
+
+BUSINESS METHOD OF RFID INSPECTION AND ANTI-COUNTERFEITING
+
+  
+
+60/966,066
+
+  
+
+8/24/2007
+
+30    
+
+  
+
+RFID READER ANTENNA DESIGN: “CACTUS”
+
+  
+
+60/995,042
+
+  
+
+9/24/2007
+
+31    
+
+  
+
+RFID ANTENNA WITH MULTIMODE RADIATING ELEMENTS
+
+  
+
+60/995,200
+
+  
+
+11/1/2007
+
+32    
+
+  
+
+RFID TAGS MADE FROM MOTHER CHIPS AND ONE OR MORE CHIP ANTENNAS AND METHODS OF MAKING
+
+  
+
+60/956,163
+
+  
+
+8/16/2007
+
+33    
+
+  
+
+RFID TAGS BACKSCATTERING ALTERNATE VERSIONS OF CODE, AND READERS THEREFOR
+
+  
+
+61/053,331
+
+  
+
+5/15/2008
+
+34    
+
+  
+
+RFID TAGS SAFER IN HIGH RF ENERGY ENVIRONMENT AND METHODS FOR MAKING
+
+  
+
+61/054,412
+
+  
+
+5/19/2008
+
+35    
+
+  
+
+CONTROLLING NUMBER FILLED IN SLOT COUNTER OF RFID TAGS
+
+  
+
+61/055,371
+
+  
+
+5/22/2008
+
+36    
+
+  
+
+RFID TAGS SAFER IN HIGH RF ENERGY ENVIRONMENT AND METHODS FOR MAKING
+
+  
+
+61/055,800
+
+  
+
+5/23/2008
+
+37    
+
+  
+
+NOVEL IC DIE FORM FACTOR, AND METHOD OF MAKING
+
+  
+
+61/058,170
+
+  
+
+6/2/2008
+
+38    
+
+  
+
+RODS FOR GARMENT HANGERS ALSO IMPLEMENTING RFID READER ANTENNAS
+
+  
+
+61/059,651
+
+  
+
+6/6/2008
+
+ 
+
+ 
+
+39    
+
+  
+
+CELL FOR NON-VOLATILE MEMORY
+
+  
+
+61/061,004
+
+  
+
+6/12/2008
+
+40    
+
+  
+
+CONTROLLING NUMBER FILLED IN SLOT COUNTER OF RFID TAGS FOR BEING INVENTORIED
+
+  
+
+61/061,011
+
+  
+
+6/12/2008
+
+41    
+
+  
+
+RFID ILT MINI-GUARDRAIL ANTENNA
+
+  
+
+61/061,758
+
+  
+
+6/16/2008
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+US ISSUED PATENTS — RFID
+
+ 
+
+ 
+
+ 
+
+ 
+
+1    
+
+  
+
+RFID TAGS ADJUSTING TO DIFFERENT REGULATORY ENVIRONMENTS, AND RFID READERS TO SO ADJUST THEM AND METHODS
+
+  
+
+7,283,037
+
+  
+
+10/16/2007
+
+2    
+
+  
+
+METHOD AND APPARATUS TO CONFIGURE AN RFID SYSTEM TO BE ADAPTABLE TO A PLURALITY OF ENVIRONMENTAL CONDITIONS
+
+  
+
+7,026,935
+
+  
+
+4/11/2006
+
+3    
+
+  
+
+RFID READER TO SELECT CODE MODULE
+
+  
+
+7,304,579
+
+  
+
+12/4/2007
+
+4    
+
+  
+
+METHOD AND APPARATUS FOR CONTROLLED PERSISTENT ID FLAG FOR RFID APPLICATIONS
+
+  
+
+7,215,251
+
+  
+
+5/8/2007
+
+5    
+
+  
+
+METHOD AND APPARATUS FOR CONTROLLED PERSISTENT ID FLAG FOR RFID APPLICATIONS
+
+  
+
+7,116,240
+
+  
+
+10/3/2006
+
+6    
+
+  
+
+ADAPTABLE BANDWIDTH RFID TAGS
+
+  
+
+7,183,926
+
+  
+
+2/27/2007
+
+7    
+
+  
+
+TESTING AND BURN-IN OF IC CHIPS USING RADIO FREQUENCY TRANSMISSION
+
+  
+
+7,312,622
+
+  
+
+12/25/2007
+
+8    
+
+  
+
+RFID TAG DESIGN WITH CIRCUITRY FOR WAFER LEVEL TESTING
+
+  
+
+7,307,528
+
+  
+
+12/11/2007
+
+9    
+
+  
+
+RFID READERS TRANSMITTING AND RECEIVING WAVEFORM SEGMENT WITH ENDING-TRIGGERING TRANSITION
+
+  
+
+7,049,964
+
+  
+
+5/23/2006
+
+10    
+
+  
+
+SINGLE RF OSCILLATOR SINGLE-SIDE BAND MODULATION FOR RFID READERS USING TONE INSERTION DURING READER RECEPTION
+
+  
+
+7,107,022
+
+  
+
+9/12/2006
+
+11    
+
+  
+
+RFID READERS AND RFID TAGS COMMUNICATING USING EXTENSIBLE BIT VECTORS
+
+  
+
+7,030,786
+
+  
+
+4/18/2006
+
+12    
+
+  
+
+METHOD AND SYSTEM TO CALIBRATE AN OSCILLATOR WITHIN AN RFID CIRCUIT BY SELECTING A CALIBRATION VALUE FROM A PLURALITY OF STORED CALIBRATION VALUES
+
+  
+
+7,120,550
+
+  
+
+10/10/2006
+
+13    
+
+  
+
+METHOD AND SYSTEM TO GENERATE MODULATOR AND DEMODULATOR CLOCK SIGNALS WITHIN AN RFID CIRCUIT UTILIZING A MULTI-OSCILLATOR ARCHITECTURE
+
+  
+
+7,253,719
+
+  
+
+8/7/2007
+
+14    
+
+  
+
+RFID TAGS CALIBRATING BACKSCATTERING PERIOD ALSO FOR NON-INTEGER DIVIDE RATIOS
+
+  
+
+7,246,751
+
+  
+
+7/24/2007
+
+15    
+
+  
+
+RFID READERS AND RFID TAGS EXCHANGING ENCRYPTED PASSWORD
+
+  
+
+7,245,213
+
+  
+
+7/17/2007
+
+16    
+
+  
+
+RFID TAGS WITH ELECTRONIC FUSES FOR STORING COMPONENT CONFIGURATION DATA
+
+  
+
+7,307,529
+
+  
+
+12/11/2007
+
+17    
+
+  
+
+RFID TAG USING HYBRID NON-VOLATILE MEMORY
+
+  
+
+7,307,534
+
+  
+
+12/11/2007
+
+18    
+
+  
+
+RFID READERS TRANSMITTING AND RECEIVING WAVEFORM SEGMENT WITH ENDING-TRIGGERING TRANSITION
+
+  
+
+7,187,290
+
+  
+
+3/6/2007
+
+19    
+
+  
+
+RFID READERS AND RFID TAGS COMMUNICATING USING EXTENSIBLE BIT VECTORS
+
+  
+
+7,123,171
+
+  
+
+10/17/2006
+
+20    
+
+  
+
+RADIO FREQUENCY IDENTIFICATION TAG ANTENNA ASSEMBLY
+
+  
+
+D548,225
+
+  
+
+8/7/2007
+
+21    
+
+  
+
+RADIO FREQUENCY IDENTIFICATION TAG ANTENNA ASSEMBLY
+
+  
+
+D546,819
+
+  
+
+7/17/2007
+
+22    
+
+  
+
+RADIO FREQUENCY IDENTIFICATION TAG ANTENNA ASSEMBLY
+
+  
+
+D546,822
+
+  
+
+7/17/2007
+
+23    
+
+  
+
+RADIO FREQUENCY IDENTIFICATION TAG ANTENNA ASSEMBLY
+
+  
+
+D546,821
+
+  
+
+7/17/2007
+
+24    
+
+  
+
+RADIO FREQUENCY IDENTIFICATION TAG ANTENNA ASSEMBLY
+
+  
+
+D546,820
+
+  
+
+7/17/2007
+
+25    
+
+  
+
+RADIO FREQUENCY IDENTIFICATION TAG ANTENNA ASSEMBLY
+
+  
+
+D547,754
+
+  
+
+7/31/2007
+
+26    
+
+  
+
+RFID Antenna Design
+
+  
+
+D543,976
+
+  
+
+6/5/2007
+
+27    
+
+  
+
+RFID Antenna Design
+
+  
+
+D547,306
+
+  
+
+7/24/2007
+
+28    
+
+  
+
+RADIO FREQUENCY IDENTIFICATION TAG ANTENNA ASSEMBLY
+
+  
+
+D563,397
+
+  
+
+3/4/2008
+
+29    
+
+  
+
+RADIO FREQUENCY IDENTIFICATION TAG ANTENNA ASSEMBLY
+
+  
+
+D562,810
+
+  
+
+2/26/2008
+
+30    
+
+  
+
+RFID TAG WITH BIST CIRCUITS
+
+  
+
+7,380,190
+
+  
+
+5/27/2008
+
+31    
+
+  
+
+SINGLE RF OSCILLATOR SINGLE-SIDE BAND MODULATION FOR RFID READERS WITH FREQUENCY TRANSLATION AND FILTERING
+
+  
+
+7,382,257
+
+  
+
+6/3/2008
+
+32    
+
+  
+
+Broken-Loop RFID Reader Antenna for Near Field and Far Field UHF RFID Tags
+
+  
+
+D570,337
+
+  
+
+6/3/2008
+
+33    
+
+  
+
+METHOD AND SYSTEM TO BACKSCATTER MODULATE A RADIO- FREQUENCY SIGNAL FROM AN RFID TAG IN ACORDANCE WITH BOTH AN OSCILLATION FREQUENCY SIGNAL AND A COMMAND SIGNAL
+
+  
+
+7,388,468
+
+  
+
+6/17/2008
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix A
+
+Defined Terms
+
+The following terms, as used herein, have the following meanings:
+
+“
+Affiliate
+” shall mean, with respect to any Person, any other Person that, directly or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with, such Person, and the term “
+control
+” (including the terms “
+controlled by
+” and “
+under common control with
+”) means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such Person, whether through ownership of voting securities, by contract or otherwise.
+
+“
+Assert
+” shall mean to bring or initiate any action before any legal, judicial, arbitration, administrative, executive or other type of body or tribunal that has or claims to have authority to adjudicate such action in whole or in part. Examples of such body or tribunal include United States State and Federal Courts, the United States International Trade Commission and any foreign counterparts of any of the foregoing. “
+Assertion
+” means the bringing or initiating of any such action.
+
+“
+Business Day
+” shall mean any day of the year on which national banking institutions in California are open to the public for conducting business and are not required or authorized to close.
+
+“
+Change of Control
+” of a Person shall mean (a) the acquisition of such Person by another Person or group by means of any transaction or series of related transactions (including any stock acquisition, reorganization, merger or consolidation), whether accomplished directly or indirectly, other than a transaction or series of transactions in which the holders of the voting securities of such Person outstanding immediately prior to such transaction continue to retain (either by such voting securities remaining outstanding or by such voting securities being converted into voting securities of the surviving entity), as a result of shares in such Person held by such holders prior to such transaction, at least fifty percent (50%) of the total voting power represented by the voting securities of such Person or such surviving entity outstanding immediately after such transaction or series of transactions, or (b) a sale, lease or other conveyance of substantially all of the assets of such Person.
+
+“
+Covered Purchaser Party
+” shall mean Purchaser, its Affiliates and any direct or indirect customers, distributors, officers, directors, agents and/or contractors of Purchaser (or its Affiliates).
+
+“
+Covered Seller Party
+” shall mean Seller, its Affiliates and any [***], manufacturers, distributors, officers, directors, agents and/or contractors of Seller (or its Affiliates).
+
+“
+Field of Use
+” shall mean RFID systems in which [***]. For the avoidance of doubt, the Field of Use does not encompass any Seller Proprietary Product.
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Flash Memory Products
+” shall mean non-volatile Integrated Circuits capable of storing data that are electrically programmable and electrically erasable, or magnetically alterable to define a logical state, including both floating gate and non-floating gate designs.
+
+“
+Intellectual Property
+” shall mean all intellectual property rights arising from or in respect of the following, whether protected, created or arising under the Laws of the United States or any other jurisdiction or under any international convention: (a) all patents and applications therefor, including all continuations, divisionals, and continuations-in-part thereof and patents issuing thereon, along with all reissues, reexaminations and extensions thereof (collectively, “
+Patents
+”); (b) all trademarks, service marks, trade names, trade dress, logos, corporate names and other source or business identifiers, together with the goodwill associated with any of the foregoing, along with all applications, registrations, renewals and extensions thereof (collectively, “
+Marks
+”); (c) all Internet domain names; (d) all copyrights and mask works, along with all applications, registrations, reversions, extensions and renewals thereof (collectively, “
+Copyrights
+”); and (e) trade secrets and rights in information that is not generally known or readily ascertainable through proper means (“
+Trade Secrets
+”).
+
+“
+Integrated Circuit
+” shall mean an integrated unit comprising one or more active and/or passive circuit elements associated on one or more substrates, such unit forming, or contributing to the formation of, a circuit for performing electrical functions (including, if provided therewith, housing and/or supporting means). The definition of Integrated Circuit shall also include any and all firmware, microcode or drivers, if needed to cause such circuit to perform substantially all of its intended hardware functionality, whether or not such firmware, microcode or drivers are shipped with such integrated unit or installed at a later time.
+
+“
+Licensed Claims
+” shall mean only those claims of the Seller Licensed Patents that would be infringed by the Products in standalone form only as sold by Purchaser, including the manufacture, sale or other disposition thereof. For the avoidance of doubt, Licensed Claims shall not include any claims other than those set forth in the preceding sentence even if contained in the same Seller Licensed Patent as Licensed Claims.
+
+“
+Licensed Products
+” shall mean Products and Substantially Identical Products that are offered for sale or sold as a Purchaser product.
+
+“
+Non-Disclosure Agreement
+” shall mean Intel Corporate Non-Disclosure Agreement Number 7137598 by and between the Parties, dated as of April 5, 2001, as amended June 6, 2007.
+
+“
+Person
+” shall mean any individual, corporation, partnership, limited liability company, firm, joint venture, association, joint-stock company, trust, unincorporated organization, governmental body or other entity.
+
+“
+Processor
+” shall mean any Integrated Circuit or combination of Integrated Circuits capable of processing digital data, such as a microprocessor or coprocessor (including a math coprocessor, graphics coprocessor, or digital signal processor).
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Product
+” shall mean: (a) UHF RFID Reader transceiver silicon code-named “Tilden1” [***].
+
+“
+Purchaser Patents
+” shall mean all Patents owned or controlled by Purchaser as of the Closing Date, and any other Patents filed by Purchaser after the Closing Date entitled to claim a priority date on or before the Closing Date, excluding the Patents pertaining to RFID, all of which are set forth on 
+Schedule A
+ hereto.
+
+“
+Restricted Documents
+” means items listed under the following parts of 
+Exhibit A
+ to the Asset Purchase Agreement: 
+Section 2.1(b)
+, “Marketing Development Kit Assets” listed under 
+Section 2.1(d)
+, 
+Section 2.1(e)
+ and 
+Section 2.1(f)
+ (except third-party software tools and licenses underlying the items listed under the heading “Application Software Code Developed from Third-Party Licenses and Tools”).
+
+“
+RFID
+” means radio-frequency identification.
+
+“
+Seller Architecture Emulator
+” shall mean software, firmware, or hardware that, through emulation, simulation or any other process, allows a computer that does not contain a Seller Compatible Processor (or a Processor that is not a Seller Compatible Processor) to execute binary code that is capable of being executed on a Seller Compatible Processor.
+
+“
+Seller Bus
+” shall mean a proprietary bus or other data path first introduced by Seller or any Seller Affiliate: (a) that is capable of transmitting and/or receiving information within an Integrated Circuit or between two or more Integrated Circuits, together with the set of protocols defining the electrical, physical, timing and functional characteristics, sequences and control procedures of such bus or data path; (b) which neither Seller nor any Seller Affiliate (during any time such Seller Affiliate has met the requirements of being a Affiliate) has granted a license or committed to grant a license through its participation in a government sponsored, industry sponsored, or contractually formed group or any similar organization that is dedicated to creating publicly available standards or specifications; and (c) which neither Seller nor any Seller Affiliate (during any time such Seller Affiliate has met the requirements of being a Affiliate) has publicly disclosed without an obligation of confidentiality.
+
+“
+Seller Compatible Chipsets
+” shall mean one or more Integrated Circuits that alone or together are capable of electrically interfacing directly (with or without buffering or pin re-assignment) with a Seller Compatible Processor to form the connection between the Seller Compatible Processor and any other device (or group of devices), including Processors, input/output devices, networks, and memory.
+
+“
+Seller Compatible Compiler
+” shall mean a compiler that generates object code that can, with or without additional linkage processing, be executed on any Seller Processor.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Seller Compatible Processor
+” shall mean any Processor that: (a) can perform substantially the same functions as a Seller Processor by compatibly executing or otherwise processing: (i) a substantial portion of the instruction set of a Seller Processor, (ii) object code versions of applications or other software targeted to run on or with an Seller Processor or (iii) binary code that is capable of being executed on a Seller Processor, in order to achieve substantially the same result as a Seller Processor; or (b) is substantially compatible with a Seller Bus.
+
+“
+Seller Licensed Patents
+” shall mean Patents owned by Seller as of the Closing, including reissuances thereof, that Seller can license without obligation to pay a royalty. Seller Licensed Patents do not include, however, any Patents that are only embodied in any Seller Product, Seller Chipset, Seller Processor, or third party products that are integrated into a Product.
+
+“
+Seller Licensed Trade Secrets
+” shall mean the Trade Secrets (a) known to the Transferred Employees and/or (b) emb

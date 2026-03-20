@@ -1,0 +1,1673 @@
+EX-10.5
+
+11
+
+d757284dex105.htm
+
+EX-10.5
+
+EX-10.5
+
+Exhibit 10.5 
+ 
+ 
+
+ 
+ 
+
+ 
+MASTER SERVICES AGREEMENT 
+
+Agreement Number: 
+ 
+This Master Services Agreement (this
+“
+MSA
+”) is made by and between: 
+ 
+“
+Corporate Solutions
+”, which means the contracting entity corresponding to
+Customer’s location as described in the table below. 
+ 
+ 
+
+ 
+Contracting Entity
+
+  
+
+ 
+Principal Address
+
+  
+
+ 
+Customer’s Location
+
+ 
+ 
+ 
+Nasdaq Corporate Solutions, LLC
+
+  
+
+ 
+One Liberty Plaza, 165 Broadway
+ 
+New York, NY
+10006
+ 
+United States of America
+
+  
+
+United States of America (and its territories), Mexico, Canada, Cayman Islands
+
+ 
+ 
+ 
+Nasdaq Pty Ltd
+
+  
+
+ 
+Level 8, 155 George Street
+ 
+The Rocks NSW
+2000
+ 
+Australia
+
+  
+
+ 
+ 
+ 
+Australia
+
+ 
+ 
+ 
+Nasdaq Korea Ltd.
+
+  
+
+ 
+22nd Floor, Two IFC
+ 
+10 
+Gukjegeumyung-ro
+ 
+Youngdeungpo-gu,
+ Seoul 07326
+
+South Korea
+
+  
+
+ 
+ 
+ 
+South Korea
+
+ 
+ 
+ 
+Nasdaq Corporate Solutions
+
+International Limited
+
+  
+
+ 
+Woolgate Exchange
+ 
+25 Basinghall Street
+
+London EC2V 5HA
+ 
+United Kingdom
+
+  
+
+ 
+ 
+ 
+All regions, excluding those above.
+
+ 
+and 
+ 
+ 
+
+Name
+
+ 
+
+ 
+  Anpac 
+Bio-Medical
+ Science Co., Ltd.
+(“Customer”)
+
+Principal Address        
+
+ 
+
+ 
+  500 Capitol Mall, Suite 2350
+
+City, State
+
+ 
+
+ 
+  Sacramento, CA
+
+Zip Code
+
+ 
+
+ 
+  95814
+
+Country
+
+ 
+
+ 
+  USA
+
+ 
+HOW THIS MSA WORKS 
+ 
+ 
+
+A.
+
+ 
+This MSA commences as of the date it is executed on behalf of Corporate Solutions and Customer (the
+“
+Effective Date
+”). 
+ 
+ 
+
+B.
+
+ 
+Customer and its Affiliates (each, a “
+Customer Entity
+”) may order products and services
+(including, without limitation, software, 
+software-as-a-service,
+ and professional services) (each, a “
+Service
+”)
+from Corporate Solutions and its Affiliates (each, a “
+CS Entity
+”) at Corporate Solutions’ and its Affiliates’ then-current list prices, in each case, by entering into a service order or other ordering document (each, a
+“
+Service Order
+”) with Corporate Solutions or one of its Affiliates, 
+provided
+ that such Service Order incorporates by reference the terms and conditions of this MSA. Certain Services may be subject to additional or different
+terms to the terms in this MSA, which such additional or different terms will be set forth or referenced in the applicable Service Order. In case of a conflict between a term in a Service Order and a term in this MSA, the term in the Service Order
+will control with respect to such Service Order. 
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Corporate Solutions
+
+ 
+
+ 
+Master Services Agreement
+
+Page 
+1
+ of 
+9
+
+ 
+
+C.
+
+ 
+The rights and obligations of the parties pursuant to each Service Order extend only to the CS Entity and the
+Customer Entity that executed such Service Order; where “Corporate Solutions” and “Customer” are used in the Agreement (as defined below), such terms will be deemed to mean the CS Entity and the Customer Entity, respectively,
+that executed such Service Order. This MSA will be deemed duplicated and effective between a CS Entity and Customer Entity that are different than the original contracting parties to this MSA as of the effective date of the first Service Order
+between such CS Entity and Customer Entity. 
+ 
+ 
+
+D.
+
+ 
+The term “
+Affiliate
+” means, with respect to any entity, another entity that, directly or
+indirectly through one or more intermediaries, controls, is controlled by or is under common control with, such entity. For purposes of this definition, “control” means the possession, direct or indirect, of the power to direct or cause
+the direction of management and policies of the entity, whether through the ownership of voting securities, by contract or otherwise. 
+ 
+ 
+
+E.
+
+ 
+The term “
+Agreement
+” means a Service Order, collectively with this MSA, and all exhibits,
+schedules, addenda, and appendices, if any, attached hereto and thereto, in each case, as may be amended by the parties from time to time pursuant to Section 11.8. 
+
+1. Service and Usage. 
+ 
+1.1. During the Term (as defined
+in Section 9.1), Corporate Solutions shall provide the Services described in the applicable Service Order in consideration for Customer paying the fees applicable to such Services (the “
+Service Fees
+”), as well as any applicable
+Additional Charges (as defined in Section 10.1). Customer shall use the Services only in accordance with the terms and conditions of this Agreement and shall not use any Service in violation of any applicable laws or regulations. Customer may
+not market, sell, distribute, or otherwise provide any Service to any third party as a reseller or for other commercial purposes. Upon termination or expiration of this Agreement, or cancellation of any Service, Customer’s right to access or
+use the applicable Service will immediately terminate. 
+ 
+1.2. Certain Services are comprised of data and/or functionality sourced from third-party
+providers that require Corporate Solutions to pass through end user terms to Customer and its users. Any such third-party terms that are supplied to Corporate Solutions will be posted as promptly as practicable at
+
+http://business.nasdaq.com/intel/3rd-party-terms/index.html
+ (or any successor hyperlink) and/or within the applicable Service. Such third-party terms will be deemed incorporated into this Agreement as of such
+posting date and will be binding on Customer in the same way as any other provision of this Agreement; 
+provided
+, 
+however
+, that, in the event of a conflict between such third-party terms and this Agreement, such third-party terms will
+control, but only in respect of the data and/or functionality sourced from such third-party provider. 
+ 
+1.3. Customer shall take reasonable security
+precautions to prevent any unauthorized individual or entity from using or accessing the Services, and Customer shall comply with all reasonable Corporate Solutions security specifications or instructions provided in writing from time to time in
+order to prevent the Services from being used or accessed in a manner that is not in accordance with the terms and conditions of this Agreement. For each Service, Customer (and any third party for which Customer enables access to such Service) is
+specifically prohibited from: (a) reverse engineering, or performing dynamic or static scanning of, such Service (except to the extent enforcement of the foregoing is prohibited by applicable law); and (b) uploading or transmitting
+material containing software viruses or other harmful or deleterious computer code, files, scripts, agents, or programs. If Customer (or such third party) engages in any act prohibited above, it will constitute a material breach of this Agreement.
+In addition, Corporate Solutions reserves the right to block IP addresses or other threats that may pose security threats to any Service or related infrastructure on an 
+as-needed
+ basis and shall have no
+liability therefor. 
+ 
+2. Intellectual Property. 
+ 
+2.1.
+As between Customer and Corporate Solutions, Customer retains all intellectual property rights in and to the data, information, and materials provided by Customer to Corporate Solutions (the “
+Customer Data
+”), whether or not marked,
+except (a) to the extent any such data, information, and materials are owned or licensed from a third party by Corporate Solutions or any of its third-party providers and (b) as expressly set forth in this Agreement. During the Term,
+Customer shall ensure that: (a) it has all necessary permissions to include and process, and to allow Corporate Solutions and its third-party providers to include and process, Customer Data in the Services; and (b) Customer’s
+provision, and Corporate Solutions’ use, of the Customer Data in connection with this Agreement does not infringe any law, regulation, or third-party rights. 
+
+2.2. As between Customer and Corporate Solutions, Corporate Solutions retains all intellectual property rights in and to the Services, whether or not marked,
+except as expressly set forth in this Agreement. Corporate Solutions grants to Customer a 
+non-exclusive,
+ 
+non-transferable,
+ limited license, during the Term, to use any
+deliverable provided to Customer as part of a Service solely for Customer’s internal business purposes. Customer shall not: (a) modify or remove any proprietary rights notices or other marking of Corporate Solutions or any of its
+third-party providers from any of the Services; or (b) authorize or permit any individual or entity to use or access the Services other than as expressly authorized in a Service Order. Except as expressly set forth in this Agreement, Corporate
+Solutions reserves all other rights in the Services. 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Corporate Solutions
+
+ 
+
+ 
+Master Services Agreement
+
+Page 
+2
+ of 
+9
+
+ 
+
+3. Confidential lnformation. 
+
+3.1. If either party or any of its Associates (as defined below) disclose such party’s (as “
+Disclosing Party
+”) “Confidential
+Information” (as defined below) to the other party (as “
+Receiving Party
+”) or any of the other party’s Associates during the Term (if such disclosure relates to an Agreement) or during the term of this MSA (for any other
+disclosure), this Section 3 will govern the parties’ rights and obligations with respect to such Confidential Information. The term “
+Confidential Information
+” means all information disclosed, whether orally, in writing, or
+otherwise, by or on behalf of Disclosing Party to Receiving Party, unless otherwise excluded below. 
+ 
+3.2. Confidential Information does not include
+information that: (a) is already, or becomes, available to the public other than as a result of unauthorized disclosure by Receiving Party or any of its Associates to which Receiving Party discloses Disclosing Party’s Confidential
+Information; (b) is, or was previously, received by Receiving Party or one of its Associates on a 
+non-confidential
+ basis from a third party; (c) is already known on a
+
+non-confidential
+ basis by Receiving Party or one of its Associates prior to disclosure of the same to Receiving Party or its Associate by or on behalf of Disclosing Party; and/or (d) was independently
+developed by Receiving Party or one of its Associates without use of or reference to Disclosing Party’s Confidential Information. 
+ 
+3.3. Receiving
+Party: (a) may only use Disclosing Party’s Confidential Information to perform its obligations and/or exercise its rights under this MSA or the applicable Agreement; and (b) shall use at least the same degree of care to protect
+Disclosing Party’s Confidential Information as it uses to protect its own confidential information of like kind, but in any event no less than a reasonable degree of care under the circumstances. Receiving Party may disclose any portion of
+Disclosing Party’s Confidential Information to any individual or entity: (i) as directed by Disclosing Party or its Associate or as implied by the nature of the applicable Service; and (ii) to each of the following individuals and
+entities (each, an “
+Associate
+”), but only to the extent such Associate: (A) needs to know such Confidential Information for purposes of Receiving Party’s performing its obligations and/or exercising its rights under this
+MSA or the applicable Agreement; (B) has been informed of the confidential nature of the Confidential Information; and (C) is subject to confidentiality obligations and use restrictions applicable to such Confidential Information that are
+materially equivalent to those in this Section 3: 
+ 
+ 
+
+ 
+
+(i)
+
+ 
+employees, officers, and directors of Receiving Party; 
+
+ 
+
+ 
+
+(ii)
+
+ 
+Receiving Party’s Affiliates and the employees, officers, and directors of such Affiliates;
+
+ 
+ 
+
+ 
+
+(iii)
+
+ 
+any professional consultant, subcontractor, third-party provider, or other agent retained or used by Receiving
+Party or any of its Affiliates in connection with Receiving Party’s performance of its obligations and/or exercise of its rights under this MSA or the applicable Agreement; and 
+
+ 
+
+ 
+
+(iv)
+
+ 
+any legal or business advisor engaged to advise Receiving Party or any of its Affiliates in relation to its
+business. 
+ 
+Receiving Party shall ensure that each of its Associates to which Receiving Party discloses Disclosing Party’s
+Confidential Information complies with Receiving Party’s obligations under this Section 3. A breach of Receiving Party’s obligations under this Section 3 by any such Associate will be deemed a breach by Receiving Party. 
+
+3.4. In the event of any valid legal action or demand for Disclosing Party’s Confidential Information made to Receiving Party or any of its Associates
+under applicable law or regulation, Receiving Party or such Associate may disclose such Confidential Information without liability hereunder; 
+provided
+, 
+however
+, that Receiving Party or such Associate: (a) to the extent legally
+permissible, gives Disclosing Party notice of the Confidential Information to be so disclosed as far in advance of its disclosure as is reasonably practicable; (b) furnishes only that portion of the Confidential Information that is requested
+and legally required; and (c) uses reasonable efforts to obtain assurance that confidential treatment will be accorded to the Confidential Information. Notwithstanding anything to the contrary in this Agreement, Receiving Party may disclose
+Confidential Information: (i) to the extent required by any government agency or regulatory authority with regulatory or oversight jurisdiction over one or more of Receiving Party and its Affiliates; and (ii) in the course of fulfilling
+any of the regulatory responsibilities of one or more of Receiving Party and its Affiliates. 
+ 
+3.5. The parties’ confidentiality obligations and the
+use restrictions in this Section 3 will survive for three (3) years (a) following termination or expiration of this Agreement (for Confidential Information disclosed in connection with an Agreement) or (b) from the date of disclosure
+(for Confidential Information otherwise disclosed pursuant to this Section 3). Notwithstanding the foregoing: (x) with respect to the parties’ trade secrets, the parties’ confidentiality obligations and the use restrictions in
+this Section 3 will survive for the longer of (i) the period that such information remains a trade secret under applicable law and (ii) three (3) years (A) following termination or expiration of this Agreement (for Confidential
+Information disclosed in connection with an Agreement) or (B) from the date of disclosure (for Confidential Information otherwise disclosed pursuant to this Section 3); and (y) in relation to Corporate Solutions’ information
+security policies and procedures, the parties’ confidentiality obligations and the use restrictions in this Section 3 will survive indefinitely. 
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Corporate Solutions
+
+ 
+
+ 
+Master Services Agreement
+
+Page 
+3
+ of 
+9
+
+ 
+
+3.6. Upon termination or expiration of an Agreement (for Confidential Information disclosed in connection
+with an Agreement) or termination of this MSA (for Confidential Information otherwise disclosed pursuant to this Section 3), upon written request of Disclosing Party, Receiving Party shall delete Confidential Information received in connection
+with such Agreement or this MSA, except that Receiving Party may retain Confidential Information: (a) if and to the extent required under applicable law or regulation or a bona fide document/data retention policy that is consistent with applicable
+law and regulation; and (b) if Receiving Party’s automated electronic archiving or data 
+back-up
+ systems are such that it is not reasonably practicable to delete Confidential Information therefrom;
+
+provided
+, 
+however
+, that the parties’ confidentiality obligations and the use restrictions in this Section 3 will continue to apply to any retained Confidential Information. 
+
+4. LIMITATION OF LIABILITY. 
+ 
+4.1. EXCEPT WITH RESPECT TO
+A PARTY’S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT, A PARTY’S INDEMNIFICATION OBLIGATIONS IN THIS MSA OR AN AGREEMENT, AND CUSTOMER’S OBLIGATIONS TO PAY SERVICE FEES AND ADDITIONAL CHARGES, IF EITHER PARTY IS FOR ANY OTHER REASON HELD
+LIABLE TO THE OTHER PARTY, INCLUDING IN CONTRACT OR IN TORT, LIABILITY IS LIMITED TO THE SERVICE FEES PAID OR PAYABLE BY CUSTOMER FOR THE AFFECTED SERVICE DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE DATE OF THE CLAIM AND SUCH
+LIABILITY WILL BE IN THE AGGREGATE AND NOT PER INCIDENT. THE LIMITATIONS IN THIS SECTION 4 WILL NOT APPLY TO THE EXTENT PROHIBITED BY LAW. 
+ 
+4.2.
+NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, CORPORATE SOLUTIONS DISCLAIMS ALL LIABILITY FOR THIRD-PARTY DATA AND THIRD-PARTY CONTENT PROVIDED TO CUSTOMER AS PART OF ANY SERVICE. 
+
+5. CONSEQUENTIAL DAMAGES. 
+ 
+EXCEPT WITH RESPECT TO A
+PARTY’S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT, A PARTY’S INDEMNIFICATION OBLIGATIONS IN THIS MSA OR AN AGREEMENT, AND CUSTOMER’S OBLIGATIONS TO PAY SERVICE FEES AND ADDITIONAL CHARGES, NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY
+FOR ANY LOSS OF PROFITS, REVENUES, OR TRADES OR FOR ANY INDIRECT, SPECIAL, PUNITIVE, CONSEQUENTIAL OR INCIDENTAL LOSS OR DAMAGE OF ANY NATURE ARISING FROM ANY CAUSE WHATSOEVER, EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE
+LIMITATIONS IN THIS SECTION 5 WILL NOT APPLY TO THE EXTENT PROHIBITED BY LAW. 
+ 
+6. WARRANTIES; EXCLUSIVE REMEDIES AND DISCLAIMERS. 
+
+6.1. CORPORATE SOLUTIONS WARRANTS THAT IT SHALL PROVIDE THE SERVICES IN A PROFESSIONAL AND WORKMANLIKE MANNER. 
+
+6.2. CUSTOMER’S EXCLUSIVE REMEDY AND CORPORATE SOLUTIONS SOLE LIABILITY FOR BREACH OF THE ABOVE WARRANTY IS TO TERMINATE THE AGREEMENT PURSUANT TO
+SECTION 9.2(b). 
+ 
+6.3. CORPORATE SOLUTIONS AND ITS THIRD-PARTY PROVIDERS MAKE THE SERVICES, INCLUDING, WITHOUT LIMITATION, ALL THIRD-PARTY DATA THEREIN,
+AVAILABLE ON AN “AS IS”, “AS AVAILABLE” BASIS AND, EXCEPT AS PROVIDED IN SECTION 6.1 , NONE OF CORPORATE SOLUTIONS, ANY OF ITS AFFILIATES, NOR ANY THIRD-PARTY PROVIDER MAKE ANY REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS,
+IMPLIED, OR STATUTORY, REGARDING THE SERVICES OR ANY CONFIDENTIAL INFORMATION, INCLUDING ANY REPRESENTATION OR WARRANTY OF QUALITY, PERFORMANCE, COMMERCIAL UTILITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
+
+NON-INFRINGEMENT.
+ NONE OF CORPORATE SOLUTIONS, ANY OF ITS AFFILIATES, NOR ANY THIRD-PARTY PROVIDER REPRESENTS OR WARRANTS THAT THE SERVICES OR CONFIDENTIAL INFORMATION ARE OR WILL BE COMPLETE, TIMELY,
+UNINTERRUPTED, OR ERROR-FREE, NOR DO ANY OF THE AFOREMENTIONED INDIVIDUALS OR ENTITIES MAKE ANY REPRESENTATION OR WARRANTY AS TO THE RESULTS TO BE OBTAINED FROM USE OF THE SERVICES OR CONFIDENTIAL INFORMATION. CUSTOMER ACKNOWLEDGES AND AGREES THAT
+IT IS USING THE SERVICES AND CONFIDENTIAL INFORMATION AT ITS OWN RISK, NEITHER THE SERVICES NOR ANY CONFIDENTIAL INFORMATION CONSTITUTE A RECOMMENDATION TO BUY OR SELL SECURITIES OF ANY KIND, AND NONE OF CORPORATE SOLUTIONS, ANY OF ITS AFFILIATES,
+NOR ANY THIRD-PARTY PROVIDER HAS UNDERTAKEN ANY LIABILITY OR OBLIGATION TO CUSTOMER OR ANY OTHER INDIVIDUAL OR ENTITY RELATING TO THE PURCHASE OR SALE OF SECURITIES IN CONNECTION WITH THIS MSA OR ANY AGREEMENT. 
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Corporate Solutions
+
+ 
+
+ 
+Master Services Agreement
+
+Page 
+4
+ of 
+9
+
+ 
+
+7. Force Majeure.
+ Neither party will be liable to the other party, nor deemed to be in breach of this
+MSA or any Agreement, for any failure or delay in performing its obligations under this MSA or any Agreement (except with respect to such party’s obligations under Section 8 and 
+any 
+other obligations to pay monies under this MSA or
+any Agreement) when and to the extent such failure or delay is caused 
+by 
+or results from circumstances beyond such party’s reasonable control. In the event that a party’s failure or delay remains uncured for a continuous period of
+thirty (30) days or more, the other party 
+may 
+cancel the affected Services upon notice with immediate effect. 
+ 
+8. Indemnification. 
+
+8.1. Customer shall defend each of Corporate Solutions, its Affiliates, and its and their respective employees, officers, directors, third-party providers, and
+other agents (each, a “
+CS Indemnitee
+”) against any third-party claim, demand, allegation, suit, or proceeding made or brought against any CS Indemnitee to the extent it arises out of or relates to (a) the Customer Data and/or
+(b) Customer’s use of any Service other than in accordance with this Agreement (any “
+Claim Against CS
+”), and shall indemnify such CS lndemnitee(s) against any damages, reasonable attorney fees, and/or costs finally awarded
+against such CS lndemnitee(s) as a result of, or for any amounts paid by such CS lndemnitee(s) under a settlement of, any Claim Against CS. 
+ 
+8.2.
+Corporate Solutions shall defend Customer and its employees, officers, directors, and other agents (each, a “
+Customer Indemnitee
+”) against any third-party claim, demand, allegation, suit, or proceeding made or brought against any
+Customer Indemnitee alleging that Customer’s use of a Service in accordance with this Agreement infringes or misappropriates such third party’s intellectual property rights granted as at the effective date of the applicable Service Order
+(any “
+Claim Against Customer
+”), and shall indemnify such Customer lndemnitee(s) against any damages, reasonable attorney fees, and/or costs finally awarded against such Customer lndemnitee(s) as a result of, or for amounts paid by
+such Customer lndemnitee(s) under a settlement of, any Claim Against Customer. Notwithstanding the foregoing, to the extent that a Claim Against Customer arises from or relates to Service functionality that Corporate Solutions obtains from a
+third-party provider, then, subject to Corporate Solutions diligently pursuing enforcement of its contractual recourse rights against such third-party provider and unless such Claim Against Customer is the result of Corporate Solutions or any of its
+Affiliates infringing such third-party provider’s intellectual property rights, Corporate Solutions’ obligations under this Section 8.2 will be limited to the amount Corporate Solutions recovers from the such third-party provider in
+proportion to other claims (actual or potential) arising out of the alleged infringement. The above defense and indemnification obligations do not apply to the extent a Claim Against Customer arises from or relates to Customer Data, interoperation
+of a Service with third-party products or services not expressly approved in writing by Corporate Solutions, Corporate Solutions’ compliance with any custom designs, specifications, or instructions provided by or on behalf of Customer, or
+Customer’s use of any Service other than in accordance with this Agreement. 
+ 
+8.3. In this Section 8.3, the term “
+Claim
+” means a
+Claim Against CS (in the case where Customer is the indemnifying party) or a Claim Against Customer (in the case where Corporate Solutions is the indemnifying party). Each party’s obligation to defend and indemnify the other party under this
+Section 8 will be conditioned on the indemnified party: (a) promptly, and in any event, in a timeframe that does not materially prejudice the rights of the indemnifying party, providing the indemnifying party with notice of the Claim;
+(b) giving the indemnifying party sole control of the defense and settlement of the Claim (except that the indemnifying party may not settle any Claim unless such settlement includes an unconditional release of all liability with respect to the
+indemnified party, its Affiliates, and any other indemnitees); and (c) providing the indemnifying party with all reasonably-requested assistance, at the indemnifying party’s expense, in the defense of the Claim. 
+
+8.4. If any Claim Against Customer is made, or if, in Corporate Solutions’ reasonable opinion, such claim appears likely to be made, Corporate Solutions,
+at Corporate Solutions’ sole option and cost, may: (a) implement measures to enable Customer to continue to use the Service; (b) modify the Service so it becomes 
+non-infringing;
+ and/or
+(c) replace affected data and/or functionality of the Service; 
+provided
+ that, in any event, the Service remains functionally equivalent in all material respects. In the event that such options are not commercially reasonable, Corporate
+Solutions shall have the right, upon notice to Customer, to cancel the affected Service and provide Customer with a prorated refund of prepaid Service Fees for the cancelled Service relating to the period after cancellation. 
+
+8.5. The remedies provided under this Section 8 will be the sole and exclusive remedy of each party against the other with respect to claims described in
+this Section 8. 
+ 
+9. Term and Termination. 
+ 
+9.1.
+This MSA will continue in effect until terminated by either party upon at least thirty (30) days’ prior notice to the other party; 
+provided
+, 
+however
+, that no termination of this MSA will take effect so long as any Service
+Order is in effect. Each Service Order will be effective on the date it is executed on behalf of the CS Entity and the Customer Entity party thereto. Each Service Order (and each of the Services therein) will have an initial term of 
+thirty-six
+ (36) months starting on the effective date of such Service Order (the “
+Initial Term
+”) and will automatically renew for successive twelve (12) month terms (each, a
+“
+Renewal Term
+”) under the same terms and conditions, except for any price increases as set forth in Section 10. The Initial Term and all Renewal Terms (if any) will constitute the “
+Term
+” of a Service Order.
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Corporate Solutions
+
+ 
+
+ 
+Master Services Agreement
+
+Page 
+5
+ of 
+9
+
+ 
+
+9.2. Either party may terminate: 
+ 
+ 
+
+(a)
+
+ 
+an Agreement, in whole or in part, with effect from the last day of the Initial Term or then-current Renewal
+Term of the Service Order, by giving the other party at least ninety (90) days’ notice prior to the end of the Initial Term or then-current Renewal Term; 
+
+ 
+
+(b)
+
+ 
+an Agreement, in whole or in part, upon notice with immediate effect if the other party is in breach of any
+material provision of this Agreement and such breach continues uncured for a period of thirty (30) days after the party claiming breach provides notice specifying such breach to the other party; and 
+
+ 
+
+(c)
+
+ 
+this MSA and all Service Orders between the same CS Entity and Customer Entity, upon notice with immediate
+effect if the other party liquidates, ceases to do business, or becomes insolvent. 
+ 
+9.3. If Customer is in breach of this Agreement,
+Corporate Solutions shall have the right to suspend one or more Services and Customer’s rights granted in relation thereto, in whole or in part, without liability, upon notice with immediate effect, until such breach is cured. In such event,
+Section 10 and any payment term of the applicable Service Order will continue to apply. 
+ 
+9.4. During the Term, Corporate Solutions may, in its sole
+discretion: (a) cancel a Service, in whole or in part, by providing Customer with at least six (6) months’ prior notice; (b) suspend or cancel a Service, in whole or in part, or modify the terms on which it is provided, by
+providing Customer with as much notice as is reasonably practicable, if: (i) all or part of such Service depends on an agreement between Corporate Solutions (or one of its Affiliates) and a third-party provider and the applicable third-party
+agreement is modified or terminated or such third-party provider suspends access to all or part of the Service, in any case, through no fault of Corporate Solutions; (ii) all or part of such Service becomes illegal or contrary to any rule,
+regulation, guideline, or request of any regulatory authority with jurisdiction over Corporate Solutions or any of its Affiliates; or (iii) Customer becomes subject to trade sanctions issued by the United States or other national or
+international governmental entity. In addition, Corporate Solutions may change the platform from which it delivers the Services as long as: (x) the platform supports materially the same functionality of the Services as provided on the previous
+platform; and (y) Corporate Solutions provides Customer with sufficient time to onboard to the new platform (at least sixty (60) days following notification from Corporate Solutions of the need to migrate to a new platform). 
+
+9.5. If Corporate Solutions cancels all or part of a Service pursuant to Section 9.4 or Customer cancels a Service pursuant to Section 7, Corporate
+Solutions’ entire liability will be to provide Customer a prorated refund of prepaid Service Fees for such cancelled Service relating to the period after cancellation. If Corporate Solutions terminates any or all Agreements pursuant to
+Section 9.2(b) or (c), Customer shall pay any unpaid Service Fees and applicable Additional Charges covering the remainder of the Term(s). In no event will termination of any Agreement or cancellation of any Service relieve Customer of its
+obligation to pay Service Fees and Additional Charges (if any) payable for the period prior to the effective date of termination or cancellation. If all Services set forth on a Service Order are cancelled pursuant to the terms of the applicable
+Agreement, such Agreement will be deemed terminated. 
+ 
+10. Fees &Payment; Taxes. 
+
+10.1. Customer shall pay Corporate Solutions the Service Fees and, as applicable for certain Services, any third-party fees passed through to Customer
+(collectively, “
+Additional Charges
+”), and any applicable interest and/or late fees. Additional Charges will be specified on an invoice, where applicable. All payments are due within thirty (30) days of the invoice date. All
+invoices will be deemed final and binding unless Customer provides Corporate Solutions notice of any alleged discrepancies no later than ten (10) days from the invoice date. Corporate Solutions may apply a late fee of 1.5% per month or the highest
+lawful interest rate, whichever is lower, to all amounts not paid when due. 
+ 
+10.2. Taxes. 
+
+ 
+
+(a)
+
+ 
+Service Fees and Additional Charges do not include any sales tax, value added tax, goods and services tax, or
+any other tax (any “
+Tax
+”). Customer shall pay all Taxes applicable to the Services. 
+ 
+ 
+
+(b)
+
+ 
+If Customer is based in the United States and is legally entitled to an exemption from any Tax, Customer is
+responsible for providing Corporate Solutions with a legally-sufficient tax exemption certificate, resale certificate, or a copy of the direct pay permit for each applicable taxing jurisdiction. Corporate Solutions shall apply the tax exemption to
+invoices generated after the date Corporate Solutions receives such documentation. 
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Corporate Solutions
+
+ 
+
+ 
+Master Services Agreement
+
+Page 
+6
+ of 
+9
+
+ 
+
+(c)
+
+ 
+If any Service Fees or Additional Charges are subject to withholding Tax in Customer’s jurisdiction,
+Customer shall inform Corporate Solutions that such Tax will be withheld and shall cite the legal grounds for withholding. If Customer requires from Corporate Solutions any 
+Tax-related
+ documents, Customer
+shall notify Corporate Solutions accordingly as soon as possible but in no event later than ten (10) days from the date of the applicable invoice. Where Customer withholds any Tax, Customer shall provide Corporate Solutions with the original
+receipt issued by the applicable tax authority with respect to the Taxes and charges paid by Customer to such authority. 
+ 
+10.3.
+Corporate Solutions may, effective on the first day of January each year during the Term, adjust or change the basis for calculating any Service Fees by providing at least ninety (90) days’ prior notice to Customer. Customer may cancel the
+applicable Service if Corporate Solutions increases its Service Fees for such Service by more than eight percent (8%) in any year. If Customer exercises this right to cancel, Customer must notify Corporate Solutions within thirty (30) days of
+the date of Corporate Solutions’ increase notice. The applicable Service will be cancelled from the date on which the Service Fees would have increased. 
+
+11. General. 
+ 
+11.1. 
+Arbitration & Governing
+Law
+. Any claim, dispute, controversy, or other matter in question arising out of or relating to this MSA or any Agreement (any “
+Dispute
+”) will be submitted to the applicable Association described in the table below and will be
+subject to final binding arbitration in accordance with the applicable Rules described in the table below. The arbitral tribunal will be composed of a sole arbitrator. The arbitrator will be selected in accordance with the applicable Rules and the
+arbitration will be conducted in English in the applicable Venue described in the table below. The arbitrator may not award punitive damages and each party hereby waives the right to seek or recover punitive damages with respect to any Dispute
+resolved by arbitration. The prevailing party shall be entitled to recover from the 
+non-prevailing
+ party all reasonable attorneys’ fees. This MSA and each Agreement will be governed by and construed in
+accordance with the applicable Governing Law described in the table below, excluding any conflict of laws rules. Notwithstanding the foregoing, either party may bring an action for injunctive relief in any court of competent jurisdiction in the
+event of a breach or anticipated breach of Section 3 or of any other provision of this MSA or any Agreement that would be reasonably likely to cause such party immediate harm and/or for which money damages would be inadequate. Pursuant to
+Article 6 of the 
+United Nations Convention on Contracts for the International Sale of 
+Goods
+ (the “
+Convention
+”), the parties agree that the Convention will not apply to this MSA or any Agreement. Notwithstanding
+anything to the contrary in this MSA or any Agreement, no party, individual, or entity covered by the provisions of this Section 11.1 shall be allowed to participate in a class action in court or in class-wide arbitration, whether as a class
+representative, class member, or otherwise, or act as a private attorney general, in connection with any arbitration or court proceeding involving this MSA or any Agreement, or to the breach hereof or thereof, or any Dispute. In addition, any
+arbitration or court proceeding involving this MSA, any Agreement, or any Dispute may not be joined or consolidated with any other arbitration or court proceeding involving a different agreement or different parties. The arbitrator will have no
+power or authority to conduct class-wide, consolidated, or private attorney general arbitration. Notwithstanding anything to the contrary in this MSA or any Agreement, the validity and effect of this class action and consolidation waiver may be
+determined only by a court and not by an arbitrator. If a determination is made in a proceeding involving the parties that this class action and consolidation waiver is invalid or unenforceable, the remainder of this Section 11.1 will remain in
+force and only the class action and consolidation waiver portion of this Section 11.1 will be null and void, 
+provided
+ that the determination concerning the class action and consolidation waiver will be subject to appeal. 
+
+ 
+
+ 
+Contracting Entity
+
+  
+
+ 
+“Association”
+
+  
+
+ 
+“Rules”
+
+  
+
+ 
+“Venue”
+
+  
+
+ 
+“Governing Law”
+
+ 
+Nasdaq Corporate Solutions, LLC
+
+  
+
+American Arbitration Association
+
+  
+
+ 
+Commercial Arbitration
+
+Rules and Regulations
+ 
+of the
+American
+ 
+Arbitration Association
+
+  
+
+New York, NY
+
+  
+
+State of New York
+
+Nasdaq Pty Ltd
+
+  
+
+ 
+London Court of
+
+International Arbitration
+
+  
+
+ 
+London Court of
+
+International
+ 
+Arbitration
+Rules
+
+  
+
+London, England
+
+  
+
+England & Wales
+
+ 
+Nasdaq Korea Ltd.
+
+  
+
+ 
+London Court of
+
+International Arbitration
+
+  
+
+ 
+London Court of
+
+International
+ 
+Arbitration
+
+Rules
+
+  
+
+London, England
+
+  
+
+England & Wales
+
+ 
+Nasdaq Corporate Solutions International Limited
+
+  
+
+ 
+London Court of
+
+International Arbitration
+
+  
+
+ 
+London Court of
+
+International
+ 
+Arbitration
+Rules
+
+  
+
+London, England
+
+  
+
+England & Wales
+
+ 
+11.2. 
+Headings
+. Section headings are included for convenience only and are not to be used to construe or interpret this
+MSA or any Agreement. 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Corporate Solutions
+
+ 
+
+ 
+Master Services Agreement
+
+Page 
+7
+ of 
+9
+
+ 
+
+11.3. 
+Waiver and Severability. 
+Except where otherwise provided in this MSA or any Agreement, any
+waiver or failure of a party in insisting upon the performance of any provisions of this MSA or any Agreement will not be construed as a waiver or relinquishment of such party’s rights to future performance of such provision and the other
+party’s obligation in respect of such future performance will continue in full force and effect. Any waiver must be made in writing and signed by the party to be bound. If any part of this MSA or an Agreement that is not fundamental is found to
+be illegal or unenforceable, such finding will not affect the validity and enforceability of the remainder of this MSA or such Agreement. 
+ 
+11.4.
+
+Publicity. 
+All press releases, public disclosures, or other public announcements relating to an Agreement, or its subject matter, will be mutually agreed by the parties in writing prior to release by either party. Notwithstanding the
+foregoing, Corporate Solutions may disclose in its marketing materials, including, without limitation, press releases and pitch books, that Customer is a client of Corporate Solutions. 
+
+11.5. 
+Survival of Provision. 
+Each party’s obligations under the following sections of this MSA will survive termination of this MSA and
+termination or expiration of each Agreement: Sections 1.2, 2, 3.6, 4, 5, 9.5, 10.1, 10.2, and 11. 
+ 
+11.6. 
+Relationship of the Parties. 
+The
+relationship between the parties is that of independent contractors. Nothing in this MSA or any Agreement creates a partnership or joint venture between the parties and, except as expressly provided herein, neither party shall enter into or have
+authority to enter into any engagement or make any representation or warranty on behalf the other party, or pledge the credit of, or otherwise bind or oblige the other party. 
+
+11.7. 
+Notices. 
+All notices and other communications under this MSA and each Agreement must be in writing and: (a) if to Customer, sent to the
+address provided by Customer on Customer’s most recently-executed Service Order, or such other address as Customer may notify to Corporate Solutions in accordance with this Section 11.7; or (b) if to Corporate Solutions, sent to
+Corporate Solutions at One Liberty Plaza, 165 Broadway, New York, NY, 10006, USA, Attention: Senior Vice President (GCS), or such other address as Corporate Solutions may notify to Customer in accordance with this Section 11.7. All notices will
+be deemed to have been duly given: (x) upon actual receipt (or date of first refusal); (y) three (3) days after being sent by certified mail, postage prepaid and return receipt requested; and (z) the next business day (based on the
+recipient’s location) after being sent by internationally-recognized overnight courier, postage prepaid. Customer shall also send a copy (which will not constitute notice) of any breach or termination notice to Corporate Solutions at the
+following address: Office of General Counsel, Nasdaq, Inc., 805 King Farm Blvd, Rockville MD, 20850, USA, Attention: Contracts Group (GCS). 
+ 
+11.8.
+
+Entire Agreement, Amendment, Assignment and Subcontractors. 
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior negotiations, communications, writings, and
+understandings between the parties. Neither this MSA nor any Agreement may be modified except in a writing signed by both parties hereto or thereto. Corporate Solutions shall be entitled to use subcontractors to perform or provide the Services, in
+whole or in part, and, in such event, Corporate Solutions shall remain liable for work performed by its subcontractors. Except as expressly provided herein, neither party may assign or transfer this MSA or any Agreement (including by operation of
+law), or any of its rights or obligations, to a third party without the prior written consent of the other party, such consent not to be unreasonably withheld, conditioned, or delayed; 
+provided
+, 
+however
+, that Corporate Solutions shall
+be entitled to assign or transfer (including by operation of law) any rights or obligations, in whole or in part, to an Affiliate or in connection with any reorganization, the sale of a division, product, or service, or any other business
+transaction of a similar nature (any “
+Business Reorganization
+”), in each case, without the prior written consent of Customer; 
+provided
+ 
+further
+, that Customer shall be entitled to assign or transfer (including by
+operation of law) any rights or obligations, in whole or in part, to an Affiliate or in connection with a Business Reorganization, in each case, without the prior written consent of Corporate Solutions, 
+provided
+ that Customer:
+(a) provides Corporate Solutions with reasonable prior notice of any such assignment or transfer; and (b) does not make any such assignment or transfer to any competitor of Corporate Solutions or any of its Affiliates (as determined by
+Corporate Solutions, in its reasonable discretion). Any assignment or transfer in breach of this Section 11.8 will be void 
+ab initio. 
+Except as expressly provided herein, this MSA and each Agreement is for the sole benefit of the parties
+to this MSA or such Agreement and their permitted successors and assigns and nothing in this MSA or any Agreement, express or implied, is intended to or will confer upon any other individual or entity any legal or equitable right, benefit, or remedy
+of any nature whatsoever. 
+ 
+11.9. 
+Counterparts. 
+Each document comprising this MSA or any Agreement, including any exhibit, schedule, addendum,
+appendix, or amendment, may be executed in counterparts, each of which will be considered an original and together constitute only one agreement between the parties. Each party agrees that an electronic copy will be considered and treated like an
+original and an electronic or digital signature will be as valid as a handwritten signature. 
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Corporate Solutions
+
+ 
+
+ 
+Master Services Agreement
+
+Page 
+8
+ of 
+9
+
+ 
+
+ 
+ 
+ 
+IN WITNESS WHEREOF, EACH PARTY HAS CAUSED THIS MSA TO
+BE EXECUTED BY ITS DULY AUTHORIZED SIGNATORY. 
+ 
+ 
+
+ 
+Customer:
+
+  
+
+Anpac 
+Bio-Medical
+ Science Co., Ltd.
+
+ 
+
+ 
+Corporate
+ 
+Solutions:
+
+  
+
+ 
+
+ 
+Signature:
+
+  
+
+/s/ Chris C. Yu
+
+ 
+
+Signature:
+
+  
+
+ 
+/s/ Catherine Grant
+
+ 
+Name:
+
+  
+
+Dr. Chris C. Yu
+
+ 
+
+Name:
+
+  
+
+Catherine Grant
+
+ 
+Authorized
+
+Signatory Title:
+
+  
+
+Co-Founder
+ / CEO
+
+ 
+
+Authorized Signatory Title:
+
+  
+
+AVP, Corporate Solutions
+
+ 
+Date:
+
+  
+
+Feb 28th, 2019
+
+ 
+
+Date:
+
+  
+
+March 1, 2019 | 2:03 EST
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Corporate Solutions
+
+ 
+
+ 
+Master Services Agreement
+
+Page 
+9
+ of 
+9
+
+ 
+
+ 
+ 
+ 
+SERVICE ORDER BETWEEN 
+
+NASDAQ CAPITAL MARKETS ADVISORY LLC. AND CUSTOMER 
+
+This Service Order (“
+SO
+”) is governed by the terms stated in the most recent 
+MASTER SERVICES AGREEMENT
+ executed by AnPac 
+Bio-Medical
+ Science Co., Ltd. and 
+Nasdaq Corporate Solutions
+ entity set out therein (“
+MSA
+”), which sets forth the terms and conditions under which Nasdaq Capital Markets Advisory LLC shall
+provide, and invoice for, the services described below (“
+Services
+”) to Customer. The terms of the MSA are made a part of this SO and are incorporated by reference. This SO, with the MSA incorporated by reference forms a separate,
+standalone agreement (the “
+Agreement
+”). In case of a conflict between a term in this SO and a term in the MSA, the term in this SO shall control. For purposes of this SO, all references in the MSA to “Corporate Solutions”
+are deemed references to Nasdaq Capital Markets Advisory LLC, Member FINRA and SIPC. This SO shall be effective on the date it has been executed by both parties. 
+ 
+ 
+
+(“NCMA”)
+
+  
+
+(“Customer”)
+
+ 
+Nasdaq Capital Markets Advisory LLC
+ 
+One
+Liberty Plaza, 165 Broadway
+ 
+New York, NY
+ 
+10006
+
+USA
+
+  
+
+ 
+Anpac 
+Bio-Medical
+ Science Co., Ltd.
+
+500 Capitol Mall, Suite 2350
+ 
+Sacramento, CA
+
+95814
+ 
+USA
+
+ 
+ 
+
+  
+
+  
+
+  
+
+☒New Customer
+
+  
+
+☐Existing Customer
+
+  
+
+ 
+Service
+
+  
+
+ 
+Transaction Fee*
+
+  
+
+ 
+Set Up Fee*
+
+  
+
+ 
+Billing Date
+
+  
+
+ 
+Initial
+
+Term
+
+  
+
+ 
+Renewal
+
+Term
+
+ 
+Nasdaq Capital
+
+Markets Advisory
+
+  
+
+As set out in “Fees” below
+
+  
+
+$10,000
+
+  
+
+As set out in “Fees” below
+
+  
+
+9 months
+
+  
+
+Monthly basis
+
+ 
+Transaction Fee and Set Up Fee is jointly referred to as “
+Fees
+”. 
+
+PRODUCT NOTES: 
+ 
+ 
+
+1.
+
+ 
+Service Description
+ 
+
+Subject to the terms herein and in consideration for Customer paying the Fees, NCMA shall provide the Service to Customer. 
+
+The Service consists of financial advisory services in connection with a potential Transaction (as defined below) as required by the Customer. Such Service
+may include 
+inter alia, 
+that NCMA will assist Customer in identifying potential institutional investors and offer general advise in the connection with a Transaction. 
+
+Customer acknowledges and agrees that with respect to any Transaction: (i) NCMA is not serving as an “underwriter” as defined in
+Section 2(a)(11) of the U.S. Securities Act of 1933, as amended (the “1933 Act”); (ii) NCMA is not a member of an underwriting syndicate; and (iii) NCMA is not undertaking to sell any securities on behalf of the Customer. 
+
+By executing this Service Order Customer hereby requests that NCMA assist the Customer as set out above in relation to the Transaction. 
+
+ 
+
+2.
+
+ 
+Term and Termination
+ 
+
+This SO shall commence on the Effective Date and shall have an initial term of nine (9) months (the “Initial Term”) and will then automatically
+extend on a 
+month-to-month
+ basis thereafter (each “Renewal Term”) unless terminated earlier as set out in the MSA or herein. The Initial Term and any Renewal
+Term is jointly referred to as a “Term” 
+ 
+In the event of a Closing of the Transaction this engagement shall automatically terminate. NCMA shall
+be entitled to terminate this SO with thirty (30) days’ notice. Customer shall be entitled to terminate this SO thirty (30) days before the end of the Initial Term or ten (10) days before the end of any Renewal Term and such
+termination shall become effective upon the last day of the then current Term. 
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Capital Markets Advisory LLC    
+
+ 
+
+Page 
+1
+ of 
+4
+
+ 
+
+ 
+
+ 
+ 
+ 
+Expiration or Termination of this Service Order shall
+not affect NCMA’s right to indemnification or payment of the Fees in accordance with the terms of the Agreement. 
+ 
+ 
+
+3.
+
+ 
+Transactions
+ 
+
+The Services that may be performed by NCMA relate to the following types of Transactions. As used in this Service Order, the term “Transaction” shall
+include: 
+ 
+ 
+
+ 
+
+a)
+
+ 
+An initial public offering (“IPO”) or secondary offering (“Secondary Offering”) of the
+Customer’s equity securities and/or equity warrants; or 
+ 
+ 
+
+ 
+
+b)
+
+ 
+a registered direct offering of the Customer’s equity securities, equity warrants, preferred securities,
+debt securities; or 
+ 
+ 
+
+ 
+
+c)
+
+ 
+a private placement by the Customer, conducted pursuant to Regulation D of the 1933 Act or other applicable
+U.S. or foreign securities laws. rules and regulations (a “Private Placement”), including without limitation a placement of equity, debt, convertible securities or other financial instrument (the “Securities”), it being
+understood that NCMA’s services regarding a Private Placement do not constitute a firm underwriting or guaranty of raising any specific amount of capital, and under no circumstances will NCMA be obligated to purchase any Securities for its own
+account. 
+ 
+ 
+
+ 
+
+d)
+
+ 
+any other private financing or capital raise, such as a “crossover round,” 
+“pre-IPO
+ round,” “series A round,” “series B round,” “series C round” of the issuers equity securities, equity warrants, preferred securities or debt securities.
+
+ 
+The closing (“Closing”) of a Transaction shall be deemed to occur on the transfer (if applicable) of funds or, in the absence
+of any such transfer (if not applicable), upon the date of execution of all material legal documentation. 
+ 
+ 
+
+4.
+
+ 
+Fees
+ 
+
+Customer agrees to pay NCMA the Fees, including, but not limited to, any applicable interest and/or late fees. All Fees are exclusive of any tax including
+value added tax. For the avoidance of doubt the Fees under this SO shall be paid directly to NCMA. 
+ 
+Customer shall pay a
+
+non-refundable
+ Set Up Fee as set out on the first page of this SO on the last day of the Initial Term (unless the parties agree on a later payment date). The Set Up Fee shall be paid irrespective of whether or
+not Customer proceeds with a Transaction. Should Customer proceed with a Transaction, the Set Up Fee shall be deducted from the Transaction Fee. 
+ 
+In the
+event the Customer proceeds with a Transaction during the Term or within three (3) months after this Service Order is terminated by either party, the Customer will pay NCMA the Transaction Fee as follows; 
+
+ 
+
+(a)
+
+ 
+At or contemporaneously with the Closing of a Transaction, the Customer will pay or cause to be paid to NCMA
+for a Transaction Fee equal to 50 basis points of the total gross proceeds of the Transaction. 
+ 
+ 
+
+(b)
+
+ 
+The Transaction Fee (as well as all other fees and expenses payable to NCMA hereunder) shall be payable in U.S.
+dollars in immediately available funds. 
+ 
+ 
+
+(c)
+
+ 
+In the event of a Transaction other than as enumerated above, the Customer and NCMA shall in good faith agree
+at the Closing on the Transaction Fee payable to NCMA with respect to such Transaction. 
+ 
+ 
+
+5.
+
+ 
+Reliance
+ 
+
+When providing the Services, NCMA will rely on the information provided by Customer including the information in any relevant engagement form (collectively,
+the “Information”) which Customer warrants, to the best of its knowledge is valid, accurate and complete. All projections relating to the future performance of the Customer that are provided to NCMA by the Customer will be prepared in good
+faith based upon assumptions, which, in light of the circumstances under which they are made, are reasonable. The Customer will promptly notify NCMA if it leams of any material inaccuracy or misstatement in, or material omission from, or change in
+any Information. The Customer hereby acknowledges and agrees that, in providing services to the Customer hereunder, NCMA will be using and relying on Information from Customer, publicly available information and other information derived from
+sources deemed reliable by NCMA without independent verification or independent appraisal. 
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Capital Markets Advisory LLC    
+
+ 
+
+Page 
+2
+ of 
+4
+
+ 
+
+    
+
+ 
+
+    
+
+ 
+ 
+ 
+ 
+
+6.
+
+ 
+Limitation of Liability
+ 
+
+CUSTOMER AGREES THAT NCMA SHALL NOT HAVE ANY LIABILITY (INCLUDING WITHOUT LIMITATION, LIABILITY FOR ANY LOSSES, CLAIMS, DAMAGES, OBLIGATIONS, PENALTIES,
+JUDGMENTS, AWARDS, LIABILITIES, COSTS, EXPENSES OR DISBURSEMENTS) IN CONTRACT, TORT OR OTHERWISE TO THE CUSTOMER, OR TO ANY PERSON CLAIMING THROUGH THE CUSTOMER, IN CONNECTION WITH THE ENGAGEMENT OF NCMA PURSUANT TO THIS AGREEMENT AND THE MATTERS
+CONTEMPLATED HEREBY, EXCEPT WHERE SUCH LIABILITY IS FOUND IN A FINAL JUDGMENT BY A COURT OF COMPETENT JURISDICTION (NOT SUBJECT TO FURTHER APPEAL) TO HAVE RESULTED PRIMARILY AND DIRECTLY FROM THE FRAUD OR WILLFUL MISCONDUCT OF NCMA. THE CUSTOMER
+FURTHER AGREES THAT NCMA SHALL HAVE NO RESPONSIBILITY FOR ANY ACT OR OMISSION BY ANY OF THE CUSTOMER’S REPRESENTATIVES. 
+ 
+ 
+
+7.
+
+ 
+Miscellaneous
+ 
+
+The Customer’s engagement of NCMA is not deemed to be on behalf of, and is not intended to confer rights upon, any shareholder or other equity owner of
+the Customer or any other person not a party hereto as against NCMA or any of NCMA’s affiliates, directors, officers, agents or employees. All information and advice, written or oral, provided to the Customer by NCMA in the course of
+performance of the engagement is solely for the benefit of the Customer and may not be quoted or referred to by the Customer in any report or other communications. The terms and conditions of any Transaction will be established by the Customer in
+its sole discretion, after consultation with NCMA. The Customer will have the sole authority to act and negotiate on its behalf in connection with any Transaction and will make all final determinations concerning any Transaction. The Customer may
+accept or reject in its sole discretion any Transaction proposed by NCMA. NCMA acknowledges that it has no authority, and will not, act on behalf of, bind or make any representations on behalf of the Customer concerning any Transaction. 
+
+It is understood that execution of this Agreement does not assure the successful completion of a Transaction, or any portion thereof, and that NCMA is acting
+on a “reasonable efforts” basis. NCMA has the right, subject to the prior approval of the Customer (not to be unreasonably withheld), to publish a tombstone and case study describing any Transaction upon closing at its own expense, which
+may include the reproduction of the Customer’s logo, a brief description of the Transaction and a link to the Customer’s website. If requested by NCMA, the Customer agrees to include a mutually acceptable reference to NCMA in any press
+release or other public announcement made by the Customer regarding a Transaction as contemplated herein, it being understood that any press release or other public announcement regarding a Transaction must be approved by the Customer. The Customer
+shall be entitled to disclose this engagement of NCMA hereunder and include a mutually acceptable reference to NCMA in any disclosure it may wish to make. 
+
+In the event that a corporation, partnership or similar entity is formed in connection with any Transaction, the Customer shall cause such corporation,
+partnership or similar entity to become a party to this Agreement (including the indemnification provisions) on the same terms and conditions as the Customer. 
+
+This SO may be executed in one or more counterparts, each of which shall be considered an original. Each party agrees that an electronic copy shall be
+considered and treated like an original of this SO, and that an electronic or digital signature shall be as valid as a handwritten signature. 
+ 
+IN WITNESS
+WHEREOF, EACH PARTY HERETO HAS CAUSED THIS SERVICE ORDER TO BE EXECUTED BY ITS DULY AUTHORIZED SIGNATORY. 
+ 
+ 
+
+Customer:
+
+  
+
+ 
+  Anpac 
+Bio-Medical
+ Science Co., Ltd.
+
+  
+
+        NCMA:
+
+  
+
+ 
+  Nasdaq Capital Markets Advisory LLC
+
+Signature:
+
+  
+
+ 
+  /s/ Chris C. Yu
+ 
+ 
+
+  
+
+        Signature:
+
+  
+
+ 
+  /s/ Michael Stiller
+ 
+ 
+
+Name:
+
+  
+
+ 
+  Dr. Chris C. Yu
+
+  
+
+        Name:
+
+  
+
+ 
+  Michael Stiller
+
+Authorized Signatory Title:
+
+  
+
+ 
+  Co-Founder
+ 
+/ 
+CEO
+
+  Chairman of the Board
+
+  
+
+        Authorized
+
+        Signatory Title:
+
+  
+
+ 
+  /s/ Michael Stiller
+
+  CEO, NCMA
+
+Date:
+
+  
+
+ 
+  2/26/2019
+
+  
+
+        Effective Date:
+
+  
+
+ 
+  2-28-19
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Capital Markets Advisory LLC    
+
+ 
+
+Page 
+3
+ of 
+4
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+  
+
+ 
+ 
+
+  
+
+  
+
+Tax ID:
+
+  
+
+ 
+  
+ 
+ 
+
+  
+
+  
+
+ 
+Please send a scanned copy of this SO, once executed. to 
+michael.stillet@nasdaq.com. 
+Thank you for your
+business. 
+ 
+
+ 
+ 
+ 
+
+ 
+
+Nasdaq Capital Markels Advisory LLC    
+
+ 
+
+Page 
+4
+ of 
+4

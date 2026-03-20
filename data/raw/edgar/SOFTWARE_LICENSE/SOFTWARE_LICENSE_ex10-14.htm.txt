@@ -1,0 +1,1190 @@
+EX-10.14
+
+7
+
+ex10-14.htm
+
+ 
+
+ Exhibit
+10.14 
+
+ 
+
+This
+
+SOFTWARE LICENSE AGREEMENT
+ is effective as of the Effective Date, by and between 
+OneShop Retail Sdn. Bhd..
+ (hereafter “Customer”
+/ “OneShop”), a limited liability company incorporated in Malaysia, having a business address at Unit 6-2A-2, Wisma LMS,
+No. 6, Jalan Abdul Rahman Idris, Kampung Baru, 50300 Kuala Lumpur, Malaysia, and 
+Mobilityone Sdn. Bhd.
+, a limited liability company
+incorporated in Malaysia, having a business address at Unit 6-2A-2, Wisma LMS, No. 6 Jalan Abdul Rahman Idris, Kg Baru, 50300 Kuala Lumpur
+(hereinafter “Licensor”). (Customer and Licensor are sometimes individually referred to herein as the “Party”
+and collectively the “Parties”.)
+
+ 
+
+W
+I T N E S S E T H 
+
+ 
+
+WHEREAS,
+Licensor and Super Apps Holdings Sdn Bhd (“Super Apps”) are parties to that certain Share Sale Agreement (the “Share
+Sale Agreement”) pursuant to which Licensor agreed to sell to Super Apps, and Super Apps agreed to purchase from Licensor, sixty
+(60) Ordinary Shares of “OneShop, constituting sixty percent (60%) of the issued and outstanding securities of OneShop;
+
+ 
+
+WHEREAS,
+upon the closing of the transactions contemplated in the Share Sale Agreement (the “Closing”), Licensor and Super Apps will
+each hold forty (40) and sixty (60) Ordinary Shares of OneShop, respectively, constituting forty percent (40%) and sixty percent (60%),
+respectively, of the issued and outstanding securities of OneShop;
+
+ 
+
+WHEREAS,
+the Parties intend to jointly operate a payment processing solutions business through OneShop after the Closing;
+
+ 
+
+WHEREAS,
+Licensor has developed a proprietary electronic payment solutions platform that can process payments received through several payment
+channels such as internet banking, automated teller machines and e-commerce platforms;
+
+ 
+
+WHEREAS,
+in connection with the Share Sale Agreement, Licensor desires to grant to Customer a license such platform and provide certain associated
+services to Customer to enable the Parties to operate a payment processing solutions business via such platform through OneShop; and
+
+ 
+
+WHEREAS,
+Customer desires to license such platform and have Licensor perform such services.
+
+ 
+
+NOW
+THEREFORE, in consideration of the mutual promises and agreements herein set forth, the parties do hereby agree that:
+
+ 
+
+1.
+
+DEFINITIONS
+
+ 
+
+1.1.
+
+“Agreement” 
+shall mean this Software License Agreement dated Effective Date and all attachments and Exhibits hereto.
+
+ 
+
+1.2.
+
+“Critical Program Error(s)” 
+shall mean any program error, whether or not known to Customer, which has or may have
+an adverse impact on the operations of Customer as a result of its use of the Software used in accordance with the Documentation,
+or Services provided by Licensor. Customer shall solely determine whether a Critical Program Error exists.
+
+ 
+
+N-
+1
+
+ 
+
+ 
+
+1.3.
+
+“Customer Affiliates” 
+shall mean any partnership, joint venture, subsidiary, and other affiliated entities (whether
+incorporated or unincorporated) in which Customer has an ownership, managerial, or operational interest or which now or hereafter directly
+or indirectly controls, is controlled by, or is under common control with, Customer, including multiple levels of controlled corporations.
+Control shall be defined as (i) ownership of 20% or more of the voting power of all classes of voting stock of an entity; (ii) ownership
+of 20% or more of the beneficial interests in income and capital of an entity other than a corporation; or (iii) management control over
+an entity.
+
+ 
+
+1.4.
+
+“Documentation” 
+shall mean the most current operational, functional and technical specifications in any standard materials,
+guides, manuals or other related materials which shall be provided to Customer by Licensor which assist Customer in using the Software.
+
+ 
+
+1.1.
+
+“Effective Date”
+ shall mean the date of the Closing of the Share Sale Agreement.
+
+ 
+
+1.2.
+
+“Final Acceptance” 
+shall mean the successful completion of the acceptance process identified in Section 4 to this
+Agreement.
+
+ 
+
+1.3.
+
+“Purchase Order” 
+shall mean the document forwarded to Licensor by Customer which requests that Licensor supply Customer
+with specific Software, Documentation, Support or Services and which references this Agreement.
+
+ 
+
+1.4.
+
+“Services” 
+shall mean the custom development, consulting or other work to be performed by Licensor as described in
+Section 3 below.
+
+ 
+
+1.5.
+
+“Software” 
+shall mean the platform and application programs described in 
+Exhibit A
+ and any object code, functional
+and technical specification described in the Documentation and any Updates supplied by Licensor.
+
+ 
+
+1.6.
+
+“Specifications”
+ shall mean collectively, the Software functionality descriptions in 
+Exhibit A
+, all Documentation
+(whether printed or on-line), and all Updates to the Specifications. The Specifications are hereby incorporated by reference into this
+Agreement.
+
+ 
+
+1.7.
+
+“Sublicensed Software”
+ shall mean any application program, database, operating system or other like product which
+is not developed by Licensor, but which is necessary to operate the Software and which has been supplied by Licensor to Customer under
+this Agreement.
+
+ 
+
+1.8.
+
+“Support” 
+shall mean those services to be performed by Licensor as set forth in 
+Exhibit B
+.
+
+ 
+
+1.9.
+
+“Term”
+ shall mean the period commencing on the Effective Date and ending ten (10) years thereafter.
+
+ 
+
+1.10.
+
+“Update(s)”
+ shall mean all new releases, new versions, updates, revisions, fixes, patches or other alterations of
+the Software, including those which are designed to improve the operation or functionality of the Software, intended to correct an error
+in the Software (including Critical Program Error(s)) or required to correct a breach of warranty or other breach of this Agreement.
+
+ 
+
+N-
+2
+
+ 
+
+ 
+
+1.11.
+
+“Work Order”
+ shall mean, subject to the terms of a statement of work or other similar document (collectively, a “Work
+Order”), agreed to by Customer or Customer Affiliate and Licensor, Licensor shall provide the services, including any deliverables,
+set forth in such Work Order.
+
+ 
+
+2.
+
+LICENSED SOFTWARE
+
+ 
+
+2.1.
+
+License Grant
+. Licensor grants, and Customer accepts, a royalty-free, worldwide and non-exclusive license to install, store and
+use the Software and Documentation, including the merging or interfacing of Software with other programs, subject to all the terms and
+conditions of this Agreement and 
+Exhibit A
+ during the Term. The Software is licensed for use solely for Customer’s business
+purposes, including the provision of payment processing services and any other services. Customer shall be entitled to sublicense and
+transfer the Software and Documentation to Customer Affiliates subject to Licensor’s prior written approval which shall not be
+unreasonably withheld or delayed. Upon approval of such sublicense, the obligations of Licensor set forth herein shall also apply to
+such sublicensee. Except as set forth above, no rights to transfer, sublicense or market the Software or Documentation are granted herein.
+All rights not specifically granted to Customer by this License shall remain in Licensor.
+
+ 
+
+2.2.
+
+Ownership of Software and Documentation
+. Title to and ownership of the Software and Documentation and all applicable proprietary
+rights, including but not limited to, rights in patents, copyrights , author’s rights, trademarks, trade names, graphic design
+and design elements, order of operations, algorithms, data structure, organizational features, know-how and identified trade secrets
+in the Software and Documentation if any, shall remain at all times with Licensor, and subject to the license granted to Customer pursuant
+to this Agreement. Licensor hereby grants Customer the right to reproduce, modify, enhance, reverse engineer, decompile or disassemble
+the Software or any portion thereof and to create derivative works or derive the source code (or the underlying ideas, algorithms, graphic
+designs, order of operations, or any other structures or organization) of the Software subject to Licensor’s prior written approval
+which shall not be unreasonably withheld or delayed. No other right or license with respect to any proprietary rights is granted under
+this Agreement.
+
+ 
+
+2.3.
+
+Protection of Software
+. The Software (whether received in writing, on magnetic tape or on other storage media) is a product proprietary
+to Licensor. Customer shall protect the Software with security measures which are the same as Customer employs to protect its like proprietary
+information. Notwithstanding the foregoing, disclosure of the Software and/or Documentation to government regulatory agencies for purposes
+consistent with use of the Software and/or Documentation by Customer allowed under this Agreement, or in accordance with any other agreement
+in writing by the Parties, shall not be considered a breach of the Agreement.
+
+ 
+
+2.4.
+
+Other Proprietary Rights
+. Customer shall own and shall have all the proprietary rights in any and all information of any nature
+(including without limitation, all files, input materials, output materials, memoranda, reports, paper, analyses, drawings, specifications,
+software, data, graphs, charts or other written materials, (collectively, the “Works”)) supplied or contributed by Customer
+and provided to Licensor during the course of its performance under this Agreement. Licensor hereby agrees and acknowledges that Customer
+owns any and all intellectual property rights developed by Customer in any Customer-specific derivative works associated with the Software
+and containing Works. Licensor hereby assigns the ownership of all right, title and interest in such Works (including all patents, copyrights,
+and other intellectual property rights thereto) to Customer. Customer shall have the right to obtain and hold in its own name such patents,
+copyrights or other intellectual property rights which may pertain to the Works..
+
+ 
+
+N-
+3
+
+ 
+
+ 
+
+2.5.
+
+Sublicense Grant
+. Licensor grants to Customer a perpetual, non-exclusive, non-transferable (except in accordance with Section
+2.1) to use any Sublicensed Software in connection with the Software and any modifications, enhancements and or derivative works of the
+Software. Customer may sublicense and/ or transfer the Sublicensed Software in accordance with Section 2.1 subject to Licensor’s
+prior written approval which shall not be unreasonably withheld or delayed as stated in Section 2.1. Licensor warrants that it has the
+authority to grant such licenses to Customer and Licensor agrees to indemnify Customer against any and all claims, costs, awards, damages
+or like expenses (including reasonable attorney’s fees) which may arise out of a breach of this warranty by Licensor.
+
+ 
+
+2.6.
+
+Import and Export Requirements
+. Customer acknowledges that any obligation of Licensor to provide Software or Documentation under
+this Agreement are subject in all respects to the laws and regulations of Malaysia governing the removal, transmission, export and use
+of same outside of Malaysia. Customer agrees that it shall not remove, transmit or export, directly or indirectly, any Software, Documentation
+or related information from Malaysia, or any other jurisdiction, without being in full compliance with all governing laws and regulations,
+including without first obtaining all required licenses and approvals from the appropriate government agencies.
+
+ 
+
+3.
+
+SERVICES AND ADDITIONAL COVENANTS
+
+ 
+
+3.1.
+
+Training
+. Licensor shall train and assist Customer’s personnel in learning to use the Software, including Updates, free
+of charge in accordance with terms to be mutually determined by the Parties.
+
+ 
+
+3.2.
+
+Installation
+. Licensor shall install or assist Customer with installation of the Software and all Updates. For avoidance of doubt,
+installation includes all aspects of installation, including deployment, configuration, integration and testing, all of which shall be
+subject to Customer’s review, acceptance and approval in Customer’s sole discretion
+
+ 
+
+3.3.
+
+Additional Services
+. After completion of the Software installation activities described above and at Customer’s request,
+Licensor agrees to provide custom development and consulting services to Customer on terms and conditions to be mutually determined by
+the Parties. If Customer requests such additional Services, Licensor shall inform Customer that the Services requested constitute additional
+Services and provide a quote for such Services to Customer. Such quote shall be competitive with, or more favorable to Customer than,
+Licensor’s charges for substantially similar services to Licensor’s most favored customers (i.e., those customers to whom
+Licensor charges its lowest prices), purchasing substantially similar volumes of such services under substantially similar circumstances
+and terms and conditions. If Customer desires to obtain those Services from Licensor according to the prices identified in the quotation,
+Customer will forward a Purchase Order to Licensor requesting such Services. Upon its receipt of the Purchase Order, Licensor agrees
+to provide the requested Services. If Customer desires additional Services from Licensor then a Work Order shall be created describing
+services between Customer and Licensor. Customer is under no obligation to use Licensor’s Services and may utilize third parties
+to provide services that may include modifications to the Software, provided that a prior written approval from the Licensor is obtained
+(which approval shall not be delayed or unreasonably withheld) and the said third parties maintain the confidentiality of the Software
+in accordance with the terms of this Agreement.
+
+ 
+
+N-
+4
+
+ 
+
+ 
+
+3.4.
+
+Further Covenants of Licensor. 
+The Parties further acknowledge Licensor’s obligations pursuant to the Share Sale Agreement
+dated October 18, 2022 between Licensor and Super Apps as well as the Joint Venture Agreement dated October 18, 2022 between Licensor,
+Customer and Super Apps whereby Licensor (a) shall provide the necessary technical and business supports to achieve the business target
+of OneShop, and (b) Licensor unconditionally guarantees the business target at a value of no less than RM560,000,000.00 (Ringgit Malaysia
+Five Hundred and Sixty Million) turnover in the financial year ending 31 December 2023 or any period as mutually agreed between SuperApp
+and Licensor.
+
+ 
+
+3.5.
+
+Further Obligations of Licensor
+. Licensor acknowledges and agrees that OneShop is engaged in the highly competitive business of
+Fin-Tech business, and has expended, or will expend, significant sums of money and has invested, or will invest, a substantial amount
+of time to develop and use, and maintain the secrecy of Confidential Information. OneShop has thus obtained, or will obtain, a valuable
+economic asset that has enabled, or will enable, it to develop an extensive reputation and to establish long-term business relationships
+with its suppliers, customers, and vendors. If such Confidential Information were disclosed to another person or entity or used for the
+benefit of anyone other than Company, Company would suffer irreparable harm, loss, and damage. Accordingly, Licensor acknowledges and
+agrees that:
+
+ 
+
+(a)
+Licensor acknowledges and agrees that upon performance of its obligations set forth in Section 3.4, all such technical and business supports
+provided by Licensor (except for Software, and Documentation and all applicable proprietary rights, including but not limited to, rights
+in patents, copyrights , author’s rights, trademarks, trade names, graphic design and design elements, order of operations, algorithms,
+data structure, organizational features, know-how and identified trade secrets in the Software and Documentation) to achieve the business
+target shall become OneShop Confidential Information, despite Licensor’s prior knowledge of same.
+
+ 
+
+(b)
+Unless OneShop gives Licensor prior express written permission, during the Term and thereafter, Licensor shall not use for Licensor’s
+own benefit or use for or disclose to any competitor, supplier, or customer, or any other person, firm, corporation, or other entity,
+the OneShop’s Confidential Information, including but not limited to Works;
+
+ 
+
+(c)
+Unless OneShop gives Licensor prior express written permission, during the Term and thereafter, Licensor shall not directly or indirectly
+solicit the actual customers of OneShop, because the identities of such actual customers has been compiled over time by OneShop and OneShop
+takes reasonable measures to protect such information and considers information regarding its actual customers to be Confidential Information.
+
+ 
+
+N-
+5
+
+ 
+
+ 
+
+4.
+
+ACCEPTANCE
+. With respect to any custom Software requested pursuant to Section 3.3, such custom Software will be deemed
+to have passed Final Acceptance sixty days after installation unless Customer notifies Licensor of a breach of warranty described in
+Section 7 below. If the warranty breach is not cured to Customer’s satisfaction within 30 days of Customer’s notification,
+then Customer shall, at its option, have the right to terminate the applicable Purchase Order. Upon such a termination under this section,
+Licensor shall promptly return to Customer all moneys paid by Customer to the Licensor for the terminated custom Software and related
+Services, and Customer shall promptly return or destroy all copies of the terminated custom Software and related Documentation.
+
+ 
+
+5.
+
+LICENSED SOFTWARE SUPPORT
+
+ 
+
+5.1.
+
+Software Support and Support Fees
+. During the Term, Licensor agrees that it shall provide Support for the Software and all Updates
+as specified in 
+Exhibit B
+. There shall be no charge to Customer for the Support services during the Term. Licensor shall provide
+Customer, at Licensor’s expense, with all bug fixes and code corrections necessary or desirable to correct or address malfunctions
+and/or defects in the Software as necessary to bring and/or maintain the Software into substantial conformity with its operating specifications.
+
+ 
+
+5.2.
+
+New Releases and Updates
+. During the Term, Licensor shall furnish Customer with all new releases and Updates to the Software and
+Documentation free of charge, which Updates shall be subject to this Agreement. There shall be no additional license fee for such Updates.
+Customer shall at its own expense obtain any equipment required to run new releases.
+
+ 
+
+6.
+
+PAYMENTS
+
+ 
+
+6.1.
+
+Other Services
+. Customer shall pay for all other services or products. Licensor shall be paid as specified in the applicable Purchase
+Order.
+
+ 
+
+6.2.
+
+Taxes
+. In the event foreign, federal, state or local taxes are assessed on any Service performed hereunder, except taxes based
+on net income or personal property, Customer shall directly pay or reimburse Licensor accordingly.
+
+ 
+
+6.3.
+
+Compliance
+. Licensor shall not send any invoices with respect to work, and no claim from Licensor for payment (including any amount
+for fees or expenses) will be allowed for any work done by Licensor with respect to such work, prior to both parties’ duly authorized
+representatives executing a Work Order and Customer issuing a purchase order to Licensor with respect to such Services.
+
+ 
+
+7.
+
+WARRANTY, INDEMNITY AND LIABILITY LIMITATION
+
+ 
+
+7.1.
+
+Licensor Software Warranty
+. Licensor warrants that, beginning upon Final Acceptance and during the Term, the Software will operate
+in accordance with the Documentation without material error or Critical Program Error, and will perform the functions set forth in the
+Specifications. Licensor further warrants that all Updates to the Software will be compatible with existing Software(s) and shall not
+degrade documented functionality of Software being used by Customer.
+
+ 
+
+N-
+6
+
+ 
+
+ 
+
+7.2.
+
+Warranty and Indemnity Regarding Software
+.
+
+ 
+
+7.2.1.
+Licensor warrants that it shall deliver the Software and Sublicensed Software free from the claims of any third party for infringement
+of any patents, trademarks, copyrights, trade secrets, or other proprietary rights. Licensor agrees that it shall defend at its own expense,
+and will indemnify Customer and save Customer harmless against any costs (including reasonable attorney’s fees) and damages made
+in settlement or awarded as a result of, any action brought against Customer based on an allegation of such infringement with respect
+to any item of Software, Sublicensed Software, Support or Services. Customer shall promptly notify Licensor in writing of any such action
+or allegation of infringement, Licensor shall have sole control of the defense of any such action and all negotiations for its settlement
+or compromise.
+
+ 
+
+7.2.2.
+If an injunction is obtained against Customer’s use of any item of Software or Sublicensed Software by reason of an infringement
+described above, or if in Licensor’s opinion any item of Software is likely to become the subject of a claim of such infringement,
+Licensor shall at its own expense procure the right for Customer to continue using the item of Software or Sublicensed Software which
+is the subject of the infringement claim or replace or modify such item so that it becomes non-infringing.
+
+ 
+
+7.2.3.
+
+Program Errors
+. If Customer gives Licensor notice of a Critical Program Error contained in the Software, Licensor will, upon receipt
+of such notice, immediately investigate such Critical Program Error and will deliver to Customer either a patch or workaround or code
+to correct such Critical Program Error (and deliver to Customer appropriate code and Documentation for such correction) at no additional
+cost to Customer within ten (10) days after receipt of such notice. If Licensor fails to eliminate the Critical Program Error within
+ten (10) days after receipt of such notice, then Customer shall have the right to exercise the remedies identified in paragraph 7.2.6.
+
+ 
+
+7.2.4.
+
+Viruses/Disabling Code
+. As of the date of delivery to Customer, the Software and any Update(s) will not contain any computer virus
+or code that could be otherwise hostile, damaging or disabling to Customer’s existing information systems or components thereof.
+Licensor further warrants that Customer shall have quiet and peaceful enjoyment of the use of the Software and Documentation for the
+duration of this Agreement until and unless this Agreement is lawfully terminated, ended or otherwise declared ineffective, as specified
+herein. Licensor further covenants that it shall not install or insert any virus or disabling code or take any action which would permit
+Licensor or any third party to interfere with Customer’s quiet enjoyment of the Software.
+
+ 
+
+7.2.5.
+
+Warranty of Authority
+. Licensor warrants that it has the power and authority to enter into this Agreement and to grant and convey
+the license, sublicense, if any, and other rights granted and conveyed to Customer hereunder. This Agreement does not and will not knowingly
+violate, the rights of any third party or, breach or interfere with any other agreement to which Licensor is a party or by which Licensor
+is bound.
+
+ 
+
+N-
+7
+
+ 
+
+ 
+
+7.2.6.
+
+Remedies
+. If no time limit is otherwise specified in the above warranties, Licensor shall have thirty (30) days from the date
+it receives a notice of warranty breach to cure the breach. If, however, Licensor cannot correct the nonconformity within the timeframe
+specified, then Customer shall have the right (exercisable in Customer’s sole discretion), to: (i) require Licensor to replace
+the nonconforming Software (provided, however, that the replacement is functionally equivalent) at no cost to Customer; or (ii) terminate
+this Agreement or any applicable Purchase Order.
+
+ 
+
+7.2.7.
+
+Warranty Limitation
+. EXCEPT AS SPECIFICALLY STATED IN THIS AGREEMENT, LICENSOR IS PROVIDING THE SOFTWARE AND DOCUMENTATION “AS
+IS” AND THERE ARE NO WARRANTIES, COVENANTS, TERMS, CONDITIONS OR REPRESENTATIONS, EXPRESS OR IMPLIED, OR OTHERWISE GRANTED FOR
+THE SOFTWARE, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE WHICH ARE
+HEREBY DISCLAIMED AND CUSTOMER HEREBY ACCEPTS THE LICENSOR DISCLAIMER OF ALL OTHER COVENANTS, REPRESENTATIONS, PROMISES AND WARRANTIES
+WITH RESPECT TO THE SOFTWARE AND DOCUMENTATION, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY
+OR FITNESS FOR ANY PARTICULAR PURPOSE.. AS TO THE SOFTWARE, SOME STATES DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES OR THE LIMITATION
+OR EXCLUSION OF LIABILITY SO SOME OF THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO CERTAIN SOFTWARE, DOCUMENTATION, SUPPORT OR
+SERVICES.
+
+ 
+
+7.2.8.
+
+Limitation of Liability
+. IN NO EVENT SHALL EITHER PARTY’S LIABILITY ARISING OUT OF THIS AGREEMENT EXCEED FIFTY THOUSAND
+DOLLARS ($50,000) UNDER THIS AGREEMENT UP TO THE DATE THAT THE CAUSE OF SUCH CLAIM AROSE. The foregoing limitations of liability will
+not apply and nothing in this Agreement shall affect either Party’s liability (a) for death or personal injury or damage to real
+or personal property caused by such Party’s gross negligence or willful misconduct, (b) for any damages caused by the intentional
+or grossly negligent acts or omissions of such Party, (c) the intentional introduction by Licensor of a computer virus into the information
+systems of Customer, (d) Licensor’s willful disabling of the Software and/or Customer’s information systems or components
+thereof, (e) for claims of infringement against which Licensor indemnifies Customer under Section 7.2 of this Agreement, or (f) to the
+extent prohibited by applicable law. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE PRODUCTS OR SERVICES,
+LOST PROFITS, LOSS OF DATA OR ANY SPECIAL OR CONSEQUENTIAL DAMAGES, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, IN TORT INCLUDING
+NEGLIGENCE, BY STATUTE OR UNDER ANY QUASI-CONTRACTUAL THEORY OF LIABILITY, EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.
+
+ 
+
+N-
+8
+
+ 
+
+ 
+
+8.
+
+GENERAL PROVISIONS
+
+ 
+
+8.1.
+
+Termination Right By Customer
+. Customer shall have the right to terminate this Agreement or its license to any item of Software
+if Customer so elects pursuant to Sections 4 or 7.2. In the event Customer exercises its termination right under Section 4, then Customer
+shall identify all copies of the Software and return the copies to Licensor within thirty days of the Customer’s provision of its
+notice to terminate. Upon such a termination, Licensor shall, within thirty (30) days of the effective date of the termination, refund
+fees, if any in accordance with appropriate section. Customer shall also have the right, after full payment of any license fees due under
+this Agreement, to terminate this Agreement or terminate its license to any Software licensed pursuant to this Agreement at Customer’s
+convenience without the right to receive any refund and without any penalty to Licensor.
+
+ 
+
+8.2.
+
+Termination by Licensor 
+. Licensor shall have the right to terminate this Agreement in the event Customer fails to pay any undisputed
+invoices as required under Section 6. Licensor shall provide thirty (30) days prior written notice of its intent to terminate due to
+Customer’s failure to make payments as described in this paragraph. Licensor shall not terminate this Agreement if Customer cures
+its failure to pay undisputed invoices during the thirty (30) day notice period.
+
+ 
+
+8.3.
+
+Network Charges
+. Customer, its Customer Affiliates or its subscribers shall at all times be responsible for all mobile network
+data or airtime charges, SMS related charges, application certification charges or marketing costs levied by cellular or wireless network
+and any other fees or levies related to the cellular or wireless network or other costs over which the Customer’s application is
+offered, as well as Customer’s own Internet access fees (collectively, the “Network Charges”). None of the fees chargeable
+hereunder include any Network Charges and Customer shall indemnify and hold harmless Licensor, its officers, directors, agents and representatives
+against any such Network Charges that may be levied against them for the operation of Customer’s application(s).
+
+ 
+
+8.4.
+
+Regulatory Bodies
+. Customer and Licensor agree to cooperate fully with each other in meeting any obligations imposed upon Customer
+or Licensor by applicable regulatory bodies with respect to the Software.
+
+ 
+
+8.5.
+
+Use of Subcontractors
+. Licensor will not subcontract or permit anyone other than its employee(s) or consultants in the normal
+course of business to perform any of the Services required of Licensor under this Agreement without the prior written approval of Customer,
+which approval shall not be unreasonably withheld or delayed.
+
+ 
+
+8.6.
+
+Use of Name Restriction
+. Neither Party shall use the name of the other or refer to the other directly or indirectly in any advertisement,
+sales promotion, news release or releases to any professional or trade publication without receiving specific prior written authorization
+from the other Party.
+
+ 
+
+8.7.
+
+Waiver
+. All waivers of and consents to any terms and conditions of this Agreement (or any rights, powers or remedies under it)
+by either Party must be in writing in order to be effective. No waiver or consent granted with respect to one matter or incident shall
+be construed to operate as a waiver or consent with respect to any different or subsequent matter or incident.
+
+ 
+
+N-
+9
+
+ 
+
+ 
+
+8.8.
+
+Notices
+. All notices and other communications under this Agreement shall be in writing and shall be deemed to have been duly given
+when delivered personally, delivery charges prepaid, or three (3) business days after being sent by registered or certified mail (return
+receipt requested), postage prepaid, or one (1) business day after being sent by a nationally recognized express courier service, postage
+or delivery charges prepaid, to the parties at their respective addresses stated below. Notices may also be given by prepaid telegram
+or facsimile and shall be effective on the date transmitted if confirmed within twenty-four (24) hours thereafter by a signed original
+sent in the manner provided in the preceding sentence. Any party may change its address for notice and the address to which copies must
+be sent by giving notice of the new address to the other parties in accordance with this Section 9, except that any notice of such change
+of address shall not be effective unless and until received.
+
+ 
+
+Licensor:
+
+MobilityOne
+ Sdn. Bhd.
+
+Customer:
+
+OneShop
+ Retail Sdn. Bhd.
+
+Unit
+ 6-2A-2, Wisma LMS, No. 6 Jalan Abdul Rahman Idris, Kg Baru, 50300 Kuala Lumpur
+
+Unit
+ 6-2A-2, Wisma LMS, No. 6 Jalan Abdul Rahman Idris, Kg Baru, 50300 Kuala Lumpur
+
+ATTN:
+ Chief Financial Officer
+
+ATTN:
+ Chief Financial Officer
+
+ 
+
+8.9.
+
+Amendment
+. This Agreement may not be amended, modified, or otherwise changed or altered except by a writing executed by authorized
+representatives of Customer and Licensor.
+
+ 
+
+8.10.
+
+Debarred Contractor
+. Licensor warrants that it is not currently debarred, suspended or otherwise excluded by government agencies
+from receiving federal contracts.
+
+ 
+
+8.11.
+
+Confidentiality of Information
+.
+
+ 
+
+8.11.1.
+
+Definition
+. “Confidential Information” shall mean any and all business and technical information of OneShop or Licensor,
+as the case may be (“Disclosing Party”), disclosed to, or otherwise acquired or observed by other party (“Receiving
+Party”), whether communicated in writing, orally, electronically, or in any other form, including, but not limited to, the terms
+and conditions of this Agreement, except Confidential Information does not include any information which (a) becomes generally available
+to the public through no fault of Receiving Party, (b) was independently developed by Receiving Party without access to Disclosing Party’s
+Confidential Information, or (c) becomes available to Receiving Party on a non-confidential basis from a source other than Disclosing
+Party; provided that such source is not prohibited from transferring the information to Receiving Party by contractual, legal, or fiduciary
+obligation. For avoidance of doubt, Confidential Information includes, and is not limited to access to proprietary or confidential information
+of the other Party concerning business affairs, property, operating procedures, trade secrets, know-how, manufacturing processes and
+techniques, regulatory approval strategies, computer programs, data, schematics, design work, formulas, compositions, service techniques
+and protocols, new and existing product designs and specifications, any modifications to such product designs and specifications, and
+any other skills or ideas, personnel information or other information, including financial data, Software, Works and Consumer Information
+(as hereinafter defined). Subject to Section 2 of this Agreement (Licensed Software), all Software and Documentation are hereby agreed
+to be the Confidential Information of Licensor.
+
+ 
+
+N-
+10
+
+ 
+
+ 
+
+8.11.2.
+
+Restrictions on Disclosure of Confidential Information
+. During the Term and at all times thereafter, each of Licensor and OneShop
+will hold in strict confidence, not disclose to any third party, and maintain the confidentiality of, all Confidential Information of
+the other party, and will use the Confidential Information of the other party for no other purpose than performing its obligations under
+this Agreement. Licensor and OneShop will each use at least the same degree of care to safeguard and to prevent disclosing to third parties
+the Confidential Information of the other as it employs to avoid unauthorized disclosure, publication, dissemination, destruction, loss,
+or alteration of its own information (or information of its Licensees) of a similar nature, but not less than reasonable care. The parties
+may disclose Confidential Information to their affiliates, auditors, attorneys, accountants, advisors, consultants, and contractors (each,
+a “Representative”), where (i) use by the Representative is authorized under the Agreement, (ii) such disclosure is necessary
+for the performance of the Representative’s obligations under or with respect to the Agreement, (iii) the Representative agrees
+in writing to assume the obligations described in this Section 8.11 or is under a professional duty that is the same or similar to the
+obligations of this Section 8.11, and (iv) the Disclosing Party assumes full responsibility for the acts or omissions of its Representatives
+in connection with their obligations and takes all reasonable measures to ensure that the Confidential Information is not disclosed or
+used in contravention of the Agreement. Any disclosure to such person or entity will be under the terms and conditions as provided herein.
+
+ 
+
+8.11.3.
+
+Compelled Disclosure
+. In the event that Receiving Party is requested, in accordance with applicable law, to disclose Confidential
+Information of Disclosing Party, Receiving Party agrees to provide Disclosing Party with prompt notice of such request so that Disclosing
+Party will have an opportunity to limit or preclude such disclosure. Receiving Party agrees to cooperate with Disclosing Party, at Disclosing
+Party’s expense, in any lawful effort to contest the requirement of such disclosure. In the event that a protective order or other
+remedy is not obtained, Receiving Party may furnish only that portion of Confidential Information of Disclosing Party which Receiving
+Party reasonably believes, based on the advice of counsel, it is legally compelled to disclose and will request assurance that confidential
+treatment will be accorded any Confidential Information so furnished.
+
+ 
+
+8.11.4.
+
+Confidentiality Obligations after Termination of Agreement
+. Upon termination of this Agreement, Receiving Party shall return or
+securely destroy or permanently delete (at Disclosing Party’s option) the destruction of all documents and electronic media containing
+Disclosing Party’s Confidential Information, including all copies, and upon request, certify in writing that the Confidential Information
+has been destroyed or permanently deleted.
+
+ 
+
+8.11.5.
+
+Equitable Remedies
+. The Parties acknowledge that its breach of any of its obligations under this Agreement may cause the other
+Party irreparable harm, for which monetary damages may be an inadequate remedy. Therefore, in the event of any such breach, the other
+Party shall be entitled, in addition to any other remedy available under this Agreement, at law or in equity, to seek injunctive relief,
+including specific performance of the terms hereof and other equitable relief for such breach, without the posting of bond or other security.
+
+ 
+
+N-
+11
+
+ 
+
+ 
+
+8.12.
+
+Privacy and Security of Consumer Information
+. Each Party agrees that it (i) shall comply with any applicable laws and regulations
+regarding the privacy and security of Consumer Information, (ii) shall not use Consumer Information in any manner inconsistent with any
+applicable laws and regulations regarding the privacy and security of Consumer Information, (iii) shall not disclose Consumer Information
+of a Party to third parties except at the specific written direction of such Party, (iv) shall maintain adequate physical, technical
+and administrative safeguards to protect Consumer Information from unauthorized access and (v) shall immediately notify the other Party
+of any actual or suspected breach of the confidentiality of Consumer Information. Consumer Information shall mean any personally identifiable
+information in any form (written electronic or otherwise) relating to an end-user, including, but not limited to: an end-user’s
+name, address, telephone number, tax amount or payment information; and any other non-public personally identifiable information..
+
+ 
+
+8.13.
+
+Governing Law/Dispute Resolution
+. This Agreement shall be governed by, and shall be construed in accordance with, the laws of
+Malaysia. Any disputed matter will first be attempted to be resolved by good faith negotiations between local management. Any dispute,
+controversy or claim arising out of or related to this Agreement or the interpretation, application, breach, termination or validity
+thereof, including any claim of inducement by fraud or otherwise, which claim would, but for this provision, be submitted to binding
+arbitration shall, before submission to binding arbitration, first be mediated through non-binding mediation in accordance with the rules
+and procedures of the Asian International Arbitration Centre (Malaysia) (“AIAC”). The mediation shall be conducted in Kuala
+Lumpur, Malaysia and shall be attended by a senior executive with authority to resolve the dispute from each of the parties.
+
+ 
+
+8.13.1.
+The mediator shall confer with the parties to design procedures to conclude the mediation within no more than forty-five (45) days after
+initiation. Under no circumstances may the commencement of arbitration below be delayed more than forty-five (45) days by the mediation
+process specified herein absent contrary written agreement of the parties.
+
+ 
+
+8.13.2.
+Each party agrees not to use the period or pending mediation to disadvantage the other party procedurally or otherwise. No statements
+made by either side during the mediation may be used by the other or referred to during any subsequent proceedings.
+
+ 
+
+8.13.3.
+Each party has the right to pursue provisional relief from any court, such as attachment, preliminary injunction, replevin, etc., to
+avoid irreparable harm, maintain the status quo, or preserve the subject matter of the arbitration, even though mediation has not been
+commenced or completed.
+
+ 
+
+8.13.4.
+Any controversy or claim arising out of or relating to this Agreement or the validity, inducement or breach thereof, and unable to be
+resolved in accordance with the procedure set forth above, shall be settled by binding arbitration in accordance with the rules and procedures
+of AIAC then pertaining except where those rules conflict with this provision, in which case this provision controls. Any Court with
+jurisdiction shall enforce this clause and enter judgment on any award. The arbitration shall be held in Kuala Lumpur, Malaysia and in
+rendering the award the arbitrator must apply the substantive law of Malaysia (except where that law conflicts with this clause). Each
+party has the right before or, if the arbitrator cannot hear the matter within an acceptable period, during the arbitration to seek and
+obtain from the appropriate court provisional remedies such as attachment, preliminary injunction, replevin, etc., to avoid irreparable
+harm, maintain the status quo or preserve the subject matter of the arbitration. THE ARBITRATOR SHALL NOT AWARD ANY PARTY PUNITIVE, EXEMPLARY
+OR MULTIPLIED DAMAGES OR DAMAGES CONTRARY TO THE EXPRESS TERMS OF THIS AGREEMENT AND EACH PARTY HEREBY IRREVOCABLY WAIVES ANY RIGHT TO
+SEEK SUCH DAMAGES FROM THE ARBITRATOR. NO PARTY MAY SEEK OR OBTAIN PREJUDGMENT INTEREST OR ATTORNEYS’ FEES OR COSTS RESULTING FROM
+THE ARBITRATION.
+
+ 
+
+N-
+12
+
+ 
+
+ 
+
+8.13.5.
+Except as required by law or the rules and regulations of the relevant securities exchange or other governmental agencies, neither Party
+shall publicize the nature of any disputed matters, or the proceedings or outcomes of any good faith negotiation, mediation or arbitration
+proceedings, judgments or settlements pursuant to this section.
+
+ 
+
+8.14.
+
+Severability and Effect of Laws
+. The provisions of this Agreement shall obligate the parties only to the extent that such provisions
+are lawful. Any provision of this Agreement which is prohibited by law shall be ineffective (but only to the extent that, and in the
+locations where, such prohibition shall be applicable). The remainder of the Agreement shall remain in full force and effect, however,
+provided that both parties agree the Agreement can continue to be performed in furtherance of the parties’ objectives.
+
+ 
+
+8.15.
+
+Entire Agreement
+. This Agreement constitutes the entire agreement of the Parties with respect to acquisition and use of the Software,
+Updates, Documentation, Support and Services.
+
+ 
+
+8.16.
+
+Assignment
+. Unless otherwise stated, neither Party hereto may assign, cede or transfer any of its rights or obligations under
+this Agreement without the written consent of the other Party, which consent may not be unreasonably withheld; provided however, without
+such consent either Party may assign this Agreement in connection with the transfer or sale of all or substantially all of its assets
+or business or its merger or consolidation with another company. Customer shall likewise have the ability to assign this Agreement to
+a Customer Affiliate in the event Customer outsources, sells, assigns or otherwise gives the department or functions which use the Software
+to such Customer Affiliate. Neither Party shall be relieved of any of its obligations under this Agreement by reason of its assignment
+of this Agreement. Both Parties agree that they will require any assignee to perform their obligations hereunder.
+
+ 
+
+8.17.
+
+Survival
+. The respective obligations of Customer and Licensor that by their nature would continue beyond the termination or expiration
+of this Agreement (including any obligations regarding confidentiality, intellectual property rights, indemnification, governing law,
+publicity and marks, limitations of liability, and dispute resolution) shall survive such termination or expiration.
+
+ 
+
+N-
+13
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, this Agreement is duly executed by an authorized representative of both parties as of __, 2023.
+
+ 
+
+ 
+
+ 
+
+ 
+
+MobilityOne
+ Sdn
+. 
+Bhd.
+
+ 
+
+OneShop
+ Retail Sdn. Bhd.
+
+(AUTHORIZED
+ SIGNATURE)
+
+ 
+
+(AUTHORIZED
+ SIGNATURE)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(PRINT
+ OR TYPE NAME OF SIGNATORY)
+
+ 
+
+(PRINT
+ OR TYPE NAME OF SIGNATORY)
+
+ 
+
+ 
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+Chief
+ Executive Officer
+
+(TITLE)
+
+ 
+
+(TITLE)
+
+ 
+
+N-
+14
+
+ 
+
+ 
+
+EXHIBIT
+A
+
+ 
+
+Description
+of Software
+
+ 
+
+ 
+
+1.
+Software Descriptions:
+
+ 
+
+Software
+shall mean the following:
+
+ 
+
+[Please
+insert]
+
+ 
+
+N-
+15
+
+ 
+
+ 
+
+EXHIBIT
+B
+
+ 
+
+Support
+Services Agreement
+
+ 
+
+1.
+
+Licensor Support Services.
+ Licensor agrees to provide Support services to the Customer’s technical support team for the
+Software in accordance with the following terms:
+
+ 
+
+1.1
+
+Ongoing
+ Support entitles Customer to receive assistance in problem identification and resolution for Software, distribution of software change
+ packages, and user and database support related to a Software product. The Customer’s subscribers or end users shall interface
+ with the Customer’s technical support only. 
+
+1.2
+
+Licensor
+ shall provide, in a timely manner, whatever services as may be necessary to ensure that the Software remains in conformity with the
+ Specifications and the warranties contained in this Agreement. The scope of such Support services shall include services for and
+ all Software provided by Licensor including, without limitation, interfaces, Updates and new releases. Licensor shall provide remedial
+ maintenance including, without limitation, fault isolation, diagnosis and repair, at any and all Customer facilities using the Software.
+
+1.3
+
+Response
+ Times
+. For any Support requests placed by Customer, Licensor agrees that the following response times shall apply:
+
+1.3.A
+
+Critical
+ Program Errors
+. Licensor shall use commercially reasonable efforts to respond to any Critical Program Errors and shall work continuously
+ until such error is resolved. 
+
+1.3.B
+
+Medium
+ Errors
+. Licensor shall respond within two (2) hours to any Medium Error and shall resolve such error within five (5) calendar
+ days. Medium Error means any error for which an alternative solution or work around which is acceptable to Customer (in Customer’s
+ sole discretion) may be accomplished.
+
+1.3.C
+
+Low
+ Errors
+. Licensor shall respond within twenty-four (24) hours to any Low Error, and shall resolve such error no later than the
+ next general release of the Software. Low Error means any error that is of a cosmetic or de minimus nature in Customer’s sole
+ opinion.
+
+1.4
+
+“Response
+ time” shall mean the time between Customer’s placement of a service call and Licensor’s initiation of problem diagnosis,
+ isolation and other assistance via telephone.
+
+1.5
+
+Telephone
+ Support services
+. During the term of Support services, Licensor’s technical support will be available to accept and respond
+ to problem calls or email from Customer’s technical support from 9:00 am - 5:00 pm Malaysia Time, 5 days a week (Monday through
+ Friday), 52 weeks a year, excluding Malaysian national holidays. During such hours, technical support calls or email will be answered
+ immediately by the support staff. Licensor will provide a phone option to speak directly to a trained technical support representative.
+ Licensor will make the reasonable commercial effort to answer promptly to calls.
+
+1.6
+
+Any
+ fixes or corrections to the Software shall be provided by Licensor upon Licensor’s receipt of notice of such problem or whenever
+ Licensor otherwise becomes aware of an actual or potential Software problem. Such fixes or corrections shall be provided at no additional
+ cost to Customer.
+
+1.7
+
+Licensor
+ shall provide, on an annual basis, or more frequently if reasonably requested by Customer, any and all updated Documentation for
+ any interfaces, enhancements or modifications provided to Customer in accordance with this Agreement. 
+
+ 
+
+N-
+16

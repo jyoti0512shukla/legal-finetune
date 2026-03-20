@@ -1,0 +1,754 @@
+EX-10.12
+
+10
+
+ff12021a1ex10-12_maristech.htm
+
+DEVELOPMENT AGREEMENT BY AND BETWEEN MARIS-TECH LTD. AND HENIS HARDWARE CO. LTD
+
+Exhibit 10.12
+
+ 
+
+CERTAIN INFORMATION
+CONTAINED IN THIS DOCUMENT, IDENTIFIED BY [***], HAS BEEN EXCLUDED FROM THIS DOCUMENT PURSUANT TO ITEM 601(B)(10)(IV) OF REGULATION S-K
+BECAUSE IT IS BOTH NOT MATERIAL AND IS THE TYPE OF INFORMATION THAT MARIS-TECH LTD.TREATS AS PRIVATE OR CONFIDENTIAL.
+
+ 
+
+DEVELOPMENT AGREEMENT
+
+ 
+
+This Development Agreement 
+(“Agreement”)
+
+is entered into and made effective on 28 March 2014 
+(“Effective Date”), 
+by and between Henis Hardware Co., LTD,
+a Chinese company, with offices at Rm 701, Shimao Building 5, No 68 Taihu Avenue 214021,Wuxi China 
+(“Henis”), 
+and Maris
+Technologies Marketing Ltd., an Israeli company, with offices at 1 Hamada St., Rehovot 76703, Israel, 
+(“Maris”).
+
+ 
+
+Henis and Maris will be referred collectively
+as 
+“Parties” 
+or individually as 
+“Party”.
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS
+
+Henis is engaged in the development, manufacture, and marketing of Digital Door Viewing (“DDV”) solutions;
+
+ 
+
+ 
+
+WHEREAS
+
+Maris develops and manufactures a variety of hi *h-end, low-power, miniature and feature enriched Video System-on-Module (VS0M) solutions, used as computer modules in the embedded systems market;
+
+ 
+
+WHEREAS
+
+the Parties desire to enter into an agreement with the aim to develop a new Wi-Fi DDV “WDDV”, a Wi-Fi enabled, video door unit allowing audio/video communication with visitors using smartphone an;/where;
+
+ 
+
+ 
+
+WHEREAS
+
+Both Parties will use their respective intellectual property throughout the agreement execution hereunder and each Party shall remain the sole owner of its respective intellectual property;
+
+ 
+
+ 
+
+WHEREAS
+
+the Parties desire to set forth the terms and conditions of their relationship in this Agreement.
+
+ 
+
+NOW, THEREFORE 
+in consideration of the
+foregoing and the mutual promises and covenants, the Parties enter into the following Consortium Agreement and agree as follows:
+
+ 
+
+1.
+Scope
+Of Work (“SOW”).
+
+ 
+
+1.1
+Maris
+will develop the WDDV electronics and software in accordance with the specifications set out in 
+Schedule A
+ 
+(“Product Definition”).
+
+ 
+
+1.2
+Maris will provide the deliverables in accordance
+with the list set out in 
+Schedule B 
+(“Deliverables”).
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.3
+The Parties will hold a design review meeting
+within 3 weeks from Agreement in order to review the high-level design and finalize the specifications.
+
+ 
+
+1.4
+The WDDV Prototypes will be provided within 6
+month from Agreement for Henis inspection and acceptance.
+
+ 
+
+1.5
+The Parties goal is to be with the WDDV in the market by the end of 2014.
+
+ 
+
+2.
+Payments.
+
+ 
+
+2.1
+In exchange for the SOW performance Maris, Henis
+will pay Maris the fee set out in 
+Schedule C 
+(the 
+“Development Payments”).
+
+ 
+
+2.2
+Each Party will have full responsibility for
+all tax obligations relating to such payments in their respective country.
+
+ 
+
+3.
+Manufacture.
+
+ 
+
+3.1
+Henis will manufacture and be responsible for
+selling the WDDV.
+
+ 
+
+3.2
+Maris will supply Henis an enabling chip for
+the WDDV manufacturing at the chip cost plus royalty per unit in accordance with the terms set in 
+Schedule D
+ 
+(
+,1
+Production
+Royalties”).
+
+ 
+
+4.
+Term and Termination.
+
+ 
+
+4.1
+This Agreement commences and becomes effective
+on the Effective Date. Henis may terminate this Agreement at any time by notifying Maris in writing 60 days in advance.
+
+ 
+
+4.2
+On termination of this Agreement, Henis’s
+payment obligations will continue only with respect to SOW tasks, which have been completed till the terminaticn date.
+
+ 
+
+5.
+Ownership of IP.
+
+ 
+
+5.1
+Mutual Retention of Background IPR
+. Each
+Party shall retain all right, title and interest in and to such Party’s Background IPR, Background Technology and Trademarks.
+
+ 
+
+5.2
+Deliverables
+.
+
+ 
+
+5.2.1
+Provided
+Henis pays Maris as required under this Agreement, Deliverables will belong exclusively to Henis.
+
+ 
+
+5.2.2
+In the event that, after successful execution
+of this Agreement, Henis decides not to produce the WDDV, Maris will have the right to manufacture and sell the WDDV, provided that the
+payback mechanism, defined in Sc
+hedule C,
+ continues.
+
+ 
+
+6.
+Confidential Information. 
+The parties
+will sign a separate Mutual Non-Disclosure Agreement 
+(“NDA”). 
+Any disclosures of confidential or proprietary information
+(as defined in the NDA) shall be subject to the NDA.
+
+ 
+
+2
+
+ 
+
+ 
+
+7.
+Relationship of Parties. 
+Maris is an independent
+contractor and shall not be considered an agent or employee of Henis.
+
+ 
+
+8.
+Limitation of Liability. 
+Neither party
+shall be liable for any indirect or consequential damages of any kind nor any lost profits or revenue, arising out of or under this Agreement.
+The total aggregate liability of either party for any damages or losses arising out of this Agreement will, in no event, exceed the total
+amount paid or payable by Henis to Maris for he SOW performance under this Agreement.
+
+ 
+
+9.
+Assignment. 
+Each Party shall not assign
+or transfer this Agreement any third party without the prior written consent of the other Party, which shall not be unreasonably withheld.
+
+ 
+
+10.
+General. 
+All notices hereunder will be
+in writing. Subject to the NDA, this Agreement constitutes the entire agreement between Henis and Maris pertaining to the subject matter
+hereof, and supersedes any and all written or oral agreements with respect to such subject ma ter. This Agreement may only be amended
+by a writing signed by both parties.
+
+ 
+
+11.
+Governing Law. 
+This Agreement shall be
+exclusively governed by and construed in accordance with the laws of Israel and the competent courts of Israel shall have exclusive jurisdiction
+with respect to any dispute between the parties pertaining to the subject matter hereof.
+
+ 
+
+EV WITNESS WHEREOF, 
+the Parties have signed
+this Agreement as of the dates set out below.
+
+ 
+
+Henis
+ Hardware Co., LTD
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature:  
+
+/s/ Henry Jiang
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+Henry Jiang
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+CEO
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+March 28, 2014
+
+ 
+
+ 
+
+Maris Technologies Marketing Ltd.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature:  
+
+/s/ Israel Bar
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+Israel Bar
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+CEO
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+March 28, 2014
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+SCHEDULE
+A
+ - 
+Product Definition
+ – 
+Omitted
+
+ 
+
+SCHEDULE
+B
+ – 
+Deliverables 
+– 
+Omitted
+
+ 
+
+SCHEDULE
+C
+ - 
+Development Payments
+
+ 
+
+SCHEDULE
+D
+ - 
+Production Royalties 
+– 
+Omitted
+
+ 
+
+4
+
+ 
+
+ 
+
+SCHEDULE C
+
+ 
+
+Development Payments
+
+ 
+
+1.
+Development
+Payments
+
+ 
+
+Henis will pay Maris development payment of [***]
+as follows:
+
+ 
+
+●
+Advanced
+payment upon agreement - 4,0%
+
+ 
+
+●
+Working
+prototype delivery - 40%
+
+ 
+
+●
+Product’s
+acceptance - 20%
+
+ 
+
+2.
+Payback
+Mechanism
+
+ 
+
+[***]
+
+ 
+
+5
+
+ 
+
+ 
+
+Confidentiality
+Agreement
+
+ 
+
+This Confidentiality Agreement (“Agreement”)
+by and between 
+Henis Hardware Co., LTD, 
+a Chinese company, with offices at Rm 701, Shimao Building 5, No 68 Tahu Avenue 214021,Wuxi
+China 
+(“Henis”) 
+and Maris Technologies Marketing Ltd. (“Maris”) an Israeli corporation with principal offices
+at 1 Hamada St. Rehovot, 76703 Israel is entered inlo for good and valuable consideration the adequacy of which is acknowledged by the
+parties.
+
+ 
+
+WHEREAS 
+Henis is engaged in the development,
+manufacture, and marketing of Digital Door Viewing (“DDV”) solutions;
+
+ 
+
+WHEREAS 
+Maris develops and manufactures
+a variety of high-end, low-power, miniature and features enriched Video System-on-Module (VS0M) solutions, used as computer modules in
+the embedded systems market;
+
+ 
+
+WHEREAS 
+each party is willing to disclose
+its Confidential Information to the other party, for the purpose of enabling the receiving execute a joint development agreement and to
+induce such disclosure Henis and Maris desire to undertake certain obligations of confidentiality and nondisclosure as set forth herein.
+
+ 
+
+NOW THEREFORE, 
+in consideration of the
+mutual undertakings and promises herein, the parties hereto hereby agree as follows:
+
+ 
+
+1.
+Definition of Confidential Information. 
+For
+the purposes of this Agreement, 
+“Confidential Information” 
+means that information disclosed by one party to the other,
+including but not limited to the terms and conditions of this Agreement, the existence of the discussions between the parties, trade secrets
+of the parties, any non-public information relating to a party’s plans, designs, ideas, concepts, costs, prices, finances, marketing
+plans, business opportunities, personnel, research, development or know-how and any other non-public technical or business information
+of a party, or that a party identifies in writing as confidential before or within thirty days after disclosure to the other party or
+is otherwise reasonably determined to be of value and is treated as confidential. Confidential Information does not, however, include
+information that: (a) is now or subsequently becomes generally available to the public through no fault or breach on the part of the receiving
+party; (b) the receiving paity can demonstrate to have had rightfully in its possession without an obligation of confidentiality prior
+to disclosure hereunder; (c) is independently developed by the receiving party without the use of any Confidential Information of disclosing
+party as evidenced by written documentation; or (d) the receiving party rightfully obtains from a third party who has the right to transfer
+or disclose it and who provides it without a confidentiality obligation.
+
+ 
+
+2.
+Non-Disclosure and Non-Use of Confidential
+Information 
+The Confidential Information is provided for the purpose of discussions regarding technology and business relationship
+(the 
+“Business Purpose”). 
+Where relevant, the receiving party will not disclose, publish or disseminate Confidential
+Information to anyone other than those of its employees who need to know for the Business Purpose, and the receiving party will take reasonable
+precautions to prevent any unauthorized use, disclosure, publication or dissemination of Confidential Information. The receiving paity
+accepts Confidential Information for the Business Purpose and in connection with the business discussion regarding the Business Purpose
+hereunder. The receiving party will not use Confidential Information other than for the Business Purpose for its own or any third party’s
+benefit without the prior written approval of an authorized representative of the other party.
+
+ 
+
+3.
+No Warranty. 
+All Confidential Information
+is provided 
+“AS IS” 
+and without any warranty, express, implied or otherwise, including but not limited to any warranties
+regarding its accuracy, completeness, performance or non-infringement of third party rights or its merchantability or fitness for a particular
+purpose.
+
+ 
+
+4.
+Return of Documents. 
+Within ten (10) business
+days of receipt of a written request by the disclosing party, the receiving party will return to the disclosing party all documents, records
+and copies thereof containing Confidential Information of the disclosing party. For purposes of this Section 4, 
+“documents”
+
+means all information fixed in any tangible medium of expression in whatever form or format.
+
+ 
+
+6
+
+ 
+
+ 
+
+5.
+No License. 
+The parties acknowledges and
+agree that nothing contained in this Agreement will be construed as granting the any rights, by license or otherwise, to any of the other
+party’s Confidential Information except as expressly set forth in this Agreement.
+
+ 
+
+6.
+Equitable Relief. 
+The receiving party
+acknowledges that all of the Confidential Information is owned solely by the disclosing party (or its licensors) and that the unauthorized
+disclosure or use of such Confidential Information would cause irreparable harm and significant injury, the degree of which may be difficult
+to ascertain. Accordingly, the parties agree each will have the right to obtain an immediate injunction enjoining any breach of this Agreement,
+as well as the right to pursue any and all other rights and remedies available at law or in equity for such a breach.
+
+ 
+
+7.
+General. 
+This Agreement constitutes the
+entire agreement with respect to the Confidential Information disclosed hereunder and supersedes all prior or contemporaneous oral or
+written agreements concerning such Confidential Information. This Agreement may not be amended except by the written agreement signed
+by authorized representatives of both parties. This Agreement will be governed by and construed in accordance with the laws of the State
+of Massachusetts, without regard to or application of choice-of-law rules or principles and the parties submit to that jurisdiction. The
+parties may not assign this Agreement or transfer any benefits hereunder or Confidential Information, directly or indirectly (through
+acquisition, merger or otherwise), and any attempt to do so will be void without the prior written consent of the other party. The relationship
+of the parties is that of independent contractors, and not of agency, partners, joint ventures or the like. If the receiving party receives
+notice that it may be required or ordered by any judicial or governmental entity to disclose Confidential Information of the disclosing
+party, it will take all necessary steps to give the disclosing party sufficient prior notice in order to contest such requirement or order.
+
+ 
+
+8.
+Term of Obligations. 
+This Agreement will remain in effect for five (5) years from the date of the
+last disclosure of Confidential Information, at which time it will terminate.
+
+ 
+
+7
+
+ 
+
+ 
+
+The duly authorized representatives of the parties
+having executed this Agreement as of the latter of the signature dates set forth below
+
+ 
+
+Maris Technologies
+ Marketing Ltd.:
+
+ 
+
+Henis Hardware
+ Co., LTD
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature  
+
+/s/
+ Israel Bar
+
+ 
+
+Signature  
+
+/s/
+ Jiang Feng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Print
+ name 
+
+Israel
+ Bar
+
+ 
+
+Print
+ name  
+
+Jiang
+ Feng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title
+
+CEO
+
+ 
+
+Title
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date
+
+2/3/14
+
+ 
+
+Date
+
+ 
+
+ 
+
+ 
+
+8

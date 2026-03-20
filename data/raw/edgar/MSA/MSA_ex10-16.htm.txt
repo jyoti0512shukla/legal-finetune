@@ -1,0 +1,4594 @@
+EX-10.16
+
+2
+
+ex10-16.htm
+
+KOMAINU CUSTODIAL SERVICES AGREEMENT
+
+ 
+
+ 
+
+CoinShares Valkyrie Bitcoin Fund Form 8-K
+
+Exhibit 10.16
+
+ 
+
+CERTAIN
+IDENTIFIED INFORMATION HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) WOULD BE COMPETITIVELY HARMFUL
+IF PUBLICLY DISCLOSED. THE REDACTED TERMS HAVE BEEN MARKED WITH THREE ASTERISKS [***].
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+Master
+Services Agreement
+
+ 
+
+between
+ 
+
+ 
+
+KOMAINU
+(JERSEY) LIMITED
+  
+
+ 
+
+ 
+
+  
+
+and
+
+ 
+
+COINSHARES VALKYRIE
+BITCOIN FUND
+  
+
+ 
+
+Effective
+Date: September 27, 2024 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+CONTENTS
+
+ 
+
+1.   
+
+INTERPRETATION
+
+1
+
+2.   
+
+STRUCTURE OF AGREEMENT
+
+6
+
+3.   
+
+LIMITATIONS OF APPOINTMENT
+
+7
+
+4.   
+
+ASSURANCE
+
+8
+
+5.   
+
+ONBOARDING
+
+9
+
+6.   
+
+PROPER INSTRUCTIONS
+
+9
+
+7.   
+
+COMPLIANCE WITH LAW
+
+11
+
+8.   
+
+FINANCIAL MATTERS
+
+12
+
+9.   
+
+INTELLECTUAL PROPERTY
+
+14
+
+10.   
+
+LIMITATION
+
+15
+
+11.   
+
+CONFIDENTIALITY
+
+17
+
+12.   
+
+PERSONAL DATA PROCESSING
+
+19
+
+13.   
+
+NON-SOLICITATION OF PERSONNEL
+
+19
+
+14.   
+
+TERMINATION
+
+19
+
+15.   
+
+NOTICES
+
+22
+
+16.   
+
+MISCELLANEOUS
+
+22
+
+17.   
+
+GOVERNING LAW, JURISDICTION
+
+24
+
+APPENDIX
+ 
+(Data Processing Agreement)
+
+26
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+MASTER
+SERVICES AGREEMENT
+
+ 
+
+THIS
+MASTER SERVICES AGREEMENT
+ is made as of September 27, 2024 (the “
+Effective Date
+”)
+
+ 
+
+BETWEEN:
+
+ 
+
+(1)
+KOMAINU
+ (JERSEY) LIMITED
+, a private limited company incorporated under the laws of Jersey, Channel
+ Islands (with registered number 127169) having its registered address at 3rd Floor, 2 Hill
+ Street, St. Helier, Jersey, JE2 4UA, Channel Islands (“
+Komainu
+”); and
+
+ 
+
+(2)
+COINSHARES
+ VALKYRIE BITCOIN FUND
+, a statutory trust created under the laws of Delaware (with registered
+ number 4791353), with its registered agent CSC Delaware Trust Company at 251 Little Falls
+ Drive, Wilmington, DE 19808 (the “
+Client
+”),
+
+ 
+
+(together,
+the “
+Parties
+”, each of the same, a “
+Party
+”).
+
+ 
+
+WHEREAS:
+
+ 
+
+(A)
+Komainu
+ is a provider of institutional-grade custody services (together with various services ancillary
+ thereto) in connection with Assets.
+
+ 
+
+(B)
+The
+ Client wishes to procure various Services from time to time from Komainu in relation to its
+ Assets and Komainu has agreed to provide such Services.
+
+ 
+
+(C)
+The
+ Parties wish to establish an overall contractual framework for the provision and delivery
+ of such Services to the Client and wish to record herein their agreement that the provision
+ of any Services by Komainu for the benefit of the Client shall be governed by this MSA and
+ the associated Order Forms.
+
+ 
+
+THE
+PARTIES HEREBY AGREE AS FOLLOWS:
+
+ 
+
+1.
+INTERPRETATION
+
+ 
+
+1.1
+In
+ this MSA, unless the context otherwise requires, the following capitalised terms shall bear
+ the following meanings:
+
+ 
+
+“
+Affiliate
+”
+means, in relation to a person, any other person that directly or indirectly is Controlled by, that Controls, or is under common Control
+with such person;
+
+ 
+
+“
+Agreement
+”
+means, together, this MSA and all Order Forms, as the same may be amended or supplemented from time to time in accordance with its terms;
+
+ 
+
+“
+AML
+Obligations
+” means, in connection with a Party, the obligations placed upon that Party under the money laundering counter-terrorist
+financing, sanctions, non-proliferation, anti-bribery, anti-corruption and anti-trafficking statutes (and implementing regulations) and
+any related or similar rules, regulations or guidelines, issued, administered or enforced by any governmental agency with jurisdiction
+over such Party;
+
+ 
+
+“
+Asset
+”
+means a type of digital asset in connection with which Komainu from time to time provides one or more classes of Services;
+
+ 
+
+“
+Authentication
+Procedures
+” has the meaning set out in Clause 6.1;
+
+ 
+
+“
+Break
+Fee
+” means the fee payable by the Client to Komainu in accordance with the provisions of an Order Form (and “
+Break
+Fees
+” shall mean all such fees under all subsisting Order Forms);
+
+ 
+
+“
+Business
+Day
+” means any day other than a weekend or a public holiday in the United Kingdom;
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+1
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+“
+Chosen
+Currency
+” means:
+
+ 
+
+(a)
+by
+ default, USD;
+
+ 
+
+(b)
+a
+ Fiat Currency supported by Komainu and selected by the Client during the application of the
+ Onboarding Procedures; or
+
+ 
+
+(c)
+such
+ other Fiat Currency as the Parties may agree in writing should apply instead;
+
+ 
+
+“
+Confidential
+Information
+” means information (which may include commercially sensitive and technical information) relating to the business
+or affairs of a Party or its Affiliates, including:
+
+ 
+
+(a)
+the
+ Agreement, its subject matter and any discussions between the Parties (or their representatives)
+ prior to the Effective Date relating to its subject matter;
+
+ 
+
+(b)
+any
+ cryptographic private key;
+
+ 
+
+(c)
+the
+ fact of any association between a public wallet address and the Client or any Client User;
+
+ 
+
+(d)
+the
+ business methods and plans, financial information, products (and design thereof), services,
+ processes and procedures, operations, product development and research, innovations, marketing
+ strategies and opportunities, market analysis, advertising initiatives, acquisition or business
+ contraction initiatives, operational systems, technical data and development, inventions,
+ trade secrets and know-how of, generated by, or otherwise belonging to or produced for a
+ Party or an Affiliate thereof;
+
+ 
+
+(e)
+any
+ IP Rights belonging to a Party or an Affiliate thereof; and
+
+ 
+
+(f)
+any
+ other information that is by its nature confidential,
+
+ 
+
+whether
+in written, oral, in electronic form or in any other media, regardless of whether such information is identified as confidential at the
+time of disclosure;
+
+ 
+
+“
+Control
+”
+of any person means ownership of a majority of the voting power of the person concerned (and “
+Controlled
+” shall be
+interpreted accordingly);
+
+ 
+
+“
+Controller
+”
+has the meaning set out in the APPENDIX 
+(Data Processing Agreement)
+;
+
+ 
+
+“
+Custodial
+Services
+” means the institutional-grade custodial services Komainu (or its Affiliates) provide to the Client in respect of
+the Assets in accordance with the Agreement (and as further detailed in an Order Form);
+
+ 
+
+“
+Data
+Protection Obligations
+” has the meaning set out in the APPENDIX 
+(Data Processing Agreement
+);
+
+ 
+
+“
+Delete
+”
+means to remove, obliterate and destroy Personal Data, Confidential Information or a cryptographic private key (in each case, as the
+context requires), to the extent technically feasible, such that the same cannot be recovered or reconstructed;
+
+ 
+
+“
+Disclosing
+Party
+” has the meaning set out in Clause 11.1;
+
+ 
+
+“
+Due
+Date
+” has the meaning set out in Clause 8.3(b);
+
+ 
+
+“
+Effective
+Date
+” has the meaning set out on page 1 of this MSA;
+
+ 
+
+“
+Expenses
+”
+has the meaning set out in Clause 8.2(a);
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+2
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+“
+Fiat
+Currency
+” means the coin and paper money of a country that:
+
+ 
+
+(a)
+is
+ designated as its legal tender;
+
+ 
+
+(b)
+circulates
+ in that country; and
+
+ 
+
+(c)
+is
+ customarily used and accepted as a medium of exchange in that country,
+
+ 
+
+including
+any digital representation thereof used to electronically transfer value;
+
+ 
+
+“
+Initial
+Term
+” means the initial term of the Order Form, as specified therein;
+
+ 
+
+“
+IP
+Rights
+” means:
+
+ 
+
+(a)
+patents,
+ inventions, trademarks, service marks, trade names, logos, domain names, business names,
+ rights in designs, copyright (including rights in computer software), database rights, goodwill,
+ rights in get-up and all other intellectual property rights, in each case whether registered
+ or unregistered and in whatsoever medium recorded, which may now or in the future subsist
+ anywhere in the world, together with applications (and the rights to apply) for the grant
+ of any of the foregoing (and corresponding applications, renewals, extensions, divisions
+ and continuations thereof), together with any associated know-how, methods, concepts, processes
+ and preparatory materials; and
+
+ 
+
+(b)
+all
+ similar or equivalent rights or forms of protection to any of the rights contemplated under
+ (a);
+
+ 
+
+“
+Losses
+”
+means any and all losses, liabilities, damages, actions, proceedings, claims, demands, costs, charges, taxes (excluding any income taxes
+assessable in respect of Sums Due), interest, penalties, assessments and expenses (including all legal, professional and other expenses
+and amounts reasonably paid in settlement) asserted against or paid, suffered or incurred by a Party;
+
+ 
+
+“
+Master
+Services Agreement
+” (or “
+MSA
+”) means these terms and conditions, including the APPENDIX 
+(Data Processing
+Agreement)
+;
+
+ 
+
+“
+Materials
+”
+means any electronic medium or platform, software, hardware, equipment, devices, documents, materials or other items delivered or made
+available from time to time by (or on behalf of) Komainu to the Client under the Agreement;
+
+ 
+
+“
+Notifying
+Party
+” has the meaning set out in Clause 14.5(b);
+
+ 
+
+“
+Onboarding
+Charge
+” means the fee (if any) payable by the Client to Komainu in accordance with the provisions of an Order Form, in connection
+with the onboarding activities undertaken by Komainu in respect of the relevant Services to which the Order Form relates (and “
+Onboarding
+Charges
+” shall mean all such fees under all subsisting Order Forms);
+
+ 
+
+“Onboarding
+Procedures
+” means the policies and procedures of Komainu related to the onboarding of its clients, as may be refined and updated
+by Komainu from time to time;
+
+ 
+
+“
+Order
+Form
+” means an order form entered into between the Parties, in accordance with the process specified in Clause 2, to document
+specific terms and conditions applicable in addition to the MSA in respect of the provision of a particular class of Services;
+
+ 
+
+“
+Permits
+”
+means governmental, legal and regulatory authorisations, including permits, registrations, filings, licences or other similar approvals,
+consents or exemptions from obtaining any of the foregoing;
+
+ 
+
+“
+Personal
+Data
+” has the meaning set out in the APPENDIX 
+(Data Processing Agreement)
+;
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+3
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+“
+Personnel
+”
+means, in connection with a Party, its directors, officers, employees, non-employee workers, agents, auditors, consultants, contractors
+and sub-contractors;
+
+ 
+
+“
+Processing
+”
+has the meaning set out in the APPENDIX 
+(Data Processing Agreement)
+;
+
+ 
+
+“
+Proper
+Instructions
+” means instructions provided by (or on behalf of) the Client to Komainu in accordance with Clause 6;
+
+ 
+
+“
+Receiving
+Party
+” has the meaning set out in Clause 11.1;
+
+ 
+
+“
+Renewal
+Period
+” means a renewal period applicable to an Order Form, as specified therein;
+
+ 
+
+“
+Sanctioned
+Person
+” means any legal person, country, territory or other jurisdiction who (or which) is the subject or target of any economic,
+financial or trade sanctions or embargoes, export controls or other restrictive measures imposed by the United Nations, the United States
+of America (including as prescribed by the U.S. Office of Foreign Assets Control (‘OFAC’)), the European Union, a member
+state of the EU, Jersey, Singapore or the United Kingdom (including as prescribed on HM Treasury’s Consolidated List);
+
+ 
+
+“
+Security
+Procedures
+” means, in respect of the Services, Komainu’s policies, procedures and instructions designed to protect physical
+and information security of Confidential Information and Client Assets, as may be refined and updated by Komainu from time to time;
+
+ 
+
+“
+Service
+Fee
+” means the fee payable by the Client to Komainu under an Order Form in respect of the provision of Services provided pursuant
+to that Order Form, the application and determination of which shall also be subject to Clause 8 (and “
+Service Fees
+”
+shall mean all of such fees under all subsisting Order Forms);
+
+ 
+
+“
+Services
+”
+means the various services to be provided by Komainu to the Client pursuant to the Agreement;
+
+ 
+
+“
+Standard
+of Care
+" has the meaning set out in Clause 4.1.
+
+ 
+
+“
+Sum
+Due
+” means each and any of:
+
+ 
+
+(a)
+the
+ Service Fees;
+
+ 
+
+(b)
+Expenses;
+
+ 
+
+(c)
+Onboarding
+ Charges;
+
+ 
+
+(d)
+Transaction
+ Fees;
+
+ 
+
+(e)
+Break
+ Fees; and
+
+ 
+
+(f)
+any
+ other amount payable by the Client to Komainu under the Agreement,
+
+ 
+
+which,
+in each case, has become due in accordance with the terms of the Agreement (and “
+Sums Due
+” shall mean any or all of
+the same as the context requires);
+
+ 
+
+“
+Theft
+”
+means unauthorised access to Komainu’s systems by a third party resulting in a reduction of the amount of Assets held by Komainu
+on behalf of the Client; and
+
+ 
+
+“
+Transaction
+Fee
+” means the transaction fees payable by the Client to Komainu in accordance with the provisions of an Order Form (and “
+Transaction
+Fees
+” shall mean all such fees under all subsisting Order Forms).
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+4
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+1.2
+The
+ following order of priority shall apply in the event of a conflict between provisions of
+ the following:
+
+ 
+
+(a)
+the
+ Order Form;
+
+ 
+
+(b)
+the
+ Schedules to the Order Form;
+
+ 
+
+(c)
+this
+ MSA;
+
+ 
+
+(d)
+the
+ Appendix to this MSA;
+
+ 
+
+(e)
+the
+ Security Procedures; and
+
+ 
+
+(f)
+the
+ Onboarding Procedures.
+
+ 
+
+1.3
+Each
+ provision of the Agreement should be construed simply according to its fair meaning and not
+ strictly for or against any Party (notwithstanding any rule of law requiring an agreement
+ to be strictly construed against the drafting party), it being understood that:
+
+ 
+
+(a)
+the
+ Parties are sophisticated and therefore capable of assessing the merits of, and risks associated
+ with, entering into the Agreement and of independently determining whether the same is appropriate
+ or proper for it;
+
+ 
+
+(b)
+the
+ Parties have had adequate opportunity and means to retain counsel to represent their interests
+ and advise them with respect to the implications, risks and consequences of entering into
+ the Agreement; and
+
+ 
+
+(c)
+the
+ allocation of risk(s) herein, which the economic bargain also represented by the Agreement
+ takes direct account of, is an essential element of the meeting of minds which execution
+ of the Agreement is to give effect to.
+
+ 
+
+1.4
+In
+ the Agreement:
+
+ 
+
+(a)
+any
+ phrase introduced by the terms including, include, in particular, for example or any similar
+ expression(s) shall be construed as illustrative and, in each instance, be deemed to be followed
+ by the words, “without limitation”;
+
+ 
+
+(b)
+a
+ person includes an individual, a body corporate, unincorporated association of persons (including
+ a partnership), government, state, agency, organisation and any other entity whether or not
+ having separate legal personality;
+
+ 
+
+(c)
+the
+ terms will, must and shall are expressions of command or obligation and not merely expressions
+ of future intent or expectation; and
+
+ 
+
+(d)
+the
+ words hereof, herein and hereunder refer to this MSA or a particular Order Form, as applicable
+ in the context, as a whole rather than to any particular provision, Clause, Paragraph or
+ section of such agreement.
+
+ 
+
+1.5
+References
+ in the Agreement to compliance with applicable law or regulation shall mean any existing
+ or future laws, statutes, ordinances, rules, regulations, judgments, injunctions, orders
+ and decrees by any governmental or regulatory body, commission or agency purporting to have
+ jurisdiction over Komainu, Komainu’s Affiliates (where relevant), or the Client, as
+ the same may be amended from time to time, and shall include:
+
+ 
+
+(a)
+compliance
+ with lawful directions and/or instructions of a competent regulator with respect to which
+ it is reasonably believed by a Party to be mandatory for it to comply;
+
+ 
+
+(b)
+compliance
+ with relevant export controls; and
+
+ 
+
+(c)
+in
+ the case of AML Obligations, include:
+
+ 
+
+(i)
+measures
+ in force against Sanctioned Persons;
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+5
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+(ii)
+the
+ ‘travel rule’ promulgated by the Financial Action Task Force, and as implemented
+ by any relevant authority; and
+
+ 
+
+(iii)
+prompt
+ and candid disclosure to Komainu as to whether any of the Client’s ultimate beneficial
+ owners, investors or those exercising de facto Control in respect of the Client are, were
+ or have become a politically exposed person (or such similar term or classification) under
+ any applicable law and regulation.
+
+ 
+
+1.6
+Headings
+ in the Agreement are inserted for convenience and shall not affect its construction.
+
+ 
+
+1.7
+Unless
+ otherwise specified, references in:
+
+ 
+
+(a)
+this
+ MSA to Clauses, Appendices and Paragraphs are to clauses and the appendices of, or to, this
+ MSA and to paragraphs within such Appendices (which Appendices, for the avoidance of doubt,
+ form part of this MSA); and
+
+ 
+
+(b)
+in
+ an Order Form to Clauses, Schedules and Paragraphs are to clauses and the schedules of, or
+ to, that Order Form and to paragraphs within such Schedules (which Schedules, for the avoidance
+ of doubt, form part of the Order Form concerned).
+
+ 
+
+1.8
+A
+ reference to a particular law, statutory instrument or regulation is a reference to it as
+ the same may be amended, extended, or re-enacted from time to time and, in the case of any
+ law, includes any subordinate legislation for the time being in force made pursuant to it.
+
+ 
+
+1.9
+Any
+ consent or approval of a Party required under the Agreement shall be required to be obtained
+ before the act or event to which it applies is carried out or done and shall be effective
+ only when the consent or approval is given in writing.
+
+ 
+
+1.10
+Words
+ denoting an obligation on a Party to do any act, matter or thing, include an obligation to
+ procure that it be done and words placing a party under a restriction include an obligation
+ not to permit or allow infringement of such restriction.
+
+ 
+
+1.11
+In
+ the Agreement, unless the context otherwise requires:
+
+ 
+
+(a)
+a
+ reference to one gender shall include a reference to the other genders;
+
+ 
+
+(b)
+words
+ in the singular include the plural and vice-versa; and
+
+ 
+
+(c)
+any
+ act, matter or thing under this Agreement that falls on a day that is not a Business Day,
+ shall be done on the next Business Day.
+
+ 
+
+2.
+STRUCTURE
+ OF AGREEMENT
+
+ 
+
+2.1
+Framework:
+ 
+This MSA establishes the contractual framework for the provision of Services by Komainu
+ to the Client and is structured so that the Parties may enter into individual Order Forms
+ from time to time, in accordance with the procedures further detailed below in this Clause
+ 2. It is acknowledged and agreed that this MSA and all individual Order Forms constitutes
+ a single agreement between the Parties.
+
+ 
+
+2.2
+Order
+ Forms – Discretionary:
+ Entry into this MSA and any one or more Order Forms shall
+ carry with it no obligation on the part of Komainu to:
+
+ 
+
+(a)
+enter
+ into any further Order Forms; or
+
+ 
+
+(b)
+to
+ agree to a Renewal Period in connection with a subsisting Order Form.
+
+ 
+
+2.3
+Order
+ Form – Custodial Services:
+ Neither Komainu (nor its Affiliates) shall be obliged
+ to provide (and shall accordingly have the right (in their sole discretion) to suspend the
+ provision of) the Services (or any part thereof) unless the Client has entered into an Order
+ Form for Custodial Services in accordance with this MSA and such Order Form remains in full
+ force and effect.
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+6
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+3.
+LIMITATIONS
+ OF APPOINTMENT
+
+ 
+
+3.1
+No
+ Advice:
+ Nothing contained in the Agreement, nor any Materials or information otherwise
+ provided by Komainu to the Client in connection with the Agreement shall be construed to
+ constitute advice of any nature provided by Komainu to the Client in connection with the
+ merits, suitability or risks of its:
+
+ 
+
+(a)
+receipt
+ of the Services (or any part thereof);
+
+ 
+
+(b)
+acquiring,
+ holding and/or divesting itself of Assets; or
+
+ 
+
+(c)
+doing
+ otherwise with its Assets,
+
+ 
+
+in
+any jurisdiction and Komainu accepts no liability for any responsibility for loss or damage caused to the Client as a result of any reliance
+placed thereon.
+
+ 
+
+3.2
+No
+ Credit Obligation:
+ Nothing in the Agreement shall oblige Komainu to in any way extend
+ credit or grant a financial accommodation in connection with any Sum Due (or otherwise).
+
+ 
+
+3.3
+Non-Exclusivity
+ and Other Interests:
+
+ 
+
+(a)
+Without
+ prejudice to the need for any appropriate Permits, nothing in the Agreement shall prevent
+ Komainu and its Affiliates from:
+
+ 
+
+(i)
+dealing
+ as principal or agent in the sale or purchase of Assets to or from the Client, other client(s)
+ of Komainu or of other third-parties;
+
+ 
+
+(ii)
+acting
+ in any capacity for any other person;
+
+ 
+
+(iii)
+engaging
+ in any other business, activities or commercial arrangements with other persons, including
+ as may be in competition with the Client; or
+
+ 
+
+(iv)
+from
+ buying, holding and dealing in any Assets for its own account or for the account of other
+ clients or other third-parties, notwithstanding that the same or similar Assets may be held
+ or dealt in by or for the account of the Client,
+
+ 
+
+and
+Komainu shall not be deemed to be affected by notice or to be under any duty to disclose to the Client information which has come into
+Komainu’s possession as a result of any such aforementioned arrangement(s).
+
+ 
+
+(b)
+The
+ Client acknowledges and agrees that:
+
+ 
+
+(i)
+Komainu
+ and its Affiliates may have interests which are separate from Komainu’s role in connection
+ with the Agreement and the transactions it contemplates; and
+
+ 
+
+(ii)
+subject
+ to their compliance with prevailing law or regulation, Komainu and its Affiliates may act
+ in their own interests in relation to any transaction (other than, in the case of Komainu,
+ where it acts specifically for the Client and only the Client under the Agreement).
+
+ 
+
+(c)
+Komainu
+ and its Affiliates shall not be liable to disclose or account to the Client for any profits
+ or benefits made or derived by, or in connection with, any transactions referred to in this
+ Clause.
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+7
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+4.
+ASSURANCE
+
+ 
+
+4.1
+Standard
+ of Care: 
+In performing the Services, Komainu shall exercise such care and skill to be
+ reasonably expected of a professional custodian for hire of assets of the same type as the
+ Assets, acting without gross negligence, wilful default or fraud, which standard of care
+ shall be deemed effectuated and satisfied if Komainu exercises such care with respect to
+ Client Assets as it exercises with respect to its own Assets and the Assets of its Affiliates.
+
+ 
+
+4.2
+Warranties:
+ 
+Each Party represents and warrants to the other Party that:
+
+ 
+
+(a)
+it
+ has the legal right, power and authority and has obtained all necessary Permits, consents
+ and authorisations to enter into and carry out its obligations under the Agreement;
+
+ 
+
+(b)
+it
+ has executed the Agreement by duly authorised persons so as to constitute valid and legally
+ binding obligations enforceable against it in accordance with their terms;
+
+ 
+
+(c)
+by
+ entering into, and performing its obligations pursuant to, the Agreement it will not be in
+ breach of any court order or any term (express or implied) of any contract or other obligation
+ (including in the nature of security) binding upon it;
+
+ 
+
+(d)
+it
+ has not violated or breached any law and regulation to which it may be subject, the violation
+ or breach of which would materially impair its ability to enter into the Agreement or perform
+ its obligations under the Agreement;
+
+ 
+
+(e)
+it
+ has the necessary skills, experience and is duly qualified to discharge its obligations under
+ the Agreement; and
+
+ 
+
+(f)
+it
+ is able to discharge its liabilities as they fall due and that, having regard to its prospects,
+ intended management and the amount and character of the financial resources that will be
+ available to it, the Party concerned will be able to continue to carry on business and discharge
+ its liabilities as they fall due for a period of not less than twelve (12) months.
+
+ 
+
+4.3
+Corrections:
+ 
+Each Party undertakes to promptly inform the other Party by notice in the event of becoming
+ aware that any of the warranties it has given contained in Clause 4.2 should no longer be
+ correct.
+
+ 
+
+4.4
+Warranty
+ Indemnity:
+ Each Party indemnifies (and shall keep indemnified) the other Party, its Personnel
+ and Affiliates from and against any and all Losses which they may incur as a result of any
+ of the warranties it has given in Clause 4.2 no longer being correct in respect of any period
+ during which the Agreement subsists.
+
+ 
+
+4.5
+Propriety:
+ 
+Each Party undertakes to the other Party that at all times during the subsistence of
+ the Agreement it:
+
+ 
+
+(a)
+shall
+ not use the Services or Materials to knowingly engage in, or support, any activity:
+
+ 
+
+(i)
+prohibited
+ under applicable law or regulation; and/or
+
+ 
+
+(ii)
+which
+ interferes with, damages or disrupts the performance and/or condition of the services which
+ Komainu can deliver; and
+
+ 
+
+(b)
+will
+ conduct itself in compliance with all applicable laws and regulations applicable to it (including
+ AML Obligations).
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+8
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+4.6
+Rectitude:
+ 
+Each Party undertakes to the other Party:
+
+ 
+
+(a)
+to
+ act diligently and in good faith; and
+
+ 
+
+(b)
+to
+ use its reasonable efforts and judgment and all due care and skill,
+
+ 
+
+in
+complying with its obligations under the Agreement.
+
+ 
+
+5.
+ONBOARDING
+
+ 
+
+5.1
+Adherence:
+ 
+To the extent not already completed pursuant to another Order Form, the Parties shall
+ comply with the Onboarding Procedures in relation to the appointment of Komainu to provide
+ the Services.
+
+ 
+
+5.2
+Information:
+
+ 
+
+(a)
+The
+ Client undertakes to provide, or procure the provision to, Komainu of such information concerning
+ the Client and its Assets as Komainu may reasonably request in connection with the performance
+ of the Services. The Client further undertakes to provide, or procure the provision of, any
+ and all information relating to its Assets and any transaction carried out by the Client
+ pursuant to the Services provided by Komainu, as Komainu may reasonably request or require
+ for the purposes of complying with all applicable laws and regulations (including any AML
+ Obligation), and the Client consents to any disclosure of such information in respect of
+ the Client by Komainu as required under any applicable laws and regulations( including any
+ AML Obligation).
+
+ 
+
+(b)
+The
+ Client:
+
+ 
+
+(i)
+authorises
+ Komainu to contact; and
+
+ 
+
+(ii)
+shall
+ procure the assistance of,
+
+ 
+
+any
+administrator, manager, investment manager, adviser or other service provider appointed by or on behalf of the Client in order for Komainu
+to obtain such information contemplated in Clause 5.2(a) as Komainu may reasonably require or which may, in Komainu’s reasonable
+opinion, be beneficial in connection with the discharge of Komainu’s responsibilities under the Agreement.
+
+ 
+
+5.3
+Commitment:
+ 
+Without prejudice to Clauses 5.1 and 5.2, the Client:
+
+ 
+
+(a)
+shall
+ ensure that the information provided to Komainu in relation to the Agreement remains accurate,
+ complete and up to date at all times;
+
+ 
+
+(b)
+acknowledges
+ that it assumes sole responsibility for the accuracy, completeness and correctness of the
+ information provided by it (or on its behalf) to Komainu during the subsistence of the Agreement;
+
+ 
+
+(c)
+acknowledges
+ that neither Komainu nor any of its Affiliates will be responsible to (or be liable for any
+ Losses suffered by) any party as a result of any inaccurate, incomplete or incorrect information
+ provided by (or on behalf of) the Client under the Agreement; and
+
+ 
+
+(d)
+shall
+ promptly (and in any event within five (5) Business Days) notify Komainu of any material
+ changes in the Client’s structural or governance arrangements, business purposes or
+ Controllers.
+
+ 
+
+6.
+PROPER
+ INSTRUCTIONS
+
+ 
+
+6.1
+Authentication:
+ 
+The Security Procedures shall set out the security and authentication controls and procedures
+ relevant to the Services (“
+Authentication Procedures
+”) in order that Komainu
+ may verify that Proper Instructions have been originated from the Client.
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+9
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+6.2
+Purpose:
+ 
+The Client acknowledges that the Authentication Procedures are designed solely to verify
+ the source and legitimacy of an instruction from the Client and not to:
+
+ 
+
+(a)
+detect
+ errors in the content of an instruction;
+
+ 
+
+(b)
+prevent
+ duplication;
+
+ 
+
+(c)
+prevent
+ contradiction within an instruction or between instructions;
+
+ 
+
+(d)
+qualitatively
+ assess the validity, suitability, merits, necessity or appropriateness of an instruction;
+ or
+
+ 
+
+(e)
+determine
+ if an instruction is in compliance with applicable law or regulation.
+
+ 
+
+6.3
+Safeguarding:
+ 
+The Client shall safeguard any Authentication Procedure which Komainu makes available
+ to it. The Client undertakes to inform Komainu immediately in the event that the Client believes
+ that any aspect of an Authentication Procedure may have been compromised.
+
+ 
+
+6.4
+Reliance:
+ 
+Komainu will be entitled to rely upon successful authentication in accordance with the
+ Authentication Procedures as conclusive evidence of:
+
+ 
+
+(a)
+the
+ identity and authority of the instructing individual to act on behalf of the Client;
+
+ 
+
+(b)
+the
+ instructions provided by that individual as Proper Instructions; and/or
+
+ 
+
+(c)
+any
+ determination or any action by the Client.
+
+ 
+
+6.5
+Oral
+ Instructions:
+ The Client acknowledges that in no circumstances may Proper Instructions
+ be given orally.
+
+ 
+
+6.6
+Standing
+ Instructions:
+ A Proper Instruction may be a standing instruction in accordance with its
+ terms, which instruction shall continue in force until such time as Komainu has received,
+ and had reasonable time to act upon, a further Proper Instruction amending, superseding or
+ terminating the earlier Proper Instruction.
+
+ 
+
+6.7
+Purported
+ Instructions:
+ Any purported Proper Instruction received by Komainu in accordance with
+ an Authentication Procedure or otherwise reasonably believed by it to be a Proper Instruction
+ shall be deemed to have originated from the Client and shall constitute a Proper Instruction.
+
+ 
+
+6.8
+Incomplete
+ Instructions:
+ Komainu shall have no obligation to act in accordance with a Proper Instruction
+ to the extent that such Proper Instruction is incomplete or unclear.
+
+ 
+
+6.9
+Ultra
+ Vires Instructions:
+ Komainu shall have no obligation to act in accordance with a Proper
+ Instruction to the extent that such Proper Instruction is regarded by Komainu, acting reasonably,
+ as being in conflict with:
+
+ 
+
+(a)
+applicable
+ law or regulation;
+
+ 
+
+(b)
+the
+ Security Procedures; or
+
+ 
+
+(c)
+the
+ provisions of the Agreement.
+
+ 
+
+6.10
+Notification:
+ 
+Komainu shall notify the Client as soon as reasonably practicable of any decision it
+ takes not to comply with all or part of an instruction from the Client which is subject to
+ the application of Clauses 6.8 or 6.9 above and the reasons therefor (unless prevented by
+ any applicable law or regulation from so doing).
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+10
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+6.11
+Indemnity:
+ 
+The Client indemnifies (and shall keep indemnified) Komainu and Komainu’s Personnel
+ from and against any and all Losses which they may incur as a result of:
+
+ 
+
+(a)
+their
+ acting on Proper Instructions;
+
+ 
+
+(b)
+any
+ delay, mis-delivery or error in transmission of any Proper Instructions; or
+
+ 
+
+(c)
+their
+ acting, in good faith, upon any forged or unauthorised document or signature.
+
+ 
+
+7.
+COMPLIANCE
+ WITH LAW
+
+ 
+
+7.1
+Compliance
+ with Client Permits:
+ Komainu shall:
+
+ 
+
+(a)
+at
+ all times during this subsistence of the Agreement, act in accordance with any conditions
+ or requirements which are specified within or as part of any Permit which is essential for
+ the conduct of the Client’s business; and
+
+ 
+
+(b)
+provide
+ the Client upon its request with all such information, explanations and reports as may reasonably
+ be required of Komainu in relation to the discharge of its duties hereunder in order for
+ the Client to comply with its regulatory obligations,
+
+ 
+
+in
+each case PROVIDED THAT:
+
+ 
+
+(A)
+Komainu
+ is notified in advance of any such relevant conditions or requirements (and any changes to
+ them); and
+
+ 
+
+(B)
+any
+ such relevant conditions or requirements (and any changes to them) do not conflict with law
+ or regulation applicable to Komainu or the provisions of the Agreement.
+
+ 
+
+7.2
+Regulatory
+ obligations:
+
+ 
+
+(a)
+The
+ Client acknowledges that Komainu’s duties to the Client under the Agreement are subject,
+ at all times, to any supervening requirement of applicable law, regulation and the Security
+ Procedures.
+
+ 
+
+(b)
+To
+ the extent that Komainu is required to act in any way which is inconsistent with the Client’s
+ instructions or requirements pursuant to the application of Clause 7.2(a) above, Komainu
+ shall (to the extent it is legally permitted to do so) notify the Client promptly, outlining,
+ in reasonable detail, the reason why Komainu is taking the action it is taking.
+
+ 
+
+(c)
+The
+ Client acknowledges that Komainu and its Personnel may be required to report transactions
+ that raise a suspicion of unlawful conduct and the identity of the Client and details of
+ Assets to relevant law enforcement agencies or regulatory authorities (and that, in such
+ circumstances, it is likely that Komainu would be prevented by law from informing the Client
+ of such disclosure(s)).
+
+ 
+
+(d)
+If
+ the application of the applicable law, regulation or Security Procedures should be unclear
+ in the particular circumstances, the required actions of Komainu shall be for Komainu to
+ judge, acting in good faith and in accordance with the standard(s) of care set out in the
+ relevant Order Forms for the classes of Services concerned.
+
+ 
+
+(e)
+Notwithstanding
+ any other provision of the Agreement to the contrary, Komainu shall not be liable to the
+ Client in respect of any action or omission of Komainu (whether nominally in breach of the
+ Agreement or otherwise) taken, omitted to be taken or which Komainu desists from taking further:
+
+ 
+
+(i)
+in
+ compliance with this Clause 7.2; or
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+11
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+(ii)
+(otherwise)
+ pursuant to commercially reasonable risk management procedures.
+
+ 
+
+7.3
+Legal
+ and Regulatory Changes:
+
+ 
+
+(a)
+Recognition:
+ 
+The Client acknowledges that digital-assets are a comparatively new asset-class and that
+ the legal and regulatory environment concerning their ownership, custody and transfer is
+ in a state of development and evolution.
+
+ 
+
+(b)
+Notification
+ to Client:
+ In the event of a change in law or regulation applicable in the context of
+ Assets which:
+
+ 
+
+(i)
+materially
+ impairs Komainu’s ability to perform the Services, or any class of Services, pursuant
+ to the Agreement; or
+
+ 
+
+(ii)
+results
+ in a materially increased cost burden or material reduction in commercial margin for Komainu,
+
+ 
+
+Komainu
+shall notify the Client as soon as reasonably practicable (and, where possible, in advance of the change in law or regulation becoming
+effective).
+
+ 
+
+(c)
+Negotiation:
+ 
+Following delivery of such notification to the Client, the Parties shall, in good faith,
+ negotiate amendments to the Agreement to appropriately account as between them for the impact
+ (both in terms of financial and risk impact) of the anticipated change in law or regulation,
+ it being agreed that it is the Parties’ intention with respect to such amendment(s)
+ that:
+
+ 
+
+(i)
+Komainu
+ shall be entitled to pass on to its clients, including the Client (by way of an increased
+ Service Fee) the cost of compliance with any such change in applicable law or regulation;
+
+ 
+
+(ii)
+the
+ Client shall not be disproportionately prejudiced by any increase in Service Fee under the
+ Agreement relative to the treatment received by Komainu’s other clients; and
+
+ 
+
+(iii)
+the
+ amendments shall focus only on the rights and obligations of the Parties under the Agreement
+ which are affected by the relevant change in applicable law or regulation, and shall not
+ be used as a catalyst to effect broader commercial changes to the balance of risk and reward
+ for the Parties under the Agreement.
+
+ 
+
+8.
+FINANCIAL
+ MATTERS
+
+ 
+
+8.1
+Remuneration
+:
+
+ 
+
+(a)
+Each
+ Order Form will specify the Service Fee due and payable by the Client to Komainu in respect
+ of the Services provided under that Order Form.
+
+ 
+
+(b)
+The
+ provisions of this Clause 8 shall apply in respect of each such Service Fee.
+
+ 
+
+8.2
+Expenses:
+
+ 
+
+(a)
+The
+ Client shall reimburse Komainu for the following (together, “
+Expenses
+”):
+
+ 
+
+(i)
+all
+ reasonable out-of-pocket expenses (including reasonable charges for non-local telephone calls,
+ postage, printing and publication costs) incurred by Komainu in connection with the performance
+ of its obligations under the Agreement; and
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+12
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+(ii)
+any
+ and all third-party costs incurred by Komainu in connection with enforcement of its rights
+ under the Agreement (including reasonable lawyers’ fees and disbursements).
+
+ 
+
+(b)
+Unless
+ agreed otherwise under an Order Form, Expenses arising shall be invoiced to the Client on
+ a monthly basis as and when incurred (or, if earlier, agreed to be incurred).
+
+ 
+
+8.3
+Invoicing:
+
+ 
+
+(a)
+Komainu
+ may only issue invoices for a Sum Due in the Chosen Currency and in accordance with:
+
+ 
+
+(i)
+the
+ financial provisions schedule detailed in the relevant Order Form; and/or
+
+ 
+
+(ii)
+this
+ MSA.
+
+ 
+
+(b)
+The
+ Client will pay a Sum Due to which a validly issued invoice relates, within thirty (30) calendar
+ days after the receipt of the relevant invoice (“
+Due Date
+”).
+
+ 
+
+8.4
+Settlement:
+
+ 
+
+(a)
+Payment
+ of any Sum Due shall be made by transfer into Komainu’s nominated bank account.
+
+ 
+
+(b)
+The
+ Client undertakes that all payments of Sums Due will be made to Komainu from an account in
+ the Client’s name (or in the name of an Affiliate of the Client, such Affiliate as
+ pre-advised to Komainu) which, in each case, shall be with a reputable bank reasonably acceptable
+ to Komainu.
+
+ 
+
+8.5
+Payment
+ Defaults:
+
+ 
+
+(a)
+Komainu
+ may charge interest in respect of any Sums Due which are not paid by the Due Date, at a rate
+ per annum of the higher of: (i) any applicable statutory default interest rate; or (ii) four
+ percent (4%) above Barclays Bank Plc’s base rate, such interest to be calculated on
+ a daily basis from the date the payment becomes overdue until the date payment of the relevant
+ Sum Due to Komainu is made in full.
+
+ 
+
+(b)
+Without
+ prejudice to Clause 8.5(a), if any Sum Due should remain unpaid (in whole or in part) more
+ than thirty(30) calendar days after the relevant Due Date, Komainu shall have the right to
+ suspend all or part of the Services provided to the Client under the Agreement until the
+ Sum Due is paid in full.
+
+ 
+
+8.6
+Set-Off:
+
+ 
+
+(a)
+The
+ Client may not make deductions from any Sums Due in respect of any claim by the Client against
+ Komainu under the Agreement or otherwise.
+
+ 
+
+(b)
+With
+ prior notice to the Client, Komainu may set-off any amounts owed to Komainu by the Client
+ against any amounts owed by Komainu to the Client. For the purposes of the foregoing, if
+ any obligation of the Client is unliquidated or unascertained, Komainu may set-off an amount
+ estimated by it in good faith to represent the amount of the obligation.
+
+ 
+
+8.7
+Taxes
+:
+
+ 
+
+(a)
+Exclusivity:
+
+ 
+
+(i)
+All
+ Sums Due are exclusive of any tax, levy or similar charge that may be assessed by any jurisdiction
+ or whatever authority that has a power to tax and whether based on gross revenue, the delivery,
+ possession or use of the Services or Materials, the execution or performance of the Agreement
+ or otherwise.
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+13
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+(ii)
+In
+ particular, all Sums Due shall be exclusive of any value-added tax and/or any goods and services
+ taxes, sales or use taxes, or any other similar tax in any relevant jurisdiction. To the
+ extent that any of such value-added or similar taxes are chargeable, the Client shall, in
+ addition to any amount expressed under the Agreement to be payable by it, pay to Komainu
+ such taxes (save to the extent that the Client provides Komainu with any and all documentation
+ necessary to qualify for an exemption or exclusion from such taxes).
+
+ 
+
+(b)
+Withholding
+ and Grossing-Up:
+
+ 
+
+(i)
+If
+ under any applicable law the Client is required to withhold any tax on any Sums Due, the
+ amount of the relevant payment will be automatically increased to an amount which (after
+ withholding or deduction) leaves an amount remitted to Komainu (net of all taxes) which is
+ equal to the payment which would have been due to Komainu if no withholding or deduction
+ had been required.
+
+ 
+
+(ii)
+The
+ Client will promptly furnish Komainu with the official receipt of payment of such taxes to
+ the appropriate tax authority.
+
+ 
+
+(c)
+Responsibility:
+
+ 
+
+(i)
+Komainu
+ is not responsible for the payment or other discharge of any obligations imposed on the Client
+ in connection with its Assets (or otherwise) by the tax law of any jurisdiction.
+
+ 
+
+(ii)
+The
+ Client shall withhold, collect, report and remit all taxes due in respect of its Assets to
+ the relevant authorities.
+
+ 
+
+(iii)
+Notwithstanding
+ Clauses 8.7(c)(i) and 8.7(c)(ii), Komainu shall be permitted, and is hereby irrevocably authorised
+ and directed by the Client for the duration of the Agreement, to sign, in the name and on
+ behalf of the Client (and without further recourse to the Client), any affidavits, certificates
+ of ownership and other certificates and documents relating to its Assets (and file or lodge
+ the same), which are or may be required by any tax or regulatory authority having jurisdiction
+ in respect of such Assets. Notwithstanding such authorisation, there shall be no compulsion
+ or inference of obligation upon Komainu so to do.
+
+ 
+
+(d)
+Tax
+ Indemnity:
+ The Client indemnifies (and shall keep indemnified) Komainu from and against
+ the payment of:
+
+ 
+
+(i)
+all
+ value-added or similar taxes (and any related penalties and interest) that may arise from
+ the payment of Sums Due; and
+
+ 
+
+(ii)
+all
+ taxes (and any related penalties and interest) that may be assessed and levied against Komainu
+ in respect of the Assets of the Client.
+
+ 
+
+9.
+INTELLECTUAL
+ PROPERTY
+
+ 
+
+9.1
+Non-interference:
+ 
+The Client shall not:
+
+ 
+
+(a)
+modify,
+ disassemble, decompile, reverse-engineer, copy or otherwise attempt to derive source code
+ or other trade secrets from (or about) any Materials; or
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+14
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+(b)
+tamper
+ with or modify the Materials (including the security mechanisms within such Materials) or
+ otherwise interfere with or disrupt the integrity, operation or performance of any Materials.
+
+ 
+
+9.2
+Conditions:
+ 
+In the event that consent pursuant to Clause 11.5(a) is given to the Client by Komainu,
+ the Client acknowledges that such consent would (and shall only) be issued on the conditions
+ that:
+
+ 
+
+(a)
+Komainu’s
+ IP Rights are referenced and used in accordance with applicable intellectual property laws;
+
+ 
+
+(b)
+proper
+ attribution is given to Komainu as owner of the relevant IP Rights;
+
+ 
+
+(c)
+the
+ relevant IP Rights of Komainu are not altered or obscured when referenced; and
+
+ 
+
+(d)
+utilisation
+ of Komainu’s IP Rights is not undertaken in any manner which is likely to suggest to
+ a reasonable observer that Komainu endorses the service offering of the Client (or of any
+ third-party),
+
+ 
+
+whether
+or not such aforementioned conditions are reiterated separately (in any form or medium) at the time of the giving of the consent concerned.
+
+ 
+
+9.3
+Feedback:
+ 
+The Client acknowledges that Komainu shall own information (including all IP Rights subsisting
+ therein) relating to the Services provided in any medium by the Client to Komainu. Komainu
+ shall be entitled to unrestricted use and dissemination of such feedback for any purpose,
+ commercial or otherwise, without acknowledgement or compensation to the Client being due
+ in respect thereof.
+
+ 
+
+10.
+LIMITATION
+
+ 
+
+10.1
+DISCLAIMER:
+ 
+THE CLIENT ACKNOWLEDGES THAT THE SERVICES AND MATERIALS ARE EACH PROVIDED "AS IS".
+ ACCORDINGLY, AND WITHOUT PREJUDICE TO ANY LIABILITY WHICH MAY ACCRUE TO KOMAINU AS A RESULT
+ OF A FAILURE TO COMPLY WITH ITS OBLIGATIONS AS SET OUT IN THE AGREEMENT, TO THE FULLEST EXTENT
+ PERMITTED BY APPLICABLE LAW OR REGULATION, KOMAINU SPECIFICALLY DISCLAIMS ANY AND ALL LIABILITIES
+ ARISING OUT OF OR IN CONNECTION WITH THE SERVICES OR MATERIALS.
+
+ 
+
+10.2
+EXCLUSION:
+ 
+TO THE EXTENT PERMITTED BY APPLICABLE LAW OR REGULATION AND SAVE AS OTHERWISE EXPRESSLY
+ PROVIDED UNDER AN ORDER FORM, ALL WARRANTIES, CONDITIONS, REPRESENTATIONS, INDEMNITIES AND
+ GUARANTEES WITH RESPECT TO THE SERVICES AND MATERIALS (IN EACH CASE, WHETHER EXPRESS OR IMPLIED),
+ ARISING BY LAW, CUSTOM, PRIOR ORAL OR WRITTEN STATEMENTS BY KOMAINU, OR HOWSOEVER OTHERWISE
+ (INCLUDING ANY IMPLIED WARRANTIES WHICH CAN BE EXCLUDED LAWFULLY) ARE HEREBY EXCLUDED FROM
+ THE AGREEMENT.
+
+ 
+
+10.3
+Limitation:
+ 
+Save to the extent otherwise agreed under an Order Form, the following limits on liability
+ shall apply to the Agreement:
+
+ 
+
+(a)
+subject
+ to the limitations and exclusions outlined in this Clause 10.3, Komainu’s (and its
+ Affiliates’) liability arising out of or relating to this Agreement will be limited
+ to solely those damages that are caused directly by Komainu’s failure to satisfy the
+ Standard of Care;
+
+ 
+
+(b)
+notwithstanding
+ anything to the contrary in the Agreement, the limitations of liability contained in this
+ Clause 10.3 shall not operate to exclude (or purport to exclude) liability in circumstances
+ where, or to the extent that, to do so would be contrary to applicable law or regulation;
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+15
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+(c)
+the
+ limitations of liability contained in this Clause 10.3 shall not operate to exclude (or purport
+ to exclude) a Party’s liability for Losses caused by that Party’s own gross negligence,
+ wilful misconduct, or fraud;
+
+ 
+
+(d)
+in
+ no event shall Komainu (or its Affiliates) be liable for any reduction in the value of Assets,
+ as expressed in any currency or in another value that substitutes for currency;
+
+ 
+
+(e)
+in
+ no event shall Komainu (or its Affiliates) be liable for any Losses suffered or incurred
+ due to an event (or series of connected events) which could reasonably be considered to be
+ outside of its control;
+
+ 
+
+(f)
+in
+ no event shall Komainu (or its Affiliates) be liable for any indirect or consequential Loss,
+ loss of profits, contract, revenue, cost, opportunity, anticipated savings, business and/or
+ goodwill, in each case, arising out of or in connection with the Agreement, even if that
+ loss or damage was reasonably foreseeable or Komainu (or its Affiliates) was aware of the
+ possibility of that loss or damage arising;
+
+ 
+
+(g)
+to
+ the extent that Komainu (or its Affiliates) is liable given the limitations and exclusions
+ outlined in this Clause 10.3, Komainu’s (or its Affiliates’) liability to the
+ Client in the case of Theft shall be limited to the higher of the Service Fees (paid and/or
+ payable) by the Client in respect of the twenty-four (24) month period immediately preceding
+ the Theft, or the actual amount received by Komainu under its insurance policies maintained,
+ if any, for the Theft, or related to such claim, which shall be prorated across all clients
+ impacted by such Theft;
+
+ 
+
+(h)
+other
+ than in the case of Theft, where the provisions of Clause 10.3(g) above shall apply, to the
+ extent that Komainu (or its Affiliates) is liable given the limitation and exclusions outlined
+ in this Clause 10.3, Komainu (or its Affiliates) shall not be liable to the Client (whether
+ arising in contract, tort (including negligence), breach of statutory duty or howsoever otherwise)
+ for any sum which would result in Komainu’s (or its Affiliates’) total liability
+ under this Agreement to exceed the Service Fees (paid and/or payable) by the Client in respect
+ of the twelve (12) month period immediately preceding the event (or series of connected events)
+ giving rise to the liability hereunder.
+
+ 
+
+10.4
+Alleviation:
+ 
+Notwithstanding anything to the contrary in the Agreement, Komainu shall be relieved
+ of any liability in respect of a failure to comply with an obligation upon it under the Agreement
+ to the extent that:
+
+ 
+
+(a)
+in
+ so failing to comply with an obligation upon it hereunder, Komainu is acting upon the advice
+ of its professional advisors in relation to a matter of law, regulation and/or market practice;
+
+ 
+
+(b)
+Komainu
+ is required to comply with any order of court issued by a court or directive of a regulator,
+ in each case of competent jurisdiction over Komainu;
+
+ 
+
+(c)
+it
+ is prevented from so complying due to:
+
+ 
+
+(i)
+a
+ failure by the Client to comply with its obligations hereunder, including to provide information
+ and Proper Instructions to Komainu in a timely manner; or
+
+ 
+
+(ii)
+the
+ acts or omissions of a third-party, including transaction counterparties, in respect of whom
+ Komainu and its Affiliates have no control,
+
+ 
+
+provided
+always that Komainu promptly notifies the Client of any such perceived failing by the Client and/or third-party, and uses all reasonable
+endeavours to minimise the impact of such failure(s); or
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+16
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+(d)
+the
+ Client’s own negligence (or that of its Affiliates) contributed to the Client’s
+ Losses resulting from Komainu’s failure to comply with its obligations under the Agreement.
+
+ 
+
+10.5
+Force
+ Majeure:
+ A Party (the “
+Affected Party
+”) shall not be responsible for
+ the Losses of the other Party or for any failure to comply with the Affected Party’s
+ obligations under the Agreement (or any part thereof) if such Losses or failure is caused
+ by, or is directly or indirectly due to circumstances beyond the reasonable control of the
+ Affected Party (including industrial action or strike action; currency restrictions; suspension
+ or disruption of the normal procedures and practices of, or disruption of the infrastructure
+ of, any settlement provider, clearing house, distributed ledger technology network, securities
+ market or exchange; acts, omissions or insolvency of a third party; failure of a material
+ utility supply; war damage; terrorist action; the act of any governmental agency or other
+ competent authority; riot; pandemic or epidemic; fire; or flood lock-out), provided that
+ the Affected Party shall:
+
+ 
+
+(a)
+notify
+ the other Party in a timely manner of the occurrence of a perceived force majeure event and
+ its anticipated duration and impact; and
+
+ 
+
+(b)
+use
+ reasonable efforts to minimise the effects of the same.
+
+ 
+
+10.6
+Limited
+ Recourse and Non-petition: 
+Notwithstanding anything to the contrary in the Agreement,
+ and acknowledging that Komainu provides (and intends to provide) services in the nature of
+ the Services to a multiplicity of clients, the Client hereby agrees that:
+
+ 
+
+(a)
+in
+ relation to any claims against Komainu under the Agreement, it shall not, in any event, have
+ any recourse to, or claim against, any Assets of third parties, including other clients of
+ Komainu; and
+
+ 
+
+(b)
+without
+ prejudice to any debt or other obligation of Komainu which would otherwise (but for this
+ Clause 10.6(b)) have entitled the Client to seek Komainu’s winding-up or to institute
+ insolvency proceedings, it irrevocably waives any entitlement to institute (or join with
+ any person in instituting) insolvency proceedings of any kind in any jurisdiction in connection
+ with Komainu.
+
+ 
+
+11.
+CONFIDENTIALITY
+
+ 
+
+11.1
+Undertakings:
+ 
+Each Party receiving Confidential Information (being, the “
+Receiving Party
+”)
+ undertakes to the other Party disclosing Confidential Information (being, the “
+Disclosing
+ Party
+”) that:
+
+ 
+
+(a)
+it
+ will use Confidential Information received from the Disclosing Party only as is reasonably
+ necessary for the purposes of the Agreement and in accordance with the terms of the Agreement;
+ and
+
+ 
+
+(b)
+save
+ as envisaged in Clause 11.1(a), it will not (and it will procure that its Personnel will
+ not), during the subsistence of the Agreement or at any time thereafter, directly or indirectly:
+
+ 
+
+(i)
+make
+ to any person any untrue statement relating to the other Party, an Affiliate or Controller
+ thereof or to their respective affairs; or
+
+ 
+
+(ii)
+use,
+ copy or communicate to any person any Confidential Information whenever and howsoever received
+ or obtained by it in any capacity.
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+17
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+11.2
+Exceptions:
+ 
+Notwithstanding Clause 11.1(b)(ii), the Receiving Party shall not be prohibited from
+ disclosing Confidential Information:
+
+ 
+
+(a)
+the
+ disclosure of which is authorised by the Disclosing Party;
+
+ 
+
+(b)
+required
+ to be disclosed to a third-party service provider, for any third-party services which the
+ Client is in receipt of, or requests from time to time;
+
+ 
+
+(c)
+which
+ is in the public domain at the time of such disclosure (otherwise than by virtue of an unauthorised
+ disclosure by the Receiving Party);
+
+ 
+
+(d)
+which
+ was rightfully disclosed to the Receiving Party by a third party (not being known to the
+ recipient to be subject to obligations of confidentiality in respect thereof);
+
+ 
+
+(e)
+which
+ was independently developed by the Receiving Party without use of any Confidential Information
+ of the Disclosing Party; or
+
+ 
+
+(f)
+the
+ disclosure of which is required by law, regulation, a court of competent jurisdiction, a
+ regulatory body or by the rules of a relevant stock exchange, other listing venue or a digital-asset
+ exchange which is compliant with the Security Procedures.
+
+ 
+
+11.3
+Assistance:
+ 
+In the event of a disclosure of Confidential Information being required in accordance
+ with Clause 11.2(f), the Receiving Party shall:
+
+ 
+
+(a)
+draw
+ the attention of the relevant authority to the need for appropriate confidential treatment
+ to be afforded to the Disclosing Party’s Confidential Information; and
+
+ 
+
+(b)
+reasonably
+ co-operate with the Disclosing Party (at the Disclosing Party’s own expense) in any
+ attempt that the Disclosing Party may make in connection with obtaining reliable assurance
+ from the relevant authority in such regard.
+
+ 
+
+11.4
+Return:
+ 
+On request, and in any case upon expiry or termination of this MSA and/or an Order Form
+ (as applicable), the Receiving Party shall, return to the Disclosing Party (or, at the Disclosing
+ Party’s request, destroy) any documents and materials in its possession or control
+ which contain any of the Confidential Information of the Disclosing Party, provided that
+ the Receiving Party may retain documents and materials containing Confidential Information
+ to the extent: (a) required by law, regulation or the rules of a relevant stock exchange
+ or other listing venue or exchange, or the Receiving Party’s own compliance policies;
+ or (b) retained or captured by the Receiving Party’s automated backup processes (in
+ respect of which retained Confidential Information, the provisions of this Clause 11 shall
+ continue to apply).
+
+ 
+
+11.5
+Press
+ Releases, Media Releases, Blogs and Public Comment:
+
+ 
+
+(a)
+Except
+ to the extent required as part of a mandatory regulatory disclosure, neither Party shall
+ issue, make, commission or otherwise procure any press or media release, public statement
+ or public comment (in any form, including via social media), related to the subject-matter
+ of the Agreement, or which contains reference to the other Party or any of its Affiliates
+ (or the other Party’s brand, logo or IP rights) without the other Party’s prior
+ written consent (whether or not, for the avoidance of doubt, the consent of such other Party
+ should also be required pursuant to this Clause 11).
+
+ 
+
+(b)
+In
+ the event of a request by a third party for a Party to publicly comment on any matter related
+ to the subject-matter of the Agreement, in the absence of agreement to the contrary between
+ the Parties at the relevant time, any response to such request must be made in a manner consistent,
+ in all material respects, to information which, at the time of the response, is publicly
+ available.
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+18
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+11.6
+Violations:
+ 
+The Receiving Party shall promptly notify the Disclosing Party in writing upon its becoming
+ aware of any loss, access, use or disclosure of Confidential Information in violation of
+ the provisions of the Agreement. In such circumstances the Receiving Party shall take all
+ appropriate measures to mitigate the impact thereof and to prevent any recurrence.
+
+ 
+
+12.
+PERSONAL
+ DATA PROCESSING
+
+ 
+
+12.1
+The
+ Parties shall comply with their respective obligations under the data processing agreement
+ set out in the APPENDIX 
+(Data Processing Agreement)
+, together with any additional
+ terms and conditions relevant to Processing Personal Data included in the Order Form.
+
+ 
+
+13.
+NON-SOLICITATION
+ OF PERSONNEL
+
+ 
+
+13.1
+Each
+ Party undertakes with the other that (in addition to its other obligations under the Agreement
+ and to any restrictions imposed on it by law), unless consented to by the other Party, it
+ will not, and will procure that its Affiliates do not, directly or indirectly, whether alone
+ or in conjunction with any other person, firm or company, during the course of the Agreement
+ and for a period of twelve (12) months:
+
+ 
+
+(a)
+after
+ its termination (howsoever occurring, including, for the avoidance of doubt, as a result
+ of unlawful termination by either Party); or
+
+ 
+
+(b)
+after
+ the relevant member of Personnel ceases to be engaged in any capacity by the other Party,
+
+ 
+
+canvass
+or solicit the engagement of, or engage with (in any capacity), any member of Personnel of the other Party who by reason of their seniority,
+or knowledge of the Confidential Information of the other Party, or knowledge of or influence over, the Affiliates of the other Party
+is likely to be able to assist or benefit the first Party in competition with the other Party.
+
+ 
+
+13.2
+Each
+ Party acknowledges that the restrictive covenant contained in Clause 13.1 is reasonable and
+ necessary to protect the legitimate interests of the other Party and its Affiliates.
+
+ 
+
+14.
+TERMINATION
+
+ 
+
+14.1
+MSA
+ Duration:
+ This MSA is effective from its execution and shall remain in full force and
+ effect until terminated in accordance with Clause 14.2.
+
+ 
+
+14.2
+MSA
+ Termination: 
+This MSA shall, and without further action being required on the part of
+ either Party being required, terminate immediately upon there being no Order Form then in
+ subsistence.
+
+ 
+
+14.3
+Order
+ Form Termination (Effect):
+ Termination of a particular Order Form shall not affect the
+ continuation of:
+
+ 
+
+(a)
+this
+ MSA; or
+
+ 
+
+(b)
+any
+ other Order Form then in force.
+
+ 
+
+14.4
+Order
+ Form Termination (No Fault):
+ Any Order Form may be terminated (in whole or in part):
+
+ 
+
+(a)
+On
+ Notice by Komainu: 
+by Komainu, without incurring any further liability, upon the expiration
+ of not less than three (3) months’ written notice of termination to the Client, to
+ expire at any time;
+
+ 
+
+(b)
+On
+ Notice by Client – Expiry of Initial Term: 
+by the Client, without incurring any
+ further liability, upon the expiration of not less than three (3) months’ written notice
+ of termination to Komainu provided that such notice expires no earlier than the expiry of
+ the Initial Term;
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+19
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+(c)
+On
+ Notice by Client – Expiry of Renewal Term:
+ by the Client, without incurring any
+ further liability, upon the expiration of not less than three (3) months’ written notice
+ of termination to Komainu provided that such notice expires no earlier than the expiry of
+ the applicable Renewal Period;
+
+ 
+
+(d)
+Immediate
+ Notice – Changes in Law and Regulation:
+ by Komainu, without either Party incurring
+ any further liability, immediately (or as may otherwise be provided in the Order Form) by
+ giving written notice to the Client if Komainu, in its sole discretion, has determined that
+ continued provision of the relevant class of Services to which the Order Form relates would
+ result in violation of applicable law or regulation relating to either Party and:
+
+ 
+
+(i)
+it
+ has not been possible for a period of not less than twenty-one (21) Business Days; or
+
+ 
+
+(ii)
+it
+ is agreed by the Parties to be impracticable,
+
+ 
+
+for
+the Parties to agree consequential amendments to the relevant Order Form as envisaged by Clause 7.3(c); or
+
+ 
+
+(e)
+Immediate
+ Notice – Force Majeure:
+ by Komainu, without Komainu incurring any further liability,
+ immediately (or as may otherwise be provided in an Order Form) by giving written notice to
+ the Client if a force majeure event, as described in Clause 10.5, should have continued for
+ a period of not less than forty-five (45) consecutive Business Days.
+
+ 
+
+(f)
+Immediate
+ Notice – Dormant Account
+: by Komainu, without Komainu incurring any further liability,
+ immediately (or as may otherwise be provided in an Order Form) by giving written notice to
+ the Client, if the Client does not utilise the Services set out in an applicable Order Form
+ for a period of 12 (twelve) months from the effective date of such Order Form.
+
+ 
+
+14.5
+Order
+ Form Termination (Fault):
+
+ 
+
+(a)
+Immediate
+ Notice by Komainu: 
+Without prejudice to any other right or remedy it may have against
+ the Client under the Agreement, Komainu may terminate any or, in its discretion, all Order
+ Form(s), immediately (or, in relation to any given Order Form, as otherwise provided in that
+ Order Form) by giving written notice to the Client if Komainu, in its sole discretion, has
+ reasonably and in good faith determined that:
+
+ 
+
+(i)
+any
+ information provided by the Client during the application of the Onboarding Procedures are
+ incomplete, false and/or inaccurate in a material respect or material information was withheld
+ during the application of the Onboarding Procedures;
+
+ 
+
+(ii)
+any
+ representation, warranty, agreement or undertaking made by (or on behalf of) the Client to
+ Komainu (whether under or in relation to the Agreement or otherwise) or any other material
+ statement made by (or on behalf of) the Client in or in relation to the same is incomplete,
+ false and/or inaccurate in any respect at the time when made or thereafter at any time becomes
+ incomplete, false and/or inaccurate in any respect and the Client fails to inform Komainu
+ of the true position as soon as reasonably practicable;
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+20
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+(iii)
+the
+ Client has failed to promptly provide the information and/or documents requested by Komainu
+ in order for Komainu to comply with any applicable law or regulation;
+
+ 
+
+(iv)
+any
+ investigation, claim, action or proceeding of any nature is commenced against the Client
+ (including any investigation into suspected market abuse, manipulation or other criminal
+ conduct), or steps are taken by any person to enforce any security against the Client;
+
+ 
+
+(v)
+there
+ are reasonable concerns in relation to the Client’s creditworthiness or financial status;
+
+ 
+
+(vi)
+the
+ Client has:
+
+ 
+
+(A)
+breached
+ the Security Procedures; or
+
+ 
+
+(B)
+(otherwise)
+ taken, or sought to take, actions designed to circumvent the Security Procedures or to reduce
+ its effectiveness;
+
+ 
+
+(vii)
+such
+ termination is necessary as a consequence of the considerations referenced in Clause 7.2;
+
+ 
+
+(viii)
+the
+ Client has conducted or participated in conduct which has, or could (in the reasonable opinion
+ of Komainu) be expected to have, a material adverse effect upon Komainu’s business
+ or reputation; or
+
+ 
+
+(ix)
+any
+ of the circumstances set out under Clause 14.5(a)(i) to Clause 14.5(a)(viii) above are likely
+ to happen.
+
+ 
+
+(b)
+Immediate
+ Notice by either Party: 
+Without prejudice to any other right or remedy a Party (the “
+Notifying
+ Party
+”) may have against the other under the Agreement, the Notifying Party may
+ terminate all Order Forms immediately (or, in relation to any given Order Form, as otherwise
+ provided in that Order Form) by giving written notice to the other Party in the event of
+ any of the following occurring at any time during the subsistence of any Order Form:
+
+ 
+
+(i)
+the
+ other Party commits any material breach (or series of breaches which, together, constitute
+ a material breach) of the terms of any Order Form and, where such breach is capable of remedy,
+ the other Party fails to remedy such breach within twenty-one (21) Business Days after service
+ of a written notice from the Notifying Party specifying the breach and requiring it to be
+ remedied;
+
+ 
+
+(ii)
+the
+ other Party passing a resolution, or the court making an order, that such other Party be
+ wound up or made bankrupt;
+
+ 
+
+(iii)
+a
+ liquidator, trustee in bankruptcy, receiver, administrative receiver, manager or administrator
+ is appointed in respect of all or a material part of such other Party’s business or
+ assets; or
+
+ 
+
+(iv)
+the
+ other Party enters into any composition or arrangement with its creditors.
+
+ 
+
+14.6
+Rights
+ at Law:
+ The rights of a Party to terminate this MSA or any Order Form under this Clause
+ 14 are without prejudice to any other termination rights that such Party might have at law.
+
+ 
+
+14.7
+Accrued
+ Rights:
+
+ 
+
+(a)
+Termination
+ of this MSA or any Order Form, howsoever arising, shall be without prejudice to the rights,
+ duties and liabilities of the Parties accrued prior to termination.
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+21
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+(b)
+Komainu
+ shall be entitled to receive all Service Fees and other Sums Due accrued under this MSA or
+ a terminating Order Form up to but excluding the date of termination thereof, howsoever that
+ termination may have arisen.
+
+ 
+
+14.8
+Continued
+ Effect:
+ Provisions in this MSA or any Order Form which, expressly or impliedly, grant
+ or give rise to continuing rights or impose or give rise to continuing obligations shall
+ operate, survive and lawfully have effect after termination of this MSA or Order Form.
+
+ 
+
+15.
+NOTICES
+
+ 
+
+15.1
+All
+ notices required to be served hereunder shall be in writing, in the English language, signed
+ by the Party giving it and delivered by hand, sent by recorded mail, or sent by email, to
+ the Party concerned.
+
+ 
+
+15.2
+A
+ notice given hereunder shall have effect from the earlier of its actual or deemed receipt
+ by the addressee. A notice shall be deemed to have been received when:
+
+ 
+
+(a)
+delivered
+ by hand, at the time the notice is left at a Party’s registered or principal office
+ for the time being;
+
+ 
+
+(b)
+sent
+ by recorded mail to a Party’s registered or principal office for the time being, at
+ the expiry of three (3) Business Days after the day of posting; and
+
+ 
+
+(c)
+sent
+ by email, to the address below, or as otherwise notified by the Party receiving notice, on
+ the Business Day sent, or the following Business Day if sent after 18:00 GMT (provided that
+ the sender does not receive any notification of email delivery failure).
+
+ 
+
+(i)
+For
+ Komainu at legal@komainu.com
+
+ 
+
+(ii)
+For
+ the Client at:
+
+ 
+
+C/O
+CoinShare Co.
+
+ 
+
+437
+Madison Avenue 28
+TH
+ Floor
+
+ 
+
+New
+York, NY 10022
+
+ 
+
+brrrops@coinshares.co
+
+ 
+
+15.3
+This
+ Clause 15 does not apply to the service of any proceedings, claim form, notice or other document(s)
+ in any legal action.
+
+ 
+
+16.
+MISCELLANEOUS
+
+ 
+
+16.1
+Nothing
+ in the Agreement is intended (or should be deemed) to create a partnership or joint venture,
+ a relationship of employer or employee or of agent and principal or otherwise between the
+ Parties (or any of their respective Affiliates). Neither Party shall hold itself out as being
+ an agent (save as otherwise specified in the Agreement), partner or joint venture partner
+ of the other Party or of any Affiliate thereof.
+
+ 
+
+16.2
+Each
+ Party on behalf of itself and on behalf of its Affiliates acknowledges and agrees with the
+ other Party (acting on behalf of itself and its Affiliates) that:
+
+ 
+
+(a)
+the
+ Agreement together with any other documents referred to in the Agreement (together the “
+Transaction
+ Documents
+”) constitutes the entire and only agreement between the Parties relating
+ to the subject matter of the Transaction Documents;
+
+ 
+
+(b)
+neither
+ it nor any of its Affiliates has been induced to enter into any Transaction Document in reliance
+ upon, nor has any such party been given, any warranty, representation, statement, assurance,
+ covenant, agreement, undertaking, indemnity or commitment of any nature whatsoever other
+ than as are expressly set out in the Transaction Documents and, to the extent that any of
+ them has been, it (acting on behalf of itself and its Affiliates) unconditionally and irrevocably
+ waives any claims, rights or remedies which any of them might otherwise have had in relation
+ thereto; and
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+22
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+(c)
+the
+ only remedies available to it in respect of the Transaction Documents are damages for breach
+ of contract and, for the avoidance of doubt, it has no right to rescind or terminate any
+ Transaction Documents either for breach of contract or for negligent or innocent misrepresentation
+ or otherwise,
+
+ 
+
+provided
+that the provisions of this Clause shall not exclude any liability which either Party would otherwise have to the other Party in respect
+of any statements made fraudulently by or on behalf of it prior to the execution of the Agreement or any rights which either Party may
+have in respect of fraudulent concealment by the other Party.
+
+ 
+
+16.3
+The
+ rights and remedies provided in the Agreement are cumulative and not exclusive of any rights
+ or remedies provided by law.
+
+ 
+
+16.4
+No
+ failure on the part of a Party hereto to exercise, and no delay on their part in exercising,
+ any right or remedy under the Agreement will operate as a waiver thereof nor will any single
+ or partial exercise of any right or remedy preclude any other or further exercise thereof
+ or the exercise of any other right or remedy.
+
+ 
+
+16.5
+The
+ illegality, invalidity or unenforceability of any provision of the Agreement under the law
+ of any relevant jurisdiction shall not affect the legality, validity or enforceability of
+ any other provision thereunder or its legality, validity or enforceability under the law
+ of any other relevant jurisdiction. The Parties shall use reasonable efforts to agree any
+ revision of the Agreement, which may be necessary to meet any mandatory requirement of the
+ law or regulatory provision applicable to any of them.
+
+ 
+
+16.6
+The
+ provisions of the Agreement may be amended only by written agreement of the Parties.
+
+ 
+
+16.7
+Neither
+ a Party’s rights or obligations nor the Agreement may be assigned, transferred or novated
+ without the prior written consent of the other Party save that Komainu may, subject to any
+ Permit as may be required, assign, transfer or novate its rights and obligations under the
+ Agreement to an Affiliate without the Client’s prior consent. Any successors of the
+ Parties or assignees, transferees or novatees of Komainu shall be bound by the Agreement.
+
+ 
+
+16.8
+The
+ Agreement may be executed in counterparts (each of which shall be deemed an original) and
+ which, together, shall constitute one and the same instrument.
+
+ 
+
+16.9
+Any
+ signature to the Agreement transmitted or given by electronic means shall be deemed an original
+ signature and, accordingly, be binding upon the Parties hereto to the same extent and with
+ the same force and effect as an original (wet-ink) signature.
+
+ 
+
+16.10
+Save
+ to the extent expressly provided otherwise in the Order Form, a person who is not party to
+ the Agreement shall have no right to enforce any of its terms.
+
+ 
+
+16.11
+The
+ Parties consent to telephonic or electronic recordings for security and quality of service
+ purposes (including without the use, in any particular case, of a warning tone or notification
+ message) and each Party acknowledges that either Party may produce telephonic or electronic
+ recordings or computer records as evidence in any proceedings brought in connection with
+ the Agreement.
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+23
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+17.
+GOVERNING
+ LAW, JURISDICTION
+
+ 
+
+17.1
+The
+ Agreement and any matter, claim or dispute arising out of, or in connection with, its subject-matter
+ or formation (including non-contractual disputes or claims) shall be governed by and construed
+ in accordance with the laws of England and Wales.
+
+ 
+
+17.2
+To
+ the extent that either Party may, in any jurisdiction, claim for itself or its assets any
+ immunity from suit, judgment, enforcement or otherwise (and whether on grounds of sovereignty
+ or otherwise), such Party agrees not to claim any of the same and irrevocably waives any
+ immunity or other entitlement of a like nature to the fullest extent permissible under the
+ laws of the relevant jurisdiction(s).
+
+ 
+
+17.3
+Each
+ Party irrevocably submits to the exclusive jurisdiction of the Courts of England and Wales
+ as regards any matter, claim or dispute arising out of, or in connection with, the Agreement,
+ its subject-matter or formation (including non-contractual disputes or claims).
+
+ 
+
+[signature
+page follows]
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+24
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+IN
+WITNESS
+ whereof this MSA has been entered into by the Parties on the respective dates below, as of the Effective Date.
+
+ 
+
+SIGNED
+
+ 
+
+For
+ and on behalf of
+
+ 
+
+KOMAINU
+ (JERSEY) LIMITED
+
+ 
+
+)
+
+ )
+
+ )
+
+ )
+
+ )
+
+ )
+
+ )
+
+ )
+
+ )
+
+ )
+
+ )
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: /s/
+ Anna Bettencourt
+
+ 
+
+Name:
+ Anna Bettencourt
+
+ 
+
+Position:
+ Director
+
+ 
+
+Date:
+ September 27, 2024
+
+ 
+
+ 
+
+ 
+
+SIGNED
+
+ 
+
+For
+ and on behalf of
+
+ 
+
+COINSHARES
+ VALKYRIE BITCOIN FUND
+
+ 
+
+)
+
+ )
+
+ )
+
+ )
+
+ )
+
+ )
+
+ )
+
+ )
+
+ )
+
+ )
+
+ )
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: /s/
+ Jean-Marie Mognetti
+
+ 
+
+Name:
+ Jean-Marie Mognetti
+
+ 
+
+Position:
+ Group Chief Executive Officer
+
+ 
+
+Date:
+ September 27, 2024
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+25
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+APPENDIX
+
+(Data Processing Agreement)
+
+ 
+
+1.
+DEFINITIONS
+
+ 
+
+1.1
+In
+ this APPENDIX 
+(Data Processing Agreement)
+, and where applicable throughout the MSA,
+ unless the context otherwise requires, the following capitalised terms shall bear the following
+ meanings:
+
+ 
+
+“
+Approved
+Sub-Processor
+” means each and any of:
+
+ 
+
+(a)
+an
+ Existing Sub-Processor; and
+
+ 
+
+(b)
+a
+ New Sub-Processor, to the extent that such person satisfies the conditions provided in Paragraph
+ 4.5 of this APPENDIX 
+(Data Processing Agreement)
+ to this MSA;
+
+ 
+
+“
+Client
+Personal Data
+” means any Personal Data Processed by Komainu, or by any Approved Sub-Processor, on behalf of any Client User,
+pursuant to or in connection with the Agreement;
+
+ 
+
+“
+Contracted
+Processor
+” means Komainu and/or an Approved Sub-Processor, as the context requires;
+
+ 
+
+“
+Controller
+”
+shall have the same meaning as contained in the Data Protection Obligations;
+
+ 
+
+“
+Data
+Authority
+” means, as applicable:
+
+ 
+
+(a)
+the
+ Information Commissioner's Office in the UK;
+
+ 
+
+(b)
+the
+ Jersey Office of the Information Commissioner;
+
+ 
+
+(c)
+an
+ independent public authority which is established by a member state of the EU pursuant to
+ Article 51 GDPR; and
+
+ 
+
+(d)
+any
+ similar regulatory authority responsible for the enforcement of Data Protection Obligations,
+
+ 
+
+“
+Data
+Protection Obligations
+” means, as applicable:
+
+ 
+
+(a)
+the
+ United Kingdom General Data Protection Regulation, as it forms part of the law of England
+ and Wales, Scotland and Northern Ireland by virtue of section 3 of the European Union (Withdrawal)
+ Act 2018 (“
+UK GDPR
+”);
+
+ 
+
+(b)
+the
+ Data Protection Act 2018;
+
+ 
+
+(c)
+any
+ other data protection or privacy laws enacted or replaced in the United Kingdom from time
+ to time;
+
+ 
+
+(d)
+the
+ Data Protection (Jersey) Law 2018; and
+
+ 
+
+(e)       to
+the extent applicable, the data protection or privacy laws of any other country,
+
+ 
+
+“
+Data
+Subject
+” shall have the same meaning as contained in the Data Protection Obligations;
+
+ 
+
+“
+Existing
+Sub-Processor
+” means a third-party to which Komainu has, at the Effective Date:
+
+ 
+
+(a)
+delegated
+ or outsourced all or part of the Services; and/or
+
+ 
+
+(b)
+transferred
+ Client Personal Data,
+
+ 
+
+in
+relation to the Services provided under the Agreement;
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+26
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+“
+New
+Sub-Processor
+” means a third-party, other than an Existing Sub-Processor, to whom Komainu wishes to delegate the Processing
+of Client Personal Data;
+
+ 
+
+“
+Personal
+Data
+” shall have the same meaning as contained in the Data Protection Obligations;
+
+ 
+
+“
+Personal
+Data Breach
+” means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure
+of, or access to, Client Personal Data transmitted, stored or otherwise Processed;
+
+ 
+
+“
+Processing
+”
+shall have the same meaning as contained in the Data Protection Obligations;
+
+ 
+
+“
+Processing
+Activities
+” has the meaning set out in Paragraph 5.1 of this APPENDIX 
+(Data Processing Agreement)
+;
+
+ 
+
+“
+Processor
+”
+shall have the same meaning as contained in the Data Protection Obligations (and, in connection with this APPENDIX (Data Processing Agreement)
+and any Processing undertaken pursuant to an Order Form, shall mean Komainu unless specified otherwise);
+
+ 
+
+“
+Restricted
+Transfer
+” means:
+
+ 
+
+(a)
+a
+ transfer of Client Personal Data from the Client to a Contracted Processor; or
+
+ 
+
+(b)
+an
+ onward transfer of Client Personal Data from a Contracted Processor to (or between two establishments
+ of) a Contracted Processor,
+
+ 
+
+in
+each case where such transfer would, at the time of the transfer, be prohibited by Data Protection Obligations (or by the terms of data
+transfer agreements put in place to address the data transfer restrictions thereof) absent use of:
+
+ 
+
+(1)
+relevant
+ Standard Contractual Clauses; or
+
+ 
+
+(2)
+such
+ other mechanism to make the transfer of personal data outside of Jersey or the United Kingdom
+ compliant with Data Protection Laws such as binding corporate rules;
+
+ 
+
+ 
+and
+
+ 
+
+“
+Standard
+Contractual Clauses
+” means the Standard Contractual Clauses for the purposes of Article 26(2) of Directive 95/46/EC set out
+in Decision 2010/87/EC or such other clauses which are approved from time to time by the applicable Data Authority to be used when Personal
+Data is being transferred cross border.
+
+ 
+
+2.
+PROCESSING
+
+ 
+
+2.1
+Komainu,
+ as the Processor, shall (and shall procure that each of its Approved Sub-Processors shall)
+ at all times:
+
+ 
+
+(a)
+comply
+ with all applicable Data Protection Obligations in the Processing of Client Personal Data;
+ and
+
+ 
+
+(b)
+not
+ Process Client Personal Data other than on the Client’s documented instructions (which
+ the Client undertakes to make as clear as possible), unless Processing is required by Data
+ Protection Obligations to which the relevant Contracted Processor is subject, in which case
+ Komainu shall inform the Client of that legal requirement before such Processing, unless
+ that law prohibits the same on important grounds of public interest.
+
+ 
+
+2.2
+The
+ Client, as Controller, authorises Komainu (and authorises Komainu to instruct each Approved
+ Sub-Processor) to Process Client Personal Data, subject always to the relevant Contracted
+ Processor(s) complying with the terms of this APPENDIX 
+(Data Processing Agreement)
+,
+ as reasonably necessary to provide the relevant Services and Materials as contemplated in
+ the Agreement.
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+27
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+2.3
+Komainu
+ shall not transfer any Client Personal Data to a third-party to the extent that such transfer
+ would amount to a Restricted Transfer, unless:
+
+ 
+
+(a)
+the
+ Client has approved such transfer in writing;
+
+ 
+
+(i)
+Komainu
+ has completed a transfer impact assessment in compliance with the Data Protection Obligations
+ and provided it to the Client; and
+
+ 
+
+(ii)
+Komainu
+ has implemented Standard Contractual Clauses in relation to such transfer (either as agent
+ for the Customer or the Supplier entering into them in their own right using the appropriate
+ version of the Standard Contractual Clauses) or
+
+ 
+
+(iii)
+has
+ such other mechanism is in place to make the transfer compliant with Data Protection Obligations
+ such as binding corporate rules.
+
+ 
+
+2.4
+The
+ Client represents and warrants that:
+
+ 
+
+(a)
+the
+ Client Personal Data it provides pursuant to or in connection with the Agreement may be lawfully
+ Processed by Komainu for the purposes of performing the Services as envisaged under the Agreement;
+ and
+
+ 
+
+(b)
+insofar
+ as the Client is aware, the Client Personal Data provided to Komainu shall be accurate, adequate
+ and complete.
+
+ 
+
+2.5
+Each
+ Order Form shall contain a Schedule (Personal Data Processing) which sets out certain information
+ regarding the Contracted Processors’ Processing of Client Personal Data as required
+ by Article 28(3) of the UK GDPR or such other provision of the Data Protection Obligations,
+ which Schedule shall be supplemental to this APPENDIX 
+(Data Processing Agreement)
+
+ of the MSA which specifies the purpose and manner in which Personal Data is to be Processed
+ under the Agreement in accordance with the requirements of the Data Protection Obligations.
+ The Client may make such reasonable amendments to the Schedule (Personal Data Processing)
+ of an Order Form by written notice to Komainu from time to time, as the Client reasonably
+ considers necessary to meet the requirements of the UK GDPR or such other provision of the
+ Data Protection Obligations.
+
+ 
+
+3.
+SECURITY
+
+ 
+
+3.1
+Komainu
+ shall take reasonable steps to ensure the reliability of any employee, agent or contractor
+ of any Contracted Processor who may have access to Client Personal Data, ensuring in each
+ case that access is strictly limited to those individuals who need to know / access the relevant
+ Client Personal Data, as strictly necessary for the purposes of the Agreement, and ensure
+ that any employee, agent or contractor with access to Client Personal Data is subject to
+ confidentiality undertakings or professional or statutory obligations of confidentiality.
+
+ 
+
+3.2
+Taking
+ into account technological developments, the costs of implementation and the nature, scope,
+ context and purposes of Processing, as well as the risk of varying likelihood and severity
+ for the rights and freedoms of natural persons, Komainu shall in relation to the Client Personal
+ Data implement appropriate technical and organisational measures to ensure a level of security
+ appropriate to that risk, including, as appropriate, the measures referred to in Article
+ 32(1) of the UK GDPR or such other provision of the Data Protection Obligations.
+
+ 
+
+4.
+SUB-PROCESSING
+
+ 
+
+4.1
+Komainu
+ will use Approved Sub-Processors to process Client Personal Data.
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+28
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+4.2
+Komainu
+ may continue to use Existing Sub-Processors but shall procure that, on or prior to the Effective
+ Date, the arrangement between it and each of its Existing Sub-Processors is governed by a
+ written contract including terms which offer at least the same level of protection for Client
+ Personal Data as set out in this APPENDIX 
+(Data Processing Agreement)
+ and which meet
+ the requirements of Article 28(3) of the UK GDPR or such other provision of the Data
+ Protection Obligations.
+
+ 
+
+4.3
+Komainu
+ shall give the Client prior notice of the appointment of any New Sub-Processor, including
+ details of the processing of Client Personal Data to be undertaken by such New Sub-Processor.
+
+ 
+
+4.4
+Each
+ New Sub-Processor shall become an Approved Sub-Processor on the completion of:
+
+ 
+
+(a)
+Komainu
+ providing notice to the Client as envisaged by Paragraph 3.3 above; and
+
+ 
+
+(b)
+satisfaction
+ of all of the conditions in Paragraph 3.5 below in respect of that New Sub-Processor.
+
+ 
+
+4.5
+With
+ respect to each New Sub-Processor, Komainu shall:
+
+ 
+
+(a)
+carry
+ out adequate due diligence to ensure that such New Sub-Processor is capable of providing
+ the level of protection for Client Personal Data required by this APPENDIX 
+(Data Processing
+ Agreement)
+;
+
+ 
+
+(b)
+ensure
+ that the arrangement between Komainu and the New Sub-Processor is governed by a written contract
+ including terms which offer at least the same level of protection for Client Personal Data
+ as those set out in this APPENDIX 
+(Data Processing Agreement)
+ and which meet the requirements
+ of Article 28(3) of the UK GDPR or such other provision of the Data Protection Obligations;
+ and
+
+ 
+
+(c)
+if
+ that arrangement involves a Restricted Transfer, ensure that one of the safeguards set out
+ in Article 46 of the UK GDPR or such other provision of the Data Protection Obligations has
+ been implemented in respect of that Restricted Transfer.
+
+ 
+
+5.
+KOMAINU
+ AS CONTROLLER
+
+ 
+
+5.1
+Komainu
+ shall ensure that it has taken all actions necessary to comply with the Data Protection Obligations
+ and it shall collect, use, store, retain and process Personal Data (including Client Personal
+ Data) to the extent necessary to perform its obligations under the Agreement or in relation
+ to the prevention of fraud, crime, money laundering or terrorism. For mandatory regulatory
+ purposes, sanctions screening purposes, security purposes and business continuity purposes
+ (“
+Processing Activities
+”) Komainu may from time to time Process Personal
+ Data of investors, beneficial owners and / or Personnel of the Client or customers of the
+ Client.
+
+ 
+
+5.2
+Komainu
+ shall be a Controller in respect of the Processing Activities.
+
+ 
+
+5.3
+The
+ Client warrants that it has all required authority to transfer any Personal Data required
+ to enable Komainu to carry out the Processing Activities and that it shall make all Personnel,
+ investors, beneficial owners and customers whose Personal Data is provided to Komainu aware
+ of Komainu’s privacy notice (a copy of which the Client acknowledges having received).
+
+ 
+
+6.
+DATA
+ SUBJECT RIGHTS
+
+ 
+
+6.1
+Komainu
+ shall promptly (and in any event within four (4) Business Days) notify the Client if it or
+ any other Contracted Processor receives a request from a Data Subject under any Data Protection
+ Obligations in respect of Client Personal Data (including full details and copies of the
+ complaint, communication or request), and Komainu shall, to the extent possible, provide
+ full co-operation and support to the Client to comply with any such request from a Data Subject
+ under the Data Protection Obligations.
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+29
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+6.2
+Komainu
+ shall ensure that any other Contracted Processor does not respond to a request pursuant to
+ Paragraph 5.1 except on the documented instructions of the Client.
+
+ 
+
+7.
+PERSONAL
+ DATA BREACH
+
+ 
+
+7.1
+Upon
+ becoming aware of a Personal Data Breach, Komainu shall promptly (and in any event within
+ seventy-two (72) hours) provide the Client with sufficient information to enable the Client
+ to meet any obligations to report a Personal Data Breach under the Data Protection Obligations.
+
+ 
+
+7.2
+Komainu
+ shall co-operate with the Client and take such reasonable commercial steps as are directed
+ by the Client to assist in the investigation, mitigation and remediation of each Personal
+ Data Breach.
+
+ 
+
+8.
+DATA
+ PROTECTION IMPACT ASSESSMENT 
+AND PRIOR CONSULTATION
+
+ 
+
+8.1
+Komainu
+ shall provide reasonable assistance to the Client with any data protection impact assessments
+ and prior consultations with Data Authorities which the Client reasonably considers to be
+ required by Articles 35 or 36 of the UK GDPR (or similar provisions under any other Data
+ Protection Obligations), in each case solely in relation to Processing of Client Personal
+ Data by Contracted Processors and taking into account the nature of the Processing and information
+ available to the Contracted Processors.
+
+ 
+
+9.
+DELETION
+ OR RETURN OF PERSONAL DATA
+
+ 
+
+9.1
+Upon
+ termination or expiry of the Agreement, or the cessation of Processing of Client Personal
+ Data by any Contracted Processor, Komainu shall (and shall procure that each Contracted Processor
+ shall) promptly (and in any event within two (2) months of the relevant event):
+
+ 
+
+(a)
+Delete
+ (and procure the Deletion) of all other copies of Client Personal Data Processed by each
+ Contracted Processor; and
+
+ 
+
+(b)
+provide
+ written certification to the Client that the Contracted Processor has complied with the foregoing
+ provisions (a) and (b).
+
+ 
+
+10.
+COOPERATION
+ WITH DATA AUTHORITIES
+
+ 
+
+10.1
+Save
+ to the extent prohibited by applicable law, Komainu shall:
+
+ 
+
+(a)
+promptly
+ notify the Client of any notice or request received by any Contracted Processor from any
+ Data Authority relating to the Processing of Client Personal Data; and
+
+ 
+
+(b)
+provide
+ a copy of such notification or request to the Client.
+
+ 
+
+10.2
+Komainu
+ undertakes to:
+
+ 
+
+(a)
+consider
+ any comments made by the Client in connection with such notification or request before responding
+ to the same; and
+
+ 
+
+(b)
+fully
+ cooperate with the Client in relation to any ongoing communications with, or subsequent investigation
+ by, the relevant Data Authority.
+
+ 
+
+11.
+CLARIFICATION
+
+ 
+
+11.1
+Nothing
+ within this APPENDIX 
+(Data Processing Agreement)
+ reduces either Party’s obligations
+ under the Agreement in relation to the protection of Personal Data or permits either Party
+ to Process (or permit the Processing of) Personal Data in a manner which is prohibited by
+ the Agreement.
+
+ 
+
+KJL – Master Services Agreement (Version: March 2024)
+30
+
+ 
+
+ 
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+Order
+Form – Custodial Services
+
+ 
+
+between
+ 
+
+ 
+
+KOMAINU
+(JERSEY) LIMITED
+    
+
+ 
+
+ 
+
+ 
+
+and
+ 
+
+ 
+
+COINSHARES
+VALKYRIE BITCOIN FUND
+  
+
+ 
+
+Order
+Form Effective Date: September 27, 2024 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONTENTS
+
+ 
+
+1.
+STATUS
+ OF ORDER FORM
+
+1
+
+ 
+ 
+
+ 
+
+2.
+DEFINITIONS 
+
+1
+
+ 
+ 
+
+ 
+
+3.
+TERM
+ AND TERMINATION 
+
+6
+
+ 
+ 
+
+ 
+
+4.
+APPOINTMENT 
+
+6
+
+ 
+ 
+
+ 
+
+5.
+DUTIES 
+
+8
+
+ 
+ 
+
+ 
+
+6.
+CLIENT
+ ASSETS 
+
+10
+
+ 
+ 
+
+ 
+
+7.
+CLIENT
+ USERS 
+
+12
+
+ 
+ 
+
+ 
+
+8.
+ENHANCEMENTS,
+ MAINTENANCE, SUPPORTED ASSETS, AIRDROPS, FORKS, REDUNDANCY AND BUSINESS CONTINUITY PLAN (“BCP”) 
+
+13
+
+ 
+ 
+
+ 
+
+9.
+SERVICES
+ FEE 
+
+16
+
+ 
+ 
+
+ 
+
+10.
+LIMITATION 
+
+16
+
+ 
+ 
+
+ 
+
+11.
+PERSONAL
+ DATA PROCESSING 
+
+16
+
+ 
+ 
+
+ 
+
+12.
+TERMINATION
+ AND CONSEQUENCES 
+
+17
+
+ 
+ 
+
+ 
+
+13.
+MISCELLANEOUS 
+
+18
+
+ 
+ 
+
+ 
+
+Schedule 1 : FINANCIAL MATTERS 
+
+20
+
+ 
+ 
+
+ 
+
+Schedule 2 : CUSTODY PROCEDURES FOR ASSETS 
+
+21

@@ -1,0 +1,1472 @@
+EX-10.13
+
+12
+
+d12389dex1013.htm
+
+EX-10.13
+
+EX-10.13
+
+Exhibit 10.13 
+
+PURSUANT TO ITEM 601(B)(10) OF REGULATION S-K, CERTAIN PORTIONS OF THIS EXHIBIT HAVE BEEN REDACTED AND, WHERE APPLICABLE, HAVE BEEN MARKED
+“[***].” SUCH REDACTIONS ARE IMMATERIAL AND WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED. 
+ 
+ 
+ 
+
+ 
+VEHICLE-DATA MARKETPLACE AGREEMENT 
+
+ 
+ 
+PROVIDER FORM 
+
+ 
+
+DATA PROVIDER INFORMATION:
+
+ 
+Company Name
+
+  
+
+MITSUBISHI MOTORS CORPORATION
+
+ 
+Website
+
+  
+
+www.mitsubishi-motors.com
+
+  
+
+Country
+
+  
+
+Japan
+
+ 
+Street Address
+
+  
+
+1-21,
+ Shibaura 3chome
+
+  
+
+Zip/postal code
+
+  
+
+108-8410
+
+ 
+City
+
+  
+
+Minato-ku
+
+  
+
+Company Phone
+
+  
+
+[***]
+
+ 
+State/Province
+
+  
+
+Tokyo
+
+  
+
+Company Email Address
+
+  
+
+DATA PROVIDER PRIMARY CONTACT:    
+
+ 
+Privacy Related Issues Contact:
+
+  
+
+ 
+First and Last Name
+
+  
+
+Shingaku Kochi
+
+  
+
+Email Address
+
+  
+
+ 
+[***]
+
+ 
+Title
+
+  
+
+General Manager
+
+  
+
+  
+
+ 
+First and Last Name
+
+  
+
+Shingaku Kochi
+
+  
+
+Office Direct Phone
+
+  
+
+ 
+[***]
+
+ 
+Title
+
+  
+
+General Manager
+
+  
+
+Email Address
+
+  
+
+ 
+[***]
+
+ 
+June 2 2020
+
+  
+
+  
+
+  
+
+OTONOMO INFORMATION:    
+
+ 
+Company Name
+
+  
+
+Otonomo GmbH
+
+ 
+Website
+
+  
+
+www.Otonomo.io
+
+  
+
+Country
+
+  
+
+Germany
+
+ 
+Street Address
+
+  
+
+Westendstraße 28,
+
+  
+
+Zip/postal code
+
+  
+
+60325
+
+ 
+City
+
+  
+
+Frankfurt am Main
+
+  
+
+  
+
+OTONOMO PRIMARY CONTACT:
+
+ 
+First and Last Name
+
+  
+
+Asaf Weisbrot
+
+  
+
+Office Direct Phone
+
+  
+
+ 
+[***]
+
+ 
+Title
+
+  
+
+Chief Commercial Officer
+
+  
+
+Email Address
+
+  
+
+ 
+[***]
+
+ 
+Privacy Related Issues Contact:
+
+  
+
+ 
+First and Last Name
+
+  
+
+Maya Nassie Neeman
+
+  
+
+Office Direct Phone
+
+  
+
+ 
+[***]
+
+ 
+Title
+
+  
+
+Head of Legal
+
+  
+
+Email Address
+
+  
+
+ 
+[***]
+
+ 
+VEHICLE-DATA MARKETPLACE AGREEMENT 
+
+ 
+
+SPECIFICATIONS: 
+
+Data specifications including but not limited to data types, use cases, limitation on data usages, fees, payments and terms shall be further specified on the
+applicable Data Details and Specification Annex. 
+ 
+ 
+
+Term
+
+  
+
+36 months, commencing at the execution of the Agreement.
+ 
+ACCEPTANCE OF TERMS 
+
+The use of Provider’s vehicle data and Provider’s use of the otonomo Marketplace under this Agreement, are subject to the attached otonomo
+Marketplace General Terms of Service, which serve as an integral part thereof. 
+ 
+ 
+
+ 
+Accepted by:
+ 
+otonomo
+GmbH
+
+  
+
+  
+
+ 
+Accepted by:
+ 
+MITSUBISHI
+MOTORS CORPORATION
+
+Authorized Signature:
+
+  
+
+  
+
+Authorized Signature:
+
+ 
+/s/ Ben Volkow
+
+  
+
+  
+
+ 
+/s/ Shingaku Kochi
+
+Print Name: Ben Volkow
+
+  
+
+  
+
+Print Name: Shingaku Kochi
+
+Title: CEO
+
+  
+
+  
+
+Title: General Manager, Connected Information Business
+
+Date: June 29, 2020
+
+  
+
+  
+
+Date: June 30, 2020
+
+ 
+VEHICLE-DATA MARKETPLACE AGREEMENT 
+
+ 
+
+GENERAL TERMS OF SERVICE 
+
+ 
+
+1.
+
+ 
+General. 
+ 
+ 
+
+ 
+
+a.
+
+ 
+These terms of service (“General Terms of Service”), together with the attached Provider form
+(“Provider Form”) and each data details and specifications annex (“Data Details and Specifications Annex”) form a binding agreement (the “Agreement”) between the data provider whose details are indicated in the Provider
+Form (“Provider”) and otonomo GmbH. (“otonomo” and Provider together referred to as the “Parties” and each referred to as a “Party”). 
+
+ 
+
+ 
+
+b.
+
+ 
+In the event of any conflict or inconsistency between any provision contained in this Agreement and any
+provision contained in any Data Details and Specification Annex, the provisions in this Agreement shall prevail unless the respective Data Details and Specification Annex expressly states that a particular provision in that respective Data Details
+and Specification Annex will take precedence over a specifically identified provision of this Agreement. 
+ 
+ 
+
+ 
+
+c.
+
+ 
+The Agreement governs Provider’s use of the otonomo vehicle-data marketplace platform
+(“Marketplace”) and otonomo’s rights to commercialize Provider’s vehicle data as indicated in the respective Data Details and Specification Annex (“Provider’s Data”) pursuant to the terms as set forth hereunder.
+Data Details and Specifications Annex will be definitively agreed between the Parities provided that the Parties shall follow the technical methodology and process pursuant to the provisions of Annex 2 IoT Hub Software License Agreement.
+
+ 
+ 
+
+ 
+
+d.
+
+ 
+At any time during the term of this Agreement, upon notice to otonomo and, if applicable Customers (hereinafter
+defined) have contracted with otonomo in connection with Marketplace Data before the notice, in coordination with otonomo. Provider may, at its sole discretion, change, modify, add, update, delete or reduce the scope, number or description of
+Provider’s Data and Data Details and Specification Annexes. 
+ 
+ 
+
+2.
+
+ 
+Right to Use Provider’s Data.
+ Provider will make Provider’s Data available to otonomo,
+pursuant to the specifications indicated in the respective Data Details and Specifications Annex, through the Marketplace. Provider grants otonomo and its affiliates a 
+non-exclusive,
+ 
+fee-based,
+ 
+non-transferable,
+ worldwide right to use, standardize, filter, normalize, or otherwise modify Provider’s Data, as required pursuant to otonomo’s
+discretion, and with Provider’s prior written consent, to offer for sale to otonomo’s customers (“Customers”) segments, insights and other data derived from Provider’s Data including in aggregated forms (“Marketplace
+Data”), and to permit Customers to use, distribute, sell, offer for sale and modify Marketplace Data, and use it aggregated with data from other sources, (collectively “Derivative Data”), which Customer will incorporate into its own
+products and services pursuant to purposes and subject to the limitations as set forth in the respective
+
+ 
+
+Data Details and Specifications Annex (“Purposes”) and the terms and conditions hereunder, provided, however, that otonomo shall, and shall have Customers to, comply with any and all
+instruction and guidance in connection with Provider’s Data to be provided by Provider from time to time. otonomo may further use segments of Provider’s Data, free of charge, to test, develop and operate the Marketplace. 
+
+ 
+
+3.
+
+ 
+Right to Use the Marketplace.
+ otonomo grants Provider and its affiliates a 
+non-exclusive,
+ 
+free-of-charge
+ (except otherwise indicated in the respective Data Details and Specifications Annex), 
+non-transferable,
+ worldwide right to access the Marketplace during the term of this Agreement and the respective Data Details and Specifications Annex, pursuant to the technical specifications and means of
+communications, as available and conveyed by otonomo to Provider, solely to commercialize Provider’s Data through the Marketplace under the terms of this Agreement and the respective Data Details and Specifications Annex. Provider may not
+upload, send or otherwise make available to the Marketplace any data, other than as explicitly designated in the Data Details and Specifications Annex. Notwithstanding the foregoing, otonomo shall provide to Provider on a quarterly basis a list of
+Customers who consume the Provider’s Data. 
+ 
+ 
+
+4.
+
+ 
+Reports.
+ otonomo will provide Provider with reports, related to the commercialization and potential
+business opportunities associated with Provider’s Data, as set forth in the specifications section under the respective Data Details and Specifications Annex. 
+
+ 
+
+5.
+
+ 
+Fees.
+ In consideration for otonomo’s right to sell Marketplace Data and Provider’s right to
+use Marketplace under this Agreement, the Parties agree on revenue-share fee as set forth in the Data Details and Specifications Annex. Provider will be entitled to annual fees equal to the percentage set forth in the Details and Specifications Form
+of the revenues actually collected by otonomo from selling Marketplace Data to Customers, apart from refunds and chargebacks, pursuant to the provision of IoT Hub Software License Agreement specified in ANNEX 2. No later than thirty (30) days
+following the end of every calendar month, otonomo will provide Provider with a monthly report on Customers’ executed and paid transactions in relation to the Marketplace Data. Based on otonomo’s monthly reports, Provider will invoice
+otonomo on an annual basis, and otonomo will pay the invoice amount pursuant to the payment terms as indicated in the Details and Specifications Form. Provider may dispute Provider’s share of the revenue, by sending a written dispute notice to
+otonomo, and the parties will make good-faith efforts to resolve the dispute pursuant to the dispute resolution process hereunder. 
+ 
+ 
+
+6.
+
+ 
+Tax.
+ Each Party is responsible for all taxes imposed on its income with no recovery from the other Party
+for such tax. In the event a jurisdiction requires one Party to withhold tax from a payment to the other Party, the withholding Party will provide the other Party with appropriate documentation and will apply the tax withholding as a payment. There
+will be no 
+gross-up
+ for any withheld taxes. Each Party will be responsible for its own transactional taxes, including, but not limited to, any sales, use, excise, services, value added tax, goods and services
+tax, or any similar type tax, related compliance obligations due to the applicable taxing authority, except for those which the Party has provided the other Party with an appropriate exemption certificate.
+
+ 
+
+ 
+VEHICLE-DATA MARKETPLACE AGREEMENT 
+
+ 
+
+7.
+
+ 
+Privacy. 
+ 
+ 
+
+ 
+
+a.
+
+ 
+The Parties undertake to comply with the provisions of Annex 4 when using and 
+
+ 
+
+ 
+
+b.
+
+ 
+processing personal information in connection with the Parties’ activities under this Agreement including
+under all annexes. Annex 4 serves as integral part of this Agreement. 
+ 
+ 
+
+ 
+
+c.
+
+ 
+otonomo hereby represents and warrants that otonomo satisfies all items of the IT Security Checklist specified
+in ANNEX 3 
+ 
+ 
+
+ 
+
+d.
+
+ 
+otonomo and Data Provider act as independent data controllers. otonomo shall act as a data controller with
+regards to Provider’s Data stored or transmitted in the Marketplace, Provider’s Data being used to test, develop and operate the Marketplace pursuant to the provision of Marketplace Agreement, the Marketplace Data and Derivative Data and
+as applicable, receive appropriate assurances from the Customers that (i) Customers will use and process the Marketplace Data to the extent necessary for the purposes for which the relevant Individuals’ explicit consents are received by
+Data Provider in relation to the transmission and provision of the relevant Provider’s Data to Marketplace, (ii) all notices have been provided to relevant Individuals and explicit consent received by them, as necessary and pursuant to the
+applicable Privacy Laws and Regulations, for Otonomo to Process the Personal Information under the Agreement and pursuant to Annex 4 and transfer the Personal Information to the applicable Customers (all capitalized terms under this subsection shall
+have the meaning provided to them under Annex 4). 
+ 
+ 
+
+ 
+
+e.
+
+ 
+otonomo shall not provide Marketplace Data and Derivative Data which contains Personal Data to Customers unless
+such Customers have received explicit consent from relevant Individuals 
+ 
+ 
+
+ 
+
+f.
+
+ 
+Data Provider shall act as a data controller with regards to transmission and provision of Provider’s Data
+to Marketplace including for the use, distribution and trans-border transfer of the Data Provider’s Data, which encompasses the use of the Data Provider’s Data under the terms of the Agreement, notify the Individuals of otonomo’s
+privacy policy, notify the Individuals that the relevant Marketplace Data will be provided through Marketplace to Customers who receive the Individuals’ explicit consent in relation to the provision and transfer of the Marketplace to such
+Customers, and receive the Individuals’ explicit consents in connection to (i) transmission and provision of Provider’s Data to Marketplace, and (ii) purposes of such transmission and provision of Provider’s Data.
+
+ 
+ 
+
+ 
+
+g.
+
+ 
+Each Party shall conduct Data Protection Impact Assessment (“DPIA”) in order to identify and minimize
+the data protection risks of processing operations in relation to this Agreement.
+
+ 
+
+8.
+
+ 
+Lawfulness of Provider’s Data.
+ Provider represents and warrants, and at otonomo’s request will
+be able to sufficiently demonstrate that: (i) Provider collects, obtains and processes Provider’s Data lawfully, without violating any third parties’ rights, contractual obligations or the applicable law; (ii) Provider has all
+rights, title, licenses, permissions, consents, authorization and title to grant the rights and permissions to use Provider’s Data under the terms of this Agreement; (iii) The processing and use of Provider’s Data by otonomo under the
+terms of this Agreement will not violate the Individuals’ rights including without limitation privacy, data protection, good-will, good name and publicity rights, to the extent that (a) the said processing and use are within the scope and
+purpose of this Agreement and (b) otonomo complies with and abide by all and any of terms and conditions hereunder. Provider will provide the Provider’s Data on 
+“as-is”
+ basis, and makes no
+representation or warranty with respect to the truth or accuracy of the Provider’s Data. 
+ 
+ 
+
+ 
+
+9.
+
+ 
+Mutual Assistance.
+ Each Party undertakes to use commercially reasonable efforts to assist the other
+Party: (i) by sharing relevant information and documentation, and providing prompt responses to questions and inquiries, to optimize the commercialization of the Marketplace Data and to demonstrate compliance with applicable laws; (ii) to
+fulfil the other Party’s obligations toward Individuals under the applicable law, including assistance in handling Individuals’ requests to access, rectify, stop processing or delete personal data related to them; (iii) to effectuate
+such Party’s proprietary rights, including by assisting in applications and registrations of rights; (iv) in managing security incidents and breach notification requirements under the applicable law. 
+
+ 
+
+ 
+
+10.
+
+ 
+Limitations on Customers.
+ otonomo shall grant a Customer permission to use the Marketplace Data pursuant
+to a binding agreement executed between otonomo and the Customer, which shall include the following substantial requirements: (i) Customer’s use of the Marketplace Data will not exceed the purposes and limitations of use under the terms of
+this Agreement, as set forth in the respective Data Details and Specifications Annex; (ii) Customer will keep the Marketplace Data confidential, will implement appropriate safeguards to secure the Marketplace Data, and will not disclose such
+Marketplace Data to any third party apart from Derivative Data as defined above; (iii) Customer will not attempt to 
+re-identify
+ 
+de-identified
+ the Marketplace Data;
+(iv) Where applicable, Customer’s use of the Marketplace Data will be conditioned on Customer’s provision of additional notices and disclosures to Individuals and receipt of their consent, as required under the applicable law;
+(v) Upon termination or expiration of this Agreement, Customer will cease any use of the Marketplace
+
+ 
+
+ 
+VEHICLE-DATA MARKETPLACE AGREEMENT 
+
+ 
+
+ 
+
+Data derived from Provider’s Data and delete or destroy such Marketplace Data. Customer however may continue to use, prepare, sell and license Derivative Data incorporated into its products
+and services following the termination of this Agreement or any of the respective Annexes provided that the Marketplace Data cannot be extracted in any way and by any means from the Derivative Data and cannot be identified as a source for the
+Derivative Data. Notwithstanding the foregoing, otonomo shall ensure Customer’s compliance with the above requirements including the confidentiality obligations on the treatment of the Marketplace Data. Any execution of a binding agreement by
+otonomo which does not sufficiently contain all of the foregoing requirements shall be considered a material breach of this Agreement. 
+ 
+ 
+
+ 
+
+11.
+
+ 
+Feedback.
+ Per otonomo’s reasonable requests and on Provider’s own initiative, Provider will
+provide otonomo from time to time with feedbacks and notices about issues, discrepancies and ideas related to the Marketplace (collectively: “Feedback”), which come to Provider’s attention during the term of this Agreement and the
+respective Data Details and Specifications Annex, and hereby assigns to otonomo all right, title and interest to the Feedback and all proprietary rights therein including without limitation all patent, copyright, trade secret, mask work, trademark,
+moral right or other intellectual property rights. 
+ 
+ 
+
+12.
+
+ 
+Term and Termination.
+ 
+
+ 
+
+ 
+
+a.
+
+ 
+The Term of the Agreement is as set forth by the Parties in the Provider Form. Although the Data Details and
+Specification Annex Term may be shorter than the Term of this Agreement, in no event will the term of a Data Details and Specification Annex extend beyond the Term of this Agreement. 
+
+ 
+
+ 
+
+b.
+
+ 
+Each Party to this Agreement may terminate the applicable Data Details and Specification Annex for convenience
+with at least three (3) months prior written notice and termination of the Annex shall not terminate these General Terms of Service. 
+ 
+ 
+
+ 
+
+c.
+
+ 
+Each Party may terminate these General Terms of Service for convenience with six (6) months prior written
+notice. 
+ 
+ 
+
+ 
+
+d.
+
+ 
+Unless otherwise specifically agreed any termination of these General Terms of Service will automatically
+terminate all Annexes then in effect. 
+ 
+ 
+
+ 
+
+e.
+
+ 
+Each Party to this Agreement may terminate the Agreement forthwith by written notice to the other Party in any
+of the following events; (i) if the other Party commits a material breach of the Agreement; (ii) if the other Party commits an immaterial breach of
+
+ 
+
+the Agreement and does not cure the breach within thirty (30) days after receiving a written notice by the first Party about the breach; (iii) if the other Party becomes insolvent or
+enters into liquidation or has a bankruptcy order made against it; (iv) if the other Party is guilty of any conduct which is prejudicial to the goodwill or reputation of the first Party; or (v) upon a Change of Control of the other Party.
+The term “Change of Control” means (l) a sale of all or substantially all of the other Party’s assets, (2) a merger, consolidation or other capital reorganization or business combination transaction of the other Party with
+or into another corporation, limited liability company or other entity or (3) the consummation of a transaction, or series of related transactions, in which any person or entity becomes the beneficial owner, directly or indirectly, of all or
+substantially all of the other Party’s then outstanding voting securities. Upon termination or expiration of this Agreement, Provider will cease any use of the Marketplace and the transfer of Provider’s Data to otonomo, and otonomo will
+cease any use of the Marketplace Data derived from Provider’s Data and delete or destroy such Provider’s Data and Marketplace Data. 
+ 
+ 
+
+13.
+
+ 
+Confidentiality and Security.
+ For the purposes of this Agreement, “Confidential Information”
+means any information that is marked “Confidential”, “Proprietary”, in some other manner indicates confidential nature, or if such information is otherwise reasonably expected to be treated in a confidential manner under the
+circumstances. For Provider, Confidential Information includes 
+non-public
+ information which Provider received, directly or indirectly, from the Marketplace or from other communications with otonomo. For
+otonomo, Confidential Information includes 
+non-public
+ information related to Provider’s Data. Each Party undertakes to maintain the other Party’s Confidential Information in strict confidentiality.
+Each Party will not make copies of the other Party’s Confidential Information, except for the necessary uses consistent with the Purposes and under the terms herein. Each Party may access the other Party’s Confidential Information on a
+strict ‘need to know’ basis, as required and subject to the confidentiality terms herein. Each Party will use appropriate technical and organizational measures to secure the other Party’s Confidential Information and in a manner no
+less protective than the measures that the Party uses to protect Party’s own similar confidential information, but in no event less than reasonable care and as required under the applicable law. Each Party will not disclose any 
+non-public
+ information related to the other Party’s Confidential Information, or have it disclosed, directly or indirectly, to any third party without the other Party’s prior written consent. If one Party
+is compelled by law to disclose information which related to the other Party’s Confidential Information, then the Party will promptly provide the other Party a prior
+
+ 
+
+ 
+VEHICLE-DATA MARKETPLACE AGREEMENT 
+
+ 
+
+ 
+
+notice of such compelled disclosure (to the extent legally permitted) and will further provide the other Party with reasonable assistance in obtaining an order protecting the Confidential
+Information from disclosure. Each Party will disclose only the information related to the Confidential Information which is required by law to be disclosed and avoid disclosure of any excess data. The obligations of this Section 13 will survive
+termination or expiration of this Agreement and continue for three (3) years from the date of expiration or termination of the Agreement. Notwithstanding, each Party will maintain the confidentiality of any trade secret embodied in the
+Confidential Information for so long as it remains a trade secret. Unauthorized use or disclosure of Confidential Information by one Party may result in an immediate and irreparable injury to the other Party or its affiliates, for which monetary
+damages may not be adequate. If any use of Confidential Information violates or is likely to violate the Agreement, then the Party may, in addition to any other rights and remedies available to the Party under the applicable law, be entitled to
+equitable relief, including temporary and permanent injunctive relief and specific performance. 
+ 
+ 
+
+14.
+
+ 
+Mutual Warranty.
+ Each Party represents and warrants to the other Party that it has procured the
+necessary agreements, permissions and rights of use, to execute, enter into, and perform such Party’s obligations under the Agreement and any Data Details and Specifications Annex. 
+
+ 
+
+15.
+
+ 
+otonomo Warranty.
+ otonomo represents and warrants that: (i) otonomo will comply with all laws and
+regulations applicable to otonomo in its performance under this Agreement including, without limitation, those laws and regulations applicable to the Marketplace, and use commercially reasonable efforts to operate the Marketplace efficiently and
+available at all times, while taking into consideration that certain risks are nevertheless inherent in the transmission of information over the internet and information networks, and the storage of data. Therefore, otonomo does not warrant that the
+Marketplace will be fault-free except for those deemed as fault by otomono in the industry and based on the industry practice or standard; and (ii) otonomo is not aware of actual claims, third party rights or interests, or other actions
+involving Marketplace, or otherwise relating to its obligations, that would interfere with its ability to grant otonomo’s rights or perform otonomo’s obligations as provided in this Agreement. If the Marketplace is held to, or otonomo
+believes it is likely to be held to infringe a copyright, patent or trade secret, otonomo will have the right at otonomo’s sole discretion and expense to: (i) substitute or modify the Marketplace potentially infringing components, so that
+it is 
+non-infringing;
+ or (ii) obtain a license to continue using such components. 
+ 
+ 
+
+16.
+
+ 
+No Other Warranties.
+ Except for any warranty specifically granted under this Agreement and the
+Parties’ commitments under the Privacy Statement, to the maximum extent permitted by law, the Parties, the Parties’ affiliates and any person on a Party’s behalf, expressly disclaim any and all warranties, conditions, representations
+and guarantees with respect to this Agreement, whether express or implied, arising by law, custom, prior oral or
+
+ 
+
+written statements, or otherwise, including, without limitation, any warranty of merchantability, accuracy, completeness correctness, fitness for a particular purpose or 
+non-infringement.
+ No representation or other affirmation of fact, including, without limitation, statements regarding capacity or suitability for use or performance of Marketplace, Provider’s Data and the usage
+thereof, whether made by a Party’s employees, contractors, or otherwise, which is not contained in this Agreement, will be deemed to be a warranty by the Party for any purpose, or give rise to any liability of the Party. 
+
+ 
+
+17.
+
+ 
+Limited Liability.
+ To the maximum extent permitted by the applicable law, a Party, including a
+Party’s employees, directors, shareholders, advisors, third party services providers and anyone acting on a Party’s behalf, will not be liable for any indirect, incidental, consequential, special or punitive damages, or any loss of profit,
+or expenses of any kind, arising from, or in connection with this Agreement or any of the respective Annexes, whether such liability is asserted on the basis of contract, tort or otherwise. A Party’s aggregated liability for direct damages, as
+a result of commission or omission by a Party, or anyone on a Party’s behalf, and the other Party’s sole remedy, will not exceed the fees actually due to Provider from otonomo within in the twelve (12) months preceding the occurrence
+of the claimed damage. Notwithstanding the foregoing, neither Party’s liability to the other for damages suffered by the other Party shall be limited under any provisions of this Agreement if the damages arise from: (i) breach of the
+confidentiality obligations under Section 13; or (ii) violation of any applicable law or personal data protection law, including, but not limited to, breach of the Privacy Statement, and the General Data Protection Regulation (EU) 2016/679
+(GDPR) and as such regulation modified from time to time. 
+ 
+ 
+
+18.
+
+ 
+Indemnification.
+ Each Party undertakes to indemnify and hold the other Party harmless from and against
+third party court actions, written demands or investigations (“Claims”) arising directly out of the indemnifying Party’s breach of any provision of this Agreement or any commitment under the Privacy Statement or violation of any
+applicable law or personal data protection law, including, but not limited to, the General Data Protection Regulation (EU) 2016/679 (GDPR) and as such regulation modified from time to time. Furthermore. The indemnifying Party’s indemnity will
+cover damages, costs and expenses, including reasonable attorneys’ fees that the indemnified Party will incur in responding to Claims. The indemnifying Party’s obligation under this section will apply provided that: the indemnified Party
+notifies the indemnifying Party in writing about a Claim, promptly after becoming aware of the Claim; gives the indemnifying Party the right to control and direct the investigation, preparation, defense, trial and settlement of the Claim; that the
+indemnified Party will not make any admission of liability, agreement or compromise in relation to the Claim without the indemnifying Party’s prior written consent; that the indemnifying Party will promptly reimburse the indemnified Party with
+the indemnification payments upon a final decision of a competent court, or an instruction or decision of a government or other regulatory or supervisory authority or subject to the explicit written agreement of the Parties; and that the indemnified
+Party will fully cooperate with the indemnifying Party in the defense and settlement of the Claim. 
+ 
+
+ 
+VEHICLE-DATA MARKETPLACE AGREEMENT 
+
+ 
+
+19.
+
+ 
+Intellectual Property.
+ Each Party owns and retains sole ownership in such Party’s intellectual
+rights in works, inventions, designs and know how, including all rights in any modifications, enhancements, results associated thereto. 
+ 
+ 
+
+20
+
+ 
+Publication.
+ The Parties will jointly coordinate all press conferences, press releases, public
+statements or any other publicity, if any, including without limitation, the existence or contents of this Agreement (“Public Communication”). In no event will any Public Communication be allowed without the mutual consent in writing of
+both Parties hereto. At any time, Provider may request otonomo to remove or cease such indication and otonomo will act accordingly, to the extent possible. 
+ 
+ 
+
+21.
+
+ 
+Dispute Resolution.
+ Prior and as a condition for commencing a legal action, a Party will create an
+escalation process and provide a written copy to the other Party within five (5) business days of any dispute arising out of or relating to this Agreement or any of the respective Annexes. The escalation process will be used to resolve any and
+all issues, including but not limited to legal issues and technical problems. The Parties will communicate regularly about the issues as set forth in their respective escalation process documentation and attempt in good faith to resolve any dispute
+arising out of or relating to this Agreement or any of the respective Annexes, first as set forth above in the escalation process and next by negotiation between higher level executives with authority to settle the controversy. Any Party may give
+the other Party a written notice of any dispute not resolved in the escalation process. Within two (2) business days after delivery of the notice, the receiving Party will submit to the other a written response. The notice and the response will
+include (a) a statement of each Party’s position and a summary of arguments supporting that position and (b) the name and title of the executive who will represent that Party. Within five (5) business days after delivery of the
+disputing Party’s notice, the executives of both Parties will meet at a mutually acceptable time and place, including telephonically, and thereafter as often as they reasonably deem necessary, to attempt to resolve the dispute. All reasonable
+requests for information made by one Party to the other will be honored. All negotiations pursuant to this clause are confidential and will be treated as compromise and settlement negotiations for purposes of applicable rules of evidence.
+
+ 
+ 
+
+22.
+
+ 
+Governing Law.
+ This Agreement and any dispute arising out of or related thereto or to the Agreement and
+any of the respective Annexes are governed solely by the laws of the England, without giving effect to any conflicts of law principles which would result in the application of the laws of a jurisdiction other than the England. Any dispute, claim or
+controversy arising out of, connected with or relating to the Agreement will be finally settled by arbitration in London in accordance with the Rules of Arbitration of the International Chamber of Commerce by one or more arbitrators appointed
+
+ 
+
+in accordance with the said Rules. Such arbitration shall be conducted in English. The award of the arbitrators shall be final and binding upon the Parties. 
+
+ 
+
+23.
+
+ 
+Entire Agreement.
+ The Agreement including any annexes constitute the entire agreement between the
+Parties with respect to the subject matter hereof, and supersedes all prior oral or written representations or agreements. No terms issued by Provider or appearing on any other document provided by Provider including without limitation any invoice,
+order, purchase order or acknowledgment form will have any force or effect or otherwise be binding on the Parties. No amendment to this Agreement will be binding upon either Party unless it is in writing and is duly signed by both Parties.
+
+ 
+ 
+
+24.
+
+ 
+Notices.
+ Except as otherwise provided in this Agreement or any of the respective Annexes, any notice
+required or permitted by the Agreement will be in writing and will be sent by prepaid, registered or certified mail, return receipt requested, or by reputable overnight courier addressed to the other Party at the address shown in the Agreement or at
+such other address for which such Party gives notice hereunder. Such notice will be deemed to have been given when delivered. 
+ 
+ 
+
+25.
+
+ 
+Partial Invalidity.
+ If any provision of the Agreement is held invalid or unenforceable, that provision
+must be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the Parties and the remaining provisions will remain in full force and effect. The Parties agree to renegotiate in good faith
+any term held invalid and to be bound by the mutually agreed substitute provision. 
+ 
+ 
+
+26.
+
+ 
+No Waiver.
+ The failure of either Party to enforce at any time any of the provisions of this Agreement,
+or the failure to require at any time performance by the other Party of any of the provisions of this Agreement, will in no way be construed as a present or future waiver of such provisions, nor in any way affect the validity of either Party to
+enforce each and every such provision thereafter. 
+ 
+ 
+
+27.
+
+ 
+Assignment.
+ Each Party may assign to a third party its rights and obligations under this Agreement and
+any of the respective Annexes upon a merger with or acquisition of all or substantially all of a Party’s assets by that third party, provided that the third party undertakes the assigning Party’s entire rights and obligations under this
+Agreement. All other assignments of rights and obligations under this Agreement are null and void without the prior written consent of the other Party. Notwithstanding anything to the contrary in the above, the Provider may, at its sole discretion,
+sublicense, assign or transfer any of its rights and/or obligation hereunder partially, as a whole or in whatever manner, to any of its affiliated companies upon the written notice to otonomo at anytime during the term of this Agreement.
+
+ 
+    
+
+ 
+
+Annex 1 
+
+DATA DETAILS AND SPECIFICATIONS ANNEX (NO.1) 
+ 
+ 
+
+Data Types
+
+  
+
+ 
+[***]
+
+  
+
+Purposes of Data Use
+
+  
+
+ 
+[***]
+
+Vehicle Data Collection Frequency
+
+  
+
+ 
+[***]
+
+  
+
+Limitations on Data Use
+
+  
+
+ 
+[***]
+
+Vehicle Data Points
+
+  
+
+ 
+[***]
+
+  
+
+Car Locations
+
+  
+
+ 
+[***]
+
+Initiation of Data Transfer
+
+  
+
+ 
+[***]
+
+  
+
+  
+
+Additional Specifications
+
+  
+
+  
+
+  
+
+ 
+TERM OF THE PROJECT AND PAYMENT TERMS 
+ 
+ 
+
+Fees
+
+  
+
+ 
+[***]
+
+Payment terms and method
+
+  
+
+ 
+Terms: Net 30 days
+ 
+Method: Wire
+transfer
+
+Term
+
+  
+
+36 months, commencing at the execution of the Marketplace Agreement.
+
+ 
+ 
+8 
+
+DATA PARAMETERS 
+ 
+ 
+
+ 
+No.
+
+  
+
+ 
+Parameter Name
+
+1
+
+  
+
+ 
+[***]
+
+2
+
+  
+
+ 
+[***]
+
+3
+
+  
+
+ 
+[***]
+
+4
+
+  
+
+ 
+[***]
+
+5
+
+  
+
+ 
+[***]
+
+6
+
+  
+
+ 
+[***]
+
+7
+
+  
+
+ 
+[***]
+
+8
+
+  
+
+ 
+[***]
+
+9
+
+  
+
+ 
+[***]
+
+10
+
+  
+
+ 
+[***]
+
+11
+
+  
+
+ 
+[***]
+
+12
+
+  
+
+ 
+[***]
+
+13
+
+  
+
+ 
+[***]
+
+14
+
+  
+
+ 
+[***]
+
+15
+
+  
+
+ 
+[***]
+
+16
+
+  
+
+ 
+[***]
+
+17
+
+  
+
+ 
+[***]
+
+18
+
+  
+
+ 
+[***]
+
+19
+
+  
+
+ 
+[***]
+
+20
+
+  
+
+ 
+[***]
+
+21
+
+  
+
+ 
+[***]
+
+22
+
+  
+
+ 
+[***]
+
+23
+
+  
+
+ 
+[***]
+
+24
+
+  
+
+ 
+[***]
+
+25
+
+  
+
+ 
+[***]
+
+26
+
+  
+
+ 
+[***]
+
+27
+
+  
+
+ 
+[***]
+
+28
+
+  
+
+ 
+[***]
+
+29
+
+  
+
+ 
+[***]
+
+30
+
+  
+
+ 
+[***]
+
+31
+
+  
+
+ 
+[***]
+
+32
+
+  
+
+ 
+[***]
+
+33
+
+  
+
+ 
+[***]
+
+34
+
+  
+
+ 
+[***]
+
+35
+
+  
+
+ 
+[***]
+
+36
+
+  
+
+ 
+[***]
+
+37
+
+  
+
+ 
+[***]
+
+38
+
+  
+
+ 
+[***]
+
+39
+
+  
+
+ 
+[***]
+
+40
+
+  
+
+ 
+[***]
+
+41
+
+  
+
+ 
+[***]
+
+42
+
+  
+
+ 
+[***]
+
+43
+
+  
+
+ 
+[***]
+
+44
+
+  
+
+ 
+[***]
+
+45
+
+  
+
+ 
+[***]
+
+46
+
+  
+
+ 
+[***]
+
+47
+
+  
+
+ 
+[***]
+
+ 
+ 
+9 
+
+ACCEPTANCE OF TERMS 
+
+Customer’s use of the Marketplace and the Marketplace Data, are subject to the Otonomo Marketplace General Terms of Service, which serve as an integral
+part thereof. 
+ 
+ 
+
+ 
+Accepted by:
+ 
+otonomo
+GmbH
+
+  
+
+  
+
+ 
+Accepted by:
+ 
+MITSUBISHI
+MOTORS CORPORATION
+
+Authorized Signature:
+
+  
+
+  
+
+Authorized Signature:
+
+ 
+/s/ Ben Volkow
+
+  
+
+  
+
+/s/ Shingaku Kochi
+
+Print Name: Ben Volkow
+
+  
+
+  
+
+Print Name: Shingaku Kochi
+
+Title: CEO
+
+  
+
+  
+
+Title: General Manager, Connected Information Business
+
+Date: June 29, 2020
+
+  
+
+  
+
+Date: June 30, 2020
+
+ 
+ 
+10

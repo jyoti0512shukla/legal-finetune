@@ -1,0 +1,1601 @@
+EX-10.8
+
+2
+
+bngo-ex108skorpiosmasterse.htm
+
+EX-10.8
+
+Document
+Exhibit 10.8
+CERTAIN INFORMATION CONTAINED IN THIS EXHIBIT, MARKED BY [***], HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE THE REGISTRANT HAS DETERMINED THAT IT IS BOTH NOT MATERIAL AND IS THE TYPE THAT THE REGISTRANT TREATS AS PRIVATE OR CONFIDENTIAL.MASTER SERVICES AGREEMENT
+MASTER SERVICES AGREEMENT
+This 
+MASTER SERVICES AGREEMENT 
+(the “Agreement”) is entered into effective as of March 2, 2009 (“
+Effective Date
+”) by and between 
+SVTC TECHNOLOGIES
+, 
+LLC
+, a Delaware limited liability company, with principal offices at 3901 North First Street, San Jose, CA 95134, USA, (“SVTC”) and BioNanomatrix, Inc., a Delaware Corporation, with principal offices located at 3701 Market St, 4th Floor, Philadelphia, Pennsylvania 19104, USA (“Customer”).
+RECITALS
+WHEREAS, SVTC including its facilities located in San Jose, CA and Austin, TX, own and operate semiconductor manufacturing, research and development facilities, offers semiconductor-process engineering development and related services, and also licenses related intellectual property; and,
+WHEREAS, Customer desires to engage SVTC to provide certain of the above services or to licenses SVTC intellectual property, NOW THEREFORE, for valuable consideration, the parties hereby agree as follows:
+1.
+DEFINITIONS
+1.1
+“
+Affiliate
+” 
+shall mean any entity that controls, is controlled by or is under common control with SVTC or Customer. For purposes of this definition, “control” shall mean beneficial ownership of (i) more than fifty percent (50%) of the shares of the subject entity entitled to vote in the election of directors (or, in the case of an entity that is not a corporation, for the election of the corresponding managing authority); or (ii) such lesser percentage as is the maximum control or ownership right permitted in the country where the subject entity exists. A “Wholly Owned Affiliate” shall mean an entity that is at least eighty percent (80%) controlled by a party to this Agreement.
+1.2
+“
+Confidential Information
+” 
+shall mean information that is disclosed between the parties under this Agreement conspicuously marked or confirmed in writing if oral, that the disclosure is confidential, including the disclosure of any Technology, intellectual property or other documentation or any product plans, business, financial or personnel information. “Confidential Information” shall not include information which: (i) is publicly disclosed by the receiving party with the prior written approval of the disclosing party; (ii) is independently developed by the receiving party without use of the disclosing party’s Confidential Information; (iii) is intentionally disclosed by the disclosing party to a third party without restriction on disclosure; (iv) is rightfully received by the receiving party from a third party without a duty of confidentiality; or (v) is disclosed pursuant to any judicial or governmental order, provided that the receiving party gives the disclosing party sufficient prior written notice to contest such order.
+1.3
+“
+Customer Personnel
+” 
+shall mean all employees, contractors, agents and any others brought onto SVTC premises by or at the behest of Customer, who are therefore subject to provisions of this Agreement.
+1.4
+“
+Intellectual Property Rights
+” 
+shall mean those rights emanating from forms of intellectual property as defined by applicable laws including any or all of the following and all rights in, arising out of, or associated therewith: (i) all patent rights and all reissues, renewals, re-examinations, continuations, continuations in part, divisions and extensions thereof or foreign counterparts thereto, and all applications for any of the foregoing; (ii) all trade secrets and other rights in know-how and confidential or proprietary information; (iii) all copyrights, copyrights registrations and related applications and all other rights in or to works of authorship corresponding thereto throughout the world; (iv) all mask works, mask work registrations and applications, and any equivalent or similar rights in semiconductor masks, layouts, architectures or topology; (v) all trademarks, service marks, trade names, service names, trade dress, domain names and similar rights; and (vi) any corresponding or equivalent rights to any of the foregoing now known or hereafter recognized anywhere in the world.
+BioNanomatrix MSA462393-001
+1.5
+“
+Line
+” 
+or 
+“
+Pilot Line
+” 
+shall mean semiconductor wafer processing facilities, which also may be referred to as the “fab” or “foundry” and that are operated by SVTC.
+1.6
+“
+Start Date
+” 
+shall mean the mutually agreed date that SVTC will begin providing services under this Agreement and the attached Schedules.
+1.7
+“
+Schedule
+” 
+means one or more documents attached to this Agreement, spelling out the details of Customer projects and the specific terms and conditions that will apply to the provision of SVTC services for those projects; exhibits may be attached to Schedules. By way of example, A “Statement of Work” or “Scope of Work” or “SOW” may be attached.
+1.8
+“
+SVTC Personnel
+” 
+shall mean all employees, contractors or agents of SVTC.
+1.9
+“
+Technology
+” 
+means embodiments of Intellectual Property Rights, whether in electronic, written or other media, including technical documentation, specifications, designs, bills of material, build instructions, test reports, schematics, algorithms, user interfaces, routines, formulae, process libraries or recipe books, test vectors, IP cores, net lists, photomasks, reticles, databases, lab notebooks, processes, prototypes, samples, studies, wafers, chips, know-how, or other works of authorship.
+1.10
+“
+Term
+” 
+means the period commencing on the Effective Date and ending on the date that this Agreement expires or is terminated.
+2.
+SERVICES AND SUPPORT
+1.1
+Services
+. SVTC will provide Customer the services described in Schedules and other attachments to this Agreement, which are incorporated by reference. In the event of a conflict between the terms and conditions of any attachment and this Agreement, the terms and conditions of this Agreement shall govern unless explicitly superseded in such attachment.
+1.2
+Premises Support for Customer Personnel
+. Customer may request support or facilities for Customer Personnel on SVTC premises such as that provided to Resident Partner customers, as defined and described in applicable attachments. Unless agreed in writing otherwise, SVTC shall not make available for Customer, clerical, administrative or infrastructure support or any physical space on its premises.
+1.3
+Equipment
+. Except as otherwise set forth herein or in a Schedule, as between the parties, SVTC will own all equipment in the fab or elsewhere on SVTC’s premises and Customer will acquire no rights or interest in or to any equipment at SVTC premises as a result of this Agreement. If it is agreed in an attachment that Customer may bring equipment into the fab or elsewhere on SVTC premises, whether to be operated by SVTC or by Customer, such equipment must be pre-approved by SVTC, is subject to being located or relocated during the term of this Agreement if required by SVTC, and must be promptly removed on the termination of this Agreement. Customer shall have no right to any particular space on the premises and the space that is assigned may expand or contract as required or as mutually agreed for specific projects pursuant to this Agreement.
+1.4
+Legal Status While On Premises
+. The legal status of Customer Personnel while on SVTC premises is that of an invitee. In the event that any individual who is an employee of Customer, or anyone else who is on the SVTC premises at the invitation of Customer, fails to comply with the safety, security, confidentiality, or other applicable conditions in this Agreement, its attachments, or in other mutually agreed documents, then SVTC may order such individuals off the premises and their continued presence will be considered that of a trespasser.
+1.5
+Wafer/Silicon Reclamation and Recycling
+. SVTC supports the reclamation and recycling of discarded wafers and scrap silicon. If applicable to Customer, it is acknowledged that if any is not removed by Customer, it will be destroyed, reclaimed, or recycled at SVTC’s sole discretion.
+BioNanomatrix MSA462393-001
+1.6
+Hazardous Materials
+. No hazardous or toxic materials may be brought onto SVTC premises without SVTC’s prior written consent. All materials to be used in the fab, whether or not toxic or otherwise hazardous, must be pre-approved by SVTC.
+3.
+CUSTOMER PAYMENT ARRANGEMENTS
+1.1
+Fees and Costs
+. All information on prices, fees, and costs to be paid by Customer shall be listed in attached Schedule[s]. Unless otherwise specifically stated in the applicable Schedule, the payment terms shall be as described below in Section 3.4.
+1.2
+Taxes
+. All fees stated herein or otherwise provided by SVTC pursuant to this Agreement are exclusive of taxes. Customer shall be responsible for and shall pay any applicable sales, use, excise, withholding or similar taxes, including value added taxes (VAT) and customs duties, that may be due for the provision of services and licenses under this Agreement, or for the purchase of wafers or other deliverables hereunder, excluding any taxes based on SVTC’s net income. Customer will make all payments hereunder free and clear of, and without reduction for, any withholding taxes; any such taxes imposed on payments of the fees to SVTC will be Customer’s sole responsibility. Customer will provide SVTC with official receipts issued by the appropriate taxing authority, or such other evidence as SVTC may reasonably request, to establish that such taxes have been paid. No tax shall be billed to Customer if Customer provides SVTC with either (i) an exemption certificate provided in good faith and in accordance with applicable law, or (ii) a direct pay permit number provided in accordance with applicable law.
+1.3
+Extraordinary Expenses
+. To the extent that Customer intends to use raw materials that are different or more expensive than those used by SVTC, or to take any other action that it or SVTC expects (or should expect in the exercise of prudent technical and commercial judgment) will increase expenses above those in the normal course (any expense so incurred, an “Extraordinary Expense”), SVTC will invoice Customer in accordance with Section 3.4 or as otherwise specified in the applicable Schedule. Extraordinary Expenses will not be incurred without the prior written approval of Customer, and no activities that might result in such Extraordinary Expenses will be conducted by SVTC absent Customer’s agreement to bear such Extraordinary Expenses.
+1.4
+Payment Terms
+.
+(a)
+Customer will be invoiced monthly for all services and deliverables provided by SVTC during the previous month. All other payments required hereunder shall be invoiced on a monthly basis at the beginning of each calendar month and shall be paid within […***…]. Each SVTC invoice hereunder shall be accompanied by a detailed report containing supporting information, as Customer may reasonably request, used to determine the amounts due hereunder.
+(b)
+Except as may be agreed otherwise in writing, all payments due to SVTC under this Agreement shall be made by bank wire transfer to a designated bank account. All payments shall be made in U.S. dollars unless otherwise agreed by the parties. If any payments are more than […***…] late, Customer will pay SVTC, in addition to any other remedies that may be available to SVTC, a late payment of the lower of […***…] per month or the highest rate allowed by law for all past due amounts until paid.
+4.
+INTELLECTUAL PROPERTY RIGHTS
+1.1
+Joint Development
+. Unless otherwise expressly set forth in a Schedule attached hereto, SVTC and Customer do not plan any joint development at the time of this Agreement. Any joint development activities intended by the parties must be agreed to in writing and ownership of any resulting Technology and Intellectual Property Rights shall be as set forth therein. If Technology and Intellectual Property Rights are created or invented jointly, unless expressly agreed in writing otherwise, such Technology and Intellectual Property Rights shall be jointly owned in accordance with US intellectual property laws but without any right of accounting, except that it is agreed that any jointly created patent improvements or copyright derivatives shall be assigned to the owner of the underlying Technology.
+BioNanomatrix MSA462393-001
+1.2
+New Technology and Related Intellectual Property Rights
+. Any Technology and related Intellectual Property Rights, invented, created, or authored solely or independently by either party shall be owned by that party, except that it is agreed that all rights in any patent improvements or copyright derivatives to the other party’s Technology shall be assigned to the other party subject to a license back for use solely in connection with the purposes of this Agreement. The creating party agrees to promptly notify the other party and to cooperate in any government filings undertaken.
+1.3
+Pre-existing Technology and Ownership
+. Any Technology and any related Intellectual Property Rights, pre-existing this Agreement shall stay with the owning party and is no ownership rights are assigned or otherwise transferred by this Agreement, save and except for license rights granted by each party to the other necessary to perform the obligations of this Agreement or as otherwise provided in section 5, below. For purposes of clarity, SVTC agrees that the chip design, composition, layout, topology, fabrication process flow, process selection and material selection described in Exhibit D is Customer Technology and all related Intellectual Property is the property of the Customer.
+1.4
+Trade Secrecy
+. SVTC shall treat all knowledge of Customer’s projects and development work pursuant to this Agreement, including by way of example process flows and recipes, whether or not subject to protection under other intellectual property laws, as Customer’s trade secrets subject to the confidentiality provisions of section 10, below, and/or other agreements between the parties; SVTC agrees to scrupulously prevent other customers of SVTC or third parties from gaining knowledge of such Customer trade secrets.
+1.5
+Intellectual Property Prosecution
+. To avoid a flawed prosecution, Customer agrees that if it decides to file for a patent or to otherwise perfect ownership through any other government registration for Technology created pursuant to the performance of this Agreement that is related to or is an improvement of SVTC Technology, Customer agrees to notify SVTC before filing to confirm whether the subject matter of the intended filing has not previously become part of SVTC’s intellectual property program or whether it has been previously disclosed by SVTC to other customers or is already intellectual property owned by others.
+5.
+LICENSES
+1.1
+License from Customer
+. Customer grants no rights to SVTC except for a non-exclusive, non-transferable, royalty-free license under Customer’s applicable Intellectual Property Rights, to use any of Customer’s Technology, products or processes as necessary for SVTC to provide the services requested by Customer pursuant to this Agreement, for the purposes of this Agreement.
+1.2
+License from SVTC
+. Subject to the terms and conditions of this Agreement, SVTC grants Customer a non-exclusive, perpetual, irrevocable, royalty free and paid up right and license, under all applicable SVTC Intellectual Property Rights (including any Technology developed by SVTC pursuant to activities under this Agreement) (the “
+Licensed Technology
+”) for the manufacture of Customer’s products (including any unique equipment configurations and modifications used therein and any unique semiconductor or integrated circuit structures resulting from such modules). Subject to the terms and conditions set forth herein, such right and license shall include (i) the right to have Customer products made by third party manufacturers, and (ii) the right to sublicense such rights to third parties solely as a part of a license to such party for the manufacture of a Customer product.
+1.3
+No Other Rights
+. Except as expressly provided in this Section or the applicable Schedule, neither party grants to the other party any license, right, title or interest in or to any Intellectual Property Rights or Technology, whether by implication, estoppel or otherwise. All rights not specifically granted herein are reserved by the Party owning the respective Technology and Intellectual Property Rights.
+BioNanomatrix MSA462393-001
+6.
+INDEMNIFICATION
+1.1
+SVTC Indemnification Obligations
+. SVTC shall defend, indemnify, and hold Customer harmless from and against any claim of liability, loss, damage, cost or expense (including reasonable attorneys’ fees and other legal expenses) (collectively, “
+Losses
+”) resulting from any third party claim that (i) is based upon any act or omission of SVTC or any SVTC Personnel, (ii) based upon any material breach by SVTC of any obligation imposed by this Agreement (iii) use of Customer equipment by SVTC Personnel or (iv) Licensed Technology infringes or misappropriates the Intellectual Property Rights of any third party. This indemnity shall not apply to the extent that any such claim is based upon (i) modification to the Licensed Technology made by or on behalf of Customer, (ii) Customer’s use of the Licensed Technology outside of the scope of the license granted pursuant to this Agreement, or (iii) a claim that is subject to Customer’s indemnification obligations pursuant to Section 7.2. SVTC’s obligation under this paragraph shall expire as to any claim that Customer has not provided written notification of to SVTC within one year after receipt by Customer or becomes known by Customer.
+1.2
+Customer Indemnification Obligations
+. Customer shall defend, indemnify, and hold SVTC or any Affiliate of SVTC harmless from and against any Losses (as defined in the preceding paragraph) resulting from any third party claim (i) that any Customer Personnel is an employee of SVTC (such Losses including any employee benefit that any such person claims to be entitled to from SVTC as an employee of SVTC), (ii) based upon any act or omission of any Customer Personnel (such Losses including but not limited to any fire or other catastrophic loss to the Line or any significant portion of the Line that is attributable to any such act or omission), (iii) based upon any breach by Customer or any Customer Personnel of any obligation imposed by this Agreement, (iv) relating to Customer equipment in the event that customer equipment fails to perform as designed, (v) relating to Customer’s implementation or use of Customer’s Technology at the SVTC premises, including claims related to bodily injury, damage or loss of tangible property, and (vi) that Customer equipment, Customer processes or Customer Technology infringes or misappropriates the Intellectual Property Rights of any third party. Customer shall not be obligated to defend, indemnify, or hold SVTC harmless to the extent that any such claim is based upon a modification to the Customer equipment or Customer’s Technology made by SVTC, if such modification was not made at the instruction or on behalf of Customer. Customer’s obligation under this paragraph shall expire as to any claim that SVTC has not provided written notification of to Customer within one year after receipt by SVTC or becomes known by SVTC.
+1.3
+Procedure
+. Each party seeking indemnification under this Section 6 (i) agrees to provide the indemnifying party prompt written notice of an indemnifiable claim, (ii) agrees to provide control of the defense or settlement of such claim to the indemnifying Party, provided that the indemnifying party shall not settle or compromise a claim in a manner that does not unconditionally release the indemnified party from liability and that does not adversely affect the Intellectual Property Rights owned by the indemnified party unless the indemnifying party obtains the indemnified party’s prior written consent; and (iii) agrees to provide assistance in the defense or settlement of a claim at the indemnifying Party’s request and reasonable expense.
+1.4
+Insurance
+. During the term of this Agreement, each party will, for its respective liability, secure and maintain a comprehensive general liability insurance policy providing sufficient coverage for personal injury (including as a result of product liability) and property damage, at the level as is usual and customary in the industry to procure, provided, that in the event that Customer Personnel is actually working on the Line and using SVTC equipment, then such insurance shall be in accordance with Exhibit C.
+7.
+REPRESENTATIONS AND WARRANTIES
+1.1
+SVTC Limited Warranties
+. SVTC represents and warrants that (i) SVTC has the full right and authority to enter into this Agreement and grant the rights and licenses granted herein; (ii) SVTC has not previously granted and will not grant any rights that prevent SVTC from fulfilling its obligations under this Agreement; and (iii) SVTC will comply with all applicable laws and regulations in connection with its performance under this Agreement. SVTC warrants that it will use commercially reasonable efforts to provide the services contracted for in this Agreement. Due to the research and development nature of the services to be provided, and in particular, any services that are novel or unprecedented, no warranty is offered or made that all services performed by SVTC will be successful or that the goals of the Customer will be achieved.
+BioNanomatrix MSA462393-001
+1.2
+Customer Limited Warranties
+. Customer represents and warrants that (i) Customer has the full right and authority to enter into this Agreement and grant the rights and licenses granted herein; (ii) Customer has not previously granted and will not grant any rights that prevent Customer from fulfilling its obligations under this Agreement; and (iii) Customer will comply with all applicable laws and regulations in connection with its performance under this Agreement. Customer warrants that it has fully disclosed information to SVTC in advance regarding any hazardous or toxic materials. Customer further warrants that none of the wafers or other materials processed by SVTC will be used in or on human subjects, experimental or otherwise, without SVTC’s prior written consent.
+1.3
+Disclaimer of Warranties
+. EXCEPT AS EXPRESSLY STATED IN THIS AGREEMENT OR IN A SCHEDULE ATTACHED HERETO, SVTC AND CUSTOMER EACH EXPRESSLY DISCLAIM ANY AND ALL REPRESENTATIONS, WARRANTIES OR CONDITIONS, RELATING TO ANY TECHNOLOGY OR SERVICES PROVIDED UNDER THIS AGREEMENT, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+8.
+LIMITATION ON LIABILITY
+1.1
+Damages Waiver
+. EXCEPT FOR THE BREACH OF A CONFIDENTIALITY OBLIGATION, AND EXCEPT FOR AN INDEMNIFICATION OBLIGATION UNDER THIS AGREEMENT, AND EXCEPT FOR MISCONDUCT OR NEGLIGENT ACTS OF CUSTOMER PERSONNEL THAT INTERFERE WITH THE NORMAL OPERATIONS OF THE FAB, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER, OR TO ANY THIRD PARTY CLAIMING THROUGH OR UNDER SUCH PARTY, FOR ANY LOST PROFITS, LOSS OF DATA, EQUIPMENT DOWNTIME OR FOR ANY INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY THEREOF.
+1.2
+Liability Cap
+. EXCEPT FOR CLAIMS BASED ON BREACHES OF A CONFIDENTIALITY OBLIGATION, AND EXCEPT FOR AN INDEMNIFICATION OBLIGATION UNDER THIS AGREEMENT, , AND EXCEPT FOR MISCONDUCT OR NEGLIGENT ACTS OF CUSTOMER PERSONNEL THAT INTERFERE WITH THE NORMAL OPERATIONS OF THE FAB, IN THE EVENT THAT ANY LIABILITY IS IMPOSED ON EITHER PARTY HEREUNDER, THE AGGREGATE AMOUNTS PAYABLE BY EITHER PARTY TO THE OTHER BY REASON THEREOF SHALL NOT EXCEED THE AMOUNT PAID OR PAYABLE BY CUSTOMER TO SVTC DURING THE TWELVE (12) MONTHS PRECEDING THE CLAIM TO WHICH SUCH LIABILITY RELATES.
+1.3
+Acknowledgement
+. Each party acknowledges that the foregoing limitations are an essential element of the Agreement between the parties and that in the absence of such limitations the pricing and other terms set forth in this Agreement would be substantially different. Customer acknowledges that the risk of its acts may interfere with the normal operations of the Line and that it has been advised to exercise special caution in its activities in the fab.
+BioNanomatrix MSA462393-001
+9.
+CONFIDENTIALITY
+1.1
+Obligations
+. All Confidential Information exchanged between the parties pursuant to this Agreement shall not be disclosed by the recipient to anyone except its own employees, consultants or subcontractors or those of its Affiliates, who have a need to know such Confidential Information consistent with the purposes of this Agreement and who have been advised of the confidential nature and who have been contractually obligated to observe the terms and conditions hereof; nor shall Confidential Information be used by the receiving party for any purpose other than exercising its rights or fulfilling its obligations under this Agreement. Parties shall not disclose confidential information of third parties without the owner’s prior consent. Parties shall at all times and notwithstanding any termination or expiration of this Agreement hold received Confidential Information in strict confidence with at least the degree of care it uses for its own confidential information and with not less than a legally reasonable degree of care. Recipient’s obligations to maintain confidentiality shall survive termination of the Agreement and shall be binding upon the Recipient’s heirs, successors and assigns. Upon request of the disclosing party, copies and embodiments of the disclosing party’s Confidential Information shall be promptly returned to the disclosing party by the receiving party, unless such copies are required to fulfill the terms of this Agreement. Upon termination of this Agreement for any reason, each party shall promptly return to the other party all Confidential Information provided by the other party, including all copies, except that a receiving party may keep one copy solely for archival purposes. If either party becomes an unauthorized disclosure, even if not confirmed, it shall promptly notify the original disclosing party and promptly take reasonable actions to mitigate the effects of the unauthorized disclosure.
+1.2
+Independent Development
+. The disclosing party acknowledges that the receiving party may currently or in the future be developing information internally, or receiving information from other parties, that is similar to provided Confidential Information. Nothing in this Agreement will prohibit the receiving party from developing or having developed for it products, concepts, systems or techniques that are similar to or compete with the products, concepts, systems or techniques contemplated by or embodied in the Confidential Information, provided that no Confidential Information is referenced, accessed or used and the receiving party does not violate its obligations under this Agreement. Parties shall have no obligation to limit or restrict the assignment of its employees or consultants as a result of their having had access to Confidential Information.
+1.3
+Terms of Agreement; Publicity
+. Parties shall not to disclose to any third party the financial terms of this Agreement without the prior written consent of the other party, except to its advisors, independent accountants, investors and others on a need-to-know basis under circumstances that reasonably ensure confidentiality, or to the extent required by law. Any press release relating to this Agreement that is issued by one party and which mentions the other party shall be jointly released and mutually agreed upon by the parties or, if released by one party, approved by the other party. Notwithstanding the foregoing, SVTC may disclose that Customer is a customer of SVTC and Customer may disclose that it is a customer of SVTC. Notwithstanding the foregoing, either party may disclose the terms of this Agreement to existing or potential acquirers or merger candidates; investment bankers, existing or potential investors, venture capital firms or other financial institutions or investors solely for purposes of obtaining financing, each of whom prior to disclosure must be bound by obligations of confidentiality and non-use no less stringent than those set forth in this Agreement.
+10.
+NON-SOLICITATION
+10.1 Non-solicitation
+. During the term of this Agreement and for one (1) year after expiration or termination of this Agreement, neither party shall, directly or indirectly, without the prior written consent of the other party solicit, encourage, or take any other action which is intended to induce or encourage, any employee of the other party to terminate his or her employment with the other party. Customer shall not directly or indirectly, without prior written consent of the other SVTC customer solicit, encourage, or take any other action that is intended to induce or encourage, any employee of another customer working on the SVTC premises to terminate his or her employment with the other customer.
+11.
+TERM AND TERMINATION
+1.1
+Initial Term
+. Unless terminated earlier pursuant to the terms and conditions of this Agreement, this Agreement shall commence on the Effective Date and shall remain in force for two (2) year(s) from the Start Date. The Agreement will automatically renew thereafter for additional one (1) year terms, unless either party notifies the other party in writing at least thirty (30) days prior to the expiration of the then-current term of its intent not to renew the Agreement for any further additional term.
+BioNanomatrix MSA462393-001
+1.2
+Early Termination
+(a)
+Customer may terminate this Agreement or any Schedule after the Start Date upon giving SVTC at least thirty (30) days written notice. At the same time as giving notice of termination for convenience, SVTC shall invoice and Customer shall make a non-refundable payment to SVTC for all Services provided under this proposal up to and including the date of final termination net 30.
+(b)
+Either party may terminate this Agreement upon written notice as set forth in Section 12.4 below in the event of a Force Majeure event.
+1.3
+Termination for Breach
+. Either party to this Agreement may terminate this Agreement in the event the other Party materially breaches this Agreement and does not cure such breach within thirty (30) days after written notice thereof by the non-breaching party.
+1.4
+Customer Equipment and Personnel
+. If applicable, then no later than the date of termination or expiration of this Agreement, Customer shall remove all of its equipment and shall cause all Customer Personnel to have removed all of their personal property from the SVTC premises. After that date, no such persons shall have any right to access the SVTC premises, except such reasonable access as SVTC and Customer shall agree in advance in writing in furtherance of the purposes hereof. Unless otherwise agreed, access badges and passwords will be disabled on the date of termination or expiration of this Agreement.
+1.5
+Survival; Effect of Termination
+. Sections 1, 4, 5.2 (unless Customer materially breachs an obligation under this Agreement), 6, 7, 8, 9, 10 (for one year following expiration or termination of the Agreement), 11.5 and 12 shall survive any termination or expiration of this Agreement. Except for purposes of exercising continuing license rights hereunder, upon termination or expiration of this Agreement, each party shall return or destroy any Confidential Information of the other party then in its possession.
+12.
+MISCELLANEOUS
+1.1
+Governing Law
+. The rights and obligations of the parties under this Agreement shall not be governed by the provisions of the 1980 United Nations Convention on Contracts for the International Sale of Goods or the United Nations Convention on the Limitation Period in the International Sale of Goods, as amended. This Agreement and any dispute arising from the performance or breach hereof shall be governed by and construed and enforced in accordance with the laws of the State of Delaware, without reference to conflicts of laws provisions.
+1.2
+Assignment
+. This Agreement shall not be assigned by either party, whether voluntarily or involuntarily or by operation of law, in whole or in part, to any other entity without the prior written consent of the other party, which consent shall not unreasonably be withheld, conditioned or delayed. Notwithstanding the foregoing, either party may assign this Agreement to an Affiliate, without the other’s prior consent, subject to providing written notice of such assignment. Further, upon written notice to the other party, either party may assign this Agreement to a successor in interest, upon a merger, acquisition, reorganization, change of control, or sale of all or virtually all of the assets of the assigning party, and any such assignment shall not require the consent of the non-assigning party. Any assignment in violation of this Section 13.3 shall be null and void from the beginning, and shall be deemed a material breach of this Agreement.
+1.4
+Force Majeure
+. Neither party shall be liable to the other in any way whatsoever for any failure or delay in performance of any of the obligations under this Agreement (other than obligations to make payment), arising out of any event or circumstance beyond the reasonable control of such party (including, war, rebellion, civil commotion, strikes, lock-outs or industrial disputes; fire, explosion, earthquake, acts of God, flood, drought or bad weather; the unavailability of deliveries, supplies, software, disks or other media or the requisitioning or other act or order by any government department, council or other constituted body). If either party’s performance is prevented by a force majeure event for a period of more than forty-five (45) days, the other party may terminate this Agreement without further obligation or liability, subject to any payment amounts due and payable immediately prior to the commencement of such force majeure event.
+BioNanomatrix MSA462393-001
+1.5
+Compliance with Law
+. In performing its duties under this Agreement, each party shall at all times comply with all applicable international, federal, state and local laws and shall not engage in any illegal or unethical practices. Without limiting any of the foregoing, each party agrees to comply with all applicable US and foreign export control laws and regulations.
+1.6
+Waiver
+. Failure or neglect by either party to enforce at any time any of the provisions hereof shall not be construed nor shall be deemed to be a waiver of such party’s rights hereunder nor affect the validity of the whole or any part of this Agreement nor prejudice such party’s rights to take subsequent action.
+1.7
+Independent Contractors
+. It is agreed and understood that neither party is the agent, representative or partner of the other and neither has the authority or power to bind or contract in the name of or to create any liability against the other party in any way or for any purpose. It is understood that each party is an independent contractor. Each party expressly reserves the right to enter other similar agreements with other parties on the same or on different terms.
+1.8
+Notices
+. All notices, requests and other communications hereunder shall be in writing and shall be (a) personally delivered or (b) sent by facsimile and registered or certified mail, return receipt requested, postage prepaid, in each case to the respective address specified below, or such other address as may be specified in writing to the other party hereto:
+To SVTC:
+SVTC, LLC
+3901 North First Street San Jose, CA 95134 Attn: […***…]
+cc: Legal Department
+To Customer:
+BioNanomatrix, Inc.
+3701 Market St, 4th Floor Philadelphia, PA 19104
+Attn: Michael Boyce-Jacino, President and CEO
+Notices shall be deemed received on the earlier of the following: (i) notices delivered by hand or sent by fax shall be deemed received the first business day following such delivery or sending; and (ii) notices which have been posted or sent via courier shall be deemed received on the date of the courier’s delivery receipt.
+1.9
+Modification
+. No amendment or modification of any provision of this Agreement shall be effective unless in writing signed by both parties hereto. No provision of this Agreement shall be varied, contradicted or explained by any oral agreement, course of dealing or performance or any other matter not set forth in an agreement in writing and signed by both parties.
+1.10
+Severability
+. In the event that any clause, sub-clause or other provision contained in this Agreement shall be determined by any competent authority to be invalid, unlawful or unenforceable to any extent, such clause, sub-clause or other provision shall to that extent be severed from the remaining clauses and provisions, or the remaining part of the clause in question, which shall continue to be valid and enforceable to the fullest extent permitted by law.
+BioNanomatrix MSA462393-001
+1.11
+Headings; Construction
+. The headings to the clauses, sub-clause and parts of this Agreement are inserted for convenience of reference only and are not intended to be part of or to affect the meaning or interpretation of this Agreement. The terms “this Agreement,” “hereof,” “hereunder” and any similar expressions refer to this Agreement and not to any particular Section or other portion hereof. The Parties hereto agree that any rule of construction to the effect that ambiguities are to be resolved against the drafting Party will not be applied in the construction or interpretation of this Agreement. As used in this Agreement, the words “include” and “including,” and variations thereof, will be deemed to be followed by the words “without limitation.”
+1.12
+Counterparts
+. This Agreement may be executed in multiple counterparts, each of which shall be deemed an original and all of which together shall constitute one instrument.
+1.13
+Entire Agreement
+. This Agreement, together with the Schedules and any exhibits attached to the Schedules, listed below, all of which are hereby incorporated into this Agreement by reference, supersedes any arrangements, understandings, promises or agreements made or existing between the parties hereto prior to or simultaneously with this Agreement and constitutes the entire understanding between the parties hereto. It is acknowledged that the terms of this Agreement have been negotiated between the parties.
+LIST OF ATTACHMENTS
+. Following is a list of attachments to this Agreement, including all Schedules and Exhibits. Each future added attachment must include a dated Amendment cover page or provision referencing this Agreement and must be executed by all parties.
+Customer Managed Project Services Schedule Exhibit A - Proposal
+Exhibit B - Equipment List
+Exhibit C — Insurance Requirements
+Exhibit D — […***…] — deliverables, timeline, details and specifications quoted are goals only and not binding on SVTC. Actual project work will be as specified in Exhibit A. IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed and delivered in duplicate originals as of the date first above written.
+SVTC Technologies, Inc.
+BioNanomatrix, Inc.
+Signature:
+/s/ Jon Myers    
+Signature:
+/s/ Michael Boyce-Jacino    
+Printed Name:
+Jon Myers
+Printed Name:
+Michael Boyce-Jacino
+Title:
+Vice President, Global Sales
+Title:
+President & CEO
+Date:
+February 19, 2009
+Date:
+March 23, 2009
+BioNanomatrix SCED462694
+CUSTOMER MANAGED PROJECT SERVICES SCHEDULE
+This 
+Customer Managed Project Services Schedule 
+(the “
+Schedule
+”) is entered into effective as of March , 2009 (“Effective Date”) between 
+SVTC TECHNOLOGIES, LLC
+, and BioNanomatrix, Inc., (“Customer”) as an attachment to the Master Services Agreement (“Agreement”), between the parties, dated March 2, 2009. Capitalized terms used but not defined herein have the meanings ascribed to them in the Agreement. All terms and conditions in this Schedule are in addition to the terms and conditions set forth in the Agreement. In the event of any conflict between the provisions of this Schedule and the Agreement, the Agreement shall govern unless explicitly superseded in this Schedule.
+Customer desires access to the fab and other premises of SVTC in connection with the provision of services. Customer Personnel may operate SVTC equipment and have other capabilities as provided in this Schedule.
+1.
+DEFINITIONS
+1.1
+“
+Activity
+” or “
+Move
+” shall mean one wafer going through one semiconductor wafer production process step as delineated by SVTC in its normal operating practice. A semiconductor wafer production process step constitutes the actions performed and processes, procedures or associated equipment used in a single physical transformation of a wafer or one or more layers thereon, including: (i) […***…] (ii) […***…] (iii) […***…] (iv) […***…] (v) […***…]; and (vi) […***…].
+1.2
+“
+Activity Allocation
+” shall mean the allocation of Activities set forth in 
+Exhibit A
+ attached hereto.
+1.3
+“
+Customer Equipment
+” shall mean any equipment on the Line owned or installed by Customer and shall include any upgrades thereto.
+1.4
+“
+Engineering Services
+” means services performed by SVTC’s personnel, agents or subcontractors.
+1.5
+“
+Minimum Batch Size
+” shall mean the minimum total number of wafers in a Process Batch.
+1.6
+“
+Moves per Inventory
+” or “
+M/I
+” is defined as the activities generated in a given day divided by the average Work In Progress (“WIP”) that is not on hold for engineering development or on problem lot for engineering evaluation.
+1.7
+“
+Non-Hold WIP
+” shall mean semiconductor wafers that can be processed and are not subject to any move restrictions by Customer. The current standard procedure for
+calculating Non-Hold WIP is as follows:
+Daily Required Non-Hold WIP =    
+     […***…]    
+ […***…]
+1.8
+“
+Product
+” means a wafer manufactured by SVTC for Customer hereunder prior to qualification by Customer per Customer’s qualification specifications, excluding all Prototypes.
+BioNanomatrix SCED462694
+1.9
+“
+Prototype
+” means prototypes of Products provided to Customer by SVTC.
+1.10
+“
+Problem Lot
+” means a Process Batch that is not moveable due to unforeseen issues that must be resolved by engineering.
+1.11
+“
+Process Lot
+” or “
+Process Batch
+” shall mean a group of wafers that are processed together as a group.
+1.12
+“
+Production Product
+” means products or wafers ordered by Customer after qualification and issuance of a prototype approval by Customer.
+1.13
+“
+Standard Operating Procedure
+” or “
+SOP
+” shall mean SVTC’s then current standard administrative operating procedure, including the standard operating manual, specifications, and other applicable documentation,. . SVTC may update the SOP from time to time in its sole discretion.
+1.14
+“
+Start-Up Costs
+” shall have the meaning set forth in 
+Exhibit A
+ and which may include a separate “
+Library Access Fees
+” for the applicable process libraries.
+1.15
+“
+Wafer Starts
+” shall mean the number of new wafers that will be allowed.
+2.
+PROCESS OPERATIONS
+2.1
+Activity Allocation to Customer.
+1.1.1
+SVTC will allocate Wafer Starts on a weekly basis and review and assign Activities on a daily basis, and shall provide the detail of its Activity Allocation in accordance with the process described in 
+Exhibit A
+ attached hereto.
+1.1.2
+Subject to the terms and conditions set forth herein, the allocation of Activities to Customer will be made by SVTC in its sole discretion and in accordance with SVTC’s SOP for the allocation of Activities among SVTC’s Customers, provided, that allocation of Activities to Customer for a specific period of time shall not be less than the amount provided for such period in Exhibit A unless agreed to by Customer.
+1.1.3
+Customer will have the responsibility for maintaining Customer’s Non-Hold WIP at levels defined by SVTC to ensure that it receives its Activity Allocation. SVTC will not be held accountable for Activity Allocations missed by Customer if Customer does not maintain the Non-Hold WIP level required by SVTC. The current standard procedure for calculating Non-Hold WIP is as set forth in this Schedule A, Section 1.7, above.
+1.1.4
+The minimum Process Batch size is […***…] wafers for wafers in the Pre-Prototype, Prototype and Production product Phases. Any process batch that is smaller than […***…] wafers will be charged as if […***…] wafers are in the Process Batch, thus the minimum Activity charge is […***…] for any step. The Maximum Process Batch size is […***…].
+2.2
+Carry-forward. 
+If for any reason whatsoever Customer does not use Activities or engineering hours allocate to the Customer for the project (as defined in Exhibit A), Customer shall have the right to carry forward either the total unused Activities and total unused engineering hours, or up to […***…] Activity and engineering hour Allocation (as defined in Exhibit A), whichever is less, for a period of up to […***…] beyond the termination date of the Agreement. If the Carry Forward is not used within the […***…], any residual of the Carry Forward Allocation will terminate.
+2.3
+Additional Allocations. 
+Customer may request to increase its Activity Allocation upon thirty (30) days’ prior written notice. Customer may request an increase in its Activity Allocation only up to an additional […***…] per fiscal quarter. Any increased Activity Allocation is subject to an increased payment as defined in attached Exhibits. Additional Allocations shall be provided at SVTC’s sole discretion.
+BioNanomatrix SCED462694
+3.
+PROCESS MANAGEMENT
+3.1
+SVTC shall exercise day-to-day managerial authority over the semiconductor wafer fabrication facilities, referred to as the “
+Line
+,” including over the allocation of Activities and all aspects of the operation, development and planning of the Line, consistent with the provisions of this Agreement.
+3.2
+Customer shall appoint employees with decision-making authority to an operating committee (“Operating Committee”) to work with SVTC. The Operating Committee shall meet in person or telephonically once every […***…] at a regularly scheduled time to review operational results and approve future operational matters, including changes to the Line operating procedures applicable to Customer; provided however, that SVTC shall retain ultimate control over any changes to the Line and its operating procedures. The Operating Committee shall attempt to resolve by good faith negotiations any operating disputes that arise with respect to the Line, or any other disputes arising under this Agreement, except as specifically set forth herein.
+3.3
+SVTC will hold a daily Line operations meeting in which the daily Activities on the Line are reviewed, discussed and planned; a Customer representative is expected to attend all operations meetings.
+3.4
+Customer shall submit for prior written approval to the Operating Committee or its designee, a list of all proposed operations, including all equipment intended to be used. Failure to adhere to the approved list may be considered grounds for termination as provided in Section 12.3 of the Master Services Agreement.
+3.5
+SVTC shall have no liability nor be responsible for any costs or damages arising out of or related to the work of Customer Personnel including but not limited to results other than those desired by Customer in the wafers processed on the Line solely by Customer Personnel.
+4.
+EQUIPMENT
+4.1
+The Line. 
+The Line is equipped to run various process technologies utilizing the equipment listed in 
+Exhibit B
+. SVTC may update this list from time to time in its sole discretion.
+4.2
+Equipment Ownership on the Line. 
+Except as may otherwise agreed in writing between the parties, SVTC will own the Line including all its equipment and Intellectual Property Rights. Customer acknowledges that the Line including all of the equipment, is used by multiple customers and that Customer is obligated under this Schedule and the Agreement to avoid misusing any equipment, causing any damages, or causing Line operations to be interrupted.
+4.2.1
+If Customer damages any equipment other than it own, Customer agrees to indemnify SVTC without limitation for the costs of repair, replacement, or extraordinary servicing.
+4.2.2
+If Customer damages any equipment other than it own, or otherwise causes any disruption to the Line, and if the forgoing results in lost revenue to SVTC, or if claims are made against SVTC by other customers for delays attributable to Customer, then Customer agrees to indemnify SVTC without limitation for all such claims and lost revenue.
+4.2.3
+Sections 4.2.1 and 4.2.2 shall not apply if Customer has strictly adhered to the operations approved by the Operating Committee, all Customer use of equipment was within normal or approved parameters, and all Customer Personnel involved had satisfactorily completed all required training.
+4.2.4
+No Customer Personnel except those who have satisfactorily completed the required training to the satisfaction of SVTC, whether or not paid for, shall be allowed into the fab or to operate SVTC equipment; SVTC reserves the right at its sole discretion, to determine if Customer Personnel have achieved sufficient knowledge and understanding of the training materials to be considered having satisfactorily completed the training. If SVTC reasonably determines that someone needs more or retraining, it may require such training to allow continued access and use privileges.
+BioNanomatrix SCED462694
+4.3
+Customer Equipment.
+1.1.1
+Upon Customer’s request, SVTC will, in its sole discretion, permit Customer to install Customer Equipment on SVTC premises. SVTC, in its sole discretion, may allow Customer to make modifications to the applicable SVTC premises reasonably necessary for the installation and operation of the Customer Equipment. Customer shall bear the responsibility and cost of such installation, project management and clean room rental. Customer shall pay the applicable taxing authority any tax invoice with respect to Customer Equipment. Customer shall also pay all costs to upgrade such Customer Equipment. Any such upgrade will be performed in accordance with Customer’s specifications, but all such specifications are subject to the pre-approval of SVTC in its sole discretion. Customer has the right to remove any Customer Equipment at any time, provided that the removal minimizes disturbance to the Line and is done with reasonable advance written notice to SVTC and solely at Customer’s expense. Without limiting the foregoing, Customer shall bear all costs of installation, deinstallation and removal of Customer Equipment and any damages resulting therefrom.
+1.1.2
+Customer shall bear all costs associated with ownership of any Customer Equipment or upgrade, including all sales or use taxes or property taxes imposed on or otherwise determined on the basis of any such Customer Equipment or upgrade, and all insurance costs associated with any Customer Equipment.
+1.1.3
+SVTC shall have no responsibility to Customer for loss or damage to any Customer Equipment unless such damage or loss is caused by SVTC. Customer shall be responsible for securing insurance for Customer Equipment on SVTC premises. Customer shall be responsible for installation, all maintenance and repairs for Customer Equipment unless stated otherwise. Customer shall be responsible for maintaining Customer Equipment at a satisfactory working level defined by the equipment manufacturers listed uptime and operational quality specifications.
+1.1.4
+Customer shall allow SVTC access to Customer Equipment for safety and maintenance purposes as well as for other mutually agreed purposes. No SVTC Personnel except those who have satisfactorily completed the required training to the satisfaction of Customer, whether or not paid for, shall be allowed to operate Customer equipment; Customer reserves the right at its sole discretion, to determine if SVTC Personnel have achieved sufficient knowledge and understanding of the training materials to be considered having satisfactorily completed the training.
+4.4
+Use of Equipment. 
+All equipment listed in 
+Exhibit B
+ may be used in manufacturing the products of either Party without cost to Customer other than such amount payable under Section 4. Customer Equipment shall only be used to manufacture Customer products or otherwise for the benefit of Customer and for no other purpose except during instances in which SVTC is the user of such customer owned equipment.
+4.5
+Access of Equipment. 
+Customer shall not have access to equipment that is not included in 
+Exhibit B
+ under this Agreement unless the new equipment replaces a piece of equipment listed in 
+Exhibit B
+ or is otherwise added to 
+Exhibit B
+ by SVTC. Customer and SVTC may agree upon conditional access to SVTC-owned, non-replacement equipment as needed for newly added equipment.
+4.6
+Maintenance Down Time. 
+Although the Line generally operates 24/7/365, occasionally the Line must be shut down in whole or in part for maintenance. Customer will be given notice of planned shut-downs in advance. If there is an unplanned shut-down, as may happen if there is an event beyond SVTC’s control, SVTC will use commercially reasonable efforts to get the Line back up as soon as possible; Customer agrees that SVTC shall not be liable for any damages resulting from the aforementioned shut-downs.
+BioNanomatrix SCED462694
+5.
+EXPENSES
+5.1
+Training. 
+Included in the Start-Up Costs shall be the number of hours as defined in any Exhibits attached hereto for up to […***…] from the Start Date of SVTC Engineering Services to be used for equipment training, wafer management training and integration support. The number of Customer Personnel who will be trained and/or the number of hours allocated to training Customer Personnel is limited to that stated in the attachments, however, if Customer desires later to train a greater number than agreed, SVTC shall provide such training at an additional charge.
+5.2
+Non-Recurring Engineering Expenses. 
+After the initial set-up included in the Start-Up Costs, Customer will have the option to purchase from SVTC Engineering Services at a rate as defined in an attached Exhibits or in other documents attached to the Agreement such an Engineering Services Schedule. SVTC may increase the hourly rate from time to time in its sole discretion upon advance written notice. Customer understands that Engineering Services may not always be available due to staffing availability. The terms and conditions for such Engineering Services shall be set forth on a separate Schedule.
+5.3
+Reticle and Analytical Laboratory Services Expenses. 
+Customer will have the option to purchase photomasks or to have analytical laboratory services through SVTC’s approved vendors subject to specifically applicable terms and conditions.
+5.4
+Payment Terms. 
+Customer will be invoiced monthly based upon Activities allocated as described in Section 2.1. The invoice will be for at least the minimum number of Moves equal to the monthly Activity Allocation. If the actual Moves for the preceding month are more than the Activity Allocation, the total Moves will be invoiced. Each SVTC invoice hereunder shall be accompanied by a detailed report containing Activity Allocation, actual Moves, quantity of Moves invoiced and other payment due and payable. Payment obligations under this Schedule shall survive any termination or expiration of this Schedule.
+6.
+PREMISES SERVICES, SECURITY AND SUPPORT
+6.1
+Limited Support for Customer Personnel. 
+Customer acknowledges that SVTC will not be providing support or facilities for Customer Personnel except as expressly set forth in the Agreement or it attachments, and in particular shall not make available clerical, administrative or technical support personnel other than for the limited purposes explicitly referred to herein. If requested by Customer for a designated number of Customer Personnel, and as agreed by SVTC, then in addition to cubicle or office space that may be made temporarily available to Customer Personnel, SVTC may make available office telephones and internet connectivity and may provide access to conference rooms (subject to allowing access to such rooms on an equal priority basis to other customers and SVTC needs), break rooms, printers, faxes, copiers, and equipment for engineering-only time for recipe development or optimization (subject to allowing access to such equipment to other SVTC customers as determined by SVTC in its reasonable judgment). SVTC will ensure that all Customer Personnel are provided prompt and unqualified access at all times to data and information residing on SVTC equipment and computers that is specific to Customer.
+6.2
+Status of Personnel. 
+Customer acknowledges that Customer is responsible for the activities of all Customer Personnel on the SVTC premises and to assure compliance with all SVTC rules and guidelines. Customer has an affirmative duty to inform all Customer Personnel, including but not limited to agents, contractors or employees of affiliates of Customer, of their obligations under this Agreement. Customer Personnel who are other than immediate employees of Customer, including but not limited to agents, contractors or employees of affiliates of Customer, shall not enter or work within SVTC fab facilities without SVTC’s prior written consent expressly naming each such individual.
+BioNanomatrix SCED462694
+6.3
+Security.
+6.3.1
+Customer acknowledges that the security of SVTC’s facilities generally and of SVTC’s computer systems and networks in particular is of paramount importance to SVTC and to all of SVTC’s customers, including Customer. Customer Personnel are not authorized to enter any zone of SVTC’s facilities other than the SVTC premises specified in the applicable Schedule or the parking lot associated with such SVTC premises unaccompanied by an authorized employee of SVTC. For security purposes, SVTC will require each one of the Customer Personnel to wear a security badge at all times that each is on SVTC property and to conform with all site policies and procedures, as updated from time to time by SVTC in its sole discretion.
+6.3.2
+Customer Personnel shall not access any SVTC computer or networking equipment except as agreed upon by SVTC on a case-by-case basis. If provided access, each one of the Customer Personnel shall be assigned his or her own individual password by SVTC in order to obtain any such access, and such individual may not share that password with any other Customer Personnel or others.
+6.3.3
+SVTC shall keep and maintain logs of access to its network and systems by Customer Personnel, and in the event SVTC discovers that any Customer Personnel has gained unauthorized access to any portion of SVTC’s systems or network or has removed, used or disclosed any Confidential Information of SVTC or of any other SVTC customer, or if any Customer Personnel have otherwise failed to comply with SVTC’s site policies and procedures, such persons may immediately have their access badge and passwords canceled and may be physically barred from SVTC premises; such persons’ actions may be deemed a material breach of this Agreement by Customer.
+6.4
+Safety. 
+When using the SVTC premises, Customer shall at all times comply with all of SVTC’s environmental, health, security and safety site policies, procedures, and programs, and to ensure that all Customer Personnel also comply. SVTC will provide Customer copies of any such policies, as updated from time to time by SVTC in its sole discretion. It is Customer’s responsibility to understand all site policies, procedures and programs relating to site security, environmental protection, safety and health and to ensure that the Customer Personnel also understand and comply with such policies, procedures, and programs. This includes chemical handling, lock-out-tag-out, EHS and OHS safety rules, and use of safety gear. Customer also understands that all chemicals brought onto the SVTC premises or any SVTC location must be approved on a case-by-case basis by SVTC in advance in order to maintain compliance with local, state and federal codes. The foregoing does not limit Customer’s responsibility for compliance with all applicable law.
+6.5
+Insurance. 
+Customer represents that it has procured, and at all times during the Term shall maintain, levels of insurance as necessary or as may be specified by SVTC to cover the activities and obligations of Customer and Customer Personnel while working on the SVTC premises. Customer shall provide evidence of insurance to SVTC on the Effective Date of this Agreement, and at other times upon request by SVTC. Depending upon the nature of Customer’s activities on the premises, SVTC may require specific insurance levels and certificates in an attachment to this Agreement.
+6.6
+Third-Party Materials and Information. 
+Except as otherwise set forth herein, Customer shall not permit Customer Personnel, to knowingly use, remove or tamper with any equipment, materials or documents of other customers that may be on the SVTC premises.
+BioNanomatrix SCED462694
+7.
+ENGINEERING SERVICES
+7.1
+Work. 
+Customer may request advanced engineering services including but not limited process development. Depending upon the nature and complexity of the requested engineering services, additional documentation may be required such as an SOW, that would include the number and qualifications of the desired engineers, the period of time needed, and what type of work is desired. SVTC will provide a written quote or proposal for such services and if mutually agreed, a written confirmation will be provided. SVTC will use commercially reasonable efforts to render the mutually agreed services by the projected completion dates. The manner and means by which SVTC chooses to complete such services are in SVTC’s sole discretion and control. Unless otherwise agreed in writing, all SVTC engineering services pursuant to this section of the Schedule will be during its normal local weekday business hours (not fab hours); services required outside normal hours (including after hours weekdays and/or on weekends) shall be subject to SVTC staff availability and shall be charged at additional cost to Customer.
+BioNanomatrix SCED462694
+Exhibit A Commercial Terms
+For BioNanomatrix, Inc.’s Nanochannel Array Development
+START DATE
+: 04-07-2009    
+DURATION: 
+Six (6) Months
+SVTC proposes the date above on which SVTC will begin providing the following services under the Master Services Agreement (“
+Start Date
+”). Project Duration commences upon the (“
+Start Date
+”).
+1.0 DESCRIPTION OF SERVICES:
+SVTC shall provide access to SVTC’s Line for the defined Project Duration commencing upon the Start Date in order to process silicon wafers in support of BioNanomatrix, Inc.’s Nanochannel Array Development. SVTC will use manufacturing processes that exist or are being developed by BioNanomatrix, Inc., and BioNanomatrix, Inc. will be allocated a specific number of Activities, as well as other support and services, as described herein (“Services”). SVTC shall use commercially reasonable efforts to perform the Services requested by BioNanomatrix, Inc., subject to the ability of SVTC to perform these Services on SVTC’s existing equipment and equipment contributed by BioNanomatrix, Inc. using standard materials and process recipes that are compatible with the equipment and resources of SVTC.
+1.1
+SUMMARY OF SERVICES TO BE PROVIDED:
+▪
+[…***…]
+▪
+[…***…]
+▪
+[…***…]
+▪
+[…***…]
+▪
+[…***…]
+BioNanomatrix SCED462694
+3.0 SVTC SERVICE FEES:
+Development
+     Fees    
+Frequency
+Fab Access
+[…***…]
+[…***…]
+Activity Fee for activities in excess of the included 600 activities
+[…***…]
+[…***…]
+Engineering Services - Fixed Fee Process Engineering Support
+[…***…]
+[…***…]
+Engineering Services for hours exceeding contracted hours per quarter
+[…***…]
+[…***…]
+Process Library Access
+[…***…]
+[…***…]
+Mask Design Services (including reticles) - Estimate
+[…***…]
+[…***…]
+Analytical Services - Estimate
+[…***…]
+[…***…]
+Prototype Production
+     Fees    
+Frequency
+Prototype production - 2 months estimated duration
+- 
+[…***…] 
+Activities
+[…***…]
+[…***…]
+- Excess Activities at 
+[…***…]
+- Minimum lot: 
+[…***…]
+Prototype production Engineering Support - 2 months
+[…***…]
+[…***…]
+-[…***…]
+- Excess Hours at 
+[…***…]
+Volume Production
+     Fees    
+     Frequency 
+Volume Production
+- 101-200 wpm:
+[…***…]
+Per Wafer
+- 201-300 wpm:
+[…***…]
+Per Wafer
+- 301-400 wpm:
+[…***…]
+Per Wafer
+- > 400 wpm:
+[…***…]
+Per Wafer
+[…***…]
+[…***…]
+[…***…]
+BioNanomatrix SCED462694
+4.0 TERMS:
+1)
+Not withstanding herein or within related agreements and documents, SVTC agrees that if for any reason whatsoever Customer does not use Activities or engineering hours allocate to the Customer for the project (as defined in Exhibit A), Customer shall have the right to carry forward either the total unused Activities and total unused engineering hours, or up to 
+[…***…] 
+Activity and engineering hour Allocation (as defined in Exhibit A), whichever is less, for a period of up to 
+[…***…] 
+beyond the termination date of the Agreement. If the Carry Forward is not used within the 
+[…***…]
+, any residual of the Carry Forward Allocation will terminate.
+EXHIBIT B
+Equipment List — BioNanomatrix Vision Corporation
+Table B1 — Equipment with Activity Multipliers and with Access Only Through SVTC Operation and/or Engineering — No Direct Hands-on Usage
+[…***…]
+Table B2, P1 — Equipment with Access Only Through SVTC Operation and/or Engineering
+—
+No Direct Hands-on Usage
+(Note – List includes tools both with and without activity multipliers.) [
+…***…]
+Table B2, P2 — Equipment with Access Only Through SVTC Operation and/or Engineering
+—
+No Direct Hands-on Usage
+(Note – List includes tools both with and without activity multipliers.)
+[…***…]
+Table B2, P3 — Equipment with Access Only Through SVTC Operation and/or Engineering
+—
+No Direct Hands-on Usage
+(Note – List includes tools both with and without activity multipliers.)
+[…***…]
+Table B2, P4 — Equipment with Access Only Through SVTC Operation and/or Engineering
+—
+No Direct Hands-on Usage
+(Note – List includes tools both with and without activity multipliers.)
+[…***…]
+Exhibit C
+Insurance Requirements for SVTC Customers
+Within the timeframe specified in the Agreement stating insurance requirements or when requested by SVTC, Customer must provide Certificates of Insurance verifying it has the following types of insurance (including an attachment specifying additional or named insureds and any waiver endorsements). If the Agreement requires limits other than those below, the limits stated in the Agreement shall supersede those below. Customer agrees to maintain all such applicable insurance during its operations at SVTC.
+Note that the following insurance requirements apply only to Customers working on SVTC premises using SVTC equipment. If there will be no use of SVTC equipment, the below insurance requirements do not apply. If the nature of Customer’s work on SVTC premises changes during the term of the Agreement, the insurance requirements below may be imposed, waived or re-imposed. By way of example, if a customer desires access to the fabs but does not actually use the equipment , a lesser level of insurance may be acceptable, subject to the level being increased if the customer later starts directly using SVTC equipment.
+Commercial General Liability Coverage: 
+Policy must name SVTC, Technologies LLC., (“SVTC”), as an additional insured and include a waiver of subrogation in favor of SVTC; include Broad Form Property Damage, Blanket Contractual Liability (covering liability assumed by Supplier), Premises/Operations, and Products/Completed Operations.
+$ […***…] General Aggregate
+$ […***…] Products-Completed Operations Aggregate (as needed)
+$ […***…] Personal & Advertising Injury $ 1,000,000 Each Occurrence
+$ […***…] Fire Damage (Any one fire)
+$ […***…] Medical Expense (any one person)
+Excess/Umbrella Coverage: 
+This policy must be in force in addition to the underlying coverage required above without any gaps and subject to all of the same requirements as the underlying coverage so that the total amount of insurance coverage (underlying plus umbrella) equals the following:
+$ […***…] Each occurrence and general aggregate
+BioNanomatrix
+AMEND462693-001
+AMENDMENT 1
+This Amendment, (“Amendment”), dated July 13, 2009 (“Effective Date”) is to the Master Services Agreement dated March 2, 2009, and Exhibit A - Commercial Terms dated April 7, 2009 (“Agreement”) between SVTC Technologies, LLC (“SVTC”), and BioNanomatrix, Inc. (“Company”). The Agreement mandates that all changes must be in a writing signed by the parties. Except as provided below, all the provisions of the Agreement shall remain in effect and apply to the amended language. Accordingly, the parties agree to the following:
+1)
+Exhibit A states the Commercial Terms for development phase of the described six month Company project. Section 3.0 of Exhibit A states the Service Fees including the amount charged for Engineering Services which currently provides that Engineering Services hours in excess of […***…] will be billed at the rate of […***…].
+2)
+It is hereby agreed to amend the forgoing language to provide that Engineering Services hours in excess of […***…] will be billed at the rate of […***…]. It is also agreed that this reduction only applies during the period of time ending September 25, 2009, when development is complete.
+Effect of this Amendment. In the event of any conflict between the Agreement and this Amendment, this Amendment shall control. Except as amended or otherwise set forth in this Amendment, all terms and conditions of the Agreement remain in full force and effect and shall apply to this Amendment and the interpretation thereof.
+With due authority from our respective companies, we hereby signify our consent to this Agreement by signing below,
+SVTC Technologies, LLC
+Signature:    
+/s/ Brian A. Stein    
+Printed Name:    
+Brian A. Stein
+Title:    
+CFO
+Date:    
+October 2, 2009
+Customer:    BioNanomatrix, Inc.
+Signature:    
+/s/ Michael Boyce-Jacino    
+Printed Name:    
+Michael Boyce-Jacino
+Title:    
+President and CEO
+Date:
+BioNanomatrix AMEND462693-002
+AMENDMENT 2
+This Amendment 2, (“Amendment”), dated October 21, 2009 (“Effective Date”) is to the Master Services Agreement dated March 2, 2009 (“Agreement”) between SVTC Technologies, LLC (“SVTC”), and BioNanomatrix, Inc. (“Company”). The Agreement mandates that all changes must be in a writing signed by the parties. Except as provided below, all the provisions of the Agreement, including section 11, shall remain in effect and apply to the amended language. Accordingly, the parties agree to the following:
+1)
+The Agreement included an Exhibit A which included specific commercial terms to cover the development phase of the ongoing project. The services and charges in Exhibit A were for work during the six month period starting April 7, 2009. The parties are now ready to proceed to the next phase in the project . Note that an Amendment 1, dated July 13, 2009, was executed but is not relevant to this Amendment 2.
+2)
+Pursuant to Section 2.1 of the SVTC Agreement, the SVTC Agreement is hereby amended to include attached Exhibit A2 describing services that will be provided by SVTC to Company for the next phase. SVTC will provide Company the services described in Exhibit A2 for the prices set forth therein, subject to any additional terms and conditions set forth therein. All work by SVTC for the project described in Exhibit A2 shall be pursuant only to the Agreement as amended herein, and not pursuant to any other agreements.
+Effect of this Amendment. In the event of any conflict between the Agreement and this Amendment, this Amendment shall control. Except as amended or otherwise set forth in this Amendment, all terms and conditions of the Agreement remain in full force and effect and shall apply to this Amendment and the interpretation thereof.
+LIST OF ATTACHMENTS: 
+Following is a list of attachments to this Amendment, including all Schedules and Exhibits. Any future added attachment must include a dated Amendment or provision referencing the Agreement and must be executed by all parties.
+Exhibit A2
+(signatures on next page)
+BioNanomatrix AMEND462693-002
+With due authority from our respective companies, we hereby signify our consent to this Agreement by signing below,
+SVTC Technologies, LLC
+Signature:    
+/s/ Brian A. Stein    
+Printed Name:    
+Brian A. Stein
+Title:    
+CFO
+Date:    
+10/23/09
+Customer:    BioNanomatrix, Inc.
+Signature:    
+/s/ Lorraine G. LoPresti    
+Printed Name:    
+Lorraine G. LoPresti
+Title:    
+VP – Finance & Administration
+Date:    
+10/22/2009
+BioNanomatrix AMEND462693-002
+Exhibit A2 Commercial Terms
+For BioNanomatrix, Inc.’s Revised Nanochannel Array Development Project
+START DATE: 
+10-19-2009    
+DURATION: 
+Six (6) Months*
+SVTC proposes the date above on which SVTC will begin providing the following services under the Agreement (“Start Date”). *Project Duration commences upon the (“Start Date”) and shall continue for six months unless extended as provide in section 6, 2), below.
+1.0 DESCRIPTION OF SERVICES:
+SVTC shall provide services for the defined Project Duration in order to develop and process experimental prototype silicon wafers in support of BioNanomatrix, Inc.’s Revised Nanochannel Array Development Project. SVTC will use manufacturing processes that are being developed and BioNanomatrix, Inc. will be allocated a specific number of Activities, as well as other support and services, as described herein (“Services”). SVTC shall use commercially reasonable efforts to perform the Services requested by BioNanomatrix, Inc., subject to the ability of SVTC to perform these Services on SVTC’s existing equipment and equipment contributed by BioNanomatrix, Inc. using standard materials and process recipes that are compatible with the equipment and resources of SVTC.
+1.2
+SUMMARY OF SERVICES TO BE PROVIDED:
+▪
+Fab Services for experimental prototype wafers
+▪
+Engineering Services
+▪
+Process Library Access
+3.0 SVTC SERVICE DEFINITIONS:
+Fab Access Services:
+1. […***…]
+2. […***…]
+3. […***…]
+4. […***…]
+5. […***…]
+6. […***…]
+BioNanomatrix AMEND462693-002
+Engineering Services: (in addition to those included within the Activities pricing)
+1.
+Contracted engineering time may be utilized for the following development tasks a. […***…]
+b […***…] c. […***…]
+d. […***…]
+e. […***…]
+2.
+These services are to be executed in collaboration with Company
+Process Library Services:
+1. […***…]
+4.0 ADDITIONAL SERVICES:
+Additional Services are subject to availability at SVTC’s sole discretion for additional fees
+Reticles    […***…]
+Analytical Services    […***…]
+BioNanomatrix AMEND462693-002
+5.0 SVTC ESTIMATED SERVICE FEES:
+BioNanomatrix Fees Summary
+Cal Q4’09
+Cal Q1’10
+[…***…]
+[…***…]
+[…***…] […***…]
+[…***…]    […***…]
+[…***…] […***…]
+[…***…]    […***…]    […***…]
+[…***…]
+[…***…]
+[…***…]
+[…***…]
+Total Revised Prototype Wafers
+[…***…]
+[…***…]
+[…***…]
+[…***…]
+[…***…]
+- […***…]
+- […***…]
+- […***…]
+- […***…]
+- […***…]
+IP License Fee (actual - not estimated)
+[…***…]
+[…***…]
+Total Alpha2 Development
+[…***…]
+[…***…]
+Sub-Total (By Quarter)
+[…***…]
+[…***…]
+TOTAL
+[…***…]
+BioNanomatrix AMEND462693-002
+6.0 TERMS:
+1)
+The project summary in Section 5.0 represents a non-binding total estimated project cost and timeline. However, the Minimum Financial Commitment Fee for the Duration is […***…]. As part of this Amendment, Company commits to have […***…] Prototype wafers constructed on the existing […***…] flow upon execution of this Amendment.
+2)
+Fees for all services actually provided by SVTC to Company. shall be invoiced at the end of each SVTC fiscal month and payment shall be due within 30 days. IP License fees shall be billed at the end the first month of each quarter. Company will have the option to extend the Duration by up to three months, at the same rates as above, in the event that the above development services are not concluded within six months; to exercise the extension, Company must notify SVTC in writing at least thirty days prior to the end of the initial six month Duration. Should the extension occur, SVTC will waive the associated quarterly IP License fee for the extension.
+3)
+All invoicing shall follow SVTC fiscal month start and end dates.
+4)
+Additional Activities, Engineering Hours, Additional Tool Training, access to additional equipment and resources, and other Extraordinary Expenses (“Additional Services) shall be made available at SVTC’s sole discretion and shall be agreed to in writing prior to being performed by SVTC. Company shall pay for all Additional Services per the terms of the Agreement, with rates fixed at […***…] and […***…].
+5)
+No Company terms and conditions, including but not limited to any stated on Company’s Purchase Orders or other documents, shall apply to SVTC’s services.
+6)
+Outsourcing charges for any outsourced steps are estimates only and may be subject to additional fees and/or outsource non-reoccurring engineering charges. If outsourcing occurs, […***…].
+1.1
+LICENSED TECHNOLOGY:
+The Services listed above and SVTC’s process technology, including recipes and steps, used in the performance of services shall be provided and licensed to Company under the terms, conditions and limitations of the Agreement, which shall override and supersede any terms and conditions in any Company provided documents.
+BioNanomatrix AMEND462693-002
+Table 1 Process Flows
+[…***…]
+BioNanomatrix AMEND462693-002
+[…***…]
+AMENDMENT 3
+This Amendment 3, (“Amendment”), dated July 9, 2010 (“Effective Date”) is to the Master Services Agreement dated March 2, 2009 (“Agreement”) between SVTC Technologies, LLC (“SVTC”), and BioNanomatrix, Inc. (“Company”). The Agreement mandates that all changes must be in a writing signed by the parties. Except as provided below, all the provisions of the Agreement shall remain in effect and apply to the amended language. Accordingly, the parties agree to the following:
+1)
+Previous draft of Amendment 3, dated in November, 2009, which was not finalized or executed, is superseded and replaced with this version of Amendment 3.
+2)
+SVTC and Customer agree to again extend the expiration of the Commercial Terms in Exhibit A2 of Amendment 2 of the Agreement, which Customer previously extended, by exercising the option to extend the duration as stated in Section 6, sub-paragraph 2 of Exhibit A2, for a prior revised expiration date of July 19, 2010. By this Amendment the parties agree that the Commercial Terms in Exhibit A2 shall now extended to now expire on October 19, 2010.
+3)
+SVTC agrees to […***…] for the duration of this extension.
+4)
+During the duration of this extension SVTC shall invoice Customer at the end of each SVTC fiscal month for actual services provided and payment shall be due within 30 days.
+Effect of this Amendment: In the event of any conflict between the Agreement and this Amendment, this Amendment shall control. Except as amended or otherwise set forth in this Amendment, all terms and conditions of the agreement remain in full force and effect and shall apply to this Amendment and the interpretation thereof.
+With due authority from our respective companies, we hereby signify our consent to this Agreement by signing below,
+SVTC Technologies, LLC
+Signature:    
+/s/ Jeffrey E. Calvello
+Printed Name:    
+Brian A. Stein
+ JEFFREY E. CALVELLO
+Title:    
+Chief Financial Officer
+ CORPORATE CONTROLLER
+Date:    
+July 20, 2010
+Customer:    BioNanomatrix, Inc.
+Signature:    
+/s/ Edward L. Erickson
+Printed Name:    
+Edward L. Erickson
+Title:    
+President & CEO
+Date:    
+7/19/2010
+AMENDMENT 4
+This Amendment 4, (“Amendment”), dated September 23, 2010 (“Effective Date”) is to the Master Services Agreement dated March 2, 2009 (“Agreement”) between SVTC Technologies, LLC (“SVTC”), and BioNanomatrix, Inc. (“Company”). The Agreement mandates that all changes must be in a writing signed by the parties. Except as provided below, all the provisions of the Agreement shall remain in effect and apply to the amended language. Accordingly, the parties agree to the following:
+1)    The Agreement is hereby amended to include attached Exhibit A4 describing services that will be provided by SVTC for Customer starting on the Effective Date. SVTC will provide Customer the services described in Exhibit A4 for the fees set forth therein, subject to any additional terms and conditions set forth therein. Starting 
+September 23
+, 2010, attached Exhibit A4, including the service and fee provisions therein, shall replace and supersede the provisions of prior Exhibit A2 to the Agreement in its entirety. 
+October 15 JC LL
+Effect of this Amendment: In the event of any conflict between the Agreement and this Amendment, this Amendment shall control. Except as amended or otherwise set forth in this Amendment, all terms and conditions of the agreement remain in full force and effect and shall apply to this Amendment and the interpretation thereof.
+LIST OF ATTACHMENTS: 
+Following is a list of attachments to this Amendment, including all Schedules and Exhibits. Any future added attachment must include a dated Amendment or provision referencing the Agreement and must be executed by all parties.
+With due authority from our respective companies, we hereby signify our consent to this Agreement by signing below,
+SVTC Technologies, LLC
+Signature:    
+/s/ Jeffrey E. Calvello
+Printed Name:    
+Brian A. Stein
+ JEFFREY E. CALVELLO
+Title:    
+Chief Financial Officer
+ CORPORATE CONTROLLER
+Date:    
+10/20/2010
+Customer:    BioNanomatrix, Inc.
+Signature:    
+/s/ Lorraine G. LoPresti
+Printed Name:    
+Lorraine G. LoPresti
+Title:    
+VP – Finance & Admin, CFO
+Date:    
+10/20/2010
+Exhibit A4 Commercial Quotation
+For BioNanomatrix, Inc.’s Alpha3.0 Technology
+START DATE: 
+10-15-2010    
+DURATION: 
+One (1) Year
+SVTC proposes the date above on which SVTC will begin providing the following services under the Master Services Agreement (“Start Date”). Project Duration is the period of time for the project described in this Quotation.
+1.0 DESCRIPTION OF SERVICES:
+SVTC shall provide research and development services in support of BioNanomatrix, lnc.’s Alpha3.0 Technology. SVTC will start with semiconductor processes that exist or are being developed by BioNanomatrix, Inc., and will provide such research and development services, as well as other support as described herein (collectively, “Services”). SVTC shall use its best efforts, which shall be no less than commercially reasonable efforts, to perform the Services requested by BioNanomatrix, Inc.,in accordance with this Exhibit A4 subject to the ability of SVTC to perform these Services on SVTC’s existing equipment and using standard materials and process recipes that are compatible with the equipment and resources of SVTC.
+1.1
+SUMMARY OF SERVICES THAT MAY BE PROVIDED:
+▪
+Fab Services
+▪
+Engineering Services
+▪
+Process Library Licenses
+3.0 SVTC SERVICE DEFINITIONS:
+Fab Access Services:
+1. […***…]
+2. […***…]
+3. […***…]
+4. […***…]
+5. […***…]
+6. […***…]
+7. […***…]
+Engineering Services: (Defined in the Agreement)
+1.
+Contracted engineering time may be utilized for the following development tasks a. […***…]
+b […***…] c. […***…]
+d. […***…]
+e. […***…]
+f. […***…]
+2.
+These services are to be executed in collaboration with customers direction and management
+Library License Fee:
+1. […***…]
+4.0 ADDITIONAL SERVICES**:
+Additional Training Services    [***]
+Additional Cubicles & Lockable Office Space    Subject to availability priced upon request Reticles    [***]
+Analytical Services    Full service capabilities available priced upon request
+** Additional Services subject to availability
+5.0 SVTC SERVICE FEE SCHEDULE:
+Development Contract    Fees    Frequency
+a)    
+Fab Services
+[…***…]
+* Actual spend rate is expected to exceed the minimum financial commit. Predicted run rate based on scope of work is between $175 and $225K per quarter
+6.0 PILOT / LOW VOLUME PRODUCTION:
+Wafers per year
+Activity Pricing
+100 – 1,200
+[…***…]
+12,000 – 3,000
+[…***…]
+> 3,000
+[…***…]
+•
+[…***…]
+7.0 SCOPE OF WORK:
+•
+Alpha2.0 Chip Development Requirements
+•
+Remaining technical challenges:
+•
+None; baseline process exists
+•
+Estimated Scope:
+•
+[…***…]
+•
+[…***…]
+•
+Alpha3.0 Chip Development Requirements:
+•
+Remaining technical challenges
+•
+[…***…]
+•
+[…***…]
+•
+[…***…]
+•
+Estimated Scope:
+•
+[…***…]
+•
+[…***…]
+•
+[…***…]
+-    […***…]
+•
+[…***…]
+•
+Total Scope Estimate: […***…]
+9.0 TERMS:
+1)
+Actual usage shall be invoiced at the end of each SVTC fiscal month for actual activities or engineering hours used, due NET30 days. It is anticipated that actual spend rate will exceed the monthly minimum financial commitment. Minimum financial commitment shall be […***…], with a minimum of […***…]. Any adjustments to fulfill the contracted fee requirements shall be invoiced at the end of every six (6) month duration.
+2)
+Product wafers will be ordered under this agreement, and will be invoiced upon shipment, and shall be included in the minimum financial commitment.
+3)
+The first and last billing cycle fees and service quantities other than set up shall be prorated to the actual start date and then continue in accordance with SVTC’s fiscal calendar such that all invoicing shall follow SVTC fiscal month start and end dates.
+1.1
+PRODUCT WAFER SPECIFICATIONS:
+▪
+Production Wafer Specifications
+•
+SVTC and BNM agree that at the conclusion of process verification of the Alpha2.0 chip, a robust, in-line test specification will be established to determine “good wafers”. It is expected that this specification will include top-down CD, profilometry for depth verification, and visual defect inspect. Actual criteria to be mutually agreed by SVTC and BNM.
+•
+SVTC and BNM agree that at the conclusion of the Alpha3.0 technology development and process verification, a robust, in-line test specification will be established to determine “good wafers”. Specification requirements are yet to be determined, and will be mutually agreed by SVTC and BNM.
+•
+It is the intent of SVTC and BNM to integrate the TSV module into the Alpha2.0 flow and eliminate the back-grind process. Once the TSV module is fully developed and the existing Alpha2.0 flow has been released, it is expected that the development required to integrate the two will be minimal. SVTC cannot predict the absolute effort required, as there is currently no data on which to base this conclusion. However, SVTC anticipates at least 2 lots of 6 wafers will be required for validation. SVTC will commit to complete this specific development at pilot production activity pricing, and at the least number of validation lots reasonable to mitigate the cost.
+1.1
+SUPPLY CHAIN MANAGEMENT:
+▪
+Supply Chain
+•
+Incoming Material: SVTC will by the end of the second quarter of this contract, assume control of incoming supply chain, specifically silicon substrates and glass lid wafers. These materials will be added to monthly invoices with SVTC standard […***…] applied
+•
+Packaging: SVTC will engage prospective packaging suppliers to develop an integrated solution for BNM. Once a viable technology demonstrator has been produced, SVTC will manage it as part of the integrated supply chain solution with a standard […***…]
+12.0 STANDARD ANALYTICAL SERVICES PRICE LIST:
+Note
+: 
+Pricing listed is typical pricing per technique. Actual price will be determined following review of customer specific material and objectives and is subject to change.
+SVTC Analytical Services
+Price
+Unit
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+Quote
+Each
+[…***…]
+[…***…]
+1st Wafer
+[…***…]
+[…***…]
+Additional Wafer
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+[…***…] Lot
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Lot
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Lot
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Lot
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Hour
+[...***... ]
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+1st Wafer
+[…***…]
+[…***…]
+Additional Wafer
+[…***…]
+[…***…]
+Sample w/prep
+[…***…]
+[…***…]
+Sample w-out prep
+** Expedite Pricing Options Available for ALL Services Listed**
+TERMS AND CONDITIONS FOR ANALYTICAL SERVICES
+SVTC, LLC 3901 North First Street, San Jose, CA 95134
+1.
+Except as otherwise agreed in writing by the parties, these Terms and Conditions shall govern analytical services provided to Customer by SVTC. These Terms and Conditions supersede all previous communications, representations, or agreements, either verbal or written, between the parties. The Parties also agree that these Terms and Conditions shall supersede additional, inconsistent or conflicting terms, whether printed or otherwise set forth in any purchase order or other documents provided by Customer to SVTC.
+2.
+Services. SVTC agrees to perform the services described in the proposal/quotation to which these Terms and Conditions are attached. Unless specifically agreed, completion times are not assured. Unless otherwise agreed, SVTC will electronically transmit the results of the analytical services which constitute full performance of SVTC’s obligations.
+3.
+Legal. This agreement shall be interpreted under the laws of the State of California. The invalidity or unenforceability, in whole or in part of any provision shall not affect the validity or enforceability of the remainder of the Terms and Conditions. Wavier by SVTC of any provision or of any breach by or obligation of the Customer shall not constitute a waiver of such provision on any other occasion or a waiver of any other breach by or obligation of the Customer. Modifications to this Agreement must be in writing and approved by authorities of the Parties.
+4.
+Methodology. Customer acknowledges that unless otherwise agreed in writing, analytical services may be outsourced to subcontractors of SVTC at SVTC’s sole discretion. Industry standard methodologies will normally be used; however, SVTC reserves the right if necessary to deviate from standard methodologies. Customer shall provide a prior written disclosure of known or suspected hazards of toxicity and shall provide written instructions concerning handling. Customer warrants that all submissions will be packaged, labeled, transported and delivered in accordance with applicable laws. Customer will be responsible for disposal.
+5.
+Warranty. SVTC warrants only that it will perform analytical services and prepare reports consistent with current generally accepted analytical laboratory principles and practices. No specific results are guaranteed. Preliminary results may be given in advance of a final report. If provided to Customer, preliminary results are subject to change and final review by SVTC and Customer’s use of preliminary results shall be at Customer’s risk. SVTC DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED.
+6.
+Liability. Customer’s exclusive remedy in the event of a breach of this Agreement shall be that SVTC will repeat the services at its own expense, and SVTC shall have no other liability whatsoever. All claims shall be deemed waived unless made in writing and received by SVTC within sixty (60) days following completion of services. Results are provided only for the use of SVTC Customers. Customer shall indemnify SVTC from any claims by third parties arising out of or related to the services provided under this agreement. IN NO EVENT SHALL SVTC BE LIABLE TO CUSTOMER OR TO ANY THIRD PARTY CLAIMING THROUGH OR UNDER CUSTOMER FOR INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, EVEN IF ADVISED OF THE POSSIBILITY THEREOF IN THE EVENT THAT ANY LIABILITY IS IMPOSED ON SVTC HEREUNDER. AWARDED DAMAGES SHALL NOT EXCEED THE AMOUNT PAID OR PAYABLE BY CUSTOMER TO SVTC FOR THE SERVICE TO WHICH SUCH LIABILITY RELATES. Each party acknowledges that the foregoing limitations are an essential element of the Agreement and that in the absence of such limitations the pricing and other terms set forth in this Agreement would be substantially different.
+7.
+Handling. SVTC shall have no responsibility or liability for the actions of any carrier or for delivery problems to or from SVTC. All shipment arrangements will be at Customer’s expense. If not picked up, submissions will be held for a limited time after which they will be destroyed unless otherwise agreed in writing. Disposal of hazardous materials is the responsibility of the Customer. SVTC reserves the right to refuse accept any submission if SVTC determines in its sole discretion, that a submission is of insufficient volume, or that it poses a risk due to health, safety, environmental or other factors, even if not a hazardous substance or notice was made by Customer.
+8.
+Compensation. Services performed will be billed in the amounts quoted or as stated on applicable SVTC Fee Schedules. If Customer notified SVTC to terminate services prior to completion. Customer shall remain liable for all services performed prior to receipt of notice. Payment terms are stated on SVTC’s invoice. Unless stated, charges do not include any sales, use or other taxes that will be added to invoice prices if required. SVTC reserves the right to require payment prior to commencing services or release of data. Forensic testimony or other services not stated on the quotation are not included the services to be provided.
+9.
+Intellectual Property. Customer’s proprietary data or information submitted by SVTC shall remain the Customer’s property. Upon satisfactory payment to SVTC for services provided, data or information generated by SVTC for the Customer shall be deemed the Customer’s property. SVTC or its subcontractors shall retain ownership of all analytical methods, protocols, and equipment. Without SVTC’s prior written consent, Customer shall not use SVTC’s or its subcontractor’s names or trademarks in any marketing or reporting materials, press releases or in any other manner and shall not attribute to SVTC any test result tolerance or specification derived from SVTC’s data.
+AMENDMENT 5
+This Amendment 5, (“Amendment”), dated September 26, 2011 (“Effective Date”) is to the Master Services Agreement dated March 2, 2009 (“Agreement”) between SVTC Technologies, LLC (“SVTC”), and BioNanomatrix, Inc. (“Customer”). The Agreement mandates that all changes must be in a writing signed by the parties. Except as provided below, all the provisions of the Agreement shall remain in effect and apply to the amended language. Accordingly, the parties agree to the following:
+1)
+The Agreement is here by amended to include attached Exhibit A5 describing services that will be provided by SVTC for Customer starting on the effective Date. SVTC will provide to Customer the services described in Exhibit A5 for the fees set forth therein, subject to any additional terms and conditions set forth therein. Starting on September 26, 2011, attached Exhibit A5, including the service and fee provisions herein, shall replace and supersede the provisions of prior Exhibit A4 to the Agreement in its entirety.
+2)
+SVTC and Customer also agree to extend the expiration of the Agreement itself from its current expiration date of March 02, 2012, so that the Agreement shall now expire on September 25, 2012 to coincide with the expiration of the Duration in Exhibit A5.
+Effect of this Amendment: In the event of any conflict between the Agreement and this Amendment, this Amendment shall control. Except as amended or otherwise set forth in this Amendment, all terms and conditions of the agreement remain in full force and effect and shall apply to this Amendment and the interpretation thereof.
+LIST OF ATTACHMENTS: 
+Following is a list of attachments to this Amendment, including all Schedules and Exhibits. Any future added attachment must include a dated Amendment or provisions referencing the Agreement and must be executed by all parties.
+With due authority from our respective companies, we hereby signify our consent to this Agreement by signing below,
+SVTC Technologies, LLC
+Signature:    
+/s/ Kevin Kassekert    
+Printed Name:    
+Kevin Kassekert
+Title:    
+General Manager
+Date:    
+9/22/11
+Customer;    BioNanomatrix, Inc.
+Signature:    
+/s/ R. Erik Holmlin    
+Printed Name:    
+R. Erik Holmlin
+Title:    
+CEO
+Date:    
+9/22/2011
+Exhibit A5 Commercial Terms
+For BioNanomatrix, Inc.’s Fluidics Chip Technology
+START DATE: 09-26-2011    DURATION: One (1) Year
+SVTC proposes the dale above on which SVTC will begin providing the following services under the Master Services Agreement (“Start Date”). Project Duration is the period of time for the project described in this Amendment.
+1.0 DESCRIPTION OF SERVICES:
+SVTC shall provide research and development services in support of Customer’s Fluidics Chip Technology. SVTC will start with semiconductor processes that exist or are being developed by Customer. and will provide other support as described herein (“Services”). SVTC shall use commercially reasonable efforts to perform the Services requested by BioNanomatrix. Inc., subject to the ability of SVTC to perform these Services on SVTC’s existing equipment and using standard materials and process recipes that are compatible with the equipment and resources of SVTC.
+1.1
+SUMMARY OF SERVICES THAT MAY BE PROVIDED:
+▪
+Fab Services
+▪
+Engineering Services
+▪
+Process Library Licenses
+3.0 SVTC SERVICE DEFINITIONS:
+Fab Services:
+1. […***…]
+2. […***…]
+3. […***…]
+4. […***…]
+5. […***…]
+6. […***…]
+Engineering Services: (Defined in the Agreement)
+1. Contracted engineering services may be utilized for the following developmental tasks a. […***…]
+b. […***…]
+c. […***…]
+d. […***…]
+e. […***…]
+f. […***…]
+Library License Fee:
+1. […***…]
+4.0 ADDITIONAL SERVICES** :
+Reticles    […***…]
+Analytical Services    […***…]
+** Additional Services subject to availability
+5.0 SVTC SERVICE FEE SCHEDULE:
+Development Contract Fees Frequency    Fees    Frequency
+a)
+Fab Services
+[…***…]
+Development Activities unit pricing    
+[…***…] per activity
+b)
+Engineering Services - Process Engineering Support
+•
+ […***…]
+[…***…] hourly
+Engineering Services hours exceeding Included Hours
+[…***…] quarterly
+c)
+Library License Fee
+•
+[…***…]
+[…***…]
+d)
+Analytical Services
+•
+ […***…]
+a)
+Reticles    
+Quoted upon
+request
+[…***…]    […***…]    Annual
+1.1
+PILOT / LOW VOLUME PRODUCTION:
+Wafers per year
+Activity Pricing
+[…***…]    
+[…***…]
+[…***…]    
+[…***…]
+[…***…]    
+[…***…]
+▪
+[…***…]
+▪
+[…***…]
+1.1
+TERMS:
+1)
+A
+ctual usage shall be invoiced 
+at 
+the end of each SVTC fiscal month for actual activities or engineering hours used, due NET 30 days. Minimum Financial Commitment (MFC) shall be […***…].
+2)
+Product wafers will be ordered under this agreement, and will be invoiced upon shipment, and shall be included in the quarterly minimum financial commitment.
+3)
+The first and last billing cycle fees and service quantities other than set up shall be prorated to the actual start date and then continue in accordance with SVTC’s fiscal calendar such that all invoicing shall follow SVTC fiscal month start and end dates.
+4) […***…]
+10.0 PRODUCT WAFER SPECIFICATIONS:
+(BNM refers to BioNanomatrix, Inc.)
+Production Wafer Specifications
+SVTC and BNM agree that at the collision of process verification of the alpha 2.0 chip, a robust, in-line test specification will be established to determine “good wafers”. It is expected that this specification will include top-down CD, profilometry for depth verification, and visual defect inspect. Actual criteria to be mutually agreed by SVTC and BNM.
+SVTC and BNM agree that at the conclusion of the Alpha 3.0 technology development and process verification, a robust, in-line test specification will be established to determine “good wafers”. Specification requirements are yet to be determined, and will be mutually agreed by SVTC and BNM.
+It is the intention of SVTC and BNM to integrate the TSV module into the Alpha 2.0 flow and eliminate the back-grind process. Once the TSV module is fully developed and the existing Alpha 2.0 flow has been released, it is expected that the development required to integrate the two will be minimal. SVTC cannot predict the absolute the absolute effort required, as there is currently no data on which to base this conclusion. However, SVTC anticipates at least 2 lots of 6 wafers will be required for validation. SVTC will commit to complete this specific development at pilot production activity pricing, and the least number of validation lots reasonable to mitigate the cost.
+1.1
+STANDARD ANALYTICAL SERVICES PRICE LIST:
+Note
+: 
+Pricing listed is typical pricing per technique. Actual price will be determined following review of customer specific material and objectives and is subject to change.
+SVTC Analytical Services
+Price
+Unit
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Sample
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+1st Wafer
+[…***…]
+[…***…]
+Additional Wafer
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Hour
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Lot
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Lot
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+Lot
+[…***…]
+[…***…]
+Each
+[…***…]
+[…***…]
+[…***…]
+Hour

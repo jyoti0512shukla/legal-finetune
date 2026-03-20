@@ -1,0 +1,643 @@
+EX-10.11(I)
+
+4
+
+vray-ex1011i_761.htm
+
+EX-10.11(I)
+
+vray-ex1011i_761.htm
+
+Exhibit 10.11(i)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Certain confidential information contained in this document, marked by brackets as [***], has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+
+ 
+
+Amendment Nr. 8
+
+ 
+
+to the
+
+Development and Supply Agreement between ViewRay Incorporated and Siemens Aktiengesellschaft, Healthcare Sector dated 17
+th
+ June 2008
+
+ 
+
+by and between
+
+ 
+
+ 
+
+ViewRay Technologies, Inc.
+
+with its registered seat in Oakwood Village, OH, USA
+
+-hereinafter referred to as “ViewRay”-
+
+ 
+
+and
+
+ 
+
+ 
+
+Siemens Healthcare GmbH
+
+-hereinafter referred to as “SIEMENS”-
+
+ 
+
+-ViewRay and Siemens hereinafter referred to individually as “Party” or collectively as “Parties”-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Preamble
+
+ 
+
+Whereas, Siemens Aktiengesellschaft and ViewRay have signed a Development and Supply Agreement on June 17, 2008 as amended by eight amendments (Amendment 1 signed on June 26
+th
+, 2009; Amendment 2 signed on April 14
+th
+, 2010; Amendment 3 signed on February 2
+nd
+, 2009; Amendment 4 signed on May 11
+th
+, 2012, Amendment 5 signed on May 30
+th
+, 2012, Amendment 6 signed on February 21
+st
+, 2014, Amendment 7 signed on November 19
+th
+, 2015 (Development and Supply Agreement and all amendments together the “
+2008 Agreement
+”) according to which they have collaborated in the development of combining MR imaging and Radiation Therapy. 
+
+ 
+
+Whereas, Siemens Aktiengesellschaft has transferred its Healthcare business, including the assignment to and assumption of the Development and Supply Agreement in its amended version, to a separate legal entity, Siemens Healthcare GmbH in May 1
+st
+, 2015. ViewRay has agreed to the assignment. 
+
+ 
+
+Whereas, pursuant to Appendix 2 of the 2008 Agreement (the “
+Supply Agreement
+”) Siemens currently supplies ViewRay with Siemens’ Avanto MRI components (“
+Avanto
+”) for integration into ViewRay’s MRIdian Linac.  Siemens has plans to sunset the Avanto platform, and has developed the Avanto Dot MRI system (“
+Avanto Dot
+”) as an upgrade to the Avanto and as part of its lifecycle management for Siemens’ MRI systems.  Each of the Avanto and Avanto Dot are COMPONENTS as such term is used in the Supply Agreement.    
+
+ 
+
+Whereas, Siemens and ViewRay desire to include Avanto Dot Components under the Supply Agreement in addition to the existing Avanto Components and extend the Supply Agreement to support their ongoing operations.   
+
+ 
+
+Now therefore, the Parties agree as follows:
+
+ 
+
+ 
+
+Article 1 -
+
+Definitions
+
+ 
+
+1.1
+
+“
+Avanto
+” shall have the meaning given that term in the Preamble.
+
+ 
+
+1.2
+
+“
+Avanto Dot
+” shall have the meaning given that term in the Preamble.
+
+ 
+
+1.3
+
+“
+Deliverable
+” shall mean all deliverables provided by Siemens as specified in the SOW.
+
+ 
+
+1.4
+
+“
+Development Phase
+” shall mean the validation of the integration and interaction of the Avanto Dot with ViewRay’s MRIdian Linac, as provided in Article 2.  The Development Phase shall include the design, development and integration of the Software Patch (as defined in Section 2.4, together with the validation and verification of such integration.  
+
+ 
+
+1.5
+
+“
+NRE
+” shall mean a non-recurring engineering fee that ViewRay shall pay to Siemens for its services during the Development Phase in line with the milestones of Section 2.1.    
+
+ 
+
+1.6
+
+“
+Specifications
+” shall mean the design, functional, technical and other requirements for a Deliverable set forth in Annex 1 and the SOW. The Parties expect to rely on Siemens’ existing Specifications for Components wherever possible, with certain software and related Specifications created or modified as necessary for integration.
+
+ 
+
+1.7
+
+“
+Statement of Work
+” or “
+SOW
+”” shall mean the project plan, describing the organization, technical and other details of the work to be completed as part of the Development Phase.  The scope of work included in the SOW is described in Annex 2, which may be amended in writing from time-to-time.
+
+ 
+
+1.8
+
+“
+Upgrade Kit
+” shall mean a hardware and software package developed by Siemens that allows for an upgrade of a ViewRay’s MRIdian Linac from an Avanto to an Avanto Dot
+.
+
+ 
+
+ 
+
+1.9
+
+“
+Avanto Supply 
+L
+imit
+” is the maximum number of Avanto components which can be ordered by ViewRay between 01.01.2019 and 31.12.2025 as described in Article 3.1.
+
+1.10
+
+ “
+Avanto Dot Supply
+ 
+Limit”
+ is the maximum number of Avanto Dot components which can be ordered by ViewRay between 01.01.2019 and 31.12.2025 as described in Article 3.3.
+
+1.11
+
+“Avanto Dot Upgrade Supply Limit”
+ is the maximum number of Upgrade Kits which can be ordered by ViewRay between 01.01.2019 and 31.12.2029 as described in Article 3.4.
+
+1.12
+
+“
+Software Patch
+” shall mean the package of all required changes Siemens has to implement in the current software baseline for Avanto Dot as defined in Annex 1.
+
+1.13
+
+“
+Wind-Down Period
+” shall mean a period of five years after expiration or termination of this Supply Agreement for any reason as described in Article 4.2.4.
+
+ 
+
+ 
+
+Article 2 -
+
+Development Phase
+
+ 
+
+2.1
+
+The Development Phase shall commence upon execution of this Amendment, and ViewRay will pay the $500,000 NRE to Siemens as follows: 
+
+ 
+
+2.1.1
+
+[***] upon execution of this Amendment;
+
+ 
+
+2.1.2
+
+[***] upon delivery of all software, hardware and other physical deliverables required to commence the Offline Development Phase as defined in Annex 2;
+
+ 
+
+2.1.3
+
+[***] upon successful completion of the activities described in Section 2.3.
+
+ 
+
+2.2
+
+Specifications for the Avanto Dot and Upgrade Kit, including the integration of each of the Avanto Dot and Upgrade Kit with ViewRay’s MRIdian Linac, are set forth in Annex 1.   Any changes to the Specifications need to be mutually agreed upon by the Parties according Section 8.3 of the Supply Agreement.
+
+ 
+
+2.3
+
+The Development Phase will be completed after successful demonstration of the integration  of the Avanto Dot and Upgrade Kit with the MRIdian Linac. ViewRay will perform the demonstration and confirmation within 6
+ month after receipt of a Software Patch version comparable with a Siemens internal “Customer Use Tests” (CUT) Version (without CE) in accordance with Annex 1 section 3 and the required hardware. The completion of the Development Phase will be documented in a joint review meeting by both Parties , based upon a review if the verification and validation tests fulfilled all the Specifications (with consent not to be unreasonably withheld) as described in Annex 1 as well as any mutually agreed changes to the Specifications due to the combined use of the Avanto Dot and Upgrade Kit with the MRIdian Linac system.
+
+ 
+
+2.4
+
+The Development Phase will include certain software related to the integration of the Avanto Dot and Upgrade Kit with the MRIdian Linac system (the “Software Patch”).  The Software Patch shall provide the functionality documented in the Specifications.
+
+ 
+
+2.5
+
+Siemens shall apply commercially reasonable efforts to provide maintenance and support for the Software Patch through [***] so that it continues to perform in accordance with the Specifications as delivered and/or upgraded.
+
+ 
+
+ 
+
+2.5.1
+
+Any maintenance or updates to the Software Patch: (i) shall not remove the functionality set forth in the Specifications or have a material adverse effect on the 
+
+ 
+
+ 
+
+ 
+
+functionality of the Software Patch and (ii) 
+Siemens will 
+continue to provide bug fixes and resolve other defects to the S
+oftware
+ Patch that become known post-release
+.
+  
+
+ 
+
+ 
+
+2.5.2
+
+The Software Patch shall be delivered free of any virus or otherwise malicious code, or any code or command intended to bring down the Software Patch or any computers, networks, data or other electronically stored information, or computer programs or systems.
+
+ 
+
+ 
+
+Article 3 -
+
+Supply of Avanto and Avanto Dot MRI Systems
+
+ 
+
+ 
+
+3.1
+
+ViewRay may purchase, and Siemens shall supply, components for up to [***] Avanto systems (the “Avanto Supply Limit”).  Avanto Supply Limit applies to the all and the total of Avanto system components delivered from [***], this includes potential supply in accordance with 3.2. The purchase price for the Avanto system components effective upon execution of this Amendment is set forth on Annex 3 attached hereto. 
+
+ 
+
+3.2
+
+The Parties acknowledge that an available supply of the Avanto systems is necessary during the development, testing and migration to Avanto Dot systems.  Therefore, in the event that Siemens causes an undue delay to the completion of the Development Phase due to intent or gross negligence, Siemens shall continue to supply Avanto systems for the additional period of such delay. The Parties further acknowledge that it is mutually beneficial to complete the Development Phase as soon as practicable.  Accordingly, each Party will appoint a project manager within one week of the execution of this Amendment, who shall be responsible to complete a detailed development Annex.  In the event of any material delay to the activities contemplated in the development Annex by one Party, then upon request of the other Party’s project manager, the delaying Party will propose a corrective action plan within two weeks and, upon agreement with the non-delaying Party, implement such corrective action Plan.  Any repeated delays would be escalated to senior management of each Party.  
+
+ 
+
+3.3
+
+ViewRay may purchase, and Siemens shall supply, components for up to [***] Avanto Dot systems (the “Avanto Dot Supply Limit”) by placing orders for Avanto Dot system components until [***].  The Avanto Dot Supply Limit may be increased by the number of Avanto systems that ViewRay chooses to convert to Avanto Dot systems.  [***].  The purchase price for the Avanto Dot system components is set forth on Annex 3 attached hereto.
+
+ 
+
+3.4
+
+ViewRay may also purchase, and Siemens shall supply, components for up to [***] Upgrade Kits until [***]. If ViewRay wishes to extend this period until [***] Siemens can choose the delivery of refurbished components for the delivery after [***]. The total number of [***] Upgrade Kits remains in place. The purchase price for the Upgrade Kits shall be [***] per Upgrade Kit. 
+
+ 
+
+3.5
+
+Siemens shall continue to provide spare parts and service support for the Avanto Dot system components until [***]. From [***] to [***] Siemens will provide support for Avanto Dot system components based on commercially reasonable efforts, consistent with its provision of services to its customers. 
+In case of insufficient residual supply on stock Siemens can allocate these units to their customer base on its sole discretion.
+
+ 
+
+3.6
+
+As part of its product lifecycle management, Siemens will proactively identify an upgrade path to any new or replacement MRI system to enable an orderly migration from the Avanto Dot to Siemens’ next generation MRI platform. Annex 3 includes indicative, non-binding pricing for the next generation platform, which is subject to mutual agreement in the future.
+
+ 
+
+ 
+
+ 
+
+3.7
+
+The provisions of this Amendment shall replace and supersede Sections 9 of the Supply Agreement in 
+its 
+entirety.  
+In addition, Sections 8.1 and 8.2 of the Supply Agreement are hereby deleted and replaced with the following:  
+
+ 
+
+“8.1  SELLER is entitled to technically change the COMPONENTS without notice to BUYER; provided that the COMPONENTS continue to conform to the applicable specifications for the then-current COMPONENTS. Notwithstanding the foregoing, SELLER shall notify BUYER about the changes in writing at least nine (9) months before start of production of the changed COMPONENTS. SELLER shall not make technical changes to the COMPONENTS that will cause them to not conform to the applicable specifications, unless such changes are required for safety reasons and/or by a change in applicable law or regulations, in which case SELLER shall follow the procedure in Section 8.2.
+
+ 
+
+8.2  If, as a result of a safety reasons and/or a change in applicable law or regulations, SELLER is required to make technical changes to the then-current COMPONENTS, and such changes could affect form, size, assembly, function or interfaces of the COMPONENTS so that such new or changed COMPONENTS fail to conform to the applicable specifications for the then-current COMPONENTS, SELLER shall as early as reasonably practicable, taking into consideration the regulatory requirements of introducing changes to the then-current COMPONENTS and the System notify BUYER and give BUYER access to specifications for the "new" COMPONENTS as well as access (at SELLER'S facility or at BUYER's request and expense at Buyer's Beachwood, Ohio facility) to a pre­production prototype of the new COMPONENTS prior to commercial release of the new COMPONENTS to permit BUYER to test the COMPONENTS and provide input to SELLER on its impact on the MRIdian Linac System. BUYER will notify SELLER not later than 9 months following the date it is notified of such technical changes by SELLER whether BUYER will adopt the new COMPONENTS for use in the MRIdian Linac System, and the parties shall cooperate to achieved the successful integration of the new COMPONENTS for use in the MRIdian Linac System. If BUYER adopts the new COMPONENTS for use in the MRIdian Linac System, Annex 1 and, to the extent applicable, Annex 2 will be amended to reflect the new COMPONENTS. SELLER is not obligated to continue to supply “old” COMPONENTS.”
+
+ 
+
+ 
+
+3.8
+
+Section 5.2 (Payment Terms) of the Supply Agreement shall be changed in a way that all payments shall be due within [***] days after invoice. 
+
+ 
+
+3.9
+
+[***]. 
+
+ 
+
+ 
+
+Article 4 -
+
+Term and Termination; Exclusivity
+
+ 
+
+4.1
+
+Article 9 of the 2008 Agreement is hereby deleted.
+
+ 
+
+4.2
+
+Article 13 of the Supply Agreement is hereby deleted and replaced with the following provisions:  
+
+ 
+
+ 
+
+4.2.1
+
+This Supply Agreement shall continue until January 1, 2026 unless it is terminated in accordance with Section 4.2.2 (the “Initial Term”). The term of the Supply Agreement will be automatically extended by twelve months unless terminated by either Party upon six months prior written notice with effect to the end of a calendar year.
+
+ 
+
+ 
+
+4.2.2
+
+Either Party may, without prejudice to any other rights it may have, terminate this Supply Agreement by providing written notice to the other Party if the other Party breaches any of its representations, warranties or obligations under 
+
+ 
+
+ 
+
+ 
+
+this 
+Supply Agreement
+ and fails to cure such breach within 60 days after receiving written notice thereof from the non-breaching 
+Party
+.
+
+ 
+
+ 
+
+4.2.3
+
+In the event of a CHANGE OF CONTROL of ViewRay by a third party that is a Direct Competitor of Siemens, either Party may terminate the 2008 Agreement in the form of this Amendment upon 90 days’ written notice to the other. For purposes of this Agreement, "Direct Competitor" means [***].  
+
+ 
+
+ 
+
+4.2.4
+
+Subject to the Avanto Supply Limit and Avanto Dot Supply Limit described in Sections 3.1-3.3, for a period of five years after expiration or termination of this Supply Agreement for any reason (the “Wind-Down Period”), Siemens will continue the supply of Components for ViewRay's MRIdian Linac System. This cooperation during the Wind-Down Period will include: (i) the continued manufacture and orderly supply of Components after the termination or expiration date, provided that in the  event that the termination was effected by Siemens as a result of ViewRay's material breach of this Supply Agreement, ViewRay will promptly pay all sums due Siemens under this Supply Agreement (other than those that are disputed in good faith by ViewRay) as of the date of termination; (ii) continued support of Components in accordance with the terms of this Supply Agreement after the termination or expiration date, provided that in the event that the termination was effected by  Siemens as a result of Buyer's material breach of this Supply Agreement ViewRay will promptly pay all sums due Siemens under this Supply Agreement (other than those that are disputed in good faith by ViewRay) as of the date of termination; and (iii) completion of the development phase of this agreement, including but not limited to NRE payments from ViewRay and all deliverables and activities outlined under Article 2, unless otherwise agreed in writing by the parties.
+
+ 
+
+ 
+
+4.2.5
+
+After the termination or expiration of this Supply Agreement, at Buyer's request, Siemens will continue to provide components for Upgrade Kits and support services to ViewRay for installed Components in accordance with Sections 3.4 and 3.5. ViewRay will continue to support such end users in the same manner that ViewRay provides similar support for other elements of the MRIdian Linac system.
+
+ 
+
+ 
+
+4.2.6
+
+[***].  
+
+ 
+
+ 
+
+4.2.7
+
+The provisions in Articles 7, 14 and 15 in the Supply Agreement shall survive the expiration or termination of this Supply Agreement. Any licenses granted by Siemens to ViewRay under this Supply Agreement or the 2008 Agreement will survive any expiration or termination of this Supply Agreement for any reason for as long as and to the extent that they are reasonably necessary to continue servicing and supporting existing accounts provided that ViewRay has paid any and all due payments to Siemens.
+
+ 
+
+ 
+
+Article 5 -
+
+Medical Device and Regulatory Requirements
+
+ 
+
+5.1
+
+The following stipulations of Article 5 shall overrule any and all prior agreements with regard to Medical Device and Regulatory Requirements.
+
+5.2
+
+Siemens shall document, implement, and maintain an acceptable quality system, such as the ISO 9001 for industrial (non-medical) products or ISO 13485 (for Medical Device Products) standard or equivalent certification.  Such quality system shall address records and controls required to ensure traceability of Components supplied to ViewRay, including product version numbers and/or serial numbers comparable but not beyond to the tracing within Siemens MAGNETOM systems.
+
+ 
+
+ 
+
+ 
+
+5.3
+
+All Components delivered to ViewRay shall undergo Siemens’ production testing protocols on component level before they are released for shipment. ViewRay will identify non-conforming Components in accordance with ViewRay’s internal inspection and testing procedures and notify Siemens of such non-conformance in writing, and where warranted, by issuing a more formal SCAR (Supplier Corrective Action Request).  Siemens shall acknowledge receipt of notice in writing and provide an initial written status response back to ViewRay within a reasonable period of time.  Siemens will investigate the non-conformance and implement correction and/or corrective actions, as required.  Siemens agrees to preserve and maintain all data associated with Component and other performance failures and corrective actions and to make that data available to ViewRay upon request and that all such data shall be maintained as confidential.
+
+ 
+
+5.4
+
+Siemens shall (a) inform ViewRay in a timely manner about any quality related notifications that Siemens makes regarding the Avanto and Avanto Dot Components (as listed in Annex 1) to its own end customers. 
+ Siemens further agrees to work in good faith with ViewRay to review and investigate all product complaints related to the Components (as listed in Annex 1) and provide a summary of their investigations and conclusions. Potential solutions need to be aligned on a case-by-case basis.
+
+ 
+
+5.5
+
+Siemens shall establish and maintain procedures to identify, control, and recall Components as a result of safety or efficacy reasons.  In the event of any product recall, product withdrawal or field correction related to the Components (as listed in Annex 1), the Parties agree that (a) they shall promptly notify each other and (b) they shall cooperate with each other as reasonably necessary. ViewRay shall be the point of contact for its end-user purchasers of any Component (whether directly or through any permitted sub-distributors) and be responsible for applicable regulatory authority contacts and for coordination of any end-user recall or field correction activities. Siemens shall provide supporting information to ViewRay as relevant to any such recall, withdrawal or field correction.   
+
+ 
+
+5.6
+
+Upon reasonable request from ViewRay for a conflict materials report, Siemens will provide a report to ViewRay that provides disclosure of any critical materials used in the production of any Component.
+
+ 
+
+ 
+
+Article 6 -
+
+Miscellaneous
+
+ 
+
+6.1
+
+This Amendment shall take effect on the date it is signed by both Parties.  Except to the extent expressly amended by this Amendment, all of the clauses and conditions of the 2008 Agreement shall remain unaffected. The term "Agreement”, as used in the 2008 Agreement, shall henceforth be deemed to be a reference to the 2008 Agreement as amended by this Amendment.
+
+ 
+
+6.2
+
+This Amendment may be executed in counterparts, each of which will be deemed an original with all such counterparts together constituting one instrument. Capitalized terms used in this Amendment and  not defined herein are used with the meanings ascribed to them in the 2008 Agreement.
+
+ 
+
+6.3
+
+This Amendment may not be assigned or otherwise transferred, nor may any rights or obligations be assigned or delegated, by either Party without the prior written consent of the other Party hereto, which consent may not be unreasonably withheld, except that either Party may assign this Amendment in whole or in part and/ or its rights and obligations hereunder without the consent of the other Party to an Affiliate of such Party, or to a third-party successor in interest of all or part of the business to which this Amendment relates, whether as a result of a change of ownership (including by stock purchase, merger or consolidation) and/or as a result of the sale of all or a substantial part of the assets and/or all or a part of the business to which 
+
+ 
+
+ 
+
+this Amendment relates and/or in connection with any type of spin-off, merger, consolidation, divestiture, dissolution and any other type of business combination or business reorganization. 
+
+ 
+
+6.4
+
+Any amendments as well as supplements to this Amendment must be in writing and signed by the Parties in order to be effective. A waiver of form shall be effective only if agreed upon in writing and signed by the Parties.
+
+ 
+
+6.5
+
+This Amendment shall constitute the entire understanding of the Parties regarding the subject matter hereof. Any general terms and conditions of the Parties shall not apply, even if printed on or referenced by a form used in connection with this Amendment. If provisions of this Amendment conflict with any terms or provisions of the 2008 Agreement, this Amendment shall have precedence.
+
+ 
+
+ 
+
+[
+Signature Page Follows
+]
+
+ 
+
+ 
+
+In Witness Whereof
+, the parties have caused this Amendment 
+8
+ to be executed by their duly authorized representatives as of the dated shown below. 
+
+ 
+
+ViewRay Technologies, Inc.
+                                              
+Siemens Healthcare GmbH
+
+ 
+
+ 
+
+By: 
+By:
+
+Print Name:
+Print Name:  
+ 
+   
+
+Title:
+Title:   
+   
+
+Date:   
+   
+Date:   
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+Print Name:
+
+Title:
+
+Date:

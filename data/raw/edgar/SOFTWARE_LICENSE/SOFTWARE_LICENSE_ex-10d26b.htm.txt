@@ -1,0 +1,1177 @@
+EX-10.26(B)
+
+6
+
+ex-10d26b.htm
+
+EX-10.26(B)
+
+ Glu_Ex_10_26(B)
+ 
+
+Exhibit 10.26(B)
+
+ 
+
+AMENDMENT # 1 TO
+
+UNITY SOFTWARE LICENSE & SUPPORT AGREEMENT
+
+ 
+
+This amendment to the Unity Software License Agreement (“
+Amendment #1
+”) is made as of the date last signed below (the “
+Amendment Effective Date
+”), by and between 
+Unity Technologies ApS
+, a Danish corporation with its principal place of business at Niels Hemmingsens Gade 24, 1153 Copenhagen, Denmark 
+(
+“
+Unity
+”
+)  
+and 
+Glu Mobile Inc.
+, a Delaware corporation with its principal place of business at 875 Howard Street, Suite 100, San Francisco, CA 94103 (“
+CUSTOMER
+”).
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS, the parties entered into a Unity Software License Agreement effective October 29, 2017 (the “
+Agreement
+”), pursuant to which CUSTOMER purchased subscription to Unity Products, Unity Source Code and services for a term of two (2) years.
+
+ 
+
+WHEREAS, the parties wish to modify the Agreement to renew the Term, update the products and pricing, and otherwise as set forth herein.
+
+ 
+
+AGREEMENT
+
+ 
+
+NOW THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+ 
+
+1.    
+First Renewal Term
+. The parties mutually agree to renew the Agreement for an additional, consecutive two (2) years, unless earlier terminated as set forth in the Agreement (the “
+First Renewal Term
+”). Accordingly, the definition of “Term” in the Agreement is revised to mean the period of time beginning on the Effective Date (as such term is defined in the Agreement) until the end of the First Renewal Term.
+
+ 
+
+2.    
+First Renewal Term Fee
+. Upon execution of this Amendment, CUSTOMER shall make a non-refundable payment of 
+                                                                                                                                                                                                            
+
+                                                                                                                                                         
+ (the “
+First Renewal Term Fee
+”) in accordance with the payment schedule set forth in 
+Exhibit B
+ as amended. This makes up the whole of CUSTOMER’s payment obligations for the First Renewal Term. Failure to pay as set forth in 
+Exhibit B
+ is considered a material breach of this Agreement, and Unity may suspend all Unity Products, Unity Source Code, and services until payments have been duly made.
+
+ 
+
+3.    
+Definitions
+. Section 1 of the Agreement is amended by adding the following definitions in the appropriate alphabetical order:
+
+ 
+
+a.    
+Unity Enterprise for Games
+” (or “Unity Enterprise”) means the “Unity” engine and editor that provide an authorizing environment with a series of integrated tools, modules and components that are: (a) designed to enable the creation of interactive content, and (b) provide for asset management, project revision and tracking, and team-based production. Unity Enterprise for Games provides the ability to publish on the desktop and mobile platforms specified in the System Requirements.
+
+ 
+
+4.    
+Exhibit B
+.  
+Exhibit B
+ to the Agreement is amended and replaced in its entirety with 
+Exhibit B
+ attached hereto.
+
+ 
+
+5.    
+Exhibit C
+.  
+Exhibit C
+ to the Agreement is amended and replaced in its entirety with 
+Exhibit C
+ attached hereto.
+
+ 
+
+6.    
+General
+. Except as explicitly modified herein, all terms and conditions and provisions of the Agreement continue in full force and effect. In the event of any inconsistency or conflict between the Agreement and this Amendment, the terms conditions and provisions of this Amendment shall govern and control. All initially capitalized terms used and not otherwise defined herein have the meaning ascribed to them in the Agreement. This Amendment may  be executed in one or more counterparts and transmitted by facsimile or email as a PDF, TIFF or other image files, each transmission of which is deemed an original, and all of which, when taken together, constitute one and the same instrument.
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the parties have caused this Amendment to be signed as of the Amendment Effective Date by their duly authorized representatives.
+
+ 
+
+UNITY TECHNOLOGIES APS
+
+   
+
+GLU MOBILE INC.
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+ 
+
+Name:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+ 
+
+ 
+
+Date:
+
+ 
+
+ 
+
+ 
+
+Exhibit B
+
+ 
+
+Summary of Products, Services and Fees
+
+ 
+
+ 
+
+ 
+
+ 
+
+Unity Product Subscription Seats*
+
+List Price
+Per Seat at
+Effecrive
+Date
+
+CUSTOMER
+Price per
+Seat (10%
+Discount
+
+Unity Enterprise for Games
+
+         
+
+                  
+
+Unity Build Machine
+
+         
+
+                  
+
+ 
+
+* Prices are per month, per developer for all remaining months in the Term. Subscription seats are paid annually in advance. Additional subscription seats purchased during the Term will be initially invoiced on a pro rata basis through the end of the then-current year of the Term. Thereafter, if applicable, Customer's total number of subscription seats will be invoiced for a full year in advance. Subscription seats include all Updates commercially available during the Term.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source Code Subscriptions*
+
+ 
+
+ 
+
+Full Access - all Desktop, Mobile and Console# Platforms
+
+                  
+
+ 
+
+
+Price is for an annual subscription to 
+access 
+the Unity Source Code. Unity Enterprise seats must be purchased separately for each developer. No use of Unity Source Code after the designated Term. Integrated 
+Success 
+Services is required for each year of Unity Source Code 
+access. 
+Please note that Customer's 
+access 
+to and use of the PhysX SDK (as modified for incorporation into the Unity Products) requires agreeing to and complying with the NVIDIA GameWorks EULA terms (currently found here: https:lldevelo per.nvidia.comlcontentla pptv-access-nvidia­ physx-source-code;accessing these terms requires joining the GameWorks NVIDIA Developer Program). UTECH will not deliver the PhysX SDK unless requested by Customer.
+
+#Customer must register its Project(s) in 
+Sony's 
+DevNet system and receive the PlayStation console add-ons from Sony prior to licensing the applicable Unity Source Code. Customer must register with ID@Xbox and receive the Xbox console add-ons from Microsoft or UTECH prior to licensing the applicable Unity Source Code. All Nintendo console add-ons, including the Unity Source Code therefor, are licensed directly from Nintendo. Customer must register its Project(s) with the Google Stadia developer program and receive the Stadia add-ons from Google or UTECH prior to licensing the applicable Unity Source Code.
+
+ 
+
+ 
+
+ 
+
+Annual Services
+
+ 
+
+ 
+
+Integrated Success Services - Level II*
+
+ 
+
+                  
+
+*Price for Unity Integrated Success Services - Level II is 
+                                                                                                                                      
+
+                                                                        
+. Unity Enterprise seats must be purchased separately for each developer. No use of Unity Source Code after the designated subscription term. The terms and conditions for the Unity Integrated Success Services – Level II offering is attached hereto as 
+Exhibit C
+ and incorporated by this reference. Unity Integrated Success Services – Level II  includes 
+          
+ Project Reviews pursuant to the terms and conditions in Appendix 1 to 
+Exhibit C
+. Additional Project Reviews may be purchased for the price outlined in Appendix 3 to 
+Exhibit C
+. Unity Integrated Success Services – Level II 
+                                             
+ Onsite Training Workshop pursuant to the terms and conditions in Appendix 2 to 
+Exhibit B
+. Additional Onsite Training Workshops or customization of a workshop may be purchased at an additional cost, subject to a separate Statement of Work.
+
+ 
+
+In addition to Unity Integrated 
+Success 
+Services 
+-  
+Level II pursuant to 
+Exhibit 
+C
+.  
+Customer may elect to purchase additional optional service modules 
+as 
+outlined in Appendix 3 to 
+Exhibit 
+C
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INITIAL ORDER
+
+ 
+
+Customer hereby places the following order and agrees to pay UTECH 
+                                                                                               
+
+                                                                                                                                                                                                                  
+
+                                                                                  
+. Customer agrees to pay within thirty (30) days upon receipt of a valid invoice in accordance with the Agreement. The second annual payment may increase if Customer purchases additional subscription seats.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Unity Product
+
+Units
+
+Term
+
+Unit Price
+
+Total
+
+Unity Enterprise for Games Subscription
+
+       
+
+24 months
+
+                  
+
+                  
+
+Unity Build Machine Subscription
+
+    
+
+24 months
+
+                  
+
+            
+
+Integrated Success Services - Level II
+
+    
+
+2 years
+
+                      
+
+               
+
+Total
+
+ 
+
+ 
+
+ 
+
+                  
+
+ 
+
+ 
+
+ 
+
+EXHIBIT C
+
+Unity Integrated Success Services – Level II
+
+ 
+
+This 
+Exhibit C
+ is designated for a Customer with active, valid Unity Product subscription seats, for a maximum of 
+                          
+ Support Requests.
+
+ 
+
+1.     Definitions. 
+These definitions apply to this 
+Exhibit C
+. Any capitalized terms not defined herein have the meaning set forth in the Agreement.
+
+ 
+
+“
+Business Hours
+” means the hours between 
+                                       
+ Pacific Time, Monday through Friday.
+
+ 
+
+“
+Customer-Generated Error
+” means problems in the operation or performance of the Unity Products to the extent that UTECH can show that such problems are caused by any of the following: (a) third party software or hardware products, or use of the Unity Products in conjunction therewith, or (b) Customer’s use of the Unity Products other than as authorized in its subscription agreement with UTECH.
+
+ 
+
+“
+Customer Personnel
+” means the designated, named individual members of Customer’s team designated by Customer to be direct contacts for UTECH’s Services Personnel.
+
+ 
+
+“
+DRM
+” means Customer’s designated “Developer Relations Manager” provided by UTECH.
+
+ 
+
+“
+Services
+” means those Integrated Success Services provided by UTECH as outlined in this Exhibit A.
+
+ 
+
+“
+Service Level Agreement
+” or “
+SLA
+” means the agreed upon response time to newly submitted Support Requests as set forth in Section 3 of this 
+Exhibit C
+.
+
+ 
+
+“
+Support Portal
+” means the online Support communication method provided to Customer by UTECH. “
+Support Request
+” means a question, issue or concern posted to the Support Portal in the English language.
+
+ 
+
+2.     Services Terms.
+
+ 
+
+Subject to payment of the applicable fees, and subject to the terms and conditions of the Agreement, UTECH will provide Customer the following Services:
+
+ 
+
+Management Services
+:
+
+ 
+
+a)    UTECH will assign a DRM to Customer, who will be responsible for the following services:
+
+ 
+
+a)    Coordinating and facilitating UTECH technical resources as needed to enable a holistic approach to solution deployment and management, effective and timely communication between UTECH and the Customer, proactive identification and resolution of emerging issues, and effective prioritization of efforts by considering business impact and Integrated Success Service priorities.
+
+ 
+
+b)    Maintaining an understanding and awareness of technical use of the Unity Products and engagement within the account and act as a liaison between Customer and other UTECH technical departments as required.
+
+ 
+
+c)    Escalation management for Priority 1 (Emergency) Requests (as further referred to in the section below).
+
+ 
+
+d)    Proactive communication on Updates.
+
+ 
+
+e)
+   
+        
+ 
+Project Reviews by Support Personnel during a 12-month period on mutually agreeable dates. Each of the 
+     
+ Project Reviews will be at least one (1) month apart. Customer acknowledges and agrees that Project Reviews cannot be carried over to subsequent one (1) year periods. Additional Project Reviews can be purchased for a fee as set forth in Appendix C of Exhibit C (where applicable), or pursuant to a separate written agreement.
+
+ 
+
+b)    UTECH will conduct a quarterly review of your Services usage.
+
+ 
+
+Support Services
+:
+
+ 
+
+a)     Customer will have unlimited access to UTECH’s on-line support resources at http://unity3d.com/learn/.
+
+ 
+
+b)    UTECH will provide 
+                              
+ service responses for Priority 1 (Emergency) issues affecting eligible Unity Products and provide service responses during regular Business Hours for Priority 2-4 (non-emergency) issues affecting eligible Unity Products.
+
+ 
+
+c)     UTECH will respond to properly submitted Support Requests concerning installation, activation, seat migration, configuration, troubleshooting and/or any other issues that may arise in connection with the Unity Products or Project (s) in accordance with the response times specified in the Agreement. Responses will be provided by Services Personnel.
+
+ 
+
+d)    UTECH will undertake commercially reasonable efforts, at UTECH's discretion, either to provide work-arounds or to correct faults in the Unity Products.
+
+ 
+
+e)    UTECH will prioritize the backport of fixes to the current supported version(s) of the Unity Products for Unity Supported Platforms applicable to Customer’s use of the Unity Products.
+
+ 
+
+3.      Service Level Agreement.
+
+ 
+
+The priority given to a Support Request will determine the response times as specified in the below table:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Priority
+
+Severity
+
+Initial Response Time
+
+ 
+
+ 
+
+ 
+
+1
+
+Emergency
+
+                                  
+
+ 
+
+ 
+
+ 
+
+2
+
+High
+
+                                  
+
+ 
+
+ 
+
+ 
+
+3
+
+Normal
+
+                                  
+
+ 
+
+ 
+
+ 
+
+4
+
+Low
+
+                                  
+
+ 
+
+a)    EMERGENCY (“
+Priority 1
+”): 
+The problem results in extremely serious interruptions to the development or deployment of Projects
+. It is affecting the entire Customer team or causes serious impairment of essential operations for deployed Projects. For instance, data integrity is compromised or the issue is at risk of causing missed critical project deadlines or deliverables. Customer shall contact its DRM for all Priority 1 issues.
+
+ 
+
+b)    HIGH PRIORITY (“
+Priority 2
+”). T
+he problem results in serious interruptions to the development or deployment of Projects
+. Portions of the Customer team cannot perform important tasks, but the error does not impair essential operations. Major Project components cannot operate correctly due to issues with the Unity Products or APIs or performance issues are apparent.
+
+ 
+
+c)     NORMAL PRIORITY (“
+Priority 3
+”). 
+The problem causes interruptions in the development or deployment of Projects
+. It does not prevent the operation of a Project.
+
+ 
+
+d)    LOW PRIORITY (“
+Priority 4
+”). 
+The problem results in minimal or no interruptions to the development or deployment of Projects 
+(no business impact). The issue consists of "how to" questions including issues related to APIs and integration, installation and configuration inquiries, enhancement requests, or documentation questions.
+
+ 
+
+Services Personnel's Business Hours are between 
+                              
+ Pacific Time, Monday through Friday. 
+
+ 
+
+For Priority 1 (Emergency) Support Requests, Customer will:
+
+ 
+
+a)    File a Support Request via the Support Portal, which Support Request must include an accurate and complete description of the problem and issues.
+
+ 
+
+b)    Contact UTECH via the emergency escalation method provided by UTECH. 
+For clarity, a Priority 1 Support Request will not be acknowledged by UTECH as an emergency without this notification method
+.
+
+ 
+
+c)     Provide UTECH with a designated Customer contact during the remedy period, either onsite or by pager, to assist with data gathering, troubleshooting, testing and applying the proposed solution.
+
+ 
+
+In response to a properly submitted Priority 1 Support Request, UTECH will:
+
+ 
+
+a)    Contact the appropriate Senior-Level Contact (as defined below) via phone or other real-time means
+
+ 
+
+ 
+
+ 
+
+b)    Assign a dedicated issue-owner within the UTECH services and support team to manage communications between UTECH and Customer.
+
+ 
+
+c)     Engage in regular communication with Senior-Level Contacts for the duration of the engagement.
+
+ 
+
+For 
+al
+l properly submitted Support Requests (Priorities 1-4), UTECH will undertake reasonable efforts to: (a) acknowledge receipt of a Support Request from a technical Support contact within the time allotted (“
+Initial Response Time
+”); (b) provide a short status report to Customer within a reasonable time; (c) address the Support Request by providing a remedy that could take the form of eliminating the defect in order to bring the Unity Products into substantial conformity with its applicable documentation, providing updates, or demonstrating how to avoid the effects of the defect with reasonable commercial effort. Where Customer has a subscription to access and use the Unity Source Code, remedy may also include error corrections, patches, bug fixes, workarounds (i.e. temporary solutions used to complete a task that would not otherwise be possible due to a problem or limitation in the affected Unity Products), replacement deliveries or any other type of software or documentation corrections or modifications. Each party acknowledges that despite a party's reasonable efforts, not all problems may be solvable. Where on-going investigation is required, Customer will receive regular updates to their Support Request. Additionally, such updates may increase or lower the severity of the issue, in which case the frequency of updates will change accordingly.
+
+ 
+
+If UTECH, in its sole and reasonable discretion, determines that remote troubleshooting and investigation techniques employed by UTECH have been unsuccessful and that on-site services is the most effective way to resolve a Support Request, UTECH may offer to provide such limited on-site service, subject to Customer’s acceptance. If Customer accepts this offer, Customer will not be charged for such on-site services but will be charged for travel and living expenses.
+
+ 
+
+UTECH may at its reasonable discretion subcontract provision of Services to third parties provided that UTECH will continue to remain primarily responsible under the terms of the Agreement and will ensure that such third party service provider provides all agreed services in accordance with the terms herein and in accordance with best industry standards. In all instances UTECH will use suitably qualified Services Personnel.
+
+ 
+
+4.     Customer Obligations.
+
+ 
+
+Customer shall:
+
+ 
+
+a)    Use suitably qualified engineers and artists to develop using the Unity Products.
+
+ 
+
+b)    Provide accurate and complete descriptions of problems and issues by submitting a Support Request via the Support Portal.
+
+ 
+
+c)    Cooperate with Services Personnel where elaboration of an issue is required.
+
+ 
+
+d)    Provide self-contained reproductions of issues or steps to reproduce the issue when possible.
+
+ 
+
+e)    Provide script, artwork or project folders where needed by Services Personnel.
+
+ 
+
+f)     Provide development timetables including milestones and deliverables, subject to CUSTOMER confidentiality restrictions as necessary to enable UTECH to provide timely and efficient services.
+
+ 
+
+g)    Recognize that Services is often a collaborative and iterative process.
+
+ 
+
+h)    Assign each problem a priority level as described above.
+
+ 
+
+i)     Close Support Requests when the issue or problem has been resolved.
+
+ 
+
+j)     Designate a selection of English-speaking, senior-level Customer contacts (“
+Senior-Level Contacts
+”) (ideally one (1) or but no more than three (3) Senior-Level Contacts per Project), and provide contact details (in particular e-mail address and telephone number) by means of which the Services Personnel and DRM can contact the Senior-Level Contacts at any time in response to Priority 1 (Emergency) or 2 (High) Support Requests. Each Senior-Level Contact will be an authorized representative empowered to make necessary decisions for Customer or bring about such decisions without undue delay. Where necessary, UTECH will rely on the single senior-most Senior-Level Contact to determine, among other things, the priority and alignment of any concurrent tickets and resolution paths.
+
+ 
+
+k)    Share Support Request responses provided by Services Personnel between members of the Customer team.
+
+ 
+
+ 
+
+ 
+
+l)     Assess Support Request responses for suitability to the Customer and respond in a timely fashion when the response is not suitable.
+
+ 
+
+In the event Customer does not fulfill its obligations, and continues to fail to fulfill its obligations following notice from UTECH, UTECH, in its sole reasonable discretion, may downgrade the priority level of the Support Request.
+
+ 
+
+5.     Limitations.
+
+ 
+
+UTECH's obligation to provide Services shall extend only to the current supported version(s) of the Unity Products for the Unity Supported Platforms applicable to Customer’s use of the Unity Products, unless Customer has purchased Extended Long Term Support (“
+LTS
+”) pursuant to Appendix 1 of this 
+Exhibit C
+.
+
+ 
+
+UTECH’s obligation to provide Services shall extend only to Customer teams that have active, valid Unity Product subscriptions throughout the Term.
+
+ 
+
+UTECH and Services Personnel will provide Services for up to a maximum of 
+                    
+ Support Requests from Customer. Additional Support Requests can be submitted at any time, but UTECH and Services Personnel will queue such additional Support Requests and only commence services when one of the 
+                 
+ active Support Requests has been resolved and closed. Customer can adjust the order of the submitted Support Requests by setting priority levels via written notice to UTECH or through mutual negotiations.
+
+ 
+
+Support Requests sent to UTECH using methods other than the Support Portal (or as otherwise directed by UTECH) will be handled in a manner of UTECH's choosing and will not qualify for the initial response times set out above.
+
+ 
+
+Where it is necessary for Customer to send the project files of its Project to UTECH in connection with a Support Request, Customer must send a version of the project files in which unnecessary assets have been removed, and which is ready to be loaded onto a UTECH machine without external server connections or special setup requests.
+
+ 
+
+All members of Customer teams with access to the Support Portal will be able to view the full contents of all Support Requests submitted on behalf of Customer. Customer acknowledges that no provision will be made for restricted- access Support Requests.
+
+ 
+
+UTECH shall neither provide Services to end users of Customer's Project (s), nor to sub-contractors working for Customer.
+
+ 
+
+UTECH will have no obligation to provide Services of any kind for problems in the operation or performance of the Unity Products to the extent caused by a Customer-Generated Error. If UTECH determines that it is necessary to perform Services for a problem in the operation or performance of the Unity Products that is caused by a Customer-Generated Error, then UTECH will notify Customer thereof as soon as UTECH is aware of such Customer-Generated Error, and UTECH may offer specialized Professional Services to address such Customer-Generated Error. If Customer accepts this offer, UTECH may invoice Customer at UTECH's then-current time and materials rates for all such services performed by UTECH. Customer will pay UTECH within thirty (30) days of the date of such invoices.
+
+ 
+
+Where Customer has a subscription to access and use the Unity Source Code and created Customer Modifications (as those terms are defined in the relevant agreement between UTECH and Customer), UTECH will make a reasonable effort to accommodate any Support Requests in connection therewith. If UTECH determines in its sole and reasonable discretion that it is unable to provide Integrated Success Services for the Customer Modifications, for reasons including but not limited to the nature of such Customer Modifications and/or UTECH’s lack of access to the Customer Modifications, UTECH may offer to perform specialized Professional Services. If Customer accepts this offer, UTECH may invoice Customer at UTECH's then-current time and materials rates for all such services performed by UTECH. Customer shall pay UTECH within 
+                  
+ of the date of such invoices.
+
+ 
+
+Where resolution to a problem requires extended time in to provide the final response, UTECH will provide regular updates to Customer.
+
+ 
+
+To the maximum extent permitted by applicable law, UTECH does not warrant or guarantee that the claimed or actual defects or malfunctions in the Unity Products will in fact be corrected.
+
+ 
+
+ 
+
+Appendix 1 to Exhibit C 
+
+Unity Project Review Service
+
+ 
+
+1.       Definitions. 
+These definitions apply to this Appendix 1 to 
+Exhibit C
+. Any capitalized terms not defined herein have the meaning set forth in the Agreement.
+
+ 
+
+“
+Project Review
+” means an in-depth investigation into 
+                         
+ , wherein UTECH will provide Customer with a support engineer to analyze the complete Project and look for opportunities to apply best practices in the areas of system design, optimization, stability and team workflow to enhance the performance, stability and maintainability of your project.
+
+ 
+
+2.       Services. 
+UTECH’s Project Review service consists of the following:
+
+ 
+
+
+     UTECH will arrange 
+                       
+ phone call between Customer’s named contact and a UTECH senior support engineer;
+
+
+     A Project Review conducted on-site at Customer’s premises (an “
+On-Site Review
+”) will be performed over 
+                          
+ business days; a Project Review conducted remotely from UTECH’s offices (a “
+Remote Review
+”) will be conducted over such period as such support engineer may reasonably require, but in no event less than 
+        
+ consecutive business days.
+
+
+     UTECH will issue a final report to Customer concerning a Project Review within 
+              
+ business days of the completion of such Project Review. Such final report will summarize the key findings and advice delivered by UTECH during the Project Review, as well as detail follow-up answers to unattended/unanswered questions.
+
+
+     All travel and living expenses associated with an On-Site Review will be paid for by UTECH.
+
+ 
+
+Customer acknowledges and agrees that Project Reviews may only be used during the applicable contract year and cannot be carried over to subsequent contract years or after the Term.
+
+ 
+
+3.       Customer Obligations. 
+To ensure the success of Customer’s Project Review, Customer will:
+
+ 
+
+
+     Provide UTECH with contact information for 
+           
+ assigned Customer contact who will run lead on behalf of Customer for the duration of the On-Site Visit;
+
+
+      Provide UTECH with the office address, directions, access instructions and office hours for each On-Site Visit day;
+
+
+      Provide UTECH’s support engineer(s) with desk space and a preconfigured machine; and
+
+
+      Ensure the availability of Customer’s technical leadership for the duration of the On-Site Visit.
+
+ 
+
+Customer acknowledges and agrees that: (a) it is Customer’s responsibility to contact UTECH to schedule each Project Review; (b) Customer must contact UTECH at least 
+    
+ days prior to the date on which it would like to schedule each Project Review; and (c) any unused Project Reviews not scheduled during the applicable contract year will be forfeited. Accordingly, if Customer does not contact UTECH to schedule a Project Review at least 
+    
+ days before the end of a contract year, Customer will forfeit such Project Review for that year.
+
+ 
+
+Customer shall notify UTECH in writing of any cancellation or intent to reschedule a previously scheduled Project Review. In the event Customer notifies UTECH of its intent to cancel or reschedule a Project Review, UTECH may invoice and Customer will pay all non-refundable travel and living expenses associated with the previously scheduled On-Site Review incurred before receiving written notice of cancellation.  In the event Customer notifies UTECH of its intent to cancel or reschedule a Project Review less than 
+                  
+ calendar days prior to the date the Project Review is scheduled to begin, Customer will forfeit such Project Review for that year.
+
+ 
+
+4.       Ownership of Materials. 
+Customer acknowledges that a Project Review is a collaborative process that will add to UTECH’s knowledge and understanding of how customers use the Unity Products. Accordingly, Customer and each of its Affiliates hereby authorize UTECH to internally use information relating to the Unity Products, at the exclusion of any and all information related to the Project and any Confidential Information of Customer, that UTECH obtains from a Project Review solely to improve the Unity Products and/or any other UTECH products and services.
+
+ 
+
+Further, the parties acknowledge and agree that: (i) UTECH will retain all rights in and to UTECH’s Intellectual Property Rights, (ii) any and all materials used during UTECH’s performance of the Project Review will remain UTECH’s Intellectual Property Rights, and (iii) UTECH shall grant to Customer a non-exclusive, royalty-free license to use such materials, only to the extent necessary to enable Customer to exercise all of the rights granted to Customer in connection with the services.
+
+ 
+
+ 
+
+Appendix 2 to Exhibit C
+
+Unity Onsite Training Workshops
+
+ 
+
+1.       Definitions. 
+These definitions apply to this Appendix 2 of 
+Exhibit C
+. Any capitalized terms not defined herein have the meaning set forth in the Agreement.
+
+ 
+
+“
+Fulfillment Partner(s)
+” means any one or more of UTECH’s third-party licensors, partners or providers of the Learning Services, including operators of the Platforms described herein and hosts of Materials.
+
+ 
+
+“
+Materials
+” means the documentation and materials, inclusive of video content and other content owned by or licensed to UTECH, provided by UTECH or its licensors in electronic or physical form. Materials are subject to additional terms between UTECH and the individual end users (as referenced elsewhere in this Exhibit).
+
+ 
+
+“
+Platform(s)
+” means any UTECH or third-party owned software, systems or platforms on which Materials are hosted and delivered or through which any Learning Services are performed.
+
+ 
+
+“
+UTECH Personnel
+” means any UTECH employee, any agent or other third party authorized by UTECH to provide an Onsite Training Workshop (UTECH Personnel may be different from Services Personnel).
+
+ 
+
+2.       Onsite Training Workshops. “
+Onsite Training Workshops
+” are in-person, instructor-led training sessions with UTECH Personnel and include services and Materials delivered via UTECH-designated Platforms. Current Platforms utilized for Training Workshops include MyLiveBook (https://portal.knowledgepoint.co.uk/Login.aspx) and the UTECH Asset Store (https://www.assetstore.unity3d.com). Where additional Platforms are utilized in connection with the Training Workshop services and materials. UTECH will notify the individual participants and provide access to any applicable user terms prior to the start of a scheduled Training Workshop. When a training participant registers on any Training Workshop Platform, the individual may be prompted to create an account and to agree to terms of service presented via such Platform.
+
+ 
+
+On dates to be mutually agreed between the parties, UTECH will send UTECH Personnel to Customer’s location to provide 
+       
+ Onsite Training Workshops selected by Customer. Customer must contact UTECH at least thirty
+
+(30) days prior to the date on which Customer desires to schedule any Training Workshop. If Customer does not contact UTECH to schedule a Training Workshop at least thirty (30) days before the end of the then-current contract year, UTECH may be unable to schedule the Training Workshop. All Onsite Training Workshops are structured for up to 
+                 
+ attendees. Customer may be able to add additional attendees for an additional fee.
+
+ 
+
+Customer may allocate its Onsite Training Workshop days to 
+             
+ of the following 
+               
+ Onsite Training Workshops:
+
+ 
+
+
+     
+Profiling and Optimization in Unity
+– This workshop is designed to provide a more well-rounded understanding of how to optimize Unity Projects. While focusing on in-Unity approaches to optimization, participants will complete several optimization mini-challenges and analyze and optimize a large-scale scene.
+
+
+     
+Platform-Specific Profiling
+– In this workshop, participants will be guided through a series of complex
+
+optimization challenges specific to common issues on the Customer’s target platform. By exploring the best practices for using platform-specific profiling tools, participants will learn to both identify and solve problems that can arise during the development process.
+
+
+     
+Optimizing in UI in Unity
+– In this workshop, participants will explore the best practices for creating efficient and functional User Interfaces in Unity. Participants will implement specific techniques to reduce overdraw and Canvas dirtying to create a well-architectured User Interface in a production-ready format.
+
+
+     
+Best Practices for Memory and Asset Management
+– This workshop serves as a deep-dive on how to optimize memory usage in Unity applications. Using the Memory Profiler to benchmark progress, participants will explore unique solutions for memory optimization such as dynamic loading from the Resources folder, using best practices for import settings, and controlled usage of Garbage Collection.
+
+
+     
+Asset Bundles: Best Practices
+– In this workshop, participants will explore the best practices for using the Addressable Asset System to manage loading and unloading of application content at runtime. Utilizing specific techniques to optimize Addressable Assets such as Grouping and Labeling, you’ll create a content- rich application with a small install-size footprint.
+
+
+     
+Tour of Unity Source Code
+– This workshop is designed to serve as an introduction to the Unity Source Code provided with each Enterprise Support agreement. Through the exploration of various technical aspects and crucial areas of the source code, teams that go through this training will leave with a better understanding of how the Unity Engine functions on a fundamental level and be able to apply these insights in their day-to-day work.
+
+ 
+
+ 
+
+ 
+
+Onsite Training Workshops can be customized for a Custom Development Fee and subject to a separate Statement of Work.
+
+ 
+
+3.       Customer Obligations. 
+Customer will be responsible for delivering Materials (if any) it receives from UTECH to the Onsite Training Workshop participants. It is Customer’s or its designated individual participants’ responsibility to possess computers with operating systems and software that are able to access the Platforms and view Materials presented. The latest version of the Unity Products must be installed on attendee computers. Customer will be responsible for providing facilities and/or equipment to be used by participants and/or UTECH Personnel in conjunction with Onsite Training Workshops.
+
+ 
+
+4.       Ownership of Materials. 
+Customer acknowledges and agrees that UTECH and its Fulfillment Partners will retain all rights in and to their respective Intellectual Property Rights, and any and all Materials, where applicable, used during performance of the Onsite Training Workshops will remain Intellectual Property Rights of UTECH or the Fulfillment Partner.
+
+ 
+
+UTECH hereby grants to Customer a non-exclusive, royalty-free license to access Platforms and use Materials, only to the extent necessary to enable Customer to exercise all of the rights granted to it under the Agreement and this Appendix 2 of 
+Exhibit C
+ or any Statement of Work. Any additional license grants in respect of the Onsite Training Workshops and related Platforms and Materials will be as between UTECH (or its Fulfillment Partner) and the individual Onsite Training Workshop participant.
+
+ 
+
+ 
+
+Appendix 3 to 
+EXHIBIT B
+
+Optional Service Modules
+
+ 
+
+Subject to the purchase of Integrated Success Services and the fees set forth below, Customer may elect to purchase the following optional service modules:
+
+ 
+
+Additional Concurrent Tickets
+.
+
+Provided Customer provides UTECH with advance written notice, Customer may elect to increase the allowed number of concurrent Support Requests for which Services Personnel shall provide Services. Upon such notice to UTECH, UTECH shall invoice, and customer shall pay an additional Four Thousand Twenty Dollars (US$4000) per ticket, per year.
+
+ 
+
+Project Review
+.
+
+Provided Customer provides UTECH with advance written notice, Customer may elect to purchase an additional 2-day, on-site Project Review subject to the additional terms and conditions set forth in Appendix 2 to
+ Exhibit C
+. Upon such notice to UTECH, UTECH shall invoice, and customer shall pay and additional 
+                                                                                                           
+ plus reasonable out-of-pocket, travel, lodging, and related expenses for services provided on-site. Project reviews will be subject to availability and must be requested with no less than thirty (30) days prior notice for each such request.
+
+ 
+
+Co-located Hardware
+.
+
+Provided Customer provides UTECH with advance written notice, Customer may elect to purchase co-located hardware. Upon such notice to UTECH, UTECH will install development hardware owned and maintained by UTECH onto the Customer network to be used for reproduction of issues and access to otherwise restricted development environments.  UTECH shall invoice, and customer shall pay a one-time fee of 
+                                                                                                           
+.
+
+ 
+
+Engineering Services
+.
+
+Provided Customer provides UTECH with advance written notice, and subject to a Statement of Work, Customer may elect to extend the Customer Team receiving Services with a UTECH-trained engineer who is proficient in Unity Product best practices specific to Customer’s Project for a period of twelve (12) months. Subject to acceptance by UTECH, Customer may elect to have engineering services delivered remotely (a “Dedicated Engineer”). UTECH shall invoice, and customer shall pay a fee of 
+                                                                                                           
+ per engineer per year.
+
+ 
+
+On-site Event Support
+
+Provided Customer provides UTECH with advance written notice, Customer may elect to purchase on-site event support. On a date to be mutually agreed between the parties, UTECH will provide Customer with up to two (2) days of UTECH-trained support personnel onsite to a Customer event or conference to support the Customer team during the event. On-site event support is subject to availability and must be requested with no less than thirty (30) days prior notice for each such request. UTECH shall invoice, and customer shall pay a one-time fee of 
+                                                                                                           
+ plus reasonable out-of-pocket, travel, lodging, and related expenses for services provided on-site.
+
+ 
+
+Custom Branch
+.
+
+Provided Customer provides UTECH with advance written notice, Customer may elect to maintain a secure Unity source repository that is a clone version of the Unity Editor Product defined by Customer (a “
+Custom Branch
+”).
+
+ 
+
+To maintain a Custom Branch, UTECH shall: (a) backport bug fixes and optimizations to the Private Branch at Customer request so long as there are no technical limitations preventing the backport, (b) in the event that a requested backport or optimization is not technically possible, use due diligence in assisting Customer to find alternative viable technical implementations, (c) assist Customer in merging Customer authored source modifications into the Private Branch source repository as applicable, and (d) manage and run the complete set of Unity automated tests against each modification made to Customer’s Private Branch with the goal of ensuring the correct operation of the Customer’s Unity editor application as well as Customer’s runtime application.
+
+ 
+
+Upon such notice to UTECH, UTECH shall invoice, and customer shall pay an additional Three Hundred Thousand Dollars (US$300,000) per branch, per year.
+
+ 
+
+Extended Long Term Support
+.
+
+Provided Customer provides UTECH with advance written notice, Customer may elect to purchase extended support for an LTS version of the Unity Product. “
+LTS
+” means the last version release of each year for which UTECH continues to provide support through bug fixes and updates for a period of two (2) years after release. Subject to payment of the fees outlined below, Customer may elect to continue to receive support for an elected LTS version for additional one year terms. Upon such notice to UTECH, UTECH shall invoice and customer shall pay an additional   
+                                                                                                           
+ per year.

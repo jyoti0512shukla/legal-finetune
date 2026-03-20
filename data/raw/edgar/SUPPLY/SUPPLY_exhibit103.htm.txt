@@ -1,0 +1,651 @@
+EX-10.3
+
+2
+
+exhibit103.htm
+
+EX-10.3
+
+Document
+Certain information has been omitted from this exhibit in places marked “[***]” because it is both not material and would likely cause competitive harm to the registrant if publicly disclosed. 
+1
+Exhibit 10.3
+Development and Supply Agreement
+(the “2022 Agreement”)
+between
+ViewRay Technologies, Inc.,
+- hereinafter referred to as "VIEWRAY" -
+and
+Siemens Healthcare GmbH
+- hereinafter referred to as "SIEMENS" -
+- VIEWRAY and SIEMENS hereinafter referred to individually
+as "PARTY'' or collectively as "PARTIES" -
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+2
+CONFIDENTIAL 
+Preamble
+VIEWRAY has experience and know-how about the combination of Magnetic Resonance Imaging ("MRI") and Radiotherapy ("RT") to provide real-time beam-on imaging and targeting of tumors. In order to achieve a fast time to market for ViewRay’s next generation MR guided Radiotherapy ("MRgRT") device, VIEWRAY has an interest to find an experienced partner in the field of MRI.
+SIEMENS has over 40 years of experience, know-how and comprehensive intellectual property in MRI systems, solutions and services. Today, SIEMENS is the market leader in the MRI industry due to its long-standing technology and innovation leadership. To further expand this leadership position, SIEMENS is interested to support the field of Image guided Therapy.
+The PARTIES intend to combine their know-how and experience for the purpose of continuing a long-term business relationship for the supply of Magnetic Resonance Imaging ("MRI") subsystems ("COMPONENTS") for MRgRT systems to provide real-time beam-on imaging and targeting of tumors.
+VIEWRAY and SIEMENS have signed a Development and Supply Agreement on June 17, 2008 as amended by 11 amendments (Development and Supply Agreement and all amendments together the 
+(“2008 Agreement”). 
+This 2008 Agreement shall now be replaced by this Development and Supply Agreement (the 
+“2022 Agreement
+”). Notwithstanding the foregoing, 
+–
+Amendment No. 2 (signed on April 14
+th
+ 2010 and extended on April 23
+rd
+ 2018 and March 9, 2020) and Amendment No. 11 (signed on September 21, 2021) shall remain unaffected and valid and the validity date of Amendment 2 shall be extended to correspond to the term of the 2022 Agreement.
+and
+- Amendment No. 8 (signed on September 19, 2019), Amendment No. 9 (signed on June 5, 2020) and Amendment No.10 (signed on June 25, 2020) shall remain unaffected and still be valid (with regards to the supply of Avanto Dots to ViewRay).
+Now therefore, the Parties agree as follows:
+Article 1 -
+Definitions
+1.1
+The term "INFORMATION" means any methods, processes, know-how, proprietary information, trade secrets, technology, designs, digital codes, software, inventions, innovations and improvements relating to MRgRT or MRI whether or not protected or 
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+3
+protectable by IPR, owned or controlled by either PARTY prior to the date of this Agreement, or which becomes owned or controlled by either PARTY during the term of this Agreement outside of the PROJECT.
+1.2
+The term "IPR" means all patents, patent applications and copyrights, as well as other forms of statutory protection rights.
+1.3
+The term "PROJECT" means the research and development program to be conducted by the PARTIES related to the integration of an MR system with a linear accelerator that allows for on-table imaging and treatment of patients without the need to move the patient between two tables or rooms and is more fully described in the 
+Statement of Work
+ (
+attached as Appendix 1
+) hereto.
+1.4
+The term "DOCUMENTATION" shall mean written INFORMATION.
+1.5
+The term "BACKGROUND PATENTS" shall mean copyrights, utility models, patent applications and patents covering INFORMATION.
+1.6
+The term "WORK" means collectively any and all work, services, contributions, investigations etc. performed and rendered during and for the purpose of the PROJECT.
+1.7
+The term "RESULTS" means any and all methods, processes, know-how, proprietary information, trade secrets, technology, designs, digital codes, software, inventions, innovations and improvements made by either PARTY in connection with the PROJECT, whether or not protected or protectable by IPR.
+1.8
+The term "FIELD" means integrated MRI and RT technology in an INTEGRATED HYBRID MR/LINAC. The FIELD excludes the usage of MRI in the context of RT not employing an INTEGRATED HYBRID MR/LINAC.
+1.9
+[***].
+1.10
+The term ”AFFILIATE" means a corporation, company or other entity, now or hereafter, directly or indirectly, owned or controlled by, or owning or controlling, or under common control with SIEMENS or ViewRay, but such corporation, company or other entity shall be deemed to be an AFFILIATE only so long as such ownership or control exists. For purposes of this definition "control" of a corporation, company or other entity shall mean to have, directly or indirectly, the power to direct or cause the direction of the management and policies of a corporation, company or other entity, whether (i) through the ownership of voting securities entitling to the right to elect or appoint, directly or indirectly, the majority of the board of directors, or a similar managing authority, (ii) by contract or (iii) otherwise.
+1.11
+The term "CHANGE OF CONTROL" means with respect to VIEWRAY, in an event or series of related events: (a) a sale of all or substantially all of VIEWRAY's assets, voting stock or securities or business relating to this Agreement; (b) a merger, reorganization or consolidation involving VIEWRAY in which the stockholders of VIEWRAY immediately prior to such transaction cease to own collectively a majority of the voting equity securities of the successor entity; or (c) a Person or group of Persons acting in concert acquire fifty percent (50%) or more of the voting equity securities of VIEWRAY. For purposes of clarity, the term "CHANGE OF CONTROL" is not intended to include (i) an underwritten public offering of VIEWRAY's common stock pursuant to a Registration Statement on Form S-1 under the Securities Act of 1933, as amended, or (ii) any sale of shares of capital stock of VIEWRAY, in a single transaction or series of related transactions principally for bona fide equity financing purposes in which VIEWRAY issues new securities to venture capital investors primarily for cash or the cancellation or conversion of indebtedness of VIEWRAY or a combination thereof for the purpose of financing the operations and business of VIEWRAY.
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+4
+1.12
+The term “COMPETITOR” shall include DIRECT COMPETITORS as well as “INDIRECT COMPETITORS” as stipulated in Article 9.1.
+Article 2 -
+Statement of Work
+2.1
+The PROJECT is further described in the 
+Statement of Work (Appendix 1)
+, which may be amended from time to time in writing by mutual consent of the Parties.
+2.2
+[***]..
+2.3
+Sustaining Engineering: After the first release of the ViewRay product that is the subject of the PROJECT, if sustaining engineering effort will be required for the COMPONENTS solely triggered by ViewRay’s requirements, ViewRay will reimburse the efforts on based on the hourly rate of SIEMENS’ engineers. SIEMENS is not required to provide sustaining engineering, except to provide timely assistance for safety related requests from ViewRay.
+Article 3 -
+Reserved.
+Article 4 -
+Supply PHASE of Business Relationship
+4.1
+After successful completion of the PROJECT, SIEMENS shall supply COMPONENTS to VIEWRAY in accordance with the stipulations of the 
+Supply Agreement, (Appendix 2)
+ as amended, (the "SUPPLY AGREEMENT") and in case of any inconsistency between the main document provisions of this 2022 Agreement and the provisions of the SUPPLY AGREEMENT, the SUPPLY AGREEMENT shall prevail. The date of the documented review meeting (as required by the Statement of Work) shall be treated as the effective date for the SUPPLY AGREEMENT, which shall take effect automatically and without signature upon the PARTIES determination that the PROJECT has been successfully completed in accordance with the Statement of Work.
+4.2
+Reserved.
+4.3
+VIEWRAY will use standard COMPONENTS from SIEMENS wherever possible. SIEMENS will modify COMPONENTS to allow full function if necessary or useful, technically feasible and commercially reasonable. Changes in the measurement and control system of the COMPONENTS are exempt from this Article 4.3. Change requests made during the Supply PHASE, shall be made pursuant to Section 8.3 of the SUPPLY AGREEMENT.
+4.4
+SIEMENS will provide VIEWRAY access to all available regulatory documentation to assist in FDA submissions by VIEWRAY. SIEMENS will notify VIEWRAY without undue delay in case SIEMENS COMPONENTS are involved in any product recall actions that might affect the FDA approval of the VIEWRAY MRgRT system.
+4.5
+SIEMENS will provide VIEWRAY with all necessary service documentation available at SIEMENS, such documentation to be provided pursuant to the Quality Agreement contemplated by the SUPPLY AGREEMENT.
+4.6
+Service topics, including, but not limited to:
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+5
+•
+Service contracts
+•
+Spare parts supply and logistics
+•
+First, second and third level service support
+•
+Software and computer hardware upgrades for the installed base 
+are regulated in the SUPPLY AGREEMENT Section 7 and Annex 3.
+Article 5 -
+ Support on Development
+SIEMENS agrees to reasonably support the development process [***] at ViewRay’s costs (as stipulated in the PROJECT Statement of Work) on a best efforts basis until [***].
+Article 6 -
+Secrecy
+6.1
+Each PARTY agrees that all INFORMATION and RESULTS which it receives from the other PARTY and which are designated as confidential by such PARTY will be deemed to be confidential and will be maintained by the receiving PARTY in confidence, provided, however, that such PARTY may disclose such information to its officers, and those of its employees and others under its control for the purposes of this Agreement, all of whom will be advised of this Agreement and such PARTY's obligations there under.
+6.2
+Such PARTY additionally agrees to take all reasonable precautions to safeguard the confidential nature of the foregoing information, provided, however, that such PARTY's normal procedures for protecting its own confidential information shall be deemed reasonable precautions, and provided that if such precautions are taken, such PARTY will not be liable for any disclosure which is inadvertent or unauthorized or is required by any judicial order or decree or by any governmental law or regulation. Neither shall such PARTY be liable for disclosure and/or any use of such information insofar as such information
+◦
+is in, or becomes part of, the public domain other than through a breach of this Agreement by such PARTY;
+◦
+is already known to such PARTY at or before the time it receives the same from the other PARTY or is disclosed to such PARTY by a third PARTY as a matter of right;
+◦
+is independently developed by such PARTY without the benefit of such information received from the other PARTY;
+◦
+is disclosed and/or used by such PARTY with the prior written consent of the other PARTY.
+Notwithstanding the above, each PARTY has the right to disclose the other PARTY's INFORMATION and RESULTS which it received under this Agreement to its licensees insofar as it has the right to sublicense same as set forth in this Agreement, provided, such PARTY 
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+6
+requires such licensee to undertake in writing secrecy obligations which are at least as stringent as the ones set forth in this Article 6 -;
+6.3
+The obligations of Article 6 -shall survive five years after termination of this Agreement.
+Article 7 -
+Warranties and Limitation of Liabilities
+7.1
+ No PARTY shall be liable towards the other PARTY in the case that the WORK cannot be successfully completed, except that the COMPONENTS necessary for the WORK and provided by SIEMENS do not fulfill the Specifications as described in Annex 1 and the WORK therefore cannot be successfully completed.
+7.2
+The sole obligation of each PARTY with respect to its INFORMATION and RESULTS shall be to forward same to the other PARTY as provided in this Agreement and, to correct errors that might have occurred in this INFORMATION and RESULTS without undue delay after such errors become known to the PARTY which forwarded the relevant INFORMATION or RESULTS. 
+The warranties set forth in this Article 7.2 apply to all INFORMATION and RESULTS licensed or knowingly disclosed hereunder and are in lieu of all warranties expressed or implied including without limitation the warranties that INFORMATION and RESULTS can be used without infringing statutory and other rights of third PARTIES.
+7.3
+Any liability of a PARTY with respect to death or injury to any person is subject to and governed by the provisions of the applicable law. Neither PARTY is, however, obliged to compensate for death or personal injury or loss of or damage to property of the other PARTY to the extent such death, injury, loss or damage is covered by insurance(s) of the affected PARTY and such affected PARTY shall not be entitled to re cover same from the first PARTY.
+7.4
+Neither PARTY shall be liable for any indirect or consequential damages of the other PARTY, including loss of profit or interest, under any legal cause whatsoever and on account of whatsoever reason, except where such liability is mandatory by applicable law.
+7.5
+Nothing in this Agreement shall obligate either PARTY to apply for, take out, maintain or acquire any statutory protection, in any country.
+7.6
+All rights granted in INFORMATION, RESULTS and under BACKGROUND PATENTS are granted insofar only as the PARTY granting same has the right to grant without payment to third PARTIES.
+7.7
+The provisions of Sections 7.1 through 7.6 shall survive any termination of this Agreement.
+ 
+Article 8 -
+Intellectual Properties
+8.1
+Inventions - including, but not being limited to, inventions eligible for statutory protection (patent applications, patents, etc.) - made during the term and under the cooperation of this Agreement ("INVENTIONS") by employees of one PARTY shall become neither the property of the other PARTY nor the common property of both PARTIES, and the one PARTY, 
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+7
+therefore and insofar as it otherwise has the right to do so, shall be free to use such INVENTIONS as it sees fit and to file for statutory protection and to use, maintain and permit to lapse such application for statutory protection and any statutory rights issued thereon.
+8.1.1
+Article 3 of Amendment No. 2 of the May 2008 Development and Supply Agreement between the PARTIES shall at all times apply to MR pulse sequence development except as Article 3.2.5 (third and fourth paragraph) of Amendment No. 2 of the May 2008, which is modified by Article 8.3 herein.
+8.2
+INVENTIONS made by employees of both PARTIES ("JOINT INVENTIONS") shall, at the time they are made, become the joint property of both PARTIES.
+8.1.1
+ 
+[***].
+8.1.2
+For JOINT INVENTIONS which are eligible for statutory protection the PARTIES will agree upon the details for filing for such protection.
+In case only one (1) PARTY is interested in filing for statutory protection for JOINT INVENTIONS, then the other PARTY shall execute and forward to the one PARTY all documents requested by the one PARTY and reasonably believed to be necessary and/or desirable for such procedure. Statutory rights filed for JOINT INVENTIONS by one PARTY at its own expense shall, from the date of filing, become the sole property of that one PARTY, and, therefore, for example and without limitation, can be used, maintained and permitted to lapse by this PARTY as it sees fit. The other PARTY’s right to use such statutory rights are as laid down in Section 8.2.1 above.
+8.1.3
+Each PARTY ensures that it will be in a position to immediately acquire the share of inventions of its employees insofar as JOINT INVENTIONS are concerned.
+8.1.4
+Neither PARTY is obligated to take action against third PARTIES infringing upon statutory rights filed or issued for JOINT INVENTIONS or to defend such rights against third PARTIES.
+8.3
+(i) The Parties will enter into good faith negotiations on a case-by-case basis to grant each other license rights to use such BACKGROUND PATENTS against payment of a fair and reasonable license fee on market terms in case the usage of such BACKGROUND PATENTS is necessary to exploit RESULTS generated during the performance of the WORK under the PROJECT. In no event shall rights of use or other rights be granted by Siemens in and to the lDEA software and the object code and source code of any software provided to ViewRay
+(ii) Under its INFORMATION, BACKGROUND PATENTS and RESULTS each PARTY hereby grants to the other PARTY the non-exclusive, non-transferable, royalty free right and license, including the right to sublicense to SIEMENS AFFILIATES, to use same during the term of this Agreement solely for the purpose of carrying out the WORK assigned to such PARTY. This right includes the right to have such INFORMATION, BACKGROUND PATENTS and RESULTS used by a subcontractor.
+ (iii) Under its INFORMATION and RESULTS each PARTY hereby grants to the other PARTY the non-exclusive, non-transferable, royalty free right and license, to use same within the FIELD for the manufacture, use and sale of the VIEWRAY MRgRT system and its parts and 
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+8
+modifications and enhancement thereof and to grant sublicenses as part of a grant of a license under its own technology.
+8.4
+[***].
+8.5
+The stipulations of Articles 8.1 through 8.4 shall survive any termination of this Agreement.
+Article 9 -
+CHANGE OF CONTROL
+9.1
+If VIEWRAY obligates itself with respect to a CHANGE OF CONTROL with a third party that is an "INDIRECT COMPETITOR" of SIEMENS, the PARTIES will discuss in good faith within thirty (30) days after such CHANGE OF CONTROL is publicly announced, how such CHANGE OF CONTROL would impact the relationship contemplated by this Agreement, including whether VIEWRAY or such INDIRECT COMPETITOR will terminate this Agreement after the closing of such CHANGE OF CONTROL transaction. [***]. For purposes of this Agreement, "DIRECT COMPETITOR" means an entity that has an MRI product line. [***] For purposes of this Agreement, "INDIRECT COMPETITOR" means an entity that is not a DIRECT COMPETITOR but which has a product line that competes with another product line of SIEMENS.
+9.1.
+[***].
+9.2.
+[***].
+9.3.
+For this purpose, “commercially reasonable” shall mean a decision by an objective third party acting in good faith using prevailing industry practices considering the facts and circumstances at the time of the CHANGE IN CONTROL, including but not limited to the financial benefit/burden to the parties, as well as whether such decision can be reasonably be expected to achieve a legitimate business purpose of the decision-maker. During the pendency of the resolution to any dispute relating to commercial reasonableness, the parties must continue to act in good faith in relation to the delivery on undisputed supply. 
+9.4.
+For the sole purpose of determining a commercially reasonable duration of wind down support, SIEMENS has the right to audit the progress of the transition of the MRI component for VIEWRAY’s MR Linac system from SIEMENS’ to such COMPETITOR via an independent auditor bound to confidentiality and not sharing any development results with SIEMENS.
+9.2
+[***].
+9.3
+[***].
+Article 10 -
+Term and Termination
+10.1
+This Agreement shall become effective on the date it is signed by both PARTIES (“EFFECTIVE DATE”). This Agreement may be terminated at any time during the PROJECT 
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+9
+by the one PARTY by giving of not less than four weeks' prior written notice to the other PARTY under the below circumstances
+–
+if the other PARTY hereto is declared bankrupt or otherwise cannot fulfill its 
+financial obligations; or
+–
+if the other PARTY hereto substantially defaults in the performance of this 
+Agreement and does not remedy the default within four (4) weeks after receipt of a relevant request of the one PARTY; or
+–
+if the other PARTY extends its activities to cover the development and/or 
+manufacture of COMPONENTS or parts within the FIELD and should such extension not be governed by the cooperation of the PARTIES hereunder.
+10.2
+These rules refer solely to a termination during the PROJECT. Termination of the SUPPLY AGREEMENT is governed in Section 13 therein.
+10.3
+Upon any termination of the Agreement, [***], ViewRay shall have the opportunity for a reasonable period of wind-down support, provided that the Agreement is not terminated for cause. [***].
+Article 11 -
+Arbitration
+11.1
+Any differences or disputes arising from this Agreement or from agreements regarding its performance shall be settled by an amicable effort on the part of both PARTIES to the Agreement. An attempt to arrive at a settlement shall be deemed to have failed as soon as one of the PARTIES to the Agreement so notifies the other PARTY in writing.
+11.2
+If an attempt at settlement has failed, the disputes shall be finally settled under the Rules of Conciliation and Arbitration of the International Chamber of Commerce in Paris (Rules) by three arbitrators appointed in accordance with the Rules.
+11.3
+The place of arbitration shall be Zurich, Switzerland. The procedural law of this place shall apply where the Rules are silent.
+11.4
+The arbitral award shall be substantiated in writing. The arbitral tribunal shall decide on the matter of costs of the arbitration.
+11.5
+Any claim, controversy or dispute between the PARTIES arising in whole or in part under or in connection with this Agreement or the subject matter hereof will, before such submission to arbitration, first be escalated to the MRI Business Unit Chief Executive Officer of SIEMENS and the Chief Executive Officer of VIEWRAY for resolution. They will use reasonable efforts to attempt to resolve the dispute through good faith negotiations by telephone or in person as may be agreed and if they fail to resolve the dispute within thirty (30) days after either party notifies the other of the dispute, and do not mutually agree to extend the time for negotiation, then the dispute will be submitted to arbitration in accordance with the procedure set forth in Articles 11.1-11.4.
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+10
+Article 12 -
+Substantive Law
+12.1
+All disputes shall be settled in accordance with the provisions of this Agreement and all other agreements regarding its performance, otherwise in accordance with the substantive law in force in Switzerland, without reference to other laws.
+12.2
+Nothing contained herein shall be construed and the PARTIES hereby waive any and all rights they may have to claim or assert, that SIEMENS is subject to the jurisdiction of the courts of the USA.
+Article 13 -
+Miscellaneous
+13.1
+This Agreement may not be released, discharged, abandoned, changed or modified in any manner, except by an instrument in writing signed on behalf of each of the PARTIES hereto by their duly authorized representatives. This includes the use of electronic signatures by using a software tool for electronic signatures (e.g. Adobe Sign).
+13.2
+The failure of any PARTY hereto to enforce at any time any of the provisions of this Agreement shall in no way be construed to be a waiver of any such provision, nor in any way to affect the validity of this Agreement or any part thereof or the right of any PARTY thereafter to enforce each and every such provision. No waiver of any breach of this Agreement shall be held to be a waiver of any other or subsequent breach.
+13.3
+All notices or other communications required or permitted hereunder with regard to the interpretation, validity etc. of the Agreement shall be in writing and shall be given by certified mail addressed, 
+if to VIEWRAY:
+ViewRay Technologies, Inc.
+1099 Eighteenth St, Suite 3000
+Denver, CO 80202 
+USA
+Attn: Chief Legal Officer 
+and, if to SIEMENS: 
+Siemens Healthcare GmbH
+Legal
+Karl-Heinz-Kaske-Straße 5
+90152 Erlangen
+Germany
+Attn: Lead Lawyer Business Line Magnetic Resonance (MR)
+or to such other address that the PARTIES might identify to each other for this purpose and with reference to this Agreement.
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+11
+13.4
+No PARTY hereto shall issue any press release or public announcement or otherwise divulge the existence of this Agreement or the transactions contemplated hereby without the prior approval of the other PARTY hereto.
+13.5
+This Agreement shall be binding upon and inure to the benefit of the PARTIES hereto. Neither PARTY may assign this Agreement, in whole or in part, except with the prior written consent of the other PARTY, which shall not be unreasonably with held; 
+provided
+, that either PARTY may assign this Agreement without the consent of the other PARTY to an Affiliate or in connection with any merger, acquisition, or sale a majority of such PARTY’s voting stock or a sale of substantially all such PARTY’s assets; 
+provided,
+ 
+further,
+ that (a) in each instance the assignee expressly assumes all obligations imposed on the assigning PARTY by this Agreement in writing and the other PARTY is notified in advance of such assignment; and (b) VIEWRAY shall also be subject to the restriction set forth in Article 9. Any purported assignment in violation of this Article 13.5 shall be null and void.
+13.6
+Titles and headings to Articles herein are inserted for the convenience or reference only and are not intended to be a part of or to affect the meaning or interpretation of this Agreement.
+13.7
+This Agreement may be executed in one or more counterparts, all of which shall be considered one and the same agreement.
+13.8
+This Agreement (including the Appendices) constitutes the entire agreement between the PARTIES with respect to its subject matter and supersedes all prior agreements, understandings, commitments, negotiations and discussions with respect thereto, whether oral or written.
+13.9
+During the term of this Agreement and for a period of 12 months thereafter, neither PARTY will not solicit for employment (whether as an employee, contractor, consult ant, or in any other manner) any person who is or has been within the previous 12 months a technical or scientific employee of the other PARTY; provided, however, that this Article 13.9 will not prevent either PARTY from employing a person who contacts such PARTY on his or her own initiative (without any actions by such PARTY to encourage such contact) or responds to general solicitations of employment not specifically directed toward the other PARTY’s employees.
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+12
+IN WlTNESS WHEREOF the PARTIES have executed these presents on the dates specified below.
+VIEWRAY Technologies, Inc.            SIEMENS Healthcare GmbH
+Place, Date                Place, Date
+Apr 4, 2022                Erlangen,01.04.2022
+            
+/s/ Drew Hill                /s/ Arthur Kaindl        /s/ Peter Horn
+Name:                    Name:            Name:
+Drew Hill                Dr. Arthur Kaindl    Peter Horn
+Title:                    Title:            Title:
+VP Operations and Product Development 
+    
+Executive Vice President    Senior Vice President Finance                                                  Magnetic Resonance
+    
+Magnetic Resonance
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+13
+Appendix 1 – Statement of Work
+to the Development and Supply Agreement between VIEWRAY and SIEMENS:
+Reimbursement of SIEMENS Costs during PROJECT
+VIEWRAY will reimburse SIEMENS for the supply of COMPONENTS and the development support during the PROJECT as described below:
+◦
+Labor costs for SIEMENS System Engineer and SIEMENS Application Specialist: at the then applicable cost to Siemens plus travel expenses.
+◦
+SIEMENS material costs: invoiced based upon consumption.
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+14
+Appendix 2
+to the Development and Supply Agreement between VIEWRAY and SIEMENS:
+SUPPLY AGREEMENT
+by and between
+ViewRay Technologies, Inc.
+- hereinafter referred to as "BUYER" -
+and
+Siemens Healthcare GmbH
+- hereinafter referred to as "SELLER" -
+- BUYER and SELLER hereinafter referred to individually
+as "PARTY" or collectively as "PARTIES" -
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+15
+Preamble
+WHEREAS 
+BUYER shall procure from SELLER products in the course of a long term cooperation; and
+WHEREAS, 
+for their mutual benefit, the PARTIES seek to secure the supply, to improve the planning, to ensure delivery on time, to minimize the respective stocks and to reduce the expenditures for the transaction of business.
+WHEREAS, 
+the supply of ViewRay with Avanto Dots shall be governed by Amendment 8 (signed on September 19, 2019), Amendment 9 (signed on June 5, 2020) and Amendment 10 (signed on June 25, 2020) of the 2008 Agreement.
+NOW THEREFORE 
+in consideration of the above, the PARTIES agree to the following terms and conditions:
+1.
+Subject of the Agreement
+Subject of this SUPPLY AGREEMENT is the procurement of the COMPONENTS as described in Annex 1 hereto.
+2.
+Demand Planning and Purchase Orders
+2.1
+BUYER shall provide a nonbinding forecast to SELLER covering his demand for twenty-four (24) months (hereinafter referred to as "SUPPLY PERIOD"). Such purchase orders shall be issued at least twelve (12) weeks before the beginning of the respective SUPPLY PERIOD.
+2.2
+Together with his purchase orders BUYER shall furnish to SELLER a forecast indicating his demand for the period of twelve (12) months following the SUPPLY PERIOD.
+SELLER shall consider the forecasts when planning his production capacities. If 
+SELLER does not object in writing within fifteen (15) Business Days after receipt of the forecast, it will be deemed accepted by SELLER, and BUYER may assume that SELLER will accept purchase orders within this scope. 
+2.3
+BUYER shall forward his purchase orders in writing to SELLER's relevant local subsidiary. SELLER shall acknowledge the purchase orders within ten (10) Business Days after receipt thereof, as far as they do not exceed the forecast accepted by SELLER. SELLER shall make reasonable efforts to meet BUYER's demand exceeding the forecast. In case SELLER can accept a purchase order of BUYER exceeding the forecast only with modifications (for example concerning delivery date or quantity), the PARTIES will agree without delay on a mutually acceptable solution.
+2.4
+If subsequently to the acknowledgement of any purchase order BUYER requires an earlier or later delivery date as agreed, the PARTIES shall use best efforts to find a mutually acceptable solution.
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+16
+2.5
+The terms and conditions of this SUPPLY AGREEMENT shall apply to any purchase order of BUYER regarding the COMPONENTS even if they do not refer to it expressly. Any separate general terms and conditions of BUYER or SELLER shall not apply.
+2.6
+"Business Day" means any day other than a Saturday or Sunday that is not a national holiday in the United States or Germany. 
+3.
+Delivery
+3.1
+The COMPONENTS are delivered "EXW" according to lncoterms 2020.
+3.2
+If the delivery date is defined
+a)
+by day, SELLER shall not deliver more than three (3) days earlier or later as the agreed delivery day;
+b)
+by week, SELLER shall deliver within the agreed delivery week.
+3.3
+In case SELLER realizes that he cannot adhere to the agreed delivery date, he shall without delay inform BUYER and indicate the prospective duration of the delay. The PARTIES shall immediately endeavor to find reasonable remedial measures.
+3.4
+If SELLER is in delay with deliveries for which he is responsible and if BUYER substantiates that he has suffered damages due to the delay, he may claim per full week of delay liquidated damages of 0,5% of the price of the delayed COMPONENTS up to a maximum amount of 5% of such price. Any further claims for damages due to the delay shall be excluded.
+Further, BUYER may cancel the relevant separate purchase contract without incurring any liability, provided the COMPONENTS have not been delivered within a reasonable grace period set by BUYER.
+4.
+Prices
+4.1
+The prices of the COMPONENTS are specified in Annex 2 hereto and are valid for the agreed upon time period.
+4.2
+The prices are based on the clause of the lncoterms 2020 as defined in Section 3.1 and include packaging. The respectively valid VAT shall be added to the price.
+5.
+Invoices and Terms of Payment
+5.1
+SELLER shall issue for every delivery an invoice meeting the requirements of the tax laws. The invoice shall show the price per ordered COMPONENTS, the order number and the COMPONENTS part number.
+5.2
+Payments shall be effected in EURO within 90 days from the invoice date.
+6.
+Risk, Title
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+17
+6.1
+Risk of loss or damages shall pass onto BUYER according to the clause of the lncoterms 2020 as defined in Section 3.1.
+6.2
+SELLER retains title to the COMPONENTS until all payments due to SELLER have been finally effected by BUYER.
+6.3
+For the product software embedded in the COMPONENTS the following shall apply:
+With respect to the product software, including any relating documentation, BUYER shall have the right to (a) transfer the software and relating documentation to third parties only in connection with the respective COMPONENTS and (b) grant to them a non-exclusive right to use such software in machine-readable object code form and the relating documentation only in connection with the COMPONENTS and as specified in the operation documentation. 
+For the avoidance of doubt, for service software embedded in the COMPONENTS Exhibit 1 (General Terms and Conditions for use of Service Software) of Annex 3 of Appendix 2 (Supply Agreement) shall apply.
+7.
+Warranty, Services, Spare Parts
+7.1
+SELLER assumes liability for defects of the COMPONENTS including the lack of assured characteristics as follows:
+If BUYER detects a defect, BUYER shall notify SELLER in writing without unreasonable delay, send back the defective COMPONENT to SELLER at his own costs and order a new COMPONENT. Upon receipt of the COMPONENT, SELLER will analyze the COMPONENT without unreasonable delay of receipt to determine whether or not the COMPONENT has a defect for which SELLER is liable according to this SUPPLY AGREEMENT, and in case of a defect for which SELLER is liable, SELLER will provide BUYER with a respective credit notice, which credit notice will include the shipping costs incurred by BUYER in sending back the defective COMPONENT to SELLER. If the SELLER determines in good faith that the defect in the COMPONENT is not one that SELLER is liable for, the BUYER and SELLER will come to a mutual satisfactory agreement regarding the supply of a replacement COMPONENT by the SELLER.
+Details will be described in the Quality Assurance Agreement as per Annex 4 to the SUPPLY AGREEMENT.
+The Parties shall, also beyond the term of the SUPPLY AGREEMENT, collaborate to the best of their abilities in order to prevent identified or unidentified risks or damages as quickly and effectively as possible which may be caused by the COMPONENTS so that no one suffers any damage or injury as a result of using the COMPONENTS.
+VIEWRAY shall be obliged to monitor the COMPONENTS used together with its own equipment or systems with regard to product defects of all kinds. The aforesaid obligation shall be carried out by VIEWRAY by appropriate organizational measures within the scope of its organizational and operational structure. VIEWRAY shall promptly notify SIEMENS in writing of any identified product defects in accordance with its quality assurance policies and 
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+18
+procedures, provided that such policies and procedures are reasonably acceptable to SELLER.
+7.2
+The warranty period for COMPONENTS shall be 15 months starting on the date the risk of loss or damage has passed onto BUYER according to Section 6.1 or 12 months from the date of installation at customer site, whichever is the earlier.
+7.3
+Seller intends to supply COMPONENTS and spare parts hereof for a minimum period of ten years following commercial launch of ViewRay’s Integrated Hybrid MR/Linac on the Free.Max platform, provided that commercial launch of the MR Linac Technology occurs before end of support of Siemens’ MAGNETOM Free.Max-system. In the event SELLER decides to end the support or manufacture of COMPONENTS or spare parts hereof within the ten years period, SELLER will notify BUYER hereof and agrees to provide BUYER a “last buy” as well as reasonable period of wind-down support, but not longer than 18 months following the notification of end of support. Details of the processing of spare parts and returned goods are to be found in Annex 3. The provisions governing the COMPONENTS shall also apply to spare parts unless agreed otherwise in this agreement. 
+7.4
+SELLER's liability for any further damages resulting from the defect(s) of the COMPONENTS shall be limited pursuant to the stipulations of Section 12.
+7.5
+The SELLER shall, at SELLER's then current pricing, provide the BUYER with information (e.g. service training courses, service documentation, etc.) and aids (e.g. tools, software, etc) to enable the BUYER to perform the service function. Details on the aforesaid are to be found in Annex 3 hereto.
+7.6
+The BUYER is only entitled to use the information and aids within its own service organization and only to perform services on COMPONENTS that were purchased by the BUYER under this SUPPLY AGREEMENT and delivered to end-users. The transfer of information and/or aids to third PARTIES will be subject to prior written approval by the SELLER.
+8.
+Technical Changes
+8.1
+SELLER is entitled to technically change the COMPONENTS without notice to BUYER; provided that the COMPONENTS continue to conform to the applicable specifications for the then-current COMPONENTS. Notwithstanding the foregoing, SELLER shall notify BUYER about the changes in writing at least six (6) months before start of production of the changed COMPONENTS. If SELLER makes technical changes to the COMPONENTS that will cause them to not conform to the applicable specifications for the then-current COMPONENTS then SELLER shall follow the procedure in Section 8.2.
+8.2
+If SELLER intends to discontinue the production of then-current COMPONENTS in favor of new COMPONENTS or to make technical changes to the then-current COMPONENTS that SELLER reasonably expects to affect form, size, assembly, function or interfaces of the COMPONENTS so that such new or changed COMPONENTS fail to conform to the applicable specifications for the then-current COMPONENTS, SELLER shall as early as 
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+19
+reasonably practicable, taking into consideration the regulatory requirements of introducing changes to the then-current COMPONENTS and the BUYER’s System notify BUYER and give BUYER access to specifications for the "new" COMPONENTS as well as access (at SELLER'S facility or at BUYER's request and expense at Buyer's Beachwood, Ohio facility) to a preproduction prototype of the new COMPONENTS prior to commercial release of the new COMPONENTS to permit BUYER to test the COMPONENTS and provide input to SELLER on its impact on the BUYER’s System. BUYER will notify SELLER not later than six (6) months following the date it is notified of such technical changes by SELLER whether BUYER will adopt the new COMPONENTS for use in the BUYER’s System. If BUYER adopts the new COMPONENTS for use in the BUYER’s System, Annex 1 (Specification of Components) and, to the extent applicable, Annex 2 (Prices) will be amended to reflect the new COMPONENTS. If BUYER has not yet adopted the new COMPONENTS for use in the BUYER’s System and SELLER decides to discontinue production of the then-current COMPONENTS, BUYER may, in order to cover its remaining demand, place purchase orders in accordance with Sections 2.1 and 2.4 for the unchanged then-current COMPONENTS within six (6) months after being notified about the technical changes by SELLER.
+8.3
+BUYER may request that SELLER incorporate changes to the COMPONENTS going forward by delivering a written change order to SELLER (a "Post-Development Change Order''). Any such Post-Development Change Order will include a description of the proposed change sufficient to permit SELLER to evaluate its feasibility and cost. SELLER will use reasonable efforts to provide within 15 Business Days of receipt of a Post-Development Change Order a detailed response to the Post Development Change Order including a specification of: (a) new material costs; (b) new labor cost itemized by activity to be performed; (c) the proposed implementation date; and (d) the impact on the delivery schedule and pricing of the COMPONENTS. SELLER will not unreasonably withhold or delay agreement to a Post-Development Change Order. Until a Post-Development Change Order has been agreed to in writing, such Post-Development Change Order will not become effective, and the PARTIES will continue to perform their obligations under the then-effective specifications.
+9.
+Export Control
+9.1
+If VIEWRAY transfers COMPONENTS delivered by SIEMENS or technical assistance services performed by SIEMENS or its wholly-owned indirect U.S. subsidiary, Siemens Medical Solutions USA, Inc to a third party VIEWRAY shall comply with all applicable national and international (re-) export control regulations. In any event of such transfer of COMPONENTS and/or technical assistance services VIEWRAY shall comply with the (re-) export control regulations of the Federal Republic of Germany, of the European Union and of the United States of America.
+9.2
+Prior to any transfer of COMPONENTS and/or technical assistance services provided by SIEMENS or its wholly-owned indirect U.S. subsidiary, Siemens Medical Solutions USA, Inc. to a third party VIEWRAY shall in particular check and guarantee by appropriate measures that there will be no infringement of an embargo imposed by the European Union, by the United States of America and/ or by the United Nations by such transfer, by brokering of contracts concerning those goods, works and services or by provision of other economic resources in connection with those COMPONENTS and or and/or technical assistance services, also considering the limitations of domestic business and prohibitions of by-passing those embargos;
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+20
+9.3
+Such COMPONENTS and/or technical assistance services are not intended for use in connection with armaments, nuclear technology or weapons, if and to the extent such use is subject to prohibition or authorization, unless required authorization is provided; The regulations of all applicable Sanctioned Party Lists of the European Union and the United States of America concerning the trading with entities, person and organizations listed therein are considered.
+9.4
+If required to enable authorities or SIEMENS or its wholly-owned indirect U.S. subsidiary, Siemens Medical Solutions USA, Inc. to conduct export control checks, VIEWRAY, upon request by SIEMENS, shall promptly provide SIEMENS with all information pertaining to the particular end customer, the particular destination and the particular intended use of goods, works and services provided by SIEMENS, as well as any export control restrictions existing.
+9.5
+VIEWRAY shall indemnify and hold harmless SIEMENS and its subsidiaries from and against any claim, proceeding, action, fine, loss, cost and damages arising out of or relating to any noncompliance with export control regulations by VIEWRAY, and VIEWRAY shall compensate SIEMENS and its subsidiaries for all losses and expenses resulting thereof. Section 9.4 shall apply.
+10.
+Industrial and Intellectual Property Rights
+10.1
+ 
+BUYER shall be responsible for its use of COMPONENTS and shall verify
+ 
+whether such use infringes any third party patent, utility models or copyright (hereinafter “Protective Rights”). 
+10.2
+If a third party raises claims against SELLER and/or its subsidiaries for infringement of Protective Rights that are based on BUYER'S use of the COMPONENTS in its systems (including but not limited to inducement to infringement and/or contributory infringement), then BUYER shall indemnify and hold harmless SELLER and/or its subsidiaries of any damages, including reasonable attorney fees and other legal costs and expenses as well as appropriate license fees, incurred by SELLER; for the avoidance of doubt, BUYER shall not be required to indemnify, hold harmless or defend SELLER and/or its subsidiaries against any claim if that claim is (i) solely based on the fact that the COMPONENT itself infringes a Protective Right and is (ii) independent from the use of the COMPONENT in its systems.
+10.3
+SELLER does not assume any liability with regard to the systems· developed and/or sold by BUYER. Section 10.2 shall apply likewise in case a third party raises claims against SELLER for personal injury, damages to property, loss of business or revenue and/or any other damages caused by the use of the systems.
+10.4
+In any claim for indemnification under Section 10.2 or Section 10.3, SELLER must give BUYER prompt written notice of any claim or proceeding with respect to which it believes it is entitled to seek indemnification. The BUYER shall be entitled to assume the defense of such claim with counsel selected by the BUYER and reasonably satisfactory to the SELLER, provided that (i) the SELLER agrees to that assumption of the defense, which agreement shall not be unreasonably be withheld and (ii) the BUYER acknowledges in writing its obligation to indemnify the SELLER for the claim that is the subject of such notice and that (iii) the defense of such claim takes into account the reasonable interests of SELLER. Should 
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+21
+the BUYER so elect to assume the defense of a claim, the BUYER shall also be liable to the SELLER for legal expenses which SELLER incurs if a separate representation of the SELLER in the settlement is appropriate because SELLER, in the exercise of its reasonable discretion, has determined that a conflict of interest or reasonable business interests of SELLER make separate representation by the SELLER's own counsel advisable.
+Notwithstanding the foregoing, if the BUYER assumes such defense, the SELLER may, at its sole option and expense, participate in such defense and employ separate counsel, and further agrees to cooperate in the conduct of any such defense.
+If the BUYER assumes such defense, the BUYER shall have the right to settle such claim, in its discretion, with a full release of the SELLER and no admission of liability; provided that the BUYER shall obtain the written consent prior to settling any claim of the SELLER, such consent not to be unreasonably withheld. The Parties agree that it would not be unreasonable withheld the consent if the SELLER would (i) become subject to injunctive or other equitable relief, or any monetary or in-kind obligations, or (ii) if the business of the SELLER would be adversely affected in any manner
+11.
+Confidential Information
+11.1
+The PARTIES shall use all information, which they receive in connection with this SUPPLY AGREEMENT and which has been marked as confidential, only for the purposes of this SUPPLY AGREEMENT and they shall keep this information confidential
+ 
+to third PARTIES with the same degree of care as they use with respect to their own confidential information. This obligation shall survive the expiration or termination of this SUPPLY AGREEMENT for a period of 3 years.
+11.2
+This obligation shall not apply to information, which is or becomes public knowledge or which is provably independently developed or lawfully received from a third PARTY.    
+12.
+Liability
+12.1
+SELLER assumes liability for any personal injury for which it is found responsible without limitation. If found responsible for property damages of BUYER, SELLER shall indemnify BUYER for expenses incurred for restoration of the damaged property up to a maximum amount of EURO 500.000 per damage event and EURO 1.500.000 in the aggregate.
+12.2
+Apart from warranties and liabilities expressly stipulated in this SUPPLY AGREEMENT, SELLER disclaims all liability regardless of the cause in law, in particular the liability for indirect or consequential damages arising from interrupted operation, loss of profits, loss of information and data, unless in cases of gross negligence, intent, lack of assured characteristics or in any cases where liability is mandatory at law.
+13.
+Term, CHANGE OF CONTROL 
+13.1
+(a) This SUPPLY AGREEMENT shall be effective from the EFFECTIVE DATE II and shall run for an initial period of [***] unless sooner terminated in accordance with Section 13.1(b). Thereafter, unless terminated by either PARTY effective at the end of each calendar year 
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+22
+upon six (6) months prior written notice, this SUPPLY AGREEMENT will be automatically extended by twelve (12) months.
+(b) Either PARTY may, without prejudice to any other rights it may have, terminate this SUPPLY AGREEMENT by providing written notice to the other PARTY if the other PARTY breaches any of its representations, warranties or obligations under this SUPPLY AGREEMENT and fails to cure such breach within 60 days after receiving written notice thereof from the non-breaching PARTY. 
+(c) For a period of six months after expiration or termination of this SUPPLY AGREEMENT for any reason [***], SELLER will provide reasonable assistance (at Buyer's expense) to wind-down the supply of COMPONENTS for BUYER's System. This cooperation will include: (i) the continued manufacture and orderly supply of COMPONENTS after the termination or expiration date; (ii) continued support of COMPONENTS in accordance with the terms of this SUPPLY AGREEMENT after the termination or expiration date; and (iii) the right to make a last time buy of COMPONENTS in the maximum quantities listed in Article 13.3 (b) as amended herein. In the event that the termination was effected by SELLER as a result of BUYER’s material breach of this SUPPLY AGREEMENT the foregoing shall not apply.
+(d) On termination or expiration of this SUPPLY AGREEMENT for any reason BUYER will have the right to continue to sell all unsold COMPONENTS that are in its possession or that are subject to an open BUYER bid and purchase order as of the effective date of such termination or expiration.
+(e) After the termination or expiration of this SUPPLY AGREEMENT, at Buyer's request, SELLER will continue to provide support services to BUYER for installed COMPONENTS under the terms and conditions set forth in this SUPPLY AGREEMENT at SELLER'S then-standard rates during the remaining term of Buyer's purchase agreements with its end users. BUYER will continue to support such end users in the same manner that BUYER provides similar support for other elements of the System.
+13.2
+Considering the development support of Siemens, ViewRay shall be obligated to purchase COMPONENTS kits for at least [***] or such shorter period of time, [***], during which BUYER has purchased a total of [***]. 
+13.3
+(a) If BUYER obligates itself with respect to a CHANGE OF CONTROL with a third party that is an "INDIRECT COMPETITOR" of SELLER during the term of this SUPPLY AGREEMENT, the PARTIES will discuss in good faith within thirty (30) days after such CHANGE OF CONTROL is publicly announced, how such CHANGE OF CONTROL would impact the relationship contemplated by this SUPPLY AGREEMENT, including whether BUYER or such INDIRECT COMPETITOR will terminate this Agreement after the closing of such CHANGE OF CONTROL transaction. [***]. For purposes of this SUPPLY AGREEMENT, "DIRECT COMPETITOR" means an entity that has an MRI product line. As of the Effective Date I, DIRECT COMPETITORS may include each of GE Healthcare, Hitachi Medical Systems Corporation, Toshiba Medical Systems Corporation, United Imaging Healthcare and Philips Healthcare or their respective affiliates. For purposes of this SUPPLY AGREEMENT, "INDIRECT COMPETITOR" means an entity that is not a DIRECT COMPETITOR but which has a product line that competes with another product line of SIEMENS.
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+23
+(b) If Siemens terminates the Agreement, Siemens agrees to provide ViewRay a reasonable “last buy” (subject to further limitations described below) as well as a reasonable period of wind-down support for the time that ViewRay together with the Competitor will need to transition the MRI component of ViewRay´s MR Linac from Siemens to such Competitor. The last time buy must occur no later [***] ViewRay’s public announcement of a transaction that would result in a CHANGE IN CONTROL. In the event of a CHANGE IN CONTROL that results in an acquisition by an INDIRECT COMPETITOR, ViewRay’s last time buy order quantity may not exceed the maximum number of MRI units (regardless of model) for which ViewRay has placed [***] prior to the closing of the CHANGE IN CONTROL transaction. In the event of a CHANGE IN CONTROL that results in an acquisition by a DIRECT COMPETITOR, ViewRay’s last time buy shall be subject [***], but in every event not exceeding the number of MRI units (regardless of model) for which ViewRay has placed purchase orders [***] prior to the closing of the CHANGE IN CONTROL transaction.
+The time period during which Siemens shall be required to provide wind down support shall (also in the event of an INDIRECT COMPETITOR acquisition) be limited to a commercially reasonable duration, [***] from the closing of a CHANGE IN CONTROL.
+For this purpose, “commercially reasonable” shall mean a decision by an objective third party acting in good faith using prevailing industry practices considering the facts and circumstances at the time of the CHANGE IN CONTROL, including but not limited to the financial benefit/burden to the parties, as well as whether such decision can be reasonably be expected to achieve a legitimate business purpose of the decision-maker. During the pendency of the resolution to any dispute relating to commercial reasonableness, the parties must continue to act in good faith in relation to the delivery on undisputed supply. For avoidance of doubts, “DIRECT COMPETITOR” shall be every company that has an MRI product line including but not limited to those companies listed in Section 9 of the main Agreement of which this Appendix forms a part. 
+For the sole purpose of determining a commercially reasonable duration of wind down support, Siemens has the right to audit the progress of the transition of the MRI component for ViewRay’s MR Linac system from Siemens’ to such Competitor via an independent auditor bound to confidentiality and not sharing any development results with Siemens.
+13.4
+BUYER may terminate this SUPPLY AGREEMENT within thirty (30) days following the date a CHANGE OF CONTROL involving a DIRECT COMPETITOR or INDIRECT COMPETITOR is publicly announced. In case of termination of this SUPPLY AGREEMENT by BUYER following a CHANGE OF CONTROL involving a DIRECT COMPETITOR or INDIRECT COMPETITOR, BUYER shall reimburse SELLER [***].
+13.5
+In case of termination of this SUPPLY AGREEMENT by SELLER in accordance with Section 13.3, SELLER will not have a right of any compensation [***].
+13.6
+"CHANGE OF CONTROL" means with respect to BUYER, in an event or series of related events: (a) a sale of all or substantially all of BUYER's assets, voting stock or securities or business relating to this SUPPLY AGREEMENT; (b) a merger, reorganization or consolidation involving BUYER in which the stockholders of BUYER immediately prior to such transaction cease to own collectively a majority of the voting equity securities of the 
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+24
+successor entity; or (c) a Person or group of Persons acting in concert acquire fifty percent (50%) or more of the voting equity securities of BUYER. For purposes of clarity, the term "CHANGE OF CONTROL" is not intended to include (i) an underwritten public offering of BUYER's common stock pursuant to a Registration Statement on Form S-1 under the Securities Act of 1933, as amended, or (ii) any sale of shares of capital stock of BUYER, in a single transaction or series of related transactions principally for bona fide equity financing purposes in which BUYER issues new securities to venture capital investors primarily for cash or the cancellation or conversion of indebtedness of BUYER or a combination thereof for the purpose of financing the operations and business of BUYER.
+13.7
+The provisions in Sections 7, 10, 14, 15 shall survive the expiration or termination of this agreement. Any licenses granted by SELLER to BUYER under this SUPPLY AGREEMENT or the AGREEMENT will survive any expiration or termination of this SUPPLY AGREEMENT for any reason for as long as and to the extent that they are reasonably necessary to continue servicing and supporting existing accounts.
+    
+14.
+Medical Device a Regulatory Requirements
+14.1
+Siemens shall document, implement and maintain an acceptable quality system, such as the ISO 9001 for industrial (non-medical) products or ISO 13485 (for Medical Device Products) standard or equivalent certification. Such quality system shall address records and controls required to ensure traceability of COMPONENTS supplied to VIEWRAY, including product version numbers and/or serial numbers comparable but not beyond to the tracing within SIEMENS MAGNETOM Systems.
+14.2
+All COMPONENTS delivered to VIEWRAY shall undergo SIEMENS’ production testing protocols on component level before they are released for shipment. VIEWRAY will identify non-conforming COMPONENTS in accordance with VIEWRAY’s internal inspection and testing procedures and notify SIEMENS of such non-conformance in writing, and where warranted, by issuing a more formal SCAR (Supplier Corrective Action Request). SIEMENS shall acknowledge receipt of notice in writing and provide an initial written status response back to VIEWRAY within a reasonable period of time. SIEMENS will investigate the non-conformance and implement correction and/or corrective actions, as required. SIEMENS agrees to preserve and maintain all data associated with COMPONENT and other performance failures and corrective actions and make that data available to VIEWRAY upon request and that all such data shall be maintained as confidential.
+14.3
+SIEMENS shall (a) inform VIEWRAY in a timely manner about any quality related notifications that SIEMENS makes regarding the COMPONENTS (as listed in Annex 1) to its own end customers. SIEMENS further agrees to work in good faith with VIEWRAY to review and investigate all product complaints related to the COMPONENTS (as listed in Annex 1) and provide of summary of their investigations and conclusions. Potential solutions need to be aligned on a case by case basis.
+14.4
+SIEMENS shall establish and maintain procedures to identify, control and recall COMPONENTS as a result of safety or efficacy reasons. In the event of any product recall, product withdrawal or field correction related to the COMPONENTS (as listed in Annex 1), the Parties agree that (a) they shall promptly notify each other and (b) they shall cooperate with 
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+25
+each other as reasonably necessary. VIEWRAY shall be the point of contact for its end-user purchasers of any COMPONENT (whether directly or through any permitted sub-distributors) and be responsible for applicable regulatory authority contacts and for coordination of any end-user recall or field correction activities. SIEMENS shall provide supporting information to VIEWRAY as relevant to any such recall, withdrawal or field correction.
+14.5
+Upon reasonable request from VIEWRAY for a conflict materials report, SIEMENS will provide a report to VIEWRAY that provides disclosure of any critical materials used in the production of any COMPONENT.
+15.
+Arbitration
+15.1
+All disputes arising out of or in connection with this SUPPLY AGREEMENT or individual purchase contracts signed hereunder, including any question regarding their existence, validity or termination, shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce, Paris ("Rules") by three arbitrators in accordance with the said Rules.
+1.2
+Each PARTY shall nominate one arbitrator for confirmation by the competent authority under the applicable Rules ("Appointing Authority"). Both arbitrators shall agree on the third arbitrator within 30 days. Should the two arbitrators fail within the above time-limit to reach agreement on the third arbitrator, he shall be appointed by the Appointing Authority. 
+1.3
+The seat of arbitration shall be Zurich. The procedural law of this place shall apply where the Rules are silent.
+1.4
+The language to be used in the arbitration proceeding shall be English.
+1.5
+Any claim, controversy or dispute between the PARTIES arising in whole or in part under or in connection with this SUPPLY AGREEMENT or the subject matter hereof will, before such submission to arbitration, first be escalated to the MRI Business Unit Chief Executive Officer of SELLER and the Chief Executive Officer of BUYER for resolution. They will use reasonable efforts to attempt to resolve the dispute through good faith negotiations by telephone or in person as may be agreed and if they fail to resolve the dispute within thirty (30) days after either party notifies the other of the dispute, and do not mutually agree to extend the time for negotiation, then the dispute will be submitted to arbitration in accordance with the procedure set forth in Sections 14.1-14.4.
+16.
+Applicable Law
+This SUPPLY AGREEMENT and individual purchase contracts signed between the PARTIES hereunder shall be governed by and construed in accordance with the law in force in Switzerland without reference to its conflicts of law provisions. The application of the United Nations Convention on Contracts for the International Sale of Goods of April 11, 1980 shall be excluded.
+17.
+Miscellaneous
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+26
+17.1
+For purchasing service from Siemens or its Affiliates, the terms of Annex 3 shall apply. For ordering of Spare Parts, Annex 5 shall apply. The rules and stipulations attached as Annex 6 (Agreement on Electronic Data Communication) apply regarding electronic data communication and exchange.
+17.2
+Alterations and amendments to this SUPPLY AGREEMENT shall only be valid if made in writing and signed by an authorized representative of each PARTY. This includes the use of electronic signatures by using a software tool for electronic signatures (e.g. Adobe Sign).
+17.3
+The effectiveness of this SUPPLY AGREEMENT shall not be impaired if any provision of this SUPPLY AGREEMENT should be completely or partially invalid or unenforceable. In this case, the PARTIES shall agree on a provision, that meets the economical intention of the invalid or unenforceable provision.
+17.4
+The failure of any PARTY hereto to enforce at any time any of the provisions of this SUPPLY AGREEMENT shall in no way be construed to be a waiver of any such provision, nor in any way to affect the validity of this SUPPLY AGREEMENT or any part thereof or the right of any PARTY thereafter to enforce each and every such provision. No waiver of any breach of this SUPPLY AGREEMENT shall be held to be a waiver of any other or subsequent breach.
+17.5
+All notices or other communications required or permitted hereunder with regard to the interpretation, validity etc. of the SUPPLY AGREEMENT shall be in writing and shall be given by certified mail addressed, if to BUYER:
+ViewRay Technologies, Inc. 
+1099 Eighteenth St, Suite 3000 
+Denver, CO 80202
+USA
+Attn: Chief Legal Officer
+and, if to SELLER: 
+Siemens Healthcare GmbH
+Legal
+Karl-Heinz-Kaske-Straße 5
+90152 Erlangen
+Germany
+Attn: Lead Lawyer Business Line Magnetic Resonance (MR)
+or to such other address that the PARTIES might identify to each other for this purpose and with reference to this SUPPLY AGREEMENT.
+17.6
+No PARTY hereto shall issue any press release or public announcement or otherwise divulge the existence of this SUPPLY AGREEMENT or the transactions contemplated hereby without the prior approval of the other PARTY hereto.
+17.7
+This SUPPLY AGREEMENT shall be binding upon and inure to the benefit of the PARTIES hereto. Neither PARTY may assign this SUPPLY AGREEMENT, in whole or in part, except with the prior written consent of the other PARTY, which shall not be unreasonably withheld; provided, that either PARTY may assign this SUPPLY AGREEMENT without the consent of the other PARTY to an Affiliate or in connection with any merger, acquisition, or sale a 
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+27
+majority of such PARTY's voting stock or a sale of substantially all such PARTY's assets: provided, further, that (a) in each instance the assignee expressly assumes all obligations imposed on the assigning PARTY by this SUPPLY AGREEMENT in writing and the other PARTY is notified in advance of such assignment; and (b) BUYER shall also be subject to the restriction set forth in Sections 13.3-13.6. Any purported assignment in violation of this Section shall be null and void.
+17.8
+Titles and headings to Sections herein are inserted for the convenience or reference only and are not intended to be a part of or to affect the meaning or interpretation of this SUPPLY AGREEMENT.
+17.9
+This SUPPLY AGREEMENT may be executed in one or more counterparts, all of which shall be considered one and the same agreement.
+17.10
+This SUPPLY AGREEMENT constitutes the entire agreement between the PARTIES with respect to its subject matter and supersedes all prior agreements, understandings, commitments, negotiations and discussions with respect thereto, whether oral or written. This SUPPLY AGREEMENT is an Appendix to the 2022 Agreement between the PARTIES and in the event of any conflict between the terms of this SUPPLY AGREEMENT and the terms of the 2022 Agreement, such conflict will be resolved in accordance with Article 4.1 of the Development and Supply Agreement.
+17.11
+If either PARTY's performance under this SUPPLY AGREEMENT is prevented, restricted or interfered with by reason of acts of God, wars, revolution, civil commotion, acts of public enemy, labor strikes (other than employees of the affected PARTY), terrorism, pandemic, embargo or acts of government in its sovereign capacity ("Force Majeure"), the "affected PARTY" will, after giving prompt notice to the other PARTY, be excused from such performance on a day-to-day basis during the continuance of such prevention, restriction, or interference (and the other PARTY will likewise be excused from performance of its obligations on a day-to-day basis during the same period), provided, however, that the affected PARTY will use its best efforts to avoid or remove the causes of nonperformance and both PARTIES will proceed immediately with the performance of their obligations under this SUPPLY AGREEMENT whenever the causes are removed or cease. If Force Majeure conditions continue for more than 90 consecutive days or an aggregate 120 days in any 12-month period, then the disadvantaged PARTY (but not the affected PARTY) may terminate this SUPPLY AGREEMENT.
+17.12
+No Party shall be obligated to fulfill this Agreement or an individual purchase agreement, if such fulfillment is prevented by any impedings arising out of national or international foreign trade or customs requirements or any embargoes or other sanctions.
+17.13
+The following Annexes shall be incorporated in this Agreement by reference:
+    Annex 1: Specification of COMPONENTS 
+    Annex 2: Price List 
+    Annex 3: Service Requirements
+    Annex 4: Quality Assurance Agreement
+    Annex 5: Spare Parts
+    Annex 6: Agreement on Electronic Data Communication
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022
+28
+ANNEXES
+CONFIDENTIAL
+Development Agreement – ViewRay Technologies, Inc. and Siemens Healthcare GmbH
+Status: 31 March 2022

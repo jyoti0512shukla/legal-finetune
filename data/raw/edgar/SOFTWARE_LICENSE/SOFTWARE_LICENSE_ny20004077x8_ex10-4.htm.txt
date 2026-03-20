@@ -1,0 +1,2448 @@
+EX-10.4
+
+8
+
+ny20004077x8_ex10-4.htm
+
+EXHIBIT 10.4
+
+Exhibit 10.4
+
+ 
+
+Certain portions of this exhibit have been omitted pursuant to
+ Rule 601(b)(10) of Regulation S-K. The omitted information is (i) not material and (ii) the type that the registrant treats as private or confidential. Information that has been omitted has been noted in this document with a placeholder
+ identified by the mark “[***]”.
+
+Commercial Agreement
+
+AspenTech Corporation (formerly known as Aspen Technology, Inc.)
+ (“Old AspenTech”), a Delaware corporation with its principal place of business at 20 Crosby Drive, Bedford, Massachusetts 01730 USA, Aspen Technology Inc. (formerly known as Emersub CX, Inc.), a Delaware corporation (“
+New AspenTech
+” and, collectively with Old AspenTech, “
+AspenTech
+”), and Fisher-Rosemount Systems, Inc., an Emerson Automation Solutions company (“
+Emerson
+”) incorporated in Delaware with a principal place of business at 1100 W. Louis Henna Blvd., Round Rock, Texas 78681 USA, hereby enter into a commercial agreement (this “
+Agreement
+”; AspenTech Contract ID# 126917) with respect to distribution of AspenTech software products to end users by Emerson acting on either a commission or sell-through basis (“
+Channel
+ Distribution
+”) or acting as an original equipment manufacturer or white-label basis (“
+OEM
+”).
+
+COVER PAGE
+
+Part I. AGREEMENT
+
+1.
+
+This Agreement shall be effective as of the last date of signature by the parties and shall be expressly contingent upon the
+ closing of the transaction and merger pursuant to the Transaction Agreement and Plan of Merger (as amended from time to time, the “Transaction Agreement”) entered into on October 10, 2021 among AspenTech, Emerson Electric Co.
+ (“Emerson Electric”), EMR Worldwide Inc., a wholly owned subsidiary of Emerson Electric, New AspenTech, and Emersub CXI, Inc., a direct wholly owned subsidiary of Emersub CX, Inc. With respect to the foregoing and for the avoidance of
+ doubt, this Agreement shall be considered null and void 
+ab initio
+ in the event the closing of the transaction and merger pursuant to the Transaction Agreement does not occur. 
+
+2.
+
+Effective as of the date of the closing specified in Section 1 above (the “Closing Date”), the following agreements between
+ the parties will be superseded by this Agreement, provided that: (i) amounts payable by one party to the other in connection with end user orders written under such agreements, including commissions payable by Old AspenTech to Emerson
+ and fees payable by Emerson to Old AspenTech, shall remain payable in accordance with the terms of such agreements and (ii) all licensing and distribution rights and duration of licenses granted to Emerson and obligations on the part
+ of Old AspenTech with respect to the ten (10) [***] and the ten (10) Additional [***] under the Channel Sales Agreement (as defined below) (collectively, the “[***]”) shall continue and remain in effect under this Agreement upon such
+ terms and conditions as set forth in the Channel Sales Agreement. For purposes of clarification and notwithstanding anything in this Agreement to the contrary, no payments shall be due or otherwise payable by Emerson to Old AspenTech
+ in connection with the licensing and distribution by Emerson of the [***]). As used herein, the term “Additional [***]” shall have the meaning as defined in the Channel Sales Agreement.
+
+•
+
+Memorandum of Understanding - Strategic Initiative effective February 8, 2018
+
+•
+
+Channel Sales Agreement (Contract ID# 90817) effective February 9, 2018, as amended June 29, 2020 (Contract ID# 110750) and
+ March 31, 2021 (Contract ID# 120644) (the “Channel Sales Agreement”)
+
+3.
+
+This Agreement consists of this Cover Page and the exhibits and annexes specified below, which are expressly incorporated in
+ this Agreement and made a part hereof.
+
+•
+
+Exhibit A - Definitions
+
+•
+
+Exhibit B - Products, Commissions, Discounts and Fees
+
+Annex 1 - Standard Opportunity Go to Market Process
+
+Annex 2 - Channel Order Pricing
+
+Annex 3 - AspenTech Standard List Pricing
+
+K-1
+
+Annex 4 - Purchase Order Requirements
+
+Annex 5 – OEM Products and OEM Product Pricing
+
+•
+
+Exhibit C - General Conditions
+
+•
+
+Exhibit D - License Terms
+
+•
+
+Exhibit E - OEM Terms
+
+•
+
+Exhibit F - Channel Terms
+
+•
+
+Exhibit G - Exception Review Process
+
+•
+
+Exhibit H - Joint Development
+
+•
+
+Exhibit I - Designated Representatives
+
+•
+
+Exhibit J - Meetings and Governance
+
+•
+
+Exhibit K – Form of End User License Terms For Sell-Through Orders and Fulfillment Orders
+
+•
+
+Exhibit L – Standard List Pricing Books
+
+4.
+
+All economic terms of this Agreement shall be reviewed by the parties commencing 60 days prior to January 1, 2023 and annually
+ thereafter, and the parties shall mutually agree upon any necessary modifications thereto (including those based on the parties’ current understanding of applicable markets), which shall be implemented on January 1, 2023 and each
+ January 1 thereafter while this Agreement is in effect; provided that such modifications shall be intended to permit Emerson to be and remain competitive in markets (including markets in which the Software has not previously been
+ marketed or sold). The parties will also review AspenTech’s sales and support organization associated with this arrangement with Emerson to ensure alignment between the parties with respect thereto.
+
+5.
+
+This Agreement shall continue in effect through the end of the day before the fifth anniversary of the Closing Date unless
+ renewed or terminated earlier in accordance with the terms hereof. 
+
+6.
+
+This Agreement will renew for successive five-year renewal terms unless either party provides at least 90 days’ written notice
+ to the other party prior to the end of the then-current term. 
+
+7.
+
+If following the Closing Date, Emerson Electric Co. holds 40% or less of the voting power in New AspenTech for more than six
+ consecutive months, each of Emerson and AspenTech shall have the right to terminate this Agreement in the sole discretion of the terminating party upon providing written notice to the other party.
+
+8.
+
+Either party may terminate this Agreement upon 30 days' written notice if the other party breaches its obligations under this
+ Agreement and fails to cure the breach by the end of the notice period. Either party may terminate this Agreement immediately upon written notice if the other party makes an assignment for the benefit of its creditors, becomes
+ insolvent, or is the subject of a voluntary or involuntary petition in bankruptcy, receivership, or similar proceeding and such proceeding is not dismissed within 90 days of filing. Termination hereunder shall have no effect on the
+ timely fulfillment of, and payments due or coming due with respect to, Emerson orders for Software and/or SMS issued pursuant to this Agreement prior to the date of termination or during the Wind-down Period. The termination or
+ expiration of this Agreement shall not affect in any way any licenses granted to clients prior to such termination or expiration or during the Wind-down Period. Understanding fully the risk that this Agreement may be terminated or may
+ expire as provided herein, each party agrees that in the event of termination for any reason other than for cause due to breach, the other party shall not be liable solely by reason of such termination for damages or otherwise,
+ including on account of the loss of present or prospective profits, for expenditures, investments, or opportunities forgone, or for the inability to fulfill contracts under this Agreement, or otherwise.
+
+9.
+
+Upon the date of any expiration or termination of this Agreement (and regardless of the reason for such expiration or
+ termination and notwithstanding any provision in this Agreement to the contrary): (i) Emerson shall be permitted, and hereby retains the right without any further action on the part of the parties, to continue to exercise all of its
+ license rights under this Agreement (including the ability to 
+
+K-2
+
+obtain SMS) for a period of two years following such date of expiration or
+ termination, provided that the wind-down period associated with any OEM arrangement may be longer than two years, as mutually agreed upon by the parties (the “
+Wind-down Period
+”); and (ii) the
+ obligations of AspenTech and Emerson under this Agreement shall continue during the Wind-down Period. Upon the conclusion of the Wind-down Period: (a) all of the Emerson rights to reproduce, market, license, and distribute (or otherwise make
+ available for use) the Software (other than such further distributions as required to maintain and support the Software distributed prior to the conclusion of the Wind-down Period) shall immediately and automatically cease (unless and to the
+ extent otherwise agreed by AspenTech in writing); (b) none of the sublicenses entered into by Emerson while this Agreement is in effect (and including the Wind-down Period) for the Software shall be impacted by the expiration or termination
+ of this Agreement or by the conclusion of the Wind-down Period; and (c) the SMS support obligations of AspenTech with respect to the Software with active licenses pursuant to this Agreement shall continue for a period of five years.
+
+10.
+
+Notwithstanding anything to the contrary in this Agreement, Software License Agreement identified by Contract ID# 90439
+ entered into between Old AspenTech and Emerson effective March 31, 2018 (the “
+Existing Software License Agreement
+”) (as the same may be amended by the parties in writing from time to time) shall
+ remain in full force and effect. 
+
+Part II. EXECUTION
+
+1.
+
+Signature of this Cover Page by both parties shall establish conclusive evidence of the arrangement between them regardless of
+ whether either party may issue additional documents, including issuance by Emerson of a purchase order with respect to this Agreement.
+
+2.
+
+Any Purchase Orders issued by Emerson under this Agreement must contain a specific reference to this Agreement and must
+ satisfy the requirements of Annex 4 - Purchase Order Requirements to Exhibit B - Products, Commissions, Discounts and Fees.
+
+3.
+
+AspenTech will reference Emerson’s Purchase Order number in invoices issued hereunder; however, (i) AspenTech expressly
+ rejects any terms or conditions in any Emerson Purchase Order that conflict with the terms of this Agreement and (ii) Emerson expressly rejects any terms or conditions in AspenTech documents that conflict with the terms of this
+ Agreement.
+
+4.
+
+If AspenTech signs and returns to Emerson an Emerson Purchase Order or copy thereof, the parties agree that such AspenTech
+ signature does not signify AspenTech's acceptance of any terms that conflict with those set forth in this Agreement. If Emerson signs and returns to AspenTech any document provided by AspenTech in connection with this Agreement, the
+ parties agree that such Emerson signature does not signify Emerson's acceptance of any terms that conflict with those set forth in this Agreement. For purposes of clarification, any license agreement entered into and executed by both
+ AspenTech and Emerson in connection with the Exception Review Process as provided for in Exhibit G shall not be deemed as having terms that conflict with those set forth in this Agreement.
+
+5.
+
+The parties’ signatures below, whether manual or electronic and including signatures on counterpart signature pages, establish
+ conclusive evidence of the arrangement, regardless of whether a purchase order is also issued. Executed signature pages sent by email scan, facsimile or otherwise by photocopy are valid means of signature and delivery.
+
+K-3
+
+Agreed to and accepted by:
+
+AspenTech Corporation (formerly Aspen Technology, Inc.)
+
+​
+
+​
+
+Fisher-Rosemount Systems, Inc.
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+An Emerson Automation Solutions company
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+By:
+
+​
+
+​
+
+/s/ Antonio Pietri 
+
+​
+
+​
+
+By:
+
+​
+
+​
+
+/s/ John Sperino 
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+Name:
+
+​
+
+​
+
+Antonio J. Pietri 
+
+​
+
+​
+
+Name:
+
+​
+
+​
+
+John Sperino  
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+Title:
+
+​
+
+​
+
+President and Chief Executive Officer 
+
+​
+
+​
+
+Title: 
+
+​
+
+​
+
+Assistant Secretary 
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+Date:
+
+​
+
+​
+
+May 17, 2022 
+
+​
+
+​
+
+Date: 
+
+​
+
+​
+
+May 17, 2022 
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+Aspen Technology, Inc. (formerly Emersub CX, Inc.)
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+By:
+
+​
+
+​
+
+/s/ Antonio Pietri 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+Name:
+
+​
+
+​
+
+Antonio J. Pietri 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+Title:
+
+​
+
+​
+
+President and Chief Executive Officer 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+Date: 
+
+​
+
+​
+
+May 17, 2022 
+
+​
+
+​
+
+ 
+
+​
+
+​
+
+ 
+
+K-4
+
+Exhibit A - Definitions
+
+The following definitions shall apply to the defined terms as used in this
+ Agreement.
+
+“
+Affiliate
+” means any entity that is
+ controlled by, under common control with, or that controls, either party, directly or indirectly, where “control” means ownership of more than 50% of the controlled entity; provided that none of Emerson Electric nor any then-subsidiary of
+ Emerson Electric (excluding New AspenTech and any then-subsidiary of New AspenTech) shall be deemed to be an Affiliate of New AspenTech or any then-subsidiary of New AspenTech for purposes of this Agreement and none of New AspenTech nor any
+ then-subsidiary of New AspenTech shall be deemed to be an Affiliate of Emerson Electric or any then-subsidiary of Emerson Electric (excluding New AspenTech and any then-subsidiary of New AspenTech) for purposes of this Agreement.
+
+“
+AspenTech Standard List Pricing
+” or “
+Standard List Pricing
+” shall have the meaning set forth in Annex 3 to Exhibit B.
+
+“
+Defect
+” means a material error in program
+ logic or documentation for the Software that prevents the performance of a principal computing function as set forth in AspenTech's published specifications for the Software. Defect also includes any Material Vulnerability not mitigated or
+ remediated as required under Section 32(ii) of Exhibit C - General Conditions. 
+
+“
+Dongle
+” means a hardware security device
+ required for Software to function.
+
+“
+Exception Review Process
+” or “
+ERP
+” has the meaning set forth in Exhibit G - Exception Review Process.
+
+“
+Force Majeure
+” means a force beyond the
+ reasonable control of a party to this Agreement, such as fire, strike, war, civil unrest, terrorist action, government regulations or acts of nature. A force will not be deemed a Force Majeure with respect to either party's payment
+ obligations unless such force disrupts public banking or communications networks necessary to effect the transfer of funds.
+
+“
+OSI Products
+” means all of the software
+ products, suites, and platforms of Open Systems International, Inc. (an Emerson Affiliate) which have been acquired by New AspenTech under the Transaction Agreement (including, but not limited to, the following software products, suites, and
+ platforms: [***]).
+
+“
+[***]
+” means the operator training
+ simulation [***] comprised of the Software products as defined in Exhibit L, including the Aspen HYSYS
+®
+ Upstream, Aspen HYSYS Dynamics Run-Time and Aspen HYSYS Crude products of the aspenONE
+®
+ Engineering software suite.
+
+“
+Proprietary Information
+” means Software and
+ other confidential information provided in connection with Software, and any benchmarking data or other results of use or testing of the Software which are indicative of its performance, operation, efficacy, reliability or quality.
+ Proprietary Information does not include information that:
+
+(i)
+
+is or becomes publicly known through no wrongful act or failure to act on the part of Emerson; or
+
+(ii)
+
+is rightfully known by Emerson without any proprietary restrictions at the time of receipt of such information from AspenTech,
+ or becomes rightfully known to Emerson without proprietary restrictions from a source other than AspenTech; or
+
+(iii)
+
+is required by law to be disclosed by Emerson, provided that Emerson, if legally permissible, promptly notifies AspenTech and
+ takes reasonable steps to limit such disclosure to such legal requirements; or
+
+(iv)
+
+is independently developed by any employee or agent of Emerson who has not used the Software, seen a demonstration of the
+ Software, received training on the Software, or received or been informed of information about the Software in the course of distributing models developed with the Software, or providing technical support, implementation and/or
+ consulting support and configuration services to AspenTech licensees of the Software pursuant to this Agreement.
+
+“
+Purchase Order
+” means any purchase orders
+ issued by Emerson to AspenTech under this Agreement for Software and/or SMS and which, with respect to Sell-Through Orders and Fulfillment Orders, satisfies the requirements of Annex 4 
+- 
+Purchase
+ Order Requirements to Exhibit B - Products, Commissions, Discounts and Fees. If there is a conflict between the terms of this Agreement and the terms set forth in any Purchase Order, the terms of this Agreement shall control and prevail.
+
+K-5
+
+“
+Release
+” means a generally available new
+ version or release of the Software with new features and/or significant enhancements. Release includes computer programs of AspenTech intended to replace any of the Software.
+
+“
+Security Incident
+” means a data breach of
+ AspenTech’s Processes and Controls of which AspenTech becomes aware and which AspenTech has confirmed (following, if applicable, such internal investigation as reasonably required and timely performed) affects Emerson’s Data and Systems.
+
+“
+SLM Server
+” means each network computer that
+ manages the licenses required to run the Software. Subject to any specified license restrictions set forth in this Agreement, the Software may be installed on more than one SLM Server upon written notice to the AspenTech Administrative
+ Coordinator.
+
+“
+Software
+” means AspenTech or third-party
+ proprietary computer program(s), suites, and platforms set forth in Exhibit B -Products, Commissions, Discounts and Fees in object code form, and any Updates, Releases, Dongles, license keys, documentation, data, process or other manuals,
+ databases, simulation files, integrated or standalone models, technology archives, process tools, enhancements and instructions, and any authorized copies thereof, provided with the Software, as such list in Exhibit B - Products, Commissions,
+ Discounts and Fees may be updated from time to time upon the mutual written agreement of the parties.
+
+“
+Software License Manager
+” (“
+SLM
+”) means a software-based licensing system which controls and tracks the usage of Software products. The SLM shall be provided by AspenTech to Emerson (at no additional cost or expense) and does not
+ change or provide additional functionality to the products: it only provides access to the Software through an SLM Server.
+
+“
+Software Maintenance and Support
+” (“
+SMS
+”) means technical support via telephone, email or the AspenTech Online Support Center as described at 
+http://esupport.aspentech.com
+; Updates and Releases and associated user documentation
+ offered on a when-and-if available basis; and commercially reasonable efforts by AspenTech to remedy Defects by: (i) providing a bug fix, patch or workaround procedure; and/or (ii) incorporating a permanent Defect correction in the next
+ Update or Release of the Software. SMS encompasses all of the following support levels:
+
+•
+
+First-Level Support - Answers routine software usage questions and data-entry questions and handles issues such as setup in
+ the GUI, simple configuration and Software functionality questions;
+
+•
+
+Second-Level Support - Handles problems caused by user errors and erroneous data, questions about modeling and applications,
+ detailed setup and configuration issues or any other complex questions related to documented features; and
+
+•
+
+Third-Level Support - Covers problems caused by specific Software Defects or questions on particular algorithms that may
+ produce the suspicious results, which usually requires a developer’s knowledge of the source code or changes in the source code.
+
+“
+Standard Opportunity
+” or “
+Standard Opportunities
+” means a Channel Order opportunity: (i) with respect to providing Software and SMS to markets, accounts and/or countries/territories that are specified in Annex 1 
+- 
+Standard Opportunity Go To Market Process to Exhibit B - Products, Commissions, Discounts and Fees as it may be updated from time to time by written agreement of the parties and (ii) that meets the
+ applicable pricing and other terms specified in Exhibit B - Products, Commissions, Discounts and Fees (including Purchase Order requirements as set forth in Annex 4) as the same may be updated from time to time by written agreement of the
+ parties. Subject to the foregoing sub-clause (ii), Emerson may issue one or more Sell-Through Orders under this Agreement for the following two [***] offering, and doing so shall always be considered a Standard Opportunity: [***] (including,
+ for purposes of clarification, all components and functionality included in these [***] as of the Closing Date). [***]. 
+
+“
+Supported Computer(s)
+” means one or more
+ computers: (i) owned or leased by, or under the control of, Emerson or a permitted Emerson Affiliate (if any); and (ii) of a manufacture, model and operating system for which AspenTech at the time offers a current version of the Software.
+
+“
+Update
+” means a generally available revision
+ of the Software with minor changes and/or Defect corrections. Updates generally occur between each Release of the Software.
+
+K-6
+
+Exhibit B - Products, Commissions, Discounts and Fees
+
+AspenTech Software Products
+
+•
+
+aspenONE
+®
+ Engineering suite 
+
+•
+
+aspenONE Engineering for E&C suite
+
+•
+
+aspenONE Manufacturing and Supply Chain (“
+MSC
+”) suite 
+
+•
+
+aspenONE Asset Performance Management (“
+APM
+”) suite
+
+•
+
+Aspen Artificial Intelligence of Things (“
+AIoT
+”) products 
+
+•
+
+OTS Software Bundles
+
+•
+
+[***]
+
+•
+
+OSI Products
+
+•
+
+[***]
+
+•
+
+Such additional AspenTech computer programs or products as mutually agreed upon by the parties
+
+The Software further includes all Updates and Releases of the products, programs,
+ suites, and platforms listed above. 
+
+Internal Use Licenses
+
+Emerson may, at its discretion, license from AspenTech any then-currently supported
+ version of any Software for internal use by Emerson and its Affiliates only as set forth at Section 1.a of Exhibit D - License Terms at any time. Requests by Emerson for such internal use licenses shall be fulfilled promptly by AspenTech by
+ generating licenses locked to an Emerson domain and making them available for download. No license fees, SMS fees, or other fees or charges shall apply other than any applicable taxes and any shipping expenses incurred by AspenTech to fulfill
+ Emerson requests for physical shipment of the subject Software. Purchase Orders are not required for internal use licenses unless taxes or shipping fees apply.
+
+OEM Product Orders
+
+Emerson may sublicense and distribute then-current versions of the Software
+ designated in Annex 5 - OEM Products and OEM Product Pricing, and any other technology that may become the subject of a development agreement between the parties (
+e.g
+., [***]) (all such Software,
+ products, and other technology, collectively, “
+OEM Products
+”). Emerson may distribute OEM Products at any time by embedding the OEM Products in or incorporating the OEM Products with Emerson hardware,
+ software, services, or systems and providing the combined product or service to a client of Emerson or its Affiliates or to any other third party in accordance with Exhibit E - OEM Terms (each such sublicense or distribution of an OEM Product
+ may hereinafter be referred to as an “
+OEM Transaction
+” or “
+OEM Order
+”). 
+
+OEM Products may also include standalone versions of the Software which are
+ distributed by Emerson on a standalone OEM or white-labeled basis; provided the parties have mutually agreed upon the Software that may be distributed by Emerson on a standalone OEM or white-labeled basis.
+
+Emerson shall coordinate with AspenTech and the Parties shall, if applicable,
+ mutually agree upon a process with respect to OEM Transactions whereby a license generator is implemented and Emerson staffs a fulfillment team to configure tokens and term licensing under each applicable OEM Transaction.
+
+[***]
+
+[***]. The ERP shall not apply to the licensing and distribution by Emerson of the
+ [***].
+
+For any incremental [***] requested by Emerson, SMS is included for the first year
+ of the license term for such bundles. Emerson may, in its discretion, continue to obtain, and AspenTech shall continue to provide, SMS to Emerson for the OTS Software Bundles subject to payment to AspenTech of an annual fee of [***] of the
+ unit license fee specified in Exhibit L for each bundle for which Emerson elects to obtain SMS, escalating at an annual rate of [***] for so long as Emerson elects to obtain such SMS.
+
+K-7
+
+Emerson may request either a physical dongle or an electronic license file for
+ the [***] locking mechanism.
+
+If an [***] is required, the [***] bundle will be provided with the restriction that
+ only the upstream functionality to link to [***] functionality in HYSYS Upstream bundle may not be used.
+
+The [***] are comprised of the Software products as defined in Exhibit L.
+
+Quarterly reports shall be provided by Emerson and/or its Affiliates to AspenTech as
+ provided for in Exhibit E – OEM Terms.
+
+The ERP shall not apply to OEM Transactions.
+
+Channel Orders
+
+Emerson may solicit orders from clients or other third parties for any then-current
+ version of Software at any time on either a sell-through, commission, or fulfillment basis in accordance with Exhibit F - Channel Terms and, as applicable for Channel Orders that are not Standard Opportunities, Exhibit G - Exception Review
+ Process (“
+Channel Orders
+”). With respect to each Channel Order (whether such Channel Order is a Standard Opportunity or designated as an REO in accordance with Exhibit G –Exception Review Process),
+ Emerson may at its discretion determine whether to solicit the same as a Sell-Through Order or as Commissionable Order if the pricing to the end user is not discounted by more than [***] off Standard List Pricing. Where the end user pricing
+ will be discounted by Emerson by more than [***] off Standard List Pricing, AspenTech retains sole discretion on whether Channel Orders will be written as Sell-Through Orders or Commissionable Orders or whether AspenTech will decline to write
+ a Commissionable Order at all. 
+
+Emerson retains sole discretion to decline to accept a Fulfillment Order.
+
+For purposes of clarification, individual Purchase Orders are required to be
+ submitted by Emerson for each Channel Order.
+
+No rebranding or co-branding of the Software shall occur with respect to Channel
+ Orders unless the parties mutually agree upon whether any Software will be rebranded or co-branded for purposes of marketing and sales of the Software by Emerson pursuant to Channel Orders.
+
+Sell-Through Orders
+
+For Channel Orders solicited on a sell-through basis (“
+Sell-Through Orders
+”; a reseller relationship wherein Emerson is the licensor of the applicable Software), the following terms shall apply.
+
+•
+
+Emerson will enter into written license agreement with end users in such form as Emerson may elect from time to time, provided
+ that the terms of such license agreement must be at least as restrictive as the restrictions and obligations specified at Exhibit K - Form of End User License Terms For Sell-Through Orders and Fulfillment Orders with respect to use of
+ Software by the end users.
+
+•
+
+Emerson shall provide First-Level Support SMS to the end users under Sell-Through Orders and AspenTech shall provide
+ Second-Level and Third-Level Support SMS to the end users.
+
+Emerson will issue a binding Purchase Order per Annex 4 to AspenTech for each
+ Sell-Through Order based on the then-current AspenTech Standard List Pricing for the ordered Software and the applicable fee discounts specified in Annexes 3 and 2, respectively, to this Exhibit B - Products, Commissions, Discounts and Fees
+ as it may be updated from time to time. Each Sell-Through Order shall be promptly fulfilled by AspenTech and the discounted fees shall be paid by Emerson to AspenTech pursuant to the schedule set forth in Exhibit F - Channel Terms. Emerson
+ shall not be subject to any pre-payment or volume commitments on the part of Emerson or its customers to obtain such discount. 
+
+Commissionable Orders
+
+For Channel Orders solicited on a commission basis (“
+Commissionable Orders
+”; an agency relationship wherein AspenTech has closed the order and New AspenTech, Old AspenTech, or one of their subsidiaries is the licensor of the applicable Software and Emerson has negotiated the
+ transaction and sale), the following terms shall apply.
+
+K-8
+
+•
+
+Emerson shall: (i) notify AspenTech of the applicable opportunity, (ii) provide AspenTech with such data and information
+ pertaining to the applicable end user as requested by AspenTech, and (iii) obtain the end users agreement to license terms and pricing as established by AspenTech and AspenTech shall draft an end user license agreement with the end
+ user where New AspenTech, Old AspenTech, or one of their subsidiaries is the licensor. 
+
+•
+
+Subject to Emerson obtaining agreement on the part of the applicable end user to the pricing and licensing terms established
+ by AspenTech at AspenTech’s commercially reasonable discretion, AspenTech will enter into a written Commissionable Order, including the applicable license with the end user where New AspenTech, Old AspenTech, or one of their
+ subsidiaries is the licensor.
+
+•
+
+Emerson shall receive a commission from AspenTech on each Commissionable Order, which commission will be based on Annex 2 to
+ this Exhibit B - Products, Commissions, Discounts and Fees as it may be updated from time to time upon the written agreement of the parties. Commissions shall be paid by AspenTech to Emerson pursuant to the schedule set forth in
+ Exhibit F - Channel Terms. 
+
+•
+
+AspenTech shall provide all SMS to the end users under Commissionable Orders. 
+
+•
+
+Sourcing of Commissionable Orders by Emerson means where Emerson has submitted qualified transactions for sales leading to
+ Commissionable Orders by sending an email notification to an AspenTech email address to be designated by AspenTech. The notification must contain the following information at a minimum and any other information that may be designated
+ under the registration process to be agreed upon between the parties in order to confirm qualification of transactions.
+
+○
+
+Account name and address
+
+○
+
+Emerson Sales Representative contact information
+
+○
+
+Annual Spend and license type
+
+•
+
+An authorized AspenTech representative will promptly respond to the email notification by either confirming or denying that
+ the transaction is qualified (based upon criteria as mutually agreed upon by the parties). If AspenTech denies a transaction, the parties shall promptly discuss the reason(s) for the denial if so requested by Emerson.
+
+•
+
+If AspenTech confirms a transaction is qualified, AspenTech will negotiate final terms and conditions with the end user, the
+ transaction shall, if entered into by AspenTech and the end user, be a Commissionable Order for purposes of this Agreement, and AspenTech shall pay Emerson the applicable commissions for such Commissionable Order in accordance with
+ this Agreement.
+
+Fulfillment Orders
+
+A Fulfillment Order is a Channel Order that is not a Standard Opportunity and a
+ Fulfillment Order may include an order for any other product or service that AspenTech offers its customers and which is solicited on a fulfillment basis by AspenTech (“
+Fulfillment Orders
+”; a reseller
+ relationship where AspenTech does not have a legal entity with trade license capability in the applicable jurisdiction and it has been determined that it is to AspenTech’s benefit to leverage Emerson’s global presence to transact business
+ through local Emerson entities in non-U.S. jurisdictions instead of AspenTech seeking to do business directly in such non-U.S. jurisdiction) and the following terms shall apply. 
+
+•
+
+The parties agree that Fulfillment Orders are intended to be utilized solely in those countries where AspenTech does not have
+ a legal entity in the applicable country. Fulfillment Orders are not intended to supplant Sell-Through Orders and are, in all instances, subject to acceptance by Emerson in the exercise of its sole discretion (which shall not be
+ unreasonably withheld).
+
+•
+
+For each Fulfillment Order opportunity, AspenTech shall: (i) notify Emerson of the applicable opportunity, (ii) provide
+ Emerson with such data and information pertaining to the applicable end user as requested by Emerson, and (iii) negotiate license terms and pricing and draft an end user license agreement with the end user wherein Emerson is the
+ sublicensor of the applicable software. 
+
+K-9
+
+Each such end user license agreement shall include provisions at least as
+ restrictive as the restrictions and obligations specified at Exhibit K - Form of End User License Terms For Sell-Through Orders and Fulfillment Orders and shall be in a form acceptable to Emerson. 
+
+•
+
+For each Fulfillment Order accepted by Emerson in writing, (i) Emerson will seek to enter into a written agreement with the
+ end user that conforms to the pricing negotiated by AspenTech and form of end user license agreement as negotiated by AspenTech and which end user license agreement is acceptable to Emerson, (ii) upon entering into such end user
+ license agreement with the applicable end user, Emerson will issue a Purchase Order to AspenTech which: (a) is in accordance with Annex 4 to Exhibit B of this Agreement that specifically references the Fulfillment Order entered into
+ between Emerson and the end user and that includes retention by Emerson of [***] (the “Fulfillment Order Retention Amount”) as consideration for operationalizing the Fulfillment Order on a pass-through basis and (b) includes a payment
+ schedule aligned to the pricing that AspenTech has negotiated with the end user and provided to Emerson; and (iii) within [***] days of Emerson's receipt of each invoice from AspenTech (which invoices are to be aligned to the payment
+ schedule set forth in sub-clause (b) above), Emerson will pay the undisputed amount of each such invoice to AspenTech (provided Emerson shall be entitled to a one-time deduction of the Fulfillment Order Retention Amount if such
+ deduction is not reflected in the invoices). All payments by Emerson shall be in U.S. dollars after taking into account the applicable exchange rate. [***].
+
+•
+
+AspenTech shall provide all SMS to end users under each Fulfillment Order.
+
+K-10
+
+Annex 1 – Standard Opportunity Go to Market Process
+
+Standard Opportunity Markets
+
+Channel Order opportunities solicited by Emerson with end users in the following
+ markets regardless of location (i.e., worldwide) (“
+Standard Opportunity Markets
+”) shall be deemed as Standard Opportunities (subject to compliance with sub-clause (ii) of the definition of Standard
+ Opportunities) that are not subject to the ERP under this Agreement and that may be pursued by Emerson at its sole discretion within the Standard Opportunity Markets:
+
+•
+
+[***]
+
+•
+
+[***]
+
+•
+
+[***]
+
+•
+
+[***]
+
+In addition, Standard Opportunity Markets include the following [***] market and
+ [***] market (subject, however, to the additional qualifications set forth below):
+
+•
+
+[***] – provided, however:
+
+•
+
+For select accounts and/or pursuits in North America and Europe where AspenTech has already begun the sales process, AspenTech
+ will continue to pursue the opportunities directly. The lists of these opportunities will be provided to Emerson within 30 days of the signing of this Agreement (the “
+AspenTech [***] Opportunities
+”).
+
+•
+
+For [***] accounts in [***] and for all global [***] accounts (including all enterprise engagements), Emerson and AspenTech
+ shall collaborate and mutually agree within thirty (30) days following the Closing Date which accounts shall be designated as joint accounts. For the identified joint accounts, Emerson will receive a [***] discount or a [***]
+ commission (as applicable) instead of the [***] discount or [***] commission (as applicable) set forth in Annex 2. For all other accounts, (but excluding the AspenTech [***] Opportunities), Emerson will have the right to sell and will
+ receive the [***] discount or [***] commission (as applicable) set forth in Annex 2.
+
+•
+
+Globally and notwithstanding the foregoing, Emerson may always sell [***] sites regardless of geographic location or type of
+ account and Emerson will receive the [***] discount or [***] commission (as applicable) set forth in Annex 2; provided however, for a given customer, Emerson is excluded from selling [***] if that product is currently sold by
+ AspenTech to such customer or such customer is identified by AspenTech as a customer under pursuit for such product. 
+
+•
+
+For [***] accounts in [***] (which includes [***]), Emerson will pursue such accounts, including enterprise engagements, as a
+ Standard Opportunity Market (excluding global accounts that have been specified as joint accounts) and will receive the [***] discount or [***] commission (as applicable) set forth in Annex 2. 
+
+•
+
+For existing contracts and future contracts sold by AspenTech, AspenTech in its sole discretion and regardless of geographic
+ location or type of account may pursue renewals and incremental expansions of such contracts even if such contracts would otherwise be considered a Standard Opportunity. 
+
+•
+
+[***] – provided, however:
+
+•
+
+For [***] sites regardless of geographic location or type of account, if the customer [***], Emerson will [***]; otherwise
+ Emerson may extend to the customer such pricing [***] set forth in Exhibit B for Channel Orders.
+
+•
+
+Where a customer has committed to using Emerson’s DeltaV and/or Ovation in a [***], the account will be treated as a Standard
+ Opportunity; provided, however, if the customer [***], then the Standard Opportunity will be subject to [***] subject to the requirements set forth in Exhibit B for Channel Orders.
+
+K-11
+
+Standard Opportunity Accounts
+
+Emerson and AspenTech shall develop and maintain a list of customer accounts which
+ will be treated as Standard Opportunities regardless of market or location (unless expressly noted otherwise) (“
+Standard Opportunity Accounts
+”). Channel Orders solicited within these Standard
+ Opportunity Accounts shall be deemed as Standard Opportunities (subject to compliance with sub-clause (ii) of the definition of Standard Opportunities) that are not subject to the ERP under this Agreement and that may be pursued by Emerson at
+ its sole discretion.
+
+Standard Opportunity Geographic Territories
+
+Emerson and AspenTech shall develop and maintain a list of geographic territories
+ which will be treated as Standard Opportunities regardless of market (“
+Standard Opportunity Territories
+”). Channel Orders solicited within these Standard Opportunity Territories shall be deemed as
+ Standard Opportunities (subject to compliance with sub-clause (ii) of the definition of Standard Opportunities) that are not subject to the ERP under this Agreement and that may be pursued by Emerson at its sole discretion.
+
+Note: On a quarterly basis, the parties will review the then current Standard
+ Opportunity Markets, Standard Opportunity Accounts, and Standard Opportunity Territories. If the parties mutually agree upon any additions or other changes to any of the foregoing (including the designation of specific accounts or territories
+ that should be listed as excluded from the Standard Opportunity Markets, each an “
+Excluded Standard Opportunity Account
+” or “
+Excluded Standard Opportunity Territory
+,”
+
+ respectively), this Annex 1 – Standard Opportunity Go to Market Process shall be amended accordingly; provided, however, any Channel Orders being pursued within a deleted Standard Opportunity Market or being pursued with an Excluded Standard
+ Opportunity Account or in an Excluded Standard Opportunity Territory prior to the effective date of such amendment as evidenced by Emerson’s written records documenting that Emerson was pursuing it, shall continue to not be subject to the ERP
+ under this Agreement for [***] days after the effective date of such amendment or until such Channel Order is no longer being solicited, whichever comes first. For purposes of clarification, any changes to this Annex 1 must be mutually agreed
+ to in writing by the parties.
+
+Potential Additional Markets For Consideration By AspenTech and
+ Emerson
+
+Additional areas of exploration for collaborative sales engagement to leverage
+ AspenTech and Emerson's respective market positions may include but are not limited to:
+
+•
+
+[***]
+
+•
+
+[***]
+
+•
+
+[***] 
+
+K-12
+
+Annex 2 – Channel Order Pricing
+
+Sell-Through Order Discounts
+
+Emerson shall receive a [***] discount off AspenTech Standard List Pricing for the
+ license fees, including the fees for SMS and [***] annual escalation, to be paid by Emerson to AspenTech for all Software for each Sell-Through Order. For the avoidance of doubt, the [***] discount shall be applied to the AspenTech Standard
+ List Pricing, SMS, and the annual escalation of [***] for the duration of the license term. Payments shall be made by Emerson to AspenTech in accordance with Exhibit F. 
+
+The discount of [***] for Sell-Through Orders above shall be reduced to [***] for
+ renewals of Sell-Through Orders; provided however, to the extent the growth in the order value of the renewals exceeds the [***] annual escalation, the discount will be [***] on the excess above the escalation. For clarification purposes, the
+ AspenTech Standard List Pricing shall continue to escalate annually at [***].
+
+Commissionable Order Commissions
+
+Emerson shall receive from AspenTech a commission payment in the amount of [***] of
+ the license component of the license fees paid by the applicable customer to AspenTech in connection with each Commissionable Order. For the avoidance of doubt, the license component of the license fees does not include fees for SMS for the
+ duration of the license term; provided however, in no event shall the fees for SMS exceed AspenTech’s standard SMS pricing. Payments shall be made by AspenTech to Emerson in accordance with Exhibit F. 
+
+The commission payment of [***] for Commissionable Orders above shall [***] for
+ renewals of Commissionable Orders; provided however, to the extent the [***] annually, the commission will be increased to [***] on the excess above [***].
+
+K-13
+
+Annex 3 - AspenTech Standard List Pricing
+
+AspenTech Standard List Pricing means the pricing (including token tables) set forth
+ in Exhibit L for the identified Software. 
+
+Where Standard List Pricing for the Software is not set forth in Exhibit L, pricing
+ will be determined through the ERP. 
+
+AspenTech Standard List Pricing is subject to adjustment (including establishment for
+ additional Software products) by AspenTech from time to time upon a reasonable basis and upon written notice from AspenTech to Emerson. In the event of an update to this Annex 3 (including changes to Exhibit L), (i) Emerson may continue to
+ purchase at the effective discounted price (as set forth in Annex 2) off of the AspenTech Standard List Pricing in effect immediately prior to any such update for a period of [***] months following the effective date of the update and
+ (ii) the parties will cooperate in making corresponding updates to the pricing calculator or other tool AspenTech may provide to Emerson to calculate pricing. 
+
+K-14
+
+Annex 4 - Purchase Order Requirements
+
+All Purchase Orders issued by Emerson hereunder must contain the following
+ information as applicable to Sell-Through Orders and to Fulfillment Orders. For purposes of clarification, Purchase Orders are only required under this Agreement in connection with Sell-Through Orders and with Fulfillment Orders and shall not
+ be required in connection with internal use licenses (except as set forth in Exhibit B where taxes or shipping fees may apply), Commissionable Orders, or with individual OEM Orders.
+
+1)
+
+End customer names, address
+
+2)
+
+Billing name, address of Emerson or its Affiliate
+
+3)
+
+Ship to address
+
+4)
+
+Product detail, quantities, price to be paid by Emerson under this Agreement
+
+5)
+
+Payment terms corresponding to those required under this Agreement
+
+6)
+
+Payment amount and schedule (see example payment table below)
+
+7)
+
+Machine Locking ID (if applicable)
+
+8)
+
+Start Date
+
+Example Payment Table
+
+​
+
+Payment Amount (USD)
+
+​
+
+​
+
+Due Date
+
+​
+
+​
+
+$
+
+​
+
+​
+
+Net [***] days from Start Date
+
+​
+
+​
+
+$
+
+​
+
+​
+
+[***] months from Start Date
+
+​
+
+​
+
+$
+
+​
+
+​
+
+[***] months from Start Date
+
+​
+
+​
+
+$
+
+​
+
+​
+
+[***] months from Start Date
+
+​
+
+​
+
+$
+
+​
+
+​
+
+[***] months from Start Date
+
+​
+
+​
+
+$
+
+​
+
+​
+
+[***] months from Start Date
+
+​
+
+All Purchase Orders must be emailed to AspenTech at the email address designated by
+ AspenTech in writing to Emerson. A completed pricing calculator must be attached to the email and must match the pricing presented in the Purchase Order. The pricing calculator tool shall meet the requirements of this Agreement, be provided
+ by AspenTech to Emerson, and updated from time to time by written agreement of the parties to assist automating calculation of the pricing to be paid by Emerson under this Agreement (including the AspenTech Standard List Pricing).
+
+For each Sell-Through Order only, the applicable Purchase Order must contain the
+ following terms:
+
+1.
+
+License fees are payable in annual installments in advance and, unless agreed otherwise by the parties in writing, the license
+ fees [***] per year. Undisputed invoices for license fees are payable on or before the applicable due date specified in the Purchase Order. AspenTech will issue an invoice for the initial installment upon shipment and will invoice
+ each subsequent invoice at least [***] days before the applicable due date. AspenTech will issue invoices to the Emerson address specified in the Purchase Order or to such other address as Emerson may designate upon written notice
+ received by AspenTech. 
+
+2.
+
+All payments must be in U.S. Dollars. Emerson shall make all undisputed payments required under the Purchase Order without
+ setoff, counterclaim or other defense. 
+
+3.
+
+If Emerson fails to make an undisputed payment when due, AspenTech will send the past-due invoice to Emerson with notice of
+ late payment. Late payment charges of the lower of [***] per month and the maximum statutory rate permitted under applicable law will accrue on all invoiced amounts that conform to the Purchase Order commencing [***] days from the
+ date of such notice and will continue to accrue until the undisputed outstanding invoice is paid in full. Late charges are payable in full within [***] days of the invoice date. 
+
+K-15
+
+4.
+
+If Emerson fails to pay all outstanding and undisputed license fees within [***] days of the date of a written past-due notice
+ provided by AspenTech to Emerson, AspenTech may terminate the purchase order or may suspend performance of SMS until all outstanding license fees and late charges are paid in full.
+
+5.
+
+[RESERVED.] 
+
+6.
+
+AspenTech will deliver to Emerson at the location and on the date specified in the Purchase Order (or as otherwise designated
+ by Emerson in writing) one copy of the Software and any license keys or dongles necessary or required for such Software to function. AspenTech will deliver either electronically or via physical shipment. Electronic delivery will be
+ [***] when AspenTech makes access to the Software available to Emerson or the end user, as applicable, and the ship-to party has the ability to use the Software. Physical delivery will be [***] designated in the applicable Purchase
+ Order. All risk of loss during carriage/transportation shall be the responsibility of AspenTech. Emerson has no obligation to obtain insurance while the Software is in transit from AspenTech to Emerson. Software is deemed delivered
+ when made available for download or is shipped. AspenTech is not responsible for installation. 
+
+7.
+
+Either party may terminate the Purchase Order upon [***] days’ written notice if the other party breaches its obligations
+ under the Purchase Order and fails to cure the breach by the end of the notice period. Upon termination of a Purchase Order by AspenTech for cause, the license associated with the terminated Purchase Order shall automatically
+ terminate and all license fees outstanding or due thereunder in the future shall automatically accelerate and be immediately due and payable in full. Upon termination of a Purchase Order by Emerson for cause, the parties will meet and
+ mutually agree upon a remedy, which may include issuance of a credit memo or cash refund. Emerson further reserves any and all damages (both at law and in equity) to which it may entitled.
+
+8.
+
+[Reserved] 
+
+9.
+
+The term for each license granted under this purchase order commences on the start date indicated in the purchase order and
+ expires at the end of the specified license term. Emerson has no right of refund or return after shipment of the license key(s) unless there is a dispute about AspenTech’s performance, in which case the parties shall meet and mutually
+ agree upon a remedy, [***]. Upon expiration or termination of the license, Emerson shall promptly: (i) use commercially reasonable efforts to return or cause the end user to return to AspenTech all Software and proprietary information
+ and all copies thereof associated with this purchase order; (ii) use commercially reasonable efforts to ensure that all Software has been erased from the memory of the end user’s computer(s) and storage devices or rendered
+ non-readable; (ii) use commercially reasonable efforts to return or cause end user to return all Dongles provided by AspenTech; and (iv) certify in writing that Emerson has satisfied its obligations hereunder.
+
+The list below is a list of terms within a Purchase Order that are considered by the
+ parties to be non-standard, each of which would if included in a Purchase Order, require the transaction to be processed through the ERP as a condition of AspenTech acceptance of the Purchase Order should Emerson elect not to remove the term
+ from the subject Purchase Order following receipt of notice from AspenTech that such provision would result in the Channel Order not being deemed as a Standard Opportunity. 
+
+1)
+
+[***]
+
+2)
+
+[***]
+
+3)
+
+[***]
+
+4)
+
+[***]
+
+5)
+
+[***]
+
+6)
+
+[***]
+
+K-16
+
+Annex 5
+
+ 
+
+OEM Products and OEM Product Pricing
+
+OEM Products
+
+OEM Products consist of the [***] ([***]) and any of the Software that becomes the
+ subject of a development agreement between the parties. The parties agree to pursue development agreements for technology from at least the following products: [***]. 
+
+On a quarterly basis, the parties will review additional Software products and
+ mutually agree on whether any such Software product will be identified as an OEM Product that Emerson may distribute in OEM Transactions that are not subject to the ERP. Identification of any such product as an OEM Product shall be confirmed
+ by one or more agreed updates to this Annex 5. 
+
+OEM Transactions are not subject to the ERP. 
+
+Branding/White-Labeling
+
+Subject to mutual agreement of the parties, Emerson may distribute additional OEM
+ Products on a branding/white-labeling basis. 
+
+OEM Product Pricing
+
+Pricing for OEM Products will be defined on a product-by-product basis and will be at
+ a [***] discount from the then current AspenTech Standard List Pricing for the applicable Software, unless otherwise mutually agreed upon by the parties from time to time and as set forth in one or more updates to this Annex 5 – OEM Products
+ and OEM Product Pricing. The pricing for the [***] (excluding the [***]) is set forth below in this Annex 5 and (unless expressly agreed otherwise by the parties in writing) is not subject to any discount.
+
+Notwithstanding the foregoing and unless, the parties agree to negotiate certain
+ special pricing, pricing certain special projects, [***], in each case on a product-by-product basis, will be at a [***] discount from the then current AspenTech Standard List Pricing for the applicable Software.
+
+For purposes of clarification, pricing for OEM Products shall be established on a
+ product-by-product basis and not for each OEM Transaction such that once pricing for OEM Products is established for a particular OEM Product, the same pricing shall apply to all OEM Transactions for such OEM Product.
+
+[***]
+
+The [***] pricing is set forth below. For purposes of clarification, however, this
+ pricing shall not apply to the [***] and the parties agree that there shall be no fees due or payable by Emerson to AspenTech for the licensing of the [***].
+
+[***] Pricing (excluding [***])
+
+See Exhibit L.
+
+K-17
+
+Exhibit C - General Conditions
+
+1.
+
+Taxes
+. All amounts payable by Emerson hereunder are exclusive of all withholding, excise, sales, use, value added,
+ consumption, transfer and other taxes and duties, however designated, that may be imposed by any federal, state, municipal or other governmental authority with respect to a transaction. AspenTech shall invoice for all such taxes and
+ Emerson must pay all such taxes except for taxes on AspenTech's net income. If applicable, Emerson shall be responsible for obtaining and providing to AspenTech any certificate of exemption or similar document required to exempt
+ Emerson from sales, use or similar tax liability with respect to a transaction hereunder. Emerson shall be fully responsible for payment of all income taxes, VAT, or other taxes on amounts received by Emerson pursuant to this
+ Agreement. If Emerson is required to withhold tax on any amounts payable under this Agreement, Emerson shall be responsible for the payment of such tax and shall pay AspenTech the full amount invoiced without any deduction for such
+ withholding tax. If AspenTech is required to collect any taxes from Emerson, AspenTech shall invoice for the same, Emerson shall pay such invoiced taxes, and AspenTech will remit amounts collected to the appropriate taxing
+ jurisdiction. 
+
+2.
+
+Payment and Remedies for Late Payment
+. Unless otherwise mutually agreed upon by the parties in writing, payment terms
+ for all amounts to be paid hereunder shall be as set forth in Exhibits E - OEM Terms and F - Channel Terms.
+
+3.
+
+Record-Keeping
+. Emerson shall make and keep accurate books, records and accounts of all transactions executed by
+ Emerson in the course of its appointment pursuant to this Agreement and shall maintain complete records of the disposition of all Software and related technical data under this Agreement, showing at least username, ultimate
+ destination, product number and date of license or other disposition of all Software and related technical data. Emerson shall answer in reasonable detail any questionnaire or other communication from AspenTech, its outside auditors,
+ and/or any accredited representative of the U.S. Government reasonably requested to establish compliance with the representations and warranties undertaken by Emerson hereunder, provided such questionnaire or communication from
+ AspenTech or its auditors is made on a reasonable recurring time basis. AspenTech shall make and keep accurate books, records and accounts of all of the AspenTech Standard List Pricing for the Software and all of AspenTech’s
+ transactions made in the course of this Agreement and shall maintain complete records of the disposition of all Software and related technical data under this Agreement. AspenTech shall answer in reasonable detail any questionnaire or
+ other communication from Emerson, its outside auditors, and/or any accredited representative of the U.S. Government reasonably requested to establish compliance with the representations and warranties undertaken by AspenTech hereunder
+ (including, then current AspenTech Standard List Pricing for the Software), provided such questionnaire or communication from Emerson or its auditors is made on a reasonable recurring time basis.
+
+4.
+
+Audit Rights
+. At any time while this Agreement is in effect and for [***] after expiration or termination thereof but
+ not more than once in each consecutive [***], upon ten days’ written notice from AspenTech, Emerson shall provide AspenTech access to relevant Emerson books and records and shall provide data regarding usage of Software or allow
+ AspenTech reasonable access for the purpose of retrieving such data for the sole purpose of verifying compliance with the provisions of this Agreement. Such data may be in the form of usage logs or other discrete data, in electronic
+ or hardcopy format. AspenTech will not disclose such information to any third party, except to enforce AspenTech's rights. Upon reasonable written notice to Emerson but not more than once annually, during normal business hours, at
+ AspenTech's expense, and subject to Emerson security policies, AspenTech or its authorized representative may audit Emerson records relating to compliance with the terms of this Agreement, including payment records, computer
+ names/usernames/departments and location information found on each SLM Server, and other physical and electronic data concerning all Software usage at any or all Emerson or Emerson Affiliate locations worldwide. Any audit or
+ examination shall be performed at the expense of AspenTech and shall be subject to the reasonable security requirements and confidentiality requirements of Emerson and shall be conducted in a manner so as to minimize disruption to the
+ business operations of Emerson. At any time while this Agreement is in effect and for [***] after expiration or termination thereof but not more than once in each consecutive [***] period, upon [***] written notice from Emerson,
+ AspenTech shall provide Emerson 
+
+K-18
+
+access to relevant AspenTech books and records and shall provide data regarding
+ the AspenTech Standard List Pricing for the Software and payment of commissions to Emerson or allow Emerson reasonable access for the purpose of retrieving such data for the sole purpose of verifying compliance with the provisions of this
+ Agreement. 
+
+5.
+
+Force Majeure
+. Either party's failure to perform its obligations under this Agreement will not be deemed a breach of
+ this Agreement to the extent that such failure is due to a Force Majeure. Failure to perform will be excused by Force Majeure hereunder only during the period that the Force Majeure prevents performance. The time for performance shall
+ be suspended for the duration of such Force Majeure up to [***], upon which the party not relying on the Force Majeure event to avoid performance may elect to terminate this Agreement on [***] prior written notice to the other party.
+ Further, the party seeking to claim excuse from performance shall promptly notify the other party in writing of the Force Majeure event, the anticipated duration of the event, and the actions the party is taking to mitigate the event.
+
+6.
+
+Assignment/Change in Control
+. Except for an assignment of this Agreement (including all Purchase Orders) or any one or
+ more Purchase Orders by Emerson to an Emerson Affiliate, neither party may assign, delegate or otherwise transfer any of its rights or obligations under this Agreement without the prior written consent of the other party. Except as
+ provided with respect to the transaction and merger specified at Part I, Section 1 of the Cover Page, a change of control of either party shall constitute an assignment of this Agreement by such party; provided that (i) the sale,
+ transfer or other disposition by Emerson Electric or its subsidiaries (other than New AspenTech or its subsidiaries) of any shares or equity interests in New AspenTech or any successor to New AspenTech shall not constitute an
+ assignment of this Agreement; (ii) a change of control of Emerson Electric shall not constitute an assignment of this Agreement; and (iii) a change of control in Emerson in conjunction with a transaction described in clause (i) of
+ this proviso shall not constitute an assignment of this Agreement. 
+
+7.
+
+Injunctive Relief
+. Any breach of this Agreement that adversely affects either party's intellectual property rights
+ might give rise to irreparable injury to the non-breaching party for which money damages would not be adequate compensation. In addition to any other legal remedies that may be available, the non-breaching party will be entitled to
+ seek injunctive relief against such breach or threatened breach.
+
+8.
+
+Exclusion of Damages
+. 
+Neither party shall be liable under the agreement for
+ any special, indirect, punitive, exemplary, incidental or consequential damages, or any damages arising from the loss of use, data or profits, even if THE PARTY has been advised of the possibility of such damages. 
+EXCEPT FOR
+ A PARTY’S INDEMNIFICATION OBLIGATIONS AND DAMAGES ARISING OUT OF BREACH OF THE LICENSE RESTRICTIONS AND PROVISIONS PERTAINING TO OWNERSHIP AND PROPRIETARY RIGHTS AND DAMAGES ARISING OUT OF UNAUTHORIZED DISCLOSURE, MISUSE OR
+ MISAPPROPRIATION OF A PARTY'S INTELLECTUAL PROPERTY, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, EXPENSES, LOST PROFITS, OR ANY OTHER DAMAGES ARISING OUT OF THIS
+ AGREEMENT, EVEN IF THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9.
+
+Limitation of Liability
+. 
+Except for any amounts due and payable under the
+ agreement, in no event will either party’s aggregate liability under the agreement exceed 
+[***]. 
+
+10.
+
+Exclusions
+. Sections 8 and 9 shall not apply with respect to: (i) a breach by either party of its confidentiality
+ obligations under this Agreement; (ii) either party’s indemnification obligations under this Agreement; (iii) infringement, misappropriation or other violations of intellectual property rights; (iv) gross negligence; or (v) willful
+ misconduct.
+
+11.
+
+Independent Contractor
+. Emerson acknowledges that it is an independent contractor, and the employees of either party
+ shall not be deemed to be the employees of the other. Nothing in this Agreement shall be construed to create a commercial agency, nor shall Emerson be deemed a franchisee, broker, employee, master or servant of AspenTech. AspenTech
+ and Emerson agree that this Agreement shall not be registered in any commercial agency registry or similar official depository. 
+
+K-19
+
+12.
+
+Costs and Expenses
+. It is expressly understood and agreed that neither party is under any obligation or requirement to
+ reimburse the other party for any expenses or costs incurred by a party in the performance of its responsibilities under this Agreement. Any costs or expenses incurred by a party shall be at such party’s sole risk, and upon its
+ independent business judgment that such costs and expenses are appropriate.
+
+13.
+
+Compliance with Law
+. Each party agrees to comply with, and to cause its officers, employees, agents, contractors,
+ subcontractors and consultants to comply with, all applicable laws, regulations, rulings, and executive orders of the United States and any other government(s) with jurisdiction over the party with respect to the matters set forth in
+ this Agreement.
+
+14.
+
+FCPA
+. Each party specifically represents and warrants that it is familiar with the U.S. Foreign Corrupt Practices Act,
+ including the anti-bribery provisions thereof, and agrees to comply therewith. Neither party shall make any improper payments, loans, gifts (or promises of any such act) to any government official or employee, or any other person to
+ whom such a payment would be unlawful under the FCPA.
+
+15.
+
+Export Compliance
+. The Software may be restricted by U.S. Government export control laws from export to certain
+ countries and certain organizations and individuals. Each party agrees to comply with such restrictions. Each party shall furnish any documents reasonably required by the other party in order to file an application for U.S. export
+ licenses if any are required, and Emerson shall obtain and maintain any required import license, exchange permit or other necessary authorization from or any government(s) for distribution of the Software by Emerson within such
+ jurisdictions. Each party will execute a letter of assurance for export control purposes upon request by the other party.
+
+16.
+
+Boycotts
+. Emerson shall refuse any request to comply with, and shall provide to AspenTech information related to, a
+ foreign country's embargo or boycott of Israel. Emerson will comply with the Export Administration Regulations, 15 CFR, Part 760 (Restrictive Trade Practices or Boycotts).
+
+17.
+
+Dispute Resolution
+. Any and all disputes arising out of or in connection with this Agreement shall be escalated first
+ to the parties’ senior management. In the event such senior management is unable to resolve such dispute, such dispute shall be escalated to the parties’ respective chief executive officers. In the event the parties’ chief executive
+ officers are unable to resolve such dispute, such dispute shall be resolved through arbitration or litigation in the courts of the State of Delaware.
+
+18.
+
+Governing Law
+. Regardless of where any action may be brought, the validity and performance of this Agreement will be
+ governed by the laws of the State of Delaware, USA, without regard to its rules on conflicts of law. The parties exclude application to this Agreement of the United Nations Convention on Contracts for the International Sale of Goods.
+ 
+
+19.
+
+Construction
+. This Agreement shall be construed as a whole in order to harmonize and give effect to all provisions
+ hereof, so that none are rendered meaningless. 
+
+20.
+
+Entire Agreement.
+ This Agreement (i) constitutes the complete and exclusive statement of the terms and conditions
+ between the parties with respect to the matters set forth herein; (ii) is intended by the parties as a final expression of their agreement with respect to the terms hereof; and (iii) except as otherwise expressly provided herein,
+ supersedes all other agreements, purchase orders, negotiations, representations, tender documents, and proposals, written or oral, with respect to the matters set forth herein. With respect to the matters set forth herein, each party
+ expressly rejects any terms or conditions in any document or instrument provided by the other or any other communication from the other party that are additional to, or different from, the terms of this Agreement. For the avoidance of
+ doubt and except as set forth in Part I of this Agreement, this Agreement does not supersede or terminate in any manner: (i) the Existing Software License Agreement and (ii) the Software License Agreement between Emerson and Old
+ AspenTech dated [***]. 
+
+21.
+
+English Language
+. This Agreement is purposefully written only in the English language, which shall be the official
+ language governing any interpretation hereof. 
+
+22.
+
+Counterpart Originals
+. This Agreement may be executed in one or more counterparts, each of which shall be deemed an
+ original, but all of which together shall constitute a single instrument.
+
+K-20
+
+23.
+
+Amendment
+. Any modification of this Agreement must be in a writing manually signed by authorized representatives of the
+ parties and specifically identified as a modification hereof. 
+
+24.
+
+No Waiver
+. Failure or delay of either party to exercise any right or remedy under this Agreement shall not constitute a
+ waiver of rights or remedies hereunder.
+
+25.
+
+Severability
+. If any provision of this Agreement is held unenforceable or inoperative by any court of competent
+ jurisdiction, either in whole or in part, the remaining provisions shall be given full force and effect to the extent not inconsistent with the original terms of this Agreement.
+
+26.
+
+Notices
+. Any notice given under this Agreement must be sent in writing to the other party's designated representative
+ for formal notices specified in Exhibit I - Designated Representatives or to such other address most recently designated by such party to the other party in writing. Emerson shall promptly notify AspenTech of any change in the Emerson
+ billing address. 
+
+27.
+
+Survival
+. Notwithstanding any provision of this Agreement to the contrary, the expiration or termination of this
+ Agreement shall not relieve the parties of any obligations that, by their nature, survive such expiration or termination, including warranty, indemnity, audit rights, governing law, and obligations regarding confidential information,
+ taxes, and intellectual property.
+
+28.
+
+Confidentiality
+. Except for disclosures to their respective Affiliates and legal and financial advisors, both parties
+ shall maintain the terms and conditions of this Agreement in confidence. Further, all information of a party or its Affiliates furnished or otherwise obtained pursuant to this Agreement shall be subject to the confidentiality terms
+ included in the Stockholders Agreement among Emerson Electric Co., EMR Worldwide Inc. and New AspenTech (regardless of whether such terms are, or such agreement is, terminated or expired).
+
+29.
+
+Indemnification
+. (a) AspenTech and its Affiliates shall indemnify and hold harmless Emerson and its Affiliates from and
+ against any and all losses and damages arising from or relating to (i) claims that Software infringes, misappropriates or otherwise violates any third-party intellectual property rights, (ii) third party claims relating to Fulfillment
+ Orders except to the extent the claims arise from Emerson’s negligence, and (iii) AspenTech’s and its Affiliates’ gross negligence, willful misconduct or violation of applicable law. (b) Emerson and its Affiliates shall indemnify and
+ hold harmless AspenTech and its Affiliates from and against any and all losses and damages arising from or relating to Emerson’s and its Affiliates’ gross negligence, willful misconduct or violation of applicable law.
+
+30.
+
+Software Delivery
+. The parties shall mutually agree upon the timing and manner of delivery of the Software to Emerson
+ for purposes of the reseller relationship and internal use license granted hereunder.
+
+31.
+
+Scope of License Rights
+. Notwithstanding anything in this Agreement to the contrary, each of the following provisions
+ of this Section 31 shall apply: (i) each license granted to Emerson under this Agreement (including all use rights granted therein) shall extend to Emerson, its Affiliates, and their respective contractors and consultants providing
+ services to Emerson or its Affiliates, (ii) all distribution and sub-license rights granted to Emerson under this Agreement shall extend to Emerson and its Affiliates, (iii) Emerson shall be responsible for ensuring that its
+ Affiliates and its and its Affiliates’ permitted contractors and consultants access and use the Software only in accordance with the obligations and restrictions of this Agreement, (iv) in each instance where Emerson has obtained a
+ license to the Software under this Agreement for distribution and use by an end user or for the beneficial use by an end user , Emerson may host (in its discretion and through itself or its contractors provided Emerson or its
+ contractors have obtained AspenTech’s certification to host) and make the Software available for access and use by the end user for the remainder of the term of the license; provided, however, Emerson may only host Software which
+ AspenTech is then making available for use on an on-premise basis; and (v) in each instance where Emerson has obtained a license for an end user under a Sell-Through Order, the term of the license for the Software shall commence upon
+ the date Emerson delivers the Software to the applicable end user.
+
+32.
+
+Cyber Security; Information Security
+. 
+
+[***] 
+
+K-21
+
+Exhibit D - License Terms
+
+1.
+
+License Agreements
+. Pursuant to the terms and conditions of this Agreement (including the terms of this Exhibit D -
+ License Terms), AspenTech will grant and Emerson shall accept non-exclusive licenses to use and to sub-license and distribute the Software as follows. AspenTech specifically reserves all rights not expressly granted under this
+ Agreement.
+
+a. 
+Internal Use Licenses
+. Internal use licenses are non-sublicensable and
+ non-transferable and may be used until the expiration or termination of the then-current term of this Agreement and Wind-down Period solely on Supported Computer(s) for Emerson’s internal use as set forth herein and to make backup and
+ archival copies of the Software in accordance with the terms and conditions of this Agreement. Internal use licenses include the right for Emerson to distribute to third parties, at no additional charge, any and all models (including
+ simulation models) developed by Emerson with the Software. Internal use licenses are limited to access and use of the Software by Emerson, Emerson Affiliates, and contractors or consultants providing service to Emerson or any Emerson
+ Affiliate. Emerson is responsible for ensuring that its Affiliates, contractors and consultants access and use the Software only in accordance with the obligations and restrictions of this Agreement. Software may be used under such internal
+ use license only for purposes of: (i) testing the Software for the purpose of incorporating and/or embedding the Software with current and future Emerson products and services, (ii) demonstrating the Software to prospective licensees and such
+ demonstrating shall, for purposes of this Agreement, be considered as internal use, (iii) conducting internal training for Emerson and its Affiliate employees and delivering training to current and potential third-party licensees of AspenTech
+ software, provided that they do not access or use an Emerson or its Affiliate copy of the Software, (iv) providing professional services/consulting to licensees, (v) developing interfaces and integration, and (vi) otherwise exercising rights
+ and fulfilling obligations under this Agreement. Each such license shall be royalty free except for the license specified in clause (iv) above, which shall be subject to license fees mutually agreed to by the parties. Except as may be set
+ forth above, Emerson and its Affiliates may not use the Software licensed hereunder pursuant to an internal use license in a production environment in any way and may not access or provide Software to third parties on a hosting, service
+ bureau or time-sharing basis. To the extent tokens are necessary for Emerson to exercise the above rights, AspenTech shall provide Emerson with access to such tokens at no charge, except as described above with respect to clause (iv). Each
+ license shall extend to Emerson, its Affiliates, and contractors and consultants providing services to Emerson or its Affiliates. For the avoidance of doubt, the license described above does not include the rights to source code.
+
+b. 
+OEM Licenses
+. AspenTech hereby grants to Emerson a non-exclusive right to
+ distribute OEM Software licenses to Emerson clients in OEM Transactions in the sole discretion of Emerson, subject to the requirements set forth in this Agreement. OEM licenses include the right to sublicense and distribute any then-current
+ version of Software at any time by embedding the Software in or incorporating Software with Emerson hardware, software, services, or systems and providing the combined product or service to a client or other third party in accordance with
+ Exhibit E - OEM Terms. OEM licenses shall also extend to standalone versions of the Software which are distributed by Emerson on a standalone OEM or white-labeled basis; provided the parties have mutually agreed upon the Software that may be
+ distributed by Emerson on a standalone OEM or white-labeled basis.
+
+c. 
+Sell-Through and Fulfillment Licenses
+. AspenTech hereby grants to Emerson
+ a non-exclusive right to distribute and sublicense Software obtained by way of Sell-Through Orders and/or Fulfillment Orders to Emerson clients in accordance with Exhibit F - Channel Terms.
+
+2.
+
+Replacement License Keys or Dongles
+. AspenTech shall issue replacement license keys or dongles so Emerson may use the
+ Software on additional SLM Servers or move the Software from one SLM Server or computer to another, with no change in the license scope. Within [***] of the date a replacement license key or dongle is issued, Emerson must delete the
+ original license key or return the original dongle to AspenTech, as applicable. If Emerson loses a dongle, Emerson must give prompt email notice of the lost dongle to AspenTech Customer Care and must promptly return the dongle if and
+ when it is found. 
+
+3.
+
+SMS
+. AspenTech will provide all SMS to Emerson for all internal use licenses granted hereunder. Except as provided for
+ in this Agreement, AspenTech will not provide SMS directly to Emerson clients. 
+
+K-22
+
+To receive SMS, Emerson must designate a system administrator who is familiar
+ with the Software. For AspenTech to troubleshoot in real time Software performance problems identified by Emerson, Emerson must provide AspenTech remote access to the Emerson system via an electronic medium approved by AspenTech. AspenTech
+ has no responsibility to provide SMS to Emerson to the extent prevented by the failure of Emerson to provide such access.
+
+4.
+
+Title
+. Title to, ownership of, and all rights in patents, copyrights, trade secrets and other intellectual property
+ rights in Software do not transfer to Emerson and (except for the non-exclusive rights granted to Emerson hereunder) shall remain in AspenTech and/or AspenTech's third-party vendors and licensors.
+
+5.
+
+Benchmarking - Third Parties
+. Emerson may not engage a third party to perform benchmarking or security testing on the
+ Software unless that third party enters into a written nondisclosure agreement directly with AspenTech.
+
+6.
+
+[RESERVED]
+
+7.
+
+Confidentiality
+. Emerson shall protect Proprietary Information to the same degree Emerson protects its own proprietary
+ information, but with no less than a reasonable degree of care, and in any event shall not use it in any way other than as permitted under this Agreement, or disclose it or permit access thereto to any third party (other than
+ permitted Emerson Affiliates, contractors or consultants or as permitted under this Agreement) without AspenTech's prior written consent, manually signed by an executive officer assigned to AspenTech's headquarters, and subject to the
+ limitations stated herein. If such consent is granted, such third parties shall not be regarded as licensees of AspenTech nor as sublicensees of Emerson. 
+
+8.
+
+Models
+. Any and all models (including simulation models) created by Emerson or an Emerson Affiliate with the Software
+ shall be owned solely and exclusively by Emerson or the Emerson Affiliate and may, at the discretion of Emerson, be distributed to third parties.
+
+9.
+
+Emerson Confidential Information
+. AspenTech acknowledges and agrees that in the course of this Agreement, Emerson may
+ provide AspenTech with confidential information of Emerson or its clients (including clients who are AspenTech licensees). If AspenTech obtains any such confidential Information, AspenTech shall not provide or otherwise disclose it to
+ any third party and shall restrict any and all use of the information solely as necessary to verify compliance by Emerson with the terms of this Agreement.
+
+10.
+
+Copying
+. Emerson may make archival or back-up copies of Software as reasonably required by the Emerson network security
+ protocol, provided that all copyright and proprietary notices must be duplicated on each such copy. Emerson shall not make any other copies. Emerson shall not remove any copyright notice of AspenTech or its third-party vendors. 
+
+11.
+
+Interoperability
+. If applicable law requires that Emerson be able to modify Software to make it inter-operable with
+ other software, AspenTech will, at its option: (i) at the expense of Emerson, use commercially reasonable efforts to make the Software inter-operable with such other software, or license Emerson tools and/or information to make the
+ Software inter-operable; or (ii) grant Emerson the right to make such modifications only to the extent required by law. Any such permitted modifications will constitute Software for purposes of this Agreement.
+
+12.
+
+Prohibition Against Reverse Engineering
+. Emerson shall not, nor attempt to, reverse compile, disassemble or otherwise
+ reverse-engineer the Software. The Software may include calculation routines that mimic the operation of plants, processes and/or equipment that Emerson may use to create or augment models of plants, processes or equipment. Such
+ models created or augmented using Software may not be used in machine learning analytics or to reverse-engineer Software in any manner, including by using data processed in Software for the purpose of training any type of third-party
+ artificial intelligence program. 
+
+K-23
+
+13.
+
+Restricted Uses
+. Software may not be used to develop any platforms or programs that have features or functionality
+ similar to the features or functionality of the Software. Emerson may not make any modifications or enhancements to the Software, create any derivative works of Software, or merge or separate Software or any component thereof,
+ including by attempting to train artificial intelligence programs. 
+
+13.1 While Emerson may only use Proprietary Information as permitted under this
+ Agreement, AspenTech acknowledges and agrees that Emerson is in the business of developing products with the same or similar functionality as the Software and that Emerson's access to and use of the Software as permitted herein shall not, in
+ and of itself, prohibit Emerson or its Affiliates from developing their own software that may have the same or similar functionality as the Software, subject to the terms of Section 4.6 (Non-Compete) of the Stockholders Agreement of the
+ Transaction Agreement. 
+
+14.
+
+Security
+. Software may contain license management technology that must be activated in order for the Software to
+ function, and may include a hardware lock device, license administration software, and/or a license authorization key to control access to the Software and identify and deter any use of the Software in violation of this Agreement.
+ Emerson shall not take any action to knowingly modify or avoid or defeat the purpose of any such license management technology. Use of the Software without any required lock device or authorization key is prohibited. AspenTech
+ reserves the right to embed a software security mechanism within the Software to collect, store and transmit to AspenTech or its agent, data relating to the usage of an unauthorized or illegal copy of the Software, including, without
+ limitation, information about the device(s) and location(s) where an unauthorized or illegal copy of the Software is used, the number of times it has been copied, and specific user information of the user of an unauthorized or illegal
+ copy of the Software, such as the username or email address of such unauthorized user. Provided AspenTech complies with all applicable data collection and use laws then in effect, Emerson consents to such collection and transmission
+ of data, as well as its use if an unauthorized or illegal copy is detected.
+
+15.
+
+Third-Party Software
+. Emerson shall not (i) separate any embedded third-party software or its components from the
+ Software, (ii) use any such third-party software or its components independently of the Software; (iii) develop and link Emerson's programs with any third-party libraries or classes provided with Software; or (iv) develop or use any
+ runtime configuration tools not provided with Software for the purpose of configuring any third-party runtime components embedded in Software.
+
+16.
+
+Expiration or Termination
+. Upon expiration or termination of a license, the right of Emerson to use Software under such
+ expired or terminated license shall end and Emerson shall promptly: (i) return to AspenTech all Software and Proprietary Information and all copies thereof under such expired or terminated license, (ii) except for archival copies,
+ erase all Software under such expired or terminated license from the memory of Emerson's computer(s) and storage devices or render it non-readable, (iii) return all dongles provided by AspenTech for such expired or terminated license,
+ and (iv) certify in writing that Emerson has satisfied its obligations under this Section 16.
+
+17.
+
+Warranty of No Defects
+. AspenTech warrants that Software will be free from Defects when delivered. To the maximum
+ extent permitted by applicable law, the exclusive remedy and AspenTech's sole obligation will be to correct or circumvent any Defect reported to AspenTech that causes and continues to cause a system-critical disruption of Emerson
+ business operations; provided, however, that: (i) Emerson must report any Defects to AspenTech promptly after discovery and furnish AspenTech with supporting documentation and details adequate to substantiate the report and assist
+ AspenTech in the identification and detection of such Defect; and (ii) AspenTech is able to reproduce the Defect on properly functioning equipment controlled by AspenTech. This warranty is contingent upon: (x) use of Software in
+ accordance with this Agreement; and (y) no interference from applications, derivative works, or configurations provided by third parties and not specifically recommended by AspenTech.
+
+18.
+
+Disclaimer
+. ASPENTECH DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED
+ WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. ASPENTECH DOES NOT WARRANT THAT THE OPERATION OF SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+K-24
+
+TABLE OF CONTENTS
+
+19.
+
+THIRD PARTIES
+. SOFTWARE MAY CONTAIN FUNCTIONALITY SUPPLIED BY THIRD PARTIES. INCLUDING DEVELOPERS, VENDORS, SUPPLIERS,
+ CONTRACTORS, OR CONSULTANTS. WHILE ASPENTECH SHALL REMAIN RESPONSIBLE FOR ALL OF THE SOFTWARE, INCLUDING ALL FUNCTIONALITY SUPPLIED BY THIRD PARTIES, IN NO EVENT WILL SUCH THIRD PARTIES BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL,
+ PUNITIVE, EXEMPLARY, INCIDENTAL OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES ARISING FROM THIS AGREEMENT. SUCH THIRD PARTIES ARE BENEFICIARIES OF SOFTWARE LICENSES GRANTED TO 
+Emerson
+ UNDER
+ THIS AGREEMENT.
+
+20.
+
+Warranty of No Infringement
+. AspenTech represents and warrants to Emerson that the Software and its use as provided for
+ herein does not, to the knowledge of AspenTech, infringe the intellectual property rights of any third party.
+
+21.
+
+Infringement Indemnity
+. AspenTech will defend Emerson, the Emerson Affiliates, and each of their respective successors
+ and assigns, officers, directors, employees, representatives, agents, contractors, customers, and consultants (“Emerson Indemnitees”) against any claims of infringement by any of the Software in the form received from AspenTech of any
+ third party's intellectual property rights and AspenTech will indemnify and hold harmless the Emerson lndemnitees from and against all damages, losses, assessments, penalties, fines, liabilities, costs and expenses awarded against any
+ of the Emerson lndemnitees In any such claim, provided that: (i) Emerson promptly (and in no event more than ten days after receiving written notice of such alleged infringement) notifies AspenTech's General Counsel in writing;
+ (ii) Emerson gives AspenTech the right to control the defense of such claims; and (iii) Emerson fully cooperates with AspenTech (at the cost and expense of AspenTech) in any defense or settlement of such claims. AspenTech has no
+ infringement indemnification obligation except as stated in this Section 21, and this obligation does not apply to infringement arising from: (x) integration or combination of Software together with other software, materials or
+ products not integrated or combined by AspenTech or not specifically recommended by AspenTech in the Software specifications, if the infringement would have been avoided in the absence of such integration or combination; (y) use of
+ the Software for other than its intended purpose; or (z) use of other than the current, unaltered Release if the infringement would have been avoided by the use of such Release and provided AspenTech has made available such Release
+ and Emerson has had a reasonable period of time to implement such Release.
+
+22.
+
+Remedy
+. In addition to AspenTech’s indemnification obligations under Section 21, the sole and exclusive remedy of
+ Emerson if a court of competent jurisdiction determines that Software has infringed a third party's U.S. intellectual property rights as specified in Section 21 will be that AspenTech will, in its sole discretion and at its sole cost
+ and expense: (i) replace the infringing Software product with a non-infringing, functionally-compatible product; (ii) modify the product so that it becomes non-infringing, but functionally-compatible; or (iii) obtain a license for
+ Emerson to use the allegedly infringing product.
+
+23.
+
+Verification
+. During normal business hours at any time while this Agreement is in effect, AspenTech may, upon
+ reasonable written notice to Emerson and not more than once in each consecutive twelve-month period, examine computer names/usernames/departments and location information found on each SLM Server to confirm and verify that usage of
+ Software by Emerson is in compliance with this Agreement. Such examination shall be performed at AspenTech's expense and conducted in a manner not to impact the business operations of Emerson and subject to Emerson rules and policies
+ for on-site visitation.
+
+K-25
+
+Exhibit E - OEM Terms
+
+1.
+
+Emerson may, in its sole discretion, embed Software in or include Software with Emerson hardware, software, and systems and
+ distribute and sublicense the combined product to Emerson clients for such amounts, duration, and upon such license terms, as Emerson may elect, provided that such terms must be at least as restrictive as the restrictions and
+ obligations specified at Exhibit K - Form of End User License Terms For Sell-Through Orders and Fulfillment Orders - License Terms with respect to use of Software. 
+
+2.
+
+Emerson shall provide AspenTech access upon request to all documentation between Emerson and its clients establishing the
+ restrictions and obligations with respect to use of Software.
+
+3.
+
+Emerson will be responsible for providing First-Level Support SMS and Second-Level Support SMS to its clients.
+
+4.
+
+Emerson and AspenTech will mutually agree on training required to ensure successful deployment and support of OEM Products by
+ Emerson. Training details will be specified in the respective development agreements. 
+
+5.
+
+AspenTech will provide Emerson Third-Level Support SMS. 
+
+6.
+
+Emerson and/or its Affiliates shall, on a quarterly basis and with respect to OEM Transactions, provide AspenTech one or more
+ reports in Microsoft
+®
+ Excel format identifying the number of Software licenses granted and required SMS from AspenTech; version and configuration; product mix; name of end users; shipment address; and date of shipment (each
+ an “OEM Distribution Report”). The OEM Distribution Reports for each quarter shall be sent to AspenTech within four weeks of the end of the quarter. Each OEM Distribution Report will be accompanied by one or more Purchase Orders
+ issued by Emerson and/or its Affiliates for the Software distributed under each OEM Transaction for the subject OEM Distribution Report. Purchase Orders issued by Emerson and/or its Affiliates shall be provided on a quarterly basis
+ within a commercially reasonable time after the quarter ends. The Purchase Orders will be non-cancelable, only for OEM Products that have been shipped prior to Purchase Order issuance, and contain product details as required by this
+ Agreement. 
+
+7.
+
+AspenTech shall invoice Emerson and its Affiliates on a quarterly basis using the OEM Distribution Reports and applicable
+ Purchase Orders. Such quarterly invoices shall be issued by AspenTech promptly following receipt by AspenTech of such quarterly OEM Distribution Reports. Each such invoice shall be payable as agreed in an applicable development
+ agreement. [***] Emerson will, in its sole discretion, establish the fees payable by the client to Emerson under any OEM Order. For [***] and such other OEM Products as mutually agreed, Purchase Orders will be issued at the time of
+ order and each invoice shall be payable within [***] of the date of the invoice. 
+
+K-26
+
+Exhibit F - Channel Terms
+
+1.
+
+AspenTech hereby appoints Emerson on a non-exclusive basis to promote and solicit Channel Orders on a commission or
+ sell-through basis for the Software and related services on a worldwide basis. This appointment does not limit in any way the right of AspenTech to directly or indirectly market or provide Software or services except as set forth in
+ Exhibit G - Exception Review Process. 
+
+2.
+
+Emerson must register any sales opportunity for the Software that it desires to pursue and which is not a Standard
+ Opportunity, a Fulfillment Order, or an OEM Transaction or otherwise expressly exempted from ERP under this Agreement. Standard Opportunities are excluded from the ERP; provided, however, Emerson shall provide such information as
+ reasonably required by AspenTech on a monthly basis to forecast orders on a non-binding basis. 
+
+3.
+
+[RESERVED.]
+
+4.
+
+While this Agreement is in effect, Emerson shall receive commissions and/or discounts as specified in Exhibit B - Products,
+ Commissions, Discounts and Fees for Channel Orders that are solicited by Emerson. 
+
+5.
+
+For Commissionable Orders, within [***] of AspenTech's receipt of a commissionable payment from a client for a Commissionable
+ Order, AspenTech will pay Emerson commission at the applicable rate specified in Exhibit B - Products, Commissions, Discounts and Fees. 
+
+6.
+
+For Sell-Through Orders which have been fulfilled by AspenTech pursuant to a Purchase Order issued by Emerson, AspenTech shall
+ invoice Emerson upon fulfillment of each Sell-Through Order based on the applicable pricing and discount specified in Exhibit B - Products, Commissions, Discounts and Fees. Each such invoice shall be payable in full within [***] of
+ the invoice date. [***] Emerson will, in its sole discretion, establish the fees payable by the client to Emerson under any Sell-Through Order. 
+
+7.
+
+No later than [***] after the Closing Date, the parties shall in good faith work with one another to communicate a written
+ description of the ERP as identified in Exhibit G - Exception Review Process to their respective sales channels. Within [***] after the Closing Date, a mutually agreed number of Emerson sales and technical support employees shall
+ complete basic AspenTech sales and technical training and become reasonably proficient in promoting Software. The parties shall further mutually agree upon the amount and type of training AspenTech shall provide to Emerson sales
+ channel and/or service engineers.
+
+8.
+
+With respect to any client engaged by Emerson under this Agreement, should Emerson know that such client is actively and
+ willfully engaged in the material infringement of the patents, copyrights, trade secrets, trademarks or other proprietary rights of AspenTech in the Software, Emerson shall notify AspenTech of the same.
+
+9.
+
+Emerson shall not enter into any Sell-Through Order if assignment of the Sell-Through Order by Emerson to AspenTech is not
+ permitted under the terms of the Sell-Through Order or any applicable law.
+
+10.
+
+Emerson recognizes AspenTech's ownership of and title to its registered and common law trademarks and trade names, and the
+ goodwill attaching thereto, and agrees that any goodwill which accrues because of use by Emerson of the trademarks or trade names of AspenTech in connection with use of the Software by Emerson, or because of any other activity
+ involving the promotion of the Software by Emerson, shall vest in and become the property of AspenTech. Emerson agrees not to contest or take any action to contest AspenTech's registered and common law trademarks or trade names which
+ are not confusingly similar to any registered and common law trademarks or trade names of Emerson, or to use, employ or attempt to register any trademark or any trademark which is confusingly or deceptively similar to AspenTech
+ trademarks or trade names.
+
+11.
+
+Under this Agreement, Emerson may use AspenTech's name and trade designations only in connection with the promotion of
+ Software and Emerson shall have no other right to use the trademarks and trade names of AspenTech (or of any third parties used in connection with the Software).
+
+K-27
+
+12.
+
+With respect to this Agreement, Emerson shall provide to AspenTech, for prior review and written approval in AspenTech's sole
+ discretion, all promotional or other materials produced by Emerson that use or display AspenTech's trademarks or trade names.
+
+13.
+
+AspenTech will, at no charge to Emerson, provide Emerson access to marketing materials made available by AspenTech to its
+ channel partners and grant [***] Emerson representatives as designated by Emerson access to the online AspenTech internal sales resource center with download privileges, including access to sales presentations, white papers, videos
+ and brochures and to distribute or otherwise make the same available internally within Emerson and its Affiliates and (with respect to customer facing materials) to the customers and potential customers of Emerson and its Affiliates
+ to facilitate the activities of Emerson under this Agreement. 
+
+14.
+
+Subject at all times to the Wind-down Period, the following consequences will result immediately upon termination or
+ expiration of this Agreement.
+
+i.
+
+All manner of appointment and license grant by AspenTech to Emerson shall terminate; provided however, for any Channel Order
+ actively being pursued by Emerson as of the date of termination or expiration of this Agreement, the parties must mutually agree whether Emerson may continue to pursue such Channel Order. 
+
+ii.
+
+AspenTech may cease shipping Software under this Agreement, and any outstanding payment obligations of Emerson and/or
+ AspenTech under this Agreement will become immediately due and payable in full.
+
+iii.
+
+Emerson shall: (i) cease to hold itself out as a representative with respect to Software; (ii) cease all activity related to
+ this Agreement; (iii) advise each client and prospect in writing that Emerson is no longer an authorized representative or distributor with respect to Software, and take no action that could adversely affect AspenTech's reputation or
+ goodwill with such parties; and (iv) cease using and deliver to AspenTech or destroy, at the sole expense of Emerson, all Software, Proprietary Information of AspenTech, and any other materials that display any trademark or trade
+ names of AspenTech, that were received under this Agreement and all copies thereof in the possession of Emerson except for archival copies. An officer or director of Emerson shall promptly certify in writing to AspenTech that Emerson
+ has complied with this provision.
+
+iv.
+
+Subject to Section 14(i), at AspenTech's request and unless expressly prohibited by applicable law or the terms of a
+ Sell-Through Order, Emerson shall immediately upon termination of this Agreement: (i) assign to AspenTech any Sell-Through Orders in effect between Emerson and any client, including all rights to receive future payments due under any
+ such Sell-Through Order (whereupon AspenTech shall assume all obligations under and full liability for each assigned Sell-Through Order); and (ii) notify any affected client of such assignment. Upon request by AspenTech, Emerson shall
+ remit to AspenTech all prorated fees paid by the client to Emerson in advance for any portion of the license term of the Sell-Through Order following the date of termination. 
+
+K-28
+
+Exhibit G - Exception Review Process
+
+This Exception Review Process set forth in this Exhibit G (“
+ERP
+”) shall govern the registration and reporting process for Channel Order opportunities pursued by Emerson under this Agreement that are not Standard Opportunities and will define the sales engagement scenarios and
+ eligibility for license commissions to be paid, or discounts offered, for Channel Orders. This ERP is intended to minimize channel conflicts between the AspenTech and Emerson sales teams and provide a simple and efficient process for deal
+ validation and sales ownership. The order of precedence in case of conflict between the other provisions of this Agreement and the ERP will be the other provisions of this Agreement and then the ERP. For purposes of clarification, the ERP
+ shall not apply to Standard Opportunities, OEM Transactions, distribution by Emerson of the [***] (including the [***] Bundles) or to Fulfillment Orders.
+
+1.
+
+For Channel Orders that are not Standard Opportunities or Fulfillment Orders, Emerson shall register the opportunity at the
+ AspenTech Deal Registration portal located at https://esupport.aspentech.com/s_login and provide AspenTech such information as reasonably required by AspenTech to track pipeline and confirm payment and for forecasting and booking
+ purposes.
+
+2.
+
+If the registered opportunity is accepted by AspenTech (each a “Registered Exception Opportunity” or “REO”), the following
+ process will, unless otherwise mutually agreed by the parties in writing, be followed by AspenTech Partner Operations.
+
+•
+
+Validate that the information in the REO is complete.
+
+•
+
+Categorize the REO as a Standard Opportunity. 
+
+•
+
+AspenTech’s ERP Governance team will review and take the request into AspenTech’s A&A (Authorization and Approval) process
+ and shall schedule a meeting between the AspenTech ERP Governance team and the Emerson team to establish a detailed path forward and define escalation paths.
+
+•
+
+For each REO, (i) AspenTech shall document and, no later than [***] following the end of the quarter in which the REO is
+ issued, provide Emerson with a written summary of the anticipated benefits to AspenTech for Emerson to pursue the subject Channel Order, (ii) maintain such documentation in accordance with AspenTech’s record retention policies, and
+ (iii) a license agreement will be required between AspenTech and Emerson for each transaction with any resulting negotiated difference from a Standard Opportunity.
+
+2.1
+
+Each REO will remain an REO until the earliest of the following events. 
+
+•
+
+The client declines to enter into a license agreement with AspenTech or Emerson. Emerson withdraws the REO.
+
+•
+
+The REO has been registered for [***], unless (a) the registration is extended in writing by the parties or (b) a Software
+ license proposal has been submitted to the client and is still pending, in which case the REO will renew for successive additional [***] periods pending response from the client on such proposal. 
+
+2.2.
+
+[***] 
+
+3.
+
+If the registered opportunity is rejected by AspenTech, AspenTech will notify Emerson in writing of the rejection and the
+ basis for the rejection, and Emerson will not pursue the opportunity unless it may be pursued as a Standard Opportunity.
+
+K-29
+
+Exhibit H - Joint Development
+
+1.
+
+The parties will explore opportunities to work together to develop mutually beneficial new or enhanced solutions or interfaces
+ between their products. The output of a successful exploration will be a separate written joint development agreement having terms and conditions mutually agreed upon by the parties.
+
+2.
+
+To the extent a new product is developed under any such joint development agreement, and if the parties mutually agree that
+ such new product will be owned by AspenTech, such product will automatically be subject to the terms of this Agreement.
+
+3.
+
+AspenTech shall own all intellectual property rights in new applications/solutions developed by or on behalf of AspenTech
+ using the Software. For the avoidance of doubt, Emerson shall own all intellectual property rights in new applications/solutions developed by or on behalf of Emerson (i) for use with the Software or (ii) using development or
+ configuration tools or features of the Software (it being understood that AspenTech shall retain ownership of all intellectual property rights in the Software and any derivatives thereof).
+
+4.
+
+The parties have identified the following additional activities, among others, as potential candidates for consideration, and
+ may agree to pursue other activities under this Agreement.
+
+i.
+
+[***]
+
+ii.
+
+[***]
+
+iii.
+
+[***]
+
+iv.
+
+[***]
+
+v.
+
+[***]
+
+5.
+
+The parties agree that the provisions of this Exhibit H - Joint Development are non-binding and may be cancelled by either
+ party at any time.
+
+K-30
+
+Exhibit I - Designated Representatives
+
+The parties each hereby designate the below-listed individual(s) as their Designated
+ Representative(s) responsible to direct performance of the party's efforts under the Agreement. Either party may (from time to time and upon written notice to other party) designate replacement representatives.
+
+FOR FORMAL NOTICES:
+
+AspenTech:
+
+Office of the General Counsel
+
+Aspen Technology, Inc. 
+
+20 Crosby Drive
+
+Bedford, Massachusetts 01730
+
+USA
+
+Phone: +1-781-221-6400 
+
+FAX: +1-781-221-6410
+
+legalnotices@aspentech.com
+
+Emerson:
+
+Associate General Counsel
+
+Fisher-Rosemount Systems, Inc.,
+
+An Emerson Automation Solutions company
+
+1100 W. Louis Henna Blvd. #E 4007
+
+Round Rock, Texas, 78681
+
+USA
+
+Phone: +1-512-834-7062
+
+and
+
+Dustin Beebe
+
+Fisher-Rosemount Systems, Inc.,
+
+An Emerson Automation Solutions company
+
+1100 W. Louis Henna Blvd.
+
+Round Rock, Texas, 78681-7430
+
+USA
+
+Phone: +1-225-291-9591
+
+dustin.beebe@emerson.com
+
+and
+
+General Counsel
+
+Emerson Electric Co.
+
+8000 West Florissant Avenue
+
+St. Louis, MO 63136-8506
+
+FOR OPERATIONAL ISSUES UNDER THE AGREEMENT:
+
+AspenTech:
+
+Debra Dailey 
+
+Principal Sales Operations Analyst 
+
+Aspen Technology, Inc. 
+
+20 Crosby Drive
+
+Bedford, Massachusetts 01730
+
+USA
+
+Phone: +1-781-221-4240
+
+debra.dailey@aspentech.com
+
+K-31
+
+Emerson
+:
+
+Todd Anstine
+
+Fisher-Rosemount Systems, Inc.,
+
+An Emerson Automation Solutions company
+
+8070 W. Florissant Ave., Bldg. M
+
+St. Louis, Missouri 63136
+
+USA
+
+Phone: +1-314-553-7260
+
+todd.anstine@emerson.com
+
+FOR SALES SUPPORT/ QUESTIONS
+:
+
+AspenTech
+:
+
+Ely Feese
+
+Senior Alliance Manager
+
+Aspen Technology, Inc.
+
+2500 CityWest Blvd Suite 1500 
+
+Houston, Texas 77042
+
+USA 
+
+Phone: +1-281-584-1059
+
+ely.feese@aspentech.com 
+
+Emerson
+:
+
+Todd Anstine
+
+Fisher-Rosemount Systems, Inc.,
+
+An Emerson Automation Solutions company
+
+8070 W. Florissant Ave., Bldg. M
+
+St. Louis, Missouri 63136
+
+USA
+
+Phone: 1-314-553-7260
+
+todd.anstine@emerson.com
+
+FOR TECHNICAL SUPPORT QUESTIONS:
+
+AspenTech: 
+
+David Reumuth 
+
+Senior Director, Customer Support & Training 
+
+Aspen Technology, Inc.
+
+2500 CityWest Blvd Suite 1500 
+
+Houston, Texas 77042
+
+USA
+
+Phone: +1 281-584-1933
+
+david.reumuth@aspentech.com 
+
+Emerson:
+
+Todd Anstine
+
+Fisher-Rosemount Systems, Inc.,
+
+An Emerson Automation Solutions company
+
+8070 W. Florissant Ave., Bldg. M
+
+St. Louis, Missouri 63136
+
+USA
+
+Phone: +1-314-553-7260
+
+todd.anstine@emerson.com
+
+K-32
+
+Exhibit J - Meetings and Governance
+
+1.
+
+The parties shall work together to establish the details of the governance and execution model under this Agreement, including
+ Executive Business Reviews, peer mapping and cadence of key stakeholder engagements. The model will include, but not be limited to, the following elements.
+
+i.
+
+[***] Sales Lead Market Reviews will be conducted within [***] while this Agreement is in effect, commencing with the quarter
+ beginning on the first full calendar month after the Closing Date. The parties will mutually agree on any adjustments to Exhibit B - Products, Commissions, Discounts and Fees that may be appropriate based on then-current market
+ conditions. 
+
+ii.
+
+[***] Executive Business Reviews (Joint Steering Committee) will be established to review the status of execution plan
+ rollout, reporting on key performance indicators (the ERP, revenue, wins, etc.), priorities, focus and conflict resolution.
+
+iii.
+
+Relationship Development Meetings will be conducted with key stakeholders, including representatives from sales, marketing,
+ services, and product management, to address project execution, sales pipeline, enablement activities, issues and opportunities. 
+
+iv.
+
+[***] review will be conducted as specified in Section 4 of Part 1 of the Cover Page.
+
+2.
+
+Each party shall appoint an executive responsible for the expansion of the embedding, use and resale of the Software by
+ Emerson. Further, each party will make reasonably appropriate investments to support end users as required in the initial sales pursuit and lifecycle support.
+
+3.
+
+Emerson agrees to (i) include all jointly agreed upon embedded and select additional Software in the Emerson “price book,”
+ (ii) ensure proper incentives for Emerson sales of the Software, (iii) provide Software and allow AspenTech access to [***], and (iv) commit to a comprehensive technical and sales enablement plan.
+
+K-33
+
+Exhibit K - Form of End User License Terms For Sell-Through Orders and Fulfillment
+ Orders
+
+  
+
+[***] 
+
+K-34
+
+Exhibit L – Standard List Pricing Books
+
+ 
+
+[***]
+
+K-35

@@ -1,0 +1,2882 @@
+EX-10.14
+
+3
+
+d764337dex1014.htm
+
+EX-10.14
+
+EX-10.14
+
+Exhibit 10.14 
+
+ 
+
+Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i)
+not material and (ii) would be competitively harmful if publicly disclosed. 
+ 
+RAP License (08/2017) 
+
+ 
+ 
+
+ 
+Software License Agreement 
+
+(Supersedes Two Prior Software License Agreements) 
+
+LDiscovery, LLC 
+
+THIS SOFTWARE LICENSE IS 
+NOT
+ A SALE. 
+
+THIS AGREEMENT INCLUDES RESTRICTIONS 
+
+AND TERMINATION PROVISIONS. 
+ 
+Relativity
+ODA LLC 
+ 
+231 South LaSalle St. 
+ 
+8
+th
+ Floor 
+ 
+Chicago, IL 60604 
+
+(312) 
+263-1177
+ 
+
+www.relativity.com 
+
+SOFTWARE LICENSE AGREEMENT 
+
+THIS SOFTWARE LICENSE AGREEMENT (“
+Agreement
+”) is made and entered into as of the 1
+st
+ day of January, 2018 (“
+Effective Date
+”), by and between 
+Relativity ODA LLC
+ (“
+Relativity
+”), a Delaware limited liability company, with its principal place of
+business for notices set forth in Section 12, and 
+LDiscovery, LLC 
+(“
+Client
+”),
+ 
+a Delaware limited liability company,
+ 
+with its principal place of business for notices set forth in Section 12. 
+
+BACKGROUND 
+ 
+A. Relativity
+and Client are parties to that certain Software License Agreement dated April 16, 2015, as amended from time to time (“
+Prior License Agreement”);
+ 
+
+B. Client recently acquired all or substantially all the assets of Kroll Ontrack, LLC (“
+Kroll
+”), including Kroll’s rights
+and interests in that certain Software License Agreement between Relativity and Kroll dated October 1, 2013, as amended from time to time (the “
+Kroll
+ Agreement”),
+ which is scheduled to expire on November 30, 2018;
+and 
+ 
+C. Relativity and Client mutually desire to: (i) enter into this Agreement on the terms contained herein; (ii) concurrently
+supersede and terminate the Prior License Agreement; (iii) provide for the transfer of the Software under the Kroll Agreement to this Agreement; and (iv) terminate the Kroll Agreement. 
+
+In consideration of the foregoing background statements and the mutual provisions herein, the parties agree as follows: 
+
+1. Termination of Prior License Agreement; Transfer of Software under Kroll Agreement; Termination of Kroll Agreement; Software License;
+Defined Terms.
+ 
+ 
+a. On the Effective Date of this Agreement, except as provided to the contrary herein: (i) this
+Agreement will supersede and replace the Prior License Agreement referred to above, and the Prior License Agreement shall be deemed to have expired; (ii) all payments and obligations under the Prior License Agreement accruing or arising prior
+to the Effective Date hereof shall be made and performed in accordance with the Prior License Agreement; (iii) each obligation under the Prior License Agreement which expressly or by reasonable implication is intended to survive termination or
+expiration shall so survive.
+ 
+Relativity will provide Client with a prorated credit against the amounts due under this Agreement for all prepaid amounts under the Prior License Agreement, as further
+ 
+set forth in
+ 
+Exhibit
+A
+ 
+hereto.
+ 
+ 
+b. On the Effective Date of this Agreement, the Kroll Agreement shall be deemed to have expired and
+the Software licensed under the Kroll Agreement will be transferred to Client. Notwithstanding the foregoing: (i) the Analytics Volume Based Subscription granted to Kroll in the Twenty Ninth Amendment to the Kroll Agreement shall be terminated
+as of the Effective Date hereof; (ii) the Legal Hold license granted to Client in 
+New Exhibit A
+ attached to the Ninth Amendment to the Kroll Agreement shall be terminated as of the Effective Date hereof; (iii) all payments and other
+obligations under the Kroll Agreement accruing or arising prior to the Effective Date hereof shall be made and performed in accordance with the Kroll Agreement; (iv) all other obligations under the Kroll Agreement which expressly or by
+reasonable implication are intended to survive termination or expiration shall so survive; and (v) any failure to make timely payment or performance of any such obligations under the Kroll Agreement shall be a violation of this Agreement.
+Relativity will provide Client with a prorated credit against the amounts due under this Agreement for all prepaid amounts under the Kroll Agreement, as further
+ 
+set forth in
+ 
+Exhibit A
+ 
+hereto.
+ 
+
+ 
+ 
+1 
+
+c.
+ 
+Relativity grants Client, and Client accepts, a
+
+non-exclusive,
+ 
+non-transferable,
+ non-sublicensable, license (“License”) to use the Software products identified on 
+Exhibit A
+ commencing on the Effective
+Date of this Agreement and during the Term in Exhibit A or until any earlier termination as provided in this Agreement, all on and subject to all terms of this Agreement. Capitalized terms not otherwise defined in this Agreement shall have the
+meanings set forth in 
+Exhibit B
+. 
+ 
+2. Payments.
+ In consideration of the License, Client shall pay Relativity the amounts under
+
+Exhibit A
+ and as described further in 
+Exhibit B
+. All dollar amounts under this Agreement shall be paid in US dollars without adjustment for changes in exchange rates, except as may be expressly provided in 
+Exhibit A
+. Relativity
+may apply payments to any Client obligations that are already due or past due, and may reallocate payments previously applied to earlier invoices so those payments apply to current invoices for other amounts that are already due or past due without
+regard to obligations or invoices Client designates. 
+ 
+3. Services and Updates. 
+This Agreement includes, without additional charge,
+customer support services as provided in 
+Exhibit C
+, and Relativity may provide other services that Client requests from time to time (collectively, “
+Services
+”). This Agreement also includes, without additional charges,
+Critical Patch Releases, Minor Updates, Minor Releases and Major Releases, but does not include 
+Add-Ons,
+ as further described in 
+Exhibit C
+.
+ 
+ 
+
+4. Money Back Warranty of Performance and Services
+ 
+
+a. 
+Performance and Services
+. Subject to the other provisions of this Agreement: (i) Relativity warrants to Client that the
+Software will perform substantially in conformance with Relativity’s written functionality description (“
+Specifications
+”) contained in Relativity’s user Documentation for the Software for three years
+(“
+Warranty
+ Period”)
+ following the Effective Date, and (ii) in addition, Relativity will provide the Services substantially in conformance with the provisions of this Agreement. 
+
+b. 
+Warranty and Continuing Support Services
+. If at any time during the Warranty Period, Client notifies Relativity and demonstrates
+that the Software does not perform substantially in conformance with the Specifications in violation of this warranty, Relativity shall use commercially reasonable efforts to materially cure such
+
+non-conformance,
+ as promptly as commercially practicable and at Relativity’s expense (including parts and labor), whether by repairing or replacing the Software or any of its parts and components, subject
+to the provisions below. Both during the Warranty Period and thereafter while this Agreement is in effect, Client may notify Relativity of service problems and Relativity will use commercially reasonable efforts to provide Services substantially in
+accordance with the Exhibits. 
+ 
+c. 
+Limitations
+. Client is not authorized to, and shall not, make any warranty, guarantee or
+representation on behalf of Relativity or its vendors respecting the Software or Services to Client’s end users. The warranties and Services herein: (i) are limited to the Software alone; (ii) do not apply in case of any problems
+arising from any combination or operation of the Software with other software, components, or equipment not provided by Relativity; and (iii) shall be void if 
+non-conformance
+ or problems result from
+accident, abuse, misapplication, modifications to the Software not made or authorized in writing by Relativity, or any use other than the specific purpose for which the Software is designed. Relativity does not warrant that the Software, its
+functions, or results of using the Software, will be suitable for Client’s intended use, or that the operation of the Software will be uninterrupted or Error-free, or that the Software will be secure from unauthorized access or hacking. The
+express warranties made herein are in lieu of, and to the exclusion of, all other warranties, conditions or representations of any kind, express or implied, statutory or otherwise, relating to the Software
+
+ 
+ 
+2 
+
+or Services. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, RELATIVITY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS OF THE SOFTWARE
+FOR A PARTICULAR PURPOSE, 
+NON-INFRINGEMENT
+ (INFRINGEMENT BEING COVERED BY THE EXPRESS PROVISIONS OF SECTION 9), AND ANY IMPLIED WARRANTIES OR OTHER OBLIGATIONS ARISING FROM COURSE OF PERFORMANCE, COURSE OF
+DEALING OR USAGE OF TRADE, AND ALL SUCH WARRANTIES, CONDITIONS AND REPRESENTATIONS ARE EXCLUDED FROM THIS AGREEMENT AND WAIVED TO THE FULLEST EXTENT NOT PROHIBITED BY LAW. 
+
+d. 
+Termination and Refund
+. If Relativity fails to cure a breach of the warranty provided in this Section, or fails to provide the
+Services as required under this Agreement, or determines that the cure or Services are impractical or unreasonable to provide in Relativity’s opinion (whether technically or economically), Client may terminate this Agreement in whole (or in
+part with respect to any Software product or Service which is the subject of the failure and for which there are separate fees under this Agreement). In such case, Relativity will promptly refund any fees paid by Client for the Software (or Software
+product or Service which is being terminated), in a prorated amount reflecting: (i) any portion of such fees reasonably allocable to any period of the Term when Client was not able to use, and did not use, the Software (or Software product or
+Service which is the subject of the failure and for which there are separate fees under this Agreement) due to the breach of the warranty under this Section; and (ii) any portion of such fees that Client
+
+pre-paid
+ for any period of the Term following such early termination. This Section 4 contains the only liability and obligations of Relativity, and the only remedies of Client, for Relativity’s
+breach of the warranties in this Section 4 and/or failure to provide Services in accordance with this Agreement. 
+ 
+5.
+Confidentiality
+ 
+ 
+a. 
+Confidential Information
+. In connection with this Agreement, each party may receive materials or
+learn information which is confidential and/or proprietary to the other party. Such materials or information shall be deemed “
+Confidential
+ Information”
+ for purposes of this Agreement if such materials or information are:
+(i) marked or identified as “Confidential”; or (ii) of a nature, whether oral or written, that a reasonable business person or information technology worker would know or suspect it to be confidential or proprietary, or would
+know or suspect that there may be a detrimental effect on the other party’s competitive position if generally known and/or known by other customers or a competitor. Confidential Information hereunder includes information relating to a
+party’s business practices, products, product development, research, business operations (e.g. business direction, technology initiatives or marketing plans, customer information, source and object code, financial information and pricing rates
+and methods), whether or not such information is identified as “Confidential” at the time of disclosure. In addition, Relativity’s Confidential Information includes the Software, all Documentation pertaining to the Software, and terms
+of this Agreement. 
+ 
+b. 
+Obligations
+. Each party receiving or learning Confidential Information of the other party shall maintain all
+such Confidential Information in strict confidence. Each party shall: (i) not use any of the Confidential Information of the other party, except to the extent required for the performance of this Agreement; and (ii) not disclose
+Confidential Information of the other party to any person or party during the Term of this Agreement and thereafter, except as expressly permitted herein. Each party further agrees to protect the Confidential Information of the other party with the
+same degree of care as it uses to protect its own Confidential Information of like importance, but in no event less than reasonable care. The receiving party may only disclose Confidential Information to its employees, contractors, attorneys and
+financial advisors (“
+Representatives
+”) having a 
+“need-to-know”
+ to carry out the obligations under this
+
+ 
+ 
+3 
+
+Agreement. Each party will: (1) notify and inform its Representatives of such party’s obligations regarding Confidential Information; (2) obtain agreements from its Representatives
+requiring them to comply with such obligations; and (3) be responsible for any breach of the confidentiality obligations in this Section by such party’s Representatives. In no event will the receiving party use Confidential Information of
+the other party, directly or indirectly, in the conduct, or for the advancement, of the receiving party’s own business or in any way that is detrimental to the other party. Each party will notify the other party immediately after learning of,
+or having reason to suspect, a breach of any confidentiality obligations in this Section. 
+ 
+c. 
+Exceptions
+. Confidential Information
+shall not include information and materials that are posted on the public areas of the parties’ 
+web-sites
+ or that the receiving party can demonstrate: (i) were generally available to or known by the
+public at the time of disclosure or subsequent to disclosure (other than through unauthorized disclosure by the receiving party or its Representatives); or (ii) were received on a 
+non-confidential
+ basis
+from a third party who, to the receiving party’s knowledge, is not under an obligation to maintain the confidentiality thereof, 
+provided,
+ this exemption shall not apply unless the receiving party obtains a written representation and
+warranty from the third party stating that such information and materials are not subject to an obligation to maintain confidentiality; or (iii) were known by the receiving party on the Effective Date, 
+provided,
+ this exemption shall not
+apply unless the receiving party has obtained such information and materials pursuant to 
+sub-clauses
+ (i) or (ii) or otherwise obtained written confirmation from the disclosing party that such information
+and materials qualify for exemption from Confidential Information in connection with entering into this Agreement. The confidentiality obligations of this Section shall not prohibit disclosure of Confidential Information: (1) as required by
+applicable disclosure Laws (but the receiving party shall, at the disclosing party’s expense, seek confidential treatment of such Confidential Information to the maximum extent permitted by Laws); or (2) in connection with a court order or
+legal process requiring disclosure, in which case the party under order or process must, to the extent allowed by Laws, provide prompt notice of such order or process to the other party and reasonably cooperate, at the other party’s expense, in
+any attempt to quash or limit such order or process. 
+ 
+6. Proprietary Rights. 
+RELATIVITY AND ITS THIRD PARTY VENDORS OWN AND SHALL
+CONTINUE TO OWN THE ENTIRE TITLE AND INTEREST IN AND TO ALL INTELLECTUAL PROPERTY AND OTHER PROPRIETARY RIGHTS RELATED TO THE SOFTWARE, AND ALL MODIFICATIONS, ENHANCEMENTS, UPDATES, AND DERIVATIVE WORKS, and any suggestions, ideas, enhancement
+request, feedback, recommendations or other information provided by Client or any other party relating to the Software. Client shall not directly or indirectly infringe any Intellectual Property Rights or misappropriate any IP of Relativity or its
+third party vendors. Nothing in this Agreement, or the negotiation or performance thereof, shall be construed as transferring to Client or any other party any IP or other proprietary rights of Relativity or its third party vendors. This Agreement is
+not intended to, and does not, convey any license, by implication, estoppel or otherwise, under any patent, copyright or other Intellectual Property not expressly granted hereunder. All rights not expressly granted to Client under this Agreement are
+reserved by Relativity.
+ 
+CLIENT SHALL RETAIN, PRESERVE, AND NOT 
+COVER-UP
+ OR OBSCURE, ANY TRADEMARK, TRADE NAME, COPYRIGHT NOTICE OR OTHER PROPRIETARY NOTICE ON ANY TRAINING MANUALS OR OTHER
+DOCUMENTATION PROVIDED BY RELATIVITY AND ON ANY COPY OR PORTION OF THE SOFTWARE, INCLUDING, BUT NOT LIMITED TO, SOFTWARE MERGED INTO ANOTHER PROGRAM
+ (PROVIDED, NO SUCH MERGER IS PERMITTED UNLESS EXPRESSLY ALLOWED UNDER THIS AGREEMENT). THE
+LICENSE IS LIMITED TO THE INSTALLATION AND EXECUTION OF OBJECT CODE COPIES OF THE SOFTWARE. THIS LICENSE DOES NOT INCLUDE SOURCE CODE. 
+
+ 
+ 
+4 
+
+7. Restrictions On Software Use, Transfers, and Other Matters. 
+Except as expressly
+permitted in this Agreement, Client: (i) shall only provide access to the Software to end users on a hosted basis from Client’s own servers; and (ii) shall not, directly or indirectly (through any other party), during the Term or
+thereafter, engage or permit any other person or party to engage in any of the following actions: 
+ 
+a. Sell, license, sublicense, rent,
+lease, timeshare, assign, mortgage, pledge, encumber, or otherwise transfer the Software, the License, this Agreement, or any right or interest in any of the foregoing items, by operation of Law or otherwise, to any other person or party, except for
+approved Transfers pursuant to Section 15.c. 
+ 
+b. Use or access the Software or make copies, except as expressly permitted in this
+Agreement; frame, mirror or copy any of Relativity’s 
+web-sites
+ or any portions thereof or content thereon; publish or distribute any computer image or other content that suggests an inaccurate association
+with Relativity or its products or an unauthorized endorsement by Relativity of any product or service. 
+ 
+c. Take any technological actions
+to circumvent standard security practices for using the Software and/or to avoid paying the full amounts under this Agreement, including: (i) circumventing or automating the standard practice of having Designated Application Support
+Administrators enable each Named User manually; (ii) circumventing the features contained in the Software for tracking and reporting data usage or the number of individual Named Users; or (iii) multiplexing or sharing individuals’
+access to and/or use of the Software through middleware, transaction servers, multi-tiered architectures, or other methods. 
+ 
+d. Reverse
+engineer, decompile, disassemble, modify, or translate the Software, or attempt to: (i) discover the source code of, or create Derivative Works from, the Software; (ii) build a competitive product or component using similar features,
+functions or graphics, unless Client builds or enhances such product or component (1) without violating the foregoing restrictions and the other 
+sub-clauses
+ and sections of this Agreement (including
+restrictions on accessing, copying and reverse engineering the Relativity software code), and (2) without infringing any Intellectual Property Rights or misappropriating any IP of Relativity or its third party vendors; or
+(iii) substantially copy any particular features, functions or graphics. 
+“Derivative Works”
+ means every translation, portation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or
+other form in which an existing work may be recast, transformed or adapted. “Derivative Works” also includes any software, technology, methods or processes that a person skilled in the arts would consider to be derived from the Software or
+from any Relativity technology, methods or processes protected by copyright, patent and/or trade secret laws. If Client or anyone else makes any modification to the Software, whether authorized or unauthorized, such modification shall be considered
+Derivative Works and owned by Relativity. 
+ 
+e. Host the Software, administer the Software, or provide any services or functions respecting
+or using any aspect of the Software, on behalf of any other party (“
+Other
+ Vendor”)
+ under any white label or private label 
+re-hosting
+ arrangement. Accordingly, Client shall at all times:
+(i) prominently display Client’s name and logo on all landing pages and 
+log-in
+ screens for the Software; (ii) not use any Other Vendor’s name in any URL used, directly or indirectly, to
+access the landing pages or 
+log-in
+ screens for the Software; and (iii) not permit any Other Vendor’s website to provide a link to any instances of the Software. Relativity has no obligation under
+this Agreement to accept or respond to service calls or other communications from any Other Vendor or its customers. Client must not provide any of Relativity’s materials or other property to any Other Vendor, and Client must immediately
+terminate Client’s arrangement with any Other Vendor at Relativity’s written request if, without express 
+
+ 
+ 
+5 
+
+authorization in a written agreement between the Other Vendor and Relativity: (1) the Other Vendor’s 
+web-site
+ provides, directly or indirectly,
+any link to any instances of the Software; or (2) the Other Vendor uses Relativity’s materials, or name or logo, the Software name or logo, or other names, logos or means of identifying Relativity or any products of Relativity or otherwise
+violates Relativity’s IP rights. 
+ 
+8. 
+Non-Solicitation.
+ 
+Each party agrees not to
+solicit, directly or indirectly, any of the other party’s Workers to become a Worker for the soliciting party, without the other party’s written consent, during the Term and for the next twelve (12) months after the Term.
+
+“Worker”
+ herein means a person who is at the time of the solicitation, or was during the preceding twelve (12) months: (a) employed by, or engaged as an independent contractor in providing services to, the subject party at
+least twenty (20) hours per week on average; or (b) employed by, or engaged as an independent contractor in providing services to, a third party and assigned to work on behalf of the subject party at least twenty (20) hours per week
+on average. This Section shall: (i) prevent a party from indirectly soliciting the other party’s Workers by requesting that a recruiting firm or other third party contact such Workers; and (ii) not apply when a party’s Worker
+initiates contact with the other party or a recruiting firm and/or responds to a job posting of the other party or a recruiting firm. 
+
+9. IP Infringement Claims
+ 
+
+a. 
+Indemnity
+. Subject to the other provisions of this Agreement, if any third party makes a claim against Client that
+Client’s use of Relativity’s Software during the Term in accordance with this Agreement infringes on any U.S. Patent or other Intellectual Property Rights of such third party which are valid and legally enforceable in the United States
+(“
+Claim
+”), Relativity shall, at Relativity’s sole expense: (i) defend or settle the Claim; and (ii) indemnify and hold Client harmless from and against any losses, damages, and expenses (including reasonable
+attorneys’ fees) that are directly attributable to such Claim; 
+provided that:
+ (1) Client delivers written notice of the Claim to Relativity promptly and in no event later than fourteen (14) days after Client first knows of the
+Claim (including knowledge based on any informal or preliminary allegations); (2) Relativity is given the sole authority to defend or settle the Claim; (3) Client does not compromise or settle the Claim or any aspect or portion thereof, or make
+any admission or substantive response relating to the Claim, without Relativity’s prior written agreement; (4) Client takes commercially reasonable steps to mitigate any damage or loss; and (5) Client cooperates fully with all
+reasonable requests of Relativity in connection with defending and settling any such Claim. 
+ 
+b. 
+Limitations
+. Relativity’s
+obligations under this Section do not apply to any Claim based on any: (i) use of the Software not in accordance with this Agreement; (ii) modification of the Software by any party other than Relativity; (iii) continued use of the
+Software after the Term; (iv) prior Release of the Software, to the extent the Claim could have been avoided by using the most current Release; or (v) combination or operation of Relativity’s Software with other software, components,
+data, or equipment not created by Relativity, to the extent the Claim could have been avoided in the absence of such combination or operation. 
+
+c. 
+Mitigation; Termination and Refund
+. Notwithstanding the foregoing, to mitigate exposure in connection with any Claim, or if
+Relativity believes a Claim may be made, Relativity may, at Relativity’s option and sole expense: (i) obtain for Client a license to continue using Relativity’s Software in its existing form for the remainder of the Term free from the
+Claim; (ii) modify Relativity’s Software for Client in an effort to avoid or minimize the Claim, without materially affecting the functionality of Relativity’s Software; (iii) obtain for Client a license to use other software
+which is marketed to compete with Relativity’s Software (which may be a product made or marketed by the third party making the Claim); or (iv) terminate this Agreement and 
+
+ 
+ 
+6 
+
+refund fees paid by Client for the Software in a prorated amount reflecting: (1) any portion of such fees applicable to any period of the Term when Client was not able to use, and did not
+use, the Software due to the Claim; and (2) any portion of such fees that were 
+pre-paid
+ for any period of the Term following such early termination. This Section contains the only liability and
+obligations of Relativity, and the only remedies of Client, for any Claims as described herein. THE EXPRESS PROVISIONS OF THIS SECTION ARE IN LIEU OF, AND TO THE EXCLUSION OF, ALL OTHER INDEMNITY AND CONTRIBUTION OBLIGATIONS OF ANY KIND, EXPRESS OR
+IMPLIED, STATUTORY OR OTHERWISE, RELATING TO THE CLAIMS, AND ALL SUCH INDEMNITY AND CONTRIBUTION OBLIGATIONS ARE EXCLUDED FROM THIS AGREEMENT AND WAIVED TO THE FULLEST EXTENT NOT PROHIBITED BY LAW. 
+
+10. Termination and Remedies.
+ This Agreement shall automatically expire and terminate at the end of the Term. The parties further agree
+as follows: 
+ 
+a. 
+Violation of Confidentiality
+. If either party violates the provisions of this Agreement respecting the other
+party’s Confidential Information, the other party may terminate this Agreement immediately upon notice to the violating party. 
+ 
+b.
+
+Violation of IP or Certain Other Provisions
+. Relativity may terminate this Agreement immediately upon notice to Client if Client violates Section 6 respecting IP or other rights, the restrictions set forth in Section 7, or the
+restrictions set forth in section 15.c. 
+ 
+c. 
+Failure to Pay
+. Payments under this Agreement are due thirty (30) days after
+billed. If a payment is not made within thirty (30) days after the payment is due (i.
+e.,
+ sixty (60) days after billed), Relativity may terminate this Agreement by written notice, unless Client pays the full amount claimed within
+fifteen (15) days after Relativity delivers such notice. 
+ 
+d. 
+Other Violations
+. If either party violates any provision of this
+Agreement other than as provided above, the 
+non-defaulting
+ party may terminate this Agreement effective fifteen (15) days after providing notice of the default to the defaulting party, unless such party
+remedies such default within such time period. 
+ 
+e. 
+Other Remedies
+. Termination of this Agreement shall not be in limitation of any
+other remedies, subject to Section 13 and the other express provisions of this Agreement. If Client fails to pay any amount when due under this Agreement, Relativity may charge interest of one percent (1%) per month (or any lower rate required
+by Laws) on the unpaid amount and suspend any Services or the License, decline to provide Updates or 
+Add-Ons,
+ and/or decline to permit Client to add Additional Named Users until payment is made, without
+limiting other rights and remedies. Termination, arbitration, and remedies at law will be inadequate in the following cases, and therefore the parties agree that: (i) each party shall be entitled to seek and obtain immediate injunctive relief
+if the other party violates or appears likely to violate the provisions of this Agreement respecting Confidential Information or the provisions in Section 8, and (ii) Relativity shall be entitled to seek and obtain immediate injunctive
+relief if Client violates or appears likely to violate this Agreement respecting IP or other rights, or the restrictions set forth in Section 7. 
+
+11. Other Termination Rights; Actions Upon Termination. 
+Upon termination of this Agreement for any reason: (a) all Licenses shall
+thereupon terminate; (b) Client will immediately discontinue access to, and use of, the Software; (c) Client shall certify to Relativity in writing within fourteen (14) days the permanent destruction of all Software and all Relativity
+Confidential Information; and (d) Relativity may require that Client apply a “kill code” to each instance of the Software and send Relativity a screen shot evidencing the application of the kill code. No refund of any payment will be
+made to Client upon early termination, except as expressly provided in this Agreement. 
+ 
+
+ 
+ 
+7 
+
+12. Notices
+ 
+
+a. Every notice purporting to terminate, exercise any legal right under, or assert any legal claim under, this Agreement shall only be
+effective if: (i) such notice is in writing and reasonably refers to this Agreement; and (ii) such notice is delivered in person by a worker or representative of the sending party or local courier service, or sent by a leading overnight
+delivery service or email as a pdf attachment, to the other party at the address below (or such other address or contact person as either party may designate by notice as required herein). 
+
+ 
+
+ 
+
+Client:
+
+  
+
+LDiscovery, LLC
+
+ 
+
+  
+
+Attn: Chris Weiler
+
+ 
+
+  
+
+8201 Greensboro Drive, Suite 300
+
+ 
+
+  
+
+McLean, VA 22102-3810
+
+ 
+
+  
+
+Email: Chris.Weiler@krolldiscovery.com
+
+ 
+
+Relativity:
+
+  
+
+Relativity ODA LLC
+
+ 
+
+  
+
+Attn: General Counsel
+
+ 
+
+  
+
+231 South LaSalle St., 8
+th 
+Floor
+
+ 
+
+  
+
+Chicago, Illinois 60604
+
+ 
+
+  
+
+Email: legal@relativity.com
+
+ 
+b. Each notice shall be deemed delivered: (i) immediately upon delivery in person by a worker or
+representative of the sending party or by local courier service; (ii) on the next business day in the recipient’s area if sent by a leading overnight delivery service; or (iii) if made by email, at the time receipt thereof has been
+acknowledged by electronic confirmation or otherwise. Written notices which reasonably refer to this Agreement, but are not given pursuant to the other requirements, shall be effective when received by the proper party at the required address.
+Written notices which are not given pursuant to the requirements in this Section shall be effective if and when specifically acknowledged by the other party in writing. 
+
+13. Laws and Dispute Resolution.
+ 
+
+a. 
+Laws
+. Each party shall comply with all federal, state, and local laws, statutes, ordinances, rules, regulations, codes, and
+other governmental requirements, and applicable court and administrative decisions, orders and decrees (“
+Laws
+”)
+ 
+applicable to such party’s business operations and activities under or in connection with this Agreement.
+This Agreement shall be governed by, and interpreted in accordance with, the Laws of the State of Illinois, without regard to any choice of law or conflicts of laws provisions. To the extent that this Agreement permits Client to locate and use any
+of the Software outside the United States, such permission is subject to Client procuring any applicable governmental approvals and licenses and complying with any other governmental requirements and procedures, including but not limited to
+governmental restrictions on data encryption and the export of technical data. Without limiting the generality of the foregoing provisions, Client shall comply with all export, 
+re-export,
+ and import laws of
+the United States and any other applicable countries, obtain all applicable export, 
+re-export,
+ and import licenses, and pay all tariffs, import duties, export fees, and any other levies, imposts, charges,
+taxes, and assessments of any kind and nature. Client shall not permit access to the Software or transfer, export or 
+re-export
+ of the Software, or the underlying information or technology, by or to any person
+or party who is a national or resident of, or located in, any country on the United States Department of Treasury’s List of Specially Designated Nationals or the U.S. Department of Commerce’s Table of Denial Orders, or any other country
+which is subject to restrictions imposed by governmental authority. 
+
+ 
+ 
+8 
+
+b. 
+Arbitration
+. Any claim of damages of any kind by one party against the other
+party arising out of or relating to this Agreement, and any dispute or controversy arising out of or relating to such claim or the breach, interpretation or validity of this Agreement or any provision thereof in relation to such claim, shall be
+determined by binding arbitration in Chicago, Illinois, before one arbitrator. The arbitration shall be administered by JAMS, The Resolution Experts, pursuant to its Streamlined Arbitration Rules and Procedures in effect at the time;
+
+provided,
+ the arbitrator shall grant reasonable extensions of time if requested. The Award shall be reasoned and in writing.
+ 
+Judgment on the Award may be entered and enforced in any court having jurisdiction. The parties shall bear
+their own costs, fees and expenses in arbitrating any dispute, and shall share equally the fees and costs of JAMS and the arbitrator. This clause shall not preclude the parties from seeking provisional remedies in aid of arbitration. No demand for
+arbitration may be made more than one (1) year after the event giving rise to the claim occurred or when sooner barred by the applicable statute of limitations or repose. In no event shall any arbitrator have any authority to modify this
+Agreement, award any types of damages which the parties have waived, released, or agreed not to assert, under this Agreement, or award any amount which exceeds any limitations contained in this Agreement. The arbitration procedure herein is fully
+binding, final, and 
+non-appealable,
+ and constitutes the parties’ only recourse for any claim of damages. 
+
+c. 
+Related Provisions
+. Notwithstanding anything to the contrary contained in this Agreement, arbitration shall not be required in order
+for either party to exercise any specific remedies contained in this Agreement based on a violation by the other party, and either party may pursue court remedies for claims which do not seek to recover damages from the other party, without
+submitting such claims to arbitration, and without notice except as required by court procedures. By way of examples, and without limiting the generality of the foregoing statement, either party may: (i) exercise any express right to terminate
+this Agreement without being required to arbitrate any dispute or controversy arising out of or relating to such termination; and (ii) pursue actions in court seeking to obtain and enforce declaratory, injunctive or other equitable relief, and
+judgments for unpaid fees under this Agreement, or the refund of fees under this Agreement. All claims that are not subject to the above arbitration provisions (including claims that an arbitrator has exceeded his or her authority and claims
+involving the determination of the scope or applicability of the foregoing arbitration provisions), shall be litigated exclusively in a federal or state court sitting in Cook County, Illinois; the parties hereby agree that such courts are convenient
+forums and submit to the jurisdiction and venue of such courts. The prevailing party in any such litigation shall be entitled to recover its reasonable legal fees and costs from the other party. IN THE INTEREST OF SAVING TIME AND RESOURCES, THE
+PARTIES HEREBY MUTUALLY WAIVE ALL RIGHTS TO TRIAL BY JURY IN ANY COURT ACTION, PROCEEDING OR COUNTERCLAIM BROUGHT BY EITHER PARTY AGAINST THE OTHER ARISING OUT OF OR RELATING TO THIS AGREEMENT. Although such jury waiver is intended to be
+self-operative and irrevocable, the parties each further agree, if requested, to confirm such waivers in writing at the time of commencement of any such action, proceeding or counterclaim. This Section shall survive termination of this Agreement.
+
+ 
+14. Limitation of Liability. 
+As a material inducement for Relativity to enter into this Agreement, Client agrees, to the fullest
+extent not prohibited by applicable Laws, as follows: 
+ 
+a. Client agrees: (i) that Relativity is not an insurance company;
+(ii) that business interruption insurance, IP infringement insurance, and other coverages are available; (iii) that Relativity’s fees for the Software would be substantially higher if Relativity were to agree to undertake additional
+obligations and liabilities than Relativity has expressly undertaken in this 
+
+ 
+ 
+9 
+
+Agreement; and (iv) that Client will look solely to its insurance or self-insurance programs to the extent that any losses, costs, judgments or expenses are not covered by Relativity’s
+express obligations and liabilities contained in this Agreement; and Client waives all rights of subrogation of its insurers against Relativity and its affiliates, vendors, and their respective personnel. 
+
+b. IN NO EVENT WILL RELATIVITY OR CLIENT, RELATIVITY’S SUPPLIERS OR LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL,
+SPECIAL, PUNITIVE, EXEMPLARY OR OTHER DAMAGES OR LOSSES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, DATA, GOODWILL OR OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OR
+INABILITY TO USE THE SOFTWARE, PROBLEMS WITH THE SOFTWARE, UNAUTHORIZED ACCESS OR HACKING INTO THE SOFTWARE, OR ANY BREACH OF RELATIVITY OR CLIENT’S WARRANTIES OR OBLIGATIONS, EVEN IF SUCH DAMAGES OR LOSSES WERE FORESEEABLE OR RELATIVITY OR
+CLIENT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR LOSSES, AND CLIENT AND RELATIVITY WAIVES, RELEASES AND AGREES NOT TO ASSERT ALL SUCH CLAIMS. 
+
+c. IN ANY EVENT, EACH PARTY’S RESPECTIVE AGGREGATE TOTAL MONETARY LIABILITY UNDER ALL CAUSES OF ACTION AND ALL THEORIES OF LIABILITY
+(INCLUDING BUT NOT LIMITED TO STATUTORY, TORT, STRICT LIABILITY, WARRANTY, INDEMNITY, CONTRIBUTION, AND CONTRACT THEORIES) WILL BE LIMITED TO AN AMOUNT EQUAL TO THE ANNUAL FEES PAID AND PAYABLE BY CLIENT TO RELATIVITY UNDER THIS AGREEMENT FOR THE
+FIRST YEAR OF THE TERM (OR SUCH HIGHER AMOUNT AS MAY BE IN EFFECT FOR ANY SUBSEQUENT YEAR OF THE TERM, PROVIDED THAT THE TOTAL CAP FOR ALL SUCH CLAIMS IN THE AGGREGATE DURING THE TERM SHALL NOT EXCEED ONE YEAR OF FEES AT THE HIGHEST ANNUALIZED
+AMOUNT IN EFFECT UNDER THIS AGREEMENT); PROVIDED, THE FOREGOING LIMITATION WILL NOT APPLY TO: (i) EITHER PARTY’S VIOLATIONS OF SECTION 5; (ii) CLIENT’S OBLIGATIONS UNDER SECTIONS 6 OR 7; (iii) RELATIVITY’S OBLIGATIONS UNDER
+SECTION 9; OR (iv) FRAUD OR WILLFUL MISCONDUCT. IN ADDITION, CLIENT’S OBLIGATIONS TO PAY FEES UNDER THIS AGREEMENT ARE NOT SUBJECT TO THIS PROVISION AND WILL NOT BE COUNTED TOWARDS THE CAPPED LIABILITY OF CLIENT UNDER THIS PROVISION. 
+
+15. General Provisions
+ 
+
+a. 
+Publicity; Trademarks
+. Neither party shall use the name, logo or trademark of the other party (or of its third party vendors)
+in any press release, advertising or other publicly disseminated document or materials without the written consent of the other party. Each party may list on its 
+web-site,
+ in a professional and reasonable
+manner, the other party’s name, logo and trademark while this Agreement is in effect; 
+provided
+,
+ the listing party shall: (i) comply with all of the other party’s guidelines and requirements for such matters; and
+(ii) remove the other party’s name, logo and trademark immediately upon such party’s request. 
+ 
+b. 
+Permitted Government
+Use
+. If Client’s customers for the Software include any agency or department of the United States Federal Government (“
+Government
+”), the parties agree that this paragraph will apply to the Software and Documentation, and
+Client agrees to include provisions corresponding to this paragraph in its agreements with the Government. All Software and Documentation that are provided to the Government are provided with restricted rights as contained in this Agreement. All
+use, duplication and/or disclosure by the Government of such Software and Documentation is subject to FAR 
+52.227-19,
+ “Commercial Computer Software—Restricted Rights”, or DFAR 
+227.7202-3,
+ “Rights in Commercial Computer Software 
+
+ 
+ 
+10 
+
+or Commercial Computer Software Documentation”, as applicable. Notwithstanding anything to the contrary in FAR 
+52.227-19,
+ DFAR 
+227.7202-3
+ or any other such provision, the Government MAY NOT in any fashion modify, combine with other software products, reproduce and/or distribute, other than as specifically permitted by this License, any
+Software or Documentation. The Software and Documentation are “commercial items” as that term is defined in 48 C.F.R. 2.101 (October 1995) consisting of “commercial computer software” and “commercial computer software
+documentation” as such terms are used in 48 C.F.R. 12.212 (September 1995). Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 
+227.7202-1,
+ 
+227.7202-3
+ and 
+227.7202-4
+ (June 1995), Client or its customer or end user is the Government, the Software and Documentation are licensed hereunder (i) only as a commercial item, and (ii) with only those rights as are
+granted pursuant to the terms and conditions of this Agreement. 
+ 
+c. 
+Successors and Assigns
+. As provided in Sections 1 and 7, the
+License is not transferable, is not 
+sub-licensable,
+ and is subject to other restrictions. Without limitation as to such provisions, Client shall not, without the prior written consent of Relativity (which
+Relativity will not unreasonably withhold, condition or delay), directly or indirectly: (i) assign, mortgage, pledge, encumber, or otherwise transfer, this Agreement, the License, or any interest hereunder, by operation of Law or otherwise; or
+(ii) grant any 
+sub-license
+ under the License (all of the foregoing are herein referred to collectively as “Transfers” and any party to whom any Transfer is made or sought to be made is herein
+referred to as a “Transferee”). A “Transfer” shall also include: (1) dissolution of Client; (2) merger or consolidation of Client with another party; (3) withdrawal or change of a majority of the partners or
+members, or a transfer of a majority of partnership or membership interests, of Client or any parent company in a twelve month period; or (4) the sale or other transfer of more than an aggregate of 50% of the voting shares or net assets of
+Client or any parent company in a twelve month period. Subject to the provisions in this Agreement, this Agreement shall be binding on and inure to the benefit of the parties’ successors and assigns. 
+
+d. 
+Authority; Actions of Representatives
+. Client and all persons signing for Client below, and Relativity and all persons signing for
+Relativity below, hereby represent that this Agreement has been fully authorized and no further approvals are required. Each party shall be liable for breach of this Agreement by such party’s Representatives (as defined in Section 5). 
+
+e. 
+Severability
+. If this Agreement or any phrase or portion of this Agreement is held void, unenforceable, or prohibited by Law, then
+this Agreement and any such phrase or portion shall be reasonably reformed (by modifying, adding, or deleting text) to the minimum extent required to carry out the parties’ mutual intent that this Agreement and all phrases and provisions shall
+be valid and enforceable to the fullest extent permitted by Law. 
+ 
+f. 
+Third Party Beneficiaries
+. EXCEPT AS EXPRESSLY PROVIDED IN
+THIS AGREEMENT, THE PARTIES HEREBY EXPRESSLY DISCLAIM ANY INTENTION TO CREATE ANY THIRD PARTY BENEFICIARIES OF THIS AGREEMENT. 
+ 
+g. 
+No
+Partnership; Relationship of Parties
+. The parties are only acting as independent contractors under and in connection with this Agreement. Neither this Agreement nor the actions of any party, nor any statements regarding
+“
+partners
+” or a “
+partnership
+” on Relativity’s 
+web-site,
+ in its marketing materials or other Documentation, or made in any communications between the parties shall be
+interpreted as creating an actual or implied partnership, joint venture, agency or other relationship. 
+
+ 
+ 
+11 
+
+h. 
+Force Majeure
+. If the performance of any part of this Agreement by a party
+(except Client’s payment obligations) is prevented, hindered, delayed or otherwise made impracticable by conduct of the other party or by terrorism, riot, judicial or governmental action, labor disputes, act of God or any other causes beyond
+the reasonable control of the affected party, the affected party shall be excused from such performance, but only to the extent that, and only so long as, it is actually prevented, hindered or delayed by such causes. 
+
+i. 
+No Waiver or Estoppel
+. No waiver by, or estoppel of, either party respecting any right or provision in this Agreement, 
+including
+this no waiver or estoppel paragraph, 
+shall be effective unless expressly set forth in writing and signed by an authorized representative of such party. Without limiting the generality of the foregoing: (i) no act, failure to act, payment,
+acceptance of payment, or course of dealing, including any failure or delay in billing Client for taxes or any other amounts that Client is required to pay, shall create a waiver or estoppel, regardless of how long it continues; and (ii) no
+failure to exercise, nor any delay in exercising, on the part of either party, any right or remedy hereunder shall operate as a waiver of, or estoppel to assert, such right or remedy, nor shall any single or partial exercise of any right or remedy
+prevent any further or other exercise thereof or the exercise of any other right or remedy. Any waiver or estoppel respecting any right or provision on any occasion or occasions shall not be a waiver or estoppel respecting such right or provision on
+any future occasion. 
+ 
+j. 
+Survival and Acceleration
+. Termination of this Agreement shall not relieve either party from liability for
+any violation occurring prior to such termination, subject to the other provisions of this Agreement. ANY PAYMENT OBLIGATION THAT WOULD OTHERWISE ACCRUE AFTER TERMINATION OF THIS AGREEMENT BY RELATIVITY BASED ON A CLIENT DEFAULT SHALL BECOME DUE AND
+PAYABLE UPON SUCH TERMINATION. Any provisions of this Agreement that expressly provide, or by reasonable implication are intended, for survival after termination shall remain in effect in accordance with their terms. 
+
+k. 
+Interpretation; Language Choice
+. Unless the context of this Agreement clearly requires otherwise: (i) the word
+“party” shall include individuals, corporations, partnerships, limited liability companies, and other entities; (ii) the singular shall include the plural, and the plural shall include the singular; (iii) the words
+“includes” and “including” shall mean “including without limitation;” (iv) the word “or” shall mean “and/or;” and (v) words such as “hereof,” “herein,” “hereunder,”
+and similar words refer to this Agreement as a whole and not any particular section in which such words appear. In interpreting any vagueness or ambiguity, captions shall not be used and no presumption shall apply against the party preparing this
+Agreement. Under no circumstances will the “Uniform Computer Information Transactions Act,” the American Law Institute’s “Principles of the Law of Software Contracts,” as model laws or as adopted in any jurisdiction, or the
+United Nations Convention on Contracts for the International Sale of Goods, or similar acts, laws and conventions have any bearing on the interpretation or enforcement of this Agreement and the parties hereby elect to opt out of all such acts, laws
+and conventions. The parties hereby confirm that they have requested that this Agreement and all related documents be drafted in English. Les parties ont exigé que le présent contrat et tous les documents connexes soient
+rédigés en anglais. 
+ 
+l. 
+Whole Binding Agreement; Amendments; Counterparts; Electronic Delivery
+. THIS AGREEMENT:
+(i) SHALL BE BINDING, AND MAY BE AMENDED, ONLY IF AND WHEN A FORMAL AMENDMENT IS SIGNED AND DELIVERED BY BOTH PARTIES IN THE MANNER PERMITTED HEREIN, AND (ii) MAY NOT BE AMENDED ORALLY OR BY COURSE OF CONDUCT OR DEALING. If Client issues
+any purchase order, receipt or other documentation, such items shall be deemed to be solely for the administrative convenience of Client and shall not be binding or serve to modify or supplement this Agreement, even if signed or processed by
+Relativity. This Agreement and the Exhibits constitute the entire agreement between the parties and supersede all other written and oral representations, proposals, 
+
+ 
+ 
+12 
+
+communications and agreements, if any, relative to the subject matter hereof. Any facts or matters thought
+by either party to be material to the performance of or inducement into this Agreement are contained herein. The parties may sign and deliver this Agreement or any amendment as complete documents or in separate counterparts (which shall constitute
+one agreement), and either party may deliver the same as a pdf by email. Either party delivering by email shall also deliver an ink-signed original promptly upon request; provided, any failure to deliver an ink-signed original shall not affect the
+validity of this Agreement or give rise to any remedy except specific performance of such delivery requirement. 
+ 
+IN WITNESS WHEREOF, the
+parties have caused this Agreement to be executed by their respective duly authorized officers or representatives, as of the Effective Date. 
+ 
+ 
+
+Relativity ODA LLC
+
+ 
+
+  
+
+LDiscovery, LLC
+
+By:
+
+ 
+
+ 
+/s/ Keith Lieberman
+
+ 
+
+  
+
+By:
+
+  
+
+ 
+/s/ Daniel Zambito
+
+Name:
+
+ 
+
+Keith Lieberman
+
+ 
+
+  
+
+Name:
+
+  
+
+Daniel Zambito
+
+Title:
+
+ 
+
+Chief Accounting Officer
+
+ 
+
+  
+
+Title:
+
+  
+
+SVP, Legal Technologies
+
+ 
+ 
+13 
+
+EXHIBIT A 
+
+SUMMARY OF INITIAL BUSINESS TERMS 
+
+This 
+Exhibit A
+ contains a summary of key business terms of this Agreement which are further explained in 
+Exhibit B
+. This 
+Exhibit A
+ should
+be read with the other Exhibits and other portions of this Agreement. All Exhibits are cumulative with, and supplement, each other and the other provisions of this Agreement. However, in case of express conflict, this 
+Exhibit A
+ governs over
+the other Exhibits, and all Exhibits govern over the other portions of this Agreement. 
+ 
+Client Name: 
+LDiscovery, LLC 
+
+Term: 
+Three (3) years commencing on the Effective Date at the beginning of this Agreement. 
+
+Relativity Review & Production - Relativity Analytics Licensed Separately 
+
+Named User Cap: [****] Named Users 
+
+Relativity Review Annual Fee: $[****] 
+
+Extra Users Fee: $[****] per month per Extra User in excess of the Named User Cap (See 
+Exhibit B
+) 
+
+Future increase in the Annual Fee to add a 25 pack of Additional Named Users: $[****] 
+
+Relativity Analytics – Separate from Relativity Review 
+
+Analytics Volume Based Subscription Level (GB): [****] 
+
+Analytics Annual Subscription Fee: $[****] 
+
+Analytics Burst Fee: $[****]/GB 
+
+Pay As You Go Fee: $[****]/GB 
+ 
+Relativity
+Processing 
+ 
+Number of Processing Workers included with the Relativity Review Annual Fee (No
+ Separate Additional Charge):
+ [****]
+
+ 
+Number of Extra Processing Workers (for Extra Processing Worker Annual Fee): N/A 
+
+Total Extra Processing Worker Annual Fee based on Extra Processing Workers licensed above: N/A 
+
+Future increase in the Annual Fee to add Extra Processing Workers: See 
+Exhibit B
+ 
+
+Relativity Data Grid 
+ 
+Number of Data Grid
+Nodes included with the Relativity Review Annual Fee: [****] 
+ 
+Number of Extra Data Grid Nodes (for Extra Data Grid Annual Fee): N/A 
+
+Extra Data Grid Annual Fee for the Extra Data Grid Nodes licensed above: N/A 
+
+Future increase in the Annual Fee to add Extra Data Grid Nodes:
+ 
+$[****] per Data Grid Node per Year 
+
+ 
+ 
+14 
+
+Relativity Legal Hold 
+
+Number of Permitted Active Holds: [****] 
+
+Legal Hold Annual Fee: $[****] 
+ 
+Production
+Instances: 
+ 
+Number of Production Instances included with Relativity Review Annual Fee: [****] 
+
+Number of Free Extra Production Instances: [****] 
+
+Number of Extra Production Instances (for Extra Production Instance Annual Fee): [****] 
+
+Extra Production Instance Annual Fee for the Extra Production Instances licensed above: $[****] 
+
+One Year Production Instances 
+ 
+Number of
+One Year Production Instances: One (1)* 
+ 
+One Year Production Instance Annual Fee for the One Year Production Instances licensed above: N/A*
+
+ 
+ 
+
+*
+
+ 
+In the Eighteenth Amendment to the Kroll Agreement, Relativity granted Kroll a license to deploy a One Year
+Production Instance (“
+Existing
+ One Year Instance”),
+ which was subsequently extended for an additional one (1) year period in the Twenty Seventh Amendment to the Kroll Agreement. The Existing One Year Instance shall
+remain in effect until its scheduled expiration date of July 20, 2018, subject to any additional one year extensions. 
+ 
+Temporary
+Production Instances 
+ 
+Number of Temporary Production Instances: [****] 
+
+Temporary Production Instance Monthly Fee for the Temporary Production Instances licensed above: $[****] per calendar month (fees not included
+in the Total Initial Annual Fees below) 
+ 
+Temporary Production Instance Named User Fee: $[****] per Named User per Temporary Production
+Instance in any given month (See 
+Exhibit B
+) 
+ 
+Relativity Client Domains 
+
+Number of Client Domain Tenant Accounts (for Client Domain Annual Fee): [****] 
+
+ 
+
+ 
+•  Client Tenant Account 1:
+
+  
+
+ 
+[****]
+
+ 
+•  Client Tenant Account 2:
+
+  
+
+ 
+[****]
+
+ 
+•  Client Tenant Account 3:
+
+  
+
+ 
+[****]
+
+ 
+Client Domain Annual Fee for the Client Domain Tenant Accounts granted to Client above: $[****] 
+
+TOTAL INITIAL ANNUAL FEES PER ABOVE
+: 
+ 
+ 
+
+Year 1
+
+  
+
+Year 2
+
+ 
+
+Year 3
+
+ 
+$[****] 
+minus
+ the Prepay Credit described below
+
+  
+
+$[****]
+
+ 
+
+$[****]
+
+ 
+ 
+15 
+
+Prior License Agreement and Kroll Agreement Prepay Credit. 
+This Agreement supersedes and replaces the
+“Prior License Agreement” and the “Kroll Agreement” (collectively the “
+Superseded Agreements”),
+ as described in the Background section at the beginning of this Agreement. As further described in such Background
+section, Client will remain liable to pay any amounts due under the Superseded Agreements accruing or arising prior to the Effective Date hereof, whether or not already billed, and Relativity will provide Client with a prorated credit for the
+prepaid amounts under the Superseded Agreement (“
+Prepay
+ Credit”),
+ which is comprised of: 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+$[****]
+ for the prepaid amounts under the Prior License Agreement; 
+plus
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+$[****]
+ for the prepaid amounts under the Kroll Agreement; 
+plus
+ 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+A prorated credit for the RA Subscription Fee for the RA Subscription granted to Client in the Ninth Amendment to
+the Prior License Agreement, that is the lesser of: (a) $[****] per GB for any unused Relativity Analytics GBs as of the Effective Date of this Agreement; or (ii) $[****], which is the prepaid portion of the LDiscovery RA Subscription Fee prorated
+for the period from the Effective Date hereof to September 30, 2018; 
+plus
+ 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+A prorated credit for the Analytics Annual Subscription Fee for the Analytics Volume Based Subscription granted
+to Kroll in the Twenty Ninth Amendment to the Kroll Agreement, that is the lesser of: (a) $[****] per GB for any unused Relativity Analytics GBs as of the Effective Date of this Agreement; or (ii) $[****], which is the prepaid portion of the Kroll
+Analytics Annual Subscription Fee prorated for the period from the Effective Date hereof to September 30, 2018. 
+ 
+ANNUAL
+PAYMENT DATES
+:
+ 
+The above Annual Fees for the first 
+12-months
+ of the Term are due on the Effective Date in
+the beginning of this Agreement. The subsequent Annual Fees are due and payable on the 12
+th
+ month and 24
+th
+ month anniversaries of the Effective
+Date; provided (a) Relativity will use reasonable efforts to deliver an invoice between thirty (30) and sixty (60) days in advance; and (b) in no event will the Annual Fee be due sooner than thirty (30) days after Relativity
+delivers the invoice. 
+ 
+Client Billing Contact and Cycle. 
+Unless Client directs otherwise, Relativity will send bills to: 
+
+LDiscovery, LLC
+ 
+ 
+ 
+Attn:
+Dawn Wilson, CFO 
+ 
+8201 Greensboro Drive, Suite 300 
+
+McLean, VA 22102-3810 
+ 
+Email:
+dawn.wilson@krolldiscovery.com 
+ 
+For any amounts payable by Client for which the timing of the payment is not otherwise specified in this Agreement,
+Relativity will generally bill Client at about the close of each month, and payment is due thirty (30) days after the amount is billed. Relativity may send bills via email. 
+
+Taxes.
+ All amounts under this Agreement are exclusive of any applicable Taxes. Except for taxes based on Relativity’s net income, Client shall pay
+all applicable sales, use, excise, valued-added or other tax, fee or duty levied by federal, state and local governments in connection with this Agreement, the License or Services and/or any payment made by Client hereunder
+(“
+Taxes
+”). Relativity shall bill Client for any applicable Taxes to the extent that applicable laws impose collection obligations on Relativity as the licensor of commercial software (which is delivered over the Internet and
+deployed by Client behind its firewall) and as the provider of related software support Services. Relativity shall have discretion to defer any remittance, and any invoicing of Client, of any Taxes so long as Relativity believes there may be a
+lawful basis to dispute or contest such Taxes. If Relativity does so, and if Relativity eventually determines that it needs to pay such Taxes, Relativity may invoice the deferred amounts and Client shall pay such invoices; 
+provided
+,
+
+Relativity will not invoice Client for, and agrees to indemnify and hold Client harmless from and against, any penalties and interest assessed based upon Relativity’s failure to remit, or delay in remitting, Taxes in accordance with this
+Section. 
+
+ 
+ 
+16 
+
+EXHIBIT B 
+
+ADDITIONAL LICENSING PROVISIONS AND RELATED TERMS 
+
+DEFINITIONS
+. The following terms shall have the meanings ascribed thereto when used as capitalized terms in the other provisions of this
+Agreement and Exhibits: 
+ 
+“
+Documentation
+” means printed material associated with, provided with, or provided by the
+Software, including the description of the principles of operation. 
+ 
+“
+Intellectual
+ Property Rights”
+ or
+“
+IP
+” means any and all rights arising from or under any of the following, whether protected, created or arising under the laws of the United States of America or any other jurisdiction: patents (including, but not limited to, any
+applications, extensions, divisions, continuations, 
+continuations-in-part,
+ reexaminations, reissues, and renewals related thereto), copyrights (including, but not
+limited to, any applications, registrations and renewals related thereto), trademarks and service marks (including, but not limited to, applications, registrations, and renewals related thereto), trade dress, trade names, trade secret and 
+know-how
+ and any other intellectual property or proprietary rights of any nature, by whatever name or term known or however designated. 
+
+“
+Software
+”
+ 
+means the software programs created by Relativity and supplied under this Agreement or any subsequent
+amendment or order, all Updates and any 
+Add-Ons
+ (if Client pays for an 
+Add-On)
+ supplied by Relativity to Client under this Agreement. Software may include embedded third
+party programs which shall be subject to the provisions of this Agreement. 
+ 
+“
+Update
+” means any modification, revision, or
+other enhancement, to the Software created by Relativity during the Term of this Agreement, other than 
+Add-Ons
+ (unless Client pays for an 
+Add-On),
+ but including
+Corrections, Minor Updates, Minor Releases, Critical Patch Releases, and Major Releases, as such terms are defined in 
+Exhibit C
+ to this Agreement. Relativity may, at its option, include in any Update any item that was previously available as
+an 
+Add-On.
+ 
+ 
+SOFTWARE USE AS HOSTED SERVICE
+.
+ Client shall only use and permit the Software to be used
+by Client’s customers on a hosted basis as part of Client’s 
+e-discovery
+ litigation support services. 
+
+USAGE REPORTING
+.
+ Client’s billing and usage data will be delivered to Relativity through the Software in accordance with the applicable
+Documentation. Relativity has provided an optional feature in the Software by which Client may choose to obfuscate case names and/or the client or matter names and/or the personal name portion of the email address used for Named User 
+log-ins.
+ If Client uses that obfuscation feature and is licensing more than one Production Instance of the Software, Relativity may require that Client consistently uses the obfuscation feature in all Production
+Instances in order to handle billing determinations consistently. In such cases, Client shall provide such additional information, upon request, as may be necessary for Relativity’s billing and auditing purposes. Upon Relativity’s requests
+from time to time, Client shall also cooperate in: (a) applying, running and providing the results of special usage and billing scripts for given products; (b) providing Relativity and its representatives with certifications respecting
+Named Users and usage metrics, and (c) granting remote supervised secure access to the Software for Relativity to verify billing and usage information. 
+
+SOFTWARE EXCLUSIONS
+. 
+This Agreement does not include any other licenses that are required to run the Software, including Microsoft Windows
+Server, Microsoft’s SQL Server database server, and any other third party products that may otherwise be system requirements. 
+ 
+RELATIVITY
+REVIEW & PRODUCTION
+ 
+ 
+Relativity Review & Production - Overview and Deployment Limitations: 
+
+• “
+Relativity
+ Review
+ & Production”
+ is sometimes referred to as “
+Relativity
+
+Review”
+ for short. Relativity Review includes highly scalable document review capabilities, document production functions, and numerous additional features and functions described further on the Relativity website. 
+
+ 
+ 
+17 
+
+• 
+“
+Relativity Server Software”
+ is the main component of
+Relativity Review which Client may install on an unlimited number of Network Server Computers in Client’s Computer Network, provided Client shall only deploy the Server Software behind Client’s firewall at Client’s site or in a cloud
+data center. 
+ 
+• “
+Relativity
+ Web Client”
+ is any ancillary required component that Client may deploy on an
+unlimited number of computers in Client’s Computer Network and any end users’ computers at the sites of Client, Client’s bona fide direct customers for 
+e-discovery
+ litigation support services
+and Client’s consultants in support of Client’s business operations (and Client may permit such end users to use the Software for such purposes as permitted under this Agreement). With Relativity 9.3 and higher, the Client Software is not
+required for ordinary use of the Software, but instead contains miscellaneous additional administrative tools, such as Relativity Desktop Client (RDC) and Database Management Tool (DBMT), and the optional use of Native Document Viewer. 
+
+• “
+Client’s
+ Computer Network”
+ means any combination of two or more terminals or computers that are
+electronically linked and capable of sharing the use of a single software program and that are owned and operated by Client. Client’s Computer Network includes remote terminal access by Client’s end users as permitted herein. 
+
+• “
+Network
+ Server Computer(s)
+” means any server(s) in Client’s Computer Network. 
+
+NAMED USER CAP; MONTHLY EXTRA USERS; ADDING USER PACKS
+ 
+
+Named User Cap.
+ Client’s License for the Relativity Review Software is limited to the number of Named Users in the Named User Cap
+set forth in 
+Exhibit A
+. Relativity will bill Client the amount of the Extra Users Fee set forth in 
+Exhibit A
+ times the number of Extra Users in any month. 
+
+“
+Extra Users”
+ means, in any month, the total number of Named Users minus the Named User Cap, as set forth in 
+Exhibit
+A
+.
+ “Named Users”
+ means the number of individuals (including Client’s systems and support administrators) who are given access (also called “enabled”) to use the Software within the month in question, regardless of
+any actual use, or duration or frequency of use, and regardless of whether any such individual’s access is terminated (also called “disabled”) before the month ends. 
+
+Additional Named Users and Fees.
+ Client may, by written agreement with Relativity, add 
+“
+Additiona
+l
+ Named
+Users”
+ in 
+25-user
+ increments to the Named User Cap for the increase in the Annual Fee set forth in 
+Exhibit A
+. For Additional Named User increments added part way through a year of the Term,
+Relativity will prorate the payment for the added increment(s) for the partial year as of the first day of the month in which the addition is made, and will bill the amount when the agreement respecting such addition is signed. Thereafter, Client
+will pay the additional amount for the Additional Named Users each year in advance as an increase in the Annual Fee. Additional Named Users cannot be added when there are fewer than twelve (12) months remaining in the Term. 
+
+Aggregating Named Users.
+ If Client is ever licensing more than one Production Instance under this Agreement, the number of Named Users
+for each Production Instance shall be aggregated and counted together for purposes of billing Extra User Fees for any Extra Users, excluding any Production Instance which is not licensed co-terminously with the Term of this Agreement (unless the
+licensing provisions for such 
+non-coterminous
+ Production Instance specifically provide for aggregating the Named Users with the Named Users of other Production Instances under this Agreement). However, this
+Section is not intended to require that the same individual who is enabled to use more than one such Production Instance during a given calendar month be counted more than once in determining Extra Users. Relativity will use reasonable efforts to
+aggregate and 
+de-duplicate
+ Named Users across the Production Instances and then bill Client only based on the unique Named Users. If Client determines that Relativity double-charged for Extra Users, e.g. as a
+result of one or more Named Users being counted in more than one Production Instance during the same month, Client may bring such charges to Relativity’s attention promptly in writing. In such case, Relativity shall reasonably review such
+charges and applicable supporting data or information, and provide appropriate credits. 
+
+ 
+ 
+18 
+
+RELATIVITY ANALYTICS
+ 
+
+Relativity Analytics - Functions Overview
+
+• Relativity Analytics includes various functions that involve building a data index, including functions for clustering, concept
+searching, keyword expansion, and similar document detection. 
+ 
+• Relativity Analytics includes other functions that use structured
+data analytics tools, including functions for email threading, textual near duplicate identification, and language identification. 
+ 
+•
+Relativity Analytics can also be used with Relativity Assisted Review, which is a technology-assisted review program (sometimes referred to as TAR or predictive coding).
+ 
+ 
+
+Relativity Analytics - Fees Overview 
+
+• 
+Relativity Review with Unlimited Relativity Analytics
+.
+ If 
+Exhibit A
+ includes Relativity Review with Unlimited
+Relativity Analytics, the included Relativity Review Annual Fee includes and permits an unlimited amount of Relativity Analytics use by Client, subject to the applicable terms of this Agreement. 
+
+• 
+Relativity Analytics Volume Based Subscription Level (GB)
+. If 
+Exhibit A
+ includes a Relativity Analytics Volume
+Based Subscription Level (GB), a Client will initially pay the Analytics Annual Subscription Fee in Exhibit A, and then make elections and pay as provided below. 
+
+• 
+Relativity Analytics
+
+Pay-As-You-Go
+.
+ If at any point Client does not have a Relativity Analytics Volume Based Subscription Level or a license
+to use an unlimited amount of Relativity Analytics, Client may use Relativity Analytics by paying Relativity Analytics Pay As You Go Fees with usage billed at the end of each month at the rate in 
+Exhibit A
+ and as described below. In addition,
+Client may obtain a Relativity Analytics Volume Based Subscription Level (GB) by signing Relativity’s confirmatory amendment or other such document and paying the applicable Analytics Annual Subscription Fee. 
+
+Relativity Analytics - Volume Based Subscription Fees 
+
+• Relativity Analytics annual subscriptions have a data usage threshold. The annual fee covers all data usage up to the threshold during
+the annual period. Usage is measured based on the total size of the native files evaluated by Relativity Analytics. Documents are evaluated by Relativity Analytics, when a search is created, and the results of that search are added to a Relativity
+Analytics index or otherwise have a Relativity Analytics feature run against them. 
+ 
+• If the data threshold is surpassed during the
+annual period, monthly burst fees apply based on an amount per GB until the end of the 
+12-month
+ period per the schedule below. There is no carryover of any unused portion of the threshold once the annual
+period expires, at which point a new annual subscription can be purchased if the license agreement is still in effect. 
+ 
+• Relativity
+Analytics subscriptions are available in different pricing packages based on the amount of data usage as set forth in the schedule below. During any period when Client does not have a Relativity Analytics subscription in effect under this Agreement,
+Relativity may use Relativity’s then current Relativity Analytics standard subscription fee schedule if Client desires to add an analytics subscription. 
+ 
+ 
+
+ 
+Annual Subscription
+
+  
+
+Data Threshold
+
+ 
+
+  
+
+Analytics Burst Fee
+
+ 
+
+ 
+$[****]
+
+  
+
+ 
+
+500 GB
+
+ 
+
+  
+
+$
+
+[
+
+****]/GB 
+
+ 
+$[****]
+
+  
+
+ 
+
+1,000 GB
+
+ 
+
+  
+
+$
+
+[
+
+****]/GB 
+
+ 
+$[****]
+
+  
+
+ 
+
+4,000 GB
+
+ 
+
+  
+
+$
+
+[
+
+****]/GB 
+
+ 
+$[****]
+
+  
+
+ 
+
+15,000 GB
+
+ 
+
+  
+
+$
+
+[
+
+****]/GB 
+
+ 
+$[****]
+
+  
+
+ 
+
+30,000 GB
+
+ 
+
+  
+
+$
+
+[
+
+****]/GB 
+
+ 
+$[****]
+
+  
+
+ 
+
+50,000 GB
+
+ 
+
+  
+
+$
+
+[
+
+****]/GB 
+
+ 
+ 
+19 
+
+Relativity Analytics - Measuring Data Usage 
+
+• All Analytics pricing schedules measure usage based on the total size of the native files evaluated by Relativity Analytics. Documents
+are evaluated by Relativity Analytics when a search is created and the results of that search are added to a Relativity Analytics index or a Structured Analytics Set, or the search results are otherwise submitted to a Relativity Analytics feature.
+The size of the native file is measured for billing if a document has a native file link. If a document does not have a native file link, the document count is converted to a per GB measurement for billing, as follows: 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+If a document doesn’t have a native file or a TIFF link (e.g. text only), the document count is converted to
+GB at 4,000 docs / GB. For example if you use any feature of Relativity Analytics to evaluate 80,000 documents that had neither a native file link or an image link, your usage level would be calculated as 20 GB: [80,000 text only documents / 4,000
+docs / GB]. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+If a document doesn’t have a native file link, but has a TIFF link, the document count is converted to GB at
+11,750 docs / GB. For example if you use any feature of Relativity Analytics to evaluate a total of 150 GB of native files and 7,050,000 
+non-native
+ documents with images only in Analytics, your usage level
+would be calculated as 750 GBs: [150 GB native + (7,050,000 
+non-native
+ documents / 11,750)]. 
+
+• If Client ever has a Relativity license for more than one Production Instance of the Relativity Software, and also has an annual
+Relativity Analytics subscription, the Relativity Analytics data usage is aggregated across the Production Instances (including Temporary Production Instances), unless Client elects to pay for separate Relativity Analytics subscriptions for each
+Production Instance or elects “Pay As You Go” pricing for other Production Instances. 
+ 
+RELATIVITY PROCESSING 
+
+Relativity Processing - Functions Overview 
+
+• Relativity Processing converts many native file types into formats for review in Relativity Review. Features include metadata and
+container extraction, domain parsing, and native application imaging. 
+ 
+• An inventory stage provides quick insight into processing
+sets and allows the user to filter out junk before fully processing files. 
+ 
+• Relativity Processing is powered by Relativity’s
+“Invariant” software engine. More details are described on the Relativity website and in the Documentation. 
+ 
+Relativity Processing - Fees
+Overview: Included with Relativity Review Annual Fee and Extra Processing Workers 
+ 
+• 
+Processing Workers included with
+Relativity Review
+.
+ By specifying a number of Processing Workers that are included in the Relativity Review Annual Fee, Client is licensed to use up to that number of Processing Workers at any time without additional fees for such Processing
+Workers. 
+ 
+• 
+Extra Processing Workers
+.
+ To the extent that 
+Exhibit A
+ specifies that Client is licensing and paying
+for a stated number of Processing Workers apart from any Processing Workers included with Relativity Review (or if Client hereafter adds more Processing Workers), Client will pay the applicable Extra Processing Worker Annual Fees as set forth in
+
+Exhibit A
+, or as provided below. 
+ 
+Relativity Processing - Annual Fees for Extra Processing Workers 
+
+• Client may periodically add licenses for Processing Workers. To do so: (a) a Client Designated Support Administrator must deliver
+an email to 
+sales@relativity.com
+ stating the number of additional Processing Workers and date for adding the Processing Workers, and (b) Client will sign Relativity’s confirmatory amendment or other such document if Extra Processing
+Worker Annual Fees are required.     
+ 
+• If Client adds Processing Workers that are not included in 
+Exhibit
+A
+, the Extra Processing Worker Annual Fee is based on the following fee schedule and number of Processing Workers licensed (with any Processing Workers in Exhibit A counted towards the number of Total Processing Workers). 
+
+ 
+ 
+20 
+
+• Separate Relativity license keys may be required to enable or increase the number of
+licensed Processing Workers. The license and payment requirements for each licensed Processing Worker will remain in effect for the remaining Term of this Agreement. 
+ 
+ 
+
+ 
+Total Processing Workers
+
+  
+
+Relativity Processing Annual Fee
+Per Processing Worker
+
+ 
+Two to Nine
+
+  
+
+$[****]Each
+
+ 
+Ten to Nineteen
+
+  
+
+$[****]Each
+
+ 
+Twenty to Twenty-Nine
+
+  
+
+$[****]Each
+
+ 
+Thirty to Thirty-Nine
+
+  
+
+$[****]Each
+
+ 
+Forty to Forty-Nine
+
+  
+
+$[****]Each
+
+ 
+Fifty or More
+
+  
+
+$[****]Each
+
+ 
+• The Relativity Processing Annual Fee is due and payable each year in advance on the same date when the
+Relativity Review Annual Fee is due under this Agreement. If Client adds a Processing Worker other than on the regular due date for Relativity Review Annual Fee under this Agreement, Client will pay Relativity, when the Processing Worker is added, a
+prorated Relativity Processing Annual Fee for the period from that date to the next Relativity Review Annual Fee due date. 
+ 
+• If
+Client is ever licensing more than one (1) Production Instance of Relativity’s Relativity Software under this Agreement, the number of licensed Processing Workers will apply in the aggregate across Production Instances, excluding any
+temporary Production Instance, i.e. which is not licensed co-terminously with the Term of the Agreement and which shall exclude Relativity Processing (unless the agreement licensing such temporary Production Instance expressly provides to the
+contrary). 
+ 
+RELATIVITY DATA GRID
+ 
+
+Relativity Data Grid - Functions Overview 
+
+• Data Grid is a NoSQL product that helps index and organize data such as extracted text and audit records. Data Grid can display a
+comprehensive, interactive audit history. 
+ 
+• The longer term anticipated benefits of using Data Grid include a reduction in SQL
+Server database sizes and reduced memory requirements. Not all Relativity Software functions are integrated with Relativity Data Grid at this time, and some functions may require some use of SQL Server indefinitely. 
+
+• Although the Data Grid Documentation will provide more information concerning infrastructure and system requirements, Client
+acknowledges that Client will promptly need to upgrade at least to Relativity 9.5, and apply all subsequent Patch Releases, in order to use Relativity Data Grid. 
+
+• Once Client enables a field’s access to Data Grid, Client cannot disable it, so it is important to understand the benefits and
+limitations of allowing fields to access Data Grid in new workspaces. 
+Reviewing and understanding all Documentation and training materials is critical
+. 
+
+ 
+ 
+21 
+
+Relativity Data Grid - Fees Overview: Included with Relativity Review Annual Fee and Extra Relativity
+Data Grid Nodes 
+ 
+• 
+Relativity Data Grid Nodes included with Relativity Review
+.
+ By specifying a number of Data Grid
+Nodes that are included in the Relativity Review Annual Fee, Client is licensed to use up to that number of Data Grid Nodes at any given time without additional fees for such Data Grid Nodes. 
+
+• 
+Extra Relativity Data Grid Nodes
+.
+ To the extent that 
+Exhibit A
+ specifies that Client is licensing and paying for a
+stated number of Data Grid Nodes apart from any Data Grid Nodes included with Relativity Review (or if Client hereafter adds more Data Grid Nodes), Client will pay each year in advance the applicable Relativity Data Grid Node Annual Fees if set
+forth in 
+Exhibit A
+ or otherwise based on Relativity’s standard charges for comparable customers at the time. The license and payment requirements for each licensed Data Grid Node will remain in effect for the remaining Term of this
+Agreement. IF CLIENT ADDS A DATA GRID NODE WITHOUT CONTACTING RELATIVITY AS OUTLINED BELOW, CLIENT SHALL BE DEEMED TO HAVE LICENSED SUCH NODE(S) AND WILL BE OBLIGATED TO PAY: (i) A PRORATED PORTION OF THE APPLICABLE EXTRA DATA GRID ANNUAL FEE
+FOR THE EXTRA DATA GRID NODE(S), PRORATED FROM THE END OF THE MONTH IN WHICH CLIENT ADDS THE NODE(S) TO THE NEXT ANNUAL PAYMENT DATE; AND (ii) THE FULL EXTRA DATA GRID ANNUAL FEE FOR THE NODE(S) FOR THE REMAINDER OF THE TERM OF THIS AGREEMENT.
+
+ 
+Relativity Data Grid - Other Provisions 
+
+• Client can configure Data Grid with various types of nodes, including data nodes, master nodes and client nodes. By default, each node
+is considered to be a data node, unless Client turns off the data function. Relativity uses the term “
+Data Grid Node
+” in this Agreement to mean data nodes. 
+
+• Client may periodically add licenses for additional Data Grid Nodes. To do so: (a) a Client Designated Support Administrator must
+deliver an email to 
+sales@relativity.com
+ stating the number of additional Data Grid Nodes and date for adding the Nodes, and (b) Client will sign Relativity’s confirmatory amendment or other such document if Extra Data Grid Node
+Annual Fees are required. The license and payment requirements for Data Grid Nodes will remain in effect for the remaining Term of this Agreement. 
+
+• The Extra Data Grid Node Annual Fee is due and payable each year in advance on the same date when the Relativity Review Annual Fee is
+due under this Agreement. If Client adds an Extra Data Grid Node other than on the regular due date for Relativity Review Annual Fee under this Agreement, Client will pay Relativity, when the Extra Data Grid Node is added, a prorated Extra Data Grid
+Node Annual Fee for the period from that date to the next Relativity Review Annual Fee due date. 
+ 
+• If Client is ever licensing more
+than one (1) Production Instance of Relativity’s Relativity Software under this Agreement, the number of licensed Data Grid Nodes will apply in the aggregate across the Production Instances, unless Relativity and Client enter into an
+amendment or other documentation allocating Data Grid Nodes to one or more particular Production Instances and requiring Extra Data Grid Node Annual Fees for the deployment of Data Grid Nodes in other Production Instances. 
+
+• Relativity Data Grid is powered by Elasticsearch open source technology as its underlying architecture. Relativity may include with
+Relativity Data Grid, or otherwise provide access to, one or more proprietary products created by Elasticsearch, Inc. (“
+Elasticsearch
+ Proprietary Products”),
+ including products known as Marvel and Shield. Relativity reserves
+the right to discontinue its inclusion, use of, or access to, any or all Elasticsearch Proprietary Products at any time. Client may be able to license Elasticsearch Proprietary Products directly from Elasticsearch, Inc. or its successor, and may be
+able to obtain other open source and proprietary 
+add-on
+ products from other vendors. If Client incurs costs to obtain Elasticsearch Proprietary Products or any other products directly from Elasticsearch or any
+other vendor, Client will still be required to pay Relativity all fees incurred under this Agreement. 
+
+ 
+ 
+22 
+
+RELATIVITY LEGAL HOLD 
+
+Relativity Legal Hold - Functions Overview 
+
+• Legal Hold provides an automated system to create and track litigation hold notices, custodian survey questions and custodian responses,
+from a library of templates that Client can create and customize. Client set up reminder notices to go out automatically on a scheduled basis. 
+
+• Legal Hold can be integrated with MS Exchange servers to import Client’s personnel efficiently.
+
+Built-in
+ reports and dashboards show the status of your legal holds at a glance, allow you to track and analyze responses, and help you ensure compliance for your organization. 
+
+• Client may use Legal Hold for other projects, such as notifying personnel about an updated Employee Handbook, or Anti-Corrupt Practices
+Policy, posted on the company’s intranet, and requiring for confirmations that personnel have reviewed and will comply. 
+ 
+Relativity Legal Hold
+– Licensing and Fees 
+ 
+• If 
+Exhibit A
+ includes Legal Hold, Client will pay the Legal Hold Annual Fee in 
+Exhibit
+A
+. If 
+Exhibit A
+ does not include Legal Hold Client may obtain a license to add Legal Hold to this Agreement by signing Relativity’s confirmatory amendment or other such document and paying Relativity’s standard Legal Hold Annual
+Fee then in effect. The license and payment requirements for Legal Hold will remain in effect through the Term of this Agreement. 
+ 
+•
+The Legal Hold Annual Fee is due and payable each year in advance. If Client begins a Legal Hold subscription on any day that is not the same dates when the Relativity Review Annual Fee is due, Client will pay a prorated amount of the Legal Hold
+Annual Fee for a partial annual period to make the Legal Hold subscription run to the date when the Relativity Review Annual Fee is due. 
+
+• The Legal Hold Annual Fee permits Client to have up to the number of Permitted Active Holds identified on 
+Exhibit A
+ (or any
+subsequent amendment adding Legal Hold) in effect at any given time. Client’s Legal Hold Administrators will have the ability to close a hold within Legal Hold. A “
+Permitted Active Hold
+” is any matter that Client creates in the
+Relativity Legal Hold workspace in the Relativity Software until Client uses the function to close the matter. Closed holds will not count against the number of Permitted Active Holds. 
+
+• Each person who is enabled to use Legal Hold will be counted as a Named User of the Relativity Software under this Agreement,
+regardless of any actual 
+log-in
+ or use of any Relativity Software product, or the duration or frequency of use during a given month; however, persons who respond to hold notices and questionnaires as
+custodians will not count as Named Users. 
+ 
+• Client must set up one dedicated workspace in one (1) Production Instance of the
+Relativity Software to use Legal Hold exclusively, unless Client obtains a written license for expanded use. If Client ever has a Legal Hold license for more than one (1) workspace and/or Production Instance of the Relativity Software, the
+number of Permitted Active Holds will be aggregated
+ 
+across all workspaces and Production Instances under this Agreement, unless the license provides otherwise.
+ 
+ 
+
+SOFTWARE PRODUCTION, TEST, AND 
+BACK-UP
+ INSTANCES
+ 
+
+Production Instances
+ 
+• A
+“
+Production
+ Instance”
+ is an instance of the Software that: (a) may be used for active cases and investigations, and (b) may consist of any number of physical and virtual server components that all link back to one
+set of the Server Software files located on one server. 
+ 
+• 
+Instance Settings.
+ Every Production Instance of the Software is
+automatically configured to reflect Relativity’s recommended Production Instance settings (“
+Instance Settings
+”); 
+however
+,
+ Relativity may provide Client with the ability to modify certain Instance Settings.
+Notwithstanding the foregoing, there are several Instance Setting entries that should never be modified in Client’s Production Instance (“
+Restricted Instance Settings
+”), which Relativity identifies by including a
+“Do not modify” statement at the beginning of the Instance Setting Description in the Documentation. 
+Relativity strongly discourages the modification of the Restricted Instance Settings due to elevated security risks, among other
+things, associated therewith. 
+If Client modifies any of the Restricted Instance Settings, 
+
+ 
+ 
+23 
+
+Client (a) may create a security vulnerability in the applicable Production Instance of the Software or
+otherwise interfere with the Software’s proper functioning, and (b) will automatically void any applicable warranties offered by Relativity to the extent that Client’s modification of any Restricted Instance Settings causes such
+warranties to be breached or inaccurate. Furthermore, Relativity will not be obligated to provide the Maintenance Support Services described in 
+Exhibit C
+ if Relativity reasonably determines that the issue is attributable to the modification
+of one or more Restricted Instance Settings. 
+ 
+• The License under this Agreement allows Client to deploy and use on Client’s
+Computer Network the number of Production Instances set forth in 
+Exhibit A
+. Client may add one or more Extra Production Instances of the Relativity Software by paying Relativity’s applicable fees and signing Relativity’s standard
+amendment. Any other instances are subject to such additional agreements and fees as the parties agree upon in writing. 
+ 
+•
+Notwithstanding anything to the contrary herein that prohibits the deployment of the Relativity Server Software to any Network Server Computer not located behind Client’s firewall at Client’s site or in a cloud data center or collocation
+facility of a third party, Relativity hereby agrees that Client may deploy the Relativity Server Software for any Extra Production Instance as a series of individual temporary mobile deployments behind the firewalls of Client’s customers for
+use as part of Client’s 
+e-discovery
+ services (“
+Mobile
+ Instance Use”)
+, subject to the following provisions: 
+
+• The Server Software for Mobile Instance Use must be: (i) deployed on a server that Client owns and temporarily locates behind its
+customer’s firewall (rather than, for example, on hardware that Client’s customer owns); and (ii) restricted to Client’s use in providing 
+e-discovery
+ services to such customer on whose
+premises such server is located. 
+ 
+• Mobile Instance Use must be project specific and temporary, which means that each deployment will
+be limited to one case. 
+ 
+• Mobile Instance Use is limited to Client’s bona fide direct corporate customers which require that a
+temporary instance of the Software be deployed behind their firewalls for security reasons (or to use Relativity Processing if Client is licensing such Software product under this Agreement). The Extra Production Instance shall not be deployed on
+the premises of any law firm or other litigation services company. 
+ 
+• For Mobile Instance Use, the Designated Application Support
+Administrators must be limited to Client’s own well-qualified employees who are the Designated Application Support Administrators under this Agreement (and shall not, for example, include any of Client’s customers’ personnel). 
+
+One Year Production Instances 
+ 
+• A
+“
+One
+ Year Production Instance”
+ is a Production Instance of the Software, and related deployments of the Web Client Software, that may be deployed for a period of twelve (12) months. 
+
+ 
+ 
+24 
+
+• The License under this Agreement allows Client to deploy and use on Client’s
+Computer Network the number of One Year Production Instances set forth in 
+Exhibit A
+. Client may add one or more additional One Year Production Instances, by paying Relativity’s applicable fees and signing Relativity’s standard
+amendment. Any other One Year Production Instances are subject to such additional agreements and fees as the parties agree upon in writing. 
+
+• When the license for a One Year Production Instance expires or is terminated (unless the parties mutually extend the license for a One
+Year Production Instance by a further written amendment): (a) Client will immediately discontinue using and accessing the One Year Production Instance; and (b) within the following ten (10) days, Client will certify to Relativity in
+writing that Client has completely and permanently uninstalled and permanently discontinued using and accessing the One Year Production Instance, has not made any copies of the Software used therein, and has permanently destroyed the Software used
+therein so it cannot be reinstalled or 
+re-used.
+ 
+ 
+Temporary Instances 
+
+• A “
+Temporary
+ Production Instance”
+ is a Production Instance of the Software, and related deployments of the Web
+Client Software, that may be deployed on a calendar 
+month-to-month
+ basis. The License under this Agreement permits Client to deploy and use the number of Temporary
+Production Instances set forth in 
+Exhibit A
+. 
+ 
+ 
+• If 
+Exhibit A
+ permits Client to deploy one or more Temporary
+Production Instance(s), Client will pay the Temporary Production Instance Monthly Fee set forth in 
+Exhibit A
+, 
+plus
+ 
+the Temporary Production Instance Name User Fee set forth in 
+Exhibit A
+ for each Named User who is enabled
+to use the Temporary Production Instance in any given month. Notwithstanding anything to the contrary herein, Relativity will not be required to 
+de-duplicate
+ Named Users for any Temporary Production Instance
+who are also Named Users in any other Production Instance.
+ 
+ 
+ 
+• The license for the Temporary Production Instance(s) will
+remain in effect on a calendar 
+month-to-month
+ basis until the earlier to occur of: (a) termination of this Agreement; (b) the last day of any calendar month in
+which Client delivers notice to Relativity (no later than the last day of such month) electing to terminate the license for the Temporary Production Instance on such last day and certifying that Client has permanently
+
+de-installed,
+ destroyed and discontinued the Temporary Production Instance as further described below; or (c) the last day (“
+Final
+ Expiration Date”)
+ of the sixth (6th) full
+calendar month following the date the license key is issued to Client, subject to the below terms. 
+ 
+• During the sixth (6th) full
+calendar month: (a) Client’s system administrators who log into the Temporary Production Instance will see an alert advising that a new license key is required to keep using the Temporary Production Instance; (b) if Client does not
+request and apply the new license key, the license for the Temporary Production Instance will terminate on the Final Expiration Date described above; (c) if Client requests and applies the new license key, the license for the Temporary
+Production Instance will be extended on a 
+month-to-month
+ basis for up to an additional six (6) full calendar months, subject to any earlier termination as described
+above, and subject to any further extensions for successive six (6) month periods. 
+ 
+• When the license for a Temporary
+Production Instance, or any extension thereof, ends or is terminated: (a) the license for the Temporary Production Instance shall expire and Client shall immediately discontinue using and accessing the Temporary Production Instance; and
+(b) within the following ten (10) days, Client shall certify to Relativity in writing that Client has completely and permanently uninstalled and permanently discontinued using and accessing the Temporary Production Instance, has not made
+any copies of the Software used therein, and has permanently destroyed the Software used therein so it cannot be reinstalled or 
+re-used.
+ 
+
+ 
+ 
+25 
+
+• Client may add one or more additional Temporary Production Instances, by paying
+Relativity’s applicable fees and signing Relativity’s standard amendment. Any other Temporary Production Instances are subject to such additional agreements and fees as the parties agree upon in writing. 
+
+Free Test and 
+Back-Up
+ Instances 
+
+• 
+General Parameters.
+ Each licensed Production Instance automatically includes a license to deploy and use on the same Client
+Computer Network: (a) one (1) related instance of the Software for testing purposes only (“
+Test
+ Instance”),
+ and (b) one (1) related instance of the Software for 
+back-up
+ and
+disaster recovery purposes only (“
+DR
+ Instance”)
+. In addition, upon Client’s written request, Relativity will provide Client with a license key for one (1) additional Test Instance dedicated to testing any additional
+Relativity product that Client is then licensing on a 
+fee-paying
+ basis under this Agreement or any amendment hereto. Each Test Instance is subject to the additional restrictions contained herein: (a) no
+more than ten (10) Named Users may be enabled to access each Test Instance in any given calendar month, unless Relativity grants written consent to a higher number for such month; (b) Test Instance(s) shall only be used to test patch
+releases and / or other new releases of the applicable Software, and shall not be used for training purposes or to demonstrate the Software to customers or prospects; and (c) for the avoidance of doubt, no Test Instance may contain any data
+from any active case or investigation or be used for any production or other purposes respecting any active case or investigation whatsoever. Additional Test Instance restrictions may apply in the license sections respecting specific products, e.g.
+respecting the number of Processing Workers in a Test Instance. 
+ 
+• 
+Processing Test Instance Restrictions.
+ As described above,
+Relativity may provide Client with a license key for one (1) additional Test Instance dedicated to testing Relativity Processing. In such case, Client may deploy one (1) Processing Worker in such additional Processing Test Instance for
+every four (4) Processing Workers that Client is licensed to deploy in Production Instances under this Agreement. For example, if Client has licensed between (1) and four (4) Processing Workers to deploy within Production Instances,
+Client will receive a license to deploy one (1) Processing Worker within the Processing Test Instance. As another example, if Client has licensed between five (5) and eight (8) Processing Workers to deploy within Production Instances,
+Client will receive a license to deploy two (2) Processing Workers within Client’s Processing Test Instance. 
+ 
+• 
+Related Provisions.
+
+If Client complies with the restrictions respecting Test Instances and DR Instances, Client will not be required to pay additional fees for deploying or using such Test Instances and DR Instances, and the Named Users of such Test Instances and DR
+Instances will not be counted under this Agreement for purposes of determining Extra User Fees. Within a reasonable time after Relativity requests periodically, Client shall cause a knowledgeable officer or manager to review, fill out, and sign
+reasonable self-certifications respecting Client’s usage of the Software in the Test Instances and DR Instances that are relevant to determining compliance with the Agreement. Client shall also cooperate in providing Relativity and its
+representatives with information and monitored remote access to the Software in the Test Instances and DR Instances to review or audit compliance with the Agreement. Upon Relativity’s request, Client will provide billing and usage data reports
+generated through the Relativity Software in the Test Instances and DR Instances. The license to deploy and use Test Instances and DR Instances in this Section is subject to all terms and conditions applicable to the Software contained in the
+Agreement, except as provided to the contrary in this Section. 
+ 
+RELATIVITY CLIENT DOMAINS
+ 
+
+Relativity Client Domains - Functions Overview. 
+
+• Relativity Client Domains provides a method for Client to enable its customers to access and use certain administrative functions of the
+Software, e.g. to enable and disable users, groups, and workspaces within their accounts, without needing to go through Client. 
+ 
+•
+Client may create Client Domain accounts (each a “
+Tenant Account”)
+ in any of Client’s licensed Production Instance of the Software, excluding any One Year Production Instances and any Temporary Production Instances. 
+
+ 
+ 
+26 
+
+Relativity Client Domains - Licensing and Fees 
+
+• If 
+Exhibit A
+ includes one (1) or more Client Domains, Client will pay the Client Domain Annual Fee for the designated Client
+Domain tenants (each a “
+Tenant
+”) in 
+Exhibit A
+. The license and payment requirements for any Client Domain Tenant Accounts will remain in effect through the Term of this Agreement. 
+
+• The Client Domain Annual Fee is due and payable each year in advance on the same date when the Relativity Review Annual Fee is due.
+
+ 
+• If Client begins a Client Domain Tenant Account on any day that is not the same date when the Relativity Review Annual Fee is due,
+Client will pay a prorated amount of the Client Domain Annual Fee for a partial annual period to make the Client Domain Tenant Account run to the date when the Relativity Review Annual Fee is due. 
+
+Relativity Client Domains - Other Provisions 
+
+• If Client deletes the Client Domain Tenant Account for a designated tenant (“
+Prior
+ Client Domain Tenant”),
+
+Client may create a new Client Domain Tenant Account for another Qualified Party as a replacement Client Domain Tenant (“Replacement
+ Client Domain Tenant”),
+ without incurring duplicative Client Domain Annual Fees, as provided below.
+However, Client must continue to pay the Client Domain Annual Fees as set forth in 
+Exhibit A
+, regardless of whether Client procures another Qualified Party as a Replacement Client Domain Tenant. 
+
+• To be a “
+Qualified
+ Party,”
+ the Replacement Client Domain Tenant must be a bona fide licensed practicing law
+firm, corporate law department, or government entity or agency (and must in no event be another litigation support vendor or 
+e-discovery
+ service provider). To create a Replacement Client Domain Tenant Account,
+Client may send a “
+Replacement
+ Activation Request Key”
+ to support@relativity.com which: (i) refers to this Agreement; (ii) identifies the Prior Client Domain Tenant, the full legal name of the Replacement Client
+Domain Tenant, and such party’s website; (iii) certifies that Client has deleted the Client Domain Tenant Account for the Prior Client Domain Tenant and that the Replacement Client Domain Tenant is a Qualified Party, and (iv) explains
+that Client desires a new Client Domain Activation Key to replace the Prior Client Domain Tenant with the Replacement Client Domain Tenant. 
+
+• Promptly after Relativity receives such a Replacement Activation Request Key and confirms that the Replacement Client Domain Tenant is
+a Qualified Party as described above, Relativity will provide Client with an “
+Activation
+ Key”
+ to enable the Client Domain for the Replacement Client Domain Tenant. If Client subsequently deletes the Client Domain Tenant
+Account for the Replacement Client Domain Tenant, Client may then seek to substitute a subsequent Replacement Client Domain Tenant in the same manner as provided herein. 
+
+• By following the above process for Replacement Client Domain Tenants, Client may continue to pay the single annual Client Domain Annual
+Fee under this Agreement (rather than incurring duplicative Client Domain Annual Fees respecting each sequential Client Domain Replacement Tenant). For clarity, however, any delay in procuring a Client Domain Replacement Tenant will not excuse
+Client from paying Client Domain Annual Fees under this Agreement on a timely basis.     
+ 
+• If Client desires to
+add more Client Domain Licenses with respect to one or more additional Client Domain Tenants (rather than as Replacement Client Domain Tenants), the parties shall enter into additional amendments identifying the Client Domain Tenants and requiring
+additional Client Domain Annual Fees. 
+ 
+RELATIVITY PLATFORM: APPLICATION PROGRAMMING INTERFACES
+. 
+
+Products: 
+Relativity’s Application Programming Interfaces and Relativity Application Framework (collectively, the “
+APIs
+”), related
+documentation, and any code samples and other materials and information, that Relativity makes available to Client for the purposes herein, all as modified or superseded by Relativity from time to time (collectively, the “
+Package
+”).
+
+ 
+
+ 
+ 
+27 
+
+License:
+ The Relativity product licensed under this Section is the Package described above. There are
+no royalties or other fees for the license under this Section. The Package may only be used in conjunction with Client’s licensed use of the Relativity Software under this Agreement and is subject to the other terms herein.
+ 
+ 
+
+Purpose 
+ 
+• The license granted
+herein only permits Client to use the Package for the purposes of: (a) customizing Client’s deployment of the Relativity Software and seeking to provide functional interoperability between the Relativity Software and other products
+developed by Client or Client’s vendors Relativity Software (“
+Other Products
+”); and (b) creating objects, extensions, applications, and other custom features and functions (“
+Custom Features
+”) which
+enhance, modify, or add to, existing features and functionality in the Relativity Software. Other Products are subject to the following restrictions: (i) the Other Products must be high quality, well-tested products which enhance the Relativity
+Software user experience by adding new or alternative complementary functionality as software 
+plug-ins;
+ (ii) such interoperability shall be limited to importing and/or exporting data between such Other
+Products and the Relativity Software; (iii) the Other Products must be developed outside of the Relativity Software and without using the Package or any components thereof, or other components of the Relativity Software provided by Relativity
+from time to time under this Agreement, except to the extent required in order to create, and test, functional interoperability between the Other Products and the Relativity Software; and (iv) Client shall comply with all restrictions and other
+provisions herein. 
+ 
+• If Relativity provides administrative or other assistance to Client respecting Custom Features or Other
+Products, such assistance shall not be interpreted as a certification or guaranty that such Custom Features or Other Products will be free of defects or other problems, and Relativity shall have no liability for such defects or other problems. 
+
+Certain Restrictions and Terms 
+ 
+•
+Client shall comply with all guidelines, requirements, restrictions, and other provisions in the Package, including Relativity’s Documentation respecting the APIs. This Section does not give any rights other than those specifically granted
+herein, and specifically does not grant Client or any other party any rights to: (i) execute any software interface definition language (IDL) compiler; (ii) develop and link programs with the Package or Relativity Software libraries
+independently of the libraries or classes of the Other Products and Custom Features; (iii) read and use any header files independently of interfaces and/or header files of the Other Products or Custom Features; (iv) copy, incorporate or
+embed the Package or any information contained therein, the Relativity Software, or any portion or feature thereof, in any Other Product or Feature; (v) enable the Package, the Relativity Software, or any portion or feature thereof, to be
+launched or linked from any Other Product or Features; or (vi) view, copy or use any third parties’ APIs or other software which is included in the Relativity Software or the Package. 
+
+• Relativity’s design documentation, source code for the Relativity Software, and any other source code included with the Package
+(other than included header files and sample code in the Package) are confidential and proprietary information and trade secrets of Relativity and its vendors and are under no circumstances licensed to Client. Relativity may enhance, update or
+otherwise modify, and replace or otherwise supersede, the Package and/or the Relativity Software or any portion, and may make such items available to Relativity’s customers and/or Client from time to time in Relativity’s discretion.
+Relativity does not guaranty or warrant that compatibility will occur and shall have no liability for any lack of backward compatibility. Client shall test for continuing compatibility and shall resolve any resulting compatibility issues. Relativity
+may require that Client obtain and use the most recent corrections, updates or releases of the Relativity Software and/or the Package or components for Client to seek functionality and interoperability of the Relativity Software and/or the Package
+with Other Products and Custom Features or to minimize requests for Maintenance Support Services, as further described in 
+Exhibit C
+. 
+
+ 
+ 
+28 
+
+Proprietary Rights Clarifications. 
+
+• 
+Other Products
+. Client (or its vendors as applicable) shall own the entire title and interest in and to all intellectual property
+and other proprietary rights related to the Other Products, to the extent that the Other Products do not contain or reference any portion of the Relativity Software or the Package, and all modifications, enhancements, updates, and derivative works
+thereof created by Client (or its vendors as applicable), including all copyrights, trademarks, trade secrets and patents appurtenant thereto, and shall have a 
+non-exclusive
+ license to use and exploit any
+feedback, suggestions, ideas, enhancement requests, recommendations or other information provided by Relativity relating to the Other Products or any portion thereof. 
+
+• 
+Customer Features
+. For purposes of this Agreement, all Custom Features shall be deemed Derivative Works of Relativity’s
+Relativity Software, and in any event all IP thereto is hereby assigned and shall belong to Relativity; 
+however
+:
+ (a) Relativity grants Client a 
+non-exclusive,
+ royalty-free, license to use
+Client’s Custom Features as provided herein; and (b) Client has no obligation to disclose or provide Client’s Custom Features to Relativity. For the avoidance of doubt, to the extent that Client writes any scripts or source code
+outside of and independent of the Package or the Relativity Software, Client shall own such scripts or source code. Client may apply to Relativity for special recognition on Relativity’s 
+web-site
+ based on
+Client’s Custom Features from time to time, subject to Relativity’s sole discretion. 
+ 
+• 
+Package and Relativity
+Software
+. Relativity (or its vendors as applicable) shall own and shall continue to own the entire title and interest in and to all intellectual property and other proprietary rights related to the Package and the other Relativity Software under
+this Agreement, including all enhancements, updates and other modifications, and new releases and Derivative Works thereof, and including all copyrights, trademarks, trade secrets and patents appurtenant thereto, and shall have a 
+non-exclusive
+ license to use and exploit any feedback, suggestions, ideas, enhancement requests, recommendations or other information provided by Client relating to the Package or any portion thereof. For the
+avoidance of doubt, to the extent that Client writes any scripts or source code that modify the Package or the Relativity Software, such scripts or source code shall be deemed Derivative Works of Relativity’s Relativity Software, and Relativity
+will own such Derivative Works of Relativity’s Relativity Software (while Client will have a 
+non-exclusive
+ license to use them subject to the applicable terms of the Agreement). 
+
+Certain Risks.
+ The Package is optional and not required in order to use the Relativity Software for the basic purposes for which the Relativity
+Software was designed. Instead, Relativity makes the Package available as an optional, free, extra tool set. Accordingly, Client’s decision to use the Package shall be at Client’s sole risk, without any representations, warranties or
+agreements of any kind by Relativity or any other party whatsoever. Relativity does not warrant that the Package, or any interoperability or integration with Other Products and Custom Features, or their respective functions or results of use, will
+be as expected, or be accurate or reliable, or be suitable for Client’s or its customers’ intended uses, or that the operation thereof will be timely, uninterrupted, secure or error-free, or that known or discovered errors will be able to
+be corrected or circumvented. 
+ 
+Other Terms. 
+Relativity is licensing the Package to Client as permitted above, without any additional fee or charge,
+and without any obligation to provide Updates, support or other Services. Relativity may at its option provide Updates, support or other Services without charge or for such charges as Relativity determines. In any event, all restrictions on
+Client’s actions respecting the Relativity Software and all disclaimers and limitations respecting representations, warranties and liability of Relativity under this Agreement, shall apply to the Package and any updates, support or other
+Services Relativity provides (cumulatively and in addition to the disclaimers and limitations respecting representations, warranties and liability of Relativity under this Section). 
+
+RELATIVITY FACT MANAGER
+ 
+ 
+Relativity Fact Manager
+assists in organizing and analyzing case details such as facts, issues, organizations, people, interview questions, and documents. This analysis helps identify strengths and weaknesses in litigation strategy, and leads to better preparation for
+depositions, interviews, and trial. If Relativity makes Relativity Fact Manager available to Client without additional fees, Relativity nevertheless reserves the right to notify Client that additional fees will be required for future use of the
+product. 
+
+ 
+ 
+29 
+
+OTHER RELATIVITY PRODUCTS 
+
+Relativity may include with the Software, or otherwise make available, other software products to use with the Software, either without additional fees or as 
+Add-Ons
+ for additional fees. All such products are subject to the terms of this Agreement respecting Relativity Review, except to the extent provided to the contrary in the license documentation or product
+Documentation for such products. 
+ 
+SPECIAL SERVICES 
+
+• 
+Custom Development.
+ Relativity may provide custom development services. If Client desires such services, Client will pay
+Relativity’s then applicable standard fees. Each project requires that the parties enter into a mutually acceptable scope of work agreement with applicable terms and fees. 
+
+• 
+Non-Standard
+ Maintenance and Support.
+ Relativity may provide maintenance, support,
+training, 
+set-up,
+ installation or other services that Client requests beyond the standard support services under 
+Exhibit C
+. If Relativity provides such services, Client will pay Relativity’s then
+applicable standard fees. 
+ 
+• 
+Solutions Team and Technology Assisted Review.
+ Relativity may provide the services of the
+Relativity Solutions Team of Relativity Software administrative professionals to provide commonly requested advice for using certain advanced features of the Software, upon requests by clients, subject to availability, either without charge or for
+Relativity’s then applicable standard fees. These services may include training on Relativity Assisted Review (RAR), which is a computer-learning “predictive coding” solution, and related technology assisted functions, such as email
+threading and 
+de-duping,
+ conceptual search and clustering. RAR can be used either (1) in a statistically supported manner through a series of random sample set rounds as described in the relevant
+Documentation and white papers until human “
+overturns
+” of machine coded documents have been reduced to an acceptable confidence level, 
+or
+ (2) by having a “
+subject matter
+expert”
+ “
+SME
+” or “
+Guru
+” develop a 
+non-random
+ seed set of responsive
+documents to train the system to find other responsive documents, and then apply some quality control checks of the results. 
+THE SECOND APPROACH MAY ENHANCE EFFICIENCY, BUT MAY RELY MORE ON JUDGMENTS OF THE SUBJECT MATTER EXPERT THAN
+STATISTICALLY SUPPORTED RESULTS.
+ 
+THE RELATIVITY SOLUTIONS TEAM CAN HELP PROVIDE SUGGESTIONS, BUT THE CLIENT SHOULD NEVER VIEW THE RELATIVITY SOLUTIONS TEAM AS AN ACTUAL SME OR GURU IN ANY GIVEN CASE.
+ 
+Relativity Solutions Team is not
+qualified, licensed or authorized to provide legal services or to interpret or provide guidance on discovery orders. Rather, Client, its counsel, and its choice of outside litigation support services vendor, are solely responsible for deciding
+whether and how to use Relativity Analytics and RAR, and should always consider using the random sample statistically valid approach. UNDER NO CIRCUMSTANCES WILL RELATIVITY HAVE ANY LIABILITY FOR ANY DAMAGES ARISING FROM ANY DECISION TO USE THE SME
+/ GURU APPROACH RATHER THAN THE RANDOM SAMPLE STATISTICALLY SUPPORTED APPROACH, EVEN IF THE RELATIVITY SOLUTIONS TEAM PROVIDED ASSISTANCE WITH THE 
+SME / GURU APPROACH. 
+Relativity reserves the right to modify or discontinue the Relativity
+Solutions Team service or applicable fees. Relativity will notify Client when Client requests to the Solutions Team or to Relativity involve fee based professional consulting or custom development services. 
+
+ 
+ 
+30 
+
+EXHIBIT C 
+
+SOFTWARE MAINTENANCE AND SUPPORT 
+
+Client’s Initial Designated Application Support Administrators: 
+ 
+ 
+
+ 
+
+  
+
+ 
+User Name
+
+  
+
+ 
+Telephone Number
+
+  
+
+ 
+Email Address
+
+ 
+1
+
+  
+
+  
+
+  
+
+ 
+2
+
+  
+
+  
+
+  
+
+ 
+3
+
+  
+
+  
+
+  
+
+ 
+1. Free Maintenance Support Services. 
+There are no additional fees for the services that are included
+under this Exhibit (“
+Maintenance Support Services
+”) unless the parties expressly agree otherwise in writing.
+ 
+ 
+
+2. Applying Updates Promptly.
+ In order for Client to obtain the benefit of Corrections and enhancements on a timely basis, Client agrees
+to apply any Updates to Client’s supported Software within a reasonable time after they become available and Client has had a reasonable time to test them. 
+
+3. Maintenance Support Services Overview. 
+Relativity provides Client’s Designated Application Support Administrators with the
+following Maintenance Support Services in accordance with this Agreement: 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+“Standard
+ Technical Support”
+ as further described below 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+“Product
+ Updates and Releases”
+ as further described and limited below 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Applicable Product Release Notes, product announcements and company information 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Electronic-based Documentation for Client to install and use the Software 
+
+4. Client’s Designated Application Support Administrators. 
+The Agreement allows Client to designate up to five (5) Designated
+Application Support Administrators as points of contact for maintenance and support; the initial contacts are set forth above. Client may update the contacts as needed by sending an email to 
+support@relativity.com
+. Client must use reasonable
+efforts to (a) escalate support issues within Client’s Designated Application Support Administrators, and (b) minimize uncoordinated support requests by different Designated Application Support Administrators regarding the same issue.
+Client may also add additional Designated Application Support Administrators, provided:
+ 
+ 
+a. All additional Designated
+Application Support Administrators shall first successfully participate in Relativity’s applicable two (2) day Relativity Administrative training program (
+https://relativity.com/ediscovery-training/
+); 
+
+b. If Client exceeds ten (10) Designated Application Support Administrators, Client shall always include and maintain at least one
+(1) full time employee who is a Relativity Certified Administrator (“
+RCA
+”), i.e. the person must have successfully passed Relativity’s applicable Relativity Certified Administrator exam, each time Client begins the new
+level of ten (10) additional Designated Application Support Administrators (beginning when the first such Designated Application Support Administrator is added within such level). 
+
+c. For example, if Client has eleven (11) to twenty (20) Designated Application Support Administrators, at least one (1) must
+be a full time employee who is an RCA. As another example, if Client has 
+twenty-one
+ (21) to thirty (30) Designated Application Support Administrators, at least two (2) must be full time
+employees who are RCAs. 
+ 
+5. End User Calls
+ 
+and Emails. 
+Client will route all 
+end-user
+
+calls and emails seeking support or maintenance through Client’s Designated Application Support Administrators to Relativity’s Support team for resolution.
+ 
+ 
+
+ 
+ 
+31 
+
+6. Contacting Relativity Support. 
+The telephone number for Relativity Client Support
+is 
+312-676-5099.
+ Alternatively, Client may send an 
+e-mail
+ to 
+support@relativity.com
+. All maintenance support calls
+and emails are entered into Relativity’s Client Support tracking system. The following information is typically logged for all calls received:
+ 
+ 
+ 
+ 
+
+•
+
+  
+
+Date/Time Call Received
+
+  
+
+•
+
+  
+
+Contact Phone Number
+
+•
+
+  
+
+Contact Name
+
+  
+
+•
+
+  
+
+Software Application / Program and Version
+
+•
+
+  
+
+Contact Company
+
+  
+
+•
+
+  
+
+Description of Inquiry
+
+•
+
+  
+
+Contact Email Address
+
+  
+
+•
+
+  
+
+Severity
+
+ 
+Client will receive a “Case Number” from the Relativity Client Support Team representative. Client
+should reference this number when requesting any update on the status.
+ 
+ 
+ 
+7. Standard Technical Support.
+ 
+
+a. 
+Support Hours.
+ Relativity provides Standard Technical Support during Relativity’s regular client support business hours
+in its global headquarters. Regular client support business hours for direct phone 
+pick-up
+ by Relativity client support personnel will, at a minimum, include Weekdays, 8:00 am to 8:00 pm US Central Time.
+Relativity may extend regular business hours for direct phone 
+pick-up
+ to include additional periods, and Relativity currently has extended regular business hours in place 24/7. In any event, before and after
+regular client support business, calls for Severity Level 1 and Severity Level 2 will be forwarded to 
+on-call
+ Relativity personnel to handle consistent with this 
+Exhibit C
+.
+ 
+
+b. 
+Covered Support. 
+Relativity Standard Technical Support covered by this agreement includes: (i) assisting Client in
+diagnosing Errors in the Software; and (ii) providing technical services to Client and/or taking other actions to attempt to provide Corrections of diagnosed Errors. For the purposes of this Agreement: (1) “
+Error
+” means an
+error, defect, or malfunction in the Software or a mistake in the Documentation that prevents one or more material functions of the Software or the end user’s use thereof from functioning in substantial conformance to the Documentation; and (2)
+“
+Correction
+” means a change or enhancement respecting such functions of the Software or the Documentation that reestablishes or maintains substantial conformity between the Software and the Documentation. 
+
+c. 
+Support Period. 
+Relativity will provide Standard Technical Support for the Term of the Agreement (“
+Support Period
+”)
+respecting the Software subject to the following provisions. Each time Relativity issues a new Release, Relativity will continue to provide Standard Technical Support for the superseded Release for a period of at least eighteen (18) months
+(“
+Sunset Support Period
+”) from the date when the superseded Release originally became generally available, except as otherwise provided herein. The word “
+Release
+” in this Exhibit means a Major Release or a Minor
+Release, whichever is later. Relativity will also provide Standard Technical Support for Minor Updates issued under the latest Release; 
+however
+,
+ issuing Minor Updates does not start a new Sunset Support Period for those Minor Updates.
+If Relativity issues Releases for different Software products (including 
+Add-Ons)
+ on different schedules, then Relativity may apply the term “Release” herein on a 
+product-by-product
+ basis. In such case, Relativity may modify the existing Sunset Support Period and start a new Sunset Support Period beginning with a new Release of such product to maintain compatibility
+with Relativity Review and/or align with the Relativity Review Release cycle.
+ 
+ 
+ 
+8. Severity Levels And Response Times. 
+This
+section provides guidelines that the Relativity Support Team uses to assign a severity level to Client’s problem. Relativity will assign Severity Levels to issues as they are received, but reserves the right to reclassify the Severity Level at
+its reasonable discretion. 
+ 
+a. 
+Severity 1 – Catastrophic. 
+System is not operational and no work can take place in
+the production environment
+.
+ Catastrophic Severity will be assigned when a production failure results in a debilitating impact to business operations. With all Catastrophic issues, an initial response can be expected as provided in
+Section 9 and will include the original support requestor, as well as the appropriate account and Client support leads. Client’s technical staff and Relativity will dedicate staff to work on the problem until resolved. Continual status
+updates will be provided until the issue has been resolved. 
+ 
+b. 
+Severity 2 – Critical. 
+System is operational; at least
+one mission critical function or one entire case is not operational
+.
+ Critical Severity will be assigned when a critical service interruption or degradation is encountered which creates difficulty but not total impairment in business
+operations. For Critical Severity issues, an initial response can be expected as provided in Section 9 and will include the original support requestor, as well as the appropriate account and Client support leads. Client’s technical staff
+and Relativity will work continually on the problem during normal business hours unless otherwise agreed upon to resolve the issue. Continual status updates will be provided until the issue has been resolved. 
+
+ 
+ 
+32 
+
+c. 
+Severity 3 – Serious. 
+System is operational; at least one 
+non-mission
+ critical function is not operational
+.
+ Serious Severity will be assigned when some functionality is impaired, but overall Client operations continue to function. For Serious Severity issues, an
+initial response can be expected as provided in Section 9 and will include the original support requestor. Relativity will address Serious Severity cases during normal business hours. Status updates will be provided daily until the issue has
+been resolved.
+ 
+ 
+d. 
+Severity 4 – Minor. 
+All functions are operational; nature of request is cosmetic, a
+product enhancement, or a general question
+.
+ Minor Severity will be assigned to all cosmetic defects, enhancement requests regarding the product, or general questions. For Minor Severity issues, an initial response can be expected as provided
+in Section 9 and will include the original support requestor. Relativity will address Minor Severity cases during normal business hours. Status updates will be provided when necessary.
+ 
+
+9. Initial Response Times. 
+Relativity will initially respond to issues based on severity level, as defined above, and time of request.
+An initial response may be by phone or email. An initial response will contain the defined severity of the request, initial questions to begin troubleshooting or a potential resolution. Relativity will use commercially reasonable efforts to comply
+with the Maximum Initial Response Times in the table below. After hours calls should be limited to issues that are Severity 1 and 2.
+ 
+ 
+ 
+ 
+
+Severity Level
+
+  
+
+Maximum Initial Response Time
+
+  
+
+Maximum Initial Response Time
+
+ 
+
+  
+
+ 
+(Normal Business Hours)
+
+  
+
+ 
+(After Hours Support)
+
+Severity 1
+
+  
+
+1
+⁄
+2
+ Hour
+
+  
+
+1
+⁄
+2
+ Hour if notified of issue by phone.
+
+  
+
+  
+
+Next business day if by email.
+
+Severity 2
+
+  
+
+1 Hour
+
+  
+
+2 Hours if notified of issue by phone.
+
+  
+
+  
+
+Next business day if by email.
+
+Severity 3
+
+  
+
+4 Hour
+
+  
+
+NA
+
+Severity 4
+
+  
+
+24 Hours, if response required
+
+  
+
+NA
+
+ 
+10. System Access.
+ Relativity has no independent means to access Client’s deployment of the
+Software.
+ 
+ 
+ 
+11. Escalating Issues. 
+If Client believes the severity level of Client’s problem is insufficient, contact
+Relativity Client Support and request that the severity level be upgraded. If Client feels that a Severity 1 problem is not being adequately addressed, the Client should contact Relativity VP of Operations at 
++1 (312) 493-4292
+ . 
+ 
+
+12. Electronic Based Documentation. 
+Relativity will make electronic documentation available to Client’s Designated Application
+Administrators via the Relativity website at 
+https://relativity.com/support/
+. Call or email the Relativity Support Team if Client’s Designated Application Administrators do not already have the required information to access this element
+of the Relativity website.
+ 
+ 
+ 
+13. Product Updates and Releases.
+ Relativity may issue Minor Updates, Minor Releases, Major
+Releases, Critical Patches and 
+Add-Ons,
+ as described herein and otherwise on such schedule as Relativity determines from time to time. As noted above, the word “
+Release
+” in this Exhibit
+can refer to either a Major Release or a Minor Release, whichever is later. In connection with each Release, Relativity will seek to provide written release highlights that describe or highlight the enhancements or other changes. Relativity may also
+provide new user guides and/or technical reference manuals
+ 
+ 
+a. 
+Minor Updates / Monthly Updates.
+ ”
+Minor
+Updates
+” are modified versions of the Software that are issued on a more frequent regular basis than Minor Releases, and include minor enhancements and/or corrections of defects. If Relativity issues Minor Updates on a regular monthly
+basis, Relativity may call them “
+Monthly Updates
+.” Relativity may limit Minor Updates to modifying the latest Major or Minor Release. A Minor Update can be distinguished by having a third digit or longer string of digits in the
+release number (e.g. Version 9.2.2 or 9.3.237.3). 
+ 
+b. 
+Minor Releases. 
+“
+Minor Releases
+” are scheduled releases of
+modified versions of the Software created to correct defects and/or provide improvements in existing architectural and business features. Relativity may limit Minor Releases to modifying the latest Release of the Software. New Minor Releases are
+only included as part of the annual fee pricing during the initial three (3) year term of this Agreement (and during any new three (3) year renewal term if the parties enter into a mutually satisfactory formal written amendment for a
+renewal term, unless such amendment provides otherwise). A Minor Release can be distinguished by having two digits in the release number (e.g. Version 9.1). 
+
+ 
+ 
+33 
+
+c. 
+Major Releases. 
+“
+Major Releases
+” are less frequently scheduled
+releases of modified versions of the Software that include upgrades, new application functionality, and/or significant technological advancements compared to the last Major Release. Relativity may consider cumulative improvements provided in Minor
+Releases since the last Major Release in determining whether the overall upgrades, new application functionalities, and/or significant technological advancements justify designation of a new Major Release. New Major Releases are only included as
+part of the annual fee pricing during the initial three (3) year term of this Agreement (and during any new three (3) year renewal term if the parties enter into a mutually satisfactory formal written amendment for a renewal term, unless
+such amendment provides otherwise). A Major Release can be distinguished by having one primary digit in the release number (e.g. Version 9.0).
+ 
+ 
+
+d. 
+Critical Patches.
+ “
+Critical Patches
+” are unscheduled releases of changes to the Software that Relativity will
+provide, if necessary, to address security issues or catastrophic or mission critical defects (Severity Level 1 or 2). Each time Relativity issues a new Release, Relativity will continue to provide Critical Patches for the superseded Release
+for a period of at least eighteen (18) months from the date when the superseded Release originally became generally available, except as otherwise provided herein. A Critical Patch can be distinguished by having a third digit or longer string
+of digits in the release number (e.g. Version 9.2.2 or 9.3.237.3). 
+ 
+e. 
+Add-Ons.
+ 
+Relativity
+may make available suites or products of separate functionality that Client may license as an “
+Add-On
+” option to Client’s existing Software.
+
+Add-ons
+ are not included as a part of the pricing under this Agreement unless they are expressly licensed in the Exhibits
+. 
+Add-ons
+ can be distinguished by the
+addition of a separate product name or a release number that is independent of this Software.
+ 
+ 
+ 
+14. Excluded Support.
+
+Examples of services not covered by this Agreement (but which may be available for additional fees as described in 
+Exhibit B
+ payable within thirty (30) days after billed) include:
+ 
+ 
+
+ 
+
+ 
+•  Administrator or end user training
+
+ 
+ 
+•  Client requested enhancements
+and features
+ 
+ 
+ 
+•  Software
+installation or onsite support
+ 
+ 
+
+•  Environment configuration
+ 
+ 
+
+•  Translations from English to other languages
+
+  
+
+ 
+•  Environment trouble shooting issues not associated with Relativity’s
+Software
+ 
+ 
+ 
+•  Trouble shooting
+problems with data not formatted per Relativity’s standard load file specifications
+ 
+ 
+
+•  Database/case migration to or from the Software
+
+ 
+ 
+34

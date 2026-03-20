@@ -1,6 +1,6 @@
 EX-10.1
 
-2
+3
 
 ex10-1.htm
 
@@ -11,68 +11,828 @@ Exhibit
 
  
 
+SHARED
+SERVICES AGREEMENT
+
+ 
+
+between
+
+ 
+
+VINCO
+VENTURES, INC.
+
+ 
+
+and
+
+ 
+
+CRYPTYDE,
+INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+SHARED
+SERVICES AGREEMENT
+
+ 
+
 THIS
-SOFTWARE LICENSE AGREEMENT made the 26th day of February 2019.
-
- 
-
-B
-E T W E E N:
-
- 
-
-NOVO
-INTEGRATED SCIENCES INC., 
-a corporation incorporated under the laws of the State of Nevada;
-
- 
-
-(“
-Parent
+SHARED SERVICES AGREEMENT (this “
+Agreement
+”) is being entered into as of _______, 2021 and shall be effective on such
+date (the “Effective Date”), by and between Vinco Ventures, Inc., a Nevada corporation (“
+Vinco
+”) and Cryptyde,
+Inc., a Nevada corporation (“
+Cryptyde
+”). The above-named entities are each referred to in this Agreement as a “
+Party
 ”
-)
+and collectively as the “
+Parties
+”.
 
  
 
--and-
+R
+E C I T A L S:
 
  
 
-NOVO
-HEALTHNET LIMITED
-, a wholly owned Canadian subsidiary of the Parent;
+WHEREAS
+,
+Vinco and Cryptyde intend to use commercially reasonable efforts to negotiate and enter into a mutually acceptable transition services
+agreement covering support services, management services and related costs, human resources services, procurement services, tax services,
+finance services and other services to be mutually agreed; and
 
  
 
-(“Purchaser”)
+WHEREAS
+,
+the Parties each desire to provide, or cause to be provided, to the Recipients indicated on the Schedules hereto, and such Recipients
+desire to accept and receive, the Services and other services and rights set forth herein.
 
  
 
--
-and -
-
- 
-
-CLOUD
-DX INC., 
-a corporation incorporated under the laws of the State of Delaware;
-
- 
-
-(“
-Seller
-”)
-
- 
-
-BACKGROUND:
+NOW
+THEREFORE
+, in consideration of the mutual covenants and agreements hereinafter set forth, and for other good and valuable consideration,
+the receipt and sufficiency of which are hereby acknowledged, Vinco and Cryptyde agree as follows:
 
  
 
 1.
 
-Seller
- owns all rights, title and interest to the Software; and
+Definitions
+ and Interpretation
+
+ 
+
+1.1
+Definitions
+. In this Agreement, the following terms have the meanings specified or referred to in this 
+Section 1.1
+:
+
+ 
+
+“
+AAA
+”
+
+has the meaning specified in 
+Section 10.2
+.
+
+ 
+
+“
+Action
+”
+means any suit, action, cause of action, proceeding, claim, complaint, grievance, arbitration proceeding, demand, citation, summons,
+subpoena, cease and desist letter, injunction, notice of violation or irregularity, review or investigation (whether civil, criminal,
+regulatory or otherwise and whether at law or in equity) before or by any Governmental Entity or before any arbitrator.
+
+ 
+
+“
+Additional
+Service
+” has the meaning specified in 
+Section 2.1(b)
+.
+
+ 
+
+“
+Affiliate
+”
+means, with respect to any Person, another Person that, at the time of determination, directly or indirectly, through one or more intermediaries,
+controls, is controlled by, or is under common control with, such first Person, whether by Contract, possession (directly or indirectly)
+of power to direct or cause the direction of the management or policies of a Person or the ownership (directly or indirectly) of securities
+or other interests in such Person; 
+provided that
+, for the purposes of this Agreement, (i) neither _____ nor any of its Subsidiaries
+shall be treated as Affiliates of _____ or any of its other Subsidiaries (other than _____ and its Subsidiaries) and (ii) neither _____
+nor any of its Subsidiaries (other than _____ and its Subsidiaries) shall be treated as Affiliates of _____ or any of its Subsidiaries.
+
+ 
+
+“
+Agreement
+”
+has the meaning specified in the first paragraph.
+
+ 
+
+“
+Closing
+Date
+”
+ has the meaning specified in the Merger Agreement.
+
+ 
+
+2
+
+ 
+
+ 
+
+“
+Confidential
+Information
+” has the meaning specified in 
+Section 4.1
+.
+
+ 
+
+“
+Contract
+”
+means a contract, agreement, arrangement or lease, whether written or oral.
+
+ 
+
+“
+CPI-U
+”
+
+means the unseasonably adjusted U.S. City Average All Items Consumer Price Index for All Urban Consumers, published by the Bureau
+of Labor Statistics or if such index is no longer published, a comparable index published at least annually by a reasonably similar source
+agreed to by the Parties.
+
+ 
+
+“
+Dispute
+Date
+” has the meaning specified in 
+Section 10.1
+.
+
+ 
+
+“
+Effective
+Date
+” has the meaning specified in the first paragraph.
+
+ 
+
+“
+Executives
+”
+means Lisa King for Vinco and Brian McFadden for Cryptyde.
+
+ 
+
+“
+Exhibit
+”
+
+means any exhibit attached hereto.
+
+ 
+
+“
+Expenses
+”
+means any and all expenses incurred in connection with investigating, defending or asserting any Action incident to any matter indemnified
+against hereunder (including court filing fees, court costs, arbitration fees or costs, witness fees, and reasonable fees and disbursements
+of legal counsel, investigators, expert witnesses, consultants, accountants and other professionals).
+
+ 
+
+“
+Facilities
+Management Services
+”
+ has the meaning specified in 
+Schedule G
+.
+
+ 
+
+“
+Fees
+”
+means, with respect to any given Service, (a) charges for the provision of such Service and (b) other than for Management Services, reasonable
+out-of-pocket expenses (which, for the avoidance of doubt, shall not include allocations for overhead or similar general operating expenses)
+incurred by a Provider on behalf of a Recipient in the provision of such Service (regardless of whether such reasonable out-of-pocket
+expenses are listed on any Schedule); 
+provided
+, that the aggregate of all out-of-pocket expenses not set forth on a Schedule for
+all Services shall not exceed $500,000 per Service Period, in each case, unless the Parties otherwise agree to exceed such amounts. For
+purposes of clarification, Vinco shall be responsible for its out-of-pocket expenses incurred in connection with delivery of the Management
+Services.
+
+ 
+
+“
+Financial
+Services
+” has the meaning specified in 
+Schedule B
+.
+
+ 
+
+“
+Force
+Majeure
+” has the meaning specified in 
+Section 11.12
+.
+
+ 
+
+“
+Governmental
+Entity
+” means any domestic or foreign (whether national, federal, state, provincial, local or otherwise) government or
+any court, administrative agency or commission or other governmental or regulatory authority or agency, domestic, foreign or supranational.
+
+ 
+
+“
+HIPAA
+”
+has the meaning specified in 
+Section 4.4
+.
+
+ 
+
+“
+HR
+Services
+” has the meaning specified in 
+Schedule A
+.
+
+ 
+
+“
+Indemnified
+Party
+” and “
+Indemnified Parties
+” have the meanings specified in 
+Section 7.1
+.
+
+ 
+
+“
+Indemnifying
+Party
+” has the meaning specified in 
+Section 7.1
+.
+
+ 
+
+“
+Information
+Systems Services
+” has the meaning specified in 
+Schedule J
+.
+
+ 
+
+“
+Initial
+Service Period
+” has the meaning specified in 
+Section 5.1
+.
+
+ 
+
+3
+
+ 
+
+ 
+
+“
+Intellectual
+Property
+” means all trademarks, service marks, trade names, trade dress, including all goodwill associated with the foregoing,
+domain names, copyrights, Software and Internet websites, and registrations and applications to register or renew the registration of
+any of the foregoing, patents and patent applications and Trade Secrets.
+
+ 
+
+“
+Law
+”
+(and with the correlative meaning “
+Laws
+”) means rule, regulation, statute, order, ordinance, guideline, or other legally
+enforceable requirement, including, but not limited to common law, state and federal laws or securities laws and laws, rules and regulations
+of foreign jurisdictions.
+
+ 
+
+“
+Liability
+”
+means any and all claims, debts, liabilities and obligations, absolute or contingent, matured or unmatured, liquidated or unliquidated,
+accrued or unaccrued, known or unknown, whenever arising (unless otherwise specified in this Agreement), including all reasonable out-of-pocket
+costs and reasonable attorneys’ fees and expenses relating thereto, and including those debts, liabilities and obligations arising
+under any Law, and those arising under any Contract, commitment or undertaking.
+
+ 
+
+“
+Loss
+”
+means any and all losses, costs, obligations, liabilities, settlement payments, awards, judgments, fines, penalties, damages, fees, expenses,
+deficiencies, or other charges, absolute or contingent, matured or unmatured, liquidated or unliquidated, accrued or unaccrued, known
+or unknown (including the costs and expenses of any and all Actions, demands, assessments, judgments, settlements and compromises relating
+thereto and attorneys’ fees and any and all expenses whatsoever reasonably incurred in investigating, preparing or defending against
+any such Actions or threatened Actions).
+
+ 
+
+“
+Management
+Services
+” has the meaning specified in 
+Schedule C
+.
+
+ 
+
+“
+Merger
+Agreement
+” has the meaning specified in the first WHEREAS clause.
+
+ 
+
+“
+Open
+Source Software License Agreement
+” has the meaning specified in the Proprietary Software License Agreement.
+
+ 
+
+“
+Overdue
+Rate
+” means the prime rate of interest as published in the 
+Wall Street Journal
+ on the date a payment hereunder was
+due plus one percent (1%).
+
+ 
+
+“
+Party
+”
+means Vinco and Cryptyde.
+
+ 
+
+“
+Parties
+”
+means Vinco and Cryptyde together.
+
+ 
+
+“
+Person
+”
+means an individual, corporation, partnership, joint venture, association, trust, limited liability company, Governmental Entity, unincorporated
+organization or other entity.
+
+ 
+
+“
+Procurement
+Services
+” has the meaning specified in 
+Schedule D
+.
+
+ 
+
+“
+Provider
+”
+means an entity providing a Service hereunder, as indicated on the Schedules hereto. Vinco, Cryptyde or any of their respective Affiliates
+may serve as a Provider hereunder.
+
+ 
+
+“
+Provider
+Invoice
+” has the meaning specified in 
+Section 3.2
+.
+
+ 
+
+“
+Provider
+Party
+” has the meaning specified in 
+Section 2.1(b)
+.
+
+ 
+
+“
+Provider
+Service Manager
+” has the meaning specified in 
+Section 2.3(a)
+.
+
+ 
+
+4
+
+ 
+
+ 
+
+“
+Provider
+Software
+” means all computer systems, software programs and databases and external data services used by a Provider (i)
+prior to the Effective Date in providing services to a Recipient or (ii) in the performance of Services hereunder and that the Provider
+has the right to use.
+
+ 
+
+“
+Technology
+Services
+” has the meaning specified in 
+Schedule F
+.
+
+ 
+
+“
+Recipient
+”
+means an entity receiving a Service hereunder, as indicated on the Schedules hereto. Vinco, Cryptyde or any of their respective Affiliates
+may be a Recipient hereunder.
+
+ 
+
+“
+Recipient
+Data
+” means all correspondence, communications, memos, e-mails, electronic or paper records, electronic or paper documents
+or other information, including but not limited to client databases, pricing, collections, and any other financial information, prepared
+or generated by any Provider with respect to any Recipient or its businesses during the term of this Agreement contained in such Provider’s
+data files or systems, any additions or modifications made thereto by Provider in the course of performing Services under this Agreement,
+and any output data resulting from the delivery of Services by Provider.
+
+ 
+
+“
+Recipient
+Party
+” has the meaning specified in 
+Section 2.1(b)
+.
+
+ 
+
+“
+Recipient
+Service Manager
+” has the meaning specified in 
+Section 2.3(a)
+.
+
+ 
+
+“
+Records
+”
+has the meaning specified in 
+Section 3.3(a)
+.
+
+ 
+
+“
+SaaS
+Services
+” has the meaning specified in 
+Schedule H
+.
+
+ 
+
+“
+Schedule
+”
+means any schedule attached hereto.
+
+ 
+
+“
+Service
+Manager
+” has the meaning specified in 
+Section 2.3(a)
+.
+
+ 
+
+“
+Service
+Period
+” has the meaning specified in 
+Section 5.1
+.
+
+ 
+
+“
+Services
+”
+has the meaning specified in 
+Section 2.1(a)
+.
+
+ 
+
+“
+Software
+”
+means all computer software, including application software, operating system software and firmware including all source code and object
+code versions thereof, in any and all forms and media, and all related documentation.
+
+ 
+
+“
+Subsidiary
+”
+means, with respect to any Person, another Person of which more than 50% of any class of capital stock, voting securities, other voting
+ownership or voting partnership interests (or, if there are no such voting interests, more than 50% of the equity interests) are owned
+or controlled, directly or indirectly, by such first Person.
+
+ 
+
+“
+Tax
+Services
+” has the meaning specified in 
+Schedule E
+.
+
+ 
+
+“
+Trade
+Secrets
+” shall mean all inventions, processes, designs, formulae, trade secrets, know-how, ideas, research and development,
+data, databases and confidential information.
+
+ 
+
+5
+
+ 
+
+ 
+
+“
+Transition
+and Migration Plan
+” has the meaning specified in 
+Section 5.4(c)
+.
+
+ 
+
+1.2
+
+Interpretation
+.
+
+ 
+
+(a)
+In this Agreement, unless the context clearly indicates otherwise:
+
+ 
+
+ 
+
+(i)
+
+words
+ used in the singular tense include the meanings of those words in the plural tense, and words used in the plural tense include the
+ meanings of those words in the singular tense; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+reference
+ to any Person includes such Person’s successors and assigns but, if applicable, only if such successors and assigns are permitted
+ by this Agreement; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+reference
+ to any gender includes the other gender; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iv)
+
+the
+ words “include”, “includes” and “including” shall each be deemed to be followed by the term “without
+ limitation”; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(v)
+
+reference
+ to any section, paragraph, exhibit or schedule means such section or paragraph of, or such exhibit or schedule to, this Agreement,
+ as the case may be, and references in any section or definition to any clause means such clause of such section or definition; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(vi)
+
+the
+ words “herein,” “hereunder,” “hereof,” “hereto” and words of similar import shall
+ be deemed references to this Agreement as a whole and not to any particular Section or other provision hereof; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(vii)
+
+reference
+ to any agreement, instrument or other document means such agreement, instrument or other document as amended, supplemented and modified
+ from time to time to the extent permitted by the provisions thereof and by this Agreement; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(viii)
+
+reference
+ to any Law (including statutes and ordinances) means such Law (including all rules and regulations promulgated thereunder) as amended,
+ modified, codified or reenacted, in whole or in part, and in effect at the time of determining compliance or applicability; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ix)
+
+relative
+ to the determination of any period of time, “from” means “from and including,” “to” means “to
+ but excluding” and “through” means “through and including”; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(x)
+
+in
+ the event of any conflict between the provisions of the body of this Agreement and the Exhibits or Schedules hereto, the provisions
+ of the body of this Agreement shall control, unless an Exhibit or Schedule expressly provides otherwise; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(xi)
+
+the
+ titles and sections contained in this Agreement have been inserted for convenience of reference only and shall not be deemed to be
+ a part of or to affect the meaning or interpretation of this Agreement; and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(xii)
+
+any
+ portion of this Agreement obligating a Party to take any action or refrain from taking any action, as the case may be, shall mean
+ that such Party shall also be obligated to cause its relevant Affiliates or subcontractors to take such action or refrain from taking
+ such action, as the case may be. 
+
+ 
+
+(b)
+This Agreement was negotiated by the Parties with the benefit of legal representation, and any rule of construction or interpretation
+otherwise requiring this Agreement to be construed or interpreted against either Party shall not apply to any construction or interpretation
+hereof.
+
+ 
+
+6
 
  
 
@@ -80,976 +840,1108 @@ Seller
 
 2.
 
-Seller
- has the exclusive right to License the Software worldwide into all industry sectors; and
-
- 
-
- 
-
-3.
-
-Seller
- wishes to sell, and Purchaser wishes to buy, a fully paid up, perpetual license to use the Seller’s Software in accordance
- with the terms set forth herein;
-
- 
-
- 
-
-4.
-
-Seller
- wishes to sell, and Purchaser wishes to buy, 4,000 fully functional Pulsewave PAD 1A USB Blood Pressure Monitor Devices bundled
- with the perpetual license mentioned in point 3 above.
-
- 
-
-NOW
-THEREFORE
- in consideration of the background and the mutual covenants contained herein and other good and valuable consideration
-(the receipt and sufficiency of which are hereby acknowledged), the Parties agree as follows:
-
- 
-
-Article
-1
-
-INTERPRETATION
-
- 
-
-1.1
-
-Definitions
-
- 
-
-Whenever
-used in this Agreement, unless there is something in the subject matter or context inconsistent therewith, the following words
-and terms shall have the meaning ascribed to them in this Section 1.1:
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(a)
-
-“
-Agreement
-”
- means this Software License Agreement, all Schedules hereto and all and any other instruments supplemental hereto or in amendment
- or confirmation hereof; the words “hereof”, “hereto” and “hereunder” and similar expressions
- refer to this Agreement and not to any particular article or section; the word “Article” or “Section”
- refers to the specified article or section of this Agreement;
-
- 
-
- 
-
- 
-
- 
-
-(b)
-
-“
-Business
- Day
-” means any day, other than a Saturday, Sunday, statutory or civic holiday in New York, NY;
-
- 
-
- 
-
- 
-
- 
-
-(c)
-
-“Confidential
- Information” 
-of a Party means all data and information relating to the business and management of such Party which,
- when disclosed to the other Party, is reasonably designated as confidential, provided, however, that Confidential Information
- shall not include any data or information which:
-
- 
-
- 
-
-(i)
-
-is
- or becomes publicly available through no fault of the other Party;
-
- 
-
- 
-
- 
-
- 
-
-(ii)
-
-is
- already in the rightful possession of the other Party prior to its receipt from the Party
-
- 
-
- 
-
- 
-
- 
-
-(iii)
-
-is
- independently developed by the other Party without knowledge or use of or reference to the Confidential Information of the
- Party;
-
- 
-
- 
-
- 
-
- 
-
-(iv)
-
-is
- rightfully obtained by the other Party from a third party not in violation of any confidentiality obligation of such third
- party;
-
- 
-
- 
-
- 
-
- 
-
-(v)
-
-is
- disclosed with the written consent of the Party whose information it is; or
-
- 
-
- 
-
- 
-
- 
-
-(vi)
-
-is
- disclosed pursuant to court order or other legal compulsion;
-
- 
-
- 
-
-(d)
-
-“
-Closing
-”
- means the date of execution by all parties and the subsequent filing of the Agreement with the SEC.
-
- 
-
- 
-
- 
-
- 
-
-(e)
-
-“
-Documentation
-”
- means any and all interpretative comments therein and all information in documentary form used or useful in or relating to
- the design, use, sale, maintenance or marketing of the Licensed Software and associated Bundled Pulsewave Devices including,
- but not limited to, systems manuals, program manuals, test and diagnostic information, maintenance information, program listings,
- flow charts, drawings, application manuals, user manuals and operating procedures including the documentation identified in
- Schedule A;
-
- 
-
- 
-
- 
-
- 
-
-(f)
-
-“
-Group
-”
- in relation to a company, its majority-owned subsidiaries, holding companies, divisions and affiliates;
-
- 
-
- 
-
- 
-
- 
-
-(g)
-
-“
-Including
-”
- means “including without limitation” and is not to be construed to limit any general statement which it follows
- to the specific or similar items or matters immediately following it;
-
- 
-
- 
-
- 
-
- 
-
-(h)
-
-“
-Intellectual
- Property
-” includes any proprietary right provided under
-
- 
-
- 
-
-(i)
-
-patent
- law,
-
- 
-
- 
-
- 
-
- 
-
-(ii)
-
-copyright
- law,
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(iii)
-
-trademark
- law,
-
- 
-
- 
-
- 
-
- 
-
-(iv)
-
-design
- patent or industrial design law,
-
- 
-
- 
-
- 
-
- 
-
-(v)
-
-internet
- domain names,
-
- 
-
- 
-
- 
-
- 
-
-(vi)
-
-any
- other statutory provision or common law principle applicable to the Licensed Software and Bundled Pulsewave Devices which
- may provide a right in either:
-
- 
-
- 
-
-(A)
-
-ideas,
- formulae, algorithms, concepts, inventions or know-how generally including trade secret law, or
-
- 
-
- 
-
- 
-
- 
-
-(B)
-
-the
- expression of such ideas, formulae, algorithms, concepts, invention or know-how;
-
- 
-
- 
-
-(i)
-
-“Licensed
- Software”
- means the software product licensed by Purchaser as specified on Schedule “A”;
-
- 
-
- 
-
- 
-
- 
-
-(j)
-
-“Bundled
- Pulsewave Devices” 
-means the Pulsewave Devices that were sold to the Purchaser to be used with the Licensed Software
- as specified in Schedule “A”.
-
- 
-
- 
-
- 
-
- 
-
-(k)
-
-“
-Parties
-”
- means Seller, Purchaser and Parent, collectively, and “
-Party
-” means any one of them;
-
- 
-
- 
-
- 
-
- 
-
-(l)
-
-“
-Person
-”
- includes an individual, corporation, partnership, joint venture, trust, unincorporated organization, or any agency or instrumentality
- thereof or any other juridical entity;
-
- 
-
- 
-
- 
-
- 
-
-(m)
-
-“
-Purchase
- Price
-” means the purchase price to be paid by the Purchaser to Seller for the Licensed Software and Bundled Pulsewave
- Devices as defined in Schedule “B”.
-
- 
-
- 
-
- 
-
- 
-
-(n)
-
-“Physiotherapy
- Clinics” 
-means any clinic that offers para-medical services focused on physical therapy, orthotics, chiropractic,
- nutrition, massage, wellness, esthetic & cosmetic services (e.g. “botox”, “restylane”) and related
- non-medical services, sometimes called “multi-disciplinary clinics”. This definition excludes pharmacies and services
- offered by licensed medical professionals including medical doctors (MD/PhD), nurses, nurse practitioners, physician assistants,
- licensed practical nurses and staff that deliver medical care.
-
- 
-
- 
-
- 
-
- 
-
-(o)
-
-“Exclusivity
- Conditions” 
-means the conditions as specified in Schedule “C”.
-
- 
-
- 
-
- 
-
- 
-
-(p)
-
-“Additional
- Services & Privileges”
- means the additional services & privileges that are provided by CDX on a “for
- fee” basis or “no fee” basis as specified in schedule “D”
-
- 
-
- 
-
- 
-
- 
-
-(q)
-
-“CTG
- Carve Out” 
-means that Physiotherapy Clinics owned and operated by Closing The Gap Healthcare Inc. (CTG) are excluded
- from the exclusive rights granted and marketplace that is assigned to the Purchaser by this Agreement. (CTG currently owns
- and operates 11 Physiotherapy Clinics in Canada).
-
- 
-
-1.2
-
-Extended
- Meanings
-
- 
-
-Words
-expressed in the singular include the plural and vice versa and words in one gender include all genders.
-
- 
-
- 
-
- 
-
- 
-
-1.3
-
-Entire
- Agreement
-
- 
-
-This
-Agreement, including Schedules “A/B/C/D” hereto, together with the agreements and other documents to be delivered
-pursuant hereto, constitute the entire agreement between the Parties pertaining to the subject matter hereof and supersede all
-prior agreements, understandings, negotiations and discussions, whether oral or written, of the Parties and there are no warranties,
-representations or other agreements between the Parties in connection with the subject matter hereof except as specifically set
-forth herein and therein. The execution of this Agreement has not been induced by, nor do either of the Parties regard as material
-any representation not made expressly herein. No supplement, modification or waiver or termination of this Agreement shall be
-binding unless executed in writing by the Party to be bound thereby. No waiver of any of the provisions of this Agreement shall
-be deemed or shall constitute a waiver of any other provision (whether or not similar) nor shall such waiver constitute a continuing
-waiver unless otherwise expressly provided.
-
- 
-
-1.4
-
-Headings
-
- 
-
-The
-division of this Agreement into Articles, Sections, Subsections and Schedules and the insertion of headings are for convenience
-of reference only and shall not affect the construction of interpretation of this Agreement. The Article, Section, Subsection
-and Schedule headings in this Agreement are not intended to be full or precise descriptions of the text to which they refer and
-shall not be considered part of this Agreement.
-
- 
-
-1.5
-
-Schedules
-
- 
-
-The
-following Schedules form part of this Agreement:
-
- 
-
- 
-
-Schedule
- “A” - 
-
-Description
- and Use of Licensed Software & Bundled Pulsewave Devices
-
- 
-
- 
-
- 
-
- 
-
-Schedule
- “B” -
-
-Description
- of Payment of Purchase Price
-
- 
-
- 
-
- 
-
- 
-
-Schedule
- “C”- 
-
-Description
- of Exclusivity Conditions
-
- 
-
- 
-
- 
-
- 
-
-Schedule
- “D”- 
-
-Description
- of Additional Services & Privileges
-
- 
-
-Article
-2
-
-PURCHASE
-AND SALE OF PERPETUAL SOFTWARE LICENSE & BUNDLED PULSEWAVE DEVICES
+Performance
+ of Services by Provider
 
  
 
 2.1
 
-Software
- License & Bundled Pulsewave Devices
+General
+. (a) Each Provider hereunder shall provide to the relevant Recipient(s) hereunder, in accordance with the terms hereof
+and the Schedules, the following services solely for use in the business of such Recipient and its Affiliates:
 
  
 
-Seller
-hereby grants to Purchaser and its Group a fully paid up, perpetual, conditionally exclusive licence (Except for the CTG carve
-out as specified in section 1.1 (o)) to use the Licensed Software with the Bundled Pulsewave Devices in the form and with the
-conditions outlined in detail in Schedule “A/C/D” in the Physical Therapy Clinic marketplace in North America, for
-the Purchase Price and Purchaser accepts such license on the terms set out herein. .
+(i)
+HR Services (as defined in 
+Schedule A
+);
+
+(ii)
+Financial Services (as defined in 
+Schedule B
+);
+
+(iii)
+Management Services (as defined in 
+Schedule C
+);
+
+(iv)
+Procurement Services (as defined in 
+Schedule D
+);
+
+(v)
+Tax Services (as defined in 
+Schedule E
+);
+
+(vi)
+Technology Services (as defined in 
+Schedule F
+);
+
+(vii)
+Facilities Management Services (as defined in 
+Schedule G
+);
+
+(viii)
+SaaS Services (as defined in 
+Schedule H
+);
+
+(ix)
+Intentionally omitted; and
+
+(x)
+Information Systems Services (as defined in 
+Schedule J
+)
+
+ 
+
+(collectively,
+the “
+Services
+,” and each individually, including each individual service forming a part thereof, a “
+Service
+”).
+
+ 
+
+(b)
+
+Additional Services
+. If at any time during the term hereof, a Recipient becomes aware of any service the provision of which by
+a Provider is necessary or advisable, which is not already being provided pursuant hereto (each, an “
+Additional Service
+”),
+then either Vinco (if the Recipient is Vinco or an Affiliate of Vinco) or Cryptyde (if the Recipient is Cryptyde or an Affiliate of Cryptyde)
+(either Party, the “
+Recipient Party
+”) may notify either Vinco (if the Provider is Vinco or an Affiliate of Vinco)
+or Cryptyde (if the Provider is Cryptyde or an Affiliate of Cryptyde) (either Party, the “
+Provider Party
+”) in writing
+of such Additional Service. Upon receipt of such written notice, the Provider Party shall promptly, but in no event later than seven
+(7) days, verify if such request is an Additional Service, and the Parties shall then, as promptly as reasonably practicable, negotiate
+in good faith regarding (i) whether the Provider Party shall provide such Additional Service and (ii) upon the Provider Party’s
+agreement to provide such Additional Service, the scope, terms, duration and cost and fees therefor. Notwithstanding anything to the
+contrary contained herein, if either Party becomes aware of any service, which is not already being provided pursuant hereto, and such
+service was provided by Vinco or its Subsidiaries prior to the Effective Date, then such Party shall notify the other Party in writing
+of any such services and the Parties shall, for thirty (30) days thereafter, negotiate in good faith an amendment or modification hereto
+regarding the scope, terms, duration and cost and fees therefor, which shall be no less favorable to the designated Recipient than the
+terms on which such service was previously provided, and if the Parties cannot reach an agreement on such terms prior to such thirtieth
+day, such service shall not be added hereto as an Additional Service. Once agreed, any such Additional Service shall be a “Service”
+for all purposes of this Agreement and the Parties shall amend this Agreement accordingly. Until the execution of any such amendment,
+neither the Provider Party nor its Affiliates shall be obligated to provide any such Additional Service.
 
  
 
 2.2
 
-No
- Sale of Intellectual Property
+Standard of Care
+. In the performance of the Services, a Provider shall perform the Services at a service level equal to or better
+than the current service level for that particular Service as provided by a Provider to itself or its Affiliates, provided, that with
+respect to a particular Service, the Provider and Recipient may agree on a specific service level relevant to such Service, consistent
+with this general principle, which will be set forth as part of the relevant Schedule. Except as expressly set forth in 
+Schedule J
+
+or as otherwise may be mutually agreed upon in writing by the Parties.
 
  
 
-The
-grant of a licence to use the Licensed Software, as set forth herein, shall not in any way be construed to (i) effect any sale
-to Purchaser of any of the Seller’s proprietary technology or (ii) grant Purchaser any rights in, or to, any Intellectual
-Property Rights of the Seller other than in accordance with this Agreement.
+7
 
  
 
  
 
+2.3
+
+Service Managers
+.
+
+ 
+
+(a)
+Each Provider and Recipient shall designate one or more of its employees or representatives to be manager for each of the categories
+of Services listed in 
+Section 2.1(a)
+ herein (each, a “
+Provider Service Manager
+”, “
+Recipient Service
+Manager
+” or “
+Service Manager
+”, as applicable). Each Service Manager shall be listed in the Schedules hereto
+or shall otherwise be appointed, and the other Party shall be notified of such appointment, promptly after the date hereof. Each Provider
+Service Manager’s responsibilities for his or her identified Services shall include:
+
+ 
+
+(i)
+supervising the performance of a Provider’s obligations (including performance of Services); and
+
+(ii)
+communicating or meeting with the corresponding Recipient Service Manager as reasonably necessary to review progress and to resolve any
+issues relating to the Services.
+
+ 
+
+(b)
+Each Recipient Service Manager’s responsibilities for his or her identified Services shall include:
+
+ 
+
+(i)
+supervising the Recipient’s performance of its responsibilities with respect to the Services; and
+
+(ii)
+communicating or meeting with the corresponding Provider Service Manager as reasonably necessary to review progress and to resolve any
+issues relating to the Services.
+
+ 
+
+(c)
+If a Service Manager of either Party is unable to continue to serve in such capacity or if either Party elects to change a Service Manager,
+such Party shall appoint a successor Service Manager and promptly notify the other Party of such appointment.
+
+ 
+
+2.4
+
+Service Modifications
+.
+
+ 
+
+(a)
+Subject to 
+Section 2.5
+, the Provider Party may reasonably supplement, modify, substitute or otherwise alter any of the Services
+or any component thereof from time to time in a manner consistent with supplements, modifications, substitutions or alterations made
+for similar services provided or otherwise made available by, as applicable, the Provider Party or one of its Affiliates to itself or
+its Affiliates; 
+provided
+, 
+however
+, that the level of service shall not be decreased in any material respect as a result
+of such supplements, modifications, substitutions or alterations; 
+provided
+, 
+further
+, 
+however
+, that prior to any
+such supplement, modification, substitution or other alteration, the Provider Party shall provide the Recipient Party with at least forty-five
+(45) days notice prior to implementing any such change and the Provider Party and Recipient Party shall, during such 45-day period, negotiate
+mutually agreeable terms and conditions for such supplement, modification, substitution or other alteration and if no such agreement
+is reached, the Recipient Party may, at its option (1) agree to such change on the most recent terms proposed by the Provider Party or
+(2) terminate the Service or such component thereof with respect to which such change is proposed on an agreed upon date, which shall
+be no earlier than thirty (30) days after the end of such 45-day period without any further liability or obligation other than the payment
+of Fees for such Services or components thereof provided through the date of such termination, it being understood that during such thirty
+(30) day period such supplement, modification, substitution or alteration shall not be implemented with respect to the Recipient Party.
+Once the Recipient Party has elected to terminate the Service or such component thereof, if an agreement on the date of such termination
+cannot be reached, such termination will occur on the one hundred twentieth (120th) day after the end of the 45-day period unless earlier
+requested by the Recipient Party.
+
+ 
+
+8
+
  
 
  
 
-Article
-3
+(b)
+The Recipient Party may request that the Provider Party supplement, modify, substitute or otherwise alter any of the Services or any
+component thereof. Upon such request, the Parties shall discuss in good faith the scope and nature of such request and related issues,
+including, but not limited to, the Fees therefor. If the Parties agree upon the scope and nature of such request and related issues,
+the Parties shall amend this Agreement accordingly. Until the execution of any such amendment, neither the Provider Party nor its Affiliates
+shall be obligated to provide any such altered Services.
 
-CONSIDERATION
-FOR PURCHASED LICENSE & BUNDLED PULSEWAVE DEVICES
+ 
+
+2.5
+
+Third Persons
+. Following the Effective Date, a Provider may subcontract any of its obligations in relation to the provision of
+any Service or component thereof to a third-Person vendor. Notwithstanding the foregoing, (x) a Provider may not after the Effective
+Date begin to subcontract to a third-Person vendor its obligations in relation to the provision of any Service it is then providing hereunder
+or change a subcontractor that it is using on the Effective Date without the consent of the Recipient if doing so will increase the Fees
+by more than 4% for such Service or component thereof during the current Service Period or materially reduce the level of service, and
+(y) in any case, a Provider shall remain responsible for the performance of such Service or component thereof by such third-Person vendor
+at the same standard of care set forth herein for the Services; 
+provided
+, 
+however
+, that prior to engaging a subcontractor
+to provide a Service then provided by a Provider or changing a subcontractor providing a Service, the Provider Party shall provide the
+Recipient Party with at least forty-five (45) days’ notice prior to implementing any such change and the Provider Party and Recipient
+Party shall, during such 45-day period, negotiate mutually agreeable terms and conditions for such subcontracting and if no such agreement
+is reached, the Recipient may, at its option (1) agree to such subcontracting on the most recent terms proposed by the Provider or (2)
+terminate the Service or component thereof with respect to which such subcontracting is proposed on an agreed upon date, which shall
+be no earlier than thirty (30) days after the end of such 45-day period without any further liability or obligation other than the payment
+of Fees for such Services or component thereof provided through the date of such termination, it being understood that during such thirty
+(30) day period such subcontractor change shall not be implemented with respect to the Recipient Party. Once the Recipient Party has
+elected to terminate the Service or such component thereof, if an agreement on the date of such termination cannot be reached, such termination
+will occur on the one hundred twentieth (120th) day after the end of the 45-day period unless earlier requested by the Recipient Party.
+Notwithstanding anything to the contrary herein, the Provider Party may not increase the fees charged to the Recipient Party by more
+than the actual increase in costs to the Provider Party (if any) to deliver the applicable Service as a result of subcontracting permitted
+under this paragraph.
+
+ 
+
+2.6
+
+Affiliates
+. The Provider Party remains responsible for the performance of any of its Affiliates of the Services. A Provider may
+subcontract any of its obligations in relation to the provision of any Service or component thereof to any of its Affiliates; 
+provided
+that
+ such Affiliate shall be subject to the standard of care set forth in 
+Section 2.2
+ and that the Provider Party remains
+responsible for such performance of such Service or component thereof by such Affiliate at the same standard of care set forth herein
+for the Services.
+
+ 
+
+2.7
+
+Recipient Obligations
+. To enable a Provider to provide the Services, a Recipient shall provide or cause to be provided, at its
+sole cost and expense, such information and materials, furnish access to such data, personnel, software licenses and other resources,
+and take such other actions as are reasonably necessary for the Provider to provide the Services; 
+provided
+, 
+however
+, that
+the Recipient shall not be obligated to provide materially more of the foregoing resources, or incur materially greater expenses in doing
+so, than the Recipient was providing in connection with performance or receipt of the Services prior to the Closing Date under the Merger
+Agreement unless the Recipient agrees to do so.
+
+ 
+
+2.8
+
+Compliance with Laws
+. A Provider shall have no obligation to engage in any unlawful activity in connection with the provision
+of the Services. In the event that either Party becomes aware of a change in the Law applicable to a Service, each shall notify the other
+and negotiate in good faith how to change the Service to accommodate the change in applicable Law (including cost). Any such change shall
+be done in accordance with the provisions of 
+Section 2.4
+. In performing the Services, the Provider Party and any Provider shall
+comply in all material respects with all Laws that apply to the performance of the same.
+
+ 
+
+9
+
+ 
+
+ 
+
+2.9
+
+Limited License
+. Subject to the terms and conditions of this Agreement, the Provider Party hereby grants to the Recipient Party
+a nonexclusive, terminable, limited right and license (or sublicense, as the case may be) to access and/or use the Provider Software
+solely in connection with the receipt of the Services hereunder to the extent that the Recipient Party requires access and use of the
+same; 
+provided
+ that the grant of such license or sublicense for any piece of Provider Software is conditioned upon Provider Party’s
+or its Affiliate’s receipt of any necessary third-Person consents, which the Provider Party and its Affiliates shall use commercially
+reasonable efforts to obtain, provided, that so long as the Recipient Party is informed in writing of such third-Person consent costs
+and agrees in writing to bear such cost, such cost shall be borne solely by the Recipient Party or its Affiliates. If as a result of
+any negotiations with third Persons regarding Provider Software licenses or sublicenses the costs thereof (but not including costs that
+are based on amount of use that increase as a result of increased use) to the Provider increases, the Provider shall bear the full cost
+of such increase and the Fees hereunder shall not be increased. The software covered by the Proprietary Software License Agreement or
+the Open Source Software License Agreement shall be governed by the terms of such agreements, as applicable, and not by this 
+Section
+2.9
+. If a Recipient declines to pay the third-Person consent costs as noted above, the Provider shall not be obligated to grant the
+applicable license or sublicense and the Recipient may, at its option, terminate the Service with respect to which such consent was being
+sought following forty-five (45) days’ notice to the Provider Party of its intent to do so without any further liability or obligation
+other than the payment of Fees for such Services provided through the date of such termination. All rights in and to the Provider Software
+not specifically granted herein are reserved by the Provider Party and its Affiliates, as applicable. The licenses granted pursuant to
+this 
+Section 2.9
+ shall survive the termination or expiration of this Agreement in the event that transition services are being
+provided to the Recipient Party in accordance with 
+Section 5
+ after the effective date of such termination or expiration; 
+provided
+that
+, in the event any such licenses survive the termination or expiration of this Agreement, such licenses shall terminate no later
+than the date of completion of such transition services.
+
+ 
+
+2.10
+
+Personnel Approval, Removal and Continuity
+. At the Recipient Party’s request, the Provider Party will deliver the qualifications
+and experience of all personnel to be assigned to perform the Services hereunder. At any time during the term of this Agreement, the
+Recipient Party shall have the right to reject placement of, or subsequently request replacement of, any personnel that the Recipient
+Party reasonably believes is unqualified or not performing. Within five (5) business days of receiving the Recipient Party’s request
+for removal or replacement, the Parties shall meet to resolve the issue. If, after the meeting, the Recipient Party continues to reject
+or request replacement of the applicable personnel, the Provider Party shall, as promptly as is reasonably practicable under the circumstances,
+fulfill the Recipient Party’s request.
+
+ 
+
+3.
+
+Fees;
+ Invoicing and Payment
 
  
 
 3.1
 
-Purchase
- Price
+Fees Generally
+. The relevant Recipient or Recipient Party shall pay the relevant Provider or Provider Party the amounts set forth
+in 
+Schedule A
+ in consideration for the HR Services, the amounts set forth in 
+Schedule B
+ in consideration for the Financial
+Services, the amounts set forth in 
+Schedule C 
+in consideration for the Management Services, the amounts set forth in 
+Schedule
+D
+ in consideration for the Procurement Services, the amounts set forth in 
+Schedule E
+ in consideration for the Tax Services,
+the amounts set forth in 
+Schedule F
+ in consideration for the Technology Services, the amounts set forth in 
+Schedule G
+ in
+consideration for the Facilities Management Services, the amounts set forth in 
+Schedule H
+ in consideration for the SaaS Services,
+and the amounts set forth in 
+Schedule I
+ in consideration for the Information Systems Services.
 
  
 
-The
-purchase price (the “
-Purchase Price
-”) payable by the Purchaser to Seller for the Software License shall be
-in the form outlined in detail in Schedule “B”.
+10
 
  
 
-Article
-4
+ 
 
-REPRESENTATIONS
-AND WARRANTIES
+3.2
+
+Payments
+. The Provider Party shall submit or cause to be submitted to the Recipient Party or a Recipient, within thirty (30) business
+days following the end of each calendar month, an invoice specifying the Fees for and nature of each of the Services provided during
+the relevant month (each, a “
+Provider Invoice
+”). The Provider Party shall, and shall cause its Affiliates to, provide
+the Recipient Party with such books and records as are necessary to support the amounts in the relevant Provider Invoice as the Recipient
+Party may reasonably request from time to time. The Recipient Party shall pay or cause to be paid in full the amounts due under each
+Provider Invoice within fifteen (15) days after receipt of such Provider Invoice and such payment shall be accompanied by a copy of the
+applicable Provider Invoice. Any portion of the amount due on any Provider Invoice not paid within such fifteen (15) day period shall
+bear interest at the Overdue Rate, calculated on an annualized basis based on a 360-day year comprised of twelve thirty day months, until
+paid in full. All amounts invoiced on Provider Invoices shall be in United States (U.S.) dollars, unless otherwise agreed upon by the
+Parties.
+
+ 
+
+3.3
+
+Audit Rights
+.
+
+ 
+
+(a)
+Each Party agrees to maintain, and to cause its applicable Affiliates to maintain, books and records arising from or related to any Services
+provided hereunder that are accurate and complete in all material respects during the term of each Service and for a period of four (4)
+years following the termination or expiration of such Service, including but not limited to accounting records and documentation produced
+in connection with the rendering of any Service and in the calculation of any compensation payable pursuant hereto (the “
+Records
+”).
+
+ 
+
+(b)
+During the term hereof and for one year thereafter, no more than once during each six month period in each fiscal year, the Recipient
+Party shall have the right to audit the Records of the Provider Party and its Affiliates pertaining to the Services received during that
+fiscal year. The Recipient Party may use an independent auditor to perform any such audit that is reasonably acceptable to the Provider
+Party. Prior to the Recipient Party using an independent auditor, such independent auditor shall enter into an agreement with the Parties,
+on terms that are agreeable to both Parties, under which such independent auditor agrees to maintain the confidentiality of the information
+and materials reviewed during the course of such audit. The findings of such audit shall be considered Confidential Information for the
+purposes of this Agreement.
+
+ 
+
+(c)
+Any audit shall be conducted during regular business hours and in a manner that does not interfere unreasonably with the operations of
+the Provider Party or its Affiliates. Each audit shall begin upon the date agreed by the Parties, but in no event more than ten (10)
+days after notice from the Recipient of such audit, and shall be completed as soon as reasonably practicable. The Recipient Party shall
+pay or cause to be paid the costs of conducting such audit, unless the results of an audit reveal an overpayment of the applicable audited
+Service of 7.5% or more, in which case, the Provider Party shall pay or cause to be paid the lesser of the pro-rata portion of the audit
+fees for auditing such Service or an amount equal to the amount of the overpayment. If the audit concludes that an overpayment or underpayment
+has occurred during the audited period, such payment shall be remitted by the Party or its Affiliate responsible for such payment to
+the other Party or its Affiliate to whom such payment is owed within thirty (30) days after the date such auditor’s written report
+identifying the overpayment or underpayment is delivered to the Party who is, or whose Affiliate is, responsible for such payment, 
+provided
+that
+ should the Provider Party dispute the findings of an audit conducted by the Recipient Party without the use of an independent
+auditor, the Provider Party may withhold any disputed amounts due to the Recipient Party pursuant to this 
+Section 3.3(c)
+ pending
+the resolution of such dispute in accordance with 
+Section 10
+ hereof. Any such finally determined overpayment or underpayment shall
+bear interest at the Overdue Rate, calculated on an annualized basis based on a 360-day year comprised of twelve thirty day months, from
+the date such overpayment or underpayment occurred until paid in full.
+
+ 
+
+11
+
+ 
+
+ 
+
+(d)
+In connection with any audit, the Provider Party shall provide the Recipient Party and the auditors of the Recipient Party who have executed
+a confidentiality agreement in accordance with 
+Section 3.3(b)
+ reasonable access to Records (and permit the Recipient Party and
+the Recipient Party’s auditors to examine and make copies and abstracts from such Records), facilities and management personnel
+and subcontractors (if applicable) with respect to the relevant Services for the purpose of: (A) performing the Recipient Party’s
+end of fiscal quarter or end of fiscal year financial closing process, and to prepare the related financial statements and accounting
+reports, or to revise any financial statements and accounting reports for any prior periods; or (B) performing audits and inspections
+of the relevant businesses necessary to meet applicable regulatory requirements, including Section 404 of the Sarbanes-Oxley Act of 2002.
+
+ 
+
+(e)
+Upon written request from the other Party, each Party shall provide the other Party reasonable access to the Records and relevant personnel
+during the term of each Service (and, for a period of four (4) years following the termination or expiration of such Service, for purposes
+of defending any litigation, the preparation of income and other tax returns, demonstrating to any third-Person as reasonably necessary
+compliance with applicable laws or regulations or pursuant to the request of any applicable regulatory authority); 
+provided
+, 
+however
+,
+that each Party shall bear its own expenses in connection therewith (including out of pocket expenses), such access shall be provided
+at a reasonable time, under the supervision of such first Party’s or its Affiliates’ personnel and in such a manner as not
+to interfere unreasonably with the normal operation of such first Party’s or its Affiliates’ businesses, and shall be subject
+to any confidentiality obligations on the part of the first Party or its Affiliates to any third Person, and provided further that nothing
+herein shall require any Party to provide the other Party access to any information contained in any Record that does not relate to the
+relevant Services. Such access shall include the right to examine and copy Records to the extent relating to the relevant Services, subject
+to the confidentiality obligations set forth in 
+Section 4
+ herein.
+
+ 
+
+3.4
+
+Taxes
+. The Fees set forth in the Schedules do not include any sales, value-added, goods and services, or similar taxes of any
+nature imposed by any federal, state, local or foreign jurisdiction. If a Provider or the Provider Party has the legal obligation to
+collect and/or pay any such taxes with respect to provision of Services (other than Management Services) under this Agreement, the amount
+of (and the jurisdiction imposing) such taxes shall be added to the Provider Invoice to a Recipient or the Recipient Party, separately
+stated, and shall be paid by a Recipient or the Recipient Party to a Provider or the Provider Party; 
+provided that
+ (a) in the
+case of value-added taxes, a Recipient or the Recipient Party shall not be obligated to pay such taxes unless a Provider or the Provider
+Party has issued to a Recipient or the Recipient Party a valid value-added tax invoice in respect thereof, and (b) in the case of all
+such taxes, a Recipient or the Recipient Party shall not be obligated to pay such taxes if and to the extent that a Recipient or the
+Recipient Party has provided any exemption certificates or other applicable documentation that would eliminate or reduce the obligation
+to collect and/or pay such taxes. If a Provider or the Provider Party does not have the legal obligation to collect and/or pay any such
+taxes with respect to the provision of Services to a Recipient or the Recipient Party hereunder, a Recipient or the Recipient Party does
+have such legal obligation with respect to such taxes, and the amount of such taxes has not been added to the Provider Invoice to a Recipient
+or the Recipient Party, a Recipient or the Recipient Party shall pay the invoiced amount to a Provider or the Provider Party without
+reduction for such taxes and shall pay to the applicable federal, state, local or foreign jurisdiction the amount of such taxes due to
+such jurisdiction. With respect to each Service (other than Management Services), a Recipient and the Recipient Party shall hold the
+Provider(s) and the Provider Party harmless from any sales, value added, goods and services, or similar taxes of any nature imposed by
+any federal, state, local or foreign jurisdiction with respect to such Service or payments under this Agreement with respect to such
+Service; 
+provided that
+ in the event a Provider or the Provider Party is obligated by law to add any such taxes to a Provider Invoice
+and fails to do so, neither the Recipient nor the Recipient Party shall be responsible for any penalties imposed as a result of such
+failure.
+
+ 
+
+12
+
+ 
+
+ 
+
+3.5
+
+Sharing of Savings
+. The Parties acknowledge and agree that the Fees for Services are, in part, based upon an allocation of expenses
+associated with personnel involved in providing the HR Services, Procurement Services, Technology Services and Information Systems Services.
+In the event that the Providing Party eliminates some of the personnel, functions or services comprising the HR Services, Procurement
+Services, Technology Services or Information Systems Services, then the Fees charged to the Recipient Party for any such Services shall
+be reduced in accordance with the original percentage of costs allocated to the Fees for such Services during the period in which such
+personnel, functions or services are not provided. In the event that the Parties did not expressly identify in a Schedule the pro-rata
+allocation of costs between the Providing Party and Recipient Party, the Parties will agree upon the pro-rata reduction hereunder based
+upon the actual allocation percentages. For purposes of clarification, if any personnel are terminated by the Providing Party, any severance
+payments or related termination payments shall not be included in the calculation of Fees. This Section 3.5 applies only to the Services
+specifically mentioned in the first two sentences of this Section 3.5 and does not apply to the Management Services identified in 
+Schedule
+C
+, as the Fees identified therein reflect both the applicable Services and other considerations contemplated in the Merger Agreement.
+
+ 
+
+4.
+
+Confidentiality;
+ Data Security
 
  
 
 4.1
 
-Representations
- and Warranties of Seller
-
- 
-
-Seller
-represents and warrants to Purchaser (and acknowledges that Purchaser is relying thereon) that:
-
- 
-
- 
-
-(a)
-
-Seller
- Capacity to Own Assets
- – Seller has all necessary corporate power, authority and capacity to own its property and
- assets (including the Licensed Software).
-
- 
-
- 
-
- 
-
- 
-
-(b)
-
-Due
- Authorization
- – Seller has all necessary corporate power and authority to enter into this Agreement and to carry
- out its obligations hereunder; the execution and delivery of this Agreement and the consummation of the transactions contemplated
- hereunder have been duly authorized by all necessary corporate action on the part of Seller.
-
- 
-
- 
-
- 
-
- 
-
-(c)
-
-Enforceability
- of Obligations
- - This Agreement constitutes a valid and binding obligation of Seller enforceable against it in accordance
- with its terms, provided that enforcement may be limited by bankruptcy, insolvency, liquidation, reorganization, reconstruction
- and other similar laws generally affecting enforceability of creditors’ rights and that equitable remedies such as specific
- performance and injunction are in the discretion of the court from which they are sought.
-
- 
-
- 
-
- 
-
- 
-
-(d)
-
-Absence
- of Conflicting Agreements
- – Seller is not party to, bound or affected by or subject to any indenture, mortgage,
- lease, agreement, instrument, charter or by-law provision, statute, regulation, order, judgment, decree or law which would
- be violated, contravened, breached by, or under which default would occur as a result of, the execution and delivery of this
- Agreement or the consummation of any of the transactions provided for herein other than with respect to certain third party
- consents which are to be obtained as contemplated hereunder and the CTG Carve Out as defined above in this agreement.
-
- 
-
- 
-
- 
-
- 
-
-(e)
-
-Schedules-
- 
-Schedule “A” includes an accurate and comprehensive description of the Licensed Software & Bundled Pulsewave
- Devices. Schedule “B” contains a complete and accurate description of the Purchase Price. Schedule “C”-
- contains a description of Conditional Exclusivity Conditions. Schedule “D”- contains a description of Additional
- Services & Privileges provided by CDX to the Purchaser.
-
- 
-
- 
-
- 
-
- 
-
-(f)
-
-Intellectual
- Property
- - The Seller is the sole legal and beneficial owner of the Intellectual Property and holds its interest in the
- Intellectual Property free and clear of all encumbrances whatsoever.
-
- 
-
- 
-
- 
-
- 
-
-(g)
-
-Maintenance
- of Intellectual Property
- - Seller has dealt with the Intellectual Property in the Licensed Software in such manner as
- to preserve its rights therein including the use of proper notices indicating ownership of and/or rights to use the Intellectual
- Property, to the extent reasonably necessary for the protection of the Intellectual Property, and the prevention of any disclosure
- to the public of any of the confidential information of each which would impair Seller’s rights therein;
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(h)
-
-Standards
- 
-- Seller used consistent and reasonable commercial standards of quality in their creation and development of the Licensed
- Software. Seller complied in all material respects with all applicable laws and regulations of Canada in the development of
- the Licensed Software.
-
- 
-
- 
-
- 
-
- 
-
-(i)
-
-Documentation
- 
-– Seller will deliver to Purchaser all Documentation pertaining to the Licensed Software & Bundled Pulsewave
- Devices that it generally provides to other customers, including any copies of documentation held by companies that developed
- the Licensed Software; provided that the Documentation will not include any source code or other trade secrets of Seller.
-
- 
-
- 
-
- 
-
- 
-
-(j)
-
-Third
- Party Claims
- - Seller represents and warrants, and to the best of their knowledge, no claim has been made that the use
- of any of the Intellectual Property does or may violate the rights of any Person;
-
- 
-
- 
-
- 
-
- 
-
-(k)
-
-Right
- to License
- – Seller is the absolute beneficial owner of the Licensed Software and has the absolute right and ability
- to license the Licensed Software.
-
- 
-
- 
-
- 
-
- 
-
-(l)
-
-No
- Litigation
- - Seller represents and warrants, there is no suit, action, litigation, arbitration proceeding or governmental
- proceeding, including appeals and applications for review, in progress, pending or to the best of Seller’s knowledge,
- threatened against or relating to Seller or affecting the Licensed Software which if determined adversely to Seller might
- materially and adversely affect the Licensed Software and, to the best of Seller’s knowledge, there is not presently
- outstanding against Seller any judgment, decree, injunction, rule or order of any court, governmental department, commission,
- agency, instrumentality or arbitrator relating to or affecting the Licensed Software.
+Confidential Information
+. “
+Confidential Information
+” of a Party means all business, operational, customer,
+employee, technological, financial, commercial and other proprietary information and materials disclosed by a Party and its Affiliates
+to the other Party, its Affiliates and third-Person vendors pursuant to this Agreement, and shall include all information and materials
+that: (a) are contained in any of the Schedules or Exhibits to this Agreement; (b) relate to the determination of the Fees; (c) are obtained
+by the other Party in the course of an audit pursuant to 
+Section 3.3
+; (d) are obtained by the other Party after the Effective
+Date in the course of the receipt or provision of any of the Services; (e) embody or otherwise summarize Confidential Information; or
+(f) are identified in writing by the disclosing Party as confidential and/or proprietary.
 
  
 
 4.2
 
-Representations
- and Warranties of Purchaser and Parent
-
- 
-
-Purchaser
-and Parent hereby represents and warrants to Seller (and acknowledges that the Seller is relying thereon) that:
-
- 
+Confidentiality Obligations
+. Except as expressly authorized by prior written consent of the disclosing Party, the receiving Party
+shall:
 
  
 
 (a)
-
-Organization
- and Good Standing
- – Purchaser and Parent are corporations duly organized, validly existing and in good standing
- under the laws of their jurisdiction of incorporation.
-
- 
-
- 
-
- 
+limit access to any Confidential Information of the other Party received by it to its and its Affiliates’ directors, officers,
+employees, subcontractors, agents and representatives, including third-Person vendors, who need to know in connection with this Agreement
+and the obligations of the Parties hereunder;
 
  
 
 (b)
-
-Due
- Authorization
- – Purchaser and Parent have all necessary corporate power and authority to enter into this Agreement
- and to carry out their obligations hereunder; the execution and delivery of this Agreement and the consummation of the transactions
- contemplated hereunder have been duly authorized by all necessary corporate action on the part of Purchaser and Parent.
-
- 
-
- 
-
- 
+advise such directors, officers, employees, subcontractors, agents and representatives, including third-Person vendors, having access
+to the Confidential Information of the other Party of the proprietary nature thereof and of the obligations set forth in this Agreement
+and confirm their agreement that they will be bound by such obligations (
+provided that
+ no individual may perform Technology Services
+without previously having executed a written non-disclosure agreement with a Party or its Affiliate);
 
  
 
 (c)
+safeguard all Confidential Information of the other Party received using a reasonable degree of care, but not less than that degree of
+care used by the receiving Party in safeguarding its own similar information or material;
 
-Enforceability
- of Obligations
- - This Agreement constitutes a valid and binding obligation of Purchaser and Parent enforceable against
- it in accordance with its terms provided that enforcement may be limited by bankruptcy, insolvency, liquidation, reorganization,
- reconstruction and other similar laws generally affecting enforceability of creditor’s rights and that equitable remedies
- such as specific performance and injunction are in the discretion of the court from which they are sought.
+ 
+
+(d)
+comply in all material respects with all applicable:
+
+ 
+
+(i)
+Laws relating to maintaining the confidentiality of the Confidential Information of the other Party; and
+
+ 
+
+13
 
  
 
  
 
+(ii)
+privacy policies provided to the receiving Party relating to Confidential Information of the disclosing Party;
+
  
+
+(e)
+except as set forth in this Agreement, not reproduce or use any Confidential Information of the other Party or disclose the Confidential
+Information of the other Party to any other Person without the prior written consent of the other Party; and
+
+ 
+
+(f)
+use the Confidential Information of the other Party only for the purposes and in connection with the performance of the receiving Party’s
+obligations set forth in this Agreement.
 
  
 
 4.3
 
-Investment
- Representations
-.
-
- 
+Exceptions
+. Notwithstanding the obligations set forth in 
+Section 4.2
+, the obligations of confidentiality, non-use and non-disclosure
+imposed under this 
+Section 4
+ shall not apply to any Confidential Information of the other Party:
 
  
 
 (a)
+that the recipient can demonstrate has been published or otherwise been made available to the general public without breach of this Agreement;
 
-Investment
- Purpose
-. As of the Closing Date, Cloud Dx Inc. understands and agrees that the consummation of the exchange of the issuance
- of the Parent Shares, as contemplated hereby, constitutes the offer and sale of securities under the Securities Act and applicable
- state statutes and that the Parent Shares are being acquired for Cloud Dx Inc.’s own account and not with a present
- view towards the public sale or distribution thereof, except pursuant to sales registered or exempted from registration under
- the Securities Act.
+ 
+
+(b)
+that the recipient can demonstrate has been furnished or made known to the recipient without any obligation to keep it confidential by
+a third Person under circumstances which are not known or should not have reasonably been known to the recipient to involve a breach
+of the third Person’s obligations to a Party hereto;
+
+ 
+
+(c)
+that the recipient can demonstrate was developed or acquired independently by an employee or agent of the recipient without access to
+or use of Confidential Information of the other Party furnished to the recipient pursuant to this Agreement;
+
+ 
+
+(d)
+that the recipient can demonstrate was also provided to it, independent of this Agreement, in its capacity as a director or shareholder
+of the other Party and is governed by confidentiality obligations in its capacity as such.
+
+ 
+
+4.4
+
+HIPAA Obligations
+. Each Party acknowledges that certain Recipient Data of the other Party may constitute “protected health
+information” subject to the Health Insurance Portability and Accountability Act of 1996 (“
+HIPAA
+”), and that
+the other Party may be considered a “business associate” to customers that are “covered entities” under HIPAA.
+Each Party shall treat all such Recipient Data as Confidential Information of the other Party hereunder, regardless of whether such information
+is aggregated or otherwise “de-identified” (as that term is defined under HIPAA). Each Party shall execute a business associate
+subcontractor agreement(s), which agreement(s) shall include the customary provisions required under HIPAA as well as flow through provisions
+that the other Party is required to execute as a business associate to one or more of its customers.
+
+ 
+
+4.5
+
+Data Security
+. The Provider Party shall use commercially reasonable efforts to protect the physical security and electronic security
+of the equipment utilized to provide the Services to the Recipient Party that contains Recipient Data. In the event of a breach or suspected
+breach of security of any system, website, database, equipment or storage medium or facility that results or could result in unauthorized
+access to Recipient Data by any third party (including any employee or subcontractor of the Provider Party that is not authorized to
+access such information), the Provider Party shall notify the Recipient Party as promptly as is reasonably possible under the circumstances
+and make commercially reasonable efforts to resecure its systems promptly. The Provider Party shall treat any information related to
+such security incident(s) as the Recipient’s Confidential Information. The Provider Party agrees to provide reasonable cooperation
+to the Recipient Party and any applicable government agency in investigating and resolving any such security incident.
+
+ 
+
+14
 
  
 
  
+
+4.6
+
+Injunctive Relief
+. Each Party acknowledges that the disclosing Party would not have an adequate remedy at Law for the breach of
+any one or more of the covenants contained in this 
+Section 4
+ and agrees that, in the event of such breach, the disclosing Party
+may apply to a court for an injunction to prevent breaches of this 
+Section 4
+ and to enforce specifically the terms and provisions
+of this 
+Section 4
+.
+
+ 
+
+4.7
+
+Disclosure Required by Law
+. The provisions of this 
+Section 4
+ shall not preclude disclosures required by Law; 
+provided
+,
+
+however
+, that each Party shall use reasonable efforts to notify the other Party prior to making any such disclosure, in order
+to permit the other Party to take such steps as it deems appropriate to minimize any loss of confidentiality.
+
+ 
+
+5.
+
+Term
+ and Termination
+
+ 
+
+5.1
+
+Term
+. The term for each of the Services shall begin on the Effective Date (unless otherwise stated in a Schedule) and, except
+as otherwise provided in this Agreement, shall continue in effect until the first anniversary of the Effective Date (such period, the
+“
+Initial Service Period
+”). This Agreement may be extended for additional one-year periods by mutual agreement of the
+Parties (each such extension and the Initial Service Period, a “
+Service Period
+”), 
+provided that
+ a Party notifies
+the other Party at least ninety (90) days prior to end of the then-current Service Period of such Party’s desire to extend the
+Agreement and the Parties reach an agreement on the terms and conditions applicable to such extension prior to the end of the then-current
+Service Period, unless the Parties agree otherwise. In the event that the Parties cannot reach an agreement on the Fees to be charged
+during the extension, but otherwise agree to the extension of this Agreement for a subsequent Service Period, the percent increase in
+the Fees will be the CPI-U increase for the 90 day period immediately preceding the anniversary date until such an agreement on Fees
+has been reached. In no event shall this Agreement continue for more than ninety (90) days beyond the end of the then-current Service
+Period, other than for Technology Services and Information Systems Services, which may continue for no more than one hundred eighty (180)
+days beyond the end of the then-current Service Period, unless the Parties have agreed on the other relevant terms and conditions for
+the proposed extension. Under no circumstances shall this Agreement, or any Services or components thereof, terminate prior to the date
+that is four (4) months after the Effective Date, except as provided in the second paragraph of 
+Section 5.2
+.
+
+ 
+
+5.2
+
+Termination of a Particular Service or Component Thereof
+. At any time following the date that is four (4) months after the Effective
+Date:
+
+ 
+
+(a)
+Either Party may terminate its rights and obligations with respect to the provision of a Service or any component thereof effective thirty
+(30) days following notice to the other Party if the other Party materially defaults in the performance of any of its obligations contained
+in this Agreement for such Service or component thereof, as applicable, and such default is not remedied to the reasonable satisfaction
+of the non-defaulting Party within such notice period; and
+
+ 
+
+(b)
+Any specific Service or part thereof shall be subject to termination at the election of the Recipient Party upon providing advance notice
+to the Provider Party in accordance with the notice for termination period set forth for that particular Service in the Schedules, or,
+alternatively, if the Schedules do not set forth a specific notice for termination period for such Service, upon forty-five (45) days’
+notice to the Provider Party. Any termination of this Agreement with respect to any Service (or part thereof) shall not terminate this
+Agreement with respect to any other Service or any other services then being provided under this Agreement.
+
+ 
+
+15
+
+ 
+
+ 
+
+Notwithstanding
+the foregoing (including the four (4) month period referred to above), if (i) within thirty (30) days following the Effective Date the
+Recipient Party determines that it (or a Recipient) will be responsible for a material amount of taxes pursuant to 
+Section 3.4
+
+of this Agreement with respect to any Service or part thereof, a notice referred to in clause (b) above with respect to such Service
+or part thereof may be provided within such thirty (30) day period and (ii) the Recipient Party provides a notice to terminate a specific
+Service or part thereof pursuant to clause (b) above as a result of the Recipient Party (or a Recipient) determining that it (or a Recipient)
+will be responsible for a material amount of taxes pursuant to 
+Section 3.4
+, the reference in clause (b) to forty-five (45) days
+shall be to thirty (30) days with respect to such Service or part thereof.
+
+ 
+
+5.3
+
+Consequences of Termination of this Agreement or Termination of any of the Services or any Component Thereof
+. Upon termination
+of this Agreement for any reason, any of the Services or any component thereof:
+
+ 
+
+(a)
+the Parties shall cooperate with each other as is reasonably necessary to transition the provision of the applicable Services or components
+thereof to the Recipient or its designee;
+
+ 
+
+(b)
+such termination shall not affect either Party’s, or either Party’s Affiliates’, rights (subject to 
+Section 6.3(b)(i
+))
+to payment or refunds for Services or components thereof that have been provided or paid for by that Party or its Affiliates prior to
+such termination; and
+
+ 
+
+(c)
+except as otherwise provided herein, each Party shall and shall cause its Affiliates to use reasonable efforts to, at the other Party’s
+option, destroy or return to the other Party all records obtained by such Party in the course of performing such Services or components
+thereof, as applicable, containing Confidential Information of the other Party that are then in the possession or control of such Party
+or its Affiliates, 
+provided
+, 
+however
+, that archived records may be retained. If either Party or any of their respective
+Affiliates destroys any record pursuant to this 
+Section 5.3(c)
+, such Party shall provide the other Party with written confirmation
+of any such destruction.
+
+ 
+
+5.4
+
+Transition and Migration Upon Discontinuation or Termination
+.
+
+ 
+
+(a)
+In preparation for the discontinuation of any Service provided under this Agreement for any reason, the Provider Party shall, and shall
+cause its Affiliates to, consistent with its obligations to perform the Services hereunder and with the cooperation and commercially
+reasonable assistance of the Recipient Party, take such steps as are reasonably requested in order to facilitate a smooth, efficient
+and prompt transition and/or migration of the data, records and responsibilities of the Services to the Recipient Party so as to avoid
+a disruption of services; 
+provided
+, 
+however
+, that in no event shall the Provider Party or any of its Affiliates be required
+to do anything that would interfere with its ability to perform its obligations with respect to the Services hereunder unless the Recipient
+Party expressly agrees in a writing to be executed by both Parties to waive any claim it may have that the Provider Party or the relevant
+Affiliate is in breach in its performance obligations due to the interference in the Services caused by such assistance. Subject to the
+minimum transition period duration requirement for the Technology Services, and Information Systems Services pursuant to 
+Section 5.4(c)
+,
+the Parties shall use all commercially reasonable efforts to complete such transition and/or migration prior to the effective date of
+the expiration or termination of the applicable Service Period or the expiration or termination of this Agreement or on such expedited
+or extended schedule to which the Parties shall mutually agree in writing.
+
+ 
+
+16
+
+ 
+
+ 
+
+(b)
+In preparation for the discontinuation of any Service or termination of this Agreement for any reason, the Provider Party shall, and
+shall cause its Affiliates to, (i) transfer to the Recipient Party, and the Recipient Party shall take possession of, all of the Recipient
+Party records, files and Recipient Party data related to the provision of the Services to the Recipient Party and (ii) provide systems
+and software assistance and personnel training so as to enable the Recipient Party to transition efficiently and migrate such Recipient
+Party records, files and Recipient Party data in satisfying its ongoing needs for which Services have been provided by the Provider Party
+and its Affiliates hereunder; 
+provided that
+ any services provided by the Provider Party and its Affiliates pursuant to this 
+Section
+5.4(b)
+ shall be consistent with the Provider Party’s and its Affiliates’ agreements with third Persons and are conditioned
+upon the Provider Party’s or its Affiliate’s receipt of any necessary third-Person consents, which the Provider Party and
+its Affiliates shall use commercially reasonable efforts to obtain.
+
+ 
+
+(c)
+Upon receipt by the Provider Party of the Recipient Party’s reasonable request for transition and migration assistance in accordance
+with this 
+Section 5.4
+, the Parties shall negotiate in good faith a plan under which such transition and migration assistance will
+be provided (each such plan, a “
+Transition and Migration Plan
+”). Each Transition and Migration Plan shall include
+the schedule for transition and migration work and costs to be incurred by each Party and their respective Affiliates in performing transition
+and migration activities. The Recipient Party shall pay such costs of transition and migration activities incurred by either Party or
+its Affiliates pursuant to this 
+Section 5.4
+. With respect to the Technology Services, and Information Systems Services only, the
+transition period specified in the Transition and Migration Plan shall be no less than one hundred twenty (120) days after the effective
+date of the expiration or termination of the applicable Service Period.
+
+ 
+
+5.5
+
+Survival
+. Upon termination of this Agreement for any reason, 
+Sections 1
+, 
+2.9
+, 
+3.1
+, 
+3.2
+, 
+3.3
+,
+
+3.4
+, 
+4.1
+, 
+4.2
+, 
+4.3
+, 
+4.6
+, 
+4.7
+, 
+5.3
+, 
+5.4
+, 
+5.5
+, 
+6
+, 
+7
+, 
+8
+,
+
+10
+ and 
+11
+ shall survive.
+
+ 
+
+6.
+
+Disclaimer;
+ Limitations of Liability; Remedies
+
+ 
+
+6.1
+
+Disclaimer
+. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, EACH PARTY MAKES NO REPRESENTATIONS OR WARRANTIES WHATSOEVER, EXPRESS
+OR IMPLIED, WITH RESPECT TO THE SERVICES TO BE PROVIDED UNDER THIS AGREEMENT.
+
+ 
+
+6.2
+
+Limitations of Liability
+.
+
+ 
+
+(a)
+NEITHER PARTY SHALL BE LIABLE, WHETHER IN CONTRACT, IN TORT (INCLUDING NEGLIGENCE AND STRICT LIABILITY), OR OTHERWISE, FOR ANY SPECIAL,
+INDIRECT, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, THAT IN
+ANY WAY ARISE OUT OF, RELATE TO, OR ARE A CONSEQUENCE OF, ITS PERFORMANCE OR NONPERFORMANCE HEREUNDER, OR THE PROVISION OF OR FAILURE
+TO PROVIDE ANY SERVICE HEREUNDER, EXCEPT TO THE EXTENT THAT SUCH DAMAGES ARE AWARDED TO A THIRD PERSON, WHICH AWARD SHALL BE SUBJECT
+TO THE LIMITATIONS IN SECTION 6.2(b) APPLICABLE TO A THIRD PERSON.
+
+ 
+
+17
+
+ 
+
+ 
+
+(b)
+THE AGGREGATE LIABILITY OF EITHER PARTY UNDER THIS AGREEMENT SHALL BE LIMITED TO (1) IF SUCH LIABILITY IS DETERMINED AFTER THE FIRST
+ANNIVERSARY OF THE EFFECTIVE DATE, THE TOTAL AMOUNTS PAID OR PAYABLE TO OR BY SUCH PARTY OR ITS AFFILIATES UNDER THIS AGREEMENT WITH
+RESPECT TO THE RELEVANT SERVICE SCHEDULE UNDER WHICH THE INDEMNIFICATION OBLIGATION ARISES DURING THE IMMEDIATELY PRECEDING TWELVE (12)
+MONTHS OR (2) IF SUCH LIABILITY IS DETERMINED PRIOR TO THE FIRST ANNIVERSARY OF THE EFFECTIVE DATE, THE GREATER OF THE ACTUAL AMOUNT
+PAID OR PAYABLE TO OR BY SUCH PARTY OR ITS AFFILIATES UNDER THIS AGREEMENT WITH RESPECT TO THE RELEVANT SERVICE SCHEDULE UNDER WHICH
+THE INDEMNIFICATION OBLIGATION ARISES THROUGH SUCH DATE OF DETERMINATION OR THE AMOUNT THAT WOULD BE PAYABLE UNDER THIS AGREEMENT WITH
+RESPECT TO THE RELEVANT SERVICE SCHEDULE UNDER WHICH THE INDEMNIFICATION OBLIGATION ARISES DURING THE FIRST YEAR OF THE TERM HEREOF;
+
+PROVIDED
+, 
+HOWEVER
+, THAT TO THE EXTENT THE INDEMNIFICATION OBLIGATION ARISES FROM A PARTY’S GROSS NEGLIGENCE OR WILLFUL
+MISCONDUCT IN THE PERFORMANCE OR RECEIPT OF THE SERVICES COVERED BY THE RELEVANT SERVICE SCHEDULE UNDER THIS AGREEMENT, THE AGGREGATE
+LIABILITY SHALL BE LIMITED TO (1) IF SUCH LIABILITY IS DETERMINED AFTER THE FIRST ANNIVERSARY OF THE EFFECTIVE DATE, THREE (3) TIMES
+THE TOTAL AMOUNTS PAID OR PAYABLE TO OR BY SUCH PARTY OR ITS AFFILIATES UNDER THIS AGREEMENT WITH RESPECT TO THE RELEVANT SERVICE SCHEDULE
+UNDER WHICH THE INDEMNIFICATION OBLIGATION ARISES DURING THE IMMEDIATELY PRECEDING TWELVE (12) MONTHS OR (2) IF SUCH LIABILITY IS DETERMINED
+PRIOR TO THE FIRST ANNIVERSARY OF THE EFFECTIVE DATE, THE GREATER OF THREE (3) TIMES THE ACTUAL AMOUNT PAID OR PAYABLE TO OR BY SUCH
+PARTY OR ITS AFFILIATES UNDER THIS AGREEMENT WITH RESPECT TO THE RELEVANT SERVICE SCHEDULE UNDER WHICH THE INDEMNIFICATION OBLIGATION
+ARISES THROUGH SUCH DATE OF DETERMINATION OR THREE (3) TIMES THE AMOUNT THAT WOULD BE PAYABLE UNDER THIS AGREEMENT WITH RESPECT TO THE
+RELEVANT SERVICE SCHEDULE UNDER WHICH THE INDEMNIFICATION OBLIGATION ARISES DURING THE FIRST YEAR OF THE TERM HEREOF; 
+PROVIDED
+,
+
+FURTHER
+, 
+HOWEVER
+, THAT THE FOREGOING LIMITATIONS ON LIABILITY SHALL NOT APPLY TO DAMAGES FINALLY AWARDED TO A THIRD PERSON
+BY A COURT, TRIBUNAL, ARBITRATOR OR JURY OR SUBJECT TO A SETTLEMENT APPROVED IN WRITING BY THE INDEMNIFYING PARTY THAT RESULT FROM A
+THIRD PERSON CLAIM FOR PROPERTY DAMAGE, PERSONAL INJURY (INCLUDING DEATH) OR A BREACH BY THE INDEMNIFYING PARTY OR AN AFFILIATE OF ITS
+OBLIGATION TO MAINTAIN AS CONFIDENTIAL THE PROTECTED HEALTH INFORMATION OF SUCH THIRD PERSON, WHICH SHALL INSTEAD BE LIMITED TO (1) IF
+SUCH LIABILITY IS DETERMINED AFTER THE FIRST ANNIVERSARY OF THE EFFECTIVE DATE, THE TOTAL AMOUNTS PAID OR PAYABLE TO OR BY SUCH PARTY
+OR ITS AFFILIATES UNDER THIS AGREEMENT DURING THE IMMEDIATELY PRECEDING TWELVE (12) MONTH PERIOD OR (2) IF SUCH LIABILITY IS DETERMINED
+PRIOR TO THE FIRST ANNIVERSARY OF THE EFFECTIVE DATE, THE GREATER OF THE ACTUAL AMOUNT PAID OR PAYABLE TO OR BY SUCH PARTY OR ITS AFFILIATES
+UNDER THIS AGREEMENT THROUGH SUCH DATE OF DETERMINATION OR THE AMOUNT THAT WOULD BE PAYABLE UNDER THIS AGREEMENT DURING THE FIRST YEAR
+OF THE TERM HEREOF.
+
+ 
+
+(c)
+FOR THE AVOIDANCE OF DOUBT, THE PARTIES ACKNOWLEDGE AND AGREE THAT CERTAIN EVENTS AND CLAIMS (INCLUDING LOST DATA, BUSINESS INTERRUPTION
+AND CLAIMS OF CLIENTS OR CUSTOMERS) COULD RESULT IN SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES AS WELL
+AS DIRECT DAMAGES. IF SUCH DAMAGES ARE DIRECT, SUCH DAMAGES SHALL BE COVERED BY SECTION 6.2(b). IF SUCH DAMAGES ARE SPECIAL, INDIRECT,
+INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE, SUCH DAMAGES SHALL BE COVERED BY SECTION 6.2(a).
+
+ 
+
+6.3
+
+Failure to Perform Services
+.
+
+ 
+
+(a)
+Notice
+. If the Provider Party or any of its Affiliates fails to perform any of the Services or any component thereof at the service
+level set forth in 
+Section 2.2
+ of this Agreement and the Exhibits and Schedules hereto, if applicable, and such failure by the
+Provider Party or any of its Affiliates is not due to any breach by the Recipient Party or its Affiliates of their respective obligations
+hereunder, the Recipient Party may notify the Provider Party of such failure and request that the Provider Party correct such failure
+within thirty (30) days after notice thereof. For the avoidance of doubt, to the extent that any service level failure constitutes the
+Provider Party’s material default pursuant to 
+Section 5.2(a)
+ hereunder, the Recipient Party may exercise its termination
+rights under 
+Section 5.2(a)
+.
+
+ 
+
+18
 
  
 
@@ -1057,271 +1949,106 @@ Investment
 
 (b)
 
-Investor
- Status
-. Cloud Dx Inc. is (i) an “accredited investor” as that term is defined in Rule 501(a) of Regulation
- D (an “Accredited Investor”), and/or (ii) an exempt investor in accordance with the provisions of Regulation S
- promulgated under the Securities Act. Cloud Dx Inc. has been furnished with all documents and materials relating to the business,
- finances and operations of both the Parent and NHL, and NHL’s subsidiaries and information that such Cloud Dx Inc. has
- requested and deemed material to making an informed decision regarding this Agreement and the underlying transactions.
+Failure to Remedy
+. If the Recipient Party notifies the Provider Party as set forth in 
+Section 6.3(a)
+, and the Provider
+Party has not corrected such failure in the time frame set forth in 
+Section 6.3(a)
+, or, if such failure is not capable of correction
+within such time frame, the Provider Party has not begun the correction process or ceases to diligently pursue to completion the correction
+process, the Recipient Party may:
 
  
 
- 
+(i)
+withhold payment, or cause its Affiliate to withhold payment, for such Services or component thereof or seek a refund for Fees already
+paid for such Services or such component thereof, which withholding or refund shall be prorated for the period of noncompliance;
 
  
+
+(ii)
+seek to terminate the provision of the applicable Services or such component thereof, as applicable, in accordance with 
+Section 5.2(a)
+;
+
+ 
+
+(iii)
+seek damages from the Provider Party, subject in all cases to the limitations set forth in 
+Section 6.2
+ and 
+Section 7
+; and/or
+
+ 
+
+(iv)
+require the Provider Party and its Affiliates to cooperate promptly and in good faith in obtaining an alternative means of providing
+such Services or such component thereof. The Provider Party shall be responsible for the reasonable costs incurred by either Party pursuant
+to this 
+Section 6.3(b)
+ in either restoring such Services or such component thereof or obtaining an alternative source of such
+Services or such component thereof; 
+provided that
+ the Provider Party shall only be responsible for the payment of such reasonable
+costs up to, and not exceeding, the amount of the Fees for such Services or such component thereof for the period from the time when
+the performance failure described in 
+Section 6.3(a)
+ commenced to the time when such Services or such component thereof were restored.
 
  
 
 (c)
 
-Reliance
- on Exemptions
-. Cloud Dx Inc. understands that the Parent Shares are being offered and sold to Cloud Dx Inc. in reliance
- upon specific exemptions from the registration requirements of United States federal and state securities Laws and that the
- Parent and NHL are relying upon the truth and accuracy of, and Cloud Dx Inc.’s compliance with, the representations,
- warranties, agreements, acknowledgments and understandings of Cloud Dx Inc. set forth herein in order to determine the availability
- of such exemptions and the eligibility of Cloud Dx Inc. to acquire the Parent Shares.
+Errors
+. The Provider Party shall, at its own expense, promptly correct any errors in the provision of Services rendered hereunder
+by the Provider Party, its Affiliates or third-Person subcontractors after receiving notice thereof from the Recipient Party or otherwise;
+
+provided that
+ the Recipient Party shall bear the reasonable out-of-pocket expenses of the Provider Party in correcting any such
+errors caused by the Recipient Party or any of its Affiliates.
 
  
 
- 
-
- 
-
- 
-
-(d)
-
-Information
-.
- Cloud Dx Inc., and its advisors, if any, have been furnished with all materials relating to the business, finances and operations
- of the Buyer and materials relating to the offer and sale of the Parent Shares which have been requested by Cloud Dx Inc.
- Cloud Dx Inc. and its advisors, if any, have been afforded the opportunity to ask questions of the Buyer. Cloud Dx Inc. and
- its advisors understand that their investment in the Parent Shares involves a significant degree of risk. Cloud Dx Inc. and
- its advisors are not aware of any facts that may constitute a breach of any of the Buyer’s representations and warranties
- made herein.
-
- 
-
- 
-
- 
-
- 
-
-(e)
-
-Governmental
- Review
-. Cloud Dx Inc. and its advisors understand that no United States federal or state agency or any other government
- or governmental agency has passed upon or made any recommendation or endorsement of the Parent Shares.
-
- 
-
- 
-
- 
-
- 
-
-(f)
-
-Transfer
- or Resale
-. Cloud Dx Inc. understands that upon issuance of the Parent Shares (i)the sale or re-sale of the Parent Shares
- has not been and is not being registered under the Securities Act or any applicable state securities Laws, and the Parent
- Shares may not be transferred unless (a) the Parent Shares are sold pursuant to an effective registration statement under
- the Securities Act, (b) Cloud Dx Inc. has delivered to the Parent, at the cost of Cloud Dx Inc., an opinion of counsel that
- shall be in form, substance and scope customary for opinions of counsel in comparable transactions to the effect that the
- Parent Shares to be sold or transferred may be sold or transferred pursuant to an exemption from such registration, which
- opinion shall be accepted by the Parent, (c) the Parent Shares are sold or transferred to an “affiliate” (as defined
- in Rule 144 promulgated under the Securities Act (or a successor rule) (“Rule 144”)) of Cloud Dx Inc. who agree
- to sell or otherwise transfer the Parent Shares only in accordance with this Section 3.18 and who is an Accredited Investor,
- (d) the Parent Shares are sold pursuant to Rule 144, or (e) the Parent Shares are sold pursuant to Regulation S under the
- Securities Act (or a successor rule) (“Regulation S”), and Cloud Dx Inc. shall have delivered to the Parent, at
- the cost of Cloud Dx Inc., an opinion of counsel that shall be in form, substance and scope customary for opinions of counsel
- in corporate transactions, which opinion shall be accepted by the Parent; (ii) any sale of such Parent Shares made in reliance
- on Rule 144 may be made only in accordance with the terms of said Rule and further, if said Rule is not applicable, any re-sale
- of such Parent Shares under circumstances in which the seller (or the person through whom the sale is made) may be deemed
- to be an underwriter (as that term is defined in the Securities Act) may require compliance with some other exemption under
- the Securities Act or the rules and regulations of the SEC thereunder; and (iii) neither the Parent or NHL nor any other person
- is under any obligation to register such Parent Shares under the Securities Act or any state securities Laws or to comply
- with the terms and conditions of any exemption thereunder (in each case). Notwithstanding the foregoing or anything else contained
- herein to the contrary, the Parent Shares may be pledged as collateral in connection with a bona fide margin account or other
- lending arrangement.
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(g)
-
-Legends
-.
- Cloud Dx Inc. understand that the Parent Shares issued, until such time as the Parent Shares have been registered under the
- Securities Act, or may be sold pursuant to Rule 144 or Regulation S without any restriction as to the number of securities
- as of a particular date that can then be immediately sold, the Parent Shares may bear a standard Rule 144 legend and a stop-transfer
- order may be placed against transfer of the certificates for such Parent Shares.
-
- 
-
- 
-
- 
-
- 
-
-(h)
-
-Removal
-.
- The legend(s) referenced in Section 3.18(g) shall be removed and the Parent shall issue a certificate without such legend
- to the holder of any Parent Shares upon which it is stamped, if, unless otherwise required by applicable state securities
- Laws, (a) the Parent Shares are registered for sale under an effective registration statement filed under the Securities Act,
- or otherwise may be sold pursuant to Rule 144 or Regulation S without any restriction as to the number of securities as of
- a particular date that can then be immediately sold, or (b) such holder provides the Parent with an opinion of counsel, in
- form, substance and scope customary for opinions of counsel in comparable transactions, to the effect that a public sale or
- transfer of such Parent Shares may be made without registration under the Securities Act, which opinion shall be accepted
- by the Parent so that the sale or transfer is affected. Cloud Dx Inc. agrees to sell all Parent Shares, including those represented
- by a certificate(s) from which the legend has been removed, in compliance with SEC regulations.
-
- 
-
-4.4
-
-Non-Waiver
-
- 
-
-No
-investigations made by or on behalf of either Party at any time shall have the effect of waiving, diminishing the scope of or
-otherwise affecting any representation or warranty made by the other Party herein or pursuant hereto. No waiver by either Party
-of any condition, in whole or in part, shall operate as a waiver of any other condition.
-
- 
-
-4.5
-
-Nature
- and Survival of Representations and Warranties
-
- 
-
-All
-statements contained in any certificate or other instrument delivered by or on behalf of a Party pursuant to or in connection
-with the transactions contemplated by this Agreement shall be deemed to be made by such Party hereunder. All representations,
-warranties, covenants and agreements herein contained on the part of each of the Parties shall survive the transfer of title to
-the Licensed Software and the payment of the consideration therefor until the date that is 18 months after the closing of the
-transactions contemplated by this Agreement.
-
- 
-
- 
-
- 
-
- 
-
-Article
-5
-
-OTHER
-COVENANTS OF THE PARTIES
-
- 
-
-5.1
-
-Confidentiality
-
- 
-
-The
-Purchaser covenants and agrees that it shall not ever directly or indirectly use or divulge to any other Person any information
-that is confidential or proprietary information relating to or forming part of the Licensed Software, including any Intellectual
-Property therein. Seller shall at all times take such steps as reasonably may be necessary to ensure that their directors, officers,
-employees and agents retain the confidentiality of all such confidential or proprietary information.
-
- 
-
-Article
-6
-
-INDEMNIFICATION;
-LIMITATION OF LIABILITY
-
- 
-
-6.1
+7.
 
 Indemnification
- for Breaches of Covenants, Representations and Warranties
-
- 
-
-Seller
-covenants and agrees with Purchaser and Parent to indemnify and save harmless Purchaser and Parent from and against any third
-party claims, demands, actions, causes of action, damage, loss, costs, liability or expense (hereinafter in this Article Six called
-“
-Claims
-”) which may be made or brought against Purchaser and/or which it may suffer or incur as a result of,
-in respect of, or arising out of any non-fulfillment of any covenant or agreement on the part of Seller under this Agreement or
-any document, agreement or instrument delivered pursuant hereto or any incorrectness in or breach of any representation or warranty
-of Seller contained herein. The foregoing obligation of indemnification in respect of such Claims shall be subject to the requirement
-that the Seller shall, in respect of any Claim made by any third party, have the right, but not the obligation, in its sole expense
-to resist, defend and compromise such claim provided it does so diligently and reasonably throughout the period while such Claim
-exists; otherwise the Purchaser and Parent shall have the right to resist, defend and compromise such Claim at the sole expense
-of Seller. Regardless of the Party who defends against any such Claim, the other Party agrees to cooperate in good faith with
-the defending Party.
-
- 
-
-6.2
-
-Limitation
- of Liability
-
- 
-
-TO
-THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL SELLER BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, COVER,
-PUNITIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO LOST DATA OR LOST PROFITS, HOWEVER ARISING, WHETHER
-BASED IN CONTRACT, TORT, OR ANY LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATIONS SHALL
-NOT APPLY TO CLAIMS FOR BODILY INJURY OR DEATH OR DAMAGE TO REAL OR TANGIBLE PROPERTY DIRECTLY CAUSED BY SELLER’S GROSS
-NEGLIGENCE OR WILLFUL MISCONDUCT. IN ANY CASE, SELLER’S ENTIRE LIABILITY UNDER ANY PROVISION OF THIS AGREEMENT SHALL BE
-LIMITED TO THE AMOUNT ACTUALLY PAID BY PURCHASER FOR THE LICENSE TO THE SOFTWARE DURING THE SIX MONTH PERIOD PRECEDING SUCH CLAIM.
-
- 
-
-Article
-7
-
-GENERAL
 
  
 
 7.1
 
-Limited
- Warranty
+Indemnifying Party’s Obligations
+. Each Party (for purposes of this 
+Section 7
+, the “
+Indemnifying Party
+”)
+shall indemnify, defend and hold harmless the other Party and each of the other Party’s Affiliates and their respective directors,
+officers, employees and agents, and each of the permitted successors and assigns of any of the foregoing (for purposes of this 
+Section
+7
+, each an “
+Indemnified Party
+” and collectively, the “
+Indemnified Parties
+”), from and against
+any and all Expenses and Losses incurred or suffered by the Indemnified Parties in connection with, relating to, arising out of or due
+to the Indemnifying Party’s or its Affiliate’s (i) breach of any of their respective covenants, agreements and obligations
+hereunder, (ii) gross negligence or willful misconduct in their respective performance or receipt of Services under this Agreement or
+(iii) infringement of third-Person Intellectual Property rights in Software in the event that the Indemnifying Party or its Affiliate,
+acting in its capacity as a Provider, provides a Recipient with access to Software, 
+provided that
+ such Recipient shall not receive
+indemnification pursuant to this clause (iii) in the event that either (a) such Provider has followed specifications provided by such
+Recipient (including, but not limited to, if such Recipient requires that such Provider use particular Software), (b) the Software is
+modified by any Person other than such Provider or (c) the Software is combined with other Intellectual Property by any Person other
+than such Provider.
 
  
 
-Notwithstanding
-the Limited Warranties included with each device sold by the Seller to the Purchaser under this Agreement, any Pulsewave PAD-1A
-device found to be defective within 30 days of activation by an end user during the first 24 months of this agreement can be exchanged
-for a fully functional equivalent Pulsewave device at no cost to the Purchaser.
-
- 
-
- 
+19
 
  
 
@@ -1329,960 +2056,79 @@ for a fully functional equivalent Pulsewave device at no cost to the Purchaser.
 
 7.2
 
-Expenses
-
- 
-
-Each
-Party represents and warrants to the other Party that the other Party will not be liable for any brokerage commission, finder’s
-fee or other like payment in connection with the transactions contemplated hereby because of any action taken by, or agreement
-or understanding reached by, that Party. Each Party shall be responsible for its own costs and expenses (including, without limitation,
-the fees and disbursements of legal counsel) incurred in connection with this Agreement and the transactions contemplated hereby.
+Indemnification Procedure
+. If an Indemnified Party asserts that an Indemnifying Party has become obligated to indemnify pursuant
+to this 
+Section 7
+, or if any third-Person Action is begun, made or instituted as a result of which the Indemnifying Party may
+become obligated to an Indemnified Party hereunder, the Indemnified Party shall give written notice to the Indemnifying Party within
+a sufficiently prompt time to avoid prejudice to the Indemnifying Party (but the failure to so promptly notify the Indemnifying Party
+shall not relieve the Indemnifying Party from its obligation to indemnify the Indemnified Party hereto to the extent it is not actually
+prejudiced thereby), specifying in reasonable detail the facts upon which the claimed right to indemnification is based. The Indemnifying
+Party shall, at its own cost, contest and defend any third-Person Action against the Indemnified Party. The Indemnifying Party shall
+not consent to the entry of any judgment or enter into any settlement of any third-Person Action without the consent, not to be unreasonably
+withheld or delayed, of the Indemnified Party if such judgment or settlement (a) does not include as an unconditional term thereof the
+giving by each claimant or plaintiff to the Indemnified Party (and any applicable Affiliate thereof) of an unconditional and irrevocable
+release from all Liability in respect to such claim, (b) would result in the finding or admission of any violation of applicable Law
+by the Indemnified Party or its Affiliates or (c) provides for injunctive or other non-monetary relief affecting the Indemnified Party
+or its Affiliates. Any payment to be made by an Indemnifying Party to an Indemnified Party shall be made within thirty (30) days of (i)
+the Indemnified Party’s delivery of notice of a claim for indemnification, such claim being uncontested by the Indemnifying Party
+within the thirty (30) day period, or (ii) in the event that the Indemnifying Party contests the claim pursuant to the dispute resolution
+procedures set forth in 
+Section 10
+ hereof and the dispute is resolved in favor of the Indemnified Party, the date of final determination
+of the amount to be indemnified under such claim. The Indemnified Party may not settle any third-Person Action itself without the consent
+of the Indemnifying Party, not to be unreasonably withheld or delayed.
 
  
 
 7.3
 
-Time
-
- 
-
-Time
-shall be of the essence hereof.
-
- 
-
-7.4
-
-Notices
-
- 
-
-Any
-notice, demand or other communication required or permitted to be given or made hereunder or for the purposes hereof (hereinafter
-in this Section 7.4 called a “
-Notice
-”) to any Party shall be in writing and shall be sufficiently given / made
-if:
-
- 
-
- 
-
-(a)
-
-Delivered
- in person during normal business hours on a Business Day and left with a receptionist or other responsible employee of the
- relevant party at the applicable address set forth below;
-
- 
-
- 
-
- 
-
- 
-
-(b)
-
-Sent
- by prepaid first-class mail; or
-
- 
-
- 
-
- 
-
- 
-
-(c)
-
-Sent
- by any electronic means of sending messages, including facsimile transmission, which produces a paper record (“
-Electronic
- Transmission
-”) during normal business hours on a Business Day;
-
- 
-
-In
-the case of a notice to Seller, address to:
-
- 
-
- 
-
-Cloud
- DX Inc.,
-
--and/or-
-
- 
-
-100
- - 72 Victoria Street South
-
-20
- Jay Street, #834
-
- 
-
-Kitchener,
- ON N2G 4Y9, Canada
-
-Brooklyn
- NY, 11201
-
- 
-
-Email
- – ceo@clouddx.com
-
- 
-
- 
-
-And
-in the case of a notice to Purchaser, addressed to it at:
-
- 
-
-Novo
-Healthnet Limited
-
-119
-Westcreek Drive, Suite 1
-
-Woodbridge,
-ON L4L 9N6
-
-Email
-- 
-pdalcourt@novohealthnet.com
-
- 
-
-Novo
-Integrated Sciences Inc.
-
- 
-
-Attn:
-Chris David, President
-
-11120
-NE 2
-nd
- St., Suite 200
-
-Bellevue,
-WA 98004
-
- 
-
-Email:
-cdavid@novointegrated.com
-
- 
-
- 
-
- 
-
- 
-
-Each
-notice sent in accordance with this section shall be deemed to have been received:
-
- 
-
- 
-
-(i)
-
-On
- the third Business Day after it was mailed (excluding each Business day during which there existed a general interruption
- of postal services due to strike, lockout or other cause); or
-
- 
-
- 
-
- 
-
- 
-
-(ii)
-
-On
- the same day that it was delivered in person or sent by Electronic Transmission, or at the start of business on the first
- Business Day thereafter if the day on which it was sent by Electronic Transmission was not a Business Day.
-
- 
-
-Any
-Party may change its address for notice by giving notice to the other Parties (as provided in this section).
-
- 
-
-7.5
-
-Assignment
-
- 
-
-No
-Party shall assign its rights under this Agreement without the prior written consent of the other Party.
-
- 
-
-7.6
-
-Binding
- on Successors
-
- 
-
-This
-Agreement shall enure to the benefit of and be binding upon the Parties and their respective successors and permitted
-assigns.
-
- 
-
-7.7
-
-Waiver
-
- 
-
-Any
-waiver of, or consent to depart from, the requirements of any provision of this Agreement shall be effective only if it is in
-writing and signed by the Party giving it, and only in the specific instance and for the specific purpose for which it has been
-given. No failure on the part of any Party to exercise, and no delay in exercising any right under this Agreement shall operate
-as a waiver of such right. No single or partial exercise of any such right shall preclude any other or further exercise of such
-right or the exercise of any other right.
-
- 
-
-7.8
-
-Invalidity
-
- 
-
-If
-any of the provisions contained in this Agreement is found by a court of competent jurisdiction to be invalid, illegal or unenforceable
-in any respect, the validity, legality or enforceability of the remaining provisions contained herein shall not be in any way
-affected or impaired thereby.
-
- 
-
-7.9
-
-Further
- Assurances
-
- 
-
-Each
-Party shall do such acts and shall execute such further documents, conveyances, deeds, assignments, transfers and the like as
-may be reasonably required, and will cause the doing of such acts and will cause the execution of such further documents as are
-within its power as any other Party may in writing at any time and from time to time reasonably request be done and or executed,
-in order to give full effect to the provisions of this Agreement.
-
- 
-
-7.10
-
-Survival
-
- 
-
-The
-provisions of Article 4, Article 5, Article 6, and Article 7 shall remain in force and effect after the termination hereof, until
-the date that is 36 months after such termination.
-
- 
-
- 
-
- 
-
- 
-
-7.11
-
-Independent
- Legal Advice
-
- 
-
-The
-Parties hereby acknowledge that each has been advised to seek independent legal counsel in respect of the Agreement and the matters
-contemplated herein. To the extent that a Party declines to receive independent legal counsel in respect of the agreement, that
-Party waives the right, should a dispute later develop, to rely on its lack of independent legal counsel to avoid its obligations,
-to seek indulgences from the other Parties or to otherwise attack the integrity of the agreement and the provisions thereof, in
-whole or in part.
-
- 
-
-7.12
-
-Venue
-
- 
-
-The
-Parties agree that the venue for all disputes arising under this agreement or relating hereto shall be the federal and state courts
-of the State of Delaware, United States of America. Each Party agrees to the jurisdiction of such courts for all disputes between
-the Parties relating to this Agreement.
-
- 
-
-7.13
-
-Counterparts
- and Facsimile
-
- 
-
-This
-agreement may be executed by the Parties in one or more counterparts by original or facsimile signature or by electronic transmission
-or pdf, each of which when so executed and delivered shall be an original and such counterparts shall together constitute one
-and the same instrument.
-
- 
-
-[Signature
-page follows]
-
- 
-
- 
-
- 
-
- 
-
-SIGNATURE
-PAGE
-
- 
-
-IN
-WITNESS WHEREOF
- the Parties have duly executed this Agreement.
-
- 
-
- 
-
-Seller
-
-CLOUD
- DX, INC.
-
- 
-
- 
-
- 
-
- 
-
-By:
-
-/s/
- Robert Kaul
-
- 
-
-Name:
-
-Robert
- Kaul
-
- 
-
-Title:
-
-CEO
-
- 
-
- 
-
-Purchaser
-
-NOVO HEALTHNET LIMITED.
-
- 
-
- 
-
- 
-
- 
-
-By:
-
-/s/
- Robert Mattacchione
-
- 
-
-Name:
-
-Robert
- Mattacchione 
-
- 
-
-Title:
-
-CHAIRMAN
-
- 
-
- 
-
-Parent
-
-Novo Integrated Sciences Inc. 
-
- 
-
- 
-
- 
-
-By:
-
-/s/
- Robert Mattacchione
-
- 
-
-Name:
-
-Robert
- Mattacchione
-
- 
-
-Title:
-
-CEO
-
- 
-
- 
-
- 
-
- 
-
-SCHEDULE
-“A”
-
-DESCRIPTION OF & THE RIGHT TO USE THE LICENSED
-SOFTWARE & BUNDLED PULSEWAVE DEVICES
-
- 
-
-1)
-Licensed
- Software Products
-
- 
-
-The
-Licensed Software Products consist of the following CLOUD DX software products, which represent the current production releases:
-
- 
-
-a.
-Cloud
- DX Connected Health web portal for Clinical users
-
- 
- 
- 
-
-b.
-Cloud
- DX Connected Health Mobile app
-
- 
- 
- 
-
-c.
-Cloud
- DX Connected Health Windows app
-
- 
- 
- 
-
-d.
-Cloud
- DX Connected Health MacOS app
-
- 
-
-2)
-Bundled
- Pulsewave Devices
-: An initial Pulsewave PAD-1A USB Blood Pressure Device inventory
- of 4,000 units is included in the upfront fee
-
- 
- 
- 
-
-3)
-The
- PAD
--
-1A
- devices shall be stored at the Purchaser’s expense in a climate
- controlled, ISO certified warehouse rented to the Purchaser by the Seller, and shipped
- at the Purchaser’s expense upon delivery of written shipping instructions, as per
- the Sellers standard shipping & handling terms.
-
- 
- 
- 
-
-4)
-Right
- to Use: 
-
- 
-
-a.
-Purchaser
- hereby licenses the right to use and sub-license the Licensed Software Products and resell
- the Bundled Pulsewave Devices mentioned above subject to the following conditions:
-
- 
-
-(I)
-Internally
- within their corporate operations, and the operations of their majority-owned subsidiaries,
- divisions and affiliates throughout the world.
-
- 
- 
- 
-
-(II)
-Externally
- (by way of sub-licence or otherwise) as part of the services offered by the Purchaser
- and/or any one or more of its majority-owned subsidiaries, divisions and affiliates to
- its and/or their customers, clients and franchisees in accordance with the terms and
- conditions in this Agreement.
-
- 
- 
- 
-
-(III)
-The
- Seller specifically reserves any and all rights to the Licensed Products, and this agreement
- contains no rights whatsoever to any Intellectual Property of the Licensed Products or
- the Bundled Pulsewave Devices.
-
- 
-
- 
-
- 
-
- 
-
-SCHEDULE
-“B”
-
- 
-
-PAYMENT
-OF PURCHASE PRICE
-
- 
-
-Payment
-Terms
-: The total Purchase Price of the perpetual license including an initial Bundled Pulsewave Device stocking order as described
-in Schedule “A” point (d) and the Additional Services & Privileges as described in Schedule “D” is
-
-$1,250,000.00 CAD
- which shall be paid to the Seller upon the following terms:
-
- 
-
- 
-
-1.
-
-Upon closing - 
-$1,000,000
- CAD shall be paid in the form of common shares in Novo Integrated Sciences Inc. (the “Payment Shares”) having a par value of $0.001.
-
- 
-
- 
-
- 
-
- 
-
- 
-
-The number of shares paid to Cloud DX, Inc. will equal $1,000,000 CAD, converted to US dollars (USD) based on X-rates.com exchange rate on the day prior to the closing date, divided by the average closing price of Novo Integrated Sciences Inc. shares over the 10 business days preceding the closing date.
-
- 
-
- 
-
- 
-
-2.
-Cash
- component of 
-$250,000
- CAD shall be invoiced to the Purchaser by the Seller based
- on the following deliverables, and paid on the following schedule:
-
- 
-
-Cloud DX deliverable
- 
-
-Novo
- payment
-
-(terms: Net 15)
-
- 
- 
-
- 
- 
-
-Heart Friendly Program launches in Clinic #1
- 
-
-$
-50,000
-CAD
-
- 
- 
-
- 
- 
- 
-
-Novo-branded Android app delivered as APK file
- 
-
-$
-35,000
-CAD
-
- 
- 
-
- 
- 
- 
-
-Novo-branded Clinical portal website delivered
- 
-
-$
-35,000
-CAD
-
- 
- 
-
- 
- 
- 
-
-Pulsewave PAD-1A devices – 1
-st
- delivery
- 
-
-$
-20,000
-CAD
-
- 
- 
-
- 
- 
- 
-
-Marketing services / materials delivered
- 
-
-$
-25,000
-CAD
-
- 
- 
-
- 
- 
- 
-
-Cloud DX hires dedicated Novo support FTE
- 
-
-$
-85,000
-CAD
-
- 
-
-Payments
-to the Seller shall be made by wire transfer to the following account:
-
- 
-
-Cloud
-DX, Inc.
-
-20
-Jay Street, #834 Brooklyn NY, 11201
-
-Bank
-Name: Santander Bank
-
-Bank
-Address: 40 Washington Street, Brooklyn NY, 11201
-
-Account
-name: Cloud DX, Inc.
-
-Account
-number: 2771788527
-
-Routing
-number: 231372691
-
-SWIFT
-number (if needed) - SVRNUS33
-
- 
-
- 
-
- 
-
- 
-
-SCHEDULE
-“C”
-
- 
-
-CONDITIONAL
-EXCLUSIVITY CONDITIONS
-
- 
-
-Licensed
-Software Exclusivity Conditions
-
- 
-
- 
-
-●
-
-Perpetual license – With 5-year Conditional Exclusivity based on the following criteria: 
-
- 
-
- 
-
-a.
-
-Year 1 - The Purchaser shall have the right to sell and market the Licensed Software exclusively to “Physical Therapy Clinics” as defined in Section 1.1 (m), in Canada and the United States of America, for the first 5 years after the execution date of the agreement, with the exception of Clinics operated by Closing the Gap Healthcare.
-
- 
-
- 
-
- 
-
- 
-
-b.
-
-During the 5 year initial period, Novo is expected to sell a minimum of 4,000 Pulsewave devices, and sell a minimum of 200 Franchises;
-
- 
-
- 
-
- 
-
- 
-
-c.
-
-In Year 6 and beyond, additional 1-year periods of conditional exclusivity shall be granted provided that Novo sales in the preceding 12 months are equal to total sales achieved in Year 5.
-
- 
-
- 
-
- 
-
- 
-
-d.
-
-If the minimums in section (b) above are not met, continued Exclusivity will require the payment of an additional fee, to be negotiated in good faith between the parties.
-
- 
-
- 
-
- 
-
- 
-
-e.
-
-2-Way Exclusivity – Novo agrees not to replace the Licensed Software and Pulsewave Devices or offer a competitive offering as long as they are representing the CDX product line.
-
- 
-
- 
-
- 
-
- 
-
-SCHEDULE
-“D”
-
- 
-
-ADDITIONAL
-SERVICES & PRIVILEGES
-
- 
-
-Additional
-Services & Privileges
-
- 
-
- 
-
-1.
-
-Cloud DX will pay to white label the mobile apps and the Clinician website portal as part of the upfront fee. This project will be described in a separate Statement of Work negotiated between the parties in good faith, including the scope and specifications for the addition of the Purchasers brand images, colors and logos to the Licensed Software.
-
- 
-
- 
-
- 
-
- 
-
-2.
-
-Cloud DX will offer a dedicated support person for a minimum of 1 year, M-F, business hours – as part of the upfront license fee. This person will be employed by Cloud DX, starting on a mutually agreed date, and will be responsible for deliverables agreed upon between Cloud DX and the Purchaser. Subject to that agreement, the Purchaser may offer certain incentives based on this Cloud DX employee meeting agreed upon deliverables.
-
- 
-
- 
-
- 
-
- 
-
-3.
-
-Cloud DX will provide mutually agreed upon marketing collateral to a total value of $10,000 as part of the upfront fee
-
- 
-
- 
-
- 
-
- 
-
-4.
-
-Cloud DX will provide up to 100 hours per year of graphic design time for 1 year as part of the upfront fee
-
- 
-
- 
-
- 
-
- 
-
-5.
-
-Cloud DX will allow Novo to purchase an additional 2,000 Pulsewave PAD-1A blood pressure cuffs at a cost of C$64.00 CAD/unit, subject to availability.
-
- 
-
- 
-
- 
-
- 
-
-6.
-
-Cloud DX will allow Novo to purchase other/additional Cloud DX devices (scales, oximeters, thermometers, Pulsewave BT adapters) at the Seller’s full landed cost +15% for the duration of the exclusivity period.
-
- 
-
- 
-
- 
-
- 
-
-7.
-
-The Parties agree that Cloud DX services in addition to the Licensed Products & Bundled Pulsewave Devices, including but not limited to customization, localization, installation, hardware configuration, second level technical support, hosting services and any other implementation or delivery service requested of the Seller by the Purchaser shall be quoted and invoiced as a separate service, not covered by this Software License Agreement.
-
- 
-
- 
-
- 
+Sole and Exclusive Remedy
+. The Parties acknowledge and agree that each Party’s right of indemnification under this 
+Section
+7
+ constitutes each Party’s sole and exclusive remedy under this Agreement, with the exception of each Party’s rights
+to: (i) injunctive relief under 
+Section 4.6
+ and 
+Section 10.3
+ herein; or (ii) the remedies specified in 
+Section 6.3
+.
 
  
 
 8.
 
-The first year of hosting is included in the upfront license fee,
+Ownership
+ of and Access Data and Intellectual Property
 
  
 
+8.1
+
+Data
+. All Recipient Data is the exclusive property of, and shall constitute Confidential Information of, the relevant Recipient.
+The relevant Recipient shall retain exclusive ownership and right to use all of its Recipient Data after the conclusion of this Agreement.
+The Provider Party represents and warrants that, other than in connection with providing the Services under this Agreement, the Provider
+Party shall not, and shall cause its Affiliates not to, directly or indirectly use or disclose Recipient Data.
+
  
+
+8.2
+
+Intellectual Property
+. Unless agreed otherwise in a Schedule, each Party hereto agrees that any Intellectual Property of the other
+Party or its Affiliates or licensors made available to such Party or its Affiliates in connection with the Services, and any derivative
+works, additions, modifications, translations or enhancements thereof created by a Party or its Affiliates pursuant to this Agreement,
+are and shall remain the sole property of the original owner of such Intellectual Property. To the extent that a Provider uses its own
+or third-Person Intellectual Property in connection with providing the Services, such Intellectual Property shall remain the sole property
+of the Provider or the third Person.
+
+ 
+
+20
 
  
 
@@ -2290,45 +2136,81 @@ The first year of hosting is included in the upfront license fee,
 
 9.
 
-The costs for hosting during years 2 through 5 will be billed to the Purchaser as follows:
+Assignment;
+ Transfer
 
  
 
- 
+Neither
+Party shall assign or attempt to assign its rights or obligations hereunder without the other Party’s prior written consent; 
+provided
+,
 
-(i) 
-
-For every user activated on the system, Cloud DX will bill $3.00 per month.
-
- 
-
-(ii) 
-
-Hosting costs will be invoiced to the Purchaser 30 days after the end of each calendar quarter
-
- 
-
-(iii) 
-
-Total hosting costs will be capped at $6,250.00 per quarter
-
- 
-
-(iv)
-
-Once the maximum hosting cost is reached, if the Purchaser agrees to pay that cost in a lump sum, Cloud DX will reduce the total by 12%, for an annual cost of $22,000.
-
- 
+however
+, that no such consent shall be required for an assignment, in whole (if applicable) or in relevant part, in connection
+with (
+i
+) any assignment to an Affiliate of the assigning Party so long as such assignment is not for the purpose of avoiding indemnification
+and the assignee assumes and is capable of performing the obligations assigned in accordance with the terms of this Agreement or any
+assignment or sale of all or substantially all of the assets of Vinco or Cryptyde, or any merger, consolidation or other business combination
+to which Vinco or Cryptyde is a party. The assigning Party shall provide the other Party with written notice sixty (60) days prior to
+the consummation of any such assignment or other transaction referenced in the preceding sentence. Any assignment or attempt to do so
+in violation of this Agreement shall be null and void. This Agreement shall be binding upon and inure to the benefit of the Parties and
+their respective heirs, successors and permitted assigns.
 
  
 
 10.
 
-Notwithstanding #6 above, Cloud DX will guarantee most-favoured-customer prices on all Cloud DX devices and services based on similar quantities and products, as long as the Purchaser is under license.
+Dispute
+ Resolution
 
  
 
+10.1
+Any dispute arising under this Agreement shall be considered in person or by telephone by the Provider Service Manager(s) and the Recipient
+Service Manager(s) within seven (7) business days after receipt of a notice from either Party specifying the nature of the dispute (the
+date of receipt of such notice by the relevant Party, the “
+Dispute Date
+”). If for any reason, including the failure
+to meet or communicate, the Provider Service Manager(s) and the Recipient Service Manager(s) have not resolved such dispute to the satisfaction
+of both Parties within fifteen (15) business days after the Dispute Date, then either Party’s Service Manager(s) may immediately
+refer such dispute to the Executives. Each Party’s Executives shall make a good faith attempt to consider such dispute in person
+or by telephone within seven (7) business days of the date such dispute is referred to them. No proceedings for the resolution of a dispute
+pursuant to 
+Section 10.2
+ may be commenced until the earlier to occur of: (a) the date a decision is made by the Executives that
+resolution of the dispute through continued negotiation does not appear likely; or (b) the date that is thirty (30) business days after
+the Dispute Date.
+
  
+
+10.2
+Any dispute that the Parties are unable to resolve in accordance with the procedures set forth in 
+Section 10.1
+ will be submitted
+to non-binding mediation, which will be held in New York. The Parties will mutually determine who the mediator will be from a list of
+mediators obtained from the American Arbitration Association (“
+AAA
+”) office located in New York. If the Parties are
+unable to agree on the mediator, the mediator will be selected by the AAA. Each Party will bear its own costs and expenses with respect
+to the mediation, including one-half of the fees and expenses of the mediator. The Parties, their representatives, other participants
+and the mediator shall hold the existence, content and result of the mediation in confidence. Unless the Parties otherwise agree, either
+Party may pursue its rights and remedies under this Agreement after the earlier of: (a) the date a decision is made by the Executives
+of both Parties that resolution of the dispute through continued mediation does not appear likely or (b) the date that is sixty (60)
+business days after the date on which the Parties commenced non-binding mediation with respect to such dispute.
+
+ 
+
+10.3
+This 
+Section 10
+ shall not prevent the Parties from seeking or obtaining temporary or preliminary injunctive relief in a court
+for any breach or threatened breach of any provision hereof pending the resolution of mediation.
+
+ 
+
+21
 
  
 
@@ -2336,52 +2218,351 @@ Notwithstanding #6 above, Cloud DX will guarantee most-favoured-customer prices 
 
 11.
 
-The cost of ISO-approved storage for the Pulsewave PAD 1A devices at 100 – 72 Victoria Street S, Kitchener, ON is included for a period of twelve (12) months from the closing date of this Agreement. Additional storage, if required, shall be charged at $300 CAD per month and invoiced to the Purchaser on Net 30 terms.
+Miscellaneous
+
+ 
+
+11.1
+
+Schedules and Exhibits
+. The Schedules and Exhibits attached to this Agreement are a part of this Agreement as if fully set forth
+herein. All references herein to Articles, Sections, subsections, paragraphs, subparagraphs, clauses, Schedules and Exhibits shall be
+deemed references to such parts of this Agreement unless otherwise indicated or unless the context shall otherwise require.
+
+ 
+
+11.2
+
+Waivers and Amendments; Non-Contractual Remedies; Preservation of Remedies
+. This Agreement may be amended, superseded, canceled,
+renewed or extended, and the terms hereof may be waived, only by a written instrument signed by each of the Parties or, in the case of
+a waiver, by the Party waiving compliance. No delay on the part of any Party in exercising any right, power or privilege hereunder shall
+operate as a waiver thereof, nor shall any waiver on the part of any Party of any right, power or privilege, nor any single or partial
+exercise of any such right, power or privilege, preclude any further exercise thereof or the exercise of any other such right, power
+or privilege.
+
+ 
+
+11.3
+
+Entire Agreement; No Third Party Beneficiaries
+. This Agreement (together with the Schedules and Exhibits attached hereto) constitutes
+the entire agreement, and supersedes all prior agreements and understandings, both written and oral, among the Parties with respect to
+the subject matter of this Agreement. Nothing in this Agreement is intended or shall be construed to give any Person, other than the
+Parties hereto, their successors and permitted assigns, any legal or equitable right, remedy or claim under or in respect of this Agreement
+or any provision contained herein.
+
+ 
+
+11.4
+
+Governing Law
+. This Agreement (and any claims or disputes arising out of or related thereto or to the transactions contemplated
+thereby or to the inducement of any party to enter therein, whether for breach of Contract, tortious conduct or otherwise and whether
+predicated on common law, statute or otherwise) shall in all respects be governed by and construed in accordance with the laws of the
+State of Delaware, including all matters of construction, validity and performance, in each case without reference to any conflict of
+law rules that might lead to the application of the laws of any other jurisdiction.
+
+ 
+
+11.5
+
+Waiver of Jury Trial
+. EACH PARTY HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT
+OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT, OR THE BREACH, TERMINATION OR VALIDITY OF THIS
+AGREEMENT, OR THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT. EACH PARTY CERTIFIES AND ACKNOWLEDGES THAT (
+A
+) NO REPRESENTATIVE,
+AGENT OR ATTORNEY OF THE OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION,
+SEEK TO ENFORCE THE FOREGOING WAIVER, (
+B
+) IT UNDERSTANDS AND HAS CONSIDERED THE IMPLICATIONS OF THIS WAIVER, (
+C
+) IT MAKES
+THIS WAIVER VOLUNTARILY, AND (
+D
+) IT HAS BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND
+CERTIFICATIONS IN THIS 
+SECTION 11.5
+.
+
+ 
+
+11.6
+
+Notices
+. All notices, requests, claims, demands and other communications under this Agreement shall be in writing and shall be
+deemed given (a) on the date of delivery, upon delivery in person or if sent by facsimile (receipt of which is confirmed), (b) on the
+day after delivery, by registered or certified mail (postage prepaid, return receipt requested), or (c) one business day after having
+been sent by express mail through an internationally recognized overnight courier, in each case to the parties at the following addresses
+(or at such other address for a party as shall be specified by like notice):
 
  
 
  
 
- 
+(a)
+
+If
+ to Vinco, to: 
 
  
 
-12.
+Vinco
+Ventures, Inc.
 
-Cloud DX will allow Novo to design additions to device packaging stating that devices are distributed by Novo, so long as these additions meet medical device regulations (listing Cloud DX as manufacturer and Novo as licensee).
+Address:
+6 North Main Street
 
- 
+Fairport,
+NY 14450
 
- 
-
- 
-
- 
-
-13.
-
-Cloud DX will allow Novo to offer turnkey versions of Cloud DX powered programs (including but not limited to Weight Loss management, Hypertension Management and Stress Management) to their Franchisees under a separate Statement of Work for each program. That Statement of Work will describe the program deliverables, costs and revenue sharing between Novo and Cloud DX.
+Attention:
+Chief Executive Officer
 
  
 
- 
-
- 
-
- 
-
-14.
-
-Notwithstanding Schedule A, 4(a)(III), any such versions of Cloud DX powered programs, including but not restricted to Novo-branded versions Weight Management, Hypertension Management, or other wellness programs customized for Novo using the Licensed Products shall constitute Intellectual Property of Novo and shall be a permitted use under this License.
+22
 
  
 
  
 
+with
+a copy (which copy shall not constitute notice) to:
+
+law
+firm & address:
+
+Lucosky
+Brookman LLP
+
+101
+Wood Avenue South, 5
+th
+ Floor
+
+Woodbridge,
+NJ 08830
+
+Attention:
+Joseph Lucosky, Esq. and Adele Hogan, Esq.
+
+ 
+
+ 
+
+(b)
+
+if
+ to Cryptyde, to: 
+
+ 
+
+Cryptyde,
+Inc.
+
+Address:
+
+200
+9
+th
+ Avenue, Suite 220
+
+Safety
+Harbor, FL 34695
+
+Attention:
+Chief Executive Officer
+
+ 
+
+11.7
+
+Counterparts
+. This Agreement may be executed in one or more counterparts, each of which when executed and delivered shall be deemed
+an original document and all of which shall be considered one and the same agreement. Signatures provided by facsimile or electronic
+transmission will be deemed to be original signatures.
+
+ 
+
+11.8
+
+Independence
+. With respect to the provision of any of the Services, all employees and representatives of the Provider Party and
+its Affiliates and their respective third-Person subcontractors providing such Services shall be deemed, for purposes of all compensation
+and employee benefits, to be employees, third-Person subcontractors or representatives of the Provider Party or its Affiliates, and not
+employees, third-Person subcontractors or representatives of Recipient Party or any of its Affiliates. In performing the Services, such
+employees and representatives shall be under the direction, control and supervision of the Provider Party or its Affiliates or their
+respective third-Person subcontractors. The Provider Party and, as applicable, its Affiliates shall have the sole right to exercise all
+authority for the employment (including termination of employment), assignment and compensation of such employees and representatives.
+
+ 
+
+11.9
+
+No Joint Venture or Partnership Intended
+. Notwithstanding anything herein to the contrary, the Parties hereby acknowledge and
+agree that it is their intention and understanding that the transactions contemplated hereby do not in any way constitute or imply the
+formation of a joint venture or partnership between Vinco and Cryptyde.
+
+ 
+
+11.10
+
+Severability
+. If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any rule
+or law, or public policy, all other terms and provisions of this Agreement shall nevertheless remain in full force and effect so long
+as the economic and legal substance of the transactions contemplated hereby are not affected in any manner materially adverse to any
+Party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the Parties shall
+negotiate in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible in an acceptable
+manner to the end that the transactions contemplated hereby are fulfilled to the extent possible.
+
+ 
+
+23
+
  
 
  
 
-15.
+11.11
 
-Cloud DX will allow Novo to own the trademarks to their versions to any such jointly marketed products, so long as all medical device regulations including FDA and Health Canada regulations are met and all Novo marketing materials mention Cloud DX as the manufacturer/developer of the underlying technology as required by law.
+Non-exclusivity
+. Nothing in this Agreement shall prevent either Party from providing any service similar to any of the Services
+to any other Person. Nothing in this Agreement shall prevent any Recipient from obtaining any Service entirely or in part from its own
+or its Affiliates’ employees and facilities or from providers other than those Providers hereto, 
+provided
+ such Recipient
+complies with the relevant terms hereof with respect to its receipt of such Service by a Provider and in the termination thereof, and
+
+provided
+, 
+further
+ that the termination of a Service in part would not impede the provision of any other interrelated Service,
+in which case such partial termination may not be effected until the Parties have agreed how to do so without impeding such interrelated
+Service.
+
+ 
+
+11.12
+
+Force Majeure
+. “
+Force Majeure
+” means any acts or omissions of any civil or military authority, acts of terrorism,
+acts of God, fires, strikes or other labor disturbances, equipment failures, fluctuations or non-availability of electrical power, heat,
+light, air conditioning or telecommunications equipment, or any other similar act, omission or occurrence beyond either Party’s
+reasonable control. If either Party’s performance is delayed by Force Majeure, the time for performance shall be reasonably extended.
+A condition of Force Majeure shall be deemed to continue only so long as the affected Party is taking reasonable actions necessary to
+overcome such condition. If either Party shall be affected by a condition of Force Majeure, such Party shall give the other Party prompt
+notice thereof, which notice shall contain the affected Party’s estimate of the duration of such condition and a description of
+the steps being taken or proposed to be taken to overcome such condition of Force Majeure. Any reasonable delay occasioned by any such
+cause shall not constitute a default under this Agreement, and the obligations of the Parties shall be suspended during the period of
+delay so occasioned. During any period of Force Majeure, the Party that is not directly affected by such condition of Force Majeure shall
+be entitled to take any reasonable action necessary to mitigate the effects of such condition of Force Majeure; 
+provided that
+
+in the event that the Provider Party is affected by a condition of Force Majeure, the Provider Party shall only be responsible for the
+payment of the reasonable costs and expenses incurred by the Recipient Party for taking such reasonable actions up to, and not exceeding,
+the amount of the Fees for the affected Services or such component thereof for the period during which such Force Majeure condition occurs.
+If the Force Majeure event is not cured such that the affected Services or such component thereof are provided as required hereunder
+within thirty (30) days, the non-affected Party may terminate the affected Services or such component thereof and/or seek such Services
+or such component thereof from a third Person at the affected Party’s reasonable cost and expense.
+
+ 
+
+11.13
+
+Performance
+. Each Party shall cause to be performed, and hereby guarantees the performance of, all actions, agreements and obligations
+set forth herein to be performed by any Affiliate of such Party.
+
+ 
+
+11.14
+
+Currency
+. Unless otherwise specified in this Agreement, all references to currency, monetary values and dollars set forth herein
+shall mean United States (U.S.) dollars and all payments hereunder shall be made in United States (U.S.) dollars.
+
+ 
+
+11.15
+
+Further Assurances
+. Each of the Parties hereto agrees to execute all such further instruments and documents and to take all such
+further action as the other Party may reasonably require in order to effectuate the terms and purposes of this Agreement. The Parties
+shall act in good faith in the performance of their obligations under this Agreement.
+
+ 
+
+[
+signature
+page follows
+]
+
+ 
+
+24
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF
+, the Parties have caused this Agreement to be executed by their authorized representatives as of the date first above
+written.
+
+ 
+
+VINCO VENTURES, INC.
+
+ 
+
+CRYPTYDE, INC.
+
+ 
+
+           
+
+ 
+
+ 
+
+           
+
+By:
+
+ 
+
+ 
+
+By:
+
+ 
+
+Name:
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Title:
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ 
+
+25

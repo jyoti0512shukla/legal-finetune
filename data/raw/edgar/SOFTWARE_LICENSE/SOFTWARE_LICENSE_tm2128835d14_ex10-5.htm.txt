@@ -1,0 +1,1866 @@
+EX-10.5
+
+5
+
+tm2128835d14_ex10-5.htm
+
+EXHIBIT 10.5
+
+ 
+
+Exhibit 10.5
+
+ 
+
+EXCLUSIVE SOFTWARE LICENSE AGREEMENT
+
+ 
+
+THIS EXCLUSIVE SOFTWARE LICENSE
+AGREEMENT (this “
+Agreement
+”) is effective as of April 27, 2022 (the “
+Effective Date
+”), by and
+between SDE Inc., corporation organized under the laws of California and having its principal place of business at 200 E. Sandpointe Avenue,
+Suite 600, Santa Ana, CA 92707 (“
+Licensor
+”), and Snail Games USA Inc., a corporation organized under the laws
+of California and having its principal place of business at 12049 Jefferson Blvd., Culver City, CA 90230 (“
+Licensee
+”).
+Each of Licensor and Licensee may be individually referred to herein as a “
+Party
+” and collectively as the “
+Parties
+”.
+
+ 
+
+W I T N E S S E T H:
+
+ 
+
+WHEREAS, Licensor, through
+one or more of its Subsidiaries, is currently developing the Game (as defined herein), and expects the development to be completed within
+calendar year 2022;
+
+ 
+
+WHEREAS, Licensee has the
+requisite expertise and resources to publish, distribute and sell the products similar to the Game throughout the world;
+
+ 
+
+WHEREAS, Licensee desires
+to obtain from Licensor, and Licensor is willing to grant to Licensee, an exclusive license to publish, distribute or sell the Game in
+the Territory (as defined herein), on the terms and conditions set forth in this Agreement; and
+
+ 
+
+WHEREAS, Licensee has agreed
+to pay certain Advance Payments (as defined herein) to Licensor in connection with the rights being granted to Licensee hereunder.
+
+ 
+
+NOW, THEREFORE, in consideration
+of the covenants, representations and warranties set forth herein, and for other good and valuable consideration, the receipt and sufficiency
+of which are hereby acknowledged, the Parties, intending to be legally bound, hereby agree as follows:
+
+ 
+
+Article 1
+
+Definitions
+
+ 
+
+Section 1.01.
+         
+Definitions.
+
+(a) The following terms, as used herein, have the following meanings:
+
+ 
+
+“
+Affiliate
+”
+means, with respect to any Person, any other Person directly or indirectly controlling, controlled by, or under common control with such
+other Person, whether now or in the future. For purposes of this definition, “
+control
+” when used with respect to any
+Person means the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of
+voting securities, by contract or otherwise, and the terms “
+controlling
+” and “
+controlled
+” have correlative
+meanings.
+
+ 
+
+“
+Applicable Law
+”
+means, with respect to any Person, any transnational, domestic or foreign federal, state or local law (statutory, common or otherwise),
+constitution, treaty, convention, ordinance, code, rule, regulation, order, injunction, judgment, decree, ruling or other similar requirement
+enacted, adopted, promulgated or applied by a Governmental Authority that is binding upon or applicable to such Person, as amended unless
+expressly specified otherwise.
+
+ 
+
+1
+
+ 
+
+ 
+
+“
+Business Day
+”
+means a day on which commercial banks are open for business in Los Angeles, California, U.S.
+
+ 
+
+“
+Bug
+” means
+any defect of design or bug in the Game which prevents it from performing in accordance with the specifications and expectations of a
+reasonable End User, or a malfunction in the software of the Game that degrades the experience of the End User, including such defects
+or bugs. As used herein, “
+Emergency Bugs
+” refers to Bugs which have a severe impact on the balanced experience of the
+Game for End Users (such as farming), and “
+General Bugs
+” refers to all other Bugs.
+
+ 
+
+“
+Closed Beta
+”
+means a version of the Game released to a selected group of individuals, for free, the release of which is intended to (i) test the
+stability and compatibility of Client Software and Server Software and (ii) help further develop the Game.
+
+ 
+
+“
+Commercial Release
+Date
+” means the date, no earlier than the Early Access Date, upon which the Game is released on a commercial basis for End Users
+to download and play, as such date is determined by Licensee in its sole and absolute discretion.
+
+ 
+
+“
+Derivative ARK Game
+”
+means any game (other than the Game) subsequently developed by Licensor, which is based upon or relating to the “ARK2” creative
+universe.
+
+ 
+
+“
+DLC
+” means
+optional downloadable additional content (such as a game add-on or in-game items) which may be offered to an End User for a fee.
+
+ 
+
+“
+Early Access Date
+”
+means the date End Users are allowed to download and play beta version of the Game, as such date is determined by Licensee in its sole
+discretion.
+
+ 
+
+“
+End User
+”
+means an individual or entity who enters into an end user agreement with respect to the Game that permits such individual or entity to
+rightfully play the Game.
+
+ 
+
+“
+Error
+”
+means any software error, such as logic errors, in the Game that may result in incorrect on unexpected behavior, and includes any Bug.
+
+ 
+
+“
+Force Majeure Event
+”
+means an event beyond a Party’s reasonable control that affects such Party’s ability to fulfill or perform any term of this
+Agreement including (i) strikes, lockouts or other labor difficulties; (ii) fires, floods, acts of God, extremes of weather,
+earthquakes, tornadoes, or similar occurrences; (iii) riot, insurrection or other hostilities; (iv) embargo; (v) fuel or
+energy shortages; (vi) delays by unaffiliated suppliers or carriers; (vii) inability to obtain necessary labor, materials or
+utilities; or (viii) any epidemic, pandemic or disease outbreak (including COVID-19) or worsening thereof.
+
+ 
+
+2
+
+ 
+
+ 
+
+“
+Game
+”
+means any and all versions of the software product “ARK2”, in any and all languages, including (i) downloadable software
+that is required to be installed on a suitable computer for an End User to play such software product (“
+Client Software
+”),
+(ii) software installed by Licensor on a server designated by Licensee to process code and data in order to enable an End User to
+play such software product (“
+Server Software
+”), (iii) text files in all languages contained in the such software
+product (“
+Text File
+”), (iv) DLC related to such software product, (v) any additional or derivative content
+created for such software product by Licensor and (vi) any content created by End Users for such software product, to the extent
+Licensor or Licensee has rights to such content under their agreements with such End Users.
+
+ 
+
+“
+Governmental Authority
+”
+means any transnational, domestic or foreign federal, state or local governmental, regulatory or administrative authority, department,
+court, agency or official, including any political subdivision thereof.
+
+ 
+
+“
+Intellectual Property
+Rights
+” means any and all intellectual property rights or similar proprietary rights throughout the world, including any and
+all (i) trademarks, service marks, certification marks, logos, trade names, trade dress, domain names and other indications of origin,
+including all registrations and applications for registration of, and all goodwill associated with, any of the foregoing (“
+Trademarks
+”);
+(ii) copyrights and registrations and applications for registration thereof; (iii) trade secrets, know-how and other confidential
+or proprietary information (including processes, techniques and research and development information); (v) database rights, publicity
+rights and privacy rights and (v) rights to assert, claim or sue and collect damages, losses and expenses for the past, present or
+future infringement, misappropriation or other violation of any of the foregoing.
+
+ 
+
+“
+Open Beta
+”
+means a version of the Game released to the public, for free, the release of which is intended to (i) test the stability and compatibility
+of Client Software and Server Software and (ii) help further develop the Game.
+
+ 
+
+“
+Person
+”
+means an individual, corporation, partnership, limited liability company, association, trust or other entity or organization, including
+a Governmental Authority.
+
+ 
+
+“
+Peripheral Products
+”
+means any and all non-software products intended for promotional purposes, including toys, clothes, gifts, ornaments, books, cartoons,
+movies and souvenirs, but expressly excluding stamps.
+
+ 
+
+“
+Platform
+”
+means any online software platform that distributes video games and content to End Users including Steam, Epic Games, Xbox and PlayStation.
+
+ 
+
+“
+Subsidiary
+”
+means, with respect to any Person, any other Person of which a majority of the outstanding shares or the other equity interests having
+the power to vote for directors or comparable managers are owned, directly or indirectly, by the first Person.
+
+ 
+
+“
+Territory
+”
+means worldwide.
+
+ 
+
+3
+
+ 
+
+ 
+
+“
+Total Revenue
+”
+means any and all revenue earned by Licensee by publishing, distributing and selling the Game (excluding any value-added tax) including
+any and all (i) revenue earned by
+
+ 
+
+Licensee by selling in-game
+virtual items and currency to End Users, (ii) revenue earned by Licensee by selling Peripheral Products, (iii) revenue earned
+by Licensee by charging End Users for downloads of the Game, (iv) revenue share from Platforms that were approved by Licensee and
+(v) cash received from Platforms in consideration for the publication of the Game on such Platform.
+
+ 
+
+(b)
+Each of the following terms is
+defined in the Section set forth opposite such term:
+
+ 
+
+Term
+
+Section
+
+Action
+
+‎
+Section 9.02
+
+Affected Party
+
+‎
+Section 10.01
+
+Agreement
+
+Preamble
+
+Bona Fide Offeror
+
+‎
+Section 8.01(a)
+
+Confidential Information
+
+‎
+Section 6.01
+
+Confidential Material
+
+‎
+Section 6.03
+
+Derivative ARK Game Notice
+
+‎
+Section 8.02(a)
+
+Derivative ARK Game License Agreement
+
+‎
+Section 8.02(b)
+
+Disclosing Party
+
+‎
+Section 6.02
+
+Effective Date
+
+Preamble
+
+Election Period
+
+‎
+Section 8.01(b)
+
+Game License
+
+‎
+Section 2.01
+
+Initial Term
+
+‎
+Section 5.01
+
+Licensee
+
+Preamble
+
+Licensee Indemnitees
+
+‎
+Section 7.03
+
+Licensee Obligations
+
+‎
+Section 3.01
+
+Licensor
+
+Preamble
+
+Licensor Obligations
+
+‎
+Section 3.02
+
+Offered Interests
+
+‎
+Section 8.01(a)
+
+Party
+
+Preamble
+
+Peripheral Products License
+
+‎
+Section 2.01(b)
+
+Proposed Price
+
+‎
+Section 8.01(a)
+
+Proposed Purchaser
+
+‎
+Section 8.01(a)
+
+Proposed Terms
+
+‎
+Section 8.01(a)
+
+Receiving Party
+
+‎
+Section 6.02
+
+Related Parties
+
+‎
+Section 6.02
+
+Renewal Term
+
+‎
+Section 5.01
+
+Royalty Payment
+
+‎
+Section 4.02
+
+Sale Notice
+
+‎
+Section 8.01(a)
+
+Settlement Process
+
+‎
+Section 4.06
+
+Term
+
+‎
+Section 5.01
+
+Third Party Infringement
+
+‎
+Section 9.01
+
+ 
+
+4
+
+ 
+
+ 
+
+Section 1.02.
+         
+Interpretation
+.
+
+ 
+
+(a)
+The words “hereof”,
+ “herein” and “hereunder” and words of like import used in this Agreement shall refer to this Agreement as a whole
+and not to any particular provision of this Agreement.
+
+ 
+
+(b)
+The captions herein are included
+for convenience of reference only and shall be ignored in the construction or interpretation hereof.
+
+ 
+
+(c)
+References to Articles and Sections
+are to Articles and Sections of this Agreement unless otherwise specified.
+
+ 
+
+(d)
+Any singular term in this Agreement
+shall be deemed to include the plural, and any plural term the singular.
+
+ 
+
+(e)
+Whenever the words “include,”
+ “includes” or “including” are used in this Agreement, they shall be deemed to be followed by the words “without
+limitation”, whether or not they are in fact followed by those words or words of like import.
+
+ 
+
+(f)
+“Writing,” “written”
+and comparable terms refer to printing, typing and other means of reproducing words (including electronic media) in a visible form.
+
+ 
+
+(g)
+References to any statute, rule or
+regulation shall be deemed to refer to such statute, rule or regulation as amended or supplemented from time to time, including
+through the promulgation of applicable rules or regulations.
+
+ 
+
+(h)
+References to any agreement or
+contract are to that agreement or contract as amended, modified or supplemented from time to time in accordance with the terms hereof
+and thereof.
+
+ 
+
+(i)
+References to any Person include
+the successors and permitted assigns of that Person. References from or through any date mean, unless otherwise specified, from and including
+or through and including, respectively.
+
+ 
+
+(j)
+References to one gender include
+all genders.
+
+ 
+
+(k)
+References to “law”,
+ “laws” or to a particular statute or law shall be deemed also to include any and all Applicable Law.
+
+ 
+
+Article 2
+
+License and Intellectual Property
+
+ 
+
+Section 2.01.
+         
+License
+Grant. 
+(a) Licensor hereby grants to Licensee an exclusive, sublicensable license to use, operate, service (including by way
+of server maintenance), distribute, offer, sell, charge fees for, market, reproduce, advertise, promote, publish or otherwise commercialize
+the Game (and any and all Intellectual Property Rights therein), during the Term, within the Territory (such license, the “
+Game
+License
+”). In furtherance of the foregoing, Licensor hereby authorizes Licensee to establish the Early Access Date and the Commercial
+Release Date for the Game, as determined by Licensee in Licensee’s sole discretion.
+
+ 
+
+5
+
+ 
+
+ 
+
+(b)
+Licensor hereby grants to Licensee
+an exclusive, sublicenseable license to manufacture, distribute, offer, sell, charge fees for, market, advertise, and promote Peripheral
+Products related to the Game, during the Term, within the Territory (such license, the “
+Peripheral Products License
+”).
+Notwithstanding the foregoing, Licensee shall not distribute Peripheral Products without the prior written consent of Licensor.
+
+ 
+
+(c)
+For purposes of this 
+‎
+Section 2.01,
+ “exclusive” shall mean that Licensor shall not grant any applicable rights to any Person or itself exercise such rights during
+the Term.
+
+ 
+
+Section 2.02.
+         
+Trademark
+Rights. 
+Licensee shall be permitted to (a) to register and maintain Trademarks related to the Game, and (b) perform any
+localization necessary in different jurisdictions in order to apply for any trademark registrations in such jurisdictions.
+
+ 
+
+Article 3
+
+Obligations
+
+ 
+
+Section 3.01.
+         
+Publication
+Obligations. 
+As between the Parties, Licensee shall perform the following, at its own cost (collectively referred to herein as the
+ “
+Licensee Obligations
+”):
+
+ 
+
+(a)
+Licensee shall set up the servers
+necessary to publish the Game, or shall assign such obligations to a third party consistent with Licensee’s obligations set forth
+in this Agreement (it being understood that the Parties shall discuss in good faith the server setup whenever necessary in order to facilitate
+the user experience consistent with past practice);
+
+ 
+
+(b)
+Licensee shall build a website
+for the purpose of advertising and marketing the Game and shall advertise and market the Game on such website and Licensee’s social
+media (it being understood that, as between the Parties, Licensee shall have sole and exclusive ownership in respect of any right, title
+or interest in or to such website);
+
+ 
+
+(c)
+Licensee shall publish, advertise,
+market, distribute, and provide online services for the latest version of the Game, wherein such publishing, advertising, marketing,
+distribution, and provision of services shall not violate the rights of any third party (it being understood that Licensee shall not
+be in breach of the foregoing to the extent such violation occurred as a result of the Game as provided by Licensor);
+
+ 
+
+(d)
+Licensee shall provide Licensor
+with prior written notice of the publication and distribution of the Game on any new Platform;
+
+ 
+
+(e)
+Licensee shall pay for of any
+game engine usage fees (such as the “Unreal Engine”), where such game engine is necessary for the commercial distribution
+of the Game;
+
+ 
+
+(f)
+Licensee shall provide End Users
+with a Closed Beta and Open Beta at such a time as is mutually agreed upon between the Parties, after the completion of Licensor’s
+obligations under 
+‎
+Section 3.02(e);
+
+ 
+
+6
+
+ 
+
+ 
+
+(g)
+Licensee shall use commercially
+reasonable efforts to protect any and all Intellectual Property Rights in or to the Game pursuant to Applicable Laws (it being understood
+that Licensee shall promptly notify Licensor if Licensee becomes aware or has reasonable suspicion of any violation of such Intellectual
+Property Rights, and any enforcement of such Intellectual Property Rights shall be governed by 
+‎
+Article 9);
+
+ 
+
+(h)
+Without limiting 
+‎
+Section 3.01(g) above,
+Licensee shall use commercially reasonable efforts to protect the Game against piracy and hacking;
+
+ 
+
+(i)
+Licensee shall be responsible
+for ensuring that its employees do not violate any covenants or Applicable Laws relating to Licensor’s Intellectual Property Rights
+in and to the Game and shall take reasonable actions necessary to ensure that said employees will not copy, reverse engineer, disassemble,
+or modify the Game without the prior written permission of Licensor; and
+
+ 
+
+(j)
+From time to time, to assist Licensor
+in performing the Licensor Obligations, Licensee shall reasonably assist Licensor by (i) providing Licensor with a detailed list
+of technical information necessary (including information regarding appropriate servers, IP addresses, branding or specifications),
+(ii) configuring technical systems for hardware and software in order to provide Licensor with the necessary administrative privileges
+and (iii) providing Licensor with a billing query interface for billing data accuracy.
+
+ 
+
+Section 3.02.
+         
+Development
+Obligations. 
+As between the Parties, Licensor shall perform the following, at its own cost (collectively referred to herein as the
+ “
+Licensor Obligations
+”):
+
+ 
+
+(a)
+Licensor shall keep developing
+and updating the Game (including the Client Software and Server Software) (it being understood that Licensor shall develop and create
+DLC upon reasonable written request by Licensee);
+
+ 
+
+(b)
+Licensor shall regularly provide
+Licensee with any and all source code relating to the latest version of the Game (including the Client Software and the Server Software);
+provided that Licensor shall promptly provide Licensee with such source code upon reasonable written request by Licensee;
+
+ 
+
+(c)
+Licensor shall ensure that the
+Client Software and Server Software provided to Licensee (i) is complete, (ii) is delivered to Licensee via the Internet or
+via CD, (iii) is able to provide an online gaming experience for End Users, and (iv) does not have a high severity of Errors;
+
+ 
+
+(d)
+Licensor shall provide Licensee
+with the latest complete Text File, as such Text File is periodically updated, necessary to enable Licensee to perform the translation
+and localization of the Game;
+
+ 
+
+(e)
+Licensor shall share with Licensee
+all data with respect to virtual characters and items created by End Users, together with all log data in connection with the Game;
+
+ 
+
+(f)
+Licensor shall recommend in good
+faith a commercially reasonable price for the Game (including related DLC);
+
+ 
+
+7
+
+ 
+
+ 
+
+(g)
+Licensor shall provide Licensee
+with the Closed Beta and Open Beta necessary to launch the Game on future Platforms;
+
+ 
+
+(h)
+Without limiting 
+‎
+Section 3.01(g) above,
+Licensor shall use commercially reasonable efforts to protect the Game against piracy and hacking;
+
+ 
+
+(i)
+After receiving notice from Licensee
+of the existence of any Bugs, Licensor shall (i) resolve Emergency Bugs within twenty-four (24) hours after receiving such notice
+from Licensee and (ii) provide a solution plan for General Bugs (which shall provide for a solution within a reasonable timeframe)
+within forty-eight (48) hours after receiving such notice from Licensee;
+
+ 
+
+(j)
+Licensor shall (i) provide
+Licensee with appropriate support to localize the Game and (ii) at the written request of Licensee, produce assigned scenes, assigned
+quests, assigned characters, assigned events and assigned equipment within three (3) Business Days of receiving such request;
+
+ 
+
+(k)
+Licensor shall provide technical
+training to Licensee in the manner reasonably required by Licensee to complete the Licensee Obligations (it being understood that the
+Parties agree to negotiate in good faith the payment allocation of expenses incurred in connection with such training); and
+
+ 
+
+(l)
+Licensor shall provide Licensee
+with technical support as follows:
+
+ 
+
+(i)
+Licensor shall assist in obtaining
+expense information relating to server setup and purchase;
+
+ 
+
+(ii)
+Licensor shall provide remote
+assistance in the initial installation, software installation and server maintenance, and shall provide any necessary training for Licensee’s
+employees during the Closed Beta and Open Beta for future Platforms;
+
+ 
+
+(iii)
+Licensor shall provide technical
+solutions to any Errors that appear in the Game (including the Closed Beta and the Open Beta) or that otherwise appear in the translation
+and localization of the Game;
+
+ 
+
+(iv)
+Licensor shall provide technical
+advice for the security of the Game and the related servers; and
+
+ 
+
+(v)
+Licensor shall provide a complete
+version of the Client Software and Server Software.
+
+ 
+
+Section 3.03.
+         
+Alignment
+Meetings
+. The Parties shall schedule and attend annual meetings to discuss the development of additional products for the Game.
+
+ 
+
+Article 4
+
+Payments and Fees
+
+ 
+
+Section 4.01.
+         
+Monthly
+License Fee
+. Subject to the credit for Advance Payment under 
+‎
+Section 4.04,
+commencing with the Commercial Release Date (and not for any period prior to such date), and for the remainder of the Term, Licensee shall
+pay Licensor a monthly licensing fee of one million five hundred thousand U.S. dollars ($1,500,000), for a total of eighteen million U.S.
+dollars ($18,000,000) per year.
+
+ 
+
+8
+
+ 
+
+ 
+
+Section 4.02.
+         
+Royalty
+Payments
+. Licensee shall pay Licensor twenty-five percent (25%) of the Total Revenue of the Game (hereinafter referred to as the “
+Royalty
+Payment
+”). For the avoidance of doubt, Licensee shall retain the remaining seventy-five percent (75%) of the Total Revenue.
+
+ 
+
+Section 4.03.
+         
+DLC
+Payments
+. Subsequent to the Commercial Release Date (and not prior to such date), Licensee shall pay Licensor a one-time payment of
+five million U.S. dollars ($5,000,000) upon the release of each DLC during the Term. Such DLC shall be agreed to by the Parties pursuant
+to 
+‎
+Section 3.02(a).
+
+ 
+
+Section 4.04.
+         
+Advance
+Payment and Credit
+. (a) In connection with the negotiations of this Agreement, Licensee has previously remitted to Licensor,
+the sum of two million U.S. dollars ($2,000,000), and (b) concurrently with the execution and delivery of this Agreement, Licensee
+shall remit to Licensor, the sum of three million U.S. dollars ($3,000,000) (the aggregate sum of such payments, or $5,000,000, the “
+Advance
+Payment
+.”) The Parties acknowledge that sum of the Advance Payment shall be credited against any payments that may become due
+from Licensee to Licensor under 
+‎
+Section 4.01
+(monthly Licenses Fee), prior to any further remittances by Licensee therefor; provided however, in the event no Monthly License Fee becomes
+due and payable to Licensor for any reason whatsoever, the Advance Payment shall be retained by Licensor in its entirety.
+
+ 
+
+Section 4.05.
+         
+Other
+Payments
+. If Licensee intends to engage in sales activities related to the Game not contemplated by this Agreement, Licensee must
+(a) obtain prior written consent from Licensor and sign a supplemental agreement with Licensor regarding such sales activities and
+(b) provide Licensor with information regarding any potential agreements with third parties for such sales activities where such
+potential agreements would legally bind Licensee or Licensor.
+
+ 
+
+Section 4.06.
+         
+Settlement
+.
+During the Term, the Parties shall verify and confirm the Royalty Payment through a settlement process each month (the “
+Settlement
+Process
+”). After verification and confirmation, Licensee shall submit a written proposal of the payments to be made for the
+prior month before the fifth day of the month. Licensor shall confirm receipt within five (5) Business Days after receiving Licensee’s
+proposal and verify the amount and return the proposal to Licensee. Licensee shall properly keep the settlement records for each month.
+After receipt of the returned proposal, pending any disputes pursuant to 
+‎
+Section 4.07
+below, Licensee shall promptly remit payment to Licensor to the following bank account:
+
+ 
+
+Bank of America, Account no:
+325070338209, SDE Inc.
+
+ 
+
+Section 4.07.
+         
+Disputes
+.
+If during the Settlement Process there is a discrepancy in the payments and a dispute arises, the following shall occur:
+
+ 
+
+(a)
+if the discrepancy is less than
+one percent (1%), Licensor’s amount prevails; and
+
+ 
+
+9
+
+ 
+
+ 
+
+(b)
+if the discrepancy is equal to
+or greater than one percent (1%), the Parties shall negotiate in good faith to determine the correct amount and, if the discrepancy is
+not resolved after five (5) Business Days, the settlement amount for such month shall be the based upon the actual payments Licensor
+received from the Platforms.
+
+ 
+
+Section 4.08.
+         
+Reimbursement
+.
+During the Settlement Process, Licensor shall propose the reasonable expenses that it incurred for the prior month in connection with
+costs that would otherwise have been covered as part of the Licensee Obligations (such as any marketing expenses or server costs). Licensee
+shall (a) review such proposal and (b) verify, confirm, and approve appropriate expenses to be reimbursed and paid at the Settlement
+Confirmation.
+
+ 
+
+Section 4.09.
+         
+Tax
+Invoices.
+ Licensee shall provide Licensor with the original copy of any withholding tax invoice or certificate within ten (10) Business
+Days after Licensee pays such withholding tax to the local tax authority or other Governmental Authority. If Licensee fails to provide
+Licensor with such withholding tax invoice or certificate, Licensee shall pay Licensor for any supplemental copyright payments and/or
+commissions.
+
+ 
+
+Article 5
+
+Term and Termination
+
+ 
+
+Section 5.01.
+         
+License
+Term
+. The term of this Agreement shall commence on the Effective Date and continue until December 31, 2037 (the “
+Initial
+Term
+”). After the Initial Term, the term of this Agreement shall renew automatically for three (3) year terms (each, a
+ “
+Renewal Term
+” and, together with the Initial Term, the “
+Term
+”), unless terminated sooner by (a) written
+notice of either Party to the other Party within three hundred sixty-five (365) days prior to the expiration of the Initial Term or the
+Renewal Term, as the case may be, (b) in accordance with 
+‎
+Section 5.02
+or 
+‎
+Section 5.03,
+or (c) upon the consummation of a transaction pursuant to which Licensee acquires all or substantially all of the assets of Licensor,
+including all intellectual property of any kind whatsoever owned by Licensor (directly or indirectly through Licensor’s Subsidiaries),
+or if Licensee consummates a transaction to acquire the issued and outstanding equity interests of Licensor through a stock purchase,
+merger or any similar change of control transaction. In the case of a termination under clause 
+‎
+(a) of
+this 
+‎
+Section 5.01,
+prior to giving effect to such termination, Licensee shall have the exclusive right to negotiate with Licensor the terms of a new license
+agreement with respect to the subject matter of this Agreement for a period of one hundred twenty (120) days (it being understood that
+the Parties shall negotiate and cooperate in good faith during such 120-day period).
+
+ 
+
+Section 5.02.
+         
+Material
+Breach
+. Either Party may terminate this Agreement if the other Party has breached any material provision contained in this Agreement;
+provided that the non-breaching Party provides the breaching Party with thirty (30) days prior written notice to cure such breach (it
+being understood that the exercise of such right to terminate shall be without prejudice of any rights or remedies that the non-breaching
+Party may have under Applicable Law including the right to seek compensation and any equitable relief from the breaching Party).
+
+ 
+
+10
+
+ 
+
+ 
+
+Section 5.03.
+         
+Insolvency
+.
+This Agreement may be terminated by a Party before the expiration of the Term if the other Party becomes insolvent, or is transferred
+to its creditors, or files in any court or agency a petition for bankruptcy, or is served with an involuntary petition in an insolvency
+proceeding.
+
+ 
+
+Section 5.04.
+         
+Effects
+of Termination
+. Upon expiration or termination of the Term, the Parties shall proceed in a manner with the End Users’ interests
+as the top priority. Without limiting the generality of the foregoing, (a) the Parties shall arrange full-time staff to process and
+maintain the availability of the Game for at least one month; (b) Licensee shall, and shall ensure that its Affiliates, distribution
+partners and third party channels terminate the sales and publication of the Game on behalf of Licensee; (c) the Parties shall issue
+a statement together to Licensee’s Affiliates, distribution partners and third channels to terminate Licensee as the publisher of
+the Game; and (d) notwithstanding the foregoing, each Party shall ensure that all End Users existing before the expiration or termination
+of the Term shall have the right to continue to use the Game as permitted by the terms and conditions of the applicable end user agreement
+with such End User.
+
+ 
+
+Section 5.05.
+         
+Survival
+.
+Notwithstanding any expiration or termination of this Agreement, the following provisions shall survive such expiration or termination:
+
+‎
+Article 1;
+this 
+‎
+Section 5.05;
+
+‎
+Article 6;
+
+‎
+Section 7.03;
+
+‎
+Section 7.04;
+
+‎
+Section 7.05;
+
+‎
+Article 8
+and 
+‎
+Article 10.
+
+ 
+
+Article 6
+
+Confidentiality
+
+ 
+
+Section 6.01.
+         
+Confidential
+Information
+. As used herein, “
+Confidential Information
+” refers to a Party’s confidential or proprietary information,
+including any design, drawing, plan, specification, formula, technology, procedure, system, new products or technical information, software,
+manufacture, development or marketing skills, business strategy and development plan, supplier information, client information, financial
+information and any other similar information (no matter in written form or any other tangible form), and any other business secret or
+nonpublic business information, including patent and trademark rights that have been filed yet not obtained and patent and trademark rights
+that are about to be filed.
+
+ 
+
+Section 6.02.
+         
+Protection
+of Confidential Information
+. Each Party (the “
+Receiving Party
+”) shall, at all times (including the execution of
+this Agreement), keep the Confidential Information of the other Party (the “
+Disclosing Party
+”) confidential and, without
+prior written consent of the Disclosing Party (which shall not be unreasonably refused or delayed), the Receiving Party shall not use
+any Confidential Information of the Disclosing Party (unless for the purpose of this Agreement) or disclose any Confidential Information
+of the Disclosing Party to any third party; unless such information: (a) is known to the public prior to the disclosure; (b) is
+known to the public not because of breach of this Agreement; (c) is legally obtained from the third party not because of any breach
+by the Receiving Party or third party of any confidentiality obligations owed to the Disclosing Party; or (d) is required to be disclosed
+by Applicable Law or by any Governmental Authority, or by unappealable judgment, decree or order made by any court or arbitration board
+of competent jurisdiction. To the necessary extent of this Agreement, a Receiving Party can disclose Confidential Information of the Disclosing
+Party to any of its Affiliates, potential or actual suppliers, potential or actual service providers, and professional consultants or
+employees of the Receiving Party (collectively the “
+Related Parties
+”); provided, however, that before making any such
+disclosure, the Receiving Party shall inform such Related Parties of the confidentiality obligations under this Agreement, and shall take
+all reasonable efforts to get the Related Party’s commitment to undertake the confidentiality obligations hereunder. In the event
+that any Related Party does not agree to undertake such confidentiality obligations, the Receiving Party shall obtain written consent
+from the Disclosing Party before making any such disclosure.
+
+ 
+
+11
+
+ 
+
+ 
+
+Section 6.03.
+         
+Return
+of Confidential Material
+. All confidential documents and other records (no matter in what form) (hereinafter referred to as “
+Confidential
+Material
+”) that are provided to or obtained by the Receiving Party from the Disclosing Party shall be returned to the Disclosing
+Party immediately upon termination of this Agreement and copies shall not be retained. If the Receiving Party is required to return such
+Confidential Material as provided in this 
+‎
+Article 6,
+the Receiving Party shall confirm the completion of the return with the Disclosing Party in writing.
+
+ 
+
+Section 6.04.
+         
+Survival
+.
+The obligations under this 
+‎
+Article 6
+shall survive the expiration or termination of this Agreement for a period of six (6) years, provided that, notwithstanding the following,
+with respect to the trade secrets (including any source code) of either Party, the obligations under this 
+‎
+Article 6
+shall survive in perpetuity.
+
+ 
+
+Article 7
+
+Representations and Warranties; Indemnification; Disclaimers
+
+ 
+
+Section 7.01.
+         
+Licensor
+Representations
+. Licensor represents and warrants to Licensee that:
+
+ 
+
+(a)
+Licensor is a corporation duly
+organized, validly existing and in good standing in accordance with all Applicable Law;
+
+ 
+
+(b)
+Licensor has full power to enter
+into this Agreement, is the owner of all Intellectual Property Rights under the Game License and the Peripheral Products License including
+the Intellectual Property Rights used in the Game, and has the right to grant Licensee all licenses and rights granted under this Agreement,
+and has already obtained all necessary permissions, consents and approvals;
+
+ 
+
+(c)
+Licensor’s software and
+components of the Game, including all contents of the online games, products, logos, and any Intellectual Property Rights, licenses and
+materials that Licensor licenses or otherwise grants rights to Licensee to use according to this Agreement, do not and will not violate,
+infringe, misappropriate or in any other way harm any third party’s Intellectual Property Rights;
+
+ 
+
+(d)
+Licensor’s performance of
+this Agreement does not and will not violate any Applicable Laws of any country or region which has jurisdiction over Licensor’s
+or Licensee’s businesses or licensed rights and the Game currently does, and at all times in the future shall, comply with all
+Applicable Law;
+
+ 
+
+12
+
+ 
+
+ 
+
+(e)
+The Game (including all contents)
+and Licensor’s logos do not and will not include any representations or content that is illegal, obscene, indecent, pornographic,
+provocative, defamatory, insulting, threatening, likely to incite racial hatred, discriminatory, menacing or in breach of confidence;
+and
+
+ 
+
+(f)
+None of the licensed rights under
+the Game License and the Peripheral Products License, including the Game and associated Intellectual Property Rights, that Licensor grants
+under this Agreement are currently commencing, pending or threatened to take action or proceedings under any court, arbitration board,
+administrative court or government agency.
+
+ 
+
+Section 7.02.
+         
+Licensee
+Representations
+. Licensee represents and warrants to Licensor that:
+
+ 
+
+(a)
+Licensee can be the publisher
+of the Game in the Territory during the Term, and has all the necessary licenses, permissions, consents and permits from any applicable
+Governmental Authority; and
+
+ 
+
+(b)
+Licensee has full power to enter
+into this Agreement and is able to undertake the obligations under this Agreement.
+
+ 
+
+Section 7.03.
+         
+Indemnification
+.
+Licensor shall indemnify and defend Licensee and any of Licensee’s Affiliates and their respective equityholders, officers, directors,
+managers, employees and agents (“
+Licensee Indemnitees
+”) against, and to hold each of them harmless from and against,
+and shall pay and reimburse each of them for, any and all damages suffered or incurred by Licensee Indemnities to the extent arising out
+of, based upon, or relating to (a) any breach of this Agreement by Licensor or any of its Affiliates, (b) Licensor’s or
+any of its Affiliates’ willful misconduct, fraud or gross negligence or (c) any alleged or actual infringement, misappropriation
+or other violation of a third party’s Intellectual Property Rights by the Game or Licensee’s use thereof.
+
+ 
+
+Section 7.04.
+         
+Indemnification
+Procedure
+. As a condition to Licensee’s right to receive indemnification under 
+‎
+Section 7.03,
+it shall: (a) promptly notify Licensor as soon as it becomes aware of a claim or suit for which indemnification may be sought pursuant
+hereto; (b) cooperate, and cause Licensee Indemnitees to cooperate, with Licensor in the defense, settlement or compromise of such
+claim or suit; and (c) permit Licensor to control the defense, settlement or compromise of such claim or suit, including the right
+to select defense counsel. Notwithstanding anything to the contrary contained in this Agreement, in no event may Licensor compromise or
+settle any claim or suit in a manner which admits fault or negligence on the part of any Licensee Indemnitee without the prior written
+consent of such Licensee Indemnitee. Each Party shall reasonably cooperate with the other Party and its counsel in the course of the defense
+of any such suit, claim or demand, such cooperation to include using reasonable efforts to provide or make available documents, information
+and witnesses. Licensor shall have no liability under 
+‎
+Section 7.03
+with respect to claims or suits settled or compromised without its prior written consent.
+
+ 
+
+13
+
+ 
+
+ 
+
+Section 7.05.
+         
+Indemnification
+Step-In
+. If Licensor does not assume and conduct the defense within sixty (60) days of Licensee’s notice of a claim pursuant
+to 
+‎
+Section 7.04,
+Licensee may defend against and consent to the entry of any judgment or enter into any settlement with respect to such claims in any manner
+Licensee deems reasonably appropriate (and Licensee need not consult with, or obtain any consent from, Licensor in connection therewith),
+and Licensor will remain responsible to indemnify Licensee as provided in 
+‎
+Section 7.03.
+
+ 
+
+Section 7.06.
+         
+DISCLAIMER
+OF WARRANTIES
+. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN THIS 
+‎
+ARTICLE 7,
+THIS AGREEMENT IS ENTERED INTO WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING ANY WARRANTY
+OF MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE OR ANY IMPLIED WARRANTIES ARISING FROM COURSE OF DEALING OR COURSE OF PERFORMANCE.
+
+ 
+
+Section 7.07.
+         
+DISCLAIMER
+OF CONSEQUENTIAL AND OTHER DAMAGES
+. OTHER THAN IN CONNECTION WITH ANY BREACH OF 
+‎
+ARTICLE 6
+OR A PARTY’S GROSS NEGLIGENCE, WILLFUL MISCONDUCT OR FRAUD, NO PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR ANY SPECIAL, INDIRECT, INCIDENTAL,
+PUNITIVE OR CONSEQUENTIAL DAMAGES (PROVIDED THAT ANY SUCH LIABILITY WITH RESPECT TO A THIRD PARTY CLAIM SHALL BE CONSIDERED DIRECT DAMAGES)
+OF SUCH OTHER PARTY ARISING IN CONNECTION WITH THIS LICENSE.
+
+ 
+
+Article 8
+
+Rights of First Refusal and Negotiation
+
+ 
+
+Section 8.01.
+         
+Right
+of First Refusal. 
+Licensor covenants and agrees with Licensee as follows:
+
+ 
+
+(a)
+Notice
+. If Licensor receives
+an offer from, or desires to enter into an agreement with, any person or entity (the “
+Bona Fide Offeror
+”), to acquire
+all or any part of Licensor’s business (whether by means of a sale of stock or merger, a sale or lease of all or substantially
+all of the assets comprising Licensor’s business, or the Intellectual Property Rights with respect to only the Game), then Licensor
+shall not accept such offer or enter into such agreement, unless and until Licensor first shall have delivered to Licensee a written
+notice of such offer or agreement (the “
+Sale Notice
+”), which notice shall include a copy of any written agreement
+relating to the proposed sale and shall set forth (i) the securities or the assets being proposed to be transferred by Licensor
+(the “
+Offered Interests
+”), (ii) the proposed price and the terms and conditions of payment (the “
+Proposed
+Price
+”), (iii) all other terms and conditions of the proposed transaction (“
+Proposed Terms
+”), (iv) the
+name and address of the proposed transferee (the “
+Proposed Purchaser
+”), and (v) an offer to sell or transfer
+the Offered Interests to Licensee at the Proposed Price and on the Proposed Terms.
+
+ 
+
+14
+
+ 
+
+ 
+
+(b)
+Licensee’s Right to Accept
+.
+Licensee shall have the right to purchase all or any portion of the Offered Interests upon the terms set forth in the Sale Notice. If
+Licensee desires to purchase the Offered Interests in whole or in part, Licensee may exercise such right by delivering to Licensor within
+thirty (30) days following its receipt of the Sale Notice (the “
+Election Period
+”), a written election (the “
+Election
+”)
+to purchase such portion of the Offered Interests as it wishes to acquire upon the terms set forth in the Sale Notice.
+
+ 
+
+(c)
+Failure to Exercise
+. In
+the event Licensee fails to make an Election within ten (10) Business Days after the expiration of the Election Period, Licensor
+may, within a period of one hundred twenty (120) days from the date of the Sale Notice complete the sale of all of the Offered Interests
+to the Bona Fide Offeror upon the terms set forth in the Sale Notice.
+
+ 
+
+(d)
+Closing
+. If Licensor does
+not complete the sale of such Offered Interests within the aforementioned 120-day period, the provisions of this 
+‎
+Section 8.01
+shall again apply to the unsold Offered Interests, and no sale of such Offered Interests by Licensor shall be made otherwise than in
+accordance with the terms of this Agreement. If there is any change in the terms of the Bona Fide Offeror disclosed in the Sale Notice,
+the provisions of this 
+‎
+Section 8.01 shall retrigger
+and this 
+‎
+Section 8.01 must be again complied with in
+its entirety with respect to all such Offered Interests, and no sale of Offered Interests by Licensor shall be made otherwise than in
+accordance with the terms of this Agreement.
+
+ 
+
+Section 8.02.
+         
+Right
+of First Negotiation for any Derivative ARK Game. 
+Licensor covenants and agrees with Licensee as follows:
+
+ 
+
+(a)
+Communications and Notice
+.
+From time to time, Licensor shall provide Licensee with updates regarding the development of any Derivative ARK Game. Licensor agrees
+to consider, in good faith, any suggested feedback or input from Licensee with respect to the development of any such Derivative ARK
+Game. Licensor shall notify Licensee in writing when the development of any such Derivative ARK Game has advanced to the point where
+it is appropriate to engage in discussions regarding the licensing, sale or publishing of any such Derivative ARK Game (a “
+Derivative
+ARK Game Notice
+”).
+
+ 
+
+(b)
+Licensee’s Exclusive
+Right of First Negotiation
+. Licensee shall have the exclusive right of first negotiation to enter into a license agreement for publishing
+of any such Derivative ARK Game (each, a “
+Derivative ARK Game License Agreement
+”). Licensor and Licensee shall negotiate
+in good faith the terms and conditions of each such Derivative ARK Game License Agreement.
+
+ 
+
+(c)
+Payments Credit
+. Any payments
+made by Licensee to Licensor under any Derivative ARK Game License Agreement shall be credited against the monthly licensing fee in 
+‎
+Section 4.01
+on a monthly basis. If, at the end of a given calendar year, the payments made by Licensee to Licensor under any Derivative ARK Game
+License Agreement exceed eighteen million U.S. dollars ($18,000,000), Licensor shall refund to Licensee all payments made under 
+‎
+Section 4.01
+for that given calendar year within thirty (30) days. For the avoidance of doubt, payments made under 
+‎
+Section 4.02
+shall not be included in the foregoing credit and such payments shall remain unaffected by any Derivative ARK Game License Agreement
+unless expressly modified by such Derivative ARK Game License Agreement.
+
+ 
+
+15
+
+ 
+
+ 
+
+(d)
+Failure to Exercise and Trademark
+License
+. In the event that the Parties fail to enter into a Derivative ARK Game License Agreement within one hundred twenty (120)
+days of Licensee receiving the applicable Derivative ARK Game Notice, Licensor may begin to seek to license the applicable Derivative
+ARK Game to a third party. If Licensor desires to enter into an agreement with any person or entity to license, sell or otherwise transfer
+the applicable Derivative ARK Game, then Licensor shall not enter into such agreement, unless and until Licensor first shall have delivered
+to Licensee (i) a written notice of such agreement, which notice shall include a copy of any written agreement relating to the proposed
+license, sale or transfer and (ii) an offer to license, sell or otherwise transfer the applicable Derivative ARK Game under the
+same terms and conditions that Licensor has offered to such person or entity. If Licensor enters into a definitive agreement for the
+applicable Derivative ARK Game with a third party, then (A) Licensor shall provide Licensee with prompt notice of the execution
+of such agreement, (B) Licensee’s payment obligations under 
+‎
+Section 4.01
+shall cease immediately and (C) Licensee agrees to negotiate in good faith with such third party for a non-exclusive license to
+Licensee’s trademark rights under 
+‎
+Section 2.02.
+
+ 
+
+Article 9
+
+Intellectual Property Enforcement
+
+ 
+
+Section 9.01.
+         
+Notice.
+
+If either Party believes that an infringement, unauthorized use, misappropriation or ownership claim or threatened infringement or
+other such activity by a third party exists with respect to any Intellectual Property Rights licensed under the Game License or Peripheral
+Products License or if a third party claims that any Intellectual Property Rights licensed under the Game License or Peripheral Products
+License is invalid or unenforceable (collectively “
+Third Party Infringement
+”), such Party shall inform the other Party
+and provide the details of such belief or claim.
+
+ 
+
+Section 9.02.
+         
+Right
+to Bring an Action
+. Licensee shall have the first right, but not the obligation, to attempt to resolve any Third Party Infringement,
+including by filing an infringement suit, defending against such claim or taking other similar action, and to compromise or settle any
+such Third Party Infringement or claim (any of the foregoing, an “
+Action
+”). At Licensee’s request, Licensor shall
+immediately provide Licensee with all relevant documentation (as may be requested by Licensee) evidencing that Licensee is validly empowered
+by Licensor to take such an Action. Licensor shall be obligated to join Licensee in any such Action if Licensee determines that Licensor
+is a necessary and/or indispensable party to such Action, and Licensor hereby consents to being joined in, such Action. If Licensee does
+not intend to prosecute or defend an Action, Licensee shall promptly inform Licensor, and Licensor shall then have the right, but not
+the obligation, to attempt to resolve any Third Party Infringement or claim, including by filing an Action with respect to any Intellectual
+Property Rights licensed under the Game License or Peripheral Products License and to compromise or settle any such infringement or claim.
+Licensor shall cooperate and assist Licensee in all reasonable respects in connection with an Action brought under this 
+‎
+Article 9.
+
+ 
+
+Section 9.03.
+         
+Cost
+of an Action
+. The respective Party taking Action against Third Party Infringement shall pay all costs associated with such Action.
+
+ 
+
+16
+
+ 
+
+ 
+
+Section 9.04.
+         
+Settlement
+.
+Neither Party shall settle, or otherwise compromise, any Action without the prior written consent of the other Party where such settlement
+or compromise would (a) give rise to liability (economic or otherwise) to the other Party or (b) in any manner alter, diminish
+or be in derogation of the other Party’s rights under this Agreement.
+
+ 
+
+Section 9.05.
+         
+Reasonable
+Assistance
+. The Party not enforcing or defending the Intellectual Property Rights licensed under the Game License or Peripheral Products
+License shall provide reasonable assistance to the other Party, including providing access to relevant documents and other evidence and
+making its employees available, subject to the other Party’s reimbursement of any out-of-pocket costs incurred by the non-enforcing
+or non-defending Party in providing such assistance.
+
+ 
+
+Section 9.06.
+         
+Distribution
+of Amounts Recovered. 
+Any amounts recovered by the Party taking an Action pursuant to this 
+‎
+Article 9,
+whether by settlement or judgment, shall be allocated in the following order: (a) to reimburse the Party taking such Action for any
+costs incurred, (b) to reimburse the Party not taking such Action for its costs incurred in such Action, if it joins such Action;
+and (c) the remaining amount of such recovery shall be paid to or kept by Licensee; provided that such remaining amount be deemed
+to be Total Revenue and Licensee shall pay to Licensor a royalty on such remaining amount based on the royalty rates set forth in 
+‎
+Section 4.02.
+
+ 
+
+Article 10
+
+Miscellaneous
+
+ 
+
+Section 10.01.
+         
+Force
+Majeure
+. In case of a Force Majeure Event, the result of which either Party (“
+Affected Party
+”) cannot perform any
+obligation under this Agreement after reasonable and industrious efforts, the Affected Party is not responsible for any liability. In
+the case of a Force Majeure Event, the Affected Party shall notify the other Party of the occurrence of the Force Majeure Event within
+ten (10) Business Days after the Force Majeure Event. The Parties shall work together in good faith and exert commercially reasonable
+efforts to cooperatively seek a solution that is mutually satisfactory.
+
+ 
+
+Section 10.02.
+         
+Transfers.
+
+This Agreement shall be binding upon and shall be enforceable by the Parties and their respective successors and permitted assigns.
+Unless otherwise clearly expressed, without the prior written consent of the other Party, neither Party may transfer or assign its rights
+and obligations under this Agreement to any third party, except, in the case of Licensee, to an Affiliate or acquirer of all or substantially
+all of the business of Licensee.
+
+ 
+
+Section 10.03.
+         
+Governing
+Law
+. The conclusion, effectiveness, interpretation and implementation of this Agreement shall be governed by the laws and regulations
+of the state of California in the United States of America.
+
+ 
+
+Section 10.04.
+         
+Dispute
+Resolution
+. Any controversies, disputes, or requests arising from the interpretation, breach or termination of this Agreement or the
+effectiveness of this Agreement shall be settled through negotiation. If no settlement can be reached within thirty (30) days after the
+occurrence of the dispute, either Party may submit the dispute to the JAMS Los Angeles, California, seeking a resolution by the JAMS Streamlined
+Arbitration Rules.
+
+ 
+
+17
+
+ 
+
+ 
+
+Section 10.05.
+         
+Language
+and Copies
+. This Agreement shall have two (2) copies, which are written both in Chinese and English. Each Party shall hold one
+(1) Chinese original and one (1) English original. If there is any difference between Chinese and English texts, the English
+text shall prevail, govern and control.
+
+ 
+
+Section 10.06.
+         
+Amendments
+.
+Any amendment, revision, waiver, absolution or voluntary termination of this Agreement and its provisions shall be signed by the Parties
+in writing.
+
+ 
+
+Section 10.07.
+         
+Cost
+.
+The Parties shall pay for their respective expenses and costs incurred in connection with the negotiation and/or preparation of this Agreement.
+
+ 
+
+Section 10.08.
+         
+Entire
+Agreement
+. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and thereof
+and supersedes all prior discussion, understandings, letters, notes, memos, suggestions, negotiations, and other documents and agreements
+between the Parties with respect to the subject matter hereof and thereof.
+
+ 
+
+Section 10.09.
+         
+Severability
+.
+If any term, provision, covenant or restriction of this Agreement is held by a court of competent jurisdiction or other authority to be
+invalid, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions of this Agreement shall remain in full
+force and effect and shall in no way be affected, impaired or invalidated so long as the economic or legal substance of the transactions
+contemplated hereby is not affected in any manner materially adverse to any Party. Upon such a determination, the Parties shall negotiate
+in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible in an acceptable manner
+in order that the transactions contemplated hereby be consummated as originally contemplated to the fullest extent possible.
+
+ 
+
+Section 10.10.
+         
+Non-Waiver
+.
+Neither Party’s non-executing, delayed executing or partial executing of any provisions under this Agreement should be construed
+to as a waiver of any of its rights under this Agreement. Any Party’s waiver of the other Party’s fault or breach pursuant
+to this Agreement shall not be construed as a waiver of any other or similar fault or breach in the future, and will not affect other
+provisions of this Agreement in any form.
+
+ 
+
+[
+Signature page follow
+s]
+
+ 
+
+18
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the Parties
+have caused this Agreement to be duly executed by their respective authorized officers as of the Effective Date.
+
+ 
+
+ 
+
+SDE, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Zhou Ying
+
+ 
+
+ 
+
+Name:
+
+Zhou Ying
+
+ 
+
+ 
+
+Title:
+
+Chief Executive Officer
+
+ 
+
+ 
+
+Date:
+
+4/27/2022
+
+ 
+
+ 
+
+SNAIL GAMES USA, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Jim Tsai
+
+ 
+
+ 
+
+Name:
+
+Jim Tsai
+
+ 
+
+ 
+
+Title:
+
+Chief Executive Officer
+
+ 
+
+ 
+
+Date:
+
+4/27/2022

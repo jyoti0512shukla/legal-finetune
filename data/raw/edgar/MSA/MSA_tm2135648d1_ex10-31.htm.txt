@@ -1,0 +1,892 @@
+EX-10.31
+
+31
+
+tm2135648d1_ex10-31.htm
+
+EXHIBIT 10.31
+
+ 
+
+Exhibit 10.31
+
+ 
+
+AMENDMENT CW673842
+TO MASTER SERVICES AGREEMENT CW232350
+
+ 
+
+This Amendment (together with any Exhibits
+attached hereto or incorporated into this document, this “
+Amendment
+”) is entered into as of the effective date
+indicated in the signature box below (the “
+Effective Date
+”) by and between JPMORGAN CHASE BANK, NATIONAL ASSOCIATION,
+a national banking association (“
+JPMC
+”) and the supplier named in the signature box below (“
+Supplier
+”).
+
+ 
+
+JPMC and Supplier are parties to a Master
+Services Agreement dated January 4, 2008 (“
+Agreement
+”) pursuant to which Supplier may provide goods, services
+(“
+Services
+”), or licensed materials (each a “
+Deliverable
+”) to JPMC in accordance with
+transaction-specific terms set forth in various schedules to the Agreement (“
+Schedules
+”). The term of each Schedule
+will be referred to as the “
+Schedule Term
+.” JPMC or any of its Affiliates (each, a “
+JPMC Entity
+”
+and collectively “
+JPMorgan Chase & Co.
+”) may enter Schedules. The term “
+Affiliate
+”
+means an entity owned by, controlling, controlled by, or under common control with, directly or indirectly, a party.
+
+ 
+
+JPMC and Supplier, by signing in the signature
+blanks below, agree to amend the terms of the Agreement to include the terms set forth in this Amendment. Sections references and capitalized
+terms in this Amendment refer to the Section of this Amendment and terms defined in this Amendment, respectively, unless otherwise noted.
+In the event of a conflict between the terms of this Amendment and the terms previously set forth in the Agreement, the terms more protective
+of JPMC Data will prevail. Except as expressly stated in this Amendment, the terms of the Agreement remain in full force and effect.
+
+ 
+
+Master Contract ID Number: 
+CW232350
+
+ 
+
+Effective Date: 
+May 1, 2014
+
+ 
+
+COMPOSECURE, LLC
+   
+
+JPMORGAN CHASE BANK, NATIONAL
+ 
+ASSOCIATION
+
+ 
+
+By:
+
+/s/ illegible
+
+ 
+
+By:
+
+/s/ illegible
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:  
+
+Jonathan C. Wilk
+
+ 
+
+Name:  
+
+Doug Roginson
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+CEO
+
+ 
+
+Title:
+
+Vice President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+May 1, 2014
+
+ 
+
+Date:
+
+May 1, 2014
+
+ 
+
+1.
+Article 9 is hereby deleted and replaced in its entirety as follows:
+
+ 
+
+DEFINITION OF JPMC DATA.
+
+ 
+
+“
+JPMC
+Data
+” means all Confidential Information identified in the Schedule or an Exhibit to this Agreement as JPMC Data or
+Highly Confidential Information (as defined in the Schedule or Exhibit), as well as Personal Information and all other data and
+information about JPMorgan Chase & Co.’s customers (current, former or prospective), or employees (current, former or
+prospective) or its customers’ customers (current, former or prospective) or employees (current, former or prospective) that
+Supplier obtains, creates, generates, collects or processes in connection with providing the Services, and all patent, copyright,
+trade secret, trademark or other intellectual property or proprietary rights (collectively, “
+Intellectual Property
+Rights
+”) in that data and information. If, in the context of its relationship with JPMC under this Agreement, Supplier
+obtains, creates, generates, collects, processes or has access to data of any individual or entity provided or obtained in
+connection with a product, service or program offered or sponsored by JPMC’s customer, such data will also be considered JPMC
+Data. The parties acknowledge that Supplier does not and will not have access to any Personal Information pursuant to this
+Agreement.
+
+ 
+
+ 
+
+ 
+
+AMENDMENT CW673842 TO MASTER SERVICES AGREEMENT CW232350
+
+ 
+
+Grant of License to Use JPMC
+Data; Obligation to Notify JPMC
+.
+
+ 
+
+JPMC hereby grants Supplier
+a license to use the JPMC Data solely to perform Supplier’s obligations to JPMC during the Schedule Term. Supplier will not use
+JPMC Data to contact any person except if required by any applicable Law and in accordance with this Agreement, provided, however, that
+in no event will any such contact involve marketing or solicitation of products or services. JPMC reserves all other rights in the JPMC
+Data. Supplier will immediately notify JPMC of any actual or reasonably suspected unauthorized access to or use of the JPMC Data under
+Supplier’s control, and Supplier will include with that notice the reasonably expected impact that the breach or access may have
+on any JPMC Entity or its customers. Supplier will cooperate fully with JPMorgan Chase & Co. to investigate any such unauthorized
+access.
+
+ 
+
+Compliance of Data Handler with
+ISO 27002 and IT Risk Management Policies
+.
+
+ 
+
+(a)
+          
+
+Whenever Supplier has JPMC Data, Supplier will (i) comply with ISO/IEC 27002 (Information Technology – Code of Practice for
+Information Security Management), (ii) comply with JPMC’s Minimum Control Requirements (a current copy of which is located at 
+http://www.jpmorganchase.com/corporate/About-JPMC/supplier-relations.htm
+
+or is otherwise available from JPMC upon request), and (iii) if Supplier stores, processes or transmits payment card primary account numbers
+or other cardholder data, comply with the then current Payment Card Industry Data Security Standard as well as any procedures set forth
+in the applicable Schedule (collectively, the “
+IT Risk Management Policies
+”). JPMC may update the Minimum Control
+Requirements from time to time on reasonable notice, and Supplier will comply with the updated Minimum Control Requirements within the
+time required by applicable Law or as reasonably requested by JPMC. Additionally, whenever Supplier has JPMC Data, Supplier will have
+policies and procedures to detect patterns, practices, or specific activity that indicates the possible existence of identity theft (“
+Red
+Flags
+”) that may arise in the performance of Supplier’s obligations under this Agreement and either report the Red
+Flags to JPMC or take appropriate steps to prevent or mitigate identity theft. Supplier will not provide any JPMC Data to any subcontractor
+unless the subcontract requires the subcontractor to comply with the IT Risk Management Policies and the Privacy Regulations and to permit
+security audits by Auditors.
+
+ 
+
+(b)
+         
+
+Unless and until JPMC is satisfied that Supplier is fully complying with this 
+Section
+ 9, JPMC will not be bound by any obligation
+to allow Supplier access to JPMC Data. Any breach of this 
+Section
+ that is not corrected within 30 days after JPMC gives Supplier
+a notice describing the breach will be deemed a material breach of this Agreement (even if the breach was not otherwise material).
+
+ 
+
+(c)
+           
+Before
+Supplier may modify its systems in a way that could adversely impact the security of its systems, Supplier must send a 30 day
+advance notice to JPMC containing a reasonably detailed description of the proposed modification and a representation and warranty
+that: (i) the proposed modifications will not pose any new or additional risks to the JPMC Data, and (ii) Supplier’s systems
+will continue to comply with JPMC’s IT Risk Management Policies.
+
+ 
+
+Page 
+2
+ of 10
+
+ 
+
+ 
+
+AMENDMENT CW673842 TO MASTER SERVICES AGREEMENT CW232350
+
+ 
+
+(d)       In
+addition to any reporting requirements set forth in the applicable Schedule, Supplier will provide the following written periodic reports
+to the JPMC designated contact: (i) on a quarterly basis: (A) summary system and network security incident reporting and access violation
+reporting, and summary of any Supplier remediation or action plans; (B) summary of incidents and breaches as to which Supplier was required
+to inform JPMC, and summary of any Supplier remediation or action plans; and (C) the status of any existing remediation or action plans,
+including those that are related to security or that may impact the Deliverables; (ii) on a semi-annual basis, a then current list of
+names, user IDs and access levels for any JPMC personnel having access to Supplier applications and systems; and (iii) on an annual basis,
+summary security vulnerability scan or penetration test reporting with respect to the Deliverables and Supplier’s system and networks,
+including the perimeter, and summary of any Supplier remediation or action plans.
+
+ 
+
+Information Security Audits of
+Data Handler
+.
+
+ 
+
+(e)       In
+addition to JPMC’s other audit rights under this Agreement, Auditors may conduct on-site security reviews, vulnerability testing
+and disaster recovery testing for Supplier’s systems containing JPMC Data and otherwise audit Supplier’s operations for compliance
+with the Minimum Control Requirements. Auditors, other than regulators, will provide reasonable notice of such reviews. If vulnerabilities
+are identified, Supplier will (i) promptly document and implement mutually agreed upon remediation plan, and (ii) upon JPMC’s request,
+provide JPMC with the status of the implementation. JPMC is not responsible for any harm that results from these tests except to the extent
+it is a result of JPMC’s gross negligence, reckless or willful misconduct.
+
+ 
+
+(f)       At
+least annually, Supplier will have a certified independent public accounting firm or another independent third party reasonably acceptable
+to JPMC: (i) conduct a review or assessment and provide a full attestation, review or report under (A) SSAE 16 (Statement on Standards
+for Attestation Engagements No. 16) SOC (Service Organization Control) 2; (B) ISAE 3402 (International Standards on Assurance Engagements
+No. 3402) Type II; (C) BITS Financial Institution Shared Assessment Program (Standardized Information Gathering plus Agreed Upon Procedures);
+(D) SysTrust review (in accordance with principles and criteria developed by the American Institute of Certified Public Accountants);
+(E) a replacement for one of the foregoing approved by JPMC; or (F) other third party reviews and reports reasonably acceptable to JPMC,
+in each case, of all key systems and operational controls used in connection with any JPMC Data; and (ii) conduct and provide a full report
+of an independent network and application penetration test. Each of these attestations, reviews, reports and tests will be for a scope
+approved by JPMorgan Chase & Co. in its reasonable discretion. Supplier will provide all findings from these attestations, reviews
+and tests to JPMC upon receipt from the third party. Supplier will (A) implement all recommendations set forth in such attestations, reviews,
+reports and any other reasonable recommendations made by JPMC arising out of JPMC’s analysis of such reviews and (B) upon JPMC’s
+request, provide JPMC with the status of the implementation.
+
+ 
+
+Protection of JPMC Data in the
+Event of Data Handler Bankruptcy
+.
+
+ 
+
+If
+Supplier or any of Supplier’s Affiliates providing Deliverables to JPMC: (a) files for bankruptcy, (b) becomes or is declared
+insolvent, (c) is the subject of any proceedings (not dismissed within 30 days) related to its liquidation, insolvency or the
+appointment of a receiver or similar officer for that party, (d) makes an assignment for the benefit of all or substantially all of
+its creditors, (e) takes any corporate action for its winding-up, dissolution or administration, (f) enters into an agreement for
+the extension or readjustment of substantially all of its obligations, or (g) recklessly or intentionally makes any material
+misstatement as to financial condition, then JPMC will have the immediate right to take possession of and retain for safekeeping all
+JPMC Data then in Supplier’s possession or under Supplier’s control. JPMC may retain the JPMC Data until the trustee or
+receiver in bankruptcy or other appropriate court officer provides JPMC with adequate assurances and evidence that the JPMC Data
+will be protected from sale, release, inspection, publication or inclusion in any publicly accessible record, document, material or
+filing. Supplier and JPMC agree that this 
+Section
+ is a material term of this Agreement, and without it, JPMC would not have
+entered into this Agreement or permitted any access to or use of JPMC Data.
+
+ 
+
+Page 
+3
+ of 10
+
+ 
+
+ 
+
+AMENDMENT CW673842 TO MASTER SERVICES AGREEMENT CW232350
+
+ 
+
+Regeneration of JPMC Data by
+Data Handler
+.
+
+ 
+
+Supplier will promptly
+replace or regenerate from Supplier’s machine-readable media any data, programs or information handled or stored by Supplier that
+Supplier has lost or damaged or obtain a new copy of the lost or damaged data, programs or information. Alternatively, JPMC may replace
+or regenerate any data, programs or information that Supplier has lost or damaged or obtain a new copy of the lost or damaged data, programs
+or information, in which case, Supplier will promptly reimburse JPMC for all reasonable costs associated with its regeneration or replacement
+efforts.
+
+ 
+
+Storage, Return or Destruction
+of JPMC Data
+.
+
+ 
+
+Supplier will accurately
+and completely collect and maintain information regarding the storage location, media, and method of storage of all JPMC Data on an ongoing
+basis. Unless otherwise set forth in the applicable Schedule, if Supplier maintains backups and/or storage of JPMC Data it will do so
+on media logically and physically separate from other media used to backup and/or store backup data of other Supplier clients. Further,
+in addition to the return or destruction obligations with respect to JPMC Data, prior to termination of the applicable Schedule, or on
+a date otherwise reasonably specified by JPMC, Supplier will: (a) meet with JPMC representatives to prepare and implement a plan for the
+return of all JPMC Data (in a format reasonably requested by JPMC); and (b) return to JPMC all JPMC Data as requested by JPMC. To the
+extent that JPMC Data cannot be returned due to technical or other reasons reasonably acceptable to JPMC, Supplier will notify JPMC and
+upon JPMC’s prior written direction, Supplier will either: (i) Securely Delete JPMC Data that is electronic from all media as soon
+as possible, and certify to JPMC in writing that this has been accomplished; or (ii) to the extent that JPMC Data cannot be so Securely
+Deleted due to technical or other reasons reasonably acceptable to JPMC, promptly provide a written description of measures to be taken
+that will ensure, for as long as any JPMC Data remains under Supplier’s or its subcontractors’ control, the continued protection
+of such JPMC Data, in compliance with the requirements of this Agreement. “
+Securely Delete
+” means using any
+and all means (including shredding or incineration in compliance with the National Institute for Standards and Technology (“
+NIST
+”)
+800-88 standard) of deleting all data and information to ensure that the data and information deletion is permanent and cannot be retrieved,
+in whole or in part, by any data or information retrieval tools or similar means in accordance with JPMC’s prior written instructions.
+In no event will Supplier remove or have removed any JPMC Data from Supplier’s or any subcontractor’s site without JPMC’s
+prior written authorization.
+
+ 
+
+Survival of Data Handler Terms
+.
+
+ 
+
+The terms set forth in
+this 
+Section
+ will survive any expiration or termination of this Agreement or any Schedule for any reason.
+
+ 
+
+Page 
+4
+ of 10
+
+ 
+
+ 
+
+AMENDMENT CW673842 TO MASTER SERVICES AGREEMENT CW232350
+
+ 
+
+2.
+TERMINATION FOR CAUSE.
+
+ 
+
+The following is hereby added
+to the end of Section 2.2
+:
+
+ 
+
+“JPMC may terminate this
+Agreement or any Schedule(s) for cause, in whole or in part, as of the date specified in a notice of termination if any regulator having
+jurisdiction over JPMorgan Chase & Co. objects to this Agreement or any Schedule(s), after JPMC has given supplier written notice
+of such objection and no less than ten (10) days to attempt to cure such objection, if possible.”
+
+ 
+
+3.
+NOTICES.
+
+ 
+
+The JPMC addresses for notice of Section
+3.2 are hereby deleted and replaced as follows:
+
+ 
+
+“If to JPMC:
+
+ 
+
+JPMorgan Chase Bank, N.A.
+
+Contracts Management
+
+Mail Code OH1-0638
+
+1111 Polaris Parkway, Suite 1N
+
+Columbus, Ohio 43240-0638
+
+Attn: Contracts Manager
+
+Reference: Contract ID No. CW232350
+
+Fax: (614) 213-9455
+
+ 
+
+With a copy to:
+
+ 
+
+JPMorgan Chase Bank, N.A.
+
+Legal Department
+
+Mail Code: NY1-E088
+
+4 New York Plaza, 21st floor
+
+New York, New York 
+10004-2413
+
+Attn: Workflow Manager
+
+Reference: Contract ID No. CW232350
+
+Fax: (212) 383-0800”
+
+ 
+
+4.
+AUDITS
+.
+
+ 
+
+The second sentence of Section 3.5 shall
+be deleted and replaced as follows:
+
+ 
+
+“
+Audits by internal or external
+auditors and personnel of JPMorgan Chase & Co. will not occur more than twice in any calendar year per Schedule unless such audit
+is materially different in scope from a preceding audit or JPMC has a good faith belief that Supplier is in material breach of the Agreement.”
+
+ 
+
+5.
+COMPENSATION.
+
+ 
+
+The following is hereby added to section
+4.4:
+
+ 
+
+“If JPMC reimburses for meals or entertainment
+costs incurred by Supplier, any Internal Revenue Code Section 274 limitation on deductibility of the costs will be assumed by Supplier,
+not JPMC.”
+
+ 
+
+Page 
+5
+ of 10
+
+ 
+
+ 
+
+AMENDMENT CW673842 TO MASTER SERVICES AGREEMENT CW232350
+
+ 
+
+6.
+FINGERPRINTING; DRUG TESTING; BACKGROUND CHECKS OF SUPPLIER PERSONNEL
+.
+
+ 
+
+Section 5.3 shall be deleted
+in its entirety and replaced as follows:
+
+ 
+
+“As a participant in a highly
+regulated industry, JPMC has certain requirements (as may be amended from time to time by JPMC, the “
+JPMC Requirements
+”)
+that will apply to each of Supplier’s and its subcontractor’s employees, consultants, agents and any other individuals acting
+on Supplier’s behalf (“
+Supplier Personnel
+”) who meet the below criteria for Designated Supplier Personnel.
+There are two types of Designated Supplier Personnel: Category I Designated Supplier Personnel and Category II Designated Supplier Personnel.
+Category I Designated Supplier Personnel and Category II Designated Supplier Personnel are collectively referred to as “
+Designated
+Supplier Personnel
+”. Supplier represents, covenants and warrants that it will not assign any Designated Supplier Personnel
+to JPMC if such person has been convicted of, pled guilty or no contest to, or participated in a pre-trial diversion program for felony
+or multiple misdemeanor offenses involving crimes of dishonesty or breach of trust including theft; money laundering; embezzlement; or
+the manufacture, sale, distribution of, or trafficking in drugs or controlled substances or criminal conspiracy. Supplier will comply
+with all JPMC Requirements (where permitted by applicable Law) and agrees that all assignments of Designated Supplier Personnel made pursuant
+to this Agreement or any applicable Schedule will be made in accordance with the JPMC Requirements.
+
+ 
+
+“
+Category I Designated
+Supplier Personnel
+” are: (i) Supplier Personnel that are assigned to provide Services on-site at a JPMorgan Chase &
+Co. location and that will receive a JPMorgan Chase & Co. identification access badge; or (ii) Supplier Personnel that have access
+to networks or systems of JPMorgan Chase & Co. whether such Supplier Personnel are working on-site at a JPMorgan Chase & Co. location
+or off-site.
+
+ 
+
+“
+Category II Designated
+Supplier Personnel
+” are Supplier Personnel who, as part of the Services, have access to either sensitive data (including
+Personal Information about JPMC’s customers, clients or employees (current, former or prospective), customer property (tangible
+or intangible), or any JPMC Data.
+
+ 
+
+If, at any time, JPMC determines,
+in its sole discretion, that any Category II Designated Supplier Personnel has or will have access to any highly sensitive JPMC Data,
+JPMC may convert the relevant Category II Designated Supplier Personnel to Category I Designated Supplier Personnel.
+
+ 
+
+Any Designated Supplier Personnel
+who do not successfully meet or comply with any of the then-current JPMC Requirements will not be assigned, or if applicable, will not
+continue in an assignment, to provide Services to JPMC, and Supplier will promptly replace such Supplier Personnel at no additional charge
+to JPMC; provided, however, such failure to meet or comply with any of the applicable JPMC Requirements will not affect such individual’s
+eligibility for employment with Supplier or any Supplier subcontractor, as the case may be.
+
+ 
+
+The JPMC Requirements require that
+on or before the first day of the assignment, all Category I Designated Supplier Personnel:
+
+ 
+
+(a)       Accurately
+complete, sign and submit to Supplier a JPMC Pre-Assignment Statement (a current copy of which is located at 
+http://www.jpmorganchase.com/corporate/About-JPMC/supplier-personnel-policies.htm 
+or
+is otherwise available from JPMC upon request). Supplier will retain original signed copies of each executed JPMC Pre-Assignment
+Statement and, upon JPMC’s request, Supplier will promptly deliver to JPMC original signed copies of each such document. If
+any Category I Designated Supplier Personnel answers questions three or four in the Pre-Assignment Statement in the affirmative,
+Supplier will report this fact to JPMC prior to such Category I Designated Supplier Personnel’s first day of assignment for
+review and consideration by JPMC with the understanding that JPMC may require Supplier to assign different Category I Designated
+Supplier Personnel based on this information. The affirmative answers of all Category I Designated Supplier Personnel to questions
+five and six of the Pre-Assignment Statement will be reported to the JPMC Contingent Worker Operations Center
+(“
+CWOC
+”) prior to such Category I Designated Supplier Personnel’s first day of assignment for use in
+conjunction with JPMC-administered background checks. JPMC may require Supplier to assign different Supplier Personnel based on this
+information;
+
+ 
+
+Page 
+6
+ of 10
+
+ 
+
+ 
+
+AMENDMENT CW673842 TO MASTER SERVICES AGREEMENT CW232350
+
+ 
+
+(b)       Submit
+to fingerprinting (at a location designated by JPMC) in accordance with the then-current JPMC Fingerprinting Policy (a current copy of
+which is located at 
+http://www.jpmorganchase.com/corporate/About-JPMC/supplier-personnel-policies.htm
+ or is otherwise available
+from JPMC upon request); provided, that if any fingerprints are not readable then the relevant Category I Designated Supplier Personnel
+will submit to an alternative form of background check as required by JPMorgan Chase & Co., all at JPMC’s sole cost and expense;
+
+ 
+
+(c)       Submit
+to and successfully pass a drug test (administered by Supplier or a third party hired by Supplier, in each case at Supplier’s sole
+cost and expense) that complies with the then-current JPMC Drug Testing Policy (a current copy of which is located at 
+http://www.jpmorganchase.com/corporate/About-JPMC/supplier-personnel-policies.htm
+
+or is otherwise available from JPMC upon request);
+
+ 
+
+(d)       Agree
+to have his/her photograph taken; and
+
+ 
+
+(e)       Agree
+to complete privacy and data protection training, subject to local employment law, as required and as defined by the JPMC line of business
+or corporate group engaging the Category I Designated Supplier Personnel.
+
+ 
+
+The JPMC Requirements require that
+on or before the first day of the assignment, all Category II Designated Supplier Personnel:
+
+ 
+
+(f)
+
+Will have been submitted to and passed a background check (including criminal background checks) conducted by Supplier or a third party vendor contracted by Supplier (“
+Supplier Background Checks
+”). As between Supplier and JPMC, Supplier is solely responsible for all expenses associated with such Supplier Background Checks. Supplier will provide CWOC with the written policies and procedures governing such Supplier Background Checks. The Supplier Background Checks will, at a minimum, meet the national standards for employment screening as set forth in the Federal Fair Credit Reporting Act (FCRA), as updated from time to time and include, at a minimum, a certification of county, state & federal criminal records, national criminal database records, international criminal records searches (if permitted by law), social security number validation, OFAC/prohibited parties searches, and sex offender registry searches. In the event of a conflict between the FCRA and any state law (including state labor codes and guidelines), the more thorough requirements will govern. Supplier will not provide the detailed results of the Supplier Background Checks to JPMC. No less than quarterly, Supplier will review the roster of current Category II Designated Supplier Personnel and certify that each one passed the Supplier Background Checks.
+
+  
+
+(g)
+Agree to complete privacy and data protection training consistent with Supplier’s obligations under this Agreement with respect
+to Personal Information, subject to local employment law.
+
+ 
+
+Page 
+7
+ of 10
+
+ 
+
+ 
+
+AMENDMENT CW673842 TO MASTER SERVICES AGREEMENT CW232350
+
+ 
+
+7.
+Compliance with Procedures in Performance of Services.
+
+ 
+
+Section 5.6 of the Agreement
+shall be deleted in its entirety and replaced as follows:
+
+ 
+
+“Supplier will, and will ensure that
+the Supplier Personnel will: (a) while visiting or accessing JPMorgan Chase & Co.’s or any Recipient’s facilities, comply
+with JPMorgan Chase & Co.’s or any Recipient’s then-current safety and security procedures, including pre-screening requirements,
+and other rules and regulations applicable to JPMorgan Chase & Co. or Recipient personnel at those facilities, (b) comply with all
+reasonable requests of JPMorgan Chase & Co. or Recipient personnel, as applicable, pertaining to personal and professional conduct,
+including Supplier Personnel training requirements, (c) comply with JPMorgan Chase & Co.’s Supplier Code of Conduct, a current
+copy of which is located at 
+http://www.jpmorganchase.com/corporate/About-JPMC/supplier-relations.htm
+ or is otherwise available
+from JPMC upon request, (d) comply with the JPMorgan Chase & Co. Supplier Anti-Corruption Policy, a current copy of which is located
+at 
+http://www.jpmorganchase.com/corporate/About-JPMC/supplier-relations.htm
+ or is otherwise available from JPMC upon request and
+(e) otherwise conduct themselves in an ethical, professional and businesslike manner. Supplier will provide Supplier Personnel with adequate
+training regarding JPMorgan Chase & Co. Supplier Code of Conduct, JPMorgan Chase & Co. Supplier Anti-Corruption Policy, compliance
+with applicable Laws and the proper provision (including as may be otherwise described in this Agreement or the applicable Schedule) of
+Services and other Deliverables. If JPMC so requests, based on a reasonable belief that any Supplier Personnel has breached any of the
+foregoing obligations, Supplier will immediately, within 24 hours, remove any such Supplier Personnel from performing Services to JPMC.”
+
+ 
+
+8.
+PRIVACY TERMS
+.
+
+ 
+
+Article 8 shall be deleted and replaced
+in its entirety as follows:
+
+ 
+
+“If Supplier receives,
+has access to or processes personal information protected by the Privacy Regulations (“
+Personal Information
+”)
+from JPMorgan Chase & Co., Supplier will be subject to applicable Laws restricting collection, use, disclosure, processing and free
+movement of personal data (collectively, the “
+Privacy Regulations
+”). The Privacy Regulations include the Federal
+ “Privacy of Consumer Financial Information” Regulation (12 CFR Part 40) and Interagency Guidelines Establishing Information
+Security Standards (App B to 12 CFR Part 30), as amended from time to time, issued pursuant to the Gramm-Leach-Bliley Act of 1999 (15
+U.S.C. §6801, et seq.), the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. §1320d), The Data Protection
+Act 1998 and Directives 95/46/EC, 2009/136/EC and 2002/58/EC of the European Parliament and of the Council , as amended from time to time,
+and applicable implementing legislation. JPMorgan Chase & Co. may provide guidelines to help Supplier comply with the Privacy Regulations,
+but Supplier using its own legal advisors will remain fully responsible for interpreting and complying with the Privacy Regulations with
+respect to Supplier’s business.”
+
+ 
+
+Page 
+8
+ of 10
+
+ 
+
+ 
+
+AMENDMENT CW673842 TO MASTER SERVICES AGREEMENT CW232350
+
+ 
+
+9.
+COMPLIANCE WITH LAWS; OFAC
+.
+
+ 
+
+Section 10.3 of the Agreement shall be
+deleted and replaced as follows:
+
+ 
+
+“Supplier represents and warrants
+that Supplier will perform all of its obligations to JPMorgan Chase & Co. in compliance at all times with all foreign, federal, state
+and local statutes, orders, conventions, and regulations, including those of any governmental agency (collectively, “
+Laws
+”)
+that are applicable to Supplier in performing its obligations to JPMorgan Chase & Co. or that would be applicable to JPMorgan Chase
+ & Co. if JPMorgan Chase & Co. were performing those obligations using its own employees and assets if Supplier has received prior
+written notice of same from JPMorgan Chase & Co.
+
+ 
+
+As of the Effective Date, neither
+Supplier nor any individual, entity, or organization holding any material ownership interest in Supplier, nor any officer or director,
+is an individual, entity, or organization with whom any United States law, regulation, or executive order prohibits United States companies
+and individuals from dealing, including without limitation, names appearing on the U.S. Department of the Treasury’s Office of Foreign
+Assets Control’s (“
+OFAC
+”) Specially Designated Nationals and Blocked Persons List. Supplier covenants
+to JPMC that it will not cause JPMC to be in violation of any regulation administered by OFAC. Supplier’s breach of this section
+shall be deemed to be a material breach of this Agreement, and JPMC shall have the right to terminate this Agreement immediately, without
+penalty or liability.”
+
+ 
+
+10.
+ALLOCATION OF RISK; INDEMNITY
+.
+
+ 
+
+The following is hereby added
+as Section 11.1(a) (v):
+
+ 
+
+“or (v) Supplier’s
+actual or alleged breach of any of the confidentiality provisions in this Agreement”
+
+ 
+
+11.
+EQUAL EMPLOYEMENT OPPORTUNITY; EMPLOYMENT LAWS.
+
+ 
+
+The following is hereby added
+to section 12.1:
+
+ 
+
+The Supplier will abide by the requirements
+of 41 CFR §§ 60-1.4(a), 60-300.5(a) and 60-741.5(a). These regulations prohibit discrimination against qualified individuals
+based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based
+on their race, color, religion, sex, or national origin. Moreover, these regulations require that Supplier takes affirmative action to
+employ and advance in employment individuals without regard to race, color, religion, sex, national origin, protected veteran status or
+disability.
+
+ 
+
+12.
+INSURANCE
+.
+
+ 
+
+The JPMC Insurance Exhibit shall be replaced
+with the attached “
+Insurance Exhibit
+”.
+
+ 
+
+Page 
+9
+ of 10
+
+ 
+
+ 
+
+AMENDMENT CW673842 TO MASTER SERVICES AGREEMENT CW232350
+
+ 
+
+13.
+The following is hereby added as Section 14.21
+
+ 
+
+“SERVICE LOCATION.
+
+ 
+
+Supplier will provide
+the Services at and from the location(s) identified in the applicable Schedule, and will not change any such location without JPMC’s
+prior written consent, whether the proposed new location is within or outside the jurisdiction of the then-current Services location.”
+
+ 
+
+Page 
+10
+ of 10

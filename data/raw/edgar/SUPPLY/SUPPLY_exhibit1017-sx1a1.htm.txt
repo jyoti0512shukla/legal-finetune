@@ -1,0 +1,715 @@
+EX-10.17
+
+12
+
+exhibit1017-sx1a1.htm
+
+EX-10.17
+
+Document
+[ *** ] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED.
+Exhibit 10.17
+SUPPLY AGREEMENT
+This Supply Agreement (“Supply Agreement”), is entered into as of the 16th day of November, 2015. (the “Effective Date”), by and between NeuroPace, Inc., a Delaware corporation located at 455 N. Bernardo Avenue, Mountain View, California, 94043 USA (“COMPANY”) and Micro Systems Technologies Management AG, a Swiss corporation, located at [***] (“MST”). COMPANY and MST may be individually referred to herein as “Party” and collectively as “Parties”.
+Whereas, COMPANY desires to purchase certain [***] components from MST for use in COMPANY’s medical device system; and,
+Whereas, MST desires to manufacture and sell to COMPANY the [***] components according to COMPANY’s specifications; and,
+Whereas, COMPANY and MST wish to enter into this Supply Agreement to govern the terms under which orders for the [***] components may be placed by COMPANY and fulfilled by MST and the affiliated companies in the MST Group, the Supply Agreement including discrete Exhibits A setting forth additional requirements specific to each [***] component, and including as Exhibit B the Supplier Quality Agreement(s) between COMPANY and each of MST and the affiliated companies in the MST Group;
+NOW, THEREFORE, MST and COMPANY, recognizing the receipt and sufficiency of the consideration herein, hereby agree as follows:
+ARTICLE I. DEFINITIONS:
+For purposes of this Supply Agreement, the following terms will have the meanings set forth below:
+1.1
+“Accept” means to approve and acknowledge a Product’s conformance with: (a) the Product Specifications as identified in the Product Requirements Description; (b) mutually agreed-upon conditional written approval; or (c) mutually agreed-upon written approval for a deviation from the Product Specifications. “Accepted” refers to a Product that COMPANY has approved and acknowledged as being in conformance with one of this Section 1.1(a), (b) or (c). “Acceptance” refers to COMPANY’s act of approving and acknowledging a Product’s conformance with one of this Section 1.1(a), (b) or (c).
+1.2
+“COMPANY Consigned Material” means any material or component furnished directly or indirectly to MST by COMPANY under this Supply Agreement (3.5). “COMPANY Consigned Material” further includes any equipment or tooling supplied by COMPANY to MST or purchased by COMPANY for MST (3.4).
+1.3
+“Confidential Information” means and includes any oral, written, graphic or machine-readable information relating to any aspect of a disclosing Party’s business which is either information not known by actual or potential competitors of the disclosing Party or is 
+Supply Agreement                                    Page 1 of 34
+proprietary information of the disclosing Party or its customers or suppliers, whether of a technical nature or otherwise, including but not limited to that which relates to [***].
+1.4
+“Facility” means a facility from which MST manufactures, assembles, processes, or otherwise supplies Products to COMPANY that is designated by MST and agreed to by the Parties in a Product Requirements Description. “Facility” may also mean and include a site from which MST distributes a Product, if the distribution center is at a different location than the place(s) at which the Product is manufactured.
+1.5
+“Force Majeure” means any event or condition, not existing as of the Effective Date, not reasonably foreseeable as of such date, and not reasonably within the control of either Party. which prevents in whole or in material part the performance by one of the Parties of its obligations hereunder. For example, a Force Majeure may be an act of government or its agency or instrumentality, judicial action, civil unrest, insurrection, war or related events, strikes, fire, flood, earthquake, severe weather, and similar events.
+1.6
+“Intellectual Property” or “IP” means and includes [***].
+1.7
+“MST Affiliate” means one of the companies in the MST group that directly, or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with MST.     More specifically, each of the following is an MST Affiliate: (1) Micro Systems Engineering, Inc., located at [***].
+1.8
+“Order” means a binding obligation to purchase a Product undertaken by delivery of a purchase order and acknowledged by MST. An acknowledged purchase order is an Order.
+1.9
+“Product” means a product that MST may manufacture and sell to COMPANY which is described in a unique Product Requirements Description set forth in an Exhibit A.
+1.10
+“Product Requirements Description” means a description of each Product that may be made the subject of an Order to be manufactured and sold by MST to COMPANY. Each “Product Requirements Description” shall be set forth in a unique Exhibit A to this Supply Agreement (e.g., Exhibit A-1, Exhibit A-2, through Exhibit A-N). The minimum content of a Product Requirements Description and the circumstances under which an Exhibit A may be added to or deleted from this Supply Agreement or under which an existing Exhibit A may be amended are set forth herein in Section 3.2.
+1.11
+"Product Specifications” means all of the specifications for the Product provided by COMPANY and identified by COMPANY in each purchase order for a Product, including all drawings and manufacturing and testing standards and requirements.
+1.12
+“Supplier Quality Agreement” means all of the quality standards to which the Parties have agreed and which are documented in a Supplier Quality Agreement in Exhibit B.
+1.13
+“Recall” means the removal or correction of a marketed item that a regulatory authority would consider to be in violation of the laws and regulations it administers.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 2 of 34
+1.14
+“Term” means the term of this Supply Agreement measured from the Effective Date identified above and extending for the time period set forth in Article II.
+ARTICLE II. TERM AND TERMINATION
+2.1
+Term
+. This Supply Agreement shall be effective as of the date entered into and hereinabove written, and will continue until November 16, 2020. This Supply Agreement may be extended by written agreement of the Parties. This Supply Agreement may be terminated before the scheduled termination date as set forth below in 2.2.
+2.2
+Termination
+. This Supply Agreement may be terminated as follows:
+(a)
+By Agreement
+. The Parties may terminate this Supply Agreement by mutual written agreement.
+(b)
+Discontinuance
+. The Parties may terminate this Supply Agreement in the event MST decides to discontinue manufacture and sale of a Product, subject to the notice requirements set forth in 6.1.1, unless COMPANY deletes the relevant Exhibit A for the Product from this Supply Agreement pursuant to 3.2(b)(ii).
+(c)
+Material Breach/Opportunities to Cure
+. Either Party may terminate this Supply Agreement upon a material breach of this Supply Agreement by the other Party; provided, however:
+i.
+if the breach relates to a Party’s obligation to pay a sum to the other Party, the obliged Party shall have an opportunity to cure within ten (10) business days: and
+ii.
+if the breach relates to other than (1) a Party’s obligation to pay a sum to the other Party (2.2(c)(i)) or (2) a Party’s obligations of non-disclosure and non-use set forth in the confidentiality provisions of this Supply Agreement (Article X), then the Party to which written notice of breach is given shall have an opportunity to cure the breach within ninety (90) days of the notice. In the event the Parties agree that a breach under this 2.2(c)(ii) reasonably cannot be cured with ninety (90) days, before the end of ninety (90) days from notice of the breach, the Parties must agree in writing on a plan to remedy the breach within a reasonable time. If, by the end of the ninety-day-period-from-notice the breach is not cured or the Parties have not agreed to a remedial plan (whichever is applicable), then the complaining Party) may terminate this Supply Agreement as of that date.
+(d)
+Breach of Supplier Quality Agreement
+. MST agrees that a breach of a Supplier Quality Agreement in Exhibit B is a material breach of this Supply Agreement and is a ground for termination unless the breach is cured in accordance with 2.2(c)(ii).
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 3 of 34
+(e)
+Failure of Supply
+. MST agrees that a failure to supply the amount of Product set forth in an Order is a material breach of this Supply Agreement and is a ground for termination unless the breach (1) is cured in accordance with 2.2(c)(ii); (2) is excused by other provisions of this Supply Agreement; or (3) is due to causes attributable to COMPANY or another supplier specified by COMPANY. Notwithstanding the foregoing, the Parties may agree, in an Exhibit A for a Product, that MST’s failure to supply 100% of the amount specified in an Order on the agreed-upon delivery date will not be a breach of the Supply Agreement and will not trigger a ninety-day cure period (or a requirement to provide a plan within ninety days to remedy the breach in another period of time), provided that COMPANY agrees that its ability to maintain traceability for any Product is preserved with respect to the balance of the amount specified in the Order.
+(f)
+Insolvency
+. A Party may terminate this Supply Agreement if any bankruptcy, insolvency or reorganization proceeding is commenced by or against the other Party, unless the other Party gives notice of the proceeding and the proceeding is dismissed or resolved within thirty (30) days after commencement. If this Supply Agreement is terminated under this 2.2(f), MST will, to the extent and at the times specified by COMPANY, stop all work on any Orders (1.8 and 6.1), or designated portions thereof, incur no new costs, and protect all property in which COMPANY has or in which the COMPANY indicates to MST that the COMPANY may require an interest.
+(g)
+Force Majeure
+. In the event of a “Force Majeure” (1.5) that is reasonably expected to interrupt supply for more than one hundred eighty (180) days, either Party may terminate this Supply Agreement by giving written notice to the other Party.
+2.3
+Duties Following Termination
+. In the event of the termination of this Supply Agreement for any reason, the Parties shall have the following rights and obligations (in addition to such rights, obligations and remedies they may have at law and in equity arising from a breach of this Supply Agreement):
+(a)
+At COMPANY’s option, MST shall fulfill all Orders outstanding prior to the date of termination. The terms of this Supply Agreement shall survive until all Orders have been fulfilled.
+(b)
+MST shall, at the expense of COMPANY, provide reasonable services necessary to transition the manufacture of the Products to another source designated by COMPANY. Reasonable services would include the transfer of any IP owned by COMPANY but would not include the transfer of IP owned or otherwise licensed by MST, except under a separately negotiated licensing agreement.
+(c)
+Termination shall not release either Party from the obligation to make payment of all amounts due or payable prior to the date of termination.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 4 of 34
+(d)
+Within thirty (30) days of termination, each Party will return to the other Party all IP and tangible Confidential Information of the other Party. MST will continue to maintain records as required per ISO13485 and subject to any applicable Supplier Quality Agreement.
+2.4
+Survival
+. In addition to 2.3(a) and any clause which by its express terms survives termination, the rights and obligations set forth in Articles VII, VIII, IX, X, XI, XII, and XIV will survive any termination or expiration of this Supply Agreement.
+ARTICLE III. MANUFACTURE AND SALE OF PRODUCTS
+3.1
+Manufacture and Sale of Products
+. During the term of this Supply Agreement, MST agrees to manufacture and sell to COMPANY, and COMPANY agrees to purchase from MST, the Product(s) at the price and according to the terms and conditions set forth in this Supply Agreement. All Products delivered hereunder shall be manufactured, tested and inspected according to the Product Specifications as specified by COMPANY and according to the Product Requirements Description in the Exhibit(s) A.
+3.2
+Products, Product Specifications, and Product Requirements Description
+. Each Product is associated with Product Specifications. Whenever appropriate, COMPANY will set forth all drawings, manufacturing, and testing standards and requirements in documentation bearing part numbers and that is revision-level controlled and will incorporate (e.g., by reference) such documentation into each purchase order for the Product. COMPANY is solely responsible for assuring that all Product Specifications meet all of COMPANY’s application-specific requirements. Each Product further is associated with a unique Products Requirements Description which is set forth in a unique Exhibit A (e.g., Exhibit A-I, Exhibit A-2, Exhibit A-N). Each Exhibit A must set forth, at a minimum, the content described in 3.2(a). The circumstances according to which an Exhibit A may be deleted, a new Exhibit A added, or an existing Exhibit A modified are set forth in 3.2(b). Each Exhibit A is subject to acceptance by the MST Affiliate providing Product(s), evidenced by MST affiliate’s execution of the Exhibit A. Each MST Affiliate that executes an Exhibit A to this Agreement agrees to be bound by this Supply Agreement. MST must also execute each Exhibit A.
+(a)
+Content of an Exhibit A
+. For each Product, the applicable Product Requirements Description shall contain: (a) identification of the Product; (b) identification of each of the components that comprise a unit of a Product and how MST will source each component (e.g., the component will be procured by MST to COMPANY’s specification, the component will be procured by MST to MST’s specification, or the component will be supplied to MST by COMPANY); (c) which of the MST Affiliates will he manufacturing and selling the Product and at which Facility(ies) of that entity the Product will be made and/or distributed; (d) whether MST will be allowed to subcontract to its suppliers any process (e.g., a manufacturing or testing process) for the Product (3.3); (e) whether COMPANY will supply any equipment or tooling for MST’s use in manufacturing the Product and, if so, under what conditions (3.4); (f) for forecasts for the Product, and, if applicable, the periods during which the forecast is binding and nonbinding (5.2); 
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 5 of 34
+(g) pricing for the Product (Article IV): (h) the currency in which COMPANY must tender payment if other than in US Dollars (4.1); (i) whether there are any lead times associated with obtaining materials, components, or services in connection with manufacture of the Product which would be relevant to the timing of COMPANY’s purchase orders for the Product and, if so, what are those relevant lead times and on how much notice to COMPANY may MST re-specify or revise the lead times (6.2); and (j) which protected areas at a Facility have been approved by COMPANY for storage of COMPANY Consigned Materials (3.5(a)). Each Product Requirements Description may optionally include other information, such as a person or department at COMPANY to which MST should direct invoices for shipped Product (7.1), the name or title of a Representative of a Party to whom questions concerning the Product Requirements Description should he directed or who is responsible for authorizing purchase orders or acknowledgements of purchase orders and changes and modifications to the same (14.1).
+(b)
+Adding, Deleting or Changing an Exhibit A
+. The Parties may agree to add a new Exhibit A for a new Product with a new Product Requirements Description. COMPANY may delete an existing Exhibit A if COMPANY no longer has a need for MST to manufacture the Product (e.g., the Product is obsolete or COMPANY has developed an alternate source for the Product). In addition. COMPANY may choose to delete an Exhibit A as an alternative to termination in the event of a “discontinuance” (2.2(b)). The Parties also may agree to modify an existing Exhibit A with respect one or more items of content such as the items described in 3.2(a).
+i.
+An amendment to add an Exhibit A may be initiated by COMPANY and negotiated between COMPANY and whichever MST Affiliate will be affected by the new Exhibit A (e.g., by the MST Affiliate that will be manufacturing the Product for the new Exhibit A); provided, however, that MST agrees to the amendment in writing. The Parties’ failure to reach agreement on a proposed new Exhibit A shall not be grounds for termination of this Supply Agreement unless the Parties mutually agree to terminate pursuant to 2.2(a).
+ii.
+An amendment to delete an Exhibit A may he initiated by COMPANY at any time and MST shall agree to such amendment; provided that COMPANY agrees to pay MST for any inventory, finished goods, or work in progress associated with an Order that exists as of the date COMPANY provides MST with notice to delete the Exhibit A and COMPANY agrees to compensate MST for any period remaining in a binding Forecast (5.2) as of the date notice is given.
+iii.
+An amendment to modify an Exhibit A may be initiated by either Party. For example, COMPANY may initiate an amendment to modify an 
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 6 of 34
+Exhibit A for a proposed change to a component of a part and MST may initiate an amendment to modify an Exhibit A for a proposed change to a Facility or to the price in accordance with Article IV. Any proposed modifying amendment to an Exhibit A may be negotiated between COMPANY and whichever MST Affiliate will be affected by the new Exhibit A (e.g., by the MST Affiliate that will he manufacturing the Product that is the subject of the new Exhibit A); provided, however, that MST agrees to the amendment in writing before COMPANY places a purchase order directed to or otherwise incorporating the amendment; and provided further that the Parties follow the change management provisions of this Supply Agreement (3.7) and of any applicable Supplier Quality Agreement in Exhibit B for any change that is implicated by those change management procedures. The Parties’ failure to reach agreement on a proposed modifying amendment to an Exhibit A shall not be grounds for termination of this Supply Agreement unless the Parties mutually agree to terminate pursuant to 2.2(a).
+3.3
+Subcontracting
+. MST may not subcontract any of its obligations under this Supply Agreement for a Product without the prior written consent of COMPANY unless the subcontractor is identified in the relevant Product Requirements Description (an Exhibit A) and is subject to approval and other requirements as may be set forth in MST’s quality management system or in an applicable Supplier Quality Agreement set forth in Exhibit B.
+3.4
+COMPANY Equipment and Tooling
+. Unless otherwise specified in a given Product Requirements Description for a Product, all equipment and tooling used to produce the Products is owned by MST. If the Parties agree to use equipment or tooling supplied by COMPANY to manufacture a Product or tooling and equipment purchased by COMPANY for MST, such equipment or tooling shall be identified in the relevant Exhibit A and shall be and remain the property of COMPANY. MST shall store COMPANY-owned equipment and tooling and maintain it in good working condition, shall insure it at full replacement value, and shall not relocate said equipment and tooling without the express written permission of COMPANY. All direct charges for maintenance, repair or replacement after expiration of useful life, other than that which may be caused by misuse of any equipment or tooling by MST, will be the sole financial responsibility of COMPANY. MST will use such equipment and tooling only in the manufacture of COMPANY Products and shall return said equipment and tooling without cost, other than freight and packaging charges, to COMPANY at any time upon the written request of COMPANY.
+3.5
+COMPANY Consigned Materials
+.
+(a)
+MST acknowledges and agrees that COMPANY has and shall have at all times all right, title and interest in all COMPANY Consigned Material and that COMPANY Consigned Material is the sole property of COMPANY. Within thirty (30) days after receipt of any COMPANY Consigned Material, MST shall notify COMPANY of any claims for variation in the expected quantity or quality 
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 7 of 34
+of the COMPANY Consigned Material furnished to MST. MST assumes responsibility for any damage or loss to COMPANY Consigned Material and shall be liable for the full actual value of the COMPANY Consigned Material. MST shall store the COMPANY Consigned Material safely, indoors in protected areas approved by COMPANY at MST’s facility. Unless the relevant Products Requirements Description for a Product expressly permits removal of COMPANY Consigned Material from one building to another within a Facility during manufacture of the Product, MST must provide COMPANY with at least ten (10) business days advance notice before any such removal: provided, however, that MST may remove the COMPANY Consigned Material whenever necessary to protect it from damage or loss. Whenever any COMPANY Consigned Material is moved from place to place, MST shall continue to be responsible for any damage or loss.
+(b)
+Upon reasonable prior notice and during MST’s normal business hours, COMPANY may inspect, inventory and authenticate the account of COMPANY Consigned Material. MST shall provide COMPANY or its agents access to all premises where COMPANY Consigned Material is located. The COMPANY Consigned Material shall be identifiable as property of COMPANY.
+(c)
+MST shall use COMPANY Consigned Material only in the manufacture and sale or repair of the Product(s) under this Supply Agreement and for no other purpose or customer.
+(d)
+MST shall not allow any security interest, lien, tax lien or other encumbrance (collectively, “Encumbrances”) to he placed on any COMPANY Consigned Material. However, in the event any third party attempts to place or succeeds in placing an Encumbrance on any COMPANY Consigned Material, MST shall give COMPANY immediate written notice of such attempt or such Encumbrance. MST shall indemnify and hold COMPANY harmless from any such Encumbrance. MST shall, at COMPANY’s request, promptly execute a “protective notice” UCC-1 form for COMPANY Consigned Material located in the United States, or such other documents reasonably necessary in non-US jurisdictions, to enable COMPANY to protect its interest in COMPANY Consigned Material. The parties agree that this Supply Agreement shall constitute the security agreement required by the UCC of the appropriate state in which the Encumbrance is filed, or the equivalent type of agreement in non-US jurisdictions.
+(e)
+The obligations assumed by MST with respect to COMPANY Consigned Material are for the protection of COMPANY’s property. If MST defaults in carrying out MST’s obligations with respect to COMPANY Consigned Material under this Supply Agreement or any purchase order, then at no cost to COMPANY and upon twenty-four (24) hours notice to MST, COMPANY may withdraw all or any part of the COMPANY Consigned Material and require MST to return it to COMPANY.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 8 of 34
+3.6
+Quality Assurance
+. Each MST Affiliate shall maintain a quality management system consistent with a Supplier Quality Agreement of Exhibit B relevant to that MST Affiliate for the control of material quality, processing, assembly, testing, packing, and shipping in accordance with its usual policies and practices, but no less than Good Manufacturing Practices (GMP), and any systems required by the Product Specifications. The Parties will meet quarterly to discuss and resolve any issues which may arise with respect to quality assurance of the Product(s), including issues relating to quality generally, or to performance, engineering changes, obsolescence or surpluses. COMPANY shall have the right upon fourteen (14) business days notice to audit MST or any MST Affiliate to confirm each MST Affiliate’s conformance with its quality management system. In addition, MST and each MST Affiliate shall:
+i.
+Promptly notify COMPANY of any ISO or FDA or other regulatory authority audit or inspection related to COMPANY as soon as MST or an MST Affiliate learns of such audit or inspection;
+ii.
+If feasible and subject to approval by the auditing or inspecting authority, permit COMPANY to observe such audit or inspection if it relates in any way to COMPANY or the COMPANY Product(s);
+iii.
+Provide COMPANY with copies of any audit or inspection findings related to COMPANY as soon as the findings are provided to MST by the relevant authority;
+iv.
+Provide COMPANY with copies of any response made by MST or an MST Affiliate to any audit or inspection findings related to COMPANY at the time such response is filed or submitted to the auditing or inspecting authority.
+3.7
+Product Changes
+. Either COMPANY or MST or both may wish to implement a change from time to time that may impact a Product Requirements Description (see, e.g., 3.2(b)(iii)). For example, COMPANY may wish to implement a change to the Product Specifications for a Product or MST may wish to implement a change to the technology or a process it uses in manufacturing a Product. Whenever a Party wishes to implement such a change, the Party must provide advance written notice to the other Party. The timing of the notice must be such as to reasonably permit the other Party to determine the effect the change will have on the quality of any affected Product and to react to it in any appropriate manner. At a minimum, any applicable change management provisions in a relevant Supplier Quality Agreement of Exhibit B must be satisfied with respect to any proposed change in order for it to be implemented. In addition to the foregoing, the Parties agree to the following regarding change management under this Supply Agreement:
+i.
+Product Specifications may be changed by COMPANY upon ninety (90) days prior written notice to MST, or as determined by either Party, upon less notice, except that COMPANY will be responsible for payment for any unusable inventory, charges to subcontractors that cannot be terminated, all work in progress or finished Product manufactured 
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 9 of 34
+according to the version of Product Specifications in effect prior to the change.
+ii.
+A Product Requirements Description may be changed by MST to revise or to add a lead time relevant to the Product upon ninety (90) days prior written notice to COMPANY.
+iii.
+A Product Requirements Description may be changed by MST to change a manufacturing process upon one-hundred-eighty (180) days prior written notice to COMPANY.
+ARTICLE IV. PRICING
+4.1
+Pricing
+. The pricing for each Product is set out in the Product Requirements Description in Exhibit A. If the price is to be paid in other than US currency, that requirement and any other requirements related to the currency or to applicable exchange rates also will be included in the Product Requirements Description. [***]
+4.2
+Pricing Changes
+. [***]
+ARTICLE V. FORECASTS
+5.1
+For
+ecast. [***]
+5.2
+Binding Portion of Forecast
+. COMPANY shall be responsible for purchasing the full amount of any Product that falls within the portion of a Forecast that is binding, including the costs for any work in process conforming to the Forecast, in accordance with the pricing set forth in the relevant Exhibit A. MST shall issue an invoice and COMPANY shall pay for all Product inventory, raw materials, work in process, and margin on binding forecast unless any of the aforesaid can be repurposed at the same value.
+ARTICLE VI. ORDERS AND DELIVERY
+6.1
+Orders
+. COMPANY will initiate an Order for a Product with a purchase order. Purchase orders may be submitted via mail, fax or any other method mutually agreed by the Parties, including but not limited to electronic means. Each purchase order shall specify an amount of each Product (e.g., volume or quantity), the part number and appropriate revision level for the Product, and COMPANY’s requested delivery date. The terms of any COMPANY purchase order or MST acknowledgement of any purchase order may not vary the terms of this Supply Agreement. COMPANY will place its purchase orders for a Product consistent with any lead times that are specified in the relevant Exhibit A. An acknowledged purchase order is an Order pursuant to 1.8. MST shall be obligated to acknowledge COMPANY’s purchase orders for amounts of a Product that are consistent with the Forecast. MST shall use reasonable efforts to acknowledge any purchase orders for amounts in excess of the Forecast.
+6.1.1
+MST’s Notice of Discontinuance/Subsequent Orders
+. In the event MST decides to discontinue manufacture and sale of a Product, and to the extent reasonably feasible 
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 10 of 34
+under the circumstances. MST shall provide COMPANY with at least one (1) year prior written notice of its intent to discontinue supply of the Product. Upon receiving such notice, COMPANY shall have at least six (6) months to alter Forecasts for a Product to be discontinued by MST and to modify or place purchase orders for the Product accordingly. MST shall acknowledge any modified or new purchase orders in this six-month time period.
+6.2
+Lead Time
+. The lead times relevant to any Product shall be specified in the Exhibit A for the Product. In the event a lead time or lead times need be re-specified or revised, upon the written notice required by 3.7 (ii), the Exhibit A may be amended appropriately in accordance with 3.2(b).
+6.3
+Delivery 
+(a)
+MST shall ship Product(s) to meet delivery dates specified in the Orders. MST will provide reasonable notice to COMPANY of any anticipated delays in a delivery date. If a delivery is delayed, COMPANY may require MST to deliver the Products by means of a reasonable expedited method of commercial delivery, at the expense of MST.
+(b)
+COMPANY will not be obliged to accept any delivery of a Product from MST tendered before the corresponding delivery date specified in the relevant Order.
+6.4
+Allocation
+. MST shall use commercially reasonable efforts to maintain the ability to supply all Product that COMPANY orders from MST. MST agrees that, in the event of an allocation due to a Force Majeure event (1.5, 2.2(g), 13.1) or for any other reason that will affect the MST’s ability to supply Product(s) to COMPANY, MST shall fill Orders subject to any lead 
+time(s) set forth in the relevant Exhibit(s) A and according to an allocation plan no less favorable than that provided to any other MST customer. Upon request, MST will provide COMPANY with evidence that it is complying with this 6.4 (e.g., providing the allocation plans). MST shall provide COMPANY with as much notice as possible if it anticipates or has reason to believe MST will not be able to manufacture and sell Product(s) sufficiently to meet the COMPANY’s requirements for any period.
+6.5
+Risk of Loss
+. Title, possession, control, responsibility and risk of loss for the Products shall pass to COMPANY at the time of delivery to the common carrier specified by COMPANY. COMPANY shall bear the cost of insuring for any loss. If COMPANY requests that MST insure shipments, it shall specify so in a purchase order. MST is not responsible for damage or loss during shipment. All Products shall be shipped 
+Ex Works, Incoterms 2010
+, from a designated Facility within the United States.
+ARTICLE VII. INVOICES AND PAYMENT
+7.1
+Invoices
+. MST shall not submit an invoice to COMPANY for a shipment of Product any earlier than the date on which the Product is shipped. A Products Requirements Description may specify a particular individual or department at COMPANY to which invoices for the Product should be communicated (e.g., electronically).
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 11 of 34
+7.2
+Payme
+nt of Invoices. [***]
+7.3
+Other Pa
+yment Terms. [***]
+ARTICLE VIII. ACCEPTANCE OF PRODUCT/RECALLS
+8.1
+Acceptance
+. COMPANY must Accept Product received in a shipment from MST which conforms to the applicable Product Specifications upon receipt. Within thirty (30) days of COMPANY’s receipt of a shipment. COMPANY will Accept or reject the units of Product in the shipment. If COMPANY rejects any units of Product, COMPANY shall, within thirty (30) days after receipt of the shipment, provide MST with a report detailing the reasons why the units were rejected. If MST does not have notice from COMPANY that it has rejected any units of Product within thirty (30) days of COMPANY’s receipt of a shipment, COMPANY will be deemed to have Accepted all units of the Product in the shipment.
+8.2
+Remedies
+. If MST agrees that any rejected Product did not conform to the applicable Product Specifications, MST shall credit COMPANY for the price attributable to the rejected Product or, at COMPANY’s option and only upon COMPANY’s instruction, rework the Product to conform to the Product Specifications. No claim for a credit for Product delivered will be accepted unless such claim is made in accordance with this section.
+8.3
+Recalls
+. COMPANY shall have the right at any time, in its sole and absolute discretion, to order a Recall, in whole or in part, of any of the Products purchased from MST or any of COMPANY’s medical device systems which contain the Products. [***]
+ARTICLE IX. NO WARRANTY FOR PRODUCTS, LIMITATION OF LIABILITY, AND INDEMNIFICATION
+9.1
+Warranties
+. MST does not warrant any Product it manufactures and sells to COMPANY under this Supply Agreement and disclaims all express or implied warranties, including a warranty of fitness for any purpose.
+9.2
+Limitation of Remedies
+. IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL, EXEMPLARY OR SPECIAL DAMAGES OF ANY KIND IN CONNECTION WITH THIS SUPPLY AGREEMENT, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE RISK OF SUCH DAMAGES.
+9.3
+Indemnification by MST
+. MST shall indemnify and hold harmless COMPANY and its officers, directors, agents, insurers, employees, and shareholders from and against all third party claims, suits, liability, and expense (including but not limited to attorneys’ fees and other costs associated with the handling or defense of any such action or claim) (each a “Claim”), whether such Claim is brought under a product liability theory, a strict liability theory or other theory, if such Claim is caused by or based upon:
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 12 of 34
+(a)
+The breach of any of the representations or warranties made by MST in section 12.1 of this Supply Agreement;
+(b)
+The infringement of any third party’s patent, trademark or trade dress or copyright or the theft of any third party’s trade secret based upon the design, manufacture, or sale of the Products by MST or the sale of a medical device system incorporating the Product by COMPANY, unless the Claim is based on Product Specifications provided by COMPANY to MST, or is based on COMPANY’s modification of the Product so as to cause it to infringe on any third party’s patent, copyright or trade secret;
+(c)
+Any failure of any Product to conform to or comply with the Product Specifications;
+(d)
+Any nonconforming Product which is the result of MST’s failure to comply with its standard operating procedures for the Product;
+(e)
+A defect in MST’s standard manufacturing processes used for a Product which causes the Product to fail to meet COMPANY’s Product Specifications;
+Provided, however, that COMPANY shall: (i) give MST prompt written notice of any Claim for which COMPANY may seek indemnification from MST; and (ii) subject to any applicable privileges such as the attorney-client privilege: (I) permit MST to participate in the defense of the Claim through its counsel, (2) give MST relevant information in its possession relating to such Claim; and (3) assist in such defense at the expense of MST; and (iii) COMPANY shall not compromise or settle any Claim without MST’s prior written consent which consent shall not be unreasonably withheld. Such indemnification shall include (but not be limited to) personal or bodily injury, sickness, disease, death, or damage to property, and shall also include MST’s prompt reimbursement (or offset on account of) all costs and administrative fees associated with any Recall of any Product distributed or supplied by MST, subject to the limit of liability set forth in 9.5.
+9.4
+Indemnification by COMPANY
+. COMPANY shall indemnify and hold harmless MST and the MST Affiliates and their officers, directors, agents, insurers, employees and shareholders from and against all third party Claims that are caused by or based upon any Claim relating to any medical device system manufactured or sold by COMPANY that incorporates a Product, whether such Claim is based on a product liability theory, a strict liability theory or other theory; provided, however, that this indemnification obligation shall not apply to that portion (as may be pro-rated by determinations of causation) of any Claim for which MST has an obligation to indemnify COMPANY pursuant to the provisions of 9.3; and provided, further, that MST shall: (i) give COMPANY prompt written notice of any Claim for which MST may seek indemnification from COMPANY; and (ii) subject to any applicable privileges such as the attorney-client privilege (1) permit COMPANY to participate in the defense of the Claim through its counsel, (2) give COMPANY relevant information in its possession relating to the Claim and (3) assist in such defense at the expense of the COMPANY: and (iii) MST shall not 
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 13 of 34
+compromise or settle any such Claim admitting or conceding liabilities or any defense without COMPANY’s written consent which consent will not be unreasonably withheld.
+9.5
+Limitation
+ of Liability. [***]
+ARTICLE X. CONFIDENTIAL INFORMATION
+10.1
+Designation of Confidential Information
+. “Confidential Information” is defined in 1.3. Any written, graphic or machine-readable information or other tangible Confidential Information must be designated in writing or labeled as confidential or proprietary. Orally disclosed Confidential Information must be indicated at the time of disclosure to be Confidential Information and thereafter summarized and marked to indicate it is Confidential Information in a written memorandum delivered to the receiving Party within thirty (30) days of the oral disclosure.
+10.2
+Exclusion
+. Notwithstanding 10.1, Confidential Information does not include information which:
+(a)
+the receiving Party can establish by documentation was legitimately known to it prior to receipt from the Disclosing Party; or
+(b)
+is or becomes generally available to the public through no fault of the receiving Party and without a breach of this Article 10; or
+(c)
+is obtained by the receiving Party, without restriction on publication or use, from a third party having the right to disclose the same:
+(d)
+is independently developed by the receiving Party without any use of the Confidential Information of the disclosing Party, by personnel of the receiving Party who have not had access to the Confidential Information, as demonstrated by files created at the time of such independent development; or
+(e)
+is required pursuant to the order or requirement of a court, administrative agency, or other governmental body; provided however, that the receiving Party provides the disclosing Party with prompt notice of the proposed disclosure so that the disclosing Party may seek an appropriate protective order or otherwise prevent or restrict such disclosure.
+10.3
+Standard
+. Each Party shall use at least the same degree of care it uses to prevent the disclosure of its own confidential information of like importance, but no less than a reasonable degree of care, to prevent the disclosure of Confidential Information disclosed to it by the other Party under this Supply Agreement.
+10.4
+Restrictions on Use
+. COMPANY and MST each agree not to use any Confidential Information disclosed to it by the other Party for its own use or for any purpose other than to fulfill their respective obligations under this Supply Agreement. Neither Party shall disclose or permit disclosure of any Confidential Information of the other Party to third parties other than 
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 14 of 34
+directors, officers, employees, consultants and agents who are required to have the information and/or materials in order to satisfy the terms and conditions of, or to make an amendment to, this Supply Agreement. Each Party will inform its directors, officers, employees, consultants and agents who have access to Confidential Information of the other Party that they are bound by this 10.4 and this Article X. Each Party agrees to notify the other in writing of any actual or suspected misuse, misappropriation or unauthorized disclosure of Confidential Information of a disclosing Party which may come to a receiving Party’s attention.
+10.5
+Use of Name; Publicity
+. Except upon COMPANY’s prior written consent, MST shall not use, authorize or permit the use of the name of COMPANY, or any other trade names, trademarks or trade dress of COMPANY for any purpose. Neither Party shall issue a press release or other public announcement or public disclosure concerning this Supply Agreement (or any term sheet, bids, negotiations or other related information), the transactions contemplated herein. or the relationship between the Parties without the prior written approval of an authorized representative of the other Party. Without limiting the foregoing, neither Party shall use any word, name, logo, image. symbol, slogan, sample or design of the other Party or the other Party’s Products or medical device system, or any quote or statement from an employee, consultant or agent of the other Party, in any written or oral advertisement, endorsement or other promotional materials without the prior written approval of an authorized representative of the other Party.
+10.6
+Remedies
+. In the event of a breach or threatened breach of the nonuse and nondisclosure provisions of this Article X, the Parties agree that the damages to be suffered by the aggrieved Party will not be fully compensable in money damages alone, and accordingly, the aggrieved Party, in addition to other available legal or equitable remedies, will be entitled to seek an injunction against such breach or threatened breach without any requirement to post bond as a condition of such relief.
+ARTICLE XI. INTELLECTUAL PROPERTY
+11.1
+COMPANY Intellectual Property
+. All COMPANY Consigned Materials, [***]. MST shall not use any of the foregoing items other than in the performance of work for COMPANY, Upon COMPANY’s written request, MST shall dispose of or return each of the foregoing items and any copies thereof (if applicable). If COMPANY requests the return of one of the foregoing items, the item shall be returned to COMPANY in good repair, other than normal wear and tear. at COMPANY’s expense, MST assumes risk of loss and damage to each of the foregoing items while each item is in its possession or under its control. MST shall notify COMPANY promptly whenever any items of COMPANY’s tangible property are in need of repair or replacement. COMPANY’s property shall be marked or otherwise adequately identified by MST as property of COMPANY for use only under this Supply Agreement and shall be safely stored. MST waives any right it may have in law or equity to withhold COMPANY’s property. COMPANY’s Intellectual Property shall include, but not be limited to, the Products and Product Specifications and any amendments, modification, and improvements or enhancements thereof.
+11.2
+MST Intellectual Property
+. MST owns all pre-existing processes, manufacturing techniques and know how used in its manufacturing, prior to the advent of its relationship with 
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 15 of 34
+COMPANY. New technology and processes MST has developed or develops to manufacture the Products by MST will be MST’s Intellectual Property unless it constitutes pre-existing Intellectual Property of the COMPANY.
+11.3
+Maintain Licenses in Force
+. MST shall comply with all of the provisions of, and shall maintain in full force and effect, all license agreements with third parties pursuant to which MST is licensee of Intellectual Property which Intellectual Property MST may use in manufacturing the Products for COMPANY. MST shall promptly notify COMPANY if any such third party licensor alleges any breach by MST of any such license agreement. COMPANY shall be entitled, but not obligated, to cure any alleged breach by MST of such license agreement and set-off the cost of such cure against amounts otherwise owed to MST hereunder.
+ARTICLE XII. REPRESENTATIONS
+12.1
+Representations of MST
+. MST represents, warrants and covenants to COMPANY that:
+(a)
+MST is duly organized, validly existing, and in good standing under the laws of Switzerland and has full legal power to conduct the operations in which it is presently engaged and to enter into and perform its obligations under this Supply Agreement.
+(b)
+This Supply Agreement constitutes the valid and legally binding agreement of MST, enforceable against MST in accordance with its terms, subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and similar laws of general applicability relating to or affecting creditors’ rights.
+(c)
+Neither the execution and delivery of this Supply Agreement, nor the consummation of the transactions contemplated herein, will violate any provision of the governing instruments of MST or any applicable law, rule, regulation, judgment, injunction, award or other order of any court or governmental agency, domestic or foreign, or will conflict with or result in any breach of any of the terms of or constitute a default under or result in termination of or the creation or imposition of any mortgage, lien, security interest or other charge or encumbrance of any nature pursuant to the terms of any contract or agreement to which MST is a party or by which MST or any of its assets is bound.
+(d)
+MST has no knowledge that the manufacture and sale of Products will infringe any intellectual property right of any third party and has not received any notice or threat from any third party of such alleged infringement.
+(e)
+There are no actions, suits, claims, disputes or proceedings or governmental investigations pending or threatened against MST or any MST Affiliate, either at law or in equity, before any court or administrative agency or before any governmental department, commission, board, bureau, agency or instrumentality, or before any arbitration board or panel that would in any way impair MST’s 
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 16 of 34
+ability to provide Products to COMPANY. Neither MST nor any of its officers, directors. employees or consultants has failed to comply with any law, rule, regulation, writ, judgment, injunction, decree, determination, award or other order of any court or other governmental agency or instrumentality, domestic or foreign, which failure in any case would in any material respect impair any rights of COMPANY under this Supply Agreement.
+12.2
+Representations of COMPANY
+. COMPANY represents. warrants and covenants to MST that:
+(a)
+COMPANY is a corporation duly organized, validly existing, and in good standing under the laws of the State of Delaware and has full corporate power to conduct the business in which it is presently engaged and to enter into and perform its obligations under this Supply Agreement.
+(b)
+This Supply Agreement constitutes the valid and legally binding agreement of COMPANY, enforceable against COMPANY in accordance with its terms, subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and similar laws of general applicability relating to or affecting creditors’ rights.
+ARTICLE XIII. EXCUSED PERFORMANCE
+13.1
+Force Majeure and Notice
+. If a Party is prevented from performing its obligations hereunder due to an event of Force Majeure (1.5). such Party’s performance hereunder may be temporarily excused, only by the degree affected and after reasonable efforts by the Party to avoid being so affected. In order for a Party’s performance to be temporarily excused because of a Force Majeure, the affected Party must deliver to the other Party prompt written notice upon learning of the Force Majeure, which notice shall include a detailed description of the 
+event or condition and the anticipated effect on such Party’s ability to perform its obligations hereunder. A Party temporarily excused from performance of its obligations under this Supply Agreement is excused only to the extent and only for the period that its performance of such obligations is prevented by the event of Force Majeure and is not excused from its obligation to pay any amounts due and owing hereunder. Nothing in this 13.1 shall be construed to prevent a Party from exercising its termination rights set forth in 2.2 of this Supply Agreement, especially its right to terminate in the event of a Force Majeure that is reasonably expected to interrupt supply for more than one hundred eighty (180) days (2.2.(g)).
+13.2
+Suspension of Performance
+. During the period that the performance by one of the Parties of its obligations under this Supply Agreement
+ has been suspended by reason of an event of Force Majeure, the other Party may likewise suspend the performance of all or a part of its obligations hereunder (except for the obligation to pay any amounts due and owing hereunder) to the extent that such suspension is commercially reasonable.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 17 of 34
+ARTICLE XIV. MISCELLANEOUS
+14.1
+Representative
+. Each Party will designate in writing an individual or individuals (each a “Representative”) who will be responsible for implementing and reviewing any questions concerning the terms of this Supply Agreement. COMPANY’S Representative will also be responsible for authorizing Orders and changes or modifications to such Orders. Each Party may change its designated Representative(s) upon written notice to the other Party. A Party may, at its option, designate a Representative or Representatives for a particular purposes in a Product Requirements Description for a Product (i.e., in an Exhibit A for a Product).
+14.2
+Choice of Law
+. The construction, validity and performance of this Agreement shall be governed in all respects by the law of the State of Delaware and excluding the United Nations Convention on Contracts for the International Sale of Goods.
+14.3
+Notice. 
+Any notice required or permitted to be given under this Supply Agreement may be: (a) personally delivered; (b) sent by facsimile as evidenced by confirmation; (c) mailed by registered or certified first-class mail, postage prepaid, addressed to the Party at the address written above herein or as otherwise may be furnished in writing to the notifying Party, with a copy to the Representative(s); or (d) entrusted to an expedited carrier such as DHL. If being sent from one country to another to the Party at the address written above or otherwise updated by the Party to whom the notice is sent.
+14.4
+No Waiver
+. The failure on the part of MST or COMPANY to exercise or enforce any rights conferred upon it hereunder shall not he deemed to be a waiver of any such rights nor shall operate to bar the exercise or enforcement of any such rights at any time or times thereafter.
+14.5
+Entire Agreement: Amendments and Modifications
+. This Supply Agreement, including its Exhibits, constitutes the entire agreement between the Parties with respect to the issues addressed herein. This Supply Agreement replaces and supersedes any other previous understandings and agreements of the Parties with respect to its subject matter, including any agreements that may be contained in correspondence or in verbal interchanges between the Parties and their attorneys. Neither Party shall be bound by any definition, condition, warranty or representation other than as expressly stated in this Supply Agreement. No waiver or modification of this Supply Agreement shall be valid except by written agreement executed by the Parties hereto. No terms and conditions contained in any sales acknowledgment or other similar documents unilaterally issued by MST shall become a part of this Supply Agreement.
+14.6
+Order of Precedence of Documents
+. If this Supply Agreement has a term or condition or other provision that is different from, but not in conflict with one of the Exhibits A or a Supplier Quality Agreement in Exhibit B, then this 14.6 is not applicable. If there is a conflict between a requirement of this Supply Agreement and a requirement of one of the Exhibits A or a Supplier Quality Agreement, then the following order of precedence shall apply:
+(a)
+Conflict Between Supply Agreement and an Exhibit A
+. In the event of a conflict between this Supply Agreement and one of the Exhibits A, then this Supply Agreement shall prevail over the Exhibit A.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 18 of 34
+(b)
+Conflict Between Supply Agreement and a Supplier Quality Agreement
+. In the event of a conflict between this Supply Agreement and a Supplier Quality Agreement in Exhibit B. the Supplier Quality Agreement shall prevail.
+14.7
+Severability
+. If any provision of this Supply Agreement should be proven unlawful or non-enforceable, such provision will be considered a nullity, but such nullity will not affect the validity of the remaining terms and conditions of this Supply Agreement, and the Parties shall substitute, to the extent lawfully permissible, a new provision embodying the intentions of the Parties.
+14.8
+Assignment: Successors
+. Neither Party shall have the right to assign or otherwise transfer its rights and obligations under this Supply Agreement except with the prior written consent of the other Party, which consent shall not be unreasonably withheld and for which no additional consideration shall be necessary. Any prohibited assignment shall be null and void. Notwithstanding the foregoing, COMPANY may assign this Supply Agreement and its rights and delegate its obligations hereunder to a COMPANY Affiliate, or in connection with the transfer or sale of all or substantially all of its business related to this Supply Agreement, or in the event of its merger, consolidation, change in control or similar transaction. COMPANY Affiliate means (i) any corporation or business entity of which fifty percent (50%) or more of the securities or other ownership interests representing the equity or the voting stock are owned, controlled or held, directly or indirectly, by a party; or (ii) any corporation or business entity which, directly or indirectly, owns, controls or holds fifty (50%) percent (or the maximum ownership interest permitted by law) or more of the securities or other ownership interests representing the equity or the voting stock of COMPANY. All the terms and provisions of this Supply Agreement shall be binding upon and inure to the benefit of the successors and permitted assignees of COMPANY and MST.
+14.9
+Independent Contractor
+. In carrying out work under this Supply Agreement, MST will act as an independent contractor and not as an agent, employee or legal representative of COMPANY. This Supply Agreement shall not be deemed to establish a joint venture or partnership between MST and COMPANY.
+14.10
+Headings and Interpretation
+. The headings have been inserted for convenience only and do not constitute a part of this Supply Agreement. The Parties acknowledge and agree that: (a) the rule of construction to the effect that any ambiguities are resolved against the drafting Party shall not be employed in the interpretation of this Supply Agreement; and (b) the terms and provisions of this Supply Agreement shall be construed fairly as to all Parties hereto and not in favor of or against any Party. regardless of which Party was generally responsible for the preparation of this Supply Agreement.
+14.11
+No Third-Party Beneficiary Rights
+. No person not a Party to this Supply Agreement is an intended beneficiary of this Supply Agreement, and no person not a Party to this Supply Agreement will have any right to enforce any term of this Supply Agreement.
+14.12
+Counterparts
+. This Supply Agreement and amendments thereto may be executed in any number of counterparts each of which shall be deemed to be an original. Signatures 
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 19 of 34
+exchanged via facsimile or other electronic means shall be effective to the same extent as original signatures.
+14.13
+Expenses
+. Except as otherwise expressly provided herein, each Party shall bear its own expenses of performing its obligations hereunder.
+14.14
+Compliance with Export Restrictions
+. As may be applicable, COMPANY agrees to comply with all applicable export/import regulations together with any embargo regulations, trade restrictions and sanctions in connection therewith.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 20 of 34
+IN WITNESS WHEREOF, the Parties have entered into this Supply Agreement effective as of the Effective Date.
+MST, Inc.
+NeuroPace, Inc.
+By 
+/s/ Michael Fink
+By
+ /s/ Debra Smolley
+Michael Fink
+Debra Smolley
+Its President MST Management AG
+Its Vice President, Quality Assurance &
+Sales & Marketing
+Operations
+By
+ /s/Juergen Lindner
+Juergen Lindner
+Its General Manager Micro Systems Engineering, Inc.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 21 of 34
+EXHIBIT A1
+This Exhibit A1 shall apply to the purchase of Product designated in this Exhibit by NeuroPace, Inc., a Delaware corporation located at 455 N. Bernardo Avenue, Mountain View, California, 94043 USA (“NeuroPace,” referred to as “COMPANY” in the Supply Agreement and “Customer” in the Supplier Quality Agreement) from the following MST Company: Micro Systems Engineering, Inc. (MSEI), [***] (one of the entities referred to as an “MST Affiliate” in the Supply Agreement, and as “Supplier” in the Supplier Quality Agreement).
+1.
+Product(s):
+ 
+[***]
+The Parties agree that this Exhibit A shall apply to all subsequent revisions/versions of the foregoing Product. Product revision changes by NeuroPace must be accepted by MSEI. Acceptance by MSEI of revisions/versions will be documented in the device manufacturing record and communicated through the MSEI ECN process.
+[***]
+2.
+Standard Pricing:
+[***]
+3.
+Lead Times:
+[***]
+4.
+Forecast:
+[***]
+5.
+Applicable Product Specifications and Work Instructions:
+[***]
+6.
+Inventory Management:
+[***]
+7.
+Procurement of components:
+[***]
+8.
+Last Time Buy:
+[***]
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 22 of 34
+9.
+Market Share Commitment:
+[***]
+10.
+Yield Responsibility:
+[***]
+11.
+Engineering Support:
+[***]
+12.
+Other Terms:
+[***]
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 23 of 34
+The parties agree to be bound by this Exhibit A1 as evidenced by the signatures below.
+MST, Inc.
+NeuroPace, Inc.
+By 
+/s/ Michael Fink
+By
+ /s/ Debra Smolley
+Michael Fink
+Debra Smolley
+Its President MST Management AG
+Its Vice President, Quality Assurance &
+Sales & Marketing
+Operations
+By
+ /s/Juergen Lindner
+Juergen Lindner
+Its General Manager Micro Systems Engineering, Inc.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 24 of 34
+EXHIBIT A2
+This Exhibit A shall apply to the purchase of Product designated in this Exhibit by NeuroPace. Inc., a Delaware corporation located at 455 N. Bernardo Avenue, Mountain View, California, 94043 USA (“NeuroPace,” referred to as “COMPANY” in the Supply Agreement and “Customer” in the Supplier Quality Agreement) from the following MST Company: Micro Systems Engineering, Inc. (MSEI), [***] (one of the entities referred to as an “MST Affiliate” in the Supply Agreement, and as “Supplier” in the Supplier Quality Agreement).
+1.
+Product(s):
+[***]
+The Parties agree that this Exhibit A shall include all subsequent revisions/versions of the foregoing Product. Product revision changes by NeuroPace must be accepted by MSEI. Acceptance by MSEI will be documented in the device manufacturing record and communicated through the MSEI ECN process.
+[***]
+2.
+Standard Pricing:
+[***]
+3.
+Lead Times:
+[***]
+4.
+Forecast:
+[***]
+5.
+Applicable Product Specifications/Work Instructions:
+[***]
+6.
+Inventory Management:
+[***]
+7.
+Procurement of components:
+[***]
+8.
+Market Share Commitment:
+[***]
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 25 of 34
+9.
+Yield Responsibility:
+[***]
+10.
+Engineering Support:
+[***]
+11.
+Other Terms:
+[***]
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 26 of 34
+The parties agree to be bound by this Exhibit A2 as evidenced by the signatures below.
+MST, Inc.
+NeuroPace, Inc.
+By 
+/s/ Michael Fink
+By
+ /s/ Debra Smolley
+Michael Fink
+Debra Smolley
+Its President MST Management AG
+Its Vice President, Quality Assurance &
+Sales & Marketing
+Operations
+By
+ /s/Juergen Lindner
+Juergen Lindner
+Its General Manager Micro Systems Engineering, Inc.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 27 of 34
+Supplier Quality Agreement
+for the supply of raw material, purchased parts, auxiliary materials and 
+serial Products
+Between
+NeuroPace, Inc.
+455 N. Bernardo Avenue,
+Mountain View,
+CA 94043
+USA
+- hereinafter referred to as “the Customer” -
+and
+Micro Systems Engineering, Inc.
+[***]
+- hereinafter referred to as “the Supplier”-
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 28 of 34
+Purpose
+This Supplier Quality Agreement (SQA) defines the quality, test and inspection requirements for the supply of Products and/or services by Micro Systems Engineering Inc. (‘Supplier’) to NeuroPace, Inc. (‘Customer’) under the relevant Supply Agreement (“Agreement”).
+This document defines the quality system interface between the Customer and Supplier and takes precedence over other quality related documents pertaining to the Customer-Supplier relationship.
+The objective of this SQA is to ensure consistency in quality through the agreement of standards, thereby, 
+inter alia
+, to reduce duplicate tests and to maintain the quality of supplied Products and services at the level agreed between the parties. The parties commit to a continuous improvement strategy with the focus on achieving zero-defects in supplied Products and services.
+This SQA applies to all Products and services supplied to the customer by the supplier. To this extent, this SQA supplements the individual Purchase Order (PO).
+Terms and Definitions
+Customer
+NeuroPace, Inc., Mountain View, CA, USA
+Supplier
+Micro Systems Engineering Inc., [***]
+SCD
+Source Control Document (Component Specification)
+Component (or material)
+Any raw material, substance, piece, part, software, firmware, labeling, or assembly as supplied (by the Supplier) for use in the manufacture of the end-Product, directly or indirectly (by the Customer)
+First Volume Build
+First-off Production (or pilot-build) of a limited volume, after release of design to Production, prior to serial volume Production.
+Process Validation
+Establishment of objective evidence that a process consistently meets specified performance requirements.
+Product
+A product that MST may manufacture and sell to COMPANY which is described in a unique Product Requirements Description set forth in an Exhibit A
+Services
+Work performed by the Supplier for the Customer according to the Customer’s Specification that does not require process validation by the Supplier
+1.
+Quality Management System (QMS)
+[***]
+2.
+Requirements for the supply of materials and services
+The Customer shall specify all Products and/or services to be supplied in the Purchase Order (PO).
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement                                    Page 29 of 34
+Component specifications may be provided or referred to by the Customer in the Purchase Order.
+All Products and/or services shall comply with the requirements of the Purchase Order, including, but not limited to;
+•
+Bill of Materials (BOM), drawings, circuit diagrams, design specifications, etc.
+•
+Sample sizes, when applicable
+•
+Specified standards
+•
+Acceptance criteria
+Supplier generated documents may be referenced, as applicable.
+Products and/or services shall comply with the requirements as specified in the Purchase Order. It is the Supplier’s responsibility to ensure that the Purchase Order and therein referenced documents submitted by the Customer are in alignment with the Supplier’s capabilities,
+The Supplier shall ensure conformance to quality requirements as defined in this SQA and comply with component functional requirements as defined in the Purchase Order, Supplier shall deliver Products:
+•
+in the agreed design
+•
+manufactured by the agreed Production processes
+•
+tested by the agreed testing processes and methods
+•
+in the agreed quality and quantity
+•
+within the agreed time
+3.
+Procurement and Incoming Inspection
+Material procured from third party
+The Supplier shall procure in its own name and on its own account all basic materials required for manufacture of its Products. Responsibility for procurement lies with the Supplier. Customer specifications, particularly in respect to the Purchase Order shall be observed.
+The Supplier shall ensure the quality of purchased materials for manufacturing. The Supplier shall work with Customer to mutually define test procedures appropriate for the technical significance and complexity of the material. Supplier will assure that it utilizes all test procedures in its normal manufacturing process and those specified by Customer.
+The Supplier shall ensure that all purchased materials and component parts are manufactured and supplied by third-party Suppliers in accordance with internationally 
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement
+Page 30 of 34
+recognized quality management standards and shall ensure that its Suppliers are subject to quality audits as deemed necessary by its Quality Management System.
+The Supplier shall monitor the performance of its Suppliers and where necessary, have an active supplier improvement program. Customer reserves the right to review the performance metrics and improvement plans.
+Customer reserves the right to reject third party suppliers that continue to negatively impact Product quality requirements.
+Customer supplied material will be inspected at incoming the same as procured material. Nonconforming material will be contained and CAPA will be initiated after review with the Customer.
+Material and Supplier Approval
+Approval of new or modified material shall be mutually agreed upon between Supplier and Customer.
+4.
+Production Process
+[***]
+5.
+Quality and Process Controls
+[***]
+The Quality Plan shall be approved by the Customer prior to implementation and controlled by the Supplier. All changes to the Quality Plan shall be approved by Customer prior to implementation in accordance with the Supply Agreement.
+The Supplier shall utilize statistical process control (SPC) methods as appropriate, to ensure control of manufacturing processes, The Supplier shall be responsible to provide objective evidence of process controls on demand by Customer. Process monitoring data shall be retained and be made available to the Customer on request.
+Trend data shall be assessed by the Supplier at regular intervals to ensure control of process parameters. Evidence of data analysis shall be made available to the Customer on request.
+6.
+Corrective and Preventive Actions (CAPA)
+Quality deviations shall be recorded and analyzed by the Supplier to enable early detection of any concentration of errors.
+Recurring deficiencies and those that affect the requirements of the Customer shall be reported and remedied in accordance with the Supplier’s CAPA process. The CAPA report shall include details of containment, root-cause analysis, corrective and preventive actions implemented (or to be implemented with proposed implementation schedule) together with proof of effectiveness.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement
+Page 31 of 34
+Customer may issue a Supplier Corrective Action Request to the Supplier to formally report quality issues related to supplied material and request Supplier corrective action. The Supplier shall perform root-cause analysis and formally respond with proposed containment, corrective, and preventive actions.
+7.
+Non-conforming material
+Customer may inspect and/or test incoming material at its discretion. Customer shall notify the Supplier of any anomalies. Supplier shall investigate all reported anomalies to determine root-cause and implement suitable corrective actions to prevent recurrence in accordance with Suppliers Corrective and Preventative Action (CAPA) process. Supplier shall notify Customer of the actions taken within the mutually agreed time period. The number of deficiencies and delays in addressing corrective action requests will adversely affect Supplier rating.
+Supplier shall seek written approval from Customer’s Quality Assurance Department to deliver Products and/or services that are known not to meet Customer’s quality or functional requirements, prior to release of Product. Customer reserves the right to reject any or all Products and/or services that are subject of the said deviation or concession, at any time.
+Approval for shipment of Product known not to meet specification shall be granted for a specific quantity and a specific period only. All such Product shall be appropriately segregated, handled, packaged and identified to prevent inadvertent mixing with conforming material.
+8.
+Traceability, Documentation Obligations
+Quality records shall be maintained by the Supplier such that they are traceable to associated materials, Production lot, date, processes, test, and personnel. The Supplier shall ensure that required traceability is maintained by third-party Suppliers.
+Quality records shall be stored securely by the Supplier and made available to the Customer on request.
+Traceability requirements defined in the Product Requirements Description by the Customer shall be observed by the Supplier.
+The Supplier shall provide a Certificate of Conformance (CoC) with each lot of Product and/or service delivered to the Customer in accordance with the Product Requirement Specification. The CoC shall be signed and dated by the nominated Supplier’s Representative signifying that the service has been performed, or the Product has been processed, tested, and released in accordance with agreed procedures and specifications.
+The Supplier shall provide reasonable access to quality records, traceability data and other quality data on request.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement
+Page 32 of 34
+9.
+Archiving
+Quality records created by the Supplier related to the supply of Product and/or service to the Customer shall be archived for a minimum period of 10 years. Customer shall be notified prior to destruction of archived quality records, and be given the opportunity to request that records pertaining solely to the Customer be made available. Customer shall cover costs associated with shipping of requested records.
+10.
+Complaint Handling and Reporting
+The Customer bears the responsibility for any complaint handling regarding the Product and any reporting to regulatory authorities.
+The Supplier shall provide necessary technical support (e.g., for analyses or similar) to the Customer on request in relation to any investigation as required.
+11.
+Audits
+The Supplier shall consent to an audit of its manufacturing facilities and the manufacturing facilities of its Suppliers by the Customer, its clients or regulatory authorities.
+Customer requires free and uninterrupted access to the following processes of the Suppliers and of the Supplier’s suppliers that are directly or indirectly related to the manufacture of Products and/or services for the Customer for audit purposes;
+•
+Manufacturing processes
+•
+Development processes
+•
+Quality control processes
+•
+Documentation and records
+•
+Quality Management system
+Customer shall treat this information confidentially. 
+12.
+Terms and Conditions
+This SQA comes into effect with signatures by both parties and will remain in effect indefinitely as long as a Supply Agreement remains in effect. This does not end or in any way restrict existing obligations in the Supply Agreement between the Supplier and Customer.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement
+Page 33 of 34
+Agreement
+We hereby accept this Supplier Quality Agreement:
+MST, Inc.
+NeuroPace, Inc.
+By 
+/s/ Michael Fink
+By
+ /s/ Debra Smolley
+Michael Fink
+Debra Smolley
+Its President MST Management AG
+Its Vice President, Quality Assurance &
+Sales & Marketing
+Operations
+By
+ /s/Juergen Lindner
+Juergen Lindner
+Its General Manager Micro Systems Engineering, Inc.
+[ *** ] = Certain confidential information contained in this document, marked by brackets, has been omitted because it is both (i) not material and (ii) would be competitively harmful if publicly disclosed.
+Supply Agreement
+Page 34 of 34

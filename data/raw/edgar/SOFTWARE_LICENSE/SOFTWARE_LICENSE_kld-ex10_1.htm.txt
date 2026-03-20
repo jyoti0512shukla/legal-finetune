@@ -1,0 +1,1953 @@
+EX-10.1
+
+2
+
+kld-ex10_1.htm
+
+EX-10.1
+
+EX-10.1
+
+Exhibit 10.1
+
+2022-11-16
+
+ 
+
+ 
+
+Certain confidential information contained in this document, marked by brackets, has been
+ 
+omitted pursuant to Item 601(b)(10)(iv) of Regulation S-K.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ORDER NUMBER 644C364335B7365C8DF202F6 - RELATIVITYONE
+
+This Order Number 644c364335b7365c8df202f6 (“
+Order
+”) is subject to and governed by the Master Terms and Conditions dated June 1, 2023 (“
+Master Terms
+”) executed between Relativity ODA LLC (“
+Relativity
+”), and KLDiscovery Ontrack, LLC (“
+Customer
+”). Capitalized terms used in this Order but not defined have the meanings set forth in the Master Terms.
+
+ 
+
+ORDER DETAILS
+
+ 
+
+Order Effective Date
+
+June 1, 2023
+
+Software
+
+SaaS Product known as “
+RelativityOne
+,” 
+plus 
+the following additional products: [ ] [*]
+[ ] [*]
+[ ] [*]
+[X] [*]:
+[ X] [*]
+
+Documentation
+
+https://help.relativity.com/
+
+Subscription
+
+Multi-Year Flex Commit
+
+Subscription Term
+
+36 months commencing on Order Effective Date, comprised of: June 1, 2023 to May 31, 2024 (“
+Period 1
+”)
+June 1, 2024 to May 31, 2025 (“
+Period 2
+”)
+June 1, 2025 to May 31, 2026 (“
+Period 3
+”)
+
+Customer Contacts
+
+Billing contact:
+Attn: Accounts Payable Email: ap@kldiscovery.com
+Bill To Address: Attn: Dawn Wilson, CFO, 9023 Columbine Road, Eden Prairie, MN 55347, United States
+
+Security contact:
+Attn: Jason Davison
+Email: jason.davison@kldiscovery.com
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ship To Address: Attn: Dawn Wilson, CFO, 9023 Columbine Road, Eden Prairie, MN 55347, United States
+
+ 
+
+Prepay Amounts and Payment Terms
+
+Prepay Amounts
+
+Period 1: $[*], due as of the Order Effective Date Period 2: $[*], due as of June 1, 2024
+Period 3: $[*], due as of June 1, 2025 Total for Subscription Term: $[*]
+Notwithstanding the above, Prepay Amounts shall be due as specified in the Special Terms. Prepay Amounts are subject to adjustment as set forth under Section 1.2 (Interim Payments) below.
+
+Currency
+
+All amounts under this Order are in USD
+
+Payment Terms
+
+See Master Terms
+
+Monthly Subscription Fees to be offset against Prepay Amounts
+
+User Fees
+
+$[*] per RelOne User
+
+Cloud Fees
+
+Standard Workspace: $[*] per GB Repository Workspace: $[*] per GB Cold Workspace: $[*] per GB Staging Area:
+Period 1: $[*] up to [*] GB, $[*] per additional GB
+Period 2: $[*] up to [*] GB, $[*] per additional GB Period 3: $[*] up to [*] GB, $[*] per additional GB
+
+Translate Fees
+
+Unit Price: $[*]
+Included Document Units: [*] ($[*] Fee)
+
+Period Subscription Fees to be offset against Prepay Amounts
+
+Geo Fees
+
+Period 1:
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+$[*] for the initial Geo in the United States Region Period 2:
+$[*] for the initial Geo in the United States Region Period 3:
+$[*] for the initial Geo in the United States Region
+
+Customer Managed Keys Fees
+
+Not Licensed.
+
+Legal Hold Fees
+
+Not Licensed.
+
+Store Fees
+
+Not Licensed.
+
+Sandbox Fees
+
+$[*] for one (1) Sandbox
+
+ 
+
+Additional terms are set forth in the “Special Terms” section and “Order Terms” section below.
+
+ 
+
+SPECIAL TERMS
+
+Installment Payments
+. Notwithstanding the Prepay Amount due dates set forth above, Relativity permits Customer to pay Prepay Amounts in accordance with the installment schedule below provided that: (a) Customer will pay Relativity an additional installment premium of 0% on Relativity’s standard fees, which is reflected in the fees set forth above; (b) Customer is still required to pay all installment payments even if the Customer does not use the Software to the full extent permitted under this Order; (c) if the Agreement, this Order expires or is terminated when there are any remaining installment payments, those payments are due at that time; and (d) Relativity reserves the right to decline to permit installment payments for any subsequent Period or other Software. In any event, if Customer fails to pay any installment amount when due under this Order, any remaining installment payments will thereupon become due, and Relativity may decline to permit Customer to pay any other fees on an installment basis.
+
+ 
+
+INSTALLMENT PAYMENT SCHEDULE
+
+Installment
+
+Installment Amount Due Date
+
+Installment Amount Due
+
+1
+
+6/1/2023
+
+$[*]
+
+2
+
+1/1/2024
+
+$[*]
+
+3
+
+6/1/2024
+
+$[*]
+
+4
+
+1/1/2025
+
+$[*]
+
+5
+
+6/1/2025
+
+$[*]
+
+6
+
+1/1/2026
+
+$[*]
+
+ 
+
+Hybrid User Modifications
+. User Access.
+
+Customer and Relativity are parties to that certain Software License Agreement dated January 1, 2021, as amended from time to time (collectively, the “
+Software License Agreement
+”), which grants Customer a
+
+ 
+
+3
+
+ 
+
+ 
+
+License (as defined in the Software License Agreement) to Software known as “Relativity” (the “
+Server
+ 
+Product
+”) with a “
+Server User Cap
+” of a specified number of “
+Server Users
+” (the “
+Server User
+ 
+Subscription
+”) and a monthly fee per Server Users in excess of the Server User Cap. For so long as Customer has a license to use the SaaS Product: (a) Customer may enable any or all Server Users to access the Server Product and/or the SaaS Product; and (b) the reference to the “Software” in the definition of “Server User” as defined in the Software License Agreement shall refer to the Server Product and/or the SaaS Product. In addition to the Server User Subscription, Customer grants RelOne Users access to the SaaS Product as specified herein; 
+provided
+, notwithstanding Section 2.2 of the Order Terms, RelOne Users shall be counted in accordance with the terms below.
+
+Calculation of User Fees
+.
+
+Notwithstanding Section 2.1 of the Order Terms, during the Subscription Term, Relativity will determine the monthly User Fees due for RelOne Users by identifying the total number of RelOne Users in all Geos during the preceding calendar month (“
+Monthly User Count
+”). If Customer has not fully used its Server User Subscription in a given calendar month, Relativity will first count RelOne Users as Server Users under the Server User Subscription until the Server User Cap has been fully satisfied in such month. Notwithstanding the foregoing: (i) Customer acknowledges that Relativity may not be able to determine whether a RelOne User should be considered a Server User in a calendar month where Customer does not properly submit billing and usage metrics; and (ii) accordingly, Relativity will count all RelOne Users towards the Monthly User Count in any calendar month where Relativity does not receive the billing and usage metrics (without limiting other remedies).
+
+Relativity will use reasonable efforts to de-duplicate RelOne Users across all Geos and charge only for unique RelOne Users, however, if Customer alters any user profile in a calendar month, each profile will be counted as a RelOne User for that calendar month. If Customer determines that Relativity double charged for the same RelOne User, Customer may ask Relativity to review the charge and, if appropriate, provide a credit. For the sake of clarity, Relativity will de-duplicate Server Users as provided in the Software License Agreement.
+
+Definition of RelOne Users
+.
+
+Notwithstanding Section 2.2 of the Order Terms, “RelOne Users” means:
+
+“any other Authorized Users who are (1) given access to the SaaS Products at any time during the month in question, regardless of whether the Authorized Users actually log into or use the SaaS Products or whether their access is disabled before the month ends, and (2) not also given access to the Server Products at any time during the same month.”
+
+ 
+
+SIGNATURES
+
+The parties have caused this Order to be executed by their respective duly authorized officers or representatives as of the Order Effective Date.
+
+ 
+
+RELATIVITY ODA LLC
+
+KLDISCOVERY ONTRACK, LLC
+
+Signature: /s/ Sailesh Munagala
+
+Signature: /s/ Andrew Southam
+
+Name: Sailesh Munagala
+
+Name: Andrew Southam
+
+Title: CFO
+
+Title: General Counsel
+
+ 
+
+ORDER TERMS
+
+1.
+PREPAY AMOUNTS
+
+1.1
+Use of Prepay Amounts
+
+Customer will pay the Prepay Amount for each period in the Subscription Term (each a “
+Period
+”). The Prepay Amount
+ 
+
+4
+
+ 
+
+ 
+
+will be used to offset the Period Subscription Fees and Monthly Subscription Fees incurred by Customer during each Period. Period Subscription Fees will be incurred in advance on the first day of the applicable Period and Monthly Subscription Fees will be incurred monthly in arrears.
+
+1.2
+Interim Payments
+
+When the Prepay Amount for a given Period has been reduced to $0, Customer will pay all Monthly Subscription Fees and Period Subscription Fees as incurred (each an “
+Interim Payment
+”). If Customer makes any Interim Payment during Period 1 or Period 2, the Prepay Amount for Period 3 will be reduced by the amount of the Interim Payments. If the Interim Payments made during Period 1 or Period 2 exceed the Prepay Amount for Period 3, then (a) there will be no Prepay Amount due for Period 3 (i.e., Customer will pay all Period 3 Monthly Subscription Fees and Period Subscription Fees as incurred); and (b) the Prepay Amount for Period 2 will be reduced by the amount of the excess Interim Payments. If the Interim Payments made during Period 1 exceed the Prepay Amount for Period 2 and Period 3, then there will be no Prepay Amounts due for Period 2 or Period 3 (i.e., Customer will pay all Period 2 and Period 3 Monthly Subscription Fees and Period Subscription Fees as incurred).
+
+1.3
+Overutilization
+
+If Customer overutilizes its total commitment (i.e. the amounts offset against the Prepay Amounts are equal to or greater than the total of all Prepay Amounts due under this Order), the Subscription Term will not be reduced as a result, and Customer will continue to pay all Monthly Subscription Fees and Period Subscription Fees as incurred until the Subscription Term expires.
+
+1.4
+Unused Prepay Amounts
+
+Any unused portion of the Prepay Amount paid with respect to one Period, will be rolled forward to the next Period. Notwithstanding the foregoing, any unused portion of the Prepay Amounts at the end of the Subscription Term, or upon any earlier termination of this Order or the Agreement, will be retained by Relativity and will not be refunded to Customer or rolled forward to any renewal subscription (except as expressly required under the Master Terms).
+
+2.
+USERS
+
+2.1
+Calculation of User Fees
+
+Relativity will determine the monthly User Fees due by identifying the total number of RelOne Users in all Geos during the preceding calendar month (“
+Monthly User Count
+”). During the Term, the number of RelOne Users in the Geo licensed under this Order will not be counted with: (a) RelOne Users in any other licensed Geo for purposes of determining the Monthly User Count; or (b) if applicable, the number of users in the Server Product for purposes of calculating the Monthly User Count or any additional user fees in the Server Product. Relativity will use reasonable efforts to de-duplicate RelOne Users across all Geos and charge only for unique RelOne Users, however, if Customer alters any user profile in a calendar month, each profile will be counted as a RelOne User for that calendar month. If Customer determines that Relativity double charged for the same RelOne User, Customer may ask Relativity to review the charge and, if appropriate, provide a credit.
+
+2.2
+Definition of RelOne Users
+
+“
+RelOne Users
+” means any Authorized Users who are given access to the Software at any time during the month in question, regardless of whether the Authorized Users actually log into or use the Software or whether their access is disabled before the month ends.
+
+2.3
+Connect for Authorized Users of the SaaS Product
+
+ 
+
+If Customer chooses to establish a link (“
+Connection
+”) between a Geo and a third party’s (“
+Connected Party
+”) Geo, Customer can grant the Connected Party’s Authorized Users (collectively “
+Connected Users
+”) access to Customer’s Geo. The Connected Users will not be counted and billed as RelOne Users in Customer’s Geo; provided, the Connected Users must access Customer’s Geo through the established Connection using a Connected Party-assigned email address (including the individual’s own name and Connected Party’s domain name). Customer will retain full responsibility for (a) the security and use of Connected Users' permissions within the Geo; and (b) all access to and
+ 
+
+5
+
+ 
+
+ 
+
+use of the Geo by such Connected Users. Customer may disable access to the Geo for any Connected User through the standard permission controls available in the Software. To terminate access for all Connected Users, Customer must disable the Connection.
+
+3.
+WORKSPACES
+
+3.1
+Calculation of Cloud Fees
+
+The amount of Customer Data in each workspace type (except Trace Workspaces and the Staging Area) will be set as of the Monthly Count Date during each calendar month of the Subscription Term. The “
+Monthly Count Date
+” will be the highest data count point in all Standard Workspaces across all of Customer’s Geos. Relativity will determine the monthly Cloud Fees due for each workspace type (except Trace Workspaces and the Staging Area) in each Geo using the amount of Customer Data in such workspace type as of the Monthly Count Date (rounded up to the nearest GB). If any Geo is subject to minimum monthly Cloud Fees, the monthly Cloud Fees due for that Geo will be the greater of: (a) the actual Cloud Fees incurred; or (b) the minimum monthly Cloud Fees set forth above, regardless of actual usage.
+
+3.2
+Calculation of Cloud Fees in Staging Area
+
+Relativity will determine the monthly Cloud Fees due for the Staging Area using the highest data storage point (rounded up to the nearest GB) in the Staging Area during the preceding calendar month.
+
+3.3
+Repository Workspace Restrictions
+
+Repository Workspaces may only be used to store Customer Data and perform early case assessment. Customer may not use a Repository Workspace to perform any document review work or for any production purposes whatsoever, and Customer may not limit the default functionality on any Repository Workspace. Further, Repository Workspaces are subject to the limitations set forth in the Documentation, which include, for example, limits on the permitted number of records in any Repository Workspace, the allotted number of document views in any Repository Workspace, and the permitted number of Authorized Users that may access any Repository Workspace. Relativity will not change the limitations set forth in the Documentation without providing at least one (1) year’s notice. Customer may not circumvent limits on Repository Workspaces by dividing cases or investigations between multiple Repository Workspaces. A Repository Workspace will be considered a Standard Workspace for billing purposes in any calendar month where Customer violates any of the restrictions or limitations set forth in this Section or the Documentation.
+
+3.4
+Cold Workspace Restrictions
+
+Cold Workspaces may only be used to store Customer Data. A Cold Workspace will be considered a Standard Workspace for billing purposes in any calendar month in which Customer retrieves the Cold Workspace. Customer may retrieve a Cold Workspace by selecting “Retrieve” in the Cold Workspace. Customer’s Cold Workspace will be retrieved and restored within five (5) days. Notwithstanding the foregoing, the Cold Workspace will be considered an active Standard Workspace or Repository Workspace for billing purposes as soon as Customer selects the “Retrieve” option.
+
+3.5
+Measuring Data
+
+Data usage is measured by the size of the information, records and other data imported, stored and/or created in the Software. Where records have corresponding entries in the file table (including native files, images, and
+
+ 
+
+production images), that data usage is based on the size of those files. Where records do not have corresponding file table entries, Relativity may elect to tally and convert the number of such records to a GB measurement by dividing the number of such records by 4,000. All data in the Staging Area is measured by the size of the files.
+
+4.
+GEOS
+
+4.1
+Regions
+
+“
+Geo
+” means the installation of the SaaS Product. Geos are hosted in data centers in various countries around the
+ 
+
+6
+
+ 
+
+ 
+
+world (“
+Region
+”) and Relativity currently relies on the Microsoft Azure Platform as its underlying infrastructure.
+
+4.2
+Geo Termination Option
+
+During the Subscription Term, Customer may terminate one or more Geos as of the first day of the next Period (the “
+Anniversary Date
+”); provided: (a) Geos subject to minimum monthly Cloud Fees may not be terminated (although such Geos may be decommissioned or transferred to alternative Regions, as set forth below); (b) Customer must deliver written notice to Relativity at least 60 days prior to the Anniversary Date; and (c) all Customer Data must be removed from the terminated (or decommissioned) Geo on or before the Anniversary Date. For the sake of clarity, if Customer decommissions a Geo subject to minimum monthly Cloud Fees, Customer will not incur the minimum monthly Cloud Fees until such Geo has been reactivated.
+
+4.3
+Geo Transfer Option
+
+During the Subscription Term, Customer may transfer one or more Geos to alternative Regions commencing as of the next Anniversary Date; provided: (a) Customer must deliver written notice to Relativity at least 60 days prior to the Anniversary Date and such notice must state the Region where the existing Geo is located and the Region where the new Geo should be activated (“
+New Region
+”); (b) all Customer Data must be removed from the existing Geo on or before the Anniversary Date; and (c) on the Anniversary Date, Relativity will decommission the existing Geo and provide Customer with access to a Geo in the New Region. For the sake of clarity, if the existing Geo was subject to any fees, Customer will continue to incur all such fees for the remainder of the Subscription Term.
+
+5.
+TRANSLATE
+
+Translate is a translation tool that performs translation of document text in certain languages. Translate is offered to Relativity customers who subscribe to the SaaS Product and is subject to the terms of the Agreement and the Documentation.
+
+Customer will be charged Translate Fees based on the Unit Price for Document Units after utilizing the Included Document Units. “
+Unit Price
+” in the Order is the price for each Document Unit. “
+Document Unit
+” means the translation of a document using Translate, up to a character limit of 25,000 characters (“
+Translation Character Limit
+”). If a document exceeds the Translation Character Limit, the excess number of characters translated will be counted as the next Document Unit, for up to the Translation Character Limit. “
+Included Document Units
+” means the number of included Document Units set forth in the Order. Included Document Units may not be available for any extension or replacement of the Subscription Term.
+
+TRANSLATE IS PERFORMED ENTIRELY BY MACHINE LEARNING MADE AVAILABLE BY MICROSOFT ON MICROSOFT AZURE. SOME FILES AND DATA TYPES MAY BE INCAPABLE OF ACCURATE TRANSLATION USING TRANSLATE. TRANSLATE IS NOT INTENDED TO REPLACE HUMAN TRANSLATORS.
+
+6.
+CUSTOMER MANAGED KEYS
+
+Intentionally Omitted.
+
+7.
+LEGAL HOLD
+
+Intentionally Omitted.
+
+ 
+
+8.
+STORE
+
+Intentionally Omitted.
+
+9.
+DEVELOPMENT TOOLS
+
+For clarity, the Development Tool Terms incorporated by reference into this Order contain additional terms, including terms respecting any Sandboxes that Customer pays fees for under this Order. Such terms are accessible as specified below.
+
+10.
+PROVIDER OF RECORD
+
+7
+
+ 
+
+ 
+
+If applicable during the Term, Customer may appoint a “
+Provider of Record
+” to provide ongoing services to Customer in the SaaS Product, subject to the Provider of Record Terms. Customer must appoint such Provider of Record by sending an email to sales@relativity.com, which: (a) identifies the name of the Provider of Record, and (b) sets forth the appointment date of the Provider of Record. If Customer appoints a Provider of Record, Customer acknowledges that the Provider of Record may receive the benefits outlined in the Provider of Record Terms.
+
+Intentionally Omitted.
+
+11.
+ADDITIONAL TERMS
+
+ 
+
+Documents incorporated by reference (not modified without Customer’s consent)
+
+Support Terms
+
+https://kcura.my.salesforce.com/sfc/p/5000000072uY/a/1T000000T3bN/TSR1qP
+ 
+a8Q4khAZUAccLFnHrypQLxid2bko3xeIHwWsY
+
+Service Level Terms
+
+https://kcura.my.salesforce.com/sfc/p/5000000072uY/a/1T000000T3bI/PtC5_JW
+ 
+aC_MHLPlgSybyR48smTUCauV4KEU2ZDlIl9c
+
+Data Security Terms
+
+https://kcura.my.salesforce.com/sfc/p/5000000072uY/a/Hs0000018kLY/NNFh8M
+ 
+zRv3S_n.7N8RW32KRXL47tYSg8775hMZ9Pafk
+
+Development Tool Terms
+
+https://kcura.my.salesforce.com/sfc/p/5000000072uY/a/1T0000016TUt/Xjq1bale
+ 
+uqvvBdIRmEfTh2XEVtxwMpAa.t8DCwLJq3g
+
+Provider of Record Terms
+
+https://kcura.my.salesforce.com/sfc/p/5000000072uY/a/1T000000T6rZ/pBTj0RzD
+ 
+gAw3f5FRKAinDicD3DFkP6yW.K9fsClNHfw
+N/A
+
+ 
+
+8
+
+2022-08-31
+
+ 
+
+ 
+
+MASTER TERMS AND CONDITIONS
+
+These Master Terms and Conditions (“
+Master Terms
+”) effective on June 1, 2023 (“
+Effective Date
+”) are by and between Relativity ODA LLC, a Delaware limited liability company (“
+Relativity
+”) and KLDiscovery Ontrack, LLC, a Delaware limited liability company (“
+Customer
+”).
+
+1.
+DEFINITIONS
+
+Access Credentials 
+Any username, password, license or security key, or other information used to verify an individual's identity and authorization to access and use the Software.
+
+Affiliate 
+With respect to any entity, any other entity that directly or indirectly controls, is controlled by, or is under common control with such entity, where “control” (including “controlled by” and “common control”) means the ability to, directly or indirectly, direct the management, operations or policies of such entity.
+
+Agreement 
+Collectively, these Master Terms and any Orders.
+
+Authorized User 
+Any person who accesses the Software using Access Credentials for or on behalf of Customer. Authorized Users may include Representatives, End User Customers and Affiliates of Customer, and their end users.
+
+Claim 
+Claim, action, cause of action, demand, lawsuit, arbitration, inquiry, audit, notice of violation, proceeding, litigation, citation, summons, subpoena, or investigation of any nature, whether civil, criminal, administrative, regulatory, or other, whether at law, in equity or otherwise.
+
+Confidential Information 
+Information, whether disclosed orally or in writing, that is identified by the disclosing party as confidential or that is of a nature that a reasonable person would suspect to be confidential or proprietary to the disclosing party or a third party, including information relating to a party’s business practices, products, product development, research, marketing plans, customer information, financial information, and pricing rates and methodologies. For purposes of clarity, Customer’s Confidential Information includes Customer Data and Relativity’s Confidential Information includes the Software and the terms of the Agreement.
+
+Customer Data 
+All documents, files and other data that Customer or its Authorized Users import into the Software and all work product results of all work that Customer and its Authorized Users perform respecting such data in the Software. For clarity, Customer Data does not include system and data usage metrics and billing information, Usage Data, or any systems’ operations, performance or security information.
+
+Data Security Terms 
+The Data Security Terms to the extent incorporated by reference into an applicable Order.
+
+Derivative Works 
+Every translation, portation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted, including any
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+software, technology, methods or processes that a person skilled in the arts would consider to be derived from the existing work or from the existing
+
+ 
+
+work owner’s technology, methods or processes protected by copyright, patent or trade secret laws.
+
+Development Tools 
+Tools by which Customer, or a third party acting on behalf of Customer, may add customizations, enhancements, or extensions to the Software, as further defined in the Development Tool Terms.
+
+Development Tool Terms 
+The Development Tool Terms incorporated by reference into an applicable Order.
+
+Documentation 
+The documentation for the Software referenced in the applicable Order.
+
+End User Customer 
+Any third party to which Customer provides services, either directly or indirectly.
+
+Harmful Code 
+Any software, hardware, or other technology, device, or means, including any virus, worm, malware, or other malicious computer code, the purpose or effect of which is to permit unauthorized access to, or to destroy, disrupt, disable, distort, or otherwise harm or impede in any manner any: (a) computer, software, firmware, hardware, system, or network; or (b) application or function of any of the foregoing or the security, integrity, confidentiality, or use of any data processed thereby.
+
+Intellectual Property Rights 
+Any and all rights arising from or under any of the following, whether protected, created or arising under the Laws of the United States of America or any other jurisdiction: patents (including any applications, extensions, divisions, continuations, continuations-in-part, reexaminations, reissues, and renewals related thereto), copyrights (including any applications, registrations and renewals related thereto), trademarks and service marks (including applications, registrations and renewals related thereto), trade dress, trade names, trade secret and know-how and any other intellectual property or proprietary rights of any nature, by whatever name or term known or however designated.
+
+Laws 
+Statutes, laws, ordinances, regulations, rules, codes, orders, constitutions, treaties, common laws, judgments, decrees, or other requirements of any federal, state, local, or foreign government, including any of the foregoing respecting the security and privacy of personal data, anti-bribery and anti- corruption, anti-terrorism, non-discrimination and non-harassment, and export restrictions.
+
+Losses 
+Losses, damages, claims, actions, judgments, settlements, interest, awards, penalties, fines, costs, or expenses of whatever kind, including reasonable attorneys' fees.
+
+Order 
+An order referencing these Master Terms, including (a) to the extent expressly referenced therein, any attachments thereto or documents incorporated therein, and (b) any amendments thereto.
+
+Representatives 
+(a) with respect to Relativity, Relativity’s employees, officers, directors, consultants, agents, independent contractors, service providers,
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+subcontractors, and legal advisors; (b) with respect to Customer, Customer’s employees, officers, directors, consultants, agents, independent contractors, service providers, subcontractors, and legal
+
+ 
+
+advisors; and (c) with respect to Affiliates, the Affiliate’s employees, officers, directors, consultants, agents, independent contractors, service providers, subcontractors, and legal advisors.
+
+SaaS Product 
+Relativity Software accessed and used as a software-as-a-service platform.
+
+Server Product 
+Relativity Software deployed and used behind Customer’s firewall, at Customer’s site, in a cloud data center or in a colocation facility managed by Customer or any other party on behalf of Customer (other than Relativity), for Customer’s benefit.
+
+Server License 
+means the license to the software granted under the Software License Agreement between Customer and Relativity dated January 1, 2021, amended from time to time.
+
+Service Level Terms 
+The Service Level Terms incorporated by reference into an applicable Order.
+
+Software 
+All technology components incorporated in or made available in connection with a SaaS Product, the Development Tools and any other software products, each as identified in any Order, along with any Documentation relating thereto and any know-how provided by Relativity in connection with the provision of the Software or related services designed to assist Customer with the operation of the Software. For clarity, the term “Software” in any documents incorporated by reference into any Order refers only to the Software described in that Order.
+
+Support Terms 
+The Support Terms incorporated by reference into an applicable Order.
+
+2.
+ACCESS TO AND USE OF THE SOFTWARE
+
+2.1
+Right to Access and Use the Software
+
+Relativity hereby grants Customer a worldwide, non-exclusive, non-transferable (except in compliance with Section 15.3) right of access to and use of the Software during the Subscription Term (as set forth in the applicable Order). The right granted in this Section 2.1 includes permission to import, process, review, use, copy, store, and transmit Customer Data to, in and from the Software, subject to the terms of the Agreement.
+
+2.2
+Use of the Software by Authorized Users
+
+Customer may provide access to the Software to any of its Affiliates, End User Customers, and their end users, to enable them to be Authorized Users. Access to and use of the Software by any Authorized User will be considered access to and use of the Software by Customer for purposes of the Agreement. For purposes of clarity: (a) all Authorized Users’ billable items will be aggregated with Customer’s billable items for purposes of determining fees due under the applicable Order; (b) Customer will be responsible for payment of all fees due under the Agreement; (c) Customer shall cause all Authorized Users to comply with the Agreement; and (d) Customer will be responsible for the acts and omissions of each Authorized User, including any failure by any Authorized User to comply with the Agreement, as though they were the acts and omissions of Customer.
+
+3
+
+ 
+
+ 
+
+ 
+
+Customer may not host or sub-host the Software, administer the Software or provide or enable any functions of the Software on behalf of any End User Customer under any white label or private label re- hosting arrangement. Without limiting the generality of the foregoing, Customer shall: (i) not permit any End User Customer’s website to link to the Software; (ii) prominently display Customer’s name and logo
+
+ 
+
+on all landing pages and log-in screens; (iii) except as otherwise authorized by Relativity in writing, not use any End User Customer’s name in any URL used, directly or indirectly, to access the Software; and (iv) except as otherwise authorized by Relativity in writing, not provide any of Relativity’s materials or other property to any End User Customer. If Relativity notifies Customer that it has violated any of the foregoing restrictions, Customer will take all steps reasonably identified by Relativity to remedy the violation. Relativity has no obligation to accept or respond to communications from any End User Customer or its customers.
+
+2.3
+Access Credentials
+
+Customer will require each Authorized User to have separate Access Credentials. Neither Customer nor any Authorized User will share or repurpose Access Credentials, regardless of whether the sharing occurs at the same or different times. The username of each Authorized User must be a unique working email address. Customer will be responsible for all access to and use of the Software utilizing Customer Access Credentials. Customer will promptly notify Relativity of any known or reasonably suspected unauthorized use of any Access Credentials.
+
+2.4
+Services
+
+Relativity will provide the maintenance and support services as set forth in the Support Terms identified in the applicable Order (“
+Services
+”). Upon Customer’s request and at Relativity’s discretion, Relativity may provide additional services relating to the Software, pursuant to written documentation between the parties and payment of Relativity’s then-current hourly rates.
+
+Customer acknowledges that in connection with any services provided in connection with the Agreement (including Services), neither Relativity nor any Relativity Representative is providing legal advice or interpretation of legal documents. Services provided by Relativity and Relativity Representatives are not intended to be, and should not be construed as, legal advice. Customer is solely responsible for its use of the Software, including deciding whether, to what extent, and how to use particular features of the Software for any given use case.
+
+2.5
+Updates to the Software and Additional Products
+
+Relativity may make changes to the Software at its discretion, including to enhance the quality, delivery or performance of the Software, and to provide Corrections (as defined in the Support Terms identified in the applicable Order). The timing of any updates to a SaaS Product shall be at Relativity’s discretion. Relativity will not make any changes to the Software during the Subscription Term (as set forth in the applicable Order) that materially degrade the overall functionality of the Software, unless: (a) the changes are to comply with applicable Laws; (b) the changes are required to resolve a defect or security issue; or
+
+(c) Relativity provides a functional equivalent.
+
+From time to time, Relativity may make additional products available. At Relativity’s discretion, such additional products may be: (i) included with the Software at no additional charge, in which case such products are subject to the terms of the Agreement unless stated otherwise in the Documentation; or (ii) made available for additional fees, in which case Customer may choose to subscribe to such products by signing an additional Order.
+
+2.6
+Restrictions on Access to and Use of the Software
+
+4
+
+ 
+
+ 
+
+ 
+
+Customer will not, and will not permit any third party to:
+
+(a)
+access and use any SaaS Product other than on a hosted basis through Relativity;
+
+ 
+
+(b)
+other than as expressly set forth in the applicable Order, copy, modify, duplicate, create Derivative Works from, frame, mirror, republish, download, transmit, or distribute all or any portion of the Software in any form or media or by any means;
+
+(c)
+reverse compile, disassemble, reverse engineer or otherwise reduce to human- perceivable form all or any part of the Software;
+
+(d)
+access all or any part of the Software in order to build or enhance a product or service which competes with the Software;
+
+(e)
+other than as expressly set forth in Section 2.2, license, sell, rent, lease, transfer, assign, distribute, display, disclose, or otherwise commercially exploit, or otherwise make the Software available to any third party;
+
+(f)
+take any actions to circumvent standard security practices for accessing and using the Software or to avoid paying amounts due under any Order, including: (i) circumventing or automating the practice of having Admins enable or re-enable Authorized Users or other billable items manually; (ii) circumventing the features in the Software for tracking and reporting billable items; or (iii) multiplexing or sharing Authorized Users’ access to and use of the Software through middleware, transaction servers, multi-tiered architectures, or any other method or technology;
+
+(g)
+input, upload, transmit, or otherwise provide to or through the Software any information or materials that are unlawful;
+
+(h)
+access and use any SaaS Product to: (i) interfere with or disrupt the integrity, security or performance of other deployments of the SaaS Product or the data contained therein; or
+
+(ii) attempt to gain unauthorized access to other deployments of the SaaS Product or any shared systems, products or networks;
+
+(i)
+remove, cover-up or obscure any trademark, trade name, copyright notice or other proprietary notice on the Software; or
+
+(j)
+otherwise access or use the Software beyond the scope of the authorization granted in the Agreement.
+
+2.7
+Reservation of Rights in the Software
+
+Relativity and its third-party vendors own and will continue to own the entire title and interest in and to the Software and all Intellectual Property Rights related to the Software, including all Derivative Works thereof, and any know-how, methodologies or other materials Relativity provides. Nothing in the Agreement, or the negotiation or performance thereof, grants any right, title or interest in or to the Software or any such Intellectual Property Rights, whether expressly, by implication, estoppel, or otherwise. Customer has no right to access any source code.
+
+2.8
+Development Tools and Custom Applications
+
+Relativity may make available certain Development Tools. Any access to and use of the Development Tools by Authorized Users is subject to the Development Tool Terms identified in the applicable Order. As between Relativity and Customer, Customer is free to claim ownership of all Intellectual Property Rights in Custom Applications (as defined in the Development Tool Terms) created by Customer or any third
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+party on behalf of Customer through use of the Development Tools, provided: (a) the Custom Application shall not include any portion of the Software or the Development Tools, or any Derivative Works thereof; and (b) Customer (or any third party acting on behalf of Customer) will not acquire any ownership interest in any portion of the Software or the Development Tools, or any Derivative Works thereof, either by
+
+ 
+
+express or implied agreement or by operation of Law. To the extent that Customer writes any scripts or source code that modify the Software or the Development Tools, such scripts or source code shall be deemed Derivative Works of the Software, and Relativity will own such Derivative Works.
+
+2.9
+Responsibility for Customer Systems
+
+Customer is solely responsible for procuring and maintaining its network connections and telecommunications links from its systems to the data centers, and Relativity will not be responsible for resolving any problems, conditions, delays, or delivery failures, or liable for any loss or damage arising from or relating to Customer’s network connections or telecommunications links or caused by the Internet.
+
+3.
+FEES, INVOICING AND PAYMENT
+
+3.1
+Fees
+
+Customer will pay Relativity the fees set forth in the applicable Order in accordance with the payment terms in this Section 3 and in the applicable Order.
+
+3.2
+Invoicing and Payment
+
+Relativity will invoice Customer for fees set forth in the applicable Order. Invoices will be sent electronically to the email address set forth in the applicable Order. Unless otherwise set forth in the applicable Order, all payments will be made in US dollars, without adjustment for changes in exchange rates. Customer will pay all undisputed amounts within 30 days after Customer’s receipt of the invoice (the “
+Payment Due Date
+”). Relativity has the right to apply any payments made by Customer to offset any past or future amounts due.
+
+3.3
+Disputed Amounts
+
+Customer will notify Relativity of any disputed amounts prior to the Payment Due Date, setting forth the source of the dispute in reasonable detail, and the parties will work promptly and in good faith to resolve the dispute. If it is determined that all or any portion of the previously disputed amount is owed to Relativity, Customer will promptly pay that amount to Relativity.
+
+3.4
+Taxes
+
+All fees are exclusive of applicable taxes. Without limiting the foregoing, Customer is responsible for all sales, use, excise, value-added, or other tax, fee, tariff, or other duty of any kind imposed under applicable Laws on any amounts payable by Customer hereunder, other than any taxes imposed on Relativity's income (collectively, “
+Taxes
+”). Customer will self-report and pay all Taxes directly to the taxing body, unless Relativity is legally required to collect and remit any Taxes, in which case Relativity will invoice Customer for those Taxes. If Customer is required to withhold and remit any Taxes from amounts payable under the Agreement, Relativity will gross-up each invoice to include the total amount due plus any applicable withholding. Customer will indemnify and hold Relativity harmless from and against any Losses incurred by Relativity in connection with any failure by Customer to remit any Taxes. Applicable tax rates and requirements will be determined by Customer’s shipping address set forth in the applicable Order.
+
+3.5
+Late Payment
+
+6
+
+ 
+
+ 
+
+ 
+
+If Customer fails to pay any undisputed amount by the Payment Due Date, then in addition to all other remedies that may be available, Relativity may (a) charge interest on the past due amount at the rate of 1% per month or, if lower, the highest rate permitted under applicable Laws; and (b) decline to permit Customer to add products. If Customer fails to pay undisputed amounts more than 30 days after the Payment Due Date, Relativity may suspend Customer’s access to the Software and/or performance of
+
+ 
+
+Services until all past due amounts and interest thereon have been paid. Customer will reimburse all costs and fees incurred by Relativity in connection with collection of unpaid fees.
+
+3.6
+Billing Assistance
+
+Customer’s billing and usage metrics will be delivered to Relativity through the Software as set forth in the Documentation. Relativity provides an optional feature by which Customer may choose to obfuscate case, client or matter names, and the personal name portion of the email address used for Access Credentials. If Customer uses the obfuscation feature and has more than one deployment of the Software, Relativity may require that Customer consistently use the obfuscation feature across all deployments to allow Relativity to bill consistently. Customer will provide any requested information as may be reasonably necessary for Relativity’s billing and auditing purposes, and reasonably cooperate in: (a) running and providing the results of usage and billing scripts; (b) providing Relativity with certifications respecting usage metrics; and (c) granting Relativity remote, supervised, secure access to Customer’s account to verify billing and usage metrics.
+
+4.
+DATA
+
+4.1
+Customer Data
+
+As between Customer and Relativity, Customer is responsible for the content and use of Customer Data, and will remain the sole and exclusive owner of all right, title and interest in and to Customer Data, including all Intellectual Property Rights relating thereto.
+
+4.2
+Right to Access and Use Customer Data
+
+Customer grants Relativity a non-exclusive, non-transferable (except in compliance with Section 15.3) right to access and use Customer Data for the purpose of providing the Software and performing Relativity's obligations under the Agreement.
+
+4.3
+Customer Data Security
+
+Relativity will use commercially reasonable efforts to safeguard Customer Data as set forth in: (a) the Data Security Terms; and (b) any Data Processing Agreement attached hereto as 
+Exhibit A
+.
+
+4.4
+Usage Data
+
+Relativity may collect, reproduce, distribute, modify, and otherwise use and publish data and other information that Relativity compiles or derives, relating to or arising from the performance or use of the Software by Customer and its Authorized Users, including statistics, metrics and analytic data, and any data and other information derived therefrom (collectively, “
+Usage Data
+”); provided, however, that, Usage Data shall be anonymized and aggregated, and shall never contain any information by which any person would reasonably be able to identify the Confidential Information of Customer, Customer, or any other person or party. As between Relativity and Customer, Relativity shall be the sole and exclusive owner of all right, title and interest in and to Usage Data, including all Intellectual Property Rights relating thereto.
+
+5.
+REPRESENTATIONS AND WARRANTIES
+
+5.1
+Relativity Representations and Warranties
+
+7
+
+ 
+
+ 
+
+ 
+
+Relativity represents and warrants to Customer that:
+
+(a)
+it has the right to enter into the Agreement and grant the rights granted in the Agreement;
+
+(b)
+the Software will perform substantially in conformance with the Documentation (Customer’s sole and exclusive remedy for any failure by Relativity to meet the
+
+ 
+
+representation and warranty set forth in this Section 5.1(b), is termination in accordance with Section 7.2(b));
+
+(c)
+it will comply with all Laws applicable to its business operations and its provision of the Software and Services to Customer;
+
+(d)
+it will use commercially reasonable software development practices designed to prevent the Software from containing or transmitting any Harmful Code; and
+
+(e)
+the Software will not contain, and has not been developed or modified through the use of, any open source or public library software, including any version of any software licensed pursuant to any GNU public license, in such a way as to (i) require Customer to grant to any third party any rights in Customer’s products, services or Intellectual Property Rights, (ii) require the licensing, disclosure or distribution of any source code developed by or for Customer, (iii) require Customer to license the use of its products or services to third parties without charge, or (iv) create restrictions on or immunities to Customer’s enforcement of its Intellectual Property Rights.
+
+5.2
+Customer Representations and Warranties
+
+Customer represents and warrants to Relativity that:
+
+(a)
+it has the right to enter into the Agreement and grant the rights granted to Relativity in the Agreement;
+
+(b)
+it will comply with all Laws applicable to its business operations and its provision of Customer Data to Relativity; and
+
+(c)
+it will use commercially reasonable practices, including the use of anti-virus and malware protection software, designed to prevent Customer Data from containing or transmitting any Harmful Code.
+
+5.3
+Disclaimer of Warranties
+
+The representation and warranty set forth in Section 5.1(b) will not apply to the extent of any non- conformance arising from abuse, misapplication, or other user errors by Customer, or any use of the Software not in conformance with the Documentation, or use of the Software in combination or operation with any software, hardware, service, or data not provided by Relativity or identified as a specific technical requirement in the Documentation, to the extent the nonconformity would not have occurred in the absence of such combination or operation. Relativity does not warrant that the functions or the results of using the Software will be suitable for Customer’s intended use (including sufficiency, accuracy, reliability or legal compliance), that the operation of the Software will be timely, uninterrupted or error-free, or that the Software will be secure from unauthorized access or hacking or free of Harmful Code. The express warranties made herein are in lieu of, and to the exclusion of, all other warranties, conditions or representations of any kind, express or implied, statutory or otherwise, relating to the Software or Services. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, RELATIVITY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT, AND ANY IMPLIED WARRANTIES OR OTHER OBLIGATIONS ARISING FROM COURSE OF PERFORMANCE, COURSE OF DEALING OR USAGE OF TRADE,
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+AND ALL SUCH WARRANTIES, CONDITIONS AND REPRESENTATIONS ARE EXCLUDED FROM THE AGREEMENT AND WAIVED TO THE FULLEST EXTENT NOT PROHIBITED BY LAW.
+
+6.
+CONFIDENTIAL INFORMATION
+
+6.1
+Protection of Confidential Information
+
+ 
+
+In connection with the Agreement, each party may disclose or make available Confidential Information to the other party. A party receiving or having access to the Confidential Information of the other party will:
+
+(a)
+not access or use such Confidential Information other than as necessary to exercise its rights or perform its obligations under and in accordance with the Agreement;
+
+(b)
+except as may be permitted by and subject to its compliance with Section 6.2, not disclose or permit access to such Confidential Information other than to its Representatives or Affiliate Representatives who need to know such Confidential Information and are bound by confidentiality and restricted use obligations at least as protective of the Confidential Information as the terms set forth in this Section 6; and
+
+(c)
+safeguard such Confidential Information from unauthorized use, access or disclosure using at least the degree of care it uses to protect its similarly sensitive information and in no event less than a reasonable degree of care (it being understood that, for SaaS Products, Customer Data is also subject to the data security requirements set forth in Section 4.3).
+
+6.2
+Compelled Disclosures
+
+If a party or any of its Representatives or Affiliate Representatives is compelled by applicable Laws to disclose any Confidential Information of the other party then, to the extent permitted by applicable Laws, the party will promptly, and prior to such disclosure, notify the other party in writing of such requirement so that the other party can seek a protective order or other remedy and will provide reasonable assistance to the other party, at the other party’s sole cost and expense, in opposing such disclosure or seeking a protective order or other limitations on disclosure. For purposes of clarity, the party being compelled to disclose Confidential Information of the other party is not required to suffer any legal detriment or penalty to comply with this Section 6.2 and shall be entitled to disclose Confidential Information of the other party to the extent required by applicable Laws without incurring any liability to the other party thereby.
+
+6.3
+Exclusions
+
+The obligations of this Section 6 do not apply to information that:
+
+(a)
+was rightfully known to the receiving party without restriction on use or disclosure prior to such information being disclosed or made available to the receiving party in connection with the Agreement;
+
+(b)
+was or becomes generally known by the public other than by the receiving party's or any of its Representatives' or Affiliate Representatives’ non-compliance with this Section 6;
+
+(c)
+was or is received by the receiving party on a non-confidential basis from a third party that was not or is not, at the time of such receipt, under any obligation to maintain its confidentiality; or
+
+(d)
+the receiving party can demonstrate was independently developed by it without reference to or use of any Confidential Information of the other party.
+
+6.4
+Equitable Relief
+
+9
+
+ 
+
+ 
+
+ 
+
+Each party acknowledges and agrees that a breach or threatened breach by it of its obligations under this Section 6 may cause the other party irreparable harm for which monetary damages would not be an adequate remedy. Accordingly, in the event of such breach or threatened breach, the other party will be entitled to seek equitable relief, including a restraining order, an injunction, specific performance, and any other relief that may be available from any court, without any requirement to post a bond or other
+
+ 
+
+security, or to prove actual damages or that monetary damages are not an adequate remedy. Such remedies are not exclusive and are in addition to all other remedies that may be available at law, in equity or otherwise.
+
+7.
+TERM AND TERMINATION
+
+7.1
+Term
+
+These Master Terms commence on the Effective Date and will remain in effect for as long as any Order is in effect. For purposes of clarity, termination of the Agreement under Section 7.2 will automatically terminate all Orders then in effect.
+
+7.2
+Termination
+
+A party may terminate the Agreement (or any particular Order which is the subject of the breach or failure) immediately upon written notice:
+
+(a)
+if the other party breaches any material provision of the Agreement or a particular Order in a manner that is not capable of cure;
+
+(b)
+if the other party breaches any material provision of the Agreement or a particular Order in a manner that is capable of cure and fails to cure the breach within 30 days of the terminating party’s written notice of the breach; or
+
+(c)
+if the other party files a petition in bankruptcy, is subject to an involuntary petition in bankruptcy that is not dismissed within 60 days after it is filed, makes an assignment for the benefit of creditors, has a receiver appointed over its assets or business operations, declares its inability to pay its debts as they become due or files for liquidation or dissolution.
+
+Relativity may terminate the Agreement if Customer fails to pay any undisputed amount within 30 days of the Payment Due Date, and such failure continues for 15 days after Relativity has provided written notice of such failure.
+
+7.3
+Transition Period
+
+Immediately following the early termination of an Order (other than a termination based on Customer’s breach of the Agreement or any Order, or a termination based on bankruptcy), Customer may elect to continue using the Software under the Agreement for a period of 30 days (the “
+Transition Period
+”) by delivering notice to Relativity within ten (10) days of the termination date. During the Transition Period, the Agreement will remain in full force and effect and Customer will pay all fees and charges for access to and use of the Software during the Transition Period at the rates set forth in the applicable Order.
+
+7.4
+Effect of Termination or Expiration
+
+Upon any expiration or termination of the Agreement (or specific Order), or expiration of any Transition Period:
+
+(a)
+if Relativity terminates the Agreement (or specific Order) pursuant to Section 7.2, any fees under the Agreement (or specific Order, as applicable) that have been invoiced but not paid and all fees that would have become payable had all Orders remained in effect until 
+
+10
+
+ 
+
+ 
+
+ 
+
+expiration of the applicable Subscription Term will become immediately due and payable;
+
+(b)
+if Customer terminates the Agreement (or specific Order) pursuant to Section 7.2, Relativity will promptly refund to Customer a pro-rated portion of any fees under the Agreement (or specific Order, as applicable) prepaid by Customer, with the pro-rated
+
+ 
+
+period commencing on the date of the event giving rise to the right to terminate, and Customer will be relieved of any obligation to pay any further fees under any terminated Order; and
+
+(c)
+all rights, licenses, consents, and authorizations granted by either party to the other party under the Agreement (or specific Order, as applicable) will immediately terminate.
+
+7.5
+Return of Confidential Information
+
+Upon any expiration or termination of the Agreement, or expiration of any Transition Period, each party will promptly return to other party, or at the other party’s request, destroy all documents and tangible materials containing, reflecting, incorporating, or based on Confidential Information of the other party and, except as set forth below, permanently erase all Confidential Information of the other party from all systems it directly or indirectly controls. Customer will export or otherwise delete all Customer Data in any SaaS Product. If Customer fails to export or delete any Customer Data in a SaaS Product by the expiration date of the Agreement, within ten (10) days of any early termination of the Agreement, or by the expiration date of any Transition Period, Relativity may (a) continue charging Customer for access to and use of the SaaS Product at the rates set forth in the applicable Order or (b) delete such Customer Data. Notwithstanding anything to the contrary in this Section 7.5 or elsewhere in the Agreement, a party may retain Confidential Information of the other party, including Customer Data, in its then current state and solely to the extent and for so long as required for the receiving party to comply with Laws applicable to its business. In addition, for SaaS Customers, Relativity may retain Customer Data in its backups, archives and disaster recovery systems until such Customer Data is deleted in the ordinary course. Any Confidential Information retained under this Section 7.5 will remain subject to all confidentiality, security and other applicable requirements of the Agreement.
+
+7.6
+Surviving Terms
+
+The provisions set forth in the following Sections, and any other rights or obligations of the parties in the Agreement that, by their nature, survive expiration or termination of the Agreement, will survive any expiration or termination of the Agreement: Section 2.7 (Reservation of Rights in the Software), Section 3 (Fees, Invoicing and Payment) (for so long as any fees remain unpaid), Section 6 (Confidential Information), Section 7.4 (Effect of Termination or Expiration), Section 7.5 (Return of Confidential Information), this Section 7.6, Section 8 (Indemnification), Section 9 (Limitation of Liability), Section 11 (Feedback), Section 12 (Governing Law, Jurisdiction and Related Matters), Section 13 (Notices), and Section 15 (Miscellaneous).
+
+8.
+INDEMNIFICATION
+
+8.1
+Indemnification by Relativity
+
+Relativity will indemnify, defend and hold harmless Customer, its Affiliates and its and their Representatives (“
+Customer Indemnified Parties
+”) from and against any Losses incurred in connection with any third-party Claim against the Customer Indemnified Parties to the extent that such Losses arise out of or result from:
+
+(a)
+any allegation that, if true, would constitute, or would result from, breach by Relativity of any express representation or warranty in Section 5.1; or
+
+11
+
+ 
+
+ 
+
+ 
+
+(b)
+any allegation that, if true, would constitute infringement, misappropriation or other violation of any third-party Intellectual Property Rights resulting from use of the Software pursuant to the terms of the Agreement (an “
+IP Claim
+”).
+
+8.2
+Indemnification by Customer
+
+ 
+
+Customer will indemnify, defend and hold harmless Relativity, its Affiliates and its and their Representatives (“
+Relativity Indemnified Parties
+”) from and against any Losses incurred in connection with any third-party Claim against Relativity Indemnified Parties to the extent that such Losses arise out of or result from:
+
+(a)
+any allegation with respect to Customer Data that, if true, would constitute, or would result from, violation by Customer or its Authorized Users of any applicable data privacy or data protection Laws or any obligation of confidentiality to any third party; or
+
+(b)
+any allegation that if true, would constitute infringement, misappropriation or other violation by any Custom Application or Other Product (each as defined in the Development Tool Terms) of any third-party Intellectual Property Rights.
+
+8.3
+IP Claims Limitations and Mitigation
+
+Relativity will have no liability or obligation for any IP Claim or Losses to the extent that such IP Claim arises out of or results from any: (a) access to or use of the Software other than as authorized under the Agreement; (b) alteration or modification of the Software by Customer or any Authorized User, including any Custom Application or Other Product (each as defined in the Development Tool Terms) (for purposes of clarity, IP Claims respecting the Development Tools themselves are covered by Relativity’s obligations under Section 8.1); or (c) use of the Software in combination or operation with any other software, hardware, service, or data not provided by Relativity or identified as a technical requirement in the Documentation, to the extent the IP Claim could have been avoided in the absence of such combination or operation.
+
+If the Software is, or Relativity believes the Software is likely to be, the subject of an IP Claim, Relativity may, at its option and expense: (i) obtain for Customer a license to continue using the Software; (ii) modify the Software, without materially affecting the functionality; (iii) obtain for Customer a license to use other software which is marketed to compete with the Software; or (iv) terminate the applicable Order and refund a pro-rated portion of any fees prepaid by Customer for access to and use of the relevant Software or any related Services, with the pro-rated period commencing on the date Customer discontinued use of the Software due to the IP Claim.
+
+This Section 8 contains the only liability and obligations of Relativity, and the only remedies of Customer, for IP Claims.
+
+8.4
+Indemnification Procedure
+
+If a party receives notice of a Claim for which it is indemnified, it will forward the notice to the other party within 15 days (provided that any failure to notify will relieve the indemnifying party of its indemnification obligations only to the extent that such failure actually prejudices its defense of the Claim). The indemnifying party will: (a) promptly assume sole control of the defense of the Claim and will employ counsel of its choice to handle and defend the Claim; and (b) not settle any Claim without the prior written consent of the indemnified party (which will not be unreasonably withheld, delayed or conditioned), unless such settlement is solely for money damages, includes an unconditional release of the indemnified party from all liability for claims that are the subject matter of the Claim, and does not impose any obligations upon, or prejudice the rights of, the indemnified party. The indemnified party will: (i) provide cooperation and assistance to the indemnifying party, at the indemnifying party’s expense; and (ii) not
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+settle or compromise the Claim or make any admission or substantive response relating to the Claim that materially prejudices the indemnifying party’s ability to defend the Claim, so long as the indemnifying party is defending or seeking to settle or compromise the Claim through qualified counsel. Subject to the foregoing, except in the case of an IP Claim, the indemnified party may participate in and observe the proceedings, at its own expense, with counsel of its own choosing.
+
+ 
+
+9.
+LIMITATION OF LIABILITY
+
+9.1
+EXCLUSION OF DAMAGES
+
+TO THE EXTENT PERMITTED BY LAW, AND EXCEPT AS SET FORTH IN SECTION 9.4, IN NO EVENT WILL EITHER PARTY BE LIABLE UNDER OR IN CONNECTION WITH THE AGREEMENT FOR ANY: (A) LOSS OF USE, BUSINESS, REVENUE OR PROFIT OR DIMINUTION IN VALUE; (B) IMPAIRMENT OF, INABILITY TO USE OR LOSS, INTERRUPTION OR DELAY OF THE SOFTWARE (OTHER THAN AS SET FORTH IN ANY SERVICE LEVEL TERMS), OR LOSS OR BREACH OF INFORMATION OR DATA; (C) COST OF REPLACEMENT GOODS OR SERVICES; (D) LOSS OF GOODWILL OR REPUTATION; OR (E) CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, ENHANCED OR PUNITIVE DAMAGES.
+
+9.2
+GENERAL CAP ON LIABILITY
+
+EXCEPT AS SET FORTH IN SECTION 9.3 AND SECTION 9.4, IN NO EVENT WILL THE AGGREGATE LIABILITY OF ONE PARTY TO THE OTHER PARTY ARISING IN EACH 12 MONTH PERIOD EXCEED THE TOTAL AMOUNT PAID OR PAYABLE TO RELATIVITY UNDER THE AGREEMENT FOR THAT 12 MONTH PERIOD.
+
+9.3
+SUPER CAP EVENTS
+
+SECTION 9.2 WILL NOT APPLY TO LIABILITY ARISING OUT OF OR RELATING TO EITHER PARTY’S BREACH OF THE DATA SECURITY TERMS RESULTING IN A DATA BREACH (AS DEFINED IN THE DATA SECURITY TERMS) (A “
+DATA BREACH CLAIM
+”). IN NO EVENT WILL THE AGGREGATE LIABILITY OF ONE PARTY TO THE OTHER PARTY ARISING IN EACH 12 MONTH PERIOD EXCEED THREE (3) TIMES THE TOTAL AMOUNT PAID PAYABLE TO RELATIVITY UNDER THE APPLICABLE ORDER FOR THAT 12 MONTH PERIOD WHERE SUCH LIABILITY ARISES OUT OF OR RELATES TO A DATA BREACH CLAIM. FOR CLARITY, A DATA BREACH CLAIM SHALL NOT BE TREATED AS A BREACH OF CONFIDENTIALITY (I.E., A DATA BREACH CLAIM IS NOT AN UNCAPPED CLAIM UNDER SECTION 9.4).
+
+9.4
+EXCLUSIONS
+
+SECTION 9.1 AND 9.2 WILL NOT APPLY TO LIABILITY ARISING OUT OF OR RELATING TO A PARTY’S BREACH OF SECTION 6 (CONFIDENTIAL INFORMATION), CUSTOMER’S BREACH OF SECTION 2.6 (RESTRICTIONS ON ACCESS TO AND USE OF THE SOFTWARE), A PARTY’S OBLIGATIONS UNDER SECTION 8 (INDEMNIFICATION), A PARTY’S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT, OR A PARTY’S VIOLATION OF THE OTHER PARTY’S INTELLECTUAL PROPERTY RIGHTS.
+
+9.5
+APPLICABILITY OF LIMITATIONS OF LIABILITY
+
+THE LIMITATIONS OF LIABILITY SET FORTH IN THIS SECTION 9 WILL APPLY, TO THE EXTENT PERMITTED BY LAW, (A) WHETHER THE APPLICABLE CLAIM ARISES UNDER BREACH OF CONTRACT, TORT, STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, (B) WHETHER THE CLAIMANT WAS ADVISED OF THE POSSIBILITY OF SUCH LOSSES, OR SUCH LOSSES WERE OTHERWISE FORESEEABLE, AND (C) EVEN IF EVERY OTHER REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+
+10.
+PUBLICITY
+
+Neither party will issue or release any announcement, statement, press release, or other publicity or marketing materials relating to the Agreement or, unless expressly permitted under the Agreement, otherwise use the other party's trademarks, service marks, trade names, logos, domain names, or other
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+indicia of association, in each case, without the prior written consent of the other party. Notwithstanding the foregoing, either party may use the name and logo of the other party in lists of other current clients or vendors and Customer may list on its controlled websites, in a professional and reasonable manner, the Relativity name, logo and trademark while this Agreement is in effect. Any permitted use of a party’s name and logo shall be in compliance with any written guidelines provided by the party regarding use of
+
+ 
+
+its name and logo, and each party agrees to remove the name and logo promptly after the other party’s written request which provides a reasonable basis for objecting to continued use.
+
+11.
+FEEDBACK
+
+Subject to the obligations set forth in the Agreement, including Section 6, Relativity may use any suggestions, ideas, enhancement requests, recommendations or other feedback relating to Relativity or to the Software (collectively, “
+Customer Feedback
+”) for purposes of modifying the Software, creating Derivative Works, or creating new products or services (collectively, the “
+Improvements
+”). Relativity will own exclusively all Improvements including those based upon or incorporating Customer Feedback, without any obligation to pay Customer any royalty or other compensation. Relativity’s use of Customer Feedback will be at Relativity’s sole risk without any representations, warranties or liability of Customer.
+
+12.
+GOVERNING LAW, JURISDICTION AND RELATED MATTERS
+
+12.1
+Governing Law and Jurisdiction
+
+The Agreement will be governed by and interpreted in accordance with the Laws of the State of New York USA, without regard to any choice of law or conflicts of laws provisions. All claims and disputes under the Agreement will be litigated, at the election of the party initiating litigation, exclusively in any jurisdiction where Relativity has a registered place of business. The parties irrevocably submit to the jurisdiction and venue of the federal and state courts located in such jurisdiction and agree that such courts are convenient forums. Under no circumstances will the “Uniform Computer Information Transactions Act,” the American Law Institute's "Principles of the Law of Software Contracts," as model laws or as adopted in any jurisdiction, or the United Nations Convention on Contracts for the International Sale of Goods, or similar acts, laws and conventions have any bearing on the interpretation or enforcement of the Agreement and the parties hereby elect to opt out of all such acts, laws and conventions.
+
+12.2
+Waiver of Jury Trial
+
+Each party irrevocably and unconditionally waives any right it may have to a trial by jury in any court action, proceeding or counterclaim by either party against the other party arising out of or relating to the Agreement.
+
+12.3
+Export Restrictions
+
+The Software is subject to U.S. export control laws (regardless of Customer’s domicile or location) and may be subject to export or import requirements in other countries. Without limiting any other Section of the Agreement relating to compliance with applicable Laws, each party will comply with, and take all action necessary to effect its compliance with, all applicable export, re-export, and import laws, including the U.S. Export Administration Regulations. Customer will not permit access to the Software or transfer, export or re-export of the Software, or the underlying information or technology, by or to any person or other party in violation of US legal restrictions, including any party who is a national or resident of, or located in, any country on the United States Department of Treasury's List of Specially Designated Nationals and Blocked Parties or the U.S. Department of Commerce's Table of Denial Orders, or similar lists identifying parties sanctioned by the U.S. government or any locally applicable denied party lists.
+
+13.
+NOTICES
+
+14
+
+ 
+
+ 
+
+ 
+
+Any notice, request, consent, or other communication under the Agreement intended to have a legal effect will have legal effect only if in writing and addressed to a party as follows (or to such other address or such other person that such party may designate from time to time in accordance with this Section 13):
+
+Customer: 
+KLDiscovery Ontrack, LLC
+
+Attn: Dawn Wilson, CFO, 9023 Columbine Road, Eden Prairie, MN 55347
+
+ 
+
+Attn: Andrew Southam
+
+Email: andew.southam@kldiscovery.com
+
+Relativity: 
+Relativity ODA LLC
+
+231 South LaSalle St., 8
+th
+ Floor Chicago, Illinois USA 60604 Attn: Legal Department Email: legal@relativity.com
+
+Notices sent in accordance with this Section 13 will be deemed effectively given: (a) if delivered by hand, with signed confirmation of receipt, when received; (b) if sent by a nationally recognized overnight courier, signature required, when received; or (c) if sent by email, in each case, at the time receipt thereof has been acknowledged by electronic confirmation or otherwise. Written notices which are not given pursuant to the requirements in this Section 13 shall be effective if and when specifically acknowledged by the other party in writing.
+
+14.
+FORCE MAJEURE
+
+If the performance of any part of the Agreement by a party is prevented, hindered or delayed by circumstances beyond such party's reasonable control, including acts of God, flood, fire, earthquake or explosion, war, terrorism, invasion, riot or other civil unrest, or general outage or shortage of adequate power or telecommunications services (a “
+Force Majeure Event
+”), the affected party will be excused from such performance and will not be liable or in breach of the Agreement, but only to the extent that and only for so long as the party’s performance is actually prevented, hindered or delayed by the Force Majeure Event. Either party may terminate the Agreement if the affected party is prevented from performing all or a substantial portion of its obligations under the Agreement due to a Force Majeure Event for a period of 30 consecutive days or more, by delivering notice to the other party at any time while the Force Majeure Event is continuing. If Customer terminates the Agreement pursuant to this Section 14, Relativity will promptly refund to Customer a pro-rated portion of any fees prepaid by Customer, with the pro-rated period commencing on the date the Force Majeure Event commenced.
+
+15.
+MISCELLANEOUS
+
+15.1
+Relationship of the Parties
+
+The relationship between the parties is that of independent contractors. Nothing in the Agreement will be construed as creating any agency, partnership, joint venture, or other form of joint enterprise, employment or fiduciary relationship between the parties, and neither party will have authority to contract for or bind the other party in any manner whatsoever.
+
+15.2
+Third Parties with Relativity Designations
+
+Relativity has various licensing and contractual relationships with independent third parties which may be referred to as “Relativity Developer Partners” or “Relativity Certified Partners,” and Relativity may periodically award various third parties or persons a “Best in Service” or other designation, including through Relativity’s certification program (each, a “
+Third Party with a Relativity Designation
+” or “
+TPRD
+”).
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+Third Parties with Relativity Designations are not Relativity Representatives, TPRDs have no authority to bind or act on behalf of Relativity, and Relativity will have no liability for any actions or omissions of TPRDs. No awards, communications or actions of Relativity or any TPRD, nor any statements referring to TPRD with the word “partner” on any website or in any other material or communication, should be interpreted to mean that there is any actual or implied partnership in any legal sense. Relativity’s award of any designation should not be interpreted as an endorsement or guarantee of any particular level, quality or timeliness of services.
+
+ 
+
+15.3
+Assignment
+
+Neither party may assign its rights or obligations under the Agreement without the prior written consent of the other party, which will not be unreasonably withheld, conditioned or delayed. Any Change in Control will be considered an assignment for purposes of this provision. “Change in Control” means any change resulting from a merger, consolidation or stock transfer, or similar change. Notwithstanding the foregoing, either party may assign the Agreement to an Affiliate or to any third party into which the assigning party is merged, consolidated or reorganized, or to which all or substantially all of the assigning party's assets are sold, upon written notice to the other party, so long as the transferee expressly assumes all obligations of the assigning party under the Agreement; provided, however, that, Customer may not assign this Agreement to any Competitor without Relativity’s prior written consent.
+
+“
+Competitor
+” means any person or entity that provides software for use in connection with eDiscovery, document review, case management, internal investigations or communications surveillance. The Agreement will be binding upon and inure to the benefit of the parties’ successors and permitted assigns.
+
+15.4
+Third Party Beneficiaries
+
+All reservations of proprietary rights and disclaimers and limitations of liability in the Agreement will inure to the benefit of Relativity’s in-bound software vendors. Otherwise, the parties hereby expressly disclaim any intention to create any third-party beneficiaries of the Agreement. For purposes of clarity, Authorized Users are not third-party beneficiaries of the Agreement.
+
+15.5
+Entire Agreement
+
+15.6
+These Master Terms, together with any Orders, constitute the entire agreement of the parties with respect to the subject matter of the Agreement and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, with respect to such subject matter; provided, however, the Server License shall continue to govern Customer’s license of the Server Product until the expiration or termination of such Server License. If Customer issues any purchase order, receipt or other documentation, such documentation will serve solely to address the administrative convenience of Customer and will not be binding on Relativity or serve to modify or supplement the Agreement or any part thereof, including any Order, even if signed or processed by Relativity. In the event of any inconsistency between these Master Terms, any Order and any exhibits or other documents attached thereto or incorporated therein by reference, the following order of precedence governs: (a) first, the body of the applicable Order; (b) second, to the extent expressly referenced therein, any attachments to or documents incorporated in the Order; and (c) third, these Master Terms.
+
+15.7
+Modification and Waiver
+
+The Agreement may only be modified in writing signed by an authorized Representative of each party. No waiver by any party of any provision in the Agreement will be effective unless explicitly set forth in writing and signed by an authorized Representative of the waiving party. Except as otherwise set forth in the Agreement, no failure to exercise, or delay in exercising, any right, remedy, power, or privilege arising from the Agreement, including any failure or delay in billing Customer for taxes or any other amounts that
+ 
+
+16
+
+ 
+
+ 
+
+ 
+
+Customer is required to pay, will operate or be construed as a waiver thereof; nor will any single or partial exercise of any right, remedy, power, or privilege hereunder preclude any other or further exercise thereof or the exercise of any other right, remedy, power, or privilege.
+
+15.8
+Severability
+
+If any provision of the Agreement is invalid, illegal or unenforceable in any jurisdiction, such invalidity, illegality or unenforceability will not affect any other provision of the Agreement or invalidate or render unenforceable such provision in any other jurisdiction. Upon any determination that any provision is
+
+ 
+
+invalid, illegal or unenforceable, then that provision will be reasonably reformed (by modifying, adding, or deleting text) to the minimum extent required to carry out the parties’ intent that the Agreement and all provisions be valid and enforceable to the fullest extent permitted by Law.
+
+15.9
+Interpretation
+
+Capitalized terms not defined in these Master Terms shall have the meanings set forth in the Orders or any exhibits or other documents attached thereto or incorporated therein by reference, as applicable. For purposes of the Agreement: (a) the words "include," "includes," and "including" are deemed to be followed by the words "without limitation"; (b) the word "or" is not exclusive; and (c) words denoting the singular have a comparable meaning when used in the plural, and vice-versa. The Agreement will be construed without any presumption against the party drafting the Agreement. Headings are for reference only and are not intended to affect interpretation of the Agreement. The Agreement is drafted in the English language; if translated, the English version of the Agreement will govern and control.
+
+15.10
+Counterparts and Electronic Execution
+
+These Master Terms and any Orders may be executed in counterparts, each of which is deemed an original, but all of which together are deemed to be one and the same agreement. Counterparts may be delivered via electronic mail or other transmission method, and any counterpart so delivered will be deemed to have been duly authorized, executed and delivered for all purposes.
+
+SIGNATURES
+
+The parties have caused these Master Terms and Conditions to be executed by their respective duly authorized officers or representatives as of the Effective Date.
+
+ 
+
+RELATIVITY ODA LLC
+
+KLDISCOVERY ONTRACK, LLC
+
+Signature: /s/ Sailesh Munagala
+
+Signature: /s/ Andrew Southam
+
+Name: Sailesh Munagala
+
+Name: Andrew Southam
+
+Title: CFO
+
+Title: General Counsel
+
+ 
+
+17
+
+September 8, 2022
+
+DPA-UK SCCs
+
+ 
+
+ 
+
+DATA PROCESSING AGREEMENT
+
+ 
+
+This Data Processing Agreement (“
+DPA
+”) is entered into effective as of May 1, 2023 (“
+Effective
+ 
+Date
+”) by and between 
+RELATIVITY ODA LLC
+, a Delaware limited liability company (“
+Relativity
+”), and 
+KLdiscovery Ontrack, LLC
+, a(n) Delaware limited liability company (“
+Customer
+”).
+
+ 
+
+Background
+
+ 
+
+Whereas, Relativity and Customer are parties to, or are concurrently entering into, one or more agreements (collectively, “
+Underlying Agreement
+”), pursuant to which Customer accesses and uses Relativity’s software-as-a-service products (collectively, “
+Cloud Product
+”), as deployed in one or more data centers located in various countries.
+
+ 
+
+Whereas, due to applicable legal and regulatory requirements, the parties mutually desire to supplement the Underlying Agreement with this DPA to set forth the parties’ respective obligations respecting the processing of personal data as contained in Client Data.
+
+ 
+
+NOW THEREFORE, in consideration of the foregoing recitals and the mutual terms and provisions herein, the parties hereby agree as follows:
+
+ 
+
+Agreement
+
+ 
+
+1.
+Definitions. 
+Capitalised terms used but not defined in this DPA will have the same meanings set forth in the Underlying Agreement. Lower case terms used but not defined in this DPA will have the same meaning as set forth in Applicable Data Protection Law. Without limiting the generality of the foregoing, the terms “personal data”, “processing”, “controller”, “processor”, “personal data breach” and “data subject” will have the same meaning as set forth in Article 4 of the GDPR, and for purposes of CCPA, the term “controller” includes “business”, “processor” includes “service provider”, “data subject” includes “consumer”, and “personal data” includes “personal information”. As used in this DPA, the term “sub- processor” excludes Relativity Affiliates and Relativity Contingent Workers, where “
+Relativity Affiliate
+” means an entity that directly or indirectly controls, is controlled by, or is under common control with Relativity, and where “
+Relativity Contingent Worker
+” means an individual who is engaged to perform Relativity’s obligations under the Underlying Agreement, either through a direct engagement with Relativity or through employment with a staffing firm, and who only accesses the Cloud Product through Relativity’s corporate systems. Relativity is responsible for the acts and omissions of Relativity Affiliates and Relativity Contingent Workers who process personal data pursuant to the Underlying Agreement as though they were the acts and omissions of Relativity.
+
+ 
+
+2.
+Applicable Data Protection Laws. 
+Personal data may be processed only in accordance with the laws and regulations governing the processing of such personal data (collectively, “
+Applicable Data
+ 
+Protection Laws
+”). Applicable Data Protection Laws may include, but are not limited to, the EU General Data Protection Regulation (Regulation (EU) 2016/679) (“
+GDPR
+”), the UK General Data Protection Regulation and the UK Data Protection Act 2018 (collectively “
+UK GDPR
+”), the Swiss Federal Act on Data Protection ("FADP") and the California Consumer Privacy Act of 2018, as amended (Cal. Civ. Code §§ 1798.100 to 1798.199) (“
+CCPA
+”). To the extent other Applicable Data Protection Laws apply that are similar to the GDPR, UK GDPR or CCPA, this DPA shall be interpreted in a reasonable manner to apply to such other jurisdictions and their Applicable Data Protection Laws. For clarity, each party is only responsible for complying with the provisions of Applicable Data Protection Laws to the extent applicable to each party in their respective roles under the Underlying Agreement and subject to this DPA. For example, Relativity is responsible for complying with the provisions of Applicable Data Protection Laws applicable to Relativity but not those provisions applicable to Customer.
+
+ 
+
+3.
+Scope; Interpretation; Roles of the Parties. 
+This DPA applies only to personal data contained in Client Data. All terms herein referring to “personal data” mean and include only that which is contained in the Client Data. Relativity and Customer agree that: (a) to the extent Customer views itself to be a controller of personal data: (i) Relativity serves as the processor and the data importer with regards to the processing and transfer of such personal data; and (ii) Customer serves as the controller and the data
+
+ 
+
+ 
+
+September 8, 2022
+
+DPA-UK SCCs
+
+ 
+
+ 
+
+exporter with regards to the processing and transfer of such personal data; and (b) to the extent Customer views itself to be a processor of personal data: (i) Relativity serves as the sub-processor and the data importer with regards to the processing and transfer of such personal data; and (ii) Customer serves as the processor and the data exporter with regards to the processing and transfer of such personal data. Relativity’s Privacy Policy governs Relativity’s obligations respecting personal data of which it is a controller.
+
+ 
+
+4.
+Processing SCCs. 
+The Standard Contractual Clauses under Commission Implementing Decision (EU) 2021/915 of 4 June 2021 set forth in 
+Addendum 1 
+to this DPA (“
+Processing SCCs
+”) apply to the processing of personal data in connection with the Underlying Agreement. Without limitation respecting other Applicable Data Protection Laws, the Processing SCCs attached hereto are intended to satisfy Article 28 of the GDPR and the FADP, which requires an agreement between (i) controller and processor; or (ii) processor and sub-processor, and the CCPA, which requires an agreement between a business and service provider.
+
+ 
+
+5.
+Transfer SCCs. 
+The Standard Contractual Clauses under Commission Implementing Decision (EU) 2021/914 of 4 June 2021 set forth in 
+Addendum 2 (Controller-to-Processor) 
+and 
+Addendum 3 (Processor-to-Processor) 
+to this DPA (collectively, “
+Transfer SCCs
+”) apply to transfers of personal data in connection with the Underlying Agreement to countries which do not ensure an adequate level of data protection within the meaning of Applicable Data Protection Laws. The Controller-to-Processor Transfer SCCs set forth in Addendum 2 only apply to personal data that Customer views itself to be a controller of, and the Processor-to-Processor Transfer SCCs set forth in Addendum 3 only apply to personal data that Customer views itself to be a processor of. Without limitation respecting other Applicable Data Protection Laws, the Transfer SCCs are intended to satisfy Article 46(2) of the GDPR and the FADP, which requires appropriate safeguards to be provided before personal data may be transferred to countries which do not ensure an adequate level of data protection.
+
+ 
+
+6.
+UK Transfer SCCs. 
+To the extent the UK GDPR applies to the processing of personal data in connection with the Underlying Agreement, the International Data Transfer Addendum to the EU Commission Standard Contractual Clauses, version B1.0, in force 21 March 2022 set forth in 
+Addendum 4 (UK Transfer SCCs) 
+to this DPA (“
+UK Transfer SCCs
+”) apply to transfers of personal data to countries which do not ensure an adequate level of data protection within the meaning of the UK GDPR. In such case, the UK Transfer SCCs apply to transfers of personal data that Customer views itself to be a controller of, as well as transfers of personal data that Customer views itself to be a processor of.
+
+ 
+
+6A. Swiss Annex. 
+To the extent the FADP applies, the Swiss Annex, as set out in Addendum 5 (Swiss Annex) shall apply.
+
+ 
+
+7.
+Supplemental Terms and Clarifications.
+
+ 
+
+a.
+Engagement of Sub-Processors
+. Pursuant to Clause 7.7 of the Processing SCCs, Clause 9 of the Transfer SCCs and Clause 11 of the UK Transfer SCCs, Customer hereby authorises Relativity’s engagement of the following sub-processors in connection with the Underlying Agreement: Microsoft Corporation, as the provider of Microsoft Azure, the cloud infrastructure in which the Cloud Product is hosted (“
+Authorised Sub-Processor
+”). Relativity will not engage any sub-processors other than the Authorised Sub-Processor without Customer’s general authorisation. Relativity will obtain such general authorisation in accordance with the procedure set forth in Clause 7.7 of the Processing SCCs and Clause 9 of the Transfer SCCs, provided that such 30-day notice period shall be increased to 90 days for any proposed changes in Relativity’s cloud infrastructure provider. Where the Processor-to-Processor Transfer SCCs apply, Relativity will provide notice to, and obtain general authorisation from, Customer, and Customer will have obtained the right to provide such authorisation on the controller’s behalf. Relativity may provide such notice via RSS feed or other industry-standard mechanism, provided Relativity first informs Customer of such mechanism directly in writing. If Customer objects in writing to a proposed sub-processor, Customer’s sole and exclusive remedy will be to terminate the affected product under the Underlying Agreement and receive a pro-rated refund of any prepaid fees for such product, with the pro-rated period commencing on the date the applicable sub-processor is engaged. General authorisation will be inferred by the lack of a written objection from Customer by the end of the 30-day notice period (or 90-day notice period for changes in the cloud infrastructure vendor).
+
+ 
+
+2
+
+September 8, 2022
+
+DPA-UK SCCs
+
+ 
+
+ 
+
+ 
+
+b.
+Transfer Instructions
+. Pursuant to Clause 7.8 of the Processing SCCs, Customer hereby authorises personal data transfers to take place from the country in which Customer’s selected data center(s) are located, to the following countries, solely for purposes of providing technical support in connection with the Underlying Agreement: (i) the United States; (ii) the United Kingdom; (iii) any country located within the European Economic Area; (iv) any country that has received an adequacy decision from the European Commission; and (v) if Customer licenses the Cloud Product in a data center with out-of- country back-up, the country in which the applicable paired back-up data center is located (collectively, “
+Authorised Countries
+”). Relativity will not transfer personal data to any country other than the Authorised Countries without Customer’s general authorisation. Relativity will obtain such general authorisation by notifying Customer in writing of the proposed recipient country at least 90 days in advance. Relativity may provide such notice via RSS feed or other industry standard mechanism, provided Relativity first informs Customer of such mechanism directly in writing. If Customer objects in writing to a proposed recipient country, Customer’s sole and exclusive remedy will be to terminate the affected product under the Underlying Agreement and receive a pro-rated refund of any prepaid fees for such product, with the pro- rated period commencing on the date the transfers to the recipient country (or potential for such transfers) commence. General authorisation will be inferred by the lack of a written objection from Customer within the 90-day notice period.
+
+ 
+
+c.
+Documentation and Compliance
+. Without limiting the obligations contained in Clause 7.6 of the Processing SCCs, Clause 8.9 of the Transfer SCCs and Clauses 5(f) and 12.2 of the UK Transfer SCCs, the parties agree that the following clarifications apply to such Clauses: (i) Relativity will not be required to provide Customer with information that (A) is already available for Customer to obtain and review independently through its use of the Cloud Product, (B) is related to ongoing or sensitive investigations, intellectual property or other customers, or (C) could be used to circumvent security controls or disclose confidential information of Relativity or relating to the Cloud Product that is not more probative than other information and/or necessary to determine Relativity’s compliance with Applicable Data Protection Laws; (ii) before requesting an audit, Customer shall use all reasonable and good faith efforts to first verify Relativity’s compliance with Applicable Data Protection Laws by reviewing information provided by Relativity, including third-party certifications, attestations, and audits; (iii) where Customer requests an audit: (1) the audit shall be subject to mutually agreed timing, duration and scope, with reasonable notice of at least 90 days (except where there are indications of non-compliance); (2) Customer shall reimburse Relativity for the time and resources required to contribute to the audit at Relativity’s professional services rates (except where there are indications of non-compliance); (3) Customer shall endeavor to conduct the audit remotely and verify Relativity’s compliance with Applicable Data Protection Laws through calls and screen sharing, and the audit shall under no circumstances include control access to the Cloud Product; and (4) Customer shall promptly notify Relativity if non-compliance is discovered during the course of the audit; (iv) Customer may not request an audit more than once annually (except where there are indications of non-compliance); and (v) all information provided by Relativity and all results obtained from audits are subject to the confidentiality terms in the Underlying Agreement, and Customer shall not engage any third- party auditor that is a competitor of Relativity and that has not entered into a confidentiality agreement directly with Relativity.
+
+ 
+
+d.
+Data Subject Rights, Assistance, Accuracy and Data Deletion
+. Without limiting the obligations contained in Clauses 8 and 10(d) of the Processing SCCs, Clauses 8.4, 8.5, 10 and 16(d) of the Transfer SCCs, and Clauses 5(d)(iii) and 12.1 of the UK Transfer SCCs, the parties agree that the following clarifications apply to such Clauses: (i) Relativity may, without prior authorisation from Customer, respond to a direct request from a data subject in circumstances where the scope of the request is unclear to seek to verify whether the request relates to Customer and Client Data; (ii) before requesting Relativity’s assistance in responding to requests from data subjects, Customer shall use all reasonable efforts to first action such request through its independent use and administration of the Cloud Product, and Customer shall reimburse Relativity for the time and resources required to assist with the request at Relativity’s professional services rates (except where assistance is required due to a defect in the Cloud Product); (iii) given the nature of the processing and purpose for which the Cloud Product is used, Relativity shall not be responsible for monitoring the accuracy and relevance of personal data; and (iv) deletion and return of personal data shall be the responsibility of Customer through its independent use and administration of the Cloud Product, and upon expiration or termination of the Underlying Agreement, Customer shall delete
+
+ 
+
+3
+
+September 8, 2022
+
+DPA-UK SCCs
+
+ 
+
+ 
+
+ 
+
+and/or export all Client Data from the Cloud Product in accordance with the terms in the Underlying Agreement.
+
+ 
+
+e.
+Personal Data Breach Notification
+. Relativity’s obligations relating to notification of personal data breaches in Clause 9 of the Processing SCCs, Clauses 8.6(c) and 8.4(d) of the Transfer SCCs and Clause 5(d)(ii) of the UK Transfer SCCs, shall be carried out in accordance with the breach notification procedures detailed in the data security terms incorporated into the Underlying Agreement. In any event, notification to Customer of a personal data breach shall be without undue delay.
+
+ 
+
+f.
+No Sale of Personal Data
+. If not already prohibited by other obligations in this DPA, Relativity will not Sell, retain, use or disclose personal data for any purposes other than specified in this DPA or the Underlying Agreement. “
+Sell
+” means selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, personal data to a third party for monetary or other valuable consideration.
+
+ 
+
+8.
+Governing Law. 
+Without prejudice to Clauses 17 and 18 of the Transfer SCCs and Clause 12 of the UK Transfer SCCs: (a) this DPA shall be governed by the laws of the country or territory stipulated for this purpose in the Underlying Agreement; and (b) the parties submit to the choice of jurisdiction set forth in the Underlying Agreement with respect to any disputes or claims arising under this DPA. Clauses 13, 17 and 18 of the Transfer SCCs do not apply if the processing of personal data in connection with the Underlying Agreement does not fall within the territorial scope of the GDPR.
+
+ 
+
+9.
+Shared Responsibility. 
+Customer shall ensure that it and any person who accesses the Cloud Product for or on behalf of Customer: (a) is legally authorised under Applicable Data Protection Laws to serve as the controller and/or processor (as applicable); and (b) that it has lawfully collected, processed and transferred all personal data according to Applicable Data Protection Laws.
+
+ 
+
+10.
+Miscellaneous. 
+All provisions of the Underlying Agreement remain in effect as supplemented by this DPA. In case of conflict or inconsistency between the Underlying Agreement, the body of this DPA, the Processing SCCs, the Transfer SCCs and the UK Transfer SCCs, the following order of precedence governs: (a) the Transfer SCCs and the UK Transfer SCCs; (b) the Processing SCCs; (c) the body of this DPA; then (d) the Underlying Agreement. Notwithstanding the foregoing, remedies under this DPA are limited to the remedies set forth in the Underlying Agreement. This DPA (which includes the Addendums, Appendices and Annexes attached hereto), together with the Underlying Agreement, constitutes the entire agreement between the parties and supersedes any other prior or contemporaneous agreements or terms and conditions, written or oral, concerning its subject matter. If any provision of this DPA is determined to be unenforceable by a court of competent jurisdiction, that provision will be severed, and the remainder of terms will remain in full effect. This DPA shall not be binding unless and until fully signed and delivered by both parties. The parties may sign and deliver this DPA electronically.
+
+ 
+
+IN WITNESS WHEREOF, the parties have caused this DPA to be executed by their respective duly authorised officers or representatives, as of the Effective Date.
+
+ 
+
+RELATIVITY ODA LLC
+
+KLDISCOVERY ONTRACK, LLC
+
+Signature: /s/ Sailesh Munagala
+
+Signature: /s/ Andrew Southam
+
+Name: Sailesh Munagala
+
+Name: Andrew Southam
+
+Title: CFO
+
+Title: General Counsel
+
+ 
+
+ 
+
+Additional Customer details for purposes of the Addendums attached to this DPA:
+
+ 
+
+Name: TBD
+
+ 
+
+4
+
+September 8, 2022
+
+DPA-UK SCCs
+
+ 
+
+Position: Data Protection Officer
+
+Customer’s DPO or privacy contact
+
+ 
+
+ 
+
+ 
+
+ 
+
+Email address: TBD@tbd.com
+
+Applicable competent supervisory authority for purposes of Clause 13 of the Transfer SCCs
+
+ 
+Republic of Ireland (where GDPR applies) and Switzerland (where the FADP applies)
+
+Applicable governing law for purposes of Clause 9 of the UK Transfer SCCs
+
+ 
+England and Wales
+
+ 
+
+ 
+
+ 
+
+5
+
+September 8, 2022
+
+DPA-UK SCCs
+
+ 
+
+ADDENDUM 1: PROCESSING SCCS
+
+ 
+
+Standard Contractual Clauses between Controllers and Processors under Article 28(7) of Regulation (EU) 2016/679 of the European Parliament and of the Council, pursuant to Commission Implementing Decision (EU) 2021/915 of 4 June 2021
+
+ 
+
+ 
+
+SECTION I
+
+ 
+
+Clause 1
+
+ 
+
+Purpose and scope
+
+ 
+
+(a)
+The purpose of these Standard Contractual Clauses (the Clauses) is to ensure compliance with Article 28(3) and (4) of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+
+ 
+
+(b)
+The controllers and processors listed in Annex I have agreed to these Clauses in order to ensure compliance with Article 28(3) and (4) of Regulation (EU) 2016/679 and/or Article 29(3) and (4) of Regulation (EU) 2018/1725.
+
+ 
+
+(c)
+These Clauses apply to the processing of personal data as specified in Annex II.
+
+ 
+
+(d)
+Annexes I to IV are an integral part of the Clauses.
+
+ 
+
+(e)
+These Clauses are without prejudice to obligations to which the controller is subject by virtue of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.
+
+ 
+
+(f)
+These Clauses do not by themselves ensure compliance with obligations related to international transfers in accordance with Chapter V of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.
+
+ 
+
+Clause 2
+
+ 
+
+Invariability of the Clauses
+
+ 
+
+(a)
+The Parties undertake not to modify the Clauses, except for adding information to the Annexes or updating information in them.
+
+ 
+
+(b)
+This does not prevent the Parties from including the standard contractual clauses laid down in these Clauses in a broader contract, or from adding other clauses or additional safeguards provided that they do not directly or indirectly contradict the Clauses or detract from the fundamental rights or freedoms of data subjects.
+
+ 
+
+Clause 3
+
+ 
+
+Interpretation
+
+ 
+
+(a)
+Where these Clauses use the terms defined in Regulation (EU) 2016/679 or Regulation (EU) 2018/1725 respectively, those terms shall have the same meaning as in that Regulation.
+
+ 
+
+(b)
+These Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679 or Regulation (EU) 2018/1725 respectively.
+
+ 
+
+ 
+
+(c)
+These Clauses shall not be interpreted in a way that runs counter to the rights and obligations provided 
+
+Addendum 1 – Processing SCCs – Page 
+6
+
+September 8, 2022
+
+DPA-UK SCCs
+
+ 
+
+for in Regulation (EU) 2016/679 / Regulation (EU) 2018/1725 or in a way that prejudices the fundamental rights or freedoms of the data subjects.
+
+ 
+
+Clause 4
+
+ 
+
+Hierarchy
+
+ 
+
+In the event of a contradiction between these Clauses and the provisions of related agreements between the Parties existing at the time when these Clauses are agreed or entered into thereafter, these Clauses shall prevail.
+
+ 
+
+Clause 5 - Optional
+
+ 
+
+Docking clause
+
+ 
+
+(a)
+Any entity that is not a Party to these Clauses may, with the agreement of all the Parties, accede to these Clauses at any time as a controller or a processor by completing the Annexes and signing Annex I.
+
+ 
+
+(b)
+Once the Annexes in (a) are completed and signed, the acceding entity shall be treated as a Party to these Clauses and have the rights and obligations of a controller or a processor, in accordance with its designation in Annex I.
+
+ 
+
+(c)
+The acceding entity shall have no rights or obligations resulting from these Clauses from the period prior to becoming a Party.
+
+ 
+
+SECTION II
+
+ 
+
+OBLIGATIONS OF THE PARTIES
+
+ 
+
+Clause 6
+
+ 
+
+Description of processing(s)
+
+ 
+
+The details of the processing operations, in particular the categories of personal data and the purposes of processing for which the personal data is processed on behalf of the controller, are specified in Annex II.
+
+ 
+
+Clause 7
+
+ 
+
+Obligations of the Parties
+
+ 
+
+7.1 Instructions
+
+ 
+
+(a)
+The processor shall process personal data only on documented instructions from the controller, unless required to do so by Union or Member State law to which the processor is subject. In this case, the processor shall inform the controller of that legal requirement before processing, unless the law prohibits this on important grounds of public interest. Subsequent instructions may also be given by the controller throughout the duration of the processing of personal data. These instructions shall always be documented.
+
+ 
+
+(b)
+The processor shall immediately inform the controller if, in the processor’s opinion, instructions given by the controller infringe Regulation (EU) 2016/679 / Regulation (EU) 2018/1725 or the applicable Union or Member State data protection provisions.
+
+ 
+
+7.2.
+Purpose limitation
+
+ 
+
+ 
+
+ 
+
+Addendum 1 – Processing SCCs – Page 
+7
+
+September 8, 2022
+
+DPA-UK SCCs
+
+ 
+
+The processor shall process the personal data only for the specific purpose(s) of the processing, as set out in Annex II, unless it receives further instructions from the controller.
+
+ 
+
+7.3.
+Duration of the processing of personal data
+
+ 
+
+Processing by the processor shall only take place for the duration specified in Annex II.
+
+ 
+
+7.4.
+Security of processing
+
+ 
+
+(a)
+The processor shall at least implement the technical and organisational measures specified in Annex III to ensure the security of the personal data. This includes protecting the data against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access to the data (personal data breach). In assessing the appropriate level of security, the Parties shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purposes of processing and the risks involved for the data subjects.
+
+ 
+
+(b)
+The processor shall grant access to the personal data undergoing processing to members of its personnel only to the extent strictly necessary for implementing, managing and monitoring of the contract. The processor shall ensure that persons authorised to process the personal data received have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+
+ 
+
+7.5.
+Sensitive data
+
+ 
+
+If the processing involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a person’s sex life or sexual orientation, or data relating to criminal convictions and offences (“sensitive data”), the processor shall apply specific restrictions and/or additional safeguards.
+
+ 
+
+7.6.
+Documentation and compliance
+
+ 
+
+(a)
+The Parties shall be able to demonstrate compliance with these Clauses.
+
+ 
+
+(b)
+The processor shall deal promptly and adequately with inquiries from the controller about the processing of data in accordance with these Clauses.
+
+ 
+
+(c)
+The processor shall make available to the controller all information necessary to demonstrate compliance with the obligations that are set out in these Clauses and stem directly from Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725. At the controller’s request, the processor shall also permit and contribute to audits of the processing activities covered by these Clauses, at reasonable intervals or if there are indications of non-compliance. In deciding on a review or an audit, the controller may take into account relevant certifications held by the processor.
+
+ 
+
+(d)
+The controller may choose to conduct the audit by itself or mandate an independent auditor. Audits may also include inspections at the premises or physical facilities of the processor and shall, where appropriate, be carried out with reasonable notice.
+
+ 
+
+(e)
+The Parties shall make the information referred to in this Clause, including the results of any audits, available to the competent supervisory authority/ies on request.
+
+ 
+
+7.7.
+Use of sub-processors
+
+ 
+
+(a)
+The processor has the controller’s general authorisation for the engagement of sub-processors from an agreed list. The processor shall specifically inform in writing the controller of any intended changes
