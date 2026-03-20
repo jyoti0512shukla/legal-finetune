@@ -1,0 +1,837 @@
+EX-10.10
+
+9
+
+psly_ex10z10.htm
+
+SOFTWARE LICENSE AGREEMENT DATED NOVEMBER 2, 2022, BY AND BETWEEN EHAVE, INC. AND MYCOTOPIA THERAPIES INC.
+
+SOFTWARE LICENSING AGREEMENT
+
+ 
+
+This 
+SOFTWARE LICENSING AGREEMENT
+ (“
+Agreement
+”) is made as of November 2, 2022  by and between 
+EHAVE, INC.
+ an Ontario corporation (“
+EHAVE
+”), and Mycotopia Therapies, Inc., a Nevada corporation (“
+LICENSEE
+”), effective as of the Effective Date (as defined below). EHAVE and LICENSEE may each be referred to herein as a “
+Party
+” or, collectively, as the “
+Parties
+.” 
+
+ 
+
+RECITALS
+
+ 
+
+A.
+EHAVE has developed the “EHAVE Software”
+ (as defined herein).    
+
+ 
+
+B.
+LICENSEE and its affiliates are engaged in the development of treatments for mental health issues.
+ 
+
+ 
+
+C.
+The Parties desire to enter into an agreement with respect to the licensing of the EHAVE Software, all pursuant to the terms and conditions set forth in this Agreement.
+ 
+
+ 
+
+IT IS MUTUALLY AGREED AS FOLLOWS:
+
+ 
+
+1.
+Definitions.
+ 
+
+The following terms shall have the following meanings as used in this Agreement:
+
+ 
+
+1.1.
+“Affiliate”
+ means an individual, trust, business trust, joint venture, partnership, corporation, association or other legal entity which (directly or indirectly) is controlled by, controls or is under common control with a Party.  For the purposes of this definition, the term “control” (including, with correlative meanings, the terms “controlled by” and “under common control with”) as used with respect to any Party, shall mean the possession (directly or indirectly) of at least fifty percent (50%) of the outstanding voting securities of a corporation or comparable equity interest in any other type of entity.     
+
+ 
+
+1.2.
+“Confidential Information” 
+means any and all information disclosed or made available by either party to the other, including orally conveyed information, in connection with this Agreement that is: (a) at the time of disclosure identified or marked as confidential or proprietary information; or (b) by its nature and the circumstances should be considered, or is reasonably obvious to be confidential information. Confidential Information does not include any information that the receiving party can demonstrate is: (a) rightfully known prior to disclosure; (b) rightfully obtained from a third party authorized to make such a disclosure, without breach of the terms and conditions of this Agreement or other binding confidentiality obligation; (c) independently developed by the receiving party; (d) 
+ 
+
+1 
+
+available to the public without restrictions; (e) approved for disclosure with the prior written approval of the disclosing party; or (f) disclosed by court order or as otherwise required by law, provided that the party required to disclose the information provides prompt advance notice to enable the other party to seek a protective order or otherwise prevent such disclosure.
+
+ 
+
+1.3.
+“Effective Date” 
+means that date upon which Mycotopia Therapies completes the proposed business combination with PSLY.com as set forth in The Agreement and Plan of Merger dated May 17, 2022.
+ 
+
+ 
+
+1.4.
+“EHAVE Software” 
+means the EHAVE software application known as “MetaHealth U” including any dashboard or backend software necessary to utilize and deploy the MetaHealth U application to End Users. 
+
+ 
+
+1.5.
+“EHAVE Trademarks”
+ means those trademarks of EHAVE to be used in connection with the Platform and Products as set forth on 
+Schedule 1.4
+ hereto (as may be amended and supplemented from time to time).   
+
+ 
+
+1.6.
+“End User”
+ means a person who utilizes the Ehave Software via an app downloaded to a mobile device or associated website that has registered as a user with Licensee.  
+
+ 
+
+1.7.
+“Intellectual Property Rights”
+ means all intellectual property rights worldwide arising under statutory or common law or by contract and whether or not perfected, now existing or hereafter filed, issued, or acquired, including all (a) rights associated with works of authorship, including without limitation copyrights and moral rights, (b) rights relating to the protection of trade secrets and confidential information, (c) patents, (d) trademarks, service marks, trade dress and trade names, and (e) any other proprietary rights relating to intangible property. 
+
+ 
+
+1.8.
+“Licensee Trademarks”
+ means the trademarks of LICENSEE to be used in connection with the distribution of the Platform and Products as set forth on 
+Schedule 1.7
+ hereto (as may be amended and supplemented from time to time).   
+
+ 
+
+1.9.
+“MetaHealth U Application”
+ means the software application accessed by an end user on a mobile device or through MetaHealth U application web interface. 
+
+ 
+
+1.10.
+“Non-Disclosure Agreement”
+ means that certain Non-Disclosure Agreement by and between EHAVE and LICENSEE dated as of <Date>.   
+
+ 
+
+1.11.
+“Person”
+ means an individual, trust, business trust, joint venture, partnership, corporation, association, or other legal entity. 
+
+2
+
+ 
+
+1.12.
+“
+Product
+” or 
+“Products”
+ means the software developed by LICENSEE, or by EHAVE pursuant to a Statement of Work, based on the EHAVE Software that will be used by the End Users. 
+
+ 
+
+1.13.
+“Professional Services”
+ means the professional services to be provided by EHAVE to LICENSEE and/or its Affiliates pursuant to this Agreement and, if applicable, a Statement of Work. 
+
+ 
+
+1.14.
+“Service Level Agreement” 
+or 
+“SLA” 
+means the service level agreement separately agreed upon by the parties.   
+
+ 
+
+1.15.
+“Service Default” 
+means the failure of EHAVE to provide support and hosting services as outlined in the SLA between the parties. 
+
+ 
+
+1.16.
+“Source Code”
+ means the Source Code for the Developed Software. 
+
+ 
+
+1.17.
+“Term”
+ means the term of this Agreement as provided under Section 9.1 below, including any Renewal Term of this Agreement. 
+
+ 
+
+1.18.
+“Third Party”
+ means any Person other than EHAVE, LICENSEE, or Affiliates of either. 
+
+ 
+
+2.
+EHAVE Duties
+.  
+
+2.1.
+Professional Services
+.  If engaged under a Statement of Work (sometimes referred to as “SOW”) signed by both parties, EHAVE will provide support to LICENSEE to assist in activities related to the support of the Product in accordance with such Statement of Work. 
+
+ 
+
+2.2.
+Availability to End Users
+.  EHAVE will enable LICENSEE to recommend, refer, and order End Users to access and use the Ehave Software. EHAVE will provide support, documentation, and training to LICENSEE staff as determined by LICENSEE to facilitate their ability to help End Users install and use the Ehave Software. 
+
+     
+
+     
+
+3.
+LICENSEE Duties
+.   
+
+3.1.
+Payment of Fees.  
+LICENSEE shall pay EHAVE fees for the Services listed in the Service Level Agreement agreed upon by the parties, and as consideration for the rights granted hereunder in accordance with the provisions of Section 6, below. 
+
+ 
+
+3.2.
+Compliance with Laws. 
+Licensee agrees to comply with all applicable requirements of international, federal, state and local laws, ordinances, administrative rules and regulations relating to Licensee’s use of the Ehave Software. 
+
+3
+
+ 
+
+ 
+
+4.
+Services and Deliverables.
+ 
+
+ 
+
+4.1.
+Statements of Work. 
+For each clinical trial for which Licensee intends to use the Ehave Software, the Licensee and Licensor shall development a Statement of Work to assure that the Ehave Software conforms to the requirements of such trial. The Statement of Work shall additionally include the timeframes for any development work to be performed by Licensor prior to the commencement of a clinical trial and the estimated number of participants in the clinical trial that would be End Users. 
+
+ 
+
+4.2.
+Service Level Agreement.
+ Licensor shall provide technical consultation and help desk services during the term of a clinical trial pursuant to a Service Level Agreement to be entered into for each clinical trial and consistent with the Statement of Work. 
+
+ 
+
+5.
+Payments and Accounting. 
+ 
+
+ 
+
+5.1.
+Fees
+. Licensor shall charge Licensee a fee of $100,000 per clinical trial. Should Licensee require development or services that Licensor reasonably believes are in outside the scope of development or services usually rendered then such additional fees shall be set forth in the Statement of Work or Service Level Agreement. 
+
+  
+
+5.2.
+Payments.
+ 
+
+ 
+
+5.2.1.
+Fees
+.  Any fees, to be paid by LICENSEE to EHAVE with respect to this Agreement, including those set forth in a Statement of Work or Service Level Agreement, shall be paid in accordance with the terms set forth in this Agreement, including any Exhibits, Schedules and Attachments described herein.  
+
+ 
+
+5.2.2.
+Payment Timing
+.  Unless otherwise provided in an SOW or SLA, any payments to be made by LICENSEE to EHAVE pursuant to this Agreement will be paid on a net thirty (30) day basis, from the date of LICENSEE’s receipt of an invoice from EHAVE. 
+
+ 
+
+6.
+Intellectual Property Rights. 
+ 
+
+ 
+
+6.1.
+Trademarks. 
+ 
+
+ 
+
+6.1.1.
+EHAVE Trademarks
+. 
+EHAVE hereby grants to LICENSEE a limited, non-exclusive, royalty-free, non-transferable license during the Term and the Wind-Down Period (as provided herein), to use the EHAVE Trademarks  
+
+4
+
+solely for the purpose of exercising LICENSEE’s rights and obligations under this Agreement.  LICENSEE shall submit to EHAVE within a reasonable time prior to publication for approval (which approval shall not be unreasonably withheld or delayed) any materials used by a LICENSEE using the trademarks of EHAVE.  If EHAVE does not give notice of its approval or objection within ten (10) days after receipt of any such materials, such materials shall be deemed approved.
+
+ 
+
+6.1.2.
+LICENSEE Trademarks
+.  Only to the extent set forth herein, LICENSEE hereby grants to EHAVE a limited, non-exclusive, royalty-free, non-transferable license during the Term and the Wind-Down Period (as provided herein) to use the LICENSEE Trademarks solely for the purpose of exercising EHAVE’s rights and obligations under this Agreement.  EHAVE may only use LICENSEE trademarks with the prior written consent of LICENSEE, and consistent with the LICENSEE’s established trademark guidelines, as they may be amended from time to time. 
+
+ 
+
+6.1.3.
+Approval
+.  LICENSEE shall not be required to submit for EHAVE’s approval any marketing or sales materials containing EHAVE’s trademarks which are produced and used in the ordinary course of LICENSEE’s exercise of its rights or fulfillment of its obligations under this Agreement.     
+
+ 
+
+6.1.4.
+Retention of Rights
+.  Nothing contained herein shall, nor shall be deemed to, transfer ownership of the EHAVE Trademarks or the LICENSEE Trademarks to the other Party.  If a Party, in the course of marketing or promoting the Products, acquires any goodwill in any of the trademarks of the other Party, all such goodwill shall automatically vest in the owner of such trademark, without any separate payment or other consideration of any kind.  Each Party shall take all actions reasonably necessary at the sole expense of the other Party to effect such vesting. 
+
+ 
+
+6.1.5.
+Validity
+.  Neither Party shall contest the validity of any of the other Party’s trademarks or such Party’s exclusive ownership of them on the basis of this Agreement.   
+
+ 
+
+6.2.
+EHAVE Intellectual Property
+.  As between the Parties, except as otherwise expressly provided in this Agreement or otherwise agreed by the Parties in writing, EHAVE will own and control all right, title and interest in and to the EHAVE Software.  
+
+ 
+
+6.3.
+LICENSEE Intellectual Property
+.  As between the Parties, except as otherwise expressly provided in this Agreement or otherwise agreed by the parties in writing, LICENSEE will own and control all right, title and interest in and to any LICENSEE-owned or licensed content, technologies (including software and source code)  
+
+5
+
+whether or not combined with the Platform to produce a Product, user interface designs created by LICENSEE or by EHAVE for LICENSEE, and any other content or technology created pursuant to a Statement of Work in which EHAVE agrees to allocate ownership to LICENSEE, as well as any other materials, products, services, or methods developed by LICENSEE (either alone or together with any Third Party) which are derivatives of or based on any of the foregoing, including all Intellectual Property Rights therein.
+
+     
+
+6.4.
+Reserved Rights.  
+Except as expressly set forth herein, each Party hereby reserves all Intellectual Property Rights to such Party’s products and services.  Any pre-existing Intellectual Property Rights of a Party used in connection with development of the Platform or Products pursuant to this Agreement shall remain the property of such Party. 
+
+ 
+
+7.
+Representations, Warranties, Limitations and Indemnification. 
+ 
+
+ 
+
+7.1.
+Mutual Representations and Warranties.
+  Each of the Parties hereby represents, warrants and covenants to the other Party as follows: 
+
+ 
+
+7.1.1.
+Corporate Power.
+  Such Party is duly organized and validly existing under the laws of its state of organization, and has full corporate power and authority to enter into this Agreement and to carry out the provisions hereof. 
+
+ 
+
+7.1.2.
+Binding Obligation.  
+This Agreement is a legal and valid obligation binding upon such Party and enforceable in accordance with its terms.  The execution, delivery and performance of the Agreement by such Party does not conflict with any agreement, instrument or understanding, oral or written, to which it is a Party or by which it is bound, nor violate any law or regulation of any court, governmental body or administrative or other agency having jurisdiction over it. 
+
+ 
+
+7.1.3.
+No Conflicting Grants.  
+Such Party has not granted, and during the Term of the Agreement shall not grant, any right to any Third Party relating to its respective Intellectual Property Rights that would conflict with the rights granted to the other Party hereunder. 
+
+ 
+
+7.1.4.
+Services Provided.
+  Such Party has not provided and will not provide any Professional Services hereunder, and has not used nor will use, any business method, system or invention in performing its obligations or exercising its rights hereunder, that violates or will violate the patent, trade secret or other proprietary or moral right of any Third Party. 
+
+6
+
+7.1.5.
+Compliance with Laws.
+  Such Party shall comply with all applicable laws, regulations and rules of any governmental or quasi-governmental body in performing its obligations and exercising its rights under this Agreement. 
+
+ 
+
+7.1.6.
+No Pending Litigation.
+  Each Party has disclosed in writing to the other all known actions, suits, written claims, investigations and proceedings (and the basis therefore) involving or affecting such Party which, if resolved adversely, could have a material adverse effect on such Party’s ability to perform under this Agreement. 
+
+ 
+
+7.1.7.
+No Material Misstatements or Omissions.
+  Neither Party has made any knowing misstatement, or failed to disclose any fact of which it has knowledge, which would be likely to have a material negative effect on such Party’s ability to perform its obligations under this Agreement. 
+
+ 
+
+7.1.8.
+Non-Infringement
+.  Such Party has and shall have all rights under intellectual property laws (including without limitation, trademark, copyright and patent laws) with respect to the components of the Platform and Products contributed by such Party (the “
+Respective Deliverables
+”) to permit the use of the Respective Deliverables by the Parties pursuant to this Agreement, and by LICENSEE Customers and End Users as contemplated by this Agreement, and such Party’s Respective Deliverables do not and will not infringe any valid copyright, trademark, patent or other proprietary right or moral right of any Third Party. 
+
+ 
+
+7.2.
+Limitation on Warranties.
+  EXCEPT AS EXPRESSLY MADE HEREIN, EACH PARTY DISCLAIMS ANY WARRANTY, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, NON-INFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE. 
+
+ 
+
+ 
+
+8.
+Term and Termination.
+ 
+
+8.1.
+Term.  
+The term of this Agreement shall commence on the Effective Date and continue until the date which is two (2) years from the Effective Date (the “
+Initial Term
+”), unless terminated sooner as set forth in this Section 8.  The term shall automatically renew for successive one (1) year periods after expiration of the then-current term (each, a “
+Renewal Term
+”) unless either Party gives at least ninety (90) days’ written notice of non-renewal prior to the expiration of the then-current term.  In this Agreement, the Initial Term, together with any Renewal Term(s), may be referred to as the “
+Term
+”.  
+
+ 
+
+8.2.
+LICENSEE Termination Right.  
+LICENSEE shall have the right to terminate this Agreement for convenience upon at least ninety (90) days’ prior written notice, effective as of one (1) year after the Effective Date.   
+
+7
+
+ 
+
+8.3.
+EHAVE Termination Right.
+  EHAVE shall have the right to terminate this Agreement on Ninety (90) days’ prior written notice to LICENSEE, effective as of one (1) year after the Effective Date. 
+
+ 
+
+8.4.
+Termination
+.   
+
+ 
+
+8.4.1.
+Termination for Breach. 
+If either Party materially breaches this Agreement at any time, or has not cured such breach within thirty (30) days after written notice thereof from the other Party, then the non-breaching Party shall have the right to terminate this Agreement effective upon written notice thereof to the other Party, whereupon the provisions of Section 8.5 below shall apply.   
+
+ 
+
+8.4.2.
+Default by Insolvency.
+ 
+
+ 
+
+(A)
+Any of the following events (a “
+Default by Insolvency
+”) with respect to either Party (the “
+Insolvent Party
+”) shall be considered an event of default by the Insolvent Party under this Agreement:  (i) a receiver is appointed for such Party or its property or such Party is declared insolvent or bankrupt by a court of competent jurisdiction; (ii) such Party makes a general assignment for the benefit of its creditors; (iii) such Party commences proceedings under any bankruptcy, insolvency or debtor’s relief law; (iv) such Party has commenced against it involuntary proceedings under any bankruptcy, insolvency or debtor’s relief law and such proceedings are not dismissed within sixty (60) days; or (v) such Party is liquidated or dissolved.  Upon the occurrence of any Default by Insolvency by an Insolvent Party, and if permitted by applicable law, the other Party may terminate this Agreement immediately upon written notice to the Insolvent Party. 
+
+ 
+
+8.4.3.
+Effect of Termination.
+  Upon the effectiveness of a termination of this Agreement pursuant to Section 8.4.2, (i) all licenses granted by the Party electing termination (the “
+Exercising Party
+”) to the Insolvent Party pursuant to this Agreement shall terminate and revert to the Exercising Party, (ii) if the Insolvent Party is LICENSEE, EHAVE shall immediately cease and desist from all further use of the Trademarks belonging to LICENSEE.  Notwithstanding the foregoing, the parties agree that the Software, Source Code, and licensed materials provided hereunder are intellectual property, defined in section 101 of title 11, United States Code (the “Bankruptcy Code”) and that this Software License Agreement is governed by section 365(n) of the Bankruptcy Code.  EHAVE acknowledges that if it, as a debtor in possession or a trustee in bankruptcy in a case under the Bankruptcy Code, rejects this Agreement, then  
+
+8
+
+LICENSEE may elect to retain its rights under this Agreement as provided in section 365(n) of the Bankruptcy Code.  EHAVE agrees and acknowledges that enforcement by LICNESEE of any rights under section 365(n) of the Bankruptcy Code in connection with this Software License Agreement will not violate any automatic stay of section 362 of the Bankruptcy Code and waives any right to object on that basis.  Upon rejection of this Agreement by EHAVE or the bankruptcy trustee in a bankruptcy case under the Bankruptcy Code and written request of Licensee to EHAVE or the bankruptcy trustee pursuant to section 365(n) of the Bankruptcy Code, EHAVE or such bankruptcy trustee shall (i) provide LICENSEE the Software, Source Code, and other intellectual property that may be required to be provided to LICENSEE pursuant to this Agreement or other agreements between the parties, and (ii) not interfere with the rights of LICENSEE provided in this Agreement or other agreements to the parties.
+ 
+
+8.4.4.
+Except as set forth herein, all grants of rights from EHAVE to LICENSEE under this Agreement will terminate upon expiration or termination of this Agreement. 
+
+ 
+
+8.4.5.
+In the event of expiration or termination of this Agreement for any reason, other than termination resulting from LICENSEE’s material breach of this Agreement, the licenses granted to LICENSEE under this Agreement will continue in effect and EHAVE will continue to fulfill all of its obligations hereunder for a period of up to ninety (90) days following the effective date of termination, if and to the extent requested by LICENSEE (the “
+Wind-Down Period
+”), to ensure an orderly transition of Products, content and data from the EHAVE Software  
+
+ 
+
+(i)
+During the Wind-Down Period, LICENSEE will continue to pay to EHAVE Fees in effect as of the date of expiration or termination of the Agreement; and (ii) an additional amount to be agreed between the Parties for maintenance and support services requested by LICENSEE and performed by EHAVE to LICENSEE’s reasonable satisfaction. 
+
+ 
+
+(ii)
+All grants of rights and other provisions necessary or desirable in connection with the exercise by each Party of its rights and obligations during the Wind-Down Period shall continue in effect, including without limitation the rights of each Party to use the other’s trademarks in accordance with the terms of this Agreement. 
+
+9
+
+8.4.6.
+Each Party’s obligation to pay any amounts that have accrued under this Agreement prior to any expiration or termination of this Agreement, each Party’s liability for any and all damages arising from any breach hereunder, and each Party’s indemnity obligations hereunder, shall survive such expiration or termination.   
+     The obligations and rights of the Parties under Article 1, Sections 6.2, 6.3, 6.4, 6.5, 6.6, Article 7, Section 8.5, Articles 9, 10, 11, 12, and 13, and any other provision which by its terms is intended to survive expiration or termination of this Agreement, shall survive any expiration or termination of this Agreement.  
+
+ 
+
+Dispute Resolution. 
+The Parties recognize that disputes as to certain matters may from time to time arise during the term of this Agreement that relate to either Party’s rights and/or obligations hereunder.  Prior to either party filing a lawsuit pertaining to any dispute, either Party may, by written notice to the other, have such dispute referred to their respective officers designated below or their successors, for attempted resolution by good faith negotiations within thirty (30) days after such notice is received.  Said designated officers are as follows:  for LICENSEE: Chief Financial Officer and for EHAVE: Chief Executive Officer.  
+
+10.
+Confidential Information
+.   
+
+10.1.
+"Confidential Information", shall mean the source code. Licensee acknowledges the confidential and proprietary nature of the Confidential Information and agrees that it shall not reveal or disclose any Confidential Information for any purpose to any other person, firm, corporation, or other entity, other than Licensee's employees with a need to know such Confidential Information to perform employment responsibilities consistent with Licensee's rights under this Agreement. Licensee shall safeguard and protect the Confidential Information from theft, piracy, or unauthorized access in a manner at least consistent with the protections Licensee uses to protect its own most confidential information. Licensee shall inform its employees of their obligations under this Agreement and shall take such steps as may be reasonable in the circumstances, or as may be reasonably requested by Licensor, to prevent any unauthorized disclosure, copying or use of the Confidential Information. Licensee acknowledges and agrees that in the event of the Licensee's breach of this Agreement, Licensor will suffer irreparable injuries not compensated by money damages and therefore shall not have an adequate remedy at law. 
+
+Accordingly, Licensor shall be entitled to a preliminary and final injunction without the necessity of posting any bond or undertaking in connection therewith to prevent any further breach of these confidentiality obligations or further unauthorized use of Confidential Information. This remedy is separate and apart from any other remedy Licensor may have.
+
+10
+
+ 
+
+10.2.
+ Unauthorized Disclosure. 
+Licensee shall notify Licensor immediately upon discovery of any prohibited use or disclosure of the Confidential Information, or any other breach of these confidentiality obligations by Licensee and shall fully cooperate with Licensor to help Licensor regain possession of the Confidential Information and prevent the further prohibited use or disclosure of the Confidential Information. 
+
+11.
+Assignments.  
+This Agreement may not be transferred, assigned, or encumbered in any way, by operation of law or otherwise, except with the prior written consent of the non-assigning party, said consent not to be unreasonably withheld. Notwithstanding the forgoing, this section shall not prohibit the parent of the Licensee, or any subsidiary of the Licensee or Licensee’s parent from utilizing the Ehave Technology consistent herewith.
+ 
+
+ 
+
+12.
+Miscellaneous.
+ 
+
+12.1.
+Entire Agreement.  
+This Agreement, the Exhibits and Schedules attached hereto and the SOWs contemplated hereby constitute the entire agreement between LICENSEE and EHAVE concerning its subject matter.  This Agreement cannot be cancelled, amended or modified nor may any of its provisions be waived, except in writing by the Party against whom such cancellation, amendment, modification or waiver is to be enforced. 
+
+ 
+
+12.2.
+Severability.  
+Whenever possible, each provision of this Agreement shall be interpreted in such a manner as to be effective and valid under applicable law, but if any provision of this Agreement should be found by a court of competent jurisdiction to be invalid, illegal or unenforceable for any reasons, such provision shall be modified or deleted in such a manner so as to make the Agreement as modified valid, legal and enforceable, and the balance of such provision and the balance of this Agreement shall not be affected thereby, it being the intent of the Parties that the basic purposes and economic terms of this Agreement are to be effected. 
+
+ 
+
+12.3.
+Waiver.  
+Except as specifically provided for herein, the waiver from time to time by either of the Parties of any of their rights or their failure to exercise any remedy shall not operate or be construed as a continuing waiver of same or of any other of such Party’s rights or remedies provided in this Agreement. 
+
+ 
+
+12.4.
+Ambiguities.  
+Ambiguities, if any, in this Agreement shall not be construed against any Party, irrespective of which Party may be deemed to have authored the ambiguous provision. 
+
+11
+
+ 
+
+12.5.
+Notices.  
+All notices given pursuant to any of the provisions of this Agreement shall be sent by certified or registered mail, return receipt requested, by email or by commercial next-business-day delivery service (except notices of termination to either Party, which may not be given by email).  All notices shall be addressed as listed below or shall be addressed to such other address, or to the attention of such other person, as the Party listed below shall have designated by fifteen (15) days' prior written notice: 
+
+ 
+
+If to EHAVE:
+
+ 
+
+REDACTED
+
+REDACTED
+
+REDACTED
+
+ 
+
+If to LICENSEE:
+
+ 
+
+REDACTED
+
+REDACTED
+
+REDACTED
+
+ 
+
+All notices shall be deemed given as follows: if sent by certified or registered mail, return receipt requested, on the fifth day after mailing; if given by facsimile, on the next business day after transmission with printed electronic confirmation of receipt; and if sent by commercial next-business-day delivery, on the second business day after sending.
+
+ 
+
+12.6.
+Captions.  
+The captions of the various sections and subsections of this Agreement have been inserted only for the purpose of convenience. Such captions are not a part of this Agreement and shall not be deemed, in any manner, to modify, explain, enlarge or restrict any of the provisions of this Agreement. 
+
+ 
+
+12.7.
+Counterparts.
+  This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.  Execution and delivery of this Agreement by exchange of facsimile copies, or pdf copies by electronic mail, bearing the signature of a Party hereto shall constitute a valid and binding execution and delivery of this Agreement by such Party.  Such facsimile or pdf copies shall constitute enforceable original documents. 
+
+12
+
+ 
+
+12.8.
+Further Assurances.  
+ 
+
+ 
+
+12.8.1.
+The Parties shall, during and after the Term and without undue delay or additional consideration, execute, deliver, and acknowledge such other documents and take such other action as may be reasonably requested by the other to more effectively consummate the purposes and subject matter of this Agreement. 
+
+ 
+
+12.8.2.
+Without limiting the generality of the foregoing:  (i) LICENSEE shall, during and after the Term and without undue delay or additional consideration, take all actions and execute and deliver all documents as EHAVE may reasonably request to confirm in EHAVE the ownership of EHAVE Intellectual Property and to enable EHAVE to obtain, secure, maintain, perfect, defend, enforce, and transfer EHAVE’s Intellectual Property Rights therein; and (ii) EHAVE shall, during and after the Term and without undue delay or additional consideration, take all actions and execute and deliver all documents as LICENSEE may reasonably request to confirm in LICENSEE the ownership of all LICENSEE Intellectual Property, and to enable LICENSEE to obtain, secure, maintain, perfect, defend, enforce, and transfer LICENSEE’s Intellectual Property Rights therein. 
+
+ 
+
+12.8.3.
+Nothing in this Agreement is intended, or shall be construed, to require either Party to take any action that would constitute a relinquishment or a transfer of any of its own Intellectual Property Rights to the other Party. 
+
+ 
+
+Signatures appear on next page
+
+13
+
+ 
+
+IN WITNESS WHEREOF, the Parties hereto have duly executed this Agreement.
+
+ 
+
+ 
+
+EHAVE, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Redacted
+
+ 
+
+Name:
+
+Redacted 
+
+ 
+
+Title:
+
+Redacted
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MYCOTOPIA THERAPIES, INC. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Redacted
+
+ 
+
+Name:
+
+Redacted 
+
+ 
+
+Title:
+
+Redacted
+
+14
+
+ 
+
+EXHIBIT AND SCHEDULE LIST:
+
+ 
+
+SCHEDULE 1.4 – EHAVE TRADEMARKS
+
+SCHEDULE 1.7 – LICENSEE TRADEMARKS
+
+15
+
+ 
+
+SCHEDULE 1.4
+
+TO SOFTWARE LICENSING AND DEVELOPMENT AGREEMENT
+
+_______________________________________________________
+
+ 
+
+EHAVE TRADEMARKS
+
+ 
+
+ 
+
+ 
+
+1.  MetaHealthU
+
+16
+
+ 
+
+SCHEDULE 1.8
+
+TO SOFTWARE LICENSING AND DEVELOPMENT AGREEMENT
+
+_______________________________________________________
+
+ 
+
+LICENSEE TRADEMARKS
+
+ 
+
+Mycotopia
+ Trademarks
+
+ 
+
+Word Mark 
+
+ 
+
+MYCOTOPIA
+ THERAPIES
+
+ 
+
+ 
+
+ 
+
+Goods and Services
+
+ 
+
+IC 005. US 005 006 018 044 046 051 052. G & S: Diagnostic agents, preparations and substances for medical purposes; Medical preparations for the treatment of PTSD, addiction, depression and mental disorders; Pharmaceutical preparations for the treatment of PTSD, addiction, depression and mental disorders
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IC 041. US 100 101 107. G & S: Education services, namely, providing workshops, conferences, classes, trainings and seminars in the field of health, wellness, food and nutrition; Educational services, namely, conducting classes, workshops, field trips and retreats in the field of health, wellness, food and nutrition; Providing on-line training courses, workshops, and seminars in the field of health, wellness, food and nutrition; Providing online non-downloadable electronic publications in the nature of e-books in the field of health, wellness, food and nutrition
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IC 042. US 100 101. G & S: Development of pharmaceutical preparations and medicines; Laboratory research services relating to pharmaceuticals; Pharmaceutical drug development services; Pharmaceutical product evaluation; Pharmaceutical products development; Pharmaceutical research services; Pharmaceutical research and development; Providing medical and scientific research information in the field of clinical trials
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+IC 044. US 100 101. G & S: Consulting services in the field of medical care
+
+17

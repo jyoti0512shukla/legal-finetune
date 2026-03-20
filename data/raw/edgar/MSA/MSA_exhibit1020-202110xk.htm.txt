@@ -1,0 +1,1386 @@
+EX-10.20
+
+6
+
+exhibit1020-202110xk.htm
+
+EX-10.20
+
+Document
+Exhibit 10.20 
+CERTAIN CONFIDENTIAL INFORMATION, MARKED BY [***], HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE (I) IT IS NOT MATERIAL AND (II) THE REGISTRANT CUSTOMARILY AND ACTUALLY TREATS THE INFORMATION AS PRIVATE AND CONFIDENTIAL. 
+MASTER SERVICES AGREEMENT 
+THIS MASTER SERVICES AGREEMENT (the “
+Agreement
+”) is entered into between Square, Inc., a Delaware corporation, whose principal address is 1455 Market Street Suite 600, San Francisco, CA 94103 (“
+Client
+”), and Marqeta, Inc., a Delaware corporation, whose principal address is 6201-B Doyle Street, Emeryville, CA 94608 (“
+Marqeta,
+” and together with Client, each a “
+Party
+” and together the “
+Parties
+”). 
+Background 
+A. Marqeta is in the business of providing Processing Services and Program Management Services, each as further described herein; and 
+B. Client wishes to engage Marqeta to provide such Services on the terms and conditions set forth in this Agreement. 
+NOW, THEREFORE, for good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the Parties agree as follows: 
+1. 
+Agreement
+. This Agreement consists of this cover page and the following: 
+a.
+Schedule A
+ - Program Terms 
+b.
+Schedule B
+ - General Terms and Conditions 
+c.
+Schedule C
+ - Definitions 
+d.
+Schedule D
+ - Fees 
+e.
+Schedule E
+ - Performance Standards 
+2. 
+Order of Preference. 
+In the event of any conflict between this Agreement and any schedule hereto (each, a “
+Schedule
+”), the applicable Schedule shall control. 
+IN WITNESS WHEREOF
+, the Parties hereto have executed this Agreement as of the last date signed below (the “Effective Date’): 
+SQUARE, INC.
+MARQETA, INC.
+BY:
+/s/ Brian Grassadonia
+BY:
+/s/ Omri Dahan
+NAME:
+Brian Grassadonia
+NAME:
+Omri Dahan
+TITLE:
+Square Cash Lead
+TITLE:
+Chief Revenue Officer
+DATE:
+4/19/2016
+DATE:
+4/18/2016
+SCHEDULE A
+PROGRAM TERMS 
+1.
+MARQETA’S SCOPE OF WORK.
+a.
+Provision of Services
+. Commencing on the Effective Date, Marqeta agrees to provide the following Services:
+ 
+i.
+The Implementation Services and Processing Services, each consistent with and as identified in the Implementation Plan or as otherwise agreed to by the Parties in writing or via e-mail, and Program Management Services; and
+ 
+ii.
+Any services, functions and responsibilities of Marqeta that are otherwise agreed upon in writing by Client and Marqeta from time to time as being subject to this Agreement (“
+New Additional Service
+”).
+ 
+b.
+Instructions and Client Provided Information. 
+In performing its obligations and responsibilities under this Agreement, Marqeta shall be entitled to rely upon, without additional inquiry, Client Data, Transaction Data and Instructions, as provided by Client to Marqeta,; provided, however, that to the extent that Marqeta in good faith reasonably believes that any Instruction is contrary to the provisions of this Agreement, Applicable Law, Card Brand Rules, or requirements of the Issuing Bank, Marqeta shall promptly provide notice to Client setting forth in reasonable detail the reason for its belief, after which point the Parties agree to work together in good faith to resolve any issues resulting from such Instruction. 
+c.
+Custom Modifications
+. In the event that Client requests modifications to the Services, including modifications that are different from or in addition to the Services (the “
+Custom Enhancements
+”), and if Marqeta agrees to make such Custom Enhancements, then the Parties shall enter into a mutually-agreed-upon and separately-written statement of work (“SOW”) covering the provision of such Custom Enhancements, the allocation of ownership of such Custom Enhancements (or components of Custom Enhancements), and, if applicable, the amount of any new Fee payable to Marqeta for any new Service resulting from such Custom Enhancements. Any new Service resulting from Custom Enhancements shall a New Additional Service. 
+d.
+Documentation
+. Marqeta shall provide Client with Documentation associated with the Services through the Developer Site or otherwise, which may include policies and procedures regarding the Services. The Documentation may be modified from time to time by Marqeta, provided Marqeta shall give Client [***] to implement any material change made to the Documentation that would materially and adversely impact Client’s ability to receive Services or ability to perform Client’s obligations under this Agreement. The Documentation, any derivatives of the Documentation and any and all copies thereof, shall be and remain the property of Marqeta and shall be deemed Marqeta Confidential Information. 
+2.
+IMPLEMENTATION PLAN
+. The Parties shall plan, prepare for and implement an implementation plan for the Accounts for which Marqeta will provide Services in accordance with a written plan mutually agreed upon by the Parties (the “
+Implementation Plan
+”), which shall include: (i) a schedule for implementing the Services; (ii) a description of the respective roles and responsibilities of Client and Marqeta, including any required resources; (iii) a plan for testing the Services prior to implementation; (iv) a plan for providing appropriate BSA/AML and/or fraud mitigation training to Client; and (v) such other information and plans designed to cause the launch of the Services to take place on schedule (Marqeta’s responsibilities under foregoing are defined as the “
+Implementation Services
+”). Each Implementation Plan may be revised from time to time by mutual agreement of the Parties, which agreement shall not be unreasonably withheld.
+ 
+3.
+TERM, TERMINATION, SURVIVAL AND TRANSITION
+. 
+a.
+Term
+. The initial term of this Agreement shall begin on the Effective Date and shall expire at 11:59 p.m. (Pacific Time) on the last day of Servicing Year Two (2), unless terminated earlier in accordance with this Agreement (the “
+Initial Term
+”). The Initial Term shall automatically renew for an unlimited number of one 
+2 
+(1) year renewal terms (each, a “
+Renewal Term
+”) unless one Party provides the other with written notice of its intent to terminate not less than one hundred eighty (180) days prior to the end of the then-current Initial Term or Renewal Term. The Initial Term and any subsequent Renewal Term shall comprise the “Term” of this Agreement. Notwithstanding any provision herein to the contrary, this Agreement shall continue on the same commercial terms and conditions until the completion of the Transition. 
+b.
+Termination for Cause
+. A Party may, by giving written prior notice to the other Party, elect to terminate this Agreement in the event that the other Party: 
+i.
+commits a material breach of this Agreement, which breach is not cured within thirty (30) days after notice specifying the nature and extent of such breach; provided, however, that if such matter is a non-monetary breach and is not reasonably susceptible of cure within such thirty (30) day period, such period shall be extended and the Party shall not be in default hereunder so long as it commences such cure within such thirty (30) day period and diligently pursues such cure to completion within ninety (90) days after such notice; or 
+ii.
+commits numerous breaches of its duties or obligations which collectively constitute a material breach of this Agreement; or 
+iii.
+has a petition filed by or against it under applicable bankruptcy law seeking the liquidation of such Party’s assets which petition is not dismissed within thirty (30) days. 
+iv.
+Either Party may terminate this Agreement upon ninety (90) days’ notice to the other Party in the event of a regulatory change (including Issuing Bank requirements), or such shorter notice to avoid violating Applicable Law or such change, that has or is likely to have a material adverse impact on the anticipated economic benefits of this Agreement for such Party. 
+v.
+Notwithstanding any other provision herein to the contrary, the Parties acknowledge and agree that Client’s failure to pay undisputed charges when such payments are due shall constitute a material breach of this Agreement, and when such failure to pay continues uncured for five (5) business days following the written notice required by Section 3(b)(i)(1) of these Program Terms, then Marqeta may, without waiving its right to payment, cease performing the Services until the dispute regarding Client’s failure to pay is resolved. 
+vi.
+Any notice of termination by Client shall include a proposed date for initiation of Transition, if any. 
+c.
+Termination Upon Force Majeure
+. Client may terminate this Agreement in compliance with the terms of Section 16 (b)(iii) of the General Terms and Conditions. 
+d.
+[***]. 
+e.
+Termination Due to Issuing Bank. 
+Marqeta may terminate this Agreement upon 180 days’ written notice (or such shorter time, as applicable) if required to do so by Issuing Bank or any regulator with jurisdiction over Issuing Bank or Marqeta. 
+f.
+Termination for Convenience
+. 
+a. Client shall have the right to terminate this Agreement for any reason or no reason within the first two (2) calendar weeks after the Effective Date (the “Early Termination Date”) by giving notice to Marqeta; provided, however, that if Client exercises the foregoing right of termination Client (i) shall pay Marqeta the [***] detailed in Schedule D in accordance with Section 8(a)(i) of Schedule B, and (ii) shall not be subject to any [***]. 
+b. After the Early Termination Date, Client shall have the right to terminate this Agreement for any reason or no reason at any time after the Go-Live Date, by giving not less than ninety (90) days’ prior written notice to Marqeta; provided, however, that if Client exercises the foregoing right of termination, Client shall pay Marqeta an amount equal to [***]. 
+3 
+g.
+Post Termination
+. Upon termination or expiration of this Agreement for any reason, Client shall only be responsible for the payment of Fees for Services provided by Marqeta and accrued, due and payable by Client up to and including the later of the date of such expiration or termination or the completion of the Transition of all Client Accounts. Within 30 days after the effective date of termination of this Agreement, Marqeta will return, by ACH or wire transfer (as directed by Client), to the Client Bank Account all of Client’s funds held in the Custodial Account that have not been loaded onto Cards and remaining balances on Cards (as adjusted for settlement on, disputes and chargebacks on Cards occurring on and after the end of the Term). 
+h.
+Survival
+. Provisions contained in this Agreement that expressly or by their sense and context are intended to survive the expiration or termination of the Agreement shall so survive such expiration or termination, it being the intent that a claim or right which accrued to a Party prior to such expiration or termination shall not be prejudiced.
+ 
+4.
+Notices
+. Any notices required to be delivered by one Party to another under or in connection with this Agreement (other than routine operational communications or the immediate notice of delayed performance required under Section 16 (b) of the General Terms and Conditions), shall be in writing and shall be deemed sufficiently given when received, if delivered personally or by an express courier with a reliable system for tracking delivery, or if sent by United States certified mail, return receipt requested, at the addresses indicated below: 
+If to Client:
+If to Marqeta:
+Ayo Omojola 
+Square, Inc. 
+1455 Market St. 
+Suite 600 
+San Francisco, CA 94103
+Omri Dahan 
+Chief Revenue Officer 
+Marqeta, Inc. 
+6201-B Doyle Street 
+Emeryville, CA 94608
+With a copy to
+General Counsel 
+Square, Inc. 
+1455 Market St. 
+Suite 600 
+San Francisco, CA 94103 
+[***]
+With a copy to:
+Gizelle Barany 
+General Counsel 
+Marqeta, Inc. 
+6201-B Doyle Street 
+Emeryville, CA 94608
+A Party may from time to time change its address or designee for notification purposes by giving the other Party prior written notice of the new address or designee and the date upon which it will become effective. 
+4 
+SCHEDULE B
+GENERAL TERMS AND CONDITIONS 
+1.
+MARQETA PERFORMANCE STANDARDS AND COMPLIANCE. General
+. Performance standards for the provision of certain components of the Services (the “
+Performance Standards
+”) are set forth in 
+Schedule E
+. 
+a.
+Failure to Meet Performance Standards
+. If Marqeta fails to meet a Performance Standard, Marqeta shall (i) investigate and report to Client on the root cause(s) of such failure; (ii) advise Client of the status of remedial efforts being undertaken with respect to such failure; (iii) notify Client of the steps which Marqeta believes should be taken to correct the cause of such failure; and (iv) correct the cause of such failure. The failure of Marqeta to meet a Performance Standard shall not constitute a breach of the Agreement unless such failure constitutes a Severity [***] failure and such failure (a) is result of a breach of the Standard of Care; or (b) occurs in [***]; or (c) such failure constitutes a Severity 0 or [***] and aggregates to more than [***].
+ 
+b.
+Marqeta Compliance
+. Marqeta is solely responsible for compliance with all Applicable Law, which is applicable to Marqeta’s performance of the Services under this Agreement (the “
+Marqeta Legal Requirements
+”). Marqeta is solely responsible for compliance with the Card Brand Rules, which are applicable to Marqeta’s performance of the Services under this Agreement.
+ 
+c.
+Marqeta Cooperation. 
+Marqeta shall cooperate on a timely basis with Client as reasonably necessary to enable Client to fulfill its obligations and responsibilities under this Agreement. If Marqeta does not so cooperate on a timely basis and the same results in Client’s inability in performing its obligations under this Agreement, Client shall not be liable for non-performance of its obligations to such extent. In performing its obligations and responsibilities under this Agreement, Client shall be entitled to rely on information provided by Marqeta to Client.
+ 
+d.
+Marqeta Personnel. 
+Marqeta shall be responsible for the acts or omissions and for the services and functions performed by Marqeta or Marqeta Personnel on behalf of Marqeta.
+ 
+e.
+Security Procedures
+. Marqeta shall (i) implement appropriate security procedures designed to (A) prevent unauthorized access to the Client System through computer hardware and software systems which are owned or controlled by Marqeta, and (B) prevent unauthorized access to or use of the Client System by Marqeta’s current and former Personnel; and (ii) no later than [***] following Client’s written or e-mail request, Marqeta will, at its option, either (a) permit Client to perform vulnerability scans in a manner consistent with industry best practices of Marqeta’s systems at a mutually agreed upon time; or (b) provide Client documentation of results of scans performed by a PCI Approved Scanning Vendor (ASV). 
+f.
+Marqeta Performance Dependencies
+. Notwithstanding anything to the contrary in this Agreement, Marqeta [***]. For the avoidance of doubt, in the event of the forgoing, Marqeta will be [***]. 
+g.
+Intellectual Property
+. Client shall not, willfully and knowingly, violate any Intellectual Property Rights of any third party, including patent, Trade Secrets, copyright and any other Intellectual Property Rights in connection with its provision of the Services. 
+2.
+CLIENT RESPONSIBILITIES
+.
+ 
+a.
+Client Obligations. 
+Client shall provide on a timely basis (i) the material as reasonably required by Marqeta to perform the Services; d (ii) the material and services described as the Client responsibilities in the Implementation Plan and these General Terms and Conditions; and (iii) cooperate with Marqeta and agrees to perform activities and follow instructions reasonably required by Marqeta to enable Marqeta to fulfill its obligations and responsibilities under this Agreement and to enable the Card Program to comply with Applicable Law. Client’s obligations shall be provided using sound, professional practices and in a competent and professional manner by knowledgeable, trained and qualified personnel. 
+5 
+b.
+Client Performance Dependencies
+. Notwithstanding anything to the contrary in this Agreement, Client will not be in breach of this Agreement or otherwise liable for non-performance of its obligations to the extent that its failure to perform an obligation under this Agreement is a result of (i) a breach by Marqeta of its obligations under the Agreement, including the Marqeta Responsibilities; or (ii) Marqeta’s failure to cooperate and perform activities reasonably required by Client on a timely basis. 
+c.
+Review of Reports. 
+Client agrees to periodically check reports produced by Marqeta to determine if such information is correct, and will promptly report any errors discovered to Marqeta. The efforts Marqeta takes to remedy any error shall be undertaken at no cost to Client, where such error results from the sole negligence of Marqeta or the failure of Marqeta to otherwise comply with the terms of this Agreement. [***]. Where the error results from no negligence of either Party, or from the negligence of both Parties, the Parties shall negotiate in good faith to equitably apportion the responsibility for the costs associated to remedy such error in accordance with the terms of this Agreement.
+ 
+d.
+Security Procedures. 
+Client shall (i) implement appropriate security procedures designed to prevent unauthorized access to or use of the Marqeta System (A) through computer hardware and software systems which are owned or controlled by Client, and (B) by Client’s current and former Personnel; and (ii) no later than [***] following Marqeta’s written or e-mail request, Client will, at its option, either (A) permit Marqeta to perform vulnerability scans in a manner consistent with industry best practices of Client’s systems at a mutually agreed upon time; or (B) provide Marqeta documentation of results of scans performed by a PCI Approved Scanning Vendor (ASV). 
+e.
+Client Personnel. 
+Client shall be responsible for the acts or omissions and for the services and functions performed by Client or Client Personnel. 
+f.
+Intellectual Property. 
+Client shall not, willfully and knowingly, violate any Intellectual Property Rights of any third party, including patent, Trade Secrets, copyright and any other Intellectual Property Rights in connection with its receipt of the Services. Client shall not alter, obscure or revise any proprietary, restrictive, trademark or copyright notice included with, affixed to, or displayed in, on or by a Service or the Marqeta System. 
+g.
+Financial Condition Review and Due Diligence Cooperation. 
+Client acknowledges and agrees that Issuing Bank’s initial and continued approval of the Card Program and Marqeta’s willingness to provide the Services and make the Program available to Client is dependent on [***]. Client agrees to timely provide Marqeta with Client’s [***]. All information provided by Client under this Section 2(g) shall be accurate and complete. Marqeta’s and Issuing Bank’s review [***]. Marqeta or Issuing Bank will establish, and periodically review, [***]. 
+h.
+Third-Party Systems
+. To the extent Client performs any services itself or retains third parties to do so, Client shall be solely responsible for obtaining from owners of third party systems, and paying for, any licenses or agreements that are necessary in order for the Marqeta System to interface with such third party system. 
+i.
+Client Dispute Resolution Obligations. [***]. 
+j.
+Additional Due Diligence Acknowledgments
+. Client acknowledges and agrees that, to the extent reasonably required by Issuing Bank as part of its due diligence and risk compliance requirements, Marqeta may [***].
+ 
+3.
+CLIENT COMPLIANCE WITH LAWS AND REGULATIONS
+.
+ 
+a.
+Client Legal Requirements. 
+Client is solely responsible for compliance with all Applicable Law applicable to the operation of its business and its responsibilities under this Agreement, including the Gramm-Leach-Bliley Act, the Electronic Fund Transfer Act, and all their associated rules and regulations, all Card Brand Rules, and the National Automated Clearing House Association (NACHA), and all requirements, policies and guidelines of the Issuing Bank (collectively, the “
+Client Legal Requirements
+”). 
+6
+b.
+Losses. 
+As between Client and Marqeta, [***].
+ 
+4.
+ISSUING BANK.
+ The Parties acknowledge and agree that, notwithstanding anything to the contrary in this Agreement, during the Term [***].
+ 
+5.
+LICENSES AND OWNERSHIP
+.
+ 
+a.
+Client Materials
+. 
+i.
+Grant of License
+. Client hereby grants to Marqeta and its Affiliates for the Term of this Agreement [***] solely in connection with Marqeta’s performance of the Services. 
+ii.
+Authority of Use
+. Client hereby authorizes Marqeta and its Affiliates [***], in and to the Client Materials. 
+iii.
+Approval Procedures
+. Marqeta will submit to Client, for its prior written approval, samples of each of the proposed uses of Client Materials. Client shall attach its written approval to the pieces that are submitted. Client shall promptly render its approval or reasonable objection within [***] of receipt of materials; [***]. 
+b.
+Marqeta Materials
+.
+ 
+i.
+Grant of License
+. Marqeta hereby grants to Client for the Term of this Agreement a royalty-free, nonexclusive, non-transferable, and non-sublicenseable right and license to use Marqeta Materials solely in connection with the Card Program and Client’s use of the Services. 
+ii.
+Authority of Use
+. Marqeta hereby authorizes Client to use, reproduce, and distribute, the Marqeta Materials in connection with its use of the Services. Client agrees that all marketing and promotional materials utilizing the Marqeta Materials it creates or distributes in connection with the Card Program or on Marqeta’s behalf require the prior written approval of Marqeta, pursuant to Section 5(b)(iii) of these General Terms and Conditions, before such materials are distributed to the public. 
+iii.
+Approval Procedures
+. Client will submit to Marqeta, for its prior written approval, samples of each of the proposed use of Marqeta Materials. Subject to Section 4 of these General Terms and Conditions, Marqeta shall promptly render its approval in writing or via e-mail or reasonable objection within [***] of receipt of materials; non-response by Marqeta after such three (3) Business Day period shall not constitute Marqeta’s approval of such materials. 
+c.
+Ownership of Materials
+.
+ 
+i.
+Marqeta acknowledges and agrees that Client, inclusive of its Affiliates, is the owner of all right, title, and interest, including all trademark and copyright rights, in and to the Client Materials. Marqeta acknowledges that all use of the Client Materials shall inure to the benefit of and be on behalf of Client or their respective owner(s), as applicable, and agrees that nothing in this Agreement shall give Marqeta any right, title or interest in and to the Client Materials other than the right to use the Client Materials in accordance with this Agreement during the Term. Any and all rights to the Client Materials not herein specifically granted and licensed to Marqeta are reserved to Client. 
+ii.
+Client acknowledges and agrees that Marqeta, inclusive of its Affiliates, (a) is the owner of all right, title, and interest, including all trademark and copyright rights, in and to the Marqeta Materials (other than the Card Brand Marks and Isuing Bank Marks); and (b) is the authorized licensee with the authority to sublicense the Card Brand Marks and Issuing Bank Marks. Client acknowledges that all use of the Marqeta Materials shall inure to the benefit of and be on behalf of Marqeta or their respective owner(s), as applicable, and agrees that nothing in this Agreement shall give Client any right, title or interest in and to the Marqeta Materials other than the right to use the Marqeta Materials in accordance with this Agreement during the Term. Any and all rights to the Marqeta Materials not herein specifically granted and licensed to Client are reserved to Marqeta.
+7 
+6.
+MARQETA PROPERTY & INTELLECTUAL PROPERTY RESTRICTIONS
+. 
+a.
+Marqeta Property. 
+In connection with Services, Marqeta may furnish Client with project deliverables, plans, Documentation, reports, analyses or other such tangible materials (the “
+Marqeta Property
+”). For the avoidance of doubt, “Marqeta Property” shall not include Custom Enhancements (or elements of Custom Enhancements) unless specifically provided for in an SOW. 
+b.
+Use and Disclosure of Marqeta Property. 
+Without the prior written consent of Marqeta, Client may only furnish Marqeta Property to its employees, legal counsel, accountants, Regulators and service providers who have been retained by the Client to perform the Client responsibilities in connection with the Card Program, and who need to know such information in the performance of such services. Client shall inform each such person of the confidential nature of the Marqeta Property and treat Marqeta Property as the Confidential Information of Marqeta.
+ 
+c.
+License to use Marqeta Property. 
+During the Term of this Agreement, Client shall have a limited, nontransferable, non-sublicenseable paid-up right and license to use the Marqeta Property in conjunction with its receipt of the Services, subject to the terms of this Section 6. All other rights in the Marqeta Property remain in and/or are assigned to Marqeta.
+ 
+d.
+License Grant. 
+Client hereby grants Marqeta and its Affiliates a royalty-free, worldwide, transferable, sub-licenseable, irrevocable, perpetual license to use any suggestions, enhancement requests, recommendations or other feedback provided by Client relating to the operation of the Services.
+ 
+e.
+Marqeta Services & Independent Development
+. Client acknowledges and agrees that Marqeta is a provider of data processing and program management outsourcing solutions to financial institutions and other third parties and nothing herein shall in any way preclude Marqeta or its officers, employees, agents, representatives or Affiliates from engaging in any business activities or from performing any services for its own account or for the account of others, including for companies that may be in competition with the business conducted by the Client. By way of example and not limitation of the forgoing, Marqeta may develop for itself, or for others, Services (including marketing strategies, targeting criteria, problem solving approaches, or other tools or information similar to the Marqeta Property), and nothing contained herein precludes Marqeta from developing or disclosing such materials and information provided that the same do not contain or reflect Confidential Information of Client.
+ 
+7.
+RIGHTS TO MARQETA SYSTEM; RIGHTS IN DEVELOPMENTS
+.
+ 
+a.
+General
+. Client acknowledges that it is receiving a service from Marqeta and that this Agreement shall not transfer any right, title, license or interest in the Marqeta System, or any part or component of the Marqeta System to Client.
+ 
+b.
+Changes to Services; Updates
+. Marqeta may change any features, functions, any other third party provider, or attributes of a Service, or Marqeta System or any element of its systems or processes, or specifications, from time to time, provided that neither the functionality of nor any applicable fees and charges for such Service are materially adversely affected. Marqeta will provide or make available Updates to each element of the Services no later than the date such Update is produced and generally made available by Marqeta to its other customers, and Client shall have the right to access, use and/or display such Updates consistent with its rights to the Services hereunder. Marqeta will, at no additional charge, provide to Client: (a) a description on any effect the installation and use of the applicable Update will have on the Services (including any potential adverse effects, such as expected degradation in performance); and (b) all automated conversion tools that Marqeta makes available to its other customers (whether or not such customers are charged therefor) to assist Client with the transition to any Updates. Marqeta will install all Updates (or, in the case of Updates to be installed by Client, provide documentation and materials necessary for Client to successfully 
+8 
+install such Update). Unless Marqeta advises Client otherwise, Client will not be required to use any Update in order to continue to use the Services in a manner in which Client received the Services prior to such Update. 
+c.
+Developments
+. Any services, technology, processes, methods, software and/or enhancements to the Marqeta System used or developed for purposes of delivering the Services (collectively, the “
+Developments
+”), whether developed solely by Marqeta or jointly by Marqeta and Client or any other party, including any Developments requested, suggested, or paid for by Client, shall be the sole property of Marqeta and shall not be considered “works made for hire”. Client shall not acquire any ownership right, Intellectual Property Right, claim or interest in the Marqeta System or in any Developments, or any modifications or updates thereto. 
+d.
+Cooperation
+. The Parties will cooperate with each other and execute such other documents as may be reasonably deemed necessary to achieve the objectives of this Section 7. 
+e.
+Responsibility for Data
+. Marqeta shall not be responsible for the accuracy, completeness or authenticity of any data furnished by Client or a third party, and shall have no obligation to audit, check or verify that data 
+8.
+FEES AND PAYMENT TERMS
+. 
+a.
+Client Payment to Marqeta.
+ 
+i.
+Fees
+. On the Effective Date, Client shall pay Marqeta the [***] as set forth in 
+Schedule D
+. Client shall pay Marqeta all fees for all applicable Processing Services and the [***], as applicable, as set forth in 
+Schedule D
+. Periodic charges under 
+Schedule D
+ shall be computed on a [***] basis and shall be prorated for any partial [***]. 
+ii.
+Taxes
+. All charges and fees to be paid by Client under the Agreement are exclusive of any applicable withholding, sales, use, excise, value added or other taxes. Any such taxes for which Marqeta is legally responsible to collect from Client shall be billed by Marqeta and paid by Client. 
+iii.
+Client Bank Account
+. Client shall maintain one bank account for the transfer of funds via Automated Clearing House (“
+ACH
+”) payments or Fedwire transfer to pay and deposit all amounts due or otherwise required to be deposited as provided under this Agreement, including as required under Sections 8(a)(i) and 8(a)(vi) of these General Terms and Conditions (the “
+Client Bank Account”
+). Client will deposit for immediate transfer by Marqeta via ACH as provided in Sections 8(a)(iv) and 8(a)(vi) of these General Terms and Conditions. Promptly following Marqeta’s written or e-mail request, Client shall provide Marqeta with the account information for the initial Client Bank Account. Client shall have the right to change the Client Bank Account [***] prior written notice to Marqeta. Client shall at all times maintain sufficient funds in the Client Bank Account to meet its obligations under this Section 8(a). If Client fails to so maintain sufficient funds, in addition to any other remedies available to Marqeta at law or under this Agreement, Marqeta may, subject to Applicable Law, (A) cease performing the Services until Client has met its obligations under this Section 8(a), and (B) invoice Client for all deficient amounts. Client shall pay the undisputed deficient amount no later than one (1) Business Day following the date of such invoice, and, notwithstanding anything to the contrary in this Agreement, such failure shall constitute a material breach of this Agreement that is not subject to the cure periods as provided in Sections 3(b)(i)(1) and 3(b)(iii) of the Program Terms. Any undisputed amounts not paid on or before their due date shall incur interest until paid at the [***] rate of one and [***], prorated for any partial [***]. Payment for statements and invoices shall be due and payable by electronic funds transfer in U.S. dollars by Client. 
+iv.
+Statements, Invoices and Payments
+. No sooner than [***] following the beginning of each [***] during the Term (or such earlier time if the Term ends during a [***]), Marqeta shall provide Client with a statement setting forth the amount owed to Marqeta hereunder for the prior [***] (“[***] 
+9 
+Payment Amount
+”), which statement shall (A) describe in reasonable detail the basis for such amount; and (B) payment date for such amount, which payment date shall be no sooner than [***] following the date of such statement (“
+Payment Date
+”). Marqeta shall provide such statement to Client either in writing or via electronic or API access. No later than one (1) Business Day prior to the Payment Date, Client shall deposit into the Client Bank Account the undisputed amount of the [***] Payment Amount. Client hereby authorizes Marqeta to initiate ACH transactions from the Client Bank Account for the payment of the [***] Payment Amount, and shall execute any documents reasonably requested by Marqeta to enable Marqeta to initiate such transactions. Notwithstanding the forgoing, Section 8(a)(vi) of these General Terms and Conditions shall govern the terms related to the deposit of Settlement Funds, and Marqeta’s related statement obligations and transfer rights.
+ 
+v.
+Disputed Charges; Requests for Information
+. Client may [***] of Client’s receipt of such documentation which reasonably supports the amount due. 
+vi.
+Card Funding and Settlement
+. Client will [***].
+ 
+b.
+Marqeta Payment to Client
+. 
+i.
+[***] 
+Interchange
+ [***] 
+Fee
+. Marqeta shall pay Client the [***] Interchange [***] Fee as forth in 
+Schedule D
+. Periodic payments of such fees under 
+Schedule D
+ shall be computed on a calendar [***] basis and shall be prorated for any partial [***]. 
+ii.
+Statement and Payment
+. Marqeta shall provide Client with a [***] statement for the [***] Interchange [***] Fee due under this Agreement on a [***] basis in arrears, together with payment of the [***] amount set forth on such statement. 
+iii.
+Audit rights
+. Marqeta is obligated to preserve all records related to the performance of Services, including [***], under this Agreement from a minimum of [***] following the termination of this Agreement. Client, upon reasonable notice to Marqeta, has the right to audit the books, records and procedures of Marqeta regarding information directly related to this Agreement. 
+c.
+Supporting Documentation
+. Marqeta shall maintain supporting documentation for the amounts billable to, and payments made by and to, Client hereunder in accordance with generally accepted accounting principles. Marqeta agrees to provide Client with such supporting documentation with respect to each invoice and statement as may be reasonably requested by Client. 
+9.
+TERMINATION TRANSITION
+. In connection with any termination or expiration of this Agreement or Client’s termination of use of Services as provided for in this Agreement, if requested by Client in its sole discretion, and at Client’s sole expense, including those items at the charges set forth in 
+Schedule D
+ or as agreed by the Parties, Marqeta will provide all assistance that Client and any successor provider of services may reasonably require in connection with the Transition of any and all Accounts then processed by Marqeta (the “
+Transition Services
+”). If Client elects to receive Transition Services, Marqeta will do the following: 
+i.
+Marqeta shall make available to such successor provider the information or data Marqeta possesses regarding Client’s Cardholders and any and all Client Accounts then processed by Marqeta together with adequate instructions concerning the format and means of accessing such information. Without limiting the foregoing, Marqeta shall provide to a successor provider an explanation of the data layout and fields in the master file tapes containing Client’s Account data, test tapes containing appropriate test data for use in preparing for the Transition, and, at the date of Transition, master file tapes containing all of Client’s Account data together with an explanation of any changes in the data layout and fields therein that have occurred since Marqeta first provided such information to the successor provider.
+10 
+ii.
+On or before the expiration or termination of the Term, if Client elects to receive Transition Services, Client shall provide written notice to Marqeta designating a date for initiation of the process for planning and undertaking a Transition, and Client and Marqeta will negotiate in good faith to establish the appropriate date for completion of Transition. Such negotiations will take into account (1) the availability of Marqeta Personnel, (2) Marqeta’s existing commitments to other Marqeta customers to undertake activities requiring the use of significant amounts of Marqeta resources, such as other customer implementations and Transitions, and (3) Marqeta’s reasonable programming blackout periods that apply to other Marqeta customers. The proposed date for completion of Transition shall be no fewer than one hundred eighty (180) days following said written notice, but in no event shall be prior to the last day of the Term. Notwithstanding any provision herein to the contrary, this Agreement shall continue on the same commercial terms and conditions until the completion of the Transition. 
+iii.
+In the event Client elects not to receive Transition Services, the Parties will work in good faith to implement an orderly wind down of the Services after expiration or termination of this Agreement, including a mutually agreed upon set of rules and communications to Cardholders. The wind down period will not exceed six (6) months after termination or expiration of this Agreement, unless required by Applicable Law or the parties agree otherwise.
+ 
+10.
+WARRANTIES
+. 
+a.
+Marqeta Warranties
+. Marqeta represents and warrants that (i) the Services shall be performed in a commercially reasonable manner in accordance with the generally accepted industry practices and procedures used in performing services like the Services (the “
+Standard of Care
+”); (ii) it has the requisite corporate power and authority to enter into this Agreement and to make the commitments set forth in this Agreement and that it is not a party to any other agreement which would hinder its ability to perform its obligations hereunder; (iii) it is and will continue to be duly qualified and licensed and has made and will continue to make all registrations to do business and to carry out its obligations under this Agreement to the extent required by U.S. federal law and the law of each U.S. state in which Marqeta provides Services; (iv) it is authorized to use Marqeta Materials and to license the Marqeta Materials to Client as contemplated by this Agreement; (v) its performance under this Agreement will not breach (a) any agreement between itself and a third party or (b) any obligation to keep in confidence the proprietary information of another party, (vi) it is not a party to any other agreement which would hinder its ability to perform its obligations hereunder, and (vii) it will comply with all Marqeta Legal Requirements in performing its obligations under this Agreement. 
+b.
+Marqeta Disclaimer
+. EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, MARQETA MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, NATURE OR DESCRIPTION, WHETHER STATUTORY, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF NON-INFRINGEMENT, ERROR-FREE OPERATION, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. 
+c.
+Client Warranties
+. Client represents and warrants that (i) it has the requisite corporate power and authority to enter into this Agreement and to make the commitments set forth in this Agreement; (ii) it is not a party to any other agreement which would hinder its ability to perform its obligations hereunder; (iii) it is and will continue to be duly qualified and licensed and has made and will continue to make all registrations to do business and to carry out its obligations under this Agreement to the extent required by U.S. federal law and the law of each U.S. state in which Client conducts business; (iv) it is authorized to use Client Materials and to license the Client Materials to Marqeta as contemplated by this Agreement; and (v) it will comply with all Client Legal Requirements in performing its obligations under this Agreement. 
+d.
+Client Disclaimer
+. EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, CLIENT MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, NATURE OR DESCRIPTION, WHETHER STATUTORY, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. 
+11 
+11.
+PRIVACY AND INFORMATION SECURITY
+. 
+a.
+Client Data. 
+As between Client and Marqeta, Client Data and Transaction Data shall be owned by Client and Issuing Bank. Subject to Section 11(b) of these General Terms and Conditions, Marqeta may not use any Client Data or Transaction Data for any purpose except (i) to the extent such Client Data or Transaction Data is necessary for Marqeta to perform its obligations under this Agreement; (ii) internally to provide and improve the Services and to perform fraud screening, verify identities, and verify the information contained in Accounts; (iii) as required by Issuing Bank to meets its regulatory obligations; or (iv) as required by any Regulator with jurisdiction over Issuing Bank or the Parties. 
+b.
+Aggregated Data. 
+Subject to the restrictions in this Section 11(b), Marqeta may use Aggregated Data in accordance with Applicable Law. Aggregated Data shall be aggregated on a national or regional basis with data from Marqeta’s other clients and will not include any geographic information about Client. Marqeta (i) shall not sell any Aggregated Data to any Person, and (ii) shall ensure that neither Client’s identity nor the identity of any Client Affiliate, Client Personnel, Retail Partner, or any of the foregoing’s relationship to Aggregated Data, is discernible or inferable by any means (either from the data itself or the way it is presented). Marqeta shall never identify Client as the source of any Aggregated Data Marqeta uses pursuant to this Section 11(b),. If Client reasonably believes Marqeta has identified Client as the source of the Aggregated Data, Client shall provide Marqeta with notice of such belief, together with reasonable detail and, if applicable, documentation supporting such belief. If Marqeta identifies Client as the source of Aggregated Data, Marqeta must stop using Client Aggregated Data for any purpose.
+ 
+c.
+Security Standards. 
+Marqeta shall implement security measures designed to (i) ensure the security, integrity and confidentiality of; (ii) protect against any anticipated threats or hazards to the security or integrity of; and (iii) protect against unauthorized access to or use of Cardholder Data and Transaction Data; all in accordance with Marqeta’s information security policy. In providing the Services, Marqeta will comply with all Applicable Laws and Card Brand Rules regarding debit card processing, customer privacy and payment account data security, including PCI standards.
+ 
+d.
+Unauthorized Application
+. The Parties acknowledge and agree that Marqeta shall be solely responsible for the unauthorized or fraudulent application for, access to or use of Cardholder Data or Transaction Data by any Entity, when such unauthorized or fraudulent activity is caused by the negligent acts or omissions, gross or willful misconduct of Marqeta or its Personnel. 
+e.
+Notice of Security Breach
+. If Marqeta becomes aware of any unauthorized access to Cardholder Data or Transaction Data, Marqeta shall promptly report such incident to Client and describe in reasonable detail the circumstances surrounding such unauthorized access.
+ 
+12.
+CONFIDENTIAL INFORMATION
+. 
+a.
+Defined
+. The Parties acknowledge that they may be furnished with, receive, or otherwise have access to Confidential Information of the other during the Term. “Confidential Information” means all information, in any form, furnished or made available directly or indirectly by one Party to the other before, on or after the Effective Date, which is marked confidential, proprietary or with a similar designation or, if unmarked, which the receiving Party should reasonably know is confidential and proprietary. Confidential Information shall include (i) a Party’s Trade Secrets; (ii) information concerning the operations, affairs and businesses of either Party, its customers and suppliers; (iii) Documentation and Developments, each of which shall be considered the Confidential Information of Marqeta; and (iv) that portion of any specifications, designs, documents, correspondence, software, data and other materials and Marqeta Properties containing Confidential Information as described herein and provided by either Party or its subcontractors to the other Party in connection with this Agreement. For purposes of this Agreement, Issuing Bank’s Confidential Information and Trade Secrets shall be deemed to be Marqeta’s Confidential Information and Trade Secrets. 
+12 
+b.
+Obligations
+. 
+i.
+The receiving Party shall exercise, at a minimum, the same degree of care to prevent unauthorized use or disclosure of the other Party’s Confidential Information as it normally takes to prevent the unauthorized use or disclosure of its own proprietary information of like kind, but in no event less than a commercially reasonable degree of care. The receiving Party shall refrain from using the Confidential Information except as necessary in performing its obligations under this Agreement, and shall limit use or disclosure to individuals needing to know the information to perform their obligations under this Agreement. Neither party shall reverse engineer, disassemble or decompile any prototypes, software or other tangible objects which embody the other party’s Confidential Information and which are provided to the Party hereunder. Neither Party shall disclose the negotiated pricing or terms of this Agreement to any third party, and any such disclosure shall be a material breach of this Agreement, except that, (i) if requested by Issuing Bank to meet its due diligence and regulatory requirements, Marqeta may disclose the requested Client Confidential Information and this Agreement to Issuing Bank, and (ii) a Party may disclose the fact that the other Party is a client and the commercial terms of this Agreement to potential investors and acquirers in connection with a bona fide financing or acquisition due diligence. In any event, each Party shall be liable for any breach of the obligations defined within this Agreement by its respective Personnel, external or internal auditors or independent contractors. 
+ii.
+As requested by a Party during the Term or upon any termination of this Agreement, the other Party shall return or destroy, as the requesting Party may direct, all material in any medium that contains, the requesting Party’s Confidential Information and retain no copies (except those necessary to comply with regulatory requirements applicable to the retaining Party) or pursuant to their data retention policies. Any destruction pursuant to this Section 12(b)(ii) shall be certified in writing. 
+c.
+Exclusions
+. The restrictions set forth in this Section 12 shall not apply to information which a Party can demonstrate in writing (i) was, at the time of disclosure to it, in the public domain; (ii) after disclosure to it, is published or otherwise becomes part of the public domain through no fault of the receiving Party; (iii) was in the legal possession of the receiving Party at the time of disclosure to it without a duty of confidentiality; (iv) was received after disclosure to it from a third party who had a lawful right to disclose such information to such Party without confidentiality restrictions; or (v) was independently developed by the receiving Party without reference to Confidential Information of the furnishing Party.
+ 
+d.
+Legally Required Disclosures
+. A Party shall not be considered to have breached its obligations by disclosing Confidential Information of the other Party if any Confidential Information is required to be disclosed by a Party under the terms of a valid and effective subpoena or order issued by a court of competent jurisdiction, or by a demand or information request from an executive or administrative agency or other governmental authority, provided that, the Party requested or required to disclose such Confidential Information shall, unless prohibited by the terms of a subpoena, order, or demand, (i) promptly notify the other Party of the existence, terms and circumstances surrounding such demand or request, (ii) consult with the other Party on the advisability of taking legally available steps to resist or narrow such demand or request, and, (iii) if disclosure of such Confidential Information is required, exercise its reasonable best efforts to narrow the scope of disclosure and obtain an order or other reliable assurance that confidential treatment will be accorded to such Confidential Information. To the extent the receiving Party is prohibited from notifying the other Party of a subpoena, order or demand, by the terms of same, the receiving Party shall exercise its reasonable efforts to narrow the scope of disclosure.
+ 
+e.
+Loss of Confidential Information
+. In the event of any unauthorized disclosure or loss of, or inability to account for, any Confidential Information of the furnishing Party, the receiving Party shall promptly, at its own expense: (i) notify the furnishing Party in writing, (ii) take reasonable steps to minimize the violation; and (iii) reasonably cooperate with the furnishing Party to minimize any damage resulting therefrom. 
+f.
+No Implied Rights
+. Nothing contained in this Section 13 shall be construed as obligating a Party to disclose its Confidential Information to the other Party or as granting to or conferring on a Party, express or implied, any rights or license to the Confidential Information of the other Party. 
+13 
+g.
+Prior Non-Disclosure Agreement
+. The terms of this Section 13 supplement but do not supersede the terms of any agreement of confidentiality previously entered into between the Parties; provided that any information required to be treated as confidential under such agreement shall be treated as Confidential Information under the terms of this Agreement; and further provided that in the event of a conflict between any provision of this Agreement and that of any agreement of confidentiality previously entered into between the Parties, the provision affording the greater protection to the Confidential Information shall prevail. 
+h.
+Survival
+. The obligations regarding confidentiality and restriction of use by Marqeta of Client Data and Transaction Data shall survive the expiration or termination of this Agreement. Furthermore, as to all other Confidential Information, the obligations under this Section 13 shall survive the expiration or termination of this Agreement for a period of five (5) years; provided that the obligations under this Section 13 with respect to any item of Trade Secrets shall survive until such item is no longer a Trade Secret. 
+i.
+Trade Secrets
+. Nothing herein shall be deemed to adversely affect or otherwise waive any rights or remedies available at law or equity that a furnishing Party may have for protection of its Trade Secrets. 
+13.
+THIRD PARTY CLAIMS; INSURANCE
+.
+ 
+a.
+Marqeta Indemnification
+. Subject to Client’s compliance with Section 14(c) of these General Terms and Conditions, Marqeta agrees to defend, indemnify and hold harmless Client and its Affiliates, and their respective officers, directors, agents, and employees from and against any and all Damages as a result of a third party Claim arising out of or related to (i) Marqeta’s breach (or, as to defense obligations only, alleged breach) of this Agreement; (ii) Marqeta’s gross negligence, willful misconduct or fraudulent acts or omissions; (iii) Marqeta’s violation of any Applicable Law; or (iv) the infringement of the U.S. Intellectual Property Rights of any third party arising from the permitted use of the Marqeta System under this Agreement. Notwithstanding the foregoing, the indemnification obligations set forth in subsection (iii) of the previous sentence shall not apply to any Damages to the extent they arise from or relate to (1) the combination of the Marqeta System or the Marqeta Card with information, services, materials or products not supplied by Marqeta, (2) any modification of the Marqeta System or Marqeta Card which is not made by or on behalf of Marqeta, (3) any failure by Client to use any modified version of the Marqeta System or Marqeta Card which is provided by Marqeta in order to avoid a claim of infringement, or (4) any use of the Marqeta System or Cards other than as permitted hereunder. 
+b.
+Client Indemnification
+. Subject to Marqeta’s compliance with Section 13(c) of these General Terms and Conditions, Client agrees to defend, indemnify and hold harmless Marqeta, Issuing Bank and each of their respective officers, directors, agents and employees from and against any and all Damages as a result of a third party Claim arising out of or related to (i) Client’s breach (or, as to defense obligations only, alleged breach) of this Agreement; (ii) the gross negligence, willful misconduct or fraudulent acts or omissions of Client or any Client Personnel or Retail Partner; (iii) the violation of any Applicable Law by Client or any Client Personnel or Retail Partner; (iv) a claim that the Client Materials infringe the Intellectual Property Rights of any third party; or (v) the business and services of Client or any Retail Partner to the extent such Claims and Damages are not otherwise indemnifiable by Marqeta pursuant to Section 13(a) of these General Terms and Conditions. 
+c.
+Indemnification Procedure
+. The Party seeking indemnification, as the indemnitee, will provide the other Party, as the indemnitor, prompt written notice of any third party Claim for which indemnity is sought, although failure to provide prompt notice shall not relieve the indemnitor of its indemnification obligations unless such failure materially prejudices indemnitor in defending such Claim. If the indemnitor is so notified, the indemnitor will promptly engage experienced and competent counsel, and will have sole control of the defense and all negotiations for the compromise or settlement of such Claim, and will pay any Damages in respect of such Claim and reimburse the indemnitee for its reasonable expenses incurred in cooperation with and providing assistance to the indemnitor; provided, however, that the indemnitor may not settle any such Claim without the indemnitee’s consent if the proposed settlement would be in the indemnitee’s name or impose pecuniary or other liability or an admission of fault or guilt on the indemnitee or would require the indemnitee to be bound by an injunction of any kind. The indemnitee shall provide reasonable information and assistance in connection with such defense and settlement (at the indemnitor’s expense). Consent to any 
+14 
+settlement will not be unreasonably withheld. Notwithstanding the foregoing, to the extent that such Claim is based on the infringement of a third party’s Intellectual Property Rights, the indemnitor will have the right, at its sole option and expense to procure for the indemnitee the right to continue using such materials, or to replace or modify them with non-infringing materials.
+ 
+d.
+INSURANCE
+. 
+i.
+General
+. Each Party Servicer shall maintain, throughout the Term, an appropriate insurance policy, the limit of which shall be no less than [***] per occurrence or [***] aggregate, for each of the following categories: 
+1. a comprehensive general liability policy, including, but not limited to, contractual liability, bodily injury, death and/or property damage; 
+2. a comprehensive crime policy, including employee dishonesty/fidelity coverage, with respect to the work or operations done in connection with this Agreement; 
+3. a comprehensive errors and omissions policy; and 
+4. a workers’ compensation policy in at least the minimum amounts required by any applicable statute or regulation.
+ 
+ii.
+Insurance Requirements
+. Each policy required by this Section 13 shall be carried in the name of the Party. A copy of each policy and any certificates of insurance evidencing the existence of such policy shall be provided to the other Party promptly following such Party’s written or e-mail request. Each insurance policy must be written by insurance carriers that have an A.M. Best rating of “A” or better or are otherwise acceptable to the other Party and shall name the other Party and Issuing Bank as an additional insured. Each party shall promptly provide notice to the other Party in the event of any notice of nonrenewal or cancellation, lapse, termination or reduction in any insurance coverage required to be maintained pursuant to this Section 13(d)(ii). 
+e.
+LIABILITY
+. 
+(a) 
+General Intent
+. Subject to the specific provisions of this Section 14, it is the intent of the Parties that each Party shall be liable to the other Party for any actual direct damages incurred by such other Party as a result of the breaching Party’s failure to perform its obligations in this Agreement. 
+(b) 
+Liability Restrictions
+. 
+i.
+EXCEPT FOR A PARTY’S INDEMNIFICATION OBLIGATION UNDER SECTION 13(A) OF THESE GENERAL TERMS AND CONDITIONS AND FOR A PARTY’S GROSS NEGLIGENCE, WILFUL MISCONDUCT, OR FRAUD, IN NO EVENT, WHETHER IN CONTRACT OR TORT (INCLUDING BREACH OF WARRANTY, NEGLIGENCE AND STRICT LIABILITY IN TORT), SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES (WHETHER SUCH LOSSES OR DAMAGES WERE FORESEEN, FORESEEABLE, KNOWN OR OTHERWISE). 
+ii.
+Marqeta shall not be responsible to Client for any claims by Client or third parties arising from the failure of any third party software, hardware, communications devices, Internet services, e-mail systems or other systems or services which are not part of the Marqeta System. 
+iii.
+Except for a party’s indemnification obligation under Section 13(a) of these General Terms and Conditions, a party’s gross negligence, wilful misconduct, or fraud, and a Party’s breach of a payment or funding deposit obligation under this Agreement, Party’s total cumulative liability to
+15 
+the other Party, whether in contract or in tort, for any and all breaches under this Agreement, including for purposes of calculating such cumulative liability, any payments made by a Party under the indemnification of a third party claim, as set forth in Section 13(a) of these General Terms and Conditions, shall not exceed the aggregate Fees earned by Marqeta hereunder during the twelve (12) months immediately preceding the date such claim arose (“Liability Cap”).
+(c) 
+Duty to Mitigate
+. Nothing in this Section 14 will be taken as any way reducing or affecting a general duty to mitigate loss suffered by a Party. Client will use reasonable efforts to enforce the terms and conditions in the agreement Client or any Affiliate of Client has with any Business Client or Cardholder in respect of the Account. Nothing contained in this Section 14(c) shall oblige the Client to issue any legal, arbitration or other dispute resolution proceedings against any Cardholder or any third party. 
+14.
+DISPUTE RESOLUTION
+. 
+(a) 
+Disputes. 
+Any dispute between the Parties arising out of or relating to this Agreement, including with respect to the interpretation of any provision of this Agreement and with respect to the performance by either Party, shall be resolved as provided in this Section 15. 
+(b) 
+Informal Dispute Resolution
+. If a dispute is not subject to Section 15(e) of these General Terms and Conditions, upon the written request of either Party setting forth the basis of the dispute in reasonable detail, each Party will appoint a designated representative having authority to resolve and settle such dispute. The designated representatives shall meet as often as the Parties reasonably deem appropriate to discuss the dispute and attempt to resolve the dispute without the necessity of arbitration pursuant to Section 15(c) of these General Terms and Conditions. If a Party requests that informal dispute resolution under this Section 15(b) be initiated, then formal proceedings under Section 15(c) of these General Terms and Conditions may not be commenced until the earlier of (i) the time when the Parties conclude in good faith that amicable resolution of the dispute does not appear likely or (ii) the expiration of sixty (60) days following the initial request by a Party to jointly resolve the dispute under this Section 15(b). 
+(c) 
+Arbitration
+. If a dispute is not resolved pursuant to the informal dispute mechanism in Section 15(b) of these General Terms and Conditions, the dispute may be submitted by either Party to mandatory and binding arbitration, pursuant to the following conditions: 
+i.
+Selection of Arbitrator
+. The Party making the demand for arbitration shall notify the American Arbitration Association (“
+AAA
+”) and the other Party in writing describing in reasonable detail the nature of the dispute and shall request that the AAA furnish a list of five (5) possible arbitrators who shall have substantial experience in the area of information technology and card processing and shall otherwise be qualified to competently address the issues presented. Each Party shall have fifteen (15) days to reject two (2) of the proposed arbitrators. If only one (1) individual has not been so rejected, he or she shall serve as arbitrator. If two (2) or more individuals have not been so rejected, then the Parties shall promptly mutually select the arbitrator from the remaining pool of possible arbitrators; provided, however, that if the Parties are unable to agree on such selection within ten (10) days after notification by the AAA of the need to make such selection, then the AAA shall select the arbitrator from the remaining pool of possible arbitrators. 
+ii.
+Conduct of Arbitration
+. The arbitration shall be conducted in accordance with the rules for commercial arbitration of the AAA. 
+iii.
+Place of Arbitration Hearings
+. Unless otherwise agreed to by the Parties, arbitration hearings shall be held in San Francisco Bay area. 
+iv.
+Costs and Expenses
+. Unless the arbitrator rules otherwise, the Parties shall jointly and equally pay the expenses of the arbitrator and administrative costs assessed by the AAA, as well as their own expenses incurred during the dispute resolution process. 
+16 
+(d) 
+Confidentiality
+. The Parties agree that the existence of a dispute, any efforts or proceedings to resolve a dispute, whether informal or pursuant to arbitration, and any rulings or decisions issued by the arbitrator pursuant to Section 15(c), of these General Terms and Conditions shall be held in confidence, shall be treated as compromise and settlement negotiations under applicable evidence rules, and shall be governed as Confidential Information by the terms and conditions of Section 12 of these General Terms and Conditions. 
+(e) 
+Equitable Relief
+. The Parties agree that the only circumstance in which disputes between them shall not be subject to the provisions of Sections 15(b) and/or 15(c) of these General Terms and Conditions is as set forth in Section 15(f) of these General Terms and Conditions, and when a Party makes a good faith determination that a material breach or threatened breach of the terms of this Agreement by the other Party is such that injunctive or other equitable relief is the only appropriate and adequate remedy. Accordingly, in addition to other remedies available to it, the affected Party will be entitled to seek injunctive or other equitable relief to remedy any threatened or actual breach of any portion of this Agreement. 
+(f) 
+No Limitation
+. This Section 15 shall not be construed to prevent a Party from instituting, and a Party is authorized to institute, formal court proceedings, earlier (i) to avoid the expiration of any applicable limitations period, or (ii) to preserve a superior position with respect to other creditors. 
+15.
+OTHER PROVISIONS
+(a) 
+Binding Agreement and Assignment
+. This Agreement shall be binding on the Parties and their respective successors and permitted assigns. Neither Party may transfer or assign (by merger or operation of law or otherwise) this Agreement or its obligations under this Agreement, in whole or in part, without the prior written consent of the other Party (which consent will not be unreasonably withheld); provided, however, that either Party may transfer or assign this Agreement in whole (but not in part) without such consent to any Affiliate of such Party. Notwithstanding the foregoing, Marqeta shall have the right to grant a security interest in any accounts receivable to which it becomes entitled under this Agreement. 
+(b) 
+Force Majeure
+. 
+i.
+No Party shall be liable for any default or delay in the performance of its obligations under this Agreement (other than a payment default) if such default or delay is caused, directly or indirectly, by fire, flood, earthquake, elements of nature or acts of God or any other cause beyond the reasonable control of such Party (a “Force Majeure Event”) (provided the non-performing Party is without material fault in causing such default or delay), provided the parties shall at all times take all reasonable steps within their power to prevent Force Majeure Events affecting the performance of their obligations herein, and to mitigate the effect of any Force Majeure Event
+ 
+ii.
+The non-performing Party shall be excused from performance of the obligation(s) so affected for as long as such circumstances prevail and such Party continues to use its commercially reasonable efforts to recommence performance. Any Party so delayed in its performance shall immediately notify the Party to whom performance is due by telephone (to be confirmed in writing within two (2) Business Days of the inception of such delay) and describe in reasonable detail the circumstances surrounding such delay. 
+iii.
+If Marqeta’s performance of the Services necessary for the conduct of those business functions of Client reasonably identified by Client as critical is excused under this Section 16(b) for more than thirty (30) consecutive days, then at Client’s option, Client may elect, by a written notice, to immediately terminate this Agreement without liability to Marqeta.
+(c) 
+Amendments
+. No change, waiver or discharge relating to the terms of this Agreement, including the Schedules, shall be valid unless in writing and signed by an authorized representative of each Party.
+ 
+17 
+(d) 
+Governing Law
+. This Agreement and the rights and obligations of the Parties under this Agreement will be governed by and construed in accordance with the laws of the State of California, without giving effect to the principles thereof relating to the conflicts of laws. 
+(e) 
+Entire Agreement; Waiver
+. The first page of this Agreement and these General Terms and Conditions, together with the other Schedules attached hereto, represent the entire agreement of the Parties, and any and all prior written or oral communications, agreements, understandings and representations are merged herein and superseded hereby. Further, the failure of either Party to insist on performance of any provision of this Agreement shall not be construed as a waiver of that provision or any other provision at any time. 
+(f) 
+Severability
+. In the event that any provision of this Agreement conflicts with the law under which this Agreement is to be construed or if any such provision is held invalid by a court with jurisdiction over the Parties, such provision shall be deemed to be restated to reflect as nearly as possible the original intentions of the Parties in accordance with applicable law. The remainder of this Agreement shall remain in full force and effect. 
+(g) 
+Public Disclosures
+. Marqeta may issue public statements, including without limitation any reference to Client within Marqeta’s website, portfolio, and/or speaking engagement, disclosing the existence of this Agreement or the performance of Services upon Client’s prior written approval. 
+(h) 
+Non-Solicitation
+. Each Party agrees that during the Term it will not seek out or induce any person (by offering employment or otherwise) who is an employee of the other Party to terminate their employment. Notwithstanding the foregoing, it shall not be deemed a violation of this Section 16(h) for either Party to (1) solicit or hire an employee of the other Party, if the initial solicitation to which an employee responds is a general advertisement that is not specifically targeted to the other Party’s employees, such as a newspaper or web site job listing or (2) hire an employee of the other Party if the employee contacts the hiring Party on his or her own initiative, was in discussion with the hiring Party regarding possible employment prior to the signing of this Agreement, or is referred to the hiring Party by search firms, employment agencies, or other similar entities provided that such entities have not been specifically instructed by the hiring Party to target the other Party or its employees. 
+(i) 
+Rights of Third Parties
+. This Agreement is entered into solely between, and may be enforced only by, Client and Marqeta. This Agreement shall not be deemed to create any rights in third parties [***], including suppliers, customers, clients or Affiliates of a Party or to create any obligations of a Party to any such third party, which, by virtue of any Applicable Law, might otherwise be enforceable by a third party against either Party to this Agreement. 
+(j) 
+Cumulative Remedies
+. Except as otherwise expressly provided, all remedies provided for in this Agreement shall be cumulative and in addition to and not in lieu of any other remedies available to either Party at law, in equity or otherwise. 
+(k) 
+Limitation of Actions
+. No action, regardless of form, arising out of any claimed breach of this Agreement or the Services provided hereunder, may be brought by either Party more than one (1) year after the cause of action has accrued. 
+(l) 
+Counterparts
+. This Agreement may be executed in counterparts, which execution may be by facsimile or electronic e-mail attachments, each of which will be an original, but all of which will constitute one, and the same, document. 
+(m) 
+Relationship of the Parties
+. Nothing in this Agreement is intended to, or will, create a partnership or joint venture between Client and Marqeta. Except as expressly set forth herein, no Party has any authority hereunder to bind or commit the other Party. In the performance of their respective duties or obligations under this Agreement, no Party will be deemed to be the agent of the other Party. 
+(n) 
+Director, Officer and Shareholder Liability. 
+No shareholder or director, officer, employee, agent or other representatives of either Party or any of its Affiliates (or its or their respective successors and assigns) has any liability, personal or otherwise, whatsoever to the other Party or any of its Affiliates (or its or their respective successors and assigns) under this Agreement or any other document delivered in connection with the transactions contemplated hereby or thereby. 
+18 
+(o) 
+Drafting. 
+Each Party acknowledges that its legal counsel participated in the drafting of this Agreement. The Parties hereby agree that the rule of construction that ambiguities are to be resolved against the drafting Party is not applicable and will not be employed in the interpretation of this Agreement to favor one Party over the other. 
+19 
+SCHEDULE C
+DEFINITIONS 
+DEFINED TERMS
+. Certain capitalized terms used in this Agreement shall have the meanings set forth as follows: 
+“
+Account
+” means a unique representation of the data and current financial status of a customer account relationship for a Card account under the Card Program, which account is serviced by Marqeta pursuant to this Agreement. 
+“
+Affiliate
+” means, with respect to any Party, any Entity Controlling, Controlled by, or under common Control with such Party. 
+“
+Aggregated Data
+” means de-identified Client Data and usage information collected by Marqeta resulting from Client’s or Client’s Personnel use of the Services that is combined with de-identified data of a similar nature obtained from Marqeta’s other clients. 
+“
+Agreement
+” has the meaning given on the first page of the Master Services Agreement. 
+“
+API
+” means (a) a set of programming instructions and standards for accessing a web-based software application or web tool through which Client is able to access certain information regarding and manage certain aspects of the Card Program, and other uses as mutually agreed upon in writing by the Parties, and (b) any updates to the APIs under the foregoing subsections (a). 
+“
+Applicable Law
+” means laws, regulations, statutes, codes, rules, orders, licenses, certifications, decrees, standards or written interpretations imposed by any governmental authority (which includes any political subdivision, whether national, federal, state or local government, or governmental or regulatory body, agency, authority or instrumentality, or any court or arbitrator (public or private), including any Regulator, that, in each case, has or has asserted jurisdiction over the Entity, Issuing Bank or matter in question) that apply to or relate in any way to this Agreement. 
+“
+Business Day
+” means Monday through Friday, excluding days on which banks are not open for business in the United States of America. 
+“
+Card
+” means a virtual card, or magnetic stripe or chip-based plastic card issued to a Cardholder in the Card Program that accesses the Cardholder’s balance and other information maintained in the database for such Cardholder and which may be used by such Cardholder to purchase goods and services and/or qualify for discounts, rewards or other privileges as may be further described in these General Terms and Conditions. 
+“
+Card Brand
+” means any payment network(s) through which Card transactions may be authorized and settled. 
+“
+Card Brand Rules
+” means all rules, regulations and by-laws of the Card Brand, including, if applicable, the Payment Card Industry Data Security Standards or “PCI.” 
+“
+Card Program
+” shall mean a system of services provided by Marqeta pursuant to the terms of this Agreement under which Cardholders utilize a Card. The features and functionalities generally available for inclusion in the Card Program are described on the Developer Site, as modified from time to time by Marqeta during the Term. 
+“
+Cardholder
+” means Client or Client’s authorized users of Cards. 
+“
+Claim
+” means an action, allegation, cause of action, cease and desist letter, claim, demand, lawsuit or other litigation or proceeding, or notice. 
+“
+Client
+” has the meaning given on the first page of this Agreement. 
+1 
+“
+Client Data
+” shall have the meaning ascribed to “Cardholder Data” in the Payment Card Industry (PCI) Data Security Standard Glossary. 
+“
+Client Legal Requirements
+” has the meaning given in Section 3(a) of the General Terms and Conditions. 
+“
+Client Materials
+” means any material provided to Marqeta by or on behalf of Client in connection with this Agreement, including (a) Client Marks and (b) marketing, service description and promotional materials of Client. 
+“
+Client Personnel
+” means Affiliates, employees, officers, directors, agents, representatives and subcontractors of Client. 
+“
+Client System
+” means all systems, processes, procedures, models, algorithms, equipment and software controlled and data generated by Client and used by Client to obtain the Services. The Client System shall not include (i) any systems, processes, procedures, equipment, software or services provided by third parties with whom Client has a direct contractual relationship as of the Effective Date, and (ii) any communications, networks or devices, including, the Internet and any virtual private networks or e-mail systems, that are not within the control of Client. 
+“
+Confidential Information
+” has the meaning given in Section 12 of the General Terms and Conditions. 
+“
+Control
+” and its derivatives mean with regard to any Entity (a) the legal, beneficial or equitable ownership, directly or indirectly, of more than fifty percent (50%) of the capital stock (or other ownership interest, if not a corporation) of such Entity ordinarily having voting rights or (b) the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such Entity, by contract or otherwise. 
+“
+Custodial Account
+” means a pooled deposit account established by Issuing Bank for purposes of receiving reserve funds from the Client Bank Account in accordance with Section 8 (a)(vi) of the General Terms and Conditions. 
+“
+Damages
+” means any assessment, fine, bona fide settlement, cost, damage (including consequential, indirect, special, incidental or punitive damages), expense (including reasonable attorneys’ and accountants’ fees, expenses and costs), judgment, liability, loss, or penalty, incurred in connection with a Claim. 
+“
+Developer Site
+” means the web site located at the “API” tab at 
+https://marqeta.com/
+, or such successor site or sites as established by Marqeta. 
+“
+Developments
+” has the meaning given in Section 7(c) of the General Terms and Conditions. 
+“
+Documentation
+” means the user manuals and information bulletins, regardless of media or form, including the information available at the Developer Site, which describe the functions, features and operations of the Services as modified by Marqeta from time to time during the Term. 
+“
+Effective Date
+” has the meaning given on the first page of this Agreement. 
+“
+Entity
+” means an individual, a partnership, a corporation, a firm, a limited liability company, a joint stock company, a trust, a joint venture, an unincorporated organization, an estate, a labor union or other legal entity. 
+“
+Fees
+” means the sum of the Marqeta fees and charges (including any revenue sharing) incurred by Client for the Services pursuant to the terms and conditions of this Agreement as set forth in 
+Schedule F
+. 
+“
+Go Live Date
+” means the earlier of the date that (i) Client has been provided access by Marqeta to Marqeta’s production APIs (as described in the Implementation Plan) and the ability to create live production Accounts through Marqeta’s API; or (ii) is six (6) months following the Effective Date. 
+“
+Implementation Plan
+” has the meaning given in Section 2 of the Program Terms. 
+“
+Implementation Services
+” has the meaning given in Section 2 of the Program Terms. 
+2 
+“
+Include
+”, “
+includes
+” and “
+including
+”, whether or not capitalized mean “include without limitation”, “includes without limitation”, and “including without limitation.” 
+“
+Initial Term
+” has the meaning given in Section 3(a) of the Program Terms. 
+“
+Instructions
+” means all information, data, manuals and instructions provided by Client to Marqeta. 
+“
+Intellectual Property Rights
+” means the rights related to patents, trademarks, rights of publicity, copyrights, related pending registrations, inventions, processes, Trade Secrets or other proprietary rights throughout the world. 
+“
+Issuing Bank
+” means any financial institution, including a replacement Issuing Bank, with which Marqeta has a written agreement for the issuance of Cards that is duly qualified to issue Cards on a Card Brand. 
+“JIT” means Marqeta’s proprietary technology and systems that enables Client to authorize or decline Card transactions via Marqeta’s API based on Client’s records. 
+“
+Marks
+” means an Entity’s name, trademarks, service marks and logo. 
+“
+Marqeta
+” has the meaning given on the first page of this Agreement. 
+“
+Marqeta Legal Requirements
+” has the meaning given in Section 1(c) of the General Terms and Conditions. 
+“
+Marqeta Materials
+” means any material provided to Client by or on behalf of Marqeta, or in connection with this Agreement, including (a) Marqeta Marks, (b) Card Brand Marks, (c) Issuing Bank Marks, and (d) marketing, service description and promotional materials of Marqeta. 
+“
+Marqeta Personnel
+” means Affiliates, employees, officers, directors, agents, representatives and subcontractors of Marqeta. 
+“
+Marqeta Property
+” has the meaning given in Section 6(a) of the General Terms and Conditions. 
+“
+Marqeta System
+” means all systems, processes, procedures, models, algorithms, equipment and software controlled and data generated by Marqeta and used by Marqeta, including Marqeta’s APIs, to provide the Services. The Marqeta System shall not include (i) any systems, processes, procedures, equipment, software or services provided by Client or any third parties with whom Client has a direct contractual relationship as of the Effective Date, or (ii) any communications, networks or devices, including the Internet and any virtual private networks or e-mail systems, that are not within the control of Marqeta or any Marqeta Personnel. 
+“[***]” is defined in 
+Schedule F
+. 
+“
+New Additional Service
+” has the meaning given in Section 1(a)(ii) of the Program Terms. 
+“
+Parties
+” means Client and Marqeta 
+“
+Party
+” means either Client or Marqeta. 
+“
+Personnel
+” means Affiliates, employees, officers, directors, agents, representatives and subcontractors of the applicable Party. 
+“
+Processing Services
+” means Marqeta’s proprietary open and closed loop Account creation, maintenance, transition and closure services; Account load, payment transaction authorization and processing (including purchase and other transaction tracking and accounting), and related services such as reconciliation, statement preparation, settlement facilitation, Marqeta API access, spend control features and real-time and just-in-time funding configurations and functionality , event notifications, and data access services; loyalty and reward and merchant specific account functionality services; and related services such as reporting and merchant onboarding all as more fully set forth on 
+Schedule F
+, as updated to from time to time by Marqeta. 
+3 
+“
+Program Management Services
+” means services consisting of the overall management of the Card Program, including managing the relationship with the Issuing Bank and Card Brand, obtaining Issuing Bank approvals, providing information required by Issuing Bank in connection with the Card Program, creation of Cardholder agreements, which shall be subject to Client review and approval, coordinating the activities of the parties, providing services in connection with the Card Program and Card Program monitoring and training, all as more fully set forth on 
+Schedule F
+, as updated from time to time by Marqeta. 
+“
+Regulator
+” means a governmental authority that is charged with monitoring, regulating and/or overseeing the business practices of the respective Parties or Issuing Bank, including Federal Financial Institutions Examination Council, the Board of Governors of the Federal Reserve System (FRB), the Federal Deposit Insurance Corporation (FDIC), the National Credit Union Administration (NCUA), the Office of the Comptroller of the Currency (OCC), the Consumer Financial Protection Bureau (CFPB), and the Financial Crimes Enforcement Network (FinCEN), state banking commissions, or any successor bodies that regulate financial institutions and financial service providers. 
+“
+Renewal Term
+” has the meaning given in Section 3(a) of the Program Terms. 
+“
+Retail Partner
+” means a retailer, if any, who makes incentives, rewards, goods or services available in connection with the Card Program through a separate agreement with Client, as contemplated by the Implementation Plan or otherwise agreed by the Parties. 
+“
+Services
+” means the services, functions and responsibilities consisting of Processing Services, Program Management Services and New Additional Services. 
+“
+Servicing Year
+” means a twelve (12) month period commencing on the Go Live Date. Each Servicing Year is identified in this Agreement by a numerical suffix corresponding to the order in which such Servicing Year will occur during the Term (e.g., the first Servicing Year of the Term is referred to as “Servicing Year 1,” the second Servicing Year of the Term is referred to as “Servicing Year 2,” etc.). 
+“
+Standard of Care
+” has the meaning given in Section 10(a) of the General Terms and Conditions. 
+“
+Term
+” means has the meaning given in Section 1(a) of the Program Terms. 
+“
+Trade Secret
+” means any proprietary information of a Party, including technical or non-technical data, formulas, patterns, compilations, computer programs and software, devices, drawings, processes, methods, techniques, data, lists of actual or potential customers and suppliers and other business information which (a) such Party derives economic value, actual or potential, from not being generally known to or readily ascertainable by other persons who can obtain economic value from its disclosure or use; and (b) is the subject of efforts by the disclosing Party or its Affiliates that are reasonable under the circumstances to maintain its secrecy. 
+“
+Transaction Data
+” means any data, exclusive of Client Data, used in or generated by the provision of Services. 
+“
+Transition
+” means Services delivered by Marqeta consisting of (a) the transfer of data relating to Accounts from Marqeta to Client or Client’s designee and (b) the migration of the processing, card servicing, program management and related operations performed by Marqeta to Client or Client’s designee. 
+“
+Update
+” means any enhancement, revision, update, upgrade, improvement, modification, correction or new release of any portion of the Services made by Marqeta in connection with the Services. 
+Other terms used in this Agreement and defined in the context in which they are used shall have the meaning there indicated. 
+4 
+SCHEDULE D 
+FEES - PROGRAM SETUP & PROCESSING SERVICES 
+The following services and fees are integral to the delivery of the Services and are a material component of the Agreement. 
+Program Setup 
+Item
+Description
+Unit
+Fee
+[***]
+[***]
+[***]
+[***]
+Processing Services Fees 
+Item
+Description
+Unit
+Fee
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+1 
+Processing Services Fees (continued) 
+Item
+Description
+Unit
+Fee
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***] 
+System Access Fee
+ 
+Item
+Description
+Unit
+Fee
+[***]
+[***]
+[***]
+[***]
+Revenue Sharing: 
+[***] 
+Interchange 
+[***]
+ Fee
+Marqeta will share with Client a portion of the Net Interchange it receives from the Issuing Bank related to settled [***] transactions from the Client Program and the provision of the Services (“
+[***] Interchange [***] Fee
+”), as per the table below. For the purposes of the [***] Interchange [***] Fee, “Net Interchange” shall mean [***]. 
+Item
+[***] Transaction Volume
+% of Net Interchange Shared with Client
+[***]
+[***]
+[***]
+2 
+SCHEDULE E 
+PERFORMANCE STANDARDS 
+(a)
+Regular Business Hours. 
+Marqeta’s regular business hours are from 8:30am to 5:30pm Pacific Time, Monday through Friday, excluding federal bank holidays. 
+(b)
+“Measurement Period” 
+means [***]. 
+(c)
+Uptime Requirements. 
+The online request availability Performance Standard is measured by the time when the Marqeta platform is available to support API calls from Client, send JIT authorization requests to Client, receive JIT authorization responses from Client, and receive authorization requests from the Card Brands. The requirement will be [***] or greater in any given [***]. 
+(d)
+Response Requirements
+. The API Response Time Performance Standard is measured by the time that it takes for the Marqeta platform to respond to API calls from Client. The requirement for this “Service Level” is a maximum response time of [***] or less for at least [***] of all requests during any given [***]. Marqeta will provide Client a minimum of [***] to respond to JIT requests. 
+(e)
+Planned Outages. 
+At least [***] in advance, Marqeta will notify Client of scheduled downtime for maintenance or upgrades (time where the Marqeta System is not available to Client) (“Scheduled Maintenance”). Scheduled Maintenance will not exceed more than [***].
+ 
+(f)
+Service Level Reporting
+. Client will notify Marqeta of any non-compliance with the Service Levels as soon as reasonably possible. If Marqeta becomes aware that a Service Level has been missed, then Marqeta will notify Client and provide information about the problem.
+ 
+(g)
+Service Level Credits
+. For any Measurement Period in which Marqeta does not meet a Service Level that constitutes a [***], Marqeta will pay Client the following amount, as applicable (each a “Service Level Credit”): 
+a.
+For the first failure to meet a Service Level in a Measurement Period that results in a Severity Level [***] incident, Marqeta will pay Client [***]. 
+b.
+For the second failure to meet a Service Level in a Measurement Period that results in a Severity Level [***] incident, Marqeta will pay Client [***]. 
+c.
+For the third (or more) failures to meet a Service Level in a Measurement Period that results in a Severity Level [***] incident, Marqeta will pay Client [***]. 
+(h)
+Without limiting the foregoing, Marqeta will respond to Client’s requests for support on issues relating to the Services in accordance with the table below (which are described in further detail below). The severity level assigned to issues will be determined in good faith by Client.
+ 
+(i)
+Severity Level Descriptions
+. 
+d.
+Severity Level 0 
+- [***]. 
+e.
+Severity Level 1 
+- [***]. 
+f.
+Severity Level 2 
+- [***]. 
+g.
+Severity Level 3 
+- [***]. 
+(j)
+Resolution
+. Technical support issues meeting the severity level descriptions set forth above will be addressed as set forth below:
+ 
+h.
+Severity Level 0 
+- Marqeta resources will initially respond within [***] of discovery by Marqeta or notice from Client of the issue, and will [***], to resolve all Severity Level 0 incidents until the issue has a temporary repair/workaround in place. A permanent repair will be performed during working hours. Upon request by Marqeta, Client will use reasonable efforts to make a designated contact available [***] to assist Marqeta resources in the investigation of the issue. 
+i.
+Severity Level 1 
+- Marqeta resources will initially respond [***] of discovery by Marqeta or of notice from Client of the issue, and work [***] to resolve all Severity Level 1 incidents until the issue has a temporary repair/workaround in place. A permanent repair will be performed during working hours. 
+j.
+Severity Level 2 
+- Marqeta resources will initially respond within [***] of notice from Client of the issue, and will work during working hours until a temporary repair is in place and then work to provide a permanent repair.
+ 
+k.
+Severity Level 3 
+- Marqeta resources initially respond within [***] of notice from Client of the issue, and will work during working hours to resolve Severity Level 3 incidents in order of their priority. 
+AMENDMENT NO. 1 TO MASTER SERVICES AGREEMENT 
+This Amendment No. 1 to Master Services Agreement (“
+Amendment
+”) is entered into this 1st day of September, 2016 (the “
+Amendment Effective Date
+”) by and between Square, Inc., a Delaware corporation, whose principal address is 1455 Market Street Suite 600, San Francisco, CA 94103 (“
+Client
+”), and Marqeta, Inc., a Delaware corporation, whose principal address is 6201-B Doyle Street, Emeryville, CA 94608 (hereinafter “
+Marqeta
+”), and amends that certain Master Services Agreement between Client and Marqeta dated April 19, 2016 (the “
+Original Agreement
+”). Capitalized terms used herein and not otherwise defined shall have the meaning ascribed to them in the Agreement. 
+WHEREAS, Client and Marqeta desire to amend the Original Agreement on the terms set forth in this Amendment. 
+NOW, THEREFORE, in consideration of the mutual obligations in this Amendment and for other good and valuable consideration, the receipt and sufficiency of which are acknowledged, the parties to this Amendment agree as follows: 
+1. Section 1(b) of Schedule A to the Original Agreement shall be deleted in its entirety and replaced with the following: 
+“(b) Instructions and Client Provided Information. 
+In performing its obligations and responsibilities under this Agreement, Marqeta shall be entitled to rely upon, without additional inquiry, Client Data, Consumer Cardholder Data, Transaction Data, Consumer Transaction Data and Instructions, as provided by Client to Marqeta; provided, however, that to the extent that Marqeta in good faith reasonably believes that any Instruction is contrary to the provisions of this Agreement, Applicable Law, Card Brand Rules, or requirements of the Issuing Bank, Marqeta shall promptly provide notice to Client setting forth in reasonable detail the reason for its belief, after which point the Parties agree to work together in good faith to resolve any issues resulting from such Instruction.” 
+2. Section 2 of Schedule B to the Original Agreement shall be amended to include new Sections 2(k), 2(l), 2(m) and 2(n) as follows: 
+“(k) 
+Consumer Cardholder Interface; Consumer Cardholder Agreement
+. Client shall be solely responsible for providing any required web and/or mobile interface to enable potential and actual Consumer Cardholders, as applicable, to provide appropriate permissions in connection with and obtaining Cards, receive disclosures and other information required by Applicable Law, Issuing Bank and the Cardholder Agreement, and manage their Accounts. Client shall not alter the consumer information that it receives from such Consumer Cardholders that Client provides to Marqeta. Client shall be able to track Consumer Cardholder’s acceptance of Card terms and conditions, Issuing Bank’s privacy policy and “opt-in” acceptance and withdrawals utilizing such interface, maintain and retrieve records of the forgoing, each on an individual Consumer Cardholder basis. Client shall require that Consumers provide and Client shall provide to Marqeta with the information Client receives from Consumer Cardholders, and any updates Client receives thereto, necessary for Issuing Bank to provide Consumer Cardholder Accounts with FDIC pass through insurance up to the limits provide for under Applicable Law. Promptly following Marqeta’s reasonable written or e-mail request, Client shall provide Marqeta, in a mutually agreeable format, with the contact information for each Consumer Cardholder, as such contact information is updated by the Consumer Cardholder from time to time; and agrees that Marqeta (on Issuing Bank’s behalf) or Issuing Bank may, to meet Issuing Bank’s regulatory requirements, communicate directly with Consumer Cardholders. Client shall comply with the terms and conditions in the Cardholder Agreement applicable to Client for Cards issued to Consumer Cardholders. 
+(l) 
+Customer Support and Communications
+. Client shall be solely responsible for providing, either directly or via a third party service provider approved by Issuing Bank, customer support for Consumer Cardholders and customer notifications in compliance with Issuing Bank’s requirements provided to Client. All such services shall be provided in a manner and only with content, including customer service scripts, approved by Issuing Bank. Client shall promptly inform Marqeta of all material complaints Client or its customer service representatives or providers receive from Consumer Cardholders in connection with the Program. 
+5 
+(m) 
+KYC
+. [***]. 
+(n) 
+Account Balance System of Record
+. Client shall (i) maintain the system of record for funds balances on the Accounts, including funds availability for transactions, and (ii) in response to receiving a Card transaction request from Marqeta via the Marqeta System, approve or decline the transaction; provided that Client shall not approve any Card transaction or partial transaction for more than the available balance.” 
+3. Section 11(a) of Schedule B to the Original Agreement shall be deleted in its entirety and replaced with the following: 
+“(a) Client Data and Cardholder Data. 
+(i) 
+Client Data
+. As between Client and Marqeta, Client Data and Transaction Data shall be owned by Client and Issuing Bank. Subject to Section 11(b) of these General Terms and Conditions, Marqeta may not use any Client Data or Transaction Data for any purpose except (i) to the extent such Client Data or Transaction Data is necessary for Marqeta to perform its obligations under this Agreement; (ii) internally to provide and improve the Services and to perform fraud screening, verify identities, and verify the information contained in Accounts; (iii) as required by Issuing Bank to meets its regulatory obligations; or (iv) as required by any Regulator with jurisdiction over Issuing Bank or the Parties. 
+(ii) 
+Consumer Cardholder Data, Consumer Card Data and Personal Data
+. 
+(A) As between Client and Marqeta, (i) Consumer Cardholder Data collected directly from Consumer Cardholders by Client in connection with obtaining and managing Cards shall be owned by Client and Issuing Bank; and Consumer Transaction Data shall be owned by Issuing Bank. Notwithstanding the foregoing, to the extent permissible by Applicable Law, an appropriate “opt-in” notice agreed to by Consumer Cardholders permitting Issuing Bank to provide Client with Consumer Transaction Data related to transactions from the use of Cards, Marqeta will make all such Transaction Data available to Client. Client may use such Consumer Cardholder Data and Consumer Transaction Data as permitted by Applicable Law, Issuing Bank’s privacy policy then in effect, such notice, and Consumer Cardholder’s right to rescind the permissions provided in such notice. 
+(B) The Parties acknowledge that, as between the Parties, all Consumer Card Data is owned by Issuing Bank. 
+(C) The Parties acknowledge and agree that Personal Data is subject to Applicable Law related to the use of nonpublic personal information, including the Gramm-Leach-Bliley Act and associated regulations. Marqeta and Client each agree to protect all Personal Data each Party receives or processes in relation to this Agreement in accordance with all Applicable Laws (including the Gramm-Leach-Bliley Act and associated regulations and state privacy laws), including but not limited to: (i) restricting employee and agent/subcontractor access to Personal Data, (ii) not disclosing Personal Data to any third Entity (except to Issuing Bank in the case of disclosure by Marqeta) without the other Party’s written permission, (iii) only disclosing Personal Data to the other Party to the extent necessary to perform the terms of this Agreement, (iv) applying appropriate security measures to protect Personal Data, and (v) deleting any Personal Data in its possession or control at the expiration or termination of this Agreement unless the other Party has received the same information independent of this Agreement or otherwise agreed between the Parties, and subject to the Parties’ data retention policies and Issuing Bank requirements. In the event of any unauthorized, unlawful, and/or unintended processing, access, disclosure, exposure, alteration, loss, or destruction of Personal Data by a Party, such Party will immediately notify the other Party and will investigate and remediate such incident and provide appropriate response and redress to the Persons effected and will inform the other Party of such actions. 
+(iii) Marqeta and Issuing Bank’s Independent Use of Data. Marqeta agrees that it will only use Personal Data, Cardholder Data and Transaction Data derived hereunder solely (A) in connection with (i) the provision of the Services, (ii) the performance of this Agreement, (iii) internal analyses and (iv) protecting 
+6 
+against actual or suspected fraud, unauthorized transactions claims or liability, and (B) otherwise to comply with Issuing Bank’s privacy policy, applicable law, and official state or federal inquiries. For the avoidance of doubt, Marqeta shall not use Personal Data, Cardholder Data nor Transaction Data to market its own products to Cardholders, nor for any other purpose not otherwise detailing in this Section 11(a)(iii). Marqeta shall, prior to launch, secure Issuing Bank’s written agreement to substantially comply with this Section 11(a)(iii) and share such written agreement with Client.” 
+4. Sections 11(c), 11 (d) and 11(e) of Schedule B to the Original Agreement shall be deleted in their entirety and replaced as follows: 
+“(c) Security Standards. 
+Marqeta shall implement security measures designed to (i) ensure the security, integrity and confidentiality of; (ii) protect against any anticipated threats or hazards to the security or integrity of; and (iii) protect against unauthorized access to or use of Client Data, Consumer Cardholder Data, Transaction Data and Consumer Transaction Data; all in accordance with Marqeta’s information security policy. In providing the Services, Marqeta will comply with all Applicable Laws and Card Brand Rules regarding debit card processing, customer privacy and payment account data security, including PCI standards. 
+(d) Unauthorized Application. 
+The Parties acknowledge and agree that Marqeta shall be solely responsible for the unauthorized or fraudulent application for, access to or use of Client Data, Consumer Cardholder Data, Transaction Data or Consumer Transaction Data by any Entity, when such unauthorized or fraudulent activity is caused by the negligent acts or omissions, gross or willful misconduct of Marqeta or its Personnel. 
+(e) Notice of Security Breach. 
+If Marqeta becomes aware of any unauthorized access to Client Data, Consumer Cardholder Data, Transaction Data or Consumer Transaction Data, Marqeta shall promptly report such incident to Client and describe in reasonable detail the circumstances surrounding such unauthorized access.” 
+5. The following definitions in Schedule C to the Original Agreement shall be deleted in their entirety and replaced as follows: 
+““
+Cardholder
+” means Client or Client’s authorized users of Cards, or an Entity that is a natural person, or such person’s authorized users of Cards. 
+“Transaction Data
+” means any data, exclusive of Client Data, used in or generated by the provision of Services in connection with Cards issued to Client.” 
+6. Schedule C to the Original Agreement shall be amended to add the following definitions: 
+““
+Card Data
+” means the Card or Account numbers or identifiers. 
+“
+Cardholder Data
+” means all data and information, including Personal Data, related to each Consumer Cardholder. 
+“
+Consumer Cardholder
+” means a Cardholder that is a natural person, or such person’s authorized users of Cards. 
+“Consumer Transaction Data
+” means any data, exclusive of Cardholder Data, used in or generated by the provision of Services in connection with Cards issued to Consumer Cardholders. 
+“Personal Data
+” means any information that can be used directly or indirectly, alone or in combination with other information, to identify an individual.” 
+7 
+7. The table setting for the [***] Interchange [***] Fee percentage in the Revenue Sharing section of Schedule D to the Original Agreement shall be deleted in its entirety and replaced as follows: 
+Item
+[***] Transaction Volume
+% of Net Interchange
+Shared with Client
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+8. [***]. 
+9. This Amendment and the Original Agreement set forth the parties’ entire agreement with respect to the subject matter thereof. Except as expressly modified hereby, the Original Agreement remains unmodified and each party’s rights and obligations thereunder remain in full force and effect. In the event of a conflict between any term or condition set forth in this Amendment and the Original Agreement, the terms and conditions of this Amendment shall govern and prevail. This Amendment may be executed in any number of counterparts, each of which shall be an original, but all of which together shall constitute one and the same agreement. Execution and delivery of this Amendment by exchange of facsimile copies bearing the facsimile signature of a party hereto or electronic email attachments bearing the facsimile or electronic signature of a party hereto shall constitute a valid and binding execution and delivery of this Amendment by such party in the same manner as an ink-signed original. 
+8 
+IN WITNESS WHEREOF, the parties have caused this Amendment to be executed by their duly authorized representatives as of the Amendment Effective Date. 
+SQUARE, INC.
+MARQETA, INC.
+By:
+/s/ Brian Grassadonia
+By:
+/s/ Omri Dahan
+Name:
+Brian Grassadonia
+Name:
+Omri Dahan
+Title:
+Square Cash Lead
+Title:
+Chief Revenue Officer
+Date:
+September 1, 2016
+Date:
+September 1, 2016
+SQUARE LEGAL APPROVAL
+By:
+/s/ Crissy Solh
+Name:
+Crissy Solh
+Title:
+Product Counsel
+Date:
+September 1, 2016
+9 
+AMENDMENT NO. 2 TO MASTER SERVICES AGREEMENT 
+This Amendment No. 2 to Master Services Agreement (“Amendment”) is entered into this 18th day of October, 2016 (the “
+Amendment Effective Date
+”) by and between Square, Inc., a Delaware corporation, whose principal address is 1455 Market Street Suite 600, San Francisco, CA 94103 (“
+Client
+”), and Marqeta, Inc., a Delaware corporation, whose principal address is 6201-B Doyle Street, Emeryville, CA 94608 (hereinafter “
+Marqeta
+”), and amends that certain Master Services Agreement between Client and Marqeta dated April 19, 2016 (the “
+Original Agreement
+”) as amended by the Amendment No. 1 to Master Services Agreement between Client and Marqeta dated September 1, 2016 (
+“Amendment No. 1
+” and collectively with the Original Agreement, the “
+Agreement
+”). Capitalized terms used herein and not otherwise defined shall have the meaning ascribed to them in the Agreement. 
+WHEREAS, Client and Marqeta desire to further amend the Agreement on the terms set forth in this Amendment. 
+NOW, THEREFORE, in consideration of the mutual obligations in this Amendment and for other good and valuable consideration, the receipt and sufficiency of which are acknowledged, the parties to this Amendment agree as follows: 
+SCHEDULE F
+ Section 2 of Schedule B to the Agreement shall be amended to include new Sections 2(o) as follows: 
+“(o) 
+Cards Added to Digital Wallet. 
+Client will (i) provide Marqeta and Issuing Bank with notice promptly upon the expiration or termination of any agreement or terms with a digital wallet provider for the provisioning of Cards into a digital wallet (“
+Digital Wallet Agreement
+”) and (2) remain in full compliance with the terms and conditions of any Digital Wallet Agreement at all times that Cards are provisioned into the Digital Wallet under this Agreement” 
+SCHEDULE G
+ This Amendment and the Agreement set forth the parties’ entire agreement with respect to the subject matter thereof. Except as expressly modified hereby, the Agreement remains unmodified and each party’s rights and obligations thereunder remain in full force and effect. In the event of a conflict between any term or condition set forth in this Amendment or the Agreement the terms and conditions of this Amendment shall govern and prevail. This Amendment may be executed in any number of counterparts, each of which shall be an original, but all of which together shall constitute one and the same agreement. Execution and delivery of this Amendment by exchange of facsimile copies bearing the facsimile signature of a party hereto or electronic email attachments bearing the facsimile or electronic signature of a party hereto shall constitute a valid and binding execution and delivery of this Amendment by such party in the same manner as an ink-signed original. 
+REMAINDER OF PAGE LEFT INTENTIONALLY BLANK 
+*SIGNATURE PAGE FOLLOWS* 
+IN WITNESS WHEREOF, the parties have caused this Amendment to be executed by their duly authorized representatives as of the Amendment Effective Date.
+ 
+SQUARE, INC.
+MARQETA, INC.
+BY:
+/s/ Brian Grassadonia
+By:
+/s/ Omri Dahan
+NAME:
+Brian Grassadonia
+NAME:
+Omri Dahan
+Title:
+Square Cash Lead
+TITLE:
+Chief Revenue Officer
+Date:
+October 18, 2016
+Date:
+October 18, 2016
+SQUARE LEGAL APPROVAL:
+BY:
+/s/ Crissy Solh
+NAME:
+Crissy Solh
+TITLE:
+Product Counsel
+DATE:
+October 18, 2016
+12/24/2016 
+Square, Inc. 
+1455 Market Street 
+San Francisco, CA 94103 
+Attn: Mr. Brian Grassadonia, Square Cash Lead 
+Dear Brian, 
+This letter addendum (“
+Letter Addendum
+”) references that certain Master Services Agreement between Marqeta, Inc. (“
+Marqeta
+”) and Square, Inc. (“
+Square
+”) dated April 19, 2016 as amended by Amendment No. 1 to Master Services Agreement dated September 1, 2016 and Amendment No. 2 to Master Services Agreement dated October 18, 2016 (collectively the “
+Agreement
+”). Capitalized terms that are not otherwise defined herein shall be defined as set forth in the Agreement. 
+Square has requested that Marqeta [***]. 
+This Letter Addendum and the Agreement constitute the entire agreement between the parties and supersede any other agreements between the parties in regards to the subject matter hereof. This Letter Addendum may be executed by the parties in separate counterparts and transmitted by fax or e-mail of a scanned copy, each of which when executed shall be deemed to be an original but all of which taken together shall constitute one and the same agreement. 
+Please confirm your agreement to the above provisions by executing a copy of this letter and returning it to me. 
+Very truly yours,
+Marqeta, Inc.
+By:
+/s/ Omri Dahan
+Omri Dahan
+Chief Revenue Officer
+AGREED TO AND ACKNOWLEDGED 
+Square, Inc. 
+By:
+/s/ Brian Grassandonia
+Name: Brian Grassadonia
+Title: Square Cash Lead
+AGREED TO AND ACKNOWLEDGED 
+Square, Inc, Legal 
+By:
+/s/ Crissy Solh
+Name: Crissy Sohl
+Title: Legal
+3 
+AMENDMENT NO. 3 TO MASTER SERVICES AGREEMENT 
+This Amendment No. 3 to Master Services Agreement (“Third Amendment”) is made by and between Square Inc. (“Client”), and Marqeta, Inc. (“Marqeta”), and amends the Master Services Agreement dated April 19, 2016 between Client and Marqeta as amended by the Amendment No I to Master Services Agreement dated September 1, 2016, Amendment No. 2 to Master Services Agreement dated October 18, 2016 and the Letter Addendum dated December 24, 2016 (collectively the Agreement”). This Third Amendment shall be effective upon full execution by the Parties. Capitalized terms which are not defined herein shall be defined as set forth in the Agreement. 
+For good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree to make the following changes to the Agreement in order to update Marqeta’s address, remove the requirement that Client maintain a separate Client Bank Account and add Issuing Bank as an explicit third party beneficiary to the Agreement:
+ 
+1.
+Marqeta’s principal address set forth in the opening sentence of the Agreement and the notice addresses set forth in Section 4 of Schedule A, Program Terms are all updated from “6201-B Doyle Street, Emeryville, CA 94608” to “180 Grand Avenue, 5th Floor, Oakland, CA 94612”. 
+2.
+Section 8(a) is deleted and restated as follows: 
+(a)
+Client Payment to Marqeta
+. 
+(i) 
+Fees
+. Client shall pay Marqeta all fees for all applicable Processing Services and the [***], as applicable, as set forth in Schedule D. Periodic charges under Schedule D shall be computed on a [***] basis and shall be prorated for any partial [***]. 
+(ii) 
+Taxes
+. All charges and fees to be paid by Client under the Agreement are exclusive of any applicable withholding, sales, use, excise, value added or other taxes. Any such taxes for which Marqeta is legally responsible to collect from Client shall be billed by Marqeta and paid by Client. 
+(iii) 
+Reserved
+. 
+(iv) 
+Statements, Invoices and Payments. 
+After the beginning of each [***] during the Term, Marqeta shall provide Client with a dated invoice setting forth the amount owed to Marqeta hereunder for the prior [***] (“
+[***] Payment Amount
+”), which invoice shall describe in reasonable detail the basis for such amount. Marqeta shall provide the invoice to Client either in writing or via electronic or API access. Client’s payment of the [***] Payment Amount shall be due within [***] of the date of the invoice. Notwithstanding the foregoing, Section 8(a)(vi) of these General Terms and Conditions shall govern the terms related to the deposit of Settlement Funds, and Marqeta’s related statement obligations and transfer rights. 
+(v) 
+Disputed Charges; Requests for Information. 
+Client may [***]. 
+(vi) 
+Card Funding and Settlement. 
+Client will [***]. 
+3.
+Section 16(i) is amended by adding the following sentence after the first sentence in the Section:
+Issuing Bank is a third-party beneficiary to this Agreement. 
+4.
+This Third Amendment and the Agreement constitute the entire agreement between the parties and supersede any other agreements between the parties in regards to the subject matter hereof. 
+5.
+This Third Amendment may be executed by the parties in separate counterparts and transmitted by tax or e-mail of a scanned copy, each of which when executed shall be deemed to be an original but all of which taken together shall constitute one and the same Agreement.
+ 
+IN WITNESS WHEREOF, the parties have by their duly authorized representatives executed this Third Amendment as of the dales set forth below. 
+Square, Inc.
+Marqeta, Inc.
+By:
+/s/ Brian Grassadonia
+By:
+/s/ Omri Dahan
+Name:
+Brian Grassadonia
+Name:
+Omri Dahan
+Title:
+Square Cash Lead
+Title:
+Chief Revenue Officer
+Date:
+6/29/17
+Date:
+July 1, 2017
+ 
+AMENDMENT NO. 4 TO MASTER SERVICES AGREEMENT 
+This Amendment No. 4 to Master Services Agreement (“
+Fourth Amendment
+”) is made by and between Square, Inc. (“Client”), and Marqeta, Inc. (“Marqeta”), and amends the Master Services Agreement dated April 19, 2016 between Client and Marqeta as amended by the Amendment No. 1 to Master Services Agreement dated September 1, 2016, Amendment No. 2 to Master Services Agreement dated October 18, 2016, the Letter Addendum dated December 24, 2016, and Amendment No. 3 to Master Services Agreement dated June 30,2017 (collectively the “
+Agreement”
+). This Fourth Amendment shall be effective upon full execution by the Parties. Capitalized terms which are not defined herein shall be defined as set forth in the Agreement. 
+For good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree to make the following changes to the Agreement in order to update Marqeta’s address, remove the requirement that Client maintain a separate Client Bank Account and add Issuing Bank as an explicit third party beneficiary to the Agreement:
+ 
+1.
+Section 8(a)(vi) is deleted and restated as follows:
+“(vi) Card Funding and Settlement. 
+Client will [***].
+ 
+2.
+This Fourth Amendment and the Agreement constitute the entire agreement between the parties and supersede any other agreements between the parties in regards to the subject matter hereof.
+ 
+3.
+This Fourth Amendment may be executed by the parties in separate counterparts and transmitted by fax or e-mail of a scanned copy, each of which when executed shall be deemed to be an original but al! of which taken together shall constitute one and the same Agreement.
+IN WITNESS WHEREOF, the parties have by their duly authorized representatives executed this Fourth Amendment as of the dates set forth below. 
+Square, Inc.
+Marqeta, Inc.
+By:
+/s/ Brian Grassadonia
+By:
+/s/ Omri Dahan 
+Name:
+Brian Grassadonia
+Name:
+Omri Dahan
+Title:
+Square Cash Lead
+Title:
+Chief Revenue Officer
+Date:
+8/2/17
+Date:
+August 3, 2017
+ 
+AMENDMENT NO. 5 TO MASTER SERVICES AGREEMENT
+ 
+This Amendment No. 5 to Master Services Agreement (“
+Fifth Amendment
+”) is made by and between Square, Inc. (“
+Client
+”), and Marqeta, Inc. (“
+Marqeta
+”), and amends the Master Services Agreement dated April 19, 2016 between Client and Marqeta as amended by the Amendment No. 1 to Master Services Agreement dated September 1, 2016, Amendment No. 2 to Master Services Agreement dated October 18, 2016, the Letter Addendum dated December 24, 2016, Amendment No. 3 to Master Services Agreement executed by Client on or about June 30, 2017 and Amendment No. 4 to Master Services Agreement executed by Client on or about August 2nd, 2017 (collectively the “
+Agreement
+”). This Fifth Amendment shall be effective upon full execution by the Parties. Capitalized terms which are not defined herein shall be defined as set forth in the Agreement. 
+For good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree to make the following changes to the Agreement: 
+1. Schedule C to the Original Agreement shall be amended to add the following definitions: 
+“
+Business Cardholder
+” means a Cardholder that is an Entity that is using the Card for purposes related to the Cardholder’s business. 
+“
+Business Transaction Data
+” means any data, exclusive of Cardholder Data, used in or generated by the provision of Services in connection with Cards issued to Business Cardholders. 
+2. For the purposes of this Agreement Business Cardholders will be treated in the same manner as Consumer Cardholders and Business Transaction Data will be treated in the same manner as Consumer Transaction Data, unless otherwise provided herein. 
+3. Schedule D to the Agreement is amended by deleting the table setting forth the [***] Interchange [***] Fee percentage in the Revenue Sharing Section as added by Amendment No. 1 to Master Services Agreement and replacing it with the following new language:
+ 
+Item
+% of Net Interchange Shared with Client
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+4. This Fifth Amendment and the Agreement constitute the entire agreement between the parties and supersede any other agreements between the parties in regards to the subject matter hereof. 
+5. This Fifth Amendment may be executed by the parties in separate counterparts and transmitted by fax or e-mail of a scanned copy, each of which when executed shall be deemed to be an original but all of which taken together shall constitute one and the same Agreement. 
+IN WITNESS WHEREOF, the parties have by their duly authorized representatives executed this Fifth Amendment as of the dates set forth below.
+ 
+Square, Inc.
+Marqeta, Inc.
+By: 
+/s/ Brian Grassadonia
+By:
+/s/ Omri Dahan 
+Name:
+Brian Grassadonia
+Name:
+Omri Dahan
+Title:
+Square Cash Lead
+Title:
+Chief Revenue Officer
+Date:
+9/29/2017
+Date:
+October 1, 2017
+1 
+AMENDMENT NO. 6 TO MASTER SERVICES AGREEMENT 
+This Amendment No. 6 to Master Services Agreement (“
+Amendment
+”) is effective as of April 1, 2018 (the “
+Amendment Effective Date
+”) by and between Square, Inc., a Delaware corporation, whose principal address is 1455 Market Street Suite 600, San Francisco, CA 94103 (“
+Client
+”), and Marqeta, Inc., a Delaware corporation, whose principal address is 180 Grand Avenue, 5th Floor, Oakland, CA 94612 (hereinafter “
+Marqeta
+”, and together with Client, the “
+Parties

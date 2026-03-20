@@ -1,0 +1,4525 @@
+EX-10.3
+
+7
+
+ex_679452.htm
+
+EXHIBIT 10.3
+
+ex_610609.htm
+
+Exhibit 10.3
+
+ 
+
+BFA MASTER SERVICES AGREEMENT
+
+ 
+
+ 
+
+among
+
+ 
+
+ 
+
+Each BFA Recipient Listed in Exhibit A,
+
+ 
+
+ 
+
+BlackRock Fund Advisors
+
+ 
+
+ 
+
+and
+
+ 
+
+ 
+
+The Bank of New York Mellon
+
+ 
+
+ 
+
+Dated as of October 24, 2023
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+1.
+
+BACKGROUND AND STRUCTURE
+
+1
+
+ 
+
+ 
+
+ 
+
+2.
+
+SERVICE PRINCIPLES
+
+2
+
+ 
+
+ 
+
+ 
+
+3.
+
+CUSTODY SERVICES
+
+4
+
+ 
+
+ 
+
+ 
+
+4.
+
+FUND ADMINISTRATION AND ACCOUNTING SERVICES
+
+5
+
+ 
+
+ 
+
+ 
+
+5.
+
+TRANSFER AGENCY SERVICES
+
+8
+
+ 
+
+ 
+
+ 
+
+6.
+
+PERFORMANCE; SERVICE LEVELS
+
+12
+
+ 
+
+ 
+
+ 
+
+7.
+
+PROVIDER PERSONNEL; USE OF LOCATIONS
+
+14
+
+ 
+
+ 
+
+ 
+
+8.
+
+BFA RESPONSIBILITIES; RELIANCE ON INFORMATION
+
+19
+
+ 
+
+ 
+
+ 
+
+9.
+
+FEES, INVOICING AND PAYMENT
+
+22
+
+ 
+
+ 
+
+ 
+
+10.
+
+TERM AND TERMINATION
+
+26
+
+ 
+
+ 
+
+ 
+
+11.
+
+DISENGAGEMENT ASSISTANCE
+
+32
+
+ 
+
+ 
+
+ 
+
+12.
+
+COMPLIANCE WITH LAWS, POLICIES AND USE RESTRICTIONS
+
+33
+
+ 
+
+ 
+
+ 
+
+13.
+
+DATA PROTECTION
+
+37
+
+ 
+
+ 
+
+ 
+
+14.
+
+PERSONAL INFORMATION
+
+41
+
+ 
+
+ 
+
+ 
+
+15.
+
+INTELLECTUAL PROPERTY RIGHTS
+
+42
+
+ 
+
+ 
+
+ 
+
+16.
+
+CONTRACT AND PROJECT MANAGEMENT
+
+44
+
+ 
+
+ 
+
+ 
+
+17.
+
+AUDIT / RECORDS / LEGAL DISCOVERY
+
+45
+
+ 
+
+ 
+
+ 
+
+18.
+
+CONFIDENTIALITY
+
+49
+
+ 
+
+ 
+
+ 
+
+19.
+
+REPRESENTATIONS AND WARRANTIES
+
+53
+
+ 
+
+ 
+
+ 
+
+20.
+
+INSURANCE AND RISK OF LOSS
+
+56
+
+ 
+
+ 
+
+ 
+
+21.
+
+INDEMNIFICATION
+
+56
+
+ 
+
+ 
+
+ 
+
+22.
+
+LIABILITY; LIABILITY LIMITATIONS
+
+61
+
+ 
+
+ 
+
+ 
+
+23.
+
+DISPUTE RESOLUTION
+
+63
+
+ 
+
+ 
+
+ 
+
+24.
+
+DEFINITIONS
+
+64
+
+ 
+
+ 
+
+ 
+
+25.
+
+MISCELLANEOUS
+
+73
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-i-
+
+ 
+
+ 
+
+Exhibit A
+
+BFA Recipients and Applicable Series
+
+Exhibit B
+
+Change Procedures 
+
+Exhibit C
+
+Governance Procedures
+
+Exhibit D
+
+Physical Security and Data Safeguards
+
+Exhibit E
+
+Disengagement Assistance
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Schedule 1-A
+
+Service Levels
+
+Schedule 1-B
+
+KPIs
+
+Schedule 1-C
+
+Commercial Terms Schedule
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-ii-
+
+ 
+
+ 
+
+MASTER SERVICES AGREEMENT
+
+ 
+
+This Master Services Agreement (this “
+Agreement
+”) is made and entered into on this 24
+th
+ day of October, 2023 (the “
+Effective Date
+”) by and among The Bank of New York Mellon, a bank organized under the laws of the state of New York (“
+Provider
+”), the entities (and respective funds and series thereof) set forth in 
+Exhibit A
+ (subject to 
+Section 1.3(a)
+, each, a “
+BFA Recipient
+”), and BlackRock Fund Advisors (“
+BFA
+”), acting on behalf of each of the BFA Recipients. Except as specifically stated, each BFA Recipient executing this Agreement will be obligating itself only with respect to itself, and not with respect to any other entity. References to a “
+Party
+” herein refer to either Provider or the applicable BFA Recipient or BFA Recipients, and references to the “
+Parties
+” herein refer to Provider, BFA and the applicable BFA Recipient or BFA Recipients. This Agreement consists of the general terms and conditions below and all Exhibits and Schedules attached hereto.
+
+ 
+
+NOW, THEREFORE, for and in consideration of the Parties’ agreements set forth below and intending to be legally bound, the Parties hereby agree as follows:
+
+ 
+
+1.
+
+BACKGROUND AND STRUCTURE
+
+ 
+
+1.1
+
+Background and Purpose.
+
+ 
+
+ 
+
+(a)
+
+The BFA Recipients are exchange-traded products.
+ 
+
+ 
+
+ 
+
+(b)
+
+Provider specializes in performing for other companies the types of services encompassed by the Services.
+
+ 
+
+ 
+
+(c)
+
+The purpose of this Agreement is to establish the general terms and conditions applicable to Provider’s provision of certain investment administration, accounting, cash custody, transfer agency, and related information technology services to the applicable BFA Recipients.
+
+ 
+
+1.2
+
+Objectives.
+ Subject to 
+Section 25.14(c)
+, the Parties have agreed upon the following objectives to be accomplished by this Agreement:
+
+ 
+
+ 
+
+(a)
+
+to leverage Provider’s capability to deliver Services in accordance with the Standard of Care;
+
+ 
+
+ 
+
+(b)
+
+to gain access to Provider’s high caliber, knowledgeable, experienced and skilled pool of resources that will provide each BFA Recipient with value-added strategic thought, vision and leadership; and
+
+ 
+
+ 
+
+(c)
+
+to use technologically current tools, Equipment and Software in performing the Services.
+
+ 
+
+1.3
+
+Structure of Agreement.
+
+ 
+
+ 
+
+(a)
+
+Master Services Agreement
+. This Agreement is a master agreement governing the relationship between the Parties solely with regard to Provider’s provision of Services to each BFA Recipient. Any iShares entity that has executed this Agreement but does not have any funds or series that are receiving Services hereunder as of the date hereof, shall not be a BFA Recipient nor bound by the terms hereof except and until any funds or series of such iShares entity is added in accordance with 
+Section 6.5
+ at which point such iShares entity and its respective funds and series thereof shall become BFA Recipients for all purposes hereunder.
+
+ 
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-1-
+
+ 
+
+ 
+
+ 
+
+(b)
+
+[Reserved]
+
+ 
+
+ 
+
+(c)
+
+Fees
+. Provider will charge each applicable BFA Recipient or BFA, on behalf of such BFA Recipient, for any Services rendered pursuant to this Agreement in accordance with the applicable terms and conditions set forth in 
+Schedule 1-C
+ (Commercial Terms Schedule). Provider will not charge any BFA Recipient or BFA, on behalf of such BFA Recipient, any implementation fees, except as set forth in 
+Schedule 1-C
+ (Commercial Terms Schedule).
+
+ 
+
+2.
+ 
+
+SERVICE PRINCIPLES
+
+ 
+
+2.1
+
+Generally.
+ Provider will provide the services, functions and responsibilities set forth in this Agreement, including any that may be modified in accordance with the Change Procedures set forth in 
+Section 2.4
+ and 
+Exhibit B
+ during the term of this Agreement and as they may be supplemented, enhanced, modified or replaced (collectively, the “
+Services
+”) for the applicable BFA Recipients:
+
+ 
+
+ 
+
+(a)
+
+the services, functions and responsibilities described in 
+Article 3
+, 
+Article 4
+ and 
+Article 5
+ and 
+Schedule
+ 
+1-A
+ (Service Levels) and 
+Schedule
+ 
+1-B
+ (KPIs) hereto, excluding any services, functions or responsibilities that are expressly described as the responsibility of BFA, a BFA Recipient or a third party (other than a Subcontractor); and
+
+ 
+
+ 
+
+(b)
+
+any services, functions or responsibilities not specifically described in this Agreement, but which are an inherent part of the Services and required for the proper performance or provision of the Services.
+
+ 
+
+Except as provided above, Provider will not be responsible for any duties or obligations that it does not expressly undertake to perform pursuant to the terms of this Agreement and no such duties will be implied or inferred. Provider’s duties will not include any obligation to monitor compliance by any BFA Recipient or any other person with any restriction or guideline imposed by such BFA Recipient’s formation or offering documents, by contract or by Law or otherwise, including, but not limited to, the manner in which the assets of the BFA Recipients are invested.
+
+ 
+
+2.2
+
+Non-Exclusive Services/Cooperation with Third Parties/New Services
+.
+
+ 
+
+ 
+
+(a)
+
+No Minimum Commitments
+. The Parties acknowledge that the Services contain no minimum volume or revenue commitments to be provided by BFA or any BFA Recipient to Provider.
+
+ 
+
+ 
+
+(b)
+
+Insourcing
+. BFA or any BFA Recipient may terminate any Service (or portion thereof) and bring the performance of such Service inhouse to be performed by BFA or any Affiliate thereof, provided that BFA or the BFA Recipient shall provide at least one hundred and eighty (180) days’ prior written notice of such termination to the Provider. In such event, the Parties will negotiate in good faith adjustments to the Fees, Service Levels, scope of the Services and the BFA Recipients to remain with Provider, as applicable; 
+provided
+, that if the Parties do not agree to such adjustments within twelve (12) months after Provider’s receipt of written notice, Provider may provide BFA with written notice to terminate the remaining Services in whole (or portion thereof, as agreed by BFA). For the avoidance of doubt, BFA and BFA Recipients shall be entitled to Disengagement Assistance after such termination.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-2-
+
+ 
+
+ 
+
+ 
+
+(c)
+
+Third Party Service Providers
+. Nothing set forth in this Agreement shall prohibit any entity for which BFA acts in a capacity as investment advisor, trustee and/or agent that is not a BFA Recipient as of the Effective Date from entering into an arrangement with third parties to provide to such entity (or respective fund or series thereof) services similar to the Services provided by Provider hereunder to the BFA Recipients.
+
+ 
+
+ 
+
+(d)
+
+New Services
+. BFA or any BFA Recipient may, at its discretion, perform itself or enter into arrangements with third parties to provide New Services.
+
+ 
+
+ 
+
+(e)
+
+Provider Cooperation
+. To the extent that BFA or any BFA Recipient performs any New Services itself or Services that it is permitted to perform for itself in accordance with the terms of this Agreement, or retains Third Party Providers to do so, Provider will cooperate and coordinate with such entities as BFA or such BFA Recipient reasonably requests, including by using Commercially Reasonable Efforts to modify its interfaces to those of the BFA Recipient or other Third Party Providers to ensure compatibility among such systems and those of Provider, subject to reimbursement by such BFA Recipient for material cost incurred by Provider.
+
+ 
+
+2.3
+
+Services Evolution.
+
+ 
+
+ 
+
+(a)
+
+Services Evolution
+. Throughout the Term (including any Extension Period or Renewal Term, if applicable), Provider will seek to improve the quality, efficiency and effectiveness of the Services to keep pace with technological advances and support the evolving business needs and efforts of each BFA Recipient to maintain competitiveness in the markets in which such BFA Recipient competes. Provider will do this by: (i) discussing with the BFA Recipients “best practice” techniques and methods in providing the Services; (ii) applying such techniques to the Services to the extent practicable and consistent with Provider’s overall servicing strategy; (iii) maintaining a reasonable training program for Provider Personnel in relevant new techniques and technologies that are used generally within Provider’s organization or first class international financial services providers of asset processing and related services; (iv) developing in conjunction with the applicable BFA Recipient a training program designed to train Provider Personnel and applicable Subcontractors in relevant new techniques and technologies used by the BFA Recipients or used generally at first class international financial services providers of asset processing and related services; and (v) making investments that Provider reasonably believes are necessary to maintain the currency of the tools, infrastructure and other resources Provider uses to render the Services. Upon request from any BFA Recipient, Provider will provide to such BFA Recipient any service that Provider is providing to another of its customers, subject to mutual agreement on equitable pricing and other terms for such services and applicable third party restrictions.
+
+ 
+
+2.4
+
+Changes.
+ The Change Procedures (as set forth in 
+Exhibit B
+) will be used by the Parties for all Changes to the Services. Except as otherwise provided herein or therein, each BFA Recipient reserves the right to reject Provider’s request for a Change to the Services if such BFA Recipient believes the proposed Change will have a material impact on the provision of the Services, or if such BFA Recipient or BFA, on behalf of such BFA Recipient, is required to pay any fee or contribute any other resources to the Change.
+
+ 
+
+2.5
+
+[Reserved]
+
+ 
+
+2.6
+
+Due Diligence Complete.
+ Provider hereby acknowledges that as of the Effective Date:
+
+ 
+
+ 
+
+(a)
+
+The BFA Recipients have delivered or made available to Provider information and documents Provider has deemed necessary, including information and documents requested by Provider, for Provider to understand fully its obligations under this Agreement; and
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-3-
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Provider’s due diligence is complete and there will be no changes to this Agreement related in any way to Provider’s performance or non-performance of its due diligence.
+
+ 
+
+3.
+
+CUSTODY SERVICES
+
+ 
+
+3.1
+
+Terms of Appointment as Cash Custodian.
+
+ 
+
+ 
+
+(a)
+
+Provider Appointed as Cash Custodian
+. Each BFA Recipient hereby appoints Provider as a custodian of such BFA Recipient’s cash (“
+Cash Assets
+”) delivered to Provider from time to time during the term of this Agreement for credit to such BFA Recipient’s separate cash deposit account or accounts (each, a “
+BFA Account
+”) and Provider agrees to act as such upon the terms and conditions hereinafter set forth.
+
+ 
+
+ 
+
+(b)
+
+Safekeeping
+. As custodian, Provider shall have general responsibility for the safekeeping of all such Cash Assets of each applicable BFA Recipient as listed in 
+Exhibit A
+ (as may be amended from time to time) that is received and accepted by Provider. All Cash Assets shall be segregated on Provider’s books and records from property held by Provider for its own account and for the account of Provider’s other customers, including the Cash Assets of any BFA Recipient from the Cash Assets of any other BFA Recipient. All such Cash Assets will be held or disposed of by Provider only upon receipt of Proper Instructions (which may be standing instructions).
+
+ 
+
+3.2
+
+Cash Assets.
+
+ 
+
+ 
+
+(a)
+
+On-book Accounts
+. Provider shall open, maintain and operate a separate deposit account or deposit accounts in the name of each BFA Recipient (or in another name requested by the BFA Recipient that is acceptable to Provider) for the deposit and collection of any and all Cash Assets in any currency supported and received by or on behalf of Provider for the account of the BFA Recipient (hereinafter referred to as “
+On-book Accounts
+”) on the books of Provider, and shall hold in such On-book Accounts, subject to the provisions hereof, all Cash Assets received by it from or for the account of the BFA Recipient. Each such On-book Accounts may be denominated in U.S. Dollars. Any amount standing to the credit of the On-book Accounts is a debt due from Provider, as banker to each applicable BFA Recipient. The responsibilities of Provider to each applicable BFA Recipient for deposits accepted on Provider’s books shall be that of a U.S. bank for a similar deposit held at a domestic branch office. The State of New York is the “bank’s jurisdiction” (as defined in UCC Section 9-304(b)) of Provider and any Affiliate of Provider with respect to each On-book Account and all funds credited thereto. Provider will use best efforts to ensure that such On-Book Accounts are insured to the maximum extent possible by all applicable deposit insurers including, without limitation, the Federal Deposit Insurance Corporation.
+
+ 
+
+ 
+
+(b)
+
+Deposit Insurance
+. Upon receipt of Proper Instructions, Provider shall take such reasonable actions as the applicable BFA Recipient deems necessary or appropriate to cause each deposit account established by Provider pursuant to this 
+Section 3.2
+ to be insured to the maximum extent permitted by all applicable deposit insurers including, without limitation, the Federal Deposit Insurance Corporation.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-4-
+
+ 
+
+ 
+
+3.3
+
+Segregation and Registration.
+ Provider will, upon receipt of Proper Instructions on behalf of each applicable BFA Recipient, establish and maintain additional BFA Accounts for and on behalf of each such BFA Recipient, into which account or accounts Cash Assets may be transferred.
+
+ 
+
+3.4
+
+Maintenance of Records.
+
+ 
+
+ 
+
+(a)
+
+At all times during the term of this Agreement, Provider shall furnish to the BFA Recipients access to Provider’s then-existing online, electronic account reporting and information system with respect to each BFA Recipient’s BFA Accounts. The Parties agree that the use of such system shall be subject to the https://nexen.bnymellon.com/app/nxn/termsOfUse or any successor website the address of which is provided by Provider to each BFA Recipient, except to the extent otherwise agreed by the Parties.
+
+ 
+
+ 
+
+(b)
+
+Provider will furnish each BFA Recipient with such daily information regarding the positions and activity of the BFA Recipient’s Cash Assets as Provider and such BFA Recipient will from time to time agree.
+
+ 
+
+3.5
+
+Provider will assist generally in providing data for BFA’s preparation of reports to shareholders and others, audits of accounts, and other ministerial matters of like nature.
+
+ 
+
+3.6
+
+Service Levels.
+ 
+Schedule 1-A
+ (Service Levels) and 
+Schedule 1-B
+ (KPIs) set forth the Service Levels and Key Performance Indicators applicable to the Services under this 
+Article 3
+. Provider will perform the Services under this 
+Article 3
+ in accordance with such Service Levels, Key Performance Indicators and 
+Article
+ 
+6
+.
+
+ 
+
+4.
+
+FUND ADMINISTRATION AND ACCOUNTING SERVICES
+
+ 
+
+4.1
+
+Provider Responsibilities.
+
+ 
+
+ 
+
+(a)
+
+Fund Administration and Accounting Services
+.
+
+ 
+
+ 
+
+(i)
+
+Each BFA Recipient is engaging Provider to provide the Fund Administration and Accounting Services specified in 
+Schedule 1-A
+ (Service Levels) with respect to such BFA Recipient subject to the terms and conditions of this Agreement. Provider agrees to act as such upon the terms and conditions hereinafter set forth.
+
+ 
+
+ 
+
+(ii)
+
+Provider agrees to provide the Fund Administration and Accounting Services, as described in 
+Schedule 1-A
+ (Service Levels), as such Schedule may be amended from time to time by the consent of the Parties, in connection with the operations of such BFA Recipient, which shall generally include the following:
+
+ 
+
+ 
+
+(A)
+
+Valuation and Computation Accounting Services
+.
+ 
+
+ 
+
+Provider shall provide the following valuation and computation accounting services for the BFA Recipient:
+
+ 
+
+ 
+
+(1)
+
+Journalize investment, capital share and income and expense activities;
+
+ 
+
+ 
+
+(2)
+
+Maintain individual ledgers for BFA Recipient assets;
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-5-
+
+ 
+
+ 
+
+ 
+
+(3)
+
+Maintain certain financial books and records for the BFA Recipient, including creation and redemption books and records, and BFA Recipient accounting records;
+
+ 
+
+ 
+
+(4)
+
+Maintain historical tax lots for BFA Recipient assets;
+
+ 
+
+ 
+
+(5)
+
+Reconcile Cash Assets (if applicable) and investment balances of the BFA Recipient with the BFA Recipient’s custodian;
+
+ 
+
+ 
+
+(6)
+
+Calculate various contractual expenses;
+
+ 
+
+ 
+
+(7)
+
+Calculate capital gains and losses;
+
+ 
+
+ 
+
+(8)
+
+Obtain quotes from Authorized Data Sources as directed and approved by BFA, or if such quotes are unavailable, then obtain such prices from BFA, and in either case, calculate the market value of the BFA Recipient’s assets in accordance with the BFA Recipient’s valuation policies or guidelines; 
+provided
+, 
+however
+, that Provider shall not under any circumstances be under a duty to independently price or value any of the BFA Recipient’s assets itself or to confirm or validate any information or valuation provided by BFA or any other pricing source, nor shall Provider have any liability relating to inaccuracies or otherwise with respect to such information or valuations;
+
+ 
+
+ 
+
+(9)
+
+Compute Net Asset Value and Net Asset Value per Share (as defined below), calculated in the manner described in the BFA Recipient’s Offering Materials;
+
+ 
+
+ 
+
+(10)
+
+Transmit or make available a copy of the daily portfolio valuation to BFA; and
+
+ 
+
+ 
+
+(11)
+
+Publish basket to NSCC [(or as designated by BFA by market value)] on each day on which trading occurs on the primary exchange on which the BFA Recipient’s shares trade.
+
+ 
+
+ 
+
+(B)
+
+Financial Reporting
+.
+
+ 
+
+Provider shall provide the following financial reporting services for the BFA Recipient:
+
+ 
+
+ 
+
+(1)
+
+Financial Statement Preparation & Review
+
+ 
+
+ 
+
+(2)
+
+Prepare financial statements for the BFA Recipient;
+
+ 
+
+ 
+
+(3)
+
+Prepare the BFA Recipient’s periodic shareholder reports, including certain information furnished by the BFA Recipient to Provider, as required pursuant to the Exchange Act; and
+
+ 
+
+ 
+
+(4)
+
+Prepare, circulate and maintain the BFA Recipient’s financial reporting production calendar;
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-6-
+
+ 
+
+ 
+
+ 
+
+(C)
+
+Fund Administration
+.
+
+ 
+
+Provider shall provide the following fund administration services for the BFA Recipient:
+
+ 
+
+ 
+
+(1)
+
+Establish appropriate expense accruals and compute expense ratios, maintain expense files and coordinate the payment of BFA Recipient approved invoices;
+
+ 
+
+ 
+
+(2)
+
+Calculate BFA Recipient approved income and per share amounts required for periodic distributions to be made by the BFA Recipient;
+
+ 
+
+ 
+
+(3)
+
+Calculate total return information;
+
+ 
+
+ 
+
+(4)
+
+Coordinate the BFA Recipient’s annual audit;
+
+ 
+
+ 
+
+(5)
+
+Supply various normal and customary portfolio and BFA Recipient statistical data as requested on an ongoing basis; and
+
+ 
+
+ 
+
+(6)
+
+Provide information as requested to support tax reporting
+
+ 
+
+ 
+
+(iii)
+
+In performing the Fund Administration and Accounting Services hereunder, Provider shall at all times act in conformity with and informed by: (i) the BFA Recipients’ Declaration of Trust or Articles of Incorporation (or other formation document) and by-laws (or similar document), as the same may be amended from time to time; (ii) the investment objectives, policies, restrictions and other practices set forth in the BFA Recipients’ registration statements (or other offering documents), as the same may be amended from time to time; and (iii) all applicable requirements of the Provider Laws.
+
+ 
+
+ 
+
+(b)
+
+Written Procedures
+. Written procedures applicable to the Fund Administration and Accounting Services and other Services to be performed hereunder may be established from time to time by mutual agreement of the Parties.
+
+ 
+
+4.2
+
+Digital Asset Related Information and Additional Reliances by Provider.
+
+ 
+
+ 
+
+(a)
+
+Provider shall calculate the BFA Recipient’s Net Asset Value in the manner described in the Prospectus. The method of valuation of Digital Assets or other assets and the method of computing the Net Asset Value shall be as set forth in the then currently effective Prospectus of the BFA Recipient. To the extent the description of the valuation methodology of Digital Assets, or computation of Net Assets Value as specified in the BFA Recipient’s then currently effective Prospectus is at any time inconsistent with any Laws, the BFA Recipient shall promptly so notify Provider in writing and thereafter shall either furnish Provider at all appropriate times with the values of such Digital Assets, and Net Asset Values, or instruct Provider in writing as to the appropriate valuation methodology to be employed by Provider to compute Net Asset Values in a manner that the BFA Recipient then represents in writing to be consistent with all applicable Laws. The BFA Recipient may also from time to time deliver to Provider a Proper Instruction to compute the Net Asset Values in a manner other than as specified in this Agreement (such Proper Instruction, a “
+Manager Mark
+”). By giving any Manager Mark, the BFA Recipient shall be deemed to have represented that such instruction is consistent with all applicable Laws and the then currently effective Prospectus. Provider shall have no duty, responsibility or obligation to validate, confirm, reconcile or otherwise verify any Manager Marks provided to Provider by or on behalf of the BFA Recipient in respect of Digital Assets or any other asset held by the BFA Recipient including, without limitation, any Manager Marks furnished by BFA or any BFA Affiliate. Provider shall have no responsibility for monitoring the BFA Recipient’s portfolio or investments to determine whether the BFA Recipient is in compliance with its investment objectives, guidelines and restrictions.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-7-
+
+ 
+
+ 
+
+ 
+
+(b)
+
+At any time and from time to time, the BFA Recipient may, if consistent with and to the extent permitted by the Prospectus, furnish Provider with bid, offer, index price, market values of assets or Manager Marks of Digital Assets and instruct Provider to use such information in its calculations hereunder. Provider shall, in its sole discretion during the Term, engage pricing or other similar service providers reasonably selected by Provider in connection with Provider’s provision of services hereunder; provided; however, and notwithstanding the foregoing, Provider shall at no time be required or obligated to commence or maintain either any utilization of, or subscriptions to, any securities pricing or similar service or any arrangements with any brokers, dealers or market makers, index providers or specialists, in each case, as described in the Prospectus.
+
+ 
+
+ 
+
+(c)
+
+In the event Provider’s computations hereunder rely, in whole or in part, upon information, including (i) bid, offer, index price, or market values of assets, or accruals of interest or earnings thereon, from an Authorized Data Source, or (ii) prices or values supplied by the BFA Recipient or by Authorized Data Sources described in the Prospectus, Provider shall not be responsible for, under any duty to inquire into, or deemed to make any assurances with respect to, the accuracy or completeness of such information. Provider shall not be required to inquire into any valuation of Digital Assets or other assets by the BFA Recipient or any third party described above, even though Provider in performing Services similar to the Services provided pursuant to this Agreement for others may receive different valuations of the same or different assets.
+
+ 
+
+ 
+
+(d)
+
+Provider, in performing the Services, shall be entitled to rely fully, without inquiry, on the accuracy and validity of any and all Proper Instructions, Manager Marks, explanations, information, specifications and documentation furnished to it by or on behalf of BFA or a BFA Recipient or any Third Party Provider, including the BFA Recipient’s Digital Asset custodian, and shall have no duty or obligation to review the accuracy, validity or propriety of such Proper Instructions, explanations, information, specifications or documentation, including the amounts or formula for calculating the amounts and times of accrual liabilities and expenses; and the amounts receivable and the amounts payable on the sale or purchase of Digital Assets or any other asset.
+
+ 
+
+5.
+
+TRANSFER AGENCY RELATED COVENANTS
+
+ 
+
+5.1
+
+Terms of Appointment.
+ Each BFA Recipient hereby employs and appoints Provider to act, and Provider agrees to act, as transfer agent for each BFA Recipient’s authorized and issued shares of beneficial interest (“
+Shares
+”), dividend disbursing agent and agent in connection with any accumulation, open-account or similar plans provided to the shareholders of each BFA Recipient (“
+Shareholders
+”) and set out in the then currently effective prospectus(es) and statement(s) of additional information (or similar document), as each may be amended from time to time (the “
+Prospectus
+”), of each BFA Recipient, including without limitation, any periodic investment plan or periodic withdrawal program.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-8-
+
+ 
+
+ 
+
+5.2
+
+Purchases and Redemptions.
+
+ 
+
+ 
+
+(a)
+
+Generally
+. Provider will duly process requests to purchase and redeem Shares of each BFA Recipient in accordance with the provisions of 
+Schedule 1-A
+ (Service Levels), which shall include the following activities:
+
+ 
+
+ 
+
+(i)
+
+Perform and facilitate the performance of purchases and redemption of Creation Units;
+
+ 
+
+ 
+
+(ii)
+
+Prepare and transmit by means of DTC’s book entry system payments for dividends and distributions on or with respect to the Shares, if any, declared by the BFA Recipient;
+
+ 
+
+ 
+
+(iii)
+
+Maintain the record of the name and address of the DTC and the number of Shares issued by the BFA Recipient and held by the DTC and the creation and redemption activity of each Authorized Participant;
+
+ 
+
+ 
+
+(iv)
+
+Record the issuance of Shares of the BFA Recipient and maintain a record of the total number of Shares of the BFA Recipient which are outstanding and authorized, based upon data provided to it by the BFA Recipient. Provider shall have no obligation, when recording the issuance of Shares, to monitor the issuance of such Shares or to take cognizance of any laws relating to the issue or sale of such Shares, which functions shall be the sole responsibility of the BFA Recipient.
+
+ 
+
+ 
+
+(v)
+
+Prepare and transmit to the BFA Recipient and BFA and to any applicable securities exchange (as specified to Provider by the BFA Recipient or its administrator) information with respect to purchases and redemptions of Shares;
+
+ 
+
+ 
+
+(vi)
+
+On days that the BFA Recipient may accept orders for purchases or redemptions, calculate and transmit to the Distributor and the BFA the number of outstanding Shares;
+
+ 
+
+ 
+
+(vii)
+
+On days that the BFA Recipient may accept orders for purchases or redemptions (pursuant to an Authorized Participant Agreement), transmit to Provider, the BFA Recipient and DTC the amount of Shares purchased or redeemed on such day;
+
+ 
+
+ 
+
+(viii)
+
+Confirm to DTC the number of Shares issued to the DTC, as DTC may reasonably request;
+
+ 
+
+ 
+
+(ix)
+
+Prepare and deliver other reports, information and documents to DTC as DTC may reasonably request;
+
+ 
+
+ 
+
+(x)
+
+Extend the voting rights to the DTC for extension by DTC to Shareholders and the beneficial owners of Shares in accordance with policies and procedures of DTC for book-entry only securities;
+
+ 
+
+ 
+
+(xi)
+
+Distribute or maintain, as directed by the BFA Recipient, amounts related to purchases and redemptions of Creation Units, dividends and distributions, variation margin on derivative securities and collateral;
+
+ 
+
+ 
+
+(xii)
+
+Maintain those books and records of the BFA Recipient specified by the BFA Recipient as set forth in Section 5.2(a)(xxi) below;
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-9-
+
+ 
+
+ 
+
+ 
+
+(xiii)
+
+Prepare a monthly report of all purchases and redemptions of Shares during such month on a gross transaction basis, and identify on a daily basis the net number of Shares either redeemed or purchased on such business day and with respect to each Authorized Participant (as defined in each Authorized Participant Agreement) purchasing or redeeming Shares, the amount of Shares purchased or redeemed;
+
+ 
+
+ 
+
+(xiv)
+
+Receive from the trustee, or BlackRock Investments, LLC (“BRIL”), an affiliate of the trustee, or from its agent, purchase orders from Authorized Participants for Creation Units of Shares received in good form and accepted by or on behalf of the BFA Recipient by the trustee or BRIL, transmit appropriate trade instructions to the National Securities Clearance Corporation, if applicable, and pursuant to such orders issue the appropriate number of Shares of the BFA Recipient and hold such Shares in the account of DTC for the Shares of the BFA Recipient;
+
+ 
+
+ 
+
+(xv)
+
+Receive from the trustee, or BRIL, Authorized Participant redemption requests, deliver the appropriate documentation thereof to the BFA Recipient’s sponsor or trustee with respect to redemptions, provide asssitance for BRIL to generate and transmit or cause to be generated and transmitted confirmation of receipt of such redemption requests to the Authorized Participants submitting the same; transmit appropriate trade instructions to the National Securities Clearance Corporation, if applicable, and pursuant to such orders redeem the appropriate number of s Shares of the BFA Recipient held in the account of the DTC for the Shares of the BFA Recipient; and
+
+ 
+
+ 
+
+(xvi)
+
+Confirm the name, U.S. taxpayer identification number and principal place of business of each Authorized Participant.
+
+ 
+
+ 
+
+(xvii)
+
+The BFA Recipient and/or BFA will be responsible for confirming the receipt of assets in connection with creation activity and the withdrawal of assets in connection with redemption activity prior to the creation or redemption of Creation Units by Provider. Provider has no responsibility to independently verify the accuracy of such information provided to it by the BFA Recipient.
+
+ 
+
+ 
+
+(xviii)
+
+Except as otherwise instructed by the BFA Recipient, Provider shall process all transactions for the BFA Recipient in accordance with the policies and procedures mutually agreed upon between the BFA Recipient and Provider with respect to the proper Net Asset Value to be applied to creation orders received in good order by Provider before any cut-offs established by the BFA Recipient, and such other matters set forth in items (i) through (xvi) above as these policies and procedures are intended to address.
+
+ 
+
+ 
+
+(xix)
+
+Provider may maintain and manage, as agent for the BFA Recipient, such accounts as Provider shall deem necessary for the performance of its duties under this Agreement, including, but not limited to, the processing of Creation Unit purchases and redemptions; and the payment of dividends and distributions. Provider may maintain such accounts at financial institutions deemed appropriate by Provider in accordance with applicable law.
+
+ 
+
+ 
+
+(xx)
+
+In addition to the services set forth above, Provider shall: perform the customary services of a transfer agent and dividend disbursing agent including, but not limited to, maintaining the account of BFA Recipient at DTC, maintaining the items set forth in the section immediately below, and performing such services identified in each Authorized Participant Agreement.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-10-
+
+ 
+
+ 
+
+ 
+
+(xxi)
+
+Books and Records to be Maintained by Provider in Connection with Transfer Agency Services:
+
+ 
+
+ 
+
+(A)
+
+Source Documents requesting Creations and Redemptions (including dates and times of orders)
+
+ 
+
+ 
+
+(B)
+
+Correspondence/Authorized Participant Inquiries
+
+ 
+
+ 
+
+(C)
+
+Reconciliations, bank statements, copies of canceled checks, cash proofs
+
+ 
+
+ 
+
+(D)
+
+Daily/Monthly reconciliation of outstanding Shares between the BFA Recipient and DTC
+
+ 
+
+ 
+
+(E)
+
+Dividend Records
+
+ 
+
+ 
+
+(F)
+
+Year-end Statements and Tax Forms
+
+ 
+
+ 
+
+(G)
+
+Provider shall maintain books on which the registered ownership of each Share and transfers, if any, of such registered ownership shall be recorded. 
+
+ 
+
+ 
+
+(b)
+
+Suspended or Discontinued Sale
+. Provider shall not be required to issue any Shares of a BFA Recipient where it has received a written instruction from the BFA Recipient (or BFA, on behalf of the BFA Recipient) or written notification from any appropriate federal or state authority that the sale of the Shares of the BFA Recipient in question has been suspended or discontinued, and Provider shall be entitled to rely upon such written instructions or written notification.
+
+ 
+
+ 
+
+(c)
+
+BFA Responsibilities
+. The BFA Recipient or its agent (which may be Provider or its Affiliate) will notify Provider of the declaration of any dividend or distribution. The BFA Recipient or its agent (which may be Provider or its Affiliate) shall furnish to Provider Proper Instructions specifying the date of the declaration of such dividend or distribution, the date of payment thereof, the record date as of which Shareholders entitled to payment shall be determined, the amount payable per share to Shareholders of record as of such record date and the total amount payable to Provider on the payment date.
+
+ 
+
+ 
+
+(d)
+
+Withholding of Payment
+. If Provider shall not receive sufficient cash to make payment to all Shareholders of the BFA Recipient as of the record date, the Proper Instruction referred to in 
+Section 5.2(b)
+ shall be deemed to be suspended until such time as Provider shall have received sufficient cash to make payment to all Shareholders of the BFA Recipient as of the record date. BFA and each BFA Recipient hereby acknowledges and agrees that Provider shall have no duty, responsibility or obligation with respect the facilitation of or the provision or performance of any services relating to, or in respect of, the receipt of and acceptance of payments for the purchase of Shares made by Authorized Participants in the form of Digital Assets and Provider shall have no duty, responsibility, or obligation in respect of the disbursement of any Digital Assets to any Authorized Participants including, but not limited to, as a form of redemption payment.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-11-
+
+ 
+
+ 
+
+ 
+
+(e)
+
+Taxes
+. It is understood that the trust is considered a “non-mortgage widely held fixed investment trust” for U.S. federal income tax purposes and Provider shall annually furnish a grantor trust tax reporting statement pursuant to Treasury Regulation Section 1.671-5. Provider shall withhold such taxes, penalties or other sums as are required to be withheld by applicable Provider Laws.
+
+ 
+
+ 
+
+(f)
+
+Written Procedures
+. Written procedures applicable to the Services to be performed hereunder may be established from time to time by mutual agreement of the Parties.
+
+ 
+
+5.3
+
+Covenants of Provider.
+
+ 
+
+ 
+
+(a)
+
+Provider hereby agrees to establish and maintain facilities and procedures reasonably acceptable to the BFA Recipient for safekeeping of BFA and BFA Recipient signature imprinting functions (e.g., signature stamps, electronic signatures), if applicable; and for the preparation or use, and for keeping account of, such signatures.
+
+ 
+
+ 
+
+(b)
+
+In case of any requests or demands for the inspection of the Shareholder records of the BFA Recipient, Provider will endeavor to notify the BFA Recipient and to secure instructions from an authorized officer of the BFA Recipient as to such request or demand. Provider reserves the right, however, to exhibit the Shareholder records to any person whenever it is advised by its counsel that it may be subject to enforcement or other action by any court or regulatory body for the failure to exhibit the Shareholder records to such person.
+
+ 
+
+ 
+
+(c)
+
+Provider shall promptly notify the BFA Recipients in the event its registration as a transfer agent as provided in Section 17A(c) of the Exchange Act is revoked or if any proceeding is commenced before the SEC that may lead to such revocation.
+
+ 
+
+ 
+
+(d)
+
+Provider shall at all times act in conformity with and be informed by: (i) the BFA Recipients’ Declaration of Trust or Articles of Incorporation (or other formation document) and by-laws (or similar document), as the same may be amended from time to time; (ii) the investment objectives, policies, restrictions and other practices set forth in the BFA Recipients’ Prospectus(es), as the same may be amended from time to time, which amendments shall be provided to Provider promptly after such amendments become effective; and (iii) all applicable requirements of the Securities Act, the Exchange Act, the USA PATRIOT Act of 2001, as amended, and any other laws, rules and regulations of Governmental Authorities with jurisdiction over Provider and all Provider Laws, as such may be applicable to the provision of Transfer Agency Services by Provider.
+
+ 
+
+6.
+
+PERFORMANCE; SERVICE LEVELS
+
+ 
+
+6.1
+
+Standard of Care.
+ Provider will perform the Services (including in selecting, retaining and using Subcontractors) in a manner that meets the following standards of performance (collectively, the “
+Standard of Care
+”) as applicable to each:
+
+ 
+
+ 
+
+(a)
+
+with the exercise of that level of care at least at the same standard of care as Provider provides for itself and/or its Affiliates with respect to similar services, and without the exercise of any Bad Acts;
+
+ 
+
+ 
+
+(b)
+
+in a manner reasonably designed to satisfy Provider’s obligations under this Agreement; and
+
+ 
+
+ 
+
+(c)
+
+with the skill and care that may reasonably be expected of a first class international financial services provider of asset processing and related services.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-12-
+
+ 
+
+ 
+
+6.2
+
+Service Levels.
+ Subject to the terms and conditions of this Agreement, each Party will perform its obligations under the Service Level Schedules and cause its third party providers to do likewise. Provider and the applicable BFA Recipients (or BFA, on behalf of the BFA Recipients) may agree, from time to time, to replace Key Performance Indicators with other Service Levels to be treated as such.
+
+ 
+
+6.3
+
+Performance Issues.
+
+ 
+
+ 
+
+(a)
+
+Provider Non-Performance
+.
+
+ 
+
+ 
+
+(i)
+
+If Provider becomes aware of a situation where it has failed or reasonably expects to fail (or a Subcontractor has failed or reasonably expects to fail) to comply with the Service Levels, or otherwise with its other obligations under this Agreement in any material respect, Provider will promptly inform the applicable Authorized Person of such situation, the situation’s impact or expected impact and Provider’s action plan to minimize or eliminate such impact.
+
+ 
+
+ 
+
+(ii)
+
+Provider will promptly notify such Authorized Person upon becoming aware of any circumstances that may reasonably be expected to jeopardize the timely and successful completion or delivery of any Service, Project or deliverable.
+
+ 
+
+ 
+
+(iii)
+
+Provider will inform such Authorized Person of any steps Provider is taking or will take to minimize, eliminate or remediate such impact, and the projected actual completion (or delivery) time.
+
+ 
+
+ 
+
+(b)
+
+BFA Recipient Non-Performance
+.
+
+ 
+
+ 
+
+(i)
+
+If a BFA Recipient becomes aware of a situation where it has failed or reasonably expects to fail (or a Third Party Provider has failed or reasonably expects to fail) to comply with its obligations hereunder in any material respect, such BFA Recipient will promptly inform Provider of the situation’s impact or expected impact.
+
+ 
+
+ 
+
+(ii)
+
+Provider will use Commercially Reasonable Efforts to perform its obligations on time and to prevent or circumvent such problem or delay, notwithstanding such BFA Recipient’s (or its Third Party Provider’s) failure to perform.
+
+ 
+
+ 
+
+(c)
+
+Service Failures
+.
+
+ 
+
+ 
+
+(i)
+
+To the extent Provider experiences a problem or delay in providing the Services, Provider will promptly notify the applicable Authorized Person and use Commercially Reasonable Efforts to continue performing the Services in accordance with the Service Levels.
+
+ 
+
+ 
+
+(ii)
+
+The BFA Recipients will use Commercially Reasonable Efforts to mitigate the impact of Provider’s non-performance to the extent the problem or delay relates to matters described in 
+Section 6.3(b)(i)
+.
+
+ 
+
+ 
+
+(iii)
+
+If Provider is unable to meet its obligations under this Agreement as a result of the matters described in 
+Section 6.3(b)(i)
+, Provider’s non-performance of the affected Services will be excused to the extent that Provider provides the affected BFA Recipients with reasonable notice of such non-performance and uses Commercially Reasonable Efforts to perform notwithstanding such BFA Recipient’s failure to perform.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-13-
+
+ 
+
+ 
+
+ 
+
+(iv)
+
+Material costs incurred by either Party in the event of a delay or failure for reasons outside of the control of the Parties will be allocated as agreed between the Parties.
+
+ 
+
+ 
+
+(d)
+
+Resource Reprioritization
+. If Provider becomes aware of a situation where it has failed or reasonably expects to fail (or a Subcontractor has failed or reasonably expects to fail) to comply with the Service Levels, or otherwise with its other obligations hereunder, Provider will use Commercially Reasonable Efforts to reprioritize or reset the schedule for Provider Personnel’s existing work activities without impacting the established schedule for other tasks or the performance of the Services in accordance with the Standard of Care. If an impact cannot be avoided, Provider will promptly notify the applicable Authorized Person of the anticipated impact.
+
+ 
+
+6.4
+
+Adjustments.
+ At least annually the Parties will review the Service Levels and will make adjustments to them as appropriate to reflect changing business priorities or improved performance capabilities associated with advances in technology and methods used to perform the Services.
+
+ 
+
+6.5
+
+Additional BFA Recipients.
+ If additional series of exchange-traded products in addition to those listed in 
+Exhibit A
+ hereto are established and BFA, on behalf of such series, desires to have Provider render Custody Services, Fund Administration and Accounting Services and/or Transfer Agency Services under the terms of this Agreement, it shall so notify Provider in writing, and if Provider agrees in writing to provide such Services, such series of exchange‑traded products shall each become a BFA Recipient hereunder and 
+Exhibit
+ 
+A
+ shall be appropriately amended. 
+Schedule 1-C
+ (Commercial Terms Schedule) will be amended as necessary if any classes are added to any BFA Recipient.
+
+ 
+
+7.
+
+PROVIDER PERSONNEL; USE OF LOCATIONS
+
+ 
+
+7.1
+
+Provider Personnel.
+ “
+Provider Personnel
+” means all of the employees of Provider and Provider Affiliates who perform any Services. A BFA Recipient may request, and Provider will furnish, a staffing plan regarding Provider Personnel for a Service at any time during the Term.
+
+ 
+
+ 
+
+(a)
+
+Qualifications
+. All Provider Personnel must be:
+
+ 
+
+ 
+
+(i)
+
+suitable and fully trained (including satisfying relevant regulatory training and competence requirements);
+
+ 
+
+ 
+
+(ii)
+
+properly supervised and subject to well-defined operating procedures;
+
+ 
+
+ 
+
+(iii)
+
+familiar with the products of the applicable BFA Recipient and the applicable regulatory requirements to the extent reasonably necessary for the performance of the applicable function; and
+
+ 
+
+ 
+
+(iv)
+
+available upon reasonable prior notice when required by a BFA Recipient for training.
+
+ 
+
+ 
+
+(b)
+
+Advisements
+. Provider acknowledges and agrees that, in the course of providing the Services, Provider Personnel may have access to, or acquire, knowledge of confidential, proprietary or sensitive information regarding the BFA Recipients or clients or other parties with whom the BFA Recipients have a relationship. Provider will advise such Provider Personnel of the standards imposed upon them with respect to the Services they render pursuant to the terms of this Agreement, which advisement may occur through, among other things, general policies (
+e.g.
+, standard of conduct) of Provider that are applicable to Provider Personnel.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-14-
+
+ 
+
+ 
+
+ 
+
+(c)
+
+Agreements
+. Provider shall at all times have in place with all Provider Personnel agreements (either directly or indirectly through their respective employers): (i) with respect to confidentiality, the scope of which includes BFA Confidential Information and which contains confidentiality obligations consistent with Provider’s obligations under this Agreement; and (ii) respecting Intellectual Property Rights as necessary for Provider to fulfill its obligations under this Agreement. This obligation with respect to Provider Personnel may be fulfilled through Provider’s general policies (
+e.g.
+, Provider standard of conduct) in effect from time to time, provided that such general policies are consistent with the requirements set forth herein.
+
+ 
+
+ 
+
+(d)
+
+Compliance with Code of Conduct
+. Provider will at all times through the Term maintain a code of conduct applicable to its personnel and enforce such code of conduct. Upon request by BFA or any BFA Recipient, Provider will provide a copy of such code of conduct to BFA or the applicable BFA Recipient.
+
+ 
+
+ 
+
+(e)
+
+Background Checks
+. Provider will maintain as part of its standard hiring practices a requirement to perform background checks with respect to Provider Personnel and Contract Workers and for its Subcontractors to perform background checks in accordance with applicable Law. To the extent permitted under applicable Law, Provider will conduct adequate background screenings based on FDIC guidelines, federal bonding requirements and any other applicable regulatory requirements on all Provider Personnel and Contract Workers who will provide Services to the BFA Recipients that, subject to any local Law restrictions or requirements, at a minimum address criminal and sanctions searches, and, for personnel in the United States, fingerprinting and drug testing as applicable given the nature of an individual’s position and role, in accordance with applicable Law. Provider will not assign to any BFA matter, any individual (i) that has been convicted of a crime involving dishonesty, breach of trust or money laundering, or (ii) is disqualified in accordance with FDIC guidelines. Provider or its Subcontractor will conduct pre-employment screenings of all new Provider Personnel and Contract Workers who will provide Services to the BFA Recipients in a manner consistent with Provider’s pre-employment screening policies and procedures. Upon BFA’s request, Provider will provide to BFA a summary of Provider’s hiring practices and pre-employment screening policies and procedures (including the typical background checks), for each location from which the Services (other than shared or centralized custody functions within Provider or technology infrastructure, development or support) are performed.
+
+ 
+
+ 
+
+(f)
+
+Resource Sufficiency; Reductions
+.
+
+ 
+
+ 
+
+(i)
+
+On a semi-annual basis (or at such frequency otherwise agreed to by the Parties), Provider will provide a report to the BFA Recipients indicating the headcount for Provider Personnel who are providing Services generally during the prior period. Such reports will reflect how resourcing is allocated across each function and provide status updates on any previously agreed to changes that are in process.
+
+ 
+
+ 
+
+(ii)
+
+During meetings on a semi-annual basis (or at such frequency otherwise agreed by the Parties), the Parties will discuss any concerns that the BFA Recipients may have with respect to any turnover and, as applicable, the plans of Provider to address excessive turnover, and the status of Provider’s implementation of such plans.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-15-
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+Provider will notify the BFA Recipients prior to implementing any plan to materially decrease its staffing of the Services.
+
+ 
+
+ 
+
+(g)
+
+Replacement
+. Any BFA Recipient may request that Provider reassign any Provider Personnel from the team that provides Services to such BFA Recipient on any lawful grounds. Provider will consider the input of such BFA Recipient when determining, at its sole discretion, whether to reassign such Provider Personnel. The timing for transfer, reassignment or replacement of Provider Personnel will be closely coordinated with the requirements for timing and other elements of the Services so as to maintain continuity in the performance of the Services.
+
+ 
+
+ 
+
+(h)
+
+Immigration
+. Each Party is responsible for handling and processing all immigration and employment-related issues and requirements (including processing visas and ensuring compliance with all applicable Laws) arising in connection with its personnel, and the other Party will not be required to participate in any such immigration or visa activities.
+
+ 
+
+ 
+
+(i)
+
+Non-Disclosure of Service Relationship
+.
+
+ 
+
+ 
+
+(i)
+
+Generally
+. During the Term, Provider (including its Affiliates and their personnel) will refrain from directly or indirectly publicly naming BFA, any BFA Recipient, or any of their products as customers of the Services in any marketing or advertising campaigns (including, without limitation, in any press release) without BFA’s or such BFA Recipient’s prior consent.
+
+ 
+
+ 
+
+(ii)
+
+Remediation
+. Provider will make reasonable efforts to promptly remediate any violation, including, if so requested by a BFA Recipient, by affirmatively retracting prohibited disclosures.
+
+ 
+
+ 
+
+(iii)
+
+Exceptions
+. Disclosures that would otherwise be prohibited under this 
+Section
+ 
+7.1
+ will be permitted if Provider determines based on advice of counsel, such disclosures are necessary for Provider to fulfill legal obligations or regulatory requirements. In addition to any other permitted disclosures, Provider will be permitted to disclose the identity of BFA or a BFA Recipient as a client (A) internally at Provider and Affiliates thereof (such permitted internal disclosure shall extend to Subcontractors), (B) in response to specific questions posed to Provider by securities analysts or institutional investors, (C) in any Provider RFP response, (D) in a list of representative clients in individual client presentations, or (E) upon consent of BFA, which will not be unreasonably withheld, conditioned or delayed. For the avoidance of doubt, Provider is permitted to include information with respect to the Services when Provider provides aggregated, non-client-specific statistics with respect to the scope of its overall industry servicing, including, without limitation, assets under custody and assets under administration.
+
+ 
+
+7.2
+
+Key Provider Positions.
+
+ 
+
+ 
+
+(a)
+
+Prior Notice of Removal/ Replacement
+. Provider shall not remove or replace with any other person, any individual serving in a Key Provider Position without providing prior notice to the BFA Relationship Manager unless such person in a Key Provider Position is being terminated or suspended and notification is not practicable under the circumstances.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-16-
+
+ 
+
+ 
+
+ 
+
+(b)
+
+BFA Review
+. Before assigning an individual to a Key Provider Position
+,
+ 
+whether as an initial assignment or as a replacement, Provider will: (i) notify the affected BFA Recipients of the proposed assignment; (ii) specify how long that individual has been employed by Provider; (iii) at a BFA Recipient’s request, introduce the individual to appropriate representatives of such BFA Recipient; and (iv) consult with such BFA Recipient prior to implementing such assignment. A BFA Recipient may reasonably request different or additional Key Provider Positions during the Term, and Provider will comply with such requests except as prohibited by applicable Laws. The Parties may agree upon other conditions relating to Key Provider Positions from time to time.
+
+ 
+
+ 
+
+(c)
+
+Governance Positions
+. The Parties will establish a governance structure for the provision of Services to the BFA Recipients in accordance with the governance procedures set forth in 
+Exhibit C
+ and will consult with one another with respect to the appointment of persons to the positions for internal face-off on day‑to-day matters. Each of Provider and the BFA Recipients, in its sole discretion, will make the final determination with respect to persons appointed on its behalf.
+
+ 
+
+7.3
+
+Subcontractors.
+
+ 
+
+ 
+
+(a)
+
+Notice and Approval
+. Provider will provide thirty (30) days’ prior written notice (in accordance with 
+Section 25.9
+) to any affected BFA Recipient of Provider’s intention to subcontract any of its obligations hereunder, except in connection with any Permitted Delegation. Provider will not under any circumstances subcontract any obligations hereunder, other than: (i) Permitted Delegations; and (ii) non-Core Services or auxiliary services that facilitate the Services which are a part of Provider’s platform (
+e.g.,
+ document warehousing and retrieval, print services, etc.), as otherwise permitted hereunder. Such notice will identify the proposed Subcontractor, and except with respect to any Permitted Delegation, Non-Core Services or auxiliary services, such BFA Recipient may reject any proposed Subcontractor if BFA, on behalf of any BFA Recipients, is not reasonably satisfied that (A) the Subcontractor’s personnel are suitably qualified, trained and supervised and/or (B) Provider’s arrangement with such Subcontractor satisfies the requirements set forth in this Agreement. Upon request therefor, Provider shall provide the BFA Recipients with a list of its global Subcontractors.
+
+ 
+
+ 
+
+(b)
+
+Subcontractor Services
+.
+
+ 
+
+ 
+
+(i)
+
+Except as expressly provided otherwise under this Agreement, Provider will remain responsible for obligations, services and functions performed by, and other acts or omissions of, its Subcontractors and their employees to the same extent as if these obligations, services and functions were performed by Provider, regardless of whether a BFA Recipient has exercised its right to reject Provider’s use of any proposed Subcontractor, as applicable.
+
+ 
+
+ 
+
+(ii)
+
+Provider will be the sole point of contact for each BFA Recipient with respect to Subcontractors.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-17-
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+Provider represents and warrants that, with respect to each existing or proposed Subcontractor of a material portion of the Services, it has (or will have) a due diligence and third party oversight program that meets regulatory requirements under Provider Laws and that Provider, acting reasonably, has determined is appropriate in light of the nature of the services performed by the Subcontractor and the nature of the information relating to Provider’s customers or a BFA Recipient’s customers that the Subcontractor is Processing or expected to be Processing. This due diligence includes and shall include, but not be limited to, matters relating to data security, technology recovery, and personnel background screening appropriate to the nature of sub-contracted Services, and Provider shall take appropriate action with respect to adverse findings arising out of its due diligence and other oversight. Provider shall, upon request, meet with BFA to discuss its due diligence and oversight program, both in general and, subject to any confidentiality provisions in the relevant subcontract, with respect to any given Subcontractor of a material portion of the Services.
+
+ 
+
+ 
+
+(iv)
+
+Provider will require that all Subcontractors and Permitted Delegations maintain policies and procedures with regard to confidentiality, data protection, compliance with Law, and security that are reasonably designed in light of the services being performed or information being Processed (including hosting, maintaining or accessing BFA Data). The Subcontractor and Permitted Delegations will be required to meet reasonably designed standards that are substantially similar in the aggregate to the policies and procedures required for Provider hereunder and applicable to Provider Personnel to the extent appropriate given the Services being performed and BFA Data being processed.
+
+ 
+
+ 
+
+(v)
+
+Provider will be responsible for providing BFA, each BFA Recipient, and their respective regulators with copies of records relating to the Subcontractor’s and , Permitted Delegation’s performance of its services with respect to the Services as may be reasonably necessary for BFA, the BFA Recipients and the regulators to exercise the audit and oversight rights contemplated by this Agreement. Subject to applicable Law and to the extent practicable and appropriate, in the context of the Services being subcontracted, Provider also shall use Commercially Reasonable Efforts upon request to obtain the Subcontractor’s and Permitted Delegation’s consent to allow BFA and its regulators direct (with Provider involvement) review and audit rights of such Subcontractors and Permitted Delegations.
+
+ 
+
+7.4
+
+Service Locations. 
+The Services (other than shared or centralized custody functions within Provider or technology infrastructure, development or support) will be provided initially from locations identified by Provider as of the Effective Date. In conjunction with the audit processes described in 
+Section 17
+, Provider will meet with BFA annually at an agreed upon date to review how the Services are provided from various locations and to address any inquiries BFA may have with respect thereto. Provider will provide from time to time upon request from BFA an updated list containing information regarding the locations from which the various components of the Services are provided. Additionally, Provider shall not perform any part of the Services in a country other than the countries identified by Provider as of the Effective Date as being locations from which the Services will be provided (a “
+New Country Location
+”) unless, notwithstanding applicable Law in that country, Provider is able to comply with the requirements of this Agreement relating to protection of BFA Data, including the requirements set forth in 
+Exhibit D
+. Provider shall consult with BFA in advance of performing a material part of the Services in a New Country Location and provide reasonable assurances to BFA of its ability to comply with those requirements. Furthermore, Provider shall not transfer a material part of the Core Services to a location outside the United States of America without BFA’s prior approval, which approval shall not be denied if BFA is reasonably satisfied that the personnel who will be providing the Core Services so transferred will be suitably qualified, trained and supervised. In this regard, if BFA does not object within sixty (60) days from its receipt of notice of the proposed transfer of the Core Services, BFA will have been deemed to have consented to any such proposed changes. Notwithstanding the foregoing, consistent with Provider’s business continuity planning, Provider may in its sole discretion without advance notice use a different location to provide Services if Provider determines such action is necessary or prudent to prevent business disruption.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-18-
+
+ 
+
+ 
+
+8.
+ 
+
+BFA RESPONSIBILITIES; RELIANCE ON INFORMATION
+
+ 
+
+8.1
+
+BFA Obligations.
+
+ 
+
+ 
+
+(a)
+
+Other than breaches by a BFA Recipient of its obligations to indemnify or adhere to obligations with respect to confidentiality or the use or protection of Provider’s Intellectual Property Rights, or failure by a BFA Recipient (or BFA, on behalf of a BFA Recipient), to pay undisputed amounts when due, the failure of a BFA Recipient to perform any of its responsibilities will not be deemed a breach of this Agreement solely for the purposes of determining Provider’s rights to terminate or suspend Services under this Agreement.
+
+ 
+
+ 
+
+(b)
+
+Subject to 
+Sections 6.3
+ and 
+8.1(a)
+ above, the BFA Recipients will:
+
+ 
+
+ 
+
+(i)
+
+perform, and cause Third Party Providers to perform, as required hereunder;
+
+ 
+
+ 
+
+(ii)
+
+give Provider such Proper Instructions as Provider reasonably requests to enable Provider to fulfill its duties and obligations hereunder;
+
+ 
+
+ 
+
+(iii)
+
+provide, and cause Third Party Providers to make available, information and data to Provider as reasonably required for Provider to be able to perform its obligations hereunder; and
+
+ 
+
+ 
+
+(iv)
+
+use commercially reasonable review and control procedures that are designed to ensure that:
+
+ 
+
+ 
+
+(A)
+
+all trade instructions delivered to Provider are duly authorized and comply with applicable Laws and internal compliance procedures, policies and investment restrictions applicable to such BFA Recipients; and
+
+ 
+
+ 
+
+(B)
+
+information and data provided by the BFA Recipients is accurate.
+
+ 
+
+ 
+
+(c)
+
+Except as otherwise provided herein, the BFA Recipients (or BFA, on behalf of the applicable BFA Recipients) will bear all expenses incurred by such BFA Recipients’ operation of their businesses. Notwithstanding the foregoing, BFA and the BFA Recipients will not be responsible for the cost of any conversions to Provider systems or changes required to be made to BFA Technology in order to accommodate such conversions, except to the extent such a Change is expressly requested to be accelerated or otherwise modified in any material respect by BFA or a BFA Recipient and with the agreement of BFA.
+
+ 
+
+ 
+
+(d)
+
+Deemed Representations and Warranties
+.
+
+ 
+
+ 
+
+(i)
+
+To the extent Provider is required to give (or is deemed to have given) any representation or warranty to a third party relating to any BFA Recipient in order to complete the relevant transaction in connection with the issuance or transmission of trade notifications, confirmations and/or settlement instructions, whether using facsimile transmission, industry messaging utilities and/or the proprietary software of Third Party Providers, clearing agencies, depositories and other securities systems, such BFA Recipient will be deemed to have made such representation or warranty to Provider, except to the extent that any breach or alleged breach of such representation or warranty results from Provider’s failure to perform its obligations hereunder in accordance with the Standard of Care.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-19-
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+To the extent that Provider is required to give (or will be deemed to give) any such representation or warranty relating to the BFA Recipients other than in accordance with normal market practices, it will notify and obtain the written consent of the BFA Recipients (or BFA, on behalf of the BFA Recipients) in advance of giving such representation or warranty.
+
+ 
+
+ 
+
+(iii)
+
+Provider will provide each BFA Recipient with a quarterly report setting forth all actions taken on behalf of such BFA Recipient under this 
+Section 8.1(d)
+.
+
+ 
+
+ 
+
+(e)
+
+Proper Instructions
+.
+
+ 
+
+ 
+
+(i)
+
+Provider will follow such authentication procedures as may be agreed upon with each BFA Recipient from time to time for purposes of verifying that purported Proper Instructions have been originated by an Authorized Person. The applicable BFA Recipient will cause all instructions to comply with such agreed upon procedures and shall cause oral instructions to be promptly confirmed in writing. Oral instructions may be accepted by Provider if it reasonably believes them to have been originated by an Authorized Person.
+
+ 
+
+ 
+
+(ii)
+
+The BFA Recipients acknowledge that the authentication procedures agreed to by the Parties are intended to provide a commercially reasonable degree of protection against unauthorized transactions of certain types and that such authentication procedures are not designed to detect errors. Such procedures may include the introduction of security codes or passwords in order that Provider may verify that electronic transmissions of instructions have been originated by an Authorized Person. Any purported Proper Instruction received by Provider in accordance with an agreed upon authentication procedure will be deemed to have originated from an Authorized Person and will constitute a Proper Instruction hereunder for all purposes.
+
+ 
+
+ 
+
+(iii)
+
+Provider will use Commercially Reasonable Efforts to act upon and comply with any subsequent Proper Instruction that modifies a prior instruction, but cannot guarantee that such efforts will be successful in the event that it has already acted upon the original Proper Instruction.
+
+ 
+
+ 
+
+(iv)
+
+Provider’s sole obligation with respect to any written Proper Instruction that is intended to confirm a prior oral instruction shall be to use Commercially Reasonable Efforts to detect any discrepancy between the original instruction and such confirmation in a manner consistent with the Standard of Care and to report such discrepancy to such BFA Recipient. Such BFA Recipient will be responsible, at its expense, for taking any action, including any reprocessing, necessary to correct any such discrepancy or error, and, to the extent such action requires Provider to act, such BFA Recipient will give Provider specific Proper Instructions as to the action required.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-20-
+
+ 
+
+ 
+
+ 
+
+(v)
+
+An appropriate officer of each BFA Recipient will maintain on file with Provider his or her certification to Provider, of the names, powers and signatures of the Authorized Persons. If there is any change in the information set forth in the most recent certification on file (including, without limitation, any person named in the most recent certification who is no longer an Authorized Person as designated therein), an appropriate officer of the applicable BFA Recipient will sign a new or amended certification that will include any additional or omitted names, signatures or powers. Provider will be entitled to rely and act upon any request, direction, instruction, or certification in writing that is signed by an Authorized Person of a BFA Recipient who is named in the most recent certification given to Provider by BFA (only with respect to such BFA Recipient). Any request, direction, instruction, or certification in writing signed by an Authorized Person of the BFA Recipient shall remain in effect only until such time as Provider has had a reasonable opportunity to begin to act upon the immediately subsequent request, direction, instruction, or certification in writing signed by an Authorized Person of the BFA Recipient.
+
+ 
+
+ 
+
+(vi)
+
+If and subject to appropriate security procedures agreed by the Parties, Proper Instructions may include communication effected directly between electromechanical or electronic devices.
+
+ 
+
+ 
+
+(vii)
+
+Provider will have no obligation to act in accordance with purported Proper Instructions to the extent Provider reasonably believes that they conflict with the terms of this Agreement or applicable Law; 
+provided
+, 
+however
+,
+ that Provider will have no obligation to ensure that any instruction received by it would not contravene any of the terms of this Agreement or any such Law.
+
+ 
+
+ 
+
+(viii)
+
+Provider will provide the relevant BFA Recipient with prompt notification if it decides not to act in accordance with purported Proper Instructions and such notice will specify the reasons for its determination.
+
+ 
+
+ 
+
+(ix)
+
+If the Parties are in disagreement with respect to the existence of such a conflict, the dispute will be escalated in accordance with the dispute resolution procedures under 
+Section 23
+, except that the Parties agree to accelerate the timeframes therein.
+
+ 
+
+ 
+
+(f)
+
+Signature Authority
+.
+
+ 
+
+ 
+
+(i)
+
+Each BFA Recipient will appoint Provider as its authorized signatory for the limited purpose of signing communications issued by Provider on behalf of and in the name of such BFA Recipient in connection with the discharge by Provider of its duties hereunder.
+
+ 
+
+ 
+
+(ii)
+
+Provider will exercise the foregoing authority in each instance by one of the following methods: (A) application of the facsimile signature of an authorized employee of any BFA Recipient, as the same may be provided by such BFA Recipient from time to time; (B) manual signature of a Provider employee authorized to act on behalf of such BFA Recipient; or (C) as otherwise agreed by the Parties from time to time.
+
+ 
+
+ 
+
+(iii)
+
+The Parties will at all times maintain an updated list of Provider Personnel authorized to exercise the signature authority conferred hereby.
+
+ 
+
+ 
+
+(iv)
+
+The authority of Provider granted under this 
+Section 8.1
+ will commence and be in full force and effect as of the Effective Date, and such authority will remain in force and be binding up to the time of the receipt by Provider of a written revocation of said authority and reasonable opportunity to act thereon or the termination or expiration of this Agreement.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-21-
+
+ 
+
+ 
+
+ 
+
+(v)
+
+Provider will provide each BFA Recipient with a quarterly report setting forth all actions taken on behalf of such BFA Recipient under this 
+Section 8.1(f)
+.
+
+ 
+
+8.2
+
+Reliance on Information.
+
+ 
+
+ 
+
+(a)
+
+In the course of discharging its duties hereunder, Provider may act in reasonable reliance on the data and information provided to it by or on behalf of a BFA Recipient or by any persons authorized by a BFA Recipient including, without limitation, any Third Party Providers or Authorized Data Sources, provided such data or information does not conflict with Proper Instructions.
+
+ 
+
+ 
+
+(b)
+
+Provider will perform certain reconciliations, variance or tolerance checks or other specific forms of data review: (i) as specified herein; and (ii) in a manner consistent with all applicable procedures of Provider. Except as provided in the preceding sentence, Provider will have no responsibility for, or duty to review, verify or otherwise perform any investigation as to the completeness, accuracy or sufficiency of, any data or information provided by any BFA Recipient, any persons authorized by any BFA Recipient or any Third Party Providers, including, without limitation, any Authorized Data Sources or Authorized Persons. Provider will promptly notify the relevant BFA Recipient if it becomes aware that any information received by it is incomplete, inaccurate or insufficient in a material respect, or in the event of a failure or delay by any person to provide information required by Provider to discharge its duties hereunder.
+
+ 
+
+8.3
+
+Digital Asset Acknowledgements.
+
+ 
+
+ 
+
+(a)
+
+Each BFA Recipient acknowledges that the Services will under no circumstances include any service, function or activity that would constitute a “virtual currency business activity” for purposes of regulations issued by the Superintendent of the New York State Department of Financial Services (23 N.Y.C.R.R. Part 200).
+
+ 
+
+ 
+
+(b)
+
+Each BFA Recipient acknowledges that the BFA Recipient will be solely responsible for ensuring that the Services are suitable for the BFA Recipient’s intended purpose, including without limitation, ensuring and verifying that such Services, and BFA Recipient’s use thereof, will comply with Digital Asset Laws. Each BFA Recipient acknowledges and agrees that the Services provided by Provider pursuant to this Agreement are not intended to, and do not constitute, the performance of any oversight or supervisory function required by such Digital Asset Laws. Nothing contained herein, expressed or implied, is intended or shall be construed to confer upon Provider any duty or obligation to ensure that the BFA Recipeint or any related entities are acting in compliance with any Digital Asset Laws.
+
+ 
+
+9.
+ 
+
+FEES, INVOICING AND PAYMENT
+
+ 
+
+9.1
+
+Fees.
+
+ 
+
+ 
+
+(a)
+
+For the Services rendered pursuant to 
+Article 3
+, 
+Article 4
+ or 
+Article 5
+, the BFA Recipient (or BFA, on behalf of the BFA Recipient) agrees to pay to Provider the fees and expenses set forth in 
+Schedule 1-C
+ (Commercial Terms Schedule) to this Agreement (the “
+Fees
+”). Unless otherwise agreed in 
+Schedule 1-C
+ (Commercial Terms Schedule), Provider will be responsible for the compensation of all Subcontractors and its other agents (in each case, to the extent selected by Provider).
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-22-
+
+ 
+
+ 
+
+ 
+
+(b)
+
+The applicable BFA Recipient (or BFA on behalf of the applicable BFA Recipient), will not be required to pay Provider any amounts for or in connection with performing the Services and fulfilling Provider’s obligations hereunder other than the Fees and any amounts that Provider is expressly permitted to charge under the terms of this Agreement.
+
+ 
+
+ 
+
+(c)
+
+Except as Provider and the applicable BFA Recipients may otherwise agree, amounts payable with respect to a Project or Change will be payable upon acceptance by such BFA Recipients in accordance with applicable acceptance testing procedures, if any.
+
+ 
+
+9.2
+
+Expenses.
+
+ 
+
+ 
+
+(a)
+
+Provider acknowledges and agrees that expenses that it incurs in performing the Services (including travel and lodging, document reproduction and shipping, and long distance telephone) are included in the charges and rates in 
+Schedule 1-C
+ (Commercial Terms Schedule). No such expenses will be separately reimbursable by BFA or the BFA Recipients. Notwithstanding the foregoing, out-of-pocket expenses as indicated in 
+Schedule 1-C
+ (Commercial Terms Schedule) shall be passed through and borne by the applicable BFA Recipients (or BFA, on behalf of a BFA Recipient).
+
+ 
+
+ 
+
+(b)
+
+Any travel and expenses incurred by Provider that the Parties agree are separately reimbursable by a BFA Recipient (or BFA, on behalf of a BFA Recipient), must be approved for reimbursement by such BFA Recipient (or BFA, on behalf of such BFA Recipient), in advance and incurred by Provider in accordance with the then current applicable travel and expense policy of such BFA Recipient (or BFA). The Parties may agree to additional limitations on Provider expenses from time to time.
+
+ 
+
+9.3
+
+Taxes.
+ “
+Taxes
+” means all taxes, levies or other like assessments, charges or fees, including, without limitation, income, gross receipts, excise, 
+ad valorem
+, property, goods and services, value added (“
+VAT
+”), import, export, sales, use, license, payroll, franchise, utility and privilege taxes or other taxes, fees, duties, charges, levies, regulatory fees, surcharges or assessments of any kind whatsoever (whether payable directly or by withholding), together with any interest and any penalties, additions to tax or additional amounts, imposed by the United States, or any state, county, local or foreign government or subdivision or agency thereof.
+
+ 
+
+ 
+
+(a)
+
+Property Taxes
+. Each Party is responsible for all real property, personal property, and similar 
+ad valorem
+ Taxes imposed on such Party with respect to any item of property that it owns or leases, to the extent applicable hereunder.
+
+ 
+
+ 
+
+(b)
+
+Income Taxes
+. Each Party is responsible for its own Taxes (including franchise and privilege Taxes) imposed on the performance or provision of Services that are based upon or measured by overall net or gross income or receipts over a period of time and any other Taxes incurred by such Party in connection with its business, except as otherwise provided in this 
+Section 9.3
+.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-23-
+
+ 
+
+ 
+
+ 
+
+(c)
+
+Withholding Taxes
+.
+
+ 
+
+ 
+
+(i)
+
+Any and all payments made by a BFA Recipient (or BFA, on behalf of a BFA Recipient), hereunder will be made free and clear of and without deduction or withholding for any and all Taxes; 
+provided
+, 
+however
+, that if the applicable BFA Recipient is required under applicable Law to deduct or withhold any taxes from such payments, then: (A) the sum payable will be decreased as necessary for all required deductions or withholdings (including deductions or withholdings applicable to additional sums payable under this 
+Section 9.3
+); (B) such BFA Recipient will make such deductions or withholdings; and (C) such BFA Recipient or BFA, on behalf of such BFA Recipient, will pay the full amount deducted or withheld to the relevant Governmental Authority in accordance with applicable Law.
+
+ 
+
+ 
+
+(ii)
+
+Without limitation to any applicable Service Levels:
+
+ 
+
+ 
+
+(A)
+
+Any such BFA Recipient will provide Provider with the appropriate certificates from the relevant Tax authorities confirming the amount of the Taxes withheld and paid over by such BFA Recipient in accordance with this 
+Section 9.3
+.
+
+ 
+
+ 
+
+(B)
+
+The Parties further agree to complete and submit to the relevant Tax authorities within a reasonable period of time such forms, certifications or other documents as may be required to reduce or establish an exemption from the requirement to withhold Tax on the payments by a BFA Recipient (or BFA, on behalf of a BFA Recipient), to Provider hereunder.
+
+ 
+
+ 
+
+(C)
+
+Provider will respond to reasonable requests by a BFA Recipient to complete and submit such forms, certifications or other documents as may be required to reduce or establish an exemption from the requirement to withhold Taxes on the payments.
+
+ 
+
+ 
+
+(d)
+
+Transfer Taxes
+. All charges and other sums payable hereunder are exclusive of any applicable excise, property, goods and services, VAT, import, export, sales, use, consumption, gross receipts (which are transactional in nature), utility, customs duties, or other Taxes, fees or surcharges (including regulatory fees or surcharges) relating to or assessed on the provision, purchase or consumption of the Services (including any equipment element, as applicable) hereunder (“
+Transfer Taxes
+”). All such Transfer Taxes shall be the responsibility of, and will be paid by, the applicable BFA Recipients. Provider will itemize on each invoice all Transfer Taxes and/or Transfer Tax credits due or owed by or to a BFA Recipient with respect to the Services covered by such invoice. Provider will adjust the Transfer Taxes applied to any charges in accordance with this 
+Section
+ 
+9.3
+ for any increases or decreases in the rate or changes in applicability of such Transfer Taxes during the Term. Provider shall properly invoice, collect and remit such Transfer Taxes to the appropriate taxing authority, and will bear any interest and penalties for failure to remit such Transfer Taxes in a timely manner to the appropriate taxing authority, provided that the applicable BFA Recipient has paid to Provider the invoiced amount corresponding to such Transfer Tax when due.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-24-
+
+ 
+
+ 
+
+ 
+
+(d)
+
+Refunds
+. If any taxing authority refunds any Transfer Tax to Provider that any BFA Recipient (or BFA, on behalf of any BFA Recipient) originally paid to Provider in accordance with this 
+Section 9.3
+, or Provider otherwise becomes aware that any such Transfer Tax was incorrectly and/or erroneously collected from any BFA Recipient (or BFA, on behalf of any BFA Recipient), or Provider otherwise receives an economic benefit (such as an audit offset) as the result of incorrectly and/or erroneously receiving such collected Transfer Taxes from any BFA Recipient (or BFA, on behalf of any BFA Recipient), then Provider will remit to any such BFA Recipient (or BFA, on behalf of such BFA Recipient) the amount of refund or tax erroneously or incorrectly collected, together with any interest thereon received from the relevant taxing authority. In accordance with 
+Section 9.3(h)
+, the BFA Recipients (or BFA, on behalf of any BFA Recipient) will as promptly as practicable take such reasonable actions to assist Provider in obtaining a refund (to the extent that Provider has not already received the refund) of the Transfer Taxes erroneously or incorrectly collected. The BFA Recipients (or BFA, on behalf of any BFA Recipient) will promptly forward to Provider any refund of Transfer Taxes erroneously or incorrectly collected (including interest paid on such refunds) that they may receive.
+
+ 
+
+ 
+
+(e)
+
+[Reserved]
+
+ 
+
+ 
+
+(f)
+
+Impact of Relocating or Re-Routing the Delivery of Services
+. Notwithstanding the provisions of 
+Section 9.3(d)
+, any Transfer Taxes assessed on the provision of the Services for a particular site resulting from Provider’s relocating or re-routing the delivery of Services for Provider’s convenience to, from or through a location other than the locations used to provide the Services as of the Effective Date will be borne by Provider, but only to the extent that they exceed the sum of the Transfer Taxes that otherwise would be payable by a BFA Recipient (or BFA, on behalf of a BFA Recipient) on the provision of the Services from, through or by the locations used to provide the Services as of the Effective Date and any reduction in the charges to a BFA Recipient that may arise as a result of such a change.
+
+ 
+
+ 
+
+(g)
+
+Provider Intra-Corporate Transfers
+. The calculation of Transfer Taxes, as applicable, will not include, and the BFA Recipients (or BFA, on behalf of the BFA Recipients) will not pay, any Taxes that are imposed on intra-corporate transfers or intermediate suppliers of the Services within Provider’s corporate family (including any Affiliates).
+
+ 
+
+ 
+
+(h)
+
+Cooperation and Notification
+. The Parties agree to fully cooperate with each other to enable each Party to more accurately determine its own Tax liability (insofar as it relates to the Services) and to minimize such liability to the extent legally permissible and administratively reasonable, including in connection with the filing of any Tax return or claim for refund, provided that this does not result in material costs (including additional Taxes) for the other Party. Each Party will provide and make available to the other any exemption certificates, resale certificates, information regarding out-of-state or out-of-country sales or use of equipment, materials or Services, and other information reasonably requested by the other Party. Each Party will notify the other within a reasonable amount of time of, and coordinate with the other on, the response to and settlement of any claim for Taxes asserted by applicable Tax authorities for which such other Party is responsible hereunder. If a situation occurs where Provider chooses to exercise its right to back bill the relevant BFA Recipients for Transfer Taxes incurred pursuant to any audit, notice or assessment for which such BFA Recipients (or BFA, on behalf of such BFA Recipients) are obligated to pay hereunder, Provider agrees to make every good faith effort to timely notify such BFA Recipients of its intent to exercise said right.
+
+ 
+
+ 
+
+(i)
+
+Other
+. Provider shall have no responsibility or liability to pay for any Taxes now or hereafter imposed on the BFA Recipients or on Provider with respect to the Cash Assets of any BFA Recipient by the tax laws of the United States (or of any state or political subdivision thereof) or any other political jurisdiction.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-25-
+
+ 
+
+ 
+
+9.4
+
+Invoicing and Payment Due.
+ 
+Schedule 1-C
+ (Commercial Terms Schedule) and this 
+Section 9.4
+ set forth the invoicing and payment terms and procedures associated with the charges payable to Provider for performance of the Services. Provider will include on each invoice the calculations used to establish the charges therein.
+
+ 
+
+ 
+
+(a)
+
+Supporting Documentation
+. Provider will maintain complete and accurate records of, and supporting documentation for, the amounts billable to and payments made by a BFA Recipient (or BFA, on behalf of a BFA Recipient), hereunder, in accordance with generally accepted accounting principles applied on a consistent basis. Provider will provide the applicable BFA Recipient (or BFA, on behalf of the BFA Recipient), with documentation and other information with respect to each invoice as may be reasonably requested by a BFA Recipient or BFA to verify accuracy and compliance with the provisions hereof.
+
+ 
+
+ 
+
+(b)
+
+Disputed Charges
+. Each BFA Recipient or BFA, on behalf of each BFA Recipient, will pay all charges (other than those that are disputed in accordance with the terms hereof) when those payments are due. A BFA Recipient (or BFA, on behalf of a BFA Recipient), may withhold payment of particular charges that the BFA Recipient (or BFA, on behalf of the BFA Recipient), disputes in good faith; 
+provided
+, 
+however
+, that such BFA Recipient (or BFA, on behalf of such BFA Recipient), sends Provider a written statement of the disputed portions within ninety (90) days of the time of the applicable withholding, stating in reasonable detail the nature of and reason for any such dispute. The Parties will work diligently and in good faith to effect an expeditious resolution of any such dispute. Except as otherwise agreed by the Parties from time to time, in no event will any BFA Recipient (or BFA, on behalf of any BFA Recipient), have the right to withhold any payment of any invoiced fees or expenses on the basis of dissatisfaction with the quality of the Services.
+
+ 
+
+ 
+
+(c)
+
+Invoice Aging
+. No BFA Recipient (nor BFA, on behalf of any BFA Recipient), will be required to pay any invoices issued by Provider or any third party more than three (3) months after the month on which the fees owed thereunder have accrued. Notwithstanding the foregoing, for any Services provided by any Subcontractor that is not an Affiliate of Provider, such three-month period shall not begin until Provider receives the invoice from the applicable Subcontractor, but in no event will a BFA Recipient (or BFA, on behalf of a BFA Recipient), be required to pay any invoices issued by Provider or any third party for such Subcontractor services more than fifteen (15) months after the month on which the fees accrued.
+
+ 
+
+ 
+
+(d)
+
+Currency
+. Provider will invoice the applicable BFA Recipient receiving the Services (or BFA, on behalf of the BFA Recipient), in the currency mutually agreed upon and set forth in 
+Schedule 1-C
+ (Commercial Terms Schedule).
+
+ 
+
+10.
+ 
+
+TERM AND TERMINATION.
+
+ 
+
+10.1
+
+Term, Extension and Renewal.
+
+ 
+
+ 
+
+(a)
+
+Initial Term
+. The initial term of this Agreement shall begin on the Commencement Date and continue for two (2) years (the “
+Initial Term
+,” and together with any renewals, if applicable, the “
+Term
+”).
+
+ 
+
+ 
+
+(b)
+
+Renewals
+. After the Initial Term, the term of this Agreement will automatically continue for successive one-year terms on the terms and conditions (including pricing) set forth in this Agreement, unless earlier terminated pursuant to the terms hereof.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-26-
+
+ 
+
+ 
+
+ 
+
+(c)
+
+Termination for Convenience
+. After the Initial Term, either Party may subject to Disengagement Assistance, terminate this Agreement without the payment of any penalty, on ninety (90) days prior written notice by BFA or the BFA Recipient to Provider or on one hundred eight (180) days prior written notice by Provider to BFA or the BFA Recipent; for the avoidance of doubt, such notice may be given during the Initial Term upon the expiration of the Initial Term;
+
+ 
+
+ 
+
+(d)
+
+Disengagement Assistance
+. In the event that either Party does not renew this Agreement pursuant to 
+Section 10.1(b)
+ or either Party otherwise terminates this Agreement pursuant to this 
+Article 10
+, Provider shall continue to provide the Services during the Disengagement Assistance Period as described in the Exhibit E (not to exceed twenty-four‑ (24) months from the effective date of the termination) until BFA’s or the BFA Recipient’s termination of Services in accordance with the terms of this Agreement, unless otherwise set forth in this Article 10.
+
+ 
+
+10.2
+
+Termination, Generally.
+
+ 
+
+ 
+
+(a)
+
+Termination by a Party of this Agreement will be without prejudice to and with full reservation of any other rights and remedies available to the other Parties. Termination by BFA or any BFA Recipient of this Agreement will not affect Provider’s obligations with respect to any other BFA Recipient that remains a Party to this Agreement.
+
+ 
+
+ 
+
+(b)
+
+No BFA Recipient (nor BFA, on behalf of any BFA Recipient), will be obliged to pay any termination charges or wind-down fees in connection with the termination of this Agreement.
+
+ 
+
+ 
+
+(c)
+
+If BFA or a BFA Recipient chooses to terminate this Agreement in part pursuant to any applicable provision herein, the Fees payable pursuant to such Services will be: (i) adjusted in accordance with 
+Schedule 1-C
+ (Commercial Terms Schedule) to the extent the Services terminated have separate fees associated with them; or (ii) equitably adjusted to only reflect those Services that are not terminated in all other circumstances.
+
+ 
+
+ 
+
+(d)
+
+Termination will not affect any of the obligations either Party owes to the other arising under this Agreement prior to such termination.
+
+ 
+
+10.3
+
+Termination.
+
+ 
+
+ 
+
+(a)
+
+By BFA Recipients
+.
+
+ 
+
+ 
+
+(i)
+
+For Cause
+. A BFA Recipient may terminate (with respect to itself only) or BFA may terminate (on behalf of itself or any BFA Recipients) this Agreement or one or more of the Services, in whole or in part, by giving written notice to Provider, with immediate effect, subject to 
+Article 11
+, if Provider:
+
+ 
+
+ 
+
+(A)
+
+commits a material breach of its duties or obligations under this Agreement, which breach is not cured (to the extent capable of cure) within thirty (30) days after such BFA Recipient or BFA notifies Provider of such breach;
+
+ 
+
+ 
+
+(B)
+
+commits numerous or repeated breaches of its duties or obligations hereunder, even if no single breach is material, where the collective impact would constitute a material breach (“
+Persistent or Pervasive Breach
+”), provided that, such BFA Recipient and/or BFA (1) has notified Provider of the individual breaches comprising the Persistent or Pervasive Breach and given it a reasonable opportunity to cure the same, (2) has notified Provider that a Persistent or Pervasive Breach has occurred; and (3) provides thirty (30) days’ notice of termination;
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-27-
+
+ 
+
+ 
+
+ 
+
+(C)
+
+commits a material breach of its obligations hereunder regarding compliance with any applicable Provider Law (including, without limitation, as provided in 
+Article 12
+), which breach is not cured (to the extent capable of cure) within thirty (30) days after the BFA Recipient notifies Provider of such breach, or fails to maintain (or has revoked) the legal status required to perform the Services;
+
+ 
+
+ 
+
+(D)
+
+fails to qualify as custodian of the Cash Assets of the BFA Recipients; or
+
+ 
+
+ 
+
+(E)
+
+becomes subject to a consent decree, settlement agreement, letter of acceptance, waiver and consent, or other order from, or agreement with, a regulatory body, securities or commodities exchange, or other financial services authority that has a material adverse impact on Provider’s ability to perform the Services, except to the extent that Provider reasonably demonstrates that an Affiliate of Provider is capable of performing the Services without a material adverse impact thereon.
+
+ 
+
+For the avoidance of doubt, BFA Recipients may terminate individual Services for cause, along with any other Services that would be adversely affected by the termination of such individual Services.
+
+ 
+
+ 
+
+(ii)
+
+Other BFA Termination Rights
+. BFA may terminate (on behalf of any BFA Recipient(s)) this Agreement, in whole or in part, as of the date of such termination notice in the event:
+
+ 
+
+ 
+
+(A)
+
+of the liquidation of any BFA Recipient, including in connection with a merger of such BFA Recipient with or into an entity (or fund or series thereof) that is not a BFA Recipient; or
+
+ 
+
+ 
+
+(B)
+
+if BFA ceases being the trustee of such BFA Recipient and no successor agreement between BFA and such BFA Recipient for the provision of administrative trustee services is subsequently executed within ninety (90) days after the termination of such trustee arrangement between BFA and such BFA Recipient.
+
+ 
+
+ 
+
+(iii)
+
+For Enduring Force Majeure Events
+. If a Force Majeure Event substantially prevents or delays performance of Services necessary for the performance of functions reasonably identified by BFA or a BFA Recipient as critical for more than three (3) consecutive days, then, at the option of BFA or such BFA Recipient, BFA (acting on behalf of itself or any BFA Recipient) or such BFA Recipient may terminate all or any portion of this Agreement and the Services so affected, as of a date specified by BFA or such BFA Recipient in a written notice of termination to Provider, in which case Provider’s Fees will be equitably adjusted as necessary to reflect the value of any remaining Services.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-28-
+
+ 
+
+ 
+
+ 
+
+(iv)
+
+Occasioned by Law
+. BFA or a BFA Recipient may terminate this Agreement, in whole or in part, as of a date specified in such termination notice: (A) if Provider’s ability to perform the Services is materially adversely impacted or affected by a Law or change in Law that cannot be addressed to the applicable BFA Recipients’ reasonable satisfaction through the processes set forth in 
+Section 12.1(e)
+; (B) any Governmental Authority, regulatory organization or other entity with statutory or regulatory authority over a BFA Recipient issues an order, letter, directive or similar communication concerning the BFA Recipient’s continued use of the Services or continuing participation in this Agreement; or (C) if by operation of Law, this Agreement is required to be terminated.
+
+ 
+
+ 
+
+(v)
+
+Failure to Receive Consent
+. BFA may terminate (with respect to any applicable BFA Recipients) this Agreement, in whole or in part, as of a date specified in such termination notice, in the event that a BFA Recipient fails to receive any consent required by Law for Provider to continue to provide such Services for such BFA Recipient and/or the BFA Recipient instructs BFA that Provider should not continue to act as provider of such Services.
+
+ 
+
+ 
+
+(vi)
+
+For Provider
+’
+s Insolvency
+. BFA may terminate this Agreement in its entirety if (A) Provider or any parent entity thereof: (1) becomes insolvent or is unable to meet its debts as they mature; (2) files a voluntary petition in bankruptcy or seeks reorganization or to effect a plan or other arrangement with creditors; (3) files an answer or other pleading admitting, or fails to deny or contest, the material allegations of an involuntary petition filed against it pursuant to any applicable statute relating to bankruptcy, arrangement or reorganization; (4) will be adjudicated as bankrupt or will make an assignment for the benefit of its creditors generally; (5) will apply for, consent to or acquiesce in the appointment of any receiver, conservator or trustee (including the FDIC) for all or a substantial part of its property; or (6) becomes subject to any receivership or conservatorship (including the FDIC); (B) the auditors of Provider (or any parent entity thereof) issue an opinion expressing doubt as to whether Provider (or the parent entity) can maintain itself as a “going concern”; or (C) there is, in BFA’s reasonable discretion, a significant risk of any of the foregoing. In order to facilitate such determination, Provider shall provide BFA with mutually agreed periodic statements as to the state of Provider’s financial condition.
+
+ 
+
+ 
+
+(vii)
+
+For Change of Control of Provider
+.
+
+ 
+
+ 
+
+(A)
+
+“Change of Control of Provider
+” means any transaction, or series of related transactions, however structured (including, without limitation, a purchase of Securities or other equity interest, merger, tender offer (whether or not contested by Provider), or transfer or other disposition of assets) that results in any of the following, and will be deemed to have occurred upon the earliest of any of the following to occur:
+
+ 
+
+ 
+
+(1)
+
+any unaffiliated person or group (within the meaning of Section 13(d) or 14(d) of the Exchange Act) has become, directly or indirectly, the beneficial owner (within the meaning of Rule 13d3 of the Exchange Act), by way of merger, consolidation or otherwise, of thirty percent (30%) or more of the voting power of the then-outstanding voting Securities of Provider, on a fully diluted basis, after giving effect to the conversion and exercise of all outstanding warrants, options and other Securities of Provider (whether or not such Securities are then currently convertible or exercisable);
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-29-
+
+ 
+
+ 
+
+ 
+
+(2)
+
+the sale, lease, transfer or other disposition of all or substantially all of the consolidated assets of the organization used by Provider to provide Services to any unaffiliated person or group;
+
+ 
+
+ 
+
+(3)
+
+Provider consolidates with or merges with or into another unaffiliated person or any such person consolidates with, or merges with or into, Provider, in any such event pursuant to a transaction in which immediately after the consummation thereof the persons beneficially owning the then-outstanding voting Securities of Provider immediately prior to such consummation will not beneficially own a majority of the aggregate (by reason of such prior ownership) of the then-outstanding voting Securities of Provider or the surviving entity if other than Provider;
+
+ 
+
+ 
+
+(4)
+
+the execution of any binding contract or arrangement that if consummated would result in any of the events specified in either 
+clause (1)
+, 
+(2)
+ or 
+(3)
+ above; or
+
+ 
+
+ 
+
+(5)
+
+during any period of two (2) consecutive calendar years, individuals who at the beginning of such period constituted the board of directors of Provider, together with any new members of such board of directors whose election by such board of directors or whose nomination for election by the stockholders of Provider was approved by a vote of at least a majority of the members of such board of directors then still in office who were directors at the beginning of such period or whose election or nomination for election was previously approved, cease for any reason to constitute a majority of the directors of Provider then in office.
+
+ 
+
+Provider will give the BFA Recipients prompt written notice of any occurrence of any of the events specified in 
+clauses (1)
+ through 
+(5)
+ above.
+
+ 
+
+ 
+
+(B)
+
+BFA or any BFA Recipient may, by giving written notice to Provider, terminate (with respect to itself only) this Agreement as of a date specified in such termination notice in the event of a Change of Control of Provider.
+
+ 
+
+ 
+
+(viii)
+
+Consequences of Non-Compliance
+. If a Governmental Authority makes a determination of a BFA Recipient’s material non-compliance or material violation of Law, and imposes a fine, penalty or other formal consequence, as a result of a material failure by Provider or Provider Personnel to comply with the applicable Provider Laws, the BFA Recipient may terminate (with respect to itself only) this Agreement in whole or in part for cause, except to the extent Provider is able to cure such failure to comply within thirty (30) days after such determination.
+
+ 
+
+ 
+
+(ix)
+
+For Insourcing of Services
+. BFA or any BFA Recipient shall have the right to terminate Provider’s provision of the portion of the Services that is insourced pursuant to BFA’s or any BFA Recipient’s exercise of its rights set forth in 
+Section 2.2(b)
+.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-30-
+
+ 
+
+ 
+
+ 
+
+(x)
+
+Digital Assets
+. BFA or any BFA Recipient may terminate this Agreement, in whole or in part, at BFA’s or any BFA Recipient’s convenience and without cause upon twelve (12) months written notice if BFA or any BFA Recipient in good faith determines to no longer provide services for customers investing in Digital Assets.
+
+ 
+
+Notwithstanding the time periods set forth in 
+Section 2.2(b)
+, BFA or any BFA Recipient shall have the right to reallocate and/or insource Services with immediate effect upon termination of Provider’s provision of Services under 
+Section 10.3(a)(i)-(viii)
+. In such event, the Parties will negotiate in good faith adjustments to the Fees and Service Levels, as applicable.
+
+ 
+
+ 
+
+(b)
+
+By Provider
+.
+
+ 
+
+ 
+
+(i)
+
+For Cause
+. In addition to its other termination rights set forth in this Agreement, Provider may, by giving written notice to the relevant BFA Recipient and respecting the Disengagement Assistance Period (except as modified below), terminate this Agreement with respect to any BFA Recipient as of a date specified in the notice of termination if:
+
+ 
+
+ 
+
+(A)
+
+BFA or such BFA Recipient is five (5) months in arrears on undisputed Fees payable to Provider and fails to make payment within thirty (30) days following a notice from Provider that it will terminate this Agreement if the undisputed Fees remain unpaid; or
+
+ 
+
+ 
+
+(B)
+
+such BFA Recipient materially breaches (which shall be deemed to include any material breach by any Third Party Provider or other agent of such BFA Recipient) any of its obligations to indemnify or adhere to obligations with respect to confidentiality hereunder, which breach is not cured (to the extent capable of cure) within thirty (30) days after Provider notifies BFA of such breach.
+
+ 
+
+ 
+
+(ii)
+
+Occasioned by Law
+. Provider may terminate this Agreement, in whole or in part, as of a date specified in such termination notice: (A) if Provider’s ability to perform the Services is materially adversely impacted or affected by a Law or change in Law that cannot be addressed to Provider’s reasonable satisfaction through the processes set forth in Section 12.1(e); (B) any Governmental Authority, regulatory organization or other entity with statutory or regulatory authority over Provider issues an order, letter, directive or similar communication concerning Provider’s continued provision of the Services or continuing participation in this Agreement that materially adversely impacts Provider’s ability to perform the Services; or (C) if by operation of Law, this Agreement is required to be terminated. Upon such a change in Law or receipt of such notice, notwithstanding the Disengagement Assistance Period, the Provider will, if necessary, seek permission from such Govnerment Authority to provide Disengagement Assistance for 180 days following the effective date of such termination and the Parties will collectively discuss in good faith an exit plan which affords the efficient transfer of the Services to an alternative provider or an alternative succession plan, subject to Provider’s compliance with all Laws.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-31-
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+Digital Assets
+. Provider may terminate this Agreement, in whole or in part, at Provider’s convenience and without cause upon twelve [(12) months] written notice if Provider in good faith determines to no longer provide services for customers investing in Digital Assets.
+
+ 
+
+If Provider terminates this Agreement pursuant to this Section 10.3(b), the Parties agree that Provider shall only be required to provide Disengagement Assistance for one-hundred eighty (180) days following the effective date of such termination.
+
+ 
+
+ 
+
+(c)
+
+Expiration of Termination Rights
+. Except with respect to termination for Change of Control of Provider under 
+Section 10.3(a)(vii)
+, neither Party may invoke any termination right under this 
+Section 10.3
+ after one (1) year following the later of: (i) the date upon which such Party obtains actual knowledge of the event which first gave rise to such termination right, and (ii) the date upon which such Party becomes aware of the full and final impact of such event.
+
+ 
+
+ 
+
+(d)
+
+If BFA no longer plans to sponsor or act as trustee for any BFA Receipient, the Provider shall no longer be obligated to provide Services from the date of BFA’s removal as trustee of such BFA Recipient.
+
+ 
+
+11.
+
+DISENGAGEMENT ASSISTANCE
+
+ 
+
+11.1
+
+Disengagement Assistance
+. In connection with the termination or expiration by BFA or any BFA Recipient of its participation in this Agreement, Provider will perform the disengagement assistance services for the affected BFA Recipient(s) as provided in 
+Exhibit E
+ hereto (“
+Disengagement Assistance
+”) and continue to provide the Services for the period of the Disengagement Assistance prior to BFA’s or the BFA Recipient’s termination of applicable Services. The provision of Disengagement Assistance by Provider shall be subject to any restrictions or limitations imposed by applicable Law. Provider Confidential Information received in connection with any such Disengagement Assistance shall be subject to the provisions of Article 18.
+
+ 
+
+11.2
+
+Divestitures
+. Except to the extent prohibited by applicable Law, if BFA or any BFA Recipient relinquishes Control of all or part of a business unit, or a particular function or facility of BFA or any BFA Recipient after the Effective Date (each, a “
+Divested Entity
+”), then at the request of BFA or any BFA Recipient, Provider will continue to provide the Services, including Disengagement Assistance, to such Divested Entity for a period of time that BFA or any BFA Recipient requests, which period will not extend beyond the earlier to occur of: (a) twenty four (24) months after such entity becomes a Divested Entity; or (b) the end of the period during which Provider is required to provide Disengagement Assistance under this Agreement, at the rates and in accordance with the terms and conditions set forth herein; 
+provided
+, that such Divested Entity agrees in writing with Provider to abide by the terms and conditions of this Agreement. BFA or such BFA Recipient, as applicable, shall remain primarily liable for the obligations of the Divested Entity under this Agreement.
+
+ 
+
+11.3
+
+Continuous Service.
+ Upon receipt of a notice of termination from a BFA Recipient for all or part of the Services by reason of the appointment of a conservator or receiver for Provider in accordance with 12 U.S.C. §1821(c) or similar and successor provisions, Provider will take such actions as may be reasonably necessary to provide continuous service to the BFA Recipients and will take such other actions as the Parties may agree from time to time.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-32-
+
+ 
+
+ 
+
+12.
+
+COMPLIANCE WITH LAWS, POLICIES AND USE RESTRICTIONS
+
+ 
+
+12.1
+
+Compliance with Law; BFA Policies.
+
+ 
+
+ 
+
+(a)
+
+Generally
+.
+
+ 
+
+ 
+
+(i)
+
+Provider will, and will require its Subcontractors to: (A) review and comply with all applicable Law and regulations and rules that may be in effect during the Term and that would be applicable to Provider or the Subcontractor in their performance of the Services; and (B) perform the Services in a manner compliant with Law applicable to the delivery of the Services.
+
+ 
+
+ 
+
+(ii)
+
+Provider will, and will require its Subcontractors to, obtain and maintain all necessary approvals, licenses, consents, permits or authorization of any person or entity, or any notice to any person or entity, the granting of which is required by Law applicable to such Provider or its Subcontractors, as applicable, for: (A) the consummation of the transactions contemplated by this Agreement; and (B) the provision of the Services in compliance with all the Laws applicable to Provider or its Subcontractors, as applicable. Each BFA Recipient will, and will require its subcontractors and agents, as applicable to, obtain and maintain all necessary approvals, licenses, consents, permits or authorization of any person or entity, or any notice to any person or entity, the granting of which is required by Law applicable to such BFA Recipient for: (A) the consummation of the transactions contemplated by this Agreement; and (B) the receipt of the Services in compliance with all the Laws applicable to such BFA Recipient. Upon reasonable request therefor, each Party will provide reasonable cooperation to the other Party, at such other Party’s expense, to obtain and maintain any such approvals.
+
+ 
+
+ 
+
+(b)
+
+Anti-Money Laundering.
+
+ 
+
+ 
+
+(i)
+
+Provider
+. Provider represents that it has implemented an AML (anti-money laundering) Compliance Program (“
+AML Program
+”) that complies with the requirements of AML Laws applicable to Provider; and it maintains an AML Program consistent with applicable AML Laws. As part of its AML Program, Provider certifies that it: (A) has a duly appointed AML Compliance Officer; (B) has policies, procedures and internal controls in place, including those that are reasonably designed to detect and report suspicious activity; (C) conducts periodic anti-money laundering training to personnel performing critical job functions; and (D) has a periodic independent assessment to review the effectiveness of its AML Program.
+
+ 
+
+ 
+
+(ii)
+
+BFA and BFA Recipients
+.
+
+ 
+
+ 
+
+(A)
+
+Each BFA Recipient acknowledges and agrees that, in connection with the Services provided by Provider under this Agreement, each of BFA Recipient’s Authorized Participants is not a customer or joint customer with Provider. Each BFA Recipient (and not Provider) has the responsibility to, and will, obtain representations from Authorized Participants or their agents regarding fulfilling any compliance requirement or obligation with respect to each of its Authorized Participants under all applicable AML Laws. Without limiting any obligation imposed on a BFA Recipient by AML Laws, throughout the Term, BFA Recipient will maintain, or contract with a third party to provide, a compliance program with respect to its investors that includes the following: (i) a know-your-customer program in order to understand and verify the identity of each authorized participant, in accordance with the requirements of the Bank Secrecy Act and the relevant regulations thereunder, (ii) a transaction surveillance and monitoring program, and (iii) a policy for identifying and reporting any suspicious transactions and/or activities with respect to each Authorized Participant to the appropriate law enforcement and regulatory authorities and to Provider where related to the Services provided by Provider hereunder.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-33-
+
+ 
+
+ 
+
+ 
+
+(B)
+
+Each BFA Recipient will cooperate with Provider and provide assistance reasonably requested by Provider in connection with any anti-money laundering and terrorist financing or Sanctions inquiries as allowed under applicable law.
+
+ 
+
+ 
+
+(C)
+
+Provider may decline to act or provide Services in respect of any BFA Account, and take such other actions as it, in its reasonable discretion, deems necessary or advisable, in connection with the matters referenced in this 
+Section 12.1(b)(ii)
+ and 
+Section 12.1(d)(iv)
+. If Provider declines to act or provide Services as provided in the preceding sentence, except as otherwise prohibited by applicable Laws or official request, Provider will inform BFA Recipient as soon as reasonably practicable.
+
+ 
+
+ 
+
+(c)
+
+Anti-Corruption
+.
+
+ 
+
+ 
+
+(i)
+
+Provider represents and warrants that it complies with, and will remain in compliance with, all domestic and foreign anti-bribery and anti-corruption laws applicable to it in the performance of the Services. Provider shall maintain in place throughout the Term its own policies and procedures, including procedures reasonably designed for Provider and Provider Personnel to comply with anti-bribery and anti-corruption laws and will enforce them where appropriate.
+
+ 
+
+ 
+
+(ii)
+
+Provider and Provider Personnel have not taken and shall not take any action in furtherance of an offer, payment, promise to pay, receipt, acceptance or authorization of the payment or giving or receiving of anything of value, either directly or indirectly, to or from any person in connection with Provider’s provision of the Services while knowing that all or some portion of the money or value will be offered, given or promised to anyone to improperly influence official action, to obtain or retain business or otherwise to secure an improper advantage. Provider shall promptly report to BFA any request or demand for, or offer of, any bribe received by Provider and/or Provider Personnel in connection with this Agreement.
+
+ 
+
+ 
+
+(d)
+
+Sanctions
+.
+
+ 
+
+ 
+
+(i)
+
+Provider has implemented policies and procedures designed to comply with Sanctions.
+
+ 
+
+ 
+
+(ii)
+
+Provider further represents that it is not majority owned or controlled by an individual or entity that is the subject of any Sanctions or organized or located in a jurisdiction that is the subject of Sanctions.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-34-
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+Provider and Provider Personnel (A) have not violated and shall not violate any Sanctions in connection with this Agreement; (B) are not on any United States, United Kingdom or European Union government list of parties that are sanctioned; and (C) shall not use funds derived or received from BFA or the BFA Recipients to directly or, indirectly violate Sanctions, including, without limitation, by transferring such funds to or benefitting entities, persons and/or governments subject to Sanctions.
+
+ 
+
+ 
+
+(iv)
+
+Throughout the Term, BFA and each BFA Recipient: (A) will have in place and will implement policies and procedures designed to prevent violations of Sanctions, including measures to accomplish effective and timely scanning of all relevant data with respect to its Shareholders (to the extent the Cash Assets are Shareholder assets) and with respect to incoming or outgoing assets or transactions relating to this Agreement; (B) will ensure that neither BFA, the BFA Recipient nor any of their respective Affiliates, directors, officers, employees or Authorized Participants (to the extent the Cash Assets are Authorized Participant assets) is an individual or entity that is, or is owned or controlled by an individual or entity that is: (1) the target of Sanctions or (2) located, organized or resident in a country or territory that is, or whose government is, the target of Sanctions and (C) will not, directly or indirectly, use the BFA Accounts in any manner that would result in a violation by BFA Recipient or Provider of Sanctions.
+
+ 
+
+ 
+
+(v)
+
+BFA agrees that Provider shall have no obligation to perform, and shall not be in breach of its obligations hereunder for any failure to perform any activity that: (A) would cause Provider to breach any provisions of any Sanctions (as applicable to Provider); or (B) involves any party that is the target of any Sanctions (as applicable to Provider) in violation of Sanctions.
+
+ 
+
+ 
+
+(e)
+
+Change in Law
+.
+
+ 
+
+ 
+
+(i)
+
+Provider shall promptly identify and notify the BFA Recipients of any change in Law of which it may become aware that it expects to have a material impact on the provision of the Services or the performance of Provider’s obligations under this Agreement. The BFA Recipients shall promptly identify and notify Provider of any change in Digital Assets Laws of which it may become aware that it expects to have a material impact on the receipt of the Services or the performance of Provider’s obligations under this Agreement.
+
+ 
+
+ 
+
+(ii)
+
+If a change to applicable Law or Digital Assets Law requires a material change to the provision of any of the Services, the Parties shall follow the Change Procedures set forth in this Agreement.
+
+ 
+
+ 
+
+(iii)
+
+If the change in applicable Law results in a material change to the Services that materially increases Provider’s costs or risk associated with provision of the Services, in accordance with the Change Procedures set forth in this Agreement, Provider shall be entitled to request an appropriate increase in the Fees or other adjustment to the terms and conditions under which the applicable Service is provided. Notwithstanding the foregoing, Provider agrees that any requested increase in Fees or other adjustments to the terms and conditions of this Agreement shall be, on a proportionate basis, less than or equal to the increase in Fees generally obtained by Provider of its other customers for custodial and fund accounting services.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-35-
+
+ 
+
+ 
+
+ 
+
+(iv)
+
+To the extent that the delivery of the Services will be impacted by such change, Provider shall notify the BFA Recipients of the change to the Services (collectively, “
+Changes to the Services
+”) and the impact. Subject to subsections (i) and (ii) above, Provider shall promptly implement such Changes to the Services as may be necessary to comply with any Law or changes in Law and, where practicable, shall use reasonable efforts to complete the implementation at least ninety (90) days prior to the deadline imposed by the Governmental Authority having jurisdiction thereof.
+
+ 
+
+ 
+
+(f)
+
+Non-Compliance
+.
+
+ 
+
+ 
+
+(i)
+
+If Provider becomes aware that Provider Personnel or a Subcontractor has committed a violation of any Provider Laws in the course of performing the Services or Provider’s other obligations under this Agreement, Provider will promptly notify BFA and the affected BFA Recipients in writing. Unless such non-compliance is caused by a BFA Recipient, Provider shall promptly implement such Changes to the Services as may be necessary to correct such non-compliance at Provider’s sole cost and expense. If non-compliance is caused by a BFA Recipient, Provider shall promptly implement such Changes to the Services at BFA Recipient’s sole cost and expense, subject to the Parties’ mutual agreement via the Change Procedures.
+
+ 
+
+ 
+
+(ii)
+
+If any BFA Recipient becomes aware of any non-compliance of Provider Personnel or a Subcontractor with any Law and becomes aware that such non-compliance affects Provider’s ability to perform its obligations under this Agreement, such BFA Recipient will promptly notify Provider in writing.
+
+ 
+
+ 
+
+(g)
+
+Fines, Penalties and Excise Taxes
+. Notwithstanding any other provision contained in this Agreement, Provider shall have no duty or obligation with respect to, including any duty or obligation to determine, or advise or notify BFA or any BFA Recipient of: (i) the taxable nature of any distribution or amount received or deemed received by, or payable to, the BFA Recipient; (ii) the taxable nature or effect on the BFA Recipient or the Shareholder of any corporate actions, class actions, tax reclaims, tax refunds, or similar events; (iii) the taxable nature or taxable amount of any distribution or dividend paid, payable or deemed paid, by the BFA Recipient to the Shareholder; or (iv) the effect under any income tax laws of the BFA Recipient making or not making any distribution, dividend payment, or election with respect thereto.
+
+ 
+
+ 
+
+(h)
+
+Other Assistance
+. To the extent permitted by applicable Law, Provider will supply to the applicable BFA Recipients copies of all annual financial accounts of the BFA Recipients in respect of compliance with applicable legal and regulatory requirements and, upon request, other information maintained by Provider on behalf of the BFA Recipients to the extent required by the BFA Recipients in order to demonstrate their compliance with applicable Laws and to conduct business with their customers. Provider will also reasonably cooperate with and assist the affected BFA Recipients with their dealings with regulatory authorities; completion of and filing of reports and returns required by regulatory authorities; and applications for authorizations and permits.
+
+ 
+
+ 
+
+(i)
+
+Sarbanes-Oxley
+. Without limiting the foregoing, Provider shall provide the BFA Recipients on a quarterly basis with mutually-agreed certifications in connection with the BFA Recipients’ certification responsibilities required under the Sarbanes-Oxley Act of 2002, as amended, and the rules and regulations promulgated thereunder, including Section 302 and Section 404 and the rules and regulations promulgated thereunder.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-36-
+
+ 
+
+ 
+
+ 
+
+(j)
+
+Notification
+. To the extent permitted by applicable Law, Provider shall promptly notify BFA (and provide BFA with details) to the extent the foregoing statements in this 
+Section
+ 
+12.1
+ become untrue or of any material violation of Law (inclusive of any anti-bribery or anti-corruption laws applicable to the Services provided hereunder). Upon receipt of such notification, or in the event that BFA determines that a breach of any of the representations and warranties in this 
+Section 12.1
+ has occurred or is likely to occur that it reasonably determines would be likely to have a material adverse effect on BFA or the BFA Recipients, BFA or the BFA Recipients shall have the right to withhold payment under this Agreement until such time as it has received confirmation to its satisfaction that no breach has occurred or is likely to occur within thirty days after providing such notice; and/or pursue any other remedies available to it. For the avoidance of doubt, any amounts withheld pursuant to the foregoing shall still be owed by the relevant BFA Recipient to the Provider until they are fully paid to the Provider.
+
+ 
+
+12.2
+
+Compliance with Certain Policies and Use Restrictions
+. Each Party will comply in all material respects with the other Party’s rules and regulations applicable to visitors when on the premises of the other Party, provided that each Party’s employment policies shall apply to such Party’s personnel and not the policies of the other Party. Provider will maintain physical security procedures that are designed to safeguard BFA Data and BFA Confidential Information provided to Provider as part of the Services against unauthorized access, which procedures will at all times meet the standards set forth in 
+Exhibit D
+ and standards that are reasonably likely to be as protective of BFA Data and BFA Confidential Information in all material respects, and in any event are at least as protective, as Provider’s protection of its own data and Confidential Information.
+
+ 
+
+12.3
+
+BFA
+. BFA shall not be obligated under this Agreement to take any action or omit to take any action that it believes, in good faith, would cause it to be in violation of any applicable domestic or foreign anti-bribery or anti-corruption Laws. Each BFA Recipient will comply with all BFA Recipient Laws applicable to its receipt of the Services hereunder.
+
+ 
+
+13.
+
+DATA PROTECTION
+
+ 
+
+13.1
+
+BFA Data
+.
+
+ 
+
+ 
+
+(a)
+
+“BFA Data
+” means all data and information: (i) submitted to or held by Provider by or on behalf of such BFA Recipient, including data submitted by or relating to providers, members and customers of such BFA Recipient; (ii) obtained by or on behalf of Provider Personnel in connection with Services that relate to a BFA Recipient, or providers, members and customers of BFA or a BFA Recipient; or (iii) to which Provider Personnel have access in connection with the provision of the Services that relates to a BFA Recipient, or providers, members and customers of such BFA Recipient, and including all
+ 
+Personal Information. All BFA Data is, or will be, and will remain the property of the applicable BFA Recipient and will be deemed BFA Confidential Information.
+
+ 
+
+ 
+
+(b)
+
+Without limiting the foregoing, no ownership rights in BFA Data will accrue to Provider or any Provider Personnel by reason of Provider or any Provider Personnel entering, deleting, modifying or otherwise processing any BFA Data.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-37-
+
+ 
+
+ 
+
+ 
+
+(c)
+
+Use Restrictions
+.
+
+ 
+
+ 
+
+(i)
+
+Without approval from the applicable BFA Recipient (in its sole discretion), BFA Data will not be: (A) used by Provider other than as necessary to perform the Services hereunder or as otherwise specifically set forth in this Agreement; (B) disclosed, sold, assigned, leased or otherwise provided to third parties by Provider; or (C) commercially exploited (including, without limitation, via processing or data mining) by or on behalf of Provider or any Provider Personnel. For the avoidance of doubt, under no circumstances will Provider allow representatives of Provider’s asset management division or any Affiliates engaged in asset management to access or use the BFA Data.
+
+ 
+
+ 
+
+(ii)
+
+Provider will not possess or assert liens or other rights in or to BFA Data.
+
+ 
+
+ 
+
+(iii)
+
+Provider hereby irrevocably and perpetually assigns, transfers and conveys to the applicable BFA Recipients without further consideration all of its and their right, title and interest, if any, in and to BFA Data. At BFA’s request, Provider will execute and deliver to the BFA Recipients any financing statements or other documents that may be reasonably necessary or desirable under any Law to preserve, or enable such BFA Recipients to enforce, their rights hereunder with respect to BFA Data.
+
+ 
+
+ 
+
+(iv)
+
+No removable media on which BFA Data is stored may be used or re-used to store data of any other customer of Provider or to deliver data to a third party, including another Provider customer, unless securely erased in a manner consistent with the Standard of Care.
+
+ 
+
+ 
+
+(v)
+
+Each BFA Recipient will provide Provider with written notice of any applicable security or confidentiality obligations or disclosure, notification or consent requirements applicable to the use or transfer of the BFA Data transmitted to Provider that are in addition to the requirements set forth in this Agreement; 
+provided
+, 
+however
+, that any change to Provider’s obligations as a result thereof shall be subject to the Change Procedures.
+
+ 
+
+ 
+
+(d)
+
+Return of Data/Record Retention
+. At the request of a BFA Recipient at any time during the Term or upon the expiration or earlier termination of this Agreement, Provider will: (i) promptly return to such BFA Recipients, in a useable machine ready format or such other format as Provider and such BFA Recipient shall agree upon, all or any part of the BFA Data attributable to such BFA Recipient; and (ii) erase or destroy all or any part of such BFA Data in Provider’s possession, in each case to the extent so requested by such BFA Recipient, subject to any data or record retention requirements applicable to Provider under applicable Law and excluding any data that Provider is no longer maintaining as part of its then-current electronic records. Notwithstanding anything herein to the contrary, Provider may retain copies of BFA Data to pursue or defend claims or other actions under or relating to this Agreement and as otherwise consistent with its regulatory and audit (including fund audit) obligations, which data shall remain subject to the confidentiality rights and obligations hereunder.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-38-
+
+ 
+
+ 
+
+ 
+
+(e)
+
+BFA Access
+.
+
+ 
+
+ 
+
+(i)
+
+Provider will make available to the BFA Recipients any BFA Data that is held in paper form within a reasonable time after request therefor. In addition, Provider will store and make available to the BFA Recipients any BFA Data that it maintains in electronic form on the Provider Technology in a manner that enables it to be: (A) properly identified as information relating to the provision of the Services to the BFA Recipients; and (B) easily, promptly and independently extracted, copied or transferred from any storage media on which it is kept.
+
+ 
+
+ 
+
+(ii)
+
+Except as specifically set forth in this Agreement or as otherwise required under applicable Law, Provider will have no implied right to access any data files, directories of files, or other BFA Confidential Information, except to the extent necessary to perform the Services and will access and/or use such files and BFA Confidential Information only as and to the extent necessary to perform the Services.
+
+ 
+
+13.2
+
+Data Safeguards and Security.
+ 
+
+ 
+
+ 
+
+(a)
+
+Compliance with Data Security Laws
+. Provider will comply with all Provider Laws, as well as the written security procedures set forth in 
+Exhibit D
+, with respect to the security of BFA Data.
+
+ 
+
+ 
+
+(b)
+
+Safeguards
+. Provider will establish and maintain (i) safeguards to protect the confidentiality, integrity and availability of BFA Data and the systems Provider uses to provide the Services against the destruction, loss, or alteration of BFA Data; (ii) safeguards against the unauthorized access to such data; and (iii) network and internet security procedures, protocols, security gateways and firewalls with respect to such data. All of the foregoing shall be no less rigorous than those safeguards and procedures set forth in 
+Exhibit D
+. Any material changes that degrade the safeguards in 
+Exhibit D
+ that are specifically designated as safeguards that Provider has agreed to adopt specifically for the BFA Recipients will require prior review and approval from the affected BFA Recipients, which approval shall not be unreasonably withheld.
+
+ 
+
+ 
+
+(c)
+
+Physical Security
+. Provider will maintain and enforce, at any facilities other than BFA facilities where any Services are performed, safety and security procedures that are at Best Commercial Practices and as rigorous as those procedures set forth in 
+Exhibit D
+. In addition, Provider will comply with all reasonable requirements of BFA and its Affiliates with respect to security at BFA facilities.
+
+ 
+
+ 
+
+(d)
+
+Provider
+’
+s Information Security Policies
+. Without limiting the generality of the foregoing, Provider’s information security policies shall provide for (i) continual assessment and re-assessment of the risks to the security of BFA Data and systems acquired or maintained by Provider and its agents and contractors in connection with the Services, including (A) identification of internal and external threats that could result in a Data Security Breach, (B) assessment of the likelihood and potential damage of such threats, taking into account the sensitivity of BFA Data, and (C) assessment of the sufficiency of policies, procedures, effectiveness of controls, and information systems of Provider and its agents and contractors, and other arrangements in place, to control risks; and (ii) appropriate protection against such risks.
+
+ 
+
+ 
+
+(e)
+
+Media
+. Provider shall remove all BFA Data from any media taken out of service and shall destroy or securely erase such media. No removable media on which BFA Data is stored may be used or re-used to store data of any other customer of Provider or to deliver data to a third party, including another Provider customer, unless securely erased.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-39-
+
+ 
+
+ 
+
+ 
+
+(f)
+
+Corrections
+. Unless otherwise agreed in writing by the Parties, to the extent possible, Provider will promptly correct any errors or inaccuracies in BFA Data caused by Provider’s failure to meet the Standard of Care or in the reports delivered to the applicable BFA Recipients hereunder.
+
+ 
+
+ 
+
+(g)
+
+Remediation
+. In the event Provider becomes aware of any Data Security Breach due to Provider acts or omissions other than in accordance with the terms of this Agreement, Provider shall, at its own expense, (i) promptly, within forty-eight (48) hours of Provider’s confirmation of such Data Security Breach notify BFA of such Data Security Breach and perform a root cause analysis thereon, (ii) investigate such Data Security Breach, (iii) provide BFA with a high level remediation plan (which will reasonably incorporate input from BFA) to address the Data Security Breach and that is reasonably designed to prevent and mitigate any further incidents, (iv) remediate the effects of such Data Security Breach in accordance with such remediation plan, and (v) cooperate with BFA and any law enforcement or regulatory official investigating such Data Security Breach. Without limiting the foregoing, BFA shall make the final decision on notifying BFA customers, employees and/or service providers of such Data Security Breach and the implementation of the remediation plan (at a high level). If a notification to a BFA customer is required under any Law or pursuant to any of BFA’s policies and procedures, then notifications to all customers who are affected by the same event (as reasonably determined by BFA) shall be considered legally required. Provider shall reimburse BFA for all Notification Related Costs incurred by BFA arising out of or in connection with any such Data Security Breach resulting in a requirement for legally required notifications (as determined in accordance with the previous sentence). “
+Notification Related Costs
+” shall include, but are not limited to, BFA’s internal and external costs associated with addressing and responding to the Data Security Breach, including: (A) preparation and mailing or other transmission of legally required notifications; (B) preparation and mailing or other transmission of such other communications to customers, agents or others as BFA deems reasonably appropriate; (C) establishment of a call center or other communications procedures in response to such Data Security Breach (
+e.g.
+, customer service FAQs, talking points and training); (D) public relations and other similar crisis management services; (E) legal and accounting fees and expenses associated with BFA’s investigation of and response to such event; and (F) costs for commercially reasonable credit reporting services that are associated with legally required notifications or are advisable under the circumstances. Unless otherwise agreed by the Parties in writing, in the event that Provider becomes aware of any Data Security Breach which is not due to Provider acts or omissions other than in accordance with the terms of this Agreement, Provider shall promptly, with forty-eight (48) hours of Provider’s confirmation of such Data Security Breach, notify BFA of such Data Security Breach, and the Parties shall reasonably cooperate regarding which of the foregoing or other activities may be appropriate under the circumstances, including any applicable charges for the same.
+
+ 
+
+ 
+
+(h)
+
+Right to Review
+. Each BFA Recipient reserves the right to review summaries of Provider’s policies and procedures used to maintain the security and confidentiality of BFA Data, subject to the limitation set forth in 
+Article 17
+.
+
+ 
+
+13.3
+
+ 
+Data Security Breaches; Remediation of Malicious Code.
+
+ 
+
+ 
+
+(a)
+
+Data Security Breaches
+. Provider will monitor and record security related events on all systems and log such events. If Provider discovers or become aware of an actual Data Security Breach, Provider shall, except to the extent instructed by legal or regulatory authorities not to do so:
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-40-
+
+ 
+
+ 
+
+ 
+
+(i)
+
+promptly notify the BFA Relationship Manager by telephone and e-mail as soon as practicable but in any event within the earlier of any of the following: (i) forty-eight (48) hours after detecting or becoming aware of such breach or (ii) within a shorter timeframe if required under a BFA Recipient Law of which Provider is notified;
+
+ 
+
+ 
+
+(ii)
+
+provide confirmatory written notice to the BFA Relationship Manager as soon as practicable after detecting or becoming aware of such breach; and
+
+ 
+
+ 
+
+(iii)
+
+investigate and remediate the effects of the breach, and provide the applicable BFA Recipients with reasonable assurance that safeguards consistent with Provider’s obligations under this 
+Article 13
+ have been implemented.
+
+ 
+
+ 
+
+(b)
+
+Malicious Code
+. Generally, the Parties will provide reasonable cooperation to one another in order to mitigate the impact of any Malicious Code on the Services, regardless of the origin of such Malicious Code. Without limiting any Party’s other obligations hereunder, if any Malicious Code is found to have been introduced by such Party (or any third party acting on such Party’s behalf or direction) into any system used to provide or receive the Services, such Party will remove such Malicious Code at its expense or, at the election of such other Party, compensate the other Party for the reasonable expense of any such removal, and in any case (wherever such Malicious Code originated), such Party will exercise Commercially Reasonable Efforts, at no charge to the other Party, to eliminate, and reduce the effects of, the Malicious Code. If such Malicious Code causes a loss of operational efficiency or loss of data, Provider will mitigate such losses and use Commercially Reasonable Efforts to restore any data lost from the Provider Technology, subject to reimbursement for reasonable expenses incurred on account of Malicious Code introduced by a BFA Recipient (or any third party acting on its behalf or direction).
+
+ 
+
+14.
+
+PERSONAL INFORMATION
+
+ 
+
+14.1
+
+Generally.
+ Each Party acknowledges and agrees that, with the exception of professional biographies and contact details of its employees (“
+Business Contact Data
+”), and in limited instances as required solely for local market accounts, employee passport numbers (“
+Passport Information
+”) it does not intend pursuant to the Agreement to:
+
+ 
+
+ 
+
+(a)
+
+make available to the other Party any other information relating to an identified or identifiable natural person, or any other information within the definition of personal data under data protection legislation applicable to that Party from time to time (“
+Personal Information
+”); or
+
+ 
+
+ 
+
+(b)
+
+process any Personal Information originating from the other Party other than Business Contact Data and Passport Information received from the other Party.
+
+ 
+
+14.2
+
+Processing.
+ The Parties acknowledge and agree that each Party may process any Business Contact Data and Passport Information received from the other Party as controller (as such term is defined in applicable data protection legislation) for the purpose of: (a) carrying out diligence and administrative tasks prior to the provision or receipt of the Services; (b) providing the Services, (c) applicable legal or regulatory requirements; (d) requests and communications from competent authorities, courts or tribunals; (e) protecting its rights; and (f) administrative, financial accounting, risk analysis, fraud/crime prevention and business relationship purposes (the “
+Purposes
+”). The Parties further acknowledge that Business Contact Data and Passport Information may be disclosed by the receiving Party to, and processed by, other members of the receiving Party’s group of companies, competent authorities, courts and tribunals, the receiving Party’s professional advisors, and other third party service providers of the receiving Party (“
+Disclosees
+”) for one or more of the Purposes.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-41-
+
+ 
+
+ 
+
+14.3
+
+Legal Requirements.
+
+ 
+
+ 
+
+(a)
+
+Each Party shall comply with data protection legislation applicable to that Party from time to time when processing Business Contact Data and Passport Information.
+
+ 
+
+ 
+
+(b)
+
+Each Party shall ensure that any Business Contact Data or Passport Information one Party makes available to the other Party has been collected lawfully, fairly and in a transparent manner so as to enable such Business Contact Data or Passport Information to be processed by the receiving Party and its Disclosees for all of the Purposes.
+
+ 
+
+14.4
+
+Notice.
+ If, notwithstanding 
+Section 14.1
+, BFA accidentally, unknowingly or otherwise discloses to Provider Personal Information other than Business Contact Data or Passport Information of which Provider becomes aware, Provider shall notify BFA promptly and shall, at the discretion of BFA, return or destroy such Personal Information.
+
+ 
+
+14.5
+
+Data Protection Agreement.
+ In the event that the Parties agree to the processing of Personal Information, other than Business Contact Data, under or pursuant to this Agreement (including as a result of a change to the Services), the Parties agree to enter into a Data Protection Agreement mutually agreed upon at such time.
+
+ 
+
+14.6
+
+Privacy Notices.
+ The Parties shall each make available to the other its privacy notice (as may be in effect from time to time) detailing the way in which Personal Information is processed. BFA’s Client and Vendor Privacy Notice can be found at 
+https://www.blackrock.com/corporate/compliance/privacy-policy
+ (or such future URL as may be used by BFA from time to time). Provider’s applicable Privacy Notices can be found at https://www.bnymellon.com/us/en/privacy-policy.html.
+
+ 
+
+15.
+
+INTELLECTUAL PROPERTY RIGHTS
+
+ 
+
+15.1
+
+Generally
+. This 
+Article 15
+ sets forth the Parties’ rights with respect to certain Intellectual Property Rights created, used or otherwise made available in connection with this Agreement. As between the Parties, the rights apply as set forth in this 
+Article 15
+ whether created by Provider Personnel solely or working jointly with any BFA Recipient or others to perform the work in question.
+
+ 
+
+15.2
+
+Independent Work
+. BFA and Provider shall each exclusively retain all Intellectual Property Rights which they (or their Affiliates or, solely with respect to Provider, its Subcontractors) create that constitute Independent Work.
+
+ 
+
+15.3
+
+Work Product
+. All Work Product shall be exclusively owned by BFA, and Provider hereby assigns, and shall cause its Affiliates, Subcontractors and all Provider Personnel to assign, to BFA all right, title and interest in and to the Work Product. To the extent any Work Product has applicability to Provider’s provision of similar services to Provider client’s generally and does not constitute Confidential Information of BFA or BFA Recipients and to the extent not otherwise agreed in writing by BFA and Provider, BFA shall grant to Provider a non-exclusive, worldwide, non-transferable, perpetual, irrevocable, non-terminable
+ 
+(except for terminations in connection with certain breach events), fully paid-up, royalty-free license to use, load, access, execute, store, transmit, copy, display, perform and otherwise exploit such Work Product in connection with the provision of services similar to the Services to Provider’s clients on terms to be negotiated in good faith by BFA and Provider; provided that no such license shall become effective prior to the date that is two (2) years from the date such Work Product is first used commercially or in production by BFA or a BFA Recipient in connection with the Services.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-42-
+
+ 
+
+ 
+
+15.4
+
+Certain Derivative Works and Feedback Intellectual Property.
+ Except as may be otherwise agreed in writing by BFA and Provider, as between BFA and Provider, (a) any derivative works based on the Independent Work of Provider or any of its Affiliates or Subcontractors that are created by or for Provider or any of its Affiliates or Subcontractors at BFA’s or any BFA Recipient’s written Project request pursuant to Section 2.1 of 
+Exhibit B
+ (such derivative works, “
+BFA Requested Derivatives
+”) and (b) any Feedback Intellectual Property shall be owned by Provider, including, without limitation, any modification or derivative works thereof. Provider hereby grants, and shall cause its Affiliates and Subcontractors, as applicable, to grant, to BFA a non-exclusive, worldwide, transferable, perpetual, irrevocable, non-terminable, fully paid-up, royalty-free license, with the right to sublicense through multiple tiers, to use, load, access, execute, store, transmit, copy, display, perform, modify, create derivative works of and otherwise exploit such BFA Requested Derivative Works and Feedback Intellectual Property in any manner whatsoever; provided that, solely with respect to each BFA Requested Derivative created as part of the Services under this Agreement, such license shall be exclusive to BFA for a period of one (1) year from the date that such BFA Requested Derivative is delivered to BFA or the applicable BFA Recipient or implemented for or on behalf of BFA or the applicable BFA Recipient by Provider (or any of its Affiliates or Subcontractors).
+
+ 
+
+15.5
+
+BFA Intellectual Property License Grant.
+ BFA hereby grants, on behalf of itself and its Affiliates, to Provider a limited, worldwide, non-transferable, revocable, fully paid-up, royalty-free license, without the right to sublicense except as may be separately agreed by BFA and Provider in writing, to use, load, access, execute, store, transmit, copy, display, perform, modify and create derivative works of the Independent Work of BFA or any of its Affiliates and Work Product, solely to the extent and for the duration necessary to perform the Services for the benefit of BFA and BFA Recipients (and not for the benefit of any third party, unless expressly authorized by BFA in writing). In connection with the exercise of the foregoing license, Provider shall not (a) delete, remove or in any way obscure any of BFA’s or its Affiliates’ proprietary notices on such Intellectual Property Rights or (b) in copying any such Intellectual Property Rights, interfere with the display or reproduction of such proprietary notices. For the avoidance of doubt, any modification or derivative works of such Independent Work or Work Product, including any such modifications or derivative works created by Provider or its Affiliates or Subcontractors, shall constitute Work Product and be exclusively owned by BFA in accordance with the terms of this 
+Article 15
+.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-43-
+
+ 
+
+ 
+
+15.6
+
+Provider Intellectual Property License Grant.
+ Provider hereby grants, and shall cause its Affiliates and Subcontractors to grant, to BFA and the BFA Recipients: (a) unless BFA approves the inclusion of data and information of any Authorized Data Sources and/or any Provider Third Party Technology with a different license grant after Provider’s written notice to BFA addressing the limitations and restrictions in the data and information of such Authorized Data Sources and/or any Provider Third Party Technology, a non‑exclusive, worldwide, transferable, perpetual, irrevocable, non-terminable, fully paid-up, royalty-free license, with the right to sublicense through multiple tiers, to use, load, access, execute, store, transmit, copy, display, perform, modify, create derivative works of and otherwise exploit the Independent Work of Provider or any of its Affiliates or Subcontractors, any data and information of Authorized Data Sources and/or any Provider Third Party Technology, solely to the extent any such Independent Work, data and information and/or Provider Third Party Technology is incorporated in or necessary or useful to practice, use or otherwise exploit any Work Product, BFA Requested Derivatives, or any other deliverable embedded in the Work Product or BFA Requested Derivatives provided under this Agreement (including, for the avoidance of doubt, any such deliverable that is comprised, in whole or in part, of any Independent Work of Provider or any of its Affiliates or Subcontractors, any data and information of any Authorized Data Sources and/or any Provider Third Party Technology), and solely for use with or other exploitation of such Work Product, BFA Requested Derivatives or other deliverable embedded in the Work Product or BFA Requested Derivatives; and (b) a limited, non-exclusive, worldwide, non-transferable, irrevocable, non-terminable, fully paid-up, royalty-free license, with the right to sublicense through multiple tiers, to use, load, access, execute, store, transmit, copy, display, perform, modify, create derivative works of and otherwise exploit the Independent Work of Provider or any of its Affiliates and Subcontractors and/or any other deliverable provided under this Agreement (including, for the avoidance of doubt, any deliverable that is comprised, in whole or in part, of any Independent Work of Provider or any of its Affiliates or Subcontractors, any data and information of any Authorized Data Sources and/or any Provider Third Party Technology and any deliverable provided during or in connection with any obligations during any transition period provided for under this Agreement), any data and information of Authorized Data Sources, any Provider Third Party Technology, solely to the extent and for the duration necessary (or with respect to Provider’s Independent Work useful) to receive and enjoy the benefit of the Services (including, for the avoidance of doubt, any transition period provided for under this Agreement). In connection with the exercise of the foregoing licenses, neither BFA nor the BFA Recipients shall (x) delete, remove or in any way obscure any of Provider’s or its Affiliates’ or Subcontractors’ proprietary notices on such Intellectual Property Rights or (y) in copying any such Intellectual Property Rights, interfere with the display or reproduction of such proprietary notices. For the avoidance of doubt, any modification or derivative work of the Independent Work of Provider, its Affiliates or Subcontractors shall be exclusively owned by Provider and licensed to BFA and the BFA Recipients to the extent set forth under this 
+Section 15.6
+; 
+provided
+, 
+however
+, that neither BFA or any BFA Recipient shall be obligated to disclose, provide or deliver to Provider or any of its Affiliates or Subcontractors, in any manner, any such modification or derivative work of the Independent Work of Provider, its Affiliates or Subcontractors created by or for BFA or any BFA Recipient, other than by Provider, its Affiliates or Subcontractors, and any modification or derivative works of any information and data of Authorized Data Sources and/or Provider Third Party Technology shall be exclusively owned by the applicable Authorized Data Source or third party and licensed to BFA and the BFA Recipients to the extent set forth under this 
+Section 15.6
+.
+
+ 
+
+16.
+
+CONTRACT AND PROJECT MANAGEMENT
+
+ 
+
+16.1
+
+Governance, Meetings and Reports.
+ Provider acknowledges and agrees that one of the key business requirements of the BFA Recipients is for Provider to provide the Services in a consistent, integrated manner across all Provider locations, regardless of geography. To meet such requirement, Provider will organize its relationship with the BFA Recipients and its service delivery team in accordance with the governance committee, processes and procedures set forth in the Service Level Schedule and this 
+Article 16
+.
+
+ 
+
+16.2
+
+Change Procedures.
+ Any Change to the general terms and conditions herein (including changes to the Schedules and Attachments) will be made in accordance with 
+Exhibit
+ 
+B
+. Each Party agrees to consider in good faith any Change request of the other Party and will not unreasonably withhold, condition or delay its approval of any such request.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-44-
+
+ 
+
+ 
+
+17.
+
+AUDIT / RECORDS / LEGAL DISCOVERY
+
+ 
+
+17.1
+
+BFA Audit Rights.
+ Unless prohibited by applicable Laws, the BFA Recipients, their auditors (internal or external) and regulators (to the extent legally required), each as a BFA Recipient may from time to time designate (collectively, the “
+BFA Auditors
+”), may perform audits, inspections and examinations of: (x) any location or facility or portion thereof at or from which Provider Personnel are providing the Services; (y) Subcontractors (subject to the limitations in 
+Section
+ 
+17.2(a)(iv)
+ below); and (z) data, books, logs, records and other documentation in any media relating to the Services for the following purposes:
+
+ 
+
+ 
+
+(a)
+
+to verify and ascertain the accuracy and correctness of volume calculations, Service Levels and other measures of performance, Fees, credits and other amounts due and payable to the applicable Parties hereunder (including by means of access to the most recent publicly available audited financial statements of Provider and/or its Subcontractors, as applicable, and relevant information on applicable insurance coverages to the extent available to Provider);
+
+ 
+
+ 
+
+(b)
+
+to verify the confidentiality, integrity and availability of BFA Confidential Information and Provider’s or its Subcontractors’ compliance with their duties and obligations with respect to information protection, security, conflicts of interest and confidentiality;
+
+ 
+
+ 
+
+(c)
+
+to assess (A) Provider’s compliance with its data security obligations hereunder and (B) whether any incident has occurred that has compromised the security of Provider Technology in a manner such that BFA Data has been improperly disclosed or altered (a “
+Data Security Breach
+”); 
+provided
+ that such access may include access to Provider Technology consistent with the access provided to BFA Recipients in connection with the Services, but excluding (I) access to Provider Technology that would permit the auditor to view information of other clients of Provider and (II) the ability to perform any penetration or similar testing;
+
+ 
+
+ 
+
+(d)
+
+to verify Provider’s compliance with Provider Laws in any country from or to which Services are provided, including to verify the integrity and correctness of the training and certification qualifications offered to and obtained by Provider Personnel where training or certification is required to comply with Provider Laws;
+
+ 
+
+ 
+
+(e)
+
+to verify the integrity of any data provided by Provider hereunder;
+
+ 
+
+ 
+
+(f)
+
+to verify Provider’s compliance with regulatory inquiries relating to the BFA Recipients;
+
+ 
+
+ 
+
+(g)
+
+[Reserved]
+
+ 
+
+ 
+
+(h)
+
+to verify Provider’s compliance with policies and procedures of a BFA Recipient to which Provider is required to comply hereunder; and
+
+ 
+
+ 
+
+(i)
+
+to verify Provider’s compliance with any other provision of this Agreement.
+
+ 
+
+Provider will make Provider Personnel available to the BFA Auditors for the purposes described in this 
+Section 17.1
+. Notwithstanding the foregoing, (i) to the extent required by Provider’s policies and procedures relating to data security, Provider may provide summary materials in lieu of the full text of policies, procedures, test results (in which BFA does not participate), and other similar documentation, and (ii) the scope of BFA’s access to Provider’s premises and personnel and review rights with respect to Provider’s BCP Plan shall be as agreed by the Parties in writing from time to time.
+
+   
+
+Master Services Agreement
+
+ 
+
+CONFIDENTIAL
+
+-45-
+
+ 
+
+ 
+
+17.2
+
+Limitations and Cooperation.
+
+ 
+
+ 
+
+(a)
+
+Limitations
+.
+
+ 
+
+ 
+
+(i)
+
+Audits will be conducted during Provider’s business hours and upon reasonable notice to Provider except in the case of emergency or as otherwise may be legally required. Each BFA Recipient and the BFA Auditors will: (A) comply with Provider’s reasonable security and confidentiality requirements when accessing locations, facilities or other resources owned or controlled by Provider; and (B) cooperate with Provider to minimize any disruption to Provider’s business activities, subject to the requirements of any regulatory authorities.
+
+ 
+
+ 
+
+(ii)
+
+Audit rights of the BFA Recipients will be subject to Provider’s rights to impose reasonable limitations on the frequency and timing of such audits and inspections requested by the BFA Recipients, except that Provider will not limit the frequency or timing of audits or inspections by regulators of the BFA Recipients.
+
+ 
+
+ 
+
+(iii)
+
+Provider will not disclose or make any information available or provide access to: (A) the extent that such information is subject to legal privilege; (B) the extent that disclosure or access would result in a breach of law or duty of confidentiality or privacy owed to a third party or any Provider Personnel; (C) the extent that such information is unrelated to the BFA Recipients or the provision of the Services; (D) Provider’s internal audit reports, compliance or risk management plans or reports, work papers and other reports and information relating to management functions; or (E) the extent that such access by the BFA Recipients would, in Provider’s reasonable opinion, compromise the security of its technology systems.
+
+ 
+
+ 
+
+(iv)
+
+Any audits of Subcontractors permitted hereunder shall be subject to all terms and conditions applicable thereto under any agreement between Provider and such Subcontractors, which audit rights Provider will request in good faith from such Subcontractor.
+
+ 
+
+ 
+
+(b)
+
+Provider Cooperation
+.
+
+ 
+
+ 
+
+(i)
+
+Subject to the limitations set forth in 
+Section 17.2(a)
+, Provider and Provider Personnel will provide such assistance as may be reasonably required to carry out audits as permitted hereunder, including providing reasonable use of Provider locations, facilities and other resources reasonably required in connection therewith, subject to reimbursement for any material out-of-pocket expenses incurred by Provider in cooperating with audit activities directed by a BFA Recipient that are outside the ordinary course of customary audits that would be expected in connection with services similar to the Services.

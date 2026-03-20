@@ -1,0 +1,2074 @@
+EX-10.1
+
+2
+
+gmgi_ex101.htm
+
+SOFTWARE LICENSE AGREEMENT
+
+gmgi_ex101.htm
+EXHIBIT 10.1
+ 
+  
+ 
+Software License Agreement
+ 
+ 
+ 
+Between
+ 
+ 
+ 
+Elray Resources Inc.
+ 
+ 
+ 
+and
+ 
+ 
+ 
+Golden Matrix Group Inc.
+ 
+  
+ 
+ 
+ 
+ 
+ 
+THIS AGREEMENT has been entered into as of 
+December 1, 2022
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This Software License Agreement (the “
+Agreement
+”) is made effective as of 
+December 1, 2022
+ (the “
+Effective Date
+”), by and between Golden Matrix Group Inc., a company incorporated in Nevada, the registered office of which is at 3651 Lindell Road Ste D131 Las Vegas NV 89103, USA (the “Supplier”), and Elray Resources Inc. a company incorporated in Nevada, the registered office of which is at 3651 Lindell Road Ste D131 Las Vegas NV 89103, USA, (the “Licensee”).
+ 
+ 
+ 
+WHEREAS,
+ 
+ 
+ 
+A. The Supplier is an owner of online casino games or alternatively has the right to distribute third party online games, the Brands of which are described in Schedule A attached hereto (the “Gaming Content”); and
+ 
+ 
+ 
+B. Licensee wished to integrate the Licensed Games provided by the Supplier into third party or its own online gaming Website(s) which are in compliance with Applicable law; and
+ 
+ 
+ 
+C. Licensee operates, manages, maintains Blockchain Online Gaming operations as well as provides Blockchain Currency Technology to Licensed Casino Operators and/or wishes to acquire a non-exclusive license to utilize and distribute the gaming content.
+ 
+ 
+ 
+D. Licensee warrants that it grants the Supplier the 
+Right of First Refusal 
+to provide all branded gaming content listed in Schedule A from the Supplier thereby purchasing said gaming content 
+exclusively from the Supplier
+.
+ 
+ 
+ 
+E. Supplier is willing to grant Licensee such license, on the terms and subject to the conditions set forth in this Agreement and made a part hereof.
+ 
+ 
+ 
+NOW, THEREFORE, in consideration of the premises and mutual covenants in this Agreement, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+ 
+ 
+ 
+1. Definitions 
+ 
+ 
+ 
+For the purposes of this Agreement, the following terms and expressions shall have the meaning set forth below:
+ 
+ 
+ 
+“Agreement”
+ means this written Game Software License Agreement including any appendix or amendment hereto as may be adopted by the Parties in terms hereof;
+ 
+ 
+ 
+“API/s” 
+means application programming interface of which is 
+inter alia
+ a set of commands, functions, protocols, and objects that programmers can use to create software or interact with an external system;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Applicable Law/s” 
+means all laws and regulations of any jurisdiction in the Territory that are applicable to this Agreement, to any of the Parties hereto or to any activity of any of the Parties hereto (and including without limitation the use of any Licensed Games by any person and/or entity including, without limitation, any Players), as amended and in force from time to time, including the rules, regulations, orders, licences or permits (and the conditions upon which such licences and permits are granted) issued thereunder, including, without limitation, any rules, regulations, orders, licences and permits of any Competent Authority and including, without limitation, any gaming-related legislation, data protection laws, privacy laws, anti-spam laws and intellectual property laws.
+ 
+ 
+ 
+“Bonus” or “Bonuses”
+ means incentives provided by the Licensee to End Users on the Website directly related to promote the Licensed Games including, but not limited, to free bets, free rolls, free spins, free chips, bonus-based loyalty programs or similar offered to End Users from time to time;
+ 
+ 
+ 
+“Chargebacks”
+ means all amounts paid or returned to financial institutions as a result of disputed or fraudulent financial transactions associated with End Users’ bets/wagers; 
+“Competent Authority” 
+means any governmental, judicial, regulatory, tax, and/or gambling authority (including any court) in any jurisdiction of which regulates the Licensee’s activities; 
+“Confidential Information”
+ means confidential and/or proprietary information of the other Party, whether communicated orally or in writing, including, without limitation, information of the other Party concerning inventions, trade secrets, know-how, methods, processes, techniques, code, technologies, existing and potential customer and clients lists, financial information, strategic business plans, other technical, business, and operational information and the terms and conditions of this Agreement;
+ 
+ 
+ 
+“Effective Date”
+ means the date of this Agreement. If the date of the Agreement has not been included the later signature date shall be considered to be the Effective Date;
+ 
+ 
+ 
+“Enterprise” 
+means the provision of online games through the Website/s operated by the Licensee or by the Sub-Licensee to Players in the Territory;
+ 
+ 
+ 
+“Force Majeure”
+ means any cause beyond the reasonable control of the affected Party, including any fire, explosion, flood, storm, earthquake, elements of nature or acts of God, acts of war, acts or attempted acts of terrorism, riots insurrection, civil disorders, or disturbances, rebellions or revolutions, strikes, lockouts, or labour difficulties (other than by staff of the affected Party), malicious acts of third parties (including theft or property damage), interruption of telecommunications service, electrical service, or breakdown of public infrastructure to the extent if affects a Party;
+ 
+ 
+ 
+“Gaming Tax”
+ means
+ 
+any gaming duties, taxes, levies, imports or other similar charges applicable to the online RNG based casino and legally and validly payable by the Licensee or the Sub-Licensee to any Competent Authority resulting from applicable laws and regulations in any regulated market the Licensee and/or Sub-licensee is licensed to operate;
+ 
+ 
+ 
+“GGR” or “Gross Gaming Revenue”
+ means the total of all Players’ wagers actually received by the Licensee generated on its Website/s less the total of all sums actually paid as winnings to Players.
+ 
+ 
+ 
+“GSP”
+ means a third-party gaming service provider that supplies gaming content, and which may be contracted either by the Supplier and/or the Licensee to deliver such content;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Intellectual Property”
+ and 
+“Intellectual Property Rights”
+ means all intellectual property rights including, but not limited to, patents, designs, trademarks, Marks, trade names, copyrights, know-how and inventions, whether registered, unregistered or pending, relating to the Marks, the Licensed Software, the Supplier Platform and/or any other intellectual property belonging to the Supplier, Licensee or any of their Related Companies;
+ 
+ 
+ 
+“Launch”
+ means the first day of public availability of the Licensed Software on Licensee Services whereby Players may wage real money on the Licensed Games;
+ 
+ 
+ 
+“Licensee Services”
+ means any access service offered by Licensee and/or Sub-Licensee used for the purpose of integration, distribution and display of the Supplier Services, irrespective of the medium or electronic communications network over which the said access service is provided; 
+“Licensed Games” 
+(as applicable) means solely the Supplier games, provided in Supplier Platform, detailed in Schedule A to this Agreement as updated over time to be licensed to the Licensee and subsequently made available to End Users via the Licensee and where applicable Sub-licensee Websites;
+ 
+ 
+ 
+“Licensed Software”
+ shall mean the Supplier Platform, Licensed Games, GSP content as well as the Supplier software hosting services;
+ 
+ 
+ 
+“Marks”
+ means the logo and the words pertaining to the business of or the services offered by the Supplier or the Licensee;
+ 
+ 
+ 
+“New Release/s”
+ means a new, enhanced, improved or updated version of the Supplier Platform that may add new games, change the utility, efficiency or operating performance of the Supplier Platform;
+ 
+ 
+ 
+“Permits”
+ means any and all licenses, approvals and/or other permits, decisions by regulatory authorities, certifications or other allowances required by the Applicable Law in each part of the Territory in order for the Licensee to legally provide the Games to Players in each part of the Territory;
+ 
+ 
+ 
+“Permitted Regulated Market/s”
+ means any State which requires a local Permit or license for the Licensee to be able to promote or offer the Licensed Games in that Jurisdiction or otherwise to accept wagers from that jurisdiction and in which the Parties hold the required Permits; 
+“Player/s or End User/s”
+ shall mean a registered person on the Licensee’s and where applicable the Sub-licensee’s Websites;
+ 
+ 
+ 
+“Progressive Balance” 
+means the balance of the Initial Progressive Deposit less the Progressive Contribution;
+ 
+ 
+ 
+“Progressive Jackpot Contributions” 
+(as applicable) means the percentage of the bet/stake contributed to the jackpot pool(s) for one and each bet/wager placed by an End User on the Jackpot Games required to establish, maintain or grow the progressive jackpot(s) on the Jackpot Games;
+ 
+ 
+ 
+“Progressive Jackpot Games(s)”
+ (as applicable) means those Licensed Games which are connected to, and contribute a percentage of bets/stakes to the progressive jackpot pool, and which a Licensee and where applicable a Sub-licensee has elected to offer to End Users; 
+ 
+  
+ 
+“Progressive Seed Contribution” 
+means all Seed Amounts that the Licensee was liable for during that calendar month and comprises the Seed Amount less the Seed Contribution; 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Seed Amount” 
+means the amount required to restart a particular Progressive Jackpot Game following the Progressive Jackpot being won in respect of that Progressive Jackpot Game; 
+ 
+  
+ 
+“Prohibited Jurisdictions” 
+shall mean those countries, states, provinces, territories or other geographic and/or governmental areas other than the Territory. Prohibited Jurisdictions shall include Permitted Regulated Markets where the appropriate permits are not held to offer the Licensed Games to Players, any jurisdiction which may be added and designated as Prohibited Jurisdiction(s) by the Supplier (at its sole discretion) from time to time by written notice to the Licensee (email being sufficient)
+; 
+ 
+  
+ 
+“Related Company” 
+shall mean any company connected to the Parties, directly or indirectly, via either upward or downward majority ownership, e.g. having a joint owner;
+ 
+ 
+ 
+“Sub-licensee/s”
+ means third party operators who are Related Companies with the Licensee and granted the sub-license to use and exploit the Licensed Games in the operation of their interactive gaming business strictly in accordance with the terms of this Agreement;
+ 
+ 
+ 
+“Supplier Platform”
+ means the Supplier’s proprietary casino gaming platform on which the Licensed Games reside and operate;
+ 
+ 
+ 
+“Territory”
+ means all territories where the Licensee may legally provide the Licensed Games to Players under the Parties valid Permits provided that, they are not Prohibited Jurisdictions as set out in Schedule C;
+ 
+ 
+ 
+“Value Added Tax” or “VAT”
+ (as applicable) means value added tax as commonly understood and any other tax similar or equivalent to value added tax imposed by any country whether provided for in primary, secondary or purported legislation and whether delegated or otherwise and any similar to turnover tax replacing or introduced in addition to any of the same; and 
+“Website”
+ means any access service offered by the Licensee, and where applicable Sublicensees, used for the purpose of integration, distribution and display of the Licensed Games, irrespective of the medium or electronic communications network over which the said access service is provided.
+ 
+ 
+ 
+Unless the context requires otherwise, words denoting the singular shall include the plural and vice versa, references to one gender shall refer to either gender and references to any person shall include corporate bodies (wherever incorporated), unincorporated associations, partnerships and statutory bodies, as well as any legal or natural person.
+ 
+ 
+ 
+The words “other”, “include” and “including” do not connote limitation in any way.
+ 
+ 
+ 
+2. License 
+ 
+ 
+ 
+2.1. Rights Granted 
+ 
+ 
+ 
+2.1.1. As of the Effective Date, the Supplier hereby grants to the Licensee a nonexclusive, non-licensable, non-sublicensable, non-assignable and non-transferable license for the use and further distribution of Licensed Games to be used solely for the purpose of running an online Blockchain Casino Enterprise and in accordance with the provisions set out herein.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1.2. Provide the Supplier with any company information and due diligence documentation as requested by the Supplier.
+ 
+ 
+ 
+2.1.3. The Supplier may transfer any or all of its rights and obligations under this Agreement to any other party after having obtained the express written consent of the Licensee. The Licensee shall not unreasonably withhold such consent.
+ 
+ 
+ 
+2.1.4. The Parties agree that the Licensed Games are provided by remote server access only. Players may only be granted access to the Licensed Games via the Websites using their personal account therein. The Licensed Games will reside solely on the Supplier’s or third-party content provider servers and no copies thereof will be made or made available to either the Licensee or the Players, save for any parts thereof that are required to be downloaded to the Player’s equipment to be able to play the Licensed Games as intended.
+ 
+ 
+ 
+2.1.5. The addition of any other Website beyond the Website currently anticipated 
+www.maxibet.com
+ shall require the Supplier’s prior written approval and any such Websites.
+ 
+ 
+ 
+2.2. Restriction of License 
+ 
+ 
+ 
+2.2.1. Licensee shall not copy, modify, sublicense, distribute, transfer, reverse engineer or reverse compile the Licensed Software or part thereof (or any Intellectual Property or Intellectual Property Rights of the Supplier or any GSP’s or third parties as may be applicable), nor shall Licensee prepare derivative works incorporating the Supplier Platform or part thereof. Neither Licensee, Sub-Licensees nor its personnel may use the Supplier Platform or the documentation or part thereof (in each case) to design substantially similar or identical software.
+ 
+ 
+ 
+2.2.2. The Supplier grants no other rights than those expressly specified as granted to the Licensee in this Agreement. In particular, no rights of ownership or any other rights than the right to use the Gaming Platform (or any Intellectual Property or Intellectual Property Rights of the Supplier) to carry out the Enterprise as specified in this Agreement are hereby granted.
+ 
+ 
+ 
+2.3. Updates, Upgrades and New Games 
+ 
+ 
+ 
+2.3.1. The Licensee is entitled to, and the Supplier may make available to the Licensee New Releases as they may become available from time to time. Upon being made available to the Licensee, these New Releases shall be deemed to automatically become part of the Supplier Platform and the Licensed Games. Unless stated otherwise, any New Releases are subject to the same conditions as those for the Licensed Games and the Supplier Platform as set out in this Agreement.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3.2. Where the Supplier New Releases include and require changes to API, the Licensee may decide not to implement such change as indicated by the Supplier. The Licensee understands that game releases are sometimes tied to New Releases and understands and agrees that the Supplier shall not be able to provide the game releases specific to this and future releases if the update or upgrade is not implemented during this time.
+ 
+ 
+ 
+2.3.3. Bespoke releases are not part of the Agreement scope and any bespoke releases tailor made for the Licensee shall be regulated in accordance with an additional instrument in writing which will be agreed upon by the Parties.
+ 
+ 
+ 
+2.4. Ownership 
+ 
+ 
+ 
+2.4.1. All rights and interest in and to the Licensed Games and Supplier Platform or any other Licensed Software or any part thereof including Intellectual Property Rights, any copies thereof, and all documentation, code and logic, which describes and/or comprises the Licensed Software, and any updates or upgrades remain the sole property of the Supplier and/or its respective affiliates and/or third parties such as GSP’s, as applicable.
+ 
+ 
+ 
+2.4.2. All Intellectual Property Rights, title and interest in and to the Supplier Platform and Licensed Games, including New Releases, whether or not developed at the request of Licensee or paid for by Licensee, shall at all times remain with the Supplier and/or its respective affiliates. Licensee agrees not to challenge any Intellectual Property Rights which are subject to this Agreement.
+ 
+ 
+ 
+2.4.3. The Licensee acknowledges and accepts that any use or disclosure of the Supplier Platform and/or Licensed Games, or of its/their algorithms, protocols or interfaces, other than as expressly authorized by the Supplier or in accordance with this Agreement, constitutes an infringement of the Supplier’s Intellectual Property Rights and/or other rights.
+ 
+ 
+ 
+2.4.4. The Licensee undertakes to notify the Supplier immediately if the Licensee becomes aware of any unauthorized use of the Supplier Platform and/or Licensed Games or of any potential infringements of the Supplier’s Intellectual Property Rights and/or other rights by any person in the Supplier’s organization.
+ 
+ 
+ 
+2.4.5. The Licensee warrants, and shall ensure that the Sub-licensee(s), hold all necessary licenses certificates or permissions for any and all content displayed on its Website and shall not hold the Supplier for any third-party related claims.
+ 
+ 
+ 
+2.4.6. The Parties grant each other a revocable, non-exclusive and non-transferable world-wide right to incorporate the Marks into the Licensee Services and into their marketing material for the duration of this Agreement.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Term and Termination of Agreement 
+ 
+ 
+ 
+3.1. Subject to clause 3.2., this Agreement shall enter into force on the Effective Date and shall thereafter, remain in force for a fixed period of 24 months commencing from the Go-Live Date (the ‘Initial Term’). Following the expiration of the Initial Term, the Agreement shall be prolonged indefinitely unless terminated in writing by either Party providing 6 months’ prior written notice of termination to the other Party.
+ 
+ 
+ 
+ 
+3.2. Notwithstanding anything contained in Clause 3.1., each Party shall have the right to immediately terminate this Agreement by written notice if:
+ 
+ 
+ 
+3.2.1. the other Party commits a material breach (or several breaches that jointly may be deemed material) of this Agreement, including without limitation the failure to duly pay invoices, and such breach (or breaches), if capable of remedy, remain unremedied upon the expiry of fifteen (15) days from the defaulting Party having received a written notice requesting remedy thereof;
+ 
+ 
+ 
+3.2.2. The other Party becomes insolvent or starts negotiations about a composition with its creditors or a petition in bankruptcy is filed by or against it or it makes an assignment for the benefit of its creditors or the company otherwise enters into voluntary or involuntary liquidation, has a receiver appointed over all or parts of its assets or it becomes evident that the other Party is, or will be unable to perform its obligations under this Agreement; or
+ 
+ 
+ 
+3.2.3. The Licensee forfeits any of the Permits required to provide the Licensed Games to Players in a part of the Territory or the Territory as a whole or;
+ 
+ 
+ 
+3.2.4. If a Party by its acts or omissions jeopardise the Permits of the non-defaulting Party.
+ 
+ 
+ 
+3.3. Supplier may immediately terminate this Agreement, if:
+ 
+ 
+ 
+3.3.1. the Licensee is unable to comply with the due diligence requirements as set forth by the Supplier in any stipulated timeframe.
+ 
+ 
+ 
+3.3.2. a Competent Authority threatens or instigates enforcement proceedings or actions against Supplier in connection with this Agreement;
+ 
+ 
+ 
+3.3.3. a Competent Authority orders, notifies or recommends that Supplier should prevent Licensee from using the Licensed Games;
+ 
+ 
+ 
+3.3.4. the continuation of this Agreement will have a detrimental impact on Supplier and/or any of Supplier’s Related Company.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.4. Upon termination (howsoever occasioned) or expiry of this Agreement:
+ 
+ 
+ 
+3.4.1. The Supplier shall promptly shut down any use of or access to the Licensed Games on its Websites and shall be obliged to ensure that where applicable Sublicensees shut down any use of or access to the Licensed Games on their Website/s;
+ 
+ 
+ 
+3.4.2. Licensee shall destroy any and all copies of the Supplier Platform and/or Licensed Games which for any reason cannot be delivered to the Supplier;
+ 
+ 
+ 
+3.4.3. An officer of the Licensee shall declare in writing to the Supplier that all proprietary material relating to the Supplier Platform and/or Licensed Games and its documentation has been either delivered to the Supplier or destroyed;
+ 
+ 
+ 
+3.4.4. all outstanding sums payable to the Supplier shall immediately become due;
+ 
+ 
+ 
+3.4.5. In case where this Agreement is only partially terminated in relation to particular Websites, the above provisions of Clause 3.4.3. shall apply only in relation to the terminated Websites.
+ 
+ 
+ 
+4. Supplier Deliverables and Obligations 
+ 
+ 
+ 
+4.1. The Supplier will use reasonable commercial efforts to ensure that the Licensed Games and Licensed Platform will, from the Go Live Date, operate materially in accordance with their specifications.
+ 
+ 
+ 
+4.2. The Supplier shall maintain all necessary Permits for the duration of this Agreement and be compliant as per the applicable laws, rules, regulations, guidelines, and certification standards as may be applicable, as well as any updates or changes in regulations or guides that may apply from time to time.
+ 
+ 
+ 
+4.3. The Supplier shall undertake all necessary commercially reasonable arrangements for the proper implementation of the Licensed Software.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.4. The Supplier Platform will be operated by the Supplier. These services comprise of the following:
+ 
+ 
+ 
+4.4.1. Using the Casino Engine platform to integrate third party GSP’s subject to a written agreement between the Parties.
+ 
+ 
+ 
+4.4.2. Provision of Standard 2
+nd
+ line technical e-mail support to the Licensee for the Licensed Games and the Supplier Platform during normal business hours GMT+8.
+ 
+ 
+ 
+4.4.3. Technical integration support, including guidance during set-up and help in reviewing code. Integration support is recommended by the Supplier as it is imperative for a successful integration and quick launch. The Licensee is responsible for its own costs and expenses in connection with the Integration.
+ 
+ 
+ 
+4.4.4. Provision of one (1) day of systems operations training to the Licensee’s staff if requested by the Licensee at least thirty (30) days’ in advance.
+ 
+ 
+ 
+4.5. The Supplier undertakes to provide the Licensed Games and the Supplier Platform in accordance with the service levels set forth in Schedule E Service Level Agreement.
+ 
+ 
+ 
+5. Licensee’s Rights and Obligations 
+ 
+ 
+ 
+5.1. The Licensee shall integrate the Licensed Games and/or other parts of the Licensed Software (as may be applicable securely into the Websites using full functionality of the APIs so that the Licensed Games will appear to Players as an integral part of the Website/s. The Licensee is responsible for the integration between the Website(s) and the respective Licensed Software and that the integration is conducted in accordance with the integration manual provided by the Supplier.
+ 
+ 
+ 
+5.2. The Licensee and the Sub-licensee where applicable is responsible for testing prior to the Go Live Date.
+ 
+ 
+ 
+5.3. The Licensee shall make the Licensed Games available in a clearly visible manner and shall be easily accessible by the Players accessing the Website/s.
+ 
+ 
+ 
+5.4. The Licensee and (where applicable) Sub-licensee shall be solely responsible for providing Players with 1
+st
+ line customer support.
+ 
+ 
+ 
+5.5. The Licensee shall be responsible for maintaining strict fraud control to ensure that Chargebacks and other fraudulent behaviour is minimised. Such measures shall include but shall not be limited to, limiting deposits, obtaining verification of Player’s details and the Licensee verifying the game rounds with the Supplier prior to allowing the Player’s to withdraw.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.6. The Licensee and (where applicable) the Sub-licensee shall be responsible for the dayto-day operational activities in relation to the Website and the Supplier’s Games made available on it, including game marketing, customer support and care, fraud screening, payment management and setting up of tournaments/Bonuses.
+ 
+ 
+ 
+5.7. The Licensee shall procure that Sub-licensees will at all times make available any rules provided by the Supplier available to End Users including any change and update thereto and clearly and visibly display the game rules as may reasonably be deemed appropriate by the Supplier.
+ 
+ 
+ 
+5.8. The Licensee acknowledges and accepts that the Supplier reserves the right to refuse any request by the Licensee to amend the Licensed Software configuration outside of the default setting described in the documentation of the Licensed Games and/or Licensed Software. Any request sent by the Licensee must be done in writing by a duly authorised representative of the Licensee. The Licensee acknowledges that such amendments may increase risk and the Licensee understands that where a change request has been accepted by the Supplier and shall result in an increased risk, the Licensee shall assume the full responsibility for such increased risk.
+ 
+ 
+ 
+5.9. The Licensee shall inform the Supplier in advance regarding any promotional activities which are expected to generate significant additional business volumes such that Supplier can take any necessary precautions.
+ 
+ 
+ 
+5.10. The Licensee shall promote all of the Supplier’s promotional campaigns related to the Licensed Games as made available from time to time by the Supplier on the Websites.
+ 
+ 
+ 
+5.11. The Licensee shall maintain all necessary Permits for the duration of this Agreement and be compliant as per the Applicable Laws, rules, regulations, guidelines, and certification standards as may be applicable, as well as any updates or changes in regulations or guides that may apply from time to time.
+ 
+ 
+ 
+5.12. The Licensee shall notify the Supplier when there is a change to the domain names of websites or additional websites that wish to use the Licensed Software.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.13. Licensee shall not:
+ 
+ 
+ 
+5.13.1. assert of imply that title or ownership rights in the Supplier Platform, Licensed Games and/or GSP content (as applicable) belong to it;
+ 
+ 
+ 
+5.13.2. remove or obscure any copyright, trademark notice or restrictive legend of the Supplier and/or its respective affiliates, and/or GSP as applicable;
+ 
+ 
+ 
+5.13.3. include and/or otherwise associate or permit the association of the Supplier Platform and/or Licensed Games with any form of malware (including, but not limited to viruses, worms, Trojan horses and spyware) or other code that may be deemed to be malicious.
+ 
+ 
+ 
+5.13.4. wilfully carry out or attempt to carry out any procedure in respect of the Supplier Platform and/or Licensed Games which would circumvent any copy or other protection device or software other than to the extent strictly permitted by Applicable Law.
+ 
+ 
+ 
+5.14. Progressive Jackpot Games Compliance. Licensee shall fully comply with the terms of the Progressive Jackpot Games Compliance Terms attached as Schedule D hereto.
+ 
+ 
+ 
+6. Liability 
+ 
+ 
+ 
+6.1. The Supplier and/or its Related Company or any of their directors, officers, employees, agents or consultants shall not be liable in any event for:
+ 
+ 
+ 
+6.1.1. any indirect or consequential loss or damages except when caused by the Supplier, whether or not the Supplier has been advised of the possibility of such damages;
+ 
+ 
+ 
+6.1.2. any loss of opportunity, reputation, goodwill, profit or anticipated savings, business or contracts arising out of or in any way in connection with this Agreement or the use or performance of the Licensed Games and/or Supplier Platform.
+ 
+ 
+ 
+6.1.3. For the purpose of this Agreement actual damages shall never include loss of profit or other similar consequential damages.
+ 
+ 
+ 
+6.2. Without prejudice to clause 6.3., either Party’s total aggregate liability under this Agreement and that of its directors, officers, employees, consultants and Related Companies, howsoever it should arise, will in no circumstances whatsoever exceed the amount of one hundred thousand EUR (€ 100,000).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.3. Nothing in this clause 6 shall limit either Party’s liability for death, personal injury, wilful intent, fraud, breaches of the Supplier’s Intellectual Property Rights and Confidential information or any other liability which it is illegal to limit or exclude.
+ 
+ 
+ 
+6.4. The Licensed Software is a software-based service and the Licensee acknowledges that such software will not run error free or without interruption. The Supplier takes all reasonable precautions against software errors and bugs, but it does not warrant that
+ 
+ 
+ 
+the Licensed Games nor other Licensed Software (as may be provided an applicable) will meet any special requirements of condition quality, performance, merchantability or fitness for purpose of the Licensee, or that the Licensed Games or any other software provided to the Licensee by the Supplier will generate particular revenues or profits in use by the Licensee or by Sub-licensees.
+ 
+ 
+ 
+7. Indemnification 
+ 
+ 
+ 
+7.1. Either Party agrees to indemnify the other Party and to hold it harmless against all third party claims, damages, losses, liabilities, suits and legal expenses arising out of or in connection with such Party’s breach of any of the undertakings and/or warranties set out herein. The indemnified party shall give the indemnifying party prompt written notice of any such claim and shall provide the indemnifying party with all reasonable information and assistance. This indemnification shall apply to the other Party’s respective successors, assigns, parents, subsidiaries, affiliates, co-ventures and Related Companies; and their respective directors, officers, employees and agents, during and after the term hereof.
+ 
+ 
+ 
+7.2. The Supplier warrants that:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a.
+ 
+ 
+It owns the Intellectual Property rights to the Licensed Games and has the right to offer them to the Licensee pursuant to this Agreement; and/or
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b.
+ 
+ 
+has procured all permits and/or licenses to the Intellectual Property Rights of the Licensed Games, necessary for their offering to the Licensee pursuant to the terms of this Agreement
+ 
+ 
+ 
+ 
+  
+ 
+7.3. Both Parties agree that neither Party will, at any time during or after the term of this Agreement, disclose to any third party, particulars of any Intellectual Property Rights or infringe any of the Intellectual Property Rights of the other Party.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. Notices 
+ 
+ 
+ 
+Notices and other communications required or permitted to be given under this Agreement shall be in writing and shall be given by email to the following addresses:
+ 
+ 
+ 
+For Supplier: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Communication 
+ 
+ 
+Email Address 
+ 
+ 
+ 
+Maintenance and technical issues 
+ 
+ 
+Support@elraygaming.com
+ 
+ 
+ 
+ 
+Compliance and other issues 
+ 
+ 
+info@elraygaming.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9. General Provisions 
+ 
+ 
+ 
+9.1. This Agreement constitutes the entire agreement and understanding between the Parties relating to the subject matter hereof and supersedes any previous agreement or understanding between the Parties in relation to such subject matter and the Parties have not relied on and will have no remedy in respect of any statement, representation, warranty, understanding, undertaking, promise or assurance (whether negligently or innocently made) of any person other than as expressly set out in this Agreement. 
+ 
+ 
+ 
+9.2. Either Party may assign, license, sub-license or otherwise transfer its rights and/or obligations to any third party only with the express written consent of the other Party. Provided always that where the Party wishes to transfer any or all of its rights and obligations under this Agreement to a third party which forms part of the same group as that Party, then consent shall not be unreasonably withheld. 
+ 
+ 
+ 
+9.3. Amendments to this Agreement shall be agreed in writing and signed by both Parties. The Supplier retains the right to update the Agreement during the term in its entirety if required to do so by the relevant licensing authority and/or Applicable Law. 
+ 
+ 
+ 
+9.4. Nothing in this Agreement shall imply any exclusivity demands on the Supplier by the Licensee for the supply of Licensed Games and vice versa. 
+ 
+ 
+ 
+9.5. It is hereby recognised by both Parties that their respective ability to carry out their obligations under this Agreement are subject to applicable legislation and policy. Neither Party shall be held liable for damages of whatever kind that may result from changes in government legislation or policy. The Parties shall promptly endeavour to implement such changes promptly in order to ensure continuation of the Agreement under the changed legal framework. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.6. It is agreed that the relationship between Parties is that of independent contractors, and nothing contained in this Agreement shall be construed or implied to create a relationship of joint ventures, agent and principal, employer and employee, or any relationship other than that of independent contractors. At no time shall either Party make any commitments or incur any charges or expenses for or in the name of the other Party, save and except as set out herein. 
+ 
+ 
+ 
+9.7. The headings in this Agreement shall not be interpreted as having any legal or other meaning apart from giving guidance about the content of each paragraph/section. 
+ 
+ 
+ 
+9.8. Clauses 6 and 10 shall survive termination of this Agreement. 
+ 
+ 
+ 
+10. Confidentiality  
+ 
+ 
+ 
+10.1. The Parties acknowledge and agree that during the course of the relationship contemplated in this Agreement they are likely to come into contact and gain knowledge and access to information and materials that the other Party deems to be confidential, proprietary or of strategic importance. The Parties each agree that they shall maintain the strictest confidentiality of all such materials that they receive concerning the other Party hereto and/or its Related Companies. They shall not disclose such Confidential Information to any other Party, shall not use such Confidential Information for their own purposes, and they shall protect such Confidential Information from disclose using the same or higher standards as they use to protect their own Confidential Information. 
+ 
+ 
+ 
+10.2. The Parties agree that Confidential Information shall be limited to disclosure within the organization of the recipient to those top management personnel and developers with a bona fide need to know such information as a necessary part of their contribution to the performance under this Agreement. 
+ 
+ 
+ 
+10.3. The Parties further agree that subject to the approval of both Parties, they shall be allowed to jointly issue a press release, for marketing and advertising purposes, announcing the relationship entered into by the Parties  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11. Force Majeure 
+ 
+ 
+ 
+11.1. Except for Licensee’s payment responsibilities under Schedule B of this Agreement, neither Party shall be liable for any delay or failure to perform any material obligation under this Agreement, if the failure is due to an event of Force Majeure.  
+ 
+ 
+ 
+11.2. If a Force Majeure Event continues and so prevents the performance by the affected Party of its obligations hereunder for more than sixty (60) days or sixty (60) days in aggregate in any continuous period in excess of ninety (90) days, either Party shall be entitled to terminate this Agreement immediately by written notice to the other Party. 
+ 
+ 
+ 
+12. Non-Solicitation 
+ 
+ 
+ 
+Neither Party shall during the term of this Agreement and for a period of one (1) year thereafter solicit any of each other’s employees or any employees of the subsidiaries or Related Companies forming part of their group of companies, for the purpose of offering them to become employees and/or to procure services from them.  
+ 
+ 
+ 
+13. Governing Law and Disputes 
+ 
+ 
+ 
+This Agreement and the rights and obligations of the Parties hereunder shall be governed by and construed in all respects in accordance with the Laws of USA and any dispute related to the present Agreement shall be the exclusive jurisdiction of the Courts of USA.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+For and on behalf of 
+ 
+ 
+ 
+For and on behalf of
+ 
+ 
+ 
+ 
+Supplier 
+ 
+ 
+ 
+Licensee
+ 
+ 
+ 
+ 
+Golden Matrx Group Inc. 
+ 
+ 
+ 
+Elray Resources Inc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/s/ Anthony Brian Goodman
+ 
+ 
+ 
+/s/ Weiting Feng
+ 
+ 
+ 
+ 
+12/7/2022 
+ 
+ 
+ 
+ 
+ 
+12/7/2022 
+ 
+ 
+ 
+ 
+ 
+ 
+Authorised Signatory 
+ 
+ 
+ 
+ 
+ 
+Authorised Signatory  
+ 
+ 
+ 
+ 
+ 
+ 
+Name: 
+Anthony B Goodman 
+ 
+ 
+ 
+Name: 
+Weiting Feng.
+ 
+ 
+ 
+ 
+Title: 
+Director
+   
+ 
+ 
+ 
+ 
+ 
+Title: 
+Director
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schedule A 
+ 
+ 
+ 
+SOFTWARE DESCRIPTION AND SPECIFICATIONS 
+ 
+ 
+ 
+The Software shall consist of the following Branded Games, and any other games which Supplier may make available from time to time. 
+ 
+ 
+ 
+A. Slot Games 
+ 
+ 
+ 
+Playtech  
+ 
+Skywind  
+ 
+Net Entertainment  
+ 
+Microgaming  
+ 
+Endorphina  
+ 
+Fantasma  
+ 
+Funfair  
+ 
+GameArt  
+ 
+Gamefish 
+ 
+Habanero 
+ 
+Revolver  
+ 
+Rubyplay 
+ 
+Vivo 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schedule B
+ 
+ 
+ 
+SOFTWARE LICENSE FEES AND PAYMENTS 
+ 
+ 
+ 
+A.  License Fees 
+ 
+ 
+ 
+The License Fees shall be payable by Licensee to Supplier as follows: 
+ 
+ 
+ 
+1. Monthly License Fee 
+ 
+ 
+ 
+1.1 A Monthly License Fee will be charged by the Supplier to the Licensee as consideration for the rights granted to it under this Agreement. The Monthly License Fee shall be a percentage of Gross Gaming Revenue generated on the Licensed Games through the Website/s and shall be calculated as follows: 
+ 
+ 
+ 
+Commercials applicable to Asia: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Game Type 
+ 
+ 
+Monthly License Fee Rate 
+ 
+ 
+ 
+ Slot Games 
+ 
+ 
+Supplier Cost plus a markup of 25 %  
+ 
+ 
+ 
+ 
+ 
+Live Games 
+ 
+ 
+Supplier Cost plus a markup of 25 %  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+All calculations shall be based on the total monthly GGR, with no regard to how this is split between the Licensee and Sub-licensees. 
+ 
+ 
+ 
+1.2 For the avoidance of doubt, no carry over of negative Monthly GGR from month to month should be permitted. Negative Monthly GGR should be deemed as nil in the event of calculation for Monthly License Fee. 
+ 
+ 
+ 
+1.3 To avoid any ambiguity, the applicable percentage shall be calculated monthly from the GGR generated by the Licensee as set forth exclusively by the reports provided by the Supplier. 
+ 
+ 
+ 
+1.4 The License Fee is subject to review after twelve (12) months. 
+ 
+ 
+ 
+2. Deposit for the Agreement implementation 
+ 
+ 
+ 
+A deposit of ten thousand EUR (€10,000) should be paid by the Licensee no later than the initiation of integration of Licensed Software. 
+ 
+ 
+ 
+The deposit is refundable on the termination of the agreement. The refundable amount should be total deposit less Monthly Licence Fee, indemnity and other amount payable to the Supplier. 
+ 
+ 
+ 
+3. Monthly Maintenance Fee 
+ 
+ 
+ 
+3.1 Supplier will provide and maintain all relevant technical means to ensure smooth and undisrupted services includes servers and CDN solution. 
+ 
+ 
+ 
+3.2 It is agreed by the Parties that commencing on Commercial Launch Date, Licensee will pay a Monthly Maintenance Fee of five hundred EUR (€ 500) per month, plus any applicable Value Added Tax (VAT). 
+This fee is waived.
+ 
+ 
+ 
+ 
+3.3 The maintenance fee is subject to review after twelve (12) months. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Setup Fee 
+ 
+ 
+ 
+4.1 A setup fee is payable upon signature of this Agreement of five thousand EUR (€ 5,000). 
+ 
+ 
+ 
+4.2
+ The setup fee is waived. 
+ 
+ 
+ 
+5. Progressive Jackpot Games Fee 
+ 
+ 
+ 
+5.1 For participation in the Progressive Jackpot Games, the Licensee is required to make an advance payment five thousand EUR (€ 5,000) in advance of Progressive Share Contribution. Refer details to Schedule D. 
+ 
+ 
+ 
+5.2 Each progressive credit contributed to Progressive Jackpot Pool by player/EndUser will be beard on the Licensee. E.g., Licensee has to pay one dollar (at its own currency depends on the country) for each Progressive Contribution Amount used by player/End-User. 
+ 
+ 
+ 
+B. Payment 
+ 
+ 
+ 
+The Supplier shall invoice the Licensee the License Fees and any Additional Costs on a monthly basis within ten (10) days of the end of each calendar month. All payment should be made in Euro or Euro equivalent in USD ($) (Exchange rate detemrniend on Oanda on the date of Invoice)  
+ 
+ 
+ 
+1. Terms of Payment 
+ 
+ 
+ 
+All payments under the terms of this Agreement are to be made no later than ten (10) days from receipt of invoice.
+ 
+ 
+ 
+ 
+2. Terms of Pricing 
+ 
+ 
+ 
+All prices are given in EUR (€) excluding value added tax and expenses. License Fees due to Supplier exclude all taxes (including Value Added Tax or any withholding tax, where applicable), charges, duties, fees, excesses and/or tariffs (the “Taxes”) and the Taxes shall be paid by Licensee to the extent they may apply. The License Fees represent the benefit to be received by Supplier net of any Taxes.  
+ 
+ 
+ 
+3. Overdue Payments 
+ 
+ 
+ 
+3.1 Interest shall be due on all late payments at the rate of two percent (2%) per annum above the base rate for the time being of Barclays Bank Plc, accruing on a daily basis from the due date until the date of actual full and complete payment. 
+ 
+ 
+ 
+3.2 Payments shall not be subject to any deductions or withholdings, such as bank or exchange fees. 
+ 
+ 
+ 
+3.3 In the case of late payment, the Supplier has the right to and its sole discretion and by providing the Licensee with at least three (3) day’s prior written notice of its intention to do so, suspend the Licensee’s access to the Licensed Games until full payment has been duly received by the Supplier. Once full payment has been received the Supplier shall restore access to the Licensee in any event not later than 48 hours as of receipt of such payment.        
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schedule C
+ 
+ 
+ 
+TERRITORIES AND PROHIBITED JURISDICTIONS 
+ 
+ 
+ 
+Authorised Territories
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+★
+ 
+ 
+The Licensee is authorized by the Supplier to use the Licensed Games in the following any territories that the Licensee has legal authority and that are not contained in the prohibited territories listed below
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+★ 
+ 
+ 
+The Licensee will be configured to operate in the following currency/ies: USD
+ 
+ 
+ 
+ 
+ 
+ 
+AML/CTF Prohibited Territories
+ 
+ 
+ 
+Afghanistan, American Samoa, Burundi, Central African Republic, Congo (Democratic Republic Of), Cuba, Guam, Guinea, Guinea-Bissau, Haiti, Iran, Iraq, Dem. People’s Rep. of Korea North, Lebanon, Libya, Mali, Myanmar, Nicaragua, Pakistan, Panama, Samoa, Somalia, South Sudan, Sudan, Syria, Trinidad and Tobago, US Virgin Islands, Venezuela, Yemen, Zimbabwe.
+ 
+ 
+ 
+Restricted Territories
+ 
+ 
+ 
+(1) Australia, Belgium, Bulgaria*, Denmark*,Estonia*, France (and its territories), Georgia*, Greece*, Italy*, Isle of Man, Israel, Kahnawake*, Morocco, Latvia*, Portugal*, Puerto Rico, Spain*, the Philippines, United Kingdom, the USA (and its territories,) unless the Parties hold the applicable licenses and certifications for that jurisdiction;
+ 
+ 
+ 
+(2) any other territories which may be added and designated as Restricted Territory by the Supplier (at its sole discretion) from time to time by written notice to the Licensee.
+ 
+ 
+ 
+*Provided that the Licensed Games are certified for these jurisdictions and may be offered if the Licensee’s Platform is compliant for this jurisdiction. 
+ 
+ 
+ 
+If the Licensed Games are to be offered in a territory, in which the Supplier, the Licensee and/or Licensee Website (as applicable) does not hold the required license/s and/or certification/s, then such territory shall also be deemed to be a Restricted Territory.
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schedule D
+ 
+ 
+  
+ 
+PROGRESSIVE JACKPOT GAMES COMPLIANCE TERMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+ 
+The Progressive Jackpot Games may not be available in all territories, languages and/or currencies and may be updated by the Supplier from time to time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+ 
+End Users shall be entitled to participate in the Progressive Jackpot Games as long as the Progressive Balance is a positive number amount and is in excess of its marginal Progressive Contribution (for example only, if the Progressive Balance indicates 3 and the last player’s Progressive Contribution is 4, then the remainder is a negative amount and the Licensee must top up the Progressive Balance in order for this transaction to be executed). Such top up amount shall be as reasonably advised by the Supplier taking into account historical and expected play of the Progressive Jackpot Games by the End Users. The Licensee shall monitor its level of progressive spending on an ongoing basis to ensure that the Progressive Balance amount shall not fall below the amount set out in Section 3 below.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. 
+ 
+The Licensee shall transfer to the Supplier the Initial Progressive Deposit in an amount as set forth above. Should the Progressive Balance equal zero or a negative amount, then the Supplier shall be entitled, but not obligated to immediately suspend and/or terminate all End Users from participating in the Progressive Jackpot Games.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. 
+ 
+The Supplier shall monitor at all times the Progressive Balance as per End Users’ proportionate participation in the Progressive Jackpot Games and shall further supervise and manage the ongoing operation of the online progressive jackpot network and its Progressive Jackpot within such network.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. 
+ 
+The Licensee undertakes that it shall be responsible to pay, in a single lump sum payment (i.e., not in installments or under any other form of payment scheme), the Progressive Payouts to any of the End Users who shall be entitled to receive such payment upon winning following completion of the Licensee’s own verification exercise and Supplier’s verifications exercise. For the avoidance of doubt, the Licensee undertakes that it shall be not pay Progressive Payouts to any of the End Users winners prior to Supplier’s confirmation in writing, following Supplier’s verification exercise.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. 
+ 
+Following the completion of the Supplier’s verifications exercise, Supplier shall transfer to the Licensee the relevant Jackpot Payouts less the Progressive Seed Contribution no later than 30 days following the completion of the verification exercise by the Supplier that such sums are due.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7. 
+ 
+If the Licensee is required to pay any money to the Supplier (e.g. the Licensee to increase its Progressive Balance according to the provisions set out in Section 2 above), the Licensee shall promptly send the required amount by way of: (i) a wire transfer to a designated account which shall be provided by the Supplier or (ii) any other payment transfer method at the Supplier’s discretion. Only upon receipt of confirmation from the bank that a wire transfer was accepted or other payment method resulted in the Supplier receiving the amounts concerned shall the relevant payment be deemed to be made under this Agreement.
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schedule E
+ 
+ 
+ 
+SERVICE LEVEL AGREEMENT 
+ 
+ 
+ 
+1. Incident Management Process 
+ 
+ 
+ 
+A basic incident report and tracking system will be implemented between the Parties in order to monitor the progression of all incident reports from their initial logging to their ultimate resolution. For the avoidance of doubt, Supplier utilizes email correspondence as the primary method of reporting and tracking incidents and prioritizes the quick turnaround and resolution of incidents above their practical administration. 
+ 
+ 
+ 
+2. Incident Categories 
+ 
+ 
+ 
+All incidents shall be graded against this scale by Supplier based on severity and impact: 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+·
+ 
+ 
+Category 1 - Critical Business Impact — A complete loss of service, or the operational teams are unable to operationally manage the Licensed Games due to unavailability of key management tools. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+·
+ 
+Category 2 - Serious Business Impact - The significant or degraded loss of service. By way of example only, no End Users can access more than 50% of the Licensed Game catalogues due to a category 2 incident.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+·
+ 
+Category 3 - Medium Business Impact - A minor loss of service or function. e.g. a minor product flaw is exposed that requires a work around.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+·
+ 
+Category 4 - Minor Business Impact - The system is working largely as normal, but with a bug or issue related to a peripheral function.
+ 
+ 
+ 
+ 
+   
+ 
+For the avoidance of doubt, the Licensed Games shall not be considered down where it is the local context (e.g. Internet failure affecting all Malta) catalogue that is down and inaccessible to End Users. 
+ 
+ 
+ 
+3. Incident Resolution 
+ 
+ 
+ 
+The target resolution times for all graded incidents shall be: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+·
+ 
+Category 1 – Supplier shall begin work on issue/error within 1 hour of report and will commit resources on a 24/7 basis including bank and public holidays until an acceptable resolution is achieved.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+·
+ 
+Category 2 - Supplier shall begin work on issue/error within 4 hours of report and will commit resources on a 24/7 basis including bank and public holidays until an acceptable resolution is achieved.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+·
+ 
+Category 3 - Supplier shall find and plan a resolution for issue within three (3) business days of reporting and will commit acceptable resources to ensuring an acceptable resolution is achieved as quickly as is reasonably possible thereafter.
+ 
+ 
+ 
+ 
+   
+ 
+Where said resolution requires a new version of the relevant gaming application to be released, Supplier shall not be obliged to perform such a release as quickly as is reasonably possible, but shall inform Licensee of such circumstances and of its timing for resolving the incident by making the required release of a new version of the relevant gaming application. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+·
+ 
+Category 4 - Supplier shall find and plan a resolution for issue within five (5) business days of reporting and shall inform Licensee of such plans. The Parties agree that the subsequent resolution of the issue shall occur within a future release of a new version of the relevant gaming application.
+ 
+ 
+ 
+ 
+   
+ 
+Supplier shall categorize all incidents in the first instance. In circumstances where Licensee disagrees with the specific categorization of an incident it shall be discussed as quickly as is reasonably possible by the relevant managers of the Parties and escalated thereafter to senior management should said discussion not resolve the disparity of opinion. 
+ 
+ 
+ 
+4. Incident Escalation 
+ 
+ 
+ 
+If any incident is not adequately resolved to the satisfaction of either the Licensee or the Supplier within twenty four (24) hours of report or is designated as a Category I or Category 2 incident, then all such incidents shall be escalated as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+·
+ 
+Category 1 - Immediate escalation after report to duty manager and to senior management of the Parties.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+·
+ 
+Category 2 - Immediate escalation after report to duty manager, two (2) hours after report, also escalated to senior management of the Parties.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+·
+ 
+Category 3 – Twenty four (24) hours after report, escalated to duty manager and to senior management of the Parties.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+·
+ 
+Category 4 - Never escalated, but it is recorded and notified.
+ 
+ 
+ 
+ 
+  
+ 
+5. Unscheduled Downtime 
+ 
+ 
+ 
+5.1. Supplier shall use its best commercial efforts to ensure that total cumulative unscheduled downtime in any three (3) month period for all Licensed Games, should not cause availability to fall below 99.00%. For the sake of clarity, unscheduled downtime is only counted when the Licensed Games and Supplier Platform, or a substantial part thereof, key functions, or other essential features thereof is nonoperational for a significant amount of Players and excludes insignificant or minor inconveniences for the Players and scheduled downtime. The Licensed Games and Supplier Platform shall, however, not be considered unavailable in any of the following circumstances, and such time shall be disregarded when calculating the availability of the Licensed Games and Supplier Platform during any given calendar month: 
+ 
+ 
+ 
+5.1.1. Planned maintenance of the Licensed Games and Supplier Platform, provided the Supplier will use its best reasonable effort to complete it as quick as possible and to notify the Licensee in writing at least forty-eight (48) hours in advance;
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.1.2. Planned updates and upgrades of the Licensed Games and Supplier Platform, including but not limited to new Licensed Games and Supplier Platform releases, or with the aim of addressing and/or resolving any software errors, conflicts, technical short comings and/or bugs, provided the Supplier will use its best reasonable effort to complete it as quick as possible and to notify the Licensee in writing at least forty-eight (48) hours in advance; 
+ 
+ 
+ 
+5.1.3. Emergency shutdowns necessary to protect the Licensed Games and Supplier Platform from malware, including but not limited to viruses, and any form of so called “denial of service” attacks or similar, including minor downtime due to “hotfixes” of the Licensed Games and Supplier Platform, provided that any such emergency shutdown takes no longer than is strictly necessary to complete and where possible is notified by Supplier to Licensee in advance; 
+ 
+ 
+ 
+5.1.4. Errors or failures to access the Licensed Games and Supplier Platform caused as a result of failures or communication problems beyond Supplier’s reasonable control attributable to the Internet or any other public or private networks (including without limitation mobile phone networks) used by Licensee or its Players to access the Licensed Games; 
+ 
+ 
+ 
+5.1.5. Any Force Majeure event beyond the control of either of the Parties.  
+ 
+ 
+ 
+5.2. The tracking and the calculation of unscheduled downtime shall continue through the term. At the end of each calendar month, upon request by the Licensee, the Supplier agrees to provide the Licensee with accurate figures showing the levels of unscheduled downtime in the most recent month and in the most recent three (3) months on a cumulative basis for the Licensed Games. 
+ 
+ 
+ 
+6. Scheduled downtime 
+ 
+ 
+ 
+No more than twenty (20) hours per month and per product group of scheduled downtime shall be utilized by Supplier during the term. All such scheduled downtime shall be notified in advance to Licensee, with a minimum of one (1) weeks’ written notice and shall be scheduled for periods of minimal Player’s use of the gaming products, that is for periods such as very early on during week days (for example Tuesday or Wednesday mornings from approximately 03:00 to 08:00 GMT+8). 
+ 
+ 
+ 
+7. Improvement Plan and Reporting 
+ 
+ 
+ 
+Supplier agrees to supply quarterly reports to the Licensee on all scheduled and unscheduled downtime, and performance of the Licensed Games, as well as response times to reported incidents. The Parties agree to work in good faith in the event that, KPIs or availability of the Supplier Platform/Licensed Games is not up to a satisfactory level according to the Licensee, acting in its reasonable commercial interest.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. General 
+ 
+ 
+ 
+The Supplier is solely responsible for procuring and maintaining its network connections and telecommunication links, and any loss or damage arising from or relating to the following shall not constitute Supplier’s liability: 
+ 
+ 
+ 
+8.1. all problems, conditions, delays, delivery failures connected or related to Supplier’s network and communication links and infrastructure failures; and 
+ 
+ 
+ 
+8.2. all problems, conditions, delays, delivery failures connected or related to errors or failures of the Licensed Games and Supplier Platform caused as a result of failures or communication problems beyond Supplier’s reasonable control attributable to the Internet or any other public or private networks (including without limitation mobile phone networks) used by Licensee and/or Players to access the Licensed Games and Supplier Platform; 
+ 
+ 
+ 
+8.3. any Force Majeure event that may in turn cause a software error leading to a Player taking advantage and winning; 
+ 
+ 
+ 
+8.4. The Parties agree that the Licensee will bear full responsibility and liability should the Licensee autonomously decide to make a payment of a win to a Player regardless of not having verified the win with the Supplier prior to allowing the Player to withdraw. 
+ 
+ 
+ 
+9. Software Errors 
+ 
+ 
+ 
+9.1. Supplier shall not be liable with respect to any payments made by the Licensee or by the Sub-licensee to a Player as a result of or in connection with errors/defects in the Licensed Games, in the Licensed Software or in Supplier Platform including, but not limited to, bugs, crashes, faulty code, loopholes and backdoors (“Software Error/s”), other than when the Licensee has duly complied with the procedure stipulated below (“Verification Procedure”), and in any case subject to the capping of clause 6.2 of the Agreement:   
+ 
+ 
+ 
+9.1.1. Upon Licensee/Sub-licensee becoming aware of withdrawal requests made by any Players equal or exceeding the amount of ten thousand EUR (€10,000) in aggregate over a period of twenty four (24) hours (the “Excessive Withdrawal”), the Licensee shall notify the Supplier of such, (by email sent with “high priority” to support@globaltllc.com, with email subject “BIG PAYMENT VERIFICATION),  providing sufficient information relating to the Excessive Withdrawal to enable Supplier to make its determination. The Licensee shall be obliged to report to the Supplier such Excessive Withdrawals within twenty (24) hours from the withdrawal request resulting in the Excessive Withdrawal. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.1.2. The Licensee (or the Sub-licensee, as applicable) shall not be allowed to pay (or to permit the Sub-licensee to pay) a Player any such Excessive Withdrawal before Supplier has verified the legitimacy thereof and reported the result of such verification to the Licensee.  Supplier shall use all reasonable endeavors to provide the Licensee with such a final result within forty eight (48) hours from Licensee’s report. 
+ 
+ 
+ 
+9.1.3. If the Licensee or the Sub-licensee (i) neglects to verify within the twenty four (24) hour period or has paid the Excessive Withdrawal without having received Supplier’s prior approval, or (ii) ignored the Supplier’s advice not to effect the payment in favour of the Player, or (iii) has made (or allowed) a payment to a Player which is not an Excessive Withdrawal,  the Supplier shall not be liable to any indemnity. Furthermore, the Supplier shall not be liable for any such erroneous payment to the extent that (i) such funds have not been withdrawn by the Player from its account and were accessible to the Licensee or the Sub-licensee upon Licensee or Sub-licensee becoming aware of a Software Error; or (ii) the Licensee or the Sub-licensee could have, using all reasonable endeavors, (including, without limitation, by virtue of relevant provisions in the Terms and Conditions), prevented such erroneous payment or mitigate its losses.   
+ 
+ 
+ 
+9.1.4. Notwithstanding the foregoing, both Parties agree to use their respective best efforts to immediately notify the other Party of any suspicious winning pattern(s) and the Licensee agrees to use its best efforts to cause the Sub-licensees not to pay out any Excessive Withdrawal to any Players as a result of such suspicious winning pattern(s) without first having requested the Supplier to verify and approve or disapprove payment of an Excessive Withdrawal in respect of such transaction in accordance with the procedure outlined in clause above. In the event that any Excessive Withdrawal is already paid to the Player, the Parties hereto shall cooperate to freeze or claw back such winnings and any payment made to the Player(s), if and when possible, in order to determine if the overpayment was caused due to a Software Error/s. 
+ 
+ 
+ 
+9.2. The Supplier is solely responsible for procuring and maintaining its network connections and telecommunication links, and any loss or damage arising from or relating to the following shall not constitute Supplier’s liability: 
+ 
+ 
+ 
+9.2.1. all problems, conditions, delays, delivery failures connected or related to Licensee’s network and communication links and infrastructure failures; and 
+ 
+ 
+ 
+9.2.2. all problems, conditions, delays, delivery failures connected or related to errors or failures of the Licensed Games and Licensed Software caused as a result of failures or communication problems beyond Supplier’s reasonable control attributable to the Internet or any other public or private networks (including without limitation mobile phone networks) used by Licensee and/or its Players to access the Games and Gaming System; 
+ 
+ 
+ 
+9.2.3. a failure of third party equipment, hardware and/or software; 
+ 
+ 
+ 
+9.2.4. any failure or fault in Customer’s or its Sub-Licensee’s systems; 
+ 
+ 
+ 
+9.2.5. fraud events (by Customer, Sub-Licensees and/or any third party engaged by them); 
+ 
+ 
+ 
+9.2.6. any DDOS (denial-of-service) attack; 
+ 
+ 
+ 
+9.2.7. any Force Majeure event that may in turn cause a software error leading to a Player taking advantage and winning; 
+ 
+ 
+ 
+10. Errors Due to Integration 
+ 
+ 
+ 
+Notwithstanding the procedure set out in this Schedule E, where an incident and/or an erroneous withdrawal is due to a software integration issue, the Parties agree to amicably discuss the responsibilities of such software integration issue and determine their respective share of the liability for any damages sustained as a result of the error in integration and always subject to clause 6.2 of the Agreement.
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26

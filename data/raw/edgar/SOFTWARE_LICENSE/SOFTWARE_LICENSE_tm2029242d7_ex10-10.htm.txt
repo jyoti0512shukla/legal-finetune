@@ -1,0 +1,2160 @@
+EX-10.10
+
+10
+
+tm2029242d7_ex10-10.htm
+
+EXHIBIT 10.10
+
+ 
+
+Exhibit 10.10
+
+ 
+
+EXECUTION
+COPY
+
+ 
+
+SECOND AMENDED AND RESTATED SOFTWARE
+LICENSE AGREEMENT
+
+ 
+
+THIS
+SECOND AMENDED AND RESTATED SOFTWARE LICENSE AGREEMENT is entered into as of [__] June 2018, by and between 
+AG Software
+Ltd.
+, a company organised under the laws of Malta, with its registered office at 135 High Street, Sliema SLM 1549, Malta (“
+Licensor
+”),
+
+Aspire Global Plc
+ (formerly, Neo Point Technologies Limited), a company organised under the laws of Malta, 
+and operating
+by way of its Gibraltar branch with its registered office at Suites 7B & 8B, 50 Town Range, Gibraltar (“
+NeoPoint
+”),
+
+Neogames S.à r.l.
+, a company organized under the laws of Luxembourg, with registered office at 64, rue Principale,
+L-5367 Schuttrange, Luxembourg (the “
+Licensee
+” or “
+NeoGames
+”) and 
+William Hill Organization
+Limited
+, a company incorporated in England and Wales (No. 278208) whose registered office is at Greenside House, 50 Station
+Road, Wood Green, London N22 7TP (“
+WH
+”) (which is a signatory to this Agreement, subject to Section 22
+below).
+
+ 
+
+Each of Licensor, NeoPoint, Licensee and
+WH shall hereafter be referred to as a “
+Party
+” and collectively referred to as the “
+Parties
+.”
+
+ 
+
+WHEREAS
+:
+
+ 
+
+A.
+The Licensor was granted by its parent company, NeoPoint, a right and license, with the right to
+sub-license, to use a suite of online lottery software solution, including the Mixed-Use Software (as defined below);
+
+ 
+
+B.
+NeoGames operates in the field of design, development and implementation of online lottery solutions
+and provision of operational services in connection therewith to B2G Customers (as defined below) (the “
+iLottery Business
+”)
+worldwide;
+
+ 
+
+C.
+Pursuant to the Software License Agreement, dated April 24, 2015, as amended on August 6,
+2015, between the Parties (the “
+Original Agreement
+”), attached hereto as 
+Exhibit 1
+, the Licensor
+licensed to the Licensee rights in and to the Mixed-Use Software and the Licensee obtained a license to use the Mixed-Use Software
+for the purpose of conducting the Licensee’s Business worldwide, all subject to the terms and conditions therein; and
+
+ 
+
+D.
+Pursuant to the Investment and Framework Shareholders’ Agreement, dated 6 August 2015,
+between Licensee, WH and Aharon Aran, Barak Matalon, Eliyahu Azur, Oded Gottfried and Pinhas Zehavi (together, the “
+Individuals
+”,
+and each an “
+Individual
+”), which Individuals are shareholders of NeoPoint (the “
+Shareholder Agreement
+”),
+the parties thereto agreed to amend and restate the Original Agreement in order to provide for additional and revised terms and
+conditions as set forth herein.
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOW THEREFORE, IN CONSIDERATION OF
+THE MUTUAL COVENANTS AND PROMISES HEREINAFTER SET FORTH, THE PARTIES AGREE AS FOLLOWS:
+
+ 
+
+1.
+DEFINITIONS AND INTERPRETATION
+
+ 
+
+1.1
+In this Agreement, the following expressions shall have the respective meanings assigned to them:
+
+ 
+
+Affiliate
+means, as applied to any person, any other person directly or indirectly Controlling, Controlled
+by or under common Control with, such person, except that NeoGames (including any person under its control) and NeoPoint (together
+with the Licensor and any person under their control) shall not be deemed Affiliates of each other and NeoPoint and its Affiliates
+should be deemed a separate group from NeoGames and its Affiliates for the purpose of this Agreement;
+
+ 
+
+Agreement
+means this Amended and Restated Software License Agreement, the preamble and all the appendices,
+schedules and exhibits that may be attached hereto;
+
+ 
+
+ 
+
+Assignment Event
+
+has the meaning ascribed thereto in
+ 
+Section 9.2
+;
+
+ 
+
+ 
+
+Authorized Users
+
+means all officers, directors and employees of a Party and its Affiliates; and partners, sub-licensees, agents, contractors, consultants and their respective employees that the Party and its Affiliates retain or grant any sublicense to, in connection with the use of the Mixed-Use Software;
+
+ 
+
+B2C
+has the meaning set out in the Shareholder Agreement;
+
+ 
+
+ 
+
+B2C Online Lottery Business
+
+has the meaning set out in the Shareholder Agreement;
+
+ 
+
+ 
+
+ 
+
+ 
+
+B2G Customers
+
+has the meaning set out in the Shareholder Agreement;
+
+ 
+
+ 
+
+ 
+
+ 
+
+Business Day
+
+means a day (excluding Fridays, Saturdays and Sundays) on which banks generally are open in the City of London, Luxembourg and Tel Aviv for the transaction of normal banking business;
+
+ 
+
+ 
+
+ 
+
+ 
+
+Change of Control
+
+has the meaning ascribed thereto in 
+Section 9.2
+;
+
+ 
+
+Control
+means, including, with correlative meanings, the terms “Controlling”, “Controlled
+by” and “under common Control with”) the power to manage or direct the affairs of a person or entity, whether
+by ownership of voting securities, by contract or otherwise;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DBG System
+
+shall mean a proprietary dedicated central system enabling the distribution of draw-based games through multiple digital channels, including without limitation, web and mobile deployment;
+
+ 
+
+Disposal
+means any of the following: (i) selling, assigning, transferring or otherwise disposing of
+rights in and to the Mixed-Use Software, (ii) creating or allowing to create any Encumbrance over the Mixed-Use Software,
+(iii) other than in connection with the permitted use hereunder (including under Section 2 below), entering into any
+agreement, arrangement or understanding in respect of any rights in and to the Mixed-Use Software, or (iv) assigning any right
+in and to the Mixed-Use Software to a third party;
+
+ 
+
+Documentation
+means all operations manuals, service manuals and any other written procedures, instructions, specifications,
+documents or materials, in any form or media, that describe the functionality, installation, testing, operation, use, maintenance,
+support, technical or other components, features or requirements of the Mixed-Use Software necessary to operate the Mixed-Use Software,
+as well as all Source Code-related flow charts and technical documentation, including a description of the procedure for generating
+object code, all of a level sufficient to enable a programmer reasonably fluent in such programming language to understand, build,
+operate, support, maintain and develop modifications, upgrades, updates, adaptations, enhancements, new versions and other derivative
+works and improvements of, and to develop computer programs compatible with, the Mixed-Use Software;
+
+ 
+
+ 
+
+Effective Date
+
+means April 30, 2014;
+
+ 
+
+Encumbrance
+has the meaning set out in the Shareholder Agreement;
+
+ 
+
+ 
+
+Excluded Damages
+
+has the meaning set out in the Shareholder Agreement;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Games Content
+
+means the games that are used in the operation of the iLottery Business and the NeoPoint Business, including scratch card, instant win, table and casino games)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gaming Business
+
+has the meaning set out in the Shareholder Agreement;
+
+ 
+
+Group
+has them meaning set out in the Shareholder Agreement;
+
+ 
+
+ 
+
+iGaming Modifications
+
+means all modifications, corrections, repairs, translations, enhancements, customization, scale-up and other improvements and derivative works of the Mixed-Use Software, Documentation or Intellectual Property made by a Party, or for a Party by any Authorized User thereof, which is developed for use solely and exclusively in the NeoPoint Business;
+
+ 
+
+ 
+
+ 
+
+ 
+
+iLottery Business
+
+has the meaning ascribed thereto in the Recitals hereof and any other business conducted through the Group as envisaged or permitted by or pursuant to the Shareholder Agreement;
+
+ 
+
+ 
+
+ 
+
+ 
+
+iLottery Modifications
+
+means all modifications, corrections, repairs, translations, enhancements, customization, scale-up and other improvements and derivative works of the Mixed-Use Software, Documentation or Intellectual Property made by the Licensee, or for the Licensee by any Authorized User thereof, which is developed, in whole or in part, for use in the iLottery Business;
+
+ 
+
+Individual
+has the meaning ascribed thereto in the Recitals hereof;
+
+ 
+
+ 
+
+Intellectual Property
+
+has the meaning set out in the Shareholder Agreement;
+
+ 
+
+Licensee
+has the meaning ascribed thereto in the Preamble hereof;
+
+ 
+
+Licensor
+has the meaning ascribed thereto in the Preamble hereof;
+
+ 
+
+ 
+
+Maintenance Release
+
+means any bug fix, update, upgrade release or other adaptation or modification of the Mixed-Use Software, including any updated Documentation or Intellectual Property;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mixed-Use Software
+
+means such components of the software platform and games as are required in the operation of the iLottery Business and the NeoPoint Business and any Maintenance Releases issued thereto, and all copies of the foregoing;
+
+ 
+
+ 
+
+ 
+
+ 
+
+NeoGames Competitors
+
+means each of IGT, NYX/Scientific Games (subject to the provisions of Section ‎2.3), Novomatic, Intralot and IWG, and other companies as shall be agreed by NeoGames and NeoPoint in writing on a quarterly basis;
+
+ 
+
+ 
+
+ 
+
+NeoPoint
+has the meaning ascribed thereto in the Preamble hereof;
+
+ 
+ 
+ 
+
+ 
+
+NeoPoint Business
+
+means the design, development and implementation of products and services worldwide in the: (i) B2C related business, including Sports Business or Gaming Business; and (ii) B2C Online Lottery Business, subject to the limitations set forth in Part I, Section 1.1(b) of Schedule 6 of the Shareholders Agreement;
+
+ 
+
+ 
+
+ 
+
+ 
+
+NeoPoint Group
+
+means NeoPoint and each of its subsidiary undertakings from time to time;
+
+ 
+
+ 
+
+ 
+
+ 
+
+NeoPoint Exclusivity Period
+
+means with regard to any iGaming Modifications developed by the dedicated Licensors' development teams a period of 8 month following from the date upon which such modification is made available to NeoPoint customers on a materially bug-free basis (with any period during which any such material bugs affect such modification being added to the 8 month period), unless otherwise is mutually agreed upon by the Parties;
+
+ 
+
+ 
+
+ 
+
+ 
+
+Original Agreement
+
+has the meaning ascribed thereto in the Recitals hereof;
+
+ 
+
+ 
+
+ 
+
+ 
+
+Party and Parties
+
+has the meaning ascribed thereto in the Preamble hereof;
+
+ 
+
+ 
+
+ 
+
+ 
+
+Permitted Use
+
+means the right to copy, make, have made, modify, create derivative works of, correct, repair, translate, enhance, sub-license, market and promote, sell and offer to sell the right to use, distribute, reproduce, import, perform (publicly or otherwise), display (publicly or otherwise) and use the Mixed-Use Software, Documentation and Intellectual Property, by the Licensee and any Authorized User thereof;
+
+ 
+
+ 
+
+ 
+
+ 
+
+Person
+means an individual, corporation, partnership, joint venture, Limited Liability Company, governmental
+authority, unincorporated organization, trust, association or other entity;
+
+ 
+
+ 
+
+Platform Provider
+
+means competitors of NeoPoint or the Licensor, including, Gaming Innovation Group, EveryMatrix, XCaliber, SkillOnNet and other companies as shall be agreed by NeoGames and NeoPoint in writing on a quarterly basis;
+
+ 
+
+ 
+
+ 
+
+ 
+
+Restricted Competitor
+
+means the companies that own and operate each of the following brands: Bet365, GVC (including LadCor), Stars Group (including SkyBet), Paddy Betfair, Kindred, 888, Caliente, FanDuel, DraftKings and Churchill Downs; and any entity holding 25% or more of the share capital of any of the above, or any entity, of which 25% of the share capital is held by any of the above;
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source Code
+
+means the human readable source code of the Mixed-Use Software, in the programming language in which the Mixed-Use Software was written;
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sports Business
+
+has the meaning set out in the Shareholder Agreement;
+
+ 
+
+Term
+has the meaning ascribed thereto in 
+Section 8.1
+ hereof;
+
+ 
+
+Trademarks
+shall mean the registered or unregistered trademarks, trade names, logos and brands owned or used
+by the Licensor or its Affiliates in connection with the Mixed-Use Software which are the subject of the Amended and Restated Trademark
+Agreement of even date hereof between the Parties to this Agreement;
+
+ 
+
+ 
+
+ 
+
+ 
+
+Updates
+shall mean a new or a revised version of the Mixed-Use Software that contains bug fixes and/or
+minor enhancements or improvements (Updates are designated by a change in the number to the right of the decimal point in the version
+number);
+
+ 
+
+Upgrades
+shall mean any new version of the Mixed-Use Software that contains major enhancements and new features
+(Upgrades are designated by a change in the number to the left of the decimal point in the version number);
+
+ 
+
+ 
+
+WH Exclusivity Period
+
+means with regard to the WH Modifications that are related to the Sports Business, a period of 8 month following from the date upon which such modification is made available to William Hill customers on a materially bug-free basis (with any period during which any such material bugs affect such modification being added to the 8 month period), unless otherwise is mutually agreed upon by the Parties;
+
+ 
+
+ 
+
+ 
+
+ 
+
+WH Group
+
+has the meaning set out in the Shareholder Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+WH Modifications
+
+means certain enhancements, customization, scale-up and other improvements and derivative works of the Mixed-Use Software, Documentation or Intellectual Property made by NeoGames or any Authorized User thereof for WH;
+
+ 
+
+1.2
+The recitals contained in the preamble of this Agreement form part of this Agreement and shall
+be taken into account in the interpretation and construction of this Agreement.
+
+ 
+
+1.3
+The headings in this Agreement are for ease of reference only and shall not affect its construction.
+
+ 
+
+1.4
+In this Agreement, if the context so requires, references to the singular shall include the plural
+and vice versa.
+
+ 
+
+1.5
+Any phrase introduced by the terms “including”, “include”, “in particular”
+or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.
+
+ 
+
+1.6
+If any provision in a definition is a substantive provision conferring rights or imposing obligations
+on any Party, notwithstanding that it is only in the definition clause, effect shall be given to it as if it were a substantive
+provision in the body of the Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+GRANT OF LICENSE
+
+ 
+
+2.1
+The Licensor hereby grants to the Licensee a prepaid, perpetual,
+irrevocable, royalty-free, exclusive (subject to the terms of Section 
+‎
+2.3
+below) license or sublicense, as applicable, with right to sub-license, to:
+
+ 
+
+make
+Permitted Use of the Mixed-Use Software, Documentation and Intellectual Property associated therewith, excluding Trademarks, for
+the sole purpose of and to the extent required to: (i) facilitate the iLottery Business worldwide, (ii) design, develop
+and implement 
+online gaming, lottery or sports products and services for customers who are business-to-business corporate
+customers ("
+B2B Customers
+") in the Gaming Business and Sports Business in the United States, (iii) grant
+a sub-license to WH in the B2C Scenario (as defined below) in the Gaming Business and Sports Business, and (iv) design, develop
+and implement the Games Content for customers worldwide, except for customers who are Platform Providers or white label companies
+which are competitors of NeoPoint or the Licensor, using any and all media, and all in accordance with the terms and conditions
+of this Agreement, 
+provided that
+, NeoGames will not be permitted to design, develop and implement casino and slots content
+to games aggregators. For the avoidance of doubt, NeoGames will be able to offer Games Content, subject to the limitation above,
+directly to operators working on NYX platform, but will not be able to offer it to NYX for its OGS solution. For the sake of clarity
+nothing shall prevent the Licensee from integrating third party gaming content providers or betting engine solutions into its player
+account management system if requested to do so by its customers.
+
+ 
+
+“
+B2C Scenario
+”
+shall be defined as any instance where (i) WH is operating in under its own brand or brands, or (ii) in the United States,
+with a limitation of up to three brands per State (the "
+Third Party Brands
+"); 1) where it has licensed a third
+party brand, or, 2) where it has taken an equity stake in a business, or formed a joint venture, to operate in certain markets
+under the Third Party Brand or brands, or (iii) in the rest of the world, where it has contracted to operate a Third Party
+Brand, where WH is being fully responsible for new customer acquisition, or taken an equity stake in a business, with a limitation
+to a single brand per country. For the first 24 months from 1 June 2018 the B2C Scenario shall only be applicable to the United
+States, South America, Italy and Spain, but thereafter it shall apply globally.
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2
+Within the scope of the licence granted under 
+Section 2.1
+ above and, without in any
+way limiting the licence granted under 
+Section 2.1
+, the Licensee has the right and license to do each of the following
+acts for or in connection with the Permitted Use:
+
+ 
+
+(i)
+install, execute and run such number of copies of the Mixed-Use Software as may be necessary or
+useful to facilitate the Permitted Use;
+
+ 
+
+(ii)
+have Authorized Users access and use the Mixed-Use Software, including the Source Code thereof,
+by any means whatsoever;
+
+ 
+
+(iii)
+have Authorized Users deposit the Source Code of the Mixed-Used Software and any modification in
+escrow with a third party escrow agent, which may be released to the third party licensees in the events of Change of Control in
+NeoGames or the termination of the underlying sub-license agreement;
+
+ 
+
+(iv)
+use the Mixed-Use Software in both Source Code and object code forms as needed;
+
+ 
+
+(v)
+reverse engineer, adapt, develop, modify, enhance or otherwise prepare derivative works or improvements
+of the Mixed-Use Software (in object code and Source Code form) and make any related modifications to the Documentation, and use
+all resulting modifications as may be necessary or useful to facilitate the Permitted Use;
+
+ 
+
+(vi)
+grant any and all such sublicenses as may be required to authorize any Authorized Users to perform
+all necessary services in connection with the Permitted Use;
+
+ 
+
+(vii)
+train Authorized Users in any and all uses of the Mixed-Use Software and Documentation; and
+
+ 
+
+(viii)
+have Authorized Users perform any and all necessary acts in connection with the Mixed-Use Software
+as contemplated in sub-
+Sections 2.2(i)
+ through 
+2.2(vi)
+ above, including the provision of any service that
+is reasonably incidental to the operation of the Mixed-Use Software for the Permitted Use.
+
+ 
+
+2.3
+The license granted to NeoGames under Section 
+‎
+2.1
+shall not exclude the Licensor or NeoPoint from: (i) making Permitted Use (including all uses set out in Section 
+‎
+2.2)
+of the Mixed-Use Software, Documentation and Intellectual Property associated therewith, and (ii) marketing and promoting
+the Mixed-Use Software in any form of media, both online and offline, for the purpose of and to the extent required to: (a) facilitate
+the NeoPoint Business worldwide, (b) design, develop and implement online gaming, lottery or sports products and services
+for B2G Customers in the iLottery Business worldwide except for the United States, and (c) offer the Games Content to customers
+worldwide except for B2G Customers in the United States and for customers who are providers of iLottery content which are NeoGames
+Competitors, using any and all media, and all in accordance with the terms and conditions of this Agreement, and all in accordance
+with the terms and conditions of this Agreement, 
+provided that
+, NeoPoint and Licensor will not be permitted to design, develop
+and implement scratch and instant content to games aggregators. For the avoidance of doubt, NeoPoint and Licensor will be able
+to offer Games Content, subject to the limitation above, directly to operators working on NYX platform, but will not be able to
+offer it to NYX for its OGS solution.
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.
+CONSIDERATION
+
+ 
+
+The Parties acknowledge that
+in consideration for fulfilment of the Licensor’s obligations hereunder, the Licensee has paid the Licensor an amount of
+US$ 100,000, pursuant to the Framework Agreement by and between (
+inter alia
+) the Licensee and the Licensor, dated as of
+April 24, 2015, which shall constitute the sole and exclusive consideration payable by the Licensee to the Licensor hereunder.
+
+ 
+
+4.
+INTEGRATION
+
+ 
+
+4.1
+The scope of the delivery of the Mixed-Use Software to the Licensee, including customization and
+quality assurance, shall be detailed in Schedule “A” to the Original Agreement. The Mixed-Use Software shall be provided
+as a service and solution hosted and installed on Licensee’s servers and integrated with the Licensee’s platform (“
+Integration
+”).
+
+ 
+
+4.2
+The Licensor shall provide the Licensee with complete and accurate Documentation (in both hard
+copy and electronic form) of the Mixed-Use Software prior to or concurrently with the Integration. The Documentation shall include
+all technical and functional specifications and other such information as may be reasonably necessary or desirable for the effective
+installation, testing and use of the Mixed-Use Software.
+
+ 
+
+5.
+CONFIDENTIALITY
+
+ 
+
+The confidentiality and announcement
+obligations and provisions set out in the Shareholder Agreement in connection with the Shareholder Agreement shall apply mutatis
+mutandis to the information and know how furnished by a signatory or its representatives to another, including the existence of
+this Agreement and the terms and conditions hereof.
+
+ 
+
+6.
+INTELLECTUAL PROPERTY
+
+ 
+
+6.1
+Each Party shall retain the rights to any Intellectual Property owned by it or licensed to it as
+of the Effective Date, subject to the licenses granted pursuant to this Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.2
+All rights, title and interest of whatever nature in and to all Intellectual Property in any iLottery
+Modification and WH Modifications (subject to the WH Modifications Restriction) shall be the sole and exclusive property of NeoGames.
+The Licensor and NeoPoint for and on behalf of the wider NeoPoint Group acknowledge that, as between themselves and NeoGames, they
+shall not acquire any right in and to any Intellectual Property in the iLottery Modifications or the WH Modifications.
+
+ 
+
+6.3
+NeoGames hereby grants to NeoPoint and Licensor a prepaid, irrevocable,
+royalty-free, exclusive (subject to Section 
+‎
+6.4
+below) license or sublicense, as applicable, with right to sub-license, to:
+
+ 
+
+make
+Permitted Use of the iLottery Modifications, the WH Modifications except during the WH Exclusivity Period, and the Documentation
+and Intellectual Property associated therewith, for the sole purpose of and to the extent required to: (a) facilitate the
+NeoPoint Business worldwide, (b) design, develop and implement 
+online gaming, lottery or sports products and services
+for B2G Customers in the iLottery Business worldwide except for the United States, and (c) offer the Games Content to customers
+worldwide except for B2G Customers in the United States and for customers who are providers of iLottery content which are NeoGames
+Competitors, using any and all media, and all in accordance with the terms and conditions of this Agreement, and all in accordance
+with the terms and conditions of this Agreement, 
+provided that
+, NeoPoint and Licensor will not be permitted to design, develop
+and implement scratch and instant content to games aggregators. For the avoidance of doubt, NeoPoint and Licensor will be able
+to offer Games Content, subject to the limitation above, directly to operators working on NYX platform, but will not be able to
+offer it to NYX for its OGS solution
+
+ 
+
+Provided
+always that
+, neither NeoGames, NeoPoint nor the Licensor shall make available the WH Modifications to any Restricted
+Competitor (the "
+WH Modifications Restriction
+").
+
+ 
+
+6.4
+The license granted to NeoPoint and Licensor under 
+Section 
+‎
+6.3
+
+shall be exclusive within the scope of NeoPoint Business and shall expire upon the consummation of an Assignment Event.
+
+ 
+
+6.5
+For the avoidance of any doubt, no right is hereby granted to NeoPoint and the Licensor in and
+to the DBG System, pertaining to which all rights, title and interest of whatever nature shall be the sole and exclusive property
+of NeoGames.
+
+ 
+
+6.6
+The Licensor hereby undertakes to and NeoPoint undertakes to procure that all members of the NeoPoint
+Group will assign, and do hereby assign, to NeoGames, any rights, title or interest that Licensor or any member of the NeoPoint
+Group may have in and to any iLottery Modification, to the extent that Licensor or any member of the NeoPoint Group may have such
+right, title or interest, such that NeoGames shall be the owner of all rights, title and interest in any and all Intellectual Property
+in the iLottery Modifications. Upon NeoGames’s request, the Licensor or any member of the NeoPoint Group shall execute all
+documents and do all such acts as NeoGames may require to perfect the right, title and interest of NeoGames in and to the iLottery
+Modifications.
+
+ 
+
+ 
+
+ 
+
+6.7
+All rights, title and interest of whatever nature in and to all Intellectual Property in any iGaming
+Modification shall be the sole and exclusive property of NeoPoint or the Licensor. NeoGames, including for and on behalf of its
+Affiliates, acknowledges that, as between themselves and NeoPoint and the Licensor, they shall not acquire any right in and to
+any Intellectual Property in the iGaming Modifications.
+
+ 
+
+6.8
+The Licensor hereby grants to NeoGames a prepaid, perpetual, irrevocable,
+royalty-free, exclusive (subject to Section 
+‎‎
+6.9
+below) license or sublicense, as applicable, with right to sub-license, to:
+
+ 
+
+make
+Permitted Use of the iGaming Modifications, Documentation and Intellectual Property associated therewith, for the sole purpose
+of and to the extent required to: (i) facilitate the iLottery Business worldwide, (ii) design, develop and implement
+
+online gaming, lottery or sports products and services for customers who are B2B Customers in the Gaming Business and Sports
+Business in the United States, (iii) except during the NeoPoint Exclusivity Period, grant a sub-license to WH in the B2C Scenario
+in the Gaming Business and Sports Business, and (iv) design, develop and implement the Games Content for customers worldwide,
+except for customers who are Platform Providers or white label companies which are NeoPoint Competitors, using any and all media,
+and all in accordance with the terms and conditions of this Agreement, 
+provided that
+, NeoGames will not be permitted to
+design, develop and implement casino and slots content to games aggregators. For the avoidance of doubt, NeoGames will be able
+to offer Games Content, subject to the limitation above, directly to operators working on NYX platform, but will not be able to
+offer it to NYX for its OGS solution.
+
+ 
+
+6.9
+The Parties acknowledge and agree that the license granted in this clause 6 will terminate upon
+the consummation of either an Assignment Event or a Change of Control.
+
+ 
+
+7.
+WARRANTIES, REPRESENTATIONS AND UNDERTAKINGS
+
+ 
+
+7.1
+Each of the Parties warrant, represent and undertake to the other Parties as follows:
+
+ 
+
+ 
+
+ 
+
+(i)
+It is duly incorporated, organized and validly existing under the laws of its jurisdiction of incorporation;
+
+ 
+
+(ii)
+It has good and sufficient capacity, power, authority and right to enter into, execute and deliver
+this Agreement, to complete the transactions contemplated hereby and to duly observe and perform the covenants and obligations
+contained herein;
+
+ 
+
+(iii)
+All necessary corporate action has been taken by Licensor to authorize and approve the execution
+and delivery of this Agreement, the completion of the transactions contemplated hereby and the observance and performance of the
+covenants and obligations contained herein; and
+
+ 
+
+(iv)
+The rights granted herein are free and clear of any Encumbrance as of the Effective Date and shall
+remain so throughout the Term and the Licensor shall not place any Encumbrance on its rights in and to the Mixed-Use Software and
+any other rights licensed to the Licensee hereunder unless requested by the Licensee and or WH and or permitted by Clause 6 of
+the Shareholder Agreement.
+
+ 
+
+7.2
+Each of NeoPoint and the Licensor warrant, represent and undertake to the Licensee as follows:
+
+ 
+
+(i)
+It is duly incorporated, organized and validly existing under the laws of Gibraltar and Malta,
+respectively;
+
+ 
+
+(ii)
+The Licensor is a wholly owned subsidiary undertaking of NeoPoint and no rights exist to allot
+shares in the Licensor to a person other than NeoPoint;
+
+ 
+
+(iii)
+It has good and sufficient capacity, power, authority and right to enter into, execute and deliver
+this Agreement, to complete the transactions contemplated hereby and to duly observe and perform the covenants and obligations
+contained herein;
+
+ 
+
+(iv)
+All necessary corporate action has been taken by NeoPoint to authorize and approve the execution
+and delivery of this Agreement, the completion of the transactions contemplated hereby and the observance and performance of the
+covenants and obligations contained herein; and
+
+ 
+
+(v)
+It has the right to grant the rights granted herein and the Mixed-Use Software and the Licensee’s
+contemplated use thereof under this Agreement, to the actual knowledge of the Licensor, do not infringe any right of any third
+party, including any Intellectual Property rights;
+
+ 
+
+(vi)
+The rights granted herein are free and clear of any Encumbrance as of the Effective Date and shall
+remain so throughout the Term and NeoPoint shall not place any Encumbrance on its rights in and to the Mixed-Use Software and any
+other rights licensed to Licensee hereunder unless permitted by the terms of the Shareholder Agreement.
+
+ 
+
+ 
+
+ 
+
+7.3
+The Licensee further warrants, represents and undertakes to NeoPoint and the Licensor that the
+Licensee's use of the Mixed-Use Software pursuant to the terms of this Agreement, will be conducted in accordance with any applicable
+legislation and will not infringe any right of third parties, including Intellectual Property rights.
+
+ 
+
+7.4
+As
+ between NeoGames, NeoPoint and the Licensor, each of them warrants, represents and undertakes
+ to each other that it would avoid any sales and other solicitation activities with the
+ existing portfolio of customers of each other, respectively.
+
+ 
+
+8.
+TERM & TERMINATION
+
+ 
+
+8.1
+Unless terminated in accordance with the provisions hereof, this Agreement shall be in effect from
+the Effective Date in perpetuity (the “
+Term
+”).
+
+ 
+
+8.2
+This Agreement shall not terminate other than by an agreement of
+the signatories to this Agreement in writing. Subject to Section 
+‎
+11
+below, a signatory to this Agreement’s sole remedy for breach of this Agreement by any other signatory is enforcement of
+its rights under this Agreement via specific performance or other equitable remedy or by a damages claim, and no right of rescission
+will apply.
+
+ 
+
+8.3
+Termination of this Agreement shall not affect or terminate any accrued rights or liabilities of
+any signatory to this Agreement.
+
+ 
+
+9.
+Licensor
+ COVENANTS
+
+ 
+
+9.1
+Neither NeoPoint nor the Licensor shall, and each shall ensure that none of their Affiliates, license
+or sublicense the Mixed-Use Software, Documentation or Intellectual Property associated therewith to a competitor of the Licensee
+or otherwise permit a competitor of the Licensee to use or access the Mixed-Use Software, Documentation or Intellectual Property
+associated therewith.
+
+ 
+
+9.2
+In accordance with the Licensee's right under the "Mixed-Used Software" letter dated
+April 24 2015 (with an irrevocable undertaking by NeoGames not to exercise any right under such letter other than in accordance
+with this Agreement), NeoPoint and the Licensor hereby assigns to the Licensee all rights, title and interest in and to the Mixed-Use
+Software, Documentation and Intellectual Property that are the subject of this Agreement and associated therewith, in the event
+any of the following events occurs:
+
+ 
+
+(i)
+any of the following events is completed, to the extent consummated prior to the WH Rights Change
+Date (as defined in the Shareholders Agreement): (a) the sale, lease, assignment, transfer or other disposition of (1) all
+or substantially all of the assets of NeoPoint or the Licensor or (2) any business unit or division of NeoPoint or the Licensor,
+which includes the Mixed-Use Software, Documentation and Intellectual Property associated therewith, (b) a third party acquisition
+or other disposition of the majority of the equity interests of NeoPoint or Licensor, whether directly or indirectly or (c) an
+acquisition by a third party of control over NeoPoint or Licensor by consolidation, merger or other reorganization or any other
+similar transaction (each, a “
+Change of Control
+”); or
+
+ 
+
+ 
+
+ 
+
+(ii)
+the occurrence of any of Call Option One Completion or Call Option Two Completion, a Listing (to
+the extent the underwriters require to assign the Mixed-Use Software for the purpose of such Listing), the consummation of an acquisition
+by a member of the WH Group of all the shares in the Licensee not owned by WH (or another member of the WH Group) at the date hereof,
+or if requested by such third party pursuant to the terms of a binding agreement with it the consummation of an acquisition of
+all the shares of the Licensee by a third party pursuant to Schedule 8 of the Shareholder Agreement (each such terms are as
+defined in the Shareholder Agreement and, are together with a Change of Control, an “
+Assignment Event
+”).
+
+ 
+
+9.3
+Upon the occurrence of an Assignment Event:
+
+ 
+
+(i)
+upon the Licensee’s request, the Licensor and NeoPoint shall execute all documents and do
+all such acts as the Licensee may reasonably require to perfect and transfer in full the rights, title and interest of the Licensee
+in and to the Mixed-Use Software, Documentation and Intellectual Property associated therewith;
+
+ 
+
+(ii)
+the Licensee will provide a duplicate copy of the Mixed-Use Software, in both Source Code and object
+code forms, to the Licensor including and incorporating the iGaming Modifications, iLottery Modifications and WH Modifications
+(excluding within the WH Exclusivity Period and subject always to the WH Modifications Restriction) (developed up to the occurrence
+of the Assignment Event), Documentation and Intellectual Property (the “
+Copy
+”); and
+
+ 
+
+(iii)
+NeoPoint and the Licensor shall each become the owner of the Copy and the Licensee will grant NeoPoint
+and the Licensor with the following right and license in respect thereof:
+
+ 
+
+(a)
+a prepaid, perpetual, irrevocable, royalty-free, worldwide, exclusive license or sublicense, as
+applicable, with right to sub-license, to:
+
+ 
+
+ 
+
+ 
+
+make
+Permitted Use
+ of the Copy, for the sole purpose of and to the extent required: (i) to facilitate the NeoPoint Business
+worldwide, (ii) design, develop and implement online gaming, lottery or sports products and services for B2G Customers in
+the iLottery Business worldwide except for the United States, and (iii) offer the Games Content to customers worldwide, except
+for B2G Customers in the United States and for customers who are providers of iLottery content which are NeoGames Competitors,
+using any and all media, and all in accordance with the terms and conditions of this Agreement, and all in accordance with the
+terms and conditions of this Agreement, 
+provided that
+, NeoPoint and Licensor will not be permitted to design, develop and
+implement scratch and instant content to games aggregators. For the avoidance of doubt, NeoPoint and Licensor will be able to offer
+Games Content, subject to the limitation above, directly to operators working on NYX platform, but will not be able to offer it
+to NYX for its OGS solution.
+
+ 
+
+(b)
+within the scope of the licence granted under Section 9.3 above and, without in any way limiting
+the licence granted under Section 9.3, each of the Licensor and NeoPoint has the right and license to do each of the following
+acts for or in connection with the use:
+
+ 
+
+I.
+install, execute and run such number of copies of the Mixed-Use Software as may be necessary or
+useful to facilitate the Permitted Use;
+
+ 
+
+II.
+have Authorized Users access and use the Mixed-Use Software, including the Source Code thereof,
+by any means whatsoever;
+
+ 
+
+III.
+have Authorized Users deposit the Source Code of the Mixed-Used Software and any modification in
+escrow with a third party escrow agent, which may be released upon the occurrence of customary release events;
+
+ 
+
+IV.
+use the Mixed-Use Software in both Source Code and object code forms as needed;
+
+ 
+
+V.
+reverse engineer, adapt, develop, modify, enhance or otherwise prepare derivative works or improvements
+of the Mixed-Use Software (in object code and Source Code form) and make any related modifications to the Documentation, and use
+all resulting modifications as may be necessary or useful to facilitate the Permitted Use;
+
+ 
+
+VI.
+grant any and all such sublicenses as may be required to authorize any Authorized Users to perform
+all necessary services in connection with the Permitted Use;
+
+ 
+
+VII.
+train Authorized Users in any and all uses of the Mixed-Use Software and Documentation; and
+
+ 
+
+ 
+
+ 
+
+VIII.
+have Authorized Users perform any and all necessary acts in connection with the Mixed-Use Software
+as contemplated in sub-Sections 9.3(ii)(b)I. through 9.3(ii)(b)VII. above, including the provision of any service that is reasonably
+incidental to the operation of the Mixed-Use Software for the use.
+
+ 
+
+(c)
+NeoPoint and the Licensor further warrant, represent and undertake to the Licensee that the use
+of the Copy pursuant to the terms of this Agreement, will be conducted in accordance with any applicable legislation and will not
+infringe any right of third parties, including Intellectual Property rights.
+
+ 
+
+(d)
+The Licensee undertakes to the Licensor and NeoPoint that there will be no Disposal or assignment
+intra-group or otherwise of all or any part of the Licensee’s rights in and to the Copy.
+
+ 
+
+9.4
+As of the Effective Date and until the end of the twelfth (12
+th
+) month as of the consummation
+of an Assignment Event, NeoGames shall provide to NeoPoint and the Licensor support and maintenance services with regard to the
+Copy, which services shall include, without limitation, provision of bug fixes, Updates and Upgrades whenever such are provided
+to NeoGames’ other customers or with regard to bug fixes, whenever so requested by NeoPoint or the Licensor (“
+Support
+Services
+”). NeoGames shall be entitled to receive a reimbursement for costs and expenses it incurs in connection with
+the Support Services (including a certain mark-up) as shall be agreed upon by the Parties in writing from time to time.
+
+ 
+
+9.5
+Following the consummation of an Assignment Event, the allocation of the rights, including Intellectual
+Property rights, in and to any modifications, corrections, repairs, translations, enhancements, customization, scale-up and other
+improvements and derivative works of the Mixed-Use Software, Documentation or Intellectual Property, shall be regulated in accordance
+with the Amended and Restated Transition Services Agreement signed by NeoGames, NeoPoint and WH as of 6 August 2015.
+
+ 
+
+9.6
+NeoPoint and the Licensor each undertakes to and NeoPoint undertakes to procure that each member
+of the NeoPoint Group adhere to the terms of and acknowledge and agree with WH from the date hereto that the restrictive covenants
+set forth in Part 1 of Schedule 6 to the Shareholder Agreement (other than clauses 3, 5 and 6 thereof) which apply to
+the Individual Shareholders shall apply to each of them and each member of the NeoPoint Group mutatis mutandis until the earlier
+of: (a) the applicable period set out clause 2 Part 1 of Schedule 6 to the Shareholder Agreement; or (b)  an
+Assignment Event, as if the provisions were repeated in full in this Agreement.
+
+ 
+
+ 
+
+ 
+
+10.
+NO DISPOSAL
+
+ 
+
+During the Term, prior to the
+WH Rights Change Date, the Licensor and NeoPoint each undertakes to the Licensee that there will be no Disposal or assignment intra-group
+or otherwise of all or any part of Licensee’s rights in and to the Mixed-Use Software, other than in compliance with Section 9.2.
+
+ 
+
+11.
+INDEMNIFICATION AND LIMITATION OF LIABILITY
+
+ 
+
+11.1
+The Licensor will defend at its own expense and indemnify the Licensee against direct costs and
+damages finally imposed by a court of law and incurred by the Licensee in excess of any sums the Licensee is entitled to receive
+under any insurance policy, arising out of any claim or action brought against the Licensee by a third party to the extent that
+such action is based on a claim or allegation that the Mixed-Use Software or the permitted use thereof by the Licensee infringe
+such third party’s Intellectual Property. The abovementioned indemnification obligations shall also apply to NeoGames in
+respect of the iLottery Modifications and WH Modifications as if NeoGames is the Licensor and the Mixed Use Software is the iLottery
+Modifications and WH Modifications.
+
+ 
+
+11.2
+The Licensor’s indemnification obligations under this 
+Section 11
+ are conditional
+upon the Licensee promptly notifying the Licensor in writing of any relevant claim or allegation made against the Licensee (provided,
+however, that the failure to provide such notice shall not relieve the Licensor of its indemnification obligations hereunder, except
+to the extent of any material prejudice to the Licensor as a direct result of such failure), allowing the Licensor to take over
+conduct of any such claim on the Licensee’s behalf, cooperating with all reasonable requests from the Licensor relating to
+the defence and resolution of such claim and not settling or disposing of such claim without the Licensor’s prior written
+consent, such not to be unreasonably withheld or delayed.
+
+ 
+
+11.3
+Should the Licensee become the subject of a claim for infringement of any Intellectual Property
+Right in relation to the Mixed-Use Software, or if the Licensor or the Licensee reasonably believe that the Licensee may become
+the subject of such a claim, the Licensor may, at its own discretion on the basis of reasonable commercial considerations, select
+one of the following two remedies:
+
+ 
+
+(i)
+procure for the Licensee at no additional cost to the Licensee the right to continue using the
+allegedly infringing component of the Mixed-Use Software on terms reasonably similar to the terms set out in this Agreement;
+
+ 
+
+(ii)
+replace or modify the allegedly infringing component of the Mixed-Use Software in a manner which
+makes the use thereof non infringing without compromising the functionality or performance of the Mixed-Use Software; or
+
+ 
+
+ 
+
+ 
+
+(iii)
+remove the allegedly infringing component of the Mixed-Use Software, provided that such removal
+does not lead to an adverse impact on the Licensee’s use of the Mixed-Used License as contemplated in this Agreement.
+
+ 
+
+11.4
+The indemnity set out in this 
+Section 11
+ does not cover claims to the extent arising
+from:
+
+ 
+
+(i)
+the combination of any component of the allegedly infringing component of the Mixed-Use Software
+with products, software, data or services not provided by the Licensor to be used by the Licensee with the Mixed-Use Software;
+
+ 
+
+(ii)
+the unauthorised modification, in any way or form, of any component of the Mixed-Use Software by
+any person;
+
+ 
+
+(iii)
+use of the allegedly infringing component of the Mixed-Use Software, if the alleged infringement
+could have been avoided by the use of a different version (which does not lead to an adverse impact on the quality thereof) made
+available to the Licensee by the Licensor pursuant to 
+Section 11.3
+, at no additional cost to the Licensee, by the Licensor
+in a timely manner and Licensee has unreasonably refused to use the non-infringing version;
+
+ 
+
+(iv)
+components of the allegedly infringing component of the Mixed-Use Software complying with or are
+based upon specifications or other information provided solely by or at the Licensee’s direction; or
+
+ 
+
+(v)
+the misuse of the allegedly infringing component of the Mixed-Use Software in a manner not permitted
+or contemplated by this Agreement.
+
+ 
+
+11.5
+Subject to 
+Section 11.6
+ (Limitation of Liability), this 
+Section 11
+ states
+the entire liability of Licensor with respect to infringement of any third-party Intellectual Property and Licensor shall have
+no additional liability under contract, tort, warranty or any other legal theory with respect to any alleged or proven infringement.
+
+ 
+
+11.6
+TO THE EXTENT PERMITTED UNDER APPLICABLE LAW AND EXCEPT FOR ANY LIABILITY IN CONNECTION WITH: (I) INFRINGEMENT
+OF INTELLECTUAL PROPERTY, (II) BREACH OF CONFIDENTIALITY OR (III) FRAUD, BODILY INJURY OR DEATH, IN NO EVENT SHALL
+EITHER PARTY BE LIABLE TO THE OTHER FOR ANY EXCLUDED DAMANGES.
+
+ 
+
+ 
+
+ 
+
+12.
+GOVERNING
+ LAW AND JURISDICTION
+
+ 
+
+12.1
+This
+ agreement (and any dispute, controversy, proceedings or claim of whatever nature arising
+ out of or in any way relating to this Agreement or its formation) shall be governed by
+ and construed in accordance with English law.
+
+ 
+
+12.2
+Save
+ where expressly provided in this Agreement, each signatory to this Agreement irrevocably
+ agrees that the courts of London, England shall have exclusive jurisdiction to hear and
+ decide any suit, action or proceedings, and/or to settle any disputes, which may arise
+ out of or in any way relate to this Agreement (respectively, “
+Proceedings
+”
+ and “
+Disputes
+”) and, for these purposes, each signatory to this Agreement
+ irrevocably submits to the jurisdiction of the courts of London, England.
+
+ 
+
+12.3
+Each
+ signatory to this Agreement irrevocably waives any objection which it might at any time
+ have to the courts of England being nominated as the forum to hear and decide any Proceedings
+ and to settle any Disputes and agrees not to claim that the courts of England are not
+ a convenient or appropriate forum for any such Proceedings or Disputes and further irrevocably
+ agrees that a judgment in any Proceedings or Disputes brought in any court referred to
+ in this 
+Section 12
+ shall be conclusive and binding upon the signatories to
+ this Agreement and may be enforced in the courts of any other jurisdiction.
+
+ 
+
+12.4
+Without
+ prejudice to any other permitted mode of service the signatories to this Agreement agree
+ that service of any claim form, notice or other document (“
+Documents
+”)
+ for the purpose of any Proceedings begun in England shall be duly served upon it if delivered
+ personally or sent by recorded or special delivery post (or any substantially similar
+ form of mail), in the case of:
+
+ 
+
+(i)
+the
+ Licensor to [
+Ÿ
+] (marked for the attention
+ of [
+Ÿ
+]);
+
+ 
+
+(ii)
+NeoPoint
+ to [
+Ÿ
+] (marked for the attention of
+ [
+Ÿ
+]);
+
+ 
+
+(iii)
+the
+ Licensee to [
+Ÿ
+] (marked for the attention
+ of [
+Ÿ
+]); and
+
+ 
+
+(iv)
+WH
+ to William Hill PLC, Greenside House, 50 Station Road, Wood Green, London N22 7TP (marked
+ for the attention of [General Counsel]),
+
+ 
+
+or such other person and address
+in England and/or Wales as any signatory to this Agreement shall notify the other signatories in writing from time to time.
+
+ 
+
+ 
+
+ 
+
+13.
+ASSIGNMENT
+
+ 
+
+The Licensor and Neopoint may
+not assign this Agreement in whole or in part, without the Licensee’s prior written consent. Notwithstanding the forgoing,
+following the earlier of an WH Rights Change Date or an Assignment Event, Licensor and Neopoint may assign its rights in and to
+the Copy to a third party, including an Affiliate, and shall use commercially reasonable endeavours to notify the Licensee of
+such assignment as promptly as practical after such assignment. The Licensee may assign this Agreement to a third party, including
+an Affiliate, and shall use commercially reasonable endeavours to notify the Licensor and NeoPoint of such assignment as promptly
+as practical after such assignment.
+
+ 
+
+14.
+FORCE
+ MAJEURE
+
+ 
+
+The term “Force Majeure”
+in respect of a Party means an event beyond the reasonable control of that Party without the fault or negligence of that Party,
+including acts of God, acts of government, fire, flood or storm damage, earthquakes, labour disputes, war or riot.
+
+ 
+
+14.1
+Neither
+ Party shall be responsible for delay in performing any obligation under this Agreement
+ within the time limit required for such performance, due to Force Majeure affecting that
+ Party, provided that notice thereof is given to the other Party within ten (10) days
+ after such event has occurred.
+
+ 
+
+14.2
+Upon
+ the occurrence of a Force Majeure event, and with proper notice as set forth above, such
+ schedule or time-limit for performance shall be extended accordingly, provided that the
+ Party wishing to rely upon the Force Majeure event makes commercially reasonable efforts
+ to minimize such delay.
+
+ 
+
+15.
+WAIVER
+
+ 
+
+15.1
+There
+ shall be no waiver of any term, provision or condition of this Agreement unless such
+ waiver is evidenced in writing and signed by the waiving party.
+
+ 
+
+15.2
+No
+ omission or delay on the part of any party hereto in exercising any right, power or privilege
+ hereunder shall operate as a waiver thereof, nor shall any single or partial exercise
+ of any such right, power or privilege preclude any other or further exercise thereof
+ or the exercise of any other right, power or privilege. The rights and remedies herein
+ provided are cumulative with and not exclusive of any rights or remedies provided by
+ law, unless the context dictates otherwise (including as set out in Section 11 above).
+
+ 
+
+ 
+
+ 
+
+16.
+NOTICES
+
+ 
+
+16.1
+Any
+ notice, demand, communication or other document requiring to be given or served under
+ or in connection with the matters contemplated by this Agreement shall be in English
+ in writing and shall be, in the case of the following signatories delivered personally
+ or prepaid first class recorded delivery post recorded delivery post (air mail if posted
+ to or from a place outside the United Kingdom) or by email:
+
+ 
+
+In the case of the Licensor
+to:
+
+ 
+
+Address:
+High Street 135 Sliema, Malta,
+ SLM1549
+
+ 
+
+Attention:
+Tsachi Maimon
+
+ 
+
+Email:
+tsachi@aspireglobal.com
+
+ 
+
+In the
+case of NeoPoint to:
+
+ 
+
+Address:
+High
+ Street 135 Sliema, Malta, SLM1549
+
+ 
+
+Attention:
+Tsachi Maimon
+
+ 
+
+Email:
+tsachi@aspireglobal.com
+
+ 
+
+In the
+case of the Licensee to:
+
+ 
+
+Address:
+Habarzel St 10, Tel Aviv
+
+ 
+
+Attention:
+Ilan Rosen
+
+ 
+
+Email:
+ilan@neogames.com
+
+ 
+
+In the
+case of WH to:
+
+ 
+
+Address:
+1
+ Bedford Ave, Fitzrovia, London WC1B 3AU, UK Attention: Crispin Nieboer and Harry 
+Willits
+
+ 
+
+Email:
+
+cnieboer@williamhill.co.uk
+ and 
+hwillits@williamhill.co.uk
+
+ 
+
+16.2
+Any
+ signatory to this Agreement may (or will, if the person set out above leaves their respective
+ employment with the Licensor, NeoGames, the Licensee or WH) notify the other signatories
+ to this Agreement of a change to its name, relevant addressee, address or email address
+ for the purposes of 
+Section 16.1
+ provided that such notification shall only
+ be effective on:
+
+ 
+
+(i)
+the
+ date specified in the notification as the date on which the change is to take place;
+ or
+
+ 
+
+(ii)
+if
+ no date is specified or the date specified is less than five Business Days after the
+ date on which notice is deemed to have been given pursuant to 
+Section 16.4
+,
+ the date falling five Business Days after notice of any such change has been given.
+
+ 
+
+16.3
+The
+ signatories to this Agreement will procure that a copy of any notice, demand, communication
+ or other document served is also delivered to Gibson, Dunn & Crutcher LLP FAO:
+ Jonathan Earle (
+JEarle@gibsondunn.com
+), Telephone House, 2-4 Temple Avenue, London
+ EC4Y 0HB and Herzog Fox Neeman, FAO: Gil White (white@hfn.co.il) or Ran Hai (
+hair@hfn.co.il
+)
+ Asia House, 4 Weizman Street, Tel Aviv, Israel 64239 at the same time and in the
+ same manner as delivered pursuant to 
+Section 16.1
+. Such copies shall not
+ constitute a notice.
+
+ 
+
+ 
+
+ 
+
+16.4
+Notice
+ will be deemed served:
+
+ 
+
+(i)
+if
+ sent by first class post, the second Business Day after posting;
+
+ 
+
+(ii)
+if
+ sent by airmail, the fifth Business Day after posting; and
+
+ 
+
+(iii)
+if
+ sent by e-mail, the date the e-mail is sent, provided that the e-mail is sent correctly
+ to the relevant e-mail address.
+
+ 
+
+17.
+SURVIVAL
+
+ 
+
+Any provisions hereof which
+expressly or by their nature are required to survive termination or expiration of this Agreement in order to achieve their purpose
+shall so survive until it shall no longer be necessary for them to survive in order to achieve that purpose.
+
+ 
+
+18.
+SEVERABLITY
+
+ 
+
+If any provision of this agreement
+is or becomes invalid, illegal or unenforceable in any respect under the law of any jurisdiction:
+
+ 
+
+18.1
+the
+ validity, legality and enforceability under the law of that jurisdiction of any other
+ provision; and
+
+ 
+
+18.2
+the
+ validity, legality and enforceability under the law of any other jurisdiction of that
+ or any other provision,
+
+ 
+
+shall not be affected or impaired
+in any way.
+
+ 
+
+19.
+AMENDMENTS
+
+ 
+
+No modification or other amendment
+to this Agreement shall be valid unless reduced to writing and signed by all signatories to this Agreement.
+
+ 
+
+20.
+COUNTERPARTS
+
+ 
+
+20.1
+This
+ Agreement may be executed in any number of counterparts which together shall constitute
+ one agreement. Any signatory may enter into this Agreement by executing a counterpart
+ and this Agreement shall not take effect until it has been executed by all signatories.
+
+ 
+
+20.2
+Delivery
+ of an executed signature page of a counterpart by facsimile transmission or in Adobe™
+ Portable Document Format (PDF) sent by electronic mail shall take effect as delivery
+ of an executed counterpart of this Agreement.
+
+ 
+
+ 
+
+ 
+
+21.
+MERGER
+
+ 
+
+This Agreement, together with
+any documents referred to herein, including the Shareholder Agreement, constitute the whole agreement between the Parties relating
+to the subject matter hereof and thereof and supersede and extinguish any prior drafts, agreements (including the Original Agreement
+but excluding "Mixed-Used Software" letter dated April 24 2015 (subject to the undertaking not to use such letter
+not in accordance with this Agreement as set out in Section 9.2 above)), undertakings, representations, warranties and arrangements
+of any nature, whether in writing or oral, relating to such subject matter.
+
+ 
+
+22.
+RELATED
+ PARTY
+
+ 
+
+The signatories agree that this
+Agreement is a Related Party Agreement for the purposes of the Shareholder Agreement and that the enforcement or variation of
+it and the rights granted to the Licensee will be subject to the involvement of WH in accordance with the terms of the Shareholders
+Agreement. Notwithstanding anything herein to the contrary, upon the expiry of WH's rights with respect to this agreement under
+clause 5.4 or clause 9.1.18 of the Shareholders Agreement, WH shall not be deemed a signatory to this Agreement and any rights
+granted to it hereunder (including pursuant to Section 9 and in respect of the amendment of this Agreement) shall simultaneously
+expire and be of no longer force and effect.
+
+ 
+
+23.
+GUARANTEE
+
+ 
+
+23.1
+NeoPoint:
+
+ 
+
+(i)
+irrevocably
+ and unconditionally guarantees to the Licensee and WH the due and punctual performance
+ and observance by the Licensor of all of its obligations under the Agreement; and
+
+ 
+
+(ii)
+agrees
+ to pay as debt obligation all loss, liabilities, costs and expenses incurred arising
+ from any failure of the Licensor to performing and/or observing any of its obligations
+ under the Agreement to the extent such are owed by the Licensor pursuant to the terms
+ of this Agreement (the “Guarantee”).
+
+ 
+
+23.2
+Continuing
+ Security
+
+ 
+
+This Guarantee is to be continuing
+security which shall remain in full force and effect until all of the obligations of the Licensor under this Agreement shall have
+been fulfilled or shall have expired in accordance with the terms of this Agreement and this Guarantee is to be in addition, and
+without prejudice to, and shall not merge with any other right, remedy, guarantee, indemnity or security which a party may now
+or hereafter hold in respect of all or any of the obligations of the Licensor under the Agreement.
+
+ 
+
+ 
+
+ 
+
+23.3
+Protections
+
+ 
+
+The liability of NeoPoint under
+this Guarantee shall not be affected, impaired or discharged by reason of any act, omission, matter or thing which but for this
+provision might operate to release or otherwise exonerate NeoPoint from its obligations hereunder including, without limitation:
+
+ 
+
+(i)
+any
+ amendment, variation or modification to, or replacement of the Agreement or any document
+ referred to therein;
+
+ 
+
+(ii)
+the
+ taking, variation, comprise, renewal, release, refusal or neglect to perfect or enforce
+ any rights, remedies or securities against the Licensor or any other person;
+
+ 
+
+(iii)
+any
+ time or indulgence or waiver given, or composition made with, the Licensor or any other
+ person;
+
+ 
+
+(iv)
+the
+ Licensor becoming insolvent, going into receivership or liquidation or having an examiner
+ appointed; or
+
+ 
+
+(v)
+by
+ any circumstances affecting the obligation of the Licensor to meet its liability.
+
+ 
+
+23.4
+Further
+ Protection
+
+ 
+
+This Guarantee shall continue
+in full force and effect notwithstanding that any purported obligation of the Licensor or any other person becomes wholly or partly
+void, invalid or unenforceable for any reason whether or not known.
+
+ 
+
+23.5
+Primary
+ Obligations
+
+ 
+
+This Guarantee shall constitute
+the primary obligations of NeoPoint and a party shall not be obliged to make any demand on the Licensor or any other person before
+enforcing its rights against NeoPoint under this Guarantee.
+
+ 
+
+23.6
+Waiver
+
+ 
+
+No delay or omission of the
+a party in exercising any right, power or privilege under this Guarantee shall impair such right, power or privilege or be construed
+as a waiver of such right, power or privilege nor shall any single or partial exercise of any such right, power or privilege preclude
+any further exercise thereof or the exercise of any other right, power or privilege.
+
+ 
+
+23.7
+WH
+ Guarantee
+
+ 
+
+Upon Call Option One Completion
+or Call Option Two Completion, this Section 23 shall also apply, 
+mutatis mutandis
+, to WH, thereby rendering WH the
+guarantor of NeoGames' obligations.
+
+ 
+
+ 
+
+ 
+
+Remainder
+of page intentionally left blank; signature page follows
+.
+
+ 
+
+ 
+
+ 
+
+EXECUTION COPY
+
+ 
+
+IN WITNESS WHEREOF, the Parties hereto
+have executed this Agreement as of the date first written above with effect as of the Effective Date.
+
+ 
+
+AG Software Ltd.
+
+Neogames S.à r.l.
+
+ 
+
+ 
+
+By:
+
+By:
+
+ 
+
+ 
+
+Name:
+
+Name:
+
+ 
+
+ 
+
+Title:
+
+Title:
+
+ 
+
+ 
+
+Aspire Global Plc
+
+William Hill Organization Limited
+
+ 
+
+ 
+
+By:
+
+By:
+
+ 
+
+ 
+
+Name:
+
+Name:
+
+ 
+
+ 
+
+Title:
+
+Title:
+
+ 
+
+Signature Page to Amended and Restated
+Software License Agreement
+
+ 
+
+ 
+
+ 
+
+EXECUTION COPY
+
+ 
+
+Exhibit 1
+
+Original Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXECUTION COPY
+
+ 
+
+Exhibit 2
+
+Original Agreement

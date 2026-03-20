@@ -1,0 +1,2690 @@
+EX-10.7
+
+4
+
+d828449dex107.htm
+
+EX-10.7
+
+EX-10.7
+
+Exhibit 10.7 
+ 
+ 
+
+ 
+SFDC Final Draft for Redacting 
+
+PARTNER APPLICATION DISTRIBUTION AGREEMENT 
+
+Template last updated June 27, 2019 
+
+Signature Page 
+ 
+** Portions of this
+exhibit have been redacted in accordance with Item 601(b)(10) of Regulation 
+S-K.
+ The information is not material and would cause competitive harm to the registrant if publicly disclosed. “[***]”
+indicates that information has been redacted.
+ 
+ 
+
+Partner Full Legal Name
+
+  
+
+nCino, Inc.
+
+Partner Address
+
+  
+
+6770 Parker Farm Drive, Suite 200, Wilmington NC 28405
+
+ 
+Address for Legal Notices to Partner
+
+(only if different from above)
+
+  
+
+ 
+This Partner Application Distribution Agreement (“
+Agreement
+”) is between 
+salesforce.com, inc
+., a
+Delaware corporation having its principal place of business at Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, California, 94105 (“
+SFDC
+”) and the Partner listed above (“
+Partner
+”). SFDC and Partner
+are collectively the “
+Parties
+” and each a “
+Party
+” to this Agreement. Partner may also be referred to herein as “
+Reseller
+.” This Agreement is effective as of the later of the dates beneath the
+Parties’ signatures below (the “
+Effective Date
+”); provided, however that if such dates are separated by more than thirty (30) days this Agreement will be deemed null and void. 
+
+The Parties, by their respective authorized signatories, have duly executed this Agreement as of the Effective Date. 
+
+ 
+
+SFDC
+
+ 
+
+ 
+
+PARTNER
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+Name:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ 
+
+Date:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+ 
+
+ 
+
+Background 
+ 
+ 
+
+ 
+
+A.
+
+ 
+SFDC and Partner previously entered into the Reseller Agreement dated December 22, 2011, as amended
+(the “Prior Agreement”) which is hereby superseded and replaced in its entirety by this Agreement. 
+ 
+ 
+
+ 
+
+B.
+
+ 
+Under this Agreement, SFDC and Partner wish to continue an arrangement that allows Partner to market,
+demonstrate, sell and support the Partner Applications in combination with the Distribution Services to Customers as part of a Combined Solution, in accordance with the terms and conditions of this Agreement. 
+
+ 
+
+1.
+
+ 
+Definitions 
+
+“
+Affiliate
+” means any entity which directly or indirectly controls, is controlled by, or is under common control with the subject entity.
+“Control,” for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity. 
+
+“
+AppExchange
+” means the online directory of applications that interoperate with the Services, located at
+http://www.salesforce.com/appexchange or at any successor websites. 
+ 
+“
+Authorized Affiliate
+” means an Affiliate of Partner that
+is not a direct competitor of SFDC or its Affiliates and the name of which (i) Partner has submitted to SFDC; (ii) SFDC has approved following SFDC’s compliance review process; and (iii) is listed in Exhibit E hereto as of the
+Effective Date, or if after the Effective Date, by a written amendment to this Agreement.
+ 
+“
+Beta Services
+” means SFDC services or
+functionality that may be made available to Partner to try at Partner’s option at no additional charge which is clearly designated as beta, pilot, limited release, developer preview, 
+non-production,
+
+evaluation, or by a similar description. 
+ 
+“
+Change in Control
+” means a merger, acquisition or other corporate transaction in which the
+owners of all of the subject entity’s voting interests immediately prior to the transaction own less than 50% of the voting interests of the successor entity resulting from the transaction. 
+
+“
+Channel Partner
+” means a Partner channel/reseller partner that is not a direct competitor of SFDC or its Affiliates and (i) that
+Partner has submitted to SFDC; (ii) that SFDC has approved following SFDC’s standard compliance review process; and (iii) the name of which is listed in Exhibit D as of the Effective Date, or if after the Effective Date, by a written
+amendment to this Agreement. 
+ 
+“
+Combined Solution
+” means the combination of a Partner Application with the Distribution Services that
+Partner is authorized to use or resell in combination with such Partner Application. 
+ 
+“
+Content
+” means information obtained by SFDC from
+publicly available sources or its third party content providers and made available to Customer through the Services, Beta Services or pursuant to an Order Form, as more fully described in the Documentation. 
+
+“
+Customer
+” means an entity to whom a Partner Application is distributed or made available to for its use in combination with the Distribution
+Services as part of a Combined Solution pursuant to this Agreement. 
+ 
+“
+Customer Data
+” means electronic data and information submitted by
+or for a Customer to the Services which are accessible by the Customer while resident on SFDC’s systems, including through the Partner Application, excluding Content and 
+Non-SFDC
+ Applications. 
+
+“
+Distribution Services
+” means the services provided by SFDC for use or resale by Partner with a Partner Application as part of a Combined
+Solution, including OEM Services (as defined in the OEM Addendum) as detailed in the Partner Category Addendum(s) attached hereto, as may be applicable. 
+
+“
+Documentation
+” means the applicable Services’ Trust and Compliance documentation, and its usage guides and policies, as updated from
+time to time, accessible via help.salesforce.com or login to the applicable Services. 
+ 
+“Non-SFDC
+
+Application”
+ means a 
+Web-based,
+ mobile, offline or other software application functionality that is provided by a Customer, Partner or a third party and interoperates with a SFDC Service, including,
+for example, an application that is developed by or for a Customer, is listed on the AppExchange, or is identified as Salesforce Labs or by a similar designation. 
+
+“
+Org
+” or “
+Organization
+” means a unique instance of the Services, i.e., a separate set of Customer Data and Customer-specific
+Services customizations held by SFDC in a logically separated database (i.e., a database segregated through password-controlled access). 
+
+“
+Partner
+ 
+Application
+” means each Partner application approved by SFDC and described
+in a Partner Application Description attached as 
+Exhibit B
+ to the OEM Addendum. Partner Applications may also be referred to as “
+Reseller Applications
+.” 
+
+“
+Partner Application Description
+” means each description of a Partner Application attached as an exhibit to a Partner Category Addendum. 
+
+“
+Partner Category
+” means an SFDC-designated category of SFDC’s AppExchange Partner Program, as more fully described in each Partner
+Category Addendum attached to this Agreement. 
+ 
+“
+Partner Category Addendum
+” means each addendum that is attached to this Agreement,
+depending on which Partner Category(ies) the Partner is participating in. 
+ 
+“
+Partner Community
+” means the SFDC partner community at
+
+https://partners.salesforce.com/
+ (as such URL may be updated from time to time). 
+ 
+“
+Service
+ 
+Orders
+” means orders for
+Distribution Services that are entered into between Partner and SFDC or any of SFDC’s Affiliates from time to time. 
+ 
+“
+Services
+” or
+“
+SFDC Services
+” means the products or services made available 
+on-line
+ by SFDC, including associated offline or mobile components, as described in the Documentation. Services exclude Content
+and 
+Non-SFDC
+ Applications, including but not limited to applications made available on the AppExchange and each Partner Application. 
+
+“
+SFDC
+ 
+MSA
+” means a master subscription agreement to Services between SFDC and a Customer. 
+
+“
+Shared Org
+” means an active Services Org in which both of the following are provisioned: (i) a Partner Application; and
+(ii) Services subscriptions purchased by Customer from SFDC or an SFDC partner other than Partner. 
+ 
+“
+Term
+” has the meaning specified
+in Section 7.1. 
+ 
+“
+Transition
+ 
+Period
+” has the meaning specified in Section 7.3.2. 
+
+“
+Trial
+ 
+Subscription
+” means a free subscription to the Distribution Services for use with a free trial subscription to a Partner
+Application. 
+ 
+ 
+
+2.
+
+ 
+Partner Relationship 
+
+ 
+
+ 
+
+2.1.
+
+ 
+Partner Applications
+. This Agreement sets forth the terms and conditions of Partner’s distribution
+of Partner Applications in combination with the Distribution Services as part of a Combined Solution and as part of SFDC’s AppExchange Partner Program. 
+ 
+ 
+
+ 
+
+2.2.
+
+ 
+Partner Category Addenda
+. The AppExchange Partner Program consists of one or more Partner Categories.
+Each Partner Category Addendum attached hereto contains terms and conditions regarding Partner’s distribution of Partner Applications in combination with the Distribution Services as part of a Combined Solution pursuant to such Partner
+Category, including fees and other amounts due to SFDC in connection with such distribution. Each Partner Category Addendum is incorporated herein by reference. 
+
+ 
+
+ 
+
+2.3.
+
+ 
+Distribution Services
+. Partner will not provide any Customer with a product quotation listing any
+Platform Subscription (as defined in the OEM Addendum) as a line item separate from the Combined Solution. Partner will be solely responsible for setting the price that Partner charges Customers for any Partner Application, or if Partner is
+reselling Distribution Services with a Partner Application, for any Combined Solution. 
+ 
+ 
+
+ 
+
+2.4.
+
+ 
+Relationship Managers
+. Each Party will designate a representative (each a “
+Relationship
+Manager
+”) who will oversee that Party’s activities under this Agreement. Each Party’s Relationship Manager will serve as its principal point of contact for the other Party for the resolution of any issues that may arise under this
+Agreement. Each Party may change its Relationship Manager by notifying the other Party. [***]. 
+ 
+ 
+
+ 
+
+2.5.
+
+ 
+Sales Forecasts
+.
+ 
+Upon SFDC’s request, Partner will provide SFDC with a one year sales
+forecast (i.e., a projection of the fees Partner estimates it will pay SFDC for such year) for each Partner Application. SFDC may request an update of this forecast on a quarterly basis. The foregoing information will be considered Partner’s
+Confidential Information (as defined herein). SFDC acknowledges that any forecasts are merely estimates and that Partner shall have no liability for failure to achieve any forecasts. 
+
+ 
+
+ 
+
+2.6.
+
+ 
+Authorized Affiliates
+. Partner’s Authorized Affiliates may distribute the Distribution
+Services in combination with the Partner Applications as part of a Combined Solution to Customers as specified in the applicable Partner Category Addendum. Distribution through an Authorized Affiliate in no way changes the obligations of Partner to
+SFDC. Partner must ensure that each Authorized Affiliate complies with the terms of this Agreement applicable to 
+
+ 
+
+Partner as if each Authorized Affiliate were an original party to this Agreement. If an Authorized Affiliate breaches this Agreement, that breach will be deemed a breach by Partner, and Partner
+will be fully liable to SFDC for any such breach subject to Section 12 (Limitation of Liability). Authorized Affiliates are not third-party beneficiaries of this Agreement. 
+
+ 
+
+ 
+
+2.7.
+
+ 
+Channel Partners
+. Subject to the terms and conditions of this Agreement, including this
+Section 2.7, Partner may resell the Distribution Services in combination with the Partner Applications as part of a Combined Solution as specified in the applicable Partner Category Addendum to Channel Partners for resale to Customers:
+
+ 
+(a) Resale through a Channel Partner in no way changes the obligations of Partner to SFDC. Partner must ensure that
+each Channel Partner complies with the terms of this Agreement applicable to Partner as if each Channel Partner were an original party to this Agreement. If a Channel Partner breaches this Agreement, that breach will be deemed a breach by
+Partner, and Partner will be fully liable to SFDC for any such breach subject to Section 12 (Limitation of Liability). 
+ 
+(b) Channel
+Partners will not be third-party beneficiaries of this Agreement between SFDC and Partner. 
+ 
+(c) To provision a sale of a Combined Solution
+through a Channel Partner, Partner must submit a Service Order for such sale that follows the same guidelines as outlined in Section 5 of the OEM Addendum (Service Orders). Notwithstanding the foregoing, for the purposes of this
+Section 2.7, in the defined term “
+Provisioning Information
+” (i) references to “
+Customer
+” in subsections (g) and (h) of such definition are deemed to refer to “
+Channel
+Partner
+” and (ii) the following is added to such section as a new subsection (j): 
+ 
+‘(j)
+Channel Partner Name (if included as a field in the applicable Service Order).’ 
+ 
+(d) For the purposes of any Service Order for
+Services that Partner is reselling to a Channel Partner, in any definition of “
+PNR
+”, references to the sales price of the applicable Combined Solution to Customer are changed to refer to the sales price
+of the applicable Combined Solution to the Channel Partner.” 
+ 
+ 
+
+3.
+
+ 
+Partner Applications 
+
+ 
+
+ 
+
+3.1.
+
+ 
+Scope of Partner Application
+. 
+
+ 
+
+ 
+
+3.1.1.
+
+ 
+Each Partner Application distributed by Partner shall at all times materially conform to the applicable
+Partner Application Description. Without limiting the foregoing, each Partner Application may only utilize the number of Services components (e.g., apps, tabs and objects) required to deliver the Partner Application in the form and with the
+functionality as approved by SFDC and reflected in the Partner Application Description. 
+ 
+ 
+
+ 
+
+3.1.2.
+
+ 
+SFDC reserves the right to review each Partner Application 
+[***]
+ to verify that the Partner
+Application continues to materially conform to the applicable Partner Application Description. 
+ 
+ 
+
+ 
+
+3.1.3.
+
+ 
+[***]
+, a Partner Application may not recreate substantially similar functionality to the following
+standard SFDC objects: Campaigns, Cases, Entitlements, Leads, Opportunities, Quotes, Sales Contracts, Service Contracts, Solutions and/or Work Orders. 
+ 
+ 
+
+ 
+
+3.2.
+
+ 
+Material Modifications
+.
+ 
+ 
+
+ 
+
+ 
+
+3.2.1.
+
+ 
+SFDC must review, approve and reflect in this Agreement via a mutually executed amendment of the Partner
+Application Description, any Material Modifications. “
+Material Modifications
+” are modifications and/or updates to a Partner Application that cause the Partner Application not to materially conform with the Partner Application
+Description or that are otherwise material. For the avoidance of doubt, modifications and/or updates to a Partner Application that requires or enables the use of any Services functionality not contemplated by the Partner Application Description
+are material for the purposes of this Agreement.
+ 
+ 
+
+ 
+
+3.2.2.
+
+ 
+If Partner breaches its obligations under this Section 3 (Partner Applications), SFDC may, upon written
+notice to Partner, (a) suspend, [***], Partner’s right to distribute Partner Applications with and/or use Distribution Services hereunder, or (b) terminate this Agreement [***], in accordance with Section 7.2 (Termination for Cause) below,
+[***]. 
+ 
+ 
+
+ 
+
+3.2.3.
+
+ 
+For the avoidance of doubt, all modifications to a Partner Application and/or updated versions of a
+Partner Application may be subject to a Security Review (as defined below), even if they do not include a Material Modification. 
+ 
+ 
+
+ 
+
+3.3.
+
+ 
+Partner Application Security Review
+. SFDC may conduct periodic security evaluations of the Partner
+Applications (“
+Security Reviews
+”), which may include a qualitative assessment involving review of a questionnaire completed by Partner, an interview with appropriate Partner personnel, and/or security testing. SFDC conducts
+such Security Reviews for its own benefit and Partner may not rely on, publicly disclose or promote a Partner Application’s successful passage of such Security Review. SFDC may not provision Distribution Services hereunder unless such Partner
+Application has successfully passed the Partner Application Security Review. There may be reasonable fees associated with such review; provided that SFDC will charge Partner the same fees that SFDC charges SFDC’s similarly situated partners on
+a programmatic basis. If a Partner Application, in whole or in part, runs outside SFDC’s systems, such Security Review may include remote application-level security testing of each Partner Application, and network-level security testing
+including a vulnerability threat assessment. SFDC may conduct such testing itself or through a third party. SFDC will provide reasonable notice to Partner before starting such testing. SFDC will cooperate reasonably with Partner to
+mitigate the effects of such testing on Partner’s business and operations. Partner agrees to cooperate reasonably with such testing. Despite the foregoing, such testing may in rare cases cause downtime or other adverse effects on a
+Partner Application or Partner’s systems. Partner agrees that SFDC and its agents or contractors conducting the testing will bear no responsibility or liability arising from such testing [***]. Any Partner Confidential Information to
+which SFDC obtains access in the course of a Security Review will be subject to Section 8 (Confidentiality). 
+
+ 
+
+3.4.
+
+ 
+Privacy and Security of Customer Data Accessed by Partner Application [***]. 
+
+ 
+
+4.
+
+ 
+Customer Relationship 
+
+ 
+
+ 
+
+4.1.
+
+ 
+Customer Agreements
+.
+ 
+Customers will contract directly with Partner for the use of Partner
+Applications and any Distribution Services resold by Partner to such Customer. 
+ 
+ 
+
+ 
+
+4.2.
+
+ 
+Customer Billing and Collection
+. Partner will be solely responsible for billing and collecting fees for
+each Partner Application from Customers. Payments due from Partner to SFDC will not depend on Partner’s receipt of payments from Customers. 
+ 
+ 
+
+ 
+
+4.3.
+
+ 
+Partner Solely Responsible to Customers
+.
+ 
+In the event that Partner ceases business and/or
+provision of a Partner Application, SFDC is under no obligation to provide the Partner Applications, to refund to Customer any fees paid by Customer to Partner, or to assume the relationship with Customer. 
+
+ 
+
+ 
+
+4.4.
+
+ 
+Customer Support
+.
+ 
+Partner will itself provide all technical support for Partner Applications and
+any Distribution Services used or resold by Reseller with such Partner Applications in accordance with the following: (i) Partner will provide telephone, 
+web-based
+ and/or email support to Customers during
+normal business hours; (ii) Partner will 
+[***] 
+to respond to all Customers’ support queries within 
+[***]
+; and (iii) Partner will clearly and conspicuously, within the online help information provided for the Partner
+Applications, direct Users (as defined in the OEM Addendum) to contact only Partner for technical support. Partner will not direct Customers to seek support from SFDC in connection with this Agreement or the Combined Solution and SFDC will not,
+except in its sole discretion on a case by case basis, provide any technical support to Customers for Partner Applications or Distribution Services. SFDC has no obligation to provide such support. If 
+[***] 
+Partner cannot adequately resolve
+such issue, Partner may seek assistance from SFDC’s support organization by logging a case with SFDC via the Partner Community. 
+ 
+ 
+
+ 
+
+4.5.
+
+ 
+Trial Subscriptions
+.
+ 
+Trial Subscriptions may not exceed 
+[***]
+. Partner will prominently
+inform all prospective Customers signing up for a Trial Subscription to a Partner Application that their registration information will be disclosed to SFDC and will be used by SFDC pursuant to its privacy policy available at
+http://www.salesforce.com. All data provided by a prospective Customer through a Trial Subscription to a Partner Application will be treated by the Parties as Customer Data belonging to that prospective Customer, and Partner will provide the
+Customer with the ability to access and download all of its Customer Data submitted, accessed or processed by the Partner Applications throughout the term of such Trial Subscription. 
+
+ 
+
+ 
+
+4.6.
+
+ 
+Suspension and Termination of Shared Org
+. Partner acknowledges and understands that a
+Customer’s access to a Shared Org may be suspended or terminated due to breach or expiration of the SFDC MSA. Partner will remain liable to SFDC for the fees for the Distribution Services, including those remaining under the applicable Service
+Order, notwithstanding any such suspension or termination. In no case will any such termination or suspension give rise to any liability of SFDC to Partner or to the Customer, including for a refund or damages. 
+
+ 
+
+5.
+
+ 
+Fees 
+ 
+ 
+
+ 
+
+5.1.
+
+ 
+Taxes
+.
+ 
+Unless otherwise stated, SFDC’s fees do not include any direct or indirect local,
+state, federal or foreign taxes, levies, duties or similar governmental assessments of any nature, including value-added, use or withholding taxes (collectively, “
+Taxes
+”). Partner is responsible for paying all Taxes associated with
+its purchases of Distribution Services, excluding taxes based on SFDC’s net income or property. If SFDC has the legal obligation to pay or collect Taxes for which Partner is responsible under this section, the appropriate amount shall be
+invoiced to and paid by Partner, unless Partner provides SFDC with a valid tax exemption certificate authorized by the appropriate taxing authority. 
+[***]
+. 
+
+ 
+
+ 
+
+5.2.
+
+ 
+Audits
+.
+ 
+SFDC will have the right to audit, no more than once per calendar year, Partner’s
+records relating to Partner’s payment obligations under this Agreement, including without limitation fee calculations, records relating to the provisioning of the Partner Applications and any fees required to be paid to Partner in order to
+install, access and/or use any version of such Partner Applications or its features and capabilities, and the documentation underlying any information provided to SFDC with respect to Service Orders, upon reasonable notice and under reasonable time,
+place and manner conditions. If such audit shows underpayment by Partner of 
+[***]
+ (“
+Irregularity
+”), Partner shall be responsible for the full cost of the audit and SFDC shall subsequently be entitled to perform quarterly
+audits, at its sole discretion, for the remainder of this Agreement. 
+[***]
+. 
+ 
+ 
+
+ 
+
+5.3.
+
+ 
+Overdue Payments
+.
+ 
+ 
+
+ 
+
+ 
+
+5.3.1.
+
+ 
+Suspension of Service
+. If any charge owing by Partner is 
+[***] 
+or more overdue, SFDC may, without
+limiting its other rights and remedies, suspend all or some Distribution Services until such amounts are paid in full, provided that SFDC has given Partner at least 
+[***] 
+that its account is overdue in accordance with the “Notices”
+section of this Agreement. In no case will any such suspension give rise to any liability of SFDC to Partner or to the Customer, including for a refund or damages. 
+
+ 
+
+5.3.2.
+
+ 
+AppExchange
+. Without limiting any other terms and conditions relating to Partner’s listing of a
+Partner Application on the AppExchange, Partner acknowledges that SFDC may delist a Partner Application from the AppExchange if Salesforce has not received payments due to SFDC from Partner under this Agreement within 
+[***] 
+following the
+payment due date provided that SFDC has given Partner at least 
+[***] 
+that its account is overdue in accordance with the “Notices” section of this Agreement. 
+
+ 
+
+ 
+
+5.3.3.
+
+ 
+Overdue Charges
+. If any invoiced amount is not received by SFDC by the due date, then without limiting
+SFDC’s rights or remedies, those charges may accrue late interest at the rate of 
+[***] 
+of the outstanding balance per month, or the maximum rate permitted by law, whichever is lower. 
+
+ 
+
+ 
+
+5.3.4.
+
+ 
+Payment Disputes
+. SFDC will not exercise its rights under the “Overdue Charges,”
+“AppExchange,” or “Suspension of Service” sections above if Partner is disputing the applicable charges reasonably and in good faith and is cooperating diligently to resolve the dispute. Any such dispute must be initiated by
+Partner, in writing, within 
+[***] 
+of the date on which the applicable payment was due. 
+ 
+ 
+
+6.
+
+ 
+Marketing and Publicity 
+
+ 
+
+ 
+
+6.1.
+
+ 
+Press Release, etc
+.
+ 
+Neither Party will issue a press release announcing the Parties’
+relationship under this Agreement unless agreed to by both Parties in writing. Partner agrees to comply with SFDC’s Partner Press Release Guidelines on all press releases 
+[***]
+, unless otherwise agreed to in writing. The Parties may
+collaborate on such items as marketing collateral, public relations, newsflashes, webinars, events, and other promotional activities. 
+ 
+ 
+
+ 
+
+6.2.
+
+ 
+Marketing Statements. [***]. 
+
+ 
+
+ 
+
+6.3.
+
+ 
+SFDC Marketing Collateral
+.
+ 
+Partner may, at its own expense, copy and distribute SFDC’s
+standard product literature to prospective Customers. Partner may not alter any 
+pre-existing
+ SFDC branding or marketing collateral. 
+
+ 
+
+ 
+
+6.4.
+
+ 
+Partner Marketing Collateral
+. 
+
+ 
+
+ 
+
+6.4.1.
+
+ 
+Partner shall comply with SFDC’s current branding guidelines, including the Trademark Usage
+Guidelines (currently available at https://www.salesforce.com/company/legal/) and Partner Branding Guidelines (currently available at https://partners.salesforce.com/s/education/general/Branding_Guidelines ) and Partner Public Relations Guidelines
+(available through https://partners.salesforce.com/s/education/general/PR_Guidelines ) (collectively, “
+SFDC Branding Guidelines
+”), when applicable. 
+
+ 
+
+ 
+
+6.4.2.
+
+ 
+During the Term, Partner Applications may only be described by Partner in a manner that (i) is
+consistent with the Partner Application Description and, when applicable, the SFDC Branding Guidelines or (ii) has been 
+pre-approved
+ by SFDC in writing. 
+ 
+
+ 
+
+ 
+
+6.4.3.
+
+ 
+SFDC may not alter any 
+pre-existing
+ Partner branding or
+marketing collateral within the Partner Applications. 
+ 
+ 
+
+7.
+
+ 
+Term and Termination 
+
+ 
+
+7.1.
+
+ 
+Term
+.
+ 
+This Agreement is effective as of the Effective Date and will remain in effect for so long
+as a Partner Category Addendum is in effect (the “
+Term
+”). 
+ 
+ 
+
+7.2.
+
+ 
+Termination for Cause.
+ A Party may terminate this Agreement or any Partner Category Addendum for cause
+(i) upon 
+[***]
+ to the other Party of a material breach if such breach remains uncured at the expiration of such period, (ii) if the other Party becomes the subject of a petition in bankruptcy or any other proceeding relating to
+insolvency, receivership, liquidation or assignment for the benefit of creditors, (iii) if the other Party is subject to a Change in Control in favor of a direct competitor of the terminating Party, [***], or (iv) if an allegation is
+brought against it by a third-party alleging 
+[***]
+ intellectual property infringement by the other Party as the basis for such claim (an “I
+nfringement Claim
+”) 
+[***]
+. 
+
+ 
+
+ 
+
+7.3.
+
+ 
+Effect of Termination 
+Notice/Non-Renewal
+. If a Party delivers a
+written termination notice pursuant to Section 7.2, or if a Partner Category Addendum is not renewed after the expiration of the Initial Term or a Renewal Term, the following shall apply (in the event a Partner Category Addendum is not renewed
+and other Partner Category Addendums remain in effect, then just with respect to such 
+non-renewed
+ Partner Category Addendum): 
+
+ 
+
+ 
+
+7.3.1.
+
+ 
+No New Distribution
+. Except as set forth in Section 7.3.2, SFDC will have no obligation to continue
+providing the Distribution Services to Partner and Partner will (i) immediately cease distribution of each Partner Application for use with any Services, (ii) not enter into any new or renewal orders with Customers for any Combined
+Solution and (iii) not enter into any new or renewal Service Orders with SFDC for the Distribution Services. The Parties will meet to discuss in good faith whether and how to transition and/or accommodate existing Customers.
+
+ 
+ 
+
+ 
+
+7.3.2.
+
+ 
+Transition Periods
+. If either Party elects not to renew a Partner Category Addendum, unless otherwise
+set forth in the applicable Partner Category Addendum, the Parties will continue to perform their respective obligations under this Agreement with respect to any Service Orders in effect as of such termination or expiration for the
+
+ 
+
+remainder of the then-current term of each such Service Order (the “
+Transition Period
+”). SFDC reserves the right to terminate the Customer relationship with any Customer that is
+in breach of its SFDC MSA during the Transition Period. In no case will any such termination give rise to any liability of Salesforce to Partner or to the Customer for a refund or damages. 
+
+ 
+
+7.4.
+
+ 
+Survival
+. Notwithstanding any other provision of this Agreement: (a) the termination or expiration
+of this Agreement will not relieve either Party of its outstanding payment obligations at the time of such termination or expiration; and (b) those provisions that by their nature are intended to survive termination of this Agreement, including
+the following provisions of this Agreement and those specified as surviving provisions in this Agreement, and all other provisions necessary to their interpretation or enforcement (including those set forth in any applicable Partner Category
+Addendum), will survive indefinitely after the expiration or termination of this Agreement and will remain in full force and effect and be binding upon the Parties as applicable: Sections 5 (Fees), 7.4 (Survival), 8 (Confidentiality), 9.2 (Ownership
+of Intellectual Property), 9.4 (Ownership/Good Faith Covenants), 10.3 (Warranty Disclaimer), 11 (Mutual Indemnification), 12 (Exclusions and Limitations of Liability) and 14 (General). For the avoidance of doubt, termination under Section 7.2
+(Termination for Cause) shall not relieve the indemnifying party of its indemnification obligations hereunder. In addition, this Agreement will continue to apply in full force and effect with respect to Service Orders in effect during the Transition
+Period. 
+ 
+ 
+
+8.
+
+ 
+Confidentiality 
+
+ 
+
+ 
+
+8.1.
+
+ 
+Definition of Confidential Information
+.
+ 
+In this Agreement, “
+Confidential
+Information
+” means all information disclosed by a Party (the “
+Disclosing Party
+”), to the other Party (the “
+Receiving Party
+”), orally or in writing, that is designated as confidential or that reasonably
+should be understood to be confidential given the nature of the information and the circumstances of disclosure, including without limitation and without the need to designate as confidential: (a) the terms and conditions of this Agreement
+(which are both SFDC’s and Partner’s Confidential Information); (b) the Distribution Services and the Services, including their underlying technology and architecture (which are SFDC’s Confidential Information); (c) the Disclosing
+Party’s business and marketing plans, technologies and technical information, product designs, financial information, and business processes; and (d) the Partner Applications (which are Partner’s Confidential Information). For
+avoidance of doubt, Customer Data is the confidential information of the applicable Customer. However, Confidential Information does not include any information that (i) is or becomes generally known to the public without breach of any
+obligation owed to the Disclosing Party, (ii) was known to the Receiving Party prior to its disclosure by the Disclosing Party without breach of any obligation owed to the Disclosing Party, (iii) is received from a third party without
+breach of any obligation owed to the Disclosing Party, or (iv) was independently developed by the Receiving Party. 
+ 
+ 
+
+ 
+
+8.2.
+
+ 
+Protection of Confidential Information
+. The Receiving Party will use the same degree of care that
+it uses to protect the confidentiality of its own confidential information of like kind (but not less than reasonable care) to (i) not use any Confidential Information of the Disclosing Party for any purpose outside the scope of this Agreement
+and (ii) 
+[***]
+. Neither Party will disclose the terms of this Agreement or any Service Order to any third party other than its Affiliates, legal counsel and accountants without the other Party’s prior written consent, provided that a
+Party that makes any such disclosure to its Affiliate, legal counsel or accountants will remain responsible for such Affiliate’s, legal counsel’s or accountant’s compliance with this “Confidentiality” section.
+
+ 
+ 
+
+ 
+
+8.3.
+
+ 
+Compelled Disclosure
+.
+ 
+Notwithstanding the foregoing provisions of Section 8, the Receiving
+Party may disclose Confidential Information of the Disclosing Party 
+[***]
+ to the extent compelled by law to do so, provided the Receiving Party gives the Disclosing Party prior notice of the compelled disclosure (to the extent legally
+permitted) and reasonable assistance, at the Disclosing Party’s cost, if the Disclosing Party wishes to contest the disclosure [***]. 
+ 
+ 
+
+ 
+
+8.4.
+
+ 
+Return of Confidential Information
+.
+ 
+Upon Disclosing Party’s written request upon expiration
+or termination of this Agreement (or at any earlier time upon written request by the Disclosing Party), the Receiving Party will: (a) promptly deliver to the Disclosing Party all originals and copies of all the Disclosing Party’s
+Confidential Information and all documents, records, data and materials containing such Confidential Information in the Receiving Party’s possession, power or control and the Receiving Party will delete all of the Disclosing Party’s
+Confidential Information from any and all of the Receiving Party’s computer systems, retrieval systems and databases except to the extent such systems retain such information in the ordinary course of business for
+
+back-up
+ purposes; and (b) request that all persons to whom it has provided any of the Disclosing Party’s Confidential Information comply with this Section 8.4. For the avoidance of doubt,
+Customer Data will be deleted in accordance with the Documentation. 
+ 
+ 
+
+9.
+
+ 
+Intellectual Property 
+
+ 
+
+ 
+
+9.1.
+
+ 
+License to Partner Applications
+. Subject to the terms and conditions of this Agreement, Partner
+hereby grants to SFDC a limited, nonexclusive, nontransferable (except as set forth in the Assignment Section), 
+non-sublicensable
+ (except to SFDC’s Affiliates and third party service providers and/or
+contractors) license during the Term to host, copy, transmit and display the Partner Applications as necessary for SFDC to fulfill its obligations under this Agreement, including as reasonably necessary to facilitate proper operation with the
+Services to fulfill its obligations under this Agreement. 
+[***]
+. 
+
+ 
+
+9.2.
+
+ 
+Ownership of Intellectual Property
+. 
+
+ 
+
+ 
+
+9.2.1.
+
+ 
+SFDC Property
+. Partner acknowledges that, as between the Parties, the Services, the Distribution
+Services and the AppExchange, and all intellectual property rights therein, are and will remain the sole property of SFDC, and no rights are granted to Partner under this Agreement with respect to the Services, the Distribution Services, or the
+AppExchange, or the intellectual property rights therein, other than the limited licenses and rights specified in this Agreement. Partner will not use the Services, the Distribution Services, or the AppExchange, or the intellectual property rights
+therein, except as expressly permitted by this Agreement or as otherwise agreed to in writing with SFDC. 
+ 
+ 
+
+ 
+
+9.2.2.
+
+ 
+Partner Property
+.
+ 
+SFDC acknowledges that, as between the Parties, the Partner Applications and
+all intellectual property rights therein are and will remain the sole property of Partner, and no rights are granted to SFDC under this Agreement with respect to the Partner Applications or the intellectual property rights therein, other than the
+limited licenses specified in this Agreement. SFDC will not use the Partner Applications or the intellectual property rights therein, except as permitted by this Agreement or as otherwise agreed to in writing with Partner. 
+
+ 
+
+ 
+
+9.3.
+
+ 
+Trademark Cross-License
+. 
+
+ 
+
+ 
+
+9.3.1.
+
+ 
+License
+. Each Party (the “
+Granting Party
+”) hereby grants to the other Party (the
+“
+Licensed Party
+”) a limited, nonexclusive, nontransferable, 
+non-sublicensable,
+ royalty-free license during the Term to use the Granting Party’s Marks (“
+Licensed Marks
+”)
+for the sole purpose of identifying and promoting the Granting Party’s business, products and services strictly in accordance with this Agreement. If the Granting Party is SFDC, its Licensed Marks are such marks identified publicly by SFDC as
+available for use by Partners in the Partner Category(ies) in which Partner is participating, and such associated designs and logos as specified or approved in writing by SFDC in its discretion from time to time (see, e.g., SFDC Branding Guidelines)
+(“
+SFDC Marks
+”). Partner may use the SFDC Marks solely: (i) for so long as Partner remains a Partner in the applicable Partner Category(ies); and (ii) in any jurisdiction in which Partner is authorized to be a Partner and
+SFDC has rights. This License does not grant rights to use any trademark of SFDC other than those identified as SFDC Marks herein. If the Granting Party is Partner, its Licensed Marks are 
+[***]
+ (“
+Partner Marks
+”).
+
+[***]
+. Each Party represents and warrants that it owns or otherwise has sufficient rights to its Licensed Marks, to the extent the Parties have obtained rights in a given jurisdiction, to grant the rights granted in this Agreement and its
+Marks do not infringe any intellectual property rights of any third party. All of the benefit and goodwill associated with the Licensed Party’s use of the Granting Party’s Licensed Marks will inure entirely to the Granting Party.
+
+[***]
+. 
+ 
+ 
+
+ 
+
+9.3.2.
+
+ 
+Usage Guidelines and Required Approvals
+. The Licensed Party’s use of the Granting Party’s
+Licensed Marks will strictly comply with the Granting Party’s written trademark usage policies communicated to the Licensed Party from time to time, including the use of proper notices and legends (see, e.g., SFDC Branding Guidelines). The
+Licensed Party will obtain the Granting Party’s prior written approval of all uses of the Granting Party’s Licensed Marks, which approval may be granted or withheld in the Granting Party’s discretion. The Granting Party may withdraw
+any approval of any use of its Licensed Marks at any time in its discretion, although no such withdrawal will require the recall of any previously published or distributed written materials. 
+
+ 
+
+ 
+
+9.3.3.
+
+ 
+Standards
+. During the Term, the Licensed Party will reasonably cooperate with the Granting Party
+in facilitating the Granting Party’s monitoring and control of the nature and quality of the materials, products and services bearing the Granting Party’s Licensed Marks, and will supply the Granting Party with specimens of the Licensed
+Party’s use of the Granting Party’s Licensed Marks upon request. If the Granting Party notifies the Licensed Party that the Licensed Party’s use of the Granting Party’s Licensed Marks is not in compliance with the Granting
+Party’s trademark policies or is otherwise in breach of this Agreement, then the Licensed Party will promptly take such reasonable corrective action as directed by the Granting Party. 
+
+ 
+
+ 
+
+9.4.
+
+ 
+Ownership/Good Faith Covenants
+. Partner acknowledges and agrees that the SFDC Marks are and will remain
+the sole and exclusive property of SFDC. Partner will not acquire any right, title, or interest in, to or associated with the SFDC Marks other than the limited license to use the SFDC’s Licensed Marks identified above pursuant to this
+Agreement. Both during and after the Term, Partner will not itself, and will not assist, permit, or encourage any other person to, do anything or omit to do anything that might prejudice, impair, jeopardize, violate, dilute, depreciate, or infringe
+any of the SFDC Marks or SFDC’s interest in the SFDC Marks without SFDC’s prior express written approval. SFDC acknowledges and agrees that the Partner Marks are and will remain the sole and exclusive property of Partner. SFDC will not
+acquire any right, title, or interest in, to or associated with the Partner Marks other than the limited license to use the Partner’s Licensed Marks identified above pursuant to this Agreement. Both during and after the Term, SFDC will not
+itself, and will not assist, permit, or encourage any other person to, do anything or omit to do anything that might prejudice, impair, jeopardize, violate, dilute, depreciate, or infringe any of the Partner Marks or Partner’s interest in the
+Partner Marks without Partner’s prior express written approval. 
+ 
+ 
+
+10.
+
+ 
+Representations and Warranties 
+
+ 
+
+ 
+
+10.1.
+
+ 
+SFDC
+. SFDC represents and warrants that: (a) it will not materially decrease the overall features
+and functionalities of the Distribution Services during the Initial Term or during any individual subsequent Renewal Term; (b) it has the legal power to enter into and perform its obligations under this Agreement; (c) 
+[***]
+.
+
+ 
+
+10.2.
+
+ 
+Partner
+. Partner represents and warrants that: (a) any Partner Application(s) will perform
+materially in accordance with the relevant documentation as amended from time to time by Partner and as provided to Customers; (b) it will not materially decrease the overall features and functionalities of any Partner Application during the
+Initial Term or during any individual subsequent Renewal Term; (c) it has the legal power to enter into and perform its obligations under this Agreement; and (d) it will not make any representations or warranties on SFDC’s behalf.
+
+ 
+ 
+
+ 
+
+10.3.
+
+ 
+WARRANTY DISCLAIMER
+. EXCEPT AS EXPRESSLY PROVIDED HEREIN, NEITHER PARTY MAKES ANY REPRESENTATION OR
+WARRANTY OF ANY KIND WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, AND EACH PARTY SPECIFICALLY DISCLAIMS ALL IMPLIED REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR 
+NON-INFRINGEMENT,
+ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. CONTENT AND BETA SERVICES ARE PROVIDED “AS IS,” AND AS AVAILABLE EXCLUSIVE OF ANY WARRANTY WHATSOEVER. WITH RESPECT TO 
+NON-SFDC
+ APPLICATIONS (INCLUDING, WITHOUT LIMITATION, ALL PARTNER APPLICATIONS), SFDC MAKES NO REPRESENTATION OR WARRANTY OF ANY KIND WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, AND SPECIFICALLY DISCLAIMS ALL
+IMPLIED REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR 
+NON-INFRINGEMENT,
+ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+ 
+ 
+
+11.
+
+ 
+Mutual Indemnification 
+
+ 
+
+ 
+
+11.1.
+
+ 
+Indemnification by Partner
+. Partner will defend SFDC against any claim, demand, suit or proceeding made
+or brought against SFDC by a third party (i) alleging that that the Partner Applications or Combined Solution (provided the claim would not have arisen but for such combination) infringe or misappropriate such third party’s intellectual
+property rights; [***] based upon a representation made by Partner to such third party [***] (each, a “
+Claim Against SFDC
+”), and will indemnify SFDC from any damages, attorney fees and costs finally awarded against SFDC as a result
+of, or for amounts paid by SFDC under a settlement approved by Partner in writing of, a Claim Against SFDC, provided that SFDC (a) promptly gives Partner written notice of the Claim Against SFDC, (b) gives Partner sole control of the
+defense and settlement of the Claim Against SFDC (except that Partner may not settle any Claim Against SFDC unless it unconditionally releases SFDC of all liability), and (c) gives Partner all reasonable assistance, at Partner’s expense.
+In the event of a Claim Against SFDC by a third party alleging that a Partner Application infringes the intellectual property rights of a third party, or if Partner reasonably believes a Partner Application may infringe or misappropriate, Partner
+may in its discretion and without any reduction in any payment due to SFDC (A) modify (without materially reducing the overall functionality of) such Partner Application so that it no longer infringes or misappropriates, (B) obtain a
+license for Customer’s and SFDC’s continued use of such Partner Application in accordance with this Agreement and such other agreements between Partner and Customer, as applicable or (C) terminate any then -active Distribution
+Services subscriptions for use with such Partner Application upon 
+[***] 
+written notice to SFDC, provided that if Partner terminates such subscriptions, Partner will be prohibited from distributing such Partner Application for use with the
+Services and, to the extent that Partner has listed such Partner Application on the AppExchange, Partner must remove such listing from the AppExchange. 
+ 
+ 
+
+ 
+
+11.2.
+
+ 
+Indemnification by SFDC
+. SFDC will defend Partner against any claim, demand, suit or proceeding
+made or brought against Partner by a third party (i) alleging that the Distribution Services infringe or misappropriate the intellectual property rights of such third party, 
+[***] 
+(each, a “
+Claim Against Partner
+”), and
+will indemnify Partner from any damages, attorney fees and costs finally awarded against Partner as a result of, or for amounts paid by Partner under a settlement approved by SFDC in writing of, a Claim Against Partner, provided that Partner
+(a) promptly gives SFDC written notice of the Claim Against Partner, (b) gives SFDC sole control of the defense and settlement of the Claim Against Partner (except that SFDC may not settle any Claim Against Partner unless it
+unconditionally releases Partner of all liability), and (c) gives SFDC all reasonable assistance, at SFDC’s expense. In the event of a Claim Against Partner by a third party alleging that the use of the Distribution Services infringe the
+intellectual property rights of a third party, or if SFDC reasonably believes the Distribution Services may infringe or misappropriate, SFDC may in its discretion and at no cost to Partner (A) modify the Distribution Services so that they are
+no longer claimed to infringe or misappropriate (without breaching the warranty in 10.1(a) above), (B) obtain a license for Partner’s continued use and resale of the Distribution Services in accordance with this Agreement or (C) terminate
+the Distribution Services upon 
+[***] 
+written notice and refund Partner any prepaid fees covering the period following such termination; provided that SFDC will use commercially reasonable efforts in connection with alternatives (A) and
+(B) prior to terminating Customer’s subscription in accordance with alternative (C) above. 
+
+ 
+
+11.3.
+
+ 
+Exclusive Remedy. 
+This “Mutual Indemnification” section states the indemnifying Party’s
+sole liability to, and the indemnified Party’s exclusive remedy against, the other party for any type of claim described in this section. 
+ 
+ 
+
+12.
+
+ 
+Exclusions and Limitations of Liability 
+
+ 
+
+ 
+
+12.1.
+
+ 
+LIMITATION OF LIABILITY
+.
+ 
+SUBJECT TO SECTION 12.3, IN NO EVENT WILL THE AGGREGATE LIABILITY OF
+EACH PARTY TOGETHER WITH ITS AFFILIATES ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE GREATER OF 
+[***] 
+OR THE TOTAL AMOUNTS PAID BY PARTNER HEREUNDER IN THE TWELVE MONTHS PRECEDING THE FIRST INCIDENT OUT OF WHICH THE LIABILITY AROSE.
+THE FOREGOING LIMITATION WILL APPLY WHETHER AN ACTION IS IN CONTRACT OR TORT AND REGARDLESS OF THE THEORY OF LIABILITY, BUT WILL NOT LIMIT PARTNER’S PAYMENT OBLIGATIONS HEREUNDER. 
+
+ 
+
+ 
+
+12.2.
+
+ 
+EXCLUSION OF CONSEQUENTIAL AND RELATED DAMAGES
+.
+ 
+IN NO EVENT WILL EITHER PARTY OR ITS AFFILIATES
+HAVE ANY LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT FOR ANY LOST PROFITS, REVENUES, GOODWILL, OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER, BUSINESS INTERRUPTION OR PUNITIVE DAMAGES, WHETHER AN ACTION IS IN CONTRACT OR TORT AND
+REGARDLESS OF THE THEORY OF LIABILITY, EVEN IF A PARTY OR ITS AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR IF A PARTY’S OR ITS AFFILIATES’ REMEDY OTHERWISE FAILS OF ITS ESSENTIAL PURPOSE. THE FOREGOING DISCLAIMER WILL
+NOT APPLY TO THE EXTENT PROHIBITED BY LAW. 
+ 
+ 
+
+ 
+
+12.3.
+
+ 
+EXCEPTIONS: 
+SECTION 12.1 DOES NOT APPLY TO: (i) THE OBLIGATIONS SET FORTH IN SECTIONS 11.1,
+11.2(i), AND 11.2(iii) OF THIS AGREEMENT; (ii) PARTNER’S LIABILITY ARISING FROM ITS BREACH OF SECTION 3.4 (PRIVACY AND SECURITY OF CUSTOMER DATA ACCESSED BY PARTNER APPLICATION) 
+[***]
+. 
+
+ 
+
+13.
+
+ 
+Compliance 
+ 
+ 
+
+ 
+
+13.1.
+
+ 
+Compliance with Ethical Brand Representation Standards
+. Partner shall comply with all applicable laws
+and regulations in its marketing activities hereunder and shall not engage in any deceptive, misleading, illegal or unethical marketing activities, or activities that SFDC reasonably believes may be detrimental to SFDC and shall perform its
+obligations hereunder in a manner that in SFDC’s judgment reflects well upon SFDC and its brands. SFDC will provide the Distribution Services in accordance with laws and government regulations applicable to SFDC’s provision of the
+Distribution Services to its partners generally (i.e., without regard for Partner’s or any Customer’s particular use of the Distribution Services), and subject to Partner and Customer’s use of the Distribution Services in accordance
+with this Agreement, the Documentation, and the applicable Service Order. 
+ 
+ 
+
+ 
+
+13.2.
+
+ 
+Compliance with Global Trade Laws
+. The Parties, as well as the Distribution Services, Services, Content,
+and other technology SFDC makes available may be subject to export and economic sanctions laws and regulations of the United States and other jurisdictions. Each Party represents that as of the Effective Date neither the Party, nor its Affiliates,
+is: (a) currently identified on any sanctions or export control list maintained by the U.S. government, including, but not limited to, the Specially Designated Nationals (“
+SDN
+”) List maintained by the Department of the
+Treasury, Office of Foreign Assets Control (“
+OFAC
+”) or the Denied Persons or Entity Lists maintained by the Department of Commerce, Bureau of Industry and Security (“
+BIS
+”) (collectively “
+Sanctioned
+Persons
+”); nor (b) located, organized or ordinarily resident in a U.S.-embargoed country or territory (currently Cuba, Iran, North Korea, Sudan, Syria and the Crimea Region of Ukraine) (each, an “
+Embargoed Territory
+”).
+Unless otherwise authorized by a specific license, general license, exemption, or other authorization from the U.S. government, Partner shall not (a) sell a Partner Application or Combined Solution into or from, or permit
+Users (as defined in the OEM Addendum) to access or use any Partner Application or Combined Solution from, an Embargoed Territory; (b) engage in any transaction with, or allow access or use of any Partner Application or Combined Solution by, a
+Sanctioned Person, in connection with Partner’s activities contemplated by this Agreement; or (c) engage in any other activity or transaction pursuant to this Agreement that would be in violation of any U.S. export or economic
+sanctions law or regulation. 
+ 
+ 
+
+ 
+
+13.3.
+
+ 
+Compliance with Anti-corruption Laws
+. Partner shall comply with the U.S. Foreign Corrupt Practices Act,
+the U.K. Bribery Act, and the anti-corruption laws of other countries, to the extent applicable. Partner hereby represents and warrants that, in its performance under this Agreement, Partner has not, and will not at any time, directly or indirectly
+(through a 
+sub-Partner
+ or other third party), pay, offer, give or promise to pay or give, or authorize the payment of, any monies or any other thing of value to secure an improper advantage or to improperly
+influence or reward the performance of any party. 
+ 
+ 
+
+ 
+
+13.4.
+
+ 
+Consequences of Violation
+. Partner shall promptly inform SFDC in writing upon becoming aware of any
+potential violations of laws in connection with this Agreement. Partner hereby acknowledges and agrees that any violation by Partner of the Compliance with Trade Law and Ethical Brand Representation Standards and Compliance with Anti-Corruption Laws
+sections of this Agreement will constitute a material breach of this Agreement. In the event SFDC reasonably believes such a violation has occurred, SFDC will have the right to terminate this Agreement, without any liability whatsoever to Partner,
+immediately upon providing written notice of termination to Partner. Termination of this Agreement by SFDC under this section shall be in addition to, and not in lieu of, SFDC’s other legal rights and remedies. 
+
+ 
+
+13.5.
+
+ 
+Training
+. To comply with applicable law and any obligations set forth in this Section 13
+(Compliance), Partner agrees to implement and maintain an internal training program for its employees (and to the extent applicable, Partner’s contractors) to help ensure Partner’s compliance with applicable laws, including international
+anti-corruption laws such as the FCPA, the UK Bribery Act and local anti-corruption law as well as US export control law. 
+ 
+ 
+
+ 
+
+13.6.
+
+ 
+Certification
+.
+ 
+Partner agrees to periodically 
+[***]
+, at SFDC’s request, complete
+SFDC’s Due Diligence Questionnaire and Compliance Certification. Partner agrees that, to comply with applicable laws, Partner and its employees and contractors participating on Partner’s behalf in the activities contemplated under this
+Agreement may be subject to periodic certification as determined by SFDC. Partner may be subject to additional due diligence, questions and training, as reasonably determined by SFDC. Without limiting the foregoing, to the extent that Partner or a
+Partner contractor has completed SFDC’s then-standard compliance certification (“
+Compliance Certification
+”), Partner and/or the contractor shall remain in full compliance with the terms of its Compliance Certification. If SFDC
+reasonably believes that Partner has violated or is violating the terms of its Compliance Certification, Partner shall cooperate in good faith with SFDC (i) in determining the existence, nature and extent of any such violation, and (ii) to
+undertake any actions required to correct the violation. In the event SFDC reasonably and in good faith disputes Partner’s certification or reasonably believes Partner has violated its obligations set forth herein, SFDC shall have the right to
+review Partner’s records to ensure compliance upon reasonable notice. 
+ 
+ 
+
+ 
+
+13.7.
+
+ 
+Cooperation. 
+[***]
+. 
+
+ 
+
+14.
+
+ 
+General 
+ 
+ 
+
+ 
+
+14.1.
+
+ 
+Personnel; Use of Third Parties
+. Each Party will be responsible for the performance of its
+personnel (including its employees and contractors) and any third parties it uses in the performance of this Agreement, and the compliance of such personnel and third parties with such Party’s obligations under this Agreement.
+
+ 
+ 
+
+ 
+
+14.2.
+
+ 
+Relationship of the Parties
+. The Parties are 
+non-exclusive,
+
+independent contractors, and nothing in this Agreement or done pursuant to this Agreement will create or be construed to create a partnership, franchise, joint venture, agency, fiduciary or employment relationship between the Parties. 
+[***]
+.
+
+ 
+ 
+
+ 
+
+14.3.
+
+ 
+No Third Party Beneficiaries
+. There are no third party beneficiaries under this Agreement.
+
+ 
+ 
+
+ 
+
+14.4.
+
+ 
+Notices
+. Except as otherwise specified in this Agreement, all notices related to this Agreement will be
+in writing and will be effective upon (a) personal delivery, (b) the business day after mailing via overnight delivery service, (c) the second business day after mailing, (d) the second business day after sending by confirmed
+facsimile, or (e), except for notices of termination or an indemnifiable claim (“
+Legal Notices
+”), the day of sending by email. Notices to SFDC will be addressed to the attention of the Partner Program Manager, with a copy to
+SFDC’s General Counsel, at salesforce.com, inc., Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, California, 94105; fax (415) 
+901-7040;
+ legal@salesforce.com; or as updated by SFDC via
+written notice to Partner. Billing-related notices to Partner will be addressed to the relevant billing contact designated by Partner, and Legal Notices to Partner will be addressed to the address provided above and be clearly identifiable as Legal
+Notices. All other notices to Partner will be addressed to the relevant Relationship Manager or Distribution Services system administrator designated by Partner. 
+
+ 
+
+ 
+
+14.5.
+
+ 
+Waiver
+. No failure or delay by either Party in exercising any right under this Agreement will constitute
+a waiver of that right. 
+ 
+ 
+
+ 
+
+14.6.
+
+ 
+Severability
+. If any provision of this Agreement is held by a court of competent jurisdiction to be
+contrary to law, the provision will be deemed null and void, and the remaining provisions of this Agreement will remain in effect. 
+ 
+ 
+
+ 
+
+14.7.
+
+ 
+Assignment
+. Neither Party may assign any of its rights or obligations under this Agreement, whether by
+operation of law or otherwise, without the prior written consent of the other Party (not to be unreasonably withheld); provided however, either Party may assign this Agreement together with all rights and obligations hereunder, without consent of
+the other Party, in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets. Notwithstanding the foregoing, if a Party is acquired by, sells substantially all of its assets to, or undergoes
+a Change in Control in favor of, a direct competitor of the other Party, then such other Party may terminate this Agreement upon written notice 
+[***]
+. Subject to the foregoing, this Agreement will bind and inure to the benefit of the Parties,
+their respective successors and permitted assigns. 
+ 
+ 
+
+ 
+
+14.8.
+
+ 
+Entire Agreement
+. This Agreement, and each applicable Partner Category Addendum, constitute the entire
+agreement between SFDC and Partner regarding Partner’s distribution of Partner Applications in combination with the Distribution Services as part of a Combined Solution and supersedes all prior and contemporaneous agreements, including the
+Prior Agreement, proposals or representations, written or oral, concerning its subject matter. The Parties agree that any term or condition stated in a Partner order form or in any other Partner order documentation, including a purchase order (but
+excluding Service Orders) is void. In the event of any conflict or inconsistency 
+
+ 
+
+among the following documents, the order of precedence shall be: (1) the applicable Service Order, (2) any exhibit schedule or addendum to this Agreement, (3) the body of this
+Agreement, (4) the Documentation and SFDC Branding Guidelines, and (5) the Salesforce Partner Program Agreement entered into between Partner and SFDC. 
+ 
+ 
+
+ 
+
+14.9.
+
+ 
+Governing Law
+. This Agreement, and any disputes arising out of or related hereto, will be governed
+exclusively by the internal laws of the State of California, without regard to its conflicts of laws rules or the United Nations Convention on the International Sale of Goods. 
+
+ 
+
+ 
+
+14.10.
+
+ 
+Venue
+. The state and federal courts located in San Francisco County, California will have exclusive
+jurisdiction over any dispute relating to this Agreement, and each party consents to the exclusive jurisdiction of those courts. 
+ 
+ 
+
+ 
+
+14.11.
+
+ 
+Counterparts and Delivery by Electronic Means
+.
+ 
+This Agreement may be executed electronically, via
+facsimile, email or electronic signature, and in counterparts. 
+
+ 
+OEM ADDENDUM 
+
+TO 
+ 
+PARTNER APPLICATION
+DISTRIBUTION AGREEMENT 
+ 
+Template last updated June 27, 2019 
+
+Signature Page 
+ 
+ 
+
+Partner Name
+
+  
+
+nCino, Inc.
+
+Partner Application Name
+
+  
+
+nCino Bank Operating System
+
+ 
+This OEM Addendum (“
+OEM
+ 
+Addendum
+”) amends and supplements the Partner Application Distribution
+Agreement (the “
+PADA
+”) (the PADA, together with this OEM Addendum, the “
+Agreement
+”) between Partner and SFDC (as defined in the Agreement). This OEM Addendum is effective as of the later of the dates beneath the
+parties’ signatures below (the “
+OEM
+ 
+Addendum Effective Date
+”); provided, however that if such dates are separated by more than thirty (30) days this OEM Addendum will be deemed null and void. Except as otherwise set
+forth herein, the terms of the PADA shall apply to this OEM Addendum, and capitalized terms used but not defined in this OEM Addendum shall have the meanings set forth in the PADA. 
+
+This OEM Addendum is a “Partner Category Addendum” as such term is defined in the PADA. 
+
+The parties’ authorized signatories have duly executed this OEM Addendum as of the OEM Addendum Effective Date. 
+
+ 
+
+SFDC
+
+ 
+
+ 
+
+    Partner
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+    By:
+
+ 
+
+ 
+
+Print Name:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Print Name:
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ 
+
+Date:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+
+ 
+
+ 
+
+1.
+
+ 
+Additional Definitions 
+
+“
+Admin User
+” means a subscription to an OEM Service that may be used by a Customer only to configure and administer the OEM Services in
+support of the Customer’s use of the Combined Solution. An Admin User may not be used to access, distribute, or use OEM Services to access standard objects through standard tabs and related lists in custom tabs through the SFDC web services API
+or through reports and dashboards. Standard objects include campaigns, leads, opportunities, cases, solutions and forecasts. 
+ 
+“
+Customer
+Agreement
+” has the meaning set forth in Section 9 (Customer Agreements). 
+ 
+“
+Embedded Edition Restriction
+” means the terms
+set forth in Exhibit C hereto. 
+ 
+“
+OEM
+ 
+Services
+” means the Services that SFDC provides for the use or resale by Partner as part of a
+Combined Solution, as set forth in the Product Catalog and each Service Order accepted by SFDC. For the avoidance of doubt, the OEM Services are also Distribution Services. 
+
+“
+Platform Subscription
+” means a Force.com OEM Services subscription, or a subscription to other OEM Services designated in the Product
+Catalog as “fulfilling the 1:1 requirement” or similar designation. 
+ 
+“
+Product Catalog
+” means the listing of OEM Services,
+pricing and product specific terms that SFDC makes available for Partner to purchase pursuant to Service Orders, as set forth initially in 
+Exhibit A
+, and as updated from time to time by SFDC in the Channel Order App 
+[***]
+. 
+
+“
+Provisioning Information
+” means the following information regarding the applicable Service Order: 
+
+ 
+
+ 
+
+a)
+
+ 
+Customer name and location 
+
+ 
+
+ 
+
+b)
+
+ 
+Org identification number 
+
+ 
+
+ 
+
+c)
+
+ 
+Name of OEM Services subscription type and quantity sold 
+
+ 
+
+ 
+
+d)
+
+ 
+Effective start date of Customer order 
+
+ 
+
+ 
+
+e)
+
+ 
+Term of Customer order 
+
+ 
+
+ 
+
+f)
+
+ 
+Auto-renewal (Y/N) 
+ 
+ 
+
+ 
+
+g)
+
+ 
+Date of Customer’s Acceptance of Customer Agreement 
+
+ 
+
+ 
+
+h)
+
+ 
+Date of Partner’s receipt of Customer order 
+
+ 
+
+ 
+
+i)
+
+ 
+Per User/month pricing (percentage of net revenue pricing only) 
+
+“
+Required Pass-Through Terms
+” means the SFDC Terms of Use 
+[***]
+. 
+
+“
+SFDC
+ 
+Terms of Use
+” means the terms that Partner must pass-through to the Customer set forth in Exhibit
+
+F-3
+ hereto 
+[***]
+. 
+ 
+“
+User
+” means an individual who is authorized by Customer to use a
+Service, for whom Customer has purchased a subscription (or in the case of any Services provided by SFDC or Partner without charge, for whom an Services subscription has been provisioned), and to whom Customer (or, when applicable, SFDC or Partner
+at Customer’s request) has supplied a user identification and password (for Services utilizing authentication). Users may include, for example, employees, consultants, contractors and agents of Customer, and third parties with which Customer
+transacts business. 
+ 
+ 
+
+2.
+
+ 
+Services. 
+ 
+ 
+
+ 
+
+2.1
+
+ 
+Subject to the terms and conditions of this Agreement, SFDC hereby grants to Partner a nonexclusive,
+nontransferable (except as set forth in this Agreement), 
+non-sublicensable
+ (except as set forth in this Agreement) right to market, demonstrate, resell and support OEM Services in connection with Partner
+Applications as part of a Combined Solution. 
+ 
+ 
+
+ 
+
+2.2
+
+ 
+Partner may not resell any Services other than the OEM Services and may not resell any such OEM Service(s)
+independent of a Combined Solution. 
+ 
+ 
+
+ 
+
+2.3
+
+ 
+The Partner Applications must provide substantial functionality that is not available through the Services
+alone. 
+ 
+ 
+
+ 
+
+2.4
+
+ 
+The Combined Solution must be provisioned to a unique Org for each Customer. A single Org may not contain
+Customer Data of, or be accessed by, more than one Customer. 
+ 
+ 
+
+ 
+
+2.5
+
+ 
+Partner may not, without SFDC’s prior written consent (including pursuant to a separate written
+agreement), offer an application substantially similar to a Partner Application for use with Services, or any other services made available by SFDC that is not identified in a Partner Application Description. 
+[***]
+. 
+
+ 
+
+ 
+
+2.6
+
+ 
+During and after the Term of this Agreement, to the extent that Partner creates an online application using the
+Services, Partner may not, without SFDC’s prior written consent, make available such application to third parties (i.e. other than Partner or its Affiliates) unless authorized pursuant to this Agreement and subject to the terms and conditions
+set forth herein or another written agreement between the Parties. Breach of this Section 2.6 will constitute a material breach of this Agreement. 
+
+ 
+
+2.7
+
+ 
+Unless otherwise specified in the Product Catalog or Service Order, OEM Services are purchased as User
+subscriptions and may be accessed by no more than the specified number of Users. 
+ 
+ 
+
+ 
+
+2.8
+
+ 
+This Agreement does not grant Partner an internal use subscription for the Services. 
+
+ 
+
+3.
+
+ 
+1:1 Requirement
+. Partner must sell one Platform Subscription with every one (1) subscription to a
+Partner Application it sells as part of a Combined Solution. A breach of this Section 3 will constitute a material breach of this Agreement. 
+ 
+ 
+
+4.
+
+ 
+Combined Solutions
+. Combined Solutions may only utilize the minimum number of OEM Services
+components (e.g., custom objects) required to deliver the applicable Partner Application. Customers may not increase the number of custom objects beyond that provided in the Partner Applications, nor may they develop applications for internal use or
+install additional applications in connection with the OEM Services included in the Combined Solution. 
+ 
+ 
+
+5.
+
+ 
+Service Orders. 
+
+ 
+
+ 
+
+5.1
+
+ 
+Delivery of Service Orders. 
+Partner will submit a complete and accurate Service Order to SFDC via
+SFDC’s Channel Order App (or such other method 
+pre-approved
+ by SFDC in writing) for all OEM Services subscriptions that Partner is required to purchase pursuant to Section 3 (1:1 Requirement) above.
+Each Service Order is subject to SFDC’s reasonable and good faith acceptance, which will not be unreasonably withheld or delayed 
+[***]
+. For clarity, Service Orders entered into pursuant to the terms of the Prior Agreement will be
+considered Service Orders hereunder, and OEM Services subscriptions ordered under such Service Orders will be considered OEM Service subscriptions under this Agreement. 
+
+ 
+
+ 
+
+5.2
+
+ 
+Provisioning Information.
+ Each Service Order submitted via the Channel Order App must include the
+Provisioning Information. Partner represents and warrants that all such Provisioning Information submitted to SFDC will be true and correct and agrees to certify the same in writing, and to provide to SFDC copies of the documentation underlying the
+Provisioning Information, periodically, upon SFDC’s request. 
+ 
+ 
+
+ 
+
+5.3
+
+ 
+Trial Subscriptions. 
+Partner is not required to submit a Service Order to SFDC for Trial Subscriptions;
+provided, however, that Partner must submit the applicable Service Order to SFDC within 
+[***] 
+of the expiration of a Trial Subscription to the extent Partner continues to provide the Partner Application. No more than five (5) Trial
+Subscriptions can be provisioned to an individual Customer. 
+ 
+ 
+
+ 
+
+5.4
+
+ 
+No Cancellation. 
+Service Orders are 
+non-cancelable
+ by Partner
+after acceptance by SFDC. The number of subscriptions specified in an accepted Service Order cannot be decreased prior to the end of the Service Order term, regardless of any termination, nonpayment, nonuse or other conduct or inaction on the part
+of the corresponding Customer. 
+ 
+ 
+
+ 
+
+5.5
+
+ 
+Channel Order App Certification.
+ Partner agrees that its personnel who will be entering Service Orders
+via the Channel Order App will go through SFDC’s training process for the Channel Order App, including passing the related certification exam, within 
+[***] 
+of the OEM Addendum Effective Date. In addition to the foregoing, any other
+Partner personnel who will be entering Service Orders via the Channel Order App will also have to complete such training and certification in a timely manner. 
+
+ 
+
+6.
+
+ 
+OEM Services Subscriptions. 
+
+ 
+
+ 
+
+6.1
+
+ 
+Subscription Term
+. The term of each OEM Services subscription and renewal thereof shall be 
+[***]
+;
+provided, that if Partner has already resold one or more OEM Services subscriptions to such Customer, the term of each additional OEM Services subscription that Partner resells to such Customer (each, an
+“
+Add-On
+ Subscription
+”) must coterminate with the term of such 
+pre-existing
+ Services subscriptions. 
+
+ 
+
+ 
+
+6.2
+
+ 
+Subscription Renewals. 
+Existing OEM Services subscriptions shall automatically renew unless terminated
+by (i) Partner by providing 
+[***] 
+prior written notice to SFDC through the Channel Order App, or (ii) SFDC, in its reasonable discretion, by providing 
+[***] 
+prior written notice to the Partner 
+[***]
+.
+
+ 
+ 
+
+ 
+
+6.3
+
+ 
+Admin Subscriptions
+. SFDC will provision at least one Admin User Subscription to each Customer Org.
+
+ 
+ 
+
+7.
+
+ 
+Provision of OEM Services and Certain Limitations. 
+
+ 
+
+ 
+
+7.1
+
+ 
+Provision of OEM Services.
+ SFDC will use commercially reasonable efforts to make the online OEM Services
+available 24 hours a day, 7 days a week, except for: (a) planned downtime (of which SFDC shall give advance electronic notice as provided in the Documentation), and (b) any unavailability caused by circumstances beyond SFDC’s
+reasonable control, including, for example, an act of God, act of government, flood, fire, earthquake, civil unrest, act of terror, strike or other labor problem (other than one involving SFDC employees), Internet service provider failure or delay, 
+Non-SFDC
+ Application or denial of service attack. 
+ 
+ 
+
+8.
+
+ 
+Fees, Invoicing and Payment. 
+
+ 
+
+ 
+
+8.1
+
+ 
+Fees
+. 
+
+ 
+
+8.1.1
+
+ 
+Partner will pay SFDC fees for OEM Services as set forth in the applicable Service Order and in
+accordance with this Agreement. 
+ 
+ 
+
+ 
+
+8.1.2
+
+ 
+SFDC will invoice Partner on a 
+[***] 
+set forth in the Service Orders for each Customer account.
+On or around the 
+[***]
+ of each month, SFDC will provide Partner with an account statement (“
+Account Statement
+”) specifying the aggregate amounts due SFDC across all Customer accounts. Amounts invoiced under this OEM Addendum
+are due 
+[***] 
+from receipt of the invoice (receipt deemed same day as sent, if sent via email), and paid by wire transfer once each month. With each wire transfer payment, Partner shall provide SFDC with a listing of the SFDC invoices that
+Partner is making payments against with such payment. 
+ 
+ 
+
+ 
+
+8.1.3
+
+ 
+[***]. 
+ 
+ 
+
+ 
+
+8.2
+
+ 
+Customer Billing and Collection
+. Partner will be solely responsible for billing and collecting fees for
+the Combined Solution from all Customers. 
+ 
+ 
+
+9.
+
+ 
+Customer Agreements. 
+
+ 
+
+ 
+
+9.1
+
+ 
+Customers will contract directly with Partner for use of the Combined Solution. 
+
+ 
+
+ 
+
+9.2
+
+ 
+Partner agrees that it will directly enter into an agreement (either through an online click-through agreement
+allowing for tracking of acceptance or through a written agreement) with each Customer containing: 
+ 
+ 
+
+ 
+
+(i)
+
+ 
+Other than as set forth in Section 9.5, the SFDC Terms of Use, or terms that are not materially different
+than or less protective of SFDC than the SFDC Terms of Use; 
+ 
+ 
+
+ 
+
+(ii)
+
+ 
+Other than as set forth in Section 9.5, the Embedded Edition Restriction; and 
+
+ 
+
+ 
+
+(iii)
+
+ 
+any product specific terms specified by SFDC in the Product Catalog or the applicable Service Order for
+particular versions of the Services ((i), (ii) and (iii) together constitute the “
+Customer Agreement
+”). 
+ 
+For the
+avoidance of doubt, each Customer Agreement that Partner enters into with Customer must expressly state that the SFDC Terms of Use, Embedded Edition Restriction and product specific terms contained in such Customer Agreement are to the benefit of
+and enforceable by SFDC as a third party beneficiary. Except for the Customer Agreement, pricing and all other terms and conditions relating to Customers’ use of the Combined Solution will be solely between Customers and Partner. 
+
+ 
+
+ 
+
+9.3
+
+ 
+SFDC reserves the right to terminate any Service Order or suspend access to the Distribution Services if the
+applicable Customer is in breach of the Customer Agreement. In no case will any such termination or suspension give rise to any liability of SFDC to Partner or to the Customer, including for a refund or damages. 
+
+ 
+
+ 
+
+9.4
+
+ 
+Partner will prominently inform all Customers signing up for a Trial Subscription that registration information
+will be disclosed to SFDC and will be used by SFDC pursuant to its privacy policy available at http://www.salesforce.com. All data provided by a prospective Customer through a Trial Subscription will be treated by the Parties as that Customer’s
+Customer Data, and Partner will enable the Customer to access and download all of its Customer Data submitted, accessed or processed by the Partner Applications throughout the term of the Trial Subscription. 
+
+ 
+
+ 
+
+9.5
+
+ 
+[***]
+ 
+ 
+ 
+
+10.
+
+ 
+Customer Data and other Obligations. 
+
+ 
+
+ 
+
+10.1
+
+ 
+Additional Partner Obligations. 
+ 
+
+ 
+
+ 
+
+10.1.1
+
+ 
+Prior to accessing a Customer’s account and/or Customer Data in order to administer or configure
+the Combined Solution as an Admin User or by other means, Partner must notify the applicable Customer in the Customer Agreement or in another agreement that Partner will have such access to the Customer’s account and/or Customer Data.
+
+ 
+ 
+
+ 
+
+10.2
+
+ 
+Additional SFDC Obligations.
+ 
+
+ 
+
+ 
+
+10.2.1
+
+ 
+SFDC will maintain 
+[***]
+ administrative, physical, and technical safeguards for protection of the
+security, confidentiality and integrity of Customer Data, as described in the Documentation. Those safeguards will include, but will not be limited to, measures for preventing access, use, modification or disclosure of Customer Data by SFDC
+personnel except (a) to provide the Services and prevent or address service or technical problems, (b) as compelled by law in accordance with the “Confidentiality: Compelled Disclosure” section below, or (c) as expressly
+permitted in writing by a Customer. 
+ 
+ 
+
+ 
+
+10.3
+
+ 
+Einstein OEM Services and Features.
+ 
+
+ 
+
+ 
+
+10.3.1
+
+ 
+Einstein Data Analytics. 
+Partner acknowledges that SFDC may access Customer Data submitted to Services
+and features branded as Einstein for the purpose of training and improving similar or related services and features and Partner, for itself and on behalf of its Customers, instructs SFDC to process its Customer Data for such purpose. SFDC retains
+all right, title, and interest in and to all system performance data, machine learning algorithms, and aggregated results of such machine learning. SFDC will not share any Customer Data with any other customers. 
+
+ 
+
+10.3.2
+
+ 
+Acceptable Use and External-Facing Services Policy. 
+Partner acknowledges and agrees that, in its use of
+Services and features branded as Einstein, Partner shall comply with the terms of the SFDC Terms of Use, including SFDC’s Acceptable Use and External-Facing Services Policy, which is set forth at
+
+https://c1.sfdcstatic.com/content/dam/web/en_us/www/documents/legal/Agreements/policies/ExternalFacing_Services_Policy.pdf
+ and incorporated herein by reference. 
+
+ 
+
+11.
+
+ 
+Term. 
+ 
+ 
+
+ 
+
+11.1
+
+ 
+The initial term of this OEM Addendum commences on the OEM Addendum Effective Date and ends seven (7) years
+thereafter (“
+Initial Term
+”), unless terminated earlier by either Party as set forth in this Agreement. Thereafter, this OEM Addendum will automatically renew for additional one (1) year periods (each a “
+Renewal
+Term
+”), unless terminated earlier by either Party pursuant to this Agreement or unless either Party gives notice of non-renewal to the other Party no later than [***] before the end of the Initial Term or the then-current Renewal Term. The
+Initial Term, all Renewal Terms and any Transition Period are referred to collectively as the “
+OEM Term
+.” 
+ 
+ 
+
+ 
+
+11.2
+
+ 
+Notwithstanding Section 7.3.2 of the PADA, if either Party elects not to renew this OEM Addendum pursuant
+to Section 11.1 of the OEM Addendum, the Parties will continue to perform their respective obligations under this Agreement, including payment obligations, so that all then-current Customers will continue to have full and complete access to the
+Combined Solution as set forth below: 
+ 
+(i) Each Service Order in effect as of the date of expiration of this Agreement
+(an “
+Active Service Order
+”) will continue for the remainder of its then-current term. 
+ 
+(ii) Each Active Service Order may
+continue to automatically renew one or more times as set forth in Section 6.2 of the OEM Addendum for up to 
+[***]
+, provided that all such renewals must end no later than 
+[***]
+. For the avoidance of doubt, (i) all Service
+Orders must expire no later than 
+[***] 
+following the date of expiration of this Agreement, and (ii) the PADA and OEM Addendum will continue to apply in full force and effect with respect to Service Orders in effect during the Extended
+Transition Period. 
+ 
+(iii) SFDC reserves the right to terminate the Customer relationship with any Customer that is in breach of its SFDC
+MSA during the Extended Transition Period. In no case will any such termination give rise to any liability of Salesforce to Partner or to the Customer for a refund or damages. 
+
+(iv) 
+[***]
+. 
+ 
+ 
+
+12.
+
+ 
+Indemnification
+. For the purposes of the section of this Agreement titled “Indemnification by
+Partner,” a “
+Claim Against SFDC
+” includes any claim, demand, suit or proceeding made or brought against SFDC by a third party based upon a breach by Customer of the Customer Agreement. 
+
+ 
+
+13.
+
+ 
+Counterparts
+. This OEM Addendum may be executed electronically and in counterparts.
+
+Exhibit List 
+
+Exhibit A
+: Product Catalog 
+
+Exhibit B
+: Partner Application Description 
+
+Exhibit C
+: Embedded Edition Restriction 
+
+Exhibit D
+: Channel Partners 
+
+Exhibit E
+: Authorized Affiliates 
+
+Exhibit 
+F-1
+: Previous SFDC Service Terms 
+
+Exhibit 
+F-2
+: Previous SFDC Service Terms 
+
+Exhibit 
+F-3
+: SFDC Terms of Use 
+
+Exhibit 
+G-1
+: Customer Specific Terms for [***] Bank [***] 
+
+Attachment 1 to Exhibit 
+G-1
+: Customer Specific Terms for [***] Bank [***]: Service Level
+Addendum 
+ 
+Attachment 2 to Exhibit 
+G-1
+:    Customer Specific Terms for
+[***] Bank [***] 
+ 
+Exhibit 
+G-2
+: Customer Specific Terms for Bank [***] 
+
+Attachment 1 to Exhibit 
+G-2
+: Business Continuity
+ 
+ 
+
+Exhibit 
+G-3
+: Customer Specific Terms for: [***] Bank 
+
+Exhibit H
+: Service Level Addendum 
+
+Exhibit I
+: Public Cloud Infrastructure 
+
+Attachment 1 to Exhibit I
+: Covered Customers 
+
+Exhibit J
+: Data Processing Addendum 
+
+Exhibit A – Product Catalog 
+
+[***] 
+
+Exhibit B—Partner Application Description: nCino Bank Operating System
+
+ 
+[***] 
+
+Exhibit C – Embedded Edition Restriction 
+
+[***] 
+
+Exhibit D – Channel Partners 
+
+[***] 
+
+Exhibit E – Authorized Affiliates 
+
+[***] 
+
+Exhibit 
+F-1
+ to OEM Addendum 
+
+[***] 
+
+Exhibit 
+F-2
+ to OEM Addendum 
+
+[***] 
+
+Exhibit 
+F-3
+ to OEM Addendum 
+
+[***] 
+
+Exhibit 
+G-1
+ to OEM Addendum — Modified SFDC
+Service Terms for [***] Bank [***] 
+ 
+[***] 
+
+Attachment 1 to Exhibit 
+G-1
+ to OEM Addendum—
+Modified SFDC Service Terms for [***] Bank [***] 
+ 
+[***] 
+
+Attachment 2 to Exhibit 
+G-1
+ to OEM Addendum –
+Modified SFDC Service Terms for [***] Bank [***] 
+ 
+[***] 
+
+Exhibit 
+G-2
+ to OEM Addendum — Modified SFDC
+Service Terms for Bank [***] 
+ 
+[***] 
+
+Attachment I — Business Continuity 
+
+[***] 
+
+Exhibit 
+G-3
+ to OEM Addendum — Customer
+Specific Terms for: [***] Bank 
+ 
+[***] 
+
+EXHIBIT H to OEM Addendum 
+
+[***] 
+
+Exhibit I to OEM Addendum 
+
+[***] 
+
+Attachment 1 to Exhibit I to OEM Addendum 
+
+Covered Customers 
+ 
+[***]
+
+Exhibit J to OEM Addendum 
+
+[***]

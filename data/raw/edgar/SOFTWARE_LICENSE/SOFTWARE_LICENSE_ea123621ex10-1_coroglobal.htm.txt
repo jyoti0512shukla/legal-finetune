@@ -1,0 +1,1216 @@
+EX-10.1
+
+2
+
+ea123621ex10-1_coroglobal.htm
+
+AMENDED AND RESTATED SOFTWARE LICENSE AGREEMENT BETWEEN THE COMPANY AND SWIRLDS, INC.
+
+Exhibit 10.1
+
+ 
+
+AMENDED
+& RESTATED SOFTWARE LICENSE AGREEMENT
+
+ 
+
+THIS
+AMENDED AND RESTATED SOFTWARE LICENSE AGREEMENT
+ (this “
+Agreement
+”) is entered into as of June 22,
+2020 (the “
+Effective Date
+”), by and between 
+SWIRLDS, INC.
+, a Delaware corporation with corporate
+offices at 3400 North Central Expressway, Suite 470, Richardson, Texas 75080 (“
+Licensor
+”), and 
+Coro
+Global, Inc.
+ (formerly known as Hash Labs, Inc.), a Nevada corporation with corporate offices at 78 SW 7
+th
+ Street,
+Miami, Florida 33130 (“
+Customer
+”). This Agreement amends and restates, and supersedes and replaces,
+the Software License Agreement dated December 13, 2018 by and betweeen Licensor and Customer.
+
+ 
+
+1.
+DEFINITIONS.
+
+ 
+
+“
+Affiliate
+”
+means any company or entity which, directly or indirectly, controls or is controlled by or under common control with, a party
+to this Agreement, but only for as long as such control exists. For the purposes of this definition, “control” (and
+its correlative meanings “controlled by” or “under common control with”) means, with respect to a company
+or entity, the ownership or possession of (a) at least fifty percent (50%) of the share capital having ordinary voting power,
+(b) the right to elect a majority of the members then-comprising the board of directors or equivalent corporate governance body
+of such company or entity, or (c) the operational management of the controlled company or entity by contract or otherwise.
+
+ 
+
+“Coro
+Account Holders”
+ means any user of the Coro Payment Sytem that has completed due diligence including AML, KYC, and
+identity verification procedures required to use the Coro Payment System. Users consist of individuals, businesses which includes
+but is not limited to retailers and wholesalers, financial institutions and governments, and any other user as may be admitted
+by Customer.
+
+ 
+
+“
+Customer
+Use Case
+” means a private, permissioned, peer-to-peer, distributed ledger that supports the Coro global payment
+system described herein (the “
+Coro Payment System
+”). Coro, a licensed money transmitter, will allow
+users to send and receive global payments and exchange currency, including gold. All currencies in the Coro user accounts are
+at all times held in custody for the users. This includes the physical gold that belongs to the Coro users and will be held by
+an independent gold custodian within an insured vault. Coro account holders will be able to withdraw all or a portion of their
+account value in the form of physical gold or fiat currency. Within the Coro payment application, customers may use fiat currency
+or gold to make money transfers or commercial payments within the Coro ecosystem. The Coro application enables users to purchase
+goods or services or transfer currencies between AML/KYC approved account holders. The Coro ecosystem will include individuals,
+businesses, financial instituions and eventually government entities. For clarity, the “Customer Use Case” does not
+include the right to create, issue or facilitate the use of cryptocurrency tokens.
+
+ 
+
+“
+Documentation
+”
+means the technical and user documentation related to the Software, in any format, that is delivered by Licensor to Customer in
+connection with this Agreement.
+
+ 
+
+“
+Intellectual
+Property Rights
+” means patent rights (including patent applications and disclosures), copyrights, trademarks, database
+rights, trade secrets, know-how and any other intellectual property rights recognized in any country or jurisdiction in the world.
+
+ 
+
+“
+License
+Term
+” means the term of any license for Software specified in an Order Form, including all renewal terms.
+
+ 
+
+“
+Node
+”
+means an active physical or virtual connection that is connected to a network using the Swirlds Hashgraph technology that is capable
+of creating, sending, receiving, and/or transmitting information over the Swirlds Customer Network.
+
+ 
+
+“
+Order
+Form
+” means the document executed by both parties pursuant to which Customer orders Software. Each Order Form must
+expressly reference and shall form a part of this Agreement. If any terms of an Order Form conflict with any terms of this Agreement,
+the terms of the Order Form will control.
+
+ 
+
+“
+Software
+”
+means Licensor’s software products licensed under this Agreement, as specified in an Order Form signed by both parties,
+which includes Source Code and any error corrections, updates or upgrades provided by Licensor to Customer under this Agreement.
+
+ 
+
+“
+Source
+Code
+” means the human readable source code of the Software that is made available by Licensor on its web site at
+www.swirlds.com/download/.
+
+ 
+
+“
+Hashgraph
+”
+means Swirlds proprietary consensus mechanism algorithm used for distributed ledger networks.
+
+ 
+
+“
+Swirlds
+Customer Network
+” means the private, permissioned, peer-to-peer, distributed ledger technology-based system operated
+by Customer using the Swirlds Hashgraph algorithm.
+
+ 
+
+2.
+LICENSE.
+
+ 
+
+2.1 
+License
+.
+Subject to the terms and conditions of this Agreement, Licensor grants to Customer a nonexclusive, nontransferable license to
+install and use the Software specified on any fully-executed Order Form during the applicable License Term, for which
+Customer has timely paid all fees, solely for the development, implementation, operation and maintenance of Nodes connected
+to a Swirlds Customer Network solely for the Customer Use Case. Customer may permit an Affiliate of Customer to install and
+use the licensed Software solely in connection with the exercise of Customer’s rights under this Agreement and subject
+to any such Affiliate’s compliance with all of the terms and conditions of this Agreement. Likewise, Customer may
+permit its third-party subcontractors to access and use the Software, solely in connection with the exercise of
+Customer’s rights under this Agreement and subject to any such subcontractor’s compliance with all of the terms
+and conditions of this Agreement, Customer shall (a) ensure that any such Affiliate or subcontractor complies with all of the
+terms of this Agreement and (b) be liable for any breach of this Agreement by any such Affiliate or subcontractor. 
+
+ 
+
+Page 
+1
+ of 10
+
+ 
+
+ 
+
+2.2 
+General
+License Restrictions
+. Except as expressly permitted in this Agreement, the licenses granted in this Section 2 do not permit
+Customer to, and Customer will not, and will not permit third parties to: (a) modify, create derivate works of, disassemble, decompile
+or reverse engineer the Software; (b) copy the Software, except as expressly permitted herein; (c) sublicense, rent, lease or
+otherwise transfer the Software, or any portion thereof; (d) use the Software for any time-sharing or service bureau use; (e)
+exceed any licensed limitations set forth in the applicable Order Form; (f) use the Software or the Swirlds Customer Network in
+any manner outside the scope of the Customer Use Case; or (g) use the Software to create, issue or facilitate the use of cryptocurrency
+tokens. 
+
+ 
+
+2.3 
+Software
+Restrictions.
+ Access to, and use of, the Software may be limited by restrictions set forth in the applicable Order Form,
+including, without limitation, a maximum number of Nodes that may be developed and operated on the Swirlds Customer Network. Customer
+shall not use the Software in breach of any such restrictions. Customer shall be responsible and liable for the acts and omissions
+of all users (including any breach of this Agreement) with access to the Software that is provided by Customer. With prior written
+notice to Customer, the Software may contain license protection procedures that limit access to and use of the Software to that
+use permitted under this Agreement. Customer shall not circumvent or render inoperative any such protection procedures.
+
+ 
+
+2.4 
+Copies
+.
+Customer may make a reasonable number of backup copies of the Software as is consistent with Customer’s normal periodic backup
+procedures, solely for Customer’s non-active use. Customer shall maintain a log of the number and location of all originals
+and copies of the Software. Customer may reproduce or copy any portion of the Documentation into machine-readable or printed form
+for its internal use and only as required to exercise its rights hereunder. 
+
+ 
+
+2.5 
+Licensor
+Node
+. Licensor shall have the option to develop, implement, operate and maintain one or more Nodes on the Swirlds Customer
+Network for the sole purpose of tracking and auditing transactions conducted using the Swirlds Customer Network, including transactions
+on the Coro Payment System and purchases of goods and services by account holders using Coro. Licensor agrees that all information
+on the Swirlds Customer Network and Coro Payment Sytem is Confidential Information of Customer and shall be used solely for the
+monitoring purposes set forth in this Section 2.5. Licensor shall ensure that its Nodes meet all of the Customer requirements
+applicable to all Nodes on the Swirlds Customer Network and Coro Payment System.
+
+ 
+
+2.6 
+Limited
+Rights.
+ Customer’s rights in the Software will be limited to those expressly granted in this Section 2. Licensor reserves
+all rights and licenses in and to the Software not expressly granted to Customer under this Agreement.
+
+ 
+
+3. OWNERSHIP.
+
+ 
+
+3.1 Licensor
+and its third-party licensors presently own and will continue to own all worldwide right, title, and interest in and to the Software
+and all worldwide Intellectual Property Rights therein, whether or not the Software, in whole or in part, is incorporated in or
+combined with any other product. Customer will not delete or in any manner alter the copyright, trademark, and other proprietary
+rights notices of Licensor and its licensors appearing on the Software as delivered to Customer. Customer will reproduce such
+notices on all copies it makes of the Software. 
+
+ 
+
+3.2 Customer
+hereby grants Licensor a worldwide, non-exclusive, perpetual, irrevocable, sub-licensable, royalty-free license to use, modify,
+make derivative works of, and incorporate into the Software and Documentation, any feedback, input, comments and/or suggestions
+by Customer related to the Software and/or Documentation, including requests for modifications or improvements thereto.
+
+ 
+
+3.3
+All rights and licenses granted by Licensor under this Agreement are and shall be deemed to be rights and licenses to “intellectual
+property,” as such term is used in and interpreted under Section 365(n) of the United States Bankruptcy Code (the “
+Code
+”)
+(11 U.S.C. § 365(n)). Customer shall have all rights, elections, and protections under the Code and all other applicable
+bankruptcy, insolvency, and similar laws with respect to this Agreement. Without limiting the generality of the foregoing, Licensor
+acknowledges and agrees that if Licensor or its estate shall become subject to any bankruptcy or similar proceeding, subject to
+Customer’s rights of election under Section 365(n), all licenses granted to Customer under this Agreement will continue
+subject to its terms and conditions, and will not be affected, even by Licensor’s rejection of this Agreement.
+
+ 
+
+4. SUPPORT
+SERVICES.
+
+ 
+
+4.1 
+Support
+Services
+. Subject to the payment of all fees specified in the applicable Order Form, during the applicable License Term the
+Licensor will perform the maintenance and support services specified in 
+Exhibit 1
+.
+
+ 
+
+4.2
+
+Source Code
+. Throughout the applicable License Term, Licensor shall (a) make the Source Code available and accessible to
+Customer, and (b) make available all upgrades, updates or other changes to the version of the Software used by Customer.
+
+ 
+
+5. PAYMENT.
+
+ 
+
+5.1 
+License
+Fees
+. In consideration of the licenses granted under this Agreement, Customer will pay Licensor the fees and expenses set
+forth in any Order Form. 
+
+ 
+
+Page 
+2
+ of 10
+
+ 
+
+ 
+
+5.2 
+Travel
+and Incidental Expenses
+. Customer will reimburse Licensor for any reasonable out-of-pocket expenses approved in advance in
+writing by Customer incurred by Licensor in connection with performing any services at Customer’s site.
+
+ 
+
+5.3 
+Payment
+Terms
+. All undisputed payment will be made by Customer within thirty (30) days after the date of an invoice provided by Licensor.
+Customer will pay all amounts due under this Agreement in U.S. currency. All past due amounts will incur interest at a rate equal
+to the lower of 1.0% per month or the highest rate permitted by law, beginning as of ten (10) days after the applicable due date.
+
+ 
+
+5.4 
+Taxes.
+
+Customer is liable for any and all sales, use, excise, value added, or other similar taxes Licensor is required by applicable
+law to collect (and remit the applicable tax authority) in connection with this Agreement. If Customer is exempt from the payment
+of any such taxes, Customer must provide Licensor with a valid tax exemption certificate; otherwise, absent proof of Customer’s
+direct payment of such taxes to the applicable taxing authority, Licensor will invoice Customer for and Customer will pay to Licensor
+all such taxes. Notwithstanding anything to the contrary in this section, Licensor shall be solely responsible for all taxes based
+on its income.
+
+ 
+
+6. WARRANTY.
+
+ 
+
+6.1 
+Limited
+Software Performance Warranty
+. Licensor warrants that throughout the applicable License Term, the Software will function in
+all materials respects in accordance with the documentation listed on 
+Exhibit 2
+ as the same may be revised and delivered
+to Customer from time to time (the “
+Customer Documentation
+”). 
+
+ 
+
+6.2 
+Performance
+Warranty Remedy
+. Customer shall notify Licensor in writing of any claim that the Software is not functioning in accordance
+with the Customer Documentation (the “
+Warranty Notice
+”). The Warranty Notice will include sufficient
+information to allow Licensor to duplicate the defect or error. Licensor will promptly repair or replace, or create a Workaround
+(as defined in 
+Exhibit 1
+) for, any Software that fails to meet the performance warranty. If Licensor fails to correct or
+create a workaround for a defect reported by Customer within thirty (30) days after the defect was reported, Customer shall have
+the option to terminate this Agreement in which case Licensor shall refund to Customer any pre-paid license fees, pro-rated based
+on the number of days elapsed, and the number of days remaining in, the then-current License Term. If Customer exercises its termination
+option, it shall have the right to continue to use the Software under the terms of this Agreement for a transition period of up
+to 180 days, subject to Customer’s continued compliance with all of the terms and conditions of this Agreement and each
+Order From.
+
+ 
+
+6.3 
+Performance
+Warranty Limitations
+. The performance warranty shall not apply: (a) to any modifications of the Software made other than by
+Licensor or its agent or contractor; (b) if the Software is not used in accordance with the Customer Documentation or this Agreement;
+(c) if the Software has been modified, enhanced or altered by anyone other than Licensor or its agent or contractor; or (d) to
+any error or defect caused by the improper use of the Software by Customer or any third party, or any third-party software.
+
+ 
+
+6.4 
+Additional
+Representations
+. Licensor further represents and warrants that: (a) Licensor has all rights necessary to grant to Customer
+the rights and licenses granted under this Agreement; and (b) the Software does not contain any virus or other code that would
+cause the Software to become inoperable or incapable of being used in accordance with the Customer Documentation.
+
+ 
+
+6.5 
+Disclaimer
+of Warranties
+. 
+The limited warranties set forth in this Section 6 are in lieu of, and
+Licensor disclaims, all other warranties, express, implied or statutory, including but not limited to those of merchantability
+or fitness for a particular purpose.
+
+ 
+
+7. INDEMNIFICATION.
+
+ 
+
+7.1 
+Infringement
+Indemnity
+. Licensor will defend, indemnify and hold Customer harmless from and against any losses, claims, liabilities, damages,
+costs and expenses arising out of or related to any claim, suit, or action brought against Customer to the extent that it is based
+upon a claim that the Software or use of the Software, as provided by Licensor to Customer under this Agreement and used within
+the scope of this Agreement, infringes any Intellectual Property Right or other right of any third party, provided that Customer:
+(a) promptly notifies Licensor in writing of the claim; (b) grants Licensor sole control of the defense and settlement of
+the claim; and (c) provides Licensor with authority required for the defense and settlement of the claim and all reasonably requested
+assistance and information (at Licensor’s expense).
+
+ 
+
+7.2 
+Injunctions
+.
+If Customer’s use of the Software hereunder is, or in Licensor’s opinion is likely to be, enjoined due to the type
+of infringement specified in Section 7.1 above, Licensor may, at its sole option and expense: (a) procure for Customer
+the right to continue using such Software under the terms of this Agreement; (b) replace or modify such Software so that
+it is non-infringing and substantially equivalent in function to the enjoined Software; or (c) if options (a) and (b) above
+cannot be accomplished despite Licensor’s reasonable efforts, then Licensor may terminate Customer’s rights and Licensor’s
+obligations hereunder with respect to such Software and refund to Customer any pre-paid license fees, pro-rated based on the remaining
+License Term.
+
+ 
+
+7.3 
+Exclusions
+.
+Notwithstanding the terms of Section 7.1, Licensor will have no liability for, and Customer will indemnify, defend and hold Licensor
+harmless with respect to, any infringement claim of any kind to the extent it results from: (a) modification of the Software
+made other than by Licensor or its agents or contractors or with Licensor’s approval; (b) the combination, operation or
+use of any Software supplied hereunder with equipment, devices or software not supplied by Licensor to the extent such a claim
+would have been avoided if the Software were not used in such combination and only if such equipment, device or software was not
+specified or approved for use with the Software; (c) failure of Customer to use updated or modified Software provided by
+Licensor to avoid infringement; or (d) compliance by Licensor with designs, plans or specifications furnished by or on behalf
+of Customer.
+
+ 
+
+Page 
+3
+ of 10
+
+ 
+
+ 
+
+7.4 
+Sole
+Remedy
+. The provisions of this Section 7 set forth Licensor’s sole and exclusive obligations, and Customer’s
+sole and exclusive remedies, with respect to infringement of intellectual property rights of any kind.
+
+ 
+
+8. CONFIDENTIALITY.
+
+ 
+
+8.1 
+Definition
+.
+“
+Confidential Information
+” means: (a) the Software; and (b) any business or technical information
+of Licensor or Customer, including but not limited to any information relating to Licensor’s or Customer’s product
+plans, designs, costs, product prices and names, finances, marketing plans, business opportunities, personnel, research, development
+or know-how.
+
+ 
+
+8.2 
+Exclusions
+.
+Confidential Information does not include information that: (a) is or becomes generally known to the public through no fault
+or breach of this Agreement by the receiving party; (b) is known to the receiving party at the time of disclosure without
+an obligation of confidentiality; (c) is independently developed by the receiving party without use or access of the disclosing
+party’s Confidential Information; (d) the receiving party rightfully obtains from a third party without restriction on use
+or disclosure; or (e) is disclosed with the prior written approval of the disclosing party.
+
+ 
+
+8.3 
+Use
+and Disclosure Restrictions
+. During the term of this Agreement, and for a period of five (5) years after any termination of
+this Agreement, each party will not use the other party’s Confidential Information except as permitted herein, and, except
+as expressly permitted herein, will not disclose such Confidential Information to any third party, except to those of its employees,
+subcontractors and consultants as is reasonably required in connection with the exercise of its rights and obligations under this
+Agreement (and only subject to binding use and disclosure restrictions at least as protective as those set forth herein executed
+in writing by such employees and consultants). 
+
+ 
+
+8.4 
+Compelled
+Disclosure
+. Each party may disclose Confidential Information of the other party: (a) pursuant to the order or requirement
+of a court, administrative agency, or other governmental body, provided that the party responding to such order or requirement
+gives reasonable notice to the other party to contest such order or requirement; and (b) on a confidential basis to legal
+or financial advisors.
+
+ 
+
+9. LIMITATION
+OF LIABILITY.
+
+ 
+
+9.1 
+Total
+Liability
+. 
+Each party’s cumulative liability to the other Party under this agreement,
+from all causes of action and all theories of liability, will be limited to and will not exceed the amounts paid to Licensor by
+Customer pursuant to this Agreement for the Software and services which are the subject of the cause of action or claim.
+
+ 
+
+9.2 
+Exclusion
+of Damages
+. 
+in no event will either party be liable to the other party for any special,
+indirect, incidental or consequential damages (including loss of use, data, business or profits) arising out of or in connection
+with this agreement or the use or performance of the Software or services, whether such liability arises from any claim based
+upon contract, warranty, tort (including negligence), product liability or otherwise, and whether or not the party has been advised
+of the possibility of such loss or damage.
+
+ 
+
+9.3 
+Exclusions
+.
+The limitations on liability and the exclusion of damages provided in Sections 9.1 and 9.2 shall not apply to: (a) any breach
+by Customer of Section 2 (License) of this Agreement; (b) Licensor’s indemnity obligations under Section 7 (Indemnification);
+(c) a breach by either party of Section 8 (Confidentiality); or (d) any liability arising out of the fraud, gross negligence or
+willful misconduct of a party.
+
+ 
+
+9.4 
+Basis
+of Bargain
+. The parties expressly acknowledge and agree that Licensor has set its prices and entered into this Agreement in
+reliance upon the limitations of liability specified herein, which allocate the risk between Licensor and Customer.
+
+ 
+
+10. TERMINATION.
+
+ 
+
+10.1 
+Term
+.
+This Agreement will begin on the Effective Date and will remain in effect until the expiration of all License Terms specified
+in any Order Forms (including any renewal terms) executed in connection with this Agreement. 
+
+ 
+
+10.2 
+Termination
+for Breach
+. Each party will have the right to terminate this Agreement or any Software license granted hereunder if the other
+party breaches any material term of this Agreement and fails to cure such breach within thirty (30) days after written notice
+thereof.
+
+ 
+
+10.3 
+Effect
+of Termination
+. Upon any termination of this Agreement or of any license granted hereunder, Customer will promptly return
+to Licensor or, at Licensor’s request, destroy, the applicable Software and all copies and portions thereof, in all forms
+and types of media, and provide Licensor with an officer’s written certification, certifying to Customer’s compliance
+with the foregoing. In addition, upon termination of this Agreement all amounts due and owing by Customer to Licensor under this
+Agreement and all Order Forms will be immediately due and payable. 
+
+ 
+
+10.4 
+Nonexclusive Remedy
+.
+Termination of this Agreement by either party will be a nonexclusive remedy for breach and will be without prejudice to any other
+right or remedy of such party.
+
+ 
+
+10.5 
+Survival
+.
+The rights and obligations of the parties contained in Sections 2.2 2.3, 2.5, 3, 5, 7, 8, 9, 10.4, 10.5, and 11 will survive the
+termination or expiration of this Agreement.
+
+ 
+
+Page 
+4
+ of 10
+
+ 
+
+ 
+
+11. GENERAL.
+
+ 
+
+11.1 
+Assignment
+.
+Customer will have no right to assign (whether by operation of law or otherwise) this Agreement, either in whole or in part, without
+Licensor’s prior written consent. A merger, purchase or other acquisition of Customer shall not constitute an assignment
+for purposes of this Agreement; provided that, any acquisition of Customer by a direct competitor of Hedera Hashgraph, LLC, whether
+via merger, a purchase of a controlling equity interest in Customer or a purchase of substantially all of Customer’s assets,
+shall constitute an assignment of this Agreement and shall require Licensor’s prior written consent. Any attempt to assign
+this Agreement, without such consent, will be null and void.
+
+ 
+
+11.2 
+Governing
+Law and Jurisdiction
+. This Agreement will be governed by and construed in accordance with the laws of the State of Texas,
+without reference to its rules governing the conflict of laws. Any legal action or proceeding arising under this Agreement will
+be brought exclusively in the federal or state courts located in Dallas, Texas and the parties hereby consent to the personal
+jurisdiction and venue therein.
+
+ 
+
+11.3 
+Right
+to Injunctive Relief
+. Each party acknowledges that its material breach of Sections 2, 3 or 8 may likely cause irreparable
+injury to Licensor and the other party shall have the right to seek injunctive or other equitable relief in the event of any such
+material breach.
+
+ 
+
+11.4 
+Severability
+.
+If for any reason a court of competent jurisdiction finds any provision of this Agreement invalid or unenforceable, that provision
+of the Agreement will be enforced to the maximum extent permissible and the other provisions of this Agreement will remain in
+full force and effect.
+
+ 
+
+11.5 
+Waiver
+.
+The failure by either party to enforce any provision of this Agreement will not constitute a waiver of future enforcement of that
+or any other provision.
+
+ 
+
+11.6 
+Notices
+.
+All notices required or permitted under this Agreement will be in writing and delivered by courier or overnight delivery service,
+or by certified mail, and in each instance will be deemed given upon receipt. All communications will be sent to the addresses
+of the parties set forth in the applicable Order Form or to such other address as may be specified by either party to the other
+in accordance with this Section. Either party may change its address for notices under this Agreement by giving written notice
+to the other party by the means specified in this Section.
+
+ 
+
+11.7 
+Force
+Majeure
+. Except with respect to the payment of money, neither party will be responsible for any failure or delay in its performance
+under this Agreement due to causes beyond its reasonable control, including but not limited to, labor disputes, strikes, lockouts,
+shortages of or inability to obtain labor, energy, raw materials or supplies, war, riot, act of God or governmental action.
+
+ 
+
+11.8 
+Relationship
+of Parties
+. The parties to this Agreement are independent contractors and this Agreement will not establish any relationship
+of partnership, joint venture, employment, franchise, or agency between the parties. Neither party will have the power to bind
+the other or incur obligations on the other’s behalf without the other’s prior written consent.
+
+ 
+
+11.9 
+Federal
+Government Contracts; Restricted Rights
+. The Software and Documentation have been developed at private expense of Licensor
+and its third-party licensors. Any Software and Documentation that are provided for or on behalf of the United States of America,
+its agencies and/or instrumentalities (“
+U.S. Government
+”), are provided with Restricted Rights and Limited
+Rights, as applicable, and as defined under applicable law, rule or regulation. Use, duplication or disclosure by the U.S. Government
+is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause
+at DFARS Exc or subparagraphs (c)(1) and (2) of the Commercial Computer Software - Restricted Rights
+at 48 CFR 52.227-19, and DFARS 252.227-7013, 252.227-7015, 252.227-7025
+and other similar clauses, as applicable. The Software and Documentation provided to the Government are provided with limited
+rights. The Government’s rights to use, modify, reproduce, release, perform, display or disclose the Software and Documentation
+are restricted as set forth herein. Any reproduction of the Software or Documentation or portions thereof marked with this legend
+must also reproduce the markings.
+
+ 
+
+11.10 
+Export
+Control Notice
+. Customer acknowledges the Software, or any part thereof, is being released or transferred to Customer in the
+United States and is therefore subject to United States export control laws. Customer acknowledges its exclusive obligation to
+ensure that its exports are in compliance with the applicable export control laws. Customer shall defend, indemnify, and hold
+Licensor and its third party licensors harmless from and against any and all claims, judgments, awards, and costs (including reasonable
+legal, including attorneys’ fees) arising out of Customer’s noncompliance with applicable export laws with respect to the
+use or transfer of the Software outside the United States by Customer. As a condition to Customer’s obligations under this
+Section 11.10, Licensor shall notify Customer in writing of any and all applicable export restrictions to which the Software is
+subject.
+
+ 
+
+11.11 
+Audit
+Rights
+. Customer will maintain books and records in connection with its installation and use of the Software. Licensor shall
+have the right during the term of this Agreement and for up to one (1) year after the termination of this Agreement or the licenses
+granted herein, upon reasonable written notice and during normal business hours, to audit and inspect the Customer, its books
+and records and its utilization of the Software in order to verify compliance with the payment terms of this Agreement. Audits
+will be made no more than twice in any calendar year and must be completed no later than two (2) years after the period that is
+the subject of the audit. If an audit reveals that Customer has underpaid for Software based on Customer’s actual use of
+such Software, then Customer will pay Licensor, promptly upon demand by Licensor: (a) the underpaid license fees therefore, which
+fees will equal Licensor’s then-current list rates; (b) any applicable late charges; and (c) Licensor’s reasonable
+costs of conducting the audit if the underpayment exceeds 3%. If an audit reveals Customer is utilizing the Software in a manner
+not permitted under this Agreement, Customer agrees to take, at Customer’s expense, all reasonable corrective action requested
+by Licensor.
+
+ 
+
+Page 
+5
+ of 10
+
+ 
+
+ 
+
+11.12 
+Publicity
+.
+Licensor shall have the right to identify Customer as a customer on Licensor’s web site and as part of Licensor’s
+other marketing efforts, including customer lists and press releases. Customer shall be entitled to reference its use of the Software
+in its marketing and communications campaigns, provided that each use of Licensor’s name and/or logo must be approved by
+Licensor (which approval will not be unreasonably withheld or delayed). Licensor and Customer agree to issue a joint press release
+announcing this Agreement within thirty (30) days after final execution thereof. The content of such joint press release shall
+be mutually agreed upon by the parties..
+
+ 
+
+11.13 
+Customer
+Purchase Orders
+. This Agreement and each Order Form shall prevail over any additional, conflicting, or inconsistent terms
+and conditions which may appear on any purchase order or other document furnished by Customer to Licensor
+
+ 
+
+11.14 
+Counterparts;
+Electronic Signatures
+. This Agreement and each Order Form executed in connection herewith may be signed in two counterparts,
+each of which shall be deemed an original and which shall together constitute one Agreement. Signatures to this Agreement and
+each Order From may be executed by way of electronic signatures, and such signatures shall be considered original. Signatures
+transmitted by email, portable document format (.pdf), or by any other electronic means intended to preserve the original graphic
+and pictorial appearance of this Agreement or any Order From shall have the same effect as the physical delivery of a paper document
+bearing the original signatures.
+
+ 
+
+11.15 
+Entire
+Agreement
+. This Agreement and each Order Form executed in connection herewith, including all schedules, exhibits and attachments
+attached to this Agreement or any Order Form, contains the complete understanding and agreement of the parties and supersedes
+all prior or contemporaneous agreements or understandings, oral or written, relating to the subject matter herein. Any waiver,
+modification or amendment of any provision of this Agreement will be effective only if in writing and signed by duly authorized
+representatives of the parties.
+
+ 
+
+Page 
+6
+ of 10
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF
+, the parties have caused this Agreement to be executed as of the Effective Date by their duly authorized representatives.
+
+ 
+
+CORO GLOBAL, INC.
+
+ 
+
+SWIRLDS, INC.
+
+ 
+
+By:
+
+J. Mark Goode
+
+ 
+
+By:
+
+/s/ Mance Harmon
+
+Name:
+
+J. Mark Goode
+
+ 
+
+Name:
+
+Mance Harmon
+
+Title:
+
+CEO
+
+ 
+
+Title:
+
+CEO
+
+ 
+
+Page 
+7
+ of 10
+
+ 
+
+ 
+
+EXHIBIT
+1
+
+ 
+
+MAINTENANCE
+AND SUPPORT TERMS
+
+ 
+
+This
+Exhibit 1 relates to and is incorporated into the Software License Agreement (the “Agreement”). Capitalized terms
+not defined in Section 6 below have the same meaning as in the Agreement.
+
+ 
+
+1.
+COVERAGE
+
+ 
+
+Subject
+to the payment of all fees specified in the applicable Order Form, Licensor will perform the maintenance and support services
+specified in this Exhibit 1 during the applicable License Term. Licensor will provide maintenance and support services only to
+Customer and only for the Software that has been ordered and paid for by Customer.
+
+ 
+
+2.
+MAINTENANCE
+ AND SUPPORT SERVICES
+
+ 
+
+a.
+Maintenance
+ and support services consist of (a) Error Correction and E-mail and Telephone Support
+ provided to the Technical Support Contact concerning the installation and use of the
+ then-current release of the Software and the Previous Sequential Release and (b) product
+ updates that Licensor in its discretion makes generally available. Product updates consist
+ of one copy of published revisions to the printed documentation and one copy of revisions
+ to the machine readable Software that are not designated by Licensor as products for
+ which it charges a separate fee.
+
+ 
+
+b.
+A
+ New Release is a new software product that contains enhancements of the Software. Licensor
+ shall advise Customer of New Releases that it decides, in its sole discretion, to make
+ available to Customer by adding it to the Agreement. New Releases may require payment
+ of additional license fees. All product updates or New Releases provided to Customer
+ shall be governed by the terms of the Agreement, including without limitation the applicable
+ fees. Upon installation of updates or New Releases, prior versions or releases are to
+ be destroyed.
+
+ 
+
+3.
+ERROR
+ CORRECTIONS
+
+ 
+
+Licensor
+shall exercise commercially reasonable efforts to correct any Error reported by Customer in the current release of Software, and
+shall provide a corrected version of the Software to Customer immediately upon such correction. If an Error has a material adverse
+impact on Customer’s use of the Software, Licensor shall use diligent and expedited efforts to correct the Error or to provide
+a Workaround as soon as practicable.
+
+ 
+
+If
+Licensor believes that a problem reported by Customer may not be due to an Error in the Software, Licensor will so notify Customer.
+At that time, Customer may (1) instruct Licensor to proceed with problem determination at Customer’s possible expense
+as set forth below, or (2) instruct Licensor that Customer does not wish the problem pursued at Customer’s possible
+expense. If Customer requests that Licensor proceed with problem determination at Customer’s possible expense and Licensor
+determines that the problem was not due to an Error in the Software, Customer shall pay Licensor, at Licensor’s then-current
+and standard consulting rates, for all work performed in connection with such determination, plus reasonable related expenses
+incurred therewith. Customer shall not be liable for (i) problem determination or repair to the extent problems are due to
+Errors in the Software, (ii) work performed under this paragraph in excess of its instructions or (iii) work performed
+after Customer has notified Licensor that it no longer wishes work on the problem determination to be continued at Customer’s
+possible expense (such notice shall be deemed given when actually received by Licensor). If Customer instructs Licensor that it
+does not wish the problem pursued at Customer’s possible expense or if such determination requires effort in excess of Customer’s
+instructions, Licensor may, at its sole discretion, elect not to investigate the problem with no liability therefor.
+
+ 
+
+4.
+EXCLUSIONS.
+ 
+
+ 
+
+a.
+Licensor
+ shall have no obligation to support:
+
+ 
+
+i.
+altered,
+ damaged or modified Software (excluding Software altered or modified by or on behalf
+ of Licensor) or any portion of the Software incorporated with or into other software;
+
+ 
+
+ii.
+Software
+ that is not the then-current release or immediately Previous Sequential Release;
+
+ 
+
+Page 
+8
+ of 10
+
+ 
+
+ 
+
+iii.
+Software
+ problems caused by Customer’s negligence, abuse or misapplication, Customer’s
+ use of the Software other than as specified in the Customer Documentation;
+
+ 
+
+iv.
+Software
+ installed on any computing environment that is not supported by Licensor; or
+
+ 
+
+v.
+Any
+ software or application other than the licensed Software.
+
+ 
+
+b.
+Licensor
+ shall have no liability for any changes in Customer’s hardware that may be necessary
+ to use the Software due to a Workaround or maintenance update.
+
+ 
+
+5.
+DEFINITIONS
+
+ 
+
+a.
+“
+E-mail
+ and Telephone Support
+” means technical support email and telephone assistance
+ provided by Licensor to the Technical Support Contact during normal business hours concerning
+ the installation and use of the then-current release of the Software and the Previous
+ Sequential Release.
+
+ 
+
+b.
+“
+Error
+”
+ 
+means a material failure of the Software to operate in accordance with the Customer
+ Documentation.
+
+ 
+
+c.
+“
+Error
+ Correction
+” means the use of reasonable commercial efforts to correct Errors.
+
+ 
+
+d.
+“
+Fix
+”
+ means the repair or replacement of object or executable code versions of the Software
+ to remedy an Error.
+
+ 
+
+e.
+“
+Previous
+ Sequential Release
+” means at any time the release of the Software that has
+ been replaced by the then-current release of the same Software. Notwithstanding anything
+ else, a Previous Sequential Release will be supported by Licensor only for a period of
+ six (6) months after release of the then-current release.
+
+ 
+
+f.
+“
+Workaround
+”
+ means a change in the procedures followed or data supplied by Customer to avoid an Error
+ without substantially impairing Customer’s use of the Software.
+
+ 
+
+Page 
+9
+ of 10
+
+ 
+
+ 
+
+EXHIBIT
+2
+
+ 
+
+CUSTOMER
+DOCUMENTATION
+
+ 
+
+Swirlds
+Documentation Deliverables
+
+ 
+
+Introduction/Feature
+Documentation – 
+Overview of the product intended to highlight the product features and benefits at a high level.
+
+ 
+
+●
+Overview
+
+●
+Gossip
+ About Gossip
+
+●
+Virtual
+ Voting
+
+●
+Advantages
+ of Hashgraph
+
+●
+Technical
+ requirements
+
+○
+Tech
+ Report SWIRLDS-TR-2016-01 - a long description of Hashgraph, the consensus algorithm,
+ and the math proofs
+
+○
+Tech
+ Report SWIRLDS-TR-2016-02 - examples that walk through every step of the algorithm
+
+●
+Security
+ information
+
+ 
+
+User
+Documentation – 
+Guides the end user through the product.
+
+ 
+
+○
+FAQ’s
+
+○
+Troubleshooting
+ Guide 
+
+○
+Getting
+ Started
+
+○
+Quickstart
+
+○
+Installation
+
+○
+How
+ to install / recompile the example apps in Eclipse
+
+○
+How
+ to install / recompile the example apps from the command line
+
+○
+How
+ to create a new Swirlds app using the SDK and Eclipse
+
+ 
+
+API
+Documentation –
+ Details the product API for both internal and external (client and/or partner) development audiences.
+
+ 
+
+○
+References
+
+○
+Platform
+
+○
+SwirldMain
+
+○
+SwirldState
+
+○
+The
+ javadoc for the various platform classes that apps use
+
+○
+Advanced
+ development: optimizing FastCopyable classes
+
+○
+Key
+ management
+
+○
+Libraries
+ used by the SDK
+
+ 
+
+ 
+
+Page
+10 of 10

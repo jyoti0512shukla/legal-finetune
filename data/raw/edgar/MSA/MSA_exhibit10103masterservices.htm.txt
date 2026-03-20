@@ -1,0 +1,1772 @@
+EX-10.103
+
+3
+
+exhibit10103masterservices.htm
+
+EX-10.103 MASTER SERVICE AGREEMENT DXC
+
+Document
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+[Certain confidential portions of this exhibit have been redacted pursuant to Item 601(b)(10)(iv) of Regulation S-K and marked with asterisks. The omitted information (i) is not material and (ii) would likely cause us competitive harm if publicly disclosed.]
+AMENDED AND RESTATED MASTER SERVICES AGREEMENT
+BY AND BETWEEN
+CUSTOMER AND PROVIDER
+This Amended and Restated Master Services Agreement (
+“Master Agreement”
+) is entered into as of August 1, 2020 (the 
+“Effective Date”
+), by and between:
+1.    Sabre GLBL Inc., a Delaware, on behalf of itself and its Affiliates; 
+AND
+2.    DXC Technology Services LLC, a Delaware limited liability company (
+“Provider”
+).
+The Parties agree to the terms and conditions set forth in this Master Agreement (including the Exhibits referenced in this Master Agreement), and in each Service Agreement (including the Schedules referenced in each Service Agreement) executed by the Parties that references this Master Agreement. Capitalized terms used herein have the meaning set forth in the “
+Definitions
+” 
+Exhibit
+ (
+Exhibit 1)
+ to this Master Agreement.
+Signed for and on behalf of Customer: 
+Signature: /s/ Doug Barnett
+Name:     Doug Barnett
+Title:     Executive Vice President and Chief Financial Officer
+Date: 12/10/20
+Signed for and on behalf of Provider:
+Signature: /s/ David Swift
+Name:     David Swift
+Title:     Vice President and General Manager, Americas
+Date: 12/10/20
+ 
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+TABLE OF CONTENTS
+1
+DEFINITIONS
+1
+2
+CONTRACT DOCUMENTS; STRUCTURE OF AGREEMENT
+1
+2.1.
+Contract Documents
+1
+2.2.
+International Agreements
+1
+2.3.
+Priority
+2
+2.4.
+Amendment and Restatement of Prior Agreement
+3
+3
+TERM OF AGREEMENT
+4
+3.1.
+Term of Master Agreement
+4
+3.2.
+Term of Service Agreement
+4
+3.3.
+Extension of Service Agreement
+4
+4
+THE SERVICES
+4
+4.1.
+Services
+4
+4.2.
+New Services
+6
+4.3.
+Performance and Service Levels
+7
+4.4.
+Customer Policies
+8
+4.5.
+Provider to Provide and Manage Necessary Resources
+8
+4.6.
+Reports
+8
+4.7.
+Development and Maintenance of Procedures Manual
+9
+4.8.
+Provider Excused Performance
+9
+5
+SERVICE LOCATIONS
+10
+5.1.
+Service Locations; Facilities
+10
+5.2.
+Use of Customer Facilities
+12
+5.3.
+Shared Service Locations
+14
+6
+CONTINUED PROVISION OF SERVICES
+14
+6.1.
+Disaster Recovery and Business Continuity Services
+14
+6.2.
+Force Majeure
+15
+6.3.
+No Payment for Unperformed Services
+16
+6.4.
+Allocation of Resources
+16
+7
+COMPLIANCE WITH LAWS
+16
+7.1.
+Compliance Generally
+16
+7.2.
+Changes in Laws
+17
+8
+CHARGES; NEW SERVICES; INVOICES; AND PAYMENTS
+18
+8.1.
+Charges
+18
+8.2.
+Invoices
+18
+8.3.
+Taxes
+18
+8.4.
+Market Currency and Benchmarking Procedures
+23
+8.5.
+Service Level Credits
+23
+8.6.
+Rights of Set-Off
+23
+8.7.
+Disputed Charges/Credits
+23
+8.8.
+Changes in Customer Business
+24
+9
+PROVIDER OBLIGATIONS
+25
+ 
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+9.1.
+Cooperation and Good Faith
+25
+9.2.
+Services
+25
+9.3.
+Continuous Improvement
+25
+9.4.
+Technology; Best Practices
+26
+9.5.
+No Solicitation
+26
+9.6.
+Export; Regulatory Approvals
+26
+9.7.
+Malware
+28
+9.8.
+Data
+28
+9.9.
+Services Not to be Withheld
+28
+10
+REPRESENTATIONS AND WARRANTIES
+29
+10.1.
+Representations and Warranties of Customer
+29
+10.2.
+Representations and Warranties of Provider
+29
+10.3.
+Pass-Through Warranties
+34
+10.4.
+Disclaimer
+35
+11
+TRANSITION AND TRANSFORMATION
+35
+11.1.
+Transition Generally
+35
+11.2.
+Transformation
+36
+12
+GOVERNANCE
+37
+12.1.
+Account Governance
+37
+12.2.
+Provider Client Executive
+37
+12.3.
+Customer Technical Alliance Manager
+38
+12.4.
+Provider Client Executive and Customer Technical Alliance Manager Meetings
+38
+12.5.
+Governance and Committees
+39
+12.6.
+Technology Governance; New Technology
+39
+13
+RELATIONSHIP PROTOCOLS
+40
+13.1.
+Alternate Providers; Provider Cooperation
+40
+13.2.
+Personnel Resources
+41
+13.3.
+Use of Provider Agents
+43
+13.4.
+Contract Management
+45
+13.5.
+Required Consents
+45
+13.6.
+Change Control Procedures
+46
+14
+INSPECTIONS AND AUDITS
+48
+14.1.
+Audit Rights
+48
+14.2.
+Audit Procedures
+51
+15
+TECHNOLOGY; INTELLECTUAL PROPERTY RIGHTS
+55
+15.1.
+Technology – Allocation and Refresh
+55
+15.2.
+Customer Materials
+55
+15.3.
+Provider Materials
+57
+15.4.
+Proprietary Rights
+60
+15.5.
+Source Code
+61
+16
+CONFIDENTIALITY AND DATA
+61
+16.1.
+Obligations
+61
+16.2.
+Exclusions
+62
+ 
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+16.3.
+Residual Knowledge
+63
+17
+DATA OWNERSHIP AND SECURITY
+64
+17.1.
+Data Ownership; Customer Data
+64
+17.2.
+Loss of or Unauthorized Access to Company Information
+65
+17.3.
+Limitation
+68
+17.4.
+Data Privacy
+68
+17.5.
+Legal Support
+69
+18
+TERMINATION
+69
+18.1.
+Termination by Customer
+69
+18.2.
+Termination by Provider
+71
+18.3.
+Equitable Adjustments in the Event of Termination
+71
+18.4.
+Winddown Expenses
+71
+18.5.
+Termination Assistance Services
+72
+18.6.
+Other Rights Upon Termination
+74
+18.7.
+Effect of Termination/Survival of Selected Provisions
+75
+19
+LIABILITY
+76
+19.1.
+Liability Caps
+76
+19.2.
+Exclusions; Damages Calculation
+78
+19.3.
+Remedies
+80
+20
+INDEMNITIES
+81
+20.1.
+Indemnity by Provider
+81
+20.2.
+Indemnity by Customer
+84
+20.3.
+Indemnification Procedures
+86
+20.4.
+Customer Assumption of Defense
+87
+21
+INSURANCE AND RISK OF LOSS
+88
+21.1.
+Provider Insurance
+88
+21.2.
+Risk of Property Loss
+89
+21.3.
+Waiver of Subrogation
+89
+22
+GOVERNING LAW; DISPUTE RESOLUTION
+90
+22.1.
+Governing Law
+90
+22.2.
+Disputes in General
+90
+23
+GENERAL
+90
+23.1.
+Relationship of Parties
+90
+23.2.
+Entire Agreement, Updates, Amendments and Modifications
+91
+23.3.
+Waiver
+91
+23.4.
+Severability
+91
+23.5.
+Counterparts
+91
+23.6.
+Binding Nature and Assignment
+91
+23.7.
+Notices
+92
+23.8.
+No Third Party Beneficiaries
+94
+23.9.
+Rules of Construction
+94
+23.10.
+Further Assurances
+94
+23.11.
+Expenses
+95
+ 
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+23.12.
+References to Sections, Exhibits and Schedules
+95
+23.13.
+Parental Guarantee
+95
+EXHIBITS TO THE MASTER AGREEMENT
+1    DEFINITIONS
+2    FORM OF SERVICE AGREEMENT 
+3    ACCOUNT GOVERNANCE 
+4    CHANGE CONTROL PROCEDURES
+5    ACCEPTANCE TEST PROCEDURES
+6    DISPUTE RESOLUTION PROCEDURES
+7    INFORMATION SECURITY REQUIREMENTS 
+8    MARKET CURRENCY PROCEDURES
+9    CUSTOMER POLICIES
+10    BACKGROUND INVESTIGATIONS
+11    PRIVACY REQUIREMENTS
+12     INSURANCE REQUIREMENTS
+ 
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+1.    DEFINITIONS
+All capitalized terms used in this Master Agreement (or any Exhibit hereto) and not defined shall have the meanings set forth in the “
+Definitions
+” 
+Exhibit
+. All capitalized terms used in a Service Agreement (or any Schedule thereto) and not defined shall have the meanings set forth in the “
+Definitions
+” 
+Exhibit 
+or in the “
+Definitions
+” 
+Schedule
+ to the applicable Service Agreement. 
+2.    CONTRACT DOCUMENTS; STRUCTURE OF AGREEMENT
+2.1.    
+Contract Documents
+(a)    Master Agreement
+This Master Agreement, which includes the Exhibits hereto, sets forth the terms and conditions pursuant to which the Parties may enter into Service Agreements for the provision of Services. 
+(b)    Service Agreements
+Services will be provided by Provider in accordance with this Master Agreement and one or more supplements to this Master Agreement entered into by and between Customer (or another member of the Customer Group) and Provider, each substantially in the form of the “
+Form of Service Agreement
+” 
+Exhibit
+, and including the Schedules thereto (each, a 
+“Service Agreement”
+). The terms and conditions of a particular Service Agreement apply only to such Service Agreement. The Customer Group member executing a Service Agreement hereunder shall be individually liable for its obligations under such Service Agreement, however, with respect to any individual Service Agreement, Customer will remain liable for all members of the Customer Group receiving Services under such Service Agreement, including the Charges therefor. 
+(c)    Agreement
+The term 
+“Agreement”
+ means collectively, the Master Agreement, the Service Agreements, the Procedures Manuals and all Change Orders, which documents are incorporated into the “Agreement” by this reference. 
+2.2.    
+International Agreements
+ 
+(a)    Implementation
+To implement the Agreement for Services provided by Provider outside the United States, as mutually agreed to by Customer and Provider, and to implement changes as appropriate to reflect differences in local laws, regulations and taxes or customary business practices or the scope of Services provided in each such country in which a Service Agreement is to be implemented (“
+Local Differences
+”): (i) the respective Affiliates of Customer and Provider in each such country may execute an 
+Page 1
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+agreement or, in the case of jurisdictions where such an agreement already exists in respect of the Prior Agreement, an amendment (each, as amended from time to time, an 
+“International Agreement”
+) acceding to some or all of the terms and conditions of the Agreement in order to document agreed Local Differences or the performance of the Agreement between specific Affiliates of each of Customer and Provider on a local level, or (ii) Customer and Provider may adopt an amendment to the Agreement to be applicable for only specifically agreed countries in order to document agreed Local Differences to be applicable with respect to the performance of the Agreement in each such country. No such International Agreement is intended, nor shall any International Agreement be interpreted, to duplicate, enlarge, reduce or eliminate any responsibilities of either of the Parties under the Agreement except as required by local law or regulation. Performance or fulfillment by a Party or, on behalf of Provider by its delegate, of any obligation under the Agreement shall be considered performance or fulfillment of the corresponding obligation under the relevant International Agreement. Performance or fulfillment of any obligation by a party to the relevant International Agreement shall be considered performance or fulfillment of the corresponding obligation under this Agreement. Correspondingly, any defense, excuse or remedy available under the Agreement shall be available as a defense, excuse or remedy to the corresponding obligation under any International Agreement, provided that any such defenses, excuses or remedies and any and all claims under any International Agreement shall be exercised, invoked or asserted exclusively by the Parties to the Agreement under the procedures set forth in the Agreement. Any claim, defense, excuse or remedy available under any International Agreement shall be available to the Parties as a claim, defense, excuse or remedy to the corresponding obligation under the Agreement, provided, however, that the Parties hereby waive, to the fullest extent permitted by law, any claims, defenses, excuses or remedies available under local law of the country in which the International Agreement is to be performed and not set forth in the Agreement or the International Agreement at issue or otherwise provided by the laws of the United States or the State of Texas. Except as mandated by local laws or regulations, any International Agreements entered into are not intended to change in any substantive manner the terms and conditions of the Agreement, and any such purported changes shall not be effective without a written agreement between Customer Technical Alliance Manager and Provider Client Executive. 
+(b)    Prior Agreement
+After the Effective Date, if either Party perceives the need therefor, the Parties agree to discuss in good faith the implementation of International Agreements or additional amendments to the Agreement to document Local Differences. The Parties agree and acknowledge that references to the Prior Agreement (as defined below) in each International Agreement shall be deemed to be references to this Agreement after the Effective Date, and that the Parties will take any steps reasonably necessary to carry out this intent in the local jurisdictions (if any). 
+2.3.    
+Priority
+Page 2
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+In the event of a conflict: (i) the terms of this Master Agreement shall govern over the terms of the Exhibits; (ii) the terms of a Service Agreement shall govern over the terms of its Schedules; (iii) the terms of this Master Agreement shall govern over the terms of each Service Agreement, unless the Service Agreement expressly and specifically notes the deviation(s) from the terms of this Master Agreement on a “
+Deviations From Master Agreement
+” 
+Schedule
+ to such Service Agreement; and (iv) this Master Agreement and the applicable Service Agreement(s) shall govern any Change Order, unless the Change Order expressly and specifically references the provisions of such documents which are to be superseded or amended.
+2.4.    
+Amendment and Restatement of Prior Agreement
+ 
+(a)    Customer and Provider entered into that certain Master Services Agreement, dated November 1, 2015, as amended prior to the Effective Date of this Master Agreement and including the Schedules thereto (the 
+“Prior Agreement”
+). The Parties entered into an amendment to the Prior Agreement effective as of August 1, 2020, pursuant to which the Parties agreed to revise key commercial terms and conditions, including the Term, the scope of services, pricing and new ITTP Projects. As part of such amendment, the Parties further agreed to undertake a post-signing review of the Prior Agreement documents to address descriptions of services and obligations that, pursuant to amendments and other agreed upon changes, (i) have been previously removed from scope in their entirety, (ii) have been revised and so are not accurately reflected in such documents or (iii) otherwise require updating. The Parties acknowledged and agreed that although the post-signing review and formal amendment may require a few months to complete, it would be effective as of August 1, 2020. As a result of such post-signing review, the Parties have entered in this Master Agreement in order to amend and restate the Prior Agreement in its entirety effective as of August 1, 2020. 
+(b)    Neither Customer nor any Affiliate of Customer shall be responsible for any termination charges, wind down costs or other termination related charges or expenses associated with the amendment and restatement of the Prior Agreement and Provider hereby waives any minimum commitment (or similar rights), termination notices or other payment or termination related provisions in the Prior Agreement in connection with such amendment and restatement of the Prior Agreement. 
+(c)    For the avoidance of doubt, neither Party, as a result of entering into this Master Agreement, will be deemed to have waived, or to have released the other Party from, any claim, issue or dispute arising after the Effective Date of this Master Agreement but relating to periods during the term of the applicable Prior Agreement, which such claims, issues or disputes shall be governed by this Master Agreement (except as otherwise set forth in this Master Agreement). Except as expressly set forth in the preceding sentence, this Master Agreement 
+Page 3
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+shall govern all other claims, issues and disputes hereunder arising after the Effective Date. Notwithstanding anything to the contrary herein or in the Prior Agreement, any Company Information of one Party or its Affiliates that is, as of the Effective Date of this Master Agreement, in the possession of or under the control of the other Party shall become subject to the terms of 
+Section 16
+ of this Master Agreement.
+ 
+3.    TERM OF AGREEMENT
+3.1.    
+Term of Master Agreement
+Unless earlier terminated in accordance with the provisions of this Master Agreement, this Master Agreement will commence as of the Effective Date and will remain in effect until the later of: (i) December 31, 2030; or (ii) the anniversary of the first date on which no Service Agreement is in effect between the Parties (the 
+“Term”
+).
+3.2.    
+Term of Service Agreement
+The term for each Service Agreement shall be as set forth therein, unless such Service Agreement is earlier terminated or extended in accordance with the provisions of this Master Agreement or such Service Agreement (the 
+“Service Agreement Term”
+).
+ 
+3.3.    
+Extension of Service Agreement
+Customer may, at its sole option, extend the Service Agreement Term for a particular Service Agreement for up to three additional terms of up to 12 months each (each, an 
+“Extension Period”
+), by providing Notice to Provider at least 60 days prior to the scheduled expiration of the then-current Service Agreement Term. Any such Extension Period shall be on the terms, conditions and pricing in effect at the time of the commencement of such Extension Period, subject to any annual cost of living or other adjustment provided for in the “
+Charges
+” 
+Schedule
+ to such Service Agreement, and shall be considered an extension of the Service Agreement Term.
+4.    THE SERVICES
+4.1.    
+Services
+(a)    Obligation to Provide Services
+Starting on the Commencement Date of each Service Agreement and continuing throughout the Service Agreement Term, Provider shall provide the Services to Customer and to other members of the Customer Group designated by Customer. The Parties acknowledge and agree that there are functions, responsibilities, activities and tasks not specifically described in the Agreement that are required for the proper performance and provision of the Services and are a necessary, customary part of the Customer Group’s business or an inherent part of, or a necessary sub-part included within (i) any New Service, or (ii) with respect to the Services provided under Service Agreement No. 1, any 
+Page 4
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+Service as of August 1, 2020 that is consistent with historical practices and, with respect to Services provided under any other Service Agreement, the Commencement Date of the applicable Service Agreement. Such functions, responsibilities, activities and tasks, shall be deemed to be implied and included within the scope of the Services to the same extent and in the same manner as if specifically described in the Agreement, and shall include (without limitation) all of the services, functions, processes, and responsibilities performed by Provider under Service Agreement No. 1 at any time during the twelve (12) month period prior to August 1, 2020 unless and when (A) expressly changed in this Agreement or (B) clearly no longer applicable due to the changes in the Services under the Transformation Plan or other evolution of Services hereunder. 
+(b)    Affiliate Participation
+(i)    If Customer or any Affiliate of Customer merges with or otherwise acquires a Person or assets from a Third Party (an 
+“Acquired Business”
+), then, at Customer’s election, such Acquired Business will become subject to this Agreement as a member of the Customer Group and: (i) the Services shall be provided to the Acquired Business; and (ii) (A) the Charges shall be adjusted in accordance with the terms of the Agreement and the applicable charging methodologies; or (B) if there are material changes in volumes of Services requested, the costs to deliver the Services, or the manner in which Services are delivered, resulting from the integration of such Acquired Business that are not contemplated by clause (A), the Parties will renegotiate in good faith all affected Charges to account for those material changes in accordance with the Change Control Procedures. Charges for the integration of such Acquired Business will be handled on a Project basis, according to the terms and pricing under the applicable Service Agreement. If the Acquired Business is a party to an agreement with Provider and the services under such agreement are integrated with the Services, then any termination charges under such agreement shall be waived.
+(ii)    If Customer or any Affiliate of Customer divests or no longer Controls one or more Affiliates or other asset, operation or entity that was receiving Services under the Agreement (a 
+“Divested Business”
+), then, at Customer’s election, Provider shall continue to provide Services to such Divested Business, pursuant to a subcontract between Customer and the Divested Business, for the period requested by Customer, not to exceed 24 months after the closing date of such transaction (the 
+“Divestiture Period”
+). Provider shall provide the Services to the Divested Business in accordance with the terms and conditions (including pricing) of the Agreement (the terms of which, notwithstanding anything to the contrary set forth in the Agreement, may be disclosed to such Divested Business and its acquirer). Customer will continue to be responsible for the Divested Business under the Service Agreement, including the Charges for 
+Page 5
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+such Services (based on existing charging methodologies), unless Provider and the Divested Business (or the acquirer of such Divested Business) enter into a separate agreement for provision of such Services. In such event, or upon the conclusion of the Divestiture Period, the applicable Service Agreement(s) shall be modified to reflect the reduction in Services and Charges.
+(c)    Authorized Recipients
+Customer Group’s rights under this Agreement include, without limitation, the right for Customer Group to: (i) include any Services in, or use any Services to offer or provide, any offering of products, services, information or associated access rights that are offered or provided by Customer Group to Authorized Recipients (or to perform contractual obligations to Authorized Recipients); or (ii) use any Services to receive products, services, information or associated access rights from Authorized Recipients (or to receive performance of contractual obligations by Authorized Recipients). Customer shall be responsible to Provider for any such use or access by Authorized Recipients.
+Page 6
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+4.2.    
+New Services
+(a)    Procedures
+If Customer requests that Provider perform any New Services reasonably related to the Services or other services generally provided by Provider, Provider shall, after receiving each request for New Services from Customer, either (i) promptly provide Notice to Customer that Provider will not bid on the New Services (each, a 
+“No Bid”
+), or (ii) prepare, at no additional charge to Customer, a New Services proposal for Customer’s consideration within ten Business Days of Customer’s request (unless a longer period of time is agreed upon by the Parties). Provider’s New Services proposal shall include the elements set forth in 
+Section 4.2(b)
+ below, unless otherwise agreed by the Parties. Customer may accept or reject any New Services proposal in its sole discretion and Provider shall not be obligated to perform any New Services to the extent the proposal is rejected. If Customer accepts Provider’s proposal, Provider will perform the New Services and will be paid in accordance with the proposal submitted by Provider, or other terms as may be agreed upon by the Parties, and the applicable provisions of the Agreement. Upon Customer’s acceptance of a New Services proposal, the scope of the Services will be expanded to include such New Services and such accepted New Services proposal will be documented in a Change Order or in a new Service Agreement, as applicable. Notwithstanding any provision to the contrary: (i) Provider shall act reasonably and in good faith in formulating its pricing proposal, (ii) Provider shall use commercially reasonable efforts to identify potential means of reducing the cost to Customer, including utilizing Provider Agents as and to the extent appropriate, (iii) such pricing proposal shall be no less favorable to Customer than the lowest pricing and labor rates set forth in the Agreement for comparable or similar Services, and (iv) such pricing proposal shall take into account the existing and future volume of business between Customer and Provider.
+(b)    New Service Proposal
+Provider’s proposal for New Services requested by Customer shall include the following, as applicable:
+(i)    a detailed description of the implementation services and on-going services that Provider anticipates performing in connection with such New Services;
+(ii)    a commercially reasonable schedule and Transition Plan for implementing the New Services;
+(iii)    Provider’s proposed charges for such New Services (in accordance with 
+Section 4.2(a)
+), including a detailed breakdown of any such charges (which shall be quoted as a fixed fee or on a “time and materials” basis, as requested by Customer);
+Page 7
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(iv)    an estimate of Provider’s human resources necessary to provide such new Services, including implementation and on-going services;
+(v)    a description of any new or additional Software, tools, Equipment or other resources required for Provider to implement and provide such New Services; and
+(vi)    any other information reasonably requested by Customer.
+4.3.    
+Performance and Service Levels
+(a)    Service Levels
+Provider agrees that the performance of the Services will meet or exceed each of the applicable Service Levels set forth in the “
+Service Level Agreement
+” 
+Schedule
+ to each Service Agreement, subject to the limitations and in accordance with the provisions set forth in the Agreement. In addition, Provider will, on a continuous basis, and at no additional charge (i) identify ways to improve the Service Levels and (ii) identify and apply proven techniques and tools from other installations within its operations that would benefit Customer Group either operationally or financially. Any changes to the Service Levels are subject to Customer’s approval. Provider will provide all Services without expressly defined Service Levels with at least the same degree of accuracy, quality, completeness, timeliness, responsiveness and efficiency as the level provided prior to the Effective Date by or for Customer Group. Provider will perform all tasks necessary to complete the Services in a timely and efficient manner, using standard methodology and tools.
+(b)    Modification of Service Levels
+The Service Level Agreement for each Service Agreement will include procedures for implementing changes, modifications, deletions and replacements of and additions to, the Service Level and associated Service Level Credits.
+(c)    Performance Monitoring
+Provider shall implement and operate all measurement and monitoring tools and procedures required to measure and report its performance relative to the applicable Service Levels, such that such measurement and reporting is clear and unambiguous and reasonably supported by objective data. To the extent not specified in the Service Level, Provider will use market standard measurement and monitoring tools where available, so long as such measurement and reporting tools provide clear and unambiguous reporting reasonably supported by objective data. The Service Level measurement, monitoring and reporting processes will be subject to audit by Customer in accordance with 
+Section 14
+.
+Page 8
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(d)    Performance Reports
+Each Service Level will be measured on at least a monthly basis, unless otherwise indicated in the applicable Service Agreement. Provider shall provide, as part of Provider’s monthly performance reports, a set of hard- and soft-copy reports to verify Provider’s performance and compliance with the Service Levels 
+(“Performance Reports”
+). Provider shall provide Customer Group access to any details or supporting information used to generate such Performance Reports.
+4.4.    
+Customer Policies
+Provider shall perform the Services in accordance with all policies and procedures of general application of Customer Group as set forth in the “
+Customer Policies
+” 
+Exhibit
+, (collectively, 
+“Customer Policies”
+) and, subject to the Change Control Procedures, such amendments, updates and changes thereto, as published by Customer Group from time to time. For the avoidance of doubt, the Change Control Procedures shall govern the method of implementation and pricing with respect to amendments, updates and changes to the Customer Policies, but will not grant Provider any right to refuse to implement changes necessary to comply with amendments, updates and changes to the Customer Policies.
+4.5.    
+Provider to Provide and Manage Necessary Resources
+Except as otherwise provided in the Agreement, Provider will have the responsibility and obligation to provide and administer, manage, support, maintain and pay for all resources (including personnel, hardware, software, facilities, furniture, fixtures, Equipment, space and all upgrades, improvements, replacements services and other items, however described) necessary or appropriate for Provider to provide, perform and deliver the Services. 
+4.6.    
+Reports
+Provider will provide those reports generally identified in the Agreement, including in the “
+Reports
+” 
+Schedule
+ to each Service Agreement, and such additional reports as agreed by the Customer Technical Alliance Manager and the Provider Client Executive during the Transition period and from time to time during the applicable Service Agreement Term (
+“Reports”
+), in accordance with the requirements (including any timing requirements) set forth in the Agreement, including in the “
+Reports
+” 
+Schedule
+ to each Service Agreement. Such Reports shall include: (i) reports detailing Provider’s compliance with the Agreement, including the Performance Reports, and Provider’s compliance with its responsibilities under the Service Agreement(s), Provider’s regulatory requirements, Customer Compliance Requirements, Security Requirements, and such other aspects of the Services that Customer reasonably requests; and (ii) reports regarding Software compliance, Asset inventory, Software usage and Asset usage. For any Reports to be provided with a frequency of monthly or longer, such Reports and other documentation must be available in electronic format and provided to Customer in accordance with the agreed schedule for such Reports. With regard to Reports documenting Provider’s performance, Provider will set forth any deviations from the performance requirements and include a plan for corrective action where such deviations are material. 
+Page 9
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+Provider will provide those Reports identified in the “
+Reports
+” 
+Schedule
+ as being “current” or “standard” during the first month following the applicable Commencement Date. Provider will provide all other reports identified in the “
+Reports
+” 
+Schedule
+ within the time frame identified therein or, if not identified, within 60 days of the applicable Commencement Date,
+ 
+except to the extent that such Reports are to be provided less frequently than monthly, which Reports will be provided at the next scheduled time thereafter.
+4.7.    
+Development and Maintenance of Procedures Manual
+The operational policies and procedures applicable to the provision of the Services described in each Service Agreement shall be set forth in an operational procedures manual to be developed by Provider in accordance with the “
+Procedures Manual Requirements
+” 
+Schedule
+ and the “
+Transition
+” 
+Schedule
+, subject to the review and written approval of Customer (each, as approved by Customer, a 
+“Procedures Manual”
+). Provider will be responsible for the preparation, accuracy, maintenance and currency of the Procedures Manuals and will prepare and provide to Customer, in both print and electronic formats, proposed updates thereto as necessary to reflect any substantive changes therein or improvements thereto within a reasonable time prior to the implementation of such changes. Either Party may, from time to time, request updates or amendments to the Procedures Manuals. Changes to the Procedures Manuals will be made in accordance with the Change Control Procedures. Provider will perform its obligations under this 
+Section 4.7
+, including any obligations required through the Change Control Procedures, at no cost to Customer. To the extent any portion of the Procedures Manuals does not constitute Work Product, and notwithstanding any other provisions in the Agreement to the contrary, Provider hereby grants to Customer Group an irrevocable, perpetual, nonexclusive, worldwide, paid-up license to use, execute, operate, reproduce, display, perform, modify, develop, and personalize the Procedures Manuals.
+ 
+4.8.    
+Provider Excused Performance
+ 
+Except as provided in the remainder of this Section, Provider shall be responsible for the performance of the Services in accordance with the Agreement even if such Services are actually performed or dependent upon services performed by Provider Agents or Third Party Providers for whom Provider is financially or operationally responsible under the Agreement. Customer will perform its duties, obligations and responsibilities (
+“Responsibilities”
+) set forth in the Agreement. An act (other than in accordance with this Agreement), error or omission by Customer (or by a third party supplier independently hired by Customer in connection with performance of a Responsibility), or a failure by Customer to perform any Responsibilities (in each instance, a 
+“Customer Failure”
+), will excuse Provider’s obligation to perform its obligations under the Agreement only if and to the extent Provider: (i) provides Notice to Customer of such Customer Failure within 72 hours after it first knew of, or should have known of (given the scope of its responsibilities), such Customer Failure (which Notice shall describe the effect of such Customer Failure on Provider’s performance); (ii) provides Customer with every reasonable opportunity to correct such Customer Failure and mitigate the effect of such Customer Failure on Provider’s performance; (iii) demonstrates that such Customer Failure was the direct cause of Provider’s inability to perform and that neither Provider nor any Provider 
+Page 10
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+Agent contributed to or caused such Customer Failure; (iv) identifies and pursues all commercially reasonable means to avoid or mitigate the impact of such Customer Failure; and (v) uses commercially reasonable efforts to perform notwithstanding such Customer Failure. Provider’s sole remedy for any Customer Failure shall be the excuse provided for in this paragraph.
+5.    SERVICE LOCATIONS 
+5.1.    
+Service Locations; Facilities 
+(a)    Service Locations
+Provider shall support, and provide Services to, the Customer Group locations specified in the “
+Service Locations
+” 
+Schedule
+ to the applicable Service Agreement. To the extent that Provider is providing on-site support Services to Customer Group at any such locations, such locations shall be identified in the “
+Service Locations
+” 
+Schedule
+.
+(b)    Facilities 
+Provider shall provide the Services only at or from the Facilities specified in the applicable “
+Facilities
+” 
+Schedule
+. 
+(c)    Offshore Plan
+Each Service Agreement that contemplates the provision of Services from any offshore Facilities shall include an offshore plan as part of the “
+Facilities
+” 
+Schedule
+ that provides, in reasonable detail: (i) the specific Services to be provided at each offshore Facility; (ii) the percentage of each Service that will be migrated to such offshore Facility; (iii) the timeframe within which each Service will migrate from the onshore Facility to such offshore Facility; (iv) the quality control and risk mitigation procedures to be followed by Provider in migrating Services offshore; and (v) any other relevant detail agreed upon by the Parties (the 
+“Offshore Plan”
+)
+.
+ Provider is not required to obtain Customer’s approval to migrate Services offshore to the extent such migration is part of the Offshore Plan and is conducted in accordance with the Offshore Plan. Any material changes to the Offshore Plan will be subject to the Change Control Procedures.
+(d)    Other Offshore Considerations
+In addition to the above, the Offshore Plan may include a maximum percentage of each Service that may be migrated to a particular offshore Facility. In such event, Provider may continue to migrate such Services (up to the maximum percentage) from an onshore Facility to such offshore Facility upon Notice to Customer (but without requiring Customer approval), even if such migration occurs after the date set forth in the Offshore Plan, provided the migration is in accordance with the other requirements of the Offshore Plan, including the quality control and risk mitigation procedures. 
+Page 11
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(e)    Storage and Processing of Customer Data
+[***] For the avoidance of doubt, Provider may Process any Customer Data which is not Personally Identifiable Information solely at or from a Facility. In addition to and without limitation of the foregoing, any and all Processing of Customer Data by Provider and Provider Agents shall be limited to such Processing as is necessary to perform and provide the Services to Customer Group and to otherwise fulfill Provider’s obligations under the Agreement. 
+(f)    Facility Relocation
+The Parties shall use the Change Control Procedures to add, change or delete Facilities (each, a 
+“Facility Relocation”
+), provided, however, that Customer may withhold its consent, in its sole discretion, (i) to any Facility Relocation involving a Data Center (or any physical assets within the Data Center or any Services provided via operation of those physical assets); (ii) as set forth in paragraph (e) above with respect to storage or Processing of Personally Identifiable Information. In connection with any proposed Facility Relocation or Service Relocation, Provider shall address in writing to Customer the impact of any such move on Customer (including cost and timing of any such move and any potential impact of such move on the Disaster Recovery Services). 
+(g)    Services Relocation 
+The Offshore Plan may include a list of those Services that are approved for Provider performance at or from each Facility. The Parties shall use the Change Control Procedures to move Services to another Facility (a 
+“Service Relocation”
+)
+ 
+and any such move shall require Customer’s prior written consent, in its reasonable discretion and in accordance with the Change Control Procedures, unless such Service Relocation is provided for and conducted in accordance with the Offshore Plan, in which case Provider shall Notify Customer prior to the Service Relocation, but no such consent from Customer shall be required. Provider shall be financially responsible for all additional costs, taxes or expenses resulting from any Provider-initiated Facility Relocation, Service Relocation or relocation to an Alternate Facility (as defined in the applicable Offshore Plan), including any costs or expenses incurred or experienced by Customer Group as a result of such relocation. Customer shall be financially responsible for all additional costs, taxes or expenses resulting from any Customer-initiated Facility Relocation or Service Relocation. The consent requirements of this 
+Section 5.1(g)
+ are in addition to and without limitation of the other consent requirements set forth in this 
+Section 5
+. 
+(h)    Physical Safety and Security
+Provider will maintain and enforce at the Provider Facilities physical safety and security procedures that are at least equal to industry standards for locations similar to the Provider Facilities and any higher standard agreed on by the Parties, and that otherwise comply with the Security Requirements.
+Page 12
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(i)    Offshore Facilities; Customer-Required Relocation. 
+(i)    Without limitation of the other provisions of this 
+Section 5
+, no Services will be provided in any offshore Facility without the prior written consent of Customer, in its reasonable discretion (or, in those cases in which Customer’s sole consent is required, in its sole consent), unless and to the extent specified in the “
+Facilities
+” 
+Schedule
+. Provider will be responsible for obtaining any and all necessary approvals, and for complying with any and all necessary approvals, and for complying with any and all applicable Laws, including any export and import control Laws, associated with providing Services from an offshore Facility, in each case to the extent applicable to Provider.
+(ii)    Customer may require a Facility Relocation upon: (a) the occurrence or threat of one or more acts of terrorism in any jurisdiction in which a Provider Facility is located; or (b) the declaration or initiation of war (digital or physical) or acts related to war (digital or physical) or the threat thereof, in or related to any jurisdiction in which a Provider Facility is located, where Customer determines in its reasonable and good faith discretion that the events in (a) or (b) will: (y) cause or reasonably threaten to cause material damage or disadvantage to Customer Group, or any Assets, business or personnel of Customer Group; or (z) materially limit or reasonably threaten to materially limit Provider’s ability to provide such Services or Customer Group’s ability to receive and use such Services (
+“Customer Required Relocation”
+). In such event, the Parties will use the Change Control Procedures to document the relocation and any costs or Charges adjustments in connection with same. Both Parties will use commercially reasonable efforts to minimize costs and expenses incurred in connection with the foregoing. 
+(j)    Changes to Service Locations
+At any time during the Service Agreement Term, Customer may add, change or remove a Service Location and, in accordance with the applicable “
+Service Description
+” 
+Schedule
+, and the Change Control Procedures, Provider shall assist Customer with such addition, change or removal in accordance with this 
+Section 5.1
+. 
+5.2.    
+Use of Customer Facilities 
+Customer shall provide Provider with access to and the use of Customer Facilities identified in the applicable Service Agreement for the periods and Services specified therein, subject to the following: 
+Page 13
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(a)    Customer Facility Restrictions
+(i)    Provider may occupy such space solely for purposes of providing the Services and not for the provision or marketing of services to other customers of Provider.
+(ii)    In the use of such space, Customer agrees to supply reasonable office services and supplies, such as water, sewer, heat, lights, air conditioning, electricity and office equipment for Provider Personnel; provided, however, that Provider Personnel will supply their own cell phones and internet access. Office space will be provided in accordance with Customer’s space standards, which Customer may revise from time to time in its sole discretion. 
+(iii)    Provider will be solely responsible for the conduct, welfare and safety of the Provider Personnel while in Customer Facilities and will take all necessary precautions to prevent the occurrence of any injury to persons or property or any interference with Customer Group’s operations while occupying such space.
+(iv)    When working at any Customer Facility, Provider Personnel will comply with Customer Group’s security, information security, administrative, safety and other rules, regulations, policies and procedures, including the Security Requirements. Customer will make such policies and procedures available to Provider prior to Provider Personnel entering any Customer Facility, and will notify Provider of any subsequent modifications or amendments thereto.
+(v)    No interest in any such Customer owned or leased Facility is conferred upon Provider beyond the limited right to use such Facility for purposes of the Agreement. Provider will not take any action that results in the placement of any lien on any Customer Facility or any Customer Group property.
+(vi)    Provider recognizes that Customer Group’s resources, including office equipment and supplies, computer software and hardware, and data/voice/image storage and transmission equipment, are intended for Customer Group business use only. Provider shall use any such resources only in connection with the performance of Services under the Agreement.
+(vii)    Provider recognizes that Customer does not guarantee the privacy or security of documents and messages stored in Customer Group-owned files, desks, storage areas, or electronic media and that Provider shall have no expectation of privacy or security in such documents and messages. Customer Group personnel shall have access to information stored in or on property or equipment owned or leased by Customer Group.
+Page 14
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(b)    No Warranty
+THE CUSTOMER FACILITIES ARE PROVIDED BY CUSTOMER TO PROVIDER ON AN AS-IS, WHERE-IS BASIS. CUSTOMER EXPRESSLY DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, AS TO THE CUSTOMER FACILITIES, OR THEIR CONDITION OR SUITABILITY FOR USE BY PROVIDER.
+5.3.    
+Shared Service Locations
+If (i) Provider provides the Services to Customer Group from a Provider Facility that is shared with a Third Party or Third Parties or from a Provider Facility from which Provider provides services to a Third Party or Third Parties, or (ii) any part of the business of Provider or any such Third Party is now or is in the future competitive with any part of the business of Customer Group, then Provider shall develop a process, subject to Customer’s written consent, to restrict physical and logical access in any such shared environment to Customer Group’s Company Information so that Provider Personnel providing services to any competitor of Customer Group do not have access to Customer Group’s Company Information. Such process shall be in compliance with 
+Section 16
+. 
+6.    CONTINUED PROVISION OF SERVICES
+6.1.    
+Disaster Recovery and Business Continuity Services
+ 
+(a)    Disaster Recovery Services 
+Disaster Recovery Services and responsibilities shall be provided pursuant to a Service Agreement and subject to the applicable Charges set forth therein. 
+(b)    Disaster
+Upon Provider’s determination that a disaster or business disruption has occurred or is imminent, Provider shall promptly notify Customer and undertake all applicable actions and precautions required pursuant to the “
+Disaster Recovery and Business Continuity Requirements
+” 
+Schedule
+, or the applicable disaster recovery or business continuity plan developed pursuant thereto, and diligently pursue them as necessary to avoid or, if unavoidable, minimize any interruption of Services. During any disaster, Provider will notify Customer at least daily of the status of the disaster or business disruption. Upon completion of a disaster or business disruption, Provider will, as soon as reasonably practicable, provide Customer with an incident report detailing the reason for the disaster or business disruption and all actions taken by Provider to resolve the disaster or business disruption. 
+Page 15
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+6.2.    
+Force Majeure
+(a)    Generally
+If and to the extent that a Party’s performance is prevented or delayed as a result of a Force Majeure Event, then the affected performance will be excused for so long as the Force Majeure Event continues to prevent or delay performance and the Party continues efforts to recommence performance to the extent possible without delay, including through the use of alternate sources and workaround plans. The affected Party will promptly notify the other Party verbally (to be confirmed in writing within 24 hours of the inception of the delay), describing the Force Majeure Event and the affected performance obligations in reasonable detail, and shall thereafter provide the other Party with daily updates (and more frequent updates if requested) as to the status of its efforts to recommence performance and Notice upon conclusion of the Force Majeure Event.
+(b)    Alternate Source
+If any Force Majeure Event substantially prevents, hinders, or delays performance of the Services necessary for the performance of Customer Group’s critical functions for more than three consecutive days or a total of five days within any 30-day period, then Customer may: 
+(i)    procure such Services from an alternate source until Provider is able to provide the Services. During the Force Majeure Event, Customer shall not be obligated to pay the Charges or any other amounts to Provider for the relevant Services, and, to the extent that payments charged by the alternate source for such replacement services exceed what Provider’s Charges hereunder for the Services so provided would have been, Provider and Customer will equally share such incremental charges until such time as Provider is able to restore the Services and meet the Service Levels, but in no event for more than 180 days; and 
+(ii)    both Parties shall use commercially reasonable efforts to minimize any charges to be incurred from an alternate source. At such time as Provider is able to restore the Services and meet the Service Levels, Provider shall no longer be obligated to pay an alternate source for the provision of Services to Customer Group.
+(c)    Non-Excused Obligations 
+Notwithstanding 
+Section 6.2(a)
+ or 
+6.2(b)
+, Force Majeure Events do not excuse any of Provider’s disaster recovery and business continuity obligations under 
+Section 6.1
+ or its obligations to meet the Security Requirements, except to the extent such failure to meet Provider’s disaster recovery or business continuity obligations is the direct result of the Force Majeure Event and provided Provider continues to use commercially reasonable efforts to mitigate the impact or consequence of the event on Customer Group 
+Page 16
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+and to recommence performance whenever and to whatever extent possible without delay. In no event shall the non-performing Party be excused under this 
+Section 6.2
+ for (i) any non-performance of its obligations under the Agreement having a greater scope or longer period than is justified by the Force Majeure Event; or (ii) the performance of obligations that should have been performed prior to the Force Majeure Event. 
+6.3.    
+No Payment for Unperformed Services
+Customer is not required to pay for those Services that are not performed, whether because of a disaster, Force Majeure Event or otherwise, regardless of whether such non-performance is excused.
+6.4.    
+Allocation of Resources
+Whenever a Force Majeure Event or a disaster causes Provider to allocate limited resources among Provider’s customers, Provider will not give other customers to which Provider provides a similar scope of services priority over Customer or redeploy or reassign any Key Personnel (except as permitted under this Agreement) to another Provider customer.
+7.    COMPLIANCE WITH LAWS
+7.1.    
+Compliance Generally 
+(a)    Compliance with Laws
+Provider shall perform the Services in compliance with: 
+(i)    all Laws applicable to Provider as a provider of data processing services in its performance and delivery of the Services;
+(ii)    all Laws (including any guidance, bulletins, white papers, pronouncements, reports or similar communications issued by any Governmental Authority or applicable self-regulatory or industry body, that have the force of law or are treated in the industry as having the force of law, [***]) applicable to the portion of the operations of Customer Group performed by Provider as part of the Services, just as if Customer Group performed the Services themselves, as interpreted, augmented and modified by the Customer Compliance Directives (collectively, the 
+“Customer Compliance Requirements”
+); and
+(iii)    subject to the provisions of 
+Section 7.2
+ below, all Customer Compliance Directives issued to Provider by Customer in writing. 
+(b)    Privacy Laws
+Without limiting Provider’s other obligations under this 
+Section 7
+, Provider (i) acknowledges that the Customer Data may be subject to Privacy Laws, and (ii) will 
+Page 17
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+comply with all Privacy Laws applicable to the Customer Data and the Services, as more particularly set forth in the “
+Privacy Requirements
+” 
+Exhibit
+. In addition, Provider shall comply with the requirements of the Data Processing Addendum entered into by the Parties as of May 17, 2018 (the “
+DPA
+”). The DPA is hereby incorporated into and made part of the Agreement. In the event of a conflict between the “
+Privacy Requirements
+” 
+Exhibit
+ and the DPA, the DPA shall control. 
+7.2.    
+Changes in Laws
+Provider and Customer will work together to identify the effect of changes in Laws or Customer Compliance Requirements on the provision and receipt of the Services and will promptly discuss the changes to the Services, if any, required to comply with all Laws and Customer Compliance Requirements. Any changes required as a result of a change in Laws shall be implemented in accordance with the provisions of 
+Sections 7.2(a)
+ and 
+7.2(b)
+ and the Change Control Procedures. 
+(a)    Provider Laws
+Provider shall conform the Services in a timely manner to any changes in Laws referred to in 
+Section 7.1(a)(i)
+ at no additional charge to Customer. 
+(b)    Customer Compliance Requirements
+Provider shall conform the Services in a timely manner to any change in Customer Compliance Requirements (including new or revised Customer
+ 
+Compliance Directives), subject to Customer’s approval as to the manner of such conformance. Provider is authorized to act and rely on each Customer Compliance Directive in the performance and delivery of the Services.
+(i)    With respect to any such modifications in Customer Compliance Requirements, [***]. 
+(ii)    In a quote submitted to Customer for review and acceptance, Provider shall identify the changes to the Services necessary to comply with such new or revised Customer Compliance Requirement and propose a method of integrating such changes, pursuant to the Change Control Procedures. Such changes shall: (x) be integrated in a cost-effective manner and without unnecessary disruption of Customer Group’s ongoing operations (as modified by such changes); (y) equitably account for any efficiencies, economies or reduced or increased resource requirements resulting from any changes in the Services (including any efficiencies resulting from Provider’s implementation of applicable changes for its other affected customers) or Service Levels resulting from such changes; and (z) include modified Charges that have been determined based on the rates agreed in the applicable Service Agreement and where no such rates are agreed, on a commercially reasonable basis consistent with the other Charges. 
+Page 18
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+8.    CHARGES; NEW SERVICES; INVOICES; AND PAYMENTS
+8.1.    
+Charges 
+In consideration of the Services under each Service Agreement, Customer will pay Provider the Charges set forth in the “
+Charges
+” 
+Schedule
+ to each Service Agreement, which will include the payments and payment-related terms. Except as expressly set forth in the Agreement, including the “
+Charges
+” 
+Schedule
+, to the applicable Service Agreement, no other amounts are payable under the Agreement. Undisputed Charges are due and payable 60 days after receipt of invoice from Provider. Customer’s payment shall be made by wire transfer to an account designated by Provider. Any unused credits against future payments (including Service Level Credits) owed to either Party by the other pursuant to a Service Agreement will be paid to the applicable Party within 60 days after the expiration or termination of the Service Agreement. 
+8.2.    
+Invoices
+ 
+Provider will invoice the Charges under each Service Agreement as set forth in the “
+Charges
+” 
+Schedule
+, with invoices to include such detail as provided in the Service Agreement. No invoice for Charges for any of the Services shall be delivered to Customer until after the Services that are the subject of such invoice have been provided to Customer Group. However, any Services that are expressly stated in the applicable “
+Charges
+” 
+Schedule
+ as prepaid or paid in advance shall be excluded from the limitation of this provision to the extent, but only to the extent, expressly set forth in the Agreement. Provider shall not invoice, and Customer is not liable to pay, any Charges not invoiced within 90 days (or 180 days with respect to any Pass Through Charges) after the end of the month to which such Charges correspond. [***]
+8.3.    
+Taxes 
+(a)    Responsibility
+Customer shall be responsible and liable for Taxes arising from any provision of services or any transfer or lease of property by Provider to Customer, or imposed on any Charges, pursuant to this Agreement. Provider shall be responsible for all Taxes that are imposed on acquisition, ownership, or use of property or services by Provider or a Provider Affiliate in the course of providing property or services to Customer, it being understood and agreed that this provision shall not relieve Customer of its responsibility and liability for Taxes under this 
+Section 8.3(a)
+ which are imposed upon any transfer or lease of such property from Provider to Customer. Customer shall not be responsible for any Taxes (i) on Taxes previously paid or incurred by Provider or a Provider Affiliate, (ii) on Taxes imposed by a third party where Provider or a Provider Affiliate is acting as an agent and Customer has the responsibility to pay Taxes on charges associated with Managed Agreements; (iii) that are non-recoverable by Customer based on failure by Provider or a Provider Affiliate to register in foreign jurisdictions or provide an invoice in compliance with applicable law; or (iv) arising from the provision of services or the transfer or lease of property that are erroneously charged by Provider or a Provider Affiliate or third party provider where Provider or a Provider Affiliate serves as a pass 
+Page 19
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+through agent and are otherwise nontaxable or exempt under applicable Tax law. Customer shall be responsible and liable for all customs fees, duties and tariffs imposed on the importation of any goods provided by Provider or any Provider Affiliate to Customer or any Customer Affiliate hereunder. Provider shall be responsible and liable for all value added taxes, goods and services taxes, and similar types of taxes in the nature of a value added or goods and services tax, which are imposed upon the importation into any taxing jurisdiction of any property by Provider or a Provider Affiliate.
+(b)    Withholding Taxes
+If a member of the Customer (i) receives notice or other instructions from a taxing authority that such Customer member is required to withhold Withholding Taxes or (ii) otherwise reasonably believes that it is required under applicable law to withhold Withholding Taxes from payments to Provider or any Affiliate of Provider, Customer (or such Customer member) may withhold Withholding Taxes from such payments, in which case it will timely (a) remit such Withholding Taxes to the appropriate taxing authority and (b) provide to Provider copies of official tax receipts or other evidence sufficient to establish that any such Withholding Taxes have been remitted to appropriate taxing authorities. Provider may provide to Customer an exemption certificate acceptable to Customer and to the relevant taxing authority, in which case Customer will not withhold the Withholding Taxes covered by such certificate. Provider acknowledges that it will be responsible for all Withholding Taxes. 
+(c)    Exemptions
+Customer and each member of Customer shall pay or reimburse Provider for any Taxes for which it is responsible or liable under this Agreement that are invoiced by Provider or charged under a Managed Agreement by Provider to Customer or a member of Customer, or that are otherwise determined to be due and payable by a relevant taxing authority, unless Customer or the Customer member provides Provider or a Provider Affiliate with a valid and applicable exemption certificate, multi-state benefit certificate, or resale certificate or written explanation explaining why Customer or the Customer member believes the Tax is not applicable. In the event that Customer provides such a written explanation to Provider or a Provider Affiliate, Provider may at any time require Customer to deliver an opinion letter from outside counsel, selected by Customer and reasonably acceptable to Provider, that Customer’s position is reasonable under the applicable tax law. The cost of such letter shall be paid by Customer. If such a letter is not delivered within 30 days of the request, Customer must pay the Taxes invoiced. Such certificate or written explanation does not relieve Customer or the Customer member of ultimate liability for the Tax to the extent the taxing authority disagrees with the Customer or the Customer member’s position that no such Tax is due; provided, that Customer shall have no liability for Taxes either not yet due and payable or Taxes being contested (unless payment is a condition to contest) in accordance with subsection (e) of this Section.
+Page 20
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(d)    Reporting and Payment 
+Provider shall be responsible for reporting and payment of any real or personal property or ad valorem taxes due on property Provider or a Provider Affiliate owns and property taxes Provider or a Provider Affiliate otherwise has a responsibility to remit, and Customer and each member of the Customer shall be responsible for reporting and payment of any real or personal property or ad valorem taxes due on property it owns and property taxes it otherwise has a responsibility to remit.
+(e)    Tax Claims
+If Provider or a Provider Affiliate receives notice from any taxing authority with respect to an assessment or potential assessment or imposition of any Tax that Customer would be responsible for paying pursuant to 
+Section 8.3(a)
+ or 
+8.3(c) 
+of this Agreement, Provider shall immediately send Notice to Customer of such notice. To the extent directed by Customer in a Notice sent to Provider within 30 days of Customer’s receipt of the Notice from Provider (as described above), Provider and any relevant Provider Affiliate shall timely contest at Customer’s direction relating to all actions to be taken to contest such proposed Tax and with Customer’s participation, or, if Customer so directs and it is feasible for Provider and any relevant Provider Affiliate to segregate out the portion of the Tax claim that relates solely to Customer, permit Customer to contest, to the extent permissible under applicable Tax law and procedures, such proposed Tax, at Customer’s expense and in a forum selected by Customer and with counsel selected by Customer and reasonably acceptable to Provider, until such assessment has been upheld by the decision of an appellate court; except that prior to any judicial contest Provider may require (as a condition to such judicial contest) an opinion letter from counsel selected by Customer and reasonably acceptable to Provider that there is a reasonable tax basis for such contest. Any Notice to a Party under this 
+Section 8.3(e)
+ shall also be copied directly to the tax department of that Party, in care of the Vice President-Tax Administration. To the extent Provider or a Provider Affiliate contests a proposed Tax at Customer’s direction, and such contest involves claims with respect to Taxes for which Customer would not be responsible under 
+Section 8.3(a)
+ or 
+8.3(c)
+, Customer shall be responsible only for that portion of expenses of Provider and any relevant Provider Affiliate as are reasonably allocable to the contest of Taxes for which Customer would be responsible under 
+Section 8.3(a)
+ or 
+8.3(c)
+. Provider and any relevant Provider Affiliate may compromise, settle, or resolve such a Tax contest under this 
+Section 8.3(e)
+ without Customer’s consent (provided such compromise, settlement, or resolution is limited only to the Taxes for the tax period involved) if Provider waives any indemnity rights Provider and any relevant Provider Affiliate has against Customer with respect to the Taxes being contested. Otherwise, neither Provider nor any relevant Provider Affiliate may compromise, settle, or resolve such Tax contest without Customer’s consent. Notwithstanding the foregoing, should Customer (i) not direct Provider either to contest or permit Customer to contest, a proposed Tax within 30 days of Customer’s receipt of the Notice from Provider described in the first sentence of this paragraph or (ii) revoke its Notice directing Provider to either contest or permit Customer to contest a proposed Tax, 
+Page 21
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+Provider shall be entitled to contest such proposed Tax at Provider’s expense or compromise, settle, or resolve any contest with respect to such proposed Tax and Customer will be responsible for and liable for such Tax, as otherwise provided for in 
+Section 8.3(a)
+ or 
+8.3(c)
+. 
+(f)    Refunds
+Customer and each member of the Customer shall be entitled to any Tax refunds or rebates granted to the extent such refunds or rebates are of Taxes that were borne by Customer or a Customer member. Customer or each Customer member may require Provider and any relevant Provider Affiliate, at the sole expense of Customer, to (i) apply for and diligently pursue a refund of Taxes otherwise payable by Customer or the Customer member, or (ii) if permitted by law, assign its rights to a refund claim for such Taxes to Customer or the Customer member.
+(g)    Cooperation
+The Parties agree to reasonably cooperate with each other to enable each to more accurately determine its own tax liability (including Taxes, Withholding Taxes and property taxes) and to minimize such liability to the extent legally possible. Invoices issued by Provider or a Provider Affiliate shall separately state the amounts of any Taxes Provider or a Provider Affiliate is collecting from Customer. In the case of Customer, such cooperation shall include providing Provider or any relevant Provider Affiliate any applicable exemption or resale certificates, and information regarding out-of-province or out-of-country sales and use of equipment. In the case of Provider, such cooperation shall include providing Customer, at the reasonable and written request of Customer, with applicable information regarding delivery or use of materials, services, or sales, and taking reasonable additional steps to minimize Taxes, examples of which include providing Customer with thorough invoices and/or additional billing information that may be reasonably requested in order to determine the taxability of specific goods and services provided under this Agreement. If any Taxes are assessed on the provision of any of the Services, including telecommunications, or any portion of the Services that is treated as a sale or rental of tangible personal property to Customer, the Parties will work together to segregate all payments under this Agreement into three (3) payment streams: (i) those for taxable Services (separated into types of taxable Services) and taxable sale or rental of tangible personal property; (ii) those for nontaxable services; and (iii) those in which Provider or a Provider Affiliate functions merely as a payment agent for Customer in receiving goods, supplies or services (including telecommunications) that otherwise are nontaxable or have previously been subject to tax.
+(h)    Stamp Taxes
+Responsibility for any stamp taxes (in all cases including any interest and penalties thereon) incurred with respect to International Agreements shall be as follows:
+Page 22
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(i)    Except as otherwise provided in 
+Section 8.3(h)(ii)
+ below or as otherwise specified in an International Agreement, Customer shall be responsible for any stamp taxes incurred with respect to International Agreements.
+(ii)    Provider shall be responsible for any stamp taxes incurred with respect to an International Agreement if such stamp taxes arise in connection with any of the following actions by Provider or any Provider Affiliate.
+(1)    [***]
+(2)    [***]
+(A)    [***]
+(B)    [***]
+(C)    [***]
+(D)    [***]
+(E)    [***]
+(F)    [***]
+8.4.    
+Market Currency and Benchmarking Procedures 
+Provider will perform reviews of the competitiveness of the Services and the Charges with respect to price and technology and process best practices, and Customer may require a benchmarking assessment and related adjustment of Charges as set forth in the “
+Market Currency Procedures
+” 
+Exhibit
+. Notwithstanding anything herein or otherwise to the contrary, the Parties agree that (1) the benchmarking assessment conducted in 2020 is concluded and no further action is required by either Party in connection therewith and (2) the results of the benchmarking assessment conducted in 2020 are fully reflected in this Agreement and that neither Party will have (and each Party hereby waives) any claim or cause of action against the other resulting from such benchmarking assessment. For the avoidance of doubt, the Parties agree that no further benchmarks shall be conducted until the next date specified in the “
+Market Currency Procedures
+” 
+Exhibit
+.
+8.5.    
+Service Level Credits
+If Provider fails to provide the Services in accordance with the Service Levels set forth in any “
+Service Level Agreement
+” 
+Schedule
+ to a Service Agreement, Provider shall apply the resulting Service Level Credits against the Charges owed to Provider for the month following the month in which the Service Level Credits were incurred, or as otherwise described in such “
+Service Level Agreement
+” 
+Schedule
+. Provider acknowledges and agrees that (i) the Service Level Credits shall not be deemed or understood to be liquidated damages and (ii) neither the Service Level Credits nor any express non-financial remedy hereunder shall be deemed or 
+Page 23
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+understood to be a sole and exclusive remedy or in derogation of any other rights and remedies Customer has hereunder or otherwise at law or at equity. 
+8.6.    
+Rights of Set-Off
+Customer shall have the right to set off against amounts owed by Customer under the Agreement any amount that Provider is obligated to pay or credit Customer under this Agreement, including Service Level Credits, except to the extent such setoffs occur across different countries. Any such set-off shall not be treated as disputed under 
+Section 8.7
+ or otherwise count towards the Aggregate Disputed Amount unless it is in fact the subject of a dispute.
+8.7.    
+Disputed Charges/Credits
+Customer may withhold payment of any portion of an invoice that it disputes in good faith, up to an aggregate amount of [***] per Service Agreement (unless the Service Agreement provides for a different amount) (“
+Aggregate Disputed Amount
+”). Customer shall notify Provider of any such Dispute as soon as practicable after the discrepancy has been discovered. The Parties will investigate and resolve the Dispute using the Dispute Resolution Procedures. Unpaid amounts that are the subject of a good faith Dispute may be withheld by Customer and will not be considered a basis for monetary default under, or a breach of, the Agreement. Any undisputed amounts will be paid by Customer in accordance with 
+Section 8.1
+. Customer’s failure to dispute or withhold a payment will not operate as a waiver of the right to dispute and recover such amount. Customer shall deposit into an interest-bearing escrow account any disputed amount in excess of the Aggregate Disputed Amount within three Business Days after such disputed amounts are due, provided that Customer shall retain any and all rights to contest Provider’s entitlement to such disputed amount. Customer shall promptly furnish evidence of any escrow deposit to Provider. The escrow account will be established pursuant to an escrow agreement with a major national bank that provides that (i) the costs of such escrow account will be shared equally by the Parties, and (ii) the funds therein (including Charges and Taxes), including the accrued interest, will be disbursed to Customer or Provider, as applicable, in accordance with the results of the Dispute Resolution Procedures or by mutual agreement of the Parties. If Customer fails to escrow disputed amounts in accordance with this 
+Section 8.7
+ within 30 days after Notice from Provider of Customer’s failure to do so, Provider may, after giving Customer at least 15 days prior Notice, apply to a court of competent jurisdiction to seek injunctive relief for such failure.
+Page 24
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+8.8.    
+Changes in Customer Business
+ 
+(a)    Changes 
+If Customer Group experiences or reasonably anticipates significant changes in the scope or nature of its business which have caused or are reasonably expected to cause an increase or decrease in the utilization of Services under any Service Agreement by more than [***], for a period of three months or more, such changes shall be governed by this 
+Section 8.8
+; provided, that such decreases are not due to Customer’s resuming the provision of such Services by itself or Customer transferring the provision of such Services to another Third Party Provider. Examples of the kinds of events that might cause such substantial increases or decreases include but are not limited to: (i) changes in Customer Group’s products or markets; (ii) mergers, acquisitions or divestitures; (iii) changes in market priorities; (iv) reduction in demand for Customer Group’s products or services; or (v) general business or economic downturn.
+(b)    Plan for Adjustment
+Customer will notify Provider of any event or discrete set of events which qualifies under this 
+Section 8.8
+, and Provider will identify any changes that can be made to accommodate such decrease or increase of resource requirements in a cost-effective manner without disruption to Customer Group’s ongoing operations, and the cost savings that will result therefrom, in a plan that will be submitted to Customer for review and acceptance. Such changes shall: 
+(i)    equitably account for any efficiencies, economies or reduced or increased resource requirements resulting from any changes in the Services proposed by Provider; and
+(ii)    provide for changes to the Charges and other terms that have been determined on a commercially reasonable basis consistent with the other Charges and terms.
+(c)    Implementation of Adjustment 
+Upon acceptance by Customer, Provider will make any applicable adjustments to the Charges and the related Resource Unit volumes (if applicable) and other terms to reflect the foregoing and distribute an amended “
+Charges
+” 
+Schedule
+ and executed a Change Order to the affected Service Agreements to Customer.
+9.    PROVIDER OBLIGATIONS
+9.1.    
+Cooperation and Good Faith
+The Parties covenant to timely and diligently cooperate in good faith to effect the purposes and objectives of the Agreement. Except as otherwise provided herein, neither Party shall unreasonably withhold or delay any consent, approval or request by the other Party required 
+Page 25
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+under the Agreement. Each Party recognizes that Provider Personnel providing Services to Customer Group under this Agreement may perform similar services for others, except as otherwise specified in the Agreement or as otherwise agreed to by the Parties in writing. Provider shall not without the prior written consent of Customer use any of the assets owned, licensed or leased by Customer on or after the Effective Date to perform services for others. 
+9.2.    
+Services
+Provider shall render Services using personnel that have the necessary knowledge, training, skills, experience, qualifications and resources to provide and perform the Services in accordance with the Agreement, and shall render Services in a prompt, professional, diligent, and workmanlike manner, consistent with industry standards applicable to the performance of such Services. 
+9.3.    
+Continuous Improvement
+ 
+Provider shall diligently and continuously improve the performance and delivery of the Services by Provider and the elements of the policies, processes, procedures and systems that are used by Provider to perform and deliver the Services, including re-engineering, tuning, optimizing, balancing and reconfiguring the processes, procedures and systems used to perform, deliver, track and report on, the Services, subject to the approval of Customer in accordance with the Change Control Procedures. From time to time, Customer may request that Provider work together with Customer or Third Parties to identify ways to achieve reductions in the cost of, and greater efficiencies with, delivering the Services and corresponding reductions in the Charges and provide a report to Customer regarding the same. If so requested by the Customer Technical Alliance Manager, Provider will, at its own expense, promptly prepare and deliver to Customer, within 60 days (or such longer period as may be agreed), a detailed proposal identifying all viable means of achieving the desired reductions without, to the extent practically possible, adversely impacting business objectives or requirements identified by Customer. Customer will not be obligated to accept or implement any such proposal.
+9.4.    
+Technology; Best Practices
+ 
+Provider will: (i) provide the Services using technology at a level current with the technology that Provider implements for its general internal operations and at least comparable to the level of technology generally adopted from time to time for provision of similar services in the information technology industry; (ii) keep knowledgeable about changes and advancements over time in the technology necessary to provide the Services; and (iii) in performing the Services, utilize processes, procedures and practices that are consistent with the best practices it utilizes in performing services similar to the Services for its other customers, which practices will, at a minimum, be consistent with the best practices of similarly situated providers offering similar services within the information technology industry.
+Page 26
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+9.5.    
+No Solicitation
+During the Term, neither Party shall knowingly solicit any employee or subcontractor of the other Party or its Affiliates who is or was actively involved in the performance, provision or use of any of the Services, or knowingly hire any employee or subcontractor of the other Party or its Affiliates who is or was actively involved in the performance, provision or use of any of the Services, unless otherwise agreed in writing by the Parties and except as permitted upon termination or expiration as provided for in 
+Section 18.6(b)
+. Notwithstanding the foregoing, the Parties acknowledge and agree that this Agreement will not prohibit (i) solicitations through general public advertisements or other publications of general public circulation not targeted directly or indirectly at the other Party’s employees, or (ii) the solicitation for employment or employment by one Party of a former employee or an individual subcontractor of the other Party who, at the date of such solicitation or employment, was not an employee or an individual subcontractor of such Party and either (a) had not been an employee or individual subcontractor of such Party at any time during the previous 12 months or (b) had been an employee or individual subcontractor of such Party at some time during the previous 12 months, but had been laid off or had their employment otherwise involuntarily terminated by such Party.
+ 
+9.6.    
+Export; Regulatory Approvals
+ 
+(a)    Export Laws
+(i)    The Parties acknowledge that the export, re-export, transfer, provision or release of products, services, technology, technical data and software (“items”) undertaken pursuant to this Agreement may be subject to licensing requirements or other restrictions under export and sanctions laws and regulations of the United States and other national governments, which include, without limitation, the Export Administration Regulations, 15 C.F.R. Parts 730-774, administered by the U.S. Department of Commerce’s Bureau of Industry and Security and the regulations and sanctions programs administered by the U.S. Department of the Treasury’s Office of Foreign Assets Control, 31 C.F.R. Parts 500-599; and the laws and regulations of other countries with jurisdiction over the export, re-export, or in-country transfer of items. Each Party agrees to comply with their respective responsibilities under applicable export and sanctions laws and regulations when, directly or indirectly, exporting, re-exporting, or transferring items pursuant to this Agreement.
+(ii)    For any items provided by Customer Group to Provider (
+“Customer Export Materials”
+), Customer shall be responsible for obtaining all reviews, licenses or other authorizations necessary for the export, re-export, transfer, provision or release of such Customer Export Materials from Customer Group to Provider or Provider Agents, where Provider has directed, the Agreement provides, or the Parties have otherwise agreed that Customer Group will export such Customer Export Materials directly 
+Page 27
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+to a member of Provider’s enterprise or a Provider Agent. Provider shall be responsible for obtaining all reviews, licenses or other authorizations necessary for the export, re-export, transfer, provision or release of such Customer Export Materials (i) within Provider’s enterprise; (ii) from Provider to Provider Agents; or (iii) from Provider Agents to Provider.
+(iii)    Customer will provide to Provider not less than 30 days prior written notice in the event that any Customer Export Materials that must be used or accessed by Provider in providing the Services is controlled for export and will, if requested by Provider, provide ECCN classification of any such item or the similar classification as appropriate under other applicable law (unless Provider otherwise has such ECCNs). 
+(iv)    Provider shall be responsible for determining applicable export requirements and obtaining all reviews, licenses, or other authorizations necessary for the export, re-export, transfer, provision or release of any items provided by Provider or Provider Agents to Customer Group.
+(v)    Each Party will reasonably cooperate with the other and will provide to the other promptly upon request any end-user certificates, affidavits regarding re-export or other certificates or documents as are reasonably requested to obtain authorizations, consents, licenses and/or permits required for any payment or any export or import of items or services under this Agreement.
+(b)    Prohibited Countries and Parties 
+Provider agrees that neither Provider nor any Provider Agent will, in connection with Services provided to Customer Group, engage in any business, directly or indirectly, in or with any country subject to a comprehensive sanctions program or embargo (e.g. Cuba, Iran, North Korea, Sudan, Syria), or with persons or entities that are listed on the Consolidated Screening List or otherwise prohibited.
+(c)    Approvals 
+Provider will timely obtain and maintain all necessary approvals, licenses and permits (required by Law or otherwise) applicable to its business and the provision of the Services, including any relating to trans-border data flows and the Customer Data, applicable to Provider, Customer Group or use of any products or services under the Third Party Agreements.
+9.7.    
+Malware
+ 
+Provider will take commercially reasonable diligent measures (consistent with the following sentence) to prevent the coding, introduction or proliferation of Malware into (i) any Provider Information System, or (ii) any Customer Systems supported by Provider as part of the 
+Page 28
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+Services. Provider will continue to review, analyze and implement improvements to and upgrades of its Malware prevention, correction and monitoring programs and processes that are commercially reasonable and consistent with the then current information technology industry’s standards and, in any case, not less robust than the programs and processes implemented by Provider with respect to its own information systems. Without limiting Provider’s other obligations under the Agreement, if Malware is found to have been introduced into the systems referenced in (i) and (ii) above, Provider shall promptly notify Customer and take commercially reasonable diligent efforts to eliminate the effects of the Malware; provided, however, Provider shall take immediate action if required due to the nature or severity of the Malware’s proliferation. [***]  All remediation efforts with respect to Malware must be in accordance with all applicable requirements of the “
+Information Security Requirements
+” 
+Exhibit
+ and as may otherwise be expressly provided in a Service Agreement. At Customer’s request, Provider will report to Customer the nature and status of all Malware elimination and remediation efforts.
+9.8.    
+Data
+Provider will cause all data and information supplied by it to be timely and accurate. 
+9.9.    
+Services Not to be Withheld
+Provider will not refuse to provide all or any portion of the Services in violation or breach of the terms of the Agreement or any Service Agreement.
+10.    REPRESENTATIONS AND WARRANTIES
+10.1.    
+Representations and Warranties of Customer
+Customer represents and warrants to Provider as follows as of the Effective Date and as of the Execution Date of each Service Agreement: 
+(a)    Organization; Power 
+Customer: (i) is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware; and (ii) has full corporate power to own, lease, license and operate its properties and assets and to conduct its business as currently conducted and to enter into the Agreement.
+(b)    Authorized Agreement
+The Agreement has been, and each Service Agreement will be, duly authorized, executed and delivered by Customer and constitutes or will constitute, as applicable, a valid and binding agreement of Customer, enforceable against Customer in accordance with its terms.
+Page 29
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(c)    No Default
+Neither the execution and delivery of the Agreement or any Service Agreement by Customer, nor the consummation of the transactions contemplated hereby or thereby, shall result in the breach of any term or provision of, or constitute a default under, any charter provision or bylaw, agreement (subject to any applicable consent), order, law, rule or regulation to which Customer is a party or which is otherwise applicable to Customer.
+10.2.    
+Representations and Warranties of Provider 
+Provider represents and warrants to Customer as follows as of the Effective Date and as of the Execution Date of each Service Agreement:
+(a)    Organization; Power
+Provider: (i) is a corporation, duly organized, validly existing and in good standing under the Laws of Delaware; and (ii) has full corporate power to own, lease, license and operate its properties and assets and to conduct its business as currently conducted and to enter into the Agreement.
+(b)    Authorized Agreement 
+The Agreement has been and each Service Agreement will be duly authorized, executed and delivered by Provider and constitutes or will constitute, as applicable, a valid and binding agreement of Provider, enforceable against Provider in accordance with its terms.
+(c)    No Default 
+Neither the execution and delivery of the Agreement or any Service Agreement by Provider, nor the consummation of the transactions contemplated hereby or thereby, shall result in the breach of any term or provision of, or constitute a default under, any organizational documents of Provider, or any agreement (subject to any applicable consent), order, Law, rule or regulation to which Provider is a party or that is otherwise applicable to Provider.
+(d)    Consents
+Except as otherwise provided in the Agreement, no authorizations or other consents, approvals or notices of or to any Person are required in connection with: (i) the execution, delivery and performance by Provider of the Agreement; (ii) the development, implementation or operation of the Provider Software, Provider Equipment and systems provided by Provider and necessary for Provider to perform the Services in accordance with this Agreement, or (iii) the validity and enforceability of the Agreement.
+Page 30
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(e)    No Infringement
+(i)    Provider is the owner of the Provider Owned Software and has the authority to grant the licenses in the Provider Licensed Software to be granted hereunder; 
+(ii)    the Provider Software and the Provider Equipment do not knowingly infringe or misappropriate the Intellectual Property Rights of any third party; and 
+(iii)    as of the Effective Date, there is no claim or proceeding pending or threatened alleging that any of the Provider Software or the Provider Equipment infringes or misappropriates the Intellectual Property Rights of any third party. 
+(f)    Date Warranty 
+The Services will not be adversely affected in any way by any date data, date setting, date value, date input or other date related data and any combination thereof (including leap year), excluding Services failures caused by date-related defects in the Customer Owned Software.
+(g)    Performance Warranty 
+The Services will conform in all material respects to the description of the Services set forth in each Service Agreement.
+(h)    Capability to Provide Services 
+Provider has the requisite and necessary skills and experience to perform and provide the Services, and owns and possesses sufficient rights to grant all of the rights and licenses granted or to be granted, in accordance with the Agreement.
+(i)    Currency Compliance 
+The Provider Software and any other software provided or made available by Provider to Customer Group hereunder or used by Provider in performance of the Services will be Currency Compliant. 
+(j)    Data Processing and Transfers 
+With respect to each transfer of Personally Identifiable Information, Provider: (i) has full legal authority to Process such Personally Identifiable Information in each jurisdiction where Personally Identifiable Information will be Processed; (ii) will use such Personally Identifiable Information for purposes consistent with those for which it was collected or subsequently authorized by the data subject; and (iii) has complied, and 
+Page 31
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+will comply, with all applicable Laws with respect to the Processing or any transfer of Personally Identifiable Information to a Third Party.
+(k)    Compliance with Immigration Laws 
+Provider will at all times comply with all applicable Laws relating to the screening, hiring and employment of all labor forces used in connection with the Services, including those relating to citizenship or legal work status, including the U.S. Immigration Reform and Control Act of 1986, as amended, and its successors, if any, and any implementing regulations therefor. Provider will not assign Services to be performed to any Provider Personnel who are unauthorized aliens, and if any Provider Personnel performing any of the Services is discovered to be an unauthorized alien, Provider will immediately remove such Provider Personnel from performing Services hereunder and replace such Provider Personnel with Provider Personnel who is not an unauthorized alien.
+(l)    Employment Eligibility and Insurance
+Provider will maintain at Provider’s expense all of the necessary certification and documentation such as Employment Eligibility Verification Form I-9s as well as all necessary insurance for its employees, including workers’ compensation and unemployment insurance. Provider will be solely responsible for the withholding and payment, if any, of employment taxes, benefits and workers’ compensation insurance. 
+(m)    Conduct of the Services
+The Services shall not knowingly contain or use injurious, deleterious or defamatory material, writing or images. Provider shall not take any action or conduct its operations in such manner as to bring public ridicule, contempt, censure or disparagement upon Customer Group, or any names, trademarks, service marks or logos of Customer Group.
+(n)    Open Source
+ 
+Without Customer’s prior written consent, Provider will not incorporate any Open Source Software (whether in source code or object code format) into the Deliverables or the Customer Software (collectively, 
+“Affected Products”
+). In addition, Provider will not use any Open Source Software in providing the Services in a manner, subject to or distributed under any license, other agreement or understanding, that: (i) would require the distribution of source code with the Affected Products or require source code to be made available when such is distributed to any Third Party; (ii) would impact, restrict or impair in any way Customer Group’s ability to license the Affected Products pursuant to terms of Customer Group’s choosing; or (iii) would impact or limit Customer Group’s ability to enforce Customer Group’s Intellectual Property Rights in the Affected Products against any Third Party in any manner. 
+Page 32
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(o)    Disabling Code
+Provider will not knowingly insert any Disabling Code that could be invoked to disable or otherwise shut down all or any portion of the Services in any Software or Materials without the prior approval of Customer. In addition, with respect to any Disabling Code that may be part of the Software, Provider shall not knowingly invoke or cause to be invoked such Disabling Code at any time, including upon expiration or termination of this Agreement or any Service Agreement, in whole or in part, for any reason, without Customer’s prior approval. Provider shall not knowingly use Third Party Software containing Disabling Code without the prior approval of Customer. For purposes of this provision, code that serves the function of ensuring software license compliance (including passwords) shall not be deemed Disabling Code, provided that Provider notifies Customer in advance of all such code and obtains Customer’s approval prior to installing such code in any Software, Equipment or System. 
+(p)    No Litigation.
+There is no action, suit, proceeding or investigation pending or, to Provider’s knowledge, threatened, that questions the validity of the Agreement or Provider’s right to enter into the Agreement or any Service Agreement or to consummate any of the transactions contemplated by them.
+(q)    Foreign Corrupt Practices Act
+(i)    For purposes of this 
+Section 10.2(q)
+, 
+“Provider Group”
+ means DXC Technology Services LLC and its Affiliates, and all of their respective officers, directors, employees and agents. Provider represents, warrants and covenants that the Provider Group has not and shall not violate, or cause Customer Group to violate the United States Foreign Corrupt Practices Act or any other applicable anticorruption laws or regulations (
+“FCPA”
+) in connection with the Services provided under the Agreement and that the Provider Group has not, and agrees that the Provider Group shall not, in connection with the transactions contemplated by the Agreement, or in connection with any other business transactions involving Customer Group, pay, offer, promise, or authorize the payment or transfer of anything of value, directly or indirectly to: 
+(1)    any government official or employee (including employees of government owned or controlled companies or public international organizations) or to any political party, party official, or candidate for public office; or
+(2)    any other person or entity if such payments or transfers would violate the laws of the country in which such payments or transfers are made, or the laws of the United States. 
+Page 33
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(ii)    It is the intent of the Parties that no payments or transfers of value by Customer Group or any member of the Provider Group in connection with the Agreement shall be made which have the purpose or effect of public or commercial bribery, or acceptance of or acquiescence in, extortion, kickbacks, or other unlawful or improper means of obtaining business. 
+(iii)    Provider represents, warrants and covenants that it is familiar with the provisions of the FCPA and agrees that:
+(1)    no member of the Provider Group involved in the provision of Services hereunder is a government official or employee (including an employee of a government-owned or government-controlled company or of a public international organization), is a political party official or employee of a political party, or is a candidate for public office, in each case in a non-U.S. location; and
+(2)    the Provider Group has not previously engaged in conduct that would have violated the FCPA had Provider Group been subject to its terms. 
+(iv)    Provider represents, warrants and covenants that it has disclosed in writing the non-U.S. locations, if any, of all Provider Personnel anticipated to perform Services under the Agreement. Provider agrees to provide prompt advance Notice to Customer in the event that Provider desires to use any additional non-U.S. locations in the provision of Services to Customer Group under and in all cases subject to Customer’s advance written consent and otherwise consistent with the terms and conditions of the Agreement. 
+(v)    Provider acknowledges and agrees that Customer may, in accordance with 
+Section 13.6
+, impose additional obligations upon Provider Group at Customer’s discretion consistent with best practices to ensure compliance with the FCPA. Disclosures and Notice required under this provision shall be sent to the Customer addressee(s) set forth in 
+Section 23.7
+ of the Master Agreement.
+(r)    Financial Statements 
+In the event that Provider is no longer required to file (or does not file) periodic reports pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934, Provider shall provide Customer, in reasonable detail and together with such supporting information as Customer may reasonably request: (i) within 45 days after the end of each fiscal quarter of Provider, unaudited consolidated interim financial statements representing the financial position and results of operations of Provider and Provider Parent as of the date thereof and for the period then ended; and within 90 days after the end of each of Provider’s fiscal year, audited consolidated annual financial statements 
+Page 34
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+representing the financial position and results of operations of Provider and Provider Parent as of the date thereof and for the period then ended, in each case together with a certification by the Chief Financial Officer of Provider that such financial statements are true and correct and comply in all material respects with GAAP. 
+(s)    Provider Parent
+Provider
+ 
+is a wholly-owned subsidiary of Provider Parent.
+(t)    Intellectual Property Rights
+Provider does not have any commitments to Third Parties under which Provider is obligated to assign or license to a Third Party any Intellectual Property Rights in conflict with Provider’s obligations to Customer Group pursuant to this Agreement.
+(u)    Deliverables Warranty
+Unless otherwise agreed to in writing by the Parties in the applicable Work Order or other relevant document, Provider warrants that each Deliverable will not materially deviate from the applicable specifications for such Deliverable and will remain free of any material defects for: (i) 90 days after such Deliverable is accepted by Customer and (ii) additionally for Deliverables with cyclical events, an additional five days after the first occurrence of the cyclical event applicable to such Deliverables for errors that manifest in connection with such cyclical events (for example, month-end, quarter-end and year-end processing, but in no event greater than an annual cyclical event) occurring during the Term and after the Deliverable was Accepted (the 
+“Warranty Period”
+) (regardless of whether such Deliverable was put into production). If any Deliverable does not conform to this warranty during the applicable Warranty Period, Provider will promptly remedy such defects at no cost to Customer. 
+10.3.    
+Pass-Through Warranties
+In the event Provider purchases or procures any Third Party products or services for Customer Group in connection with the provision of the Services, in addition to the foregoing representations, warranties and covenants, Provider shall pass through or assign to Customer the rights Provider obtains from the manufacturers and vendors of such products and services (including warranty and indemnification rights), all to the extent that such rights are assignable.
+10.4.    
+Disclaimer
+EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN THIS AGREEMENT OR IN ANY SERVICE AGREEMENT, THE PARTIES MAKE NO REPRESENTATIONS, WARRANTIES OR CONDITIONS, EXPRESS OR IMPLIED, REGARDING ANY MATTER, INCLUDING THE MERCHANTABILITY, SUITABILITY, FITNESS FOR A PARTICULAR USE OR PURPOSE, OR RESULTS TO BE DERIVED FROM THE USE OF ANY SERVICE, 
+Page 35
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+SOFTWARE, HARDWARE, DELIVERABLES, WORK PRODUCT OR OTHER MATERIALS PROVIDED UNDER THIS AGREEMENT.
+11.    TRANSITION AND TRANSFORMATION
+11.1.    
+Transition Generally
+(a)    Transition Plan
+Provider shall, if provided for in a Service Agreement, provide the Transition Services described in the “
+Transition
+” 
+Schedule
+ to such Service Agreement. The “
+Transition
+” 
+Schedule
+ shall include an initial transition plan that sets forth: (i) the Transition Services necessary to completely migrate the Services to, or implement the Services by, Provider; (ii) an allocation of responsibilities between the Parties for the performance of such Transition Services; (iii) the transition of the administration, management, operation under and financial responsibility for applicable Third Party Agreements from Customer Group to Provider; (iv) the transition to Provider of the performance of and responsibility for the other functions, responsibilities and tasks currently performed by Customer Group (or by a Third Party on behalf of Customer Group) which comprise the Services; (v) Service Levels applicable to the Transition Services; (vi) the Services, projects, tasks, responsibilities and timelines for activities to be performed in connection with the evolution, integration and transformation of the functions comprising the Services in accordance with the agreed upon plan; and (vii) such other information and planning as are necessary to ensure that the Transition takes place on schedule and without disruption to Customer Group’s operations (each, a 
+“Transition Plan”
+). The final Transition Plan shall be mutually-agreed upon by the Parties not later than the date specified in the Service Agreement.
+(b)    Critical Transition Milestones
+Each Transition Plan shall include those milestones that are critical to the success of the Transition (the 
+“Critical Transition Milestones”
+). For each Critical Transition Milestone, the Transition Plan shall set forth: (i) the transition activities that must be completed by Provider or Customer, as applicable, in order for the Critical Transition Milestone to be deemed to have been achieved (the 
+“Critical Transition Activities”
+); (ii) the applicable Acceptance Criteria; and (iii) the date by which the Critical Transition Milestone must be achieved. A Critical Transition Milestone will not be accepted until such time as each Critical Transition Activity included within the Critical Transition Milestone has satisfied all applicable Acceptance Criteria.
+(c)    Conduct of the Transition
+Provider and Customer shall plan, prepare for and conduct the Transition in accordance with the written Transition Plan, which shall constitute part of the Agreement and with minimal disruption to Customer Group’s business operations. The Customer Technical Alliance Manager and the Provider Client Executive shall meet as required 
+Page 36
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(but in any case, no less than once per week) to ensure the appropriate execution and completion of the Transition Plans. 
+ 
+(d)    Transition Charges 
+Provider will be responsible for all costs associated with the Transition activities executed by Provider, including travel and living expenses. Customer will be responsible for all costs associated with the Transition activities executed by Customer, including travel and living expenses. Charges for the Transition, if any, will be itemized and included in the applicable “
+Charges
+” 
+Schedule
+.
+(e)    Affected Employees
+Customer may agree in any Service Agreement to provide Provider with the opportunity to offer employment to certain of the employees of Customer Group in connection with the execution of such Service Agreement. The “
+Affected Employees
+” 
+Schedule
+ to such Service Agreement shall set forth the Parties’ agreement with respect to such employees.
+11.2.    
+Transformation
+ 
+(a)    Transformation Plan
+Provider shall, if provided for in a Service Agreement, enhance the performance and delivery of Services through the transformational activities described in the “
+Transformation
+” 
+Schedule
+ to such Service Agreement. The “
+Transformation
+” 
+Schedule
+ shall include an initial transformation plan that describes the Services, projects, tasks, responsibilities and timelines for activities to be performed in connection with the evolution and transformation of the functions comprising the Services and such other information and planning as are necessary to ensure that the Transformation takes place on schedule and without disruption to Customer Group’s operations (the 
+“Initial Transformation Plan”
+). The final Transformation Plan shall be mutually-agreed upon by the Parties not later than the date specified in the “
+Transformation
+” 
+Schedule
+. Provider shall perform transformation activities as part of the Services and in accordance with the timeframes provided in the Transformation Plan. Detailed plans describing how such activities will be performed and implemented shall be drafted and proposed by Provider within the time frames specified in the Transformation Plan and are subject to approval by Customer. 
+(b)    Critical Transformation Milestones
+Each Transformation Plan shall include those milestones that are critical to the success of the Transformation (the 
+“Critical Transformation Milestones”
+). For each Critical Transformation Milestone, the Transformation Plan shall set forth: (i) the transformation activities that must be completed by Provider or Customer in order for the Critical Transformation Milestone to be deemed to have been achieved (the 
+“Critical 
+Page 37
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+Transformation Activities”
+); (ii) the applicable Acceptance Criteria; and (iii) the date by which the Critical Transformation Milestone must be achieved. A Critical Transformation Milestone will not be accepted until such time as each Critical Transformation Activity included within the Critical Transformation Milestone has satisfied all applicable Acceptance Criteria.
+(c)    Conduct of the Transformation
+Provider shall plan, prepare for and conduct the Transformation in accordance with the written Transformation Plan, which shall constitute part of the Agreement and with minimal disruption to Customer Group’s business operations. The Customer Technical Alliance Manager and the Provider Client Executive shall meet as required (but in any case, no less than once per week) to ensure the appropriate execution and completion of the Transformation Plans. 
+ 
+(d)    Transformation Charges 
+Provider will be responsible for all costs associated with the Transformation, including travel and living expenses. Charges for the Transformation, if any, will be itemized and included in the applicable “
+Charges
+” 
+Schedule
+.
+12.    GOVERNANCE
+12.1.    
+Account Governance
+Customer’s account will be governed in accordance with the “
+Account Governance
+” 
+Exhibit
+. The Services shall include all Provider obligations set forth in the “
+Account Governance
+” 
+Exhibit
+, and all other project management, governance and related management activities described herein and in the Service Agreements or Schedules thereto, and shall be performed by Provider at no additional cost to Customer. 
+12.2.    
+Provider Client Executive
+(a)    Appointment
+Provider will designate a senior-level individual who will be primarily dedicated to Customer’s account and shall have a primary office in Southlake, Texas (the 
+“Provider Client Executive”
+). The Provider Client Executive (i) must be approved by Customer, (ii) will be the primary contact for Customer in dealing with Provider under this Agreement, (iii) will have overall responsibility for managing and coordinating the delivery of the Services, (iv) will meet regularly with the Customer Technical Alliance Manager, (v) will have the power and authority to make decisions with respect to actions to be taken by Provider in the ordinary course of day-to-day management of Customer’s account in accordance with the Agreement, and (vi) will serve as an escalated point of contact for Service delivery issues in accordance with the Dispute Resolution Procedures. 
+Page 38
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(b)    Replacement
+Provider shall maintain the initial Provider Client Executive on Customer’s account for a period of at least [***] following his or her appointment to the Customer account (which may precede the Effective Date), and each of the subsequent Provider Client Executives for a period of at least [***] from his or her appointment to the Customer account, unless such Provider Client Executive: (x) voluntarily resigns from Provider, (y) is unable to work due to his or her death, injury or disability, or (z) is removed from the Customer assignment at the request of Customer (
+“Permitted Client Executive Reassignment Exceptions”
+). Provider shall give Customer at least [***] advance Notice of a change of the Provider Client Executive. If Provider is unable to provide [***] advance Notice as a result of a Permitted Client Executive Reassignment Exception, the longest Notice otherwise possible. Provider shall address, to Customer’s satisfaction, any concerns that Customer may have with the proposed change or promptly propose a different individual for such position. 
+12.3.    
+Customer Technical Alliance Manager
+During the Term, Customer will designate a senior level individual (i) who will serve as Customer’s primary contact for Provider in dealing with Customer under this Agreement, (ii) who will have the power and authority to make decisions with respect to actions to be taken by Customer in the ordinary course of day-to-day management of this Agreement, and (iii) who will serve as an escalated point of contact for any Service delivery issues in accordance with the Dispute Resolution Procedures (the 
+“Customer Technical Alliance Manager”
+). The Customer Technical Alliance Manager may designate in writing a reasonable number of additional Customer employees to be points of contact for Customer with respect to particular subject matters relating to this Agreement. Customer may from time to time replace the individual serving as the Customer Technical Alliance Manager by providing notice to Provider.
+12.4.    
+Provider Client Executive and Customer Technical Alliance Manager Meetings 
+During the Term, the Customer Technical Alliance Manager and Provider Client Executive shall meet periodically, as specified in the “
+Account Governance
+” 
+Exhibit
+, at such times and locations as reasonably requested by either Party, to review their respective performance under the Agreement. For each such meeting, the Customer Technical Alliance Manager and Provider Client Executive shall agree to and publish an agenda sufficiently in advance of the meeting to allow meeting participants a reasonable opportunity to prepare for the meeting. 
+12.5.    
+Governance and Committees
+ 
+The Parties shall form and participate in the committees required by the “
+Account Governance
+” 
+Exhibit
+.
+12.6.    
+Technology Governance; New Technology
+ 
+Page 39
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(a)    Technology Governance
+At least once every six months during the Term (or as otherwise set forth in a Service Agreement), Provider will meet with Customer to: (i) discuss any new information processing technology Provider is developing or information processing trends and directions of which either Party is otherwise aware that could reasonably be expected to have an impact on Customer Group’s business; and (ii) identify, jointly with Customer, cost-efficient methods to implement technological changes and methodologies that could be beneficial to Customer Group in connection with the Services, all in accordance with the “
+Account Governance
+” 
+Exhibit
+. If Customer requests Changes to the technology or methodologies Provider uses to provide the Services as a result of such discussions, the Parties will discuss implementation of any such new technology and methodologies in accordance with the applicable Procedures Manual and Change Control Procedures and make appropriate adjustments to Charges, if any. 
+(b)    Technology Changes
+In all instances, Provider must provide Customer sufficient Notice of Provider’s intent to implement new technology or methodologies that could impact the Services, and sufficient information in order that Customer may analyze the effect of the new technology or methodologies on Customer Systems. Any agreed-upon Changes will be implemented in accordance with the Change Control Procedures and Customer will be given sufficient opportunities to acceptance test any such implementation.
+(c)    Technology Recommendations 
+Provider shall, with respect to any new technology or methodologies proposed by Provider after the Commencement Date that comprise or could impact the Services, or that would constitute New Services, analyze and consider all applicable industry standard technology or methodologies (including technology or methodologies manufactured or owned by Provider competitors) prior to making a recommendation to Customer. Provider’s review and analysis of, and recommendation for, any such new technology or methodologies shall be conducted in accordance with the “
+Account Governance
+” 
+Exhibit
+ and shall, at a minimum, take into account Customer Group’s best interests, including Customer’s ability to in-source the Services or outsource the Services to a Successor Provider upon any termination or expiration of the Agreement, a Service Agreement or any of the Services.
+13.    RELATIONSHIP PROTOCOLS
+13.1.    
+Alternate Providers; Provider Cooperation
+ 
+(a)    Non-Exclusive Relationship 
+The relationship between the Parties is non-exclusive. Customer Group shall have the right during the Term to retain Third Parties to perform any service, function, 
+Page 40
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+responsibility, activity or task that is within the scope of the Services, or to perform any service, function, responsibility, activity, or task internally (i.e., insourcing), only by exercising its termination rights under the Agreement; provided, however, the foregoing shall not (i) prevent Customer Group from exercising its rights to engage a Third Party or perform a Service itself as expressly provided for in the Agreement; (ii) prevent Customer Group from reducing Service volumes in the normal course of business, subject to the pricing mechanism for such adjustments set forth in the applicable “
+Charges
+” 
+Schedule
+; or (iii) otherwise preclude Customer Group from retiring or ceasing Services, reducing Service volumes or insourcing or re-sourcing Services in connection with an agreed upon Transformation Plan or Transition Plan under a Service Agreement [***], or as otherwise expressly contemplated in the Agreement, and Customer shall not be required to exercise its termination rights in connection with (i), (ii) or (iii) above. In the case of Customer’s termination of Services under this 
+Section 13.1(a)
+, the Charges for the remaining Services will be as set forth in the applicable Service Agreement or if not addressed in such Service Agreement, the Charges will be equitably adjusted to reflect those Services that are no longer required. 
+(b)    Cooperation; Obligations of Alternate Providers
+Provider shall cooperate with any Third Parties and Customer as requested by Customer from time to time. Such cooperation shall include: (i) Provider’s performance of Termination Assistance Services in accordance with 
+Section 18.5
+ of the Master Agreement and the “
+Termination Assistance Services
+” 
+Schedule
+ to the applicable Service Agreement; (ii) providing reasonable physical and logical access to any facilities used by Provider to provide the Services and to the data, books and records in the possession of Provider regarding the Customer Business or the Services; (iii) providing such information to Customer and the Third Party regarding the operating environment, system constraints and other operating parameters used to provide the Services; and (iv) such other reasonable cooperation as may be requested by Customer. Provider’s obligations hereunder shall be subject to the Third Party’s compliance with reasonable facilities, data and Physical Security and other applicable standards and procedures, execution of appropriate and reasonable confidentiality agreements, and reasonable scheduling of computer time and access to other resources to be furnished by Provider pursuant to the Agreement.
+13.2.    
+Personnel Resources
+(a)    Key Personnel
+(i)    The Parties will designate those Provider employees serving as Key Personnel in the “
+Key Personnel; Restricted Personnel
+” 
+Schedule
+ to each Service Agreement. Unless otherwise set forth in the applicable “
+Key Personnel; Restricted Personnel
+” 
+Schedule
+, all Key Personnel will be dedicated full-time to the provision of the Services. Before assigning any individual to a Key Personnel position, Provider will: (A) give Customer prior Notice of the assignment, introduce the individual to the Customer 
+Page 41
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+Technical Alliance Manager or his or her designee(s) and provide information reasonably requested by Customer about the individual; and (B) obtain Customer’s consent. Except as provided in 
+Section 13.2(a)(ii)
+ below, such consent may not be unreasonably withheld. Provider may not substantially change the role of a Key Personnel as it pertains to the Services without Customer’s prior written consent.
+(ii)    Unless earlier removed in accordance with the Agreement, a Key Personnel will retain his or her status as a Key Personnel for the [***] period commencing on the date such individual commences work on the Customer account as a Key Personnel, unless a longer or shorter period is provided for in the “
+Key Personnel; Restricted Personnel
+”
+ Schedule
+. Without Customer’s prior consent, which it may withhold in its sole discretion, Provider will not replace or reassign (1) the Provider Client Executive, for the applicable time period set forth in 
+Section 12.2(b)
+, or (2) any other Key Personnel for a [(((] period commencing on the date such individual commences work on the Customer account as a Key Personnel (or such time period as is provided for in the “
+Key Personnel; Restricted Personnel
+”
+ Schedule
+). This paragraph (ii) does not apply to replacement of an individual who (a) voluntarily resigns from Provider, (b) is dismissed by Provider for cause (e.g., fraud, drug abuse, theft or failure to perform duties and responsibilities) or (c) dies or is unable to work because of a disability. In addition to the foregoing and except as otherwise set forth in the “
+Key Personnel; Restricted Personnel
+”
+ Schedule
+, Provider shall maintain [***] resourcing / succession plans with respect to Key Personnel to ensure required skill levels continue to be available to Customer Group, as further described in the applicable “
+Key Personnel; Restricted Personnel
+” 
+Schedule
+. 
+(iii)    [***]
+(iv)    Key Personnel may not be transferred or re-assigned until a suitable replacement has been proposed by Provider and approved by Customer, provided, however, if any Key Personnel leaves his or her employment with Provider or continued performance of any such Key Personnel in such role is impossible due to illness, disability, death or termination of employment, Provider may temporarily replace such person with a qualified person without Customer’s consent. Any replacement of Key Personnel must be conducted in accordance with a mutually agreed upon transition plan for such position that includes at least the following: (a) technical requirements (if not already defined); (b) a timetable for integration of the replacement Key Personnel; and (c) replacement methodology designed to minimize the loss of knowledge as a result of losing the Key Personnel.
+Page 42
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(v)    Provider will assume any and all costs and expenses associated with the: (a) departure or re-assignment of Key Personnel; and (b) development and implementation of the transition plan, including costs and expenses associated with knowledge transfer, integration and training of replacement personnel.
+(b)    Turnover Rate; Retention of Experienced Resources
+(i)    Provider will provide a semi-annual turnover report of the Provider Personnel, and the Parties will work together to reduce the turnover rate. Provider will ensure that all replacement personnel receive sufficient information and training, without additional charge to Customer, to assure continuity of Services without adverse impact on Customer Group or the Services. Provider will take steps to keep the turnover rate at a level reasonably acceptable to Customer.
+(ii)    If Provider fails to meet the Service Levels persistently or continuously and if Customer reasonably believes such failure is attributable in whole or in part to Provider’s reassignment, movement, or other changes in the Provider Personnel, Customer will notify Provider of such belief and the basis for such belief. Upon receipt of such Notice from Customer, Provider (a) will promptly provide to Customer a report setting forth Provider’s position regarding the matters raised by Customer in its Notice; (b) will meet with Customer to discuss the matters raised by Customer in its Notice and Provider’s positions with regard to such matters; and (c) will promptly and diligently take commercially reasonable action to address any Provider human resource practices or processes identified by Customer as adversely impacting the performance and delivery of the Services by Provider.
+(c)    Customer Requested Replacement of Provider Personnel
+Customer shall have the right at any time, in its sole discretion and at no cost to Customer (including costs associated with the: (i) departure or re-assignment of Provider Personnel; and (ii) knowledge transfer, integration and training of replacement personnel) to give Provider Notice requiring that any Provider Personnel or proposed Provider Personnel (as applicable) not be appointed, or be removed from, the Provider Personnel group servicing Customer Group, and be replaced with another Provider Personnel. Promptly after its receipt of such a Notice, Provider shall remove the Provider Personnel identified in Customer’s Notice.
+(d)    Background Investigations
+Provider shall have performed a background investigation of all of Provider Personnel who will perform any of the Services, or any part thereof or related thereto, or will have physical or logical access to any of Customer Group’s Company Information, 
+Page 43
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+in accordance with the requirements set forth in the “
+Background Investigations
+” 
+Exhibit
+. Provider shall not knowingly assign any personnel to Customer’s account or otherwise permit any of its personnel to have physical or logical access to Customer Group’s Company Information who have been found to have engaged in criminal acts that involve fraud, dishonesty, or breach of trust, or violated any provision of the Federal Crime Bill, or that constitute a felony under applicable Law (collectively, 
+“Felony”
+). Provider will have the ongoing duty, upon learning that one of Provider’s employees or Provider Agents has been convicted of a Felony to remove such individual immediately from the Customer account and notify Customer that such individual was removed as a result of a Felony conviction. 
+(e)    Independent Contractor
+Except to the extent of the limited agency appointment in 
+Section 13.5(c)
+, neither Provider nor Provider Personnel are or shall be deemed to be employees or agents of Customer Group. Provider shall be solely responsible for the payment of compensation (including provision for employment taxes, federal, state and local income taxes, workers compensation and any similar taxes) associated with the employment of Provider Personnel. Provider acknowledges and agrees that only eligible employees of Customer Group are entitled to benefits under Customer Group’s: (i) pension and welfare plans (as the Employment Retirement Income Security Act defines those terms); and (ii) any other benefit arrangements, and that Provider’s status as an independent contractor makes Provider Personnel ineligible to participate in these plans and arrangements. Provider shall also be solely responsible for obtaining and maintaining all requisite work permits, visas, and any other documentation. Provider Personnel that will be performing work at any time at Customer Facilities shall receive from Provider a form W-2 or the equivalent proof of an employer-employee relationship for employees domiciled outside the United States, and, unless Provider requests, and Customer approves in advance in writing, all such Provider Personnel will not be a consultant, independent contractor or subcontractor of Provider.
+13.3.    
+Use of Provider Agents
+(a)    No Subcontracting Without Consent
+Provider shall not subcontract: (i) to one or more Third Parties (through one or more agreements) with respect to performance of Services in any one Service Tower for fees in any [***]. Before subcontracting any portion of the Services that requires Customer consent, Provider must notify Customer of the proposed subcontractor, the scope of the services proposed to be subcontracted, and, only with respect to dedicated subcontracts, the terms of the proposed subcontract (including whether Provider has sufficient rights under such subcontract to permit Customer to audit such Provider Agent in accordance with 
+Section 14.2(b))
+, and obtain Customer’s approval of such subcontractor and terms. Before amending or supplementing any dedicated subcontract, Provider will notify Customer of the terms of the proposed amendment, modification or supplement and will obtain Customer’s approval thereof. Any Provider Agent approved 
+Page 44
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+by Customer as of the Service Agreement Execution Date shall be set forth on the “
+Approved Provider Agents
+” 
+Schedule
+ to the applicable Service Agreement 
+(b)    Provider Retains Responsibility
+(i)    Provider is responsible for the work and activities of each of the Provider Agents and Provider Personnel employed by Provider Agents, and Provider will continually monitor and manage such Provider Agents. Provider will remain Customer’s sole point of contact regarding the Services.
+ 
+For purposes of determining Provider’s liability and its obligations with respect to the performance of the Services, any time the term 
+“Provider”
+ or the term 
+“
+Party
+”
+ (where such term relates to a Provider liability or obligation) is used in this Agreement it includes all Provider Agents performing any part of this Agreement on behalf of Provider. 
+(ii)    Provider is responsible for all payments to Provider Agents. Provider will promptly pay for all services, materials, equipment and labor used by Provider in providing the Services and Provider will promptly cause any Provider Agent to remove any lien on Customer Group’s premises in favor of such Provider Agent.
+(iii)    If Customer is dissatisfied with the performance of any Provider Agent, Customer will promptly provide Provider Notice and Provider and Customer will discuss and implement, as soon as possible thereafter, a means for Provider to resolve the issue to Customer’s satisfaction. If Provider does not resolve the issue within a reasonable amount of time (as determined by Customer), Provider will promptly replace such Provider Agent with a Person that meets Customer’s standards, or perform the activities itself.
+(iv)    If Customer has a claim or cause of action against Provider and a Provider Agent arising out of the performance, non-performance or conduct of the Provider Agent in the performance of any of the Services, the aggregate liability of Provider and the applicable Provider Agent for such claim or cause of action to Customer shall be subject to the limitations on liability (and the exceptions to any such limitations on liability) set forth in 
+Section 19
+ of this Master Agreement.
+(c)    Provider Agent Agreements
+Provider shall enter into written agreements with any Provider Agents performing Services that: (i) require such Provider Agents to comply with the Customer Policies, the Security Requirements and other data privacy and security-related obligations under the Agreement in performing the Services, (ii) require the Provider Agents to comply with confidentiality provisions no less protective of Customer’s Confidential Information than 
+Page 45
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+this Agreement, (iii) contains such provisions for the assignment of Intellectual Property Rights as are necessary for Customer to receive ownership of Work Product, and (iv) otherwise enables Provider to comply with the provisions of the Agreement. 
+(d)    Cooperation with Customer
+Provider will ensure that each Provider Agent engaged by Provider to perform a portion of the Services will make, execute and deliver to Customer such disclosures and agreements as Customer may from time to time reasonably request in order to comport with the requirements of applicable Laws and Third Party Agreements.
+(e)    Assignment
+With respect to any subcontracts for Services dedicated solely to Customer, Provider shall (and with respect to all other subcontracts for Services, Provider shall use commercially reasonable efforts), in any new, amended or renewed agreement between Provider and a subcontractor to specifically provide that Customer may take an assignment of the agreement from Provider without payment of a fee or other penalty in the event that (i) this Agreement or the applicable Service Agreement is terminated in whole or in part or expires, or (ii) Provider is in material breach of this Agreement or the applicable Service Agreement.
+13.4.    
+Contract Management
+Provider will be responsible for administering, managing and maintaining the Third Party Agreements, Managed Agreements, Assumed Agreements, Provider Third Party Agreements and Replacement Agreements, in each case as set forth on the applicable “
+Third Party Agreements
+” 
+Schedule
+. 
+13.5.    
+Required Consents
+(a)    Consents
+Provider will, at its own expense, (i) obtain, maintain and comply with all of the Provider Consents; and (ii) comply with the Customer Consents. Customer will, with assistance as requested from Provider, obtain, maintain and comply with the Customer Consents. Each Party will cooperate with the other Party, as requested by the other Party, in the other Party’s obtaining the Required Consents that such other Party is required to obtain pursuant to this 
+Section 13.5
+.
+(b)    Workaround
+If any Customer Consent is not obtained, then, unless and until such Customer Consent is obtained, the Parties will (in addition to the limited agency appointment in 
+Section 13.5(c)
+ below) cooperate with each other in achieving a reasonable alternative arrangement to continue Provider’s provision of the applicable Services that does not 
+Page 46
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+have an adverse impact on Customer Group or result in any additional cost or expense to Customer Group.
+(c)    Limited Agency Appointment
+Customer hereby designates Provider as its agent, and Provider accepts such appointment as a part of the Services, for the limited purposes of administering, managing, supporting, operating under and paying under all Third Party Agreements as to which Customer Consents are required and have not been obtained. Customer does not appoint Provider as its agent for any other purpose. Provider will perform its obligations and responsibilities as an agent pursuant to this paragraph (c) under all Third Party Agreements subject to the provisions of this 
+Section 13.5
+ and the Agreement. Upon Customer’s request, Provider will provide to Customer all information and documentation Customer may reasonably request related to Provider’s activities as Customer’s agent with regard to such Third Party Agreements. Customer may terminate or provide additional restrictions on Provider’s agency appointment with respect to any Third Party Agreement at any time in Customer’s discretion. To the extent that any such termination or restrictions interferes with Provider’s ability to perform the Services or increases Provider’s costs to provide the Services, such termination or restrictions will be implemented in accordance with the Change Control Procedures. 
+13.6.    
+Change Control Procedures
+(a)    Operational Change Control
+The procedures that will govern (i) the process by which a Party may propose or request operational Changes, (ii) the process to be followed by the Parties in analyzing the effects of, and deciding whether to implement, any such Change, and (iii) the manner in which any agreed upon Changes are to be implemented (the 
+“Operational Change Control Procedures”
+), are set forth in the applicable Procedures Manual. Among other things, the Operational Change Control Procedures will provide that:
+(i)    no Change will be implemented without Customer’s prior written approval, except as may be necessary on a temporary basis to maintain the continuity of the Services;
+(ii)    with respect to all Changes, other than those Changes made on a temporary basis to maintain the continuity of the Services, Provider will prepare and deliver to the Customer Technical Alliance Manager a written analysis describing any changes in products, services, assignment of personnel and other resources that Provider believes would be required, together with, as appropriate or applicable (A) an estimation of the increase or decrease, if any, in the Charges that would be required, (B) a description of how the Change would be implemented, (C) a description of the effect, if any, such Change would have on this Agreement, including on Service Levels and Winddown Expenses, (D) an estimation of all 
+Page 47
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+resources required to implement such Change, including a description of the delivery risks and associated risk mitigation plans, and (E) such other information as may be relevant to the Change;
+(iii)    with respect to all Changes, other than those Changes made on a temporary basis to maintain the continuity of the Services, Provider will (a) schedule Changes so as not to unreasonably interrupt Customer’s business operations, (b) prepare and deliver to Customer each month a rolling schedule for ongoing and planned Changes for the next three month period, and (c) monitor and report to Customer the status of Changes that are in-progress against the applicable schedule; and
+(iv)    with respect to any Change made on a temporary basis to maintain the continuity of the Services, Provider will document and provide to Customer notification (which may be given orally, provided that any oral notice must be confirmed in writing to Customer within five Business Days) of the Change no later than the next Business Day after the Change is made.
+(b)    Contract Change Control
+The procedures that will govern (i) the manner in which a Party may propose or request modifications to this Agreement, its Schedules or any other attachments, (ii) the process to be followed by the Parties in analyzing the effects of, and deciding whether to adopt, any such modifications, and (iii) the manner in which any agreed upon modifications are to be reflected in this Agreement (the 
+“Contract Change Control Procedures”
+), are set forth in the “
+Change Control Procedures
+” 
+Exhibit
+. The Contract Change Control Procedures apply also to any modifications required to be made to this Agreement to reflect modifications agreed upon by the Parties pursuant to the Operational Change Control Procedures. All modifications to this Agreement, its Schedules or any other attachments hereto require the prior written approval of the Customer Technical Alliance Manager or his or her designee.
+(c)    Asset Changes
+The procedures that will govern the manner in which Asset Changes are conducted are set forth in the “
+Change Control Procedures
+” 
+Exhibit
+.
+(d)    Changes to Procedures
+The Parties will update and revise the Operational Change Control Procedures and the Contract Change Control Procedures (collectively, the 
+“Change Control Procedures”
+) as they deem necessary or advisable from time to time, in each case in accordance with the Contract Change Control Procedures then in effect.
+14.    INSPECTIONS AND AUDITS
+Page 48
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+14.1.    
+Audit Rights
+(a)    Provider Records
+Provider shall maintain, at all times during the Term and at no additional charge to Customer, complete and accurate records and supporting documentation pertaining to: (i) all Charges and financial matters under this Agreement, in all cases prepared in accordance with GAAP; (ii) all other transactions, reports, filings, returns, analyses, Work Product, data and information created, generated, collected, accessed, processed or stored by Provider and any Provider Agent in the performance of the Services; and (iii) all controls relevant to Provider’s internal controls relating to the Services and those controls provided for in any Service Agreement to be executed by Provider and relating to Customer’s control over the activities of Provider (collectively, 
+“Provider Records”
+), all in a manner sufficient to permit the Audits in accordance with this 
+Section 14
+.
+(b)    Operational Audits
+Provider shall provide to Customer and to internal and external auditors, inspectors, regulators and other representatives that Customer may designate from time to time (
+“Customer Auditors”
+) access in accordance with 
+Section 14.2(b)
+ below to perform operational audits and inspections of Provider, Provider Agents and their respective facilities (
+“Operational Audits”
+), to: (i) verify the integrity of the Customer Data; (ii) examine the systems that access, process, store, support and transmit that data and examine the results of external Third Party data processing audits or reviews relating to Provider’s operations relevant to the Services; (iii) verify whether the Services comply with Customer Compliance Requirements and the requirements of the “
+Privacy Requirements
+” 
+Exhibit
+; (iv) evaluate Provider’s compliance with the requirements of the “
+Information Security Requirements
+” 
+Exhibit
+ (i.e., Provider’s physical and logical security and Disaster Recovery Services), including examination of all self-conducted and Third Party intrusion vulnerability and penetration assessments and reports; (v) confirm that the Services are being provided in accordance with the Agreement, including the Service Levels; (vi) verify the integrity of Provider’s Performance Reports (including raw data from which such Performance Reports are compiled); (vii) facilitate Customer Group’s compliance with Customer Compliance Requirements; and (viii) examine, test and assess Provider’s systems, policies and procedures relating to intrusion detection and interception with respect to the Provider systems used to provide the Services, provided that any penetration testing on Shared Systems or any other system which would reasonably impact a Provider customer shall be subject to Provider’s security policies and the prior written consent of the Third Party with whom such system is shared, which Provider shall use commercially reasonable efforts to obtain. 
+(c)    Financial Audits
+Provider shall provide to Customer and Customer Auditors access in accordance with 
+Section 14.2(b)
+ below to perform financial audits and inspections 
+(“Financial Audits”
+) to: (i) verify the accuracy and completeness of Provider Records; and (ii) verify 
+Page 49
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+the accuracy and completeness of Provider’s invoices and Charges. If an Audit reveals that errors have been made in connection with the Charges, then the Parties will work together to correct the error and any overpayments revealed by the Audit will be promptly paid by Provider or credited to Customer and any underpayments revealed, will be promptly paid by the Customer. [***] If repeated Audits reveal that there are consistent errors in connection with Charges, this problem will be escalated in accordance with the Dispute Resolution Procedures.
+(d)    Regulatory Audits
+(i)    Upon written request made by a Governmental Authority to Provider or to Customer Group, or by Customer in response to a Governmental Authority request, Provider will (i) promptly make available to the Governmental Authority or Customer Auditors Provider Records and other information relating to Provider’s and Provider Agents’ compliance with 
+Section 7
+ of this Master Agreement and, (ii) if so requested, provide the requesting Governmental Authority or Customer Auditors access in accordance with 
+Section 14.2(b)
+ to examine Provider’s or Provider Agents’ compliance with 
+Section 7
+ of this Master Agreement and for purposes of facilitating Customer Group’s compliance with applicable Customer Compliance Requirements (
+“Regulatory Audits”
+).
+(ii)    If the request is received by Provider directly from a Governmental Authority, Provider shall notify Customer in a timely manner. Provider shall respond to any Regulatory Audit regarding Customer Group according to Customer’s direction, subject to Provider’s obligations under Law. Provider may provide information to Governmental Authorities only under the direction of the Controller of Customer (or his or her designates and agents). Provider shall provide such information in a timely manner either to Customer or, at Customer’s request, directly to the applicable Governmental Authority. As part of a Regulatory Audit, Provider shall answer questions from Governmental Authorities with respect to their processing of certain transactions for Customer Group. Customer shall be entitled to send a representative to be present at all such discussions with such Governmental Authorities if and to the extent not prohibited by Law.
+(e)    Provider Audits and Reporting
+(i)    Provider shall provide to Customer at Customer’s request, and for no additional compensation, all reports reasonably deemed necessary or desirable by Customer to support the review, audit and preparation of audit reports relating to the Services and Customer Group’s financial statements and reports, which reports shall include those referenced in paragraph (ii) below (collectively, 
+“Provider Audits”
+).
+Page 50
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+(ii)    At all times during the SOX Compliance Period, Provider will, and will cause each of the Provider Agents to: 
+(1)    maintain in effect the controls, operations and systems that are sufficient for Customer Group to comply with its obligations under SOX and update the controls, documentation, and Procedures Manuals to meet SOX requirements for all activities it performs for Customer Group. Any changes in the Services, as defined at the Effective Date, that Customer determines are required to comply with SOX are subject to the Change Control Procedures. Unless otherwise directed by Customer, Provider shall not make any changes to Customer Group environment after [***] during any calendar year; 
+(2)    provide to Customer or Customer Auditors, on a timely basis, (A) access to the books and records and personnel of Provider and Provider Agents as Customer may reasonably request, and (B) all information, reports and other materials requested by Customer to evaluate and confirm that Customer is in compliance with its obligations under SOX and to enable Customer Auditors to attest to and report on the assessment of Customer’s management as to the effectiveness of its internal control structure and procedures under SOX, including (i) Control activities/objectives for the SSAE 18 (or successor standard approved by Customer) SOC 1 Type II audit report by [***]; 
+(3)    generally cooperate with Customer and Customer Auditors in any other way that Customer or Customer Auditors may request to enable Customer Group to comply, and Customer and Customer Auditors to evaluate whether Customer Group complies, with SOX as it relates to the Services; and
+(4)    comply with future guidance relating to SSAE 18 (or ISAE 3402 if requested by Customer) (or successor standard approved by Customer) as issued by the American Institute of CPAs (AICPA), International Auditing and Assurance Standards Board (IAASB), the Securities and Exchange Commission or the Public Company Accounting Oversight Board.
+(iii)    If Provider is unable to timely deliver to Customer an unqualified opinion or certification, Provider shall, [***]: (A) provide Customer, on the date such opinion or certificate is delivered, or is due to be delivered, with a written statement describing the circumstances giving rise to any delay in delivering such opinion or certificate or any qualification to such opinion or certificate; (B) immediately take such actions as shall be necessary to resolve such circumstances and deliver an unqualified 
+Page 51
+SABRE AND DXC CONFIDENTIAL INFORMATION
+Sabre – Master Services Agreement
+Exhibit 10.103
+EXECUTION VERSION
+AMENDED AND RESTATED
+opinion or certificate as promptly as practicable thereafter; and (C) permit Customer and its external auditors to perform such procedures and testing of Provider’s controls and processes as are reasonably necessary for their assessment of the operating effectiveness of Provider’s controls and of Customer’s internal controls applicable to the Services and the related business functions of Customer Group. 
+(iv)    Customer shall have the right to provide all such reports, opinions and certifications delivered hereunder to its investors, attorneys, accountants and other advisors, who shall be entitled to rely thereon and to otherwise disclose such matters as it determines to be necessary or desirable. In addition, Customer shall have the right to provide copies of its SSAE Type II audits, or similar certification, to current customers of Customer Group whose data is processed on Provider-managed operating systems, subject to such customer’s prior agreement to hold such information in confidence.
+14.2.    
+Audit Procedures
+(a)    Audit Plan
+During the initial Transition period, and thereafter on an annual basis, the Contract Managers will determine the timing and schedule for Audits for such year and agree upon audit guidelines and scope in accordance with this 
+Section 14
+ (the 
+“Annual Audit Plan”
+). The Annual Audit Plan will include: (i) Operational and Financial Audits to be performed by or on behalf of Customer during such year; and (ii) the timing and scope of Provider Audits to be provided by Provider to Customer as part of the Services. All changes or additions to the Annual Audit Plan will be proposed on at least 30 days’ Notice except where shorter notice periods are required by a Governmental Authority. Notwithstanding the previous statement, Provider acknowledges and agrees that a Governmental Authority may require an Audit without prior notice to Customer or Provider and further acknowledges and agrees that Customer may conduct an Operational Audit without Notice following a Security Breach. Customer Auditors shall have the reasonable access set forth in

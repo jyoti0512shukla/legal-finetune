@@ -1,0 +1,945 @@
+EX-10.36
+
+3
+
+ea020805305ex10-36_leddar.htm
+
+SOFTWARE LICENSE AGREEMENT DATED AS OF DECEMBER 6, 2024, BETWEEN LEDDARTECH HOLDING INC. AND TEXAS INSTRUMENTS INCORPORATED
+
+Exhibit 10.36
+
+ 
+
+SOFTWARE LICENSE
+AGREEMENT
+
+ 
+
+This Software License Agreement (“
+Agreement
+”)
+is entered into by and between 
+LeddarTech Holdings Inc.
+, a company organized under
+the laws of Canada and having a principal place of business at 4535 boulevard Wilfrid-Hamel, Suite 240, Quebec (Quebec), G1P 2J7,
+Canada (“
+Licensor
+”), and 
+TEXAS INSTRUMENTS INCORPORATED
+, a Delaware corporation having a place of business at
+12500 TI Boulevard, Dallas, Texas 75243 (“
+TI
+”), and is effective as of the last date on the signature page (“
+Effective
+Date
+”).
+
+ 
+
+WHEREAS, 
+Licensor is a global software
+company that develops and owns comprehensive AI-based low-level sensor fusion and perception software that enables the deployment of ADAS,
+autonomous driving and parking applications.
+
+ 
+
+WHEREAS,
+ TI is a global semiconductor company
+that designs, manufactures and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics,
+communications equipment and enterprise systems. 
+
+ 
+
+WHEREAS,
+ Licensor and TI have entered into
+a collaboration agreement dated as of December 5, 2024 (the “
+Collaboration Agreement
+”) pursuant to which Licensor and
+TI have agreed to engage in a strategic collaboration to offer a joint solution to the worldwide automotive market (the “
+Combined
+Offering
+”) involving certain Software (as defined below) of Licensor and the processor chips of TI.
+
+ 
+
+WHEREAS, 
+TI wishes to license the Software
+from Licensor, and Licensor wishes to grant such license, upon the terms and conditions under this Agreement.
+
+ 
+
+NOW, THEREFORE
+, for the mutual promises
+contained herein and other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties hereto
+agree as follows:
+
+ 
+
+1.
+DEFINITIONS.
+
+ 
+
+1.1.
+“
+Acquirer
+” means a third party that acquires beneficial ownership or control of assets
+or interests of a party.
+
+ 
+
+1.2.
+“
+Acquisition
+” means any change of beneficial ownership or control of (a) all or
+substantially all of the assets of, (b) a material portion of or (c) any material interest in:
+
+ 
+
+(i)
+Licensor,
+
+ 
+
+(ii)
+the Software or
+
+ 
+
+(iii)
+Licensor’s IP Rights in the Software
+
+ 
+
+1.3.
+“
+Acquisition Closure
+” means that beneficial ownership or control passes to an Acquirer
+under an acquisition agreement.
+
+ 
+
+1.4.
+“
+Acquisition Proposal
+” means any written proposal to or from Licensor for an Acquisition.
+
+ 
+
+1.5.
+“
+Authorized User
+” means any person or entity authorized by TI to use the Licensor Products.
+Authorized Users may include but are not limited to TI employees, contractors, subcontractors and foundries.
+
+ 
+
+1.6.
+“
+Bankruptcy Filing
+” means the filing of an assignment in bankruptcy, a proposal or a
+notice of intention to make a proposal under the 
+Bankruptcy and Insolvency Act
+ (Canada), an application for an initial order under
+the 
+Companies’ Creditors Arrangement Act
+ (Canada) or any other equivalent proceeding under any other equivalent Law of any
+jurisdiction.
+
+ 
+
+1.7.
+“
+Confidential Information
+” will have the meaning assigned to it in Section 7.1.
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.8.
+“
+Disclosing Party
+” will have the meaning assigned to it in Section 7.1.
+
+ 
+
+1.9.
+“
+Documentation
+” means Licensor’s user manuals, programmer guides, system guides,
+datasheets, specifications and related materials that pertain to the Software, and all fixes, modifications, changes, corrections, updates,
+upgrades, new versions and enhancements of such documents, in each case provided to TI by Licensor under this Agreement.
+
+ 
+
+1.10.
+“
+IP Rights
+” means all patents, patent applications and other patent rights (including
+utility models) in all countries of the world issued or issuing on patent or utility model applications that are entitled to an effective
+filing date on or before expiration or termination of this Agreement; and all mask works, copyrights, trade secrets, know how and other
+intellectual property rights in all countries of the world; in each case that, during the term of this Agreement, the licensor owns or
+controls, or under which it has the right to grant licenses of the scope granted herein.
+
+ 
+
+1.11.
+“
+Laws
+” means any and all laws, orders and regulations, including, but not limited to,
+any applicable securities, environmental, health, safety, industrial hygiene, wage and hour, employment and immigration laws, orders and
+regulations.
+
+ 
+
+1.12.
+“
+Licensor Product(s)
+” means collectively the Software and Documentation.
+
+ 
+
+1.13.
+“
+Receiving Party
+” will have the meaning assigned to it in Section 7.1.
+
+ 
+
+1.14.
+“
+Software
+” means the LeddarVision development platform for use on TDA4 chips and to be
+ported on TDA5 chips, subject to availability, in object code form, including without limitation the basic fusion and perception modules,
+test programs and tools, created by or for the Licensor, to build ADAS solutions with the such processor chips of TI to produce TI Products
+for the purposes of the Combined Offering, and all fixes, modifications, changes, corrections, updates, upgrades, new versions and enhancements
+of such platform, in each case made or created, as the case may be, by or for the Licensor.
+
+ 
+
+1.15.
+“
+Subsidiary
+” means a corporation or other entity at any time directly or indirectly owned
+or controlled by a party hereto for so long as such ownership or control exists. A corporation or other entity shall be treated as being
+owned or controlled by a party hereto if such party directly or indirectly (a) owns more than fifty percent (50%) of its outstanding voting
+shares, (b) is able to direct substantially all of its business affairs or (c) is able to exercise control over the majority of the composition
+of its board of directors or equivalent body.
+
+ 
+
+1.16.
+“
+TI Products
+” means the final products comprising of the TDA4 and, subject to availability
+and porting, TDA5 chips of TI and the Software solely for use with such TI processor chips for the purposes of the Combined Offering.
+
+ 
+
+2.
+LICENSE GRANT.
+
+ 
+
+2.1.
+License
+. Licensor hereby grants to TI and its Subsidiaries, under all of Licensor’s IP Rights related
+to the Licensor Products, a non-exclusive, worldwide, irrevocable (subject to the termination provisions in Section 4), royalty-bearing
+license in and to the Licensor Products to use the Licensor Products during the term of this Agreement to:
+
+ 
+
+(a)
+access, test and verify the Licensor Products for subsequent incorporation into the TI Products;
+
+ 
+
+(b)
+design, have designed, develop, have developed, make, have made, market, demonstrate, distribute, import,
+export, sell, offer for sale, and support TI Products; and
+
+ 
+
+(c)
+sublicense, distribute, and demonstrate the TI Products which incorporate the Licensor Products.
+
+ 
+
+Page 
+2
+ of 10
+
+ 
+
+ 
+
+2.2.
+Authorized Users
+. TI may grant access to and use of the Licensor Products to Authorized Users in
+connection with the business of TI, including without limitation access and use by any of the following means: (a) on-site at TI, (b)
+at an Authorized User’s facility, and (c) via remote connection to TI’s network.
+
+ 
+
+2.3.
+Copies
+. TI may copy Licensor Products, in whole or in part, to the extent required to support the
+exercise of the rights granted to TI under this Agreement; provided that copies of Licensor Products shall include the copyright notices
+and legends as provided by Licensor with the Licensor Products when delivered to TI and each such copy remains subject to the terms and
+conditions of this Agreement. The right to copy includes the allowance to include and distribute the Documentation within the documentation
+for the TI Products.
+
+ 
+
+2.4.
+Permitted Use
+. TI shall not use the Licensor Products for any purposes beyond the scope of the
+licence granted in this Agreement. Without limiting the foregoing and except as otherwise expressly set forth in this Agreement, TI shall
+not at any time, directly or indirectly: (a) modify, or create derivative works of the Software or the Documentation, in whole or in part;
+(b) reverse engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to the source code of the Software,
+in whole or in part; (c) remove any proprietary notices from the Software or the Documentation; or (e) use the Software in any manner
+or for any purpose that infringes, misappropriates, or otherwise violates any intellectual property right or other right of any person,
+or that violates any applicable Laws.
+
+ 
+
+2.5.
+Royalties
+. The parties will negotiate in good faith to determine the royalties payable for the
+license granted in this Section 2 on a customer-by-customer basis. The royalties payable by TI shall be determined based on the relative
+value of the licensed Software to the Combined Offering versus other components of the Combined Offering. 
+Appendix A
+ sets out an
+example architecture that the parties will use as a reference when determining the royalties payable under this Agreement. The parties
+shall enter into an addendum to this Agreement for each customer engagement (the “
+Addendum
+”) to memorialize the applicable
+royalty rate and payment terms, and such other terms as may be appropriate with regards to such customer engagement. TI shall remit to
+Licensor nine million eight hundred and ninety thousand US Dollars (US$9,890,000) in pre-paid royalties (the “Pre-paid Royalty”)
+to offset future royalty obligations under this Agreement payable as follows: (a) five million US Dollars (US$5,000,000) shall be paid
+within thirty (30) days from the Effective Date, (b) three million US Dollars (US$3,000,000) shall be paid within five (5) days of delivery
+by Licensor to TI of the Software for demonstration at the CES 2025 conference, being the Software running in real time on the TDA4VH
+Development Board (Kit) running a Recorded Sequences Playback at target frame rate of 11 frames per second or better and (c) one million
+eight hundred and ninety thousand US Dollars (US$1,890,000) within five (5) days of the execution of an agreement by TI with a customer
+for the Combined Offering.
+
+ 
+
+3.
+TRANSFER, ASSIGNMENT AND CONTINUING USE.
+
+ 
+
+3.1.
+Prohibition
+. Except as otherwise provided in this Agreement, neither party shall assign nor transfer
+any of its rights or obligations, nor delegate any of its duties, hereunder without the prior written consent of the other party hereto
+(such consent not to be unreasonably delayed, conditioned or withheld) and any such attempted assignment shall be void.
+
+ 
+
+3.2.
+Acquisition Proposal
+. If Licensor receives or submits an Acquisition Proposal, Licensor shall,
+within fifteen (15) days of receipt or submission of such Acquisition Proposal and subject to any confidentiality provisions contained
+in the Acquisition Proposal, provide a written notification to TI of the Acquisition Proposal, which notification shall include the proposed
+date of Acquisition Closure and the name and address of the proposed Acquirer. TI acknowledges that the aforementioned obligations are
+subject to the requirements of the applicable Laws regarding mergers and acquisitions. If Licensor is prohibited by such Laws from complying
+with this Section 3.2 within the specified period of time, it shall do so as soon as is legally permissible. In the event Licensor
+is acquired after this Agreement becomes effective under Section 4.1 below, but before it is terminated in accordance with Section 4,
+such Acquisition shall in no event modify or affect the rights and licenses granted in this Agreement in respect of Licensor Products,
+and this Agreement and all of its terms shall remain in full force and effect and continue to be binding on the Acquirer.
+
+ 
+
+Page 
+3
+ of 10
+
+ 
+
+ 
+
+4.
+TERM AND TERMINATION.
+
+ 
+
+4.1.
+Term
+. The term of this Agreement shall begin on the Effective Date and shall continue until terminated
+in accordance with the terms of this Section 4.
+
+ 
+
+4.2.
+Termination for Cause
+. This Agreement may be terminated by either party as a result of (a) a breach
+by the other party of a term or condition of this Agreement that is not curable, (b) a breach by the other party of a term or condition
+of this Agreement that is curable but remains uncured for a period of sixty (60) days after the date of notice thereof, or (c) a material
+violation of applicable Laws.
+
+ 
+
+4.3.
+Automatic Termination
+. Unless otherwise terminated in accordance with this Section 4, this Agreement
+shall automatically terminate upon the execution by each of Licensor and TI of the master license agreement contemplated under the Collaboration
+Agreement.
+
+ 
+
+4.4.
+Survival
+. Any terms of this Agreement that, by their nature, a reasonable person would expect to
+be extended beyond the termination of this Agreement shall survive such termination. The rights and licenses granted under this Agreement
+shall survive any termination of this Agreement (other than Licensor’s termination under Section 4.2 or a termination of this Agreement
+pursuant to Section 4.3) as to any activities that occurred prior to such termination.
+
+ 
+
+5.
+LIMITED WARRANTY.
+
+ 
+
+5.1.
+General Warranty
+. Each party represents and warrants that (a) it is duly organized and validly
+existing under the Laws of its jurisdiction of incorporation or formation, (b) it has full corporate or other power and authority to enter
+into this Agreement and perform its obligations hereunder and (c) the execution and performance of its obligations under this Agreement
+shall not result in any violation or breach of any agreement, court order, injunction or judgment.
+
+ 
+
+5.2.
+Product and Maintenance Warranty
+. The Licensor represents and warrants that (a) the Software is
+free from viruses, backdoors, traps, “Trojan Horses,” “time bombs,” “spyware,” and any other feature or
+function that may disable, interfere with, monitor, terminate, slow, or modify the accuracy, availability or use of the Software (except
+access-control and/or security functions that may be specifically approved in advance in writing by TI); (b) the Software is complete
+and operates in conformance to the Documentation; (c) the Documentation is sufficient to allow a user reasonably proficient in the use
+of similar technology to use the Software effectively; (d) the Software is compatible with the equipment and software configurations recommended
+by Licensor and such equipment and configurations are adequate for execution of the Software; and (e) the maintenance and other support
+services provided by Licensor hereunder to build the Combined Offering, once agreed upon by TI and the Licensor for a customer, will be
+provided in a timely and workmanlike and professional manner.
+
+ 
+
+Page 
+4
+ of 10
+
+ 
+
+ 
+
+5.3.
+Bankruptcy Related Covenant
+. The Licensor acknowledges and confirms that this Agreement grants
+TI a right to use Licensor’s intellectual property as contemplated by section 32(6) of the 
+Companies’ Creditors Arrangement
+Act
+ (Canada). In the event of a Bankruptcy Filing, the Licensor shall not initiate, support or consent to any petition or other action
+that seeks the disclaimer or termination of this Agreement or that would otherwise interfere with the TI’s rights hereunder, unless TI
+fails to perform its obligations under this Agreement in relation to the use of the intellectual property (as provided by section 32(6)
+of the Companies’ Creditors Arrangement Act (Canada)) or the Agreement may otherwise be terminated pursuant to Section 4.
+
+ 
+
+5.4.
+Warranty Disclaimer
+. Except as expressly provided herein, no warranty is provided hereunder.
+
+ 
+
+5.5.
+Remedies
+. In the event of a breach of a warranty in Section 5.2 (a) through (d), and upon notice
+from TI, Licensor will, at no cost to TI, promptly correct any such breach and make such additions, modifications or adjustments to the
+Licensor Product as may be necessary to keep the Licensor Product operating in accordance with such warranty. If Licensor does not present
+a corrective action plan in respect of any such breach within ten (10) days of Licensor’s receipt of TI’s notice under this
+Section, then upon TI’s request and at TI’s option, the royalty fees for the Licensor Product shall be equitably reduced to
+a mutually agreed amount to account for the difference in functionality or usability caused by the failure of the Licensor Product to
+comply with the warranty and TI’s license for the applicable Licensor Product(s) shall remain in effect.
+
+ 
+
+6.
+ESCROW OF SOFTWARE.
+
+ 
+
+6.1.
+Escrow Agreement
+. Within ten (10) days from the Effective Date, the parties shall enter into an
+escrow agreement with an escrow agent designated by the Licensor and acceptable to TI whereunder Licensor shall deposit the source code
+of all Software to the escrow agent within five (5) days from the date of the execution of the escrow agreement (“
+Source Code
+Escrow Agreement
+”). TI shall be responsible for paying the escrow fees required under the Source Code Escrow Agreement.
+
+ 
+
+7.
+CONFIDENTIALITY.
+
+ 
+
+7.1.
+Definition
+. “
+Confidential Information
+” means any and all information disclosed
+by a party or its Subsidiaries (collectively, the “
+Disclosing Party
+”) to the other Party or its Subsidiaries (collectively,
+the “
+Receiving Party
+”) that is proprietary or confidential information communicated to the Receiving Party by the Disclosing
+Party relating to or arising in connection with collaboration contemplated under this Agreement, including without limitation (a) the
+“know-how” and future plans of the Disclosing Party, (b) confidential business information relating to the Disclosing
+Party’s internal procedures, systems, customers, suppliers, purchases, or any other information the Disclosing Party deems as proprietary
+or confidential and (c) any confidential information provided by a third party to the Disclosing Party with respect to the collaboration
+(including such information obtained by the Receiving Party directly from such third party or by access to such third party’s facilities
+or materials). Subject only to Section 7.3(f) herein, the existence and terms of this Agreement will constitute the Confidential Information
+of both Parties, except that Licensor may attach this Agreement and/or describe the terms herein in any filing required by applicable
+securities legislation.
+
+ 
+
+7.2.
+Non-disclosure and Non-Use Obligations
+. The Disclosing Party shall retain all rights, title and
+interests in and to the Confidential Information and no license or right, either expressed or implied, in or to the Confidential Information,
+whether such license or right currently exists or hereafter owned or controlled by the disclosing party, is granted to the Receiving Party
+under this Agreement except for the express rights granted herein. The Receiving Party shall (a) for a period of five (5) years after
+its receipt thereof, hold the Disclosing Party’s Confidential Information in confidence using the same degree of care as it uses
+to protect its own Confidential Information of a like nature but no less than reasonable care, (b) use it solely for the purposes of the
+Agreement and (c) not disclose it to any third party except its Affiliates or contractors who have a reasonable need to know such information
+for the purposes of performing its obligations under this Agreement and who have a legal obligation to keep such information confidential
+under terms that are no less restrictive than the terms contained herein. The Receiving Party will be liable for any breach of this Agreement
+by its Affiliates and contractors.
+
+ 
+
+Page 
+5
+ of 10
+
+ 
+
+ 
+
+7.3.
+Exclusions
+. The restrictions under this Agreement will not apply to the extent that the Confidential
+Information: (a) was previously known by the Receiving Party, (b) is in the public domain, other than through a breach of this Agreement,
+(c) was lawfully obtained from a third party without a duty of confidentiality, (d) is independently developed by the Receiving
+Party without use of the Confidential Information, (e) is compelled by law to be disclosed, provided that, if legally permissible,
+the Receiving Party provides the Disclosing Party with prompt written notice of any efforts to compel disclosure and reasonably cooperates
+with the Disclosing Party’s lawful attempts to prevent such disclosure or to obtain a protective order, at the Disclosing Party’s
+sole expense, or (f) disclosure and production of this Agreement becomes necessary or desirable to enforce the terms thereof in the event
+of a Bankruptcy Filing on the part of the Licensor.
+
+ 
+
+8.
+MAINTENANCE AND SUPPORT.
+
+ 
+
+Unless otherwise agreed to in an Addendum,
+Licensor shall assist TI with respect to any integration or support services needed to complete or maintain the Combined Offering, including
+but not limited to, providing fixes for errors and migration to future TI software development kit (SDK) releases. Licensor shall also
+promptly provide assistance and support to TI’s end customers of the Combined Offering to ensure that the Software is functional based
+on such end customers’ specifications or requirements, in accordance with the terms of such customer’s engagement as agreed upon
+by Licensor. The parties shall negotiate in good faith to determine the remuneration payable to the Licensor in connection with the services
+to be provided under this Section 8.
+
+ 
+
+9.
+INTELLECTUAL
+PROPERTY INDEMNIFICATION.
+
+ 
+
+9.1.
+Indemnity
+. Notwithstanding any other provision of
+this Agreement, Licensor shall defend, indemnify, and hold TI, its Subsidiaries, their respective directors, officers and employees (collectively,
+the “
+Indemnified Parties
+”) harmless, at Licensor’s expense, from and against any and all claims, actions, damages,
+liabilities, costs and expenses, including without limitation reasonable attorney’s fees and expenses, arising out of any claims
+of infringement or misappropriation of any IP Rights of a third party alleged to have occurred because of Licensor Products or services
+provided by Licensor or the use of such Licensor Products or services under this Agreement. However, such indemnity shall not apply unless
+Licensor is promptly informed in writing and is given authority, information, and reasonable assistance requested, at Licensor’s
+expense, necessary to defend or settle such claim; provided, however, that failure to provide prompt written notice of a claim shall
+not release Licensor of its obligations hereunder unless such delay results in a significant negative impact to Licensor’s ability to
+defend against such claim. Licensor shall not enter into any settlement discussion or agreement relating to a claim unless it fully and
+irrevocably releases the Indemnified Parties of such claim. Licensor shall not be obligated to defend or be liable for costs and damages
+to the extent the infringement arises out of or from (a) a combination with products that Licensor does not and should not expect TI
+to use with the Licensor Product, or (b) a modification by TI of the Licensor Product as delivered by Licensor that has not been approved
+by Licensor in writing, if the infringement would not have occurred without such combination or modification, or (c) only the TI processor
+chips.
+
+ 
+
+9.2.
+Corrective Action
+. In the event that any Licensor Product furnished hereunder is in Licensor’s
+or TI’s reasonable opinion likely to or becomes the subject of a claim of infringement or misappropriation of any IP Rights of a
+third party covered by the indemnity obligations in Section 9.1, Licensor at its sole expense shall use all reasonable efforts to procure
+for TI the right to continue exercising all the rights granted in respect of the Licensor Product. If Licensor is unable to obtain for
+TI said license rights under commercially reasonable terms, Licensor shall, at TI’s option and at Licensor’s expense, either
+modify or replace the Licensor Product to make it non-infringing but substantially functionally equivalent, which shall be licensed under
+this Agreement within a reasonable period of time not to exceed sixty (60) days unless otherwise agreed to by TI.
+
+ 
+
+Page 
+6
+ of 10
+
+ 
+
+ 
+
+10.
+LIMITATION
+OF LIABILITY.
+
+ 
+
+10.1
+Liability Cap
+. 
+EXCEPT FOR (A) EACH PARTY’S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OR (B) EACH
+PARTY’S BREACH OF CONFIDENTIALITY OBLIGATIONS HEREUNDER (COLLECTIVELY, THE “
+EXCLUDED LIABILITIES
+”), EACH PARTY’S AGGREGATE
+LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT (REGARDLESS OF THE NATURE OF THE CLAIM) SHALL NOT EXCEED THE GREATER OF
+(A) THE PRE-PAID ROYALTY OR (B) ROYALTIES PAID FOR THE PARTICULAR LICENSOR PRODUCTS AND RELATED MAINTENANCE GIVING RISE TO THE CLAIM.
+
+ 
+
+10.2
+No Consequential Damages
+. 
+EXCEPT FOR THE EXCLUDED LIABILITIES, IN NO EVENT WILL EITHER PARTY
+BE LIABLE FOR SPECIAL, INDIRECT, CONSEQUENTIAL OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT EVEN IF THAT
+PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+ 
+
+11.
+NOTICES.
+
+ 
+
+Notices relating to termination or breach
+must be in writing and delivered to the other party at the address below (or other address provided by a party in accordance with this
+Section): (a) in person; (b) via first class or registered or certified mail, postage prepaid; or (c) via next day express delivery
+service. All other notices must be in writing and delivered to the other party at the address below (or other address provided by a party
+in accordance with this Section): (i) in person; (ii) via first class or registered or certified mail, postage prepaid; (iii) via
+next day express delivery service; or (iv) via email. Notices sent by mail shall be deemed effective after (A) three (3) business days
+from the date of posting in the case of notices posted from a country to a destination in that same country; and (B) eight (8) business
+days from the date of posting in the case of notices posted internationally. Notices sent by e-mail shall be deemed effective after one
+(1) business day from date of sending, as long as successful transmission or delivery is confirmed. Notices delivered in person or by
+next day express delivery service shall be effective upon delivery.
+
+ 
+
+ 
+
+If to TI
+
+with a copy (which shall not constitute notice) to:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Texas Instruments Incorporated
+
+Texas Instruments Incorporated
+
+ 
+
+13532 N. Central Expressway
+
+13588 N. Central Expressway, MS 3999
+
+ 
+
+ Dallas, TX 75243
+
+Dallas, TX 75243
+
+ 
+
+Attn: Worldwide Procurement & Logistics
+
+Attn: Law Department, WPL Counsel
+
+ 
+
+Email address: dlpipstaff@list.ti.com 
+
+ 
+
+ 
+
+ 
+
+If to Licensor:
+
+with a copy (which shall not constitute notice) to:
+
+ 
+
+ 
+
+ 
+
+ 
+
+LeddarTech Holdings Inc.
+
+LeddarTech Holdings Inc.
+
+ 
+
+4535 boulevard Wilfrid-Hamel, Suite 240
+
+4535 boulevard Wilfrid-Hamel, Suite 240
+
+ 
+
+Quebec (Quebec), G1P 2J7, Canada
+
+Quebec (Quebec), G1P 2J7, Canada
+
+ 
+
+Attn: Antonio Polo
+
+Attn: Chief Legal Officer
+
+ 
+
+Page 
+7
+ of 10
+
+ 
+
+ 
+
+12.
+GENERAL.
+
+ 
+
+12.1.
+Publicity
+. Neither party shall, without securing the written consent of the other party, publicly
+announce the existence of this Agreement, confirm or deny any details thereof, nor otherwise advertise or release any publicity in regard
+thereto. Unless agreed upon in writing, nothing in this Agreement conveys any rights to Licensor to (a) use TI’s name or logo on
+marketing literature, websites, presentations, press releases or any other media form; or (b) use TI as a reference account. Notwithstanding
+the foregoing and Section 7, the existence and terms of this Agreement may be disclosed to auditors, divested businesses and to the extent
+required by law or regulation so long as the party required to disclose the information provides the other party with timely prior notice
+of such requirement.
+
+ 
+
+12.2.
+Supply Chain Practices
+. Licensor agrees to comply with applicable TI Supply Chain Responsibility
+requirements as established in TI’s Supplier Environmental and Social Responsibility Policy and Supplier Code of Conduct. Both are
+updated periodically and located at http://wpl.ext.ti.com. If requested, Licensor agrees to complete an annual self-assessment questionnaire
+with regards to its supply chain responsibility practices and comply with requested audits as required for verification.
+
+ 
+
+12.3.
+Severability
+. If for any reason a court of competent jurisdiction finds any provision of this Agreement
+to be unenforceable, that provision shall be enforced to the maximum extent possible to effectuate the intent of the parties and the remainder
+of this contract shall continue in full force and effect.
+
+ 
+
+12.4.
+Headings
+. The section and paragraph headings used herein are used for reference and convenience
+only and should not enter into the interpretation thereof.
+
+ 
+
+12.5.
+Governing Law/Dispute Resolution
+. This Agreement is governed by and interpreted in accordance with
+the laws of the State of New York, without regard to conflict-of-laws principles. The parties expressly exclude the application of the
+United Nations Convention on Contracts for the International Sale of Goods. The Parties agree that exclusive jurisdiction for any dispute
+arising out of or relating to this Agreement lies within New York state courts and federal courts. Notwithstanding the foregoing, any
+judgment may be enforced in any United States or foreign court and either party may seek injunctive relief in any United States or foreign
+court. Further, In the event of any dispute between the parties regarding performance under this Agreement, and prior to the commencement
+of any formal proceedings, the parties shall promptly attempt in good faith to reach a negotiated resolution. Each party shall designate
+a representative with authority to resolve the dispute to enter into discussions within thirty (30) days of a party’s request for
+negotiation.
+
+ 
+
+12.6.
+Entire Agreement/Modification
+. Notwithstanding any terms contained in any Licensor purchase order
+acceptances or confirmations, “shrinkwrap” agreements delivered with the Licensor Products or “click-through” agreements
+provided on Licensor’s or any third party’s website, extranet, or any other media provided by or on behalf of Licensor, this
+Agreement, together with any appendices constitute the entire agreement and understanding between the parties relating to the subject
+matter hereof. This Agreement supersedes all contemporaneous and previous communications, representations, or agreements, either oral
+or written, with respect to the subject matter hereof, and no representations or statements of any kind made by any representative of
+Licensor or TI that are not stated in this Agreement shall be binding on Licensor or TI. Where an appendix conflicts with this Agreement,
+the terms of the appendix shall supersede those of the Agreement to the extent of such conflict. This Agreement and any appendix may be
+modified only by a written document signed by duly authorized representatives of both parties.
+
+ 
+
+Page 
+8
+ of 10
+
+ 
+
+ 
+
+12.7.
+Counterparts
+. This Agreement may be executed in one or more counterparts, which collectively shall
+constitute a single agreement between the parties. A scanned signature shall have the same legally binding effect as an original signature.
+
+ 
+
+12.8.
+Independent Contractor
+. Licensor, in providing services under this Agreement, is acting as an independent
+contractor. Nothing in this Agreement is intended to create a partnership, joint venture, or agency relationship between the parties.
+
+ 
+
+12.9.
+Waiver
+. Failure by either party to enforce any provision of this Agreement, shall not be deemed
+a waiver of future enforcement of that or any other provision.
+
+ 
+
+12.10.
+Review of Counsel
+. TI and Licensor acknowledge and agree that each party and its counsel have had
+the opportunity to review this Agreement, and that the rule of construction to the effect that any ambiguities are to be resolved against
+the drafting party shall not be employed in the interpretation of this Agreement.
+
+ 
+
+12.11.
+Compliance of Laws
+. Each party agrees that at all times it will comply with all applicable Laws.
+Each party agrees to timely certify compliance with such laws, orders and regulations in such form as the other party may reasonably request
+from time to time, and further to timely provide information to the other party, as reasonably requested, to enable the other party to
+comply with all applicable Laws. Neither party shall engage in corrupt practices, including public or private bribery or kickbacks.
+
+ 
+
+12.12.
+No Third Party Beneficiaries
+. This Agreement is entered into solely between, and may be enforced
+only by, TI and Licensor. This Agreement will not be deemed to create any rights in any third parties, including employees, suppliers
+or customers of a party, or to create any obligations of a party to any such third parties.
+
+ 
+
+[Signature Page Follows]
+
+ 
+
+Page 
+9
+ of 10
+
+ 
+
+ 
+
+IN WITNESS WHEREOF,
+ each of the parties
+hereto has caused this Agreement to be executed on its behalf by its duly authorized representative.
+
+ 
+
+TEXAS INSTRUMENTS INCORPORATED
+
+ 
+
+LEDDARTECH HOLDINGS INC.
+
+ 
+
+ 
+
+ 
+
+By: 
+
+/s/ Rob Simpson
+
+ 
+
+By:
+
+/s/ Frantz Saintellemy
+
+Name:
+
+Rob Simpson
+
+ 
+
+Name: 
+
+Frantz Saintellemy  
+
+Title:
+
+Vice President   
+
+ 
+
+Title: 
+
+President & CEO   
+
+Date:
+
+12/6/2024   
+
+Date:  
+
+12/6/2024
+
+ 
+
+Page 
+10
+ of 10

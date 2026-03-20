@@ -1,0 +1,190 @@
+EX-10
+
+8
+
+kld-ex10_31.htm
+
+EX-10.31
+
+EX-10
+
+Exhibit 10.31
+
+ 
+
+ 
+
+Certain confidential information contained in this document, marked by brackets, has been omitted pursuant to Item 601(b)(10)(iv) of Regulation S-K.
+
+ 
+
+SIXTH AMENDMENT TO
+ 
+
+SOFTWARE LICENSE AGREEMENT
+
+THIS SIXTH AMENDMENT TO SOFTWARE LICENSE AGREEMENT (“
+Amendment
+”) is made as
+
+of January 5, 2023 (“
+Effective Date
+”), by and between 
+RELATIVITY ODA LLC
+, a Delaware limited liability company (“
+Relativity
+”), and 
+KLDISCOVERY ONTRACK, LLC
+, a Delaware limited liability company (“
+Client
+”).
+
+ 
+
+A.
+Relativity and Client entered into a Software License Agreement dated January 1, 2021 (“
+Original Agreement
+”), as amended from time to time (collectively, and as amended herein, the “
+Agreement
+”).
+
+ 
+
+B.
+The Agreement grants Client a license (“
+Existing License
+”) to deploy and use [*] Production Instances of the Software (“
+Existing Instances
+”); and the parties mutually desire to amend the Agreement on the terms below.
+
+ 
+
+NOW THEREFORE, in consideration of the foregoing recitals and the mutual agreements herein contained, the parties hereby agree as follows:
+
+ 
+
+1.
+Temporary Instance License. 
+Relativity hereby grants Client a temporary license (“
+Temporary License
+”) to deploy [*] additional Production Instance (“
+Temporary Instance
+”) of the Software for a period (“
+Temporary Period
+”): (a) commencing on the Effective Date of this Amendment and continuing for the remainder of the same calendar month in which the Effective Date occurs and then continuing through the last day of the next full calendar month (“
+Initial Period
+”); and (b) thereafter continuing until terminated as provided in Sections 2 and 3 below. The Temporary License and Temporary Instance shall be on and subject to all provisions of the Agreement and Existing License, including terms for Relativity Analytics, except as provided to the contrary herein.
+
+ 
+
+2.
+Month-to-Month License; Termination and Expiration. 
+After the Initial Period described in Section 1, the Temporary License and Temporary Period will remain in effect on a calendar month-to- month basis until the earlier to occur of: (a) termination of the Agreement; (b) the last day of any calendar month in which Client delivers notice to Relativity (no later than the last day of such month) electing to terminate the Temporary License on such last day and certifying that Client has permanently de-installed, destroyed and discontinued the Temporary Instance as further described below; or (c) the last day (“
+Final
+ 
+Expiration Date
+”) of the sixth (6
+th
+) full calendar month following the month in which the Effective Date of this Amendment occurs, subject to Section 3 below.
+
+ 
+
+3.
+Additional License Extensions; Termination and Expiration. 
+During the sixth (6
+th
+) full calendar month of the Temporary Period: (a) Client’s system administrators who log into the Temporary Instance Software will see an alert advising that a new license key is required to keep using the Temporary Instance; (b) if Client does not request and apply the new license key, the Temporary Period will terminate on the Final Expiration Date described above; (c) if Client requests and applies the new license key, the Temporary Period will be extended on a month-to-month basis for up to an additional six (6) full calendar months, subject to earlier termination as described in Section 2 above, and subject to further extensions as described in this Section 3 for successive six (6) month periods.
+
+ 
+
+4.
+Temporary Instance License Fees.
+
+a.
+Client’s use of the Temporary Instance is not capped at any particular number of Server Users, and the number of Server Users of the Temporary Instance will not be counted towards the total number of capped Server Users under the Agreement. Client will enable Relativity to have access to billing and usage data through the Software in the Temporary Instance as provided in the Agreement respecting the Existing License.
+
+ 
+
+b.
+Client shall pay Relativity the following Relativity license fees for the Temporary License: (i) 
+$[*], in advance
+, when Client signs this Amendment (which covers the Initial Period, i.e.
+
+ 
+
+any initial partial calendar month and the first full calendar month); 
+plus
+ (ii) $[*] per month for each additional calendar month of the Temporary Period, in advance on or before the first day of each calendar month; 
+plus
+ (iii) during the entire Temporary Period, an additional monthly amount equal to $[*] times the total number of Server Users in the Temporary Instance during each subject month, in arrears within thirty
+
+(30) days after Relativity invoices such amount following the end of each calendar month. Relativity will not be required to de-duplicate Server Users for the Temporary Instance who are also Server Users for the Existing Instances or any other instance.
+
+ 
+
+Exhibit 10.31
+
+ 
+
+ 
+
+ 
+
+c.
+In addition, if Client has a Relativity Analytics subscription in effect under the Agreement and has not reached the Data Threshold, Relativity will aggregate the data usage in the Temporary Instance and Client’s other Relativity Production Instance(s) until the aggregate data usage amount reaches the Data Threshold. If Client has a Relativity Analytics subscription in effect under the Agreement and has already reached the Data Threshold, or subsequently reaches the Data Threshold (e.g. with the aggregation of data usage in the Temporary Instance), Relativity will then charge for any further Relativity Analytics data usage on a monthly basis at the applicable per GB burst fee or Pay As You Go data usage rate under the Agreement.
+
+ 
+
+5.
+End of Temporary Period. 
+When the Temporary Period, or any extension thereof, ends or is terminated: (a) the Temporary License shall expire and Client shall immediately discontinue using and accessing the Temporary Instance; and (b) within the next ten (10) days, Client shall certify to Relativity in writing that Client has completely and permanently uninstalled and permanently discontinued using and accessing the Temporary Instance, has not made any copies of the Software used therein, and has permanently destroyed the Software used therein so it cannot be reinstalled or re-used.
+
+ 
+
+6.
+Miscellaneous. 
+As amended herein, all provisions of the Agreement shall remain in effect. However, in case of any inconsistency between this Amendment and other prior portions of the Agreement, this Amendment shall govern. This Amendment sets forth the entire agreement between the parties with respect to the matters set forth herein. This Amendment shall not be binding unless and until fully signed and delivered by both parties. Unless provided to the contrary herein: (a) any terms defined herein shall have the meanings ascribed herein when used as capitalized terms in other provisions hereof; and (b) capitalized terms not otherwise defined herein shall have the meanings ascribed thereto in the Agreement. The parties may sign and deliver this Amendment as pdfs via email.
+
+ 
+
+IN WITNESS WHEREOF, the parties have executed this Amendment as of the date first set forth
+
+above.
+
+ 
+
+RELATIVITY ODA LLC
+
+KLDISCOVERY ONTRACK, LLC
+
+  
+
+  
+
+  
+
+  
+
+By:
+
+/s/ Sailesh Munagala
+
+By:
+
+/s/ Andrew Southam
+
+Name:
+
+Sailesh Munagala
+
+Name:
+
+Andrew Southam
+
+Title:
+
+CFO
+
+Title:
+
+General Counsel

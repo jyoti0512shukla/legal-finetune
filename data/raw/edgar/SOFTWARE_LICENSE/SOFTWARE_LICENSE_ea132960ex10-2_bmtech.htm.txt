@@ -1,0 +1,977 @@
+EX-10.2
+
+5
+
+ea132960ex10-2_bmtech.htm
+
+SOFTWARE LICENSE AGREEMENT, DATED JANUARY 4, 2021, BY AND BETWEEN CUSTOMERS BANK AND THE COMPANY
+
+Exhibit 10.2
+
+ 
+
+SOFTWARE LICENSE AGREEMENT
+
+ 
+
+This Software License Agreement (“Agreement”)
+is entered into this 4th day of January, 2021 (the “Effective Date”) by and between BM Technologies, Inc., a Delaware
+corporation, with offices at 201 King of Prussia Road, Suite 240 Radnor, PA 19087 (“Licensor”), and Customers Bank,
+a Pennsylvania state-chartered bank with offices located at 99 Bridge Street, Phoenixville, PA 19460 (“Licensee”).
+
+ 
+
+Preamble
+
+ 
+
+WHEREAS
+, Licensor owns the Software;
+and
+
+ 
+
+WHEREAS
+, Licensee desires to utilize
+such Software, including any Updates, Upgrades, customizations, or corrections (collectively, “
+Software Changes
+”)
+thereto; and
+
+ 
+
+WHEREAS
+, for good and valuable consideration,
+the receipt of which is hereby acknowledged, Licensor is willing to license the Software and any Software Changes to Licensee;
+and
+
+ 
+
+WHEREAS
+, Licensee is willing to accept
+the Software license under the conditions set forth herein.
+
+ 
+
+NOW THEREFORE
+, Licensor and Licensee
+agree as follows:
+
+ 
+
+Agreement
+
+ 
+
+1. Definitions
+
+ 
+
+“Affiliate”
+ means, with
+respect to a party, any entity controlling, controlled by, or under common control with such party. For purposes of this definition,
+“control” means direct or indirect ownership of fifty percent (50%) or more of the shares of the entity entitled to
+vote in the election of directors (or, in the case of an entity that is not a corporation, for the election of the corresponding
+managing authority).
+
+ 
+
+“Assumed Value”
+ means
+the ten million-dollar ($10,000,000.00) valuation of the License granted hereunder.
+
+ 
+
+“Customer”
+ means a customer
+of Licensee or any of its Affiliates, including any person who (a) applies to Licensee or any of its Affiliates for a financial
+product or service; (b) has obtained any financial product or service from Licensee or any of its Affiliates; (c) has a loan or
+other account serviced or subserviced by Licensee or any of its Affiliates; and/or (d) does not have an account with Licensee or
+any of its Affiliates but nonetheless engages in a transaction using property or services of Licensee or any of its Affiliates,
+such as use of a Licensee ATM by a non-Licensee customer.
+
+ 
+
+“Customer
+Information”
+ means any personally identifiable information or records in any form (written, electronic, or otherwise)
+relating to a Customer, including (i) a Customer’s name, address, telephone number, loan number, deposit account number,
+loan payment history, delinquency status, insurance carrier or payment information, tax amount or payment information; (ii) the
+fact that a Customer has a relationship with Licensee or any of its Affiliates; and (iii) any other personally identifiable information
+of a Customer; 
+provided that
+ “Customer Information” shall not mean any such information that Licensor has obtained
+independently and not in connection with this Agreement or any other agreement with Licensee or any of its Affiliates.
+
+ 
+
+1
+
+ 
+
+ 
+
+“Early Termination
+Penalty”
+ means the portion of the Assumed Value to be paid by Licensor to Licensee, and is calculated by multiplying
+the Assumed Value by the quotient of the number of months remaining in the Term after termination divided by 120.
+
+ 
+
+“Information
+Security Program”
+ means Licensor’s program or programs to: (a) ensure the security and confidentiality of Confidential
+Information to which Licensor has access; (b) protect against any anticipated threats or hazards to the security or integrity of
+the Confidential Information; and (c) protect against unauthorized access to or use of Confidential Information that could result
+in substantial harm or inconvenience to Licensee or any Customer. Such Information Security Program shall include maintenance of
+a comprehensive written Information Security Program and computer system security requirements sufficient to comply with the Privacy
+and Data Security Requirements and protect all Confidential Information.
+
+ 
+
+“Intellectual Property Rights”
+
+means (i) copyrights and other rights associated with works of authorship; (ii) trademark and trade name rights and similar rights;
+(iii) trade secret rights; (iv) patents, designs, algorithms, utility models, and other industrial property rights, and all improvements
+thereto; and (v) all registrations, applications, renewals, extensions, continuations, divisions, or reissues thereof now or hereafter
+in force.
+
+ 
+
+“Interagency Guidelines”
+
+means the Interagency Guidelines Establishing Standards For Safeguarding Customer Information published on February 1, 2001, as
+the same may be amended from time to time.
+
+ 
+
+“Privacy and Data Security Requirements”
+
+means the obligations imposed by: (a) Title V of the Gramm-Leach-Bliley Act, 15 U.S.C. §§ 6801 et seq.; (b) the applicable
+federal regulations implementing such act; (c) the Interagency Guidelines; and (d) all other applicable international, federal,
+state and local laws, rules, regulations, and orders relating to the privacy and security of Customer Information, including the
+federal Fair Credit Reporting Act, 15 U.S.C. §§ 1681 et seq.; the California Consumer Privacy Act, 
+Cal.
+Civ. Code
+ § 1798.100, et seq.; the NY SHIELD Act, N.Y. 
+Gen. Bus. Law
+
+§ 899-AA, et seq.; and any other similar state laws, each as amended from time to time; (e) Payment Card Industry (PCI) Data
+Security Standards; and (f) all applicable policies and procedures of Licensee communicated to Licensor.
+
+ 
+
+“Representatives”
+ means
+a party’s employees, officers, directors, agents, consultants, advisors, or lawyers.
+
+ 
+
+“Software” 
+means the
+mobile banking technology provided by Licensor to Licensee and includes, but is not limited to, the functionality set forth in
+Exhibit “A” and includes all “Software Changes.”
+
+ 
+
+“Software Changes”
+ has
+the meaning set forth above.
+
+ 
+
+2
+
+ 
+
+ 
+
+“Update”
+ means any error
+correction, bug or defect fix, enhancement, modification, patch, alteration, improvement, correction, addition, or revision to
+improve the performance or correct any error or defect.
+
+ 
+
+“Upgrade”
+ means any enhancement,
+improvement, modification, addition, localization, successor or new version, or new functionality that is not an Update.
+
+ 
+
+2. License Grant
+
+ 
+
+2.1 Subject
+to the terms and conditions of this Agreement, Licensor hereby grants to Licensee and its Affiliates, and Licensee and its Affiliates
+hereby accept from Licensor, a non-exclusive, nontransferable, royalty-free, fully paid-up license to use both the Software and
+any Software Changes in executable code form during the Term within the United States.
+
+ 
+
+2.2 Licensor
+shall continue to own all right, title, and interest in and to the Software, the Software Changes, and all Intellectual Property
+Rights embodied therein or related thereto, including, but not limited to, the source and executable codes. Except as expressly
+provided herein, Licensor grants no Intellectual Property Rights to Licensee or its Affiliates by implication, estoppel, or otherwise.
+
+ 
+
+2.3 Licensee
+shall safeguard the Software and Software Changes and its related materials with that degree of care as is exercised by other similarly
+situated financial institutions such that no unauthorized use is made of the Software, Software Changes, or related materials and
+no disclosure of any part of their contents is made to anyone other than Licensee’s Representatives whose duties reasonably
+require such disclosure, or, as otherwise reasonably necessary in the ordinary course of Licensee’s business. Licensee shall
+make its Representatives fully aware of their responsibility to fulfill the obligations of Licensee under this Agreement.
+
+ 
+
+2.4 During
+the Term, Licensor may, at its sole discretion, provide Updates to or Upgrades of the Software. Licensor shall, from time to time,
+update the Software to improve basic functionality, security, and responsiveness and ensure that the Software provides at least
+industry-standard functionality, security, and responsiveness. Licensor anticipates that a minimum of two such updates per year
+will be required to ensure that Licensee continues running a current version of the Software. Unless otherwise agreed in writing
+by the parties, Licensor shall not charge, and Licensee shall not be responsible to pay, any additional fees, costs, or expenses
+for Updates, Upgrades, or other Software Changes made by Licensor. In no event shall Licensor materially degrade the functionality,
+responsiveness, or security of the Software.
+
+ 
+
+3. Software Warranties
+
+ 
+
+3.1 Related
+to the Software and Software Changes, Licensor represents and warrants that:
+
+ 
+
+(a) Licensor
+has all Intellectual Property Rights necessary to provide Licensee with the Software and Software Changes;
+
+ 
+
+3
+
+ 
+
+ 
+
+(b) Licensor
+does not infringe the Intellectual Property Rights of any third party in licensing to Licensee the Software or the Software Changes;
+
+ 
+
+(c) Licensor
+will make any Software Changes to the Software under this Agreement in accordance with industry standards and in a professional
+and workmanlike manner;
+
+ 
+
+(d) The
+Software will remain free from material programming errors and defects in workmanship and materials and will substantially conform
+to the specifications included in Exhibit “A” attached hereto for one year from delivery of the software to Licensor
+(“
+Initial Warranty Period
+”). If material programming errors are discovered in the Software during the Initial
+Warranty Period, Licensor shall promptly remedy such errors at no additional expense to Licensee.
+
+ 
+
+(e) Following
+delivery to Licensee of any Software Changes to the Software, such Software Changes will remain free from material programming
+errors and defects in workmanship and materials, and will substantially conform to the specifications and any related documentation
+for one-hundred eighty (180) days from delivery thereof (“
+Software Changes Warranty Period
+”). If material programming
+errors are discovered in the Software Changes during the Software Changes Warranty Period, Licensor shall promptly remedy such
+errors at no additional expense to Licensee.
+
+ 
+
+3.2 Except
+as otherwise stated in Section 3.1 above, Licensor makes no other warranties with respect to the Software or the Software Changes,
+including but not limited to warranties of merchantability or fitness for a particular purpose.
+
+ 
+
+4. Intellectual
+Property Rights and Restrictions on Use
+
+ 
+
+4.1 Licensee
+recognizes that the Software and Software Changes, if any, are the property of, and all rights thereto are owned by Licensor. Licensee
+also acknowledges that such Software and Software Changes are a trade secret of Licensor, are valuable and confidential to Licensor,
+and that its use and disclosure must be carefully and continuously controlled.
+
+ 
+
+4.2 Title
+to the Software and Software Changes, if any, shall always remain with Licensor.
+
+ 
+
+4.3 The
+Software is intended to be used only by Licensee and its Affiliates as set forth in this Agreement to service Licensee’s
+Customers, including direct-to-consumer banking or for use by employees as direct-to-consumer users of Licensee’s Software.
+
+ 
+
+4.4 Licensee
+shall treat the Software and Software Changes, if any, as confidential and proprietary, and shall protect them in the same manner
+that it protects the confidentiality of its own similarly confidential information. While this Agreement is in effect, or while
+Licensee has custody and possession of the Software or Software Changes, Licensee will not:
+
+ 
+
+(a) provide
+or make available the Software or Software Changes to any person or entity other than employees of Licensee who have a need to
+know consistent with Licensee’s use thereof under this Agreement, unless otherwise agreed in writing by the parties hereto;
+or
+
+ 
+
+4
+
+ 
+
+ 
+
+(b) create
+or attempt to create, or permit others to create or attempt to create, by disassembling, reverse engineering or otherwise, the
+source program or source code or any part thereof from the object program or other information made available to Licensee pursuant
+to this Agreement.
+
+ 
+
+4.5 Licensee
+agrees to promptly notify Licensor if it obtains information as to any unauthorized possession, use, or disclosure of the Software
+or Software Changes by any person or entity, and further agrees to cooperate with Licensor in protecting Licensor’s proprietary
+rights to the Software and Software Changes.
+
+ 
+
+4.6 Licensee
+shall not use the Software or Software Changes to offer private label banking services that directly compete with Licensor’s
+business existing as of the Effective Date; 
+provided that
+, nothing herein shall prevent Licensee from using the Software
+or Software Changes in private label banking arrangements in cooperation with Licensor.
+
+ 
+
+4.7 If
+Licensee or its Representatives materially breach any material provision of this Agreement, such material breach must be cured
+within thirty (30) days of receipt of Licensor’s written notice describing such material breach.
+
+ 
+
+4.8 The
+Parties shall not develop any Intellectual Property Rights that will be deemed jointly owned unless they have agreed, in advance
+and in a separate writing, that such Intellectual Property Rights will be jointly owned.
+
+ 
+
+4.9 Licensee
+will not, and will not permit any third party to: (a) transmit viruses or other malicious computer code on, or interfere with the
+integrity or performance of, the Software or Software Changes; (b) decompile, disassemble, reverse engineer (except to the extent
+expressly permitted by applicable law), or otherwise attempt to derive source code or other trade secrets from the Software or
+Software Changes; (c) modify, translate, or create any derivative works based upon the Software or Software Changes, or any portion
+thereof; (d) distribute, disclose, market, rent, lease, assign, sublicense, pledge or otherwise transfer access to the Software
+or Software Changes, in whole or in part, to any third party; (e) release the results of benchmark tests or other comparisons of
+the Software or Software Changes with other programs; (f) remove, efface, or obscure any copyright or other proprietary notices
+or legends included in the Software or Software Changes; or (g) otherwise use or access the Software or Software Changes in any
+manner exceeding the scope of this Agreement.
+
+ 
+
+4.10 As
+between the parties, Licensor owns all right, title, and interest in and to the Intellectual Property Rights used to provide the
+Software or Software Changes. Licensee shall have only those license rights in or to the Software of Software Changes expressly
+granted to it pursuant to this Agreement, and all other rights are reserved by Licensor.
+
+ 
+
+5
+
+ 
+
+ 
+
+5. Term and Termination
+
+ 
+
+5.1 The
+license subject to this Agreement shall continue until the earlier to occur of:
+
+ 
+
+(a) The
+ten-year anniversary of the Effective Date;
+
+ 
+
+(b) Licensee’s
+material breach of the material terms of the Agreement that remains uncured after the period specified in Section 4.7;
+
+ 
+
+(c) Licensor’s
+material breach of the material terms of the Agreement that remains uncured thirty (30) days after receipt of Licensee’s
+written notice describing such material breach; or
+
+ 
+
+5.2 Within
+ten (10) business days of termination of the Agreement under Section 5.1(c) above, Licensor shall pay Licensee the Early Termination
+Penalty.
+
+ 
+
+5.3 Upon
+the termination of the Agreement as set forth herein, Licensor shall have the right to take possession of the Software and Software
+Changes, if any. Licensee agrees to cooperate with Licensor in transferring the Software Changes to Licensor upon termination of
+this Agreement.
+
+ 
+
+5.4 Notwithstanding
+anything to the contrary set forth herein, Licensee may terminate the Agreement at any time, without notice, and without penalty,
+and for any reason or no reason at all.
+
+ 
+
+5.5 Upon
+expiration or termination of this Agreement, Licensor shall use commercially reasonable efforts to assist Licensee in effecting
+an orderly transition of Licensee’s Customers and Customer Information to another vendor selected by Licensee at its sole
+discretion. Subject to the foregoing,
+
+ 
+
+(a) Licensor
+shall provide a copy of all Customer Information held by Licensor in the form or format reasonably requested by Licensee;
+
+ 
+
+(b) Licensee
+shall cease using and uninstall or otherwise deactivate, as requested, the Software and all Software Changes.
+
+ 
+
+6. Indemnification;
+Limitation of Liability
+
+ 
+
+6.1 Licensor
+agrees to indemnify, defend, and hold Licensee and its Affiliates and Representatives (collectively, the “
+Licensee Indemnified
+Parties
+”) harmless from and against any claims brought by any third-party against the Licensee Indemnified Parties to
+the extent such claims are based on or arise out of allegations that the Software or the Software Changes infringe upon the Intellectual
+Property Rights of any third-party. Licensor shall have no liability or responsibility under the foregoing sentence to the extent
+such third-party claims are based on or arise out of customizations or enhancements to the Software or the Software Changes made
+by Licensee without Licensor’s knowledge.
+
+ 
+
+6.2 Licensee
+agrees to indemnify, defend, and hold Licensor and its Affiliates and Representatives (collectively, the “
+Licensor Indemnified
+Parties
+”) harmless from and against any claims brought by any third-party against the Licensor Indemnified Parties to
+the extent such claims are based on or arise out of customizations or enhancements to the Software or Software Changes made by
+Licensee without Licensor’s knowledge.
+
+ 
+
+6
+
+ 
+
+ 
+
+6.3 The
+indemnification obligations set forth herein are contingent upon the party to be indemnified (“
+Indemnified Party
+”):
+
+ 
+
+(a) Giving
+the party providing indemnification hereunder (“
+Indemnifying Party
+”) prompt written notice of any action brought
+against the Indemnified Party; and
+
+ 
+
+(b) Cooperating
+with the Indemnifying Party in the defense of any such action and allowing the Indemnifying Party to control the defense and settlement
+of any such action at its sole cost and expense.
+
+ 
+
+6.4 NOTWITHSTANDING
+ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY OR LIMITATION OF LIABILITY, NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY
+FOR CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES OF ANY KIND (INCLUDING, WITHOUT LIMITATION, LOST REVENUES OR PROFITS, LOSS OF
+USE, OR LOSS OF GOODWILL OR REPUTATION) WITH RESPECT TO ANY CLAIMS ARISING FROM OR RELATING TO THIS AGREEMENT OR THE SOFTWARE,
+WHETHER BASED ON CONTRACT, TORT OR OTHERWISE (INCLUDING NEGLIGENCE AND STRICT LIABILITY), REGARDLESS OF WHETHER SUCH PARTY WAS
+ADVISED, HAD OTHER REASON TO KNOW, OR IN FACT KNEW OF THE POSSIBILITY THEREOF.
+
+ 
+
+7. Confidentiality
+
+ 
+
+7.1. Each
+party that receives information from the other party hereto (the “
+Receiving Party
+”) undertakes to retain in
+confidence the terms of this Agreement and all other non-public information, technology, Customer Information, materials and know-how
+of the other party (the “
+Disclosing Party
+”) disclosed or acquired by the Receiving Party pursuant to or in connection
+with this Agreement that is either designated as proprietary or confidential or, by the nature of the circumstances surrounding
+disclosure, ought in good faith to be treated as proprietary or confidential (“
+Confidential Information
+”); 
+provided
+that
+ each party may disclose the terms and conditions of this Agreement to its immediate legal and financial consultants in
+the ordinary course of its business. The Receiving Party will not use any Confidential Information for any purpose other than to
+carry out the activities contemplated by this Agreement. The Receiving Party agrees to use commercially reasonable efforts to protect
+the Disclosing Party’s Confidential Information, and in any event, to take precautions at least as great as those taken to
+protect its own confidential information of a similar nature.
+
+ 
+
+7.2 The
+Receiving Party will promptly notify the Disclosing Party in writing in the event that the Receiving Party learns of any unauthorized
+use or disclosure of any Confidential Information that it has received from the Disclosing Party, and will cooperate in good faith
+to remedy such occurrence to the extent reasonably possible. The restrictions set forth in this Section 7 will not apply to any
+information that: (a) was known by the Receiving Party without an obligation of confidentiality prior to disclosure thereof by
+the Disclosing Party; (b) was in or entered the public domain through no fault of the Receiving Party; (c) is disclosed to the
+Receiving Party by a third party legally entitled to make such disclosure without violation of any obligation of confidentiality;
+(d) is required to be disclosed by applicable laws or regulations (but in such event, only to the extent required to be disclosed);
+or (e) is independently developed by the Receiving Party without reference to any Confidential Information of the Disclosing Party.
+
+ 
+
+7
+
+ 
+
+ 
+
+7.3 Upon
+request of the Disclosing Party, the Receiving Party will return all materials, in any medium, that contain or reveal all or any
+part of any Confidential Information of the Disclosing Party or certify to the Disclosing Party destruction of the Receiving Party’s
+copies of Confidential Information. Notwithstanding the foregoing, the Receiving Party may retain Confidential Information only
+the extent required by applicable laws or regulations. The Receiving Party acknowledges that breach of this provision by it would
+result in irreparable harm to the Disclosing Party, for which money damages would be an insufficient remedy, and therefore that
+the Disclosing Party will be entitled to seek injunctive relief to enforce the provisions this Section.
+
+ 
+
+7.4 Under
+no circumstances will Licensee’s Confidential Information (whether stored electronically or in hard copy format) be directly
+or indirectly transmitted to or accessed from any location that is not subject to the laws and jurisdiction of the United States
+of America without the prior written consent of Licensee. Neither Licensor nor its Representatives shall directly or indirectly
+access any Customer Information or Licensee’s software, networks, systems or data from any location that is not subject to
+the laws and jurisdiction of the United States of America without the prior written consent of Licensee. If Licensor’s Representatives
+store or access Customer Information on a portable device, such Customer Information must be encrypted in a reasonable manner.
+
+ 
+
+8. Security.
+
+ 
+
+8.1 Licensor
+will maintain and enforce safety, electronic, and physical security procedures with respect to its access, use, and possession
+of Licensee’s Confidential Information, including Customer Information, that are (i) compliant with Licensee’s information
+security guidelines, policies and requirements (including Database Security Technical Implementation Guide (STIG) templates, National
+Institute of Standards and Technology (NIST) standards, and Control Objectives for Information and related Technology (COBIT) frameworks),
+which may be provided by Licensee to Licensor from time to time or, if such guidelines, policies and requirements are not provided
+by Licensee, at least compliant with the Federal Risk and Authorization Management Program (FedRAMP) standards and other industry
+standards for such types of locations, and (ii) which provide appropriate technical and organizational safeguards against accidental
+or unlawful destruction, loss, alteration or unauthorized disclosure or access of such information.
+
+ 
+
+8.2 Without
+limiting the generality of the foregoing, Licensor will take all reasonable measures to secure and defend its locations and equipment
+against “hackers” and others who may seek, without authorization, to modify or access Licensor systems or the information
+found therein. Licensor will periodically test its systems for potential areas where security could be breached.
+
+ 
+
+8.3 Licensor
+(a) will deliver to Licensee a root cause assessment and future incident mitigation plan with regard to any breach of security
+or unauthorized access affecting Licensee’s Confidential Information, (b) will provide Licensee all written details regarding
+Licensor’s internal investigation regarding any security breach, (c) upon Licensee’s request, provide a second more
+in-depth investigation and results of findings, (d) agrees not to notify any regulatory authority nor any Customer or consumer,
+on behalf of Licensee unless Licensee specifically requests in writing that Licensor do so, and (e) shall cooperate with Licensee
+to work together to formulate a plan to rectify all security breaches.
+
+ 
+
+8
+
+ 
+
+ 
+
+9. General Provisions
+
+ 
+
+9.1 This
+Agreement (including all exhibits, attachments, and amendments hereto) constitutes the entire agreement and understanding of the
+parties as to the subject matter hereof and supersedes and replaces in its entirety any prior discussions or agreements, all of
+which are merged herein. None of the terms of this Agreement may be amended or otherwise modified except by an instrument in writing
+executed by Licensor and Licensee. If any term of this Agreement shall be held to be invalid, illegal or unenforceable, the validity
+of all other terms hereof shall in no way be affected thereby, and this Agreement shall be construed and be enforceable as if such
+invalid, illegal, or unenforceable term had not been included herein. Section headings are for convenience or reference only and
+shall not govern the interpretation of any of the provisions of this Agreement
+
+ 
+
+9.2 This
+Agreement shall not be construed so as to confer any right or benefit upon any person or entity other than the parties to this
+Agreement and their respective successors and assigns.
+
+ 
+
+9.3 This
+Agreement shall be governed by, and enforced in accordance with, the internal laws of the Commonwealth of Pennsylvania, including
+its statutes of limitations.
+
+ 
+
+9.4 Licensor
+and Licensee each hereby irrevocably submits to the nonexclusive jurisdiction of the courts of the Commonwealth of Pennsylvania
+and the United States District Court of the Eastern District of Pennsylvania for the purpose of any suit, action or other proceeding
+arising out of or relating to this Agreement. Licensor and Licensee each hereby further agrees to service of process in any such
+suit being made upon such party by mail at the address specified for notices in Section 9.9 hereof.
+
+ 
+
+9.5 LICENSOR
+AND LICENSEE EACH WAIVES ITS RIGHT TO A JURY TRIAL WITH RESPECT TO ANY ACTION OR CLAIM ARISING OUT OF ANY DISPUTE IN CONNECTION
+WITH THIS AGREEMENT, ANY RIGHTS OR OBLIGATIONS HEREUNDER, OR THE PERFORMANCE OF ANY SUCH RIGHTS OR OBLIGATIONS.
+
+ 
+
+9.6 This
+Agreement does not in any way create the relationship of principal and agent, or any similar relationship between Licensor and
+Licensee, including, but not limited to, that of joint venturers, partners, employees, agents or associates. Neither party is granted
+any right or authority to assume or create any obligation or responsibility for, or on behalf of, the other party or to otherwise
+bind the other party, other than as may be expressly authorized in this Agreement.
+
+ 
+
+9.7 Licensor
+nor Licensee shall (and neither shall have any right to) assign, sell, transfer, delegate or otherwise dispose of, whether voluntarily
+or involuntarily, by operation of law or otherwise, this Agreement or any rights or obligations under this Agreement without the
+express written consent of the other party; provided that Licensor may assign this agreement to an affiliate of Licensor without
+written consent of Licensee. Any attempted assignment in violation of this Section 9.7 shall be void and of no effect. Notwithstanding
+the foregoing, this Agreement shall be binding upon, inure to the benefit of, and be enforceable by, the parties and their respective
+successors (including, without limitation, successors by merger) and permitted assigns.
+
+ 
+
+9
+
+ 
+
+ 
+
+9.8 No
+course of dealing, course of performance or failure of either party to enforce strictly any term, right or condition of this Agreement
+shall be construed as a waiver of any other term, right or condition. No waiver or breach of any provision of this Agreement shall
+be construed to be a waiver of any subsequent breach of the same or any other provision.
+
+ 
+
+9.9 All
+notices and other communications required or permitted under this Agreement shall be in writing and addressed to Licensor or Licensee,
+as the case may be, at their respective addresses set forth below:
+
+ 
+
+If to Licensor:
+
+ 
+
+BM Technologies, Inc.
+
+201 King of Prussia Road, Suite 350
+
+Radnor, PA 19087
+
+Attn: Robert Savino, CPO
+
+E-mail: RSavino@bankmobile.com
+
+ 
+
+With a copy to:
+
+ 
+
+BM Technologies, Inc.
+
+201 King of Prussia Road, Suite 240
+
+Radnor, PA 19087
+
+Attn: Chief Financial Officer
+
+ 
+
+If to Licensee:
+
+ 
+
+Customers Bank
+
+701 Reading Avenue
+
+West Reading, PA 19611
+
+Attn: Jim Collins, Chief Administrative
+Officer
+
+Telephone: (267) 327-4942
+
+E-mail: JCollins@customersbank.com
+
+ 
+
+With a copy to:
+
+ 
+
+Customers Bank
+
+701 Reading Avenue
+
+West Reading, PA 19611
+
+Attn: Michael A. De Tommaso, General Counsel
+
+Telephone: (484) 334-4233
+
+E-mail: MDeTommaso@customersbank.com
+
+ 
+
+10
+
+ 
+
+ 
+
+All notices and other communications required or permitted under
+this Agreement shall be effective upon the earlier of actual receipt thereof by the person to whom notice is directed or, in the
+case of notices and communications sent by United States mail, three (3) Business Days after such notice or communication shall
+have been deposited in the United States mail.
+
+ 
+
+9.10 This
+Agreement may be executed in any number of separate counterparts, all of which, when taken together, shall constitute one and the
+same instrument, notwithstanding the fact that all parties did not sign the same counterpart.
+
+ 
+
+9.11 Whenever
+the context shall require, the plural shall include the singular, the whole shall include any part thereof, and any gender shall
+include both genders.
+
+ 
+
+9.12 This
+Agreement may be executed by digital signatures and delivered electronically in PDF format which shall be given the same legal
+weight as though they were ink original signatures.
+
+ 
+
+9.13 Neither
+party shall be liable to the other for any failure or delay in performing its obligations hereunder (or any resulting loss or damage)
+if such failure or delay is primarily due to circumstances beyond its reasonable control, including, but not limited to, (a) unavoidable
+Internet network failures or Internet capacity limitations, (b) acts of God including storms, earthquakes, fires, pandemics, epidemics,
+or (c) unavoidable acts of third parties including terrorist acts, acts of civil or military authorities, fires, embargoes, war,
+or riot.
+
+ 
+
+9.14 All
+provisions of this Agreement that by their nature are intended to survive the expiration or termination of this Agreement shall
+survive and remain in full force and effect, including, but not limited to, Sections 1, 3, 4, 5.4, 5.6, 6, 7, 9.3, 9.4, 9.5, and
+9.9.
+
+ 
+
+9.15 Licensor
+shall cooperate with Licensee and its Affiliates, and its or their third-party contractors as is reasonably necessary for Licensee
+and its Affiliates to receive the full benefits of its rights under this Agreement.
+
+ 
+
+[Signatures appear on the following page]
+
+ 
+
+11
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the parties hereto have executed this Software
+License Agreement on this 4
+th
+ day of January, 2021.
+
+ 
+
+Customers Bank (“Licensee”)
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:  
+
+/s/ Richard Ehst
+ 
+
+ 
+
+ 
+
+Name:  
+
+Richard Ehst
+
+ 
+
+ 
+
+Title: 
+
+President and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+BM Technologies, Inc. (“Licensor”)
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+/s/ Luvleen Sidhu
+ 
+
+ 
+
+ 
+
+Name: 
+
+ 
+Luvleen Sidhu
+
+ 
+
+ 
+
+Title: 
+
+Chief Executive Officer
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+EXHIBIT “A”
+
+ 
+
+[Schedules to this exhibit have been omitted
+pursuant to Item 601(b)(2) of Registration S-K. The Registrant hereby agrees to furnish a copy of any omitted schedules to the
+SEC upon request.]
+
+ 
+
+13
+
+ 
+
+ 
+
+EXHIBIT “B”
+
+ 
+
+SOURCE CODE ESCROW ADDENDUM
+
+ 
+
+Licensee may elect to have a copy of the Source Code of the
+Software and any Software Changes placed in escrow. If Licensee chooses this option, concurrent with the execution of this Agreement,
+the parties will execute an escrow agreement with a reputable source code escrow management firm to be agreed upon by both parties,
+and Licensor will deliver to the escrow agent a complete master, reproducible copy of all Software Source Code. “
+Source
+Code
+” means software code in human-readable language, high-level language from which, when compiled or assembled becomes
+the object code of a software program, including all build tools necessary for an ordinarily skilled programmer to compile or assemble
+the code into fully functioning object code. Licensor will update the Software Source Code in escrow following any update or upgrade
+to the Software to reflect all revisions, modifications and enhancements to the Software that are made available under this Agreement.
+Licensee will pay all fees and charges of any kind whatsoever due to the escrow agent so as to maintain the escrow agreement in
+full force and effect at all times during the term of this Agreement. Upon occurrence of a Release Condition, the Software Source
+Code placed in escrow will be delivered to Licensee for use, reproduction and modification solely in connection with Licensee’s
+use, maintenance and support of the Software in accordance with its rights under this Agreement. “
+Release Condition(s)
+”
+include each of the following: (a) Licensor is adjudged insolvent or bankrupt, or becomes the subject of any proceedings seeking
+relief under any foreign or domestic laws relating to insolvency; (b) there is an assignment of Licensor for the benefit of its
+creditors; (c) there is an appointment of a receiver, liquidator, or trustee of any of the Licensor’s property or assets
+and such receiver liquidator, or trustee fails to timely assume this Agreement as an executory contract; or (d) Licensor or its
+business is liquidated, dissolved or wound up. Licensor hereby grants to Licensee a non-exclusive, royalty-free license to use,
+copy, reverse engineer and create derivative works of the Software solely for the purposes specified in this provision. Licensee
+covenants not to exercise its rights under this provision until the occurrence of a Release Condition.
+
+ 
+
+ 
+
+14

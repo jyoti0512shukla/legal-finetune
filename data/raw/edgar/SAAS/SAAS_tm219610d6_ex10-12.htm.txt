@@ -1,0 +1,4321 @@
+EX-10.12
+
+22
+
+tm219610d6_ex10-12.htm
+
+EXHIBIT 10.12
+
+ 
+
+Exhibit 10.12
+
+ 
+
+ 
+
+MASTER SUBSCRIPTION
+AGREEMENT
+
+ 
+
+THIS
+MASTER SUBSCRIPTION AGREEMENT GOVERNS CUSTOMER
+’
+S ACQUISITION
+AND USE OF SFDC SERVICES. CAPITALIZED TERMS HAVE THE DEFINITIONS SET FORTH HEREIN.
+
+ 
+
+IF CUSTOMER REGISTERS
+FOR A FREE TRIAL OF SFDC SERVICES OR FOR FREE SERVICES, THE APPLICABLE PROVISIONS OF THIS AGREEMENT WILL ALSO GOVERN THAT FREE TRIAL
+OR THOSE FREE SERVICES.
+
+ 
+
+BY
+ACCEPTING THIS AGREEMENT, BY (1) CLICKING A BOX INDICATING ACCEPTANCE, (2) EXECUTING AN ORDER FORM THAT REFERENCES THIS AGREEMENT, OR
+(3) USING FREE SERVICES, CUSTOMER AGREES TO THE TERMS OF THIS AGREEMENT. IF THE INDIVIDUAL ACCEPTING THIS AGREEMENT IS ACCEPTING ON BEHALF
+OF A COMPANY OR OTHER LEGAL ENTITY, SUCH INDIVIDUAL REPRESENTS THAT THEY HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO
+THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERM 
+“
+CUSTOMER
+”
+
+SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF THE INDIVIDUAL ACCEPTING THIS AGREEMENT DOES NOT HAVE
+SUCH AUTHORITY, OR DOES NOT AGREE WITH THESE TERMS AND CONDITIONS, SUCH INDIVIDUAL MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE
+SERVICES.
+
+ 
+
+The Services may
+not be accessed for purposes of monitoring their availability, performance or functionality, or for any other benchmarking or competitive
+purposes.
+
+ 
+
+SFDC
+’
+s
+direct competitors are prohibited from accessing the Services, except with SFDC
+’
+s prior
+written consent.
+
+ 
+
+This
+Agreement was last updated on April 23, 2021. It is effective between Customer and SFDC as of the date of Customer
+’
+s
+accepting this Agreement (the 
+“
+Effective Date
+”
+).
+
+ 
+
+1.             DEFINITIONS
+
+ 
+
+“
+Affiliate
+”
+
+means any entity that directly or indirectly controls, is controlled by, or is under common control with
+the subject entity. 
+“
+Control,
+” 
+for purposes
+of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.
+
+ 
+
+“
+Agreement
+”
+
+means this Master Subscription Agreement.
+
+ 
+
+“
+Beta
+Services
+” 
+means SFDC services or functionality that may be made available to Customer to
+try at its option at no additional charge which is clearly designated as beta, pilot, limited release, developer preview, non-production,
+evaluation, or by a similar description.
+
+ 
+
+“
+Content
+”
+
+means information obtained by SFDC from publicly available sources or its third party content providers
+and made available to Customer through the Services, Beta Services or pursuant to an Order Form, as more fully described in the Documentation.
+
+ 
+
+“
+Customer
+”
+
+means in the case of an individual accepting this Agreement on his or her own behalf, such individual,
+or in the case of an individual accepting this Agreement on behalf of a company or other legal entity, the company or other legal entity
+for which such individual is accepting this Agreement, and Affiliates of that company or entity (for so long as they remain Affiliates)
+which have entered into Order Forms.
+
+ 
+
+“
+Customer
+Data
+” 
+means electronic data and information submitted by or for Customer to the Services,
+excluding Content and Non-SFDC Applications.
+
+ 
+
+“
+Documentation
+”
+
+means the applicable Service
+’
+s Trust and Compliance documentation
+at 
+https://trust.salesforce.com/en/trust-and-compliance-documentation/
+ and its usage guides and policies, as updated from time
+to time, accessible via help.salesforce.com or login to the applicable Service.
+
+ 
+
+“
+Free
+Services
+” 
+means Services that SFDC makes available to Customer free of charge. Free Services
+exclude Services offered as a free trial and Purchased Services.
+
+ 
+
+“
+Malicious
+Code
+” 
+means code, files, scripts, agents or programs intended to do harm, including, for
+example, viruses, 
+worms, time bombs and Trojan horses.
+
+ 
+
+“
+Marketplace
+”
+
+means an online directory, catalog or marketplace of applications that interoperate with the Services,
+including, for example, the AppExchange at 
+http://www.salesforce.com/appexchange
+, or the Heroku add-ons catalog at 
+https://elements.heroku.com/
+,
+and any successor websites.
+
+ 
+
+Page 
+1
+ of 12
+
+ 
+
+ 
+
+“
+Non-SFDC
+Application
+” 
+means a Web-based, mobile, offline or other software application functionality
+that interoperates with a Service, that is provided by Customer or a third party and/or listed on a Marketplace including as Salesforce
+Labs or under similar designation. Non-SFDC Applications, other than those obtained or provided by Customer, will be identifiable as
+such.
+
+ 
+
+“
+Order
+Form
+” 
+means an ordering document or online order specifying the Services to be provided
+hereunder that is entered into between Customer and SFDC or any of their Affiliates, including any addenda and supplements thereto. By
+entering into an Order Form hereunder, an Affiliate agrees to be bound by the terms of this Agreement as if it were an original party
+hereto.
+
+ 
+
+“
+Purchased
+Services
+” 
+means Services that Customer or Customer
+’
+s
+Affiliate purchases under an Order Form or online purchasing portal, as distinguished from Free Services or those provided pursuant to
+a free trial.
+
+ 
+
+“
+Services
+”
+
+means the products and services that are ordered by Customer under an Order Form or online purchasing
+portal, or provided to Customer free of charge (as applicable) or under a free trial, and made available online by SFDC, including associated
+SFDC offline or mobile components, as described in the Documentation. 
+“
+Services
+”
+
+exclude Content and Non-SFDC Applications.
+
+ 
+
+“
+SFDC
+”
+
+means the salesforce.com company described in the 
+“
+SFDC
+Contracting Entity, Notices, Governing Law, and Venue
+” 
+section below.
+
+ 
+
+“
+User
+”
+
+means, in the case of an individual accepting these terms on his or her own behalf, such individual,
+or, in the case of an individual accepting this Agreement on behalf of a company or other legal entity, an individual who is authorized
+by Customer to use a Service, for whom Customer has purchased a subscription (or in the case of any Services provided by SFDC without
+charge, for whom a Service has been provisioned), and to whom Customer (or, when applicable, SFDC at Customer
+’
+s
+request) has supplied a user identification and password (for Services utilizing authentication). Users may include, for example, employees,
+consultants, contractors and agents of Customer, and third parties with which Customer transacts business.
+
+ 
+
+2.
+SFDC
+ RESPONSIBILITIES
+
+ 
+
+2.1
+Provision
+ of Purchased Services. 
+SFDC will (a) make the Services and Content available to Customer
+ pursuant to this Agreement, and the applicable Order Forms and Documentation, (b) provide
+ applicable SFDC standard support for the Purchased Services to Customer at no additional
+ charge, and/or upgraded support if purchased, (c) use commercially reasonable efforts to
+ make the online Purchased Services available 24 hours a day, 7 days a week, except for: (i)
+ planned downtime (of which SFDC shall give advance electronic notice), and (ii) any unavailability
+ caused by circumstances beyond SFDC
+’
+s
+ reasonable control, including, for example, an act of God, act of government, flood, fire,
+ earthquake, civil unrest, act of terror, strike or other labor problem (other than one involving
+ SFDC employees), Internet service provider failure or delay, Non-SFDC Application, or denial
+ of service attack, and (d) provide the Services in accordance with laws and government regulations
+ applicable to SFDC
+’
+s provision of its Services
+ to its customers generally (i.e., without regard for Customer
+’
+s
+ particular use of the Services), and subject to Customer
+’
+s
+ use of the Services in accordance with this Agreement, the Documentation and the applicable
+ Order Form.
+
+ 
+
+2.2
+Protection
+ of Customer Data. 
+SFDC will maintain appropriate administrative, physical, and technical
+ safeguards for protection of the security, confidentiality and integrity of Customer Data,
+ as described in the Documentation. Those safeguards will include, but will not be limited
+ to, measures designed to prevent unauthorized access to or disclosure of Customer Data (other
+ than by Customer or Users). The terms of the data processing addendum at 
+https://www.salesforce.com/company/legal/agreements.jsp
+ 
+(“DPA”) posted as of the Effective Date are hereby incorporated by reference.
+ To the extent Personal Data from the European Economic Area (EEA), the United Kingdom and
+ Switzerland are processed by SFDC, its Processor Binding Corporate Rules, the EU-US and/or
+ Swiss-US Privacy Shield, and/or the Standard Contractual Clauses shall apply, as further
+ set forth in the DPA. For the purposes of the Standard Contractual Clauses, Customer and
+ its applicable Affiliates are each the data exporter, and Customer’s acceptance of
+ this Agreement, and an applicable Affiliate’s execution of an Order Form, shall be
+ treated as its execution of the Standard Contractual Clauses and Appendices. Upon request
+ by Customer made within 30 days after the effective date of termination or expiration of
+ this Agreement, SFDC will make Customer Data available to Customer for export or download
+ as provided in the Documentation. After such 30-day period, SFDC will have no obligation
+ to maintain or provide any Customer Data, and as provided in the Documentation will thereafter
+ delete or destroy all copies of Customer Data in its systems or otherwise in its possession
+ or control, unless legally prohibited.
+
+ 
+
+2.3
+SFDC
+ Personnel. 
+SFDC will be responsible for the performance of its personnel (including its
+ employees and contractors) and their compliance with SFDC
+’
+s
+ obligations under this Agreement, except as otherwise specified in this Agreement.
+
+ 
+
+2.4
+Beta
+ Services. 
+From time to time, SFDC may make Beta Services available to Customer at no
+ charge. Customer may choose to try such Beta Services or not in its sole discretion. Any
+ use of Beta Services is subject to the Beta Services terms at 
+https://www.salesforce.com/company/legal/agreements.jsp
+.
+
+ 
+
+2.5
+Free
+ Trial. 
+If Customer registers on SFDC
+’
+s
+ or an Affiliate
+’
+s website for a free trial,
+ SFDC will make the applicable Service(s) available to Customer on a trial basis free of charge
+ until the earlier of (a) the end of the free trial period for which Customer registered to
+ use the applicable Service(s), or (b) the start date of any Purchased Service subscriptions
+ ordered by Customer for such Service(s), or (c) termination by SFDC in its sole discretion.
+ Additional trial terms and conditions may appear on the trial registration web page. Any
+ such additional terms and conditions are incorporated into this Agreement by reference and
+ are legally binding.
+
+ 
+
+Page 
+2
+ of 12
+
+ 
+
+ 
+
+ANY
+DATA CUSTOMER ENTERS INTO THE SERVICES, AND ANY CUSTOMIZATIONS MADE TO THE SERVICES BY OR FOR CUSTOMER, DURING CUSTOMER
+’
+S
+FREE TRIAL WILL BE PERMANENTLY LOST UNLESS CUSTOMER PURCHASES A SUBSCRIPTION TO THE SAME SERVICES AS THOSE COVERED BY THE TRIAL, PURCHASES
+APPLICABLE UPGRADED SERVICES, OR EXPORTS SUCH DATA, BEFORE THE END OF THE TRIAL PERIOD. CUSTOMER CANNOT TRANSFER DATA ENTERED OR CUSTOMIZATIONS
+MADE DURING THE FREE TRIAL TO A SERVICE THAT WOULD BE A DOWNGRADE FROM THAT COVERED BY THE TRIAL (E.G., FROM ENTERPRISE EDITION TO PROFESSIONAL
+EDITION); THEREFORE, IF CUSTOMER PURCHASES A SERVICE THAT WOULD BE A DOWNGRADE FROM THAT COVERED BY THE TRIAL, CUSTOMER MUST EXPORT CUSTOMER
+DATA BEFORE THE END OF THE TRIAL PERIOD OR CUSTOMER DATA WILL BE PERMANENTLY LOST.
+
+ 
+
+NOTWITHSTANDING
+THE 
+“
+REPRESENTATIONS, WARRANTIES, EXCLUSIVE REMEDIES AND DISCLAIMERS
+”
+
+SECTION AND 
+“
+INDEMNIFICATION BY SFDC
+” 
+SECTION
+BELOW, DURING THE FREE TRIAL THE SERVICES ARE PROVIDED 
+“
+AS-IS
+” 
+WITHOUT
+ANY WARRANTY AND SFDC SHALL HAVE NO INDEMNIFICATION OBLIGATIONS NOR LIABILITY OF ANY TYPE WITH RESPECT TO THE SERVICES FOR THE FREE TRIAL
+PERIOD UNLESS SUCH EXCLUSION OF LIABILITY IS NOT ENFORCEABLE UNDER APPLICABLE LAW IN WHICH CASE SFDC
+’
+S
+LIABILITY WITH RESPECT TO THE SERVICES PROVIDED DURING THE FREE TRIAL SHALL NOT EXCEED $1,000.00. WITHOUT LIMITING THE FOREGOING, SFDC
+AND ITS AFFILIATES AND ITS LICENSORS DO NOT REPRESENT OR WARRANT TO CUSTOMER THAT: (A) CUSTOMER
+’
+S
+USE OF THE SERVICES DURING THE FREE TRIAL PERIOD WILL MEET CUSTOMER
+’
+S REQUIREMENTS, (B)
+CUSTOMER
+’
+S USE OF THE SERVICES DURING THE FREE TRIAL PERIOD WILL BE UNINTERRUPTED, TIMELY,
+SECURE OR FREE FROM ERROR, AND (C) USAGE DATA PROVIDED DURING THE FREE TRIAL PERIOD WILL BE ACCURATE. NOTWITHSTANDING ANYTHING TO THE
+CONTRARY IN THE 
+“
+LIMITATION OF LIABILITY
+” 
+SECTION
+BELOW, CUSTOMER SHALL BE FULLY LIABLE UNDER THIS AGREEMENT TO SFDC AND ITS AFFILIATES FOR ANY DAMAGES ARISING OUT OF CUSTOMER
+’
+S
+USE OF THE SERVICES DURING THE FREE TRIAL PERIOD, ANY BREACH BY CUSTOMER OF THIS AGREEMENT AND ANY OF CUSTOMER
+’
+S
+INDEMNIFICATION OBLIGATIONS HEREUNDER.
+
+ 
+
+CUSTOMER
+SHALL REVIEW THE APPLICABLE SERVICE
+’
+S DOCUMENTATION DURING
+THE TRIAL PERIOD TO BECOME FAMILIAR WITH THE FEATURES AND FUNCTIONS OF THE SERVICES BEFORE MAKING A PURCHASE.
+
+ 
+
+2.6
+Free
+ Services. 
+SFDC may make Free Services available to Customer. Use of Free Services is
+ subject to the terms and conditions of this Agreement. In the event of a conflict between
+ this section and any other portion of this Agreement, this section shall control. Free Services
+ are provided to Customer without charge up to certain limits as described in the Documentation.
+ Usage over these limits requires Customer
+’
+s
+ purchase of additional resources or services. Customer agrees that SFDC, in its sole discretion
+ and for any or no reason, may terminate Customer
+’
+s
+ access to the Free Services or any part thereof. Customer agrees that any termination of
+ Customer
+’
+s access to the Free Services may be
+ without prior notice, and Customer agrees that SFDC will not be liable to Customer or any
+ third party for such termination. Customer is solely responsible for exporting Customer Data
+ from the Free Services prior to termination of Customer
+’
+s
+ access to the Free Services for any reason, provided that if SFDC terminates Customer
+’
+s
+ account, except as required by law SFDC will provide Customer a reasonable opportunity to
+ retrieve its Customer Data.
+
+ 
+
+NOTWITHSTANDING
+THE 
+“
+REPRESENTATIONS, WARRANTIES, EXCLUSIVE REMEDIES AND DISCLAIMERS
+”
+
+SECTION AND 
+“
+INDEMNIFICATION BY SFDC
+” 
+SECTION
+BELOW, THE FREE SERVICES ARE PROVIDED 
+“
+AS-IS
+” 
+WITHOUT
+ANY WARRANTY AND SFDC SHALL HAVE NO INDEMNIFICATION OBLIGATIONS NOR LIABILITY OF ANY TYPE WITH RESPECT TO THE FREE SERVICES UNLESS SUCH
+EXCLUSION OF LIABILITY IS NOT ENFORCEABLE UNDER APPLICABLE LAW IN WHICH CASE SFDC
+’
+S LIABILITY
+WITH RESPECT TO THE FREE SERVICES SHALL NOT EXCEED $1,000.00. WITHOUT LIMITING THE FOREGOING, SFDC AND ITS AFFILIATES AND ITS LICENSORS
+DO NOT REPRESENT OR WARRANT TO CUSTOMER THAT: (A) CUSTOMER
+’
+S USE OF THE FREE SERVICES WILL
+MEET CUSTOMER
+’
+S REQUIREMENTS, (B) CUSTOMER
+’
+S
+USE OF THE FREE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR, AND (C) USAGE DATA PROVIDED THROUGH THE FREE SERVICES
+WILL BE ACCURATE. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THE 
+“
+LIMITATION OF LIABILITY
+”
+
+SECTION BELOW, CUSTOMER SHALL BE FULLY LIABLE UNDER THIS AGREEMENT TO SFDC AND ITS AFFILIATES FOR ANY
+DAMAGES ARISING OUT OF CUSTOMER
+’
+S USE OF THE FREE SERVICES, ANY BREACH BY CUSTOMER OF THIS
+AGREEMENT AND ANY OF CUSTOMER
+’
+S INDEMNIFICATION OBLIGATIONS HEREUNDER.
+
+ 
+
+ 
+
+Page 
+3
+ of 12
+
+ 
+
+ 
+
+3.             
+USE
+OF SERVICES AND CONTENT
+
+ 
+
+3.1
+Subscriptions.
+ 
+Unless otherwise provided in the applicable Order Form or Documentation, (a) Purchased
+ Services and access to Content are purchased as subscriptions for the term stated in the
+ applicable Order Form or in the applicable online purchasing portal, (b) subscriptions for
+ Purchased Services may be added during a subscription term at the same pricing as the underlying
+ subscription pricing, prorated for the portion of that subscription term remaining at the
+ time the subscriptions are added, and (c) any added subscriptions will terminate on the same
+ date as the underlying subscriptions. Customer agrees that its purchases are not contingent
+ on the delivery of any future functionality or features, or dependent on any oral or written
+ public comments made by SFDC regarding future functionality or features.
+
+ 
+
+3.2
+Usage
+ Limits. 
+Services and Content are subject to usage limits specified in Order Forms and
+ Documentation. If Customer exceeds a contractual usage limit, SFDC may work with Customer
+ to seek to reduce Customer
+’
+s
+ usage so that it conforms to that limit. If, notwithstanding SFDC
+’
+s
+ efforts, Customer is unable or unwilling to abide by a contractual usage limit, Customer
+ will execute an Order Form for additional quantities of the applicable Services or Content
+ promptly upon SFDC
+’
+s request, and/or pay any
+ invoice for excess usage in accordance with the 
+“
+Invoicing
+ and Payment
+” 
+section below.
+
+ 
+
+3.3
+Customer
+ Responsibilities. 
+Customer will (a) be responsible for Users
+’
+ 
+compliance with this Agreement, Documentation and Order Forms,
+ (b) be responsible for the accuracy, quality and legality of Customer Data, the means by
+ which Customer acquired Customer Data, Customer
+’
+s
+ use of Customer Data with the Services, and the interoperation of any Non-SFDC Applications
+ with which Customer uses Services or Content, (c) use commercially reasonable efforts to
+ prevent unauthorized access to or use of Services and Content, and notify SFDC promptly of
+ any such unauthorized access or use, (d) use Services and Content only in accordance with
+ this Agreement, Documentation, the Acceptable Use and External Facing Services Policy at
+ 
+https://www.salesforce.com/company/legal/agreements.jsp
+, Order Forms and applicable
+ laws and government regulations, and (e) comply with terms of service of any Non-SFDC Applications
+ with which Customer uses Services or Content. Any use of the Services in breach of the foregoing
+ by Customer or Users that in SFDC
+’
+s judgment
+ threatens the security, integrity or availability of SFDC
+’
+s
+ services, may result in SFDC
+’
+s immediate suspension
+ of the Services, however SFDC will use commercially reasonable efforts under the circumstances
+ to provide Customer with notice and an opportunity to remedy such violation or threat prior
+ to any such suspension.
+
+ 
+
+3.4
+Usage
+ Restrictions. 
+Customer will not (a) make any Service or Content available to anyone other
+ than Customer or Users, or use any Service or Content for the benefit of anyone other than
+ Customer or its Affiliates, unless expressly stated otherwise in an Order Form or the Documentation,
+ (b) sell, resell, license, sublicense, distribute, make available, rent or lease any Service
+ or Content, or include any Service or Content in a service bureau or outsourcing offering,
+ (c) use a Service or Non-SFDC Application to store or transmit infringing, libelous, or otherwise
+ unlawful or tortious material, or to store or transmit material in violation of third-party
+ privacy rights, (d) use a Service or Non-SFDC Application to store or transmit Malicious
+ Code, (e) interfere with or disrupt the integrity or performance of any Service or third-party
+ data contained therein, (f) attempt to gain unauthorized access to any Service or Content
+ or its related systems or networks, (g) permit direct or indirect access to or use of any
+ Services or Content in a way that circumvents a contractual usage limit, or use any Services
+ to access or use any of SFDC intellectual property except as permitted under this Agreement,
+ an Order Form, or the Documentation, (h) modify, copy, or create derivative works based on
+ a Service or any part, feature, function or user interface thereof, (i) copy Content except
+ as permitted herein or in an Order Form or the Documentation, (j) frame or mirror any part
+ of any Service or Content, other than framing on Customer
+’
+s
+ own intranets or otherwise for its own internal business purposes or as permitted in the
+ Documentation, (k) except to the extent permitted by applicable law, disassemble, reverse
+ engineer, or decompile a Service or Content or access it to (1) build a competitive product
+ or service, (2) build a product or service using similar ideas, features, functions or graphics
+ of the Service, (3) copy any ideas, features, functions or graphics of the Service, or (4)
+ determine whether the Services are within the scope of any patent.
+
+ 
+
+3.5
+Removal
+ of Content and Non-SFDC Applications. 
+If Customer receives notice that Content or a Non-SFDC
+ Application must be removed, modified and/or disabled to avoid violating applicable law,
+ third-party rights, or the Acceptable Use and External Facing Services Policy, Customer will
+ promptly do so. If Customer does not take required action in accordance with the above, or
+ if in SFDC
+’
+s judgment
+ continued violation is likely to reoccur, SFDC may disable the applicable Content, Service
+ and/or Non-SFDC Application. If requested by SFDC, Customer shall confirm such deletion and
+ discontinuance of use in writing and SFDC shall be authorized to provide a copy of such confirmation
+ to any such third party claimant or governmental authority, as applicable. In addition, if
+ SFDC is required by any third party rights holder to remove Content, or receives information
+ that Content provided to Customer may violate applicable law or third-party rights, SFDC
+ may discontinue Customer
+’
+s access to Content
+ through the Services.
+
+ 
+
+4.
+NON-SFDC
+ PRODUCTS AND SERVICES
+
+ 
+
+4.1
+Non-SFDC
+ Products and Services. 
+SFDC or third parties may make available (for example, through
+ a Marketplace or otherwise) third-party products or services, including, for example, Non-SFDC
+ Applications and implementation and other consulting services. Any acquisition by Customer
+ of such products or services, and any exchange of data between Customer and any Non-SFDC
+ provider, product or service is solely between Customer and the applicable Non-SFDC provider.
+ SFDC does not warrant or support Non-SFDC Applications or other Non-SFDC products or services,
+ whether or not they are designated by SFDC as “certified” or otherwise, unless
+ expressly provided otherwise in an Order Form. SFDC is not responsible for any disclosure,
+ modification or deletion of Customer Data resulting from access by such Non-SFDC Application
+ or its provider.
+
+ 
+
+Page 
+4
+ of 12
+
+ 
+
+ 
+
+4.2
+Integration
+ with Non-SFDC Applications. 
+The Services may contain features designed to interoperate
+ with Non-SFDC Applications. SFDC cannot guarantee the continued availability of such Service
+ features, and may cease providing them without entitling Customer to any refund, credit,
+ or other compensation, if for example and without limitation, the provider of a Non-SFDC
+ Application ceases to make the Non-SFDC Application available for interoperation with the
+ corresponding Service features in a manner acceptable to SFDC.
+
+ 
+
+5.            FEES
+AND PAYMENT
+
+ 
+
+5.1
+Fees
+.
+ Customer will pay all fees specified in Order Forms. Except as otherwise specified herein
+ or in an Order Form, (i) fees are based on Services and Content subscriptions purchased and
+ not actual usage, (ii) payment obligations are non- cancelable and fees paid are non-refundable,
+ and (iii) quantities purchased cannot be decreased during the relevant subscription term.
+
+ 
+
+5.2
+Invoicing
+ and Payment
+. Customer will provide SFDC with valid and updated credit card information,
+ or with a valid purchase order or alternative document reasonably acceptable to SFDC. If
+ Customer provides credit card information to SFDC, Customer authorizes SFDC to charge such
+ credit card for all Purchased Services listed in the Order Form for the initial subscription
+ term and any renewal subscription term(s) as set forth in the 
+“
+Term
+ of Purchased Subscriptions
+” 
+section below. Such
+ charges shall be made in advance, either annually or in accordance with any different billing
+ frequency stated in the applicable Order Form. If the Order Form specifies that payment will
+ be by a method other than a credit card, SFDC will invoice Customer in advance and otherwise
+ in accordance with the relevant Order Form. Unless otherwise stated in the Order Form, invoiced
+ fees are due net 30 days from the invoice date. Customer is responsible for providing complete
+ and accurate billing and contact information to SFDC and notifying SFDC of any changes to
+ such information.
+
+ 
+
+5.3
+Overdue
+ Charges
+. If any invoiced amount is not received by SFDC by the due date, then without
+ limiting SFDC
+’
+s
+ rights or remedies, (a) those charges may accrue late interest at the rate of 1.5% of the
+ outstanding balance per month, or the maximum rate permitted by law, whichever is lower,
+ and/or (b) SFDC may condition future subscription renewals and Order Forms on payment terms
+ shorter than those specified in the 
+“
+Invoicing
+ and Payment
+” 
+section above.
+
+ 
+
+5.4
+Suspension
+ of Service and Acceleration
+. If any charge owing by Customer under this or any other
+ agreement for services is 30 days or more overdue, (or 10 or more days overdue in the case
+ of amounts Customer has authorized SFDC to charge to Customer
+’
+s
+ credit card), SFDC may, without limiting its other rights and remedies, accelerate Customer
+’
+s
+ unpaid fee obligations under such agreements so that all such obligations become immediately
+ due and payable, and suspend Services until such amounts are paid in full, provided that,
+ other than for customers paying by credit card or direct debit whose payment has been declined,
+ SFDC will give Customer at least 10 days
+’ 
+prior
+ notice that its account is overdue, in accordance with the 
+“
+Manner
+ of Giving Notice
+” 
+section below for billing
+ notices, before suspending services to Customer.
+
+ 
+
+5.5
+Payment
+ Disputes
+. SFDC will not exercise its rights under the 
+“
+Overdue
+ Charges
+” 
+or 
+“
+Suspension
+ of Service and Acceleration
+” 
+section above if
+ Customer is disputing the applicable charges reasonably and in good faith and is cooperating
+ diligently to resolve the dispute.
+
+ 
+
+5.6
+Taxes
+.
+ SFDC
+’
+s fees do
+ not include any taxes, levies, duties or similar governmental assessments of any nature,
+ including, for example, value-added, sales, use or withholding taxes, assessable by any jurisdiction
+ whatsoever (collectively, 
+“
+Taxes
+”
+).
+ Customer is responsible for paying all Taxes associated with its purchases hereunder. If
+ SFDC has the legal obligation to pay or collect Taxes for which Customer is responsible under
+ this section, SFDC will invoice Customer and Customer will pay that amount unless Customer
+ provides SFDC with a valid tax exemption certificate authorized by the appropriate taxing
+ authority. For clarity, SFDC is solely responsible for taxes assessable against it based
+ on its income, property and employees.
+
+ 
+
+6.            
+PROPRIETARY
+RIGHTS AND LICENSES
+
+ 
+
+6.1
+Reservation
+ of Rights
+. Subject to the limited rights expressly granted hereunder, SFDC, its Affiliates,
+ its licensors and Content Providers reserve all of their right, title and interest in and
+ to the Services and Content, including all of their related intellectual property rights.
+ No rights are granted to Customer hereunder other than as expressly set forth herein.
+
+ 
+
+6.2
+Access
+ to and Use of Content
+. Customer has the right to access and use applicable Content subject
+ to the terms of applicable Order Forms, this Agreement and the Documentation.
+
+ 
+
+6.3
+License
+ by Customer to SFDC
+. Customer grants SFDC, its Affiliates and applicable contractors
+ a worldwide, limited-term license to host, copy, use, transmit, and display any Non-SFDC
+ Applications and program code created by or for Customer using a Service or for use by Customer
+ with the Services, and Customer Data, each as appropriate for SFDC to provide and ensure
+ proper operation of the Services and associated systems in accordance with this Agreement.
+ If Customer chooses to use a Non-SFDC Application with a Service, Customer grants SFDC permission
+ to allow the Non-SFDC Application and its provider to access Customer Data and information
+ about Customer
+’
+s
+ usage of the Non-SFDC Application as appropriate for the interoperation of that Non-SFDC
+ Application with the Service. Subject to the limited licenses granted herein, SFDC acquires
+ no
+right, title or interest from Customer or its licensors under this Agreement in
+ or to any Customer Data, Non-SFDC Application or such program code.
+
+ 
+
+Page 
+5
+ of 12
+
+ 
+
+ 
+
+6.4
+License
+ by Customer to Use Feedback
+. Customer grants to SFDC and its Affiliates a worldwide,
+ perpetual, irrevocable, royalty-free license to use and incorporate into its services any
+ suggestion, enhancement request, recommendation, correction or other feedback provided by
+ Customer or Users relating to the operation of SFDC
+’
+s
+ or its Affiliates
+’ 
+services.
+
+ 
+
+6.5
+Federal
+ Government End Use Provisions. 
+SFDC provides the Services, including related software
+ and technology, for ultimate federal government end use in accordance with the following:
+ The Services consist of 
+“
+commercial
+ items,
+” 
+as defined at FAR 2.101. In accordance
+ with FAR 12.211-12.212 and DFARS 227.7102-4 and 227.7202-4, as applicable, the rights of
+ the U.S. Government to use, modify, reproduce, release, perform, display, or disclose commercial
+ computer software, commercial computer software documentation, and technical data furnished
+ in connection with the Services shall be as provided in this Agreement, except that, for
+ U.S. Department of Defense end users, technical data customarily provided to the public is
+ furnished in accordance with DFARS 252.227-7015. If a government agency needs additional
+ rights, it must negotiate a mutually acceptable written addendum to this Agreement specifically
+ granting those rights.
+
+ 
+
+7.
+           
+CONFIDENTIALITY
+
+ 
+
+7.1
+Definition
+ of Confidential Information. 
+“
+Confidential
+ Information
+” 
+means all information disclosed
+ by a party (
+“
+Disclosing Party
+”
+)
+ to the other party (
+“
+Receiving Party
+”
+),
+ whether orally or in writing, that is designated as confidential or that reasonably should
+ be understood to be confidential given the nature of the information and the circumstances
+ of disclosure. Confidential Information of Customer includes Customer Data; Confidential
+ Information of SFDC includes the Services and Content, and the terms and conditions of this
+ Agreement and all Order Forms (including pricing). Confidential Information of each party
+ includes business and marketing plans, technology and technical information, product plans
+ and designs, and business processes disclosed by such party. However, Confidential Information
+ does not include any information that (i) is or becomes generally known to the public without
+ breach of any obligation owed to the Disclosing Party, (ii) was known to the Receiving Party
+ prior to its disclosure by the Disclosing Party without breach of any obligation owed to
+ the Disclosing Party, (iii) is received from a third party without breach of any obligation
+ owed to the Disclosing Party, or (iv) was independently developed by the Receiving Party.
+ For the avoidance of doubt, the non-disclosure obligations set forth in this 
+“
+Confidentiality
+”
+ 
+section apply to Confidential Information exchanged between
+ the parties in connection with the evaluation of additional SFDC services.
+
+ 
+
+7.2
+Protection
+ of Confidential Information
+. As between the parties, each party retains all ownership
+ rights in and to its Confidential Information. The Receiving Party will use the same degree
+ of care that it uses to protect the confidentiality of its own confidential information of
+ like kind (but not less than reasonable care) to (i) not use any Confidential Information
+ of the Disclosing Party for any purpose outside the scope of this Agreement and (ii) except
+ as otherwise authorized by the Disclosing Party in writing, limit access to Confidential
+ Information of the Disclosing Party to those of its and its Affiliates
+’
+ 
+employees and contractors who need that access for purposes
+ consistent with this Agreement and who have signed confidentiality agreements with the Receiving
+ Party containing protections not materially less protective of the Confidential Information
+ than those herein. Neither party will disclose the terms of this Agreement or any Order Form
+ to any third party other than its Affiliates, legal counsel and accountants without the other
+ party
+’
+s prior written consent, provided that
+ a party that makes any such disclosure to its Affiliate, legal counsel or accountants will
+ remain responsible for such Affiliate
+’
+s, legal
+ counsel
+’
+s or accountant
+’
+s
+ compliance with this 
+“
+Confidentiality
+”
+ 
+section. Notwithstanding the foregoing, SFDC may disclose
+ the terms of this Agreement and any applicable Order Form to a subcontractor or Non-SFDC
+ Application Provider to the extent necessary to perform SFDC
+’
+s
+ obligations under this Agreement, under terms of confidentiality materially as protective
+ as set forth herein.
+
+ 
+
+7.3
+Compelled
+ Disclosure. 
+The Receiving Party may disclose Confidential Information of the Disclosing
+ Party to the extent compelled by law to do so, provided the Receiving Party gives the Disclosing
+ Party prior notice of the compelled disclosure (to the extent legally permitted) and reasonable
+ assistance, at the Disclosing Party
+’
+s
+ cost, if the Disclosing Party wishes to contest the disclosure. If the Receiving Party is
+ compelled by law to disclose the Disclosing Party
+’
+s
+ Confidential Information as part of a civil proceeding to which the Disclosing Party is a
+ party, and the Disclosing Party is not contesting the disclosure, the Disclosing Party will
+ reimburse the Receiving Party for its reasonable cost of compiling and providing secure access
+ to that Confidential Information.
+
+ 
+
+8.
+REPRESENTATIONS,
+ WARRANTIES, EXCLUSIVE REMEDIES AND DISCLAIMERS
+
+ 
+
+8.1
+Representations.
+ 
+Each party represents that it has validly entered into this Agreement and has the legal
+ power to do so.
+
+ 
+
+8.2
+SFDC
+ Warranties. 
+SFDC warrants that during an applicable subscription term (a) this Agreement,
+ the Order Forms and the Documentation will accurately describe the applicable administrative,
+ physical, and technical safeguards for protection of the security, confidentiality and integrity
+ of Customer Data, (b) SFDC will not materially decrease the overall security of the Services,
+ (c) the Services will perform materially in accordance with the applicable Documentation,
+ and (d) subject to the “Integration with Non-SFDC Applications” section above,
+ SFDC will not materially decrease the overall functionality of the Services. For any breach
+ of a warranty above, Customer’s exclusive remedies are those described in the “Termination”
+ and “Refund or Payment upon Termination” sections below.
+
+ 
+
+Page 
+6
+ of 12
+
+ 
+
+ 
+
+8.3
+Disclaimers.
+ 
+EXCEPT AS EXPRESSLY PROVIDED HEREIN, NEITHER PARTY MAKES ANY WARRANTY OF ANY KIND, WHETHER
+ EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, AND EACH PARTY SPECIFICALLY DISCLAIMS ALL IMPLIED
+ WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+ OR NON-INFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. CONTENT AND BETA
+ SERVICES ARE PROVIDED 
+“
+AS
+ IS,
+” 
+AND AS AVAILABLE EXCLUSIVE OF ANY WARRANTY
+ WHATSOEVER.
+
+ 
+
+9.
+MUTUAL
+ INDEMNIFICATION
+
+ 
+
+9.1
+Indemnification
+ by SFDC. 
+SFDC will defend Customer against any claim, demand, suit or proceeding made
+ or brought against Customer by a third party alleging that any Purchased Service infringes
+ or misappropriates such third party
+’
+s
+ intellectual property rights (a 
+“
+Claim Against
+ 
+Customer
+”
+), and will indemnify Customer
+ from any damages, attorney fees and costs finally awarded against Customer as a result of,
+ or for amounts paid by Customer under a settlement approved by SFDC in writing of, a Claim
+ Against Customer, provided Customer (a) promptly gives SFDC written notice of the Claim Against
+ Customer, (b) gives SFDC sole control of the defense and settlement of the Claim Against
+ Customer (except that SFDC may not settle any Claim Against Customer unless it unconditionally
+ releases Customer of all liability), and (c) gives SFDC all reasonable assistance, at SFDC
+’
+s
+ expense. If SFDC receives information about an infringement or misappropriation claim related
+ to a Service, SFDC may in its discretion and at no cost to Customer (i) modify the Services
+ so that they are no longer claimed to infringe or misappropriate, without breaching SFDC
+’
+s
+ warranties under 
+“
+SFDC Warranties
+”
+ 
+above, (ii) obtain a license for Customer
+’
+s
+ continued use of that Service in accordance with this Agreement, or (iii) terminate Customer
+’
+s
+ subscriptions for that Service upon 30 days
+’ 
+written
+ notice and refund Customer any prepaid fees covering the remainder of the term of the terminated
+ subscriptions. The above defense and indemnification obligations do not apply if (1) the
+ allegation does not state with specificity that the Services are the basis of the Claim Against
+ Customer; (2) a Claim Against Customer arises from the use or combination of the Services
+ or any part thereof with software, hardware, data, or processes not provided by SFDC, if
+ the Services or use thereof would not infringe without such combination; (3) a Claim Against
+ Customer arises from Services under an Order Form for which there is no charge; or (4) a
+ Claim against Customer arises from Content, a Non-SFDC Application or Customer
+’
+s
+ breach of this Agreement, the Documentation or applicable Order Forms.
+
+ 
+
+9.2
+Indemnification
+ by Customer. 
+Customer will defend SFDC and its Affiliates against any claim, demand,
+ suit or proceeding made or brought against SFDC by a third party alleging (a) that any Customer
+ Data or Customer
+’
+s
+ use of Customer Data with the Services, (b) a Non-SFDC Application provided by Customer,
+ or (c) the combination of a Non-SFDC Application provided by Customer and used with the Services,
+ infringes or misappropriates such third party
+’
+s
+ intellectual property rights, or arising from Customer
+’
+s
+ use of the Services or Content in an unlawful manner or in violation of the Agreement, the
+ Documentation, or Order Form (each a 
+“
+Claim
+ Against 
+SFDC
+”
+), and will indemnify SFDC
+ from any damages, attorney fees and costs finally awarded against SFDC as a result of, or
+ for any amounts paid by SFDC under a settlement approved by Customer in writing of, a Claim
+ Against SFDC, provided SFDC (a) promptly gives Customer written notice of the Claim Against
+ SFDC, (b) gives Customer sole control of the defense and settlement of the Claim Against
+ SFDC (except that Customer may not settle any Claim Against SFDC unless it unconditionally
+ releases SFDC of all liability), and (c) gives Customer all reasonable assistance, at Customer
+’
+s
+ expense. The above defense and indemnification obligations do not apply if a Claim Against
+ SFDC arises from SFDC
+’
+s breach of this Agreement,
+ the Documentation or applicable Order Forms.
+
+ 
+
+9.3
+Exclusive
+ Remedy. 
+This 
+“
+Mutual
+ Indemnification
+” 
+section states the indemnifying
+ party
+’
+s sole liability to, and the indemnified
+ party
+’
+s exclusive remedy against, the other
+ party for any third party claim described in this section.
+
+ 
+
+10.          LIMITATION
+OF LIABILITY
+
+ 
+
+10.1
+Limitation
+ of Liability. 
+IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EACH PARTY TOGETHER WITH ALL
+ OF ITS AFFILIATES ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE TOTAL AMOUNT PAID
+ BY CUSTOMER AND ITS AFFILIATES HEREUNDER FOR THE SERVICES GIVING RISE TO THE LIABILITY IN
+ THE TWELVE MONTHS PRECEDING THE FIRST INCIDENT OUT OF WHICH THE LIABILITY AROSE. THE FOREGOING
+ LIMITATION WILL APPLY WHETHER AN ACTION IS IN CONTRACT OR TORT AND REGARDLESS OF THE THEORY
+ OF LIABILITY, BUT WILL NOT LIMIT CUSTOMER
+’
+S
+ AND ITS AFFILIATES
+’ 
+PAYMENT OBLIGATIONS UNDER
+ THE 
+“
+FEES AND PAYMENT
+” 
+SECTION
+ ABOVE.
+
+ 
+
+10.2
+Exclusion
+ of Consequential and Related Damages. 
+IN NO EVENT WILL EITHER PARTY OR ITS AFFILIATES
+ HAVE ANY LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT FOR ANY LOST PROFITS, REVENUES,
+ GOODWILL, OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER, BUSINESS INTERRUPTION OR
+ PUNITIVE DAMAGES, WHETHER AN ACTION IS IN CONTRACT OR TORT AND REGARDLESS OF THE THEORY OF
+ LIABILITY, EVEN IF A PARTY OR ITS AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH
+ DAMAGES OR IF A PARTY
+’
+S
+ OR ITS AFFILIATES
+’ 
+REMEDY OTHERWISE FAILS OF
+ ITS ESSENTIAL PURPOSE. THE FOREGOING DISCLAIMER WILL NOT APPLY TO THE EXTENT PROHIBITED BY
+ LAW.
+
+ 
+
+Page 
+7
+ of 12
+
+ 
+
+ 
+
+11.          TERM
+AND TERMINATION
+
+ 
+
+11.1
+Term
+ of Agreement. 
+This Agreement commences on the date Customer first accepts it and continues
+ until all subscriptions hereunder have expired or have been terminated.
+
+ 
+
+11.2
+Term
+ of Purchased Subscriptions. 
+The term of each subscription shall be as specified in the
+ applicable Order Form. Except as otherwise specified in an Order Form, subscriptions will
+ automatically renew for additional periods equal to the expiring subscription term or one
+ year (whichever is shorter), unless either party gives the other written notice (email acceptable)
+ at least 30 days before the end of the relevant subscription term. Except as expressly provided
+ in the applicable Order Form, renewal of promotional or one-time priced subscriptions will
+ be at SFDC
+’
+s applicable
+ list price in effect at the time of the applicable renewal. Notwithstanding anything to the
+ contrary, any renewal in which subscription volume or subscription length for any Services
+ has decreased from the prior term will result in re-pricing at renewal without regard to
+ the prior term
+’
+s per-unit pricing.
+
+ 
+
+11.3
+Termination.
+ 
+A party may terminate this Agreement for cause (i) upon 30 days written notice to the
+ other party of a material breach if such breach remains uncured at the expiration of such
+ period, or (ii) if the other party becomes the subject of a petition in bankruptcy or any
+ other proceeding relating to insolvency, receivership, liquidation or assignment for the
+ benefit of creditors.
+
+ 
+
+11.4
+Refund
+ or Payment upon Termination. 
+If this Agreement is terminated by Customer in accordance
+ with the 
+“
+Termination
+”
+ 
+section above, SFDC will refund Customer any prepaid fees
+ covering the remainder of the term of all Order Forms after the effective date of termination.
+ If this Agreement is terminated by SFDC in accordance with the 
+“
+Termination
+”
+ 
+section above, Customer will pay any unpaid fees covering
+ the remainder of the term of all Order Forms to the extent permitted by applicable law. In
+ no event will termination relieve Customer of its obligation to pay any fees payable to SFDC
+ for the period prior to the effective date of termination.
+
+ 
+
+11.5
+Surviving
+ Provisions. 
+The sections titled 
+“
+Free
+ Services,
+” “
+Fees and Payment,
+”
+ “
+Proprietary Rights and Licenses,
+” “
+Confidentiality,
+”
+ “
+Disclaimers,
+” “
+Mutual
+ Indemnification,
+” “
+Limitation of Liability,
+”
+ “
+Refund or Payment upon Termination,
+”
+ “
+Removal of Content and Non-SFDC Applications,
+”
+ “
+Surviving Provisions
+” 
+and
+ 
+“
+General Provisions
+” 
+will
+ survive any termination or expiration of this Agreement, and the section titled 
+“
+Protection
+ of Customer Data
+” 
+will survive any termination
+ or expiration of this Agreement for so long as SFDC retains possession of Customer Data.
+
+ 
+
+12.          GENERAL
+PROVISIONS
+
+ 
+
+12.1
+Export
+ Compliance. 
+The Services, Content, other SFDC technology, and derivatives thereof may
+ be subject to export laws and regulations of the United States and other jurisdictions. SFDC
+ and Customer each represents that it is not named on any U.S. government denied-party list.
+ Customer will not permit any User to access or use any Service or Content in a U.S.-embargoed
+ country or region (currently Cuba, Iran, North Korea, Sudan, Syria or Crimea) or in violation
+ of any U.S. export law or regulation.
+
+ 
+
+12.2
+Anti-Corruption.
+ 
+Neither party has received or been offered any illegal or improper bribe, kickback, payment,
+ gift, or thing of value from an employee or agent of the other party in connection with this
+ Agreement. Reasonable gifts and entertainment provided in the ordinary course of business
+ do not violate the above restriction.
+
+ 
+
+12.3
+Entire
+ Agreement and Order of Precedence. 
+This Agreement is the entire agreement between SFDC
+ and Customer regarding Customer
+’
+s
+ use of Services and Content and supersedes all prior and contemporaneous agreements, proposals
+ or representations, written or oral, concerning its subject matter. The parties agree that
+ any term or condition stated in a Customer purchase order or in any other Customer order
+ documentation (excluding Order Forms) is void. In the event of any conflict or inconsistency
+ among the following documents, the order of precedence shall be: (1) the applicable Order
+ Form, (2) this Agreement, and (3) the Documentation. Titles and headings of sections of this
+ Agreement are for convenience only and shall not affect the construction of any provision
+ of this Agreement.
+
+ 
+
+12.4
+Relationship
+ of the Parties. 
+The parties are independent contractors. This Agreement does not create
+ a partnership, franchise, joint venture, agency, fiduciary or employment relationship between
+ the parties. Each party will be solely responsible for payment of all compensation owed to
+ its employees, as well as all employment-related taxes.
+
+ 
+
+12.5       
+Third-Party
+Beneficiaries. 
+There are no third-party beneficiaries under this Agreement.
+
+ 
+
+12.6
+Waiver
+.
+ No failure or delay by either party in exercising any right under this Agreement will constitute
+ a waiver of that right.
+
+ 
+
+12.7
+Severability.
+ 
+If any provision of this Agreement is held by a court of competent jurisdiction to be
+ contrary to law, the provision will be deemed null and void, and the remaining provisions
+ of this Agreement will remain in effect.
+
+ 
+
+12.8
+Assignment
+.
+ Neither party may assign any of its rights or obligations hereunder, whether by operation
+ of law or otherwise, without the other party
+’
+s
+ prior written consent (not to be unreasonably withheld); provided, however, either party
+ may assign this Agreement in its entirety (including all Order Forms), without the other
+ party
+’
+s consent to its Affiliate or in connection
+ with a merger, acquisition, corporate reorganization, or sale of all or substantially all
+ of its assets. Notwithstanding the foregoing, if a party is acquired by, sells substantially
+ all of its assets to, or undergoes a change of control in favor of, a direct competitor of
+ the other party, then such other party may terminate this Agreement upon written notice.
+ In the event of such a termination, SFDC will refund Customer any prepaid fees covering the
+ remainder of the term of all subscriptions for the period after the effective date of such
+ termination. Subject to the foregoing, this Agreement will bind and inure to the benefit
+ of the parties, their respective successors and permitted assigns.
+
+ 
+
+Page 
+8
+ of 12
+
+ 
+
+ 
+
+12.9
+SFDC
+ Contracting Entity, Notices, Governing Law, and Venue. 
+The SFDC entity entering into
+ this Agreement, the address to which Customer should direct notices under this Agreement,
+ the law that will apply in any dispute or lawsuit arising out of or in connection with this
+ Agreement, and the courts that have jurisdiction over any such dispute or lawsuit, depend
+ on where Customer is domiciled.
+
+ 
+
+If
+ Customer is
+
+The
+ SFDC entity
+
+Notices
+ should be addressed to:
+
+Governing
+ law is:
+
+Courts
+ with
+
+domiciled
+ in:
+
+entering
+ into this
+
+ 
+
+ 
+
+exclusive
+
+ 
+
+Agreement
+ is:
+
+ 
+
+ 
+
+jurisdiction
+ are:
+
+The
+ United States of America, Mexico or a Country in Central or South America or the Caribbean
+
+salesforce.com,
+ inc., a Delaware corporation
+
+Salesforce
+ Tower, 415 Mission Street, 3rd Floor, San Francisco, California, 94105, U.S.A., attn: VP, Worldwide Sales Operations, with a copy
+ to attn: General Counsel.
+
+California
+ and controlling United States federal law
+
+San
+ Francisco, California, U.S.A.
+
+Brazil
+
+Salesforce
+ Tecnologia Ltda.
+
+Av.
+ Jornalista Roberto Marinho, 85, 14° Andar - Cidade Monções, CEP 04576-010 São Paulo - SP
+
+Brazil
+
+São
+ Paulo, SP, Brazil
+
+Canada
+
+salesforce.com
+ Canada Corporation, a Nova Scotia corporation
+
+Salesforce
+ Tower, 415 Mission Street, 3rd Floor, San Francisco, California, 94105, U.S.A., attn: VP, Worldwide Sales Operations, with a copy
+ to attn: General Counsel.
+
+Ontario
+ and controlling Canadian federal law
+
+Toronto,
+ Ontario, Canada
+
+France
+
+salesforce.com
+ France, a French S.A.S company with a share capital of 37,000 €, registered with the Paris Trade Registry under number 483 993
+ 226 RCS Paris, Registered office: 3 Avenue Octave Gréard, 75007 Paris, France
+
+Salesforce.com
+ Sarl, Route de la Longeraie 9, Morges, 1110, Switzerland, attn: Director, EMEA Sales Operations, with a copy to attn.: Legal Department
+ - Service Juridique, 3 Avenue Octave Gréard, 75007 Paris, France.
+
+France
+
+Paris,
+ France
+
+Germany
+
+salesforce.com
+ Germany GmbH, a limited liability company, incorporated in Germany
+
+Salesforce.com
+ Sarl, Route de la Longeraie 9, Morges, 1110, Switzerland, attn: Director, EMEA Sales Operations, with a copy to attn.: Legal Department
+ - Erika-Mann-Strasse 31-37, 80636 München, Germany.
+
+Germany
+
+Munich,
+ Germany
+
+Italy
+
+Salesforce.com
+ Italy S.r.l., an Italian limited liability company having its registered address at Piazza Filippo Meda 5, 20121 Milan (MI), VAT
+ / Fiscal code n. 04959160963
+
+Salesforce.com
+ Sarl, Route de la Longeraie 9, Morges, 1110, Switzerland, attn: Director, EMEA Sales Operations, with a copy to attn.: Legal Department
+
+Italy
+
+Milan,
+ Italy
+
+Spain
+
+Salesforce
+ Systems Spain, S.L.U., a limited liability company incorporated in Spain
+
+Salesforce.com
+ Sarl, Route de la Longeraie 9, Morges, 1110, Switzerland, attn: Director, EMEA Sales Operations, with a copy to attn.: Legal Department
+ - Paseo de la Castellana 79, Madrid, 28046, Spain
+
+Spain
+
+Madrid,
+ Spain
+
+ 
+
+Page 
+9
+ of 12
+
+ 
+
+ 
+
+United
+ Kingdom
+
+Salesforce
+ UK Limited (f/k/a salesforce.com EMEA Limited), a limited liability company incorporated in England
+
+Salesforce.com
+ Sarl, Route de la Longeraie 9, Morges, 1110, Switzerland, attn: Director, EMEA Sales Operations, with a copy to attn: Legal Department,
+ Salesforce UK Limited (f/k/a salesforce.com EMEA Limited), Floor 26 Salesforce Tower, 110 Bishopsgate, London, EC2N 4AY, United Kingdom.
+
+England
+
+London,
+ England
+
+A
+ Country in Europe, the Middle East or Africa, other than France, Germany, Italy, Spain, and the United Kingdom
+
+SFDC
+ Ireland Limited, a limited liability company incorporated in Ireland
+
+Salesforce.com
+ Sarl, Route de la Longeraie 9, Morges, 1110, Switzerland, attn: Director, EMEA Sales Operations, with a copy to attn.: Legal Department
+ - 3rd and 4th Floor, 1 Central Park Block G, Central Park, Leopardstown, Dublin 18, Ireland
+
+England
+
+London,
+ England
+
+Japan
+
+Kabushiki
+ Kaisha Salesforce.com, a Japan corporation
+
+JP
+ Tower 12F, 2-7-2 Marunouchi, Chiyoda-ku, Tokyo 100-7012, Japan, attn: Senior Director, Japan Sales Operations, with a copy to attn:
+ General Counsel.
+
+Japan
+
+Tokyo,
+ Japan
+
+A
+ Country in Asia or the Pacific region, other than Japan, Australia or New Zealand
+
+Salesforce.com
+ Singapore Pte Ltd, a Singapore private limited company
+
+5
+ Temasek Boulevard #13-01, Suntec Tower 5, Singapore, 038985, attn: Director, APAC Sales Operations, with a copy to attn: General
+ Counsel.
+
+Singapore
+
+Singapore
+
+Australia
+ or New Zealand
+
+SFDC
+ Australia Pty Ltd
+
+201
+ Sussex Street, Darling Park Tower 3, Level 12, Sydney NSW 2000, attn: Senior Director, Finance with a copy to attn: General Counsel.
+
+New
+ South Wales, Australia
+
+New
+ South Wales, Australia
+
+ 
+
+12.10
+Manner
+ of Giving Notice. 
+Except as otherwise specified in this Agreement, all notices related
+ to this Agreement will be in writing and will be effective upon (a) personal delivery, (b)
+ the second business day after mailing, or (c), except for notices of termination or an indemnifiable
+ claim (
+“
+Legal
+ Notices
+”
+), which shall clearly be identifiable
+ as Legal Notices, the day of sending by email. Billing-related notices to Customer will be
+ addressed to the relevant billing contact designated by Customer. All other notices to Customer
+ will be addressed to the relevant Services system administrator designated by Customer.
+
+ 
+
+12.11
+Agreement
+ to Governing Law and Jurisdiction. 
+Each party agrees to the applicable governing law
+ above without regard to choice or conflicts of law rules, and to the exclusive jurisdiction
+ of the applicable courts above.
+
+ 
+
+12.12
+Local
+ Law Requirements: France.
+
+ 
+
+With respect to
+Customers domiciled in France :
+
+ 
+
+(1) 
+in
+the event of any conflict between any statutory law in France applicable to Customer, and the terms and conditions of this Agreement,
+the applicable statutory law shall prevail.
+
+ 
+
+(2) 
+a
+new Section 12.12.1 is added as follows :
+
+ 
+
+12.12.1
+
+PGSSI-S
+. To the extent Customer is subject to Article L.1111-8
+(or any successor thereto) of the French public health code (Code de la Santé Publique), Customer shall abide by the Global Information
+Security Policy for the Healthcare Sector (PGSSI-S) pursuant to Article L.1110-4-1 (or any successor thereto) of the aforementioned code.
+
+ 
+
+12.13
+Local
+ Law Requirements: Germany. 
+With respect to Customers domiciled in Germany, Section 8
+ 
+“
+REPRESENTATIONS,
+ WARRANTIES, EXCLUSIVE REMEDIES AND DISCLAIMERS
+”
+,
+ Section 9.3 
+“
+Exclusive Remedy
+”
+,
+ and Section 10 
+“
+LIMITATION OF LIABILITY
+”
+ 
+of this Agreement are replaced with the following sections
+ respectively:
+
+ 
+
+Page 
+10
+ of 12
+
+ 
+
+ 
+
+8 WARRANTIES
+FOR CUSTOMERS DOMICILED IN GERMANY
+
+ 
+
+8.1
+
+Agreed Quality of the Services
+. SFDC warrants that during
+an applicable subscription term (a) this Agreement, the Order Forms and the Documentation will accurately describe the applicable administrative,
+physical, and technical safeguards for protection of the security, confidentiality and integrity of Customer Data, (b) SFDC will not
+materially decrease the overall security of the Services, (c) the Services will perform materially in accordance with the applicable
+Documentation, and (d) subject to the 
+“
+Integration with Non-SFDC Applications
+”
+
+section above, SFDC will not materially decrease the overall functionality of the Services.
+
+ 
+
+8.2
+
+Content
+. SFDC is not designating or adopting Content as its
+own and assumes no warranty or liability for Content. The parties agree that the 
+“
+Reporting
+of Defects
+”
+, 
+“
+Remedies resulting from Defects
+”
+
+and 
+“
+Exclusions
+” 
+section
+shall apply accordingly to SFDC
+’
+s responsibility in the event SFDC is deemed responsible
+for Content by a court of competent jurisdiction.
+
+ 
+
+8.3
+
+Reporting of Defects
+. Customer shall report any deviation
+of the Services from the 
+“
+Agreed Quality of the Services
+” 
+section
+(
+“
+Defect
+”
+) to SFDC in writing without undue
+delay and shall submit a detailed description of the Defect or, if not possible, of the symptoms of the Defect. Customer shall forward
+to SFDC any useful information available to Customer for rectification of the Defect.
+
+ 
+
+8.4
+
+Remedies resulting from Defects
+. SFDC shall rectify any Defect
+within a reasonable period of time. If such rectification fails, Customer may terminate the respective Order Form provided that SFDC
+had enough time for curing the Defect. The 
+“
+Refund or Payment upon Termination
+”
+
+section, sentence and 1 and sentence 3 shall apply accordingly. If SFDC is responsible for the Defect
+or if SFDC is in default with the rectification, Customer may assert claims for the damage caused in the scope specified in the 
+“
+Limitation
+of Liability
+” 
+section below.
+
+ 
+
+8.5
+
+Defects in Title
+. Defects in title of the Services shall be
+handled in accordance with the provisions of Clause 9 
+“
+Mutual Indemnification
+”
+.
+
+ 
+
+8.6
+
+Exclusions
+. Customer shall have no claims under this Clause
+8 
+“
+Warranty
+” 
+if a Defect was caused by the
+Services not being used by Customer in accordance with the provisions of this Agreement, the Documentation and the applicable Order Forms.
+
+ 
+
+9.3
+
+Liability resulting from Indemnification for Customers domiciled in Germany
+.
+The below 
+“
+Limitation of Liability
+” 
+section
+shall apply to any claims resulting from this 
+“
+Mutual Indemnification
+” 
+section.
+
+ 
+
+10. LIMITATION OF LIABILITY
+FOR CUSTOMERS DOMICILED IN GERMANY
+
+ 
+
+10.1 
+Unlimited
+Liability. 
+The Parties shall be mutually liable without limitation
+
+(a) 
+in
+the event of willful misconduct or gross negligence,
+
+(b) 
+within
+the scope of a guarantee taken over by the respective party,
+
+(c) 
+in
+the event that a defect is maliciously concealed,
+
+(d) 
+in
+case of an injury to life, body or health,
+
+(e) 
+according
+to the German Product Liability Law.
+
+ 
+
+10.2
+
+Liability for Breach of Cardinal Duties
+. If cardinal duties
+are infringed due to slight negligence and if, as a consequence, the achievement of the objective of this Agreement including any applicable
+Order Form is endangered, or in the case of a slightly negligent failure to comply with duties, the very discharge of which is an essential
+prerequisite for the proper performance of this Agreement (including any applicable Order Form), the parties
+’ 
+liability
+shall be limited to foreseeable damage typical for the contract. In all other respects, any liability for damage caused by slight negligence
+shall be excluded.
+
+ 
+
+10.3
+
+Liability Cap. 
+Unless the parties are liable in accordance
+with 
+“
+Unlimited Liability
+” 
+section above, in
+no event shall the aggregate liability of each party together with all of its Affiliates arising out of or related to this Agreement
+exceed the total amount paid by Customer and its Affiliates hereunder for the Services giving rise to the liability in the 12 months
+preceding the first incident out of which the liability arose. The foregoing limitation will not limit Customer
+’
+s
+and its Affiliates
+’ 
+payment obligations under the 
+“
+Fees
+and Payment
+” 
+section above.
+
+ 
+
+10.4
+
+Scope. 
+With the exception of liability in accordance with
+the 
+“
+Unlimited Liability
+” 
+section, the above
+limitations of liability shall apply to all claims for damages, irrespective of the legal basis including claims for tort damages. The
+above limitations of liability also apply in the case of claims for a party
+’
+s damages against
+the respective other party
+’
+s employees, agents or bodies.
+
+ 
+
+12.14
+Local
+ Law Requirements: Italy. 
+With respect to Customers domiciled in Italy, Section 5.2 “Invoicing
+ and Payment”,Section 5.3 “
+Overdue Charges
+”
+,
+ Section 5.4 
+“
+Suspension of Service and Acceleration
+”
+,
+ and Section 12.2 
+“
+Anti Corruption
+”
+ 
+of this Agreement are replaced with the following sections
+ respectively:
+
+ 
+
+Page 
+11
+ of 12
+
+ 
+
+ 
+
+5.2. Invoicing
+and Payment
+
+ 
+
+5.2.1
+
+Invoicing and Payment. 
+Fees will be invoiced in advance and
+otherwise in accordance with the relevant Order Form. Unless otherwise stated in the Order Form, fees are due net 30 days from the invoice
+date. The parties acknowledge that invoices are also be submitted electronically by SFDC in accordance with the 
+“
+Electronic
+Invoicing
+” 
+section below through the Agenzia delle Entrate
+’
+s
+Exchange System (SDI – Sistema di Interscambio) and any delay due to the SDI shall not affect the foregoing payment term. Customer
+shall be responsible for providing complete and accurate billing and contact information to SFDC and shall notify SFDC of any changes
+to such information.
+
+ 
+
+5.2.2
+
+Electronic Invoicing
+. The invoice will be issued in electronic
+format as defined in article 1, paragraph 916, of Law no. 205 of December 27, 2017, which introduced the obligation of electronic invoicing,
+starting from January 1, 2019, for the sale of goods and services performed between residents, established or identified in the territory
+of the Italian State. To facilitate such electronic invoicing, Customer shall provide to SFDC at least the following information in writing:
+Customer full registered company name, registered office address, VAT number, tax/fiscal code and any additional code and/or relevant
+information required under applicable law. In any event, the parties shall cooperate diligently to enable such electronic invoicing process.
+Any error due to the provision by Customer of incorrect or insufficient invoicing information preventing (a) SFDC to successfully submit
+the electronic invoice to the SDI or (b) the SDI to duly and effectively process such invoice or (c) which, in any event, requires SFDC
+to issue an invoice again, shall not result in an extension of the payment term set out in the 
+“
+Invoicing
+and Payment
+” 
+section above, and such term shall still be calculated from the date of the
+original invoice. SFDC reserves the right to provide any invoice copy in electronic form via email in addition to the electronic invoicing
+described herein.
+
+ 
+
+5.2.3
+
+Split Payment. 
+If subject to the 
+“
+split
+payment
+” 
+regime, Customer shall be exclusively responsible for payment of any VAT amount
+due, provided that Customer shall confirm to SFDC the applicability of such regime and, if applicable, Customer shall provide proof of
+such VAT payment to SFDC and, if applicable, Customer shall provide proof of such VAT payment to SFDC.
+
+ 
+
+5.3
+
+Overdue Charges. 
+Subject to the 
+“
+Payment
+Disputes
+” 
+section below, if any invoiced amount is not received by SFDC by the due date,
+then without limiting SFDC
+’
+s rights or remedies, those charges, without the need for notice
+of default, may accrue late interest at the rate of 1.5% of the outstanding balance per month, or the maximum rate permitted by law (Legislative
+Decree no. 231/2002), whichever is lower and/or (b) SFDC may condition future subscription renewals and Order Forms on payment terms
+shorter than those specified in the 
+“
+Invoicing and Payment
+” 
+section
+above.
+
+ 
+
+5.4.
+Suspension of Service. 
+Subject to the 
+“
+Payment Disputes
+”
+
+section below, if any charge owing by Customer under this or any other agreement for services is 30 days
+or more overdue, (or 10 or more days overdue in the case of amounts Customer has authorized SFDC to charge to Customer
+’
+s
+credit card), SFDC may, without limiting its other rights and remedies, suspend Services until such amounts are paid in full, provided
+that, other than for customers paying by credit card or direct debit whose payment has been declined, SFDC will give Customer at least
+10 days
+’ 
+prior notice that its account is overdue, in accordance with the 
+“
+Manner
+of Giving Notice
+” 
+section below for billing notices, before suspending services to Customer.
+
+ 
+
+12.2 Anti-Corruption.
+
+ 
+
+12.2.1
+
+Anti-Corruption
+. Neither party has received or been offered
+any illegal or improper bribe, kickback, payment, gift, or thing of value from an employee or agent of the other party in connection
+with this Agreement. Reasonable gifts and entertainment provided in the ordinary course of business do not violate the above restriction.
+
+ 
+
+12.2.2
+
+Code of Conduct and Organization, Management and Control Model
+.
+Customer acknowledges that SFDC has adopted an Organization, Management and Control Model pursuant to Legislative Decree 231/2001 to
+prevent crimes provided for therein and commits to comply with the principles contained in the above Legislative Decree 231/2001 and
+in the SFDC Code of Conduct which is available at the following link: 
+https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/compliance%20documents/salesforce-code-of-cond
+uct.pdf
+. Customer also acknowledges and agrees that the violation of the principles and the provisions contained in Legislative Decree
+231/2001 and in the SFDC Code of Conduct by Customer may entitle SFDC, based on the severity of the violation, to terminate this Agreement
+for cause as set out in Section 11.3(i) above.
+
+ 
+
+12.15
+Local
+ Law Requirements: Spain. 
+With respect to Customers domiciled in Spain, in the event of
+ any conflict between any statutory law in Spain applicable to Customer, and the terms and
+ conditions of this Agreement, the applicable statutory law shall prevail.
+
+ 
+
+Page 
+12
+ of 12
+
+ 
+
+ 
+
+salesforce.com Singapore Pte Ltd
+
+ORDER FORM for Wealth Dynamics
+ Pte Ltd
+
+5 Temasek Boulevard
+
+Offer Valid Through: 07/10/2020
+
+#13-01 Suntec Tower 5
+
+Proposed by: Lars Weigert
+
+Singapore 038985
+
+Quote Number: Q-03934654
+
+ 
+
+ 
+
+ 
+
+ORDER FORM
+
+ 
+
+ 
+
+Address Information
+
+ 
+
+Bill To:
+
+Ship To:
+
+One George Street #10-01,
+
+One George Street #10-01,
+
+Singapore
+
+Singapore
+
+Singapore, 049145
+
+Singapore, 049145
+
+SG - Singapore
+
+SG - Singapore
+
+ 
+
+ 
+
+Billing Company Name: Wealth Dynamics Pte Ltd
+
+Billing Phone: +65 97107275
+
+Billing Contact Name: Suraj Naik
+
+Billing Fax:
+
+Billing Email Address: suraj@wealthdynamics.org
+
+Billing Language: English
+
+ 
+
+ 
+
+Terms and Conditions
+
+ 
+
+Contract Start Date*: 20/10/2020
+
+Payment Method: Wire Transfer
+
+Contract End Date*: 19/10/2024
+
+Payment Terms: Net 30
+
+Billing Frequency: Semi-annual
+
+Billing Method: Email
+
+ 
+
+ 
+
+Services
+
+ 
+
+ 
+ 
+
+Order
+ 
+
+Order
+ 
+
+Order Term
+ 
+ 
+
+Monthly/
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Services
+ 
+
+Start
+ Date*
+ 
+
+End Date*
+ 
+
+(months)*
+ 
+ 
+
+Unit Price**
+ 
+ 
+
+Quantity
+ 
+ 
+
+Total Price
+ 
+
+Sales & Service Cloud - Enterprise Edition
+ (Sales)
+ 
+
+20/10/2020
+ 
+
+19/10/2024
+ 
+
+ 
+48
+ 
+ 
+
+ 
+USD
+ 102.50
+ 
+ 
+
+ 
+39
+ 
+ 
+
+ 
+USD
+ 191,880.00
+ 
+
+Heroku - 1,000 Add-on Credits - Data
+ 
+
+20/10/2020
+ 
+
+19/10/2024
+ 
+
+ 
+48
+ 
+ 
+
+ 
+USD
+ 540.00
+ 
+ 
+
+ 
+1
+ 
+ 
+
+ 
+USD
+ 25,920.00
+ 
+
+Heroku - 250k Connect Rows
+ 
+
+20/10/2020
+ 
+
+19/10/2024
+ 
+
+ 
+48
+ 
+ 
+
+ 
+USD
+ 5.95
+ 
+ 
+
+ 
+84
+ 
+ 
+
+ 
+USD
+ 23,990.40
+ 
+
+Heroku - 1 Dyno Unit
+ 
+
+20/10/2020
+ 
+
+19/10/2024
+ 
+
+ 
+48
+ 
+ 
+
+ 
+USD
+ 31.50
+ 
+ 
+
+ 
+40
+ 
+ 
+
+ 
+USD
+ 60,480.00
+ 
+
+Data Storage (10GB)
+ 
+
+20/10/2020
+ 
+
+19/10/2024
+ 
+
+ 
+48
+ 
+ 
+
+ 
+USD
+ 750.00
+ 
+ 
+
+ 
+5
+ 
+ 
+
+ 
+USD
+ 180,000.00
+ 
+
+Partner Community - Enterprise Edition - Members
+ 
+
+20/10/2020
+ 
+
+19/10/2024
+ 
+
+ 
+48
+ 
+ 
+
+ 
+USD
+ 25.00
+ 
+ 
+
+ 
+3
+ 
+ 
+
+ 
+USD
+ 3,600.00
+ 
+
+CPQ Plus - Enterprise Edition
+ 
+
+20/10/2020
+ 
+
+19/10/2024
+ 
+
+ 
+48
+ 
+ 
+
+ 
+USD
+ 150.00
+ 
+ 
+
+ 
+1
+ 
+ 
+
+ 
+USD
+ 7,200.00
+ 
+
+Billing Plus
+ 
+
+20/10/2020
+ 
+
+19/10/2024
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+USD
+ 8,000.00
+ 
+ 
+
+ 
+4
+ 
+ 
+
+ 
+USD
+ 32,000.00
+ 
+
+Additional API Calls - 10,000 per day
+ 
+
+20/10/2020
+ 
+
+19/10/2024
+ 
+
+ 
+48
+ 
+ 
+
+ 
+USD
+ 25.00
+ 
+ 
+
+ 
+5
+ 
+ 
+
+ 
+USD
+ 6,000.00
+ 
+
+Heroku - 1,000 Add-on Credits - Partner
+ 
+
+20/10/2020
+ 
+
+19/10/2024
+ 
+
+ 
+48
+ 
+ 
+
+ 
+USD
+ 552.00
+ 
+ 
+
+ 
+1
+ 
+ 
+
+ 
+USD
+ 26,496.00
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+Total:
+ USD 557,566.40
+ 
+
+ 
+
+ 
+1
+ / 7
+
+ 
+
+ 
+
+*If this Order Form is executed and/or returned
+to salesforce.com by Customer after the Order Start Date above, salesforce.com may adjust the Order Start Date and Order End Date, without
+increasing the Total Price, based on the date salesforce.com activates the products and provided that the total term length does not
+change. Following activation, any adjustments to such Order Start Date and Order End Date may be confirmed by logging into Checkout,
+by reference to the order confirmation email sent by salesforce.com to the Billing Email Address above, and/or by contacting Customer
+Service.
+
+ 
+
+**The Monthly/Unit Price shown above has been
+rounded to two decimal places for display purposes. As many as eight decimal places may be present in the actual price. The totals for
+this order were calculated using the actual price, rather than the Monthly/Unit Price displayed above, and are the true and binding totals
+for this order
+
+ 
+
+Prices shown above do not include any taxes that may apply. Any such
+taxes are the responsibility of Customer. This is not an invoice.
+
+ 
+
+For customers
+based in the United States, any applicable taxes will be determined based on the laws and regulations of the taxing authority(ies) governing
+the 
+“
+Ship To
+” 
+location provided by Customer
+on this Order Form.
+
+ 
+
+ 
+
+Pricing Schedule
+
+ 
+
+ 
+ 
+
+Monthly/
+ 
+ 
+
+ 
+ 
+
+Product
+ 
+
+Unit Price**
+ 
+ 
+
+Quantity For
+ 
+
+Sales & Service Cloud - Enterprise Edition
+ (Sales)
+ 
+
+ 
+USD
+ 102.50
+ 
+ 
+
+ 
+39
+ 
+
+Heroku - 1 Dyno Unit
+ 
+
+ 
+USD
+ 31.50
+ 
+ 
+
+ 
+40
+ 
+
+Billing Plus
+ 
+
+ 
+USD
+ 8,000.00
+ 
+ 
+
+ 
+4
+ 
+
+Data Storage (10GB)
+ 
+
+ 
+USD
+ 750.00
+ 
+ 
+
+ 
+5
+ 
+
+ 
+
+The pricing in
+the Pricing Schedule above is stated in terms of monthly per-subscription pricing. In case the above Pricing Schedule provides for tiered
+pricing, the volume pricing levels are monthly and are based upon the aggregate total number of full-use subscriptions of the applicable
+Services purchased by the customer entity executing this Order Form (
+“
+Customer
+”
+)
+which are in effect as of this Order Form
+’
+s Order Start Date. Any price decreases shall
+have no effect on previously purchased subscriptions. Only add-on Orders by Customer that are associated with this Order Form, for the
+same Service and edition, during the order term herein, are eligible for the applicable volume pricing levels under this Pricing Schedule.
+If a single additional add-on Order raises the aggregate number of subscriptions for any product listed in the table above the threshold
+limits specified above, only those subscriptions exceeding the new threshold are entitled to the reduced pricing. Volume discounts do
+not accumulate across different Services or editions. Any renewals of the subscriptions purchased under this Order Form are not eligible
+for this Pricing Schedule unless expressly agreed to in writing between the parties in an applicable renewal Order Form.
+
+ 
+
+ 
+2
+ / 7
+
+ 
+
+ 
+
+ 
+
+Quote Special Terms
+
+ 
+
+Customer
+acknowledges and agrees that the 1 Heroku - 1,000 Add-on Credits - Data subscription ordered hereunder at pricing of $540 subscription/month
+is a Restricted Use Subscription, and shall be subject to the following restriction: The Restricted Use Subscription shall only be used
+for 500 of Heroku - 1,000 Add-on Credits - Data. These restrictions shall be cumulative and shall apply to all Restricted Use Subscriptions
+purchased under this Order Form. Customer must strictly segregate all Restricted Use Subscriptions from any full-featured subscriptions
+it may hold by setting up and enforcing a unique profile in the Service associated with such Restricted Use Subscriptions. Customer understands
+that the above functionality limitations are contractual in nature (i.e., the functionality itself has not been disabled as a technical
+matter in the Service) and therefore agrees to strictly monitor its Users
+’ 
+use of such Restricted
+Use Subscriptions and enforce the applicable restrictions. Salesforce.com (http://salesforce.com/) may audit Customer
+’
+s
+use of Restricted Use Subscriptions at any time through the Service. Should any audit reveal any unauthorized use of Restricted Use Subscriptions,
+Customer agrees it will pay, within five (5) business days of notice of the audit results, the difference between the contract price
+for Restricted Use Subscriptions and the list price for full subscriptions of the above-named product, for all of the Restricted Use
+Subscriptions showing unauthorized use (taken as a group), beginning with the date of the first violation through the end of the then
+current subscription term. Upon such payment, all such Restricted Use Subscriptions showing unauthorized use will be converted into full
+subscriptions for the remainder of the then current subscription term.
+
+ 
+
+Customer
+acknowledges and agrees that the 84 Heroku - 250k Connect Rows subscriptions ordered hereunder at pricing of $5.95subscription/month
+are Restricted Use Subscriptions, and shall be subject to the following restrictions: i) the Restricted Use Subscriptions shall only
+be used for the Heroku - 250k Connect Rows; and (ii) the number of synced rows between the Heroku Services and Customer
+’
+s
+instance of salesforce.com (http://salesforce.com/) shall not exceed 21,000,000 synced rows. These include 300,000 active synced rows
+and up to 20,700,000 inactive synced rows. These restrictions shall be cumulative and shall apply to all Restricted Use Subscriptions
+purchased under this Order Form. Customer must strictly segregate all Restricted Use Subscriptions from any full-featured subscriptions
+it may hold by setting up and enforcing a unique profile in the Service associated with such Restricted Use Subscriptions. Customer understands
+that the above functionality limitations are contractual in nature (i.e., the functionality itself has not been disabled as a technical
+matter in the Service) and therefore agrees to strictly monitor its Users
+’ 
+use of such Restricted
+Use Subscriptions and enforce the applicable restrictions. Salesforce.com (http://salesforce.com/) may audit Customer
+’
+s
+use of Restricted Use Subscriptions at any time through the Service. Should any audit reveal any unauthorized use of Restricted Use Subscriptions,
+Customer agrees it will pay, within five (5) business days of notice of the audit results, the difference between the contract price
+for Restricted Use Subscriptions and the list price for full subscriptions of the above-named product, for all of the Restricted Use
+Subscriptions showing unauthorized use (taken as a group), beginning with the date of the first violation through the end of the then
+current subscription term. Upon such payment, all such Restricted Use Subscriptions showing unauthorized use will be converted into full
+subscriptions for the remainder of the then current subscription term
+
+ 
+
+Customer
+acknowledges and agrees that the 1 Heroku - 1,000 Add-on Credits - Partner subscription ordered hereunder at pricing of $552 subscription/month
+is a Restricted Use Subscription, and shall be subject to the following restriction: The Restricted Use Subscription shall only be used
+for 460 of Heroku - 1,000 Add-on Credits - Partner. These restrictions shall be cumulative and shall apply to all Restricted Use Subscriptions
+purchased under this Order Form. Customer must strictly segregate all Restricted Use Subscriptions from any full-featured subscriptions
+it may hold by setting up and enforcing a unique profile in the Service associated with such Restricted Use Subscriptions. Customer understands
+that the above functionality limitations are contractual in nature (i.e., the functionality itself has not been disabled as a technical
+matter in the Service) and therefore agrees to strictly monitor its Users
+’ 
+use of such Restricted
+Use Subscriptions and enforce the applicable restrictions. Salesforce.com (http://salesforce.com/) may audit Customer
+’
+s
+use of Restricted Use Subscriptions at any time through the Service. Should any audit reveal any unauthorized use of Restricted Use Subscriptions,
+Customer agrees it will pay, within five (5) business days of notice of the audit results, the difference between the contract price
+for Restricted Use Subscriptions and the list price for full subscriptions of the above-named product, for all of the Restricted Use
+Subscriptions showing unauthorized use (taken as a group), beginning with the date of the first violation through the end of the then
+current subscription term. Upon such payment, all such Restricted Use Subscriptions showing unauthorized use will be converted into full
+subscriptions for the remainder of the then current subscription term.
+
+ 
+
+In
+the event this Order Form reflects an early renewal of Customer
+’
+s existing subscriptions
+purchased under applicable Order Forms under Contract No(s). 01477373, (as referenced in the corresponding invoice(s)), this Order Form
+shall replace such previous Customer
+’
+s Order Form(s) which is/are hereby terminated. Any
+credits applicable to fees paid in relation to such terminated Order Form(s) will be applied to this Order Form. In the event this Order
+Form reflects an on-time renewal of applicable Order Forms under Contract No(s). 01477373, the previous sentence about credits does not
+apply, and Order Forms related to such existing subscriptions shall be considered expired.
+
+ 
+
+Notwithstanding anything in the Master
+Subscription Agreement or otherwise to the contrary, Customer agrees that any renewals of the subscriptions purchased under this Order
+Form shall be due and payable annually in advance and shall be for a minimum one-year term.
+
+ 
+
+ 
+3
+ / 7
+
+ 
+
+ 
+
+ 
+
+Product Special Terms
+
+ 
+
+CPQ Plus
+
+ 
+
+In
+order to access the CPQ Plus Services, Customer
+’
+s system administrator must first install
+the managed package available at: http://steelbrick2.force.com/InstallCPQPlus
+
+ 
+
+IMPORTANT:
+
+ 
+
+As of November 1, 2020, SFDC will no
+longer support versions of the CPQ Plus managed package that are more than two releases behind the then-current generally available version
+of the CPQ Plus managed package. For more information, see: https://help.salesforce.com/articleView?id=000350866&type=1&mode=1
+
+ 
+
+Scratch Org
+
+ 
+
+The
+following terms shall govern all of Customer
+’
+s use of the Scratch Orgs functionality, whether
+provisioned pursuant to this or another Order Form. Scratch Orgs are for testing and development use only, and not for production use.
+As part of its system maintenance, SFDC will periodically delete any Scratch Org, including any associated data or Active Scratch Objects,
+as set forth in the Documentation. Deletion of an active Scratch Org shall not terminate Customer
+’
+s
+Scratch Org subscription; if an active Scratch Org is deleted during Customer
+’
+s Scratch
+Org subscription term, Customer may create a new active Scratch Org. Creation of new active Scratch Orgs count towards the daily scratch
+org limits set forth in the Documentation. Any representations, warranties and covenants in the Customer
+’
+s
+MSA regarding log retention, back-ups, disaster recovery, and return and deletion of data shall not apply to Scratch Orgs.
+
+ 
+
+Heroku - Return, Hosting, and Deletion of Customer Data
+
+ 
+
+Upon
+termination or expiration of the Order Term, Heroku will terminate the customer database and delete data in accordance with the Documentation
+subject to the remainder of this paragraph. In the event that an Order Term expires, and where Customer has not affirmatively indicated
+that it wishes to discontinue its Heroku Services by either (1) requesting the return of Customer Data submitted to the Heroku Services
+as described in the Documentation, (2) deleting Customer Data and code (
+“
+Customer Data
+”
+)
+submitted to the Heroku Services by deleting all accounts, or (3) making written request submitted to support@heroku.com indicating that
+Customer wishes to terminate its Heroku Services, Salesforce may, in its sole discretion, delay termination of the Heroku Services and
+continue to provide Services to Customer, invoicing Customer monthly in arrears for such service at SFDC
+’
+s
+then-current rate (
+“
+Continuation Services
+”
+)
+until the sooner of (a) such time as Customer makes a written request submitted to support@heroku.com to terminate such Continuation
+Services, or (b) SFDC ceases to provide Customer with Continuation Services in its sole discretion (but not longer than sixty days).
+Upon termination of the Continuation Services, Customer Data shall be deleted in accordance with the Documentation.
+
+ 
+
+Billing Plus
+
+ 
+
+To
+access Salesforce Billing Plus, Customer
+’
+s system administrator must first install it in
+Customer
+’
+s Salesforce instance via the following link: http://steelbrick2.force.com/InstallQTC.
+Each quantity of Salesforce Billing Plus quoted in this Order Form entitles Customer to use Salesforce Billing Plus to process up to
+USD 1M (or the equivalent in local currency used) in Total Invoice Amount over the duration of this Order Form. SFDC reserves the right
+to review the price paid by Customer under this Order Form in the event Customer has processed more than 30% over the overall Total Invoice
+Amount entitlement quoted hereunder during the subscription term. Customer understands that the above limitation is contractual in nature
+(i.e., it is not limited as a technical matter in the Service) and therefore agrees to strictly review its Users
+’ 
+use
+of such subscriptions and enforce the limits set forth herein. SFDC may review Customer
+’
+s
+use of the subscriptions at any time through the Service. Unused Total Invoice Amount entitlement hereunder is forfeited at the end of
+the subscription term and does not roll over to subsequent subscription terms.
+
+ 
+
+ 
+4
+ / 7
+
+ 
+
+ 
+
+Free Sandbox with Enterprise Edition
+
+ 
+
+Sandbox
+subscriptions are for testing and development use only, and not for production use. As part of its system maintenance, SFDC may delete
+any Sandbox that Customer has not logged into for 150 consecutive days. Thirty or more days before any such deletion, SFDC will notify
+Customer (email acceptable) that the Sandbox will be deleted if Customer does not log into it during that 30-day (or longer) period.
+Deletion of a Sandbox shall not terminate Customer
+’
+s Sandbox subscription; if a Sandbox
+is deleted during Customer
+’
+s Sandbox subscription term, Customer may create a new Sandbox.
+
+ 
+
+Heroku - 250k Connect Rows
+
+ 
+
+The
+Heroku - 250k Connect Rows subscription allows Customer to sync up to 250,000 data rows between the Heroku Services and Customer
+’
+s
+instance of salesforce.com. Customer understands that the above limitation is contractual in nature (i.e., it is not enforced as a technical
+matter in the Service) and therefore agrees to strictly monitor its Users
+’ 
+use of such subscriptions
+and enforce the applicable limitation. SFDC may review Customer
+’
+s use of such subscriptions
+at any time through the Service. If at any time during the subscription term, Customer exceeds its permitted number of Heroku Connect
+Rows, SFDC reserves the right to charge Customer list price for as many additional Heroku - 250k Connect Rows packages needed to cover
+all Heroku Connect Rows consumed in excess of the permitted number of Heroku Connect Rows. Such additional fees will be charged to Customer
+monthly in arrears via the billing or payment method specified above.
+
+ 
+
+Heroku - 1,000 Add-on Credits - Data
+
+ 
+
+Heroku
+- 1,000 Add-on Credits - Data includes 1,000 Add-on Credits per calendar month to be consumed with Data Add-ons only, identified at:
+https://devcenter.heroku.com/articles/heroku-enterprise. Customer understands that the above limitation is contractual in nature (i.e.,
+it is not enforced as a technical matter in the Service) and therefore agrees to strictly monitor its Users
+’ 
+use
+of such subscriptions and enforce the applicable limitation. SFDC may review Customer
+’
+s
+use of such subscriptions at any time through the Service. If in any calendar month, Customer exceeds its permitted number of Data Add-on
+Credits, SFDC reserves the right to charge Customer list price for as many additional Heroku - 1,000 Add-on Credits - Data packages needed
+to cover all Data Add-ons consumed in excess of the permitted number of Data Add-on Credits. Such additional fees will be charged to
+Customer monthly in arrears via the billing or payment method specified above. Unused Data Add-on Credits are forfeited at the end of
+each month and do not roll over to subsequent months. The beginning and end of each calendar month will conform with U.S. Pacific Time.
+
+ 
+
+Heroku - 1,000 Add-on Credits - Partner
+
+ 
+
+Heroku
+- 1,000 Add-on Credits - Partner includes 1,000 Add-on Credits per calendar month to be consumed with Partner Add-ons only, identified
+at: https://devcenter.heroku.com/articles/heroku-enterprise. Customer understands that the above limitation is contractual in nature
+(i.e., it is not enforced as a technical matter in the Service) and therefore agrees to strictly monitor its Users
+’ 
+use
+of such subscriptions and enforce the applicable limitation. SFDC may review Customer
+’
+s
+use of such subscriptions at any time through the Service. If in any calendar month, Customer exceeds its permitted number of Partner
+Add-on Credits, SFDC reserves the right to charge Customer list price for as many additional Heroku - 1,000 Add-on Credits - Partner
+packages needed to cover all Partner Add-ons consumed in excess of the permitted number of Partner Add-on Credits. Such additional fees
+will be charged to Customer monthly in arrears via the billing or payment method specified above. Unused Partner Add-on Credits are forfeited
+at the end of each month and do not roll over to subsequent months. The beginning and end of each calendar month will conform with U.S.
+Pacific Time.
+
+ 
+
+Partner Community/Customer Community (Members)
+
+ 
+
+Subscriptions
+to Customer Community (Member) or Partner Community (Member) may not be purchased for use by Customer employees or other personnel of
+Customer. Each Customer Community (Member) or Partner Community (Member) subscription entitles the permitted number of member Users access
+to all such Communities within the same Org. Customer shall assign each member User a User profile or permission set that permits access
+to no more than 10 custom objects in the applicable community. Customer understands that the above limitations are contractual in nature
+(i.e., they are not limited as a technical matter in the Service) and therefore agrees to strictly review its Users
+’ 
+use
+of such subscriptions and enforce the limits set forth herein. SFDC may review Customer
+’
+s
+use of the subscriptions at any time through the Service.
+
+ 
+
+ 
+5
+ / 7
+
+ 
+
+ 
+
+Heroku - 1 Dyno Unit
+
+ 
+
+Each
+Heroku - 1 Dyno Unit subscription includes 750 Dyno hours per month. Customer understands that the above limitation is contractual in
+nature (i.e., it is not enforced as a technical matter in the Service) and therefore agrees to strictly monitor its Users
+’
+
+use o such subscriptions and enforce the applicable limitation. SFDC may review Customer
+’
+s
+use of such subscriptions at any time through th Service. If in any calendar month, Customer exceeds its permitted number of Dyno hours,
+SFDC reserves the right to charge Customer list price for as many additional Heroku - 1 Dyno Unit needed to cover all Dyno hours consumed
+in excess of the permitted number of Dyno hours. Such additional fees will be charged to Customer monthly in arrears via the billing
+or payment method specified above. Dyno hours are tracked 
+by SFDC on a per-second basis. Unused Dyno hours are forfeited at the
+end of each month and do not roll over to subsequent months. The beginning and end of each calendar month will conform with U.S. Pacific
+Time.
+
+ 
+
+Einstein Features
+
+ 
+
+SFDC
+may offer Customer access to Einstein features via the Services. Customer
+’
+s use of the Einstein
+features shall be subject to the Order Form Supplement for Einstein features available at https://www.salesforce.com/company/legal/agreements.jsp
+(
+“
+Supplement
+”
+) which is hereby made part of
+this Order Form. Upon Customer
+’
+s first use of an Einstein feature in an instance of the
+Services, Customer will be presented with an In-App Message directing Customer to confirm acceptance of Einstein feature terms and conditions.
+Instructions for enabling/disabling each Einstein feature in any instance are outlined in the Documentation here: https://help.salesforce.com/apex/HTViewSolution?urlname=Einstein-Enable-Disable&language=en_US
+The functionality of the Einstein features shall not be considered a material component of the Services being provisioned hereunder.
+The Einstein features are not available to some customers, including Government Cloud as stated in the Documentation.
+
+ 
+
+Purchase Order Information
+
+ 
+
+Is a Purchase Order (PO) required for the purchase or payment of the
+products on this Order Form? (Customer to complete)
+
+ 
+
+x
+ No
+
+ 
+
+¨
+ Yes - Please complete
+below
+
+ 
+
+PO Number:
+
+ 
+
+ 
+
+ 
+
+PO Amount:
+
+ 
+
+ 
+
+ 
+6
+ / 7
+
+ 
+
+ 
+
+Upon signature by Customer and submission to
+salesforce.com, this Order Form shall become legally binding unless this Order Form is rejected by salesforce.com for any of the following
+reasons: (1) the signatory below does not have the authority to bind Customer to this Order Form, (2) changes have been made to this
+Order Form (other than completion of the purchase order information and the signature block), or (3) the requested purchase order information
+or signature is incomplete or does not match our records or the rest of this Order Form. Subscriptions are non-cancelable before their
+Order End Date.
+
+ 
+
+This Order Form is governed by the terms of the
+salesforce.com Master Subscription Agreement found at https://www.salesforce.com/company/msa.jsp, unless (i) Customer has a written master
+subscription agreement executed by salesforce.com for such Services as referenced in the Documentation, in which case such written salesforce.com
+master subscription agreement will govern or (ii) otherwise set forth herein.
+
+ 
+
+Customer:
+
+Wealth Dynamics Pte
+ Ltd
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature 
+
+/s/ 
+Suraj Naik
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name 
+
+Suraj Naik
+
+ 
+
+ 
+
+ 
+
+ 
+
+Business Title 
+
+General Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+Authority Level
+
+C Level Executive
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date 
+
+October 19, 2020 | 06:36 PDT
+
+ 
+
+ 
+
+ 
+
+ 
+
+Confidential and proprietary. © Copyright
+2000-2017 salesforce.com, inc. All rights reserved.
+
+ 
+
+ 
+7
+ / 7
+
+ 
+
+ 
+
+salesforce.com Singapore Pte Ltd
+
+ORDER FORM
+ for Wealth Dynamics Pte Ltd
+
+5 Temasek Boulevard
+
+Offer Valid Through: 07/10/2020
+
+#13-01 Suntec Tower 5
+
+Proposed by: Sarika Khushani
+
+Singapore 038985
+
+Quote Number: Q-04085856
+
+ 
+
+ 
+
+ 
+
+ORDER FORM
+
+ 
+
+ 
+
+Address Information
+
+ 
+
+Bill To:
+
+Ship To:
+
+One George Street #10-01
+
+One George Street #10-01
+
+Singapore
+
+Singapore
+
+Singapore, 049145
+
+Singapore, 049145
+
+SG - Singapore
+
+SG - Singapore
+
+ 
+
+ 
+
+Billing Company Name: Wealth Dynamics Pte Ltd
+
+Billing Phone: +65 97107275
+
+Billing Contact Name: Suraj Naik
+
+Billing Fax:
+
+Billing Email Address: suraj@wealthdynamics.org
+
+Billing Language: English
+
+ 
+
+ 
+
+Terms and Conditions
+
+ 
+
+Contract Start Date*: 22/12/2020
+
+Payment Method: Wire Transfer
+
+Contract End Date*: 21/12/2022
+
+Payment Terms: Net 30
+
+Billing Frequency: Semi-annual
+
+Billing Method: Email
+
+ 
+
+ 
+
+Services
+
+ 
+
+ 
+ 
+
+Order
+ 
+
+Order
+ 
+
+Order Term
+ 
+ 
+
+Monthly/
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Services
+ 
+
+Start
+ Date*
+ 
+
+End
+ Date*
+ 
+
+(months)*
+ 
+ 
+
+Unit
+ Price**
+ 
+ 
+
+Quantity
+ 
+ 
+
+Total
+ Price
+ 
+
+Sender Authentication Package
+ 
+
+22/12/2020
+ 
+
+21/12/2022
+ 
+
+ 
+24
+ 
+ 
+
+ 
+USD
+ 31.25
+ 
+ 
+
+ 
+1
+ 
+ 
+
+ 
+USD
+ 750.00
+ 
+
+Super Messages (1,000)
+ 
+
+22/12/2020
+ 
+
+21/12/2022
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+USD
+ 1.00
+ 
+ 
+
+ 
+40,000
+ 
+ 
+
+ 
+USD
+ 40,000.00
+ 
+
+Private IP / Dedicated IP
+ 
+
+22/12/2020
+ 
+
+21/12/2022
+ 
+
+ 
+24
+ 
+ 
+
+ 
+USD
+ 25.00
+ 
+ 
+
+ 
+2
+ 
+ 
+
+ 
+USD
+ 1,200.00
+ 
+
+ExactTarget - Corporate Edition - FP
+ 
+
+22/12/2020
+ 
+
+21/12/2022
+ 
+
+ 
+24
+ 
+ 
+
+ 
+USD
+ 3,487.50
+ 
+ 
+
+ 
+1
+ 
+ 
+
+ 
+USD
+ 83,700.00
+ 
+
+Additional Contacts - Corporate Edition
+ (1,000)
+ 
+
+22/12/2020
+ 
+
+21/12/2022
+ 
+
+ 
+24
+ 
+ 
+
+ 
+USD
+ 0.63
+ 
+ 
+
+ 
+1,955
+ 
+ 
+
+ 
+USD
+ 29,559.60
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+Total:
+ USD 155,209.60
+ 
+
+ 
+
+ 
+1
+ / 6
+
+ 
+
+ 
+
+*If this Order Form is executed and/or returned
+to salesforce.com by Customer after the Order Start Date above, salesforce.com may adjust the Order Start Date and Order End Date, without
+increasing the Total Price, based on the date salesforce.com activates the products and provided that the total term length does not
+change. Following activation, any adjustments to such Order Start Date and Order End Date may be confirmed by logging into Checkout,
+by reference to the order confirmation email sent by salesforce.com to the Billing Email Address above, and/or by contacting Customer
+Service.
+
+ 
+
+**The Monthly/Unit Price shown above has been
+rounded to two decimal places for display purposes. As many as eight decimal places may be present in the actual price. The totals for
+this order were calculated using the actual price, rather than the Monthly/Unit Price displayed above, and are the true and binding totals
+for this order
+
+ 
+
+Prices shown above do not include any taxes that may apply. Any such
+taxes are the responsibility of Customer. This is not an invoice.
+
+ 
+
+For customers
+based in the United States, any applicable taxes will be determined based on the laws and regulations of the taxing authority(ies) governing
+the 
+“
+Ship To
+” 
+location provided by Customer
+on this Order Form.
+
+ 
+
+ 
+
+Usage Details
+
+ 
+
+By Account
+
+ 
+
+Usage Type
+ 
+
+Start Date
+ 
+
+End Date
+ 
+
+Quantity
+ 
+ 
+
+Overage Rate
+ 
+
+Super Messages
+ 
+
+22/12/2020
+ 
+
+21/12/2022
+ 
+
+ 
+60,000,000
+ 
+ 
+
+ 
+USD
+ 0.00125000
+ 
+
+ 
+
+By Tenant ID
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Usage Type
+ 
+
+Start Date
+ 
+
+End Date
+ 
+
+Tenant ID
+ 
+ 
+
+Quantity
+ 
+ 
+
+Overage Rate
+
+Corporate Edition Contacts
+ 
+
+22/12/2020
+ 
+
+21/12/2022
+ 
+
+ 
+7207677
+ 
+ 
+
+ 
+2,000,000
+ 
+ 
+
+USD 0.00094500
+
+ 
+
+ 
+
+Pricing Schedule
+
+ 
+
+ 
+ 
+
+Monthly/
+ 
+ 
+
+ 
+ 
+
+Product
+ 
+
+Unit Price**
+ 
+ 
+
+Quantity For
+ 
+
+Sender Authentication Package
+ 
+
+ 
+USD
+ 31.25
+ 
+ 
+
+ 
+1
+ 
+
+Super Messages (1,000)
+ 
+
+ 
+USD
+ 1.00
+ 
+ 
+
+ 
+40000
+ 
+
+ExactTarget - Corporate Edition - FP
+ 
+
+ 
+USD
+ 3,487.50
+ 
+ 
+
+ 
+1
+ 
+
+Private IP / Dedicated IP
+ 
+
+ 
+USD
+ 25.00
+ 
+ 
+
+ 
+2
+ 
+
+Additional Contacts - Corporate Edition (1,000)
+ 
+
+ 
+USD
+ 0.63
+ 
+ 
+
+ 
+1955
+ 
+
+ 
+
+The pricing in
+the Pricing Schedule above is stated in terms of monthly per-subscription pricing. In case the above Pricing Schedule provides for tiered
+pricing, the volume pricing levels are monthly and are based upon the aggregate total number of full-use subscriptions of the applicable
+Services purchased by the customer entity executing this Order Form (
+“
+Customer
+”
+)
+which are in effect as of this Order Form
+’
+s Order Start Date. Any price decreases shall
+have no effect on previously purchased subscriptions. Only add-on Orders by Customer that are associated with this Order Form, for the
+same Service and edition, during the order term herein, are eligible for the applicable volume pricing levels under this Pricing Schedule.
+If a single additional add-on Order raises the aggregate number of subscriptions for any product listed in the table above the threshold
+limits specified above, only those subscriptions exceeding the new threshold are entitled to the reduced pricing. Volume discounts do
+not accumulate across different Services or editions. Any renewals of the subscriptions purchased under this Order Form are not eligible
+for this Pricing Schedule unless expressly agreed to in writing between the parties in an applicable renewal Order Form.
+
+ 
+
+ 
+2
+ / 6
+
+ 
+
+ 
+
+ 
+
+Quote Special Terms
+
+ 
+
+Notwithstanding anything in the Master
+Subscription Agreement or otherwise to the contrary, Customer agrees that any renewals of the subscriptions purchased under this Order
+Form shall be due and payable annually in advance and shall be for a minimum one-year term.
+
+ 
+
+In
+the event this Order Form reflects an early renewal of Customer
+’
+s existing subscriptions
+purchased under applicable Order Forms under Contract No(s). 02050348, (as referenced in the corresponding invoice(s)), this Order Form
+shall replace such previous Customer
+’
+s Order Form(s) which is/are hereby terminated. Any
+credits applicable to fees paid in relation to such terminated Order Form(s) will be applied to this Order Form. In the event this Order
+Form reflects an on-time renewal of applicable Order Forms under Contract No(s). 02050348, the previous sentence about credits does not
+apply, and Order Forms related to such existing subscriptions shall be considered expired.
+
+ 
+
+ 
+
+Product Special Terms
+
+ 
+
+NOTICE - Contacts
+
+ 
+
+Contacts must be used before the End
+Date set forth in the Usage Details table herein - no rollover will be permitted. Usage fees do not include taxes or overage fees. Customer
+will be invoiced for any applicable taxes or overage fees as set forth in the Agreement and this Order Form. Usage will be calculated
+based on Central Standard Time. Additional units may be purchased at any time during the term of this Order Form; however, if Customer
+fails to order additional units prior to exhausting its then-current unit volume, the applicable overage rates for such units as set
+forth in this Order Form will apply. Overage fees will be billed monthly, in arrears, for each month that Customer exceeds its then-current
+volume.
+
+ 
+
+NOTICE - Marketing Cloud Einstein
+
+ 
+
+Customer
+acknowledges that SFDC may access Customer Data submitted to services and features branded as Einstein for the purpose of training and
+improving similar or related services and features, and Customer instructs SFDC to process its Customer Data for such purpose. SFDC retains
+all right, title, and interest in and to all system performance data, machine learning algorithms, and aggregated results of such machine
+learning. SFDC will not share Customer
+’
+s Customer Data with any other customers.
+
+ 
+
+NOTICE - Einstein Engagement
+
+ 
+
+Einstein
+Engagement is provided using technology infrastructure used by the Einstein Platform and the Marketing Cloud ExactTarget and Predictive
+Intelligence Services. As a result, any representations, warranties and covenants regarding the service levels, privacy, security, or
+disaster recovery measures that are specific to Marketing Cloud Services are hereby disclaimed with respect to Einstein Engagement and
+otherwise replaced by the information described in the applicable Trust and Compliance Documentation. Einstein Engagement is subject
+to the Marketing Cloud Trust and Compliance Documentation as applicable to ExactTarget and Predictive Intelligence and the Einstein Platform
+Trust and Compliance Documentation. The following 
+“
+NOTICES
+” 
+terms
+apply: Marketing Cloud Einstein.
+
+ 
+
+ 
+3
+ / 6
+
+ 
+
+ 
+
+ExactTarget - Corporate Edition
+
+ 
+
+Includes
+the following ExactTarget Services: 10,000,000 Super Messages per annum, 45,000 Contacts, and up to 45 users. In addition, Einstein Engagement
+and the following Predictive Intelligence Services are included in this Edition: Intelligent Email (Predictive Email Content), Web &
+Mobile Analytics, and Intelligent Web (Predictive Web Recommendations). Additional information on features included in Corporate Edition
+can be found at: http://sfdc.co/ETMCpricing. The following 
+“
+NOTICES
+” 
+terms
+apply: Location, Email Messaging, Marketing Cloud Einstein, Mobile Messaging, Predictive Intelligence, Einstein Engagement, Utilization,
+and Contacts. The purchase of Professional Services is recommended for optimal implementation of Predictive Email Content and Journey
+Builder. Implementation of Predictive Email Content and Journey Builder are not required for use of other features within this Edition.
+
+ 
+
+Super Messages (1,000)
+
+ 
+
+A Quantity
+of 1 includes 1,000 Super Messages. Super Messages must be used within the applicable Order Start and End Dates. A detailed description
+of Super Messages and how they may be used can be found at http://www.sfdcstatic.com/assets/pdf/misc/marketing_cloud_super_message_bundles.pdf.
+The following 
+“
+NOTICES
+” 
+terms apply: Utilization.
+
+ 
+
+NOTICE – Email Messaging
+
+ 
+
+The Marketing Cloud Trust and Compliance
+Documentation at https://help.Salesforce.com/articleView?id=Marketing-Cloud-Trust-and-Compliance-Documentation&language=en_US&type=1
+as applicable to ExactTarget applies with respect to use of these Services.
+
+ 
+
+NOTICE - Location Services
+
+ 
+
+Customer
+’
+s
+use of Location Services shall comply with the following Google terms of use:
+
+ 
+
+·
+
+Maps Terms - https://maps.google.com/help/terms_maps.html
+
+ 
+
+·
+
+Legal Notices - https://maps.google.com/help/legalnotices_maps.html
+
+ 
+
+·
+
+Acceptable Use Policy - https://www.google.com/enterprise/earthmaps/legal/us/maps_AUP.html
+
+ 
+
+NOTICE – Mobile Messaging
+
+ 
+
+Text
+Messaging - Applicable to SMS and MMS messaging (
+“
+Text Services
+”
+)
+Customer shall: (a) use the Text Services in accordance with the Marketing Cloud Notices and License Information at https://help.Salesforce.com/articleView?id=Marketing-Cloud-Trust-and-Compliance-Documentation&language=en_US&type=1
+as applicable to ExactTarget and (b) indemnify, defend, and hold SFDC, the Aggregators, and their respective affiliates harmless from
+and against any claim or loss arising from or relating to Customer
+’
+s use of the Text Services
+or Customer Data sent via the Text Service. ANY LIMITATION OF LIABILITY SET FORTH IN THE MSA SHALL NOT APPLY WITH RESPECT TO THE INDEMNIFICATION
+OBLIGATIONS IN (b) ABOVE. Note: Only first instance messages (e.g., STOP, QUIT, CANCEL, END, UNSUBSCRIBE as the first word), as described
+in the Documentation, will stop recipients from receiving messages.
+
+ 
+
+NOTICE - Predictive Intelligence
+
+ 
+
+Predictive Intelligence is provided
+using technology infrastructure different from that used by the ExactTarget Services. As a result, any representations, warranties and
+covenants regarding the service levels, support, privacy, security, or disaster recovery measures that are specific to the ExactTarget
+Services are hereby disclaimed with respect to Predictive Intelligence and otherwise replaced by the information described in the applicable
+Trust and Compliance Documentation.
+
+ 
+
+ 
+4
+ / 6
+
+ 
+
+ 
+
+NOTICE - Utilization
+
+ 
+
+Utilization
+units must be used before the End Date set forth in the Usage Details Table herein – no rollover will be permitted. Usage fees
+do not include taxes or overage fees. Customer will be invoiced for any applicable taxes or overage fees as set forth in the Agreement
+and this Order Form. Usage will be calculated based on Central Standard Time. Additional units may be purchased at any time during the
+term of this Order Form; however, if Customer fails to order additional units prior to exhausting its then-current unit volume, the applicable
+overage rates for such units as set forth in this Order Form will apply. Overage fees will be billed monthly, in arrears. Contacts overage
+fees will be billed monthly for each month that Customer exceeds its then-current unit volume. Customer understands that usage limitations
+are contractual in nature (i.e., these limitations are not limited as a technical matter in the Services) and therefore agrees to strictly
+review its Users
+’ 
+usage and enforce the limits set forth herein.
+
+ 
+
+ 
+
+Purchase Order Information
+
+ 
+
+Is a Purchase Order (PO) required for the purchase or payment of the
+products on this Order Form? (Customer to complete)
+
+ 
+
+x
+ No
+
+ 
+
+¨
+ Yes - Please complete
+below
+
+ 
+
+PO Number:
+
+ 
+
+ 
+
+ 
+
+PO Amount:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Upon signature by Customer and submission to
+salesforce.com, this Order Form shall become legally binding unless this Order Form is rejected by salesforce.com for any of the following
+reasons: (1) the signatory below does not have the authority to bind Customer to this Order Form, (2) changes have been made to this
+Order Form (other than completion of the purchase order information and the signature block), or (3) the requested purchase order information
+or signature is incomplete or does not match our records or the rest of this Order Form. Subscriptions are non-cancelable before their
+Order End Date.
+
+ 
+
+This Order Form is governed by the terms of the
+salesforce.com Master Subscription Agreement found at https://www.salesforce.com/company/msa.jsp, unless (i) Customer has a written master
+subscription agreement executed by salesforce.com for such Services as referenced in the Documentation, in which case such written salesforce.com
+master subscription agreement will govern or (ii) otherwise set forth herein.
+
+ 
+
+ 
+5
+ / 6
+
+ 
+
+ 
+
+Customer: 
+
+Wealth Dynamics Pte
+ Ltd
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature 
+
+/s/ Suraj Naik
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name 
+
+Suraj Naik
+
+ 
+
+ 
+
+ 
+
+ 
+
+Business Title 
+
+CMO
+
+ 
+
+ 
+
+ 
+
+ 
+
+Authority Level 
+
+C Level Executive
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date 
+
+December 9, 2020 | 01:36 PST
+
+ 
+
+ 
+
+ 
+
+Confidential and proprietary. © Copyright
+2000-2017 salesforce.com, inc. All rights reserved.
+
+ 
+
+ 
+6
+ / 6

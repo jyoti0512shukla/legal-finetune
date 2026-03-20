@@ -1,0 +1,1037 @@
+EX-10.22
+
+4
+
+kld-ex1022_9.htm
+
+EX-10.22
+
+kld-ex1022_9.htm
+
+Exhibit 10.22
+
+ 
+
+Certain confidential information contained in this document, marked by brackets, has been omitted.
+
+ 
+
+AMENDED AND RESTATED FIRST AMENDMENT TO
+ 
+
+SOFTWARE
+ 
+LICENSE
+ 
+AGREEMENT
+
+ 
+
+THIS
+ 
+AMENDED  
+ 
+AND  
+ 
+RESTATED  
+ 
+FIRST  
+ 
+AMENDMENT  
+ 
+TO  
+ 
+SOFTWARE  
+ 
+LICENSE AGREEMENT (“
+Amendment
+”) is made and entered into as of July 21, 2021, for reference purposes
+ 
+(“
+Reference Date
+”), but shall become effective retroactively as of July 1, 2021 (“
+Effective Date
+”), by and
+ 
+between 
+RELATIVITY ODA LLC
+, a Delaware limited liability company (“
+Relativity
+”), and 
+LDISCOVERY,
+ 
+LLC
+,
+ 
+a Delaware limited liability
+ 
+company
+ 
+(“
+Client
+”).
+
+ 
+
+A.
+Relativity and Client entered into a Software License Agreement dated with a Reference
+ 
+Date of December 24, 2020 (“
+Original Agreement
+”), as amended from time to time (collectively, and as
+ 
+amended herein,
+ 
+the “
+Agreement
+”).
+
+ 
+
+B.
+The
+ 
+Agreement
+ 
+grants
+ 
+Client
+ 
+a
+ 
+license
+ 
+(“
+Existing
+ 
+License
+”)
+ 
+to
+ 
+deploy
+ 
+and
+ 
+use
+ 
+fourteen
+ 
+(14)
+ 
+Production Instances of the Software (“
+Existing Instances
+”); and the parties mutually desire to amend the
+ 
+Agreement
+ 
+on the
+ 
+terms
+ 
+below.
+
+ 
+
+C.
+Relativity
+ 
+and
+ 
+Client
+ 
+entered
+ 
+into
+ 
+a
+ 
+First
+ 
+Amendment
+ 
+to
+ 
+Software
+ 
+License
+ 
+Agreement
+ 
+dated
+ 
+June 29, 2021 (“
+Prior 1st Amendment
+”), which the parties desire to amend and restate in accordance with
+ 
+the terms
+ 
+herein.
+
+ 
+
+NOW
+ 
+THEREFORE,
+ 
+in
+ 
+consideration
+ 
+of
+ 
+the
+ 
+foregoing
+ 
+recitals
+ 
+and
+ 
+the
+ 
+mutual
+ 
+agreements
+ 
+herein
+ 
+contained,
+ 
+the parties
+ 
+hereby
+ 
+agree as
+ 
+follows:
+
+ 
+
+1.
+Amended and Restated 1st Amendment.
+ 
+This Amendment supersedes, replaces,
+ 
+amends and restates
+ 
+the Prior
+ 
+1st
+ 
+Amendment
+ 
+in its
+ 
+entirety.
+
+2.
+Temporary
+ 
+Instance
+ 
+License.
+ 
+Relativity
+ 
+hereby
+ 
+grants
+ 
+Client
+ 
+a
+ 
+temporary
+ 
+license
+ 
+(“
+Temporary License
+”) to deploy one (1) additional Production Instance (“
+Temporary Instance
+”) of the
+ 
+Software for a period (“
+Temporary Period
+”): (a) commencing on the Effective Date of this Amendment and
+ 
+continuing
+ 
+for
+ 
+the
+ 
+remainder
+ 
+of
+ 
+the
+ 
+same
+ 
+calendar
+ 
+month
+ 
+in
+ 
+which
+ 
+the
+ 
+Effective
+ 
+Date
+ 
+occurs (“
+Initial
+ 
+Period
+”);
+ 
+and (b) thereafter continuing until terminated as provided in Sections 3 and 4 below.
+ 
+The Temporary
+ 
+License and Temporary Instance shall be on and subject to all provisions of the Agreement and Existing
+ 
+License,
+ 
+including
+ 
+terms
+ 
+for Relativity
+ 
+Analytics,
+ 
+except
+ 
+as
+ 
+provided
+ 
+to
+ 
+the contrary herein.
+
+ 
+
+3.
+Month-to-Month
+ 
+License;
+ 
+Termination
+ 
+and
+ 
+Expiration.
+ 
+After
+ 
+the
+ 
+Initial
+ 
+Period
+ 
+described
+ 
+in Section 2, the Temporary License and Temporary Period will remain in effect on a calendar month-to-
+ 
+month basis until the earlier to occur of: (a) termination of the Agreement; (b) the last day of any calendar
+ 
+month in which Client delivers notice to Relativity (no later than the last day of such month) electing to
+ 
+terminate the Temporary License on such last day and certifying that Client has permanently de-installed,
+ 
+destroyed and discontinued the Temporary Instance as further described below; or (c) the last day (“
+Final
+ 
+Expiration
+ 
+Date
+”)
+ 
+of
+ 
+the
+ 
+sixth
+ 
+(6
+th
+)
+ 
+full
+ 
+calendar
+ 
+month
+ 
+following
+ 
+the
+ 
+month
+ 
+in
+ 
+which
+ 
+the
+ 
+Effective
+ 
+Date
+ 
+of
+ 
+this
+ 
+Amendment
+ 
+occurs,
+ 
+subject
+ 
+to Section
+ 
+4 below.
+
+ 
+
+4.
+Additional License Extensions; Termination and Expiration.
+ 
+During the sixth (6
+th
+) full
+ 
+calendar month of the Temporary Period: (a) Client’s system administrators who log into the Temporary
+ 
+Instance
+ 
+will
+ 
+see
+ 
+an
+ 
+alert
+ 
+advising
+ 
+that
+ 
+a
+ 
+new
+ 
+license
+ 
+key
+ 
+is
+ 
+required
+ 
+to
+ 
+keep
+ 
+using
+ 
+the
+ 
+Temporary
+ 
+Instance; 
+(b) if Client does not request and apply the new license key, the Temporary Period will terminate on the
+ 
+Final
+ 
+Expiration
+ 
+Date
+ 
+described
+ 
+above;
+ 
+(c)
+ 
+if
+ 
+Client
+ 
+requests
+ 
+and
+ 
+applies
+ 
+the
+ 
+new
+ 
+license
+ 
+key,
+ 
+the
+ 
+Temporary
+ 
+Period will be extended on a month-to-month basis for up to an additional six (6) full calendar months,
+ 
+subject to earlier termination as described in Section 3 above, and subject to further extensions as
+ 
+described
+ 
+in this
+ 
+Section
+ 
+4
+ 
+for
+ 
+successive
+ 
+six
+ 
+(6)
+ 
+month
+ 
+periods.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.
+Temporary
+ 
+Instance
+ 
+License
+ 
+Fees.
+
+a.
+Client’s use of the Temporary Instance is not capped at any particular number of
+ 
+Server Users, and the number of Server Users of the Temporary Instance will not be counted towards the
+ 
+total number of capped Server Users under the Agreement.
+ 
+Client will enable Relativity to have access to
+ 
+billing and usage data through the Software in the Temporary Instance as provided in the Agreement
+ 
+respecting
+ 
+the Existing License.
+
+ 
+
+b.
+Client shall pay Relativity the following Relativity license fees for the Temporary
+ 
+License:
+ 
+(i)
+ 
+$
+[*]
+,
+ 
+in
+ 
+advance
+,
+ 
+when
+ 
+Client
+ 
+signs
+ 
+this
+ 
+Amendment (which
+ 
+covers
+ 
+the
+ 
+Initial
+ 
+Period,
+ 
+i.e.
+ 
+the
+ 
+first full calendar month); 
+plus
+ (ii) $[*] per month for each additional calendar month of the Temporary
+ 
+Period, in advance on or before the first day of each calendar month; 
+plus
+ (iii) during the entire Temporary
+ 
+Period, an additional monthly amount equal to $[*] times the total number of Server Users in the
+ 
+Temporary Instance during each subject month, in arrears within thirty (30) days after Relativity invoices
+ 
+such
+ 
+amount
+ 
+following
+ 
+the
+ 
+end
+ 
+of
+ 
+each
+ 
+calendar
+ 
+month.
+ 
+Relativity
+ 
+will
+ 
+not
+ 
+be
+ 
+required
+ 
+to
+ 
+de-duplicate
+ 
+Server
+ 
+Users for the Temporary Instance who are also Server Users for the Existing Instances or any other
+ 
+instance.
+
+ 
+
+c.
+In addition, if Client has a Relativity Analytics subscription in effect under the
+ 
+Agreement and has not reached the Analytics Volume Based Subscription Level, Relativity will aggregate
+ 
+the
+ 
+data
+ 
+usage
+ 
+in
+ 
+the
+ 
+Temporary
+ 
+Instance
+ 
+and
+ 
+the
+ 
+Existing
+ 
+Instances
+ 
+until
+ 
+the
+ 
+aggregate
+ 
+data
+ 
+usage
+ 
+amount
+ 
+reaches the Analytics Volume Based Subscription Level. If Client has a Relativity Analytics subscription in
+ 
+effect under the Agreement and has already reached the Analytics Volume Based Subscription Level, or
+ 
+subsequently reaches the Analytics Volume Based Subscription Level (e.g. with the aggregation of data
+ 
+usage
+ 
+in
+ 
+the
+ 
+Temporary
+ 
+Instance),
+ 
+Relativity
+ 
+will
+ 
+then
+ 
+charge
+ 
+for
+ 
+any
+ 
+further
+ 
+Relativity
+ 
+Analytics
+ 
+data
+ 
+usage
+ 
+on a monthly basis at the applicable per GB burst fee or Pay As You Go data usage rate under the
+ 
+Agreement.
+
+ 
+
+6.
+End of Temporary Period.
+ 
+When the Temporary Period, or any extension thereof, ends
+ 
+or
+ 
+is
+ 
+terminated:
+ 
+(a)
+ 
+the
+ 
+Temporary
+ 
+License
+ 
+shall
+ 
+expire
+ 
+and
+ 
+Client
+ 
+shall
+ 
+immediately
+ 
+discontinue
+ 
+using
+ 
+and
+ 
+accessing the Temporary Instance; and (b) within the next ten (10) days, Client shall certify to Relativity in
+ 
+writing that Client has completely and permanently uninstalled and permanently discontinued using and
+ 
+accessing the Temporary Instance, has not made any copies of the Software used therein, and has
+ 
+permanently destroyed the
+ 
+Software used
+ 
+therein
+ 
+so
+ 
+it
+ 
+cannot
+ 
+be reinstalled
+ 
+or
+ 
+re-used.
+
+ 
+
+7.
+Miscellaneous.
+ 
+As
+ 
+amended
+ 
+herein,
+ 
+all
+ 
+provisions
+ 
+of
+ 
+the
+ 
+Agreement
+ 
+shall
+ 
+remain
+ 
+in
+ 
+effect.
+ 
+However,
+ 
+in
+ 
+case
+ 
+of
+ 
+any
+ 
+inconsistency
+ 
+between
+ 
+this
+ 
+Amendment
+ 
+and
+ 
+other
+ 
+prior
+ 
+portions
+ 
+of
+ 
+the
+ 
+Agreement,
+ 
+this Amendment shall govern.
+ 
+This Amendment sets forth the entire agreement between the parties with
+ 
+respect to the matters set forth herein.
+ 
+This Amendment shall not be binding unless and until fully signed
+ 
+and delivered by both parties.
+ 
+Unless provided to the contrary herein: (a) any terms defined herein shall
+ 
+have the meanings ascribed herein when used as capitalized terms in other provisions hereof; and (b)
+ 
+capitalized
+ 
+terms
+ 
+not
+ 
+otherwise
+ 
+defined
+ 
+herein
+ 
+shall
+ 
+have
+ 
+the
+ 
+meanings
+ 
+ascribed
+ 
+thereto
+ 
+in
+ 
+the
+ 
+Agreement.
+ 
+The
+ 
+parties
+ 
+may
+ 
+sign
+ 
+and deliver
+ 
+this
+ 
+Amendment
+ 
+as
+ 
+pdfs
+ 
+via email.
+
+ 
+
+IN
+ 
+WITNESS
+ 
+WHEREOF,
+ 
+the
+ 
+parties have executed
+ 
+this Amendment
+ 
+as
+ 
+of
+ 
+the date
+ 
+first
+ 
+set
+ 
+forth above.
+
+ 
+
+ 
+
+RELATIVITY ODA LLC
+
+ 
+
+LDiscovery, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Sailesh Munagala
+
+ 
+
+By:
+
+ 
+
+/s/ Ferdinand Cami
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Sailesh Munagala
+
+ 
+
+Name:
+
+ 
+
+Ferdinand Cami
+
+ 
+
+ 
+
+Title:
+
+ 
+
+CFO
+
+ 
+
+Title:
+
+ 
+
+VP, Hosted Services
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2

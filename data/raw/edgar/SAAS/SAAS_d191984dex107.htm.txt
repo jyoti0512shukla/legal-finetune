@@ -1,0 +1,2116 @@
+EX-10.7
+
+11
+
+d191984dex107.htm
+
+EX-10.7
+
+EX-10.7
+
+Exhibit 10.7 
+
+MASTER SERVICES AGREEMENT 
+ 
+THIS MASTER
+SERVICES AGREEMENT
+ (the “
+Agreement
+”) is made and entered into as of October 26, 2020, with an effective date as of September 10, 2020
+ 
+(the “
+Effective Date
+”), by and between Cerberus Technology
+Solutions, LLC a Delaware limited liability company with offices at 875 Third Avenue, 3rd Floor, New York, NY 10022 (“
+CTS
+”), and Cerberus Telecom Acquisition Corp., a Cayman Islands exempted company, with offices at 875 Third
+Avenue, New York, NY 10022 (“
+Client
+”). For purposes of this Agreement, CTS and Client each may be referred to individually as a “
+Party
+,” and together as the “
+Parties
+”. 
+
+RECITALS 
+ 
+A.
+WHEREAS CTS is a consulting and technology innovation company that maintains a team of professionals, engineers, and data scientists (the “
+CTS Professionals
+”) who have significant knowledge, experience, skills and training across a
+broad range of industries, companies and functional areas of business activity; 
+ 
+B. WHEREAS CTS provides certain services designed to
+collaborate with clients and drive transformation and modernization by applying specialized capabilities and analytics to drive and address various business and operational needs, including, among other things, a wide variety of consulting, data
+science, data analysis, and technology development and management related services as further described and defined below; and 
+ 
+C. Client
+wishes to retain CTS and the CTS Professionals to provide Client and its Affiliates (with whom CTS agrees to provide Services to under an SOW) certain Services, and CTS desires to provide such Services, subject to and in accordance with the terms
+and conditions set forth in this Agreement. 
+ 
+AGREEMENT 
+
+NOW, THEREFORE
+, in consideration of the foregoing and the mutual promises and undertakings set forth herein, and for other good and
+valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties, intending to be legally bound, hereby covenant and agree as follows: 
+
+ARTICLE I 
+
+DEFINITIONS AND CONSTRUCTION 
+
+Section
+ 1.1
+ 
+Structure
+. This Agreement includes certain Exhibits and Schedules annexed hereto and are
+hereby incorporated into this Agreement and made a part hereof by this reference. 
+ 
+Section
+ 1.2
+
+Certain Defined Terms
+. For purposes of this Agreement, the following terms shall have the following meanings: 
+
+“
+Affiliate
+” means, with respect to a specified Person, any other Person
+that directly, or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, such specified Person. For purposes of this Agreement, an Affiliate of CTS shall include, without limitation, any entity
+that is owned or controlled by funds or accounts managed, directly or indirectly, by Cerberus Capital Management, L.P. or one of its affiliates under common control with Cerberus Capital Management, L.P. 
+
+“
+Agreement
+” shall have the meaning set forth in the preamble to this Agreement. 
+
+“
+Applicable Law
+” means any law, statute, ordinance, rule, regulation, code, order, judgment, injunction or decree enacted,
+issued, promulgated, enforced or entered by a governmental entity. 
+ 
+“
+Business Day
+” means a day, other than a Saturday,
+Sunday or other day on which commercial banks in New York, New York are authorized or required to close. 
+ 
+“
+Client
+” shall
+have the meaning set forth in the preamble to this Agreement. 
+ 
+“
+Client Background Materials
+” means all information and
+materials owned by Client and provided to CTS in connection with an applicable SOW. 
+ 
+“
+Client Deliverables
+” means any
+custom or technical work product (e.g. wire frames, specifications, layouts, front end design etc.) specially commissioned by Client and developed by CTS in connection with the performance of Consulting and/or Development Services and identified as
+such in an applicable SOW. 
+ 
+“
+Client Indemnitees
+” shall have the meaning set forth in Section 11.2 hereto. 
+
+“
+Confidential Information
+” means (a) all information, data (including personal data), agreements, documents, reports, 
+“know-how,”
+ interpretations, plans, studies, forecasts, projections and records (whether in oral or written form, electronically stored or otherwise) containing or otherwise reflecting information
+concerning the Disclosing Party, any of its Affiliates, their respective businesses or assets and other information not available to the public generally, whether received before or after the date of this Agreement, and (b) all memoranda,
+notes, analyses, compilations, studies or other documents which were developed based upon or which include any such Confidential Information (whether in written form, electronically stored or otherwise) which is identified as confidential or should
+otherwise be reasonably deemed confidential or proprietary under the circumstances, whether prepared by the Disclosing Party, the Receiving Party or their respective Representatives or others which contain, reflect or are based on any such
+Confidential Information. Notwithstanding the foregoing, the Parties understand and agree that the term “Confidential Information” does not include (i) information which was already in the possession of a Receiving Party or its
+Representatives prior to the date of disclosure and which was not acquired or obtained from a source that was known to the Receiving Party to be bound by a contractual, legal or fiduciary obligation not to disclose the information to the Receiving
+Party, (ii) information which is obtained by the Receiving Party or its Representatives from a source other than the Disclosing Party or its Representatives unless such source is known to the Receiving Party to be prohibited from transmitting
+the information to the Receiving Party or its Representatives by a contractual, legal or fiduciary obligation to the 
+
+Disclosing Party, (iii) information which is or becomes generally available to the public other than as a result of a disclosure by the Receiving Party or its Representatives in violation of
+the provisions of this Agreement or by disclosure by any other Person in violation of any contractual legal or fiduciary obligation, (iv) information developed independently by the Receiving Party or its Representatives without use of
+Confidential Information, or (v) any aggregated and anonymized data that does not identify Client or Client’s products or services in any manner. 
+
+“
+Consulting Services
+” shall mean the strategic advisory and related Services to be performed by CTS as specified and in
+accordance with each SOW. 
+ 
+“
+CTS
+” shall have the meaning set forth in the preamble to this Agreement. 
+
+“
+CTS Indemnitee
+” shall have the meaning set forth in Section 11.1 hereto. 
+
+“
+CTS IP
+” shall have the meaning set forth in Section 7.6 hereto. 
+
+“
+CTS Materials
+” means all inventions, works or other materials, methodologies proprietary statistical methods, tools,
+techniques, processes, 
+know-how,
+ analytical methods, procedures, procedure manuals, financial information, data, data models, reference architectures, computer technical expertise and software, that have been
+or are created, conceived or reduced to practice by CTS and all Intellectual Property Rights that are embodied therein, and any enhancements, improvements, adaptations, translations, compilations, and modifications including without limitation
+development of additional functionalities or any other improvements thereto directly or indirectly derived from providing the Services, whether or not fixed in a tangible medium of expression. 
+
+“
+Development Services
+” shall mean those Services that are specially commissioned by Client to produce Client Deliverables as
+specified and in accordance with the applicable SOW. 
+ 
+“
+Disclosing Party
+” means Client with respect to the Confidential
+Information delivered by or on behalf of Client and CTS with respect to Confidential Information delivered by or on behalf of CTS. 
+
+“
+Effective Date
+” shall have the meaning set forth in the preamble to this Agreement. 
+
+“
+Exchange
+ 
+Act
+” shall have the meaning set forth in Section Section 5.4 hereto. 
+
+“
+Feedback
+” shall have the meaning set forth in Section 7.5. 
+
+“
+Force Majeure Condition
+” shall have the meaning set forth in Section 12.9 hereto. 
+
+“
+Intellectual Property Rights
+” means any and all intellectual property and proprietary rights throughout the world, including
+any and all patents, patent applications, copyrights, copyright applications, moral rights, trademarks, trade secret rights, rights to 
+know-how,
+ inventions and algorithms, and any and all similar or equivalent
+rights. 
+
+“
+Invoice
+” shall have the meaning set forth in Section 4.1 hereto. 
+
+“
+Management Services
+” shall mean the management by CTS of any third party services on behalf of Client (e.g. web hosting
+services) as specified and in accordance with the applicable SOW. 
+ 
+“
+Notices
+” shall have the meaning set forth in
+Section 12.11 hereto. 
+ 
+“
+Out of Pocket Expenses
+” shall have the meaning set forth in Section 3.2 hereto. 
+
+“
+Party
+” shall have the meaning set forth in the preamble to this Agreement. 
+
+“
+Person
+” means any natural person and any corporation (including any 
+non-profit
+
+corporation), general or limited partnership, limited liability company, joint venture, estate, trust, association, organization, governmental body or other entity of any kind. 
+
+“
+Receiving Party
+” means CTS with respect to Confidential Information delivered by or on behalf of Client, and Client with
+respect to Confidential Information delivered by or on behalf of CTS. 
+ 
+“
+Representative
+” means the members, managers,
+partners, stockholders, directors, officers, employees, attorneys, advisors, agents, representatives, Affiliates, heirs, and legatees of any Person, together with their respective predecessors, successors and assigns. 
+
+“
+Services
+” shall mean those services specifically performed by CTS under an applicable SOW and may include Consulting
+Services, Development Services and Management Services, in each case, as specified in the applicable SOW, along with any other services otherwise specified in the applicable SOW. 
+
+“
+Service Fees
+” shall have the meaning set forth in Section 3.1 hereto. 
+
+“
+SOW
+” shall have the meaning set forth in Section 2.1 hereto. 
+
+“
+Third Party Materials
+” shall have the meaning set forth in Section 7.4. 
+
+Section
+ 1.3
+ 
+Interpretation
+. 
+
+(a) The definitions set forth in this Agreement (including the applicable SOWs and in any Exhibits and/or Schedules attached hereto) shall
+apply equally to both the singular and plural forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms. The words “include,” “includes” and
+“including” shall be deemed to be followed by the phrase “without limitation”. The words “will” and “shall” are used interchangeably throughout this Agreement, and the use of either connotes a mandatory
+requirement. The use of one or the other will not mean a different degree or right or obligation for either Party. Use of the word “or” means “and/or”. 
+
+(b) The headings of the Articles, Sections and Exhibits are inserted for convenience of
+reference only and are not intended to be a part of or to affect the meaning or interpretation of this Agreement. 
+ 
+(c) Unless the context
+otherwise requires, references to this Agreement shall be deemed to include references to any associated SOW and any Exhibit and/or Schedule attached hereto. 
+
+ARTICLE II 
+
+Structure, Account Management and Staffing 
+
+Section
+ 2.1
+ 
+SOWs
+. All Services to be performed by CTS under this Agreement shall be specified in one
+or more statements of work (each, an “
+SOW
+”) substantially in the form set forth in Exhibit 1 to this Agreement. Each SOW will expressly refer to this Agreement, will form a part of this Agreement, and will be subject to the terms
+and conditions contained herein. An SOW may be amended only by written agreement of the Parties. Notwithstanding any other provision of this Agreement to the contrary, to the extent there is any inconsistency between the terms of this Agreement and
+the terms of an SOW, the terms of this Agreement shall control, unless such SOW contains language expressly modifying the inconsistent term of this Agreement. To the extent there is any material modification to the Services requested by Client, the
+parties shall execute a change order or amend the SOW to address such change including without limitation, any increase in fees or expenses due to CTS. 
+
+Section
+ 2.2
+ 
+Account Management
+. Upon the Effective Date, each Party shall provide the other with the
+name and contact information of one or more individuals (each, an “
+Account
+ Manager
+”) who shall have primary responsibility for managing the relationship between the Parties under this Agreement and any
+applicable SOW. Among other things, the Account Managers shall be responsible for (i) executing, modifying and terminating any SOW’s, (ii) periodically conferring with one another to assess the status of individual engagements under
+an SOW, (iii) making any adjustments, modifications or amendments to this Agreement or an SOW as may be desired by the Parties, (iv) in conjunction with the Billing Coordinators (as defined in Section 4.2 below) for each Party,
+assisting with the review and resolution of any issues relating to billing or payment under this Agreement or any SOW, and (v) addressing all such other matters under this Agreement or an applicable SOW as the Parties may determine from 
+time-to-time
+ are necessary and appropriate. Each Party in its sole discretion may change its designated Account Manager upon written notice to the other Party. 
+
+Section
+ 2.3
+ 
+Staffing of SOWs
+. Upon execution of an SOW (or such later time as the Parties may agree in
+writing), CTS shall staff the SOW with such CTS Professionals as CTS shall deem appropriate to satisfy the mutually agreed upon objectives for the SOW. Thereafter, CTS shall have the right to add, remove, substitute, limit, change or modify the
+identity or time-commitment of the CTS Professionals that are assigned to an SOW. 
+
+Section
+ 2.4
+ 
+No Exclusivity
+. The Services to be
+provided by CTS under the SOWs are not, and shall not be deemed to be, exclusive to Client or its Affiliates, and CTS are and shall remain free to render similar services to Persons other than Client and its Affiliates and to engage in all such
+activities as CTS deem appropriate. Similarly, Client may engage any third party to perform services and unless set forth in an applicable SOW, CTS shall not be deemed an exclusive provider for Client or its Affiliates. 
+
+ARTICLE III 
+ 
+FEES AND
+EXPENSES 
+ 
+Section
+ 3.1
+ 
+Service Fees
+. In consideration of the Services provided under this
+Agreement, Client shall pay to CTS such service fees (the “
+Service Fees
+”) as shall be specified in each SOW under which such Services are rendered. 
+
+Section
+ 3.2
+ 
+Expenses
+. In addition to the Service Fees described in Section 3.1 above, Client
+shall reimburse CTS for all reasonable and customary expenses incurred by CTS in the performance of the Services (for example, local and long distance travel, meals, car rental and other expenses) (the “
+Out of Pocket Expenses
+”),
+subject to the delivery by CTS to Client of reasonable documentation verifying such charges. 
+ 
+Section
+ 3.3
+
+Trust Account Waiver
+. Notwithstanding anything herein to the contrary, the Parties hereby acknowledge and agree that in no event shall CTS (or any other person or entity claiming through or on behalf of CTS) have any right of 
+set-off
+ with respect to, or any right, title, interest or claim of any kind (“Claim”) in or to, any assets held in, or any distribution of or from, the trust account to be established by Client in which
+the proceeds of Client’s initial public offering (the “IPO”) (including the deferred underwriters discounts and commissions) and certain of the proceeds of the sale of the units issued in a private placement to occur prior to the
+effectiveness of the IPO are to be deposited, as described in greater detail in the registration statement and prospectus filed with the Securities and Exchange Commission in connection with the IPO. CTS hereby waives any Claim it has or may have in
+the future against the trust or any of the assets from time to time held in such trust account, whether as a result of, or arising out of, any services provided to Client or otherwise and agrees not to seek recourse, reimbursement, payment or
+satisfaction for any Claim against the trust, the trust account or any assets therein for any reason whatsoever. 
+ 
+ARTICLE IV 
+
+BILLING AND PAYMENT 
+
+Section
+ 4.1
+ 
+Billing
+. Unless otherwise provided in a SOW, CTS will invoice Client on a monthly basis
+for all Service Fees payable under this Agreement (each such bill, an “
+Invoice
+”) upon the terms and conditions set forth in the applicable SOW. Out of Pocket Expenses shall be billed to Client on a periodic basis after the date upon
+which such expenses are incurred unless CTS shall be required to pay any management or other fees to a third party vendor in which case CTS may upon Client’s approval of the third party expense, bill Client in advance to ensure
+cash neutrality. 
+
+Section
+ 4.2
+ 
+Single Point of Billing/Payment Contact
+.
+Promptly after the Effective Date of this Agreement, each Party shall designate, in addition to the Account Manager, a single point of contact (each, a “
+Billing/Payment Coordinator
+”) who shall have primary responsibility on behalf
+of the designating Party for reviewing, responding to and resolving any billing-related or payment-related inquiries that may arise during the course of this Agreement or an SOW, which such review, response and resolution shall at all times be
+subject to and contingent upon the approval of the Account Manager designated by the responding Party. Each Party in its sole discretion may change its designated Billing/Payment Coordinator upon written notice to the other Party and either or both
+Parties may designate the same individual to serve as both its Account Manager and its Billing/Payment Coordinator. 
+
+Section
+ 4.3
+ 
+Payment
+. Unless set forth otherwise in an applicable SOW, Client shall pay to CTS the
+amounts of each Invoice not later than thirty (30) calendar days after the due date set forth on such Invoice. All Service Fees and Out of Pocket Expenses shall be paid to CTS in U.S. dollars unless otherwise specified in an SOW. 
+
+Section
+ 4.4
+ 
+Billing/Payment Disputes
+. If any portion of an amount due to CTS under an SOW is subject
+to a 
+bona fide
+ dispute between the Parties, Client shall, prior to the applicable date for payment, provide written notice to CTS (the “
+Billing Dispute Notice
+”) of any amounts that Client reasonably believes, in good faith,
+were not billed appropriately (such amounts, the “
+Disputed Amounts
+”) and shall include in such Billing Dispute Notice specific detail regarding the basis for such dispute. Notwithstanding the delivery of such notice, Client
+shall pay to CTS all undisputed amounts as and when due, time being of the essence, and shall have the right to withhold payment on the Disputed Amounts. If the Parties are unable to resolve the issues related to a Disputed Amount in the normal
+course of business within ten (10) Business Days after delivery to CTS of the Billing Dispute Notice (or such later date as the Parties may agree in writing), each Party shall have the right to initiate the dispute resolution procedures set
+forth in Section 6.1 below with respect to the Disputed Amounts. To the extent Client does not dispute an invoice, and does not pay CTS in a timely manner, CTS may, without limiting its termination rights under the Agreement, (i) suspend
+Services until payments are made; (ii) charge interest at the greater of 1.5% or the highest rate permissible by law; (ii) be entitled to reimbursement of any reasonable collection fees (including any attorney’s fees) incurred by CTS.
+
+ 
+Section
+ 4.5
+ 
+Taxes
+. Client will be responsible for the payment of any and all taxes applicable to
+the license and use of the Services under this Agreement (other than those based upon CTS’ net income) including, without limitation, Client’s income, payroll, sales, VAT, use, gross receipts, personal property, withholding or other taxes
+imposed upon transactions under this Agreement (“
+Taxes
+”). If CTS has the legal obligation to collect Taxes for which Client is responsible under this Section, the appropriate amount will be invoiced to and paid by Client, unless
+Client provides CTS with a valid tax exemption certificate authorized by the appropriate taxing authority. If any withholding taxes must be paid based on the payments to CTS specified in this Agreement, then Client will pay all such taxes and the
+amounts payable to Client under this Agreement will be increased such that the amounts actually paid to CTS will be no less than the amounts that CTS would have received notwithstanding such tax. 
+
+ARTICLE V 
+
+CONFIDENTIALITY 
+
+Section
+ 5.1
+ 
+Restrictions on Disclosure and Use of Confidential Information
+. 
+
+(a) The Receiving Party shall treat any Confidential Information received from the Disclosing Party as confidential and shall not, and shall
+cause its Representatives not to, directly or indirectly, disclose, reveal, divulge, publish or otherwise make known any Confidential Information received from the Disclosing Party to any other Person for any reason or purpose whatsoever, except as
+provided in Section 5.1(c) or Section 5.1(d) below. 
+ 
+(b) Except as otherwise set forth in this Agreement, the Receiving Party
+shall, and shall cause its Representatives to, use the Confidential Information received from a Disclosing Party solely for the purpose of providing or receiving the Services in accordance with the terms of this Agreement. 
+
+(c) Notwithstanding the provisions of Section 5.1(a) above, the Receiving Party may disclose Confidential Information to its
+Representatives who (i) have a need to know such information in order to provide or receive Services in accordance with the terms of this Agreement, (ii) are informed of the confidential nature of the Confidential Information and
+(iii) agree to maintain the confidentiality of the Confidential Information in accordance with the terms of this Agreement or a similarly restrictive agreement. The Receiving Party shall be fully responsible for any breach of the provisions of
+this Article V by any of its Representatives. 
+ 
+(d) Notwithstanding the provisions of Section 5.1(a) above, if the Receiving Party or
+its Representatives are required to disclose any Confidential Information to a third party pursuant to Applicable Law, the Receiving Party shall promptly notify the Disclosing Party in writing of any such requirement, if legally permissible, so that
+the Disclosing Party may seek an appropriate protective order or other appropriate remedy or waive compliance with the provisions of this Agreement. The Receiving Party shall, and shall direct its Representatives to, reasonably cooperate with the
+Disclosing Party to obtain such a protective order or other remedy and if such order or other remedy is not obtained, or the Disclosing Party waives compliance with the provisions of this Agreement, the Receiving Party and its Representatives shall
+disclose only that portion of the Confidential Information which they are advised by counsel they have a legal obligation to disclose and will use good faith efforts to obtain reliable assurance that confidential treatment will be accorded the
+information so disclosed. 
+ 
+Section
+ 5.2
+ 
+Return or Destruction of Confidential Information
+. Promptly
+upon written request of a Disclosing Party, the Receiving Party shall, and shall cause its Representatives to, at the election of the Receiving Party, return to the Disclosing Party or destroy all Confidential Information in tangible form (whether
+in written form, electronically stored or otherwise except for any archived electronic data or communications which may be retained on a confidential basis in accordance with the Receiving Party’s
+
+then-current retention policy), and except as provided, neither the Receiving Party nor any of its Representatives shall retain any copies or extracts thereof. To the extent that the Receiving
+Party elects to destroy such Confidential Information pursuant to the terms of this Section 5.2, such destruction shall be certified by the Receiving Party to the Disclosing Party in writing if so requested by the Disclosing Party.
+Notwithstanding the foregoing, nothing set forth in this Section 5.2 shall require a Receiving Party or its Representatives to destroy Confidential Information to the extent that the Receiving Party believes, in good faith, that such
+information is necessary or appropriate for the purpose of exercising or performing the Receiving Party’s rights, claims or obligations under this Agreement or any SOW. 
+
+Section
+ 5.3
+ 
+Specific Performance
+. The Parties agree, on behalf of themselves and their respective
+Representatives, that a Disclosing Party shall be entitled to seek equitable relief, including an injunction or injunctions (without the requirement of posting a bond, other security or any similar requirement or proving any actual damages), to
+prevent breaches or threatened breaches of the confidentiality provisions set forth in this Article V by a Receiving Party or its Representatives and to specifically enforce the confidentiality terms and provisions of this Agreement, this remedy
+being in addition to any other remedy to which a Disclosing Party may be entitled at law or in equity. 
+
+Section
+ 5.4
+ 
+Regulation FD
+. CTS acknowledges that Client’s securities are registered with the
+Securities and Exchange Commission pursuant to the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and that Client’s securities are publicly traded. CTS acknowledges that Client has requested that this paragraph be
+included in this Agreement so that Client will be exempt from any requirement to disclose material 
+non-public
+ information provided to CTS in accordance with the exemption set forth in Rule 100(b)(2)(ii) of
+Regulation FD. Accordingly, CTS, at all times that it possesses material 
+non-public
+ information that would restrict CTS from effecting purchase and/or sale transactions of the Client’s securities under
+the Exchange Act and the rules and regulations promulgated thereunder, including Regulation FD, shall not, and it shall advise its Representatives who are in possession of such material 
+non-public
+ information
+that they shall not, effect any purchase or sale transactions, or other transactions (such as hedging transactions), of or with respect to the Client’s securities that, if effected at such time, would be in violation of the Exchange Act and the
+rules and regulations promulgated thereunder, including Rule 
+10b-5
+ and Regulation FD. Notwithstanding the foregoing, nothing set forth in this Section 6.4 or otherwise in this Agreement shall restrict CTS
+and its Representatives from engaging in purchase, sale and/or other transactions in or with respect to the Client’s securities that are not in violation of the Exchange Act, including Rule 
+10-b-5
+ and Regulation FD promulgated thereunder, whether as a result of exemptions from, exceptions to, or judicial determinations regarding, the laws, rules and regulations governing transactions while in
+possession of material 
+non-public
+ information, or for any other reason. 
+
+ARTICLE VI 
+
+Section
+ 6.1
+ 
+Dispute Notice and Response
+. Except as otherwise provided herein, any dispute, claim or
+controversy (individually and collectively, a “
+Dispute
+”) arising under or relating to this Agreement (or any Engagement Letter) which has not been resolved during the ordinary course of business between the Parties shall be resolved
+by such Party providing to the other Party written notice (a “
+Dispute Notice
+”) setting forth the position of the Party giving such Dispute Notice and a summary of arguments supporting such position, as well as the name and title of
+such Party’s Designated Representative. Within fifteen (15) calendar days after delivery of the Dispute Notice, the Party who received the Dispute Notice shall submit to the other Party a written response (the “
+Response
+”)
+setting forth the position of the Party responding to such Dispute Notice and a summary of arguments supporting such position, as well as the name and title of such Party’s Designated Representative. Within fifteen (15) calendar days after
+the delivery of the Response, the Designated Representatives of both Parties shall meet at a mutually acceptable location and time, and thereafter as often as they reasonably deem necessary, to attempt to resolve the Dispute through good faith
+negotiation. The Parties shall cooperate in good faith with respect to any reasonable requests for exchanges of information regarding the Dispute or a Response thereto. 
+
+Section
+ 6.2
+ 
+Senior Party Representatives
+. If the Dispute has not been resolved within sixty
+(60) calendar days after delivery of the Dispute Notice, or if the Designated Representatives of each Party fail to meet within fifteen (15) calendar days after delivery of the Response, the Parties shall refer the Dispute to executives of
+each Party hereto who have authority to settle the Dispute and who are at a higher level of management than the Designated Representatives (the “
+Senior Party Representatives
+”). Within fifteen (15) calendar days after the
+Parties have referred the Dispute to the Senior Party Representatives, the Senior Party Representatives of both Parties shall meet at a mutually acceptable time and place, and thereafter as often as they reasonably deem necessary, to attempt to
+resolve the Dispute. 
+ 
+Section
+ 6.3
+ 
+Legal Action
+. If the Dispute has not been resolved within thirty
+(30) calendar days after the Parties referred the Dispute to the Senior Party Representatives, or if the Senior Party Representatives of each Party fail to meet within fifteen (15) calendar days after such referral, either Party may
+commence legal action with respect to the Dispute subject to the terms of this Agreement. 
+ 
+Section
+ 6.4
+
+Settlement Discussions
+. All negotiations, conferences and discussions pursuant to this Article VI shall be confidential and shall be treated as compromise and settlement negotiations. Nothing said or disclosed, nor any document
+produced, in the course of such negotiations, conferences and discussions that is not otherwise independently discoverable shall be offered or received as evidence or used for impeachment or for any other purpose at trial or in any current or future
+arbitration, mediation or other proceeding. 
+ 
+Section
+ 6.5
+ 
+Equitable Remedies
+. Notwithstanding the
+foregoing or any other provision of this Agreement to the contrary, nothing set forth in this Article VI shall operate or be construed to operate to prevent either Party from seeking temporary equitable remedies, including temporary restraining
+orders, if, in such Party’s judgment, such action is necessary to avoid irreparable harm. Despite any such action, the Parties will continue to participate in good faith in the dispute resolution procedures described in this Article VI. 
+
+ARTICLE VII 
+
+INTELLECTUAL PROPERTY 
+
+Section
+ 7.1
+ 
+Client Deliverables
+. To the extent CTS performs any Consulting Services or Development
+Services for Client under an applicable SOW, CTS acknowledges and agrees that unless otherwise set forth in an applicable SOW, the results and proceeds of such Services shall be owned by Client including all Client Deliverables and the applicable
+Intellectual Property Rights in and thereto, and all derivative works created therefrom. CTS acknowledges and agree that any copyrightable works embodied in Client Deliverables will be “works made for hire” under the Copyright Act and that
+Client will be considered the author and owner of such copyrightable works. To the extent CTS have any right, title, or interest in and to Client Deliverables, upon payment, CTS hereby irrevocably assigns and unconditionally agrees to assign in the
+future to Client the applicable right, title, and interest and applicable Intellectual Property Rights in and to Client Deliverables. CTS waives and agrees never to assert, any and all moral rights that CTS, its employees or any other third party
+may have in or with respect to Client Deliverables and shall ensure that all personnel assign all right, title, and interest in and to the Consulting Services and Development Services to Client without further payment or royalty of any kind. CTS
+shall, at Client’s expense, cooperate with Client in executing any documents perfecting Client’s rights in and to Client Deliverables. 
+
+Section
+ 7.2
+ 
+CTS Materials
+. 
+
+(a) 
+Ownership of CTS Materials
+. CTS shall retain full, sole and exclusive ownership of all CTS Materials. Client shall not obtain or
+otherwise have any right, title, interest or license to any CTS Materials except as expressly set forth in an SOW or otherwise provided in this Agreement under Section 7.2(b) solely with respect to Client Deliverables. To the extent Client has
+or develops any right, title, or interest in and to the CTS Materials and all derivative works created therefrom or any other CTS IP (as defined below) under this Agreement, Client hereby irrevocably assigns and unconditionally agrees to assign in
+the future to CTS all right, title, and interest and any and all Intellectual Property Rights in and to the CTS Materials and CTS IP. Client will not challenge the validity of CTS’s ownership of the CTS Materials and CTS IP and hereby waives
+any and all claims and rights of any nature whatsoever (including any moral rights) that Client may now or hereafter have with respect to the CTS Materials and CTS IP. For clarity, to the extent CTS offers Client any software platforms, products,
+systems, or software as a service (“
+Software and SAAS products
+”), such Software and/or SAAS products shall be licensed to Client in a separately executed software or SAAS agreement between the Parties. 
+
+(b) 
+CTS Materials Incorporated into Client Deliverables
+. To the extent any CTS Materials are incorporated by CTS into any Client
+Deliverables commissioned by Client in connection with Consulting or Development Services provided by CTS under an applicable SOW, CTS hereby grants Client a perpetual, 
+non-transferable,
+ 
+non-exclusive
+ license upon payment of the applicable fees to use such CTS Materials solely as incorporated into Client Deliverables and solely to the extent necessary to make use of the Services. Client may
+sublicense these rights to service providers and contractors only to the extent such parties are providing services to Client in connection with Client’s internal 
+
+purposes only; provided that: (i) Client shall remain liable for the acts and omissions of such parties with respect to such sublicense; and (ii) each sublicense agreement:
+(A) shall provide that such agreement shall terminate upon any termination of the applicable SOW, (B) shall allow CTS to directly enforce the terms of the license, and (C) shall contain terms and conditions substantially similar to
+those of the applicable SOW with respect to the license. Under no circumstance shall Client use CTS Materials separate or apart from the Client Deliverables. 
+
+Section
+ 7.3
+ 
+Client Background Materials
+. As between CTS and Client, Client shall retain full, sole and
+exclusive ownership of Client Background Materials. Client hereby grants to CTS a 
+non-exclusive,
+ irrevocable, worldwide, fully 
+paid-up,
+ and royalty-free license to make,
+have made, import, use, reproduce, distribute, create derivative works of, perform, display, modify, maintain, and support Client Background Materials as necessary for CTS’s performance of the Services hereunder. 
+
+Section
+ 7.4
+ 
+Third Party Materials
+. To the extent CTS utilizes or otherwise licenses any materials,
+content, data, third party platforms, or open source from third parties (“
+Third Party Materials
+”) in connection with its performance of Services, such third parties shall retain all right, title, and interest in and such Third Party
+Materials, and CTS shall ensure that Client has the right to use such Third Party Materials in accordance with the objectives set forth in the applicable SOW and shall identify or otherwise disclose to Client any license or other limitations or
+restrictions in connection with Client’s use of Third Party Materials. Client shall comply with the applicable licenses and any disclosed limitations or restrictions and Client shall only receive the benefit of, and be subject to, the liability
+or other limitations of the licenses procured by CTS in connection with the use of such Third Party Materials. CTS makes no representations or warranties with respect to the use of such Third Party Materials other than Client receiving the benefit
+of any representations, warranties, and indemnities, if any, made available by the applicable third party in the applicable third party license. 
+
+Section
+ 7.5
+ 
+Feedback
+. To the extent Client provides any feedback or other input, comments, suggestions
+related to the enhancement or other improvement of the Services (“
+Feedback
+”), Client hereby agrees to assign all right, title, and interest in and to such Feedback to CTS and CTS may use or otherwise incorporate such Feedback into
+the CTS IP without restriction or royalty of any kind to Client or any third party. 
+ 
+Section
+ 7.6
+
+Reservation of Rights and Restrictions on Use of CTS IP
+. CTS reserves all right, title, and interest in and to the CTS Materials and all Intellectual Property Rights associated therewith (collectively, the “
+CTS IP
+”).
+CTS does not grant Client any rights in and to the same except as expressly provided hereunder. Any purpose or use not specifically authorized by CTS therein is prohibited unless otherwise agreed to in writing by CTS. Without limiting the foregoing,
+Client shall not, except as otherwise provided in this Agreement or an SOW, at any time, directly or indirectly: (i) copy, modify, or create derivative works of the CTS IP, in whole or in part; (ii) rent, lease, lend, sell, sublicense,
+assign, distribute, publish, transfer, or otherwise make available the CTS IP; (iii) reverse engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to the source of the CTS IP or methods used to compile
+the CTS IP, in whole or in 
+
+part; (iv) remove any proprietary notices included within the CTS IP; (v) publish, enhance, or display any compilation or directory based upon information derived from the CTS IP; or
+(vi) use the CTS IP in any manner or for any purpose that infringes, misappropriates, or otherwise violates any intellectual property right or other right of any person, or that violates any applicable law, rule or regulation. 
+
+ARTICLE VIII 
+ 
+DATA
+SECURITY 
+ 
+Section
+ 8.1
+ 
+Data Security
+. Each party agrees to maintain an industry standard
+information security program which contains appropriate administrative, technical and physical safeguards to protect and ensure the security and confidentiality of protect against unauthorized access to, or use of each party’s Confidential
+Information or any data in its possession as it relates to this Agreement. 
+ 
+Section
+ 8.2
+ 
+Disaster
+Recovery
+. Each Party shall maintain disaster recovery, business resumption, and contingency plans appropriate for the nature and scope of its responsibilities in respect of the Services, the activities of such Party, and the obligations to
+be performed by such Party hereunder and also, in the case of Client, as required by applicable laws, and in the case of CTS, reasonably sufficient to enable Client to promptly resume the performance of its obligations hereunder in the event of a
+natural disaster, destruction of facilities or operations, utility or communication failures. CTS shall make available on a strictly confidential basis to Client for 
+on-site
+ review (but not to copy or remove)
+high level summaries of all such disaster recovery, business resumption, and contingency plans. CTS shall periodically test in its normal course of business and in accordance with industry standards such disaster recovery, business resumption, and
+contingency plans as may be appropriate and prudent in light of the nature and scope of its activities and operations and its obligations hereunder. Each Party shall promptly provide written notice to the other Party of the occurrence of any changes
+or disruptions in the equipment, facilities, systems, staffing, or other arrangements or contracts with third parties which may in any material respect have the effect of impairing, disrupting, or preventing the timely and full performance by such
+Party of its obligations under this Agreement. In the event either Party has actual knowledge that its proprietary information technology services or programs have been breached or otherwise subject to unauthorized access (“Breached
+Party”), the Breached Party shall notify the other Party no later than (3) business days of confirming the occurrence of such breach. At such time of notification, the Parties shall jointly develop an incident response plan in accordance
+with applicable data security notification laws. All costs related to the Parties’ activities undertaken pursuant to this Section shall be borne by the Breached Party to the extent such Breached Party is in material breach of the Agreement or
+is grossly negligent where such breach or gross negligence causes the remediation costs. 
+
+ARTICLE IX 
+
+TERM AND TERMINATION 
+
+Section
+ 9.1
+ 
+Term
+. This Agreement shall become effective as of the Effective Date and shall continue
+thereafter until written notice from either Party terminating this Agreement in its entirety is provided to the other Party. 
+
+Section
+ 9.2
+ 
+Termination
+. Unless certain Services are deemed
+
+non-cancellable
+ under an applicable SOW, either party may terminate this Agreement or any SOW upon thirty (30) Business Days after the delivery of written notice to the other Party 
+provided
+
+however
+, that any such termination of one or more specific Services or SOWs will not, in itself, cause the termination of this Agreement. 
+
+Section
+ 9.3
+ 
+Termination for Breach
+. If either Party breaches any material terms or conditions of this
+Agreement, then the other Party may give written notice to the breaching party that if the breach (if curable) is not cured within thirty (30) days of the date of such written notice, the Agreement will be terminated. 
+
+Section
+ 9.4
+ 
+Termination for Bankruptcy
+. Either Party may terminate this Agreement, effective
+immediately upon written notice to the other Party, if the other Party: (A) becomes insolvent or is generally unable to pay, or fails to pay, its debts as they become due; (B) files or has filed against it, a petition for voluntary or
+involuntary bankruptcy or otherwise becomes subject, voluntarily or involuntarily, to any proceeding under any domestic or foreign bankruptcy or insolvency law; (C) makes or seeks to make a general assignment for the benefit of its creditors;
+or (D) applies for or has appointed a receiver, trustee, custodian, or similar agent appointed by order of any court of competent jurisdiction to take charge of or sell any material portion of its property or business. 
+
+Section
+ 9.5
+ 
+Effect of Termination
+. Upon the termination of any SOW or this Agreement, Client shall
+promptly pay to CTS all amounts accrued through the effective date of such termination and upon such payment, CTS shall deliver to Client all Client Deliverables (including any works in progress with respect to such Client Deliverables.
+Notwithstanding any other provision of this Agreement to the contrary, the provisions of Article I, Article III, Article IV, Article V (for five (5) years, except for personally identifiable information which shall be kept confidential in
+accordance with applicable laws and with respect to trade secrets, in perpetuity), Article VI, Article X, and Article XI, and Section 7.2 and Section 7.5 of this Agreement shall survive the termination of this Agreement and any SOW. 
+
+ARTICLE X 
+
+REPRESENTATIONS AND WARRANTIES; DISCLAIMER 
+
+Section
+ 10.1
+ 
+Representations and Warranties
+. 
+
+10.1.1
+ 
+By Both Parties
+. Each Party hereby represents and warrants that, as of the Effective Date and at all times
+thereafter (i) each Party has the legal authority to execute and perform this Agreement, (ii) this Agreement constitutes a valid and binding obligation enforceable against such Party according to its terms, and (iii) the execution and
+delivery of this Agreement does not, and the performance by each Party of its respective obligations hereunder shall not, with or without the giving of notice or the passage of time, or both (x) violate any judgment, writ, injunction, or order
+of any court, arbitrator, or governmental agency applicable to such Party, or (y) conflict with, result in the breach of any provisions of or the termination of, or constitute a default under, any agreement (including any confidentiality, 
+non-solicitation,
+ 
+non-competition
+ or similar agreement) to which the representing Party is a party or by which it may otherwise be bound. 
+
+10.1.2
+ 
+By CTS
+. CTS hereby represents and warrants to Client that:
+(i) exclusive of any Third Party Materials, it holds all rights that are necessary to grant CTS the license rights in the CTS IP under this Agreement: (ii) the Services will be provided in compliance with all federal, state, and local
+laws, rules, and regulations applicable to CTS; and (iii) the Services will be performed in a workmanlike, competent and timely manner pursuant to the specific terms of the applicable SOW. 
+
+10.1.3
+ 
+By Client
+. Client hereby represents and warrants to CTS that (i) it holds all rights including without
+limitation, all necessary consents, permissions or other clearances necessary to grant CTS the license and usage rights in Client Background Materials under this Agreement; (ii) Client shall comply with all federal, state, and local laws,
+rules, and regulations applicable to Client. 
+ 
+Section
+ 10.2
+ 
+Disclaimer
+. EXCEPT FOR THE EXPRESS
+WARRANTIES STATED IN THIS ARTICLE X, THE SERVICES ARE PROVIDED ON AN “AS IS” BASIS AND THE RECEIPT AND USE OF THE SERVICES BY CLIENT AND ITS AFFILIATES IS AT THEIR OWN RISK AND CTS DISCLAIMS ANY ASSURANCE OR WARRANTY REGARDING THE PAST OR
+CONTINUED SUPPLY, ACCURACY, CALCULATION OR PUBLICATION OF THE SERVICES AND ANY CTS IP, AND CTS DOES NOT GUARANTEE ANY SPECIFIC RESULTS FROM CLIENT’S USE OF THE SERVICES OR ANY CTS IP. CTS DOES NOT MAKE, AND HEREBY DISCLAIMS, ANY AND ALL OTHER
+WARRANTIES, WHETHER EXPRESS OR IMPLIED (BY OPERATION OF LAW OR OTHERWISE) INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, 
+NON-INFRINGEMENT
+ AND TITLE AND ANY WARRANTIES ARISING FROM
+ANY COURSE OF DEALING, USAGE, OR TRADE PRACTICE, LOSS OF OR DAMAGE TO DATA, LOSS OF BUSINESS OR LOST PROFITS. NOTWITHSTANDING ANYTHING TO THE CONTRARY, CTS SHALL NOT BE LIABLE FOR ANY THIRD PARTY HOSTING OR OTHER SERVICE PROVIDER INCLUDING WITHOUT
+LIMITATION, IN CONNECTION WITH THE PERFORMANCE OF MANAGEMENT OR OTHER SERVICES BY CTS UNLESS CTS IS GROSSLY NEGLIGENT OR COMMITS AN ACT OF WILFUL MISCONDUCT. 
+
+ARTICLE XI 
+
+INDEMNIFICATION; LIMITATIONS OF LIABILITY 
+
+Section
+ 11.1
+ 
+Indemnification of CTS
+. Client hereby agrees to indemnify and hold harmless CTS, its
+Affiliates (to the extent CTS’ Affiliates is performing Services for Client hereunder) and each of their respective officers, directors, members, managers, employees, shareholders, financial and legal advisors, predecessors, successors and
+assigns (individually and collectively, the “
+CTS
+ Indemnitees
+”) against all third party claims, damages, liabilities, losses, expenses and costs (including reasonable fees and expenses of attorneys and other
+professionals) arising out of, resulting from, or relating to (i) the provision by or on behalf of Client of any materials, data or assets to CTS; (ii) any violation by Client of the rights of third parties in connection with the use of
+Third Party Materials; (iii) the gross negligence or willful misconduct of Client or any of its personnel; or (iv) breach by Client of any of its representations and warranties hereunder. 
+
+Section
+ 11.2
+ 
+Indemnification of Client
+. CTS hereby agrees to indemnify and hold harmless Client, its
+Affiliates and each of their respective officers, directors, members, managers, employees, shareholders, financial and legal advisors, predecessors, successors and assigns (individually and collectively, the “
+Client Indemnitees
+”)
+against all third party claims, damages, liabilities, losses, expenses and costs (including reasonable fees and expenses of attorneys and other professionals) arising out of, resulting from, or relating to third party claims that (i) the
+provision of any CTS Materials or Client Deliverables to Client whereby such CTS Materials and/or Client Deliverables infringe the copyright or trade secret rights of a third party; or (ii) the gross negligence or willful misconduct of CTS or
+CTS Personnel. 
+ 
+Section
+ 11.3
+ 
+Exclusions
+. Notwithstanding Section 11.2 and anything to the
+contrary, CTS shall not be liable to Client including with respect of its indemnification obligations in connection with (i) any or misuse by Client of CTS Materials, CTS IP, Client Deliverables or the Services; and (ii) any combination or
+modification of the CTS Materials, CTS IP, Client Deliverables or the Services in a manner that but for such combination or modification, the claim or loss would not have arisen. 
+
+Section
+ 11.4
+ 
+Indemnity Procedures
+. Upon the assertion of any claim or the commencement of any suit or
+proceeding against either CTS Indemnitees or Client Indemnitees (each an “indemnitee” as applicable) by a third party that may give rise to liability of an indemnitor hereunder, the indemnitee promptly shall notify the indemnitor of the
+existence of such claim, suit or proceeding and the indemnitor shall defend and/or settle the claim at indemnitor’s own expense and with counsel of indemnitor’s own selection; provided, however, the indemnitor will not, absent the written
+consent of the indemnitee consent to the entry of any judgment or enter into any settlement that (1) provides for any relief other than the payment of monetary damages for which the indemnitor shall be solely liable and (2) where the
+claimant or plaintiff does not release the indemnitee, its affiliates and its respective directors, officers, employees, agents and representatives, as the case may be, from all liability in respect thereof. In no event shall the indemnitee be
+liable for any claims that are compromised or settled in violation of this Section 11.4. At its own expense, an indemnitee shall at all times have the right to: (i) hire counsel of its own selection to provide its defense and
+(ii) fully participate in any settlement that it reasonably believes would have an adverse effect on its business. 
+
+Section
+ 11.5
+ 
+Limitation of Liability
+. Other than in
+respect of any breach of confidentiality obligations contained in this Agreement or Client’s payment obligations, neither Party shall be liable to the other (or to any of the other Party’s Affiliates) for any indirect, consequential,
+incidental, exemplary or special losses or damages, punitive damages, lost profits, lost revenues or diminution in value including, but not limited to, loss of goodwill, even if such Party is advised or otherwise aware of the potential for such
+losses or damages, in connection with performance of their respective obligations under this Agreement. The liability of either Party for damages resulting from performance or 
+non-performance
+ under this
+Agreement or any SOW, regardless of the form of action, and whether in contract, tort (including negligence), warranty or other legal or equitable grounds, shall in no event exceed the aggregate amount that Client actually pays to CTS in connection
+with the provision of Services during the twelve (12) month period immediately preceding the date upon which such Party receives an award of damages. Notwithstanding the foregoing, this limitation on direct damages shall not apply to
+(i) Client’s payment obligations; (ii) losses by either Party for death or bodily injury, (iii) damages suffered by a Party as a result of the gross negligence or willful misconduct of the other Party, or (iii) in respect of
+each Parties indemnification obligations set forth in this Article XI. 
+ 
+ARTICLE XII 
+
+MISCELLANEOUS 
+
+Section
+ 12.1
+ 
+Non-Solicitation
+. During the term of this
+Agreement and for a period of one (1) year thereafter, neither Party will directly or indirectly solicit the services of any employee or consultant of the other Party for the Party’s own benefit or for the benefit of any other person or
+entity provided, that neither Party shall be precluded from hiring any employee or consultant of the other Party who (i) responds to a general solicitation through a search firm or advertisement or (ii) contacts the hiring Party at its own
+initiative without direct or indirect solicitation from such hiring Party. 
+ 
+Section
+ 12.2
+ 
+No
+Waiver
+. Except to the extent otherwise specified in this Agreement or an SOW, (a) no delay or failure on the part of a Party to exercise any right, power or privilege under this Agreement shall operate or be construed to operate as any
+sort of waiver, release or modification of such right, power or privilege, nor shall the exercise by a Party of any single right, power or privilege, or any portion thereof, operate or be construed to operate as any sort of release, waiver or
+modification of any other right, power or privilege, or the remaining portion thereof, and (b) the rights and remedies set forth in this Agreement shall be cumulative and not exclusive of any rights or remedies provided by law. 
+
+Section
+ 12.3
+ 
+Independent Contractor
+. CTS is an
+independent contractor and nothing in this Agreement will be construed as establishing an employment or agency relationship between Client and CTS or any CTS personnel. CTS has no authority to bind Client by contract or otherwise. CTS will perform
+Services under the general direction of Company, but CTS will determine, in CTS’s sole discretion, the manner and means by which Services are accomplished, subject to the requirement that CTS will at all times comply with applicable law.
+Nothing contained in this Agreement shall be construed to create a joint venture or partnership between the Parties. 
+
+Section
+ 12.4
+ 
+Severability
+. If any provision of this Agreement is determined by any court of competent
+jurisdiction to be invalid, illegal, or unenforceable in whole or in part, and such determination becomes final, such provision or portion thereof shall be deemed to be severed or limited to the extent required to render the remaining provisions and
+portions of this Agreement valid, legal or enforceable, and the Agreement shall be enforced to give effect to the intention of the Parties to the maximum extent possible. The invalidity of unenforceability of any provision of this Agreement shall in
+no way affect the validity or enforceability of any other provision. 
+ 
+Section
+ 12.5
+ 
+Applicable Law,
+Jurisdiction and Waiver of Jury Trial
+. This Agreement and all SOWs, and any Exhibits and/or Schedules attached thereto, are made under and shall be construed and interpreted in accordance with, and governed by, the internal laws of the State
+of New York, without regard to the conflict of law principles thereof other than 
+Section 5-1401
+ of the New York General Obligations Law. With respect to any such actions or controversies, the Parties
+hereto hereby (a) irrevocably consent and submit to the sole exclusive jurisdiction of the United States District Court for the Southern District of New York located in Manhattan, or the Courts of the State of New York located in Manhattan,
+(b) irrevocably waive, to the fullest extent permitted by law, any objection that any of them may now or hereafter have to the laying of the venue of any such actions or controversies in any such courts or that any such any such actions or
+controversies which is brought in any such courts has been brought in an inconvenient forum. EACH OF THE PARTIES HEREBY WAIVES ITS RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING, OR COUNTERCLAIM BROUGHT BY OR ON BEHALF OF A PARTY WITH RESPECT TO
+ANY MATTER RELATING TO OR ARISING OUT OF THE SOW OR THE PERFORMANCE OR 
+NON-PERFORMANCE
+ OF THE PARTIES HEREUNDER. 
+
+Section
+ 12.6
+ 
+Attorneys’ Fees
+. If any action is necessary to enforce the terms of this Agreement,
+the substantially prevailing Party will be entitled to reasonable attorneys’ fees, costs and expenses in addition to any other relief to which such prevailing Party may be entitled. 
+
+Section
+ 12.7
+ 
+Entire Agreement
+. Except as otherwise provided herein, this Agreement and any related
+SOWs, and any Exhibits and/or Schedules attached thereto, including any exhibits and schedules thereto, contain the entire understanding of the Parties with respect to its subject matter, and supersedes and replaces any prior agreements,
+understandings or promises relating to the subject matter hereof and thereof. 
+
+Section
+ 12.8
+ 
+Amendment; Modification
+. No supplement,
+modification, termination, amendment or waiver of any provision of this Agreement shall be binding unless executed in writing by both Parties. 
+
+Section
+ 12.9
+ 
+Force Majeure
+. Neither CTS nor Client shall be liable for any delay in performance or
+failure to perform any obligation (other than payment obligations) under this Agreement to the extent such delay is due to causes beyond its control and is without its fault or negligence including, but not limited to, natural disasters,
+governmental regulations or orders, civil disturbance, war conditions, cyber terrorism or malicious acts of third parties, acts of terrorism or strikes, lock-outs or other labor disputes (a “
+Force Majeure Condition
+”). The
+performance of any obligation suspended due to a Force Majeure Condition will resume as soon as reasonably possible as and when such Force Majeure Condition subsides. To the extent a Force Majeure Condition lasts longer than thirty (30) days,
+either party may terminate any applicable SOW or this Agreement in accordance with its terms. 
+ 
+Section
+ 12.10
+
+Successors and Assigns
+. This Agreement shall be binding upon and inure to the benefit of the Parties and their respective permitted successors and assigns. Notwithstanding the foregoing, neither Party may assign, delegate, or otherwise
+transfer any of its rights or obligations under this Agreement, by operation of law or otherwise, to any Person without the written consent of the other Party, which consent shall not be unreasonably withheld, delayed, conditioned or denied;
+provided that CTS may assign, delegate, or otherwise transfer any of its rights or obligations under this Agreement to one of its direct or indirect Affiliates. 
+
+Section
+ 12.11
+ 
+Notices
+. All notices, requests and other communications to any Party hereunder
+(“
+Notices
+”) shall be in writing (including facsimile or similar writing) and shall be given to such Party at its address or facsimile number as set forth below, or such other address or facsimile number as such Party may hereinafter
+specify for the purpose of giving notice hereunder to the Party giving such Notice. Each such Notice shall be deemed delivered (i) if given by facsimile, when such facsimile is transmitted to the facsimile number specified pursuant to this
+Section 12.11 and the appropriate facsimile confirmation is received, (ii) if given by U.S. mail, three (3) days after such Notice is deposited in the mail, certified mail, return receipt requested, postage prepaid, addressed as set
+forth below, (iii) if given by personal delivery, when personally delivered, (iv) if given by nationally recognized overnight courier, on the Business Day after such notice is delivered to such courier or (v) if given by any other
+means, when delivered, at the address as follows: 
+ 
+If to Client, to: 
+
+Cerberus Telecom Acquisition Corp. 
+
+c/o Cerberus Capital Management, L.P. 
+
+875 Third Avenue 
+ 
+New York, NY
+10022 
+ 
+Attention: Bill Kloos 
+
+Secretary 
+
+If to CTS, to: 
+
+Cerberus Technology Solutions, LLC 
+
+875 Third Avenue, 3rd Floor 
+
+New York, NY 10022 
+ 
+-and- 
+
+Cerberus Technology Solutions, LLC 
+
+875 Third Avenue, 3rd Floor 
+
+New York, NY 10022 
+ 
+Attn:
+Office of the General Counsel 
+ 
+With a copy to: 
+
+Ethan Skerry 
+ 
+c/o
+Fenwick & West LLP 
+ 
+902 Broadway #14 
+
+New York, NY 10010 
+
+Section
+ 12.12
+ 
+Third-Party Beneficiaries
+. Nothing in this Agreement, whether express or implied,
+confers upon any Person, other than the Parties and their successors and permitted assigns, any rights or remedies under or by reason of this Agreement, except as and to the extent set forth in, Article XI (Indemnification; Limitations on
+Liability), which such Articles shall inure to the benefit of the Persons specified therein as third-party beneficiaries with rights to enforce the provisions set forth thereunder. 
+
+Section
+ 12.13
+ 
+Counterparts; Facsimile or Electronic Signature
+. This Agreement may be executed in two
+or more counterparts, any of which may be signed and exchanged by facsimile or 
+e-mail,
+ and all of which together shall constitute one and the same agreement. 
+
+Section
+ 12.14
+ 
+No Strict Construction
+. In the event of any ambiguity regarding the terms or intent of
+any provisions of this Agreement (or any SOW), this Agreement (and such SOW) shall not be strictly construed against, and no inferences shall be drawn against, any Party by reason of the fact that such Party may have drafted such particular
+provision. 
+ 
+***Remainder of Page Intentionally Left Blank - Signatures on Following Page*** 
+
+IN WITNESS WHEREOF
+, each of the Parties hereto has caused this Agreement to be
+executed by its duly authorized representative effective as of the date first above written. 
+ 
+ 
+
+CERBERUS TELECOM ACQUISITION CORP.
+
+By:
+
+ 
+
+/s/ William Kloos
+
+ 
+
+Name: William Kloos
+
+ 
+
+Title: Secretary
+
+Cerberus Technology Solutions, LLC
+
+By:
+
+ 
+
+/s/ Leonard Laufer
+
+ 
+
+Name: Leonard Laufer
+
+ 
+
+Title: Chief Executive Officer
+
+Exhibit A 
+
+Form A of Statement of Work – With Client Deliverabeles 
+
+This Statement of Work #1 [(this “
+SOW No.
+ 1
+”)] is issued under and subject to all of the terms and conditions of the
+Master Services Agreement dated as of ______________, 2019 (the “
+Agreement
+”), between Cerberus Technology Solutions, LLC a Delaware limited liability company with offices at 875 Third Avenue, Third Floor, New York, NY 10022
+(“
+CTS
+”), and [___], a [____] [entity], with offices at [__] (“
+Client
+”), and is made and entered into as of ___________, 2019. Any capitalized terms used herein but not defined shall have the meaning set forth in the
+Agreement. 
+ 
+ 
+
+I.
+
+ 
+Background and Objectives 
+
+ 
+
+ 
+
+A.
+
+ 
+Scope of Work: 
+
+ 
+
+ 
+
+1.
+
+ 
+Workstreams 
+ 
+
+ 
+
+ 
+
+2.
+
+ 
+Activities 
+ 
+
+ 
+
+II.
+
+ 
+Client Data, Client Background Materials and Client Deliverables 
+
+ 
+
+ 
+
+A.
+
+ 
+Client Data
+. Client shall provide the following Client Data in connection with this SOW
+No. 1: 
+ 
+ 
+
+ 
+
+1.
+
+ 
+[Client import/export data]
+ - 
+
+ 
+
+ 
+
+B.
+
+ 
+Client Background Materials
+. The items identified a Client Background Materials are as
+follows: 
+ 
+ 
+
+ 
+
+1.
+
+ 
+[
+Specify exactly the Client Background Materials
+] 
+
+C.
+ 
+Client Deliverables/Client Reporting/Data Insights
+. Based on the work streams contemplated above, the following Client
+Deliverables will be produced at the conclusion of this SOW No. 1: 
+ 
+ 
+
+ 
+
+1.
+
+ 
+Client Deliverables
+ 
+
+[Specify exactly the Client Deliverables] 
+ 
+ 
+
+ 
+
+2.
+
+ 
+Licensing
+ 
+
+[Specify any special licensing terms] 
+
+ 
+
+3.
+
+ 
+Acceptance Criteria
+ 
+
+All Client Deliverables under this SOW No. 1 will be deemed accepted by Client upon delivery, unless Client provides written notice to
+CTS within 7 days of such delivery specifically identifying the manner in which the Client Deliverables fail to materially comply with their applicable specifications (in which case CTS shall have the right to make such corrections to the Client
+Deliverables as it deems appropriate to satisfy the specifications and present the same to Client for acceptance pursuant to this paragraph). Any use of the Client Deliverables by Client following presentment shall constitute acceptance. 
+
+CTS and the CTS Professionals shall be excused for a failure or delay in performance of obligations under this SOW No. 1 to extent 
+non-performance
+ is caused by act or omission of the Client, so long as CTS promptly provides written notice to the Client of any expected failure or delay and uses all reasonable efforts to avoid and minimize the
+impact of any such failure or delay. 
+ 
+ 
+
+ 
+
+4.
+
+ 
+Ownership of Data
+ 
+
+For the avoidance of doubt, CTS reserves all right, title and interest in and to the CTS Data Models, CTS Data and the Data Reference
+Architecture, and may use any of the foregoing without any restriction in connection with its business purposes. CTS does not grant any rights in and to the same except as expressly provided hereunder or in the Agreement. Any access rights that
+Client may have in and to CTS Data shall solely be in accordance with the applicable SOW and shall cease as of the expiration of the term of the applicable SOW. The CTS Data Models, CTS Data and the Reference Data Architecture are deemed to be CTS
+IP (as defined in Section 7.6 of the Agreement). 
+ 
+Client shall own all right, title, and interest in and to (i) any and all
+Client Data provided to CTS and (ii) any and all Data Insights provided by CTS in connection with Data Modeling Services. CTS hereby assigns all Intellectual Property Rights in and to the Data Insights to Client and Client may use such Data
+Insights (in the context of any reports provided by CTS) in connection with its business purposes; provided that Client may not store any Data Insights or otherwise have access to any CTS IP or CTS systems after the expiration of the term of the
+applicable SOW. The Client hereby grants to CTS a 
+non-exclusive,
+ irrevocable, worldwide, fully 
+paid-up,
+ and royalty-free license to make, have made, import, use,
+reproduce, distribute, create derivative works of, perform, display, modify, maintain, and support the Client Data and Data Insights solely as necessary for CTS’ performance of the Services hereunder, and, during or after the Term, CTS may
+further use any data (including any Client Data) provided to CTS or any Data Insights provided by CTS under this Agreement or any SOWs for its own business purposes or to otherwise improve its products or services, provided that use of such data
+shall be only to the extent such data is first anonymized or aggregated and does not identify Client or Client’s products or services in any manner. 
+
+“
+Client Data
+” means all raw data provided by Client to CTS as further
+described in this SOW and any other applicable SOWs. 
+ 
+“
+CTS Data
+” means data that is owned by CTS prior to or independent
+of this SOW or any other applicable SOWs and any 
+de-identified
+ data that is otherwise generated by CTS in its performance of Services including without limitation, all derived data, and any data that is
+appended, extrapolated, modified, altered, transformed, compiled, or otherwise adapted or enhanced by CTS or any new data sets learned or otherwise developed, compiled, or organized by CTS using any CTS IP. 
+
+“
+CTS Data Model
+” means any scalable data model used and/or developed by CTS to analyze and organize data objects in the
+Reference Data Architecture and such data objects’ relationship to other data objects in the Reference Data Architecture. 
+
+“
+Data Modeling Services
+” shall mean those Services provided by CTS using CTS Data Models to provide certain Data Insights to
+Client as specified in and in accordance with this SOW and any other applicable SOWs. 
+ 
+“
+Data Insights
+” shall mean the
+specific data output in connection with Client’s products and services provided by CTS to Client in the format delivered to Client as further described in this SOW and any other applicable SOWs. 
+
+“
+Reference Data Architecture
+” means the CTS owned and proprietary infrastructure, compromised of, without limitation, any and
+all hardware, software, models, policies, schema, rules, functional components, roadmaps, specifications, environments, and/or standards, among others, of processes and inter-related functional components that dictate how data interacts and is
+consumed from the identification and translation of data objects to the utilization of such data objects in one or more CTS Data Models, which includes the translation of data objects from various sources into a single and relatable language; how
+such data objects, individually and aggregately, are meaningfully defined, tagged, tracked, and attributed from various sources; the storage and/or arrangement of such data objects; how such data objects communicate with other data objects; the
+accuracy and correctness of such communication between and/or among the data objects; the robustness of the communication between and/or among the data objects; and related security protocols that are integrated and applied at each stage. 
+
+III.
+
+ 
+Project Management 
+
+ 
+
+ 
+
+A.
+
+ 
+Governance Framework 
+
+ 
+
+ 
+
+B.
+
+ 
+Project Management 
+
+ 
+
+IV.
+
+ 
+Fees, Expenses and Billing 
+
+ 
+
+ 
+
+A.
+
+ 
+Fees 
+
+[CTS Service Fees for work performed under this SOW No. 1 will be billed on an hourly basis according to the amount of time utilized by
+the respective CTS Professionals multiplied by each such professional’s respective hourly rate. The rates for the CTS Professionals vary according to the experience of the individuals. The hourly billing rates of the CTS Professionals shall be
+provided to Client under separate cover. 
+ 
+ 
+
+ 
+CTS Professional
+
+  
+
+Anticipated Time
+Commitment
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+Based on the hourly billing rates of the individuals set forth above, and the anticipated time commitment for
+such persons during the course of this SOW No. 1, CTS estimates that its aggregate Service Fees for Advisory Services rendered during the term of this SOW No. 1 will be approximately $[
+______________
+]. For the avoidance of doubt,
+Client shall only be billed for the hours actually worked by the CTS Professionals multiplied by the hourly rate for each such professional who provided such services.] 
+ 
+ 
+
+ 
+
+B.
+
+ 
+Expenses 
+
+[In addition to the Service Fees, CTS estimates that the CTS Professionals will incur and bill to Client on a pass through basis 
+out-of-pocket
+ expenses in the aggregate amount of approximately $[
+__________
+], based upon three team trips to various Client locations and presuming airfare, hotel,
+meals and other reasonable and necessary travel related expenses. The CTS Professionals shall comply with the CTS’ travel policy then in effect and provide the Client with supporting documentation in respect of all expenses.] 
+
+ 
+
+ 
+
+C.
+
+ 
+Billing 
+
+[Based on the above, it is estimated that the total billing (i.e., Service Fees and related expenses) for this SOW No. 1 (anticipated from
+the Effective Date through [________________]) shall be approximately $[
+____________
+]. If during the course of providing the Services CTS anticipates that there will be any significant deviation from this estimate (either with respect to
+Service Fees or expenses), CTS will promptly notify 
+
+Client of such deviation so that the Parties can discuss the reasons and mutually agree on changes in scope or estimated fees or expenses. Upon completion of this SOW No. 1, CTS shall
+provide Client with a final invoice which will set forth a final accounting of hours and expenses. Such invoice will be due upon presentation and payable no later than 30 days after the date thereof. Should any invoice remain unpaid for more than 30
+days after the date thereof, interest shall be paid at the lesser of a rate of 1.5% per month or the maximum amount permissible by law per month.] 
+ 
+ 
+
+V.
+
+ 
+Communication and Reporting 
+
+[[The CTS Professionals will provide all Client Deliverables in [electronic form, PowerPoint, Excel, or Word, as deemed appropriate by the CTS
+Professionals based on the deliverable specific content]]. Additionally, the CTS Professionals will submit, electronically, a weekly status report, which shall include amounts for service fees and related expenses incurred to date. The status report
+will provide progress against planned milestones, identified risks and issues, and completion of planned deliverables. A weekly call will be held at which verbal discussion of progress and/or needs may take place including executive management
+opportunity to be verbally briefed.] 
+ 
+ 
+
+VI.
+
+ 
+Availability of Client Resources 
+
+CTS’ ability to provide the Services and deliver the Client Deliverables is subject to the Client providing reasonable access to all
+resources required to meet the terms set out in this SOW No. 1, including, but not limited to, office and company locations, employees, and technology systems and the following: 
+
+ 
+
+ 
+
+1.
+
+ 
+[Designation of a dedicated project manager to serve as a point of key point of contact for the CTS
+Professionals; 
+ 
+ 
+
+ 
+
+2.
+
+ 
+Data on the stations is accessible and can be transported to a CTS supported cloud environment;
+
+ 
+ 
+
+ 
+
+3.
+
+ 
+A Monthly Steering Committee, chaired by project champion, to drive use case prioritization, project updates,
+and future funding considerations; 
+ 
+ 
+
+ 
+
+4.
+
+ 
+The CTS Professionals will have access to Client subject matter experts within the various operating units,
+including but not limited to: operations, finance, information technology, business management; and 
+ 
+ 
+
+ 
+
+5.
+
+ 
+The CTS Professionals will have access to Client Data, Client Background Materials, systems, and tools within
+the various operating units, including, but not limited to, operations, finance, information technology, business management.] 
+ 
+ 
+
+VII.
+
+ 
+Data Processing Addendum 
+
+[Attached hereto as Addendum A is a Data Processing Addendum which is hereby incorporated into this [SOW No. 1] and made a part hereof by
+this reference. To the extent that CTS should receive, have access to or process personal information protected by the EU General Data Protection Regulation 2016/679 and EU Member State implementing laws and regulations (the “
+GDPR
+”)
+during the course of the engagement, the Parties shall abide by the terms and conditions set forth in the Data Processing Addendum.] 
+
+IN WITNESS WHEREOF
+, each of the Parties hereto has caused this SOW No. 1 to be
+executed by its duly authorized representative effective as of the date first above written. 
+ 
+ 
+
+[_______________________]
+
+By:
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Title:
+
+Cerberus Technology Solutions, LLC
+
+By:
+
+ 
+
+                    
+
+ 
+
+Name:
+
+ 
+
+Title:
+
+Form B of Statement of Work – License of CTS Products 
+
+This Statement of Work #1 [(this “
+SOW No.
+ 1
+”)] is issued under and subject to all of the terms and conditions of the
+Master Services Agreement dated as of ______________, 2019 (the “
+Agreement
+”), between Cerberus Technology Solutions, LLC a Delaware limited liability company with offices at 875 Third Avenue, Third Floor, New York, NY 10022
+(“
+CTS
+”), and [___], a [____] [entity], with offices at [__] (“
+Client
+”), and is made and entered into as of ___________, 2019. Any capitalized terms used herein but not defined shall have the meaning set forth in the
+Agreement. 
+ 
+ 
+
+I.
+
+ 
+Product to be Licensed 
+
+ 
+
+ 
+
+A.
+
+ 
+Product
+ 
+
+[Specify exactly the Product to be licensed] (the “
+Product
+”) 
+
+ 
+
+ 
+
+B.
+
+ 
+Use of the Product
+ 
+
+Product shall only be used for the following purpose [___________________] 
+
+ 
+
+ 
+
+C.
+
+ 
+License Terms
+ 
+
+[Specify licensing terms] 
+ 
+ 
+
+ 
+
+D.
+
+ 
+[
+Acceptance Criteria
+ 
+
+All Client Deliverables under this SOW No. 1 will be deemed accepted by Client upon delivery, unless Client provides written notice to CTS
+within 7 days of such delivery specifically identifying the manner in which the Client Deliverables fail to materially comply with their applicable specifications (in which case CTS shall have the right to make such corrections to the Client
+Deliverables as it deems appropriate to satisfy the specifications and present the same to Client for acceptance pursuant to this paragraph). Any use of the Client Deliverables by Client following presentment shall constitute acceptance. 
+
+CTS and the CTS Professionals shall be excused for a failure or delay in performance of obligations under this SOW No. 1 to extent 
+non-performance
+ is caused by act or omission of the Client, so long as CTS promptly provides written notice to the Client of any expected failure or delay and uses all reasonable efforts to avoid and minimize the
+impact of any such failure or delay.] 
+
+ 
+
+E.
+
+ 
+Ownership of the Product and related Intellectual Property 
+ 
+
+For the avoidance of doubt, CTS reserves all right, title and interest in and to the Product, including, without limitation, all CTS Data
+Models, CTS Data and the Data Reference Architecture imbedded therein, and may use any of the foregoing without any restriction in connection with its business purposes. CTS does not grant any rights in and to the same except as expressly provided
+hereunder or in the Agreement. The Product, including, without limitation, the CTS Data Models, CTS Data and the Reference Data Architecture embedded therein are deemed to be CTS IP (as defined in Section 7.6 of the Agreement). 
+
+“
+CTS Data
+” means data that is owned by CTS prior to or independent of this SOW or any other applicable SOWs and any 
+de-identified
+ data that is otherwise generated by CTS in its performance of Services including without limitation, all derived data, and any data that is appended, extrapolated, modified, altered, transformed,
+compiled, or otherwise adapted or enhanced by CTS or any new data sets learned or otherwise developed, compiled, or organized by CTS using any CTS IP. 
+
+“
+CTS Data Model
+” means any scalable data model used and/or developed by CTS to analyze and organize data objects in the
+Reference Data Architecture and such data objects’ relationship to other data objects in the Reference Data Architecture. 
+
+“
+Reference Data Architecture
+” means the CTS owned and proprietary infrastructure, compromised of, without limitation, any and
+all hardware, software, models, policies, schema, rules, functional components, roadmaps, specifications, environments, and/or standards, among others, of processes and inter-related functional components that dictate how data interacts and is
+consumed from the identification and translation of data objects to the utilization of such data objects in one or more CTS Data Models, which includes the translation of data objects from various sources into a single and relatable language; how
+such data objects, individually and aggregately, are meaningfully defined, tagged, tracked, and attributed from various sources; the storage and/or arrangement of such data objects; how such data objects communicate with other data objects; the
+accuracy and correctness of such communication between and/or among the data objects; the robustness of the communication between and/or among the data objects; and related security protocols that are integrated and applied at each stage. 
+
+ 
+
+II.
+
+ 
+Fees, Expenses and Billing 
+
+ 
+
+ 
+
+A.
+
+ 
+Fees 
+
+[______________________] 
+ 
+ 
+
+ 
+
+B.
+
+ 
+Expenses 
+
+[___________________] 
+ 
+ 
+
+ 
+
+C.
+
+ 
+Billing 
+
+[_________________] 
+
+III.
+
+ 
+Support for the Product 
+
+[___________________________] 
+
+IN WITNESS WHEREOF
+, each of the Parties hereto has caused this SOW No. 1 to be executed by its duly authorized representative
+effective as of the date first above written. 
+ 
+ 
+
+[_______________________]
+
+By:
+
+ 
+
+                        
+
+ 
+
+Name:
+
+ 
+
+Title:
+
+Cerberus Technology Solutions, LLC
+
+By:
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Title:
+
+Form of Statement of Work 
+
+Form of Statement of Work C – Consulting Services Only (No Data Modeling Services or Data Insights) 
+
+This Statement of Work #1 [(this “
+SOW No.
+ 1
+”)] is issued under and subject to all of the terms and conditions of the
+Master Services Agreement dated as of ______________, 2019 (the “
+Agreement
+”), between Cerberus Technology Solutions, LLC a Delaware limited liability company with offices at 875 Third Avenue, Third Floor, New York, NY 10022
+(“
+CTS
+”), and [___], a [____] [entity], with offices at [__] (“
+Client
+”), and is made and entered into as of ___________, 2019. Any capitalized terms used herein but not defined shall have the meaning set forth in the
+Agreement. 
+ 
+ 
+
+I.
+
+ 
+Background and Objectives 
+
+ 
+
+ 
+
+A.
+
+ 
+Scope of Work: 
+
+ 
+
+ 
+
+1.
+
+ 
+Workstreams 
+ 
+
+ 
+
+ 
+
+2.
+
+ 
+Activities 
+ 
+
+ 
+
+II.
+
+ 
+Client Data, Client Background Materials and Client Deliverables 
+
+ 
+
+ 
+
+A.
+
+ 
+Client Data
+. Client shall provide the following Client Data in connection with this SOW
+No. 1: 
+ 
+ 
+
+ 
+
+1.
+
+ 
+[Client import/export data]
+ 
+
+ 
+
+ 
+
+B.
+
+ 
+Client Background Materials
+. The items identified a Client Background Materials are as
+follows: 
+ 
+ 
+
+ 
+
+1.
+
+ 
+[
+Specify exactly the Client Background Materials
+] 
+
+C.
+ 
+Client Deliverables/Client Reporting/Data Insights
+. Based on the work streams contemplated above, the following Client
+Deliverables will be produced at the conclusion of this SOW No. 1: 
+ 
+ 
+
+ 
+
+1.
+
+ 
+Client Deliverables
+ 
+
+Client Deliverables under this SOW No. 1 shall be the reporting, progress findings, and presentations in direct support of the activities
+in section A above. For the avoidance of doubt, no CTS IP shall be provided in connection with this SOW No. 1. 
+
+ 
+ 
+31 
+
+ 
+
+2.
+
+ 
+Acceptance Criteria 
+ 
+
+All Client Deliverables under this SOW No. 1 will be deemed accepted by Client upon delivery, unless Client provides written notice to
+CTS within 7 days of such delivery specifically identifying the manner in which the Client Deliverables fail to materially comply with their applicable specifications (in which case CTS shall have the right to make such corrections to the Client
+Deliverables as it deems appropriate to satisfy the specifications and present the same to Client for acceptance pursuant to this paragraph). Any use of the Client Deliverables by Client following presentment shall constitute acceptance. 
+
+CTS and the CTS Professionals shall be excused for a failure or delay in performance of obligations under this SOW No. 1 to extent 
+non-performance
+ is caused by act or omission of the Client, so long as CTS promptly provides written notice to the Client of any expected failure or delay and uses all reasonable efforts to avoid and minimize the
+impact of any such failure or delay. 
+ 
+ 
+
+ 
+
+3.
+
+ 
+Ownership of Client Data
+ 
+
+Client shall own all right, title, and interest in and to any and all Client Data provided to CTS. The Client hereby grants to CTS a 
+non-exclusive,
+ irrevocable, worldwide, fully 
+paid-up,
+ and royalty-free license to make, have made, import, use, reproduce, distribute, create derivative works of, perform,
+display, modify, maintain, and support the Client Data solely as necessary for CTS’ performance of the Services hereunder, and, during or after the Term, CTS may further use any data (including any Client Data) provided to CTS or any Data
+Insights provided by CTS under this Agreement or any SOWs for its own business purposes or to otherwise improve its products or services, provided that use of such data shall be only to the extent such data is first anonymized or aggregated and does
+not identify Client or Client’s products or services in any manner. 
+ 
+“
+Client Data
+” means all raw data provided by
+Client to CTS as further described in this SOW and any other applicable SOWs. 
+ 
+ 
+
+III.
+
+ 
+Project Management 
+
+ 
+
+ 
+
+A.
+
+ 
+Governance Framework 
+
+ 
+
+ 
+
+B.
+
+ 
+Project Management 
+
+ 
+
+IV.
+
+ 
+Fees, Expenses and Billing 
+
+ 
+
+ 
+
+A.
+
+ 
+Fees 
+
+[CTS Service Fees for work performed under this SOW No. 1 will be billed on an hourly basis according to the amount of time utilized by
+the respective CTS Professionals multiplied by each such professional’s respective hourly rate. The rates for the CTS Professionals vary according to the experience of the individuals. The hourly billing rates of the CTS Professionals shall be
+provided to Client under separate cover. 
+
+ 
+ 
+32 
+
+ 
+CTS Professional
+
+  
+
+Anticipated Time
+Commitment
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+Based on the hourly billing rates of the individuals set forth above, and the anticipated time commitment for
+such persons during the course of this SOW No. 1, CTS estimates that its aggregate Service Fees for Advisory Services rendered during the term of this SOW No. 1 will be approximately $[
+______________
+]. For the avoidance of doubt,
+Client shall only be billed for the hours actually worked by the CTS Professionals multiplied by the hourly rate for each such professional who provided such services.] 
+ 
+ 
+
+ 
+
+B.
+
+ 
+Expenses 
+
+[In addition to the Service Fees, CTS estimates that the CTS Professionals will incur and bill to Client on a pass through basis 
+out-of-pocket
+ expenses in the aggregate amount of approximately $[
+__________
+], based upon three team trips to various Client locations and presuming airfare, hotel,
+meals and other reasonable and necessary travel related expenses. The CTS Professionals shall comply with the CTS’ travel policy then in effect and provide the Client with supporting documentation in respect of all expenses.] 
+
+ 
+
+ 
+
+C.
+
+ 
+Billing 
+
+[Based on the above, it is estimated that the total billing (i.e., Service Fees and related expenses) for this SOW No. 1 (anticipated from
+the Effective Date through [________________]) shall be approximately $[
+____________
+]. If during the course of providing the Services CTS anticipates that there will be any significant deviation from this estimate (either with respect to
+Service Fees or expenses), CTS will promptly notify Client of such deviation so that the Parties can discuss the reasons and mutually agree on changes in scope or estimated fees or expenses. Upon completion of this SOW No. 1, CTS shall provide
+Client with a final invoice which will set forth a final accounting of hours and expenses. Such invoice will be due upon presentation and payable no later than 30 days after the date thereof. Should any invoice remain unpaid for more than 30 days
+after the date thereof, interest shall be paid at the lesser of a rate of 1.5% per month or the maximum amount permissible by law per month.] 
+ 
+ 
+
+V.
+
+ 
+Communication and Reporting 
+
+[The CTS Professionals will provide all Client Deliverables in [electronic form, PowerPoint, Excel, or Word, as deemed appropriate by the CTS
+Professionals based on the deliverable specific content. Additionally, the CTS Professionals will submit, electronically, a weekly status report, which shall include amounts for service fees and related expenses incurred to date. The status report
+will provide progress against planned milestones, identified risks and issues, and completion of planned deliverables. A weekly call will be held at which verbal discussion of progress and/or needs may take place including executive management
+opportunity to be verbally briefed.] 
+
+ 
+ 
+33 
+
+VI.
+
+ 
+Availability of Client Resources 
+
+CTS’ ability to provide the Services and deliver the Client Deliverables is subject to the Client providing reasonable access to all
+resources required to meet the terms set out in this SOW No. 1, including, but not limited to, office and company locations, employees, and technology systems and the following: 
+
+ 
+
+ 
+
+1.
+
+ 
+[Designation of a dedicated project manager to serve as a point of key point of contact for the CTS
+Professionals; 
+ 
+ 
+
+ 
+
+2.
+
+ 
+Data on the stations is accessible and can be transported to a CTS supported cloud environment;
+
+ 
+ 
+
+ 
+
+3.
+
+ 
+A Monthly Steering Committee, chaired by project champion, to drive use case prioritization, project updates,
+and future funding considerations; 
+ 
+ 
+
+ 
+
+4.
+
+ 
+The CTS Professionals will have access to Client subject matter experts within the various operating units,
+including but not limited to: operations, finance, information technology, business management; and 
+ 
+ 
+
+ 
+
+5.
+
+ 
+The CTS Professionals will have access to Client Data, Client Background Materials, systems, and tools within
+the various operating units, including, but not limited to, operations, finance, information technology, business management.] 
+ 
+ 
+
+VII.
+
+ 
+Data Processing Addendum 
+
+[Attached hereto as Addendum A is a Data Processing Addendum which is hereby incorporated into this [SOW No. 1] and made a part hereof by
+this reference. To the extent that CTS should receive, have access to or process personal information protected by the EU General Data Protection Regulation 2016/679 and EU Member State implementing laws and regulations (the “
+GDPR
+”)
+during the course of the engagement, the Parties shall abide by the terms and conditions set forth in the Data Processing Addendum.] 
+
+ 
+ 
+34 
+
+IN WITNESS WHEREOF
+, each of the Parties hereto has caused this SOW No. 1 to be
+executed by its duly authorized representative effective as of the date first above written. 
+ 
+ 
+
+[_______________________]
+
+By:
+
+ 
+
+                            
+
+ 
+
+Name:
+
+ 
+
+Title:
+
+Cerberus Technology Solutions, LLC
+
+By:
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Title:
+
+ 
+ 
+35

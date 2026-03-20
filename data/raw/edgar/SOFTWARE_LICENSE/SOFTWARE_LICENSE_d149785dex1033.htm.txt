@@ -1,0 +1,1473 @@
+EX-10.33
+
+6
+
+d149785dex1033.htm
+
+EX-10.33
+
+EX-10.33
+
+Exhibit 10.33 
+
+Certain identified information has been omitted from this exhibit because it is 
+
+not material and of the type that the registrant treats as private or confidential. 
+
+[***] indicates that information has been omitted. 
+
+SECOND AMENDED AND RESTATED SOFTWARE LICENSE AGREEMENT 
+
+THIS SECOND AMENDED AND RESTATED SOFTWARE LICENSE AGREEMENT (the “
+Agreement
+”) is made as of July 1, 2021(the
+“
+Second 
+Amended and Restated 
+Effective Date
+”) by and between Pear Therapeutics, Inc. (“
+Pear
+”), a Delaware corporation having its principal place of business at 200 State
+Street, 13
+th
+ Floor, Boston MA 02109, and Red 5 Group, LLC (“
+Licensor
+”), a New York limited liability company, having its principal place of business at 15 Grant Road,
+Hanover, NH 03755. The definitions appear in 
+Exhibit A
+ attached hereto. 
+ 
+WHEREAS Licensor owns and operates a software application
+called Therapeutic Education System (TES) which is used for the treatment of psychological and 
+substance-use
+ disorders, as described more fully in 
+Exhibit B
+ (the “
+Application
+”);
+
+ 
+WHEREAS, Licensor licenses the Application in the form of a software development kit (“
+SDK
+”). The SDK is a
+customized version of the Application, which includes clinical data tables, software, source code, all applicable intellectual property, 
+know-how,
+ clinical data, and sample user interface modules, as well as
+the necessary hooks to communicate Pear Data to agreed-upon third parties. (The SDK, Content, and the Application, collectively, the “
+Licensor Products
+”); 
+
+WHEREAS, Pear and Licensor entered into a Software License Agreement (the “
+Original Agreement
+”) dated as of
+January 9, 2015 (the “
+Effective Date
+”), under which Pear received a license to access and use the Licensor Products in order to allow Pear to embed a customized version of the Licensor Products into its own software and
+content offerings (i.e., the Pear Application) in order to create Integrated Products for use by healthcare professionals and patients worldwide; 
+
+WHEREAS, Pear and Licensor entered into an Amended and Restated Software License Agreement (the “
+Amended and Restated
+Agreement
+”) dated as of March 21, 2018 to expand the scope of the exclusive license granted under the Original Agreement and to otherwise amend the Original Agreement as set forth therein, and subsequently entered Amendment
+No. 1 to the Amended and Restated Agreement dated as of April 19, 2018; and 
+ 
+WHEREAS, Pear and Licensor now desire to amend and
+restate, as of the Second Amended and Restated Effective Date, the Amended and Restated Agreement, as amended by Amendment No. 1, upon the terms and conditions set forth below. 
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as
+follows: 
+ 
+Pear Confidential 
+
+1. DEFINITIONS. 
+
+Capitalized terms used but not defined in the body of this Agreement are used with the meanings ascribed to them in 
+Exhibit A
+. The
+meanings given to terms in this Agreement are equally applicable to both the singular and the plural forms of the terms as the context may require. 
+ 
+2.
+LICENSE. 
+ 
+2.1 
+Grant of Licenses
+. Subject to the terms of this Agreement, including payment of the Fees set forth in Section 5, Licensor
+hereby grants Pear a worldwide, royalty-bearing, 
+non-transferable
+ (except as permitted in the Agreement) right and license, with the right of sublicense (through multiple tiers), under the Licensor IP: 
+
+2.1.1 to use, modify, reproduce, display, distribute and create derivative works of the Content to create Integrated Products in all fields of use and to
+promote, commercialize and fully exploit such Integrated Products; 
+ 
+2.1.2 to use, copy, distribute and modify the
+
+non-Content
+ components of Licensor Products in order to create Integrated Products. The Integrated Products may be offered as part of a comprehensive offering which may include, without limitation, compliance
+software, medical support, and data outcomes monitoring, separately created by Pear or others; 
+ 
+2.1.3 to 
+re-brand
+
+the Application and the other components of the Licensor Products with marks of Pear’s choosing when used as part of the Integrated Products, provided that Licensor is clearly identified as creator of the Application and Content (e.g.,
+“powered by Red5Group” or comparable ingredient branding agreed upon by the parties); 
+ 
+2.1.4 to distribute and sublicense the Integrated Products
+to its Users and for such Users to access and use the Content as part of the Integrated Products. Pear’s license rights in this Section 2.1 include the right for Pear to provide access to the Integrated Products to its Users directly or
+indirectly through Pear’s Distributors, OEMs and resellers; and 
+ 
+2.1.5 to use the Integrated Products in clinical validation studies. 
+
+2.1.6 The license rights granted above to Pear by Licensor will be exclusive (including as to Licensor). Licensor has no right to use or license the Content or
+the 
+non-Content
+ components of Licensor Products for any purpose (including without limitation as stand-alone materials or as integrated with any other products); provided that Licensor may continue to use the
+Licensor Products solely for the purpose of completing its obligations to provide support to the following academic studies: (1)
+ A sequenced behavioral and medication intervention for cocaine dependence
+ (Grant#: 1R01DA034087;
+Funder: NIDA); (2) 
+Web-based
+ addiction treatment: Cultural adaptation with American Indians
+ (Grant# R34DA040831; Funder: NIDA); (3) 
+The social interactome of recovery: Social media as therapeutic
+development.
+ (Grant#: R01DA039456; Funder NIDA); and (4) a study being performed by the Virginia Department of Corrections pursuant to a grant from the Edward Byrne Memorial Justice Assistance Grant Program (Byrne/JAG). Pear will not
+be under any obligation to use the Licensor Products and/or the Content in any manner whatsoever unless it so chooses. 
+
+ 
+ 
+2 
+
+2.2 
+Restrictions
+. Except as expressly permitted in this Agreement, Pear will not (and will not permit
+third parties to): 
+ 
+(a) distribute, rent, or otherwise transfer any rights in the Licensor Products in any way except as part of an
+Integrated Product (i.e., Pear may not distribute the Licensor Products on a standalone basis; 
+ 
+(b) except as necessary in the creation of
+Integrated Products, modify the Application; 
+ 
+(c) except as necessary in the creation of Integrated Products, reverse engineer, decrypt,
+decompile, or disassemble the Licensor Products; or 
+ 
+(d) use the Licensor Products in any manner or for any purpose not authorized by
+Section 2.1. 
+ 
+2.3 
+Sublicensees
+. The right of Pear to grant sublicenses is subject to the requirement that each such sublicense shall be in
+writing and shall be subject to the applicable license(s) and rights granted hereunder, including all restrictions set forth herein, including Section 2.1 of this Agreement and Sections 1.1, 2, 4.1(b), and 5 of Exhibit C to this Agreement. Pear
+shall at all times remain responsible for the performance of any of its sublicensees. 
+ 
+3. RESPONSIBILITIES OF THE PARTIES. 
+
+3.1 
+Responsibilities of Licensor
+. Licensor will have primary responsibility for performing the following tasks and providing the following services:
+
+ 
+3.1.1 
+Delivery
+. Licensor will deliver the Licensor Products in the manner set forth in 
+Exhibit B
+. Unless otherwise specified in 
+Exhibit
+B
+, Licensor will deliver all Licensor Products electronically to the location(s) designated by Pear. Licensor will deliver patches, updates, and upgrades to the Licensor Products in accordance with the terms set forth in 
+Exhibit B
+. 
+
+3.1.2 
+Integration
+. Licensor will work with Pear (for a mutually agreed upon duration of at least 60 days and not more than 1 year), to integrate the
+Licensor Products with a Pear Application; both parties will work in good faith to ensure that the integration will not materially adversely impact the core functionality of the Application. 
+
+3.1.3 
+Clinical validation
+. Licensor will provide Pear with access to all newly created clinical data involving the Application as well as, where
+feasible, access to all existing clinical data involving the Application. 
+Upon request and subject to mutually agreeable terms with respect to time and payment, Licensor may assist Pear in the design for clinical validation studies, including the
+composition of grant applications for clinical validation studies. Costs associated with these activities shall be covered by Pear at reasonable rates to be agreed by both parties.
+ 
+
+3.1.4 Reserved. 
+ 
+3.1.5 
+Additional Services
+. Licensor shall
+provide any other services reasonably requested by Pear subject to the parties entering into an agreement on mutually acceptable terms. Without limiting the generality of the foregoing, and by way of illustration, Licensor will commit on a case by
+case basis, to provide support for partnership discussions with branded or generic pharmaceutical companies, pharmacy chains, or other with potential distribution partners for Integrated Products, with the number of hours, rates and fees to be
+mutually agreed by the parties in writing as an addendum to this Agreement, prior to the commencement of any such work. 
+
+ 
+ 
+3 
+
+3.2 
+Responsibilities of Pear
+. 
+
+3.2.1 
+Data provided to Licensor
+. Subject to the Confidentiality provisions in 
+Exhibit C
+, Pear will provide Licensor with access to any
+evaluations, methodology and the data produced through use of the Integrated Products that Pear’s partners/licensor allow Pear to access and provide (collectively, “Product Data”); provided that, Licensor may only use such Product
+Data for Licensor’s internal research purposes only. Without limiting the generality of the foregoing, and by way of illustration, (a) Licensor may not use any Product Data to target market any end users on behalf of a competitive product
+or services; (b) the Product Data will not contain any personally identifiable information; and (c) such Product Data will be owned by Pear. 
+
+3.2.2 
+Third Party Partnerships
+. Subject to any applicable confidentiality obligations that may apply, Pear will provide a summary of material terms of
+any distribution or other licensing agreements with third parties for the Integrated Products prior to entering into any such agreements. 
+ 
+3.3 
+Mutual
+Obligations of the Parties
+. Pear will respond to any support requests arising from Users that relate specifically to the Pear Customizations or any Pear functionality or data contained in the Integrated Product. Licensor will provide Pear (but
+not customers) with high level telephone and email support regarding any and all technical issues arising from the Licensor Products themselves that Pear is unable to resolve; these support services will be delivered in accordance with
+Licensor’s standard support practices for this level of support. 
+ 
+4. HIPAA REQUIREMENTS. 
+
+4.1 
+Compliance with HIPAA
+. Licensor acknowledges that any Pear Data transmitted to Licensor hereunder may be subject to federal and state laws, rules
+and regulations relating to among other subjects, the confidentiality, privacy or security of patient information, including without limitation, the Administrative Simplification Provisions of the Health Insurance Portability and Accountability Act
+of 1996, Public Law 
+104-191.45
+ C.F.R. Part 160, 162, 164 (“
+HIPAA
+”) and the applicable regulations promulgated thereunder. The parties will at all times comply with the applicable
+provisions of such laws, rules, and regulations and with the applicable corporate policies and provision of the parties, with respect to the performance of their obligations under this Agreement, with respect to the confidentiality, privacy and
+security of Protected Health Information (“
+PHI
+”) and electronic Protected Health Information, as defined in 45 C.F.R. § 164.501 (“
+ePHI
+”). For purposes of this Agreement, PHI means individually
+identifiable information as defined by the Standards for Privacy of Individually Identifiable Health Information, 45 C.F.R. Parts 160 and 164. 
+
+ 
+ 
+4 
+
+5. FEES. 
+
+5.1 
+License Fees
+. Pear will pay Licensor the license fees set forth in 
+Exhibit B 
+(the “
+License Fee
+”). The License Fees
+authorize Pear and its Users to access the Integrated Products for the period identified in 
+Exhibit B 
+(the “
+License Term
+”). 
+
+5.2 
+Reimbursement of Expenses
+. Pear will reimburse Licensor for all reasonable
+
+out-of-pocket
+ expenses incurred by Licensor in performing services under this Agreement provided such expenses are approved in writing by Pear in advance. Such 
+out-of-pocket
+ expenses may include: (a) All reasonable travel expenses, other than for normal commuting, including airfares, rental vehicles, and highway mileage in
+company or personal vehicles at the then current IRS approved rate, and meals and lodging; and (b) All other reasonable expenses resulting from the Services provided under this Agreement, as applicable. Licensor shall submit an itemized
+statement of Licensor’s expenses due under this Section 5.2, including receipts and other documentation, on a monthly basis. Pear shall reimburse Licensor within thirty (30) days from the receipt of each statement by Pear. 
+
+6. 
+STANDARD LEGAL TERMS AND CONDITIONS
+: The Standard Legal Terms and Conditions governing this Agreement are contained in Exhibit C and
+incorporated herein by reference 
+ 
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Second Amended and
+Restated
+ 
+Effective Date. 
+ 
+ 
+
+PEAR THERAPEUTICS, INC.:
+
+  
+
+Red 5 Group, LLC:
+
+By: 
+/s/ Christopher
+Guiffre                                        
+            
+
+  
+
+By: 
+/s/ Michael Grabinski                            
+
+Name: Christopher D.T. Guiffre
+
+  
+
+Name: Michael Grabinski
+
+Title: Chief Financial Officer & Chief Operating Officer
+
+  
+
+Title: President
+
+Date: 7/2/2021
+
+  
+
+Date: 7/2/2021
+
+ 
+ 
+5 
+
+EXHIBIT A 
+
+DEFINITIONS 
+ 
+“Affiliate”
+
+means with respect to either party, any Person that, directly or indirectly, is controlled by, controls or is under common control with such party. For purposes of this Agreement, “control” means, with respect to any Person, the
+direct or indirect ownership of more than fifty percent (50%) of the voting or income interest in such Person or the possession otherwise, directly or indirectly, of the power to direct the management or policies of such Person. 
+
+“
+Application
+” has the meaning set forth in the first Recital to the Agreement, and as further described in 
+Exhibit B
+. 
+
+“
+Confidential Information
+” means any and all information disclosed or made available by either party to the other, including orally
+conveyed information, in connection with this Agreement that is: (a) at the time of disclosure identified or marked as confidential or proprietary information; or (b) by its nature and the circumstances should be considered, or is
+reasonably obvious to be confidential information. Confidential Information shall be deemed to include the Pear Data, if any, supplied by Pear to Licensor pursuant to this Agreement. Confidential Information does not include any information that the
+receiving party can demonstrate is: (a) rightfully known prior to disclosure; (b) rightfully obtained from a third party authorized to make such a disclosure, without breach of the terms and conditions of this Agreement or other binding
+confidentiality obligation; (c) independently developed by the receiving party; (d) available to the public without restrictions; (e) approved for disclosure with the prior written approval of the disclosing party; or
+(f) disclosed by court order or as otherwise required by law, provided that the party required to disclose the information provides prompt advance notice to enable the other party to seek a protective order or otherwise prevent such disclosure.
+
+ 
+“
+Content
+” means audio and visual information, source code, documents, software, products and services contained in the
+Application or made available to Pear, including any and all updates and improvements thereto made prior to the Amended and Restated Effective Date, and source code alterations made by or on behalf of Licensor during the licensing period. 
+
+“
+Distributor
+”
+ 
+means a third party distributor or agent that is not a sublicensee, that Pear,
+an Affiliate or a sublicensee utilize for purposes of Integrated Product distribution in a particular country(ies). A Distributor places orders for Integrated Products (or services provided through the use of Integrated Products) from Pear or its
+Affiliates or sublicensees for distribution to customers in the applicable country(ies); a Distributor does not itself hold rights to make, have made or use Integrated Products (or services provided through the use of Integrated Products), but may
+hold the right to resell the units of, or in the case of software, provide access to, such Integrated Products (or services provided through the use of Integrated Products) it acquires from Pear, an Affiliate or a sublicensee to Users in the
+applicable country(ies). 
+ 
+“
+Integrated Product
+” means the product resulting from the integration of the Licensor Product with a
+Pear Application. The Integrated Product will constitute a “Wrapper for Pear or its sublicensee/third party” –i.e., a customized version of the Application for use by Pear and its Users, with compliance and other layers and allow
+Users to access software functionality and other data and content contained in the Licensor Products, and will be hosted on servers owned and/or controlled by Pear. 
+
+“
+License Term
+” means the period identified in 
+Exhibit B
+ for which Pear will
+have access to the Licensor Products. 
+ 
+“
+Licensor IP
+” means collectively, the Licensor Products made available to Pear by Licensor
+under the Agreement, including any source code, 
+know-how,
+ and clinical data related to the Application, and all trademarks licensed by Licensor to Pear under the Agreement. 
+
+“
+Licensor Products
+” has the meaning set forth in the second Recital to the Agreement, and is as further described in 
+Exhibit B
+.
+
+ 
+“
+Pear Application
+” means the portions of any Integrated Product that are created by Pear. 
+
+“
+Pear Customizations
+” means any proprietary scripts, macros, modules or software developed by Pear or Licensor to customize
+Pear’s use of, or access to, the Licensor Products as part of Integrated Products. 
+ 
+“
+Pear Data
+” means any data, information
+or material that Pear and/or Pear’s Users submit to or receive from the Integrated Products, as well as all clinical data from clinical studies involving any Pear resources. 
+
+“
+Pear IP
+” means collectively, the Integrated Products (excluding the portions that constitute Licensor IP); the Pear Application; the
+Pear Customizations; the Pear Data; Pear trademarks; and the Pear-Owned Property, as well as any and all improvements to IP, improvements to source code. 
+
+“
+Pear-Owned Property
+” means all tangible and intangible items or information that Licensor receives from Pear or from a third party on
+Pear’s behalf, or that is paid for by Pear, including but not limited to Pear Data and Pear Customizations. 
+ 
+“Person” 
+means
+any individual, corporation, association, partnership (general or limited), joint venture, trust, estate, limited liability company, limited liability partnership, unincorporated organization, government (or any agency or political subdivision
+thereof) or other legal entity or organization, other than Pear or Licensor. 
+ 
+“
+Users
+” means the users of the Integrated Products.
+
+EXHIBIT B – LICENSE SCHEDULE 
+
+LICENSE TERMS AND FEES 
+
+This License Schedule sets forth the terms and conditions for a license for the use of the Licensor Products, as identified below. Except as
+expressly modified by this License Schedule, the terms and conditions of the Agreement govern the license to the Licensor Products. 
+ 
+ 
+
+ 
+
+(1)
+
+ 
+LICENSE TERM.
+ 
+
+The license term begins on the Effective Date and will continue, unless sooner terminated in accordance with the Agreement, in perpetuity. 
+
+ 
+
+ 
+
+(2)
+
+ 
+DESCRIPTION OF LICENSOR PRODUCTS.
+ 
+
+The Licensor Products include the following software modules. For the avoidance of doubt, Licensor does not withhold access to any therapeutic
+treatment modules used in TES research studies, whether listed below or not. 
+ 
+T E S Module List 
+
+Training Module 
+ 
+This module
+describes the purpose of TES and teaches new users how to use TES. 
+ 
+What is a Functional Analysis? 
+
+This module explains the purpose of a functional analysis of recent drug use (to identify the various risk factor(s) for the drug use, and
+the consequences of the drug use). 
+ 
+Conducting a Functional Analysis 
+
+This module walks the TES user through the process of a personalized functional analysis of their last drug use. 
+
+Introduction to Problem Solving 
+
+This module explains the importance of learning to effectively identify, analyze, and solve problems. 
+
+Effective Problem Solving 
+ 
+This
+module teaches the importance of effective problem solving and teaches several steps to effective problem solving. 
+ 
+Self-Management Planning
+
+ 
+This module teaches strategies one can use to manage high-risk situations for drug use. 
+
+Drug Refusal Skills 
+ 
+This
+module teaches the importance of learning effective strategies for refusing drug offers and teaches several such strategies. 
+
+Identifying and Managing Triggers for Risky Drug Use 
+
+This module defines what “triggers” are, how they can influence behavior choices around drug use, and how to manage those triggers
+in order to reduce risk. 
+ 
+Managing Thoughts About Using 
+
+This module is designed to teach one to identify thoughts or feelings that can lead to using drugs, and ways he or she could manage these
+thoughts or feelings to prevent drug use. 
+ 
+Coping with Thoughts About Using 
+
+This module teaches several actions one can take to effectively cope with thoughts about using drugs. 
+
+Seemingly Irrelevant Decisions 
+
+This module teaches individuals how everyday decisions, which may appear to have nothing to do with drug use, may actually lead one closer
+to being faced with a choice about drug use if not handled effectively. 
+ 
+Decision-making Skills 
+
+This module includes text about the different steps of making decisions and highlights the importance of giving yourself adequate time to make
+the best possible decision. 
+ 
+Increasing self-confidence in decision-making 
+
+This module discusses one’s personal values and goals and describes situational self-confidence. 
+
+HIV and AIDS 
+ 
+This module
+outlines basic information about transmission and prevention of HIV, the difference between HIV and AIDS, treatment and HIV testing. 
+ 
+Sexually
+transmitted infections (STIs) 
+ 
+This module defines sexually transmitted infections (STIs) generally, and describes several of
+the more prevalent STIs including transmission, treatment, and prevention. 
+ 
+Hepatitis 
+
+This module outlines basic information about hepatitis A, B and C including transmission and prevention. 
+
+Sexual transmission of HIV and STIs 
+
+This module includes discusses the types of sexual activity that pose risk, and prevention options for each type of risky sexual activity. 
+
+Selecting and correctly using condoms 
+
+This module describes the different types of condoms and lubricant, which are considered effective and which are not, and how to use condoms
+correctly. 
+
+ 
+ 
+9 
+
+The Female Condom 
+
+This module describes the use of the female condom in more depth, including graphics depicting the steps to using the female condom. 
+
+Birth control use and HIV and STIs 
+
+This module discusses how most contraceptive methods do not offer any protection against HIV and STIs, and addresses the need to consider the
+possibility of both pregnancy and HIV/STIs when considering sexual activity. 
+ 
+Drug Use, HIV & Hepatitis 
+
+This module teaches information about how the use of different drugs and different drug paraphernalia directly increases risk for HIV and
+hepatitis and techniques for reducing the risk of viral infection through drug use and equipment. 
+ 
+Alcohol use and risk for HIV, STIs and hepatitis
+
+ 
+This module discusses the relationship between alcohol use and the way that it influences and potentially changes choices that a
+person makes about safety and protection against disease. 
+ 
+Getting tested for HIV, STIs and Hepatitis 
+
+This module describes the available options for testing for HIV, STIs and Hepatitis, and what an individual can expect to experience during the
+testing process. 
+ 
+Identifying & managing triggers for risky sexual activity 
+
+This module defines what triggers are, how they can influence behavior choices around sexual activity, and how to manage those triggers in
+order to reduce risk. 
+ 
+Social Recreational Counseling 
+
+The goal of this module is to increase user’s participation in social activities that may serve as healthy alternatives to drug use. 
+
+Time Management 
+ 
+This module
+teaches individuals how to plan and schedule events to engage in activities that provide alternatives to drug use and reduce the amount of idle, high-risk time. 
+
+Communication Skills I Sharing Feelings 
+
+This module discusses the potential benefit of sharing one’s feelings with others. 
+
+Attentive Listening 
+ 
+This module
+teaches the goals of attentive listening and how to be an attentive listener. 
+ 
+Drug Use and Communication Skills 
+
+This module discusses how drug use may impact one’s ability to listen and express oneself. 
+
+Negotiating Safer Sex 
+ 
+This module
+includes text describing the importance of communications skills in the ability to reduce risk for HIV, hepatitis and STIs, some of the challenges and barriers to communication, and the description of skills that can be used in negotiating safer sex
+with a partner. 
+
+ 
+ 
+10 
+
+Giving and Receiving Compliments 
+
+This module discusses the importance of giving and receiving compliments in relationships with others and discusses strategies for effectively
+doing so. 
+ 
+Introduction to Giving Criticism 
+
+This module discusses the importance of providing constructive criticism to others. 
+
+Steps for Giving Constructive Criticism 
+
+This module provides guidelines for effectively giving constructive criticism to others. 
+
+Receiving Criticism 
+ 
+This module
+discusses the importance of receiving criticism and strategies for effectively doing so. 
+ 
+Nonverbal Communication Nonverbal Communication
+
+ 
+This module discusses how nonverbal behavior may greatly affect interactions with others. 
+
+Introduction to Assertiveness 
+
+This module describes various interpersonal styles including the meaning of assertiveness. 
+
+How to Express Oneself in an Assertive Manner 
+
+This module teaches individuals strategies on how to be assertive. 
+
+Introduction to Anger Management 
+
+This module describes the effects of anger and how angry thoughts and feelings may impact behavior. 
+
+How to Become More Aware of the Feeling of Anger 
+
+This module teaches individuals how to recognize feelings of anger they may be experiencing. 
+
+Coping with Anger 
+ 
+This module
+teaches effective coping strategies for dealing with anger. 
+ 
+Introduction to Relaxation Training 
+
+This module teaches the role that relaxation may play in reducing stress. 
+
+Progressive Muscle Relaxation Training 
+
+This module teaches progressive muscle relaxation and breathing techniques. 
+
+Progressive Muscle Relaxation Generalization Training 
+
+This module teaches individuals how to apply relaxation techniques in everyday life. 
+
+ 
+ 
+11 
+
+Awareness of Negative Thinking 
+
+This module teaches how thoughts can affect feelings and behaviors and teaches individuals to recognize patterns of negative thinking. 
+
+Managing Negative Thinking 
+ 
+This
+module teaches strategies for effectively managing negative thoughts. 
+ 
+Financial Management 
+
+This module helps individuals understand how to better manage their financial resources in getting more control over their lives. 
+
+Relationship Counseling - Part 1 
+
+This module presents several communication behaviors that one may find useful in improving communication with another person. 
+
+Relationship Counseling - Part 2 
+
+This module teaches strategies one can use to effectively manage disagreements with another person. 
+
+Relationship Counseling - Part 3 
+
+This module teaches skills to effectively resolve arguments with another person. 
+
+Vocational Counseling 
+ 
+This module
+helps an individual improve their employment situation or locate work and highlights the importance that work can play in helping to prevent drug use. 
+
+Insomnia 
+ 
+This module teaches
+strategies for helping individuals manage insomnia and sleep better. 
+ 
+Living with HIV: Coping skills and managing stigma 
+
+This module describes the challenges of living with HIV and some techniques for coping with the disease and the stigma that can be associated
+with it. 
+ 
+Living with HIV: Communication skills for disclosing HIV status 
+
+This module discusses the issue of disclosure, the challenges that it presents, and strategies for deciding who and when to tell, and how to
+tell others about having HIV. 
+ 
+Living with HIV: Managing treatment and medications 
+
+This module describes some of the challenges of maintaining antiretroviral medication regimes including side effects, timing, and cultural and
+other barriers to taking medications. It also describes the importance of talking with health care providers about concerns and problems with medications and strategies to overcome some of the challenges. 
+
+Living with HIV: Drug use and the immune system 
+
+This module describes how drug use can impact the immune system of someone with HIV, including how drug use may increase exposure to bacteria
+and other viruses that could have an added detrimental effect on the health of someone who has HIV. 
+
+ 
+ 
+12 
+
+Living with HIV: Daily routines to promote healthy 
+behavior 
+
+This module describes the importance of daily routines such as a healthy diet, stress reduction, adequate sleep, taking prescribed meds,
+reducing or eliminating alcohol and other drug use etc. in maintaining health and managing HIV. 
+ 
+Living with Hepatitis C: Coping skills 
+
+This module describes the challenges of living with Hepatitis C and some techniques for coping with the disease. It includes video clips of
+people who are living with Hep C and their thoughts on coping. 
+ 
+Living with Hepatitis C: Managing treatment and promoting healthy
+
+behavior 
+ 
+This module describes the importance of daily routines such as a healthy diet, stress reduction, adequate sleep,
+reducing or eliminating alcohol and other drug use etc. in maintaining health and managing Hepatitis C. 
+ 
+Alcohol and Disulfiram 
+
+This module describes how disulfiram medication may be useful in preventing alcohol use among individuals with alcohol use disorders. 
+
+Other Drug Abuse 
+ 
+This module
+discusses how use of drugs other than opioids may increase one’s likelihood of relapsing to opioid use. 
+ 
+ 
+
+ 
+
+(3)
+
+ 
+UPGRADES. 
+
+Licensor shall provide Pear, at no additional cost with all upgrades, updates, bug fixes, improvements, and enhancements to the Licensor
+Products that Licensor generally makes available to its customers at no cost (collectively, “
+Upgrades
+”). Licensor will provide Pear with the same testing instructions and description of the new functionality or features of all
+Upgrades that it provides to its other customers. Any Upgrades shall automatically be included within the definition of Licensor Products. For the avoidance of doubt, Upgrades do not include new Licensor software that has new and different
+functionality and performance than the Licensor Products software described in this Exhibit B. 
+ 
+ 
+
+ 
+
+(4)
+
+ 
+FEES. 
+
+(A) 
+License Fees
+. In connection with the licenses granted in this Agreement, Pear will pay Licensor as follows: 
+
+(i) Royalties. Licensor will be paid a royalty equal to [***] of Net Revenue during the Term following the Second Amended and Restated
+
+Effective Date and a royalty equal to [***] of Net Revenue during the Term prior to the Second Amended and Restated
+ 
+Effective Date. Pear will provide payments to Licensor within sixty (60) days following the calendar
+quarter during which Pear records the corresponding Net Revenue; provided, however, in the event Pear should become subject to the Securities Exchange Act of 1934, then Pear will provide payments to Licensor within ten (10) days following
+Pear’s quarterly Form 
+10-Q
+ filing or annual Form 
+10-K
+ filing for the applicable period; provided such filings are made on a timely basis in accordance with the
+applicable provisions of the Securities Exchange Act of 1934. Pear will provide reports 
+
+ 
+ 
+13 
+
+along with license payments hereunder in sufficient detail to illustrate the basis for the payments made, including the number of units of Integrated Products sold (or units of services provided
+through the use of Integrated Products), the gross price charged by Pear or its Affiliates for such units, calculation of Net Revenue, including a listing of the deductions taken, the total royalty payable in U.S. Dollars, together with the exchange
+rates used for any currency conversion and the number of sublicenses granted. 
+ 
+If Pear or any Affiliate sells or leases Integrated Products (or services
+provided through the use of Integrated Products) in connection with other products or services for a bundled price, Pear covenants that it shall not, and that it shall cause its Affiliates to not apply any such discount in a manner that is applied
+in a manner that has disproportionate effect on the Integrated Products (or services provided through the use of Integrated Products). 
+
+“
+Net Revenue
+”
+ 
+means the gross amount invoiced by Pear or its Affiliates to any independent
+third party sublicensee, Distributor or any end user for Integrated Products (or services provided through the use of Integrated Products), less: [***]. 
+
+No deductions shall be made for commissions paid to individuals whether they are with independent sales agencies or regularly employed by Pear and on its
+payroll, or for cost of collections. 
+ 
+For the avoidance of doubt, Net Revenue shall not apply with respect to units of Integrated Products (or services
+provided through the use of Integrated Products) that are distributed for clinical study purposes, or for other evaluation or testing purposes that are provided free of charge. Pear will not discriminate against the Integrated Products in a manner
+that would disproportionately discount the price of the Integrated Product and thereby reduce the royalties payable to Licensor hereunder as compared with the discount applied to any other products or services offered by Pear to the customer. 
+
+No 
+non-Affiliate
+ sublicensee revenue will be included in Net Revenue. In addition, Net Revenue will be calculated only
+once with respect to each unit of Integrated Product (or services provided through the use of Integrated Products) sold by Pear or any Affiliate to any Distributor, 
+non-Affiliate
+ sublicensee or end user, even
+if such Integrated Product (or services provided through the use of Integrated Products) is sold more than once in the course of its transfer to the ultimate 
+end-user.
+ For the avoidance of doubt, if there are
+sales of Integrated Products between or among Pear and/or any of its Affiliates for the purpose of further resale to 
+non-Affiliated
+ customers, such sales will not be included in the calculation of Net Revenue
+(however, the final sale by Pear or an Affiliate to a 
+non-Affiliate
+ sublicensee, Distributor or end user customer will be included in Net Revenue), and payments from licensees relating to events prior to FDA
+approval such as sublicense fees and development milestone payments will not be included in the calculation of Net Revenue, provided that the agreements with licensees that include such payments also include a conventional royalty provision. 
+
+ 
+ 
+14 
+
+Non-monetary
+ consideration shall 
+not 
+be accepted by Pear or
+any Affiliate or sublicensee for any Integrated Products (or services provided through the use of Integrated Products), without the prior written consent of Licensor. In the event that 
+non-monetary
+
+consideration is received for Integrated Products (or services provided through the use of Integrated Products), Net Revenue shall be calculated based on the fair market value of such 
+non-monetary
+
+consideration (including all elements of such consideration), as determined by the parties in good faith. For the avoidance of doubt, it is understood and agreed that 
+non-monetary
+ consideration (e.g., data)
+received in the context of clinical validation studies or sponsored research where Integrated Products are not being commercially sold, and any 
+non-monetary
+ consideration (e.g., data) included in a
+multifaceted agreement in which the primary form of consideration is monetary, shall not be considered a violation of this clause. 
+ 
+If a unit of
+Integrated Product (or services provided through the use of Integrated Products) is leased to a Distributor or end user rather than sold to such Distributor or end user, then Net Revenue in respect of such units of Integrated Product (or services
+provided through the use of Integrated Products) shall be calculated on an annual basis and shall equal the aggregate lease payments paid by the Distributor or end user for the use of such unit of Integrated Product (or services provided through the
+use of Integrated Products). 
+ 
+For the avoidance of doubt, and for all purposes under this Agreement Net Revenue, including the deductions specified in
+clauses (i)-(iv), shall be calculated in accordance with United States Generally Accepted Accounting Principles (“GAAP”). 
+ 
+(ii)
+
+Annual License Maintenance Fee
+. Pear shall pay to Licensor the following license maintenance fees within 30 days after the dates set forth below: 
+ 
+ 
+
+ 
+Effective Date
+
+  
+
+$
+
+30,000
+
+ 
+
+ 
+First anniversary of Effective Date
+
+  
+
+$
+
+35,000
+
+ 
+
+ 
+Second anniversary of Effective Date
+
+  
+
+$
+
+40,000
+
+ 
+
+ 
+Third anniversary of Effective Date
+
+  
+
+$
+
+45,000
+
+ 
+
+ 
+Fourth and each subsequent anniversary of the Effective Date (each, an “
+Annual License
+Maintenance Fee
+”)
+
+  
+
+ 
+
+[***]
+
+ 
+
+ 
+This Annual License Maintenance Fee (“ALMF”) is nonrefundable; however, the ALMF may be credited to cumulative
+royalties and Milestone payments due under this Agreement, until the full amount that Pear is entitled to deduct from royalties or Milestones payable to Licensor under this Agreement in respect of such ALMF payment is fully deducted as a credit. For
+the avoidance of doubt, in no event will Licensor be paid less than the ALMF of [***] in any calendar year after the Second Amended and Restated Effective Date during the term of this Agreement, and the ALMF credit described above may not be applied
+as a credit against any subsequent ALMF payment due under this Agreement. [***]. 
+ 
+(iii) 
+Milestones
+. In addition to the above
+royalty, milestone payments will be paid as follows; 1) $200,000 paid to Licensor on [***], and 2) $200,000 paid to Licensor on [***]. 
+
+(iv) 
+Inspections
+. Pear shall maintain, and shall cause its Affiliates and sublicensees to maintain, complete and accurate records
+relating to the rights and obligations under this Agreement and any amounts payable to Licensor in relation to this Agreement, which records shall contain sufficient information to permit Licensor to confirm the accuracy of any reports delivered to
+Licensor and compliance in other respects with this Agreement. The relevant party 
+
+ 
+ 
+15 
+
+shall retain such records for at least five (5) years following the end of the calendar year to which they pertain, during which time Licensor, or Licensor’s appointed agents, at
+Licensor’s reasonable request no more than once per calendar year, shall have the right, at Licensor’s expense, to inspect such records of Pear or its Affiliates during normal business hours to verify any reports and payments made or
+compliance in other respects under this Agreement. In the event that any audit performed under this Section 4 reveals an underpayment in excess of five percent (5%), Pear shall bear the full cost of such audit and shall remit any amounts due to
+Licensor within thirty (30) days of receiving notice thereof from Licensor. 
+ 
+(v) 
+Payment
+. Beginning on the Second Amended and
+Restated Effective Date, unless otherwise agreed in writing by the parties, each payment of any Annual License Maintenance Fee or royalties hereunder will be made by electronic funds transfer with immediately available funds to an account
+designated in writing by Licensor to Pear or any such new or additional account(s) Licensor shall designate in writing no later than ten (10) business days prior to the date such Annual License Maintenance Fee payment or
+royalty payment is due. Licensor shall invoice Pear for each Annual License Maintenance Fee in accordance with Section 8.2 of Exhibit C. 
+
+(B) 
+A
+dditional Fee for Amending and Restating the Original Agreement
+. In consideration for expanding the exclusive license under
+Section 2.1.1 and otherwise amending and restating the Original Agreement, Pear agreed to pay Licensor a 
+one-time
+ payment in the amount of [***] at the time the parties entered into the Amended and
+Restated Agreement. Licensor hereby acknowledges that it has received this 
+one-time
+ payment from Pear. 
+
+(C) 
+Payment of Accrued Fees in Connection with Second Amended and Restated Software License Agreement
+. Within three (3) business
+days following the Second Amended and Restated
+ 
+Effective Date, Pear shall pay Licensor [***]. 
+ 
+(D) 
+Refund or Credit for
+Overpayments
+. Pear and Licensor acknowledge and agree that, in the event that Pear notifies Licensor in writing of an overpayment within ninety (90) days of having made such overpayment to Licensor providing the amount of such overpayment
+and accounting detail reasonably sufficient to demonstrate such overpayment, Licensor will refund to Pear the amount of such overpayment within ninety (90) days following receipt of such written notice. If Pear notifies Licensor in writing of
+an overpayment more than ninety (90) days after having made such overpayment to Licensor providing the amount of such overpayment and accounting detail reasonably sufficient to demonstrate such overpayment, Pear will not be entitled to a refund
+of the overpayment amount but will instead be entitled to a credit of the overpayment amount. 
+ 
+ 
+
+ 
+
+(5)
+
+ 
+THIRD PARTY PRODUCTS
+ 
+
+The Licensor Products are configured for operation with certain commonly available off the shelf software products listed below. Pear may
+require different third party licenses for Integrated Products depending upon the manner in which they are configured and deployed. 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+MySQL Community Edition 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Java 8 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+MySQL Connector/J 
+
+ 
+ 
+16 
+
+ 
+
+•
+
+ 
+
+ 
+Apache Commons 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Apache Tomcat 
+ 
+ 
+
+ 
+
+(6)
+
+ 
+DELIVERY
+. 
+
+Within 30 days of the Effective Date, Licensor will ship to Pear a digital compact disc containing the Licensor Products. Licensor will make
+Upgrades available to Pear on a web site designated by Licensor and accessible using FTP protocols. 
+
+ 
+ 
+17 
+
+EXHIBIT C 
+
+STANDARD LEGAL TERMS AND CONDITIONS 
+ 
+2.
+
+Ownership
+. 
+ 
+2.1 
+Title to Licensor Products
+. Pear acknowledges that title to the Licensor IP made available to Pear by Licensor under this
+Agreement is and will remain the sole property of Licensor. Pear acknowledges that it has no proprietary interest in or right to use the Licensor IP or the Licensor Products except in accordance with the terms of the licenses granted in this
+Agreement. 
+ 
+2.2 
+Title to Pear IP
+. Subject to its underlying rights in the Licensor Products, Licensor acknowledges that title to the Pear IP is and
+will remain the sole property of Pear. Without limiting the generality of the foregoing and by way of illustration only, Licensor acknowledges that it has no proprietary interest in or right to use the Pear Data or the Pear-Owned Property except in
+accordance with the express terms of this Agreement. 
+ 
+2.3 
+Assignment
+. To the extent that Licensor has or at any time acquires any right, title or
+interest in or to any Pear Data, Integrated Products (excluding Licensor Products), Pear Customizations or any other Pear IP, Licensor hereby assigns all of such right, title and interest, including all copyrights, patents and other intellectual
+property rights, in and to such Pear IP to Pear. On request from Pear, Licensor shall execute any documents necessary to confirm and perfect Pear’s ownership of the Pear IP, at no additional cost to Pear. 
+
+3. 
+Confidentiality. 
+Neither party will use any Confidential Information of the disclosing party except as expressly permitted in this Agreement or as
+expressly authorized in writing by the disclosing party. Each party shall use the same degree of care to protect the disclosing party’s Confidential Information as it uses to protect its own Confidential Information of like nature, but in no
+circumstances less than reasonable care. Neither party is allowed to disclose the other party’s Confidential Information to any person or entity other than the receiving party’s officers, employees, consultants and legal advisors who need
+access to such Confidential Information to effectuate the intent of the Agreement. Each party agrees to notify the other of any unauthorized use or disclosure of Confidential Information and to provide reasonable assistance to such other party, and
+its licensors, in the investigation and prosecution of such unauthorized use or disclosure. 
+ 
+4. 
+Warranties. 
+Licensor represents and warrants each of
+the following: 
+ 
+4.1 
+Title
+. Licensor has title or the right to grant licenses to the Application and the Licensor Products in accordance with the
+terms of this Agreement and without the obligation to pay third parties in respect of such licenses by Licensor. 
+ 
+4.2 
+Performance
+. The Application
+and Licensor Products, and any Upgrades shall substantially conform to their specifications; provided however, that the foregoing warranty will not apply to the extent the Licensor Products are modified by Pear or used beyond the scope of the
+licenses granted in this Agreement. 
+ 
+4.3 Reserved. 
+
+4.4 
+Other Licenses
+. The performance of this Agreement and Pear’s use of the Licensor Products
+will not require any license to use the intellectual property of a third party, except as otherwise expressly set forth on Exhibit B. If any part of the Licensor Products contains third-party software, Licensor has the full power and authority to
+sublicense the third-party software as part of its license grant to Pear. 
+ 
+4.5 
+No Viruses
+. The Licensor Products will be tested with commercially
+available anti-virus software to detect the presence of any viruses, worms, disabling programming codes, instructions or other such items that may threaten, infect, damage, disable or otherwise interfere with the permitted use of the Licensor
+Products (“
+Virus
+”) and Licensor shall not deliver any Licensor Products to Pear unless the Licensor Products pass such tests. 
+ 
+4.6
+
+Malicious Technolog
+y. The Licensor Products as delivered to Pear will not: (i) contain any Malicious Technology, (ii) contain any files or features that will disable or destroy any functionality of the Licensor Products,
+(iii) monitor Pear’s or its Users’ use of the Integrated Products; (iv) replicate, transmit or activate itself without control of a person operating the computing equipment on which it resides; or (v) alter, damage or erase
+any data or computer programs without control of a person operating the computing equipment on which it resides. If the Licensor is in breach of this Section, no “right to cure” period will apply. Pear reserves the right to pursue any
+available civil or criminal action against Licensor for violation of this provision. Licensor will not install, use or execute any software on any Pear CPUs without Pear’s written approval. “
+Malicious Technology
+” means
+any software, electronic, mechanical or other means, device or function, 
+e.g
+. (key node, lock, 
+time-out,
+ “back door,” trapdoor,” “booby trap,” “drop dead device,”
+“data scrambling device,” “Trojan Horse,”) that would allow Licensor to: (i) monitor or gain unauthorized access to any Pear system, (ii) use any electronic self-help mechanism or (iii) restrict, disable, limit or
+impair the performance of a Pear system or network. 
+ 
+4.7 
+Compliance with Laws
+. Licensor will comply with all applicable laws, orders, codes and
+regulations in the performance of this Agreement and in its access to and use of Product Data as set forth in Section 3.2.1, including, if applicable, those regarding privacy and security of protected health information. Licensor warrants that
+it has not at any time been disbarred or excluded from participation in any federal healthcare program, nor is Licensor under investigation or consideration for such disbarment or exclusion. Licensor will obtain and keep current at its expense all
+governmental permits, certificates and licenses (including professional licenses, if applicable) necessary for Licensor to grant the licenses under this Agreement. Licensor will proactively and cooperatively work with and assist Pear in a timely
+manner to ensure that the Licensor Products have been effectively tested and complies with all legal requirements prior to or contemporaneously with the effective date of such legal requirements. 
+
+4.8 
+Good Standing
+. Licensor (i) is validly existing and in good standing, and is qualified to do business, in each jurisdiction where it will
+conduct business under this Agreement; (ii) the signing, delivery and performance of this Agreement by the party has been properly authorized; and (iii) no claims, actions or proceedings are pending or, to the knowledge of the party,
+threatened against or affecting the party that may, if adversely determined, reasonably be expected to have a material adverse effect on the party’s ability to perform its obligations under this Agreement. 
+
+4.9 
+Open Source
+. The Licensor Products are not subject to any requirements that would give rise under
+applicable open source license agreements to any rights in any third parties with respect to the Licensor Products or any derivative works, or obligations for Pear to disclose or distribute the Integrated Products in source code form, or
+conditioning the distribution of Integrated Products on disclosure of any source code, or to license the Integrated Products for the purpose of making derivative works, or to distribute Integrated Products without charge. 
+
+4.10 
+Breach of Warranty; Remedy
+. If there is a breach of any warranty, Licensor will promptly replace and/or repair the nonconforming Licensor Products
+at Licensor’s sole cost. If Licensor fails to promptly replace and/or repair nonconforming Licensor Products, Pear may, in addition to exercising any other available remedies, replace or repair nonconforming Licensor Products and take as a
+credit against payments due Licensor an amount equal to the actual documented costs of such repair or replacement of the Licensor Products (but not costs relating to other components of Integrated Products) or terminate the license at Pear’s
+sole discretion and receive a 
+pro-rata
+ refund for any 
+pre-paid
+ fees prior to such date of termination. 
+
+5. Indemnification. 
+ 
+5.1 
+Indemnification
+. (a) Subject
+to the provisions of Section 4.1(c), Licensor shall defend, indemnify and hold harmless Pear and its affiliated entities, and all of their officers, directors, employees, agents, successors and assigns from and against any and all claims,
+proceedings, damages, injuries, liabilities, losses, costs and expenses (including reasonable attorney’s fees and litigation expenses) (
+“
+Losses
+”
+) arising from any third party claim: that the
+Licensor Products infringe any intellectual property right of any third person. Licensor shall have no liability or obligation to LICENSEE under this Section 4.1(a) with respect to any infringement claim in the event and to the extent based
+upon: (i) use of the Licensor Products in an application or environment or on a platform or with devices for which the Licensor Products was not designed or contemplated; (ii) modifications, alterations or enhancements of the Licensor
+Products not created or authorized by Licensor; (iii) any patent, copyright or trademark in which Pear or any Affiliate of Pear has an ownership interest; (iv) the combination of Licensor Products with other software, hardware, products,
+processes, methods, or applications not furnished, authorized or contemplated by Licensor; (v) failure of Pear to install Upgrades to the Licensor Products provided by Licensor; or (vi) Pear continuing its infringing activities after being
+notified of such infringement by Licensor; in each case of clauses (i) through (vi), where no such claim would have been possible had such activities not taken place. The foregoing indemnification action shall not apply in the event and to the
+extent that such Losses arose as a result of any indemnified party’s negligence, intentional misconduct or breach of this Agreement, or is the subject of Section 4.1(b). 
+
+(b) Subject to the provisions of Section 4.1(c), Pear will defend, indemnify and hold harmless Licensor and its affiliated entities, and all of their
+officers, directors, employees, agents, successors and assigns from and against any and all Losses arising from any third party claim to the extent arising from or related to: use, sale or other disposition by Pear or by any party acting on behalf
+of or under authorization from Pear, of Integrated Products to the extent such Losses are not based on the Licensor Products and are not otherwise subject to indemnification by Licensor under the terms of Section 4.1(a). The foregoing
+indemnification action shall not apply in the event and to the extent that such Losses arose as a result of any indemnified party’s negligence, intentional misconduct or breach of this Agreement, or is the subject of Section 4.1(a). 
+
+(c) To receive indemnification under Section 4.1(a) or Section 4.1(b), the party seeking
+indemnification must promptly notify the indemnifying party in writing of a claim or suit and provide total cooperation and immediately tender to the indemnifying party (and its insurer) full authority to defend or settle the claim or suit. The
+party seeking indemnification shall cover all costs associated with its defense until the claim is finally resolved at which time the indemnifying party shall reimburse the indemnitee for such costs associated with the prosecution of the claim.
+Neither party has any obligation to indemnify the other party in connection with any settlement made without the indemnifying party’s written consent. 
+
+5.2 
+Disruption of Use of Licensor Products
+. If a third-party claim subject to indemnification under Section 4.1(a) prevents Pear’s use of the
+Licensor Products, Licensor shall, at Licensor’s sole option: (a) replace the Licensor Products, without additional charges, with a functionally equivalent and 
+non-infringing
+ product; or
+(b) modify the Licensor Products to avoid the infringement; or (c) obtain a license for the Pear to continue use of the Licensor Products and pay for any additional fee required for such license. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN
+THIS AGREEMENT, THE FOREGOING STATES LICENSOR’S ENTIRE LIABILITY AND PEAR’S EXCLUSIVE REMEDY FOR PROPRIETARY RIGHTS INFRINGEMENT. 
+ 
+6.
+
+LIMITATION OF LIABILITY
+. EXCEPT IN THE EVENT OF BREACH OF ITS CONFIDENTIALITY OBLIGATIONS, OR INFRINGEMENT OF THE OTHER PARTY’S INTELLECTUAL PROPERTY RIGHTS, OR INDEMNIFICATION OBLIGATIONS UNDER THIS AGREEMENT, IN NO EVENT WILL EITHER
+PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES, OR DAMAGES ON ACCOUNT OF LOSS OF PROFITS OR FAILURE TO ACHIEVE ANTICIPATED REVENUES, EVEN IF SUCH DAMAGES WERE WITHIN THE CONTEMPLATION OF THE PARTIES.
+EXCEPT FOR INDEMNIFICATION OBLIGATIONS UNDER THIS AGREEMENT, OR A BREACH OF ITS CONFIDENTIALITY OBLIGATIONS, OR INFRINGEMENT OF THE OTHER PARTY’S INTELLECTUAL PROPERTY RIGHTS, IN NO EVENT WILL EITHER PARTY’S TOTAL AGGREGATE LIABILITY FOR
+ALL CLAIMS ARISING OUT OF THIS AGREEMENT EXCEED THE AMOUNT PAID OR PAYABLE BY PEAR UNDER THIS AGREEMENT PRIOR TO THE EFFECTIVE DATE OF THE NOTICE OF ANY SUCH CLAIM. THIS PROVISION APPLIES REGARDLESS OF HOW THE LIABILITY AROSE OR THE THEORY OF
+LIABILITY, INCLUDING WITHOUT LIMITATION CONTRACT OR TORT (INCLUDING PRODUCTS LIABILITY, STRICT LIABILITY, NEGLIGENCE AND MISREPRESENTATION). 
+ 
+7. 
+Term
+And Termination
+. 
+ 
+7.1 
+Term
+. The term of this Agreement begins on the Effective Date and will continue for the duration of the License Term (the
+“Term”). 
+ 
+7.2 
+Termination for Material Breach
+. If a party materially breaches this Agreement, the other party must give the breaching
+party a material breach notice, identifying the action or inaction that is the basis of the breach. The party giving the breach notice may terminate this Agreement if the other party does not cure the breach to the reasonable satisfaction of the 
+non-breaching
+ party within thirty (30) days after receiving the breach notice. No breach under this Agreement will constitute a breach under any other agreement, license or schedule between the parties. Unless
+otherwise provided in the breach notice or unless the breach has been cured to the reasonable satisfaction of the 
+non-breaching
+ party, the termination is effective
+
+thirty-one
+ (31) days after the breach notice is given. 
+
+7.3 Reserved. 
+
+7.4 Reserved. 
+ 
+7.5 
+Termination Without Cause
+. Pear may at
+any time without cause terminate this Agreement upon at least sixty (60) days written notice to Licensor. 
+ 
+7.6 
+Effect of Termination
+.
+Termination of this Agreement is without prejudice to any other right or remedy of the parties. Termination of this Agreement for any reason does not release either party from any liability which, at the time of termination, has already accrued to
+the other party, or which may accrue in respect of any act or omission prior to termination or from any obligation which is expressly stated to survive the termination. 
+
+7.7 
+Post-Termination Obligations
+. Upon termination of this Agreement, the parties will perform the following obligations: 
+
+ 
+
+ 
+
+(A)
+
+ 
+Within fifteen (15) days after the effective date of termination or expiration, each party will return to
+the other party all Confidential Information of the other party in its possession; Licensor will return Pear Owned Property to locations designated by Pear, and Pear will return all Licensor Products in its possession; 
+
+ 
+
+ 
+
+(B)
+
+ 
+Within thirty (30) days after the effective date of termination or expiration, Licensor will invoice Pear
+for any final amounts accrued prior to the effective date of termination under the Agreement; 
+ 
+ 
+
+ 
+
+(C)
+
+ 
+Within one hundred ninety (190) days after the effective date of termination, Pear will terminate
+availability of access to the Integrated Products. The parties will mutually agree on mechanisms for Licensor to monitor such cessation, which may include a license validation system incorporated into the Integrated Product, and the right to monitor
+App Store listings; and 
+ 
+ 
+
+ 
+
+(D)
+
+ 
+Both parties will immediately discontinue making any statements or taking any actions that might cause third
+parties to infer that a business relationship continues to exist between the parties under the Agreement, and where necessary or advisable, the parties will inform third parties that the parties no longer have a business relationship.
+
+ 
+8. 
+Miscellaneous
+. 
+ 
+8.1
+
+B
+ankruptcy
+. All rights and licenses granted under or pursuant to this Agreement by Licensor are, and will otherwise be deemed to be, for purposes of Section 365(n) of Title 11 of the United States Code (the “
+Bankruptcy
+Code
+”) and other similar foreign laws, licenses of rights to “intellectual property” as defined under Section 101 of the Bankruptcy Code or such foreign laws. 
+
+The parties agree that Pear will retain and may fully exercise all of its rights and elections under applicable law and under the Bankruptcy Code. 
+
+8.2 
+Notice
+. Notices provided under this Agreement must be in writing and delivered by (i) certified mail, return receipt requested, (ii) hand
+delivered, (iii) facsimile with receipt of a “
+Transmission OK
+” acknowledgment, 
+(iv) e-mail,
+ or (v) delivery by a reputable overnight carrier service (in the case delivery
+by facsimile or 
+e-mail
+ the notice must be followed by a copy of the notice being delivered by a means provided in (i), (ii) or (v)). The notice will be deemed given on the day the notice is received. In the
+case of notice by facsimile or 
+e-mail,
+ the notice is deemed received at the local time of the receiving machine, and if not received, then the date the 
+follow-up
+ copy is
+received. Notices must be delivered to the following addresses or at such other addresses as may be later designated by notice: 
+ 
+ 
+
+Pear:
+
+  
+
+Licensor:
+
+Corey McCann
+
+  
+
+[***]
+
+200 State Street, 13
+th
+ Floor
+
+  
+
+[***]
+
+Boston, MA 02109
+
+  
+
+[***]
+
+Email: [***]
+
+  
+
+[***]
+
+ 
+8.3 
+Assignment
+. This Agreement shall be binding upon and inure to the benefit of the parties hereto, their successors,
+assigns, and legal representatives. Except as otherwise set forth in this Agreement, Pear will not assign any of the licenses granted to it under the Agreement in whole or in part without Licensor’s prior written consent; provided however that
+notwithstanding the foregoing, (i) Pear may assign this Agreement to any successor to its business, including by a purchase or sale of all or substantially all of the assets, stock or business operations, any change of control, acquisition,
+merger or consolidation of either party into, by, or with another entity, or any other transfer by operation of law (a “Transaction”); and (ii) Pear may hire or contract with third parties of its choice to assist it in fulfilling its
+obligations and exercising any of its rights pursuant to this Agreement, provided that Pear will remain liable for the subcontractor’s performance. 
+
+8.4 
+Access to Books and Records
+. To the extent that Section 952 of P.L. 
+96-499
+ (42 U.S.C.
+Section 1395x(v)(1)) is applicable to this Agreement, the parties agree as follows: (a) until the expiration of four (4) years after the furnishing of such services pursuant to this Agreement, each party shall make available, upon
+written request of the Secretary of the U.S. Department of Health and Human Services or upon request of the Comptroller General of the United States, or any of his/her duly authorized representatives, this Agreement, and books, documents and records
+of such party that are necessary to certify the nature of the duties of this Agreement; and (b) if either party performs its services hereunder through a subcontract with a value of cost of Ten Thousand Dollars ($10,000) or more over a twelve
+(12)-month period, then any such subcontract shall contain a clause to the effect that until the expiration of four (4) years after the furnishing of such services pursuant to such subcontract, the related organization shall make available,
+upon written request of the Secretary of the U.S. Department of Health and Human Services or upon request of the Comptroller General of the United States, or any of his/her duly authorized representatives, the subcontract, and books, documents and
+records of such organization that are necessary to verify the nature and extent of the cost of services provided pursuant to such subcontract. 
+
+8.5 
+Governing Law
+. This Agreement shall be governed, interpreted and enforced under and in accordance
+with the laws of Delaware, excluding its conflicts of law provisions. Each party irrevocably and unconditionally waives any right it may have to a trial by jury in respect of any legal action arising out of or relating to this Agreement or the
+transactions contemplated hereby. 
+ 
+8.6 
+Unenforceability
+. Should any of the parties’ obligations under this Agreement be found illegal or
+unenforceable in any respect, such illegality or unenforceability shall not affect the other provisions of the Agreement, all of which shall remain enforceable in accordance with their terms. Any unenforceable provisions shall be replaced by an
+enforceable provision effecting the intention of the parties, as determined by the tribunal of fact. 
+ 
+8.7 
+Currency
+. All amounts are stated and
+payable in United States dollars. 
+ 
+8.8 
+Survival
+. The following sections of the main body of the Agreement and of this Exhibit C will survive
+expiration or termination of this Agreement for any reason: Section 4 of the main body of the Agreement (“HIPAA Requirements”); and Sections 1 (“Ownership”), 2 (“Confidentiality”), 3 (“Warranties”), 4
+(“Indemnification”); 5 (Limitation of Liability); 6.6 (“Effect of Termination”), 6.7 (“Post-Termination Obligations”), and 7 (Miscellaneous) of this Exhibit C. 
+
+8.9 
+Use of Name
+. Nothing in this Agreement grants Licensor the right to use any trademarks, trade names or logos proprietary to Pear. If Licensor is
+granted a right to use such marks, Licensor will do so only in strict compliance with Pear guidelines provided by Pear. All goodwill associated with any use of Pear trademarks will inure to Pear. 
+
+8.10 
+Remedies
+. All rights and remedies of the parties, under this Agreement, in law or at equity, are cumulative and may be exercised concurrently or
+separately. The exercise of one remedy will not be an election of that remedy to the exclusion of other remedies. 
+ 
+8.11 
+Applicability of Laws
+. Each
+party will comply with all applicable export laws, obtain any applicable export licenses and will not export or 
+re-export
+ any part of the Licensor Products to any country in violation of such restrictions, or
+any country that may be subject to an embargo by the United States. 
+ 
+8.12 
+Public Announcements
+. Neither party will make any public announcement
+regarding the business relationship of the parties or this Agreement without the other party’s prior express written permission, unless required by law; in which case, the disclosing party will provide the other party as much advance written
+notice as reasonably possible. Notwithstanding the foregoing, Pear will be entitled, without Licensor’s prior consent, to publicly disclose the existence of the licensee/licensor relationship under this Agreement, but not the specific
+commercial terms of the Agreement. 
+ 
+8.13 
+Entire Agreement
+. This Agreement, including Exhibits, all of which are attached, constitute the entire
+Agreement and understanding between Licensor and Pear concerning the subject matter hereof, and supersedes and terminates all prior written and oral agreements, proposals, promises, and representations of the parties respecting the subject matter of
+this Agreement. In the event of any conflict or ambiguity between any Exhibit and the terms and conditions set forth in this Agreement, the terms and conditions in this Agreement shall control.

@@ -1,0 +1,713 @@
+EX-10.2
+
+3
+
+bmtx-2023x0331xex102.htm
+
+EX-10.2
+
+Document
+DEPOSIT PROCESSING SERVICES AGREEMENT
+THIS DEPOSIT PROCESSING SERVICES AGREEMENT 
+(this 
+"Agreement") 
+is entered into as of this 22nd day of March, 2023 
+("Effective Date") 
+by and between Customers Bank 
+("Bank"), 
+a Pennsylvania state chartered bank with its principal place of business at 40 General Warren Blvd, Suite 200 Malvern, PA 19355, and BM Technologies, Inc. 
+("BMT"), 
+a Delaware corporation with its principal place of business at 201 King of Prussia Road, Suite 650, Radnor, PA 19087. BMT and Bank are hereinafter referred to, collectively, as the 
+"Parties," 
+and individually each as a 
+"Party."
+RECITALS
+WHEREAS, 
+Bank is a Member of the Federal Reserve System that, among other things, offers and maintains personal deposit accounts for customers;
+WHEREAS, 
+Bank is engaged in the business of white label banking (also known as Banking as a Service or 
+"BaaS");
+WHEREAS, 
+BMT offers financial technology solutions and related services, including deposit processing services, to chartered banks and non-chartered FinTech companies;
+WHEREAS, 
+Bank is a party to that certain Private Label Banking Program Agreement., dated February 24, 2017 (as amended, the 
+"PLBPA"), 
+by and between Bank and T-Mobile USA, Inc 
+("TMO");
+WHEREAS, 
+in further support of Bank's Baas program and Bank's initiative to accumulate low-to-no cost deposits, Bank desires to delegate to BMT, and BMT desires to assume and provide to TMO, in accordance with the terms and conditions of this Agreement, any and all services, duties and obligations under the PLBPA that are not required by Applicable Law to be provided by an FDIC insured financial institution; and
+WHEREAS, 
+Bank and BMT are parties to that ce1tain Deposit Processing Services Agreement, dated as of January 4, 2021, as amended (the 
+"2021 DSA"), 
+and each of Bank and BMT desire that, as of March 31, 2023, this Agreement, and not the 2021 DSA, shall govern the terms, conditions, roles, responsibilities, duties and obligations of the Parties with respect to the PLBPA and the Depositor Accounts (defined below);
+NOW, THEREFORE, 
+in consideration of the mutual covenants and representations contained herein, and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged and intending to be legally bound, the Parties hereto agree as follows:
+SECTION I DEFINITIONS
+1.1
+Certain Definitions. 
+As used in this Agreement, the following terms have the definitions indicated.
+"Applicable Law" 
+means all applicable federal and state statutes, regulations, judicial decisions, rules, orders and requirements, of a Regulatory Authority as such statutes, regulations, requirements, or orders, may be amended or in effect from time to time during the term of this Agreement.
+"BMT FinTech" 
+means all proprietary software owned or licensed by BMT and made available to Bank pursuant to this Agreement and/or pursuant to the January 4, 2021 Software License agreement by and between the Parties, including, but not limited to, its mobile and web-based applications, user interface, data systems, databases, financial and banking processes, and related systems and processes used and operated by BMT in connection with its online banking system for retail and commercial Banking and financial services.
+"BSA Laws" 
+means 
+(i) 
+the Bank Secrecy Act of 1970, as supplemented by the Uniting and Strengthening
+America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act, and any rules and regulations promulgated thereunder; (ii) Office of Foreign Asset Control 
+("OFAC")
+ rules and regulations regarding the blocking of assets and the prohibition of transactions involving Persons or countries designated by OFAC; and
+(iii) any other Applicable Laws relating to customer identification, anti-money laundering or preventing the financing of terrorism and other forms of illegal activity, each as amended.
+"Card" 
+means a debit card or other electronic access device issued by any Party or any third party financial institution to a Depositor for purposes of accessing the Depositor Account.
+"Complaint" 
+means an oral or written statement or inquiry from a Depositor, or his or her representatives, expressing dissatisfaction about products and/or services offered by Bank and serviced by BMT, including those in conjunction with a Third-Party Provider, and regulatory correspondence, including but not limited to federal and state authorities.
+"Complaint Log" 
+means a report which is prepared monthly by BMT for each calendar month listing all Complaints received by BMT during the prior calendar month and the disposition of prior Complaints during the prior calendar month. The Complaint Log shall include, without limitation, the date the Complaint was received, the channel of receipt (telephone, email, specific agency such as the FDIC or Better Business Bureau), the date the Complaint was responded to, a description of the issues raised in the Complaint, and a description of the resolution of the Complaint.
+"Escalated Complaints" 
+means (i) Complaints filed by, or forwarded from, any federal or state regulator;
+(ii) Complaints filed with any government official - federal, state or local; (iii) Complaints with specific allegations of discriminatory practices; (iv) Complaints with specific allegations suggesting the Servicer or Purchaser has engaged in an unfair, deceptive, or abusive act or practice; (v) Complaints with specific allegations of fraudulent practices, in each case, with respect to loan servicing; or (vi) Complaints alleging violations of consumer protection laws or regulations.
+"Depositor" 
+means a T-Mobile Customer (as defined in the PLBPA).
+"Depositor Account" 
+means a T-Mobile Customer Account (as defined in the PLBPA).
+"Depositor Agreement" 
+means the agreement that governs the relationship among Bank, BMT and a Depositor and prescribes the terms and conditions under which the related Depositor Account is established, maintained and used, and all related disclosures provided with respect thereto.
+"Depositor Program" 
+means the administration and processing operation of BMT with respect to Depositor Accounts pursuant to the Depositor Agreement.
+"Durbin Exempt" 
+means financial institutions in the exempt category that have been determined to have, together with their affiliates, reported assets of less than $10 billion, and therefore are exempt from the interchange fee standards under 12 CFR Part 235.
+"FDIC" 
+means the Federal Deposit Insurance Corporation or any successor entity.
+"Financial Transaction(s)" 
+means a Depositor Account transaction involving the withdrawal of funds from or the deposit of funds to a Depositor Account.
+"Graphic Standards" 
+means all standards, policies, and other requirements adopted by Bank from time to time with respect to use of its Marks.
+"Issuer Network Assessments" 
+means domestic assessments, cross-border volume fees, transaction processing fees, and other related fees, net of rebates and incentives, assessed by the payment card or ATM networks
+(or any similar entities) on Bank for providing transaction processing and other payment-related products and services.
+"Mark" 
+means trade names, trademarks, service marks and logos, whether or not registered.
+"Material Adverse Effect" 
+means a change, effect, event, or circumstance that would have, individually or in the aggregate, a material adverse change in, as the case may be, the assets, liabilities, financial position, or results of operations, prospects, or business conditions of a Party, taken as a whole.
+"Net Interchange Fees" 
+means the total of all interchange revenue (net of any Issuer Network Assessments) received from payment card networks in connection with the use of Cards.
+"Network" 
+means Allpoint, MasterCard, VISA, Cirrus, Plus, and/or any similar electronic payment processing system over which Financial Transactions with respect to debit, credit and prepaid cards are captured, authorized, processed, and settled.
+"Network Rules" 
+means the laws and/or operating rules of any Network, as may be amended from time to time and provided to BMT in writing.
+"OFAC" 
+means the U.S. Department of Treasury's Office of Foreign Assets Control.
+"Personnel" 
+means a Party's employees, contractors and agents.
+"Regulatory Authority" 
+means any local, state, or federal agency, office, or supervising entity, or any other authority having jurisdiction over Bank or BMT, in such a manner as to impact the operations or activity being contemplated under this Agreement.
+"Solicitation Material" 
+means all adve1iisements, brochures, applications, telemarketing scripts, point of purchase displays, packaging, television adve1iisements, radio advertisements, electronic web pages, electronic web links, and any other type of advertisement, marketing material, or interactive media developed, launched, or distributed for purposes of marketing or promoting a Depositor Program.
+"Subcontractor" 
+means any third party engaged by BMT in connection with the services provided by BMT hereunder.
+"Supervisory Objection" 
+has the meaning set fo1ih in Section. 7.2(d).
+"Term" 
+has the meaning set forth in Section 7.1.
+SECTION II OBLIGATIONS AND COVENANTS
+2.1
+General Intent. 
+Bank hereby delegates to BMT, and BMT hereby assumes and agrees to provide to TMO, on behalf of Bank, any and all se1vices, duties and obligations under the PLBPA that are not required by Applicable Law to be provided by an FDIC insured financial institution,. Additionally, as set forth herein, BMT, on behalf of Bank, will provide setup, processing, reporting, customer care and other administrative services including, but not limited to, customer services, with respect to those Depositor Accounts, and Bank will establish and maintain the Depositor Accounts opened by such customers.
+2.2
+Prior Agreements. 
+As of March 31, 2023, (a) this Agreement and not the 2021 DSA shall govern the terms, conditions, roles, responsibilities, duties and obligations of the Parties with respect to the PLBPA and the Depositor Accounts; and (b) the 2021 DSA is hereby amended to the extent necessary or advisable to effect the same, including, without limitation, such that "Depositor" under the 2021 DSA shall not include any T-Mobile Customer (as defined in the PLBPA).
+2.3
+Specific Obligations of BMT. 
+BMT shall be responsible for the following obligations (the 
+"Services")
+in accordance with Network Rules and Applicable Law:
+(a)
+Operations of Depositor Program.
+ 
+BMT, directly or pursuant to contracts with permitted third party service providers, shall provide for all necessary operations of the Depositor Program, which shall include, without limitation, the obligations set forth in 
+Schedule 2.3
+, including the necessary management, financial expertise, staff, and software needed to conduct the Depositor Program, excluding all Bank staff, systems, networks, utilities, software, and hardware. BMT will not make any material change to the products or services offered under the Depositor Program without the prior written approval of Bank.
+(b)
+Master Account Recordkeeping
+. 
+BMT will provide the appropriate repo1ts and supporting documentation necessary for Bank to make entries to an account established by Bank for such purpose to (i) reflect the Financial Transactions to the Depositor Accounts and (ii) maintain such necessary records to establish a Depositor Account for each individual Depositor with sufficient detail as required by Applicable Law to assist in ensuring that the Depositor Accounts qualify for FDIC insurance.
+(c)
+Verification of Customer Identity.
+ 
+BMT, consistent with policies and procedures that shall be developed by BMT shall be responsible for the collection and verification of such Depositor information as is necessary to
+(I) verify Depositor identity and complete appropriate Office of Foreign Assets Control validation and (ii) to satisfy the customer identification program requirements applicable to insured depository institutions found in 31 C.F.R. Chapter X. For the avoidance of doubt, Bank hereby acknowledges that BMT's policies and procedures in place relating to the verification of customer identity as referenced in the preceding sentence are approved as of the Effective Date. Bank shall have the right to review, recommend modifications, and approve, in its sole discretion all such policies and procedures in the future.
+(d)
+Depositor Account Recordkeeping
+. 
+BMT shall be responsible for the processing of all transactional activity in connection with the Depositor Accounts, including: (i) ACH and wire transfer transactions initiated at the direction of Depositors; (ii) deposits to Depositor Accounts (via ACH, mail, wire transfers, and direct credits); and (iii) coordinating and providing support for payments made from Depositor Accounts, including payment by check, debit card, and electronic payment.
+(e)
+Check Production and Card Management.
+ 
+BMT shall be responsible for the following:
+i.
+arranging for the production of all checks and/or Cards provided to Depositors in connection with any Depositor Account, including the manufacturing, printing, and distribution of all checks and/or Cards including providing the Depositor Agreement related thereto, identifying third party financial institutions as. the Card issuer on each Card and the related Depositor Agreement, and including such other names and Marks as may be required to conform to Graphic Standards, Applicable Law, and the Network Rules;
+ii.
+handling and distributing, or having arranged for the handling and distributing of Cards and/or checks as necessary; and
+iii.
+managing all security aspects of the Cards.
+(f)
+Document Retention.
+ 
+Consistent with Applicable Law or Network Rules, BMT shall retain on behalf of Bank such potential Depositor's application, 
+all
+ supporting information and documentation, and any reports prepared therefrom, as provided by Applicable Law and the Network Rules, and shall at all times be available to Bank in electronic form promptly upon request.
+(g)
+Compliance with Law and Regulation.
+ 
+BMT shall develop, implement, and maintain internal controls reasonably designed to ensure regulatory compliance at all times with Applicable Law including providing
+Bank with applicable fraud-related information to assist Bank with its Bank Secrecy Act/Anti- Money Laundering obligations and maintaining necessary tax documentation for Depositors (as applicable), maintaining an appropriate regulatory compliance training program, and ensuring the ongoing oversight of third parties for compliance with Applicable Law to identify areas of improvement, weaknesses, and trends that may identify non-compliance with applicable laws and/or agreed upon contracts.
+(h)
+Banking Services.
+ 
+Bank will act as a correspondent to enable BMT to provide banking services including wire processing services, ACH processing services, onboarding, fraud, check processing services, network BIN sponsorship services and ATM sponsorship in connection with the Depositor Program. BMT shall be responsible for all costs, fees and expenses incurred in connection with its responsibilities under this Agreement to obtain banking services through such third-party financial institutions.
+(i)
+Marketing and Advertising.
+ 
+BMT shall work with TMO for marketing the Depositor Program to end users, in accordance with the terms and conditions of the PLBPA. In all cases, Bank will have final authority and approval for all Solicitation Materials.
+(j)
+Software Development and Maintenance.
+ 
+BMT will oversee, develop and implement any technology and software development, improvement, update, addition or other revision required by TMO under the PLBPA or any Bank Regulator, and BMT will bear any and all costs therefor. Without limiting the foregoing, BMT shall be responsible for the costs of any technology enhancement credit or reduction in any maintenance fees under the PLBPA. BMT shall be responsible for performing all software maintenance. Any and all material changes to any software of other technology supporting the Depositor Program must be preapproved in writing by Bank.
+(k)
+Data Security
+. At all times during the term of this Agreement, BMT will comply with the terms, conditions, policies and procedures set forth on Exhibit A (Data Security).
+(l)
+Interest Expense Banking Services
+. 
+BMT and/or TMO will bear the full costs of any interest paid to Depositors in the Depositor Program. BMT shall administrate the calculation and crediting of funds to the accounts on behalf of Bank.
+2.4
+Specific Obligations of Bank. 
+Bank shall perform the following obligations in accordance with the Network Rules and Applicable Law:
+(a)
+Sponsorship into money movement channels.
+ 
+Bank will sponsor BMT into Fed, money movement, card networks and other associations necessary to enable BMT to provide services described herein to Depositors. If the Parties determine that it is necessary to obtain a separate routing/transit number, solely with respect to the Depositor Program, Bank shall cooperate with BMT in its efforts to transfer a routing/transit number from a third party financial institution which may include working with BMT and one or more of its existing bank partners to transfer an existing routing/transit number(s), including by entering into any required agreements to facilitate the continued use of existing routing/transit number(s) and, if necessary, obtain and maintain a separate routing/transit number in connection with the Depositor Program.
+(b)
+Deposit Insurance.
+ 
+Bank shall ensure that its FDIC deposit insurance remains in full force and effect so that the Depositor Account of each Depositor qualifies for FDIC deposit insurance, subject to FDIC rules and regulations, in the Depositor's individual right and capacity, either on a pass-through or direct basis. Bank shall bear all costs associated with providing this insurance.
+(c)
+Availability
+ 
+of Checks.
+ 
+Bank shall permit BMT to make payable through in connection with certain Depositor Accounts to be made available to each Depositor through BMT, with which Depositors may draw against their Depositor Accounts, and Bank shall permit these payable through check transactions when properly drawn on the Depositor Accounts based on funds available in the Depositor Accounts, all in
+accordance with any Depositor Agreement.
+(d)
+Availability of Cards
+. 
+Bank shall sponsor BMT in accordance with Card Network rules to (i) permit the Depositor Accounts to be linked to Cards issued by a third party financial institution available to Depositors serviced by BMT allowing Depositors to execute Card transactions based on funds available in the Depositor Accounts in compliance with applicable Network Rules and (ii) permit the Card transactions made by Depositors based on funds available in the Depositor Accounts and applicable Network Rules.
+(e)
+ATM Operations.
+ 
+BMT is solely responsible for managing an ATM network and will ensure that network is serviced, maintained, settled and monitored in accordance with industry standard practices for ATMs and Applicable Law. Bank will sponsor BMT in the ATM network.. Notwithstanding the foregoing, Bank shall provide the cash on deposit at appropriate levels for designated BMT ATMs at no cost to BMT.
+2.5
+Compliance Obligations. 
+Each Party shall pe1form its respective obligations under this Agreement pursuant to Applicable Law. Each Party shall possess and maintain at all times all licenses, permits, approvals, and registrations required by Applicable Law to perform its obligations pursuant to this Agreement. Each Party, at its own expense, shall be responsible for obtaining any and all regulatory approvals related to the transactions contemplated herein, and shall use its respective best effo1ts to obtain all such regulatory approvals and cooperate with the other Party to facilitate the procurement of all such regulatory approvals.
+2.6
+Handling of Complaints. 
+BMT shall notify Bank of any and all complaints related to a Depositor Account received in connection with the Depositor Program from a Regulatory Authority, and shall promptly respond to and resolve such complaints as instructed by Bank. In addition, BMT shall cooperate with Bank in assessing and evaluating the frequency, nature, or underlying causes for any consumer complaints, and preventing the recurrence thereof. Each notice regarding a Depositor or third-party complaint shall include the name and address of the complainant, a brief summary of the complaint, the date upon which such complaint or inquiry was received, and BMT's proposed resolution thereof.
+(a)
+Tracking Complaints.
+ 
+BMT shall track and provide reporting related to Complaints related to the bank. The tracking requirements of this clause (a) shall apply to all Complaints, whether received orally or in writing, including those delivered by email or other electronic media, and shall include a description of the nature of the Complaint, root cause, and BMT's response thereto. BMT shall provide Bank with a copy of the Complaint Log for each calendar month on or before the tenth (10th) day of the following calendar month. Escalated Complaints shall be reported to the Bank within two (2) Business Days of BMT being notified of such Escalated Complaint. 
+If 
+Bank is named in the Escalated Complaint, BMT shall notify Bank promptly after receiving such Escalated Complaint and BMT will identify in the Complaint Log which Escalated Complaints specifically name Bank. BMT shall maintain an internal procedure to ensure that all Complaints are tracked and responded to appropriately in accordance with generally accepted practices related to the deposit processing services, and shall provide Bank with evidence thereof upon request.
+(b)
+BMT Complaint Responses.
+ 
+With respect to each Escalated Complaint in which Bank is named, BMT shall forward each proposed response to Bank for review prior to sending the response to the Person that made the Escalated Complaint. Bank shall have three (3) Business Days from receipt of BMT's proposed response to mutually agree upon each such proposed response with the Bank. 
+If 
+Bank and BMT cannot mutually agree upon a response within three (3) Business Days, then BMT may send the response to such Complaint in such form, and when, it deems necessary or appropriate. The final written response to any Complaints shall be maintained in such a manner that Complaints can be promptly identified by BMT. Without limiting any other obligations of BMT to provide responses to Complaints as provided herein, upon Bank's request, BMT shall provide Bank with electronic copies of all final written responses to Complaints.
+(c)
+Recording and Monitoring of Servicing-Related Telephone Calls
+. 
+With respect to the recording and monitoring of servicing-related telephone calls with consumers, BMT shall:
+i.
+retain recordings of such telephone calls for a period of at least one (1) year from the date on which such telephone calls were recorded; and
+ii.
+permit Bank, upon request, to listen to a sampling of such recorded telephone calls or provide unredacted recorded calls to the bank upon request.
+(d)
+Personnel Training.
+ 
+BMT shall, at all times during the term of this Agreement, ensure that all of its Personnel involved in the servicing are appropriately and currently trained in all aspects of their respective duties.
+i.
+During the course of Bank's review, Bank may request additional documentation from BMT. This information is to be gathered and provided upon request within established timeframes or within timeframes to satisfy regulatory requests.
+ii.
+If 
+appropriate and in the existence of a BMT error proximately causing an Escalated Complaint, Bank may request that BMT issue fee refunds and an apology letter/email to complaining consumers. All copies of documentation for the refund and the apology letter/email should be saved with the relevant complaint folder.
+2.7
+Approvals of Solicitation Materials. 
+All Solicitation Materials shall be submitted to Bank in advance for Bank's prior written approval (which approval (i) may be granted or withheld in Bank's sole discretion, and (ii) shall be provided within four (4) business days) and, as necessary, the approval of any third parties. BMT shall not release, launch, or distribute any Solicitation Materials in any form without having first obtained confirmation Bank approvals. Notwithstanding the foregoing, the Parties agree that non-material changes to the approved Solicitation Materials shall not require the approval of Bank. The content of all Depositor Agreements, shall be subject to Bank's prior written approval (which approval (i) may be granted or withheld in Bank's sole discretion, (ii) shall be provided within four (4) business days and (iii) may not be unreasonably withheld, conditioned or delayed) and the approval of any applicable third parties to the extent expressly required. Notwithstanding Bank's approval of the form or content of a Depositor Agreement, Bank shall have the right, in its sole and absolute discretion, from time to time, with reasonable advance notice, if possible, to require alterations to or amendments of, or provide a substitute for, the Depositor Agreement (each a "Revision" and, collectively, "Revisions") thereof in the event that (1) Bank reasonably determines that Applicable Law or Network Rules require such Revision, (ii) either Party receives any written demand or order from a court, Regulatory Authority, or a Network, mandating that such Revisions must be implemented, or (iii) either Party receives or becomes aware of an actual or threatened legal claim based upon or in any way related to the affected portion of the Depositor Program. Bank shall notify BMT in writing of any required Revisions, and, unless otherwise directed by Bank, BMT shall within the timeframe set f01ih by Applicable Law (i) incorporate said Revisions into such Depositor Agreement and/or Solicitation Materials as may be distributed thereafter, and (ii) distribute replacement Depositor Agreements incorporating the Revisions to all Depositors who had received prior versions of the Depositor Agreement. Bank hereby acknowledges that it approves the current version of the Depositor Agreement.
+2.8
+Access to BMT Reports. 
+BMT shall provide Bank with access to all repo1is, and such services as Bank requests, to facilitate settlements, balance and reconcile Depositor Accounts, monitor for fraudulent Financial Transactions, comply with Bank's Bank Secrecy Act and OFAC obligations, and otherwise monitor regulatory compliance, BMT shall keep accurate, complete, and up to date records on behalf of Bank of (1) the identity of each Depositor and the steps taken to verify such identity; (ii) all charges, Financial Transactions, and fees that have been made or charged Depositor, and (iii) such other information as may from time to time be required by Bank or Applicable Law (collectively, the "Required Records"), BMT shall retain all Required Records for a minimum time period as mandated by Applicable Law or the Network Rules. All Required Records shall be accurate, and to the extent presenting financial information, kept in a manner that is consistent with accounting standards and designed to fairly present the information set forth therein. BMT shall provide Bank access to any and all Depositor Program related records, including, but not limited to, Required Records that Bank reasonably requests in connection with compliance with Bank's obligations under Applicable Law.
+2.9
+Regulator Oversight of Bank and BMT as Service Provider to Bank. 
+By entering into this Agreement, BMT understands and acknowledges that the Federal Reserve Bank of Philadelphia and any successor thereto (collectively, the 
+"Reserve Bank") 
+has the authority to examine BMT or its successor to evaluate safety and soundness risks, the financial and operational viability of BMT to fulfill its obligations hereunder and under all agreements relating hereto, and compliance with Privacy and Data Security Requirements and other applicable rules or regulations. BMT further understands that Title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act (the 
+"Dodd-Frank Act") 
+authorizes the Consumer Financial Protection Bureau (along with any successor thereto, collectively the 
+"CFPB") 
+to examine and obtain rep01is from supervised banks and nonbanks for compliance with federal consumer financial law and for other related purposes. Title X of the Dodd-Frank Act also grants the CFPB supervisory and enforcement authority over supervised service providers, which includes the authority to examine the operations of service providers on site. As used in this Agreement, 
+"Regulator" 
+means a governmental authority, or a non-governmental entity, that is charged with monitoring or overseeing the business practices or other activities of either of the respective Parties or any of their Affiliates, including, as applicable, the Reserve Bank, the CFPB, Federal Deposit Insurance Corporation or any other bodies or successors thereto that regulate banks, consumer finance companies, m01igage companies and/or other financial service providers.
+(a)
+Notwithstanding anything to the contrary in this Agreement, Bank may terminate this Agreement at any time upon reasonable notice and without penalty, termination fees or other costs if: (i) a Regulator with jurisdiction over Bank or BMT issues a rule, regulation, order, interpretation or similar pronouncement that would render it unlawful to continue performing under this Agreement; or (ii) if a Regulator formally objects to the arrangement for Services under this Agreement.
+(b)
+    
+Audit. 
+By entering into this Agreement, BMT understands and acknowledges that Bank shall have the right, at its own expense, to conduct an annual audit of BMT. Each of Bank, the Reserve Bank, the CFPB, other Regulators, and Bank's representatives (each an 
+"Bank Auditor," 
+and collectively, the 
+"Bank Auditors") 
+shall have the right to inspect, investigate, evaluate, and audit all activities, books, records, data and any other information or materials of BMT and/or its Personnel to enable Bank Auditors to examine or otherwise verify: (i) the ongoing confidentiality of Bank's Confidential Information and general controls and security practices and procedures used to protect Confidential Information; (ii) BMT's controls with respect to organizational, input/output, system modification, processing, system design, access and other control-related matters, including internal controls related to oversight of Personnel that have consumer contact or compliance responsibilities; (iii) BMT's security, disaster recovery and back-up practices and procedures with respect to BMT's controls and information management practices; (iv) the accuracy of amounts invoiced hereunder; (v) practices, policies, and procedures of BMT and its Personnel; (vi) systems, equipment and software that process, store, support, and transmit Customer Information or are otherwise used to perform or in connection with the Services; and/or (vii) such other books, records, data, and any other information or materials relevant to the performance of BMT's obligations under and compliance with this Agreement, including compliance with Applicable Requirements. If any negative results or issues arise during an audit, BMT shall prepare and execute a remediation plan at its sole expense and in such time frame as mutually agreed upon by Bank and BMT. In addition, the Bank Auditors may create electronic or physical copies of records in connection with the audits. Additional audits may be conducted in accordance with a schedule agreed upon by the Bank and BMT, if Bank reasonably identifies an issue requiring additional testing or monitoring, or at the request of the other Bank Auditors.
+(c)
+When made available to BMT from time to time (but no less than annually), BMT shall provide to Bank a copy of BMT's or its service providers' in instances when the service provider completely manages and maintains data and information for BMT: (i) most recent internal and/or external independent audit reports (including any SSAE 18 or other similar audit of BMT's operations, Information Security Program, disaster recovery/business continuity plan, and computer and related systems with which it performs the Services, or any other internal or external rep01is of audits or reviews otherwise relevant to the Services or Bank), including those described in Section 3 of Exhibit A; (ii) then-current internal control policies and procedures, and, insofar as any BMT Personnel have consumer contact or compliance responsibilities related to the Services, training materials applicable with respect to
+any such Personnel; and (iii) most recent audited financial statements (or, if audited financial statements are not regularly prepared, a balance sheet as of BMT's most recent fiscal year end and income statement covering the year ending on such date, reviewed by BMT's accountant, no less than annually), and any other quarterly financial statements or annual reports regarding the financial condition or results of operations of BMT that it prepares for any other purpose and that Bank shall reasonably request, provided, however, that if BMT publicly files any such financial statements on the U.S. Securities and Exchange Commission's EDGAR system, such availability shall suffice.
+(d)
+The records and data maintained and produced under this Agreement, and any other Bank-related records and data held by, in the possession of, or under the control of BMT or its Personnel, shall, at all times, be available electronically or physically at a designated office of BMT for examination and audit by Regulators having jurisdiction over Bank's business, including the Reserve Bank and other Bank Auditors. Any Regulator or his or her designated representative shall have the right to ask for and to receive directly from BMT any rep01ts, summaries, or information contained in or derived from data in the possession of BMT related to Bank. BMT shall notify Bank as soon as reasonably possible of any formal request by any authorized Regulator to examine Bank's records maintained by BMT, if BMT is permitted to make such a disclosure to Bank under the Applicable Requirements. Bank hereby authorizes BMT to provide all such described records when formally required to do so by a Regulator.
+(e)
+BMT shall make its employees, Subcontractors and other Personnel and their respective facilities and operations (including computer servers, software, equipment and related technology facilities) available during regular business hours to all Bank Auditors and othe1wise cooperate fully in connection with any such audit or examination, including providing to Bank electronic and/or paper copies of documents requested by a Bank Auditor promptly after the date of such request.
+(f)
+Consistent with the requirements of Applicable Law, BMT will promptly notify Bank when legally able to do so upon becoming aware of (i) any formal regulatory investigation, regulatory inquiry, enforcement action, or the like involving the Depositary Program, or (ii) any order, judgment, decree, or any other legal or regulatory action that could affect the Depositor Program, and BMT will provide, to the extent permitted by Applicable Law and upon Bank's reasonable request, any information and materials requested by Bank in connection therewith.
+2.10
+ Subcontractors. 
+Under no circumstances may BMT or any of its Subcontractors provide any of the Services requiring access to confidential information by utilizing any Personnel located at or performing work at a location outside of the United States, except to the extent the particular circumstances of such use of such Personnel is specifically approved in writing by Bank. Within sixty days of the Effective Date, the Patties shall work together on the development of an approved list of Subcontractors located or using personnel outside the United States. Any purpo1ted assignment or delegation not consented to in writing by Bank shall be void at Bank's option and will constitute a material breach of this Agreement. In the event Bank consents to BMT engaging any Subcontractor to perform any Services or other obligations hereunder, BMT shall, upon request by Bank, provide Bank with a copy of each agreement between BMT and such Subcontractors. Notwithstanding any Bank consent to any subcontracting: (i) BMT shall remain primarily responsible and liable to Bank for any and all performance of BMT's obligations under this Agreement, including the obligation to properly supervise, coordinate, and perform all Services required hereunder, and no subcontract shall bind or purport to bind Bank; (ii) BMT shall ensure that all Subcontractors and their respective Personnel are bound by and comply with all provisions hereof applicable to BMT and comply with all Applicable Requirements; (iii) BMT shall be primarily responsible and liable to Bank for any breach hereof resulting directly or indirectly from any act or omission of a Subcontractor or any of its Personnel and for paying all Subcontractors directly; and (iv) any act or omission of a Subcontractor or any of its Personnel that would constitute a breach of this Agreement subject to the cure provisions herein, if it was the act or omission of BMT will constitute a breach by BMT of this Agreement. Without in any way limiting the foregoing, BMT shall require each Subcontractor to maintain adequate policies, procedures, and controls to ensure that such Subcontractor will protect Customer Information and Confidential Information in the same manner BMT is required to maintain Customer Information and Confidential Information under this Agreement. In the event Bank at any time notifies BMT in writing that it objects to the use of any Subcontractor, notwithstanding any prior consent to such
+Subcontractor granted by Bank, BMT shall replace such Subcontractor within ninety (90) days of Bank's request, or such longer period of time as may be agreed to by BMT and Bank. In addition to the foregoing, to the extent that Bank grants approval for BMT's use of any Subcontractor, BMT shall (a) audit Subcontractors annually if requested by Bank and, on an on-going basis, monitor the Subcontractor for compliance controls and risks associated with its use; and (b) provide information regarding the services being provided to BMT by such Subcontractor, the risks of such Subcontractor use, the relevant controls over such risks, and any other information reasonably requested by Bank which relate to the Services performed by such Subcontractor.
+2.11
+Other Agreements Not Precluded. 
+This Agreement shall not preclude BMT from entering into similar agreements to provide deposit processing services to other banks or financial institutions, nor shall it preclude Bank from providing products or services to providers of other depositor programs generally through Bank's own marketing efforts or through the marketing efforts of other third parties. BMT shall have the right to offer additional products and services to Depositors in BMT's sole discretion. Bank shall not solicit BMT's customers for any reason unless such customers were customers of Bank prior to becoming customers of BMT, Notwithstanding the foregoing, the Parties acknowledge that this Section shall not preclude general solicitations by Bank such as mass mailing, media, arid otherwise not specifically targeted at Depositors.
+2.12
+Personnel. 
+BMT shall at all times maintain adequate levels of Personnel necessary or advisable to perform the services and its other obligations hereunder.
+SECTION III COMPENSATION
+3.1
+BMT Compensation. 
+As sole consideration for the processing services and other services BMT is providing under this Agreement, Bank shall pay to BMT the fees set forth on Schedule 3.1.
+In addition, BMT will have the right to retain all revenue generated by or from the Depositor Accounts, including, but not limited to, fees and all other miscellaneous revenues. BMT shall also retain all fees (including without limitation interchange fees), and charges generated by its ATMs and from its payment processing services.
+3.2
+PLBPA Fees and Expenses. 
+BMT acknowledges and agrees that it will be solely liable for any and all fees, expenses, costs, reimbursements and other amounts that are or may become due and payable under the PLBPA 
+("PLBPA Amounts"), 
+including, without limitation, any Durbin-Exempt Interchange fees payable to TMO under the PLBPA. Bank may set off any and all PLBPA Amounts against any compensation payable to BMT hereunder.
+SECTION IV REPRESENTATIONS OF BANK
+Bank represents and warrants as follows:
+4.1
+Organization, Good-Standing and Conduct of Business. 
+Bank is a banking corporation, duly organized, validly existing and in good standing under the laws of Pennsylvania, and has full power and authority and all necessary governmental and regulatory authorization to own its properties and assets and to carry on its business as it is presently being conducted.
+4.2
+Corporate Authority. 
+The execution, delivery, and performance of this Agreement have been duly authorized. No further corporate acts or proceedings on the part of Bank are required or necessary to authorize this Agreement.
+4.3
+Binding Effect. 
+When executed, this Agreement will constitute a valid and legally binding obligation of Bank, enforceable against Bank in accordance with its terms, subject to 
+(i) 
+applicable bankruptcy,
+insolvency, reorganization, moratorium, or other similar laws now or hereafter in effect relating to rights of creditors of FDIC-insured institutions or the relief of debtors generally; (ii) laws relating to the safety and soundness of deposit01y institutions; and (iii) general principles of equity.
+4.4
+Non-Contravention and Defaults; No Liens. 
+Neither the execution or delivery of this Agreement, nor the fulfillment of, or compliance with, the terms and provisions hereof, will (i) result in a material breach of the terms, conditions, or provisions of, or constitute a default under, or result in a violation of, termination of, or acceleration of the performance provided by the terms of, any agreement to which Bank is a party or by which it may be bound; (ii) violate any provision of any law, rule or regulation; or (iii) violate any provisions of Bank's A1iicles of Incorporation or Bylaws,
+4.5
+Necessary Approvals. 
+No consent, approval, authorization, registration, or filing (excluding any such filings with the U.S. Securities and Exchange Commission) with or by any governmental authority, foreign or domestic, is required on the part of Bank in connection with the execution and delivery of this Agreement or the consummation by Bank of the transactions contemplated hereby.
+4.6
+Liabilities and Litigation. 
+There are no claims, actions, suits or proceedings pending or, to Bank's knowledge; threatened against Bank, at law or in equity, before or by any Federal, state, municipal, administrative or other court, governmental department, commission, board, or agency, an adverse determination of which could have a Material Adverse Effect on the business or operations of Bank, and Bank knows of no basis
+for any of the foregoing, There is no order, writ, injunction, or decree of any court, domestic or foreign, or any Federal or state agency affecting Bank or to which Bank is subject.
+4.7
+Disclosure. 
+Neither Bank nor any principal of Bank has been subject to any administrative or enforcement proceedings commenced by any Regulato1y Authority, or any restraining order, decree, injunction, or judgment in any proceeding or lawsuit, alleging fraud or deceptive practice on the part of Bank or any principal thereof For purposes of Section 4.7, the word "principal" shall include any executive officer or director of Bank.
+4.8
+FDIC Insurance. 
+As of the Effective Date and during the term of this Agreement, Bank is FDIC- insured to the maximum extent permitted under Applicable Law.
+4.9
+Well Capitalized. 
+As of the Effective Date and during the term of this Agreement, Bank is designated "Well Capitalized" under the Prompt Corrective Action provisions of the Federal Deposit Insurance Act and all regulations and guidelines with respect thereto.
+4.10
+ Disclaimer. 
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, BANK DISCLAIMS ALL OTHER WARRANTIES, CONDITIONS, AND REPRESENTATIONS OF ANY KIND, 
+WHETHER
+ EXPRESSED, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING THOSE RELATED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON INFRINGEMENT AND THOSE ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE.
+SECTION V REPRESENTATIONS OF BMT
+BMT represents and warrants as follows as of the date hereof;
+5.1
+Organization, Good-Standing and Conduct of Business. 
+BMT is a corporation, duly organized, validly existing and in good standing under the laws of the State of Delaware, and has full power and authority and all necessary governmental and regulat01y authorization to own its prope1iies and assets and to carry on its business as it is presently being conducted, except where lacking authority or authorization would not have a Material Adverse Effect on BMT.
+5.2
+Corporate Authority. 
+The execution, delivery, and performance of this Agreement have been duly authorized. No further corporate acts or proceedings on the part of BMT are required or necessary to authorize this Agreement.
+5.3
+Binding Effect. 
+When executed, this Agreement will constitute a valid and legally binding obligation of BMT, enforceable against BMT in accordance with its terms, subject to (i) applicable bankruptcy, insolvency, reorganization, moratorium, or other similar laws now or hereafter in effect relating to rights of creditors or the relief of debtors generally and (ii) general principles of equity.
+5.4
+Non-Contravention and Defaults; No Liens. 
+Neither the execution or delivery of this Agreement, nor the fulfillment of, or compliance with, the terms and provisions hereof, will (i) result in a material breach of the terms, conditions, or provisions of, or constitute a default under, or result in a violation of, termination of or acceleration of the performance provided by the terms of, any agreement to which BMT is a party or by which it may be bound, (ii) violate any provision of any law, rule or regulation, (iii) result in the creation or imposition of any lien, charge, restriction, security interest or encumbrance of any nature whatsoever on any asset of BMT, or
+(iv) violate any provisions of BMT's Certificate incorporation or Bylaws.
+5.5
+Necessary Approvals. 
+No consent, approval, authorization, registration, or filing (excluding any such filings with the U.S. Securities and Exchange Commission) with or by any governmental authority, foreign or domestic, is required on the part of BMT in connection with the execution and delive1y of this Agreement or the consummation by BMT of the transactions contemplated hereby.
+5.6
+Liabilities and Litigation. 
+Except as disclosed by BMT in writing to Bank, there are no claims, actions, suits, or proceedings pending or, to BMT's knowledge, threatened against BMT, at law or in equity, before or by any Federal, state, municipal, administrative, or other court, governmental department, commission, board, or agency, an adverse determination of which could have a Material Adverse Effect on the business or operations of BMT (including its ultimate ownership of the business), and BMT knows of no basis for any of the foregoing, There is no order, writ, injunction, or decree of any court, domestic or foreign, or any Federal or state agency affecting BMT or to which BMT is subject.
+5.7
+Disclosure. 
+Except as disclosed by BMT in writing to Bank, neither BMT nor any principal of BMT has been subject to any administrative or enforcement proceedings commenced by any Regulat01y Authority, or any restraining order, decree, injunction, or judgment in any proceeding or lawsuit, alleging fraud or deceptive practice on the part of BMT or any principal thereof. For purposes of Section 5.7, the word "principal" shall include any executive officer or director of BMT.
+5.8
+Disclaimer. 
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, BMT DISCLAIMS ALL OTHER. WARRANTIES, CONDITIONS, AND REPRESENTATIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING THOSE RELATED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON- INFRINGEMENT AND THOSE ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE.
+SECTION VI
+CONFIDENTIALITY; DATA PROTECTION; INTELLECTUAL PROPERTY
+6.1
+General. 
+It 
+is expected that the Parties will disclose to each other certain information, which may be considered confidential or proprietary ("Confidential Information"), and each Patty recognizes the value and importance of the protection of the other's Confidential Information.
+6.2
+Confidential Information. 
+Confidential Information owned solely by one Party and disclosed to the other Party shall remain solely the prope1ty of the disclosing Party, and its confidentiality shall be maintained and
+protected by the other Party with at least the same effort used to protect such other Party's own confidential information of a similar nature. Except to the extent required by this Agreement, each Party agrees not to duplicate in any manner the other's Confidential Information or to disclose it to any third party or to any of their employees not having a need to know for purposes of this Agreement. Each Party further agrees not to use the other's Confidential Information for any purpose other than the implementation of this Agreement. This confidentiality provision extends to all information (whether oral, written, electronic, or otherwise) provided by either Party (the "Disclosing Party") to the other Party (the "Receiving Party") pursuant hereto. Confidential Information includes, without limitation, technology, know-how, processes, software, databases, trade secrets, contracts, proprietary information, historical and financial information, business strategies, operating data, organizational and cost structures, product descriptions, pricing information prototypes, design plans, drawings, Customer Information, business and/or technical information, in whatever form or format and from whatever source, whether disclosed before or after the date of this Agreement and any notes, rep01ts or other data or documents prepared by Receiving Party or its representatives containing, reflecting or based upon, in whole or in part, any Confidential Information. In addition, without limitation, and any provision to the contrary in this Agreement notwithstanding, the names of, and any and all information regarding the Depositor Accounts or other accounts belonging to, Depositors and potential Depositors is, and for all purposes shall be deemed to be, Confidential Information belonging to both Parties as permitted by Applicable Law, subject to Bank's rights to use such information according to the terms of this Agreement. Except as otherwise provided herein, Confidential Information shall not include (i) information that is now in the public domain, or that later enters the public domain, through no action of the Receiving Party in violation of this Agreement or of any third party in violation of a duty owed to the Disclosing Party, (ii) information that the Receiving Party can demonstrate was already in its possession at the time of its disclosure hereunder, and that was not acquired, directly or indirectly, from the Disclosing Party on a confidential basis, (iii) information independently developed by the Receiving Party without reference to, or the use of, any Confidential Information, or (iv) information that is lawfully received from sources other than the Disclosing Party under circumstances not involving a breach of any confidentiality obligation. Notwithstanding anything contained in this Section to the contrary, no combination of Confidential Information will be deemed to be within any of the foregoing exceptions, whether or not the component parts of the combination are within one of the foregoing exceptions, unless the combination itself and its economic value and principles of operation are within one of the foregoing exceptions. The Parties hereby acknowledge that BMT may elect to request confidential treatment of ce1tain provisions of this Agreement from the Securities and Exchange Commission including, but not limited to, the pricing related provisions and exhibits as permitted by law and that the Parties will cooperate in order to effect such request. Neither BMT nor any of its Personnel shall directly or indirectly access Customer Information or Bank's software, networks, systems, or data from any location that is not subject to the laws and jurisdiction of the United States of America, in violation of BMT policy, except with the prior approval through the BMT approval process and written consent of Bank. In the event that BMT permits any of its Personnel to store or access Customer Information on a portable device, such Customer Information must be encrypted in a reasonable manner.
+Each Receiving Party shall hold Information received by it in the strictest of confidence and shall not disclose it to any person or entity, other than the Receiving Party's officers, directors, employees, third party service providers, agents, consultants and legal advisors (collectively, "Representatives"), without the Disclosing Party's prior written consent, the Receiving Party shall share Confidential Information received hereunder only with those of its Representatives as are reasonably necessary to enable the Receiving Party to accomplish the purposes of this Agreement, and then only after advising such Representatives of the requirements of this Section and obtaining their agreement to abide herewith as if they were original patties hereto. The Receiving Patty shall be responsible for any breach of this Agreement by its Representatives. Without limiting any other warranty or obligation specified in this Agreement, and in particular the confidentiality and non-disclosure obligations of this Section 6.2, Receiving Party will not gather, store, log, archive, use or otherwise retain any Confidential Information in any manner and will not disclose, distribute, sell, share, rent or otherwise transfer any Confidential Information to any third party, except as expressly required to perform its obligations in this Agreement or as Receiving Party may be expressly directed in advance in writing by Disclosing Party.
+6.3
+Ownership of Confidential Information. 
+All Confidential Information and all documents,
+diskettes, tapes, procedural manuals, guides, specifications, plans, drawings, designs and similar materials, lists of present, past, or prospective customers, proposals, invitations to submit proposals, price lists and data relating to the pricing of products and services, records, notebooks, and all other materials containing Confidential Information or information about concepts or ideas developed by or for a Disclosing Patty (including all copies and reproductions thereof) that come into a Receiving Patty's possession or control, whether prepared by the Disclosing Party or others: (i) are the property of the Disclosing Party, and (ii) shall not be used by the Receiving Party in any way other than in connection with fulfilling the purposes of this Agreement.
+6.4
+Return of Confidential Information. 
+Upon the written request of a Disclosing Patty, which may be made at any time or from time to time, a Receiving Patty shall, and/or shall cause its Representatives to, promptly return or (at the Receiving Party's election) destroy all Confidential Information provided by the Disclosing Party. The Receiving Party is allowed to retain a copy of such information for such period of time necessary to comply with its record retention policy, Applicable Law or Network Rules. In such cases, the obligation to treat such information as confidential shall remain until such information may be destroyed in accordance with the applicable policy or rule. In the event of such written request by a Disclosing Patty, all documents, analyses, studies, or other materials prepared by the Receiving Party or its Representatives that contain or reflect Confidential Information shall be forwarded to the Disclosing Patty and no copies thereof shall be retained except as may othe1wise be required to be retained pursuant to Applicable Law. Notwithstanding the foregoing, the Parties agree that both Patties shall have the right to retain a copy of transaction history documents of the Depositors.
+6.5
+Required Disclosures. 
+Should a Receiving Patty learn that it or its Representatives may, or will, be legally compelled to disclose Confidential Information (whether by interrogatories, subpoenas, civil investigative demands, or otherwise) provided by a Disclosing Patty hereunder, or should a Receiving Patty or its Representatives be requested to disclose such Confidential Information by a governmental authority or agency, the Receiving Patty shall promptly notify the Disclosing Party to the extent such notice is not prohibited by Applicable Law. In addition, the Receiving Patty shall inform the Disclosing Patty of any developments with respect to such compulsion or request. When time is of the essence, the Receiving Party may provide notice or updates orally, but must follow these communications with written summaries. The Receiving Party shall reasonably cooperate with the Disclosing Party to enable the Disclosing Party to obtain a protective order or other similar relief. If, in the opinion of legal counsel and in the absence of a protective order or waiver by the Disclosing Patty of compliance with this Section VI, the Receiving Patty and/or its Representatives are legally compelled to disclose Confidential Information, the Receiving Patty and/or such Representatives shall disclose only so much of the Confidential Information as is legally required. In any such event, the Receiving Patty shall use its good faith eff01ts to ensure that any Confidential Information so disclosed is accorded confidential treatment to the greatest extent possible. Notwithstanding any provision to the contrary, each Party agrees and acknowledges that the other Party is permitted to announce the execution of this Agreement and file this Agreement with the U.S. Securities and Exchange Commission along with any subsequent amendments to this Agreement as required by Applicable Law.
+6.6
+Injunctive Relief. 
+Each Party acknowledges that remedies at law may be inadequate to protect the other against actual or threatened breach of the provisions of this Section. Without prejudice to any other rights and remedies available to a Party hereunder, each Receiving Patty hereby consents to the granting of injunctive relief in the Disclosing Party's favor, without proof of actual damages, in. the event of an actual or threatened breach hereof with respect to Confidential Information provided by such Disclosing Patty.
+6.7
+Consumer Information and Program Security. 
+Each Patty acknowledges that Applicable Law, including but not limited to the Gramm-Leach Bliley Act of 1999, as amended, and the regulations promulgated thereunder (the Act and the regulations, collectively, the "GLB Act") impose certain obligations on financial institutions with respect to the confidentiality of customer data (collectively, 'Protected 'Information"). Regardless of whether BMT and/or its Representatives are otherwise subject to the GLB Act, Bank and BMT and each of their respective Representatives shall fully comply with all requirements of the GLB Act or applicable state laws with respect to any Protected Information received or accessed in connection with the Program, has implemented, and shall continue to implement, supp01t, and maintain, commercially reasonable security measures to secure against unauthorized access
+and/or damage to Depositor information and other Protected Information (collectively, the "Security Measures"). BMT shall maintain at all times a comprehensive Information Security Program as required by applicable Privacy and Data Security Requirements and meet any additional requirements provided by Bank and required by Applicable law and following reasonable notice to BMT from time to time. BMT shall assess, manage, and control risks relating to the security and confidentiality of all Customer Information, and shall implement the standards relating to such risks in the manner set fo1th in the Interagency Guidelines. BMT shall comply with all Privacy and Data Security Requirements applicable to BMT. Bank may update this 
+Section 6.7
+ from time to time upon written notice to BMT, and following review, collaboration, and research of the impact of the updates in regards to both time and the expense of the update, any such updates will be applicable immediately upon notice unless otherwise agreed in writing by Bank.
+6.8
+Disaster Recovery. 
+Each 
+Party
+ shall prepare and maintain appropriate disaster recovery, business resumption, and contingency plans in compliance with Applicable Law, and reasonably acceptable to the other Party. Such plans shall be sufficient to enable the 
+Party
+ to promptly resume the performance of its obligations hereunder in the event of a natural disaster, destruction of such Patty's facilities or operations, utility or communication failures, or similar interruptions of operations, or of any necessary third party, Each Patty shall make available to the other information related to its disaster recove1y, business resumption and contingency plans, as well as making available any material changes thereto. Each Patty shall regularly test disaster recove1y, business resumption, and contingency plans as it deems reasonably appropriate and prudent in light of the nature and scope of the respective 
+Party
+'s activities and operations and its obligations hereunder. Such testing shall be conducted no less frequently than once per calendar year, and each Patty shall promptly provide the other Party with the results thereof upon request,
+6.9
+Intellectual Property Ownership and Licenses.
+(a)
+Except for the licenses and other rights set forth in this Agreement or set forth in that ce1tain [Software License Agreement, dated January 4, 2021, by and between the Parties] (the "Software License Agreement"), each Party retains all right, title, and interest in and to the intellectual property rights owned by it, and neither 
+Party
+ is granted any right, title, or interest in or to the other Party's intellectual property rights.
+(b)
+In connection with the Depositor Program, either Party (the "Licensor") may grant the other (the "Licensee") a non-exclusive, limited, royalty free license to use and reproduce certain Marks owned by the Licensor to the extent necessary to enable the Licensee to perform its obligations in accordance with this Agreement. The Licensee shall only use such Marks (i) in a manner that will not dilute the value of such Mark, and (ii) in strict compliance with Applicable Laws ,Network Rules, and this Agreement. Any license granted hereunder shall be subject to any applicable usage and style guides or limitations as from time to time provided by the Licensor. Except as specifically set forth in this Subsection, no right, title, license, or interest in any Marks shall be granted to the Licensee or shall be deemed to have been acquired by the Licensee by virtue of this Agreement. Prior to using a Mark licensed hereunder, the Licensee shall provide written notice to the Licensor (a "Use Notice") setting fo1th exemplars of the intended design and a description of the intended use. Within five (5) calendar days of receipt of a Use Notice, Licensor shall either approve the design and allow use, or identify the reason for withholding its approval. In the event that use is not approved, the Parties shall cooperate to find an acceptable design and/or use. Licensee may not sublicense any use of the Marks of Licensor without the prior written consent of Licensor in each instance, Any use of the Marks by Licensee (or any permitted sub-licensee) and any goodwill associated therewith shall inure to the benefit of Licensor.
+(c)
+In the event of any conflict between this Section 6.9 and the Software License Agreement, the terms of the Software License Agreement shall control.
+SECTION VII
+TERM AND TERMINATION
+7.1
+Term. 
+This Agreement shall be in full force and effect beginning on the Effective Date and shall continue in effect until February 24, 2025. After February 24, 2025, this Agreement shall renew automatically for additional one (1) year terms unless either Party gives written notice of non-renewal 180 days prior to the expiration of the then-current term; provided, however that this Agreement may be terminated prior to the end of the initial term or any such renewal term as set fo1th in Section 7.2 ("Term").
+7.2
+Termination. 
+This Agreement may be terminated prior to the end of a Term under the following circumstances:
+(a)
+at any time upon the written agreement of the Parties, specifying a mutually agreed upon termination date;
+(b)
+by either Party upon the material breach by the other Patty of any covenant or provision required to be performed by it hereunder, if 
+(i) 
+a plan to cure such breach is not provided by the breaching Party to the nonbreaching Party within thirty (30) days after receipt of written notice of such a breach from the nonbreaching Party; (ii) such plan is provided by the breaching Party, but the breach is not thereafter cured in accordance with such plan within sixty (60) additional days following the submission of the plan to the nonbreaching Party; and (iii) in either case, following the expiration of the initial thirty (30) day period if
+(i) 
+applies, or following the expiration of the additional sixty (60) day period if (ii) applies, the nonbreaching Party shall have elected to terminate this Agreement by sending to the Party in breach a written notice of termination, which notice shall specify the date upon which the termination shall take effect;
+(c)
+by either Party in, the event of a Supervisory Objection (as defined below) that, after going through the process described below, in either Party's good faith judgment requires such Party to terminate its obligations under this Agreement, such Party may terminate this Agreement upon sixty (60) days written notice to the other Party or such sho1ter notice as may be required by a Regulat01y Authority; 
+provided,
+ 
+however,
+ that in the event either Party becomes aware of a Supervisory Objection, such Party shall, as soon as reasonably practicable and prior to any termination by it of this Agreement, (i) provide the other Party, to the extent permitted by Applicable Law, with a written ce1tification from an officer of the Party summarizing such Supervis01y Objection and (ii) with the reasonable cooperation of such other Party, use its reasonable best efforts to respond to and challenge any such Supervis01y Objection, including, if necessary, proposing and implementing mutually agreed upon modifications to the Depositor Program that will satisfy the Regulat01y Authority. 
+If 
+the Parties cannot address the Regulato1y Authority's concerns to its satisfaction or the expenses associated in connection with implementing modifications necessary to satisfy the Regulat01y Authority will result in extreme economic hardship to either Party, this Agreement may be terminated in accordance with the foregoing. As used herein, "Superviso1y Objection" means (i) an objection raised by an employee of a Regulatory Authority having the designation of examiner-in charge or higher and having supervisory authority over a Party that expresses the Regulatory Authority's opinion, in writing, that one or more provisions of this Agreement or the Depositor Program constitutes a material violation of Applicable Law, is unsafe or unsound, or is otherwise unfair, deceptive, or abusive, (ii) any cease-and-desist or other similar formal order of a Regulatory Authority or (iii) changes in the written treatment of Applicable Law by a Regulatory Authority;
+(d)
+by BMT, upon 120 days' written notice, (i) if it obtains approvals to open or acquire a financial institution and desires to transfer Depositor Accounts to such institution, or (ii) if BMT experiences a change of control, in which 50% or more of its capital stock changes ownership.
+a.
+Effect of Termination or Expiration. 
+In the event of termination or expiration of this Agreement by any Party:
+(a)
+Any amounts due and owing from one Patty to the other shall be promptly paid in full; and
+(b)
+Sections I, III (to the extent payment obligations remain outstanding), IV, V, VI, 7.3, XVIII, IX, X, XI and XII shall survive such termination and provided further, that any termination hereof shall not preclude any Patty hereto from recovering any legal or equitable damages or relief to which it is entitled.
+SECTION VIII
+TRANSFER OF DEPOSITOR ACCOUNTS
+8.1
+Transfer of Deposits. 
+Upon the date of termination or expiration of this Agreement as provided in Section 7.1 or 7.2 of this Agreement or upon 120 days' written request by BMT, Bank shall transfer the Depositor Accounts to an institution designated by BMT (the "Transfer"), subject to the requirements of Applicable Law, the Depositor Agreement and any other applicable requirements. Any required approvals shall be obtained as soon as practicable following the date notice of termination is given; 
+provided, however,
+ notwithstanding anything in this Agreement to the contrary, Bank's obligation to maintain the Depositor Accounts as provided in this Agreement shall not terminate until any necessary approvals have been obtained. As part of the Transfer, Bank shall, to the extent permitted or considered necessary or appropriate, transfer any BJNs, routing numbers and other related identifiers used in connection with the Depositor Accounts, and deliver any and all applicable information, account opening contracts and the like. The Patties shall cooperate with each other on the issuance of necessary notices to Depositors and on all other matters necessary or appropriate to a legal and efficient Transfer. Bank shall use best efforts to assist with the Transfer. Until the Transfer is complete, Bank shall continue to provide all services under this Agreement if requested to do so by BMT, unless otherwise directed by a Regulatory Authority.
+8.2
+Closing Deliveries and Documents. 
+Upon the consummation of the Transfer, the Patties shall deliver to each other such documents as are typical for such a transfer, including contracts and officer's certificates, appropriate adjustments for returned and uncollected items shall be made, as appropriate, on a post-closing basis.
+8.3
+Certain Transfer Matters. 
+Upon the Transfer, BMT or its designee shall be responsible for completing Forms 1099 and other tax reporting forms, if applicable, for Depositors who were set up in connection with the Depositor Program, and other similar customer-related matters.
+SECTION IX INSURANCE
+9
+.1 
+Coverage. 
+Prior to commencing any Services and for the duration of the term of the Agreement, each Party shall maintain without interruption and at its own expense the following types and minimum amount of insurance:
+(a)
+Commercial General Liability insurance with a One Million Dollars ($1,000,000) per occurrence limit and an aggregate of not less than Two Million Dollars ($2,000,000) and such insurance shall (i) be written on a per occurrence basis, and (ii) be endorsed to cover liability arising from premises, operations, independent contractors, products-completed operations, personal injury (if not covered under Professional and Cyber Liability insurance policy), advertising injury (if not covered under Professional and Cyber Liability insurance policy), and contractual liability:
+(b)
+Workers' Compensation insurance for employees of such Patty at the applicable statuto1y limit and including Employers' Liability in an amount of not less than Five Hundred Thousand Dollars ($500,000);
+(c)
+"Umbrella"/Excess Liability insurance in a limit of not less than Five Million Dollars ($5,000,000) to
+cover claims in excess of the coverage limits for Commercial General Liability and Employers' Liability as requir
+e
+d herein;
+(d)
+Professional and Cyber Liability insurance, which shall describe as professional services covered thereunder all Services furnished by such Party under this Agreement and which shall provide coverage in a limit of not less than Seven and a Half Million Dollars ($7
+,
+500,000). Privacy Liability (aka Cyber Security) insurance to provide coverage in the event that Bank suffers a loss as a result of a disclosure of Confidential Information in breach of the terms of this Agreement. Coverage to include both 3rd party liability coverage along with a One Million Dollar ($1,000
+,
+000) limit applicable to coverage for data breach management expenses and customer notifications, and policy shall include coverage for customer notifications; and
+9.2
+Policy Requirements. 
+Bank shall be included as an Additional Insured under the Commercial General Liability and the Umbrella Liability Policy required of BMT above shall be follow form. Such Additional Insured coverage shall be provided on a primary and non-contributory basis and shall not require Bank's policies to contribute toward the payment of any loss. Each Patty will maintain insurance coverage set forth during the term of this Agreement and for at least one year after termination of the Agreement.
+9.3
+Certificates. 
+Prior to commencing the Services but in no event later than ten (10) business days from the Effective Date, each Pa1ty shall deliver to the other ACORD Ce1tificates of Insurance, Additional Insured Endorsement, and Primary and Non-Contributory Endorsement as required by written contract evidencing compliance with the terms hereof. At all times following the Effective Date of this Agreement
+, 
+each Pa1ty shall promptly provide to the other Patty current ACORD ce1tificate(s) from its insurers indicating the amount of insurance coverage in force, the nature of such coverage and the expiration date of each applicable policy as well as the Additional Insured Endorsement and Primary and Non-Contributory Endorsement, as applicable. The ACORD ce1tificate(s) will state that comp
+a
+nies affording coverage will provide the other Party with at least thi1ty (30) days prior written notice of any cancellation, non-renewal or significant modification of the scope or limits of any coverage. The Ce1tificate(s) will be on an ACORD form, which a Patty can verify provides continuing insurance coverage and adequate limits through the Term of this Agreement. Certificate Holder language for Bank is as follows: Customer Bank, Attn: Corporate Insurance Risk Management Department, 701 Reading Avenue, West Reading, PA 19611. ACORD Certificates, Additional Insured Endorsement, and Primary and Non-Contributory Endorsement as required by written contract are to be delivered to Bank via email at: 
+corporateinsurance@customersbank.com
+.
+9.4
+Rating
+. 
+Unless otherwise agreed in writing, all policies of insurance shall be underwritten through insurance companies at all times authorized to do business in the various states where the Services are rendered and 
+a
+t 
+a
+ll times maintain a minimum A.M. Best rating of A-
+, 
+Class VIII.
+9.5
+Coverage
+. 
+The insurance coverage to be maintained by a Party shall cover that Patty's activities undertaken in connection with the Agreement whether within or outside the United States. 
+If 
+a Party's duties and obligations under the Agreement should change during the term of this Agreement or contemplate activity outside the United States
+, 
+such Party shall deliver proof of the geographical scope of the insurance coverage within thi1ty (30) business days of geographical change.
+9.6
+No Limitation of Liability. 
+Neither the issuance of any insurance policy required hereunder, nor the minimum levels of insurance coverage required herein, shall serve to limit any liability otherwise accruing to a Party hereunder or in connection with the Depositor Program.
+SECTION X INDEMNIFICATION
+10.
+Indemnification by Bank. 
+Bank shall indemnify and defend BMT and its parent, subsidiaries and affiliates, and its and their respective officers
+, 
+directors, employees
+, 
+and permitted assigns, against any
+direct damages, losses or expenses arising from any legal action, claim, demand, or proceedings brought against any of them (including reasonable attorneys' fees) as a result of: (a) any act of gross negligence, willful misconduct, or intentional tort on the part of Bank or its agents, officers, or employees; (b) any alleged or actual material breach by Bank of this Agreement; or (c) the authorized access and use by BMT of any Marks of Bank; 
+provided, however,
+ that Bank shall not be liable for any losses that arise from (x) any act of gross negligence, willful misconduct, or intentional tort on the part of BMT or its agents, officers, or employees; or (y) any material breach by BMT of this Agreement, and (d) any Security Incident caused by Bank or its subcontractors or agents (other than BMT).
+10.2
+Indemnification 
+by 
+BMT. 
+BMT shall indemnify and defend Bank and its parent, subsidiaries and affiliates, and its and their respective officers, directors, employees, and permitted assigns, against any direct damages, losses or expenses, including regulatory claims and fines, arising from any legal action, claim, demand, or proceedings brought against any of them (including reasonable attorneys' fees) as a result of: (a) the gross negligence, willful misconduct, or intentional tort on the part of BMT or its agents, officers, or employees; (b) any alleged or actual material breach of this Agreement; (c) any Security Incident caused by BMT or its subcontractors or agents (other than Bank); (d) any determined or suspected fraudulent activity related to any Depositor Account or Card; or (e) any dispute with any Depositor related to Regulation E; 
+provided, however,
+ that BMT shall not be liable to Bank for any losses that arise from (x) any act of gross negligence, willful misconduct, or intentional tort on the part of Bank or its agents, officers, or employees; or (y) any material breach by Bank of this Agreement.
+10.3
+Indemnification Procedure. 
+If either Party (the 
+"Indemnified Party") 
+becomes aware of any matter which may give rise to a claim for indemnification 
+("Indemnification Claim") 
+against the other Patty (the 
+"Indemnifying Party"), 
+the Indemnified Party shall promptly notify the Indemnifying Patty in writing; 
+provided,
+ 
+however,
+ that no delay on the part of the Indemnified Patty in notifying the Indemnifying Patty shall relieve the Indemnifying Patty from any obligation hereunder unless (and then solely to the extent) the Indemnifying Patty is materially prejudiced thereby. The Indemnifying Party will have the right to assume the defense of the third-party claim with counsel reasonably satisfactory to the Indemnified Patty to represent the Indemnified Party in such proceeding, and shall pay the fees and disbursements of such counsel related to such proceeding, so long as (i) the Indemnifying Patty notifies the Indemnified Party in writing within thirty (30) days after the Indemnified Patty has given notice of the indemnification claim that the Indemnifying Party will indemnify the Indemnified Party in accordance with this Section, and (ii) the Indemnifying Party conducts the defense of the third-party claim actively and diligently. The Indemnified Patty also may retain its own separate co-counsel at its sole cost and expense and participate in the defense of the claim. No Indemnifying Patty shall, without the prior written consent of the Indemnified Patty, effect any settlement of any pending or threatened proceeding in respect of which any Indemnified Party is or could have been a party and indemnity could have been sought hereunder by such Indemnified Patty (i) if such settlement involves any form of relief other than the payment of money or any finding or admission of any violation of any law, regulation or order or any of the rights of any person or has any adverse effect on any other indemnification claims that have been or may be made against the Indemnified Party or (ii) if such settlement involves only the payment of money, unless it includes an unconditional release of such Indemnified Patty of all liability on claims that are the subject of such proceeding. The Indemnifying Patty shall not be liable for any settlement of any proceeding effected without its written consent, but if settled with such consent or if there is a final judgment for the plaintiff, the Indemnifying Party agrees to indemnify the Indemnified Party from and against any Loss by reason of such settlement or judgment. The Indemnified Patty may assume control of the defense of any claim if (A) the Indemnifying Party fails to provide reasonable assurance to the Indemnified Patty of its financial capacity to defend or provide indemnification with respect to such claim, (B) the Indemnified Party determines in good faith that there is a reasonable likelihood that an indemnification claim would materially and adversely affect it or any other indemnities other than as a result of monetary damages that would be fully reimbursed by an Indemnifying Patty under this Agreement, or (C) the Indemnifying Party refuses or falls to timely assume the defense of such indemnification claim.
+SECTION XI LIMITATION OF LIABILITY
+11.1
+ THE AGGREGATE CUMULATIVE LIABILITY OF EACH PARTY WITH RESPECT TO THE OTHER PARTY FOR ANY LOSS OR DAMAGE ARISING OUT OF OR RELATED TO THIS AGREEMENT WITH RESPECT TO CLAIMS RELATING TO EVENTS DURING THE TERM OF THIS AGREEMENT SHALL NOT UNDER ANY CIRCUMSTANCES EXCEED FIVE MILLION DOLLARS ($5,000,000).
+11.2
+NOTWITHSTANDING ANY OTHER PROVISION IN THIS AGREEMENT, NEITHER PARTY SHALL HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY INDIRECT, EXEMPLARY, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, BUSINESS INTERRUPTION, OR LOST DATA) HOWEVER CAUSED AND, WHETHER IN CONTRACT, TORT, OR UNDER ANY OTHER THEORY OF LIABILITY, WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+11.3
+NOTWITHSTANDING ANYTHING TN THIS AGREEMENT TO THE CONTRARY, THE LIMITATIONS OF LIABILITY SET FORTH IN THIS ARTICLE 11, INCLUDING, WITHOUT LIMITATION, THE MONETARY LIMITATION SET FORTH ABOVE, SHALL NOT APPLY TO ANY CLAIMS ARISING OR RESULTING FROM (A) A PARTY'S BREACH OF CONFIDENTIALITY OBLIGATIONS SET FORTH IN SECTION VI; (B) INDEMNIFICATION OBLIGATIONS SET FORTH IN ARTICLE X; OR (C) A PARTY'S FRAUD, GROSS NEGLIGENCE OR WILLFUL MISCONDUCT.
+SECTION XII MISCELLANEOUS PROVISIONS
+12.1
+Cooperation and Access. 
+The Patties shall reasonably cooperate in order to effect the transaction contemplated herein. The Parties hereby agree to provide the other with full and complete access to their respective operations to the extent relating to the transactions contemplated herein and all matters related thereto.
+12.2
+Arbitration. 
+Any dispute arising under this Agreement shall be referred to and resolved by arbitration in the Commonwealth of Pennsylvania, in accordance with the rules of the American Arbitration Association, by a panel of three arbitrators, one of whom shall be selected by BMT, one of whom 
+shall
+ be selected by Bank, and the third of whom shall be selected by the arbitrators selected by BMT and Bank, A determination made in accordance with such rules shall be delivered in writing to the Parties hereto and shall be final and binding and conclusive upon them. Each Patty shall pay its own legal, accounting, and other fees and expenses in connection with such an arbitration; provided, however, that the arbitrators may award arbitration costs, including legal, auditing, and other fees and expenses to the prevailing party in the arbitration proceeding if the arbitrators determine that such an award is appropriate,
+12.3
+Relationship of Parties. 
+Bank and BMT agree that in performing their responsibilities pursuant to this Agreement, they are in the position of independent contractors. This Agreement is not intended to create, nor does it create and shall not be construed to create, a relationship of partner or joint ventures or any association for profit between and among Bank and BMT.
+12.4
+Entire Agreement. 
+This Agreement contains the entire agreement of the Parties with respect to the subject matter contained herein and there are no agreements, warranties, covenants, or undertakings, other than those expressly set fo1th herein. BMT and Bank may enter into additional agreement for other products through separate agreements or amendments hereto.
+12.5
+Assignment. 
+Neither this Agreement nor any of the rights or obligations under this Agreement, may be assigned or delegated, in whole or in part, by operation of law or otherwise, by any Party hereto without the prior written consent of the other Patty hereto, and any such assignment without such prior written consent shall be null and void; provided, however, a Patty may assign any or all of its rights and obligations under this Agreement to any
+of its Affiliates, but only to the extent that such 
+assignment 
+would not result in 
+an 
+impairment of the other Party 
+'s 
+rights under this Agreement; and provided, further, that 
+a 
+Patty may, without the prior written consent of the other Patty, assign all or any portion of its rights and obligations under this Agreement to an 
+affiliate 
+or subsidiary. Subject to the preceding 
+sentence, 
+this Agreement shall be binding upon, 
+shall 
+inure to the benefit of, 
+and shall 
+be enforceable by the Parties hereto 
+and 
+their permitted successors 
+and 
+assigns. No assignment shall relieve the assigning Party of 
+any 
+of its obligations hereunder. 
+For 
+the purposes of this Agreement, 
+"affiliate" 
+is 
+a 
+person who is controlled by 
+or 
+is under the common control of 
+a 
+Party, "control" being presumptively shown by 
+a 
+majority 
+ownership 
+and/or voting interest.
+12.6
+Governing Law. 
+This Agreement 
+shall 
+be 
+governed 
+by and construed in accordance with the laws of the 
+Commonwealth 
+of Pennsylvania without regard to its conflict of laws rules.
+12.7
+Amendment and Waiver. 
+This Agreement may not be amended 
+except 
+by 
+an 
+instrument in writing 
+signed 
+on behalf of all of the Parties. Any term, provision, or condition
+.
+of this Agreement (other than that required by law) may be waived in writing at any time by the Party which is entitled to the benefits thereof.
+12.8
+Force Majeure. 
+Neither Patty shall be deemed to be in default hereunder or liable for any losses arising out of the failure, delay or interruption of its performance of obligations under this Agreement due to 
+any 
+act of God, act of terrorism, 
+act 
+of public enemy, war, riot, flood, civil commotion, insurrection, severe weather conditions, or any other 
+cause 
+beyond that Party's reasonable control.
+12.9
+Interpretation. 
+The 
+headings of the various 
+sections 
+of this Agreement have been inse1ted for convenience of reference only and 
+shall 
+not be deemed to be 
+a 
+part of this Agreement.
+12.10
+Noti
+ce
+. Any notice to be given hereunder to the other Patty, including any notice of a change of address, shall be in writing and shall be deemed validly given if (a) delivered personally or (b) sent by express delivery service, registered or ce1tified mail, postage prepaid, return receipt requested or (c) sent by facsimile or email, as follows:
+To Bank:
+CUSTOMERS BANK
+701 Reading A
+venue 
+West Reading, PA 19611 Attention: Samvir Sidhu
+E-mail: 
+ssidhu@customersbank.com
+With 
+a 
+copy 
+to:
+CUSTOMERS 
+BANK
+701 Reading Avenue West Reading, PA 19611 Attention: Andrew Sachs
+E-mail: 
+asachs@customersbank.com
+To BMT:
+BM TECHNOLOGIES, INC.
+201 King of Prussia Rd., Suite 650 Radnor, PA 19087
+Attention: Luvleen Sidhu 
+Email: 
+lsidhu@bmtx.com
+All such notices shall be deemed given on the date of actual receipt by the addressee if delivered personally, on the date of deposit with the express delivery service or the postal authorities if sent in either such manner, on the date the facsimile or email is sent if sent in such manner, and on the date of actual receipt by the addressee if delivered in any other manner.
+12.11
+Counterparts. 
+This Agreement may be executed in one or more counterparts, each of which shall be deemed to be an original, but all of which together shall constitute one and the same instrument.
+END OF PAGE NEXT PAGE IS SIGNATURE PAGE
+IN WITNESS WHEREOF, this Deposit Processing Services Agreement is executed by the Parties' authorized officers or representatives and shall be effective as of the Effective Date.
+BANK
+BANK
+BM TECHNOLOGIES, INC.
+CUSTOMERS BANK
+By: /s/ Luvleen Sidhu
+By: /s/ Carla Leibold
+Title: Chief Executive Officer
+Title: Executive Vice President
+SCHEDULE 2.3 
+BMT DUTIES UNDER PLBPA
+[Schedules to this exhibit have been omitted pursuant to Item 601(b)(2) of Registration S-K. The Registrant hereby agrees to furnish a copy of any omitted schedules to the SEC upon request.]
+Schedule 3.1 
+FEES
+[Schedules to this exhibit have been omitted pursuant to Item 601(b)(2) of Registration S-K. The Registrant hereby agrees to furnish a copy of any omitted schedules to the SEC upon request.]
+Exhibit A
+DATA SECURITY
+I.
+Commingling of Data.
+BMT will not commingle or otherwise combine any Confidential Information with any data or information belonging to or provided by any of BMT's other customers or clients in the same instance of the utilized banking core without documented processes and controls that prevent the access to the Confidential Information and data or information belonging to or provided by another BMTX customer. Applicable processes and controls utilized by BMT shall include: by branch in in the core instance, , by unique account identifiers including RXN, ICA/BIN, unique account type number, and range of unique and dedicated account numbers. BMT shall institute and maintain quality controls, including suitable testing procedures, in a manner consistent with the highest applicable industry standards and Privacy and Data Security Requirements, to ensure that such commingling does not occur.
+II.
+Security.
+A.
+Security Breach.
+ BMT acknowledges the confidential and proprietary nature of the Confidential Information and shall immediately notify Bank in writing of any breach or potential breach of security, or suspected or threatened breach, relating to any of Bank's Confidential Information of which it becomes aware (a 
+"Security Incident"). 
+Notification provided to Bank shall include, if known, and to BMT's knowledge as of the time of notice: (i) the general circumstances and extent of any unauthorized access to Confidential Information or intrusion into the computer systems or facilities on or in which Confidential Information is maintained; (ii) which, if any, categories of Confidential Information were involved; (iii) BMT's plans for corrective actions, to respond to the Security Incident; (iv) the identities of all individuals (including any Depositors) whose Confidential Information was affected; and (v) steps taken to secure the data and preserve information for any necessary investigation. The notification required to be delivered to Bank shall be delivered promptly and in no event later than forty-eight (48) hours after BMT learns of any such actual, suspected or threatened Security Incident. BMT shall not unreasonably delay its notification to Bank for any reason, including investigation purposes. BMT shall, at its own expense, cooperate fully with Bank in investigating and responding to each successful or attempted Security Incident including, in the event that Confidential Information of Bank is affected, allowing immediate access to BMT's facilities by Bank and Bank's investigators or other representatives, to investigate, and obtain copies of data as provided herein.
+B.
+Additional Procedures in the Event of a Security Incident.
+ BMT shall also, at its own expense, cooperate with Bank in responding to the Security Incident, notifying Depositors or other affected individuals as required by law, and seeking injunctive or other equitable relief against any such person or persons who have violated or attempted to violate the security of Confidential Information. In the event that Applicable Law requires that Bank's customers or other affected persons be notified of a Security Incident, and Applicable Law does not establish whether such notice must come from Bank or BMT, Bank shall have the discretion of determining whether such notice shall come from Bank or BMT. In any event, the content, timing, and other details of such notice shall be subject to Bank's approval, in Bank's sole and reasonable discretion. BMT shall be responsible for reimbursing Bank for the costs of such notifications and fielding feedback and questions from those notified, and any other associated costs that Bank may incur in connection with responding to or managing a Security Incident (for example, without limitation, costs of credit monitoring services, call center services and forensics services, fines imposed by regulatory agencies resulting from the Security Incident and costs associated with investigating and responding to investigations and inquiries related to a Security Incident from federal and state agencies and others,
+including legal fees).
+C.
+Information Security
+. BMT will maintain and enforce safety, electronic, and physical security procedures with respect to its access, use, and possession of Bank's Confidential Information, including Depositor Information, that are (i) compliant with Bank's information security guidelines, policies and requirements (including Database Security Technical Implementation Guide (STIG) templates, National Institute of Standards and Technology (NIST) standards, and Control Objectives for Information and related Technology (COBIT) frameworks), which may be provided by Bank to BMT from time to time or, if such guidelines, policies and requirements are not provided by Bank, at least compliant with the Federal Risk and Authorization Management Program (FedRAMP) standards and other industry standards for such types of locations, and (ii) which provide appropriate technical and organizational safeguards against accidental or unlawful destruction, loss, alteration or unauthorized disclosure or access of such information. Without limiting the generality of the foregoing, BMT will take all reasonable measures to secure and defend its locations and equipment against "hackers" and others who may seek, without authorization, to modify or access BMT systems or the information found therein. BMT will periodically test its systems for potential areas where security could be breached. Without in any way limiting the provisions of Section 2(A) or 2(B) of this Exhibit A, BMT (a) will deliver to Bank a root cause assessment and future incident mitigation plan with regard to any breach of security or unauthorized access affecting Bank's Confidential Information, (b) will provide Bank all written details regarding BMT's internal investigation regarding any security breach, (c) upon Bank's request, provide a second more in depth investigation and results of findings, (d) agrees not to notify any regulatory authority nor any Depositor or consumer, on behalf of Bank unless Bank specifically requests in writing that BMT do so, and (e) shall cooperate with Bank to work together to formulate a plan to rectify all security breaches.
+III.
+Self Audit.
+BMT shall maintain internal control policies and procedures as part of its compliance management system to ensure its compliance with this Agreement and all applicable laws. In addition to the audit rights of Bank and Regulators under this Agreement, on at least an annual basis, BMT shall perform a risk based self assessment of its business and operations to evaluate its compliance with the Agreement and delivery of the Services. The risk based self assessment shall be initiated no later than the anniversary date of each year of the Term. Within sixty (60) days of the initiation of a risk based self assessment,, BMT shall provide Bank with a written summary outlining the results of the risk based self assessment.

@@ -1,0 +1,1717 @@
+EX-10.1
+
+2
+
+ex101agreement.htm
+
+EXHIBIT 10.1
+
+Exhibit
+
+Exhibit 10.1
+MASTER INFORMATION TECHNOLOGY SERVICES AGREEMENT
+by and between
+ 
+ 
+INVACARE CORPORATION
+ 
+ 
+and
+ 
+BIRLASOFT SOLUTIONS INC.
+Exhibit 10.1
+TABLE OF CONTENTS
+ 
+ 
+ 
+Page
+1.
+ 
+INTERPRETATION/DUE DILIGENCE.
+2
+ 
+1.1
+Defined Terms
+2
+ 
+1.2
+Reference to Statutes
+2
+ 
+1.3
+Section References
+2
+ 
+1.4
+Headings
+2
+ 
+1.5
+Recitals
+2
+ 
+1.6
+Waiver of Presumption
+2
+ 
+1.7
+Due Diligence Complete
+2
+2.
+ 
+AGREEMENT STRUCTURE.
+3
+ 
+2.1
+Master Services Agreement
+3
+ 
+2.2
+Statement of Works
+3
+ 
+2.3
+SAP and E-Commerce Implementation
+3
+ 
+2.4
+Work Orders
+4
+ 
+2.5
+Local Agreements
+4
+ 
+2.6
+Variance from this Agreement
+5
+3.
+ 
+SERVICES.
+5
+ 
+3.1
+Scope of Services
+5
+ 
+3.2
+New Services
+6
+ 
+3.3
+Work Orders
+7
+ 
+3.4
+Service Commencement
+8
+ 
+3.5
+Client Policies and Procedures
+9
+ 
+3.6
+Deliverables
+9
+ 
+3.7
+Evolution of the Services
+11
+ 
+3.8
+Innovation Services
+12
+ 
+3.9
+Additional Work or Reprioritization
+12
+ 
+3.10
+Right to In-Source or Use of Third Parties; Cooperation and Managed Third Parties
+12
+ 
+3.11
+Acquisition, Alliance, Internal Reorganizations and Divestiture Service
+14
+4.
+ 
+TRANSFORMATION AND TRANSITION.
+14
+ 
+4.1
+Transformation Services and Transition Services
+14
+ 
+4.2
+Transformation/Transition Plan
+15
+ 
+4.3
+Transformation/Transition Documents
+15
+ 
+4.4
+Conduct of the Transformation/Transition
+16
+ 
+4.5
+Client Cooperation and Support
+16
+ 
+4.6
+Completion of Transformation/Transition
+16
+ 
+4.7
+Transformation Milestone Failure
+17
+ 
+4.8
+In Flight Projects
+18
+TABLE OF CONTENTS
+ 
+ 
+ 
+Page
+ 
+4.9
+Timing of Transformation/Transition; Reports
+18
+5.
+ 
+SERVICE LEVELS.
+18
+ 
+5.1
+Service Levels and Other Performance Standards
+18
+ 
+5.2
+Multiple Service Levels
+19
+ 
+5.3
+Service Credits
+19
+ 
+5.4
+Deliverable Credits
+19
+6.
+ 
+REQUIRED CONSENTS, MANAGED CONTACTS AND TRANSFERRED EQUIPMENT.
+18
+ 
+6.1
+In-Scope Agreements
+19
+ 
+6.2
+Administrative Responsibility
+20
+ 
+6.3
+Financial Responsibility for Required Consents
+20
+ 
+6.4
+Contingent Arrangements
+21
+ 
+6.5
+Managed Contracts
+21
+ 
+6.6
+Assignment of Third Party Contracts
+22
+7.
+ 
+FACILITIES, SOFTWARE, EQUIPMENT, CONTRACTS AND ASSETS ASSOCIATED WITH THE PROVISION OF SERVICES.
+23
+ 
+7.1
+Service Facilities
+24
+ 
+7.2
+Client Facilities
+25
+ 
+7.3
+Client Access to Provider Facilities
+25
+ 
+7.4
+Software, Equipment and Third Party Contracts
+26
+ 
+7.5
+Notice of Defaults
+27
+8.
+ 
+PROVIDER PERSONNEL.
+28
+ 
+8.1
+Key Provider Personnel and Knowledge Transfer Personnel
+28
+ 
+8.2
+Provider Account Manager
+29
+ 
+8.3
+Provider Personnel Are Not Client Employees
+29
+ 
+8.4
+Replacement, Qualifications, and Retention of Provider Personnel
+30
+ 
+8.5
+Conduct of Provider Personnel
+31
+ 
+8.6
+Transfer Laws Applicable to Client Personnel
+32
+ 
+8.7
+Substance Abuse
+33
+ 
+8.8
+Transitioned Employees
+34
+9.
+ 
+PROVIDER RESPONSIBILITIES.
+34
+ 
+9.1
+Provider Responsibilities Generally
+34
+ 
+9.2
+Time of Performance
+34
+ 
+9.3
+Required Resources
+34
+ 
+9.4
+Process and Procedures Manual
+35
+ 
+9.5
+Reports
+36
+TABLE OF CONTENTS
+ 
+ 
+ 
+Page
+ 
+9.6
+Governance Model; Meetings
+37
+ 
+9.7
+Quality Assurance and Internal Controls
+37
+ 
+9.8
+Change Control
+40
+ 
+9.9
+Software Currency
+41
+ 
+9.10
+Malicious Code, Disabling Code
+42
+ 
+9.11
+Audit Rights
+42
+ 
+9.12
+Subcontractors
+47
+ 
+9.13
+Notice of Adverse Impact
+48
+ 
+9.14
+Force Majeure & Disaster Recover
+48
+ 
+9.15
+Government Contract Flow-Down
+51
+ 
+9.16
+Parent Guaranty
+51
+ 
+9.17
+Provider Excused Performance
+51
+10.
+ 
+CLIENT RESPONSIBILITIES.
+52
+ 
+10.1
+Responsibilities
+52
+ 
+10.2
+Client Letter of Credit/Provider Incumbency Certificate
+53
+11.
+ 
+STEP IN RIGHTS
+54
+ 
+11.1
+Triggers for an Action Plan
+54
+ 
+11.2
+Contents of Action Plan
+54
+ 
+11.3
+Client’s Response to Initial Draft Action Plan
+55
+ 
+11.4
+Exercise of Step In Rights
+55
+12.
+ 
+CHARGES.
+57
+ 
+12.1
+General
+57
+ 
+12.2
+Taxes
+58
+ 
+12.3
+Refundable Items
+60
+ 
+12.4
+Client Benchmarking Reviews
+61
+13.
+ 
+INVOICING AND PAYMENT.
+62
+ 
+13.1
+Invoicing
+62
+ 
+13.2
+Payment Due
+63
+ 
+13.3
+Set Off
+63
+ 
+13.4
+Disputed Charges
+64
+14.
+ 
+CLIENT DATA AND OTHER CONFIDENTIAL INFORMATION.
+64
+ 
+14.1
+Confidential Information
+64
+ 
+14.2
+Client Data
+69
+ 
+14.3
+Requirements for Information in Legal Proceedings
+74
+15.
+ 
+OWNERSHIP AND LICENSING OF MATERIALS.
+77
+ 
+15.1
+Client Owned Materials
+77
+ 
+15.2
+Developed Materials
+78
+TABLE OF CONTENTS
+ 
+ 
+ 
+Page
+ 
+15.3
+Provider Owned Materials
+79
+ 
+15.4
+Other Materials
+81
+ 
+15.5
+General Rights
+81
+ 
+15.6
+Client Rights Upon Expiration or Termination of Agreement
+82
+16.
+ 
+REPRESENTATIONS, WARRANTIES AND COVENANTS.
+85
+ 
+16.1
+Work Standards
+85
+ 
+16.2
+Materials
+85
+ 
+16.3
+Systems Implementation Warranty
+86
+ 
+16.4
+Technology Currency
+87
+ 
+16.5
+Maintenance
+87
+ 
+16.6
+Non-Infringement
+87
+ 
+16.7
+Authorization
+88
+ 
+16.8
+Compliance with Laws
+89
+ 
+16.9
+Disclaimer
+91
+17.
+ 
+INSURANCE AND RISK OF LOSS.
+92
+ 
+17.1
+Insurance
+92
+ 
+17.2
+Risk of Loss
+92
+18.
+ 
+INDEMNITIES.
+92
+ 
+18.1
+Indemnity by Provider
+92
+ 
+18.2
+Indemnity by Client
+94
+ 
+18.3
+Additional Indemnities
+95
+ 
+18.4
+Infringement
+96
+ 
+18.5
+Indemnification Procedures
+96
+ 
+18.6
+Indemnification Procedures – Governmental and Other Claims
+97
+ 
+18.7
+Subrogation
+98
+19.
+ 
+LIABILITY.
+98
+ 
+19.1
+General Intent
+98
+ 
+19.2
+Limitation of Liability
+98
+20.
+ 
+DISPUTE RESOLUTION.
+101
+ 
+20.1
+Dispute Resolution Procedures
+101
+ 
+20.2
+Jurisdiction
+102
+ 
+20.3
+Continued Performance
+102
+ 
+20.4
+Governing Law
+102
+21.
+ 
+TERM AND TERMINATION.
+102
+ 
+21.1
+Term
+103
+ 
+21.2
+Termination for Cause
+103
+TABLE OF CONTENTS
+ 
+ 
+ 
+Page
+ 
+21.3
+Termination for Convenience
+105
+ 
+21.4
+Termination Upon Provider Change of Control
+105
+ 
+21.5
+Termination for Insolvency
+105
+ 
+21.6
+Client Rights Upon Provider’s Bankruptcy
+106
+ 
+21.7
+Disengagement Services
+107
+22.
+ 
+GENERAL.
+111
+ 
+22.1
+Binding Nature, Assignment
+111
+ 
+22.2
+Entire Agreement; Amendment
+111
+ 
+22.3
+Notices
+112
+ 
+22.4
+Relationship of Parties
+114
+ 
+22.5
+Severability
+114
+ 
+22.6
+Consents and Approval
+114
+ 
+22.7
+Waiver of Default; Cumulative Remedies
+114
+ 
+22.8
+Survival
+115
+ 
+22.9
+Publicity
+115
+ 
+22.10
+Third Party Beneficiaries
+115
+ 
+22.11
+Covenant Against Pledging
+115
+ 
+22.12
+Order of Precedence
+115
+ 
+22.13
+Hiring
+117
+ 
+22.14
+Liens
+117
+ 
+22.15
+Covenant of Cooperation and Good Faith
+117
+ 
+22.16
+Further Assurances
+117
+ 
+22.17
+Counterparts, Headings, Language
+118
+Exhibit 10.1
+DOCUMENT INDEX
+Master Services Agreement
+Exhibits
+Exhibit 1
+ – Definitions
+Exhibit 2
+ – Statements of Work and Related Matters
+Exhibit
+ 
+2-A
+ – SAP Implementation SOW
+Exhibit 2-B
+ – E-Commerce Implementation SOW 
+Exhibit 2-C
+ – Non-ERP Applications SOW
+Addendum # 1
+ – ROM-PLM 
+Addendum # 2
+ – ROM-ECM
+Addendum # 3
+ – ROM-MDM 
+Exhibit 2-D
+ – SAP Applications-Run SOW
+Exhibit 2-E
+ – Reserved
+Exhibit 2-F
+ – Infrastructure SOW
+Addendum # 1 
+– Deliverables
+Addendum # 2
+ – List of Activities
+Exhibit 2-G
+ – Reserved
+Exhibit 2-H – 
+Third Party Contracts
+Exhibit 2-I
+ – Asset Inventory
+Exhibit 2-J – 
+Company Locations
+Exhibit 2-K
+ – Applications Inventory
+Exhibit 2-L
+ – Application Decommission List
+Exhibit 2-M
+ – Validation List
+Exhibit 2-N
+ – Transition
+Exhibit 3
+ – Service Level & Critical Deliverables Methodology
+Exhibit 3-A
+ – SAP Service Levels
+Exhibit 4
+ – Reserved 
+Exhibit 5
+ – Invacare Policies and Procedures 
+Exhibit 6
+ – Governance 
+Exhibit 7
+ – Change Control Procedures
+Exhibit 8 
+– Reserved
+Exhibit 9
+ – Disaster Recovery/Business Continuity Plan
+Exhibit 10
+ – Pricing and Financial Provisions
+Exhibit 11
+ – Reserved
+Exhibit 12
+ – Data Processing Agreement
+Exhibit 13
+ – Insurance
+Exhibit 14
+ – Informal Dispute Resolution 
+Exhibit 15
+ – Disengagement Services
+Exhibit 16
+ – Employment Matters
+Schedules
+Schedule A
+ – Form of Local Agreement
+Schedule B
+ – Form of Work Order 
+Page i
+Master Services Agreement
+Schedule C
+ – Form of Parent Guaranty
+Schedule D–1 
+– Form of Letter of Credit
+Schedule D–2 
+– Incumbency Certificate
+Schedule E
+ – Form of Business Associate Agreement
+Schedule F
+ – Form of Quality & Regulatory Agreement
+Master Services Agreement
+MASTER INFORMATION TECHNOLOGY SERVICES AGREEMENT
+This Master Informational Technology Services Agreement is entered into effective October 1, 2019 (the “
+Effective Date
+”) by and between Invacare Corporation, an Ohio corporation having a principal place of business in Invacare Corporation, 1 Invacare Way, Elyria, Ohio 44035 (“
+Client
+”), and
+ 
+Birlasoft Solutions Inc., a
+ 
+New Jersey corporation having a principal place of business at 399 Thornall Street, 8th Floor, Edison, NJ 08837 (“
+Provider
+”). 
+WHEREAS, Client and Provider have engaged in extensive negotiations, discussions and due diligence that have culminated in the formation of the strategic relationship described in this Agreement with respect to the delivery by Provider of information technology services in order to: 
+•
+Improve the quality, effectiveness and efficiency of the information technology services received by Client, including making improvements in the functionality of technology;
+•
+Create competitive advantage for Client through the outsourcing of the Services, achieve best-in-class standards and sustain and enhance such standards through continuous improvement;
+•
+Encourage and facilitate innovation in the delivery of such Services;
+•
+Meet minimum Service Levels and improve Service delivery through continuous assessment and reviews of all processes and procedures for the performance of the Services, and improve Client’s overall productivity to provide significant value to Client; and
+•
+Provide a timely and smooth transition of personnel, systems, suppliers and processes with minimal unplanned disruption to the business of Client and other Eligible Recipients.
+WHEREAS, the Services include Provider implementing SAP and ecommerce platforms in accordance with and as described in the applicable Statements of Work and transitioning Client and the other Eligible Recipients to such platforms as part of the Transformation/Transition; and 
+WHEREAS, Client desires to procure from Provider, and Provider desires to provide to Client and the other Eligible Recipients, such Services, on the terms and conditions set forth in the Agreement.
+NOW THEREFORE, in consideration of the mutual promises and covenants contained herein, and of other good and valid consideration, the receipt and sufficiency of which is hereby acknowledged, Client and Provider (collectively, the “
+Parties
+” and each, a “
+Party
+”) hereby agree as follows:
+Page 1
+Master Services Agreement
+1.
+INTERPRETATION/DUE DILIGENCE.
+1.1
+Defined Terms
+. The defined terms used in this Agreement will have the meanings set forth in 
+Exhibit 1
+ or stated where they first appear, unless the context clearly requires otherwise.
+1.2
+Reference to Statutes
+. A reference to any statute, enactment, order, regulation or other similar instrument will be construed as a reference to the statute, enactment, order, regulation or instrument as amended by any subsequent statute, enactment, order, regulation or instrument or as contained in any subsequent re-enactment thereof.
+1.3
+Section References
+. (i) References in this MSA to Articles and Sections are, unless otherwise provided, references to Articles and Sections of this MSA; (ii) references to Articles and Sections in a Local Agreement are, unless otherwise provided, references to Articles and Sections to that Local Agreement; and (iii) references to Articles and Sections in an Exhibit, Schedule Annex or other attachment to an MSA or Local Agreement are, unless otherwise provided, references to such Exhibit, Schedule, Annex or other attachment.
+1.4
+Headings
+. Headings are included in this Agreement and a Local Agreement for ease of reference only and will not affect the interpretation or construction of this Agreement or a Local Agreement.
+1.5
+Recitals
+. The recitals above are (i) intended as a general statement of purposes for this Agreement; and (ii) are not intended to expand or contract the scope of the Parties’ obligations or to alter the plain meaning of this Agreement’s terms and conditions. 
+1.6
+Waiver of Presumption
+. The Parties are sophisticated and have been represented by counsel during the negotiation of this Agreement. As a result, any presumption or rules of construction relating to the interpretation of contracts against the drafter thereof should not apply. The Parties hereby waive any such presumption or rule.
+1.7
+Due Diligence Complete
+.
+(a)
+Provider acknowledges that Client has delivered or made available to Provider information and documents Provider has deemed necessary, including information and documents requested by Provider, for Provider to perform its obligations under this Agreement in accordance with its terms (the “
+Due Diligence Documents
+”). 
+(b)
+Provider shall not be relieved of any of its obligations under this Agreement, and, except as expressly set forth in 
+Section 1.1.4
+ of 
+Exhibit 2-N
+, Provider shall not request increases to the Charges or adjustments to the Service Levels, as a result of or relating to (i) Provider’s failure to review the Due 
+Page 2
+Master Services Agreement
+Diligence Documents, or (ii) Provider’s failure to request any information or documents from Client. If Provider demonstrates that inaccuracies, errors or omissions contained in the Due Diligence Documents resulted from Client’s failure to provide the Due Diligence Documents and such inaccuracies, errors or omissions have a material adverse effect on Provider, then, if requested by Provider within three (3) months following the Effective Date, such impact will be addressed pursuant to 
+Section 9.17
+ and the Change Control Procedures. For clarity, Provider shall identify to Client any information in the Due Diligence Documents that has been requested by Provider and not provided by Client and the foregoing sentence shall not apply to such information unless Provider has so notified Client. 
+ 
+(c)
+With respect to any attachments that include lists of assets, Software and third-party contracts, it was the intent of the Parties to create accurate and complete lists as of the Effective Date. In the event any assets, Software and/or contracts were not included on such lists but existed, with respect to this Agreement as of the Effective Date, upon Client’s request, such lists shall be amended to include such missing or “omitted” assets, Software and/or contracts, and Provider’s obligations shall include such assets, Software and/or contracts without an increase or change to Provider’s Charges under this Agreement.
+2.
+AGREEMENT STRUCTURE.
+2.1
+Master Services Agreement
+. This MSA sets out the Parties’ agreement as to the general terms and conditions applicable to the provision of the Services to Client and other Eligible Recipients.
+2.2
+Statement of Works
+.
+ 
+ Provider will provide the Services in accordance with each of the statements of work attached hereto as 
+Exhibits 2
+ (the “
+Initial SOWs
+”) and any additional statements of work executed by the parties hereto and incorporated by reference into this Agreement (together with any schedules, attachments, appendices or annexes thereto, a “
+Statement of Work
+”). 
+2.3
+SAP and E-Commerce Implementation
+.
+(a)
+The Initial SOW set forth on 
+Exhibit 2-A
+ - SAP SOW
+ includes a description of the implementation and provision of an enterprise resource planning platform utilizing Software licensed by Client from SAP, Inc. or its Affiliate (collectively, “
+SAP
+”), including the functionality thereof, that will be used by Eligible Recipients to operate core functions of their business (the “
+SAP Platform
+”). 
+(b)
+The Initial SOW set forth on 
+Exhibit 2-B
+ - E-Commerce SOW
+ includes a description of the implementation of an e-commerce platform for Client, 
+Page 3
+Master Services Agreement
+including the functionality thereof, that will be used by Client and the other Eligible Recipients (the “
+E-Commerce Platform
+”). 
+(c)
+The agreements between Client and SAP providing for software and services provided by SAP related to the SAP Platform and E-Commerce Platform (the “
+SAP Agreements
+”) are Third Party Contracts between SAP and Client. Provider will reimburse Client for all amounts paid by Client to SAP in connection with the SAP Agreements, as further described in 
+Exhibit 10
+, and Provider will manage the SAP Agreements as provided in 
+Section 6.5
+.
+2.4
+Work Orders
+. Work Orders are to be used as a means to expand the scope of a Statement of Work to include New Services to be provided by Provider if Client does not decide to use a new Statement of Work to document the provision of the New Services. Work Orders are not intended, and shall not be used by Provider or Client, to re-negotiate or otherwise change terms and conditions that have been negotiated and set forth in the Agreement, including the applicable Statement of Work. 
+2.5
+Local Agreements
+.
+(a)
+Where necessary or appropriate for Eligible Recipients to receive the Services in a particular country or region, the Parties or their local Affiliates (provided that, unless otherwise agreed by the Parties, all such local Affiliates of Provider are wholly owned by Provider or Provider Parent) shall enter into an additional, ancillary agreement setting forth such additional terms and conditions applicable to such country or region in substantially the form set forth on 
+Schedule A
+ (each, a “
+Local Agreement
+”). The Local Agreements may address as necessary any specific legal, regulatory, human resource or procedural requirements necessary for compliance with applicable local Law (e.g., tax or employment) or due to variations in practices (e.g., insurance) or as otherwise agreed to by the Parties. Unless otherwise set forth in a Local Agreement, all Services in a particular country or region shall be provided by Provider or the applicable Affiliate of Provider pursuant to this Agreement or an executed Local Agreement. Unless and to the extent an individual Local Agreement expressly provides otherwise, each Local Agreement shall incorporate by reference the terms and conditions of this Agreement and shall not be construed as altering or superseding the rights and obligations of the Parties under this Agreement. 
+(b)
+Each Party shall be fully responsible and liable for all obligations of itself or any Affiliate under a Local Agreement, and each Party shall have the same rights under this Agreement if an event or circumstance (e.g., bankruptcy) occurs with respect to an Affiliate that is a party to a Local Agreement, that it would have if such party were a Party. 
+Page 4
+Master Services Agreement
+(c)
+Except as expressly provided in a Local Agreement, any and all disputes arising under or relating to any Local Agreement shall be subject to the provisions of 
+Article 20
+, and under no circumstances shall Client or any other Eligible Recipient, on the one hand, or Provider, any Provider Affiliate, on the other hand, bring or attempt to bring any claim or other action arising under or relating to any Local Agreement or this Agreement except as provided in 
+Article 20
+. In addition, each Party shall have the right to enforce this Agreement and all Local Agreements on behalf of each Eligible Recipient, in the case of Client, or a Provider Affiliate that enters into a Local Agreement, and all other rights, remedies, privileges and powers (including monetary damages) of each party, to the same extent as if Client were such Eligible Recipient or Provider was a Provider Affiliate, subject to the limitations of liability applicable under this Agreement. 
+2.6
+Variance from this Agreeme
+nt. A duly executed Local Agreement, Work Order, or similar document may override this Agreement with respect to that particular document if, and only if, the document (i) expressly states that the Parties intend to deviate from the terms and conditions of this Agreement for that particular document, (ii) includes specific reference in each case to the Section or Sections of this Agreement being superseded, and (iii) states how this Agreement is being superseded. 
+3.
+SERVICES.
+3.1
+Scope of Services
+. The “
+Services
+” include the following functions, responsibilities, activities and tasks (collectively, “
+Functions
+”), as they may evolve and be supplemented, enhanced, modified or replaced during the Term, which Provider will provide to Client and other Eligible Recipients and Authorized Users designated by Client:
+(a)
+The Functions described in this Agreement;
+(b)
+The related Functions performed during the twelve (12) months preceding the Commencement Date by Client Personnel (including Client contractors), software or equipment that were displaced or transferred to Provider or whose Functions were displaced or transferred to Provider as a result of this Agreement or a Local Agreement, even if the Function is not specifically described in this Agreement or a Local Agreement (provided that, in the event of a direct conflict between the description of Functions in this Agreement or a Local Agreement and the scope of services as described in this 
+Section 3.1
+, the description in this Agreement and the Local Agreement shall control); and
+(c)
+Any Function not specifically described in this Agreement or a Local Agreement that are an inherent, necessary or customary part of the Services as described in this Agreement or a Local Agreement, or are required for 
+Page 5
+Master Services Agreement
+proper performance or provision of the Services in accordance with this Agreement. 
+3.2
+New Services
+.
+(a)
+Procedures
+. The Parties acknowledge and agree that the pricing applicable to this Agreement is intended to encompass Provider providing to Client and the other Eligible Recipients the Services regardless of (i) the volume of such Services (except as expressly set forth in 
+Exhibit 10
+ 
+with regard to material increases in volume of the Services that the Parties agree are not anticipated to increase revenue for Client), (ii) the costs or expenses of Provider in providing such Services, including any cost or expense associated with obtaining, maintaining or operating any Materials or Equipment required by Provider to deliver the Services, and the cost and expense associated with the End User Equipment required for Client and its Affiliates to receive such Services, or (iii) the efforts of the Provider Personnel associated with the provision of such Services. However, if Client requests that Provider perform any New Services reasonably related to the Services or other services generally provided by Provider, Provider shall promptly prepare a draft proposal for Client’s consideration. Client shall provide such available, non-confidential and non-privileged information, and otherwise reasonably cooperate, as Provider reasonably requests in order to prepare such New Services proposal. Client may approve or reject any New Services proposal in its sole discretion and Provider shall not be obligated to perform any New Services to the extent the applicable New Services proposal is rejected. If Client approves any New Services proposal, Provider shall perform the New Services and shall be paid in accordance with the terms as may be agreed upon by the Parties, and the provisions of this Agreement. Upon Client’s approval of a Provider proposal for New Services, the scope of the Services shall be expanded to include such New Services, and such approved New Services proposal shall be documented in a Work Order or in a new Statement of Work, as applicable. If Client requests additional Services and Provider and Client disagree about whether such requested Services constitute New Services, then the Parties shall meet and discuss such disagreement in good faith, provided that during the discussions and until completion, Provider shall perform such requested Services. If the Parties cannot agree on whether such requested Services constitute New Services within thirty (30) days of the commencement of such discussions, the matter may be resolved pursuant to the dispute resolution procedures set forth in 
+Article 20
+ if requested by either Party.
+(b)
+Use of Third Parties
+. Client may elect to solicit and receive bids from third parties to perform any New Services. Notwithstanding the previous sentence, solely with respect to New Services that involve the provision of material information technology services that Provider is reasonably capable of 
+Page 6
+Master Services Agreement
+performing, Client will use Commercially Reasonable Efforts to first solicit a bid from Provider; provided, however, that Client shall have no such obligation (i) if Provider has breached this Agreement as of the date Client solicits such bid, (ii) there is a material dispute between the Parties related to the SAP Platform, E-Commerce Platform or the Applications listed on 
+Exhibit 2-K
+ as of such date; (iii) such New Services are reasonably required for Client to quickly address a significant business issue, including following any Force Majeure Event; (iv) to the extent inconsistent with an In-Scope Agreement; or (v) with regard to any third party contemplated to be engaged pursuant to the express terms of this Agreement or a Local Agreement.
+ 
+Provider must submit a proposal for any New Services to Client within ten (10) days after receipt of the request from Client and shall present Provider’s solution for such New Services to Client within fifteen (15) days after submitting such proposal to Client. In the event that Provider submits such a New Services proposal to Client, and Client rejects such proposal, Client may utilize any third party for such work as determined in its sole discretion. If Client elects to use third parties to perform New Services, (i) such New Services shall not be deemed “Services” under the provisions of this Agreement, and (ii) Provider shall cooperate with such third parties as provided in this Agreement. 
+(c)
+Services Evolution and Modification
+. The Parties anticipate that the Services shall evolve and be supplemented, modified, enhanced or replaced over time to keep pace with technological advancements and improvements in the methods of delivering and receiving Services and changes in the businesses of the Eligible Recipients. The Parties acknowledge and agree that these changes shall modify the Services and shall not be deemed to result in New Services or additional Charges unless the changed services meet the definition of New Services.
+(d)
+Authorized User and Eligible Recipient Requests
+. Provider shall promptly inform the Client Relationship Manager or his or her designee of requests for New Services from Authorized Users or Eligible Recipients, and shall submit any proposals for New Services to the Client Relationship Manager or his or her designee. Provider shall not agree to provide New Services to any Authorized Users or Eligible Recipients without the prior written approval of the Client Relationship Manager or his or her designee. If Provider fails to comply with this 
+Section 3.2(d)
+, it shall receive no compensation for any services rendered to any person or Entity in violation of such provision.
+3.3
+Work Orders
+.
+(a)
+General
+. A form of Work Order (“
+Work Orders
+”) for New Services is attached as 
+Schedule B
+. Each Work Order shall incorporate by reference 
+Page 7
+Master Services Agreement
+(and be subject to) the terms of the applicable Statement of Work and this MSA, unless and to the extent such terms are expressly excluded in such Work Order. Provider shall perform the New Services as set forth in each executed Work Order under the applicable Statement of Work. 
+(b)
+Work Order Development
+. If Client so requests, Provider shall develop a draft Work Order (or an amendment to an existing Work Order) for Client’s review. Client shall provide such available, non-confidential and non-privileged, information, and otherwise reasonably cooperate, as Provider reasonably requests in order to prepare such draft Work Order. Provider shall make any amendments reasonably requested by Client and mutually agreed by the Parties. Provider shall promptly commence preparation of the Work Order (or an amendment to an existing Work Order), and diligently pursue completion of such Work Order (or such amendment) as soon as possible, but in any event complete the same no later than ten (10) days after Client’s request, unless a period longer than ten (10) days is mutually agreed to by the Parties. Such Work Order (or such amendment to an existing Work Order) shall become effective only when signed by both Parties.
+(c)
+Work Order Pricing
+. At Client’s request, Provider shall provide pricing for a new Work Order or an amendment to a Work Order on either a time-and-material basis at the rates set forth on the 
+Exhibit 10
+ or on a fixed fee basis. In such instances, unless otherwise agreed by the Parties, Provider shall provide Client with a description of the anticipated staffing, including the number of onsite, offsite, offshore and offshore/onsite personnel, the mix of skill categories and job classifications, the required Materials and Equipment and the anticipated level of effort by Provider Personnel category, to facilitate Client’s evaluation of the proposed pricing. The hours expended by Provider in preparing Work Orders, Work Order amendments or other proposals or plans or reporting on the status of such Work Orders shall not be charged to Client.
+(d)
+Work Order Term
+. The term of each Work Order shall be as set forth in such Work Order, or, if no such term is set forth, shall be from the effective date of such Work Order until the completion of the Services to be performed under such Work Order, unless such Work Order is terminated in accordance with this Agreement or the terms therein. 
+3.4
+Service Commencement
+.
+(a)
+Transformation/Transition Services
+. Provider shall commence providing the Transformation/Transition Services for the each Statement of Work on the date set forth in the Transformation/Transition Plan for such Statement of Work. 
+Page 8
+Master Services Agreement
+(b)
+Steady State Services
+. Provider shall commence performing the steady state Services for the Statement of Work on the applicable Commencement Date.
+(c)
+New Services
+. For New Services, Provider shall commence providing the Transformation or Transition Services on the date of the applicable Statement of Work, Work Order, change order or amendment adding such Services.
+3.5
+Client Policies and Procedures
+. Except as this Agreement expressly provides otherwise, Provider will perform the Services in compliance with Client Policies and Procedures, provided that any new Client Policies and Procedures or modifications to Client Policies and Procedures will be disclosed to Provider either (A) in writing or (B) upon Provider Personnel being notified of such new or modified Client Policies and Procedures in the same manner as Client or other Eligible Recipient notifies its employees and other third parties (for example, posting a sign); provided that in no event shall the effective date of any such new or modified Client Policies and Procedures be later than any date required by Law or other any other compliance obligation of an Eligible Recipient for implementation of such change. Notwithstanding the foregoing, for changes to existing or new Client Policies and Procedures effective after the Effective Date, Client shall provide Provider a reasonable amount of time to evaluate the impact of and to comply with such changes or new Client Policies and Procedures; provided however that all such changes and new Client Policies and Procedures required by Law shall by implemented by Provider when required by such Law. If such changes or new Client Policies and Procedures impose a material financial impact to Provider, the Parties shall meet in good faith to discuss ways to mitigate such impact and/or any adjustments to the Charges pursuant to the governance process contained in 
+Exhibit 6
+ 
+and the Change Control Procedures set forth in 
+Exhibit 7
+. 
+3.6
+Deliverables.
+(a)
+Deliver of Deliverables
+. Provider shall deliver all Deliverables and other items to Client under this Agreement as instructed by Client in writing and/or as set forth in an applicable Statement of Work. To the extent that software, digital assets, diskettes, manuals and instructions, and other similar items are a part of the Deliverables, Provider shall deliver such Deliverables to Client solely via email, in a secure fashion via FTP over the Internet, or by another electronic means requested by Client. Provider shall deliver the source code as part of any Client Owned Materials (and to the extent permitted by the applicable third party license, as part of any Client licensed Third Party Materials) that contains software code, as agreed by the Parties. 
+(b)
+Acceptance and Approval of Deliverables
+. Provider shall test or otherwise validate the proper performance of all Deliverables, and that such Deliverables conform to the Acceptance Criteria, or that a Deliverable is commercially reasonable if a Deliverable does not have any Acceptance Criteria, prior to delivery to Client, including in accordance with any 
+Page 9
+Master Services Agreement
+procedures as may be specified in a Statement of Work. All Deliverables are subject to Client’s Acceptance. Upon delivery (and installation, if required to be performed by Provider) of any Deliverable, Provider shall notify Client. Client will evaluate such Deliverables, as applicable, to determine whether the Deliverables conform to the Acceptance Criteria. If Client, within the applicable time period agreed by the Parties, if any, (“
+Acceptance Period
+”) determines that the Services or Deliverables, as applicable, do not comply with the Acceptance Criteria, Client shall notify Provider in writing. Within fifteen (15) days of such notice, or such other time as set forth in the Statement of Work, Local Agreement or Work Order, Provider shall promptly correct any deficiencies and Client shall re-evaluate such Deliverables within the applicable Acceptance Period to determine whether the resubmitted Deliverables comply with the Acceptance Criteria (“
+Deliverables Correction Process
+”). If Provider does not remedy the deficiency after two (2) attempts, Client may elect to allow Provider to repeat the Deliverables Correction Process until Client accepts the Deliverables or Client may reject such Deliverable and/or terminate the affected Services, and if such termination was based on a failure to conform to the applicable Acceptance Criteria, Provider will issue Client a credit against future fees as set forth in a Statement of Work, Local Agreement, Work Order or as otherwise reasonably agreed by the Parties to reflect the diminution in value of the Services as a result of such failure. Client will otherwise be entitled to other remedies available in law or equity or otherwise provided for in this Agreement. Without limitation of the foregoing, Provider’s failure to provide Deliverables which conform to the Acceptance Criteria, or failure to do so by specified milestones set forth in this Agreement, also may be subject to a Service Credit, as provided in 
+Exhibit 3
+. If Client does not furnish a written notice to Provider in a timely manner, the subject will be escalated pursuant to 
+Exhibit 6
+. Notwithstanding the preceding sentence, if Client does not furnish a written notice to Provider within twenty (20) days after the end of the Acceptance Period for a Deliverable that does not involve compliance with a Regulatory Requirement set forth on 
+Schedule F
+ 
+or with other Law, Provider shall promptly send a second notice to Client. If Client fails to respond to such second notice within five (5) days of receipt of such notice, the applicable Deliverable will be deemed Accepted. For clarity, under no circumstances will there be any deemed Acceptance for any Deliverable that involves compliance with a Regulatory Requirement set forth on 
+Schedule F
+ or with other Law. 
+(c)
+Approvals Generally
+. As to any item or event that much be Accepted by Client under this Agreement, Client may exercise its approval rights in its sole, but reasonable, discretion, unless otherwise specified. Notwithstanding any other provision in this Agreement, Client’s review, approval, comment, or consent to anything submitted to Client will not waive, modify, or limit Provider’s obligation to comply with the terms of this Agreement.
+Page 10
+Master Services Agreement
+3.7
+Evolution of the Services
+. Throughout the Term, Provider will improve the quality, efficiency and effectiveness of the Services to keep pace with advances in technology and the delivery of business process services that support Client’s (and its Affiliates’) evolving business needs and efforts to maintain competitiveness in the markets in which it (and they) competes. Without limiting the generality of the foregoing, Provider will: (a) identify and apply industry and Provider’s ‘best practice’ or ‘leading’ techniques and methodologies in performing and delivering the Services; (b) train Provider Personnel in new techniques and technologies used generally within Provider’s organization for commercial customers or the information technology services industry for use in rendering the Services, in each case to the extent applicable to the Eligible Recipients; and (c) make investments reasonably required to maintain the currency of the Tools, Equipment, Software and other resources used by Provider to render the Services. Provider shall comply with the Client Policies and Procedures as applicable to the laptops, tablets and other Equipment made available by the Eligible Recipients pursuant to this Agreement, including refreshing such Equipment in accordance with such Client Policies and Procedures, the Statements of Work or as otherwise required for Provider to provide the Services as required by this Agreement and a Local Agreement. Changes in the Services pursuant to this 
+Section 3.7
+ will not be considered New Services. In furtherance of this commitment, the Parties shall review the Service Levels, the performance data collected and reported by Provider and relevant industry data and trends on an annual basis after steady state for the Services has been achieved. As part of such review process, the Parties shall, at no additional cost to Client, improve the Service Levels to reflect the higher performance levels actually attained or attainable by Provider in accordance with 
+Exhibit 3
+. In addition, subject to 
+Exhibit 3
+, the Parties shall agree, to the extent reasonable and appropriate, to (i) improve the Service Levels to reflect improved performance capabilities associated with advances in the proven processes, technologies and methods available to perform the Services; (ii) add new Service Levels to permit further measurement or monitoring of the accuracy, quality, completeness, timeliness, responsiveness, cost-effectiveness or productivity of the Services; (iii) modify or increase the Service Levels to reflect changes in the processes, architecture, standards, strategies, needs or objectives defined by Client; and (iv) modify or increase the Service Levels to reflect agreed upon changes in the manner in which the Services are performed by Provider. 
+Page 11
+Master Services Agreement
+3.8
+Innovation Services. 
+Provider has agreed to develop and deploy new ideas, techniques, methods, processes or technology related to (a) assisting Client’s creation of a more efficient and cost-effective organizations, (b) improving alignment between technology initiatives and Client’s business goals, and (c) otherwise providing innovation to Client in connection with the receipt of the Services (collectively, “
+Innovation Services
+”). Provider shall regularly propose Projects involving the Innovation Services to Client as part of governance model set forth in 
+Exhibit 6
+ and implement those Projects approved by Client. Provider shall investigate and propose a Project for Innovation Services if requested by Client. 
+3.9
+Additional Work or Reprioritization
+. After consultation with Provider’s Service Delivery Manager, the Client Relationship Manager or his or her designee may reprioritize or reset the schedule for existing work activities to be performed by Provider Personnel and the Provider Personnel then assigned to Client for (i) Projects, (ii) for meetings requested by Client pursuant to 
+Section 14.3(b)
+, or (iii) steady-state Services to accommodate Disengagement Services (“
+Reprioritized Services
+”). Provider shall use Commercially Reasonable Efforts to perform such Reprioritized Services without impacting the established schedule for other impacted tasks, or, in the case of Disengagement Services, the performance of Services in accordance with the Service Levels. If it is not possible to avoid such an impact, Provider shall notify Client of the anticipated impact and obtain its consent prior to proceeding with such Reprioritized Services. Client, in its sole discretion, may forego or delay work activities or temporarily or permanently adjust the work to be performed by Provider Personnel, the schedules associated therewith or, in the case of Disengagement Services, the Service Levels, to permit the performance by Provider of such Reprioritized Services. 
+3.10
+Right to In-Source or Use of Third Parties; Cooperation and Managed Third Parties
+.
+(a)
+Right of Use
+. This Agreement shall not be construed as a requirements contract and shall not be interpreted to prevent any Eligible Recipient from obtaining from third parties (each, a “
+Third Party Contractor
+”), or providing to itself or any other Eligible Recipient, any or all of the Services or any other services. Nor shall anything in this Agreement be construed or interpreted as limiting Client’s right or ability to add or delete Eligible Recipients or increase or decrease its demand for the Services. Nor shall anything in this Agreement be construed or interpreted as limiting Client’s right or ability to change the contract requirements or Service volumes or move parts of any Service in or out of scope. For clarity, the Termination Charges, if any, applicable to a termination of this Agreement in whole are set forth in 
+Exhibit 10
+. 
+(b)
+Provider Cooperation
+. Provider shall fully cooperate with and work in good faith with Client, the other Eligible Recipients and Third Party 
+Page 12
+Master Services Agreement
+Contractors as described in this Agreement or requested by Client and at no additional charge to Client. If and to the extent requested by Client, Provider shall provide such cooperation by, among other things: (i) timely providing physical access and electronic access (including, at Client’s sole discretion and cost, any temporary Third Party Software licenses required to permit an Eligible Recipient or Third Party Contractor to perform services within the Services environment) to business processes and associated Equipment, Materials, Systems and/or Provider Facilities to the extent necessary and appropriate for Client, the other Eligible Recipients or Third Party Contractors to perform the work assigned to them, provided that Client, Eligible Recipients, and Third Party Contractors comply with all applicable existing Provider policies with regards to such physical access to the extent made available to Client prior to such access; (ii) timely providing written requirements, standards, policies or other documentation for the business processes and associated Equipment, Materials or Systems procured, operated, supported or used by Provider in connection with the Services; (iii) timely providing access to source code for Client Owned Materials and, to the extent permitted by the applicable third party license, any Client licensed Third Party Materials; (iv) timely providing access to Client Data to the Eligible Recipients and/or Third Party Contractors in the same manner and to the same extent access to such data is required to be provided by Provider to Client; (v) timely providing cooperation and assistance in accordance with 
+Section 21.7
+ to facilitate the orderly transfer of terminated Services from Provider to Client, the other Eligible Recipients and/or Third Party Contractors; (vi) minimizing any degradation in the performance of the Services caused by the adjustments made by Provider following such transfer of Services; (vii) establishing procedures and other arrangements with Third Party Contractors to ensure continuity of seamless service to Client (e.g., RACI charts, multi-supplier governance procedures), and (viii) any other cooperation or assistance reasonably necessary for Client, the other Eligible Recipients and/or Third Party Contractors to perform the work in question. Client personnel and Third Party Contractors shall comply with Provider’s reasonable security and confidentiality requirements, and shall, to the extent performing work on Materials, Equipment or Systems for which Provider has operational responsibility, comply with Provider’s reasonable standards, methodologies, and procedures. If requested by Client, Provider shall enter into a mutually agreed joint governance and issue resolution document between Provider and Third Party Contractors who provide similar or related services to an Eligible Recipient.
+Page 13
+Master Services Agreement
+3.11
+Acquisition, Alliance, Internal Reorganizations and Divestiture Services
+. Provider shall provide the following as part of the Services related to any acquisition or divestiture by Client or other Eligible Recipient:
+(a)
+Acquisition, Alliance, Internal Reorganizations and Other Transaction Support
+. With respect to a potential acquisitions, joint ventures, strategic alliances, internal reorganizations and other similar transactions to be entered into by Client or other Eligible Recipient, upon Client’s request and subject to 
+Section 3.9
+, Provider will provide transaction support (including assessments of the current technology environments to be acquired, used or combined, potential integration approaches, and the potential net economic impact of the acquisition in connection with the Services) as reasonably necessary to assist Client’s assessment of the portion of the transaction to which the Services will relate. Subject to 
+Section 3.9
+, such support will be provided within the timeframe reasonably requested by Client or as required by the timing of the transaction. As requested by Client and as they relate to the Services, Provider will migrate the systems, applications and data of the counter-party entity to the Services environment. As requested by Client, Provider will provide personnel to staff vacancies and to provide management for the information technology functions needed to support an acquisition, joint venture, strategic alliance or other similar transaction, including on-site support at the location of the acquired entity. In the event that Client elects to not reprioritize the delivery of Services in accordance with 
+Section 3.9
+ but still wants Provider to provide the services described herein, the Parties shall mutually agree on the staffing and fees for such services under a Work Order.
+(b)
+Divestitures
+. From time to time, Client or its Affiliates may divest Entities or any division or business unit thereof. In such cases, subject to 
+Section 3.9
+, and if requested by Client, Provider will provide transition support services Client, the divested Entity or the division, or business unit or the acquiring Entity, in each case as reasonably requested by Client. For clarity, any such divested Entity, division or business unit will be treated as an Eligible Recipient if so requested by Client for the period of time reasonably requested by Client. In the event that Client elects to not reprioritize the delivery of Services in accordance with 
+Section 3.9
+ but still wants Provider to provide such transition services, the Parties shall mutually agree on the staffing and fees for such services under a Work Order.
+4.
+TRANSFORMATION AND TRANSITION
+.
+4.1
+Transformation Services and Transition Services
+. During the Transformation or Transition Period, if any, described in the applicable Statement of Work, Provider shall perform the Services required to smoothly transfer responsibility for the Functions to be transitioned from Client (or third parties where applicable) to 
+Page 14
+Master Services Agreement
+Provider (the “
+Transition Services
+”) and to implement the SAP Platform and the E-Commerce Platform (the “
+Transformation Services
+”), including those described in any Transformation or Transition plan set forth in the applicable Statement of Work (each, a “
+Transformation Plan” 
+or “
+Transition Plan
+” as the case may be). The initial Transition Plan is set forth on 
+Exhibit 2-N
+ (the “
+Initial Transition Plan
+”).
+4.2
+Transformation/Transition Plan
+. If a Transformation or Transition Plan is set forth in the applicable Statement of Work or a Work Order, Provider shall prepare and deliver to Client a detailed Transformation or
+ 
+Transition Plan for Client’s review, comment and approval within thirty (30) days after the Statement of Work Effective Date. The proposed detailed Transformation or
+ 
+Transition Plan shall describe in greater detail the specific transformation or transition activities to be performed by Provider, but shall be consistent in all respects with the Transformation or Transition Plan set forth in the applicable Statement of Work or a Work Order, including the activities, Deliverables, Transformation/Transition Milestones, Transformation/Transition Milestone due dates and Transformation Deliverable Credits, if any, described in the Transformation Plan. Provider shall address and resolve any questions or concerns Client may have as to any aspect of the proposed detailed Transformation or Transition Plan and incorporate any modifications, additions or deletions to such Transformation or Transition Plan requested by Client. Provider shall obtain Client’s approval for the detailed Transformation or Transition Plan within forty-five (45) days after the Statement of Work Effective Date unless another period is agreed upon by the Parties. The detailed Transformation or Transition Plan as approved by Client shall be deemed to be appended to and incorporated in the applicable Statement of Work. 
+4.3
+Transformation/Transition Documents
+. To the extent applicable, a Statement of Work shall set forth the Transformation/Transition Deliverables and Transformation/Transition Milestones for the Transformation/Transition under such Statement of Work and the applicable Transformation Deliverable Credits, if any. Provider will carry out and complete each Transformation/Transition in accordance with the applicable Transformation/Transition documents, including any time schedule and deadlines set forth in such documents. Provider shall complete the Transformation/Transition by the completion date for such Transformation/Transition (“
+Transformation Completion Date
+” or “
+Transition Completion Date
+”) set forth in the Transformation/Transition documents. The Transformation/Transition Documents will include, as critical components, clear definitions of the waves, stages, and discrete work streams that will comprise the Transformation/Transition for each Initial SOW and a delineation of the Transformation/Transition deliverables (“
+Transformation Deliverables
+” or
+ 
+“
+Transition Deliverables”
+) and Transformation/Transition milestones (“
+Transformation Milestones
+” or “
+Transition Milestones
+”), and their respective Acceptance Criteria, and Transformation Deliverable Credits associated with a Transformation Milestone or Critical Deliverable not being achieved. The Transformation/Transition Deliverables and Transformation/Transition Milestones will be used to determine, at logical stages 
+Page 15
+Master Services Agreement
+of each Transformation/Transition, whether progress has been sufficient to warrant proceeding to the next stage, whether there are any corrective actions that should be taken before proceeding with dependent work, the next stage or related Transformation/Transition activities, and whether there are any lessons learned from performance of Transformation/Transition waves that should be documented and communicated to the Transformation/Transition teams working on other waves in order to minimize the recurrence of problems during Transformation/Transition. Each Statement of Work details the process by which Client will determine whether the Acceptance Criteria for each Transformation/Transition Deliverable and Transformation/Transition Milestone have been met. A Transformation/Transition Deliverable or Transformation/Transition Milestone will be deemed to be complete at such time as Client agrees that all Acceptance Criteria have been satisfied and Client issues a written notice to Provider that the Transformation/Transition Deliverable or Transformation/Transition Milestone is complete. 
+4.4
+Conduct of the Transformation/Transition
+. Provider shall perform the Transformation/Transition Services described in the Transformation/Transition Plan in accordance with the timetable and the Transformation/Transition Milestones set forth in the Transformation/Transition Plan. Provider shall perform the Transformation/Transition Services in a manner that shall not knowingly disrupt the business or operations of any of the Eligible Recipients or materially degrade the Services then being received by any of the Eligible Recipients, except as may be otherwise expressly provided in the Transformation/Transition Plan. Prior to undertaking any Transformation/Transition activity, Provider shall discuss with Client all known Client specific material risks and shall not proceed with such activity until Client is reasonably satisfied with the mitigating plans with regard to such risks (provided that neither Provider’s disclosure of any such risks to Client, nor Client’s acquiescence in Provider’s mitigating plans, shall operate or be construed as limiting Provider’s responsibility under this Agreement). Provider shall identify and resolve, with Client’s reasonable assistance, any problems that may impede or delay the timely completion of each task in the Transformation/Transition Plan that is Provider’s responsibility and shall use all Commercially Reasonable Efforts to assist Client with the resolution of any problems that may impede or delay the timely completion of each task in the Transformation/Transition Plan that is Client’s responsibility.
+4.5
+Client Cooperation and Support
+. Client will cooperate with Provider, and Client shall use Commercially Reasonable Efforts to cause its suppliers to cooperate with Provider, in the conduct of the Transformation/Transition and provide support as described in the Transformation/Transition Documents.
+4.6
+Completion of Transformation/Transition
+.
+(a)
+Client reserves the right to monitor, test and otherwise observe and participate in the Transformation/Transition. Provider will notify Client without delay 
+Page 16
+Master Services Agreement
+if any Client monitoring, testing or participation has caused (or Provider expects it to cause) a problem or delay in the Transformation/Transition and work with Client to mitigate the impact of the problem or delay, including the adjustment of Transformation/Transition Milestones and the Transformation/Transition Completion Date.
+(b)
+Client may elect, at its reasonable discretion, to suspend or delay a Transformation/Transition activity at any time, including in the event such Transformation/Transition activity is not proceeding in accordance with the requirements of the approved Transformation/Transition project and other Transformation/Transition Documents or is causing unplanned disruptions or other adverse effects to Client (or other Eligible Recipient). During any suspension or delay period, Provider, to the extent possible, will perform the Services as required under this Agreement in the manner the Services were performed prior to the commencement of the applicable Transformation/Transition activity. If Client elects to suspend or delay a Transformation /Transition activity and Client’s decision is not based, at least in material part, on reasonable concerns about Provider’s ability to perform the Transformation/Transition Services or Provider’s failure to perform its obligations under the applicable Transformation/Transition Documents, Client shall reimburse Provider for any additional expenses reasonably incurred by Provider as a result of such decision (provided that Provider notifies Client in advance of such expenses, obtains Client’s approval prior to incurring such expenses, and uses Commercially Reasonable Efforts to minimize such expenses). 
+4.7
+Transformation Milestone Failure
+. In the event of a Transformation Milestone Failure, then: Provider shall grant to Client a credit (a “
+Transformation Credit
+”) in the amount set forth in the applicable Statement of Work. Such credit shall be granted on Provider’s next invoice after the scheduled date for completion of the Transformation Milestone.
+ 
+(a)
+If Provider’s charges to Client are greater than they would have been if the delayed Transformation project had been completed on schedule, Client will receive a credit against Provider’s monthly charges on the subsequent invoice(s) in an amount equal to the difference between the actual charges being paid by Client and what Provider’s charges would have been if the delayed Transformation had been completed on schedule; and
+(b)
+Provider will grant Client an additional credit against Provider’s monthly charges on the subsequent invoice(s) in an amount sufficient to reimburse Client for any costs incurred for personnel, third-party Equipment, Software, services, and other operational costs that would not have been incurred if the delayed Transformation had been completed on schedule and in accordance with this Agreement; provided that (A) Client shall use Commercially 
+Page 17
+Master Services Agreement
+Reasonable Efforts to mitigate such costs, and (B) such costs may not include lost revenue or profits from potential forecasted business benefits.
+(c)
+Nothing set forth in this 
+Article 4
+ shall limit Client’s right to make a claim for damages relating to a Transformation Milestone to the extent such damages exceed the amount of the credits paid by Provider to Client related to such Transformation Milestone or limit Client’s right to terminate this Agreement.
+ 
+4.8
+In Flight Projects
+. As part of the Transformation/Transition, Provider will also assume responsibility for completing the Projects listed or described in a Statement of Work, which are in progress or planned as of the Effective Date and being performed by resources of Client or a prior service provider which are being replaced by Provider (the “
+In-Flight Projects
+”). 
+4.9
+Timing of Transformation/Transition; Reports
+. Provider shall meet at least weekly with Client to report on Provider’s progress in performing its responsibilities and meeting the timetables set forth in the Transformation/Transition Plan. Provider also shall provide written reports to Client at least weekly regarding such matters, and shall provide oral reports more frequently if reasonably requested by Client. Promptly, but not later than two (2) Business Days, after receiving any information indicating that it may not perform its responsibilities, or meet the timetable set forth in the Transformation/Transition Plan, Provider shall notify Client in writing of any actual or potential failures to timely perform and shall identify for Client’s consideration and approval specific measures to address and mitigate the risks associated therewith.
+5.
+SERVICE LEVELS.
+5.1
+Service Levels and Other Performance Standards
+. Beginning on the Commencement Date (or, if later, the date specified in the applicable Statement of Work), Provider shall perform the Services so as to meet or exceed the performance standards designated as “Service Levels” in the applicable Statement of Work (the “
+Service Levels
+”). For matters not covered by the Service Levels set forth in the applicable Statement of Work, Provider shall perform the Services at levels of accuracy, quality, completeness, timeliness, responsiveness and resource efficiency that are at least equal to the documented or otherwise verifiable levels received by the Eligible Recipients during the twelve (12) months prior to the Commencement Date, which in all cases, should be at least at reasonable levels. The obligations in the preceding sentence shall not be construed to alter or supersede any Service Level set forth in the applicable Statement of Work.
+For the avoidance of doubt, if Provider breaches its performance obligations under this Agreement, the fact that such breach did not cause Provider to miss the applicable Service Level shall not relieve Provider of responsibility for such breach or any resulting damages. 
+Page 18
+Master Services Agreement
+5.2
+Multiple Service Levels
+. If more than one Service Level applies to any particular obligation of Provider, Provider shall perform in accordance with the most stringent of such Service Levels.
+5.3
+Service Credits
+. Provider recognizes that Client is paying Provider to deliver certain Services at specified Service Levels. If Provider fails to meet any Service Level, then, in addition to other remedies available to Client, Provider shall pay or credit to Client the amounts described in this Agreement as payable upon such a failure as calculated in accordance with 
+Exhibit 3
+ (“
+Service Credits
+”) in recognition of the diminished value of the Services resulting from Provider’s failure to meet the agreed upon level of performance, and not as a penalty. Under no circumstances shall the imposition of Service Credits be construed as Client’s sole or exclusive remedy for any failure to meet the Service Levels; provided, however, if Client recovers monetary damages from Provider as a result of Provider’s failure to meet a Service Level, Provider shall be entitled to set-off the issued Service Credits against such damages. Unless otherwise agreed in writing by the Parties, Service Credits will not apply until three (3) months after the completion of all Transformation/Transition activities under a Statement of Work. 
+5.4
+Deliverable Credits
+. Provider recognizes that Client is paying Provider to provide certain Critical Deliverables (including Transformation Milestones) by the time and in the manner set forth in the applicable Statement of Work. If Provider fails to meet its obligations with respect to any such Critical Deliverables, then, in addition to other remedies available to Client, Provider shall pay or credit to Client the Deliverable Credits specified in
+ 
+the applicable Statement of Work or Work Order
+ 
+in recognition of the diminished value of the Services resulting from Provider’s failure to meet the agreed upon level of performance, and not as a penalty. If Client recovers monetary damages from Provider as a result of Provider’s failure to meet its obligations with respect to one or more Critical Deliverables, Provider shall be entitled to set-off against such damages any Deliverable Credits paid for the failure(s) giving rise to such recovery. Deliverable Credits are not counted toward and are not subject to the overall cap on Provider’s liability and are in addition to Service Credits.
+6.
+REQUIRED CONSENTS, MANAGED CONTACTS AND TRANSFERRED EQUIPMENT.
+6.1
+In-Scope Agreements
+. Subject to the terms of this Agreement and any Local Agreement, including the obtaining of Required Consents, the Client-licensed Third Party Software, Equipment Leases and Third Party Contracts indicated in the Initial SOWs (collectively, the “
+In-Scope Agreements
+”) will be assumed by Provider pursuant to an assignment and assumption agreement in a form reasonably agreed by the Parties. Provider will not be obligated to negotiate any terms or conditions of such assigned In-Scope Agreements to meet the conditions imposed on Third Party Materials and Third Party Contracts set forth in 
+Sections 15.2
+, 
+15.6
+ and 
+21.7
+. Furthermore, Client acknowledges and agrees that if a third party under an assigned 
+Page 19
+Master Services Agreement
+In-Scope Agreement would meet the definition of “Subcontractor” set forth in 
+Exhibit 1
+ (each an “
+Inherited Subcontractor
+”), Provider is not required to have such Inherited Subcontractors comply with the obligations imposed on Subcontractors under this Agreement to the extent such obligations require a re-negotiation of the applicable In-Scope Agreement in order for such obligations to be imposed on the Inherited Subcontractor, unless and until Provider enters into a new agreement with such Inherited Subcontractor. Notwithstanding this 
+Section 6.1
+, Provider will use Commercially Reasonable Efforts to obtain the rights imposed on Third Party Materials and Third Party Contracts set forth in 
+Sections 15.2
+, 
+15.6
+ and 
+21.7
+ for all assigned In-Scope Agreements and to cause Inherited Subcontractors to comply with all obligations imposed on Subcontractors under this Agreement. 
+6.2
+Administrative Responsibility
+.
+ 
+With respect to third party licenses, leases and contracts required for the provision or receipt of the Services regardless of whether such third party license, lease or contract is provided by Provider or Client, at no additional charge to Client, Provider shall undertake all administrative activities necessary to obtain all Required Consents with respect to third party licenses, leases and contracts to the extent required for the provision or receipt of the Services regardless of whether such third party license, lease or contract is provided by Provider or Client (“
+Administered Consents
+”). At Provider’s request, Client will cooperate with Provider in obtaining such Administered Consents by executing the appropriate Client-approved written communications and other documents prepared or provided by Provider. 
+6.3
+Financial Responsibility for Required Consents
+.
+(a)
+With regard to the In-Scope Agreements, Client will be responsible for any transfer, assignment, re-licensing or termination fees or expenses payable to the counterparty to the In-Scope Agreement and associated with obtaining a consent or terminating any In-Scope Agreement as to which Provider is unable to obtain a Required Consents (“
+Client Consents
+”) if (i) Client has approved the payment of such fees or expenses; and (ii) Client has elected to assign the In-Scope Agreement to Provider after Provider has notified Client of such fees or expenses. Provider shall, in case no approval is obtained from the Client for payment of such fees or expenses, be responsible for any such fees or expenses. At Provider’s request, Client will cooperate with Provider in obtaining such Client Consents.
+(b)
+Except as provided in 
+Section 6.3(a)
+, Provider will be responsible for any transfer, assignment, re-licensing or termination fees or expenses associated with obtaining any consents or terminating any licenses or agreements as to which Provider is unable to obtain such Required Consents (“
+Provider Consents
+”). At Provider’s request, Client will cooperate with Provider in obtaining such Provider Required Consents. 
+Page 20
+Master Services Agreement
+(c)
+Provider shall not cause Client to become liable for any amounts for any Client Consent or Provider Consents without Client’s prior written consent.
+6.4
+Contingent Arrangements
+.
+(a)
+If, despite using Commercially Reasonable Efforts, Provider is unable to obtain a Required Consent with respect to any Client Third Party Contract for Software, Client may secure the right for Provider to manage such Third Party Software on behalf of Client or the Parties shall reasonably agree on a replacement for such Third Party Software with a Provider license. If Provider is unable to obtain a Required Consent with respect to any other Client Third Party Contract, then, unless and until such Required Consent is obtained, Provider shall, to the extent legally or contractually possible, manage such Third Party Contract on Client’s behalf and perform all obligations and enforce all rights under such Third Party Contract as if Provider were a party to the agreement in Client’s place in accordance with 
+Section 6.1
+ (collectively, the “
+Non-Assigned Managed Contracts
+”). If management of a Non-Assigned Managed Contract is not legally or contractually possible or a Required Consent is otherwise not obtained, Provider shall determine and adopt, subject to Client’s prior approval, such alternative approaches as are necessary and sufficient to provide the Services without such Required Consent. As between Client and the counter-party to such Third Party Contract, Client will initially be responsible for the financial costs of such alternative approaches, but Provider will reimburse Client for all of the financial costs of such alternative approaches within forty-five (45) days of Client notifying Provider of such financial costs. If such alternative approach involves Client continuing to make payments in connection with such Non-Assigned Managed Contract, Provider will reimburse Client in an amount equal to such payments being made by Client on the next invoice following Client making such a payment.
+(b)
+The failure to obtain any Required Consent for which Provider is responsible shall not relieve Provider of its obligations under this Agreement or a Local Agreement and Provider shall not be entitled to any additional compensation or reimbursement amounts in connection with obtaining or failing to obtain any such Required Consent or implementing any alternative approach in connection therewith.
+6.5
+Managed Contracts
+.
+(a)
+If Provider manages a Third Party Contract on Client’s behalf, whether at the request of Client or due to the inability of Provider to obtain a Required Consent or otherwise, then with respect to the Third Party Contractors or licensors associated with such Third Party Contracts (each, a “
+Managed Third Party
+”), Provider shall: (i) manage the Managed Third Parties and the Third Party Contracts (including Non-Assigned Managed Contracts) 
+Page 21
+Master Services Agreement
+associated with such Managed Third Parties (the “
+Managed Contracts
+”), including monitoring operational day-to-day service delivery, monitoring performance, escalating problems for resolution, maintaining technical support relationships, monitoring and ensuring compliance by Provider and, subject to 
+Section 6.1
+, Subcontractors with usage and license restrictions with regard to Software or services that are provided pursuant to a Managed Contract; (ii) as requested by Client, work with Client to manage new and existing contractual relationships between Client and Managed Third Parties; (iii) oversee Managed Third Party delivery of services and compliance with the Service Levels and the performance standards and other provisions contained in the Managed Contract; (iv) notify Client and the Managed Third Party of each Managed Third Party’s failure to perform in accordance with the performance standards or other terms and conditions contained in the Managed Contract; (v) escalate Managed Third Party performance failures to Managed Third Party management as necessary to achieve timely resolution; (vi) monitor and manage the Managed Third Party’s efforts to remedy a failure of performance or other breach of a Managed Contract; (vii) communicate to Client the status of the Managed Third Party’s efforts to remedy a failure of performance or other breach; (viii) recommend retention, replacement, modification, or termination of the Managed Third Party based on the performance or cost benefits to Client as tracked by Provider; and (ix) participate and assist in the re-sourcing (e.g., extension, renegotiation or replacement) of such Managed Third Parties if Client requests that re-sourcing. Notwithstanding anything to the contrary, Provider may not terminate any Third Party Contract involving a Managed Third Party or a Managed Contract or assert any type of claim related thereto against the Managed Third Party or a Managed Contract without the prior written approval of Client. 
+(b)
+The Parties agree the SAP Agreements are Managed Contracts as of the Effective Date.
+6.6
+Assignment of Third Party Contracts
+.
+(a)
+Assignment and Assumption
+. Subject to the applicable Required Consents being obtained, on and as of the Commencement Date (or, if later, the date on which Provider assumes responsibility for the Services in question in accordance with the Transformation/Transition Plan), Client shall assign to Provider, and Provider shall assume and agree to perform all obligations related to, Third Party Contracts identified as contracts to be assigned to Provider in the applicable Statement of Work including the assignment or transfer of any Materials developed under such Third Party Contracts prior to the date of such assignment that are necessary for the provision of the Services. The Parties shall execute and deliver a mutually satisfactory assignment and assumption agreement evidencing any such assignments. 
+Page 22
+Master Services Agreement
+(b)
+Non-Assignable Items; End-of-Life Contracts
+. 
+(i)
+If a Third Party Contract cannot be assigned to Provider without breaching its terms or otherwise adversely affecting the rights or obligations of an Eligible Recipient thereunder, Client shall continue to hold such unassignable Third Party Contract and shall, as between Client and the counter-party to the Third Party Contract be fully responsible for all liabilities and payments thereunder, but Provider shall reimburse Client all such payments within forty-five (45) days of Client making any payment pursuant to such Third Party Contract. In accordance with and subject to 
+Section 9.17
+, Provider shall be relieved of its obligations under this Agreement to the extent Provider is unable to perform as a result of such Third Party Contract being unassignable, including the performance of applicable Service Levels. 
+(ii)
+If a Third Party Contract assigned to Provider after the Effective Date expires or has reached end-of-life during the Term and cannot be renewed, Provider shall acquire and implement a suitable replacement for such Third Party Contract without impacting the Services or the businesses, operations, environments, facilities or business processes of the Eligible Recipients. If the expiration of end-of-life of the Third Party Contract does not have an adverse impact on any Eligible Recipient’s businesses, operations, environments, facilities, business processes, Provider is not required to replace such Third Party Contract. For clarity, the provisions of this 
+Section 6.6(b)(ii)
+ shall not apply to any Third Party Contract related to the SAP Platform or E-Commerce Platform.
+(c)
+Modification and Substitution
+. Excluding Third Party Contracts associated with the SAP Platform and the E-Commerce Platform and any other Third Party Contract for Third Party Software the functionality of which, even if so terminated, Client and its Affiliates are required to receive, Provider may terminate, shorten, modify or extend the Third Party Contracts for which Provider is financially responsible and may substitute or change suppliers relating to goods or services covered thereby; provided, for clarity, Provider continues to meet all of its obligations as set forth in this Agreement and such substitution or change has no impact on an Eligible Recipient or its business. Notwithstanding anything to the contrary herein, Provider shall not terminate, shorten or modify without Client’s prior written consent any license for Third Party Software either created exclusively for an Eligible Recipient or otherwise not commercially available.
+7.
+FACILITIES, SOFTWARE, EQUIPMENT, CONTRACTS AND ASSETS ASSOCIATED WITH THE PROVISION OF SERVICES.
+Page 23
+Master Services Agreement
+7.1
+Service Facilities
+.
+(a)
+Service Facilities
+. Provider and its Affiliates and Subcontractors will supply or provide the Services only at or from (i) the Client Facilities and Provider Facilities identified in the applicable Statement of Work, or (ii) any other service locations permitted by applicable Law and approved in advance in writing by Client. Provider shall obtain Client’s prior approval for any proposed relocation by Provider, its Affiliates or Subcontractors of the provision of a Service to a new or different Provider Facility. Provider shall be financially responsible for all additional costs, taxes or expenses resulting from any Provider-initiated relocation to a new or different Provider Facility, including any costs or expenses incurred or experienced by any Eligible Recipient as a result of such relocation. Provider will store and process Client Data only in the locations identified in the applicable Statement of Work. Provider shall not transfer Client Data to any other locations, nor change the locations for storage and processing of such Client Data, except as expressly permitted in the applicable Statement of Work, or otherwise with the express written consent of Client, which Client may withhold in its sole discretion. All Provider Facilities from which Services are provided shall be Top Tier Facilities with respect to physical security, data security, employee background checks and similar matters, and Provider shall provide Services from Provider Facilities that are not Top Tier Facilities only with the prior written approval of Client in its sole discretion and subject to such conditions as Client considers appropriate in the circumstances.
+(b)
+Provider’s Responsibilities
+. Except as provided in 
+Section 7.2
+ and 
+Section 7.4(b)
+, Provider shall be responsible for providing all furniture, fixtures, Equipment, space and other facilities required to perform the Services and all upgrades, improvements, replacements and additions to such furniture, fixtures, Equipment, space and facilities required to perform the Services unless otherwise set forth in an applicable Statement of Work or Work Order. 
+(c)
+Restrictions on Relocation of Services. 
+Provider shall not move Services provided from a Client-approved Provider Facility and country to a Provider Facility and country from which such Services had not previously been provided by Provider without Client’s prior approval, which shall not be unreasonably denied subject to any legal requirements. In addition, to the extent Services are provided by Provider Personnel from approved Provider Facilities in different countries, Provider shall not change in any material respect the extent to which such Services are provided by Provider Personnel from each such Provider Facility and country. For avoidance of doubt, the foregoing is measured as the cumulative impact of the movement of FTEs and work between and among Provider Facilities and countries, not by any single change.
+Page 24
+Master Services Agreement
+7.2
+Client Facilities
+.
+(a)
+Access and Use
+. Client shall provide Provider with access to and the use of the locations (or equivalent space) identified in the applicable Statement of Work as locations for the performance of Services (“
+Client Facilities
+”) for the periods specified therein solely as necessary for Provider to perform its obligations under this Agreement.
+ 
+ If any given Statement of Work provides that Client will make office space or storage space at any Client Facilities available to Provider, then Client will provide such space and any reasonable and customary related office support services (such as parking privileges, access cards or badges, cafeteria services, and furniture), to Provider, as such level of support services may be modified from time to time, but only to the extent Client provides such items to its own employees at such Client location. Provider’s use of any of Client Facilities shall not constitute or create a leasehold interest, and Client may, by notice to Provider from time to time, require that Provider re-locate, at Client’s expense (or as otherwise agreed by the Parties pursuant to the governance process contained in 
+Exhibit 6
+), to other reasonably equivalent space. THE CLIENT FACILITIES ARE PROVIDED BY CLIENT TO PROVIDER ON AN AS-IS, WHERE-IS BASIS. CLIENT EXPRESSLY DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, AS TO THE CLIENT FACILITIES, OR THEIR CONDITION OR SUITABILITY FOR USE BY PROVIDER.
+(b)
+Client Facilities Policies and Procedures
+. In performing the Services, Provider shall observe and comply with all Client Policies and Procedures applicable to Client Facilities. Provider shall be responsible for the promulgation and distribution of Client Policies and Procedures to Provider Personnel. In addition, Provider and Provider Personnel shall be responsible for familiarizing themselves with the premises and operations at each Client Facility and the Client Policies and Procedures applicable to such Client Facility. Additions or modifications to the Client Policies and Procedures may be (i) communicated orally by an Eligible Recipient directly to Provider and Provider Personnel, and followed up in writing to Provider within to (2) Business Days, (ii) disclosed to Provider and Provider Personnel in writing, (iii) conspicuously posted at a Client Facility, (iv) electronically posted, or (v) communicated to Provider or Provider Personnel by means generally used by Client to disseminate such information to its employees or contractors. Provider and Provider Personnel shall observe and comply with such additional or modified Client Policies and Procedures. At Client’s request, Provider Personnel shall participate in Client provided training programs regarding Client Policies and Procedures.
+7.3
+Client Access to Provider Facilities
+. Provider shall provide to Client, at no additional charge, (a) reasonable access to and use of Provider Facilities and (b) reasonable access to reasonable work/conference space at Provider Facilities, in each 
+Page 25
+Master Services Agreement
+case for the exercise of Client’s rights or the conduct of activities associated with this Agreement. 
+7.4
+Software, Equipment and Third Party Contracts
+.
+(a)
+Financial Responsibility
+. To the extent Provider is financially responsible under this Agreement for any Third Party Contracts (and, in the case of Third Party Contracts to be assigned to Provider, from the date when Provider is to assume such Third Party Contracts), Provider shall (i) pay all amounts becoming due under such Third Party Contracts, and all related expenses, incurred after the Commencement Date; (ii) refund to Client any prepayment of such amounts in accordance with this Agreement for services under such Third Party Contracts to be delivered after the Commencement Date; (iii) pay all modification, termination, cancellation, late payment, renewal or other fees, penalties, charges, interest or other expenses other than as provided in 
+Article 6
+; (iv) pay all costs associated with the transfer of such Third Party Contracts to Provider, including all taxes associated with such transfer; other than as provided in 
+Article 6
+, and (v) be responsible for curing any defaults in Provider’s performance under such Third Party Contracts.
+(b)
+Operational Responsibility
+. Provider shall be responsible, to the extent relevant to the Services, for (i) the evaluation, procurement, testing, installation, use, support, management, administration, operation and maintenance of all Software, Equipment (including Equipment deployed to Client Personnel in accordance with this Agreement) and Third Party Contracts and new, substitute or replacement items (including Upgrades, enhancements, and new versions or releases of Software and replacement Equipment); (ii) the performance, availability, reliability, compatibility and interoperability of such Software, Equipment and Third Party Contracts, each in accordance with this Agreement; (iii) the compliance with and performance of all operational, administrative and non-financial contractual obligations specified in such Third Party Contracts; (iv) the administration and exercise of all rights available under such Third Party Contracts other than, for clarity, any Third Party Contracts with Managed Third Parties; and (v) the payment of any fees, penalties, charges, interest or other expenses resulting from Provider’s failure to comply with or perform its obligations under this 
+Section 7.4(b)
+.
+(c)
+Rights Upon Expiration/Termination
+. With respect to all Third Party Contracts for which Provider is responsible (whether operationally, financially or otherwise) under this Agreement, Provider shall use all Commercially Reasonable Efforts to (i) obtain for Eligible Recipients and/or their designee(s) the ownership, license, sublicense, assignment and other rights specified in 
+Section 15.2
+,
+ 
+Section 15.6
+,
+ and 
+Section 21.7
+ 
+ 
+(ii) ensure that the granting of such license, sublicense, assignment and other rights is 
+Page 26
+Master Services Agreement
+not subject to subsequent third party approval or the payment by Eligible Recipients and/or their designee(s) of license, assignment or transfer fees, (iii) ensure that the terms, conditions and prices applicable to Eligible Recipients and/or their designee(s) following expiration or termination are no less favorable than those otherwise applicable to Provider, and at least sufficient for the continuation of the activities comprising the Services, and (iv) ensure that neither the expiration/termination of the applicable Statement of Work nor the assignment of any such Third Party Contract shall trigger less favorable terms, conditions or pricing. If Provider is unable to obtain any such rights and assurances, Provider shall notify Client in advance and Provider shall not use such Third Party Contract without Client’s approval (and absent such approval, Provider’s use of any such Third Party Contract shall obligate Provider to obtain or arrange, at no additional cost to Client, for such license, sublicense, assignment or other right for Client, the other Eligible Recipients and their designee(s) upon expiration or termination). If Client consents to Provider’s use of specific Third Party Software licenses, Equipment leases or Third Party Contracts under these circumstances, such Third Party Software licenses, Equipment leases or Third Party Contracts shall be added to the applicable Statement of Work.
+(d)
+Client Provided Equipment During the Term
+. If Client is to provide Provider with the use of Client owned and/or leased Equipment, then the applicable Statement of Work will specifically identified such Equipment as “Client Provided Equipment” (collectively, the “
+Client Provided Equipment
+”) and Client will provide the Client Provided Equipment for the periods specified therein solely for use in connection with the performance of the Services. Upon the expiration of the period specified in the applicable Statement of Work for each item of Client Provided Equipment (or when such Client Provided Equipment is no longer required by Provider for the performance of the Services), Provider shall promptly return such Client Provided Equipment to Client, the other Eligible Recipients and/or their designee(s) in condition at least as good as the condition thereof on the date initially provided to Provider, ordinary wear and tear excepted. THE CLIENT PROVIDED EQUIPMENT IS PROVIDED BY CLIENT TO PROVIDER ON AN AS-IS, WHERE-IS BASIS. CLIENT EXPRESSLY DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, AS TO THE CLIENT PROVIDED EQUIPMENT, OR ITS CONDITION OR SUITABILITY FOR USE BY PROVIDER TO PROVIDE THE SERVICES, INCLUDING WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+7.5
+Notice of Defaults
+. Each Party shall promptly, and in any case within three (3) Business Days, inform the other Party in writing of any breach of, or misuse or fraud in connection with, any Third Party Contract used in connection with the Services 
+Page 27
+Master Services Agreement
+of which it becomes aware and shall cooperate with the other Party to prevent or stay any such breach, misuse or fraud.
+8.
+PROVIDER PERSONNEL. 
+ 
+8.1
+Key Provider Personnel and Knowledge Transfer Personnel
+.
+(a)
+Approval of Key Provider Personnel
+. Provider shall fill the positions specified as “Key Provider Personnel” positions in the applicable Statement of Work with Provider Personnel approved by Client in accordance with this 
+Section 8.1
+. Provider shall identify and obtain Client’s approval of the initial Key Provider Personnel prior to the completion of any Transformation Services, or if no Transformation Services are to be performed under a particular Statement of Work, then prior to the Commencement Date. Before assigning an individual to act as a Key Provider Personnel, whether as an initial or subsequent assignment, Provider shall notify Client of the proposed assignment, introduce the individual to appropriate Client representatives, and provide Client with any other information about the individual reasonably requested by Client. If Client in good faith objects to the proposed assignment, the Parties shall attempt to resolve Client’s concerns on a mutually agreeable basis. If the Parties are not able to resolve Client’s concerns within five (5) Business Days, or as otherwise agreed, Provider shall propose another individual of suitable ability and qualifications.
+(b)
+Continuity of Key Provider Personnel
+. Provider shall cause each of the Key Provider Personnel to devote the level of effort specified in the applicable Statement of Work (or, if no such level is specified, full time effort) for, at a minimum, a period of not less than twelve (12) months or such other period as specified in the Statement of Work. Provider shall not transfer, reassign or remove any of the Key Provider Personnel (except as a result of voluntary resignation, involuntary termination for cause, illness, disability or death) or announce its intention to do so during the specified period without Client’s prior approval, which Client may withhold in its reasonable discretion based on its own self-interest. In the event of the voluntary resignation, involuntary termination for cause, illness, disability or death of any of its Key Provider Personnel during or after the specified period, Provider shall (i) give Client as much notice as reasonably possible of such development, and (ii) expeditiously identify and obtain Client’s approval of a suitable replacement. In addition, unless and to the extent a Key Provider Personnel position ceases to be so designated after a defined period, even after the minimum period specified above, Provider shall not transfer, reassign or remove any of the Key Provider Personnel unless and until Provider has (1) given Client reasonable prior notice, (2) identified and obtained Client’s approval of a suitable replacement in accordance with this 
+Section 8.1
+ at least thirty (30) days prior to the effective date of such transfer, reassignment or removal, (3) 
+Page 28
+Master Services Agreement
+demonstrated to Client’s reasonable satisfaction that such transfer, reassignment or removal shall not have an adverse impact on Provider’s performance of its obligations under this Agreement, and (4) completed any and all necessary knowledge transfer between the departing Key Provider Personnel and his or her Client-approved replacement. 
+(c)
+Client Competitors
+. To the extent not restricted by Law, neither Provider nor any Subcontractor shall cause or permit any Key Provider Personnel to perform services directly or indirectly for a Direct Client Competitor either while engaged in the provision of Services or during the twelve (12) months immediately following the termination of his or her involvement in the provision of such Services without Client’s prior written consent. 
+8.2
+Provider Account Manager
+. Provider shall designate a “
+Provider Account Manager
+” who, unless otherwise agreed by Client, shall maintain his or her principal office in Elyria, Ohio. The Provider Account Manager shall (a) be one of the Key Provider Personnel; (b) be a full time employee of Provider; (c) devote his or her full time and effort to managing the Services; (d) remain in this position for a minimum period of twelve (12) months from the initial assignment (except as a result of voluntary resignation, involuntary termination for cause, illness, disability, or death); (e) serve as the single point of accountability for the Services, (f) be the single point of contact to whom all Client communications concerning this Agreement may be addressed; (g) have authority to act on behalf of Provider in all day-to-day matters pertaining to this Agreement; (h) have day-to-day responsibility for service delivery, billing and relationship management; and (i) have day-to-day responsibility for Client satisfaction and Service Levels attainment.
+8.3
+Provider Personnel Are Not Client Employees
+. Nothing in this Agreement shall operate or be construed as making Client (or the other Eligible Recipients) and Provider partners, joint venturers, principals, joint employers, agents or employees of or with the other. No officer, director, employee, agent, Affiliate, contractor or subcontractor retained by Provider to perform work on Client’s behalf hereunder shall be deemed to be an officer, director, employee, agent, Affiliate, contractor or subcontractor of the Eligible Recipients for any purpose. Neither Client nor the other Eligible Recipients has the right, power, authority or duty to supervise or direct the activities of the Provider Personnel or to compensate such Provider Personnel for any work performed by them pursuant to this Agreement. Provider, and not the Eligible Recipients, shall be responsible and liable for the acts and omissions of Provider Personnel, including acts and omissions constituting negligence, willful misconduct and/or fraud. Provider shall be solely responsible for the payment of compensation (including provision for employment taxes, federal, state and local income taxes, workers compensation and any similar taxes) associated with the employment of, or contracting with, Provider Personnel. Provider shall also be solely responsible for obtaining and maintaining all requisite work permits, visas and any other documentation for Provider Personnel. 
+Page 29
+Master Services Agreement
+8.4
+Replacement, Qualifications, and Retention of Provider Personnel
+.
+(a)
+Sufficiency and Suitability of Personnel
+. Provider shall assign (or cause to be assigned) sufficient Provider Personnel to provide the Services in accordance with this Agreement and all such Provider Personnel shall possess suitable competence, ability, qualifications, education and training for the Services they are to perform and are performing.
+(b)
+Requested Replacement
+. If Client determines in good faith and not for an unlawful purpose that the continued assignment to Client of any individual Provider Personnel (including Key Provider Personnel) is not in the best interests of the Eligible Recipients, then Client shall give Provider notice to that effect requesting that such Provider Personnel be replaced. Provider shall, as soon as possible, permanently remove and replace such Provider Personnel with an individual of suitable ability and qualifications. In such event, Client shall not be obligated to pay any Charges or other fees relating to the replacement of such Provider Personnel, including any training or other knowledge transfer activities or overlaps in periods of employment. Nothing in this provision shall operate or be construed to limit Provider’s responsibility for the acts or omissions of the Provider Personnel, or be construed as joint employment. Unless otherwise agreed in writing by the Parties, Client shall not require the replacement of more than twenty-five percent (25%) of Provider Personnel in any Contract Year; provided, however, that the calculation of such percentage shall not include any Provider Personnel providing Services with respect to a Project at the time of a removal request by Client. 
+(c)
+Turnover Rate and Data
+. Provider shall use Commercially Reasonable Efforts to keep the turnover rate of Provider Personnel to a level comparable to or better than the industry average for well-managed Providers in the applicable country performing services similar to the Services. Notwithstanding any transfer or turnover of Provider Personnel, Provider shall remain obligated to perform the Services without degradation and in accordance with the Service Levels and shall be responsible for all costs related to the transition of personnel and all required training. 
+(d)
+Security Clearances/Background Check/Drug Screening
+. Provider shall verify (i) that Provider Personnel are legally authorized to work in any country in which they are assigned to perform Services and (ii) that Provider Personnel (a) have not been convicted of, or accepted responsibility for, a felony or for a misdemeanor involving a dishonest or violent act or moral turpitude, (b) do not use illegal drugs or abuse prescription drugs, and (c) are not otherwise disqualified from performing the assigned work under applicable Laws. To the extent permitted under applicable Laws, Provider shall perform or have performed a reasonable background check (at least 7 
+Page 30
+Master Services Agreement
+years), which shall include at a minimum a federal/state/local criminal history background check, a sex offender registry check, credit check, and a drug screening test, on Provider Personnel, provided that, if a satisfactory background check, including a criminal history background check, a sex offender registry check, credit check, and a drug screening test, was completed in connection with the initial hiring by Provider of any Provider Personnel, it need not be repeated unless otherwise required by applicable Laws, industry standards, or applicable specifications (or unless otherwise specifically requested by Client). In addition, Provider shall screen Provider Personnel against the most recent version of the “Specially Designated Nationals List” published by the Office of Foreign Assets Controls of the U.S. Department of the Treasury. Provider Personnel may also be required to execute confidentiality agreements with Client, at Client’s request. Provider hereby certifies that it is enrolled in the U.S. government’s eVerify program and checks all new hires in the U.S. via eVerify to verify employment eligibility of all of its new hires in the U.S. 
+(e)
+Security, Drug and Background Checks (India). 
+ For all Provider Personnel who will work in India, the provisions of this paragraph shall apply. As of the date that any such Provider Personnel commences work on Client’s account (the “
+Personnel Commencement Date
+” or “
+PCD
+”), such Provider Personnel shall possess a valid passport from the Indian government, or shall apply for such passport within thirty (30) days of the PCD. If a Provider Personnel fails the criminal or police background check portion of the passport application process, Provider shall promptly (but in any event within forty-eight (48) hours) remove such Provider Personnel from Client’s account. If any Provider Personnel has not received a valid passport from the Indian government within one hundred twenty (120) days of the PCD, Provider shall notify Client in writing and the Parties shall discuss the reasons for the delay. Client shall have the right to request removal of any Provider Personnel who have not received a valid passport within one hundred fifty (150) days of the PCD. Once Provider Personnel have passports, they shall be required to maintain valid passports throughout the period during which they perform work for Client. Provider shall provide evidence of the existence of a valid passport for any Provider Personnel upon Client’s request. 
+8.5
+Conduct of Provider Personnel
+.
+(a)
+Conduct and Compliance
+. While at Client sites and Facilities, Provider Personnel shall (i) comply with the Client Policies and Procedures and other rules and regulations regarding personal and professional conduct, (ii) comply with reasonable requests of Eligible Recipient personnel pertaining to personal and professional conduct, (iii) attend workplace training offered by Client at Client’s request, and (iv) otherwise conduct themselves in a businesslike manner.
+Page 31
+Master Services Agreement
+(b)
+Identification of Provider Personnel
+. Except as expressly authorized by Client, Provider Personnel shall clearly identify themselves as Provider Personnel and not as employees or representatives of any Eligible Recipient. This shall include any and all communications, whether oral, written or electronic, unless and to the extent authorized by Client in connection with the performance of specific Services. Except as expressly authorized by Client, each Provider Personnel shall wear a badge indicating that he or she is employed by Provider or its Subcontractors when at any Client site or Client Facility.
+(c)
+Restriction on Marketing Activity
+. Except for marketing representatives designated in writing by Provider to Client and activities expressly approved in advance by Client, none of the Provider Personnel shall conduct any marketing activities to Eligible Recipient employees or agents (including marketing of any New Services), other than reporting potential marketing opportunities to Provider’s designated marketing representatives. Under no circumstances shall Provider use information provided by Client specifically or in the aggregate to advertise or market itself or others. In addition, Provider shall not use or access queries, searches, Client Data, Client Confidential Information, Personal Data or metadata for any secondary uses beyond the limited extent necessary to provide the Services to Client and the other Eligible Recipients. For the avoidance of doubt, Provider shall not use any such information, queries, searches, Client Data, Client Confidential Information, Personal Data or metadata for marketing or market research purposes.
+8.6
+Transfer Laws Applicable to Client Personnel.
+(a)
+Transfer of Personnel
+. 
+Exhibit 16
+ sets forth terms and conditions applicable to certain employment matters applicable to the Agreement. 
+(b)
+Transfer Laws
+. The rights and obligations of the Parties with respect to Client Personnel employed as of the Commencement Date in jurisdictions in which Laws regulating the transfer of employees between businesses apply (the “
+Transfer Laws
+”) shall be set forth in the Local Agreement(s) for such jurisdictions. If and to the extent the activities to be undertaken in such jurisdictions under a Local Agreement constitute or involve a transfer subject to a Transfer Law, the Parties shall comply with their respective obligations under such Law. In such event, the rights and obligations of the Parties under this Agreement will be modified in the applicable Local Agreement(s) if and to the extent necessary to comply with the Transfer Law and/or any agreements with recognized trade unions applicable to such Client Personnel. 
+(c)
+Validity
+. Client may be obligated under applicable Law to undertake consultation with certain employees in certain countries either directly or through relevant recognized trade unions, works councils or other appointed 
+Page 32
+Master Services Agreement
+employee representatives as to the proposal to outsource certain Services as provided in this Agreement. Accordingly, the Parties agree that the provisions of this Agreement relating to the Services to be provided to Eligible Recipients in such countries shall not be effective or considered to be a binding as of the Effective Date. Notwithstanding anything to the contrary, such provisions shall become effective only if Client notifies Provider that the consultations have been completed or the applicable statutory periods have expired and the Parties thereafter execute a Local Agreement with respect to Eligible Recipients in such country. If such written notice is given, it will designate whether all or only a portion of the Services are to be provided for the country in question.
+(d)
+Communications
+. Provider shall not communicate orally or in writing with Client Personnel employed in jurisdictions in which the Transfer Laws are applicable without Client’s prior approval.
+(e)
+Hiring of Provider Personnel at Expiration
+. If, at the termination, expiration or other removal of any Service, any Eligible Recipient (or, to the extent applicable, any successor provider) is required to hire any Provider Personnel as a result of the Transfer Laws, Provider shall reimburse such Eligible Recipient (or successor provider) for any severance payments made to (i) any such Provider Personnel where such Eligible Recipient (or successor provider) is assuming responsibility for the Services being performed by or on behalf of Provider prior to the termination, expiration or other removal of any Service, or (ii) any such Provider Personnel performing Services from a location other than a Client Facility where such Eligible Recipient is transferring responsibility for those Services to a third party that is not a Client Affiliate; provided in each case that such Eligible Recipient (or successor provider), as the case may be, severs such Provider Personnel within a reasonable period of time after such Entity assumes responsibility for the Services.
+8.7
+Substance Abuse
+.
+(a)
+Employee Removal
+.
+ 
+To the extent permitted by applicable Laws, Provider shall immediately remove (or cause to be removed) from Client’s account any Provider Personnel who is known to be or reasonably suspected of engaging in substance abuse while at a Client site or a Client Facility, in a Client vehicle or while performing the Services. In the case of reasonable suspicion, such removal shall be pending completion of the applicable investigation. Substance abuse includes the sale, attempted sale, possession or use of illegal drugs, drug paraphernalia, or alcohol, or the misuse of prescription or non-prescription drugs.
+(b)
+Substance Abuse Policy
+. Provider represents and warrants that it has and will maintain substance abuse policies, in each case in conformance with 
+Page 33
+Master Services Agreement
+applicable Laws, and Provider Personnel will be subject to such policies. Provider represents and warrants that it shall require its Subcontractors and Affiliates providing Services to have and maintain such policies in conformance with applicable Laws and to adhere to this provision.
+8.8
+Transitioned Employees
+. If and to the extent there are Transitioned Employees under this Agreement or a Local Agreement, Provider shall comply with the provisions set forth in 
+Exhibit 5
+ and 
+Annex 6
+ to such Local Agreement, as applicable. A Local Agreement or Statement of Work may also set forth certain requirements and other provisions that will govern transfer of Transitioned Employees to Provider in connection with such Statement of Work or Local Agreement in addition to 
+Exhibit 16
+. 
+9.
+PROVIDER RESPONSIBILITIES.
+9.1
+Provider Responsibilities Generally
+. Provider shall be responsible for the performance of the Services in accordance with this Agreement even if such Services are actually performed or dependent upon (i) services performed by Affiliates of Provider and Subcontractors and other non-Provider Personnel that the Parties agree will be managed by Provider, or (ii) any Software or Equipment utilized by or on behalf of Provider in providing the Services. Provider is responsible for managing and successfully performing, completing, and delivering the Services. In cases where this Agreement does not prescribe or otherwise regulate the manner or quality of Provider’s performance, Provider will render the Services with at least the same degree of accuracy, quality, timeliness, responsiveness and efficiency as was generally achieved or obtained by (or for) Client (and its Affiliates) prior to Provider assuming responsibility under this Agreement for the affected Functions. As part of the Services, at no additional charge to Client, and subject to 
+Section 9.17
+, Provider shall promptly correct any errors or inaccuracies in or with respect to the Services, the information or data provided or maintained in relation to the Services or contained in Reports, or other contract Deliverables.
+ 
+9.2
+Time of Performance
+. Provider will (and will provide the resources necessary to) complete the Services in accordance with any applicable time schedules set forth in this Agreement. Subject to 
+Section 9.17
+, Provider will promptly notify Client upon becoming aware of any circumstances that may reasonably be expected to jeopardize the timely and successful completion (or delivery) of any Service. Provider will use Commercially Reasonable Efforts to avoid or minimize any delays in performance and will inform Client of the steps Provider is taking or will take to remediate the problem, and the projected actual completion (or delivery) time for remediating the problem.
+9.3
+Required Resources
+. Excluding assets retained by Client, Provider shall be responsible for providing all Materials (including Software), Equipment, facilities, personnel, network connectivity, technical knowledge, expertise, supplies and other resources necessary to provide the Services.
+Page 34
+Master Services Agreement
+9.4
+Process and Procedures Manual
+.
+(a)
+Delivery and Contents
+. As part of the Services, Provider shall deliver to Client for its review, comment and approval (i) a reasonably complete draft of the Process and Procedures Manual within one hundred twenty (120) days after the Effective Date, and (ii) a final draft of the Process and Procedures Manual within one hundred fifty (150) days after the Effective Date. Client shall have at least fifteen (15) days to review the draft Process and Procedures Manual and provide Provider with comments and revisions. Provider shall then incorporate any comments or changes of Client into the Process and Procedures Manual and shall deliver a final revised version to Client within fifteen (15) days of its receipt of such comments and changes for Client’s final approval. At a minimum, the Process and Procedures Manual shall include: 
+(i)
+a detailed description of the Services and the manner in which each will be performed by Provider to the extent not already described in the applicable Statement of Work; 
+(ii)
+the procedures for Client/Provider interaction and communication, including: (A) call lists; (B) procedures for and limits on direct communication by Provider with Client personnel; (C) problem management and escalation procedures; (D) priority and project procedures; (E) Acceptance testing and procedures; (F) Quality Assurance processes and procedures and internal controls (consistent with 
+Section 9.7
+ and in accordance with 
+Section 9.4(c))
+; (G) the Project formation and approval process; (H) a schedule, format and required attendees for meetings regarding performance reporting, account relationship management, issues management, risk management, request management and financial management; (I) change control procedures and change control standards consistent with 
+Section 9.8
+; and (J) disaster recovery/business continuity plans;
+(iii)
+the Root Cause Analysis process; and
+(iv)
+practices and procedures addressing any other issues and matters as Client shall require.
+Provider shall incorporate Client’s then current policies and procedures in the Process and Procedures Manual to the extent that Provider is directed to do so by Client. 
+(b)
+Updated Process and Procedures Manual
+. Thereafter, in connection with each Statement of Work, and at no additional cost to Client, Provider shall deliver to Client for its review, comment and approval (i) a reasonably complete draft of an updated Process and Procedures Manual containing additions and modifications applicable to and/or specified in such Statement of Work not later than thirty (30) days after the Statement of Work Effective 
+Page 35
+Master Services Agreement
+Date, and (ii) a final draft of such updated Process and Procedures Manual within sixty (60) days after the Statement of Work Effective Date. Client shall have at least fifteen (15) days to review the draft Process and Procedures Manual and provide Provider with comments and revisions. Provider shall then incorporate any comments or suggestions of Client into the Process and Procedures Manual and shall deliver a final revised version to Client within fifteen (15) days of its receipt of such comments and suggestions for Client’s approval. 
+(c)
+Compliance
+. Provider shall perform the Services in accordance with applicable Laws (including the Client Regulatory Laws) and Client Policies and Procedures, as may be amended, until the Process and Procedures Manual is finalized and agreed upon by the Parties. Thereafter, Provider shall perform the Services in accordance with the Process and Procedures Manual, all applicable Laws (including the Client Regulatory Laws), the Client Policies and Procedures, as may be amended pursuant to 
+Section 9.4(d)
+, and all other terms and conditions of this Agreement. For clarity, 
+Section 9.17
+ applies with respect to Provider’s obligations as set forth in this 
+Section 9.4(c)
+. In the event of a conflict between this Agreement and the Process and Procedures Manual, this Agreement shall control. 
+(d)
+Maintenance, Modification and Updating
+. Provider shall promptly modify and update the Process and Procedures Manual to reflect changes in the operations or procedures described therein, to reflect new Statement of Works, Client Policies and Procedures or other changes in the work to be performed. Provider shall provide the proposed changes in the manual to Client for review, comment and approval. Provider shall maintain the Process and Procedures Manual so as to be accessible electronically to Client management via a secure web site in a manner consistent with Client’s security policies.
+(e)
+Annual Review
+. The Parties shall meet to perform a formal annual review of the Process and Procedures Manual on a mutually agreed upon date but not later than thirty (30) days after each anniversary of the Effective Date.
+9.5
+Reports
+.
+(a)
+Reports
+. Provider shall provide Client with monthly reports sufficient to permit Client to monitor and manage Provider’s performance along with any other reports to be provided under this Agreement (“
+Reports
+”). The Reports to be provided by Provider shall include those described in the applicable Statement of Work in the format and at the frequencies provided therein, as well as those provided by Client Personnel prior to the Commencement Date to the extent communicated to Provider. In addition, from time to time, Client may identify additional Reports to be generated by Provider and delivered to Client on an ad hoc or periodic basis, provided that both Parties mutually 
+Page 36
+Master Services Agreement
+agree (not to be unreasonably withheld by Provider) and that Provider shall agree to the extent it has capacity to provide such additional Reports in the timeframes requested by Client. All Reports shall be provided to Client as part of the Services and at no additional charge to Client. The Reports shall be provided to Client in a network accessible format with ability for data to be downloaded to Client’s then current standard spreadsheet application.
+(b)
+Back-Up Documentation
+. As part of the Services, Provider shall provide Client with all documentation and other information available to Provider as may be reasonably requested by Client from time to time in order to verify the accuracy of the Reports provided by Provider.
+9.6
+Governance Model; Meetings
+.
+(a)
+Governance
+. The Parties shall, in connection with this Agreement, employ the governance model set forth in 
+Exhibit 6
+. No action taken by any person or committee in connection with governance will be deemed to be a waiver or modification of either Party’s rights or obligations under this Agreement in the absence of a waiver in accordance with 
+Section 22.7
+ or an amendment in accordance with 
+Section 22.2
+. Acceptance or approval of reports, presentations, meeting minutes or other governance documents shall not be deemed agreement with the contents of such documents or approval of any act or omission described in such documents.
+(b)
+Meetings
+. During the Term, representatives of the Parties shall meet periodically or as requested by Client to discuss matters arising under this Agreement, including any such meetings provided for in the applicable Statement of Work, the Transformation/Transition Plan, the Process and Procedures Manual or 
+Exhibit 6
+. Each Party shall bear its own costs in connection with the attendance and participation of such Party’s representatives in such meetings.
+9.7
+Quality Assurance and Internal Controls
+.
+(a)
+General
+. Provider shall develop, implement and document Quality Assurance processes and procedures and internal controls (e.g., financial and accounting controls, organizational controls, input/output controls, system modification controls, processing controls, system design controls, and access controls), including implementing tools and methodologies, to ensure that the Services are performed in an accurate and timely manner, in accordance with (i) the Service Levels and other requirements in this Agreement; (ii) generally accepted accounting principles; (iii) the best practices of leading providers of comparable services; (iv) Laws applicable to Client, the other Eligible Recipients and/or the Services (including the Client Regulatory Laws); and (v) industry standards applicable to any Eligible Recipient and/or the Services. 
+Page 37
+Master Services Agreement
+(b)
+Requirements
+. Without limiting the foregoing, such processes, procedures and controls developed and implemented by Provider shall require Provider to:
+(i)
+Maintain a strong control environment in day-to-day operations, to assure that the following fundamental control objectives are met: (A) financial and operational information is valid, complete and accurate; (B) operations are performed efficiently and achieve effective results, consistent with the requirements of this Agreement; (C) assets are safeguarded; and (D) actions and decisions of the organization are in compliance with applicable Laws;
+(ii)
+Build the following basic control activities into its work processes: (A) accountability clearly defined and understood; (B) access properly controlled; (C) adequate supervision; (D) transactions properly authorized; (E) transactions properly recorded; (F) policies, procedures, and responsibilities documented; (G) adequate training and education; (H) adequate separation of duties; and (I) recorded assets compared with existing assets;
+(iii)
+Conduct periodic control self-assessments with respect to all Services (such self-assessments to be performed at least quarterly unless and until Client approves less frequent self-assessments) and promptly remediate any non-compliant items (and promptly report to Client any items having the potential to impact an Eligible Recipient or Client Confidential Information);
+(iv)
+Maintain an internal audit function sufficient to monitor the processes and Systems used to provide the Services and provide summaries of such internal audits to Client on a quarterly basis;
+(v)
+Promptly conduct investigations of suspected fraudulent activities within Provider’s organization that impact or could impact an Eligible Recipient or Client Confidential Information. Provider shall promptly notify Client of any such suspected fraudulent activity and the results of any such investigation as they relate to any Eligible Recipient or Client Confidential Information;
+(vi)
+Comply with all applicable requirements and guidelines established by Client in order to assist Client to meet the requirements of (A) the Client Regulatory Laws; (B) the Sarbanes-Oxley Act of 2002, as amended, and regulations promulgated by the United States Securities and Exchange Commission (the “
+SEC
+”) and Public Company Accounting Oversight Board; and (C) the Health Insurance Portability and Accountability Act and Health Information 
+Page 38
+Master Services Agreement
+Technology for Economic and Clinical Health Act, as amended, and implementing regulations;
+(vii)
+Comply with the Client Code of Business Ethics; and
+(viii)
+Comply with all internal or external audit activities, findings and action plans involving the Services in accordance with 
+Section 9.11 (g)
+ and
+ 
+(h)
+.
+(c)
+Approval
+. Provider shall submit such processes, procedures and internal controls to Client for its review, comment and approval within thirty (30) days prior to the Commencement Date and shall use Commercially Reasonable Efforts to finalize and obtain Client’s final approval of such processes, procedures and internal controls on or before the Commencement Date. Upon Client’s approval, such processes, procedures and internal controls shall be included in the Process and Procedures Manual. No failure or inability of such processes, procedures and internal controls to disclose any errors or problems with the Services shall excuse Provider’s failure to comply with the Service Levels and other terms of this Agreement.
+(d)
+Industry Standards, Certifications and Compliance
+.
+ 
+Provider has achieved and, to the extent relevant, shall maintain certification or compliance with the industry standards set forth in the applicable Statement of Work, in addition to the other certifications, specifications and standards set forth elsewhere in this Agreement.
+(e)
+Technology and Business Process Plan
+. Provider shall develop and implement a technology and business process plan on an annual basis, or other more frequent basis, as requested by Client, and shall modify and update such plan on a periodic basis as appropriate (“
+Technology and Business Process Plan
+”). The Technology and Business Process Plan shall include, among other things, plans for: (i) implementing Client’s then-current business plans and objectives as communicated to Provider; (ii) refreshing Equipment and Software in accordance with the refresh cycles and responsibilities described in this Agreement; and (iii) adopting new technologies and business processes as part of the Technology and Business Process Evolution. The development of the Technology and Business Process Plan shall be an iterative process that Provider shall carry out in consultation with Client. The timetable for finalization of the Technology and Business Process Plan shall be set each year having regard to the timetable for the strategic planning processes of Client. Following approval by Client, Provider shall comply with the Technology and Business Process Plan unless and to the extent Client agrees to depart from such Technology and Business Process Plan.
+Page 39
+Master Services Agreement
+9.8
+Change Control
+.
+(a)
+Compliance with Change Control Procedures
+. In making any change in the standards, processes, procedures, methodologies or controls or associated technologies, architectures, standards, products, Software, Equipment, Systems or Materials provided, operated, managed, supported or used in connection with the Services that (i) impacts an Eligible Recipient’s end user experience, (ii) has a material impact on training Eligible Recipients to use such change (including, for clarity, any customer of Client or its Affiliate), or (iii) reasonably could have an adverse effect on the businesses, operations, environments, facilities, or business processes of an Eligible Recipient or its business (including a legal or compliance), Provider shall comply with this 
+Section 9.8
+ and the change control procedures and change control standards specified on 
+Exhibit 7
+ (collectively, the “
+Change Control Procedures
+”). For clarity, the Change Control Procedures shall not apply to any changes that do not impact such end user experience or otherwise have an adverse effect on the businesses, operations, environments, facilities, or business processes of an Eligible Recipient or its business, unless requ

@@ -1,0 +1,576 @@
+EX-10.5
+
+6
+
+filename6.htm
+
+Exhibit 10.5
+
+ 
+
+Private
+and Confidential
+
+ 
+
+WHG (International) Ltd 
+
+6/1 Waterport Place 
+
+Gibraltar 
+
+GX11 1AA
+
+ 
+
+The purpose of this letter (“
+Letter
+”)
+is to outline the principal terms pursuant to which:
+
+ 
+
+·
+NeoGames SARL (“
+NeoGames
+” of 
+“NG”)
+ shall grant to WHG (International)
+Ltd (“
+William Hill
+” or 
+“WH”)
+ a non-exclusive, assignable, sub-licensable, perpetual, worldwide
+and irrevocable license to use and otherwise exploit the NeoSphere Platform (as defined below) on the terms and conditions set
+out in this Letter (the “
+License Agreement
+”);
+
+ 
+
+·
+William Hill shall loan an amount of USD $10 million to NeoGames pursuant to the terms and conditions
+set out in this Letter (the “
+Loan Agreement
+”); and
+
+ 
+
+·
+NeoGames and William Hill shall enter into a Master Software Development and License Agreement
+on the terms and conditions set out in this Letter (the "
+MSDA
+").
+
+ 
+
+This Letter is intended to be legally binding,
+and shall create legally binding obligations as between William Hill and NeoGames, with respect to the terms of the Licence Agreement,
+the Loan Agreement and the MSDA as set out herein. The parties will negotiate in good faith to seek to agree definitive documentation
+in relation to (a) the MSDA; (b) the License Agreement; and (c) the Loan Agreement, in each case consistent with
+the terms set forth in this Letter (the “
+Definitive Agreements
+”), within four (4) weeks of the date of
+this Letter. If the parties execute the Definitive Agreements, such Definitive Agreements shall replace the terms of this Letter.
+If the Definitive Agreements are not agreed within the above period, then this Letter shall remain in force in accordance with
+its terms until such time as the Definitive Agreements are executed. The parties acknowledge and agree that the principal terms
+set out in this Letter are sufficiently certain and definitive to create a legally-binding contract as between the parties, without
+the need for further terms to be agreed in the Definitive Agreements.
+
+ 
+
+For the purpose of this Letter, the “
+NeoSphere
+Platform
+” shall comprise any and all know-how, intellectual property rights, components, source code, object code, software,
+APIs, algorithms, data, databases, machine learning outcomes or other intangible assets or technology owned, held, controlled or
+enjoyed by NeoGames which is incorporated within, relates to, or is necessary to operate the proprietary player account management
+software solution controlled by NeoGames and known as at the date of this Letter as the “NeoSphere Platform”, but excluding
+for these purposes the proprietary games and content owned and controlled by NeoGames and the central draw based game systems (DBG).
+
+ 
+
+License Agreement & Loan Agreement
+
+ 
+
+In consideration of William Hill:
+
+ 
+
+a.
+Providing NeoGames with a loan facility of US$10 million, which may be called by NeoGames at any
+time on or after execution of the Loan Agreement, such loan to be secured by a fixed and floating charge over NeoGames, with 1%
+annual interest to be rolled up and due along with repayment of the principal amount at the earlier of termination of the MSDA,
+change of control of NeoGames, or the fifth anniversary of the loan (the “
+Loan
+”); and
+
+ 
+
+ 
+
+ 
+
+ 
+
+Private
+and Confidential
+
+ 
+
+b.
+entering into the MSDA,
+
+ 
+
+NeoGames will grant to William Hill a non-exclusive,
+assignable (within WH Group or to an entity in which, WH has taken an equity stake in a business, or formed a joint venture, to
+operate in the B2C Scenario (as defined below)), sub-licensable, for the duration of the MSDA irrevocable license (the 
+“License”)
+
+to use and otherwise exploit the NeoSphere Platform in connection with any and all businesses and operations of William Hill as
+may be conducted by William Hill from time to time in its sole discretion under any B2C Scenario (as defined in the Amended and
+Restated License Agreement (as defined below)), via any channel and for use in any product vertical. Upon the payment by William
+Hill to NeoGames of a one-time, lump-sum payment of £15 million, at the earlier of termination of the MSDA or change of control
+of NeoGames (the “Software License Fee”), then the License shall become perpetual (the "
+Perpetual License
+").
+
+ 
+
+The Perpetual License shall be exercisable
+by William Hill immediately on and from the earlier of: (x) termination of the MSDA; and (y) a change of control of NeoGames.
+In order to facilitate the prompt exercise by William Hill of its rights under the License following the occurrence of any such
+event, NeoGames agrees and undertakes to William Hill to comply with the terms of Schedule 1 set out under the heading “Source
+Code” with respect to the escrow arrangements to be implemented for the NeoSphere Platform.
+
+ 
+
+Without in any way limiting the scope of
+the rights and licenses granted pursuant to the License:
+
+ 
+
+a.
+the License shall be fully paid and royalty-free, subject to the availability of the Loan and the
+payment of the Software License Fee;
+
+ 
+
+b.
+the License shall include the rights to use, copy, reproduce, perform (publicly or otherwise),
+display (publicly or otherwise), modify, improve, correct, repair, translate, enhance, create derivative works of, distribute,
+import, make, have made, sell and offer to sell the right to use the NeoSphere Platform, including all such modifications, improvements
+and derivative works thereof, solely as part of, or as necessary to use and exploit the NeoSphere Platform in connection with,
+the B2C Scenario;
+
+ 
+
+c.
+the License shall be freely sub-licenseable, in each case as may be necessary in connection with
+the licensing of the B2C Scenario or any portion, modification or derivative work thereof, and only to the extent necessary to
+allow William Hill to use and exploit its rights in the B2C Scenario.
+
+ 
+
+The Loan and Software License Fee payable
+by William Hill shall be received by NeoGames and used by the Company to fund its ongoing operations.
+
+ 
+
+NeoGames represents and warrants to William
+Hill that the terms of the License, Perpetual License and the License Agreement are consistent with, and do not contravene, the
+terms and conditions of the Amended & Restated Software License Agreement dated 6 August 2015 and entered into, inter
+alia, between Aspire Global Plc (formerly, Neo Point Technologies Limited), AG Software Ltd (the “Licensor”), NeoGames
+and William Hill Organisation Limited.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Private
+and Confidential
+
+ 
+
+MSDA
+
+ 
+
+William Hill and NeoGames will enter into
+the MSDA, pursuant to which William Hill will retain NeoGames for a minimum duration of 4 years (the "
+Initial Term
+"),
+with automatic extensions of 1 year each (in aggregate the "
+Term
+"), pursuant to the Termination and Transition
+provisions in Schedule 1, to provide software development and related services in accordance with statements of work (“
+MSDA
+Rolling Plan
+”) to be separately executed between the Parties from time to time as set out in Schedule 1. In consideration
+of the software development services to be provided by NeoGames, William Hill will pay NeoGames the Consideration as set out in
+Schedule 1.
+
+ 
+
+This Letter, together with any documents
+referred to herein, does not derogate from or extinguish prior undertakings or arrangements, undertaken by William Hill and any
+of its group companies (together 
+“William Hill Group”) 
+and NeoGames pursuant to any agreement entered into by
+them in the past. Notwithstanding the foregoing it is agreed and understood that the maximum cumulative loan amount that William
+Hill Group will make available to NeoGames, under both this License Agreement, and the Investment and Framework Shareholders Agreement
+dated 6 Aug 2015, shall be $15m.
+
+ 
+
+Miscellaneous
+
+ 
+
+This Letter shall be governed by and construed
+in accordance with the laws of England. Each of the parties to this Letter agrees to submit to the exclusive jurisdiction of the
+courts of England with respect to any disputes or proceedings related to or arising out of this Letter.
+
+ 
+
+This Letter may be executed in any number
+of counterparts, which together shall constitute one agreement. Any party may enter into this Letter by executing a counterpart
+and this Letter shall not take effect until it has been executed by all parties.
+
+ 
+
+This Letter is entered into on a strictly
+confidential basis and neither party will disclose the terms of this Letter to any third party without the prior written consent
+of each of the other parties, provided that any party may: (i) make any public announcement required by law or any governmental
+or regulatory body or the rules of any stock exchange on which any party or any of its affiliates may be listed; and (ii) make
+any disclosure of this Letter required to enable such party to enforce its rights under this Letter.
+
+ 
+
+Executed for and on behalf of WHG (International) Ltd
+
+ 
+
+ 
+
+ 
+
+Executed for and on behalf of NeoGames SARL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Private
+and Confidential
+
+ 
+
+Schedule 1
+
+ 
+
+Under the MSDA NeoGames shall provide William
+Hill with the following rights and services:
+
+ 
+
+Source Code
+
+ 
+
+·
+NeoGames will maintain a central code base across all NeoGames customers
+
+·
+William Hill will have access to the source code (“
+Source Code
+”) of the NeoSphere
+Platform via a replicated mirror repository (at least daily updates). The Source Code will be placed in Escrow with a third party
+escrow agent at William Hill’s request, to be chosen among one of the 3 leading software escrow providers in the Territory,
+which will be released to William Hill subject to the payment of the Software License Fee, and used in accordance with the Perpetual
+License.
+
+ 
+
+Dedicated Team
+
+ 
+
+·
+NeoGames shall provide a dedicated team (the “
+WH Team
+”) working on the William
+Hill projects (“
+WH Features
+”) of the NeoSphere Platform, with named individuals, and with William Hill having
+rights on the removal or addition of key individuals. Individuals put forward by NeoGames for the WH Team must have the relevant
+skills to provide coverage across the whole of the NeoSphere Platform, 
+provided that
+, any modification to the core technology
+of the NeoSphere Platform will be subject always to the mutual agreement of both Parties, save that NeoGames will not block any
+such modification reasonably requested by William Hill, unless it can evidence that such modification materially damages NeoGames’
+commercial interests
+
+·
+NeoGames and William Hill will collaborate on locking-in any key individuals through incentive
+packages as appropriate. The WH Team will work in a dedicated space in the NeoGames offices.
+
+·
+The size of the WH Team will be determined by William Hill, subject to pre-agreed parameters between
+the parties, quarterly in advance, based on estimated work flow and with reference to the named individuals in the WH Team. The
+MSDA Rolling Plan will take into account reasonable time periods required for recruitment and training where relevant. NeoGames
+will not sub-contract work on the William Hill account without prior permission from William Hill, except for NeoGames' outsourced
+development hub in the Ukraine, which is hereby approved.
+
+·
+William Hill will have free and open access to communicate with the WH Team, and may visit them
+in the NeoGames offices at their discretion.
+
+·
+William Hill will 100% control of the development roadmap of the WH Team.
+
+·
+NeoGames will have product and technical representation within William Hill by way of an embedded
+product owner and architect in 2 key locations (e.g. Leeds and Krakow).
+
+·
+William Hill and NeoGames will be able to do joint development projects, where the code is partly
+developed by William Hill and partly by NeoGames (the "
+Joint Developments
+").
+
+·
+Any IP rights in and to the products developed by the WH Team, including the WH Features and the
+Joint Developments, shall be vested fully with NeoGames, which in turn will grant William Hill with the right to use such features
+and developments under the terms of the License or Perpetual License, as applicable.
+
+·
+NeoGames will support William Hill in migrating off legacy platforms as applicable
+
+·
+William Hill will have the right to offer direct employment under fair and reasonable terms to
+members of the WH Team, but only in the event of change of control in NeoGames or after providing notice of termination of the
+MSDA, and the start of the transition pursuant to the “Termination and Transition” provisions set out hereunder.
+
+ 
+
+Exclusivity in the US
+
+ 
+
+·
+William Hill will not use the NeoSphere Platform to compete with NeoGames in iLottery,
+
+·
+NeoGames will not use the NeoSphere Platform to compete with William Hill in B2C sports betting.
+
+·
+NeoGames will not be precluded from independently using the NeoSphere Platform and offering it
+to B2B customers
+
+ 
+
+ 
+
+ 
+
+ 
+
+Private
+and Confidential
+
+ 
+
+·
+The WH Features will be for the exclusive use of William Hill, and Neo Games shall not provide
+them to any other party except, after a duration of 8 months from the date upon which such feature is made available to William
+Hill customers on a materially bug-free basis (with any period during which any such material bugs affect the feature being added
+to the 8 month period),and then only
+
+ 
+
+o
+to NeoGames customers, or
+
+o
+Under license to Aspire Global PLC (formerly, Neo Point Technologies Limited) or its affiliate
+("
+Aspire
+") as laid out in the Amended & Restated Software License Agreement dated 6 August 2015,
+between AG Software Ltd., Aspire, Neogames, and William Hill (the "
+Amended and Restated License Agreement
+").
+
+ 
+
+But never to the following blacklisted:
+Bet365, GVC Group (including Ladbrokes Coral), Stars Group (including SkyBet), Paddy Betfair, Kindred, 888, Caliente, FanDuel,
+DraftKings and Churchill Downs; and any entity holding 25% or more of the share capital of any of the above, or any entity, of
+which 25% of the share capital is held by any of the above.
+
+ 
+
+Input on broader road map
+
+ 
+
+·
+William Hill will have guaranteed input into the broader NeoSphere Platform product development
+roadmap (outside the WH Team), with 15% of development on the NeoSphere Platform, outside the WH Team, being on items reasonably
+requested by WH in advance in writing. NeoGames will not block any such development reasonably requested by William Hill, unless
+it can evidence that such development materially damages NeoGames’ commercial interests. WH will be invited to provide its
+views in monthly roadmap planning sessions, across product strategy, product planning, technology governance
+
+ 
+
+Costs
+
+ 
+
+·
+All costs will be charged in accordance with the principals set forth in Schedule 2 to this letter
+.All direct labour costs attributable to William Hill, incurred by NeoGames in its operation in Eastern Europe will be charged
+to William Hill at cost plus [REDACTED]% profit and in its operation in Western Europe, Tel Aviv and North America at cost plus
+[REDACTED]% profit. The initial expected rates are set out in Schedule 2.2, but subject to change as agreed between the parties.
+Other direct costs attributable to William Hill relating to technology infrastructure required for the stability, development efficiency,
+quality and scalability of the NeoSphere platform, hosting and support fees will be charged on an at cost basis. Indirect costs
+attributable to William Hill will be allocated by the Parties from time to time, initially in accordance with the principals set
+forth in Schedule 2.1 to this letter.
+
+·
+The attributable cost element detailed above shall be defined herein as “NG Costs”,
+and the profit element shall be defined as “NG Profit”.
+
+·
+Neo Games will demonstrate in its monthly invoicing how costs are attributable to William Hill,
+and provide a breakdown of its calculations. William Hill shall have the right to one independent audit per year on one month’s
+notice, such audit costs will be covered by William Hill, except in the event that the costs charged by Neo Games are proven through
+the audit to be too high by at least 5%, in which case Neo Games shall cover the audit costs, and William Hill shall have the right
+to another audit in the same year if it wishes.
+
+ 
+
+Termination and Transition
+
+ 
+
+·
+In the event of change of control in NeoGames, or termination of the MSDA for any reason other
+than a breach by William Hill, NeoGames shall use all reasonable endeavours to assist William Hill in a 12 month transition phase,
+to minimize disruption to William Hill. This will include training up William Hill people on the NeoSphere Platform, to take over
+the operation of a separate instance of code, and exercise its rights under the Perpetual License subject to the payment of the
+Software License Fee, and shall include extended site visits by members of the WH Team to William Hill’s offices.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Private
+and Confidential
+
+ 
+
+·
+The MSDA shall be terminable by each of the Parties, following the elapse of the Initial Term,
+upon provision of a 12-month written notice of termination, such notice to expire no earlier than the end of the Initial Term,
+in which event NeoGames shall use all reasonable endeavours to assist William Hill in a 12 month transition phase during such notice
+period, to minimize disruption to William Hill. Nothwithstanding the foregoing, and without derogating from either rights available
+to either Party, William Hill will be eligible to terminate the MSDA from its 3
+rd
+ year anniversary subject to 12-month
+notice and paying the Early Termination Fee. The “Early Termination Fee” shall be calculated by multiplying (a) the
+average monthly NG Profit paid by William Hill to Neo Games in the 3 months preceding termination, and multiplied by (b) the
+number of months remaining until the 4
+th
+ year anniversary of the MSDA.
+
+ 
+
+Remedies for Material Breach
+
+ 
+
+·
+In the event of any Material Breach (to be defined in the MSDA) where as a direct or indirect consequence
+of such Material Breach William Hill is delayed for a period in excess of 60 days in development of any material WH Features, William
+Hill will notify NeoGames of such Material Breach and NeoGames shall have 30 days to remedy such Material Breach and put William
+Hill in the same position as envisaged by the MSDA Rolling Plan or as if the Material Breach had not occurred. In the event that
+NeoGames fails to remedy the Material Breach to the reasonable satisfaction of William Hill within the specified time period, then
+William Hill will, at its entire discretion, be entitled to either of the following remedies (a) liquidated damages at a daily
+rate to be specified the MSDA until the Material Breach is remedied to the reasonable satisfaction of William Hill, which the parties
+agree is a reasonable and proportionate amount necessary to protect WH’s legitimate interests in the performance of the terms
+of the MSDA (the "
+Liquidated Damages
+"); (b) WH will be entitled to assert temporary control over the business,
+governance and affairs of the WH Team, utilising resources, facilities and processes to be agreed in order that William Hill may
+direct the WH Team and, as may be reasonably required, such additional NeoGames developers as William Hill may reasonably require
+to remedy such Material Breach, such temporary control to endure until such Material Breach is remedied to the reasonable satisfaction
+of William Hill; (c) William Hill will be entitled to retain the services of third party developers, at NeoGames’ sole
+cost and expense, to remedy such Material Breach; or (d) William Hill will be entitled to terminate the MSDA and, subject
+to the payment of the Software License Fee, exercise the Licence, whereupon NeoGames shall be obliged to comply with the transitional
+arrangements outlined above.
+
+·
+Notwithstanding the foregoing, if, as a direct result of any act or omission of failure by William
+Hill, to perform any of its obligations set forth in the MSDA Rolling Plan or any statement of work on a timely basis, NeoGames
+is unable to meet in a timely manner, all or any remaining milestones or delivery dates under such MSDA Rolling Plan or statement
+of work either at all or without incurring additional costs, NeoGames may extend such milestone or delivery dates for up to the
+length of William Hill’s delay or, at NeoGames’ option, increase the related fees solely to recover any such additional
+costs, and the Liquidated Damages shall not apply during such extension.
+
+·
+If William Hill disputes NeoGames’ right to extend milestone or delivery dates or to increase
+fees, or the extent of any proposed extension or increase, William Hill will promptly notify NeoGames and the parties will negotiate
+in good faith to resolve the dispute.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Private
+and Confidential
+
+ 
+
+Schedule 2.1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Private and Confidential 
+
+Schedule 2.2 
+
+Example of Initial Project Costing
+
+ 
+
+[REDACTED]

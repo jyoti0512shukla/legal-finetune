@@ -1,0 +1,1212 @@
+EX-10.8
+
+8
+
+tm2121431d2_ex10-8.htm
+
+EXHIBIT 10.8
+
+Exhibit 10.8
+
+Palantir MSA - CONFIDENTIAL 1
+PALANTIR MASTER SUBSCRIPTION AGREEMENT
+
+This Master Subscription Agreement between Customer (“Wejo”) and Palantir, each as identified on the signature
+page below (each a “Party” and collectively the “Parties”), and any Order Forms or exhibits attached hereto or
+subsequently entered into by and between the Parties (collectively this “Agreement”), shall be effective as of the
+Effective Date (as defined below) and sets forth the terms and conditions pursuant to which Customer will access
+certain Palantir Products and may contract for certain Palantir Services as set forth in any applicable Order Form.
+
+1. Certain Definitions. The following capitalized
+terms will have the meanings indicated below unless
+otherwise specifically defined in any Order Forms or
+exhibits hereto.
+1.1 “Cloud Services” means the cloud services
+provided by Palantir from time to time and as
+described in this Agreement and any Order Forms.
+1.2 “Content” means any data or other content
+that is created or provided by Wejo or Authorized
+Users, whether directly or indirectly from a third party,
+for transmission, storage, integration, import, display,
+distribution or use in or through use of the Products,
+including any aggregated or transformed versions
+thereof and any analytical outputs.
+1.3 “Content Connection Software” means the
+software provided by Palantir for installation locally by
+Wejo in order to access or connect with the Products.
+1.4 “Documentation” means the technical
+specification documentation provided to Wejo by
+Palantir regarding the Software, Palantir Materials,
+and Content Connection Software.
+1.5 “Intellectual Property Rights” means any
+and all right, title, and interest in and to any and all
+trade secrets, patents, copyrights, service marks,
+trademarks, know-how, trade names, rights in trade
+dress and packaging, moral rights, rights of privacy,
+rights of publicity, and similar rights of any type,
+including any applications, continuations, or other
+registrations with respect to any of the foregoing,
+under the laws or regulations of any governmental,
+regulatory, or judicial authority.
+1.6 “Order Form” means an ordering document
+specifying the Products and/or Services to be provided
+hereunder that is entered into between Palantir and
+Customer, including any exhibits or addendums
+thereto. The Parties may mutually develop Project
+Plans following procedures set forth in such Order
+Forms.
+1.7 “Palantir Materials” means any data,
+technology, and materials provided or made available
+to Wejo by Palantir for use with the Software and
+Services pursuant to this Agreement, including sample
+code, software libraries, command line tools, data
+integration code, templates, and configuration files.
+1.8 “Palantir’s Project Manager” means
+Palantir’s manager for a Project appointed in
+accordance with this Agreement.
+1.9 “Product(s)” means the Palantir Materials,
+Documentation, and Software.
+1.10 “Project” means a project, as described in a
+Project Plan.
+1.11 “Project Plan” includes a detailed plan
+describing a Project, including identifying agreed lines
+of effort, and setting out the timetable (including
+Project Milestones) and responsibilities of the Parties
+in completing the Project determined pursuant to the
+Steering Committee process described in the Order
+Form or applicable appendices. Additional details or
+requirements for Project Plans may be set forth in an
+applicable Order Form. .
+1.12 “Proposal” means the materials handed to
+Wejo supporting Palantir’s presentation to Wejo and
+describing how the Parties propose to carry out a
+specific Project.
+1.13 “Services” means Support Services, Cloud
+Services and/or Professional Services, each as
+defined herein.
+1.14 “Software” means the Palantir proprietary
+software in a managed cloud-hosted environment, any
+third-party software, the Content Connection
+Software, application programming interfaces (APIs),
+and models or algorithms identified on the Order Form
+or provided or made available to Wejo as a service in
+connection with this Agreement, and any
+improvements, modifications, derivative works,
+patches, upgrades, and Updates to any of the
+foregoing that Palantir provides to Wejo hereunder.
+1.15 “Updates” means Product changes that
+Palantir at its discretion may implement in the
+applicable generally available Products without
+requiring the payment of additional fees. Updates do
+not include new product or service offerings that
+Palantir makes available for an additional charge.
+2. Provision of Products.
+2.1 Software. Subject to Wejo’s continued and
+full compliance with all of the terms and conditions of
+this Agreement, including without limitation Wejo’s
+payment of all fees due under each Order Form,
+Palantir will (a) provide Wejo with access to the
+Software as specified in the applicable Order Form
+during the applicable Order Term solely for its internal
+business purposes supporting field of use cases
+(FOUs) set forth in the Order Form, a Project Plan, or
+internally developed by Wejo, and only (i) to use,
+access, display, and run in accordance with the
+Documentation and (ii) for the purposes specified in
+the applicable Order Form ; and (b) provide other
+Products as necessary to deliver the Software. 
+
+Palantir MSA - CONFIDENTIAL 2
+2.2 Content Connection Software. If applicable,
+Palantir hereby grants to Wejo a non-exclusive,
+nontransferable, non-sublicenseable, limited license
+to use the Content Connection Software during the
+Term for the sole purposes of using and connecting to
+Products. At Palantir’s request, Wejo will promptly
+install Updates to the Content Connection Software
+provided by Palantir. Wejo shall allow Palantir to
+access the Content Connection Software remotely as
+necessary for Palantir to perform services hereunder.
+2.3 Third-Party Services. Palantir may utilize
+and/or make available third-party services in the
+provision of the Products and processing of Content
+(each a “Third-Party Service”). Such Third-Party
+Services will be set forth in the Documentation or
+otherwise be mutually agreed by and between the
+Parties.
+2.4 Palantir Materials. Palantir hereby grants to
+Wejo during the Term a non-exclusive,
+nontransferable, non-sublicenseable, limited license,
+to (a) use the Palantir Materials in accordance with the
+Documentation and this Agreement and (b) copy,
+modify, and use the Palantir Materials solely to the
+extent necessary for Wejo’s use of the Software.
+
+3. Wejo Use of Products.
+3.1 Authorized User Accounts. Palantir will
+provide Wejo with the capability to provision and
+establish accounts to access the Products
+(“Accounts”) for Wejo’s employees or independent
+contractors with a need to access the Products on
+behalf of Wejo for its internal business purposes
+(“Authorized Users”).
+3.2 Account Protection. Wejo shall be solely
+responsible for (a) administering and protecting
+Accounts; (b) providing access to the Products only to
+Authorized Users; (c) requiring such Authorized Users
+to keep Account login information, including user
+names and passwords, strictly confidential, and not to
+provide such Account login information to any
+unauthorized parties; (d) using industry standard
+security measures to protect Accounts (including,
+without limitation, using multi-factor authentication to
+access the Software); and (e) any use of the Products
+that occurs on Wejo’s Accounts. Wejo shall inform
+each Authorized User of its obligations under, and
+ensure that each Authorized User at all times abides
+by, the terms of this Agreement. Wejo shall be
+responsible and liable for any breach of this
+Agreement by an Authorized User. In the event that
+Wejo or any Authorized User becomes aware that the
+security of any Account login information has been
+compromised, or upon Palantir’s reasonable request,
+Wejo shall immediately de-activate such Account or
+change the Account’s login information.
+3.3 Wejo Content Use. Wejo shall provide
+Palantir with all information, assistance, and materials,
+including access to Content when directed by Wejo,
+as reasonably required for Palantir to activate and
+operate the Products for Wejo as specified in this
+Agreement, an Order Form (or related attachments) or
+associated Project Plan and to provide the Services
+pursuant to this Agreement. Wejo grants to Palantir a
+non-exclusive worldwide license to use, copy, store,
+process, transmit, retrieve, and display such
+information and materials in connection with the
+provision of the Products and/or Services for Wejo.
+Palantir is not permitted to access or disclose any
+Content, except under Wejo’s consent as necessary
+to maintain or provide the Products and/or Services
+specifically to Wejo . Wejo may withdraw its
+authorization for Palantir to access Content at any time
+by providing written notice or by control of account
+access in the Products. If Palantir receives a third-
+party subpoena or request or order of governmental,
+regulatory, or judicial authorities regarding Wejo’s
+Account, Content to which Wejo has granted Palantir
+access, or use of the system, Palantir may provide
+Wejo notice, except where providing notice is
+prohibited by the legal process itself, by court order, or
+by applicable law or where Palantir has reason to
+believe providing notice could create a risk of injury or
+death to any person. If Palantir is obligated to respond
+to such third-party subpoena or other request or order
+of governmental, regulatory, or judicial authorities and
+such a third-party subpoena or request or order is not
+solely due to acts or omissions of Palantir or any
+investigation of Palantir, Wejo will also reimburse
+Palantir for reasonable attorneys’ fees, as well as for
+the reasonable time and materials spent by Palantir
+responding to the third-party subpoena or other
+request or order of governmental, regulatory, or
+judicial authorities.
+
+ 
+
+Palantir MSA - CONFIDENTIAL 3
+
+5. Confidentiality. Each Party (the “Receiving
+Party”) shall keep strictly confidential all Confidential
+Information (as defined below) of the other Party (the
+ “Disclosing Party”), and shall not use or process such
+Confidential Information except to exercise its rights
+and perform its obligations herein, and shall not
+disclose or permit the unauthorized transfer of such
+Confidential Information to any third party other than
+disclosure on a need-to-know basis to the Receiving
+Party’s own officers, directors, employees,
+consultants, agents, and/or authorized subcontractors
+who are each subject to obligations of confidentiality
+at least as restrictive as those stated herein. Without
+limiting the foregoing, the Receiving Party shall use at
+least the same degree of care as it uses to prevent the
+disclosure or unauthorized transfer of its own
+confidential information of like importance, but in no
+event less than reasonable care. The Receiving Party
+shall promptly notify the Disclosing Party of any
+unauthorized disclosure of Confidential Information.
+The Receiving Party may, without violating the
+obligations of the Agreement, disclose Confidential
+Information to the extent required by a valid order by a
+court or other governmental body having jurisdiction,
+provided that the Receiving Party: (a) provides the
+Disclosing Party with reasonable prior written notice of
+such disclosure and (b) uses diligent reasonable
+efforts to limit disclosure and to obtain, or to assist the
+Disclosing Party in obtaining confidential treatment or
+a protective order preventing or limiting the disclosure,
+while allowing the Disclosing Party to participate in the
+proceeding. “Confidential Information” means (1)
+Products, (including any information or data relating
+thereto); (2) Content; and (3) any other business,
+technical or engineering information or data (including
+third-party information) disclosed or made available by
+or on behalf of the Disclosing Party which by the
+nature of the information disclosed or the manner of its 
+
+Palantir MSA - CONFIDENTIAL 4
+disclosure would be understood by a reasonable
+person to be confidential and/or proprietary, in each
+case in any form (including without limitation written,
+electronic, or oral) and whether furnished before, on,
+or after the Effective Date; provided, however, that
+Confidential Information shall not include any
+information that (a) is or becomes part of the public
+domain through no act or omission of the Receiving
+Party or any of the Receiving Party’s employees,
+agents, advisors, attorneys, accountants, or other
+representatives; (b) is known to the Receiving Party at
+the earlier of the Effective Date or the time of
+disclosure by the Disclosing Party (as evidenced by
+written records) without an obligation to keep it
+confidential; (c) was rightfully disclosed to the
+Receiving Party prior to the Effective Date from
+another source without any breach of confidentiality by
+the third-party discloser and without restriction on
+disclosure or use; or (d) the Receiving Party can
+document by written evidence that such information
+was independently developed without the use of or
+any reference to Confidential Information. The
+Receiving Party is responsible and shall be liable for
+any breaches of this Section and any disclosure or
+misuse of any Confidential Information by its
+employees or agents (or any other person or entity to
+which the Receiving Party is permitted to disclose
+Confidential Information pursuant to this Section). The
+Receiving Party’s obligations with respect to
+Confidential Information shall survive termination of
+this Agreement for a period of five (5) years; provided,
+that the Receiving Party’s obligations hereunder shall
+survive and continue in perpetuity after termination
+with respect to any Confidential Information that is a
+trade secret under applicable law or otherwise
+protected by law.
+6. Fees and Payment. Software are deemed
+delivered upon the provision of access to Customer or
+for the Customer’s benefit. Upon execution of an Order
+Form, Palantir shall invoice Customer for the fees due
+as set forth in the Order Form. All fees will be payable
+on an annual upfront basis, or as otherwise set forth in
+the Order Form. All payments shall be made via check
+or wire transfer to an account designated by Palantir
+in the currency set forth on the corresponding invoice.
+All fees set forth in the invoice are due within thirty (30)
+days after the date of issuance of Palantir’s invoice.
+Customer shall be responsible for all taxes arising
+under this Agreement, including, but not limited to,
+sales, use, gross receipts, excise, withholding, value
+added, and goods and services taxes (but not
+including Palantir’s US income taxes), in addition to
+any duties, costs of compliance with export and import
+controls and regulations, and other governmental
+assessments so that after payment of such taxes the
+amount Palantir receives is not less than the fees set
+forth in the Order Form. Any late payments shall be
+subject to a service charge equal to 1.5% per month
+of the amount due or the maximum amount of interest
+for late payment allowed by applicable law, whichever
+is less.
+7. Services. Subject to the execution of an
+Order Form, and the payment of all applicable fees
+thereunder when due, Palantir shall provide Wejo with
+such Services. The performance of any Services by
+Palantir shall not affect the ownership of the Products,
+Updates, and other related documentation or
+materials provided by Palantir under this Agreement.
+7.1 Support Services. Exclusively in connection
+with Wejo’s access to the Products under an Order
+Form, Palantir shall provide Wejo with support and
+Updates in accordance with and subject to Palantir’s
+standard support terms and conditions (“Support
+Services”) for the applicable Order Term.
+7.2 Professional Services. Subject to mutual
+agreement by the Parties and execution of an Order
+Form, Palantir will provide additional consulting,
+integration, implementation, enablement, training, or
+other professional services (collectively,
+ “Professional Services”) with respect to Wejo’s use
+of the Products.
+8. Term and Termination. This Agreement shall
+begin on the Effective Date and continue for a period
+of twelve (12) months from the date of expiration of the
+last to expire Order Form (the “Term”), unless
+otherwise terminated as provided herein.
+8.1 Order Term. The term of each Order Form
+shall continue for the number of months/years set forth
+in the Order Form unless otherwise terminated as
+provided herein (each such period an “Order Term”).
+8.2 Palantir shall co-operate with Wejo in all
+matters relating to each Project and appoint a Project
+Manager. In the event that Wejo has concerns about
+the Palantir personnel providing Services directly to
+Wejo, If the Parties cannot resolve such concerns,
+Wejo may reasonably request that Palantir utilize
+different personnel resources, which shall be utilized
+as available.
+8.3 Wejo Responsibilities. Wejo shall (a) co-
+operate with Palantir in all matters relating to each
+Project and appoint a Project Manager, who shall have
+the authority to commit Wejo on all matters relating to
+the Project; (b) provide such access to Wejo's
+premises and data, and such office accommodation
+and other facilities, as may reasonably be required by
+Palantir and agreed by Wejo in advance for the
+purposes of any Project; and (c) provide, in a timely
+manner, such information as Palantir may request,
+and Wejo considers reasonably necessary, in order to
+carry out each Project and ensure that all information
+Wejo provides is accurate in all material respects.
+8.4 Termination for Cause. Without limiting either
+Party’s other rights of termination set forth in this
+Agreement, either Party may terminate this
+Agreement for cause (including the Order Terms of all
+then-current Order Forms and Project Plans
+thereunder) upon written notice to the other Party in
+the event of any material breach by the other Party of
+any term, condition, or provision of this Agreement and
+failure to remedy the breach (and provide reasonable
+written notice of such remedy to the non-breaching 
+
+Palantir MSA - CONFIDENTIAL 5
+Party) within thirty (30) days following written notice of
+such breach from the Party.
+
+8.6 Effect of Termination; Survival. , Upon any
+termination or expiration of this Agreement, all of
+Wejo’s rights, access, and licenses granted hereunder
+to the Products shall immediately cease and Wejo
+shall promptly return to Palantir or destroy all Content
+Connection Software, Palantir Materials, and
+Documentation, including all portions thereof and all
+other Confidential Information, and, upon written
+request, so certify its compliance with the foregoing to
+Palantir in writing within ten (10) days of such request.
+Upon any termination or expiration of this Agreement
+and Wejo’s written request, Palantir will provide Wejo
+access to the Content in a format and media
+reasonably accessible to Wejo for ninety (90) days and
+will thereafter use reasonable methods to delete or
+otherwise make all such Content inaccessible. No
+termination or expiration of this Agreement shall limit
+or affect either Party’s rights or obligations that
+accrued prior to the effective date of termination or
+expiration (including without limitation payment
+obligations). Furthermore, this Section 8.6 and
+Sections 4, 5, 6, 9, 10.2, 12, 13, 14, and 15, shall
+survive any termination or expiration of this
+Agreement. Termination is not an exclusive remedy
+and all other remedies will remain available. All non-
+expired Order Forms shall automatically terminate
+upon the termination of this Agreement.
+
+10. Palantir Warranty and Disclaimer.
+10.1 Palantir Representations and Warranties.
+Palantir represents that it has validly entered into this
+I -
+
+Palantir MSA - CONFIDENTIAL 6
+Agreement and has the legal power to do so.
+Additionally, Palantir warrants that during the Term (a)
+the Software as delivered to Wejo will perform
+substantially in accordance with the applicable
+Documentation; (b) the Services will be provided in a
+professional and workmanlike manner and by an
+adequate staff with knowledge about the Software; (c)
+Palantir will perform the Services with reasonable care
+and skill and in accordance with generally recognised
+commercial practices and standards; ; and (d) to the
+extent under Palantir’s control (and for avoidance of
+doubt, excluding data controller obligations such as
+General Data Protection Regulation of the European
+Union), Palantir will comply with all applicable laws. In
+the event of a breach of an above warranty, Wejo may
+give Palantir written notice of termination of this
+Agreement, which termination will be effective thirty
+(30) days after Palantir’s receipt of the notice, unless
+Palantir is able to remedy the breach prior to the
+effective date of termination. In the event of
+termination of this Agreement pursuant to Wejo’s
+exercise of its right under this Section, Wejo shall be
+entitled to receive from Palantir, as its sole and
+exclusive remedy, a refund of a pro-rated portion of the
+fees paid hereunder that reflects the remaining portion
+of the Order Terms of any Order Forms in effect at the
+time of termination, but such termination shall
+otherwise be subject to Section 10.2. The provisions
+of this clause 10.1 shall survive any performance,
+acceptance or payment pursuant to this Agreement
+and shall extend to any substituted or remedial
+services provided by Palantir.
+10.2 Disclaimer. NO AMOUNTS PAID
+HEREUNDER ARE REFUNDABLE OR
+OFFSETTABLE EXCEPT AS OTHERWISE
+EXPLICITLY SET FORTH HEREIN. EXCEPT AS
+EXPRESSLY SET FORTH IN SECTION 10.1, THE
+PRODUCTS AND SERVICES ARE PROVIDED “AS-
+IS” WITHOUT ANY OTHER WARRANTIES OF ANY
+KIND AND PALANTIR AND ITS SUPPLIERS AND
+SERVICE PROVIDERS HEREBY DISCLAIM ALL
+WARRANTIES OF ANY KIND, WHETHER EXPRESS
+OR IMPLIED, ORAL OR WRITTEN, RELATING TO
+THE PRODUCTS AND ANY SERVICES PROVIDED
+HEREUNDER OR SUBJECT MATTER OF THIS
+AGREEMENT OR OTHERWISE, INCLUDING BUT
+NOT LIMITED TO ANY WARRANTIES OF NON-
+INFRINGEMENT, MERCHANTABILITY, TITLE OR
+FITNESS FOR A PARTICULAR PURPOSE.
+WITHOUT LIMITING THE FOREGOING
+LIMITATION, PALANTIR DOES NOT WARRANT
+THAT THE PRODUCTS OR SERVICES WILL MEET
+WEJO REQUIREMENTS OR GUARANTEE ANY
+RESULTS, OUTCOMES, OR CONCLUSIONS OR
+THAT OPERATION OF PRODUCTS WILL BE
+UNINTERRUPTED OR ERROR FREE. PALANTIR IS
+NOT RESPONSIBLE OR LIABLE FOR ANY THIRD-
+PARTY SERVICE (INCLUDING WITHOUT
+LIMITATION, UPTIME GUARANTEES, OUTAGES,
+OR FAILURES). WEJO ACKNOWLEDGES THAT
+PALANTIR DOES NOT CONTROL THE TRANSFER
+OF DATA, INFORMATION, OR CONTENT OVER
+COMMUNICATIONS FACILITIES, INCLUDING THE
+INTERNET OR THIRD-PARTY SERVICES, AND
+THAT THE PRODUCTS MAY BE SUBJECT TO
+LIMITATIONS, DELAYS, AND OTHER PROBLEMS
+INHERENT IN THE USE OF SUCH
+COMMUNICATIONS FACILITIES. PALANTIR IS NOT
+RESPONSIBLE FOR ANY DELAYS, DELIVERY
+FAILURES, OR OTHER DAMAGE RESULTING
+FROM SUCH PROBLEMS.
+11. Wejo Representations and Warranties.
+11.1 General. Wejo represents that it has validly
+entered into this Agreement and has the legal power
+to do so.
+11.2 Use of Products. Wejo warrants and
+covenants that it will not use the Products for any
+unauthorized, improper or illegal purposes, including
+but not limited to: (a) discrimination; (b) harassment;
+(c) compromising information and data security or
+confidentiality; (d) harmful or fraudulent activities; (e)
+violation of privacy or constitutional rights of
+individuals or organizations; or (f) violation of third-
+party contractual agreements or local, state, federal,
+or international laws, regulations, or ordinances.
+11.3 Wejo Content. Wejo warrants and covenants
+that: (a) it will not transmit, store, integrate, import,
+display, distribute, use or otherwise make available
+any Content that is, or is obtained in a manner that is,
+unauthorized, improper, or illegal; (b) this Agreement
+imposes no obligations, by contract or local, state,
+federal, or international law, regulation, or ordinance,
+with respect to Content, unless explicitly agreed in an
+Order Form or Project Plan thereunder; and (c) that
+Wejo has provided all necessary notifications and
+obtained all necessary consents, authorizations,
+approvals, and/or agreements as required by any
+applicable laws or policies in order to enable Wejo to
+utilize the Software with the Content (and to the extent
+any Services or Support requires the transmission to,
+or access or processing by, Palantir, Wejo has
+provided all necessary notifications and obtained all
+necessary consents, authorizations, approvals, and/or
+agreements as required by any applicable laws or
+policies in order to enable such transmission, access
+or processing), including personal data, according to
+the scope, purpose, and instructions specified by
+Wejo. Wejo acknowledges that all Content that Wejo
+transmits, stores, integrates, imports, displays,
+distributes, uses, or otherwise makes available
+through use of the Products and the conclusions
+drawn therefrom are done at Wejo’s own risk and Wejo
+will be solely liable and responsible for any damage or
+losses to any party resulting therefrom. Palantir has
+the right to suspend the Products (1) in order to
+prevent harm to Palantir or its business and to limit any
+potential liability; (2) if Wejo is in breach of this
+Agreement; or (3) if required to do so pursuant to
+applicable law or regulation or requests or orders of
+governmental, regulatory, or judicial authorities.
+
+ 
+
+Palantir MSA - CONFIDENTIAL 7
+
+13. Dispute Resolution. Any dispute,
+controversy, or claim arising from or relating to this
+Agreement, including the determination of scope or
+applicability of the agreement to arbitrate, that cannot
+be resolved following good faith discussions between
+the Parties within a period of sixty (60) days after
+notice of a dispute has been given by one Party to the
+other shall be finally settled by arbitration in San
+Francisco, California, United States, using the English
+language in strict accordance with the Comprehensive
+Arbitration Rules and Procedures of the Judicial
+Arbitration and Mediation Services, Inc. (“JAMS”) and
+the Federal Rules of Evidence (notwithstanding JAMS
+Rule 22(d) or any other JAMS Rule to the contrary).
+The arbitrator(s) may or may not be selected from the
+appropriate JAMS list, and any arbitrator selected shall
+have substantial experience in resolving complex
+commercial contract disputes or disputes involving the
+software industry. The arbitrator(s) shall have the
+authority to grant equitable relief (including specific
+performance) and to allocate between the Parties the
+costs of arbitration (including service fees, arbitrator
+fees, and all other fees related to the arbitration) in
+such equitable manner as the arbitrator(s) may
+determine. Notwithstanding the foregoing, each Party
+shall have the right to institute an action at any time in
+a court of proper jurisdiction for preliminary injunctive
+relief pending a final decision by the arbitrator(s),
+provided that (i) the Party instituting the action shall
+seek an order to file the action under seal (or at a
+minimum do so for any filings containing Confidential
+Information or trade secrets) in order to limit disclosure
+as provided in Section 5 of this Agreement; and (ii) a
+permanent injunction and damages shall only be
+awarded by the arbitrator(s). This Agreement shall be
+deemed to have been made in, and shall be construed
+pursuant to the laws of the State of California and the
+United States. The Parties acknowledge that this
+Agreement evidences a transaction involving
+interstate commerce and, notwithstanding the
+preceding sentence with respect to the applicable
+substantive law, any arbitration or subsequent
+enforcement action pursuant to this Agreement shall
+be governed by the Federal Arbitration Act (9 U.S.C.
+ §§ 1 et. seq.). For all purposes of this Agreement, but
+subject to the agreement to arbitrate set forth above,
+the Parties consent to jurisdiction and venue in the
+United States Federal Courts located in the Northern
+District of California or, if jurisdiction is not proper in
+such Federal Courts, California Superior Court in the
+County of Santa Clara. The Parties shall maintain the
+confidential nature of, and shall not disclose to any
+third party the existence of or any information related
+to, the arbitration proceeding, including the award, the
+hearing, claims, defenses, discovery, evidence,
+exhibits, or testimony related to any of the foregoing,
+except strictly to the extent necessary, subject to a
+mutually agreed protective order approved by the
+arbitrator(s) or judge, (i) to reasonably prepare for or
+conduct the arbitration hearing on the merits, (ii) in
+connection with a reasonable court application for
+preliminary injunctive relief as permitted herein, (iii) in
+connection with a reasonable and permitted judicial
+challenge to an Award or its enforcement, or (iv)
+except as may be necessary to comply with applicable
+law or regulation or judicial decision or order, provided
+the Party receiving such order provide prompt written
+notice to the other Party of such order and take all
+reasonable efforts (and provide all reasonable
+cooperation to the other Party) to prevent, limit, or
+protect such disclosure to the maximum extent
+possible.
+14. Publicity. Each Party is permitted to state
+publicly that it is in a contract with the other. Each party
+may publish a brief description of Wejo’s deployment
+of the Products and may use the other’s name, logo,
+trademark, or trade dress to identify the other as a
+customer or provider (as applicable) on any of the
+Party’s websites, client/provider lists, press releases,
+and/or other marketing or promotional materials. Any
+public use hereunder by either Party (a) shall be 
+
+Palantir MSA - CONFIDENTIAL 8
+consistent with any trademark or branding guidelines
+provided by the other Party and (b) shall in no event
+disparage or demean the other Party.
+15. Miscellaneous. Unless otherwise waived or
+agreed to in writing by Palantir, neither this Agreement
+nor the access or licenses granted hereunder may be
+assigned, transferred, subcontracted, or sublicensed
+by Customer, except that either Party may assign this
+Agreement in whole or in part to a Party affiliate or
+pursuant to a Change of Control of the Party. As used
+herein, “Change of Control” means, the (a)
+consolidation or merger of a Party with or into any
+person or entity, including by operation of law; (b) sale,
+transfer or other disposition of all or substantially all of
+the assets of the Party’s business related to the
+subject matter of this Agreement; or (c) acquisition by
+any person or entity, or group of persons or entities
+acting in concert, of beneficial ownership of fifty point
+one percent (50.1%) or more of the outstanding voting
+securities or interests of a Party. Palantir may
+subcontract this Agreement or portions thereof with
+Wejo’s prior written consent. Any notice, report,
+approval, or consent required or permitted hereunder
+shall be in writing and sent by first class mail,
+confirmed facsimile, or major commercial rapid
+delivery courier service to the address specified in the
+applicable Order Form. If any provision of this
+Agreement shall be adjudged by any court of
+competent jurisdiction to be unenforceable or invalid,
+that provision shall be limited or eliminated to the
+minimum extent necessary so that this Agreement
+shall otherwise remain in full force and effect and be
+enforceable. Any and all modifications, waivers or
+amendments must be made by mutual agreement and
+shall be effective only if made in writing and signed by
+each Party. No waiver of any breach shall be deemed
+a waiver of any subsequent breach. Wejo’s rights
+under this Agreement are subject to its compliance
+with all applicable export control laws and regulations.
+The section headings contained in this Agreement are
+for reference only and shall not affect in any way the
+meaning or interpretation of this Agreement. Unless
+otherwise specified by Palantir, the Software and
+Services provided hereunder are subject to U.S. trade
+controls and sanctions laws and regulations, including
+but not limited to the U.S. Export Administration
+Regulations (“EAR”) and the sanctions laws and
+regulations administered by the U.S. Office of Foreign
+Assets Control (“OFAC”, and collectively with EAR,
+ “U.S. trade control laws”), as well as the trade controls
+and sanctions of any other jurisdictions in which Wejo
+operates, and may only be exported, reexported, or
+transferred in accordance with applicable
+requirements. It is Wejo’s responsibility to (i) provide
+Palantir with the necessary information for Palantir to
+comply with applicable requirements; (ii) to ensure that
+all end-uses and end-users relating to Wejo's
+reexports and retransfers of the Software and Services
+comply with applicable controls; and (iii) to refrain from
+taking any action that causes Palantir to violate
+applicable U.S. Trade Control Laws or the trade
+controls and sanctions laws of any other jurisdiction in
+which Wejo operates. Palantir will, upon written
+request, provide export classification information for
+the Software and Services. Palantir reserves the right
+to suspend or terminate performance of this
+agreement to the extent it reasonably concludes that
+performance would cause it to violate U.S. or other
+applicable trade laws. Wejo is not subject to
+restrictions under any U.S. government restricted end
+user list, including but not limited to the BIS Entity List,
+BIS Denied Persons List, or the OFAC List of Specially
+Designated Nationals, and is not 50% or more, directly
+or indirectly, owned or controlled by any individuals or
+entities identified on such lists. Wejo will immediately
+notify Palantir should Wejo become subject to any
+such restrictions. Except for the obligation to pay
+money, neither Party will be liable for any failure or
+delay in its performance under this Agreement due to
+any cause beyond its reasonable control, including
+without limitation acts of war, acts of God, earthquake,
+flood, embargo, riot, sabotage, labor shortage or
+dispute, governmental act, or failure of the Internet,
+telecommunications, or hosting service provider,
+computer attacks, or malicious acts; provided that the
+delayed Party: (1) gives the other Party prompt notice
+of such cause; and (2) uses its commercially
+reasonable efforts promptly to correct such failure or
+delay in performance. This Agreement, including any
+exhibits hereto and any mutually executed Order
+Forms, is the complete and exclusive statement of the
+mutual understanding of the Parties and supersedes
+and cancels all previous written and oral agreements
+and communications relating to the subject matter of
+this Agreement. The Parties expressly acknowledge
+that they have freely negotiated all clauses of this
+Agreement, in written exchanges, telephone
+conversations, and meetings, and that pursuant to
+these negotiations they have agreed to adopt this
+Agreement and hereby acknowledge the negotiated
+nature of this Agreement. In the event of a conflict
+between this Agreement and any exhibits or Project
+plans, the terms and conditions of such exhibit or
+Project plan will prevail. Palantir is in no way affiliated
+with, or endorsed or sponsored by, The Saul Zaentz
+Company d.b.a. Tolkien Enterprises or the Estate of
+J.R.R. Tolkien.
+[END OF AGREEMENT]
+
+ 
+
+Palantir MSA - CONFIDENTIAL
+
+IN WITNESS WHEREOF, the Parties have executed this Master Subscription Agreement as of the Effective Date.
+
+Effective Date: _____
+
+Signatures
+
+Wejo Limited
+Abc Building
+21-23 Quay Street
+Manchester, England
+M3 4AE
+
+Palantir Technologies Inc. (“Palantir”)
+1555 Blake Street, Suite 250
+Denver, Colorado 80202
+State/Country of Incorporation: Delaware, US
+
+BY: ________________________________
+NAME: ___Richard Barlow_____________
+TITLE: ___Founder and CEO__________
+DATE: ___25th May 2021_______________
+
+BY: ________________________________
+NAME: _____________________________
+TITLE: _____________________________
+DATE: ______________________________
+
+May 25, 2021
+Chief Legal and Business Affairs Officer
+May 25, 2021
+Ryan Taylor
+g Palantir 
+
+Palantir Order Form
+CONFIDENTIAL
+
+PALANTIR ORDER FORM ORDER #1
+
+EFFECTIVE DATE: Effective upon the date of signature of the last signing Party listed below.
+
+PARTIES
+
+ Wejo Limited
+Abc Building
+21-23 Quay Street
+Manchester, England
+M3 4AE
+
+VAT #: GB 280980283
+
+Palantir Technologies Inc. (“Palantir”)
+1555 Blake Street, Suite 250
+Denver, Colorado 80202
+
+BY: ________________________________
+NAME: ___Richard Barlow_____________
+TITLE: ___Founder and CEO__________
+DATE: ___25th May 2021_______________
+
+BY: ________________________________
+NAME: _____________________________
+TITLE: _____________________________
+DATE: ______________________________
+
+ORDER INFORMATION
+ORDER TERM The term of this Order Form (the “Order Term”) will begin on the Effective Date and
+shall remain in full effect through December 31, 2026.
+
+BILLING DETAILS Palantir will invoice Wejo the Fees for 2021 as set forth in the additional Terms below.
+Thereafter, the Fees for each applicable contract year will be invoiced upfront,
+annually on January 1 of the applicable year.
+
+Infrastructure costs shall be invoiced as detailed below.
+
+BILLING CONTACT Angela Mills; accounts@wejo.com; ABC Building, Level 6, 21-23 Quay Street,
+Manchester, England, M44AE
+Ryan Taylor
+Chief Legal and Business Affairs Officer
+May 25, 2021
+g Palantir 
+
+Palantir Order Form
+CONFIDENTIAL
+SHIP TO (PRIMARY LOCATION OF USE) ABC Building, Level 6, 21-23 Quay Street, Manchester, England, M44AE
+ACCESS SCOPE AND DETAILS Wejo shall receive Enterprise-wide access to the Palantir Foundry Platform by
+Authorized Users for its internal business purposes.
+INFRASTRUCTURE Palantir’s infrastructure costs (including hosting, “Infrastructure Costs”) to be invoiced
+quarterly in arrears to Wejo, with payment due in accordance with the payment terms
+of the Agreement. The infrastructure pricing categories are set forth in Appendix E.
+
+TERMS
+ •
+
+ •
+
+ •
+
+ • This Order #1 has been executed as of the Effective Date above and is issued pursuant to the Palantir Master Subscription
+Agreement dated signed on the same date as this Order and any exhibits attached thereto (“Agreement”), which sets forth the
+terms and conditions pursuant to which Wejo will access and use those certain Palantir cloud managed software and services
+solutions specified herein. Any capitalized terms used in this Order Form but not defined herein shall have the meaning given to
+them in the Agreement. In the event of a conflict between this Order Form and the Agreement, this Order Form shall take
+precedence.
+ • Palantir will work with Wejo to understand how Wejo’s use of the Products impacts Infrastructure Costs and help Wejo identify
+strategies and opportunities to obtain full use of the Products through more efficient use of infrastructure to reduce Infrastructure
+Costs.
+ • The terms in the attached Appendix A shall apply. In a case of conflict, the terms of this Order Form and the attached Appendix
+A shall apply.
+
+g Palantir 
+ORDER FORM #1
+APPENDIX A: PROFESSIONAL SERVICES
+Subject to the tenns and conditions of Order Fonn #1 and the Palantir Master Subscription
+Agreement dated May 25, 2021 ("Agreement") and for the fees set fo1th in Order Fo1m #1, this
+Appendix A sets fo1th the provision of Professional Services by Palantir for the benefit of
+Customer for the Professional Services Te1m specified below. Unless othe1 wise specified in this
+Appendix A, the capitalized te1 ms used in this Appendix A shall have the meaning set fo1th in
+the Order Fo1m and Agreement.
+Section 1. Background
+Wejo is a world leader in connecting vehicle data owners with data consumers across industries
+- automotive OEMs, suppliers, insurance, facilities management, and municipal authorities.
+Wejo have made it secure and easy to share data and value-added products am ong patties while
+respecting data sovereignty. As the size, scope, complexity, and distribution patterns of Wejo's
+data scales up, the rate at which Wejo can tum this data into intelligence and generate new
+products will be a critical lever for the rate at which it can scale its business.
+Palantir's Foundiy technology is built to accelerate the rate at which organizations can
+synthesize data into operational value. Foundiy takes a "building blocks" approach to developing
+a compounding data asset that provides immediate value in the sho1 t tenn and lays the
+foundation for accelerated value creation over the long te1m . This approach allows for
+maximizing the utility of data coming from disparate sources, to include distinct organizations,
+and to rapidly develop and integrate new use cases and products.
+This Foundiy platfo1m has been a
+different industries.
+manu acturing operations, to using data to create a differentiate expen ence or end users,
+Foundiy powers utilizing data to di·ive transfonnation at ·ound the world.
+The Foundiy platfo1m will suppo1t Wejo in scaling its growth and impact across the entirety of
+the mobility spectrnm. The Patties will jointly define projects suppo1 t ing Wejo business
+priorities. Palantir will provide Foundiy platfonn services to Wejo to implement the projects and
+the project objectives.
+Section 2. Categories of Palantir Services:
+1 
+2
+
+In accordance with the governance structure of this Agreement, the Parties will prioritize the
+implementation of mutually agreed upon commercial fields of use cases (“FOUs”, or in singular
+ “FOU”) supporting Wejo’s business. Wejo’s FOUs include providing data and data intelligence
+services to Wejo customers and providing data processing services to customers, including OEM
+customers. Palantir will provide the following categories of services in support of this effort.
+
+(1) Coengineering, design, and consulting efforts that do not require access to data
+
+The parties will follow the Engagement Model (described below) to accomplish
+such mutually agreed upon Projects and goals.
+
+(2) Coengineering, design, and consulting efforts under Wejo’s direction and control where
+access to data may be required
+
+Any operations on Wejo data by Palantir, whether for engineering, design,
+consulting, and/or training will be solely through the access to the
+data/environment controlled by Wejo and solely to the extent expressly directed
+by Wejo.
+
+Section 3. Engagement model
+Palantir engagements include identifying target Lines of Effort (“LOE’s”). These LOE’s shall be
+mutually agreed by the Parties are designed to: (A) create immediate and compounding value
+over time in partnership with Wejo; (B) offer the ability to focus on the next most important
+problem for Wejo to tackle, while creating a data and systems foundation that unlocks more and
+more utility from the data; and (C) enable the flexibility to redirect effort to more critical and
+pressing issues as they arise. The initial FOUs currently considered under this Agreement are
+listed in Appendix B. Palantir will provide LOE’s in 2021 to support the priority FOUs
+identified in Appendix C.
+ • Line of Effort 1: Co-Engineering
+o Palantir will deploy a team of forward deployed engineers, deployment strategists,
+and/or data scientists dependent on problem scope (“Problem Scope”) that will
+configure Palantir product archetypes for specific use cases and develop novel use
+cases for Wejo where appropriate by partnering directly with Wejo personnel to
+solve business problems.
+o This team will serially work on the next most important problem for Wejo in a
+series of sprints throughout the initial bootstrapping period year. The target focus
+areas and deliverables will be governed by a steering committee that can redirect
+effort as new business priorities arise.
+o Palantir will support the initial use cases in the sprints and develop a foundational
+Ontology for Wejo to accelerate future use case development.
+o Initial expected focus areas of building the data foundation for Wejo are described
+below 
+3
+
+ • Line of Effort 2: Systems design and consultation
+o Wejo seeks to develop a best-in-class modern architecture to utilize data and
+intelligence in a differentiated manner. Palantir’s expertise will allow Wejo to
+design for the future, realize cost savings with duplicative systems, and
+implement systems, data models, and create robust data sharing agreements with
+third parties.
+o Palantir senior architects will consult with Wejo personnel on the system roadmap
+to 1) Define which systems are accelerative vs duplicative 2) Design data models
+and requirements in order to create a robust automotive data asset and 3) Define
+integration points with the Foundry ontology to maximize the ability to insert
+intelligence into required operational systems.
+ • Line of Effort 3: Enablement, and self-sufficiency for Wejo personnel with the Foundry
+platform
+o Palantir will provide training boot camps targeting range of user personas as
+needed ranging such as data engineering, data science, application configuration
+and platform governance.
+o Co-create use case boost exercises to facilitate use case development +
+development of hands-on expertise utilizing the Foundry platform.
+o Documentation, refresher training, and user support services.
+Following the initial implementation period, Palantir will provide operational and maintenance
+support for the Foundry software license and operation in the environment.
+Section 4. Platform Scope
+4.1 Example features
+Palantir will provide Foundry with no less than the following features: With Foundry, Wejo can
+create a semantic model unifying its core data assets. The platform has several key objectives to
+enable Wejo to maximize its ability to integrate and drive value from the platform.
+ • The ontology. The ontology synthesizes disparate data representing the objects and
+concepts that define Wejo data asset into a coherent object model that provides a scalable
+foundation to build new use cases on top of.
+ • Models and metrics. The key calculations and predictions are connected to the ontology
+to enable scenario planning, what-if analysis, and optimization workflows. These models
+and metrics can both be developed in Foundry, as well as integrated from other systems
+which may be generating a specific model.
+ • Decisions. Foundry provides an out of the box set of applications as well as a
+WYSIWYG application editor that seamlessly reads and writes from the ontology and
+model layers to enable intelligence-driven decision making for frontline operators.
+Foundry can also interoperate with other operational software in a read/write capacity to
+enable maximum flexibility and seamless integration with existing systems or other
+specific point solutions.
+ • Open, modular, and extensible architecture. Foundry is designed to allow for flexible
+architecture models that allow Wejo to make the most of existing investments and extend 
+4
+
+the platform through use of other third-party software and internal development efforts in
+an iterative and flexible manner.
+ • Rigorous controls on data locality, processing, and information security. Foundry
+enables Wejo the ability to adhere to the requirements of data protection and processing
+of its data providers.
+4.2 Example benefits
+Foundry enables Wejo to take a problem-first approach to provide value almost immediately,
+while building a foundational asset that will scale across Wejo operations. The building blocks
+required for the first use case will then provide a foundation to implement the next. The
+foundational asset will then drive opportunities across markets and importantly drive tightly
+coupled feedback loops between recommendations and Wejo behavior.
+
+Section 5. Initial Target Use Cases
+
+The initial target use cases are identified in Appendix C.
+
+Section 6. Training and enablement
+
+Palantir will train Wejo teams on Palantir Foundry, so that Wejo can make use of the Palantir
+Foundry Platform and enterprise data asset for uses beyond specific scoped projects. This will
+include:
+ • Training for Wejo data engineering, data science, and other technical functions to utilize
+the technical and analytical toolkits within the Platform, or integrate with existing Wejo
+tooling.
+ • Training for Wejo business teams on low- or no-code applications so they can easily ask
+questions of the enterprise data asset and presents within business intelligence tooling,
+both within Foundry and connected to preferred visualization tools.
+ • Establishment of a Wejo “Foundry Program Team” to manage use case prioritization and
+platform governance.
+
+Section 7. Customer Dependencies
+
+Wejo shall provide necessary and reasonable assistance to Palantir for the provision of Palantir
+Professional Services. Palantir’s provision of the Professional Services set forth above and
+compliance with requirements herein, including its ability to timely meet any timelines or
+milestones or timely provide any agreed upon software capabilities, training, or support, are
+contingent upon Wejo’s timely and full provision of the following (“Customer Dependencies”):
+ • Data Access
+o Timely access to or provisioning of relevant data definitions and fields
+ § Wejo cooperation in running test data 
+5
+
+o Timely access to or provisioning of necessary network components for the
+purposes of data ingestion and integration
+ • User Access
+o Timely access to Wejo test users and subject matter experts for implementation
+and configuration support.
+o Timely assistance from Wejo's technical experts and Wejo internal data owners to
+ensure proper operation of the Cloud Solution with Wejo data and technology
+systems and infrastructure
+
+Palantir shall communicate deficiencies in necessary Customer Dependencies in a timely manner
+so that Wejo can find and assign appropriate resources and resolve blocking problems.
+
+Section 8. Project Management/Governance
+
+8.1 Joint Team Approach
+
+The joint team of Wejo Technical and Business users with Palantir Forward Deployed Engineers
+and Deployment Strategists will work towards achieving the aforementioned goals. Wejo will
+bring expertise in the underlying data, prioritization of business questions to investigate, and
+design of required workflows. Palantir will help bootstrap the usage of the platform while
+simultaneously training Wejo users to operate increasingly independently on the platform.
+
+8.2 Regular Touchpoints (Daily/Weekly or as needed)
+
+Palantir’s project team will hold regular check-ins with Wejo users and representatives to ensure
+rapid feedback and iteration within the Foundry Platform. These meetings may take numerous
+forms—including working or training sessions, project updates, sprint planning, or informal
+reviews of progress, risks, and findings. Typically, participants from the client include business
+users, technical users, and Business and/or Technical leads.
+
+8.3 Steering Committee Meetings (Monthly or as needed, but no less than quarterly)
+
+Palantir’s project team and Wejo users will present formal progress updates to a Steering
+Committee comprised of Palantir and Wejo stakeholders. The Committee shall jointly govern the
+Foundry implementation, prioritize objectives, review progress, and remove roadblocks. Wejo
+participants should include the Executive Sponsor, Business and Technical Leads, and other
+relevant participants. The Steering Committee shall also be responsible for determining the
+FOUs that shall serve as the basis for current and future Project Plans for which Palantir will
+provide project resources as mutually agreed between the Parties. The Project Plans will be
+implemented to achieve result driven goals. The Steering Committee may update the FOUs and
+timing and priority thereof from time to time to develop updated Project Plans to meet Wejo’s
+business priorities. The Projects Plans shall identify the priorities to be addressed in connection
+with the Problem Scopes identified above and mutually agreed to by the Parties through the
+Steering Committee and mutually agreed to be commensurate with the Fees. Project Plans and 
+6
+
+performance will include review by the Steering Committee who will assess performance to the
+goals and make recommendations for further action under the Project Plan.
+
+8.4 Key Roles
+
+By or within a reasonable time of signing this Agreement, Wejo and Palantir will assign the
+persons to the Key Roles identified below, and any other additional Key Roles the Parties may
+designate.
+
+Wejo
+
+Role
+
+Responsibilities
+
+Wejo
+POC
+
+Executive
+Sponsor
+
+- Provides sponsorship for Palantir across the organization
+- Provides regular guidance and feedback at Monthly Steering
+Committees
+- Partners on long-term strategy and planning
+
+TBD
+
+Project Lead
+
+- Primary point of contact for Palantir team
+- Provides regular feedback; validate that results are accurate and in line
+with needs
+- Secures access to teams and resources necessary for implementation
+and training
+- Arranges key meetings such as monthly Steering Committees
+- Provides logistics for the team e.g. workspace, internet access
+
+TBD
+
+Data SMEs
+
+ •Discuss data documentation, business parameters, data model, data
+provenance, and current applications of the data
+ •Requirements tend to be upfront as knowledge gets institutionalized in
+Foundry
+
+TBD
+
+Business End
+Users
+
+ •Iterate with Palantir implementation team on workflows
+ •Describe current workflows, pain points, desires
+ •Provide feedback to support ongoing development
+ •Involvement tends to be quickly bi-directional as business should
+quickly derive value from the software
+
+TBD
+
+Palantir
+
+Role
+
+Responsibilities
+
+Palantir
+POC
+
+Project Lead
+
+ •Primary point of contact for pilot success
+
+TBD 
+7
+
+ •Ensures team is aligned against key outcomes
+ •Communicates goals, needs, and wins to Executive Sponsor and
+other internal stakeholders
+
+Engineers
+
+ •Integrates data into environment
+ •Implements and deploys workflows
+ •Configures the platform
+
+TBD
+
+Data Scientist (as
+needed)
+
+- Partners with Wejo‘s data experts to deploy data science
+techniques effectively in the Foundry Platform
+
+TBD
+
+Section 11. Minimum Security Requirements
+
+Palantir’s platform and computing environment will at all times during the term of this Agreement
+comply with the requirements of Appendix D.
+
+Section 12. Evolution
+
+12.2 Changes in Circumstances.
+
+The Parties understand that due to the long-term nature of this Agreement, the Parties may experience
+new circumstances and business needs may arise within the term that are consistent with the mutual goals
+hereof. The Parties agree to work in good faith to address these new circumstances and business needs
+and, if necessary, modify or amend the terms hereof or applicable work projects consistent with the
+original purpose of this Agreement.
+ 
+APPENDIX B
+Fields of Use Summary
+APPENDIX C
+INITIAL PRIORITY USE CASES
+
+ 
+Wejo
+Third Party Information Security Requirements 
+Page 2 of 16 
+Page 3 of 16 
+Page 4 of 16 
+Page 5 of 16 
+Page 6 of 16 
+Page 7 of 16 
+Page 8 of 16 
+Page 9 of 16 
+Page 10 of 16 
+
+Page 11 of 16 
+Page 12 of 16 
+Page 13 of 16 
+Page 14 of 16 
+Page 15 of 16 
+
+Page 16 of 16 
+QPalantir
+-
+-
+I
+I
+I
+Palantir Foundry -
+Cloud Infrastructure Pricing
+-
+-
+Copyngtn @ 2020 PalanurTechnologles Inc. <-Pa.1antIf'). All rights reserved. The Informat1on In this document Is proprietary and confldenua~ and inch.des cenaIn Palantlrtrade secrets. Unauthonzed disclosure to any third pany Is su1ctly
+prohibited. The content provided herein Is provided for Infonnat1onal purposes only and shall not create a warranty of 8rtf kind. Art/ data contained herein Is notional 
+QPalantir Palantir Foundry -
+Cloud Infrastructure Pricing
+-
+-
+- -
+-
+Copyngtn @ 2020 PalanurTechnologles Inc. <-Pa.1antIf'). All rights reserved. The Informat1on In this document Is proprietary and confldenua~ and inch.des cenaIn Palantlrtrade secrets. Unauthonzed disclosure to any third pany Is su1ctly
+prohibited. The content provided herein Is provided for Infonnat1onal purposes only and shall not create a warranty of 8rtf kind. Art/ data contained herein Is notional

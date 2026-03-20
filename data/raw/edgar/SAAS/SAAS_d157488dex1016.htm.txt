@@ -1,0 +1,2183 @@
+EX-10.16
+
+8
+
+d157488dex1016.htm
+
+EX-10.16
+
+EX-10.16
+
+Exhibit 10.16 
+
+[***] Certain information in this document has been excluded pursuant to Regulation 
+S-K,
+ Item (601)(b)(10). Such
+excluded information is not material and would likely cause competitive harm to the registrant if publicly disclosed. 
+ 
+MASTER SERVICES
+AGREEMENT 
+ 
+This Master Services Agreement (this 
+“
+Agreement
+”
+), effective as of 
+May
+ 7,
+2021
+ (the 
+“
+Effective Date
+”
+), is made between Rivian, LLC (f/k/a Rivian Automotive Sales Company, LLC)
+ (
+“
+Customer
+”
+), and Cox Automotive Corporate Services, LLC.
+This Agreement governs any Order Form that references this Agreement. In addition to this Agreement, each Cox Product or Cox Service ordered pursuant to an Order Form may be subject to product-specific terms and conditions (“
+Additional
+Product Terms
+”), which are attached to or referenced in the applicable Order Form. An Order Form may also incorporate by reference certain attachments (
+“
+Attachments
+”
+) that also govern it. This
+Agreement includes, as applicable, the Order Form(s), Additional Product Terms and Attachments. This Agreement amends and restates that certain Master Subscription Agreement, dated as of November 1, 2020, by and between Customer and Cox. 
+
+In consideration of the mutual promises contained in this Agreement, Cox and Customer hereby agree as follows: 
+
+ 
+
+1.
+
+ 
+Definitions.
+ 
+The following capitalized terms, when used in this Agreement, any Additional
+Product Terms or any other Attachments, will have the corresponding meanings provided below: 
+ 
+ 
+
+ 
+
+1.1
+
+ 
+“
+Additional Product Terms
+” has the meaning set forth in the Preamble.
+
+ 
+ 
+
+ 
+
+1.2
+
+ 
+“
+Affiliate
+” means any entity that directly or indirectly (through one or more
+intermediaries) Controls, is Controlled by, or is under common Control with Cox Automotive, Inc. or Customer. 
+ 
+ 
+
+ 
+
+1.3
+
+ 
+“
+Analytics Data
+” means data, other than Customer Data, that is generated in connection
+with Customer’s use of any Cox Product, including log, performance, usage, referral, search term, pixel, session, cookie, flash local storage object, beacon, other web analytics data, pricing information, sales information, and information with
+respect to condition, make and model. 
+ 
+ 
+
+ 
+
+1.4
+
+ 
+“
+Attachments
+” has the meaning set forth in the Preamble. 
+
+ 
+
+ 
+
+1.5
+
+ 
+“
+Authorized Customer Location
+” means Customer’s physical location specified in the
+applicable Order Form. 
+ 
+ 
+
+ 
+
+1.6
+
+ 
+Authorized Users
+” means Customer Representatives who have been issued Credentials to access
+a Cox Product in accordance with this Agreement, and any applicable Additional Product Terms or Attachments. 
+ 
+ 
+
+ 
+
+1.7
+
+ 
+“
+Commencement Date
+” means the date referenced in the applicable Order Form as being the
+date on which the Service Term will commence. If no date is specified on such Order Form, then the Commencement Date will be the earlier of the following: (a) the date on which Customer is activated by Cox to begin using the applicable Cox
+Product; or (b) sixty (60) calendar days following Customer’s execution of such Order Form. Commencement Date is the same as the “
+Activation Date
+” used in some Order Forms. 
+
+ 
+
+1.9
+
+ 
+“
+Confidential Information
+” means all information or materials provided or
+otherwise disclosed by or on behalf of Disclosing Party to the Receiving Party, whether orally or in writing, that are designated as confidential or that reasonably should be understood to be confidential, given the nature of the information
+disclosed and the circumstances of disclosure. In each case, as applicable, (a) Cox’s Confidential Information includes the Cox Products, the Cox Services, and all information and materials that in any way relate to any Cox Product or Cox
+Service (including this Agreement, any Additional Product Terms, and any other Attachments, and any pricing information relating to the Cox Products or Cox Services) or any other aspect of the business or operations of Cox or its Affiliates,
+including any information or materials relating to the operations, customers, contractors, distributors, software, technology, products, services or marketing plans of Cox or its Affiliates; and (b) Customer’s Confidential Information
+includes Consumer Information. Notwithstanding the foregoing, Confidential Information does not include information that: (1) is or becomes generally available to the public other than as a result of a wrongful disclosure by the Receiving
+Party; (2) was rightfully in the possession of, or was rightfully known by the Receiving Party without an obligation to maintain its confidentiality prior to receipt from the Disclosing Party; (3) becomes available to the Receiving Party
+on a 
+non-confidential
+ basis from a source which is not, to the Receiving Party’s knowledge, prohibited from disclosing such information; (4) is developed independently by the Receiving Party; or
+(5) was generally made available to Third Parties by the Disclosing Party without restrictions similar to those imposed under this Agreement. 
+ 
+ 
+
+ 
+
+1.10
+
+ 
+“
+Consumer Information
+” means any information that is defined as “personal
+information,” or any other substantially similar designation, under any applicable Privacy Laws. 
+ 
+ 
+
+ 
+
+1.11
+
+ 
+“
+Control
+” means ownership or control, directly or indirectly, of more than fifty
+percent (50%) of the voting interests of the subject entity or the legal power to direct or cause the direction of the general management of such entity, whether by contract or otherwise. 
+
+ 
+
+ 
+
+1.12
+
+ 
+“
+Cox
+” means Cox Automotive Corporate Services, LLC or an Affiliate of Cox Automotive
+Corporate Services, LLC that is a party to the applicable Order Form. Such entity may be referenced in the Additional Product Terms by such entity’s name, instead of as “Cox”. 
+
+ 
+
+ 
+
+1.13
+
+ 
+“
+Cox Mark
+” means any name, logo, trademark or service mark of Cox or its Affiliates.
+
+ 
+ 
+
+ 
+
+1.14
+
+ 
+“
+Cox Product
+” means a Cox software product Subscription identified on the applicable
+Order Form. The Order Form may cover more than one Cox Product. Solely with respect to any use restrictions regarding the applicable Cox Product as set forth in this Agreement, any Additional Product Terms or any Attachments, the term “Cox
+Product” will include any Third-Party Interfaces applicable to or integrated with such Cox Product. 
+ 
+ 
+
+ 
+
+1.15
+
+ 
+“
+Cox Service
+” means a Service identified on the applicable Order Form. The Order Form
+may cover more than one Cox Service. 
+ 
+ 
+
+ 
+
+1.16
+
+ 
+“
+Credentials
+” means any 
+log-in
+ credentials
+(e.g., usernames and passwords) and any other security information required to access or use a Cox Product. 
+ 
+ 
+
+ 
+
+1.17
+
+ 
+“
+Customer
+” means Rivian Automotive, Inc. 
+
+ 
+
+ 
+
+1.18
+
+ 
+“
+Customer
+ 
+Mark
+” means any name, logo, trademark or service mark of
+Customer. 
+
+ 
+ 
+2 
+
+ 
+
+1.19
+
+ 
+“
+Customer Representative
+” means any employee, agent, contractor or other representative
+of Customer. For purposes of this Agreement, acts and omissions of Customer Representatives will be deemed to be acts and omissions of Customer. 
+ 
+ 
+
+ 
+
+1.20
+
+ 
+“
+Customer
+ 
+Resources
+” means Customer-utilized systems, content or
+materials (including those licensed from Third-Parties, or purchased or developed by Customer) that may be, as applicable, integrated with a Cox Product or transmitted, uploaded or otherwise submitted to a Cox Product or Cox Service.
+
+ 
+ 
+
+ 
+
+1.21
+
+ 
+“
+Data Access Addendum
+” means the Cox Affiliate Data Access Addendum located at:
+http://us.dealertrack.com/content/dam/dealertrack/pdfs/legal/CoxAffiliateDataAccessAddendum.pdf. 
+ 
+ 
+
+ 
+
+1.22
+
+ 
+“
+Dealerships
+” means all automobile dealerships in the United States that sell and
+service Rivian brand motor vehicles under an agreement with Customer. 
+ 
+ 
+
+ 
+
+1.23
+
+ 
+“
+Disclosing Party
+”1. means the Party that provides Confidential Information to the
+Receiving Party (or on behalf of which Confidential Information is provided) in connection with this Agreement or an Order Form. 
+ 
+ 
+
+ 
+
+1.24
+
+ 
+“
+DMS
+” means a dealer management system, which is an enterprise management information
+system used by Customer. 
+ 
+ 
+
+ 
+
+1.25
+
+ 
+“
+Email Notice
+” means: (a) in the case of notice from Customer to Cox, an email to
+the applicable email address for the Cox Product or Cox Service as provided at 
+http://us.dealertrack.com/content/dealertrack/en/legal/legal-resources.html
+; or (b) in the case of notice from Cox to Customer, an email to the email address
+that Cox has on file with respect to the Cox Product or Cox Service. 
+ 
+ 
+
+ 
+
+1.26
+
+ 
+“
+Feedback
+” means any information, suggestions, ideas, enhancement requests,
+recommendations, comments and other feedback that Customer or any Customer Representative may disclose, transmit, suggest or offer to Cox or its Affiliates solely with respect to any Cox Product or Cox Service. 
+
+ 
+
+ 
+
+1.27
+
+ 
+“
+Fees
+” means, collectively, all fees due and payable from Customer to Cox or Cox
+Affiliates pursuant to this Agreement, including the applicable Order Form, including Subscription Fees, Service Fees, and any other fees. 
+ 
+ 
+
+ 
+
+1.28
+
+ 
+“
+Force Majeure Events
+” has the meaning set forth in Section 14.6.
+
+ 
+ 
+
+ 
+
+1.29
+
+ 
+“
+Governmental Authority
+” means the government of the United States of America or any
+political subdivision thereof, whether state, federal or local, and any agency, authority, instrumentality, regulatory body, court, administrative court or judge, central bank or other entity exercising executive, legislative, judicial, taxing,
+licensing, regulatory, administrative or other powers or functions of or pertaining to government. 
+ 
+ 
+
+ 
+
+1.30
+
+ 
+“
+including
+” means “including, without limitation”. 
+
+ 
+
+ 
+
+1.31
+
+ 
+“
+Instance
+” means the discrete data store that Cox allocates to Customer for the
+applicable Cox Product or Cox Service. For avoidance of doubt, one Instance is required for each Authorized Customer Location. 
+
+ 
+ 
+3 
+
+ 
+
+1.32
+
+ 
+“
+Intellectual Property Rights
+” means all (a) patents, patent disclosures, and
+inventions (whether patentable or not), (b) trademarks, service marks, trade dress, trade names, logos, corporate names, and domain names, together with all of the goodwill associated therewith, (c) copyrights and copyrightable works (including
+computer programs), and rights in data and databases, (d) trade secrets, 
+know-how,
+ and other confidential information, and (e) all other intellectual property rights, in each case whether registered
+or unregistered and including all applications for, and renewals or extensions of, such rights, and all similar or equivalent rights or forms of protection in any part of the world. 
+
+ 
+
+ 
+
+1.33
+
+ 
+“
+Laws
+” means all applicable federal, state and local laws, regulations, rules,
+ordinances and other decrees of any Governmental Authority. 
+ 
+ 
+
+ 
+
+1.34
+
+ 
+“
+Legal Notice
+” means written notification to the following addressees: (a) if from
+Customer to Cox, then to Cox Automotive Corporate Services, LLC, Attention: Legal Department, 6205 Peachtree Dunwoody Road, Atlanta, Georgia 30328, with a copy sent via email to the Cox email address used for Email Notice and, if applicable, to the
+Cox address specified in the applicable Order Form; or (b) if from Cox to Customer, then to the address that Cox has on file for Legal Notices to Customer, or if no such address is on file, to the address of an Authorized Location, with
+Attention: Legal Department. 
+ 
+ 
+
+ 
+
+1.35
+
+ 
+“
+Malicious Code
+” means viruses, worms, time bombs, Trojan horses and other harmful or
+malicious code, files, scripts, agents or programs. 
+ 
+ 
+
+ 
+
+1.36
+
+ 
+“
+Mobile Application
+” means a mobile or tablet website or application.
+
+ 
+ 
+
+ 
+
+1.37
+
+ 
+“
+Modifications
+” means changes, upgrades, updates, modifications or enhancements to, or
+derivative works of, a Cox Product or Cox Service. 
+ 
+ 
+
+ 
+
+1.38
+
+ 
+“
+Order Form
+” means the statement of work or ordering document between Cox (or a Cox
+Affiliate) and Customer, under which Customer is provided one or more Cox Products or pursuant to which Customer agrees to purchase Cox Services. An Order Form may be a written or an electronic agreement, and may also include online forms or terms
+that have been “accepted” or “agreed” by Customer. 
+ 
+ 
+
+ 
+
+1.39
+
+ 
+“
+Party
+” means Customer or Cox, individually, as applicable; and
+“
+Parties
+” means Customer and Cox, collectively. 
+ 
+ 
+
+ 
+
+1.40
+
+ 
+“
+Personnel
+” means agents, employees, officers, directors or contractors employed,
+engaged or appointed by a Party hereunder. 
+ 
+ 
+
+ 
+
+1.41
+
+ 
+“
+Privacy Laws
+” means all applicable privacy laws and information security laws, and any
+other applicable federal, state, provincial or local laws, as they exist and are amended from time to time, relating to: (a) data privacy, security, integrity, confidentiality, communications, use, collection, processing and storage; and
+(b) spamming and other unsolicited communications, including, as applicable, the U.S. Gramm-Leach-Bliley Act of 1999 (e.g., 16 C.F.R. Part 313 (Privacy Rule) and 16 C.F.R. Part 314 (Safeguards Rule)), and the U.S. Telephone Consumer Protection
+Act of 1991 (TCPA). 
+ 
+ 
+
+ 
+
+1.42
+
+ 
+“
+Receiving Party
+” means the Party that receives Confidential Information from the
+Disclosing Party in connection with an Order Form. 
+
+ 
+ 
+4 
+
+ 
+
+1.43
+
+ 
+“
+Rivian Materials
+” means any documents, data,
+
+know-how,
+ methodologies, software, and other materials provided to Cox by Customer, including computer programs, reports, and specifications. 
+
+ 
+
+ 
+
+1.44
+
+ 
+“
+Service
+” means any services provided by Cox or an Affiliate of Cox during the Service
+Term, subject to payment of Fees as set forth in the applicable Order Form. 
+ 
+ 
+
+ 
+
+1.45
+
+ 
+“
+Service Fees
+” means the periodic (typically monthly) fees for the Cox Services, set
+forth in the applicable Order Form. 
+ 
+ 
+
+ 
+
+1.46
+
+ 
+“
+Subscription
+” means the right to access and use a Cox Product during the applicable
+Service Term, subject to payment of Fees as set forth in the applicable Order Form. 
+ 
+ 
+
+ 
+
+1.47
+
+ 
+“
+Subscription Fees
+” means the periodic (typically monthly) fees for the Subscription,
+set forth in the applicable Order Form. 
+ 
+ 
+
+ 
+
+1.48
+
+ 
+“
+Service 
+Term
+” means the period of time specified on the applicable Order
+Form when the applicable Cox Service or Subscription is in effect. 
+ 
+ 
+
+ 
+
+1.49
+
+ 
+“
+Third-Party
+” means an entity or person that is neither a Party, nor an Affiliate of a
+Party. 
+ 
+ 
+
+ 
+
+1.50
+
+ 
+“
+Third-Party Interface
+” means any interface utilized for any integration between a Cox
+Product and a Third-Party Licensor’s product. 
+ 
+ 
+
+ 
+
+1.51
+
+ 
+“
+Third-Party Licensor
+” means any Third-Party that makes available Third-Party
+Materials. 
+ 
+ 
+
+ 
+
+1.52
+
+ 
+“
+Third-Party Materials
+” means data, content, software or other materials from a
+Third-Party Licensor that are made available by, through or in connection with the applicable Cox Product. Cox may license but does not own Third-Party Materials. 
+
+ 
+
+ 
+
+1.53
+
+ 
+“
+Third-Party Terms and Conditions
+” means any applicable terms and conditions or other
+agreements governing the access and use of the applicable Third-Party Materials. 
+ 
+ 
+
+2.
+
+ 
+Cox Products and Cox Services. 
+
+ 
+
+ 
+
+2.1
+
+ 
+Service 
+Term
+. 
+
+ 
+
+ 
+
+(a)
+
+ 
+Except as otherwise set forth on the applicable Order Form, the Service Term for a Cox Product or Cox Service
+will commence on the Commencement Date and will expire at the end of the period specified in such Order Form. Thereafter, unless such Order Form expressly states otherwise, the Service Term will automatically and indefinitely renew for additional
+subsequent terms equal in length to (i) the length of time specified in such Order Form or (ii) otherwise the length of time of the initial Service Term, until the Subscription or Cox Service is canceled or such Order Form is terminated by
+a Party in accordance with Section 3 of this Agreement or the applicable Order Form. 
+
+ 
+ 
+5 
+
+ 
+
+(b)
+
+ 
+If the Service Term is a calendar month (and unless the applicable Order Form expressly states otherwise), and
+the Commencement Date is not the first calendar day of a month, then the initial Service Term will be a partial month with 
+pro-rated
+ Subscription Fees, as applicable. 
+
+ 
+
+ 
+
+2.2
+
+ 
+S
+ubscription.
+ 
+
+ 
+
+ 
+
+(a)
+
+ 
+Access to Cox Products
+. During the Service Term, Cox will make the applicable Cox Product
+available through a website or URL (or as otherwise set forth in the applicable Order Form) for Customer’s and the applicable Authorized User’s access and use. Except as otherwise expressly provided in the applicable Order Form, any
+Additional Product Terms and/or any applicable Attachments, Customer will be solely responsible for any software, hardware, connection, and other equipment, along with technical specifications which Cox may update from time to time, in each case as
+necessary for Customer, or Authorized Users to access and use any Cox Product. 
+ 
+ 
+
+ 
+
+(b)
+
+ 
+Authorized Users
+. As necessary to access a Cox Product, and subject to any limitations on the number of
+administrative Authorized Users and other Authorized Users in the applicable Order Form, Cox will issue administrative Credentials to Customer, whereupon such administrative Authorized Users will be enabled to issue Credentials to additional
+Authorized Users. Customer will keep Credentials confidential and secure, and prevent such Credentials from being disclosed to or used by any person or party other than the Authorized Users to whom the Credentials are issued. Customer must
+immediately report in writing to Cox (Email Notice will be sufficient) any unauthorized use or disclosure of any Credentials or any other account information of Customer. Customer will be responsible and liable for all actions taken through or under
+any Credentials issued to Customer in connection with the use of any Cox Product, whether such actions are taken by an Authorized User or otherwise. 
+ 
+ 
+
+ 
+
+(c)
+
+ 
+Authorized Customer Locations and Multiple DMS Instances
+. Unless otherwise specifically set forth on the
+applicable Order Form, Subscriptions to Cox Products are provided on a 
+“per-location”
+ basis, meaning that each such Subscription is specific to, and may only be used for and by, one Authorized
+Customer Location. If the Authorized Customer Location has more than one DMS instance, and a Cox Product requires integration with the DMS instances, then Customer will need a separate Subscription for each DMS instance. 
+
+ 
+
+ 
+
+(d)
+
+ 
+Modifications
+. Cox reserves the right, from time to time, to make Modifications to any Cox Product;
+provided, however, that Cox will not materially diminish the functionality of a Cox Product or otherwise undermine the rights of Customer or obligations of Cox under this Agreement during the Service Term. Unless there is a separate agreement
+between Cox and Customer to the contrary, each such Modification may be made generally available to all Cox customers that subscribe to the applicable Cox Product. 
+
+ 
+
+ 
+
+(e)
+
+ 
+Third Party Materials Made Available by Cox
+. A Cox Product may integrate with, incorporate or otherwise
+offer access to certain Third-Party Materials. Third-Party Materials are offered and made available by the applicable Third-Party Licensor, and not by Cox, and, as such, may be used, edited, reproduced and distributed by such Third-Party Licensors
+outside the scope of this Agreement and without Cox’s knowledge. Any use of any Third-Party Materials by Customer or any Authorized 
+
+ 
+ 
+6 
+
+ 
+
+User is subject not only to the terms and conditions applicable to the Cox Product, but also any applicable Third-Party Terms and Conditions. Customer will notify Cox promptly if Customer’s
+relationship with any Third-Party Licensor to which Cox provides integration on behalf of Customer terminates. Neither Party may modify or terminate any of its respective obligations under this Agreement, any Additional Product Terms or any
+Attachments in a manner that would impact the rights of any such Third-Party Licensor adversely. 
+ 
+If a Cox Product
+integrates with any Third-Party Materials, Customer expressly authorizes and grants permission to Cox and its Affiliates to: (a) substitute one form of integration for another, even in cases where Customer subscribed for a particular Cox
+Product with a “certified” integration, or (b) immediately discontinue providing any integration or any part thereof if Cox, in its sole discretion, determines that it no longer has the right or ability to provide such integration for
+any reason. In either case, Customer’s Subscription to the applicable Cox Product will continue in full force and effect and Cox shall reduce Fees as reasonably appropriate. 
+
+ 
+
+ 
+
+(f)
+
+ 
+Integration with Customer Resources
+. To the extent integration with Customer Resources is
+applicable to a Cox Product (as such integration is identified in an Order Form), (a) Customer grants Cox, its Affiliates and its service providers permission to access such Customer Resources for the purpose of providing such integration; and
+(b) Customer consents to the installation of hardware connectors, software connectors and/or other custom programs on Customer’s local area network and/or computer workstations, and the enablement and use of passwords to access the
+Customer Resources by Cox, its Affiliates and its designees. Customer will provide Cox with as much advance notice as possible prior to modifying a Customer Resource that will impact an integration with a Cox Product (including, without limitation,
+changes to Customer’s APIs and URLs). If Customer fails to provide sufficient advance notice to Cox regarding such modifications, any Cox service level agreements, delivery dates or other timelines will be extended to the extent necessary for
+Cox to resolve any integrations impacted by such modifications. 
+ 
+ 
+
+ 
+
+(g)
+
+ 
+Mobile Applications
+. 
+
+ 
+
+ 
+
+(i)
+
+ 
+Certain Cox Products may, from time to time, be made available through a Mobile Application, which allows
+Customer and Authorized Users to use and access the applicable Cox Product (or certain features or functionality thereof) via a mobile or tablet device. To use any Mobile Application, the applicable Authorized User must have a mobile or tablet
+device that is compatible with such Mobile Application. For clarity, such access and use of Cox Products (or any portions thereof) through a Mobile Application will be subject to this Agreement and any applicable Order Forms, Additional Product
+Terms and Attachments and any clickwrap, browser wrap or other terms and conditions within such Mobile Applicable are subject to and superseded by this Agreement to the extent of any conflict in contract terms. 
+
+ 
+ 
+7 
+
+ 
+
+(ii)
+
+ 
+Customer acknowledges that Cox may from time to time issue upgraded versions of any Mobile Application, and in
+certain cases, Cox may automatically and remotely upgrade the version of such Mobile Application that Customer, and Authorized Users are using on their respective mobile devices. Customer consents (on behalf of itself, and Authorized Users) to any
+such automatic and remote upgrading on the mobile devices of Customer and Authorized Users. 
+ 
+ 
+
+ 
+
+2.3
+
+ 
+S
+ervice.
+ During the Service Term, Cox will make the applicable Cox Service available to Customer
+in accordance with the applicable Order Form. Except as otherwise expressly provided in the applicable Order Form, any Additional Product Terms and/or any applicable Attachments, Customer will be solely responsible for any technical specifications
+which Cox may update from time to time, in each case as necessary for Customer, or Authorized Users to access and use any Cox Service. 
+ 
+ 
+
+3.
+
+ 
+Cancellation, Termination and Suspension. 
+
+ 
+
+ 
+
+3.1
+
+ 
+Cancellation
+. 
+
+ 
+
+ 
+
+(a)
+
+ 
+Unless otherwise set forth in an Order Form, either party to the Order Form may at its option cancel any
+(i) Subscription for a Cox Product or (ii) Cox Service, by in each case providing Email Notice to the other party at least thirty (30) days in advance of the cancellation date, provided that, cancellation will be effective only at the
+end of a Service Term (e.g., for 
+month-to-month
+ Subscriptions, if notice is given on the fifteenth (15
+th
+) day of a
+given month, the cancellation will not occur until the end of the following month). 
+ 
+ 
+
+ 
+
+(b)
+
+ 
+If a (i) Subscription to a Cox Product or (ii) Cox Service is canceled, but one or more other
+Subscriptions to Cox Products or Cox Services, as applicable, remain in effect under such Order Form, then (i) the Order Form will remain in effect with respect to any other continuing Subscriptions or Cox Services (unless they are dependent on
+the canceled Subscription or canceled Cox Service, as applicable, in which case the dependent Subscriptions or Cox Services will also be canceled); and (ii) Cox may adjust the Fees for the remaining Cox Products or Cox Services to be consistent
+with the Fees that would have been charged had Customer subscribed to only the remaining Cox Products or Cox Services. Any such adjustment may only be made on 30 days prior written notice and in the event of an increase in cost, Customer shall have
+an option to terminate the Subscription or Cox Service, as applicable, in lieu of accepting the higher fees. If there are no Subscriptions remaining under the applicable Order Form following a cancellation, then such Order Form will automatically
+terminate upon the effective date of cancellation. 
+ 
+ 
+
+ 
+
+(c)
+
+ 
+Upon twelve (12) months’ prior written notice, Cox may terminate an Order Form with respect to any
+Cox Product (or any component thereof) or Cox Service (or any component thereof) if it ceases to offer such Cox Product (or such component of Cox Product) or Cox Service (or such component of Cox Service), as applicable, to customers generally for
+any reason. In such event, the Order Form will continue to apply with respect to the remaining Cox Products or Cox Services, as applicable, if any. 
+
+ 
+ 
+8 
+
+ 
+
+3.2
+
+ 
+Termination for Cause or Insolvency
+. Either Party may immediately terminate the applicable Order Form
+(and the corresponding Subscriptions or Cox Services, as applicable): (a) if the other Party commits a material breach of such Order Form (including this Agreement, any Additional Product Terms), and such breach has not been cured within fifteen
+(15) days after receiving Legal Notice of such; or (b) upon the initiation of any bankruptcy, insolvency or other similar proceeding against the other Party or an entity that Controls such party. In addition, Cox may immediately terminate
+such Order Form (and the corresponding Subscriptions or Cox Services) if Customer (as applicable) defaults on its contractual obligations to Cox or any Cox Affiliate under another agreement, such that Cox or the Cox Affiliate has the right to
+terminate such agreement. Upon any termination of the applicable Order Form, all Subscriptions or Cox Services thereunder will be automatically cancelled. 
+ 
+ 
+
+ 
+
+3.3
+
+ 
+Effect of 
+Cancellation
+. Upon any cancellation of a Subscription or Cox Service (including through
+a termination of the applicable Order Form): 
+ 
+ 
+
+ 
+
+(a)
+
+ 
+The Service Term will end, and all rights granted to Customer hereunder or the applicable Order Form, and all
+obligations of Cox related to such Subscription or Cox Service, will immediately and automatically terminate; 
+ 
+ 
+
+ 
+
+(b)
+
+ 
+Any unpaid Fees will be immediately due and payable; and 
+
+ 
+
+ 
+
+(c)
+
+ 
+If applicable to the Cox Product or Cox Service, and all Fees have been paid, Customer may access its Customer
+Data for up to forty-five (45) days following the date of cancellation. 
+ 
+ 
+
+ 
+
+3.4
+
+ 
+Temporary Suspension
+. Cox may at any time suspend Customer’s access to and use of a Cox Product if
+Cox reasonably believes that such access or use presents a threat or harm to the Cox Product, Cox or its other customers. Cox will lift such suspension promptly after being reasonably assured that the threat or harm is no longer present. The parties
+agree that Customer’s direct sales business model may not be considered the source of ‘threat or harm’ to Cox or its other customers. 
+ 
+ 
+
+ 
+
+3.5
+
+ 
+Transition
+. Cox acknowledges that certain Cox Products or Cox Services are essential to Customer’s
+business and in the event of a suspension, cancellation, or termination for any reason (except termination for cause pursuant to 
+Section
+ 3.2
+ above or if legally prohibited), Cox shall provide a transition period prior to
+ceasing the provision of any Cox Product or Services (that period, a “
+Transition Period
+”) during which the parties will continue to act in accordance with the Agreement and Order Form prior to suspension, cancellation or termination
+until the earlier of (a) [***] after suspension, cancellation or termination, (b) Customer has replaced such Cox Product with a replacement product or service, or (c) Customer waives such Transition Period. During the Transition Period,
+Cox shall continue to provide and Customer shall continue to pay for the Cox Product or Cox Service and any services ancillary thereto under the original terms of the Agreement and Order Form. 
+
+ 
+
+4.
+
+ 
+Use Restrictions.
+ Customer and Authorized Users will use and access Cox Products and Cox Services
+solely for the purpose of managing and operating Customer’s business in the ordinary course or as otherwise set forth in the applicable Order Form. Customer and Customer Representatives may not: 
+
+ 
+
+ 
+
+(a)
+
+ 
+Use or access any Cox Product or Third-Party Materials in a manner not authorized under the applicable Order
+Form, Section 2 of this Agreement, or any applicable Additional Product Terms or Attachments; 
+
+ 
+ 
+9 
+
+ 
+
+(b)
+
+ 
+Offer, sell, rent, lend, lease, license, pledge, transfer, distribute, provide access to or otherwise make
+available to any unauthorized Third-Party or use for service bureau or outsourcing purposes any Cox Product or Third-Party Materials or any information relating thereto; 
+
+ 
+
+ 
+
+(c)
+
+ 
+Reproduce, copy, modify, translate, reverse engineer, decompile or disassemble any Cox Product, or develop or
+create any derivative works of or relating to any Cox Product, Cox Service, or Third-Party Materials, or any underlying technology or intellectual property comprising any Cox Product, Cox Service, or Third-Party Materials; 
+
+ 
+
+ 
+
+(d)
+
+ 
+Violate any Law or any Intellectual Property Rights or other rights of any Third-Party or any Cox Affiliate in
+connection with any use of or access to any Cox Product, Cox Service, or Third-Party Materials; 
+provided
+, 
+however
+, Third-Party claims subject to Cox’s indemnification obligations under the Agreement shall not trigger a breach of
+the Agreement by Customer under this subsection; 
+ 
+ 
+
+ 
+
+(e)
+
+ 
+Attempt to gain unauthorized access to or disrupt the integrity or performance of any Cox Product or the data
+contained therein; 
+ 
+ 
+
+ 
+
+(f)
+
+ 
+Use a Cox Product in combination with any product or service that is not owned, provided, or explicitly or
+implicitly authorized by Cox; 
+ 
+ 
+
+ 
+
+(g)
+
+ 
+Frame or utilize framing techniques to enclose any Cox Product (or portion thereof) without the prior written
+consent of Cox; 
+ 
+ 
+
+ 
+
+(h)
+
+ 
+Upload, store or maintain any Malicious Code, or infringing or unlawful material, on or within a Cox Product or
+any Third-Party Materials; 
+ 
+ 
+
+ 
+
+(i)
+
+ 
+Access or use any Cox Product or Cox Service for any purpose that is competitive with Cox or its products or
+services, or for purposes of developing or promoting any competing product or service; 
+ 
+ 
+
+ 
+
+(j)
+
+ 
+Permit direct access to or use of a Cox Product by a direct competitor of Cox; 
+
+ 
+
+ 
+
+(k)
+
+ 
+Use a Cox Product for purposes of product evaluation, benchmarking or other comparative analysis without
+Cox’s prior written consent; 
+provided
+, 
+however
+, nothing in this Agreement shall prohibit Customer from exploring other products or services and internally comparing Cox’s offerings with or against those other services or
+providers in the normal course of business as long as the results of such comparison of Cox Products are treated as the Confidential Information of Cox; 
+ 
+ 
+
+ 
+
+(l)
+
+ 
+Publish, transfer, license, distribute or export any data from any Cox Product (other than by using the content
+export function or as otherwise expressly contemplated in an applicable Order Form, if any, provided as part of the applicable Cox Product), provided that in no event may Customer, Authorized Users use such exported data other than in the ordinary
+course of Customer’s business (which must not include offering, licensing, selling publishing or otherwise distributing data to Third-Parties independently of Customer’s business); 
+
+ 
+
+ 
+
+(m)
+
+ 
+Scrape or data-mine a Cox Product Cox Service or any other website of Cox or its Affiliates (including through
+the use of any robot, spider or other automated device); 
+
+ 
+ 
+10 
+
+ 
+
+(n)
+
+ 
+Store, maintain or transmit Consumer Information through a Cox Product or Cox Service that is not intended to
+be used to process or receive Consumer Information; 
+ 
+ 
+
+ 
+
+(o)
+
+ 
+Use a Cox Product to harvest, collect or assemble Consumer Information regarding any of Customer’s
+customers without such customers’ informed consent; 
+ 
+ 
+
+ 
+
+(p)
+
+ 
+Disclose any Credentials relating directly to any Cox Product, Cox Service, or any Third-Party Interfaces
+integrated therewith; 
+ 
+ 
+
+ 
+
+(q)
+
+ 
+Remove from or alter any Cox Marks on a Cox Product or Cox Service; or 
+
+ 
+
+ 
+
+(r)
+
+ 
+Make any representations or warranties regarding the functionality or performance of a Cox Product.
+
+ 
+ 
+
+5.
+
+ 
+Fees and Payments. 
+
+ 
+
+ 
+
+5.1
+
+ 
+Fees
+. 
+ 
+ 
+
+ 
+
+(a)
+
+ 
+In exchange for the rights granted to Customer herein, Customer will pay to Cox the Fees in the manner provided
+in the applicable Order Form. Unless otherwise specified in such Order Form, all Fees are: 
+(i) non-refundable;
+ and (ii) payable in United States Dollars. 
+
+ 
+
+ 
+
+(b)
+
+ 
+Certain Cox Products or Cox Services may require or permit payment via ACH as set forth in an Order Form. For
+such Cox Products or Cox Services, Customer acknowledges and agrees that the Fees will be deducted from Customer’s bank account via ACH at the time the Fee is incurred. Customer hereby authorizes Cox (and/or its designee) to make such
+deductions upon prior notice and consent by Customer in an Order Form. 
+ 
+ 
+
+ 
+
+5.2
+
+ 
+Late Fees and Payment Disputes
+. Cox may charge interest on any payment not made when due at a rate equal
+to the lesser of [***] per month, or the maximum rate allowed under applicable Law. Customer will also be liable for all collection agency fees and reasonable attorneys’ fees payable by Cox or its Affiliates in connection with enforcing
+Customer’s payment obligations. In the event of any dispute with respect to an invoice, Customer must notify Cox in writing of, and provide a good faith basis for, such dispute within [***] of the date such amounts are due.
+
+ 
+ 
+
+ 
+
+5.3
+
+ 
+E
+xpenses
+. Customer shall reimburse Cox for any reasonable
+
+pre-approved
+ travel and other 
+out-of-pocket
+ expenses that may be incurred by Cox in connection with its performance of any Cox
+Services hereunder. Cox shall provide Customer with receipts or such other written documentation as Customer may reasonably request in order to substantiate any expenses submitted to Customer for reimbursement. 
+
+ 
+
+ 
+
+5.4
+
+ 
+Taxes
+. Except for franchise taxes, commerce taxes, and taxes based upon the net income and personal
+property of Cox, Customer will be solely responsible for any taxes or other assessments imposed by Governmental Authorities in connection with Customer’s use of or access to any Cox Product or Cox Service. 
+
+ 
+ 
+11 
+
+ 
+
+5.5
+
+ 
+Fee Adjustments and Increases
+. 
+
+ 
+
+ 
+
+(a)
+
+ 
+Right to Increase Fees Annually
+. Except for any fees specifically agreed in an applicable Order Form,
+Cox reserves the right to increase Fees for a Cox Product or Cox Service at any time, but only once each calendar year, by providing Email Notice to Customer at least [***] in advance. 
+
+ 
+
+ 
+
+(b)
+
+ 
+Conversion Fees
+. In addition to other Fees, Cox may charge conversion or migration Fees, to the extent
+described and agreed in an Order Form, Additional Product Terms, related to a change in Customer’s DMS vendor or other Customer-utilized systems during the Service Term. Such conversion or migration Fees will be invoiced at the end of the month
+in which such Fees are incurred. 
+ 
+ 
+
+ 
+
+(c)
+
+ 
+Integrations
+. This paragraph will apply to the extent Customer requests Cox to provide integration with
+Customer-utilized systems or Third-Party Materials applicable to the Cox Product. Cox may invoice data integration surcharges associated with such applicable Third-Party Materials in order for Customer and/or its respective Affiliates to utilize
+such integration. Cox reserves the right to implement integration surcharge adjustments in connection with Customer’s use of such Third-Party technology, software or services integrated with a Cox Product, including Customer-utilized systems
+and Third-Party Materials as may be applicable. If Cox expects to implement any such data integration surcharge adjustments, Cox will endeavor to provide Customer with Email Notice reasonably in advance. Further, and without limiting Cox’s
+rights and remedies, if Customer fails to pay timely the Subscription Fees and any such data integration surcharges, Cox may suspend the integration for such Cox Product and charge an additional 
+one-time
+ Fee
+(at Cox’s then standard rate) in order to reactivate the integration. In addition, if, at any time, Customer requests Cox to provide integration for new systems or Third-Party Materials, Cox may charge Customer additional 
+one-time
+ Fees and monthly integration surcharges; provided such 
+one-time
+ fees and monthly surcharges will not exceed the then-current amounts that Cox is invoiced by the
+applicable Third-Party offering such systems or Third-Party Materials. 
+ 
+ 
+
+6.
+
+ 
+Proprietary Rights and Licenses. 
+
+ 
+
+ 
+
+6.1
+
+ 
+Cox Products
+, Cox Services, 
+and Third-Party Materials
+. Except for the rights expressly
+granted to Customer under Section 2 above or in any Additional Product Terms or Attachments, Customer will not have any right, title or interest in or to any Cox Product, Cox Service, Third-Party Materials or any other technology, materials or
+Intellectual Property Rights of Cox, its Affiliates or Third-Party Licensors, and nothing herein will effect a transfer of any Intellectual Property Rights or any other ownership rights away from Cox, its Affiliates or Third-Party Licensors. Cox and
+its Affiliates, Third-Party Licensors and partners, as the case may be, reserve and retain all of their Intellectual Property Rights and ownership rights, including to Third-Party Materials. 
+
+ 
+
+ 
+
+6.2
+
+ 
+Customer’s Products and Intellectual Property
+. Customer and its licensors are, and shall remain,
+the sole and exclusive owner of all right, title, and interest in and to the Rivian Materials, including all Intellectual Property Rights therein. Cox shall have no right or license to use any Rivian Materials except solely during the Term of the
+Agreement to the extent necessary to provide the Cox Products, Cox Services, and related services to Customer. All other rights in and to the Rivian Materials are expressly reserved by Customer. 
+
+ 
+ 
+12 
+
+ 
+
+6.3
+
+ 
+Customer Data
+. 
+
+ 
+
+ 
+
+(a)
+
+ 
+Cox respects and supports Customer’s right to protect the Customer Data. As between Cox and Customer,
+Customer owns all rights, title and interest in the Customer Data. Customer grants Cox, its Affiliates, and their respective service providers hereunder the limited right to access, store, process and use Customer Data solely in connection with
+Customer’s use of a Cox Product, Cox Service, and otherwise for the benefit of Customer as explicitly agreed by Customer. As applicable to a Cox Product, Customer may request that Cox transmit Customer Data to a Third-Party, and, upon such
+request, Cox will hereby be permitted to do so. 
+ 
+ 
+
+ 
+
+(b)
+
+ 
+Customer also grants Cox, its Affiliates and service providers the right to use, and disclose in an aggregated
+manner (i.e., with data from other of Cox’s customers), during and after the Service Term, Customer Data, for Cox and its Affiliates’ business purposes (including operating, maintaining and improving Cox Products or Cox Services); provided
+that disclosures will be anonymized and will not be made in a manner that identifies, or could be used to identify, Customer or otherwise associates Customer with such data. For further clarification, “aggregated” and
+“anonymized” means that it cannot identify, describe, be capable of being associated with, or be linked, directly or indirectly, to Customer, any brand/model of vehicle, or a particular individual/consumer. 
+
+ 
+
+ 
+
+6.4
+
+ 
+Analytics Data
+. Customer acknowledges and agrees that, as between the Parties, Cox (along with its
+Affiliates) owns and has the right to freely use and disclose Analytics Data for its business purposes, provided that Analytics Data may not be disclosed in a manner that identifies, or could be used to identify, Customer, or otherwise associates
+Customer with such data. 
+ 
+ 
+
+ 
+
+6.5
+
+ 
+Feedback
+. Customer also acknowledges and agrees that any Feedback from Customer (including any Customer
+Representatives) is submitted without any restrictions or expectations of confidentiality. As such, Customer (on behalf of itself and Customer Representatives) hereby permits Cox to use, to allow others to use, or to assign the right to use, without
+compensation, restriction or further obligation of any kind, any Feedback for any purpose whatsoever, including publication or the creation of any intellectual property or derivative works of or relating to any Feedback. 
+
+ 
+ 
+
+ 
+
+6.6
+
+ 
+Marks
+. Customer acknowledges that no rights or licenses are being granted to Customer or any Authorized
+User with respect to any Cox Marks, and Customer will obtain the written consent of Cox prior to any use or display of any Cox Mark by Customer or any Authorized User. Cox (and its Affiliates) will retain all Intellectual Property Rights and all
+ownership rights in and to the Cox Marks. 
+ 
+Cox acknowledges that no rights or licenses are being granted to Cox or any
+Affiliates of Cox with respect to any Customer Marks, except that Cox may use Customer Marks in connection with the provision of Cox Products, Cox Services, and related services to Customer. Cox otherwise will obtain the written consent of Customer
+prior to any use or display of any Customer Mark by Cox or any Cox Affiliate. Customer will retain all Intellectual Property Rights and all ownership rights in and to the Customer Marks. 
+
+ 
+ 
+13 
+
+7.
+
+ 
+Confidential Information. 
+
+7.1 
+Confidentiality Obligations
+. The Receiving Party agrees not to use any Confidential Information of the Disclosing Party for any
+purpose outside the scope of the services set forth in the applicable Order Form, and (except as otherwise authorized by the Disclosing Party in writing) disclose Confidential Information of the Disclosing Party only to its Personnel who need to
+know such information for purposes of fulfilling such Party’s obligations or exercising such Party’s rights relating to the services set forth in the applicable Order Form. The Receiving Party will keep the Confidential Information of the
+Disclosing Party confidential and secure, and protect it from unauthorized use or disclosure, by using at least the same degree of care as the Receiving Party employs to protect its own Confidential Information, but in no event less than reasonable
+care. 
+ 
+7.2 
+Compelled Disclosure
+. If the Receiving Party becomes legally compelled to disclose any Confidential Information of the
+Disclosing Party in a manner not otherwise permitted by this Agreement, the Receiving Party will inform the Disclosing Party of the request with a prompt Legal Notice so that the Disclosing Party may seek a protective order or other appropriate
+remedy. If a protective order or similar order is not obtained by the date by which the Receiving Party must comply with the request, the Receiving Party may furnish that portion of the Confidential Information that it reasonably determines it is
+legally required to furnish. The Receiving Party will exercise reasonable efforts to obtain assurances that confidential treatment will be afforded to the Confidential Information so disclosed. This Section 7.2 will survive any termination of
+this Agreement. 
+ 
+7.3 
+Injunctive Relief
+. Each Receiving Party acknowledges and agrees that the wrongful disclosure of any
+Confidential Information of the Disclosing Party may cause irreparable injury to such Party and its applicable Affiliates, and that remedies other than injunctive relief may be insufficient. Accordingly, the Disclosing Party will have the right to
+seek equitable and other injunctive relief to prevent any wrongful disclosure of any of its Confidential Information, as well as such damages and other relief to which such Party or its Affiliates may be entitled. 
+
+7.4 
+No Implied Rights
+. Each Party’s Confidential Information will remain the property of that Party. Nothing contained in this
+Section 6.6 will be construed as obligating a Party to disclose its Confidential Information to the other Party, or as granting to or conferring on a Party any implied rights or license to the Confidential Information of the other Party. 
+
+7.5 
+Consumer Information
+. Access to, use of, and protection of Consumer Information by Cox or any Cox Affiliate is governed by the Data
+Access Addendum. 
+ 
+7.6 
+NOTICE TO NORTH CAROLINA CUSTOMERS
+. FOR ALL PRODUCTS THAT REASONABLY PERTAIN TO CONSUMER INFORMATION: THE
+ORDER FORM, THIS AGREEMENT, ANY ADDITIONAL PRODUCT TERMS AND APPLICABLE ATTACHMENTS RELATE TO THE TRANSFER AND ACCESSING OF CONFIDENTIAL INFORMATION AND CONSUMER-RELATED DATA. 
+
+ 
+ 
+14 
+
+8.
+
+ 
+Representations and Warranties.
+
+ 
+
+ 
+
+8.1
+
+ 
+By Cox
+. Cox represents and warrants to Customer that: 
+
+ 
+
+ 
+
+(a)
+
+ 
+Cox will comply at all times with all applicable Laws in connection with its making available any Cox Product
+or Cox Service, including applicable Privacy Laws; 
+ 
+ 
+
+ 
+
+(b)
+
+ 
+Cox is the owner and/or the licensee of all Intellectual Property Rights in and to all Cox Products and Cox
+Services, and has all necessary rights and licenses to fulfill its obligations and grant all rights granted to Customer in this Agreement and none of the Cox Products, Cox Services, or related services, and Customer’s authorized use thereof
+infringe or will infringe any Intellectual Property Right of any third party, and, (ii) as of the date hereof, there are no pending claims, litigation, or other proceedings against Cox by any Third Party based on an alleged violation of such
+Intellectual Property Rights; 
+ 
+ 
+
+ 
+
+(c)
+
+ 
+Cox has all necessary rights and licenses to make the Third-Party Materials available to Customer, subject to
+the terms and conditions of this Agreement; 
+ 
+ 
+
+ 
+
+(d)
+
+ 
+Cox will use commercially reasonable efforts to avoid introducing any Malicious Code into the Cox Products; and
+
+ 
+ 
+
+ 
+
+(e)
+
+ 
+Cox will preserve and safeguard Customer Data as described in the Data Access Addendum. 
+
+ 
+
+ 
+
+(f)
+
+ 
+Cox’s entering into the applicable Order Form does not conflict with or violate any other agreement Cox
+may have with any Third-Party; 
+ 
+ 
+
+ 
+
+(g)
+
+ 
+Cox will make commercially reasonable efforts to ensure that any and all data provided by Cox with respect to a
+Cox Product or Cox Service will be kept true, accurate and complete, in all material respects, throughout the Service Term, and will inform Customer of any inaccuracies promptly after Cox discovers them; 
+
+ 
+
+ 
+
+(h)
+
+ 
+Cox will provide the Cox Products, Cox Services, and related services using personnel of required skill,
+experience, and qualifications and in a professional and workmanlike manner in accordance with industry standards for similar services and shall devote adequate resources to meet its obligations under this Agreement; 
+
+ 
+
+ 
+
+(i)
+
+ 
+Cox will perform Cox Services or provide Cox Products in conformity in all material respects with all
+requirements or specifications listed in the Order Form, Additional Product Terms or Attachments; and 
+ 
+ 
+
+ 
+
+(j)
+
+ 
+Throughout the Service Term, subject to scheduled maintenance periods agreed in the applicable Order Form,
+Additional Product Terms or Attachments, each Cox Product will operate as agreed in the applicable service level agreement or, where no specific service level is agreed, in Cox’s standard user documentation related to such Cox Product.
+
+ 
+ 
+
+ 
+
+8.2
+
+ 
+By Customer
+. Customer represents and warrants to Cox that: 
+
+ 
+ 
+15 
+
+ 
+
+(a)
+
+ 
+Customer will comply at all times with all applicable Laws in connection with the use of and access to a Cox
+Product or Cox Service, including all applicable Privacy Laws and Laws relating to unfair competition, deceptive trade practices, advertising, and consumer protection (and upon the request of Cox it will provide Cox with evidence of any required
+consumer consents); 
+ 
+ 
+
+ 
+
+(b)
+
+ 
+Customer’s entering into the applicable Order Form does not conflict with or violate any other agreement
+Customer may have with any Third-Party; 
+ 
+ 
+
+ 
+
+(c)
+
+ 
+Customer will make commercially reasonable efforts to ensure that any and all Customer Data provided hereunder
+will be kept true, accurate and complete, in all material respects, throughout the Term, and will inform Cox of any inaccuracies promptly after Customer discovers them; 
+
+ 
+
+ 
+
+(d)
+
+ 
+With respect to Customer Data and Customer Resources, Customer has and will maintain all rights and licenses
+necessary to provide and make available to Cox and its Affiliates for purposes of the applicable Order Form, and use in connection with a Cox Product or Cox Service, and for Cox and its Affiliates for purposes of this Agreement, including to access,
+store and use Customer Data and Customer Resources in accordance with the terms herein; such use will not infringe or violate any rights of any Third Party; 
+ 
+ 
+
+ 
+
+(e)
+
+ 
+For any integrations between a Cox Product and Customer-utilized systems, including a DMS, Customer has all
+rights and licenses necessary to grant Cox and its Affiliates access to such systems and the applicable data stored thereon, and any access, polling, copying, extraction and downloading of, modifying and exporting such data by Cox and its Affiliates
+in accordance with the applicable Order Form does not and will not infringe or violate any rights of any Third-Party; 
+ 
+ 
+
+ 
+
+(f)
+
+ 
+Customer will use commercially reasonable efforts to prevent any Malicious Code from being introduced into the
+Cox Products or Cox Services through Customer’s and its Authorized Users’ use; and 
+ 
+ 
+
+ 
+
+(g)
+
+ 
+Customer presently maintains, and will continue to maintain and test periodically, appropriate information
+security measures and data protection safeguards consistent with industry standards and all applicable Privacy Laws, to ensure reasonable security and confidentiality of Credentials for any Cox Product, Cox Service, or Third-Party Interfaces,
+including (i) to protect the security, confidentiality and integrity of such Credentials, (ii) to protect against anticipated threats or hazards to the security, confidentiality and integrity of such Credentials, and (iii) to protect
+against any unauthorized access to or use of such Credentials. 
+ 
+ 
+
+9.
+
+ 
+Indemnification. 
+
+9.1 
+By Cox
+. Cox will indemnify, defend and hold harmless Customer against any damages, losses, costs and expenses (including reasonable
+attorneys’ fees, court costs, settlement costs and awarded amounts) incurred in connection with any Third-Party claim to the extent such claim arises from (a) an allegation that the use of a Cox Product or Cox Service in accordance with
+the applicable Order Form (including this Agreement and any Additional Product Terms or Attachments) infringes or misappropriates such Third-Party’s Intellectual Property Rights, (b) any breach by Cox of any representations or warranties,
+
+ 
+ 
+16 
+
+(c) any claim with respect to the willful misconduct or gross negligence of Cox or (d) excluding vehicles under Cox’s control under a Cox Product or Service as addressed below, for
+personal injury or property damage to the extent caused by the negligence, recklessness or intentional wrongful conduct of Cox, its Affiliates, representatives, or subcontractors. In addition, and subject to the terms of any applicable Order Form,
+Cox will indemnify Customer against any damages, losses, costs and expenses to the extent that any negligent or willful act or omission of Cox results in damage to vehicles owned by Rivian or Rivian’s customers, when such vehicles are under
+Cox’s control and possession (to the extent of any conflict between this Section 9.1 and the terms of an Order Form, the Order Form shall control). 
+
+9.2 
+By Customer
+9.3 . Customer will indemnify. defend and hold harmless Cox and its Affiliates against any damages, losses, costs and
+expenses (including reasonable attorneys’ fees, court costs, settlement costs and awarded amounts) incurred in connection with any Third-Party claim to the extent that such claim arises from (a) any use of or access to any Cox Product, Cox
+Service, or Third-Party Material by or on behalf of Customer (subject to Cox’s indemnification obligations in Section 9.1 above), (b) any use of or access to any Customer Data or Consumer Information by Cox and its Affiliates in accordance
+with the applicable Order Form (including this Agreement and any Attachments), (c) any breach by Customer or any Customer Representative of any representations or warranties, (d) Cox’s provision of an integration or otherwise transmitting
+any data to a Third-Party as authorized by Customer, including with respect to data security and use of data, (e) any claim by a retail consumer of Customer or any other purchaser of any vehicle or any other Customer product or service,
+(f) any claim with respect to the willful misconduct or gross negligence of Customer, or (e) for personal injury or property damage to the extent caused by the negligence, recklessness or intentional wrongful conduct of Customer, its
+Affiliates representatives or subcontractors. 
+ 
+ 
+
+10.
+
+ 
+Limitations of Liability and Disclaimers. 
+
+10.1 
+LIABILITY LIMITATIONS
+. NEITHER PARTY (INCLUDING, ITS AFFILIATES, AND ITS THIRD PARTIES, INCLUDING ALL THIRD PARTY LICENSORS) WILL
+BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, SPECIAL, EXEMPLARY, INCIDENTAL, MULTIPLE, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING ANY DAMAGES RESULTING FROM ANY LOSS OF USE, LOSS OF DATA, LOSS OF PROFITS, LOSS OF BUSINESS OR OTHER ECONOMIC LOSS)
+ARISING OUT OF OR IN CONNECTION WITH THE APPLICABLE ORDER FORM OR THE USE OF ANY COX PRODUCT OR COX SERVICE, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ADDITIONALLY, THE AGGREGATE LIABILITY UNDER EACH ORDER FORM OF COX,
+ITS AFFILIATES AND ITS THIRD PARTIES (INCLUDING ALL THIRD PARTY LICENSORS), ON THE ONE HAND, AND CUSTOMER AND CUSTOMER REPRESENTATIVES, ON THE OTHER HAND, WILL BE EXPRESSLY LIMITED TO AN AMOUNT EQUAL TO THE GREATER OF (A) $3 MILLION, OR (B) AN
+AMOUNT EQUAL TO THE AMOUNT PAID BY CUSTOMER TO COX FOR THE AFFECTED COX PRODUCT OR COX SERVICE UNDER THE APPLICABLE ORDER FORM IN THE TWELVE (12) MONTHS PRIOR TO THE EVENT GIVING RISE TO THE LIABILITY. THE FOREGOING LIMITATIONS OF LIABILITY
+WILL NOT APPLY TO: (A) DAMAGES AND LOSSES RESULTING FROM CUSTOMER’S BREACH OF SECTION 4 (USE RESTRICTIONS), (B) DAMAGES AND LOSSES RESULTING FROM A PARTY’S 
+
+ 
+ 
+17 
+
+BREACH OF SECTION 6 (PROPRIETARY RIGHTS AND LICENSES), (C) DAMAGES AND LOSSES RESULTING FROM A PARTY’S BREACH OF SECTION 7 (CONFIDENTIALITY), (D) A PARTY’S INDEMNIFICATION OBLIGATIONS
+UNDER SECTION 9 (INDEMNIFICATION), OR (E) DAMAGES AND LOSSES RESULTING FROM A PARTY’S GROSS NEGLIGENCE, WILLFUL MISCONDUCT, OR INTENTIONAL ACTS. 
+
+10.2 
+DISCLAIMERS
+. CUSTOMER IS SOLELY RESPONSIBLE FOR THE ACCURACY AND CONTENT OF ANY CUSTOMER DATA. THE COX PRODUCTS ARE INTENDED ONLY
+TO FACILITATE THE MANAGEMENT AND OPERATION OF CERTAIN ASPECTS OF CUSTOMER’S BUSINESS AT THE AUTHORIZED CUSTOMER LOCATION(S). EXCEPT AS OTHERWISE EXPRESSLY STATED HEREIN OR AS SPECIFICALLY STATED IN AN APPLICABLE ORDER FORM, ADDITIONAL MATERIALS
+OR ATTACHMENT (INCLUDING ANY APPLICABLE SERVICE LEVEL AGREEMENTS), NEITHER COX NOR ANY OF ITS AFFILIATES (NOR ANY THIRD PARTY LICENSORS) MAKE ANY REPRESENTATION OR WARRANTY TO CUSTOMER, OR ANY OTHER PERSON WITH RESPECT TO ANY COX PRODUCT (OR ANY
+THIRD PARTY MATERIALS OR THIRD PARTY INTERFACES) OR COX SERVICE, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED REPRESENTATION OR WARRANTY OF SUITABILITY, LEGALITY, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE,
+
+NON-INFRINGEMENT
+ OR ANY OTHER REPRESENTATION OR WARRANTY OF ANY TYPE OR NATURE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, COX MAKES NO REPRESENTATION, WARRANTY OR
+COMMITMENT: (A) THAT THE COX PRODUCTS WILL OPERATE ERROR-FREE, WITHOUT INTERRUPTION OR IN ACCORDANCE WITH ANY SPECIFICATIONS; (B) THAT THE COX PRODUCTS OR COX SERVICES ARE SUITABLE FOR ANY SPECIFIC PURPOSE, INCLUDING ANY ADVICE REGARDING
+THE VALUE, COSTS, PROFIT TARGETS, QUALITY OR SUITABILITY OF ANY PARTICULAR TRANSACTION, SALES STRATEGY OR OTHER BUSINESS PRACTICE; OR (C) AS TO THE ACCURACY OF ANY CONTENT OR DATA MADE AVAILABLE TO CUSTOMER THROUGH OR IN CONNECTION WITH THE COX
+PRODUCTS OR COX SERVICES. IN NO WAY DOES ANY COX PRODUCT, COX SERVICE OR OTHER MATERIALS OR INFORMATION PROVIDED BY COX OR ITS AFFILIATES (INCLUDING, AS APPLICABLE AND WITHOUT LIMITATION, ANY FORM CONTRACTS, MENUS, DISCLAIMERS, PRIVACY POLICIES, OR
+TERMS AND CONDITIONS) CONSTITUTE LEGAL ADVICE. COX IS NOT ENGAGED IN THE PRACTICE OF LAW OR IN PROVIDING LEGAL OR COMPLIANCE SERVICES. ACCORDINGLY, CUSTOMER SHOULD CONSULT WITH ITS OWN LEGAL ADVISOR FOR LEGAL ADVICE RELATING TO ANY COX PRODUCT OR
+COX SERVICE. 
+ 
+ 
+
+11.
+
+ 
+Class Waiver. 
+
+11.1 
+Class Waiver
+. Any litigation or arbitration proceeding related to this agreement will take place on an individual basis.
+Class arbitrations and class or representative proceedings of any kind are not permitted, and Customer expressly waives its ability to participate in a class or representative proceeding against Cox or its Affiliates. Customer agrees that this
+class waiver is an essential element of the agreement between Customer and Cox and that this class waiver may not be severed. 
+
+ 
+ 
+18 
+
+12.
+
+ 
+Insurance. 
+
+12.1 Cox will maintain in force during the Term the following insurance coverages in at least the amounts indicated in this Section 12:
+
+ 
+ 
+
+ 
+
+a)
+
+ 
+Workers’ Compensation and Employers’ Liability Insurance
+, covering injuries to anyone hired by
+Cox to perform work under this Agreement with statutory limits (workers’ compensation) required by the State in which work will be performed, and not less than [***] per claim (employer’s liability). 
+
+ 
+
+ 
+
+b)
+
+ 
+Commercial General Liability Insurance
+, covering Cox’s liability for its negligence and including
+Contractual Liability, Products and Completed Operations Liability, Personal and Advertising Injury Liability, Property Damage and Bodily Injury coverages in the amount of not less than [***]. 
+
+ 
+
+ 
+
+c)
+
+ 
+Commercial Automobile Liability Insurance
+, covering all vehicles operated by Cox in the amount of not
+less than [***] combined single limit for property damage and bodily injury per accident. 
+ 
+ 
+
+ 
+
+d)
+
+ 
+Garage Keepers Legal Liability Insurance
+, covering Cox’s liability under this Agreement for damage
+caused to Customer’s vehicles in Cox’s care, custody and control in the amount up to [***]. 
+ 
+ 
+
+ 
+
+e)
+
+ 
+Tech E&O/Professional Liability Insurance
+, covering Cox’s liability for errors and omissions
+arising out of the performance of its obligations pursuant to this Agreement, in an amount of [***], which policy shall include among other things, coverage for negligent acts and errors and omissions arising out of or related to the design,
+development, installation, and operation of the Cox Products or Cox Services by Cox or by any other person or entity acting on behalf of Cox. 
+ 
+ 
+
+ 
+
+f)
+
+ 
+Network Security or Privacy Liability (Cyber Insurance
+), covering Cox’s liability under this
+Agreement for transmission of a virus, hacker damage, theft or unauthorized disclosure of private information, or theft of digital ID as well as coverage for expenses related to notification under privacy laws and investigation expenses, in the
+amount of [***]. 
+ 
+12.2 The general and auto liability insurance obtained by Cox pursuant to this
+
+Section
+ 12
+ will include Customer and its Affiliates as additional insureds as their interests may appear for claims caused by Cox or anyone working for Cox. As of the Effective Date and, thereafter, Cox will provide
+Customer with a certificate or certificates of insurance and which such certificates shall evidence that the above-noted insurance requirements have been satisfied and shall specify that Customer will receive advance notice of any cancellation or
+nonrenewal of the required insurance per the terms of the policies. In the event that any of the required insurance is cancelled or nonrenewed, Cox shall replace such insurance so that no lapse in coverage occurs. Cox will obtain the insurance
+coverage set forth in this 
+Section
+ 12
+ from an insurance carrier with a minimum A.M. Best’s rating of 
+A-/VII.
+ Customer acknowledges that Cox may satisfy the above required
+insurance requirements through a combination of self-insurance and third party insurance policies. 
+
+ 
+ 
+19 
+
+13.
+ 
+Dispute Resolution
+. In the event of any dispute under this Agreement or any SOW (except
+for disputes related to Intellectual Property Rights), and after unsuccessful attempts by the primary employee or employees responsible for a product or service to resolve the issue, a Party may send a written notice to the other Party of the
+dispute (the “
+Dispute Notice
+”). The Parties shall attempt in good faith to resolve any dispute by negotiation and consultation between the Parties. In the event the dispute is not resolved on an informal basis within thirty
+(30) days after delivery of the Dispute Notice to the other Party, either Party may initiate any legal action in accordance with this Agreement. Notwithstanding the foregoing, either Party may seek equitable and other injunctive relief at any
+time. 
+ 
+ 
+
+14.
+
+ 
+Miscellaneous. 
+
+14.1 
+Notices
+. All Legal Notices required or permitted to be given by a Party must be (a) in writing; (b) sent by commercial
+delivery service or certified mail, return receipt requested; and (c) deemed to have been given on the date set forth in the records of the delivery service or on the return receipt. Email Notices will be deemed to have been given upon receipt
+of the email (regardless of whether the email is opened), which may be evidenced by “delivery receipt” received by the sender. 
+
+14.2 
+Order Form Effectiveness
+. 
+ 
+ 
+
+ 
+
+(a)
+
+ 
+Order Forms may be executed in multiple counterparts, each of which constitutes an original, and all of which,
+collectively, constitute only one agreement. The signatures of the Parties need not appear on the same counterpart. A Party may submit an executed counterpart via scanned PDF, which will be treated as an originally-signed document.
+
+ 
+ 
+
+ 
+
+(b)
+
+ 
+Certain Order Forms may be executed by means of electronic or digital signatures. Any such electronic or
+digital signature will be deemed to satisfy all requirements imposed on electronic or digital signatures under the Electronic Signatures in Global and National Commerce Act 
+(E-SIGN),
+ and any similar Laws
+relating to the validity or enforceability of electronic or digital signatures. 
+ 
+14.3 
+Governing Law and Forum
+.
+
+A
+ny disputes arising from or related to an Order Form will be governed and construed in accordance with the Laws of the State of New York, without regard to its conflict of Laws principles. Any action to enforce any arbitration proceeding,
+and any other legal action, suit or proceeding that is not otherwise subject to mandatory arbitration pursuant to Section 11 and arises under or relates to such Order Form, and any Attachments, or the use of any Cox Products or Cox Services,
+will be filed exclusively in a state or federal court located in New York County, New York, and Customer consents to such forum and irrevocably and unconditionally waives any objection to the laying of venue in such forum. 
+
+14.4 
+Order of Precedence
+. In the event of any conflict in contract terms, and unless otherwise specified expressly on the Order Form,
+the order of precedence will be, from highest to lowest priority: (a) the terms appearing in the applicable Order Form, (b) the terms of any Additional Product Terms, (c) the terms of any Attachment, and (d) this Agreement.
+Contract terms will not be interpreted strictly against a Party by virtue of such Party’s role in preparing or drafting them. 
+ 
+14.5
+
+Amendments and Modifications
+. Any amendments or modifications of this Agreement, any Attachments, or the applicable Order Forms will only be effective if in writing and signed by each Party. 
+
+ 
+ 
+20 
+
+14.6 
+Force Majeure
+. Neither Party will be liable for any failure or delay in
+performing any obligation (except the requirement to pay Fees) to the extent such failure or delay is attributable to causes beyond its reasonable control. Such causes include natural catastrophes, strikes or labor difficulties, denial of service
+attacks, internet or Third-Party hardware or service failures, telecommunication failures, any act of God, fire, flood, or other weather-related event, earthquake, or other condition or event outside a Party’s reasonable control, to the extent
+not occasioned by the fault or negligence of the delayed Party (collectively “
+Force Majeure Events
+”). 
+ 
+14.7
+
+Cooperation and Access to Authorized Customer Locations
+. If Customer subscribes to a Cox Product that requires Customer action or cooperation prior to implementation or that requires Cox to enter an Authorized Customer Location to complete 
+set-up
+ services, Customer agrees it will complete all necessary actions and, as applicable, will allow Cox personnel or contractors to access its premises, as needed, to
+
+set-up
+ the Cox Product. 
+ 
+14.8 
+Third Party Licensor Rights
+. A Third-Party Licensor may
+enforce this Agreement as a third-party beneficiary solely with respect to use of any of its Third-Party Materials; and neither Customer nor Cox may modify or terminate any of Customer’s obligations in a way that would adversely impact the
+rights of any such Third-Party Licensor adversely. Otherwise, the applicable Order Form is not intended to confer upon any person or entity the right to enforce any rights or remedies hereunder. 
+
+14.9 
+Entire Agreement
+. This Agreement – including the Additional Product Terms, the Order Forms and any Attachments –
+constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings between the Parties with respect to such matters, whether oral or written. No terms stated in any
+other Customer purchase order, privacy agreement, vendor agreement or other Customer form agreement will be incorporated into or form any part of this Agreement unless such document is signed by both parties. Notwithstanding anything herein to the
+contrary, to the extent there is any conflict between this Agreement and other agreements Customer currently has, has had in the past, or may have in the future with Cox Automotive Corporate Services, LLC or its Affiliates regarding products or
+services outside the scope of this Agreement and the Order Forms, those other agreements will continue to control with respect to such products and services. 
+
+14.10 
+Non-Waiver
+ and Severability
+. The failure of either Party to enforce any provision of this
+Agreement will not be deemed a waiver of such provision or of the right of such Party thereafter to enforce such provision. If any provision is deemed invalid or prohibited by Law, such provision will, if possible, be deemed to be restated to
+reflect as nearly as possible the original intentions of the Parties in accordance with applicable Law. In any event, the remainder of the provisions will remain in full force and effect. 
+
+14.11 
+Headings
+. The headings used in this Agreement are used for convenience only and are not to be considered in construing or
+interpreting these Terms and Conditions. 
+ 
+14.12 
+Remedies Cumulative
+. Except as otherwise expressly provided in the applicable Order
+Form (including this Agreement, any Additional Product Terms and any Attachments), all remedies provided herein are cumulative and in addition to and not in lieu of any other remedies available to a Party in connection with such Order Form, or at
+law or in equity. 
+
+ 
+ 
+21 
+
+14.13 
+Survival
+. In addition to any provisions above that expressly state that they
+survive termination, any provisions above that should reasonably survive termination in accordance with their respective terms will also so survive, as will any outstanding payment or tax obligation hereunder, and any cause of action or claim of
+either Party, whether in law or in equity. 
+ 
+14.14 
+Assignment
+. Neither party may assign, transfer, or delegate any or all of its
+rights or obligations under this Agreement, without the prior written consent of the other party, which consent shall not be unreasonably withheld or delayed; provided, that, upon prior written notice to the other party, either party may assign the
+Agreement to an Affiliate of such party. No assignment shall relieve the assigning party of any of its obligations hereunder. Any attempted assignment, transfer, or other conveyance in violation of the foregoing shall be null and void. This
+Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and permitted assigns. 
+ 
+IN WITNESS
+WHEREOF, the Parties have executed this Agreement as of the Effective Date. 
+ 
+ 
+
+ 
+COX AUTOMOTIVE CORPORATE
+
+SERVICES, LLC
+
+  
+
+  
+
+RIVIAN, LLC.
+
+By:
+
+ 
+
+ 
+/s/ Joe George
+
+  
+
+  
+
+By:
+
+  
+
+ 
+/s/ Robert J. Scaringe
+
+Name:
+
+ 
+
+Joe George
+
+  
+
+  
+
+Name:
+
+  
+
+Robert J. Scaringe
+
+Title:
+
+ 
+
+President Mobility
+
+  
+
+  
+
+Title:
+
+  
+
+CEO
+
+Date:
+
+ 
+
+5/20/21
+
+  
+
+  
+
+Date:
+
+  
+
+5/17/21
+
+ 
+ 
+22

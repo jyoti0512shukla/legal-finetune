@@ -1,0 +1,727 @@
+EX-10.8
+
+5
+
+tmb-20220403xex10d8.htm
+
+EX-10.8
+
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+MASTER FULFILLMENT SYSTEM ACQUISITION & SOFTWARE LICENSE AGREEMENT
+This Master Fulfillment System Acquisition & Software License Agreement (this “Agreement”) is dated as of September 24, 2021 (hereinafter the “Effective Date”) by and between 6 River Systems, LLC, a Delaware company (“6RS”), and Lulu’s Fashion Lounge, LLC, a Delaware limited liability company (“Customer”). 6RS and Customer are each a “Party” and collectively the “Parties” to this Agreement. 
+WHEREAS, 6RS has developed a Fulfillment System that contains 6RS’s proprietary hardware and software to be used in warehouse and fulfillment operations as further defined below; and 
+WHEREAS, 6RS and Customer desire to provide standard terms and conditions to govern the acquisition of the Fulfillment System from 6RS and license related software for commercial use, as set forth in this Agreement. 
+NOW, THEREFORE, the Parties agree as follows: 
+1.
+Definitions. 
+ 
+ 
+​
+1.1.
+“6RS” shall have the meaning set forth in the first paragraph of this Agreement. 
+ 
+​
+1.2.
+“6RS Product” means the Fulfillment System and any other Hardware, technology, Service, specification or other documentation provided by 6RS hereunder. 
+ 
+​
+1.3.
+“Agreement” shall have the meaning set forth in the first paragraph of this Agreement. 
+ 
+​
+1.4.
+“Chuck” means 6RS’s proprietary collaborative mobile robot for fulfillment operations. 
+ 
+​
+1.5.
+“Co-Indemnitee” shall have the meaning set forth in Section 13.1. 
+ 
+​
+1.6.
+“Confidential Information” means any information or data, regardless of whether it is in tangible form, that is disclosed or otherwise made available by a Party to the other Party or by use of, or access to, the Fulfillment System that is confidential or proprietary, including, without limitation, (a) owned or licensed intellectual property rights (including, without limitation, all patents, trademarks, copyrights, trade secrets, know-how, inventions, technical data or specifications and testing methods) and (b) business or financial information, (including, without limitation, pricing, cost, business operations, methodologies, customers, products, potential products, development programs, business strategies and operating procedures, performance data, research and development activities, study data, product and marketing plans, customer and supplier information and similar information), and which is identified as confidential at the time of disclosure or which, due to its nature and/or the circumstances of disclosure, is reasonably apparent to be confidential. 
+ 
+​
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+1.7.
+“Customer” shall have the meaning set forth in the first paragraph of this Agreement. 
+ 
+​
+1.8.
+“Customer Data” means data concerning Customer’s operations, methodologies and procedures arising from use of the Fulfillment System. 
+ 
+​
+1.9.
+“Defect” or “Defective” shall have the meaning set forth in Section 12. 
+ 
+​
+1.10.
+“Effective Date” shall have the meaning set forth in the first paragraph of this Agreement 
+ 
+​
+1.11.
+“Feedback” means suggestions, comments, ideas or other feedback regarding 6RS Products, including but not limited to usability, bug reports and test results, provided by Customer to 6RS. 
+ 
+​
+1.12.
+“Fulfillment System” means the Hardware and the Software. 
+ 
+​
+1.13.
+“Go-Live Date” means the first day of commercial operation for the Fulfillment System and the reasonable completion of Installation and Integration efforts to allow Customer to fulfill orders at the Premises. 
+ 
+​
+1.14.
+“Hardware” means the equipment and any accessories, replacement parts or other tangible goods purchased or rented from 6RS hereunder as set forth on a Schedule. 
+ 
+​
+1.15.
+“Improvements” means all developments, improvements and modifications to the 6RS 
+Products made by Customer or made by 6RS resulting from Customer’s use of the Fulfillment System, and all Intellectual Property Rights and proprietary rights arising therefrom. 
+ 
+​
+1.16.
+“Installation” shall have the meaning set forth in Section 6.1.. 
+ 
+​
+1.17.
+“Integration” shall have the meaning set forth in Section 6.1.. 
+ 
+​
+1.18.
+“Intellectual Property Rights” means all (a) patents, patent disclosures and inventions (whether patentable or not); (b) trademarks, service marks, trade dress, trade names, logos, and corporate names, together with all of the goodwill associated therewith; (c) copyrights and copyrightable works (including technology and computer programs) and mask works; (d) trade secrets, know-how and other confidential information; and (e) all other intellectual property rights, in each case whether registered or unregistered and including all applications for, and renewals or extensions of, such rights, and all similar or equivalent rights or forms of protection provided by applicable law, regulations or rules in any jurisdiction throughout the world. 
+ 
+​
+1.19.
+“Losses” shall have the meaning set forth in Section 13.1.. 
+ 
+​
+1.20.
+“Maintenance” shall have the meaning set forth in Section 6.2.2. 
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+ 
+​
+1.21.
+“Premises” means Customer’s premises as set forth in the applicable Schedule. 
+ 
+​
+1.22.
+“SaaS Software” means a hosted solution made available by 6RS for access and use on a subscription basis by Customer for use as part of Fulfillment System to allocate, organize and facilitate order fulfillment operations, as further detailed in the Agreement and the related documentation, including any modifications, enhancements, additions, extensions, translations and derivative works thereof and any configuration. The scope of the SaaS Software licensed by Customer is further described in the applicable Schedule. 
+ 
+​
+1.23.
+“Schedule” means a detailed plan describing the Hardware, Software, Maintenance and any additional Services to be provided by 6RS hereunder. 
+ 
+​
+1.24.
+“Services” means any professional services provided by 6RS to Customer hereunder, including Installation, Integration and Maintenance. 
+ 
+​
+1.25.
+“Software” means the SaaS Software and the System Software. 
+ 
+​
+1.26.
+“System Software” means any system software, in object code format only, included by 6RS as part of the Hardware, including any modifications, enhancements, additions, extensions, translations and derivative works thereof and any configuration. 
+ 
+​
+1.27.
+“Warranty” shall have the meaning set forth in Section 12. 
+ 
+​
+1.28.
+“WMS” means Customer’s host management system. 
+ 
+​
+2.
+Purchase or Rental of Hardware. 
+6RS will sell and/or rent to Customer the Hardware identified in a mutually agreed Schedule issued hereunder from time to time during the term. Each Schedule shall specify the Hardware to be purchased and/or rented by Customer, price, delivery schedule, and Customer’s Premises on which it can be used. Any Hardware rented hereunder is, and shall at all times remain, the sole and exclusive property of 6RS and Customer shall have no right, title or interest therein except the right to use the Hardware on the Premises set forth in the applicable Schedule pursuant to the terms and conditions of this Agreement. Upon termination of any rental term, Customer shall make the rented Hardware available for recovery by Company in the same condition as when delivered, normal wear and tear excepted. 
+ 
+​
+3.
+Delivery and Access to the Hardware.
+ 6RS will deliver the Hardware at its expense to the Premises set forth in the applicable Schedule. All shipments will be shipped by 6RS DDP Incoterms. 6RS and its authorized representatives will have the right, upon reasonable notice, to enter the Premises for the purpose of inspecting, upgrading, repairing and testing the Fulfillment System, affixing notices thereto, and otherwise 
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+exercising any of its rights and responsibilities under this Agreement. If Customer is in material default of any of the terms and conditions of this Agreement, 6RS and its agents, at Customer’s risk, may at any time enter the Premises where the Hardware is stored or used and recover the Hardware. Customer shall not pledge or encumber the Fulfillment System in any way. 
+ 
+​
+4.
+Licenses. 
+ 
+​
+4.1.
+System Software. 
+6RS grants to Customer a limited, non-exclusive, revocable, nonsublicensable, non-transferable license to access and use the System Software, solely for the purposes of using the System Software on the Hardware for internal business use and in accordance with the documentation provided by 6RS. 
+ 
+​
+4.2.
+SaaS Software. 
+6RS grants to Customer a limited, non-exclusive, revocable, nonsublicensable, non-transferable license to access and use the SaaS Software as set forth in the applicable Schedule during the term set forth therein for internal business use and in accordance with the documentation provided by 6RS. 
+ 
+​
+4.3.
+Updates. 
+6RS shall have the right from time to time to make updates to the Software, including by modifying or removing one or more of the features. Any such updates shall be of general applicability to 6RS’s customers. If 6RS removes or makes a material change to the existing features, 6RS will notify Customer. 
+ 
+​
+4.4.
+Customer Data.
+ Customer grants to 6RS a non-exclusive, non-sublicensable, worldwide royalty-free and irrevocable license to review, use, reproduce, modify, adapt, translate, duplicate, store, aggregate and transmit, any or all of the Customer Data in any form, media or technology whether known or not currently known, in any manner, solely in connection with use of the Fulfillment System hereunder and for no other purpose unless Customer provides prior consent. Customer represents and warrants that it has all the rights, power and authority necessary to grant the above license. 
+ 
+​
+5.
+Intellectual Property. 
+ 
+​
+5.1.
+Ownership. 
+ 
+​
+5.1.1.
+6RS reserves and retains all right, title and interest in and to the Software and all Intellectual Property Rights embodied in the 6RS Products, including any derivative works thereof. All rights not expressly granted in this Agreement are reserved by 6RS. 
+ 
+ 
+​
+5.1.2.
+Customer owns all right, title and interest in and to Customer Data. All rights not expressly granted in this Agreement are reserved by Customer.
+ 
+ 
+​
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+5.2.
+Improvements. 
+All Improvements will be for the sole benefit of 6RS and will be treated as 6RS’s Confidential Information hereunder. Customer hereby assigns, and, to the extent any such assignment cannot be made at the present time agrees to assign, to 6RS all right, title and interest in and to the Improvements. Upon request, Customer will promptly disclose in writing to 6RS all Improvements and will use commercially reasonable efforts to cooperate in obtaining, maintaining, defending and enforcing all Intellectual Property Rights and proprietary rights arising therefrom. Notwithstanding the foregoing, Customer Data shall not be considered Improvements hereunder and will be treated as Customer Confidential Information. 
+ 
+​
+5.3.
+Feedback. 
+It is expressly understood, acknowledged and agreed that Customer may, regardless of whether formally requested to do so, provide Feedback to 6RS. If Customer provides such Feedback to 6RS, Customer shall grant 6RS the following worldwide, nonexclusive, perpetual, irrevocable, royalty free, fully paid up rights: (a) to make, use, copy, modify, sell, distribute, sub-license, and create derivative works of, the Feedback as part of any 6RS Product; and (b) to publicly perform or display, import, broadcast, transmit, distribute, license, offer to sell, and sell, rent, lease or lend copies of the Feedback (and derivative works thereof) as part of any 6RS Product. 
+ 
+​
+6.
+Services.
+ 
+ 
+​
+6.1.
+Installation & Integration.
+ In consideration of the applicable fees set forth on a 
+Schedule and subject to Customer’s obligations under Section 7, 6RS shall furnish the 
+Fulfillment System to Customer, including installation of the Hardware on the Premises (“Installation”) and development of the necessary application programming interfaces such that Customer can deliver instructions from the WMS or any other mutually agreed customer system to the SaaS Software and receive messages from the SaaS Software to the WMS or any other mutually agreed Customer system (“Integration”). 
+ 
+ 
+​
+6.2.
+Maintenance.
+ 
+ 
+​
+6.2.1.
+Hardware.
+ In consideration of the applicable rental and/or Maintenance fees set forth on a Schedule, 6RS will (a) maintain, service and repair the Hardware, including providing all labor for such services and (b) provide unlimited telephone and email technical support for the Hardware on the terms set forth in 
+Exhibit A
+ (the “Hardware Maintenance”). Other than Defective parts covered by the Warranty, all new or replacement parts or accessories necessary to maintain, service or repair the Hardware will be at an additional cost. 
+ 
+​
+6.2.2.
+Software.
+ In consideration of the applicable Software license fees set forth on a Schedule, 6RS will (a) provide Customer with all updates of general applicability to the Software licensed by Customer under such Schedule and (b) provide unlimited telephone and email technical support for the then-current version of the Software on the terms set forth in 
+Exhibit A
+ (the “Software Maintenance”, and together with 
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+the Hardware Maintenance, the “Maintenance”). Customer will be provided with forty-five (45) days in which to upgrade the Software following the release of an upgrade of general applicability by 6RS. If Customer does not upgrade the Software during this period, any Software Maintenance required on a prior version of the Software will be at an additional cost. 
+ 
+​
+6.3.
+Additional Services. 
+The Parties may agree in writing from time to time upon additional related Services to be provided by 6RS to Customer in connection with the Fulfillment System, including any new features, Integration requirements or significant changes to functionality identified during the detailed solutions design stage and not covered in the initial scope of a deployment. 6RS will use commercially reasonable efforts to provide such Services pursuant to a Schedule at a price to be mutually agreed upon. 
+ 
+​
+7.
+Customer Responsibilities
+. 
+ 
+​
+7.1.
+Cooperation
+. 6RS and Customer will cooperate reasonably to facilitate the 6RS’s delivery of the Fulfillment System and related Services under this Agreement, including providing necessary access (physical and network), planning (including scheduling, workflows and floor layout), utilities, reasonable safety precautions, building security and reasonably adequate workspace. Following Installation Customer will provide 6RS with prior written notice of any operational changes at the Premises that could affect the operation of the Fulfillment System, including changes in WMS, layout or workflow. 
+ 
+​
+7.2.
+Site Preparation
+. Customer is responsible for the preparation of the Premises to allow Installation and proper functioning of the Fulfillment System as specified by 6RS. Such site preparation includes removal/repair of floor damage, movement or reconfiguration of the existing warehouse space, provision of electrical circuits necessary for the operation of the Fulfillment System, and wireless internet access for the Fulfillment System via a dedicated SSID and subnet that will be able to reach the SaaS Software, as well as the requirements set forth in the 6 River Systems Network Requirements v3.1 documentation. Upon the completion of the site preparation Customer will maintain a similar level of site cleanliness and organization throughout the term of the agreement. 
+ 
+​
+7.3.
+Systems Integration
+. Customer is responsible for the implementation of the necessary application programming interfaces and any other reasonably requested Integration preparation such that (a) Customer can deliver instructions from the WMS or any other required Customer system to the SaaS Software and receive messages from the SaaS Software to the WMS or any other mutually agreed Customer system and (b) remote user acceptance testing has been completed prior to Installation of the Hardware. 
+ 
+​
+7.4.
+Additional Installation and Integration Charges
+. 6RS reserves the right to charge additional fees for (a) any Services performed by 6RS in order to facilitate delivery, Installation and Integration of the Fulfillment System that are the responsibility of 
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+Customer pursuant to Sections 7.2. & 7.3. or (b) additional travel or time spent at the Premises as a result of the failure of Customer to fulfill such obligations. 
+ 
+​
+7.5.
+Restrictions. 
+Except as otherwise specifically permitted in this Agreement or otherwise authorized in writing by 6RS, Customer may not: (a) rent, lease, copy, transfer, resell, sublicense, lease, time-share, or otherwise provide access to the Fulfillment System to a third party; (b) modify or create any derivative works of any 6RS Product; (c) reverse engineer, disassemble, decompile, translate, or otherwise seek to obtain or derive the source code, underlying ideas, algorithms, file formats, or non-public APIs to any element of the Fulfillment System, except to the extent expressly permitted by applicable law and then only with advance notice to 6RS; (d) remove, obscure or deface any proprietary or other notices in or on the Fulfillment System; (e) make any alterations or additions to the Fulfillment System without the prior written consent of 6RS; (f) service or repair the Fulfillment System or the Hardware except pursuant to 6RS’s express prior instructions; (f) access the Fulfillment System for the purpose of building a competitive product or service or copying its features or user interface; or (g) publish or make public any performance results identifying the Fulfillment System without 6RS’s prior written consent. 
+ 
+​
+7.6.
+Telecommunications and Internet Services
+. Customer acknowledges and agrees that 
+Customer’s use of the Fulfillment System is dependent upon access to telecommunications and 
+Internet services. Customer shall be solely responsible for acquiring and maintaining all telecommunications and Internet services and other hardware and software required to access and use the Fulfillment System, including, without limitation, any and all costs, fees, expenses, and taxes of any kind related to the foregoing. 6RS shall not be responsible for any loss or corruption of data, lost communications, or any other loss or damage of any kind arising from any such telecommunications and Internet services. 
+ 
+​
+8.
+Payment
+.
+ 
+Customer shall pay 6RS the fees on the schedule as set forth in the applicable Schedule in USD. The fees exclude local sales, use, value added and similar taxes. If any sales, use or value added tax (or its equivalent) is legally due, 6RS will separately bill such tax on its invoice to Customer. Customer agrees to pay 6RS for such tax. Prices shall not include any taxes, impositions, charges or exactions for which Customer has furnished a valid exemption certificate or other evidence of exemption. 6RS shall issue a separate invoice for each payment required in the applicable Schedule. Payment is due within thirty (30) days of receipt of an invoice. If Customer fails to make any payment when due, Customer agrees to pay interest on delinquent amounts at the rate of 2% per month or the maximum amount permitted by law, whichever is lower until such delinquent amounts are paid in full. Notwithstanding anything to the contrary herein, the Chuck rental fees on Schedule 1 shall remain firm for any additional Chucks rented for the Premises or for any Chucks rented for new Premises in the 2022 calendar year. For avoidance of doubt, this includes the “Peak Rental Chucks” and all other hardware identified in the “Rental Hardware” section of Schedule 1. Thereafter, beginning January 1, 2023 and continuing through December 31, 2025, any additional Chucks rented for the 
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+existing Premises or for new Premises will be quoted with the same discount as provided in Schedule 1 against the then applicable 6RS list price. The discount to list percentages are as follows: 20.5% on Chuck rentals and 16% on the Chuck additional levels, Peak Chuck rentals, and Peak Chuck additional levels. 
+ 
+​
+9.
+Mutual Representations
+. Each Party represents and warrants that: (a) it is an entity duly organized, validly existing and in good standing under its jurisdiction of formation; (b) it has obtained all necessary corporate or other approvals for the execution and delivery of this Agreement, the performance of its obligations hereunder, and the consummation of the transactions contemplated hereby; and (c) this Agreement is a legal and valid obligation binding upon it and enforceable in accordance with its terms. 
+ 
+​
+10.
+Confidentiality
+. Each Party, on behalf of itself, its affiliates and each of their directors, officers, employees, agents, consultants, contractors and professional advisers, agrees to retain all Confidential Information of the other Party in strict confidence and exercise all reasonable steps to safeguard the confidentiality of the Confidential Information received from the other Party and will neither disclose nor use such information other than as expressly permitted and not prohibited by this Agreement. This Agreement will not affect the receiving Party’s rights to use or disclose information that: (a) at the time of disclosure by the disclosing Party is in the public domain; (b) becomes part of the public domain after disclosure by the disclosing Party without breach of this Agreement by the receiving Party; (c) was received by the receiving Party from a third party not subject to an obligation of confidentiality to the disclosing Party with respect to such information; (d) was independently developed or discovered by the receiving Party without use of the disclosing Party’s Confidential Information, as demonstrated by appropriate evidence; or (e) is required to be disclosed pursuant to law, regulation or an order of a court or governmental or regulatory authority; provided, that,
+ 
+to the extent permitted by applicable law, notice of such requirement is promptly provided to the disclosing Party in order to provide it with a reasonable opportunity to intervene in any relevant proceedings to protect its interests in the Confidential Information. In the event that no such protective order or other relief is obtained, the receiving Party agrees to disclose only that portion of the disclosing Party’s Confidential Information that it is legally required to disclose and to exercise all reasonable efforts to obtain confidential treatment for such disclosure. Upon termination or expiration of this Agreement or immediately upon written request, each Party will, at the other Party’s option, either return to the other Party or destroy all such other Party’s Confidential Information and all embodiments thereof. Confidential Information shall remain the property of the disclosing Party. Except for the rights expressly granted under this Agreement or the relevant Schedule, neither this Agreement or any Schedule nor the disclosure of Confidential Information hereunder or thereunder shall be construed as granting any right or license under any trade secrets, copyrights, inventions, or patents now or hereafter owned or controlled by either party. The confidentiality obligations contained herein are subject to 6RS’s right to use Customer Data as provided in Section 4.4.. This Agreement supersedes any confidentiality or non-disclosure agreement or obligations entered into prior to the Effective Date by the Parties 
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+with respect to the subject matter hereof, and any information regarding the subject matter hereof shared previously shall be considered Confidential Information hereunder. 
+ 
+​
+11.
+Marketing. 
+6RS may, with Customer’s prior written consent: (a) publicly discuss 
+Customer’s use of the 6RS Products, (b) include Customer’s logo and name on its website and (c) issue press releases that mention Customer’s use of the Fulfillment System provided that such releases do not disclose Customer’s Confidential Information. Customer may, with 6RS’s prior written consent: (a) publicly discuss Customer’s use of the 6RS Products, (b) include Customer’s logo and name on its website and (c) issue press releases that mention Customer’s use of the 
+Fulfillment System provided that such releases do not disclose 6RS’s Confidential Information. 
+ 
+​
+12.
+Hardware Warranty
+. For a period of twelve (12) months from the Go-Live Date of the applicable Hardware at its initial Premises, 6RS warrants that such Hardware will be free from material defects in material and workmanship and shall perform in all material respects in accordance with its documentation and specifications under normal use (the “Warranty”). In the event of a breach of the foregoing Warranty (a “Defect” or “Defective”), 6RS will, at its sole option, provide one of the following two remedies to whatever extent it shall deem necessary to satisfy a proper claim under this Warranty: 
+1.
+Elect to repair or facilitate the repair of any Defect within a reasonable period of time, free of any charge for the necessary parts and labor to complete the repair and restore the Hardware to its proper operating condition. 
+2.
+Replace the Defective Hardware with a direct replacement or with similar Hardware deemed by 6RS to perform substantially the same function as the original Hardware. Replacement may constitute, at 6RS’s option, a new, refurbished or functionally equivalent item. 
+6RS shall not be liable for a breach of Warranty if the Defect arises because: (a) Customer failed to follow 6RS’s written instructions as to the storage, installation, use or maintenance of the Fulfillment System; (b) Customer modifies or alters the Fulfillment System; or (c) Customer repairs the Fulfillment System without the express prior instruction of 6RS. Hardware that fails as a result of abuse, rather than as a result of defective material or workmanship, shall not be regarded as Defective. 
+EXCEPT FOR THE EXPRESS LIMITED WARRANTY SET FORTH IN THIS SECTION, 6RS IS PROVIDING THE FULFILLMENT SYSTEM “AS IS” AND “WHERE IS”, 
+WITHOUT REPRESENTATION OR WARRANTY OF ANY KIND, WHETHER EXPRESS, 
+IMPLIED, OR ARISING BY CUSTOM OR TRADE USAGE, WITH RESPECT TO THE 
+FULFILLMENT SYSTEM OR ITS USE OR OTHERWISE IN CONNECTION WITH THIS 
+AGREEMENT INCLUDING (1) AS TO THE QUALITY OR PERFORMANCE OF THE 
+FULFILLMENT SYSTEM, OR (2) ANY WARRANTY OF MERCHANTABILITY OR 
+FITNESS FOR A PARTICULAR PURPOSE. 6RS DOES NOT WARRANT THAT THE 
+FULFILLMENT SYSTEM WILL MEET CUSTOMER’S EXPECTATIONS, BE SECURE, 
+TIMELY, ERROR-FREE OR UNINTERRUPTED. 6RS DOES NOT OFFER A WARRANTY 
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+OR MAKE ANY REPRESENTATION REGARDING THE RESULTS OF USING THE 
+FULFILLMENT SYSTEM IN TERMS OF ACCURACY, RELIABILITY, COMMERCIAL ADVANTAGE, OR RISK OF INJURY TO CUSTOMER’S SYSTEMS OR NETWORK. 
+13.
+Indemnification
+. 
+ 
+​
+13.1.
+Customer Indemnity.
+ Customer shall, at its sole expense indemnify, defend and hold harmless 6RS and its affiliates and their respective directors, officers, employees and agents (collectively, its “Co-Indemnitees”) from any liability, claim, judgment, cost, expense, damage or loss (including reasonable attorney’s fees) (collectively “Losses”) in response to a claim made by a third party (other than 6RS Co-Indemnitees), arising from: (a) any failure of Customer to comply with any applicable laws; (b) any injury to or death of any person, or damage to property, arising out of the performance of this Agreement except as a result of the negligence of the indemnitee (but only to the extent that such injury, death or damage resulted from such indemnitee's negligence); (c) the gross negligence or willful misconduct of Customer; or (d) Customer’s use, modification or alteration of the Fulfillment System in violation of the terms of this Agreement or the documentation and specifications provided by 6RS. 
+ 
+​
+13.2.
+6RS
+ 
+Indemnity
+. 6RS shall, at its sole expense, indemnify, defend and hold Customer harmless from all Losses in response to a claim made by a third party (other than an affiliate of Customer), arising from: (a) a substantive allegation that the Fulfillment System infringes any U.S. patent, copyright or trademark of any third party; (b) any failure of 6RS to comply with any applicable laws; or (c) any injury to or death of any person, or damage to property, arising out of the performance of this Agreement except as a result of the negligence of the indemnitee (but only to the extent that such injury, death or damage resulted from such indemnitee's negligence)
+. The foregoing indemnity under subsection (a) above shall not apply if: (i) the alleged infringement is caused by Customer's combination, operation or use of the Fulfillment System with any product, service, device, or software not owned by 6RS to the extent such combination, operation or use gives rise to the claim; (ii) the alleged infringement is attributable to
+ any 
+information, design, specification, function, routine, characteristic, instruction, software, data, or material provided or required
+ by 
+Customer; (iii) 
+the Fulfillment System 
+is modified by Customer in a manner that causes the infringement
+; 
+or (iv) 
+the Fulfillment System 
+is used outside the scope
+ of this Agreement.
+ In the event that the Fulfillment System does or, in 6RS's opinion, is likely to, become the subject of a claim of infringement, 6RS may at its sole option and expense: (x) replace or modify 
+the Fulfillment System 
+to be non-infringing with equivalent or better 
+functionality; or (y) obtain a license reasonably acceptable to Customer to continue using 
+the 
+Fulfillment System
+. NOTWITHSTANDING ANY PROVISION OF THIS AGREEMENT TO 
+THE CONTRARY, THIS SECTION STATES 6RS’S SOLE AND EXCLUSIVE 
+OBLIGATIONS AND SOLE AND EXCLUSIVE LIABILITY TO CUSTOMER WITH RESPECT TO ANY CLAIM OF INFRINGEMENT OF ANY INTELLECTUAL PROPERTY AND PROPRIETARY RIGHTS.
+ 
+ 
+​
+13.3.
+Indemnification Procedure.
+ The indemnitor shall defend, compromise or settle any matter that is subject to the indemnity specified herein (an “Indemnified Claim”). The 
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+indemnitee shall cooperate, and the indemnitor shall reimburse the indemnitee for its direct costs in doing so, including reasonable professional fees and disbursements with respect to the indemnitee's legal counsel, third party adjusters, or other agents, as well as court costs. The indemnitor must secure the indemnitee's prior written approval before settling an Indemnified Claim if such settlement involves anything other than a payment of funds for which the indemnitee is entitled to full indemnification under this Agreement. If the indemnitor has been notified of and is not diligently and continuously pursuing an Indemnified Claim, the indemnitee may take such action on behalf of itself to adjust, settle, defend or otherwise dispose of the Indemnified Claim, in which case the indemnitee shall keep the indemnitor reasonably informed as to the progress of such Indemnified Claim and the indemnitor shall, upon being billed thereof, reimburse the indemnitee in the amount thereof. 
+ 
+​
+14.
+Limitation of Liability. 
+IN NO EVENT WILL 6RS BE LIABLE FOR (I) ANY 
+INCIDENTAL, INDIRECT, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES, OR 
+FOR LOST PROFITS, LOSS OF BUSINESS OPPORTUNITIES, LOSS OF GOODWILL, 
+REPUTATIONAL DAMAGES, WORK STOPPAGE, BUSINESS INTERRUPTION, OR 
+REVENUES OF ANY KIND, OR FOR LOST DATA, DAMAGE TO OTHER SOFTWARE, 
+COMPUTER FAILURE OR MALFUNCTION OR DOWNTIME, REGARDLESS OF 
+WHETHER CUSTOMER AND/OR ITS RELATED PARTIES HAS BEEN APPRAISED OF 
+THE LIKELIHOOD OF SUCH DAMAGES OCCURRING OR (II) ANY LOSS OR 
+DAMAGES RESULTING FROM ANY USE, MODIFICATION OR ALTERATION OF THE 
+FULFILLMENT SYSTEM IN VIOLATION OF THE TERMS OF THIS AGREEMENT OR 
+THE DOCUMENTATION AND SPECIFICATIONS PROVIDED BY 6RS. THE 
+CUMULATIVE LIABILITY OF 6RS TO CUSTOMER FOR ALL CLAIMS UNDER THIS AGREEMENT, INCLUDING WITHOUT LIMITATION THOSE RELATING TO 6RS 
+HARDWARE, SOFTWARE AND SERVICES, REGARDLESS OF THE FORM OF ACTION 
+WHETHER IN CONTRACT OR TORT, INCLUDING LIABILITY ARISING OUT OF 
+NEGLIGENCE OR STRICT LIABILITY, WILL NOT EXCEED 100% OF THE 
+AGGREGATE AMOUNT OF CONTRACTED FEES ACTUALLY PAID BY CUSTOMER TO 6RS UNDER THE APPLICABLE SCHEDULE DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRIOR TO EVENT GIVING RISE TO THE CLAIM. 
+ 
+​
+15.
+Third Party Hardware and Services. 
+6RS may from time to time recommend third party hardware, software, applications, products or services (collectively, “Third Party Services”) for Customer’s consideration or use. Such Third Party Services are made available only as a convenience, and Customer’s purchase, access or use of any such Third Party Services is solely between Customer and the applicable third party services provider (“Third Party Provider”). Any use by Customer of Third Party Services is entirely at its own risk and discretion, and it is Customer’s responsibility to understand the risks and read the terms and conditions applicable to such Third Party Services before using them. 6RS does not provide any warranties or make representations to Customer with respect to Third Party Services. Customer acknowledges that 6RS has no control over Third Party Services and shall not be responsible or liable to Customer or anyone else for such Third Party Services. The recommendation of Third Party Services by 6RS or the integration or 
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+enabling of such Third Party Services with a 6RS Product does not constitute or imply an endorsement, authorization, sponsorship, or affiliation by or with 6RS. 6RS does not guarantee the availability of Third Party Services. 6RS is not responsible or liable to anyone for discontinuation or suspension of access to, or disablement of, any Third Party Service. 
+ 
+​
+16.
+Risk of Loss; Insurance. 
+Notwithstanding anything to the contrary herein, Customer bears responsibility for all risks of loss, theft, damage and other such risks to any Hardware acquired hereunder.
+ 
+Customer shall keep any Hardware rented hereunder insured against loss, theft, damage and other such risks as are appropriate for not less than the full replacement value thereof with loss payable to 6RS; and shall carry general commercial liability insurance against claims for bodily injury, death and property damage to cover such liability caused by, or arising out of, Customer or its employees’ and contractors’ use of the Fulfillment Management System in the amount of at least One Million Dollars ($1,000,000) per occurrence and Three Million Dollars ($3,000,000) in aggregate, or such other reasonable amount specified by 6RS. Customer shall pay the premiums and any deductible portions, name 6RS as an additional insured and deliver said policies, or duplicates thereof, to 6RS upon request.
+ 
+ 
+​
+17.
+Term and Termination
+. 
+ 
+​
+17.1.
+Term. 
+The term of this Agreement shall commence on the Effective Date and continue until the termination or expiration of all Schedules issued hereunder, unless terminated by the mutual written consent of the Parties or in accordance with Section 17.2. 
+ 
+​
+17.2.
+Termination for Cause.
+ Either Party may terminate this Agreement or any Schedule upon written notice to the other Party in the event the other Party: (a) becomes insolvent or unable to meet its obligations as they become due or files or has filed against it a petition under the bankruptcy laws; (b) ceases to function as a going concern or to conduct its operations in the normal course of business; (c) fails to perform any material obligation under this Agreement within thirty (30) days after written notice thereof; or (d) upon a material breach of this Agreement that is incapable of cure. 
+ 
+​
+17.3.
+Termination Payment
+. In the event and to the extent of any termination under this Section or Section 18.2, Customer’s total liability shall be to pay 6RS for (a) Hardware purchased under the terminated Schedule, (b) Hardware rented under the terminated Schedule for the period until the effective date of such termination and for which 6RS has not been previously compensated, (c) Software license fees under the terminated Schedule for the period until the effective date of such termination and for which 6RS has not been previously compensated, and (d) the terminated Services that have been performed under the terminated Schedule and for which Seller has not been previously compensated, including any recurring fees. 
+ 
+​
+18.
+General
+.
+ 
+ 
+​
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+18.1.
+Notice
+. All notices and other communications hereunder will be delivered by hand or sent by certified mail (return receipt requested); email, provided sender receives a confirmation of such electronic transmission; or by overnight courier addressed to the receiving Party at the address set forth below, or to such other address as a Party may designate in writing to the other Party:
+ 
+Customer: Lulus, attn Legal 
+6RS: 
+195 Humboldt Ave. 
+ 
+ 
+​
+307 Waverley Oaks Road, Suite 405 
+ 
+ 
+Chico, CA 95928 
+ 
+ 
+​
+Waltham, MA 02452 
+Attn: 
+ 
+ 
+ 
+​
+Attn: Matt O’Brien 
+Telephone: 
+ 
+ 
+ 
+​
+Telephone: 
+Email: legal@lulus.com 
+ 
+​
+ 
+​
+Email: ap@6river.com 
+ 
+ 
+ 
+ 
+​
+ 
+​
+ 
+​
+With a copy to: 
+ 
+ 
+ 
+ 
+​
+ 
+​
+6RS: 
+ 
+ 
+ 
+ 
+​
+ 
+​
+307 Waverley Oaks Road, Suite 405 
+ 
+ 
+ 
+ 
+​
+ 
+​
+Waltham, MA 02452 
+ 
+ 
+ 
+ 
+​
+ 
+​
+Attn: General Counsel 
+ 
+ 
+ 
+ 
+​
+ 
+​
+Email: smacbeth@6river.com 
+ 
+ 
+ 
+ 
+ 
+​
+ 
+​
+18.2.
+Force Majeure. 
+Neither Party will be liable for performance delays nor for nonperformance due to causes beyond its reasonable control, including acts of God, extreme weather, earthquakes, wars, terrorism, communication failures, strikes (other than strikes at such Party’s facility or involving such Party’s employees) or public health emergencies, except for payment obligations. In the event of a threatened default or default as a result of any cause beyond its reasonable control, the defaulting Party shall nonetheless exercise its best efforts to avoid and cure such default. In the event such an event prevents performance thereunder for a period in excess of thirty (30) days, then the non-defaulting Party may elect to terminate this Agreement by written notice to the defaulting Party. 
+ 
+​
+18.3.
+Entire Agreement; Amendment
+. Except as provided above, this Agreement and any other document, certificate or instrument delivered pursuant hereto, including all exhibits and schedules hereto and thereto, constitutes the entire agreement between the Parties as to the subject matter hereof, and supersedes any previous oral or written communications, representations, understandings, or agreements between them as to such subject matter. 
+Customer’s terms and conditions shall not form part of the Agreement, even where 6RS does not explicitly object to them in purchase orders or any other document issued pursuant to this Agreement. No provision of this Agreement may be waived, modified or amended, in whole or in part, except by a written agreement executed by duly authorized representatives of 6RS and Customer. Neither Party's failure to exercise any of its rights under this Agreement or a Schedule shall constitute a waiver of any past, present, or future right or remedy. 
+ 
+​
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+18.4.
+Survival
+. Sections 1., 5., 7.5., 10., 13., 14., 15. and 18. will survive the termination or expiration of this Agreement. 
+ 
+​
+18.5.
+Severability
+. If any provision of this Agreement is found invalid or unenforceable by a court of competent jurisdiction, such provision will be enforced to the maximum extent permissible by law and the other provisions will remain in full force and effect. 
+ 
+​
+18.6.
+Disputes; Governing Law
+. In the event of any dispute, controversy or claim arising out of, in connection with or relating to this Agreement, including any question regarding its formation, existence, validity, enforceability, performance, interpretation, breach or termination (a “Dispute”), the Parties shall use reasonable efforts to resolve such Dispute through amicable negotiations. If either Party gives written notice to the other Party that a Dispute has arisen, and the Parties are unable within thirty (30) days of such written notice to resolve such Dispute, it shall be referred to management of the respective companies. If management is unable within thirty (30) days to resolve a Dispute, then either Party shall have the right to commence litigation as described further in this clause. This Agreement will be governed by, and construed and enforced in accordance with, the substantive laws of the Commonwealth of Massachusetts, without regard to its principles of conflicts of laws. All disputes arising under this Agreement will be subject to the exclusive jurisdiction of the courts located in the Commonwealth of Massachusetts and each party unconditionally consents to the personal jurisdiction of those courts. 
+ 
+​
+18.7.
+Assignment
+. Neither this Agreement, any Schedule nor any obligations hereunder or thereunder may be assigned or delegated by Customer without the prior written consent of 6RS. This Agreement will be binding upon, and inure to the benefit of, the Parties and their respective legal representatives, successors and permitted assigns. 
+ 
+​
+18.8.
+Miscellaneous
+. The titles and headings herein are for reference purposes only and will not in any manner limit the construction of this Agreement. As used in this Agreement, 
+“including” means “including but not limited to” and “hereof”, “herein” and “hereunder” refer to this Agreement. This Agreement may be executed in counterparts with the same force and effect as if each of the signatories had executed the same instrument. This Agreement will not be interpreted or construed against a Party because that Party or a representative for that Party participated in the drafting of this Agreement. 
+ 
+​
+[Signature Page Follows] 
+IN WITNESS WHEREOF
+, the Parties have executed this Agreement by their duly authorized representatives to be effective as of the Effective Date. 
+ 
+​
+6 RIVER SYSTEMS, LLC 
+LULUS FASHION LOUNGE, LLC
+ 
+ 
+​
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+9/24/2021
+Co-President
+Mark Vos
+VP, Corporate Finance
+Rob Lorbetskie
+9/29/2021
+By: 
+ 
+By: 
+Name: 
+ 
+Name: 
+ 
+Title: 
+ 
+Title: 
+ Date: 
+ 
+Date: 
+ 
+ 
+​
+​
+DocuSign Envelope ID: C3676368-BB77-43DB-9290-645E2F53A6A696E60 36 2C60-4F95-B913-03968E1ED0BF
+Exhibit 10.8 
+Schedule 1
+ 
+ 
+This Schedule is issued pursuant to that certain Master Fulfillment System Acquisition & 
+Software License Agreement, dated as of September 24, 2021, by and between 6 River Systems, LLC and Lulu’s Fashion Lounge, LLC (the “Agreement”). Should a conflict arise between the terms of this Schedule and the terms of the Agreement, this Schedule shall control. Capitalized terms used herein and not otherwise defined shall have the meanings set forth in the Agreement. 
+Hardware
+ 
+Purchased Hardware (One Time) 
+Qty 
+Sales Price 
+Total 
+Invoice Date 
+Reliability Center 
+1 
+ 
+​
+$12,700 
+ 
+​
+$12,700 
+100% on the date 
+hereof 
+ 
+​
+Total 
+​
+​
+$12,700 
+​
+ 
+​
+Rental Hardware (Recurring) 
+Qty 
+Sales Price 
+Annual 
+Invoice Date 
+Chuck 
+45 
+$13,992 
+$629,640 
+25% on the date hereof 25% quarterly beginning 90 days following the Go Live 
+Date 
+Additional Level 
+45 
+$2,016 
+$90,720 
+​
+Auto Charger 
+3 
+$5,500 
+$16,500 
+​
+Chuck, Peak Rental 
+17 
+$5,880 
+$99,960 
+100% on the date of the Peak Delivery Notice 
+ 
+​
+Additional Level, Peak Rental 
+17 
+ 
+​
+$1,260 
+ 
+​
+$21,420 
+​
+Total 
+​
+​
+$858,240 
+​
+ 
+​
+Software
+ 
+SaaS Software (Recurring) 
+Qty 
+Sales Price 
+Annual 
+Invoice Date 
+Software Subscription, Picking, Packout, & Replen SaaS 
+1 
+ 
+​
+$0 
+ 
+​
+$0 
+Included in Chuck 
+Rental Hardware fee 
+ 
+​
+Total

@@ -1,0 +1,461 @@
+EX-10.28
+
+2
+
+exhibit102820181231.htm
+
+THOMPSON MSA AND AMENDMENTS
+
+Exhibit
+
+Thomson Transaction Services
+MASTER SUBSCRIPTION AGREEMENT
+This Master Subscription Agreement (this “Agreement”) is entered into by and between Thomson Transaction Services (“TTS”), a division of Thomson Financial LLC, a Thomson Reuters company, 350 North Sunny Slope Road, Brookfield, WI 53005, and LPL Financial Corporation (“Subscriber”), 9785 Towne Centre Drive, San Diego, CA 92121, this __ day of _______________, 2008.
+WHEREAS, TTS owns the following proprietary computer programs:
+TTS Host™ - provides back office processing support for securities brokerage firms
+TTS Link™ - provides complete front-office integration with TTS Host
+BL Server™ - provides electronic access to TTS Link core applications
+TTS Access™ - provides data delivery of mainframe data
+XT Server - provides ability to receive real-time TTS Host transaction messages
+(collectively, “the TTS System”)
+WHEREAS, Subscriber desires to subscribe to this data processing service called the TTS System offered by TTS, and to have the TTS System installed at certain offices of Subscriber;
+NOW, THEREFORE, in consideration of the mutual promises and covenants exchanged herein, TTS and Subscriber agree as follows:
+1.
+Purpose of Agreement
+. The purpose of this Agreement is to set forth the terms and conditions governing the mutual rights, duties and obligations of the parties hereto.
+2.
+Services Provided
+.
+(a)
+TTS will provide Subscriber with the TTS System services which are set forth, together with their charges, on Schedule A attached hereto and incorporated herein by reference.
+(b)
+TTS Host and TTS Link service provided hereunder shall be available on each day that the New York Stock Exchange is open for trading. On such days TTS shall make reasonable efforts to provide all TTS Host and TTS Link service hereunder from 6:00 a.m. to 8:00 p.m., CST, and limited inquiry functions from 8:00 p.m. to 11:30 p.m., CST. TTS shall also make reasonable efforts to provide limited inquiry functions on Saturdays from 6:00 a.m. to 6:00 p.m., CST, except that TTS reserves the right to limit or curtail holiday or weekend availability when necessary for system upgrades, adjustments, maintenance, or other operational considerations.
+BL Server service provided hereunder shall be available on each day that the New York Stock Exchange is open for trading. On such days, TTS shall make reasonable efforts to provide BL Server service hereunder from 6:00 a.m. to 6:00 p.m. CT and inquiry and order entry functions from 6:15 p.m. to 6:00 a.m. CT. TTS shall also make reasonable efforts to provide inquiry and order entry functions on weekends except for 8:00 p.m. CT Saturday evening until 6:00 a.m. CT Sunday morning 
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+during which time TTS will be performing maintenance on its mainframe computer systems.
+(c)
+General enhancements to existing TTS Host service provided hereunder shall be made available to Subscriber at no additional cost, but any new features or services that may be developed by TTS during the term of this Agreement may, at TTS’s option, and subject to Subscribers’ acceptance, be made available to Subscriber at TTS’s then-current prices for such new features or services, and upon such other terms as TTS may reasonably deem appropriate. Enhancements to existing TTS Host services requested by Subscriber and which benefit less than a majority of TTS’s Subscribers at the time such enhancements are put into service may, at TTS option, be billed to such benefiting Subscribers at TTS standard rates for programming after discussion with Subscriber. All enhancements to the TTS Host service, and any new features or services introduced by TTS, shall remain the exclusive proprietary property of TTS.
+3.
+Equipment and Hardware
+. Subscriber shall be responsible for obtaining, installing at its premises, and maintaining all equipment and hardware, including telecommunications equipment, necessary for using the TTS System. TTS will assist Subscriber in developing an acceptable equipment list, and Subscriber shall, prior to installation, submit its equipment configuration to TTS for approval, which shall not be unreasonably withheld.
+TTS shall also provide reasonable prior written notice to Subscriber of any scheduled enhancements or modifications to hardware, software, databases, network protocols, security recovery efforts, and similar items that impact Subscriber or its users use of the products or services. TTS shall also provide to Subscriber, upon Subscriber’s request, a copy of TTS’s change control process document.
+4.
+Subscriber Data
+.
+(a)
+Subscriber will timely supply TTS, in a form acceptable to TTS, with all data necessary for TTS to perform the ongoing services to be provided hereunder. It is the sole responsibility of Subscriber to insure the completeness and accuracy of such data.
+(b)
+TTS acknowledges that all records, data, files and other input material relating to Subscriber are confidential and shall take reasonable steps to protect the confidentiality of such records, data, files and other materials. TTS will provide reasonable security safeguards to limit access to Subscriber’s files and records to Subscriber and other authorized parties.
+(c)
+TTS will take reasonable steps to protect against the loss or alteration of Subscriber’s files, records and data retained by TTS, but Subscriber recognizes that events beyond the control of TTS may cause such loss or alteration. TTS will maintain backup file(s) containing all of the data, files and records related to Subscriber in accordance with the terms of TTS’s Disaster Recovery arrangement. Subscriber’s file(s), records and data shall be released to Subscriber upon termination of this Agreement or in the event of an occurrence that renders TTS unable to perform hereunder.
+(d)
+TTS acknowledges that all records, data, files and other input material relating to Subscriber are the exclusive property of the Subscriber.
+5.
+Charges and Payments
+.
+(a)
+General
+. In addition to reimbursements required elsewhere in this Agreement, Subscriber shall pay for services in accordance with Schedule A attached hereto and 
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+as may be adjusted as provided herein, Charges for any partial month of service shall be prorated on the basis of a 30-day month. Upon each twelve (12) month anniversary of this Agreement, TTS may adjust its fees for trade charges, charges for non-trade services and the TTS Host and TTS Fixed Income monthly services minimums in accordance with the cumulative net change in the consumer price index over the prior year. TTS agrees that it will continue to offer to and maintain for Subscriber the HOLD module as currently utilized by Subscriber through October 15, 2011 at the same fees as contained in this Agreement.
+(b)
+Billing
+. TTS shall invoice Subscriber monthly for all applicable charges. If payment is not received by TTS within forty-five (45) days of the invoice date, Subscriber agrees to pay TTS interest on the unpaid balance at the rate of 8% per annum from the date of the invoice until paid in full. If payment in full is not received within ninety (90) days of the date of the invoice, TTS may, at its option, terminate this Agreement upon thirty (30) days written notice. If Subscriber disputes all or a portion of an invoice in good faith, Subscriber may withhold the disputed portion of the payment pending resolution of the disputed amount pursuant to Paragraph 13 of this Agreement.
+(c)
+Taxes
+. Utilities and Exclusions. All charges shall be exclusive of any federal, state or local sales, use, excise, ad valorem or personal property taxes levied, or any fines, forfeitures or penalties assessed in connection therewith, as a result of this Agreement or the installation or use of TTS Host hereunder. Any such taxes which may be applicable will be paid by Subscriber or by TTS for Subscriber’s account, in which case Subscriber shall reimburse TTS for amounts so paid. All electrical utility service necessary to operate TTS Host at Subscriber’s offices shall be maintained in Subscriber’s own account with such utility or service, and all charges for such services, including installation charges in connection therewith, shall be paid by Subscriber. TTS shall arrange for the installation of all telecommunications services necessary for Subscriber’s use of the TTS System, which will be maintained in TTS’s account for Subscriber’s exclusive use. Subscriber shall promptly remit payment to TTS, at TTS standard rates, for all charges in connection with such installation and Subscriber’s use thereof.
+6.
+Term of Agreement
+.
+(a)
+This Agreement will be effective in the month following the month of execution and will terminate sixty (60) months from January 1, 2009. TTS or Subscriber shall give the other party twelve (12) months written notice of its intent not to renew this Agreement upon its expiration. If such notice is given less than six (6) months prior to the expiration date, then this Agreement shall remain in effect for twelve (12) months from the giving of such notice.
+(b)
+Unless TTS or Subscriber shall have given notice of non-renewal as provided in Paragraph 7(a), in the event that no renewal, continuation or successor agreement is signed by the parties prior to the expiration of this Agreement, this Agreement may be extended automatically for successive periods of six (6) months until a successor, renewal or continuation agreement is signed by the parties or until Subscriber, upon six (6) months written notice to TTS, or TTS, upon six (6) months written notice to Subscriber, elects to terminate this Agreement. During any period of extension described in this subparagraph 7(b), the charge for the services provided to Subscriber hereunder may, at TTS’s option, be 105% of TTS’s then-current non-discounted rates.
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+7.
+Termination
+.
+(a)
+If Subscriber cancels this Agreement after the effective date and prior to the end of the term, Subscriber will pay a termination fee as set forth in Schedule A equal to the monthly minimum per month times by the remaining months to end of term. Such termination fee will be paid in one lump sum payment
+(b)
+In addition to termination rights as provided elsewhere herein, either party may terminate this Agreement in the event that the other party commits a material breach of any provision of this Agreement, provided the breaching party fails to cure such material breach within sixty (60) days of its receipt of written notification thereof from the other party.
+(c)
+Subscriber shall have the right to terminate this Agreement for a “Chronic Service Failure” as set forth in Schedule 5 of the SLA, in which event all fees for early termination of this Agreement will be waived, TTS will assist the Subscriber in identifying any deconversion data files that are required, and TTS will deliver those data files electronically without charge to Subscriber.:
+8.
+Representations and Warranties
+(a)
+Title and Non-Infringement
+.
+(1)
+TTS hereby represents, warrants and covenants to Subscriber that it has and at all times will have the full legal right to provide the TTS System and all TTS Services provided by under this Agreement, and TTS has no knowledge of any claim, litigation or proceeding pending or threatened against TTS with respect to such TTS Services or the TTS System, or any component thereof, alleging infringement of any patent or copyright or violation of any trade secret or any other proprietary right of any person.
+(2)
+Subscriber hereby represents, warrants and covenants to TTS that it has and at all times will have the full legal right to provide the data to TTS as contemplated herein and Subscriber has no knowledge of any claim, litigation or proceeding pending or threatened against Subscriber with respect to data, alleging infringement of any patent or copyright or violation of any trade secret or any other proprietary right of any person.
+(b)
+Compliance with Law
+.
+(1)
+TTS hereby represents, warrants and covenants to Subscriber that in performing its obligations and exercising its rights under this Agreement, TTS will comply (and shall require all of its personnel providing Services hereunder or otherwise involved in TTS’s performance under this Agreement to comply) with all applicable Laws (and all changes in Laws) applicable to TTS and the Services it provides hereunder, and that TTS will obtain and maintain all permits, licenses, and consents required in connection therewith. For the purposes of this Agreement, “Law” shall mean a declaration, decree, directive, legislative enactment, statute, order, ordinance, regulation, rule or other binding action of or by an Federal, state, municipal, local, territorial or other government department, regulatory authority, judicial or administrative body.
+(2)
+Subscriber hereby represents warrants and covenants to TTS that Subscriber is in compliance with all Laws applicable to it and will obtain and maintain all permits, licenses, and consents required in connection with its obligations under this Agreement.
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+(c)
+Business Continuation
+. TTS hereby represents, warrants and covenants to Subscriber that it has and shall maintain a disaster recovery plan (including designating specific protocols for declaring a disaster) and business continuation plan (including recovery time objectives) that shall enable TTS to provide the Services and the System in accordance with this Agreement and that it shall test the operability of such plan at least once every 12 months and revise such plan as necessary to ensure continued operability. TTS shall permit Subscriber to participate in such testing and shall provide the results of such annual testing to Subscriber. TTS’s agrees that its business continuation plan shall be reviewed and approved by the TTS senior management team annually. Subscriber may request a summary of TTS’s disaster recovery plan on a quarterly basis. Twice per year Subscriber may review at TTS a current copy of the full TTS disaster recovery plan which includes confidential information and which may not be removed from the premises.
+(d)
+Audit. Controls
+. Security. All passwords and all Subscriber Confidential Information stored, cached, or otherwise maintained on TTS’s laptops or other portable media shall be stored in an encrypted format. At any time during the term of this Agreement, but no more than once per year, Subscriber may request copies of Privacy and Security Policies and Procedures, and SAS-70, including a Type II SAS-70. Subscriber may recommend to TTS additional reasonable controls to be added to the SAS-70. TTS shall use its best efforts to deliver to Subscriber the SAS-70 by December 15 of each year of the term of this Agreement. If TTS agrees with such recommendations and its other subscribers consent, TTS will implement the recommendations. TTS shall annually complete Subscriber’s Standardized Information Gathering Questionnaire. TTS agrees that it shall perform periodic penetration testing of all internet facing applications.
+9.
+Confidentiality
+(a)
+Confidentiality Obligation
+. Each party (in such capacity the “Receiving Party”) shall hold the Confidential Information (as defined below) of the other party (in such capacity the “Disclosing Party”) in strict confidence. The Receiving Party shall have the limited right to use the Confidential Information only for the purposes of fulfilling its commitments and obligations to the Disclosing Party under this Agreement and for no other purpose. Except as permitted in the foregoing sentence or by prior written consent of the Disclosing Party, the Receiving Party shall not use, disclose or distribute to any person, firm or entity any Confidential Information and shall not permit any person, firm or entity to use, disclose or distribute any Confidential Information; provided that the Receiving Party may disclose or distribute such Confidential Information to the following: (i) its officers, employees and directors who have a business need to know such Confidential Information; and (ii) its attorneys, accountants, consultants, agents, independent contractors or professional advisors (the “Receiving Party Agents”) who (x) have a business need to know such Confidential Information and (y) are subject to fiduciary, professional or written obligations of confidentiality substantially similar to, and no less restrictive than, the obligations set forth herein. The Receiving Party shall be responsible for ensuring that the Receiving Party Agents comply with the terms of this Agreement and shall remain ultimately responsible for the use, disclosure or distribution of Confidential Information by the Receiving Party Agents. Any failure by the Receiving Party Agents to comply with the terms hereof shall constitute a 
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+material breach of this Agreement by the Receiving Party. Except in connection with the purposes identified above, the Receiving Party shall not copy or otherwise reproduce, or permit to be copied or otherwise reproduced, all or any part of Confidential Information without the prior written consent of the Disclosing Party.
+TTS agrees that all information related to Subscriber’s customers that it becomes aware of as a result of this Agreement is confidential and proprietary in nature, that by law this information must be protected and kept confidential, and that said information shall not be divulged by TTS to any third parties (except as may be required by Law or pursuant to an order of any court or administrative body in accordance with the proviso set forth in Section 9(c) below) or used in any manner other than in connection with the terms of this Agreement. Vendor shall (1) establish procedures to protect the security and confidentiality of this information, (2) protect against any anticipated threats or hazards to the security or integrity of the customer information, (3) protect against unauthorized access to or use of such information that could result in substantial harm or inconvenience to customers; and (4) otherwise comply with Laws applicable to TTS and the Services it provides hereunder.
+(b)
+Confidential Information
+. As used in this Agreement, “Confidential Information” shall mean (i) the subject and terms of any and all potential or binding business transactions between the parties, and (ii) all oral or written information, of whatever kind and in whatever form, and whether or not marked as “confidential,” of the Disclosing Party, its employees, suppliers, or customers, including the identities thereof, that may be obtained from any source as a result of or in connection with this Agreement, as well as all such other information designated by the Disclosing Party as confidential including past, present or future business and business activities, financial or technical information; products, services, research and development; processes, techniques; designs; financial planning practices; client information (including clients’ identities and any client related data or information); and marketing plans.
+(c)
+Exceptions
+. As used in this Agreement, the term “Confidential Information” shall not include any information which the Receiving Party can demonstrate (i) is in the public domain through no fault or breach of confidentiality by such Receiving Party, (ii) was known by the Receiving Party prior to its disclosure by the Disclosing Party and was not obtained in such circumstances subject to a requirement of confidentiality, or (iii) was developed independently of, and without the use of or access to, any Confidential Information exchanged pursuant to this Agreement. Despite the obligations of this Section 9, the Receiving Party may disclose the Confidential Information of the Disclosing Party to the limited extent such Confidential Information is required to be disclosed by the Receiving Party by Law or pursuant to an order of any court or administrative body; provided that the Receiving Party (i) shall provide the Disclosing Party with prompt notice of such request or order, including copies of subpoenas or orders requesting such Confidential Information,
+    
+(ii) shall cooperate reasonably with the Disclosing Party in resisting the disclosure of such Confidential Information via a protective order or other appropriate legal action, and (iii) shall not make disclosure pursuant thereto until the Disclosing Party has had a reasonable opportunity to resist such disclosure, unless the Receiving Party is ordered otherwise. Notwithstanding the 
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+foregoing, TTS may review and use Confidential Information internally on an aggregated anonymous basis to improve the System and its Services.
+(d)
+Ownership
+. All Confidential Information shall be and remain the sole and exclusive property of the Disclosing Party or its employees, suppliers or customers, as the case may be. Except as otherwise set forth in this Agreement, neither Party acquires any Intellectual Property Rights, including any rights to create derivative works of any Confidential Information, under this Agreement, except the limited right to use such Confidential Information in accordance with this Agreement. For the purposes of this Agreement, “Intellectual Property” shall mean a party’s patents, trade marks, service marks, trade and service names, copyrights, database rights and design rights (whether or not any of them are registered and including applications for registration of any of them), rights in know-how, moral rights, trade secrets and all rights or forms of protection of a similar nature or having similar or equivalent effect to any of them which may subsist anywhere in the world now existing or hereafter arising. Except as expressly provided herein, without Subscriber’s prior written approval (in its sole discretion), Subscriber Confidential Information shall not be (i) used by TTS other than is necessary for TTS’s performance of its obligations under this Agreement, (ii) disclosed, sold, assigned, leased or otherwise provided to third parties by TTS, or (iii) commercially exploited by or on behalf of TTS.
+(e)
+Unauthorized Disclosure
+. The Receiving Party shall (i) promptly notify the Disclosing Party’s Chief Security Officer if the Receiving Party discovers or is notified of an unauthorized disclosure or release of, or access to, the Disclosing Party’s Confidential Information (each, an “Unauthorized Disclosure”) to or by any person obtaining or reasonably believed to have obtained such Confidential Information, or access to such Confidential Information, from or through the Receiving Party, (ii) reasonably assist the Disclosing Party in any action taken against the person(s) responsible for such Unauthorized Disclosure, and (iii) take immediate corrective action to cease the existing Unauthorized Disclosure and prevent any other or future Unauthorized Disclosures. In the event of a breach of confidentiality under this Section 9, TTS and Licensee will negotiate appropriate remediation efforts in good faith.
+(f)
+Return of Confidential Information
+. Upon written request by the Disclosing Party at any time, the Receiving Party shall: (i) turn over to the Disclosing Party all Confidential Information, all documents or media containing the Confidential Information, and any and all copies or extracts thereof, or (ii) destroy the Confidential Information, and any and all copies or extracts thereof, and provide the Disclosing Party with written certification of such destruction signed by an authorized representative of the Receiving Party. Notwithstanding the foregoing, each Party acknowledges that the Receiving Party shall not be required to comply with the foregoing to the extent that (i) the Confidential Information resides on the Receiving Party’s backup, disaster recovery or business continuity systems, or (ii) the Receiving Party is obligated by applicable Law or industry or governmental regulations to retain such Confidential Information, or (iii) with respect to Subscriber, any such Confidential Information is licensed to Subscriber. In addition, upon termination or expiration of this Agreement, TTS shall (i) shred all documents containing Customer Data prior to disposal and (ii) destroy all copies of the 
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+Customer Data and certify in writing to Subscriber that TTS has complied with the requirements contained herein.
+(g)
+Trademarks
+. Trade Names, and Publicity. Except as is reasonably necessary to provide or utilize the Services hereunder, TTS agrees not to use the name(s), trademarks, trade names, service marks, and other marks (collectively, “Marks”) of Subscriber, whether registered or not, in publicity releases or advertising or in any other manner, including company lists, marketing lists or client lists, without securing the prior written approval of a managing director or higher ranking officer of Subscriber. Further, TTS shall not provide any Subscriber contact or key person information to any Affiliate of TTS or any third party, unless Subscriber has approved such in advance. For the purposes of this Agreement, “Affiliate” means (i) any entity that, from time to time, directly or indirectly controls, is controlled by, or is under common control with either TTS or Subscriber, or that is a successor (whether by change of name, dissolution, merger, consolidation, reorganization, sale or other disposition) to any such entity or its business and assets; or Thomson Reuters Corporation, Thomson Reuters PLC and any of their current parent entities or subsidiaries from time to time. An entity will be deemed to control another entity if it has the power to direct or cause the direction of the management or policies of such entity, whether through the ownership of voting securities, by contract, or otherwise.
+(h)
+Additional Remedies
+. The Receiving Party acknowledges and agrees that due to the unique nature of the Confidential Information and the Marks, there may be no adequate remedy at Law for a breach by the Receiving Party of its obligations under this Section 9 and that such breach may cause irreparable harm to the Disclosing Party. Therefore, upon any such breach or any threat thereof, the Disclosing Party shall be entitled to seek appropriate equitable relief in addition to whatever remedies it may have at Law.
+10.
+Indemnification
+(a)
+Obligation to Defend and Indemnify
+. TTS shall defend Subscriber, its Affiliates, and their respective directors, officers, employees, agents, contractors, successors, and assigns (each, an “Indemnified Party’’) from and against any and all claims, demands, investigations, and causes of actions by third parties (each, a “Claim”) to the extent such Claims are based on or arise from (i) any allegations that any of the System or the Services infringes upon or misappropriates the Intellectual Property Rights of a third party, (ii) any bodily injury (including death) or damage to or loss of any tangible personal or real property caused by the actions or omissions of TTS, its Affiliates, or any of their respective directors, officers, employees, agents, contractors, successors, or assigns, (iii) any allegation that any of TTS’s personnel is an employee of Subscriber by virtue of performing any Services under this Agreement or otherwise, or (iv) any expenses, including any taxes, which were the responsibility of TTS hereunder. In addition, TTS shall indemnify and hold each Indemnified Party harmless from and against any and all damages, losses, fines, penalties, costs, and other amounts (including reasonable attorney’s fees and expenses) incurred or suffered by any such Indemnified Party in connection with any such Claims. Notwithstanding the foregoing TTS shall not be liable nor have any obligation to indemnify if such Claims were caused by Subscriber.
+(b)
+Additional Remedy
+. If Subscriber is enjoined or otherwise prohibited, or is reasonably likely in the opinion of Subscriber’s counsel to be enjoined or otherwise 
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+prohibited, from using any of the System, the Services or any portion thereof, based on a Claim covered by TTS’s indemnification obligations under Section 10(a) above, then TTS shall, at its sole expense and option and in addition to fulfilling its obligations under Section 10(a): (i) obtain for Subscriber the right to use the infringing portion(s) of the System or affected Services (as applicable), (ii) modify the infringing portion(s) of the System or affected Services so as to render them non-infringing without substantially diminishing or impairing their functionality, (iii) replace the infringing portion of the System or affected Services with non-infringing items of substantially similar functionality, or (d) promptly refund to Subscriber an equitable amount paid by
+(c)
+Subscriber’s Indemnity Obligation
+. Subscriber shall defend TTS, its Affiliates, and their respective directors, officers, employees, agents, contractors, successors, and assigns (each, an “Indemnified Party”) from and against any and all Claims to the extent such Claims are based on or arise from (i) any allegations that any of any Subscriber tools or services provided by Subscriber to TTS infringes upon or misappropriates the Intellectual Property Rights of a third party, (ii) any bodily injury (including death) or damage to or loss of any tangible personal or real property caused by the actions or omissions of Subscriber, its Affiliates or any of their respective directors, officers, employees, agents, contractors, successors, or assigns, (iii) any allegation that any of Subscriber’s personnel is an employee of TTS by virtue of receiving any Services under this Agreement or otherwise, or (iv) any expenses, including any taxes, which were the responsibility of Subscriber hereunder. In addition, Subscriber shall indemnify and hold each Indemnified Party harmless from and against any and all damages, losses, fines, penalties, costs, and other amounts (including reasonable attorney’s fees and expenses) incurred or suffered by any such Indemnified Party in connection with any such Claims. Notwithstanding the foregoing, Subscriber shall not be liable nor have any obligation to indemnify if such Claims were caused by TTS.
+11.
+Disclaimer of Warranties and Limitations of Liability
+.
+(a)
+Disclaimer of Warranty
+. EXCEPT AS SPECIFICALLY PROVIDED HEREIN, THERE ARE NO, AND TTS SYSTEMS EXPRESSLY DENIES, REJECTS AND DISCLAIMS ANY, WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR WARRANTIES OF THE CORRECTNESS, ACCURACY, PRECISION, TIMELINESS OR COMPLETENESS OF ANY INFORMATION OR SERVICES PROVIDED THROUGH THE TTS SYSTEM.
+(b)
+Limitation of Liability
+. TTS SYSTEMS, ITS AFFILIATES, EMPLOYEES, OFFICERS AND AGENTS SHALL NOT BE LIABLE TO SUBSCRIBER OR TO ANY THIRD PARTY FOR ANY LOSS OR DAMAGE, WHETHER DIRECT OR INDIRECT, RESULTING FROM DELAYS OR INTERRUPTIONS OF SERVICE DUE TO MECHANICAL, ELECTRICAL OR WIRE DEFECTS OR DIFFICULTIES, STORMS, STRIKES, WALK-OUTS, EQUIPMENT OR SYSTEMS FAILURES, OR OTHER CAUSES OVER WHICH TTS SYSTEMS, ITS AFFILIATES, EMPLOYEES, OFFICERS, OR AGENTS AGAINST WHOM LIABILITY IS SOUGHT, HAVE NO REASONABLE CONTROL, OR FOR LOSS OR DAMAGE, DIRECT OR INDIRECT, RESULTING FROM INACCURACIES, ERRONEOUS STATEMENTS, ERRORS OF FACT, OMISSIONS, OR ERRORS 
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+IN THE TRANSMISSION OR DELIVERY OF THE TTS SYSTEM, OR ANY DATA PROVIDED AS A PART OF THE TTS SYSTEM PURSUANT TO THIS AGREEMENT. IN ALL OTHER CASES, THE LIABILITY OF TTS SYSTEMS SHALL BE LIMITED TO, AND SUBSCRIBER AGREES NOT TO MAKE ANY CLAIM EXCEEDING, TTS SYSTEMS’ ACTUAL CHARGE TO SUBSCRIBER FOR THE PARTICULAR TRANSACTION OR TRANSACTIONS FOR WHICH ANY CLAIM OF DAMAGE IS BEING MADE. IN NO EVENT, SHALL EITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR ANY SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, LOST SAVINGS, OR LOSS OF GOOD WILL) ARISING UNDER OR IN CONNECTION WITH A BREACH OR ALLEGED BREACH OF THIS AGREEMENT, EVEN IF SUCH OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+(c)
+Time for Making Claims
+. ANY SUIT OR ACTION BY SUBSCRIBER AGAINST TTS SYSTEMS, IT AFFILIATES, OFFICERS, DIRECTORS, AGENTS, EMPLOYEES, SUCCESSORS OR ASSIGNS, BASED UPON ANY ACT OR OMISSION ARISING OUT OF OR RELATING TO THIS AGREEMENT, OR SERVICES PERFORMED HEREUNDER, OR ANY ALLEGED BREACH THEREOF, SHALL BE COMMENCED WITHIN ONE (1) YEAR OF THE FIRST OCCURRENCE GIVING RISE TO SUCH CLAIM OR BE FOREVER BARRED. THIS PROVISION DOES NOT MODIFY OR OTHERWISE AFFECT THE LIMITATION OF TTS SYSTEMS’ LIABILITY SET FORTH IN PARAGRAPH 11(b) OR ELSEWHERE IN THIS AGREEMENT.
+12.
+Use of the TTS System
+.
+(a)
+Subscriber acknowledges that the software systems utilized by TTS hereunder, including all enhancements thereto, and all screens and formats used in connection therewith, are the exclusive proprietary property of TTS, and Subscriber shall not publish, disclose, display, provide access to or otherwise make available any of the TTS Systems’ software or products thereof, or any screens, formats, reports or printouts used, provided, produced or supplied from or in connection therewith, to any person or entity other than an employees or consultants or vendors of Subscriber without the prior written consent of, and on terms acceptable to, TTS, which consent shall not be unreasonably withheld; provided, however, that Subscriber may disclose to a governmental or regulatory agency or to customers of Subscriber any information expressly prepared and acknowledged in writing by TTS as having been prepared for disclosure to such governmental or regulatory agency or to such customers. Neither party shall disclose Subscriber’s use of the TTS System in any advertising or promotional materials without the prior written consent to such use, and approval of such materials, by the other. For so long as TTS operates the TTS System for Subscriber, all methods of data access to, or interactive or batch file transfer of, data on TTS System’s mainframe computer must be authorized by TTS, and any unauthorized interactive or batch file transfer of data on TTS System’s mainframe computer via a program automated workstation or computer is explicitly prohibited.
+(b)
+Subscriber agrees that it will use the services provided hereunder only in connection with its own or its Affiliates brokerage business and it will not, without the express written permission of TTS, sell, lease, or otherwise provide or make available the 
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+TTS System to any third party. For purposes of the foregoing, Subscriber’s “own brokerage business” shall include Subscriber’s bona fide correspondents.
+(c)
+The obligations of this Paragraph 12 shall survive termination of this Agreement. Subscriber understands that the unauthorized publication or disclosure of any of TTS’s software or copies thereof, or the unauthorized use of the TTS System would cause irreparable harm to TTS for which there is no adequate remedy at law. Subscriber therefore agrees that in the event of such unauthorized disclosure or use, TTS may, at its discretion and at Subscriber’s expense, terminate this Agreement, obtain immediate injunctive relief in a court of competent jurisdiction, or take such other steps as it deems necessary to protect its rights. If TTS, in its reasonable, good faith judgment, determines that there is a material risk of such unauthorized disclosure or use, it may demand immediate assurances, satisfactory to TTS, that there will be no such unauthorized disclosure or use. In the absence of such assurance, TTS may immediately terminate this Agreement and take such other steps as it deems necessary. The rights of TTS hereunder are in addition to any other remedies provided by law.
+13.
+Dispute Resolution
+. The parties shall initially attempt to resolve informally any dispute arising out of or relating to this Agreement, including with respect to the interpretation of any provision of this Agreement and with respect to the performance by TTS hereunder, in accordance with this Section.
+(a)
+Upon the written notice by a party to the other party of a dispute hereunder (“Dispute Date”), each party shall appoint a designated representative with authority to resolve the dispute (who, if the parties so mutually agree, does not devote substantially all of his or her time to performance under this Agreement), whose task it will be to meet for the purpose of endeavoring to resolve such dispute.
+(1)
+The designated representatives shall meet as often as the parties reasonably deem necessary in order to gather and furnish to the other party all information with respect to the dispute which information the parties believe to be appropriate and germane in connection with its resolution. The representatives shall discuss the problem and attempt to resolve the dispute without the necessity of any formal proceeding. The specific format for the discussions shall be left to the discretion of the designated representatives. During the course of discussion, all reasonable requests made by a party to the other party for non-legally privileged information reasonably related to this Agreement shall be honored in order that a party may be fully advised of the other party’s position.
+(2)
+If the parties are unable to resolve a dispute informally within sixty (60) days of the applicable Dispute Date, either party may commence any litigation in accordance with the terms of paragraph 14(a).
+14.
+Applicable Law, Venue and Severability
+.
+(a)
+This Agreement shall be construed and enforced in accordance with the law of the State of New York without giving effect to any choice of law or conflict of law provisions. Any disputes arising under this Agreement will be brought and heard in the appropriate Federal or state court located in New York County in the State of New York and each of the parties hereby irrevocably consents to the jurisdiction of such courts.
+15.
+In the event that any court having competent jurisdiction over the interpretation of this Agreement shall determine that one or more of the provisions contained in this Agreement 
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+shall be unenforceable in any respect, then such provision shall be deemed limited and restricted to the extent that such court shall deem it to be enforceable, and, as so limited or restricted, shall remain in full force and effect
+. In the event that any such provision or provisions shall be deemed wholly unenforceable, such provision shall be deemed deleted from this Agreement, and the remaining provisions shall remain in full force and effect. Any such judicial interpretation requiring limitation or deletion of a provision shall be valid only in the jurisdiction in which such interpretation is made.
+16.
+General
+.
+(a)
+Waiver of Breach
+. The fact that one (1) party excuses or overlooks a breach of any provision of this Agreement by the other party does not mean that that party excuses any other breach or waives its right to remedy any other breach by the other party.
+(b)
+TTS shall not assign this Agreement (by operation of law or otherwise), or any of its rights or obligations hereunder, without the prior written consent of Subscriber, provided that, notwithstanding the foregoing, upon prior written notice, TTS may assign this Agreement to an Affiliate. In addition, TTS shall not delegate or subcontract any of its rights or obligations hereunder to a third party without the prior written consent of Subscriber. In the event such delegation or subcontracting is consented to by Subscriber, the third party to which such rights or obligations are delegated or subcontracted shall be bound by the terms and conditions of this Agreement applicable to TTS (including, but not limited to, the terms of Section 9, Confidentiality, hereof), and any failure by such third party to comply with the terms hereof shall constitute a breach of this Agreement by TTS. TTS shall also be solely responsible for all payments due to such third party. Any assignment, transfer, delegation or subcontracting of rights or obligations hereunder in contravention of this Section 16(b) shall be null and void. All terms and conditions of this Agreement shall be binding upon and shall inure to the benefit of and be enforceable by the parties hereto and their respective successors and permitted assigns.
+(c)
+Any notice required to be given under this Agreement shall be in writing and shall be deemed to have been given if served personally, or if sent by certified mail, postage prepaid, to the parties at the address shown below, or such other address as either party may hereafter designate by notice to the other.
+To TTS, a division of Thomson Financial, LLC:
+Thomson Transaction Services
+350 North Sunny Slope Road
+Brookfield, Wisconsin 53005
+Attn: Mr. Jeffrey D. Vorpahl
+To Subscriber:
+LPL Financial Corporation
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+One Beacon Street, 22nd Floor
+Boston, Massachusetts 02108
+Attn: Stephanie L. Brown
+Managing Director General Counsel
+(d)
+Contact information for the Subscriber’s Chief Security Officer is set forth below for the purposes of Section 9(e) of this Agreement:
+Marc Loewenthal
+SVP, Chief Security Officer
+9785 Towne Centre Drive
+San Diego, CA 92121
+marc.loewenthal@Jpl.com
+858-450-9606
+(e)
+The headings in this Agreement are for convenience only and shall not be used to alter or limit the interpretation of any provision hereof.
+(f)
+This Agreement, together with all Schedules, Exhibits and amendments hereto, constitute the entire agreement of the parties and supersede all prior discussion and correspondence between them with respect to the subject matter hereof. No modification of this Agreement shall be effective unless the same is in writing and signed by both parties.
+(g)
+This Agreement, all schedules attached hereto, and all terms and conditions herein, are confidential and shall not be disclosed by Subscriber except as required by law.
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK -
+SIGNATURE PAGE FOLLOWS]
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+IN WITNESS WHEREOF
+, we have set our hand as of the date first noted above.
+THOMSON TRANSACTION SERVICES, a division of Thomson Financial LLC, a Thomson Reuters company
+By: 
+/s/ Gordon J. Fox
+        
+Date: 
+1/5/09
+Title: 
+Managing Director
+        
+Name: 
+Gordon J. Fox
+By: 
+/s/ Jeffrey Vorpahl
+    
+Date: 
+1/5/09
+Title: 
+CFO
+        
+Name: 
+Jeffrey Vorpahl
+LPL Financial Corporation
+By: 
+/s/ Stephanie L. Brown
+    
+Date: 
+1/5/09
+Title: 
+Managing Director, General Counsel
+        
+Name: 
+Stephanie L. Brown
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+Schedule A
+[**]
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+Schedule B
+[**]
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+FIRST AMENDMENT
+TO
+MASTER SUBSCRIPTION AGREEMENT
+THIS FIRST AMENDMENT (the “Amendment”), made effective this 1st day of December, 2013 to that certain BETAHost Master Subscription Agreement by and between Thomson Reuters BETA Systems (“BETA”), a division of Thomson Financial LLC, a Thomson Reuters company, and LPL Financial LLC (formerly, LPL Financial Corporation and hereinafter “Subscriber”) dated December 30, 2008 (the “Agreement”).
+WITNESSETH THAT:
+WHEREAS, the parties hereto have entered into the Agreement for BETA to provide to Subscriber, a data processing service called BETAHost; and,
+WHEREAS, BETA and Subscriber desire to amend the Agreement to provide a revised processing charge schedule and other related revisions;
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, and other good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree to amend the Agreement as follows:
+Paragraph 2 (b) of the Agreement will be deleted in its entirety and replaced with the following: “Provided Subscriber adheres to BETA’S reasonable recommendations regarding system use and equipment configuration, BETA will provide the Services in accordance with the service level standards (each, a “Performance Standard”) as set forth in Service Level Agreement schedule of the Agreement.”
+Paragraph 5 (a) of the Agreement will be deleted in its entirety and replaced with the following; “General. In addition to reimbursements required elsewhere in this Agreement, Subscriber shall pay for services in accordance Schedule A attached hereto and as may be adjusted as provided herein. Charges for any partial month of service shall be prorated on the basis of a 30-day month.”
+The first sentence of paragraph 6 (a) of the Agreement will be deleted and replaced with the following: “This Agreement will be effective in the month executed and will terminate five (5) years from that date.”
+Paragraph 6 (b) will be deleted in its entirety and replaced with the following: “Unless notice of non-renewal has been provided, this Agreement shall be extended automatically for successive periods of one year until a successor agreement is signed by the parties or until the Agreement, upon 180 days prior written notice, is terminated. During any period of extension the charges for services provided shall be equal to those in effect in the last year of the term or the immediately preceding extension period, whichever is applicable, plus 5%.”
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+The following will be added as Paragraph 12 (d) of the Agreement:
+“Third party providers whose information is included in the Services may impose additional restrictions on usage of their information or materials and those restrictions may change from time to time. These restrictions may include prohibiting certain types of usage or requiring Subscriber to report its usage to obtain agreement from, or pay additional fees either through BETA or directly to, the relevant third party provider. Subscriber can view restrictions that third party providers have supplied to BETA at www.thomsonreuters.com/3ptvterms (the “Third Party Terms Site”), or alternatively, in some cases, within the relevant Service. BETA will use commercially reasonable efforts to ensure that the Third Party Terms Site or the Service (as relevant) is maintained with the latest policies of each relevant third party provider. Changes to the Third Party Terms Site will be published on the Thomson Reuters Customer Portal quarterly, where BETA will endeavor to provide Subscriber 30 days’ notice before a change goes into effect, but may not be able to do so if BETA does not receive sufficient prior notice from such third parties. 
+These restrictions are binding on Subscriber in the same way as any other provision in this Agreement Third party providers may have the right to require that BETA restrict, suspend or terminate Subscriber’s access to that third Party provider’s information or materials., if BETA takes any such action, it will use reasonable efforts to provide Subscriber with prior notice and not be liable for any resulting damages Subscriber may suffer. BETA may provide third party providers with details of Subscriber’s usage of and any suspected breach of this Agreement relating to, that third party provider’s information or materials.”
+Schedule A to the Agreement will be deleted in its entirety and replaced with the attached Schedule A.
+Schedule B to the Agreement will be deleted in its entirety.
+Made and executed this 30th
+ 
+day of December, 2013.
+Thomson Reuters BETA Systems
+By: 
+/s/ Jeffrey Vorpahl
+Name: Jeffrey Vorpahl
+Title: CFO
+LPL Financial LLC
+By: 
+/s/ Steve Morrison
+Name: Steve Morrison 
+Title: Senior Vice President
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+Schedule A
+[**]
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+SECOND AMENDMENT
+TO
+MASTER SUBSCRIPTION AGREEMENT
+THIS SECOND AMENDMENT (the “Amendment”), made effective this 1st day of January, 2016 to that certain BETAHost Master Subscription Agreement by and between Thomson Reuters BETA Systems (“), a division of Thomson Financial LLC (and now known as Thomson Reuters (Markets) LLC (“TR”), , and LPL Financial Corporation (“Subscriber”) dated December 30, 2008 (the “Agreement”).
+WITNESSETH THAT:
+WHEREAS, the parties hereto have entered into the Agreement for TR to provide to Subscriber, a data processing service called BETAHost; and,
+WHEREAS, TR and Subscriber desire to amend the Agreement to provide a revised processing charge schedule and other related revisions;
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, and other good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree to amend the Agreement as follows:
+1.
+All references to BETA Systems, a division of Thomson Financial LLC (“BETA”) shall hereinafter be referred to as Thomson Reuters (Markets) LLC. All references to the BETAHost Services shall mean the services provided to Subscriber by TR.
+2.
+Schedule A, [**], is amended by adding the following: [**]
+3.
+Schedule A, [**], is amended by adding the following: [**]
+4.
+Schedule A, [**], is amended by adding the following: [**]
+5.
+Except as expressly amended hereby, the Agreement shall continue in full force and effect in accordance with its terms. All references in the Agreement to the “Agreement” shall be deemed to be references to the Agreement as amended hereby.
+6.
+This Amendment may be executed in any number of counterparts and/or by facsimile, each of which shall be deemed to be an original agreement but such counterparts shall together constitute one and the same instrument.
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+Made and executed this 19th day of January, 2016.
+Thomson Reuters (Markets) LLC
+By: 
+/s/ David P. Akellian
+Name: David P. Akellian 
+Title: Managing Director
+LPL Financial Corporation
+By: 
+/s/ Gregory M. Woods
+ 
+Name: Gregory M. Woods
+Title: Executive Vice President, Deputy General Counsel
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+THIRD AMENDMENT
+TO
+MASTER SUBSCRIPTION AGREEMENT
+THIS THIRD AMENDMENT (the “Amendment”) is made by and between Thomson Reuters (Markets) LLC (“BETA”) and LPL Financial LLC (“Subscriber”) effective this 1st day of March, 2018 to that certain BETAHost Master Subscription Agreement dated December 30, 2008 (the “Agreement”).
+WITNESSETH THAT:
+WHEREAS, the parties hereto have entered into the Agreement for BETA to provide to Subscriber, a data processing service called BETAHost; and,
+WHEREAS, BETA and Subscriber desire to amend the Agreement to provide an additional service called BETA ODS;
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, and other good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree to amend the Agreement as follows:
+1.
+    
+Schedule A, [**], is amended by adding the following to [**]: [**]
+The parties have made and executed this Third Amendment this ___ day of March, 2018.
+Thomson Reuters (Markets) LLC
+By: 
+/s/ Tim Rutka
+Name: Tim Rutka 
+Title: Head of Technology & Ops - WM
+LPL Financial LLC
+By: 
+/s/ Peggy Ho
+Name: Peggy Ho
+Title: EVP Chief of Staff
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+SECOND AMENDMENT
+TO
+MASTER SUBSCRIPTION AGREEMENT
+THIS SECOND AMENDMENT (the ‘Amendment”), made effective this 8
+th
+ day of October, 2018 to that certain BETAHost Master Subscription Agreement by and between Thomson Reuters (Markets) LLC (“TR”), at 350 North Sunny Slope Road, Brookfield, WI 53005, and LPL Financial LLC (“Subscriber”), at 75 State Street, 22nd Floor, Boston, MA 02109 dated December 30, 2008 (the “Agreement”).
+WITNESSETH THAT:
+WHEREAS, the parties hereto have entered into the Agreement for TR to provide to Subscriber a data processing service called BETAHost: and
+WHEREAS, TR and Subscriber desire to extend the terms of the Agreement through March 30, 2019, to enable the parties to negotiate a new Agreement and new set of schedules with an extended term and other revised terms and conditions;
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, and other good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree to amend the Agreement as follows:
+1.
+The term of the Agreement shall continue and remain in effect through March 30, 2019. without a change in Fees.
+2.
+Provided that the parties renew the Agreement for a period mutually agreed upon between the Parties on or before March 30, 2019. TR hereby waives its right to auto extend the Agreement to November 30, 2019, at charges equal to 105% of the current charges now in effect, in accordance with Paragraph 6(b) of the Agreement, as revised by the First Amendment to the Agreement dated December 1, 2013, and executed on December 30, 2013 (the “First Amendment”).
+If the parties do not enter into such extension by or before March 30, 2019, (i) the waiver set forth in the prior paragraph shall be void, (ii) the Agreement shall continue in accordance with Paragraph 6(b) of the Agreement, as revised by the First Amendment, without regard to this Amendment, and (iii) as of April 1, 2019, Subscriber shall be obligated to pay the contractually required charges (105% of current charges as of November 30, 2018) for the period between December 1, 2018, and March 30, 2019, and thereafter in accordance with the Agreement.
+3.
+As amended hereby, the Agreement remains in full force and effect.
+IN WITNESS WHEREOF, the parties have executed this Amendment as of the date first noted above.
+Made and executed this ___ day of October, 2018.
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+Thomson Reuters (Markets) LLC
+By: 
+/s/ Tim Rutka
+Name: Tim Rutka 
+Title: Head of Technology & Ops - WM
+LPL Financial LLC
+By: 
+/s/ Peggy Ho
+Name: Peggy Ho
+Title: EVP, Government Relations
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+FIFTH AMENDMENT
+TO
+MASTER SUBSCRIPTION AGREEMENT
+THIS FIFTH AMENDMENT (the “Amendment”), made effective this 22nd day of January, 2019 to that certain BETAHost Master Subscription Agreement by and between Thomson Reuters (Markets) LLC (“TR”), at 350 North Sunny Slope Road, Brookfield, WI 53005, and LPL Financial LLC (“Subscriber”), at 75 State Street, 22nd Floor, Boston, MA 02109 dated December 30, 2008 (the “Agreement”).
+WITNESSETH THAT:
+WHEREAS, the parties hereto have entered into the Agreement for TR to provide to Subscriber a data processing service called BETAHost; and
+WHEREAS, the parties desire to amend the Agreement to modify previous amendment numbers;
+WHEREAS, TR and Subscriber desire to extend the terms of the Agreement through June 30, 2019, to enable the parties to negotiate a new Agreement and new set of schedules with an extended term and other revised terms and conditions,
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, and other good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree to amend the Agreement as follows:
+1.
+The parties agree that the previous Second Amendment with effective date October 8, 2018 should have been labeled as follows:
+•
+FOURTH AMENDMENT with effective date October 8, 2018
+2.
+The term of the Agreement shall continue and remain in effect through June 30, 2019, without a change in Fees.
+3.
+Provided that the parties renew the Agreement for a period mutually agreed upon between the Parties on or before June 30, 2019, TR hereby waives its right to auto extend the Agreement to November 30, 2019, at charges equal to 105% of the current charges now in effect, in accordance with Paragraph 6(b) of the Agreement, as revised by the First Amendment to the Agreement dated December 1, 2013, and executed on December 30, 2013 (the “First Amendment”).
+If the parties do not enter into such extension by or before June 30, 2019, (i) the waiver set forth in the prior paragraph shall be void, (ii) the Agreement shall continue in accordance with Paragraph 6(b) of the Agreement, as revised by the First Amendment, without regard to this Amendment, and (iii) as of July 1, 2019, Subscriber shall be obligated to pay the contractually required charges (105% of current charges as of November 30, 2018) for the period between December 1, 2018, and June 30, 2019, and thereafter in accordance with the Agreement.
+4.
+As amended hereby, the Agreement remains in full force and effect.
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1
+IN WITNESS WHEREOF, the parties have executed this Amendment as of the date first noted above.
+Made and executed this ___ day of January, 2019.
+Thomson Reuters (Markets) LLC
+By: 
+/s/ Tim Rutka
+Name: Tim Rutka
+Title: Head of BETA
+LPL Financial LLC
+By: 
+/s/ Peggy Ho
+Name: Peggy Ho
+Title: EVP Chief of Staff
+** This exhibit has been redacted and is the subject of a confidential treatment request. Redacted material is marked with [**] and has been filed separately with the Securities and Exchange Commission.
+74384936_1

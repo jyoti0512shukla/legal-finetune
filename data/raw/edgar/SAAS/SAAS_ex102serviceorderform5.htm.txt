@@ -1,0 +1,1589 @@
+EX-10.2
+
+3
+
+ex102serviceorderform5.htm
+
+EX-10.2
+
+Document
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+SERVICES ORDER FORM 5
+TO SOFTWARE AS A SERVICE (SaaS) AGREEMENT
+ENTERPRISE SERVICES 
+This Services Order Form (“
+SOF 5
+”) is made effective as of January 1, 2020 (“
+Effective Date
+”). The terms and conditions of that Software as a Service Agreement (including all Exhibits attached thereto the “
+SaaS Agreement
+”) executed by and between Castlight Health, Inc. (“
+Castlight
+”) and Anthem, Inc., on behalf of itself and its Affiliates (each an “
+Anthem Company
+” and collectively, “
+Anthem
+”), dated November 1, 2015, as amended by Amendments 1 to 6, shall apply herein. The duties and obligations of the Parties set forth elsewhere in the SaaS Agreement, together with the terms of this SOF 5 and any of its Addenda shall collectively define the duties and obligations of the Parties. Anthem and Castlight may be referred to herein each as a “
+Party
+” and collectively as the “
+Parties
+.” 
+Notwithstanding anything to the contrary in Section 1.3 of the SaaS Agreement, in the event of any inconsistency or conflict between the terms and conditions of this SOF 5 and the SaaS Agreement, then the terms and conditions of this SOF 5 shall prevail.
+I.
+DEFINITIONS
+. 
+For purposes of this SOF 5, the following terms shall have the meanings set forth below, and additional capitalized terms appearing in this SOF 5 shall be defined as set forth in the SaaS Agreement:
+A.
+“
+Administrator
+” means Customer’s third party administrator of health services other than Anthem, pharmacy benefit manager, dental benefit manager, and other certain third parties that provide services (such as employee benefit portals) and/or data to Customer, and in connection with such provision of services to Customer will be providing information to Castlight in connection with the SaaS Agreement and this SOF 5, as set forth in an Attachment.
+B.
+“
+Administrative Services Agreement or ASA
+” means that definitive agreement executed by and between an Anthem Company and a Customer for provision of health services.
+C.
+“
+Anthem Data
+” means the data that Anthem shall provide to Castlight as needed for Castlight to provide the Enterprise Services, which Data shall consist of the following:
+1.
+Plan Design Data. “
+Plan Design Data
+” means the plan design specifications about the Customers’ benefit plans needed by Castlight to enable its display of out-of-pocket cost estimates to Members as part of the Enterprise Services.
+2.
+Accumulator Data. “
+Accumulator Data
+” means information provided via an electronic real-time process in the form of HIPAA 270/271 transaction data for use by Castlight in identifying deductible accumulations and other information necessary for Castlight’s display of out-of-pocket cost estimates to Members as part of the Enterprise Services.
+3.
+Claims Data. “
+Claims Data
+” means historical and ongoing data extracts consisting of the minimum amount of Customer patient-identified paid claims data needed by Castlight to provide the Enterprise Services.
+1
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+4.
+Eligibility Data. “
+Eligibility Data
+” means the minimum amount of identifying information about the Customers’ eligible Members needed by Castlight to provide the Enterprise Services. Castlight acknowledges and agrees that as to any Member for whom a Confidentiality Flag is included in the eligibility file provided by Anthem, no communications, whether via email or otherwise will be provided for such Member (and his or her covered family members) on a going forward basis. For purposes of this provision, “Confidentiality Flag” shall mean an indicator included in the eligibility file to designate each Member for whom access and communications must be suppressed in order to comply with applicable privacy laws and regulations.
+5.
+Network Data. “
+Network Data
+” means data pertaining to the composition of an Anthem contracted network, if and to the extent needed by Castlight to provide the Enterprise Services.
+D.
+“
+Anthem Website
+” means the Anthem consumer portals: anthem.com, anthem.com/ca; empireblue.com; and any client-specific microsites that Anthem has custom-built for particular Anthem clients.
+E.
+“
+BCBS Axis
+” means the proprietary databases of health care cost and national provider network information compiled and maintained by BCBSA.
+F.
+“
+BCBS Axis Data
+” means consumer cost information and national provider network information made available to Castlight by BCBSA under the terms of Data Access Agreement entered into among BCBSA, Anthem, and Castlight.
+G.
+“
+BCBS Axis Service
+” means a Covered Service for which the Provider Reimbursement Rates are available through BCBS Axis.
+H.
+“
+Care & Cost Finder Services
+” means the integration of the Care & Cost Finder Transparency Website with the Anthem Website as described in 
+Addendum A
+ hereto, including (i) any routine modifications and enhancements made pursuant to Section 16 of the SaaS Agreement, and (ii) other upgrades, modifications and enhancements thereto made by Castlight during the Term of this SOF 5 as mutually agreed by the Parties. For the avoidance of doubt, improvements or enhancements to Castlight’s Care Guidance product shall not be deemed an enhancement of the Care & Cost Finder Services unless documented in a writing signed between the Parties.
+I.
+“
+Care & Cost Finder Transparency Website
+” means the website in which the Care & Cost Finder Services are offered to Users in accordance with the terms and conditions of the SaaS Agreement and this SOF 5.
+J.
+“
+Castlight Services
+” means Castlight’s enhanced transparency services, which shall be provided by Castlight to Customer on Anthem’s behalf using the Information.
+K.
+“
+Contract Year 1
+” means the period commencing on January 1, 2020 and ending on December 31, 2020.
+L.
+“
+Contract Year 2
+” means the period commencing on January 1, 2021 and ending on December 31, 2021.
+M.
+“
+Contract Year 3
+” means the period commencing on January 1, 2022 and ending on June 30, 2022.
+N.
+“
+Customer
+” means an employer providing Health Benefit Plans pursuant to self-administered or self-insured programs to Members, as identified in the applicable Attachments, who has signed an Administrative Services Agreement with Anthem for the purchase of Enterprise Services. 
+O.
+“
+DBM
+” means dental benefits manager.
+2
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+P.
+“
+EAP
+” means Customer’s Employee Assistance Program.
+Q.
+“
+Embedded Population
+” means a local group population of reasonable size in each state or market segment in which Anthem determines to provide Engage Basic.
+R.
+“
+Employee
+” means a Customer employee who receives health care coverage under the applicable rules of the Plan as identified by Castlight based on information provided by Customer.
+S.
+“
+Engage APIs
+” means the application programming interfaces that offer the features and functionalities described in 
+Addendum D
+ hereto.
+T.
+“
+Engage Services
+” means the integration of the Castlight Services and Anthem Clinical Programs, including (i) any routine modifications and enhancements made pursuant to Section 16 of the SaaS Agreement, and (ii) other upgrades, modifications and enhancements thereto made by Castlight during the Term of this SOF 5 as mutually agreed by the Parties. The Engage Services are offered in four (4) different categories: Engage Basic, Engage Standard, Engage Elite and Engage Elite Plus (as such terms are defined herein). The Parties agree that the Engage Services do not include any Jointly Developed Products (as defined in Section 1.1.9 of the SaaS Agreement). 
+U.
+“
+Engage Basic
+” means the category of Engage Services that offers the features and functionalities described in 
+Addendum B
+ hereto.
+V.
+“
+Engage Elite
+” means the category of Engage Services that offers the features and functionalities described in 
+Addendum C
+ hereto.
+W.
+“
+Engage Elite Plus
+” means the category of Engage Services that offers the features and functionalities described in 
+Addendum C
+ hereto.
+X.
+“
+Engage Standard
+” means the category of Engage Services that offers the features and functionalities described in 
+Addendum B
+ hereto.
+Y.
+“
+Enterprise Services
+” means, collectively, the Engage Services, the Engage APIs, the Care & Cost Finder Services and the Essentials Services.
+Z.
+“
+Essentials Services
+” means the services that offer the features and functionalities described in 
+Addendum E
+ hereto including (i) any routine modifications and enhancements made pursuant to Section 16 of the SaaS Agreement, and (ii) other upgrades, modifications and enhancements thereto made by Castlight during the Term of this SOF 5 as mutually agreed by the Parties. The Essentials Services are offered in two (2) different categories: Essentials and Essentials Plus.
+AA.
+“
+Existing Agreements
+” means, as applicable: (1) the Amended and Restated Transparency Data Agreement entered into by the Parties effective August 31, 2015; (2) the Reference-Based Benefits Collaboration Agreement entered into by the Parties effective January 18, 2013; (3) the Data Mining and Analytics Services Agreement entered into by the Parties effective March 1, 2013; (4) the Vendor Agreement entered into by the Parties effective September 12, 2013; and (5) the Data Access Agreement for Transparency Services entered into by the Parties and the BCBSA effective July 18, 2014.
+AB.
+“
+FSA
+” means flexible spending account.
+AC.
+“
+HSA
+” means healthcare savings account.
+3
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+AD.
+“
+Health Benefit Plan
+” means the document(s) describing partially or wholly: (1) insured, (2) underwritten, and/or (3) administered, marketed health care benefits, or services program. 
+AE.
+“
+Information
+” means the data Anthem shall release to Castlight so Castlight can provide the Enterprise Services to Customers and may include, as applicable, any of the types of data listed in 
+Section VI 
+of this SOF 5.
+ 
+AF.
+“
+MBHO
+” means Customer’s managed behavioral health organization, if any.
+AG.
+“
+Member
+” means a participant or beneficiary covered under Customer’s group health plan administered by an Anthem Blue Plan, regardless of where such participant or beneficiary resides. 
+AH.
+“
+Network Provider
+” means an applicable Provider under contract with an Anthem Blue Plan or a non-Anthem Blue Plan to provide Covered Services to Anthem Blue Members, or under contract with a Non-Anthem Blue Plan, to the extent consent has been granted by such Non-Anthem Blue Plan.
+AI.
+“Non-Axis Provider Reimbursement Data” 
+means the Provider Reimbursement Rates associated with certain Covered Services that are not Axis Services. 
+AJ.
+“
+Non-Network Provider
+” means a Provider other than a Network Provider.
+AK.
+“
+PBM
+” means Customer’s Pharmacy Benefit Manager.
+AL.
+“
+Playbook
+” means Castlight’s set of best practice communications developed for Customer’s use. Each Playbook shall include a variety of print, digital, and interactive communications.
+AM.
+“
+Plan
+” means (1) Health Plan; and/or (2) entity: (a) which utilizes Health Plan’s networks or programs, including without limitation, other Blue Cross and/or Blue Shield Plans that are not Affiliates, or employees providing Health Benefit Plans pursuant to self-administered or self-insured programs; and (b) which Health Benefit Plan and Castlight have agreed is subject to Enterprise Services under this SOF 5.
+AN.
+“
+Plan Sponsor
+” means any company acting as the plan sponsor of a group health plan administered or insured by an Anthem Blue Plan and under which such company’s employees are offered access to the Enterprise Services by Anthem pursuant to the terms hereof.
+AO.
+“
+Provider
+” means a hospital, physician, or other medical practitioner or provider of Covered Services.
+ 
+AP.
+“
+Provider Reimbursement Rate
+” means the reimbursement rate attributable to a specific Network Provider for a Covered Service.
+AQ.
+“
+Source Code
+” means computer programs written in higher-level programming languages, sometimes accompanied by English language comments. Source Code is intelligible to trained programmers and may be translated to machine readable (i.e. object code) for operation on computer equipment through the process of compiling.
+AR.
+“
+User
+” means a Member, provided that if such Member is a covered dependent, such dependent must be at least 18 years of age.
+4
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+II.
+LICENSE; BRANDING, SINGLE-SIGN-ON.
+A.
+ 
+License
+.
+ 
+ Subject to the terms and conditions of the SaaS Agreement and this SOF 5,
+ 
+Castlight hereby grants Anthem, during the Term of this SOF5, a limited, revocable and non-exclusive license to (i) access and use the Enterprise Services and all related Documentation for Anthem’s normal business purposes, and (ii) offer, market, demo and re-sell the Enterprise Services to prospective Customers. 
+B.
+ 
+Scope of Enterprise Services License
+.
+ 
+ 
+With respect to Engage Elite and Engage Elite Plus, the license granted herein is limited to up to two million (2,000,000) Employees in the aggregate (“
+Maximum Number of Employees
+”). Access to and use of Engage Elite and Engage Elite Plus by Employees, in the aggregate, in excess of the Maximum Number of Employees will be subject to the payment of additional fees by Anthem to Castlight pursuant to 
+Section III.B
+ of this SOF 5. For the avoidance of doubt, no limitation on the number of Users or Employees will apply with respect to Engage Standard, Engage Basic, Care & Cost Finder Services and Engage APIs. Subject to the payment of the fees set forth in Section III.C of this SOF 5 by Anthem to Castlight, no limitation on the number of Users or Employees will apply with respect to the Essentials Services.
+C.
+ 
+Anthem Programs License
+.
+ 
+Anthem grants Castlight a limited, revocable, non-exclusive license during the Term of this SOF 5 to use the Anthem Clinical Programs (as defined in 
+Section V.B
+ below and detailed in 
+Addendum G
+ hereto) in connection with developing and providing the Enterprise Services. Anthem further grants Castlight a limited, revocable and non-exclusive license during the Term of this SOF 5 to (i) create content (which Anthem shall approve promptly and which such approval may be via email) in the form of written descriptions of Anthem Clinical Programs; and (ii) to use such content in the Enterprise Services so that Users can better understand such Anthem Clinical Programs. Anthem represents and warrants to Castlight that any information Anthem provides to Castlight regarding Anthem Clinical Programs shall be accurate and correct.
+D.
+ 
+Single-Sign-On
+. Each Party shall support the integration of the other Party’s website and link to the other party’s website via single-sign-on (“
+SSO
+”), which shall allow Users a seamless SSO from the Anthem Website to the Enterprise Services. In addition to the Indemnification obligations set forth in Section 13 of the SaaS Agreement, each Party shall indemnify, defend and hold harmless the other Party against any claims, losses, liabilities, costs, damages, penalties, actions, demands, suits, expenses, and fees (including reasonable attorneys’ fees), solely with respect to third party claims arising out of or resulting from the other Party’s negligent or incorrect identification, verification, and/or authentication of an User during SSO. 
+E.
+ 
+Engage Services Branding
+. With respect to the Engage Services, the Parties agree that “Anthem Engage” and Anthem’s specified style guidelines shall be the preferred branding and style guidelines marketed to prospective Customers. Anthem agrees to provide Castlight with all specifications and artwork necessary for Castlight to configure the Engage Services in accordance with the Anthem branding and style guidelines, which shall be substantially similar to the branding specifications provided in 
+Addendum H
+ hereto. The parties further agree that, upon mutual agreement, the Enterprise Services can be: (i) Castlight branded, at the request of a Customer or (ii) private labeled in accordance with a Customer’s specifications (if a Customer requests such private labeling and both Anthem and Castlight agree in writing to deliver such private labeling).
+III.
+PAYMENT AND INVOICING.
+A.
+ 
+Annual Fees
+. Subject to 
+Sections III.B
+ and
+ III.C
+, in consideration for the license and rights granted by Castlight hereunder, Anthem shall pay Castlight the following fees (“
+Annual Fees
+”): 
+5
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+i.
+ 
+For Contract Year 1, total Annual Fee in the total amount of Fifty-Eight Million Dollars ($58,000,000);
+ii.
+ 
+For Contract Year 2, total Annual Fee in the amount of Seventy-Four Million Dollars ($74,000,000); and
+iii.
+ 
+For Contract Year 3, which consists of six months, total Annual Fee in the amount of Thirty-Six Million Dollars ($36,000,000). 
+B.
+ 
+Additional Engage Fees
+. If at any time during the Term of this SOF 5, Anthem exceeds the Maximum Number of Employees with respect to Engage Elite and Engage Elite Plus, Anthem shall pay Castlight the following additional fees per Employee that exceeds the Maximum Number of Employees (“
+Additional Engage Fees
+”): 
+[***] 
+C.
+ 
+Essentials Services Fees.
+ With respect to the Essentials Services, Anthem shall pay Castlight the following fees per Employee per month (“
+Essentials Fees
+”):
+[***]
+ 
+D.
+ 
+Payment Terms
+. Notwithstanding anything to the contrary in the SaaS Agreement, Anthem shall pay Castlight as follows:
+1.
+ 
+Annual Fees
+. Anthem shall pay Castlight on a monthly basis the pro-rated Annual Fees within thirty (30) days after the date on which Anthem receives Castlight’s invoice; provided, however, that Anthem shall have no obligation or liability to pay any invoices received later than six (6) months after the month in which the Services were performed unless otherwise agreed to by the Parties in writing. Invoices will be issued monthly in advance.
+2.
+ 
+Additional Engage Fees and Essentials Fees.
+ 
+Anthem shall pay Castlight the Additional Engage Fees and the Essentials Fees on a monthly basis, within thirty (30) days after the date on which Anthem receives Castlight’s invoice; provided, however, that Anthem shall have no obligation or liability to pay any invoices received later than six (6) months after the month in which the Services were performed unless otherwise agreed to by the Parties in writing. Invoices will be issued monthly in advance.
+3.
+ 
+Interest
+. If Anthem fails to remit any payment within thirty (30) days of its receipt of an undisputed invoice, then such unpaid balance shall accrue interests at the rate of 1½% monthly.
+E.
+ 
+MFN
+. The fees set forth in this Section III, in the aggregate, and the fees set forth in Section III(B)(i) and (ii) and Section IV(B)(iii) are and will be during the Term of this SOF 5, at least as favorable to Anthem as the fees offered by Castlight to any health plan of equal or lesser size, for services substantially similar to the Enterprise Services at substantially similar volumes and on substantially similar terms and conditions. If Castlight offers such more favorable fees to any such health plan, Castlight shall promptly make such more favorable fees available to Anthem.
+6
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+F.
+ 
+Tax
+. Anthem shall pay all taxes in accordance with Section 6.8 of the SaaS Agreement. 
+IV.
+CUSTOMER ATTACHMENTS.
+A.
+ 
+Customer Attachments
+.
+ 
+The Parties shall agree on an attachment substantially in the form of 
+Addendum F
+ hereto (“
+Attachment
+”) for each Customer to which Anthem resells one or more Enterprise Services. Anthem shall submit each Attachment to Castlight via e-mail to 
+Anthem_Engage_Notices@castlighthealth.com
+ (or to such other e-mail address as may be specified by Castlight to Anthem in writing), and Castlight’s confirmation of its receipt of such Attachment shall be provided via e-mail. Castlight shall provide the applicable Enterprise Services for each such Customer in accordance with the Customer-specific Attachment. Anthem shall be free to determine the prices charged to each Customer for access to and use of the Enterprise Services, and shall not be required to meet any minimum sales volume or annual recurring revenue. In the event of a conflict between the terms of the SaaS Agreement or this SOF5 and the terms of a Customer-specific Attachment, the terms of the SaaS Agreement and this SOF 5 shall control. For clarity, for purposes of executing and terminating Customer Attachments in accordance with this 
+Section IV
+, the provisions of Section 18.5 of the SaaS Agreement shall not apply.
+B.
+ 
+Termination of Customer Attachments
+.
+ 
+Anthem shall provide written notice to Castlight (to the same e-mail specified in 
+Section IV.A
+ above) in order to terminate any Customer. Upon termination or expiration of this SOF 5 for any reason, all Attachments will automatically terminate. Notwithstanding the foregoing, upon written notice to Castlight before the actual termination or expiration date of this SOF 5 and payment of the fees set forth herein by Anthem, Castlight shall continue providing the applicable Enterprise Services to Customers(s) pursuant to the respective Attachment(s) for six (6) months following termination or expiration of this SOF 5 (“
+Post-Termination Period
+”). In consideration for the provision of the Enterprise Services during the Post-Termination Period, Anthem shall pay to Castlight:
+i.
+ 
+ [***] 
+Anthem shall pay Castlight the fees set forth herein in accordance with Sections III(D)(1) and (2) above.
+C.
+ 
+Failure of Administrator(s) to Provide Data for Engage Elite, Engage Elite Plus, or Essentials Services
+.
+ 
+ 
+For each Customer receiving access to Engage Elite, Engage Elite Plus, or Essentials Services under an Attachment, Anthem shall communicate to such Customer in writing the need for Customer or its applicable Administrator(s) to provide Castlight with data needed by Castlight to provide the services on Anthem’s behalf. The communication shall inform the Customer that if the data is not provided, Castlight will be relieved of the obligation to provide access to Engage Elite, Engage Elite Plus, or Essentials Services as applicable until such time as the data is received by Castlight. The failure of Customer or Customer’s applicable Administrator to provide the necessary data to Castlight shall, during any period in which such necessary data is not provided, relieve Castlight of: (1) its obligation to provide access to such Customer to Engage Elite, Engage Elite Plus, or Essentials Services as applicable; and (2) any report timeliness standards set forth in the SaaS Agreement
+ 
+or this SOF 5 related to the due date of any report that requires such data, and any other obligations with respect to provision of access to such Customer to Engage Elite, Engage Elite Plus, or Essentials Services as a applicable.
+V.
+MODIFICATIONS; OWNERSHIP; SUPPORT
+.
+A.
+ 
+Changes, Modifications, and Enhancements
+. Castlight may implement routine enhancements to the Enterprise Services when such enhancements are intended to improve User experience, 
+7
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+provided that (i) such modifications and enhancements have no adverse material impact on the Enterprise Services or on the security of the Anthem Data or of Anthem’s systems; and (ii) such modifications and enhancements cause no increase in fees or other costs chargeable to Anthem hereunder. Except for such routine enhancements and other modifications as may be necessary on an emergency basis as reasonably determined by Anthem, no changes, modifications or enhancements to the Enterprise Services shall be made without Anthem’s prior written consent, which consent shall not be unreasonably withheld. Changes that are necessary for the security of the Enterprise Services or for compliance with applicable laws, licenses, regulations, or government orders shall be deemed to be changes that are necessary on an emergency basis. As to any such changes made on an emergency basis, Castlight shall notify Anthem thereof as soon as practicable, and the parties shall work together in good faith to resolve any concerns, problems, or performance issues created by such changes.
+ 
+B.
+ 
+Ownership
+. 
+Pursuant to Section 12.2 of the SaaS Agreement, Anthem Health Guide, Clinical, and LiveHealth Online, and all other programs detailed in 
+Addendum G
+ hereto (“
+Anthem Clinical Programs
+”) shall be considered Anthem Materials. Anthem shall own all modifications, improvement, enhancements, derivative works, or features made by Anthem or Castlight to the Anthem Clinical Programs. Furthermore, any member-identification completed by Anthem or Castlight and/or analytics completed by Anthem for the Anthem Clinical Programs will be the sole property of Anthem, and Castlight shall not reverse engineer, decompile, disassemble or otherwise use such Anthem Clinical Programs or any other Anthem Material or Anthem Data, except as necessary to deliver the Enterprise Services, notwithstanding anything to the contrary in Section 12.2 of the SaaS Agreement. Pursuant to Section 12.3 of the SaaS Agreement, the Castlight Services, the Enterprise Services and the Source Code Materials (as defined below) shall be considered Castlight Materials. The Parties agree that Castlight will not be performing any analytics on Anthem Data, Anthem Clinical Programs or any other Anthem Material as part of the Enterprise Services contemplated by this SOF 5.
+C.
+ 
+Anthem Service Support
+. Anthem shall provide all direct support to Members. With Castlight’s reasonable assistance, Anthem shall provide all training necessary for Anthem customer service associates who will provide support for Members on the Enterprise Services to enable such associates to appropriately respond to Member inquiries regarding the Enterprise Services and its functionalities. Castlight shall be available to assist Anthem Monday through Friday (excluding holidays) from eight (8) AM until nine (9) PM eastern time to support Anthem service staff only with technical questions or issues (such as, without limitation, difficulty accessing the Enterprise Services, application error messages, accumulators not updating, etc.); provided that Anthem shall first research and resolve access issues where the root cause is source system and/or data issues. Castlight shall provide reasonable assistance in resolving any Member issues in accessing the Enterprise Services and its content in the following areas: (i) technical support including bug reporting; and (ii) answering questions and providing an explanation of how to use the Enterprise Services.
+VI.
+ACCESS TO AND PROVISION OF DATA 
+i.
+Existing Agreements
+. 
+In relation to data, the Existing Agreements shall remain in effect and applicable to this SOF 5.
+ii.
+Access to and Provision of Data.
+8
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+1.
+Access to BCBS Axis
+ Subject to Castlight’s compliance with all applicable BCBSA Requirements summarized in Exhibit J of the SaaS Agreement, Anthem shall cooperate with BCBSA and Castlight to facilitate Castlight’s web access to the BCBS Axis Data. Such access to the BCBS Axis Data shall be subject to BCBSA approval and shall be carried out pursuant to the terms of a separate agreement among Castlight, BCBSA, and Anthem. The Parties acknowledge that certain restrictions on the use of data imposed by BCBSA may limit the ability of Anthem and Castlight to offer and provide more enriched or enhanced transparency services. Anthem agrees to make reasonable good-faith efforts to work with BCBSA to the extent mutually discussed to enable expanded data use for the purpose of improving and upgrading the Enterprise Services. 
+2.
+.
+ 
+Subject to Castlight’s timely performance of its obligations under the DM&A Agreement, Anthem shall make the applicable Non-Axis Provider Reimbursement Data generated as a deliverable under such DM&A Agreement available to Castlight for purposes of the Enterprise Services. The Non-Axis Provider Reimbursement Data shall constitute Health Plan Confidential Information for purposes of the SaaS Agreement.
+3.
+Provision of Data and Data Format
+. Anthem shall provide: 
+1.
+ 
+Plan Design Data through an automated file delivery and loading process; 
+2.
+ 
+Accumulator Data via an electronic real-time process in the form of HIPAA 270/271 transaction data until such time as an alternative mutually agreed-upon data exchange solution is implemented. 
+3.
+ 
+Claims Data via a single daily file feed. 
+4.
+ 
+Eligibility Data via a daily file feed.
+5.
+ 
+Network Data in a single weekly or on such more frequent basis as may be mutually agreed to by the Parties.
+4.
+Anthem Clinical Program Data
+. Anthem shall provide to Castlight the Anthem Clinical Programs’ data via real-time Anthem’s APIs to support provision of clinical program information, gaps-in-care, and seamless access to clinical resources.
+5.
+Data Quality
+.
+a.
+Eligibility Data Issues
+. If Castlight experiences issues with Eligibility Data (such as incomplete data that prevents members from accessing the Enterprise Services), Castlight may report such issues to Anthem through the Anthem helpdesk [(# TBD)] where issues will be handled pursuant to Anthem’s policy and procedures (each such issue an “
+Eligibility Data Issue
+”). 
+a.
+ 
+Urgent Eligibility Data Issues
+. “
+Urgent Eligibility Data Issues
+” are issues which prevent 5% or more of a Plan Sponsor’s members (groups with 1,000 or more members) or the entire user base of Plans under 1000 members ability to access the Enterprise Services (whether sold prior to or subsequent to the Effective Date). The Parties agree that the following procedure shall be followed for Urgent Eligibility Data Issues: 
+1)
+ 
+Within 24 hours of Castlight’s report, Anthem shall respond to Castlight acknowledging the issue, which includes confirming the receipt of the issue by email or web support tool and providing any known initial guidance on path to resolution. Anthem will then provide regular updates or provide self service capabilities to Castlight on the issue root cause evaluation and resolution. 
+2)
+ 
+As soon as reasonably practicable after each report of an Urgent Eligibility Data Issue Anthem shall, unless otherwise agreed to, 
+9
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+triage the issues to determine the root of failure - Anthem controlled issue or Plan Sponsor caused. Thereafter, Anthem shall: 
+a.
+ 
+Either mutually agree with Castlight on a path to resolution or close Plan Sponsor issues with the root cause noted in the ticket; 
+b.
+ 
+Perform a root-cause analysis to identify the cause of such Urgent Eligibility Data Issue; and 
+c.
+ 
+To the extent within Anthem’s ability to control, take appropriate preventive measures so that the problem does not reoccur. 
+b.
+ 
+Non-Urgent Eligibility Data Issues
+. With regard to Eligibility Data Issues that are not Urgent Eligibility Data Issues (each such issue, a “
+Non-Urgent Eligibility Data Issue
+”), unless otherwise mutually agreed by the Parties, Anthem shall: 
+1)
+ 
+Within 5 days of Castlight’s report, Anthem shall respond to Castlight acknowledging the issue which includes confirming the receipt of the issue by email or web support tool and providing any known initial guidance on path to resolution. Anthem will then provide regular updates on Castlight on the issue root cause evaluation and resolution; 
+2)
+ 
+Perform a root-cause analysis to identify the cause of such Eligibility Data Issue; and 
+3)
+ 
+to the extent within Anthem’s ability to control, take appropriate preventive measures so that the problem does not reoccur. 
+c.
+ 
+Eligibility Data Issues Not Attributable to Anthem
+. If the root-cause analysis cannot conclusively prove whether Anthem was the cause of or responsible for an Eligibility Data Issue, then the Parties shall discuss an appropriate resolution to such Eligibility Data Issue. As part of such efforts, the Anthem personnel shall work in a collaborative environment (including within reliability meetings and by coordinating with Castlight): (1) to identify offending system(s) contributing to such failures or outages, and (2) to determine the singular point of failure and reason for that failure. 
+b.
+Data Quality Improvement
+.
+ 
+Anthem shall use its reasonable efforts to continuously improve Anthem Data quality.
+6.
+Waiver of Data Cost Reimbursement
+. Notwithstanding the Cost Reimbursement Terms of the Existing Agreements, during the Term of this SOF 5, Anthem shall not require Castlight to: (a) reimburse Anthem for the costs of providing the Anthem Data, including but not limited to any fees charged by Anthem’s pharmacy benefits manager vendor, or (b) pay any applicable BCBSA data access fees. 
+10
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+a.
+Enriched Data
+. Castlight will provide to Anthem user-level enriched Member data in similar format as current raw data sharing, including Member activities, key wellness data, Member searches, null search results, session duration, Member journey through the tool, and channel application traffic. Ongoing expansion of user-level enriched Member data will be jointly agreed upon by the Parties pursuant to the roadmap to be agreed upon by the Parties
+,
+ and delivered via regular file.
+VII.
+SOURCE CODE ESCROW
+.
+A.
+ 
+Source Code Escrow
+. Within thirty (30) days of the Effective Date, Castlight shall (a) enter into a separate agreement with a third party escrow agent for the escrow of the Source Code of the Enterprise Services, provided that Anthem agrees to pay all fees charged by the escrow agent under such agreement; and (b) deposit the Source Code of the Enterprise Services along with all documentation necessary for the use of such Source Code (“
+Source Code Materials
+”) with the escrow agent under the escrow agreement. 
+B.
+ 
+Source Code Release
+. 
+Anthem shall have the right to obtain the Source Code Materials from the escrow agent (or directly from Castlight) if one of the following events occurs: (a) if Castlight ceases to provide the Enterprise Services to Anthem under this SOF 5 for fifteen (15) consecutive days; (b) if the court appoints a receiver for Castlight; (c) if a bankruptcy court terminates the SaaS Agreement and this SOF 5; or (d) if the authorized spokesperson of Castlight makes a public written statement that Castlight will no longer support the Enterprise Services for Anthem; provided that Anthem is not then in material default under this SOF 5 (each of (a) - (d) a “
+Release Event
+”). Upon occurrence of a Release Event, the escrow agent (or Castlight, as applicable) shall provide to Anthem, at no additional cost to Anthem and within ten (10) business days after the escrow agent’s (or Castlight's, as applicable) receipt of Anthem's written request, one complete copy of the Source Code Materials (and of the two (2) prior versions, if requested by Anthem), along with all documentation necessary for the use of such Source Code. Upon Anthem’s receipt of the Source Code Materials, Anthem shall have a paid-up, royalty-free,
+ 
+nonexclusive, non-transferable license to use, copy, modify and make enhancements to the Source Code Materials to modify and maintain the Software for the uses permitted by this Agreement for the sole purpose of enabling Anthem to continue to use the Enterprise Services as permitted by this SOF 5, but only until the expiration of the Term of this SOF 5. Upon expiration of the Term of this SOF 5, Anthem shall cease using and delete, destroy, or return, to Castlight all copies of the Source Code Materials and, upon request, certify in writing to Castlight that all copies of Source Code Materials have been deleted, destroyed or returned, provided that Anthem may keep one read-only archive copy of the Source Code Materials within a secured location solely as required for purposes of complying with applicable laws and regulations. Anthem will not disclose any Source Code Materials to any third party, except, subject to Anthem’s compliance with its confidentiality obligations in the SaaS Agreement, solely to Anthem’s employees and contractors who need to use the Source Code Materials for Anthem’s exercise of the license granted under this 
+Section VII.B
+ and as necessary for integration of features and functionality of the Enterprise Services. 
+C.
+ 
+Modifications
+. Subject to Castlight’s rights (including all intellectual property rights) in any portion of the Source Code Materials, Anthem shall own all right, title and interest in and to the modifications or enhancements Anthem makes to the Source Code Materials (the “
+Anthem Modifications
+”), including without limitation all intellectual property rights in and to the Anthem Modifications.
+VIII.
+ADDITIONAL OBLIGATIONS OF THE PARTIES.
+A.
+ 
+Go to Market Strategy
+.
+ 
+Castlight agrees to use commercially reasonable efforts to assist Anthem with the commercial roll-out of engagement and go to market strategies for the Enterprise Services, as mutually agreed upon by the Parties from time to time during the Term of this SOF 5.
+11
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+B.
+ 
+Engage Elite and Elite Plus Go-to-Market Collaboration
+. Castlight and Anthem hereby agree to collaborate in good faith on a go-to-market strategy for the Engage Elite and Engage Elite Plus services. This collaboration will include rules of engagement for client interaction where Castlight agrees not to contact Anthem clients for the purposes of selling directly without prior Anthem agreement, alignment on the price point charged by Anthem for the Engage Elite and Engage Elite Plus services, commercially reasonable support by Castlight of Anthem’s sales efforts including standard marketing and demo materials, materials for client presentations at conferences and events, and any other mutually agreed upon collaboration in the marketplace.  
+C.
+ 
+Product Support
+. Castlight agrees to make available to Anthem ongoing support on an Annual Basis each Contract Year to provide innovation and enhancement product support for the Enterprise Services as Anthem deems reasonably necessary ensure that the ongoing viability of the Enterprise Services is maintained. Castlight agrees to meet with Anthem personnel regularly and participate in Anthem planning on at least a quarterly basis to discuss the ongoing support opportunities . This product support may include support for the Engage Services, Care & Cost Finder Services, or Engage APIs.
+ 
+ 
+D.
+ 
+Reporting
+ Castlight shall comply with the reporting requirements as defined in the SaaS Agreement and 
+Addendum I
+ hereto. If Anthem requires a report not listed in the SaaS Agreement or 
+Addendum I
+ hereto, the Parties agree to negotiate in good faith with respect to the definition of such non-standard reports, the creation and administration of which shall be subject to the rates set forth in 
+Addendum J
+ hereto. 
+E.
+ 
+Restriction on Use of Engage Mark
+. Castlight acknowledges and agrees that it will solely use the “Engage” mark in connection with the provision of the Enterprise Services and other services for Anthem, unless otherwise permitted by Anthem in writing. This 
+Section VIII.E
+ will survive termination or expiration of this SOF 5 and the SaaS Agreement. 
+F.
+ 
+Anthem’s Third-Party Vendors
+.
+ 
+Anthem shall use their best efforts to ensure that the vendors with which Anthem has a current relationship (“
+Anthem Vendors
+”) work with Castlight to integrate such Anthem Vendor’s services into the Enterprise Services. The Parties agree that if an Anthem Vendor does not agree to work with Castlight and/or does not provide Castlight the requisite data necessary for such third-party integration, then Castlight shall not be obligated to provide the functionality of the Enterprise Services associated with such Anthem Vendor. As of the Effective Date of this SOF 5, the Anthem Vendors (and the corresponding type of service each Anthem Vendor provides) are listed in the table below. As mutually agreed upon by the Parties in writing (which may be via email), the list below may be amended to add or delete any Anthem Vendors.
+[***]
+IX.
+TERM AND TERMINATION OF SOF 5
+. The term of this SOF 5 shall commence on the Effective Date and shall continue thereafter through June 30, 2022 (“
+Term
+”). The provisions of Section 7.7 of the SaaS Agreement shall not apply to this SOF 5.
+12
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+X.
+GENERAL PROVISIONS
+.
+ 
+This SOF 5, including the Addenda attached hereto and the SaaS Agreement, sets forth all of the agreements and understandings between the Parties with respect to the subject matter hereof, and, as of the Effective Date, it fully supersedes and terminates the following Services Order Forms to the SaaS Agreement: (i) Services Order Form 1 dated November 1, 2015, as amended; (ii) Services Order Form 2 dated March 31, 2017, as amended; and (iii) Services Order Form 3 dated June 1, 2017, as amended (collectively, “
+Terminated SOFs
+”). All Customer-specific Attachments entered into by the Parties pursuant to the Terminated SOFs that are in effect on the Effective Date shall remain in full force and effect, except for the terms and conditions related to fees or any other financial terms contained therein, which terms and conditions shall be terminated as of the Effective Date (except in the case of the Essentials Services). Notwithstanding the foregoing, the pricing terms and conditions and term of the Customer-specific Attachments for the Essentials Services that are in effect on the Effective Date shall remain in full force and effect after the Effective Date. From the Effective Date, all Customer-specific Attachments shall be governed by this SOF 5, including the Addenda attached hereto and the SaaS Agreement. 
+13
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+IN WITNESS WHEREOF
+, the Parties hereto have executed this Services Order Form 5 including its applicable Addenda on the dates set forth below.
+Castlight Health, Inc.
+Anthem, Inc.
+By:
+/s/ Siobhan Nolan Mangini
+By:
+/s/ Jim Ardell
+Name:
+Siobhan Nolan Mangini
+Name:
+Jim Ardell
+Title:
+President & CFO
+Title:
+VP, Corporate Real Estate and CPO
+Date:
+10/19/2019
+Date:
+10/19/2019
+Address:
+150 Spear St. Floor 4 
+San Francisco, CA 94105
+Address:
+220 Virginia Ave
+Indianapolis, IN 46204
+14
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+ADDENDUM A TO SOF 5
+CARE & COST FINDER SERVICES
+The Care & Cost Finder Services provide the following features and functionalities:
+A. Core Transparency Functionality
+1. 
+Provision of the Care & Cost Finder Transparency Website for Core Transparency Functionality; Integration with the Anthem Website
+. The following terms apply to the Care & Cost Finder Transparency Web Site with respect to the Core Transparency functionality:
+a. The Care & Cost Finder Transparency Website
+ 
+shall be accessed only through the Anthem Website by Anthem’s Members.
+b. The Care & Cost Finder Transparency Website, as integrated into the Anthem Website, shall display to Members the Core Transparency Functionality information.
+c. The Care & Cost Finder Transparency Website for Core Transparency Functionality shall be provided through a custom branded web site that will be Anthem branded. Anthem grants Castlight license to use Anthem’s name and logo in creating the custom branded Care & Cost Finder Transparency Website.
+e. Anthem and Castlight will work together in good faith to ensure the most effective integration between the Anthem Website and the Core Transparency Functionality so that the Core Transparency Functionality is available within the Anthem experience.
+f. Member Services Emulation Support. Castlight will not prohibit Anthem Member service representatives from accessing the Core Transparency functionality via Anthem’s existing or future emulation technology, but shall have no obligation to develop any technology or tools to enable Anthem member service representatives to access the Care & Cost Finder Services. The Parties may agree on mutually-acceptable alternative methods of enabling Anthem’s member service representatives access to the Care & Cost Finder Services, such as by the use of Castlight’s “poser” technology.
+g. With Anthem’s cooperation and assistance, Castlight shall create secure sign-on connectivity from the Anthem Website necessary to authenticate a Customer’s Members and permit them to access: (i) the Care & Cost Finder Transparency Website
+ 
+for the delivery of the Care & Cost Finder Services; and (ii) via appropriate links to the Anthem Website. Castlight will not provide any User account creation or maintenance services without Anthem’s prior approval. Anthem shall retain the right to perform such functionality.
+h. The Care & Cost Finder Transparency Website
+ 
+will provide information in compliance with the Security and HIPAA requirements defined in the SaaS Agreement and in the Business Associate Agreement entered into by the Parties on September 12, 2013.
+2. 
+Core Transparency Functionality Features
+. The Core Transparency functionality will include the following features:
+a. Comprehensive health plan transparency experience, including but not limited to:
+(1) Navigation, search and compare functionality;
+A-
+1
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+(2) Provider directory including Network Provider search and provider detail, with facility and physician quality as may be available;
+(3) Provider and facility-level pricing via BCBS Axis only;
+(4) Member-level and family-level configuration to determine specific price for the particular Member or family;
+(5) To the extent that Anthem has secured approval from BCBSA enabling Castlight’s inclusion of this feature, and at such time as shall be mutually agreed by the Parties, User-generated reviews; provided that (a) this feature shall be provided in a manner that is compliant with the applicable requirements of the BCBSA’s Patient Review of Physicians (PRP) program, which requirements shall be provided to Castlight by Anthem; (b) this feature shall include, but not be limited to, collecting reviews from Members, moderating reviews, and aggregating and submitting reviews to BCBSA on Anthem’s behalf; and (c) to the extent necessary to provide this feature, Anthem shall assist Castlight in gaining access to any applicable additional BCBSA data or database.
+(6) Upon the agreement of Anthem and, as applicable, its Pharmacy Benefits Manager vendor, Castlight shall provide Pharmacy Functionality for Plan Sponsors that “carve-in” and receive pharmacy benefits management services from Anthem. Castlight shall not charge additional fees (for Castlight’s requirements of providing such Pharmacy Functionality is substantially similar to what Castlight is required to do with existing customers (such as the front-end look and feel or the back-end requirements); provided that if material new processes, technologies or connections related to the scale and/or volume of data to be received under this SOF 5 are required, Castlight may charge appropriate implementation costs to Anthem) to Anthem for such Pharmacy Functionality, provided, however, that Anthem will pay for any data access fees and/or pharmacy development fees that may be charged to Castlight by its Pharmacy Benefits Manager vendor to make such information available. “
+Pharmacy Functionality
+” shall include drug information, estimated out-of pocket drug pricing and pharmaceutical savings options and pharmaceutical claims history, standard global communications content to encourage awareness of programs, standard global content for email and print marketing communications, and standard global email notification of program launch to registered Users.
+b. Basic education content – Castlight’s standard Castlight developed information concerning certain procedures and/or what to expect for a provider or other type of medical visit.
+c. Basic mobile web experience including, on a date to be mutually agreed upon by the Parties, access to the Care & Cost Finder Transparency Website
+ 
+through, and full integration with, the Anthem mobile application on supported mobile devices.
+d. Secure provider directory to be displayed on the Anthem Website, which will auto-default to the network associated with the User’s benefit plan.
+e. Integration and support for Anthem and BCBSA-provided network and benefit programs including but not limited to Blue Distinction programs, Enhanced Personal Health Care (also known as Blue Distinction Total Care), and tiered networks, where such information is a component of the benefit design.
+A-
+2
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+ADDENDUM B TO SOF 5
+ENGAGE BASIC AND ENGAGE STANDARD
+Engage Basic
+Engage Basic provides the following features and functionalities:
+a. 
+Light Wellbeing Functionality
+:
+i. Tracking and device integration for fitness, sleep, and nutrition consumer trackers
+ii. Device store where Users can purchase devices and apps for fitness, sleep, and nutrition tracking
+iii. Ability to award incentives for fitness, sleep, and nutrition with tracking of incentives in the Users app (incentives described in more detail in subsection A.f below)
+iv. Rewards store, which Anthem may configure for each Embedded Population, where a User can redeem earned points throughout the year, including through gift cards, raffles/sweepstakes, credit to the device store, or contributions to the HSA, HRA, or FSA for Anthem’s approved vendors.
+v. Anthem may choose to run up to four (4) challenges per year for each Embedded Population instance, such as the single market or state.
+vi. Users will have access to Anthem-specified health-risk assessment (“
+HRA
+”) capabilities via single-sign-on or a seamless link and, depending on the capability of the HRA vendor, Castlight will establish a custom integration with such vendor to track which Users complete the HRA and award incentive for completion. Should Anthem choose to switch the main HRA vendor used for Engage Basic (“
+HRA Vendor Switch
+”), there shall be a one-time fee of $25,000.00 for the implementation of such switch, invoiceable by Castlight upon Anthem’s notice to Castlight of such switch. If a specific Embedded Population chooses to have a (i) custom new HRA vendor not already integrated into Engage Basic, or (ii) an existing HRA vendor that requires a different integration process, Castlight shall charge Anthem a one-time fee of $10,000.00 for such customization (“
+Customer HRA Vendor Implementation
+”), invoiceable by Castlight upon Anthem’s notice to Castlight of such custom HRA vendor.
+vii. Users will have access to Anthem-specified biometric screening capabilities via single-sign-on or a seamless link and, depending on the capability of the Anthem’s designated biometric screening vendor(s), Castlight will establish a custom integration with such vendor(s) to track which Users complete their biometric screening and award incentive for completion. Should Anthem choose to switch the main biometric screening vendor used for Engage Basic (“
+Biometric Vendor Switch
+”), there shall be a one-time fee of $25,000.00 for the implementation of such switch, invoiceable by Castlight upon Anthem’s notice to Castlight of such switch. If a specific Embedded Population chooses to have (i) a custom, new biometric vendor not already integrated into Engage Basic, or (ii) an existing biometric vendor that requires a different integration process, Castlight shall charge Anthem a one-time fee of $10,000.00 for such customization (“
+Custom Biometric Vendor Implementation
+”), invoiceable by Castlight upon Anthem’s notice to Castlight of such custom biometric vendor.
+viii. Health Library. Users will have access to Anthem’s health library via single sign-on or a seamless link.
+b. 
+Benefits
+:
+B-
+1
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+i. Users will have access via the mobile app to an electronic version of their Anthem insurance card, which shall provide a view of both the front and back of such User’s Anthem insurance card and the ability to email or fax to physician’s office, and via the website in order to print a temporary copy, if needed. Insurance card shall be in a standard ID Card format.
+ii. Users will have access to customer service via click-to-call functionality.
+iii. Users will be able to see their medical account accumulators, and view their specific HSA/HRA/MIA/HIA account balances and link to accounts.
+iv. Users will have access to key Anthem benefits, including LiveHealth Online, the 24/7 Nurseline, and MyStrength. This will include promotion of these benefits and integration of these benefits in the following way 
+1. LiveHealth Online integration will be program promotion, and link provided such functionality is supported by Anthem and LiveHealth Online. Castlight agrees to initiate SDK functionality at a mutually agreed to future date.
+2. 24/7 Nurseline integration will be program promotion and click-to call.
+3. MyStrength integration will be program promotion and a SSO, provided such functionality is supported by Anthem and MyStrength.
+4. Users will have access to Anthem’s special offers through promotion and via SSO or seamless-link.
+c. 
+Care Management and Clinical Integration
+:
+i.  Secure messaging from Anthem’s Clinical Programs, including MyHealth Advantage, ConditionCare, ComplexCare, Case Management, Health Coaching, IHM, Future Moms, will be offered in-application, and, with Anthem’s consent (and User consent contained in the End User License Agreement to be accepted by the User ), via email or push notifications. Such messaging will be driven by triggers provided by the Anthem Clinical Programs, and will be provided only to Users identified by such triggers.
+ii. Users receiving secure Anthem Engage outreach from Anthem Clinical Programs will be connected to the Anthem Clinical Program through click-to-call, SSO, or other mutually agreed upon means.
+d. 
+Transparency
+:
+i.  Users will have access to cost and quality transparency services, including the ability to find a doctor and estimate cost, via single-sign on or a seamless link to Anthem’s Transparency Functionality (Care & Cost Finder Services or legacy Estimate Your Cost and Find a Doctor solutions).
+e. 
+User Preferences
+:
+i. Users will have the ability to opt-out of communications through a preference center.
+ii. Users will not be compelled to participate in any functionality, such as challenges.
+iii. For each Embedded Population, Anthem will be provided the opportunity to include specific compliance and regulatory information in the End User License Agreement to be accepted by the User.
+iv. Users will have access to a secure messaging inbox.
+v. Anthem will be able to access and/or leverage the tool through emulation, including but not limited to Anthem member and clinical associates.
+f. 
+Incentive Management
+:
+B-
+2
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+i. For each Embedded Population, Anthem will have the ability to configure incentives related to HRA completion, biometric completion, and fitness, nutrition, sleep tracking. If needed, Anthem and Castlight can expand the kinds of incentive activities available if mutually agreed upon
+.
+ii. An offering of up to six (6) standard incentive packages 
+iii. Incentive capabilities include the integration with Anthem’s financial/tracking systems to ensure appropriate billing and reconciliation.
+iv. If Anthem requests more than six (6) standard incentive packages, the additional configurations will be mutually agreed by and between the parties.
+g. 
+Messaging
+i. Anthem will have the ability to message users within the application per each embedded instance. These messages can be administered by Anthem. Castlight will include prelaunch and launch member campaigns in coordination with Anthem.
+Engage Standard
+Engage Standard provides all features and functionalities of Engage Basic, plus the following features:
+a. 
+Per-Standard Buy-Up Customer Incentive Options
+i. Anthem will have the ability to designate up to ten (10) different incentive plans for Engage Standard, where the incentive plans will include different allocations across the incentivizable activities and different monetary commitments from the Engage Standard Customer.
+ii. Each Engage Standard Customer will choose a total of one (1) incentive plan out of the ten (10) different incentive plans designated by Anthem. Anthem shall inform Castlight which incentive plan each Engage Standard Customer chooses.
+iii. Engage Standard does not preclude Customers from choosing a custom incentive plan if absolutely necessary. However, Castlight and Anthem agree that would never be a first option and would develop a mutually agreed upon exception process to manage volume.
+iv. Incentive capabilities include the integration with Anthem’s financial/tracking systems to ensure appropriate billing and reconciliation.
+b. 
+Client Integrations
+i. Customers are allowed to post links to five (5) third party benefit vendors as part of the product features. Members access through benefits page.
+c. 
+Client Reporting
+i. Includes self-service reporting for Customers with participation rates that meet identified HIPAA-compliant thresholds.
+ii. Includes access to reporting for Customers to administer their own premium differential programs.
+B-
+3
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+ADDENDUM C TO SOF 5
+ENGAGE ELITE AND ENGAGE ELITE PLUS
+Engage Elite and Elite Plus provide the following features and functionalities:
+ 
+(a)
+ 
+Summary Description for Engage Elite Plus 
+(available to clients >5000 members)
+•
+Complete Health & Wellness hub, inclusive of full corporate wellbeing offering and healthcare navigation across Anthem & carve-out services
+•
+Healthcare navigation includes personalized health decision support (search, price estimates, clinical quality, steerage), integrated carve-outs / 3
+rd
+ party programs (e.g., carve-out PBM/Dental, carve-out point solutions, client-contracted networks), and hub for personal health information (Health fund balances, plan status, claims, insurance card)
+•
+Wellbeing includes comprehensive support for corporate wellness programs and customer incentive designs, including support of 30 ecosystem partner integrations, custom integrations for clients to award incentives, and native functionality (Health Assessment, Fitness/Sleep/Nutrition programs, Company Fitness Challenges, etc.)
+•
+Employer Self-Service “Communications Suite” with targeted messages, events & surveys to population, segmented by the client (e.g., location-based Open Enrollment messages)
+ 
+(b)
+ 
+Summary Description for Engage Elite
+ (available to clients >1,000 members)
+◦
+Health & Wellness hub, inclusive of lightweight wellbeing features and healthcare navigation across Anthem & carve-out services
+◦
+All of the same healthcare navigation & carve-out / 3rd party integration support as Engage Elite Plus
+◦
+Wellbeing features limited to native functionality (Health Assessment, Fitness/Sleep/Nutrition programs, Company Fitness Challenges, etc.)
+◦
+Employer Self-Service “Communications Suite” limited to segmentation available from Anthem eligibility data
+Full Services Description
+I.
+ 
+ENGAGE ELITE PLUS– 
+may include the
+ 
+following modules/functionalities described in the sections below:
+A.
+ 
+Universal Platform Features
+B.
+ 
+Engagement Hub Features 
+C.
+ 
+Care Guidance Features 
+D.
+ 
+Wellbeing Features
+E.
+ 
+Ecosystem and custom integrations (if purchased and specified in the applicable Attachment)
+F.
+ 
+Included Services 
+G.
+ 
+Implementation Services 
+A.
+ 
+UNIVERSAL PLATFORM FEATURES
+i.
+ 
+Employer Branding: A Customer-branded user experience. Customer can select logo for display within the Engage Platform, color to control key application elements, and standard onboarding screens that can vary by User segment
+ii.
+ 
+Education Content: Consumer-oriented education content on a variety of conditions and health and wellness topics
+iii.
+ 
+Reporting Dashboard: Self-serviced reports for the Customer’s benefits personnel to access on a twenty-four (24) hour basis via a web based dashboard. Dashboard has ability to filter data. Certain reports require a minimum number of participating Users. Dashboard includes reporting in the following areas: 
+ 
+•
+Registration
+C-
+1
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+•
+Returns
+•
+Visits
+•
+Mobile usage
+•
+Store, incentives and Rewards Center, budget tracking
+•
+Program reporting: Program adoption and behavior funnel
+•
+Challenges reporting: Adoption & behavior reporting tailored to each Challenge type
+•
+Search activity
+iv.
+ 
+Product Communications: Automated communications delivered to registered and unregistered eligible Users via multiple channels that provide tips on using the Engage Platform (via web or mobile)
+B.
+ 
+ENGAGEMENT HUB FEATURES
+i.
+ 
+Benefits Tab: A list of benefit programs available to the User, including details and contact information for each
+ii.
+ 
+Personalized Recommendations: Recommendations based on Castlight’s personalization engine which connects Users to the targeted benefit program, behavior, care option, content, or incentive
+iii.
+ 
+Communications Suite: A centralized, easy-to-use toolkit to create and deliver communications to Users (i.e. events, messages, and surveys)
+C.
+ 
+ CARE GUIDANCE FEATURES
+i.
+ 
+Guided Search features:
+•
+Provider and services search box
+•
+Out-of-pocket estimates, based on Customer or Administrator provided plan details and applicable data feeds, for select inpatient and outpatient services/providers (available list of supported inpatient and outpatient services is at Castlight’s discretion and may vary over time or by geography). If Customer’s TPA is a Blue Cross Blue Shield plan, Customer understands that Castlight’s provision of such estimates is dependent upon such TPA obtaining consent to display data from the host Blue Cross Blue Shield plan(s), as applicable, and the Blue Cross Blue Shield Association.
+•
+Sort results by estimated out of pocket costs and distance
+•
+Provider information (e.g. provider specialty, quality ratings, board certification) for select providers
+•
+Explanation and educational content on pricing and/or coverage for select outpatient services
+ii.
+ 
+Care Team:
+•
+Ability for Users to establish a “Care Team” of providers and facilities, make notes about those providers, and view tips about their Care Team
+iii.
+ 
+Medical Claims History features:
+•
+History of past medical services with costs (subject to applicable Administrator permissions and Castlight’s specifications)
+•
+Periodic email notices and push notifications based on claims and eligibility information
+•
+Out of network alerts
+iv.
+ 
+Insurance plan and coverage features for all supported medical plans:
+•
+Key medical policy features
+•
+Accumulator snapshots
+v.
+ 
+User Reviews: (provided in a matter that is compliant with the applicable requirements of the BCBSA’s Patient Review of Physicians (PRP) program)
+•
+Ability for Users to submit User Reviews
+•
+Access by Users to User Reviews submitted by other Users, and by Castlight’s other customers’ Users, as aggregated and displayed in de-identified form by Castlight in the Engage Platform and modified and edited by Castlight pursuant to Castlight’s policies
+C-
+2
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+vi.
+ 
+Rollover of Standard Medical Plans
+•
+Direct carry-forward of existing medical plans without changes, creation of up to the same number of medical plans similar to existing plans in regards to network, benefits, and special designations 
+•
+Update of existing medical plans with minor changes including plan name, contact information, or other descriptive text; update deductible amounts, coinsurance, or out of pocket maximum
+vii.
+ 
+Pharmacy (Available based on Customer’s PBM)
+•
+Drug information
+•
+Estimated out-of-pocket drug pricing and pharmaceutical savings options
+•
+Pharmaceutical claims history
+•
+Care guidance for specialty drugs
+•
+Formulary messaging for non-covered drugs
+•
+Rollover of Customer’s pharmacy plan, including: updating formulary, network and benefit design for the same number of pharmacy plans as the existing number of pharmacy plans; updating layout, or delivery type, as applicable, due to change in population through open enrollment or post-rollover eligibility file
+viii.
+ 
+Dental (Available based on Customer’s DBM)
+•
+Search feature for dental services
+•
+Displays out-of-pocket dental pricing, dental claims history and past care 
+•
+Dental educational content
+•
+Displays dental insurance plan design and accumulators
+ix.
+ 
+Engagement-Based Rewards
+•
+Incentives for registration and/or application-based action(s) undertaken by Users
+•
+Displays Users’ incentive balance in both web and mobile applications
+•
+Standard content on the Homestream and on the rewards webpage to encourage awareness of Engagement-Based Rewards program
+•
+Standard email notification of Engagement-Based Rewards program launch to registered Users
+D.
+ 
+WELLBEING FEATURES
+i.
+ 
+Incentives: Ability to offer points for specific actions, behaviors, or outcomes in different benefits programs or within the Engage Platform that can be redeemed for rewards in the Rewards Center. 
+ii.
+ 
+Reward Center: A marketplace for redeeming points for rewards 
+iii.
+ 
+Store: A marketplace for purchasing third party consumer tracking devices and other health related items
+iv.
+ 
+Challenges: Immersive and time-bound experiences designed to encourage healthy behaviors and habits through a fun and engaging participant experience
+•
+Customers may launch up to two (2) Challenges company-wide on an annual basis.
+E.
+ 
+ ECOSYSTEM INTEGRATION 
+Two-Way Data Exchange Integration:
+ Bi-directional integration of selected third party partners where Castlight sends contextual User data about Users to partners and Users are rewarded in real-time for completing progressive actions in real-time within the Engage Services platform. The resale of such third-party products must be documented in an executed Attachment. Programs are either “Platform Service Provider” programs or “Custom Integrations.”
+i.
+ 
+Platform Service Provider (“PSP”) Integrations: Based on a product-level integration between Castlight and the PSP who is part of Castlight’s partner ecosystem. PSP programs include a pre-
+C-
+3
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+defined set of objectives which can be used to measure User progress and award incentive points. Castlight will guide Customer through the configuration options for each Castlight PSP program.
+ii.
+ 
+Custom Integrations: Allows Customer to include vendors outside the Castlight partner ecosystem. Custom programs prescribe a specific User flow and data intake format to facilitate a consistent and straightforward integration. Customer is required to assist with facilitating data integration discussions with the vendor, receiving commitment from vendor to complete integration, and ensuring that the vendor meets its obligations in completing the integration. 
+Any two-way data exchange integration must be specifically documented in an Attachment or separately executed written instrument between the parties. 
+SSO and Health Fund Integration: 
+Customer may elect up to five (5) total SSO and Health Fund Integrations. 
+ Inbound/Outbound Single-Sign-On Integration 
+i.
+ 
+Single sign on capabilities utilizing the SAML 2.0 standard from/to the Customer’s portal into/from the Engage Platform 
+ii.
+ 
+Single sign on capabilities utilizing the SAML 2.0 standard from/to the Customer’s third party vendor into/from the Engage Platform 
+I.Embedded User Interface Integration 
+i.
+ 
+Health Fund Integration: Integration of FSA, HSA, or HRA (as selected in the applicable Attachment) balance information from Customer’s third party provider of such information for display in the Castlight Service. (Health fund integration subject to: (i) Castlight entering into a valid agreement with Customer’s FSA, HSA, or HRA provider for receipt of data necessary for Castlight’s provision of the health fund integration; and (ii) Castlight’s receipt of such data in a format acceptable to Castlight)
+ii.
+ 
+Anthem Blues Networks – Available for Blue Distinction Centers, AltNet and other Blue Cross Blue Shield Networks where Anthem is able to provide data in a standard file format mutually agreed to by the Parties.
+a.
+ 
+Allows Users to search for facilities performing select inpatient procedures
+b.
+ 
+Displays average surgery and out-of-pocket estimates, and COE education content 
+c.
+ 
+Identifies providers and facilities in the applicable narrow network
+d.
+ 
+Ability to discretely send these distinctions in the provider directory file, or a supplemental provider file and where applicable, benefit differentials will be configured in network
+iii.
+ 
+Custom Network Add On - Available for (i) Anthem supported networks where information cannot be sent today through standard data files or (ii) for non-Anthem supported Networks - at an additional cost as set forth in a Service Order Form.
+a.
+ 
+Identifies providers and facilities in the applicable narrow network
+b.
+ 
+Dependent on Customer’s TPA’s ability to discretely send these distinctions in the provider directory file, or a supplemental provider file and where applicable, benefit differentials will be configured in network
+iv.
+ 
+Benefits Enrollment and Portal Integration - Promotion within a Benefits Portal or Benefits Enrollment tool, which may include embedded registration where available
+II.
+ 
+Program Linkout
+ - Embedded web link within the Engage Services platform to a third party site designated by Customer 
+Consumer Program Integration
+ - One-way integration of third party consumer apps, devices, and services available in the Store where Users are rewarded in real-time for completing progressive actions in the Engage Services platform. 
+C-
+4
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+Education Program Integration
+ - Allows Customer to guide participants through a program which rewards activities completed or self-attested directly within the Engage Services platform. No external data integration is implemented.
+F. INCLUDED SERVICES
+i.
+ 
+Customer Success Support
+:
+ Ongoing consultative support focused on strategy, engagement, and growth delivered by the Customer’s Customer Success manager.
+ii.
+ 
+Engage User Support: Telephonic and chat support in addition to email support as described in the Included Services section. Telephonic and chat support is available in English and Spanish, as well as language line support for one hundred seventy (170) languages, for eligible Users, Monday through Friday (excluding holidays) 8AM – 9PM Eastern Time. Additionally, registered Users shall be entitled to third party support, outreach and communication as mutually agreed by Castlight and Customer.
+iii.
+ 
+Engagement Strategy Playbook and Launch Support: Castlight will provide to Customer launch and campaign toolkits, registration support, playbook of email and print marketing content, print and digital launch communications, leadership team communications, incentive and reward program tied to registration or usage of the Engage Platform.
+iv.
+ 
+Customer Analytics: Annual reviews led by Castlight’s analytics team to help Customer understand and showcase its population’s engagement within the Engage Platform and Customer’s cost savings.
+v.
+ 
+Incentives Administration: Regular reporting on reward redemption to Customer and to Castlight’s incentive fulfillment partner(s).
+vi.
+ 
+Incentive Reporting: Upon Customer’s written request, Castlight will provide User platform activity reporting to Customer’s incentive vendor(s).
+vii.
+ 
+User Account Management:
+o
+ 
+User registration using social security number or another secure, Castlight-approved identifier or process that is enabled by information contained in Customer’s eligibility file
+o
+ 
+User password change/reset 
+o
+ 
+User e-mail address change
+o
+ 
+User communication opt out options
+G. IMPLEMENTATION SERVICES
+Implementation support from kickoff through launch of the Engage Services platform, delivered by an implementation team.
+i.
+ 
+Castlight’s implementation of Engage Elite Plus: 
+•
+Eligibility data management: scoping, data inclusion and business rules definition, testing, file approval 
+•
+Platform configuration and testing
+•
+Program vendor management: data transfer scoping and configuration
+•
+Demonstration and/or Test Account: provision of Demonstration and/or Test Accounts to Customer as agreed to in writing between the parties
+•
+Eligibility Feeds: integration of a Customer-provided eligibility data file in accordance with Castlight’s specifications
+•
+Benefits Information: provision by Customer of all Plan information, open enrollment materials, and TPA, PBM, MBHO or DBM key contacts (as applicable)*
+•
+Customer Claims Feed: setting up a data feed for Customer’s TPA, PBM, MBHO or DBM (as applicable) to the Engage Platform to enable regular imports of Customer’s claims information into the Engage Platform per Castlight’s specifications*
+C-
+5
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+•
+Provider Directory: setting up a feed for Customer’s TPA, MBHO or DBM so that such TPA, MBHO or DBM can transmit one (1) provider directory for that TPA, MBHO, or DBM and provide Castlight with all necessary information for Castlight to set up providers in the Castlight Service and identify and configure any narrow or specialty networks (provided that any narrow or specialty network deductible differential may require an additional Services Order Form)*
+•
+Plans implemented: implementation of up to five (5) plans per TPA, PBM, MBHO or DBM (as applicable) so long as Customer provides to Castlight accurate summary plan description(s) and promptly reviews such implemented plans*
+•
+Accumulator Set Up: setting up an ongoing feed with the TPA, MBHO, DBM or other third party to support display of year-to-date spending and accrual towards plan limits*
+*Only applicable to Engage Elite Plus
+H. INCLUDED COMMUNICATIONS AND ENGAGEMENT SERVICES 
+Customer can create and deliver in-app communications via the Communication Suite. 
+I. SERVICE EXCLUSIONS
+Subject to change from time to time at Castlight’s sole discretion, Engage Elite and Engage Elite Plus exclude:
+i.
+ 
+Additional customizations of the Castlight Services including, but not limited to, customizations to the data required to support the Castlight Services (i.e. data used to process eligibility, provider network data, or data in claims files that are not mapped to Castlight's standard specifications), or customizations to the content display that require additional data feeds not included in Castlight’s standard implementation
+ii.
+ 
+Customizations to text or other content in the Castlight Services outside of targeted messages and the configurable sections of the Your Plan page
+iii.
+ 
+Customized reporting or data analytics, which includes any reporting that requires adding fields to the eligibility file outside of the two (2) included with standard reporting
+iv.
+ 
+Additional customer support services (e.g. claims dispute resolution)
+v.
+ 
+Single sign on capabilities, unless such specific capabilities are purchased and meet Castlight’s technological requirements of SAML 2.0
+vi.
+ 
+Supporting a change to or an addition of Customer’s Administrators, including but not limited to receiving data feeds from Administrators other than those providing services to Customer as of the Effective Date of SOF 5
+vii.
+ 
+Supporting data feeds in addition to the specified data feeds from the Administrators or as otherwise specified above (such as feeds from HSA/FSA/HRA vendors or wellness vendors)
+viii.
+ 
+Delivery of outbound files other than incentive files which are in accordance with Castlight’s specifications
+ix.
+ 
+Provision of Engage Elite or Engage Elite Plus to persons other than Users unless otherwise agreed to by the Parties in writing
+x.
+ 
+Printing and distribution of printed communications materials for Engagement Strategy related services set forth above
+xi.
+ 
+Any additional services associated with rollover of plans beyond the rollover services provided through implementation services above, including but not limited to Administrator changes, vendor changes, new networks, broadening of an existing COE program and/or inclusion of on-site clinic benefits. Such additional services shall be provided on a then-current Castlight professional services time and materials basis.
+Provision of any of these additional services requires a separate Services Order Form under the SaaS Agreement, including terms and conditions and additional fees to be mutually agreed to by the parties in writing.
+C-
+6
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+C-
+7
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+ADDENDUM D TO SOF 5
+ENGAGE APIS
+Castlight shall expose Application Programming Interfaces (“APIs”), to the extent necessary to enable Anthem to make use of certain components of the Engage Services.  APIs shall be made available for the delivery of such services as the parties may agree from time to time, including for provider recommendation and personalization services.
+ 
+Castlight shall provide documentation to Anthem on the APIs as well as basic support for Anthem on use of the APIs.
+D-
+1
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+ADDENDUM E TO SOF 5
+ESSENTIALS SERVICES
+ 
+Engage Essentials and Essentials Plus provide the following features and functionalities:
+ 
+(c)
+ 
+Summary Description for Engage Essentials Plus 
+(available to clients >5000 members)
+•
+Complete Health & Wellness hub, inclusive of full corporate wellbeing offering 
+•
+Wellbeing includes comprehensive support for corporate wellness programs and customer incentive designs, including support of 30 ecosystem partner integrations, custom integrations for clients to award incentives, and native functionality (Health Assessment, Fitness/Sleep/Nutrition programs, Company Fitness Challenges, etc.)
+•
+Employer Self-Service “Communications Suite” with targeted messages, events & surveys to population, segmented by the client (e.g., location-based Open Enrollment messages)
+ 
+(d)
+ 
+Summary Description for Engage Essentials
+ (available to clients >1,000 members)
+◦
+Health & Wellness hub, inclusive of lightweight wellbeing features 
+◦
+Wellbeing features limited to native functionality (Health Assessment, Fitness/Sleep/Nutrition programs, Company Fitness Challenges, etc.)
+Full Services Description
+II.
+ 
+ENGAGE ESSENTIALS PLUS– 
+may include the
+ 
+following modules/functionalities described in the sections below:
+H.
+ 
+Universal Platform Features
+I.
+ 
+Engagement Hub Features 
+J.
+ 
+Wellbeing Features
+K.
+ 
+Ecosystem and custom integrations (if purchased and specified in the applicable Attachment)
+L.
+ 
+Included Services 
+M.
+ 
+Implementation Services 
+F.
+ 
+UNIVERSAL PLATFORM FEATURES
+v.
+ 
+Employer Branding: A Customer-branded user experience. Customer can select logo for display within the Engage Platform, color to control key application elements, and standard onboarding screens that can vary by User segment
+vi.
+ 
+Education Content: Consumer-oriented education content on a variety of conditions and health and wellness topics
+vii.
+ 
+Reporting Dashboard: Self-serviced reports for the Customer’s benefits personnel to access on a twenty-four (24) hour basis via a web based dashboard. Dashboard has ability to filter data. Certain reports require a minimum number of participating Users. Dashboard includes reporting in the following areas: 
+ 
+•
+Registration
+•
+Returns
+•
+Visits
+•
+Mobile usage
+•
+Store, incentives and Rewards Center, budget tracking
+•
+Program reporting: Program adoption and behavior funnel
+•
+Challenges reporting: Adoption & behavior reporting tailored to each Challenge type
+•
+Search activity
+E-
+1
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+viii.
+ 
+Product Communications: Automated communications delivered to registered and unregistered eligible Users via multiple channels that provide tips on using the Engage Platform (via web or mobile)
+G.
+ 
+ENGAGEMENT HUB FEATURES
+iv.
+ 
+Benefits Tab: A list of benefit programs available to the User, including details and contact information for each
+v.
+ 
+Personalized Recommendations: Recommendations based on Castlight’s personalization engine which connects Users to the targeted benefit program, behavior, care option, content, or incentive
+vi.
+ 
+Communications Suite: A centralized, easy-to-use toolkit to create and deliver communications to Users (i.e. events, messages, and surveys)
+H.
+ 
+WELLBEING FEATURES
+v.
+ 
+Incentives: Ability to offer points for specific actions, behaviors, or outcomes in different benefits programs or within the Engage Platform that can be redeemed for rewards in the Rewards Center. 
+vi.
+ 
+Reward Center: A marketplace for redeeming points for rewards 
+vii.
+ 
+Store: A marketplace for purchasing third party consumer tracking devices and other health related items
+viii.
+ 
+Challenges: Immersive and time-bound experiences designed to encourage healthy behaviors and habits through a fun and engaging participant experience
+•
+Customers may launch up to two (2) Challenges company-wide on an annual basis.
+I.
+ 
+ ECOSYSTEM INTEGRATION 
+Two-Way Data Exchange Integration:
+ Bi-directional integration of selected third party partners where Castlight sends contextual User data about Users to partners and Users are rewarded in real-time for completing progressive actions in real-time within the Engage Services platform. The resale of such third-party products must be documented in an executed Attachment. Programs are either “Platform Service Provider” programs or “Custom Integrations.”
+iii.
+ 
+Platform Service Provider (“PSP”) Integrations: Based on a product-level integration between Castlight and the PSP who is part of Castlight’s partner ecosystem. PSP programs include a pre-defined set of objectives which can be used to measure User progress and award incentive points. Castlight will guide Customer through the configuration options for each Castlight PSP program.
+iv.
+ 
+Custom Integrations: Allows Customer to include vendors outside the Castlight partner ecosystem. Custom programs prescribe a specific User flow and data intake format to facilitate a consistent and straightforward integration. Customer is required to assist with facilitating data integration discussions with the vendor, receiving commitment from vendor to complete integration, and ensuring that the vendor meets its obligations in completing the integration. 
+Any two-way data exchange integration must be specifically documented in an Attachment or separately executed written instrument between the parties. 
+SSO and Health Fund Integration: 
+Customer may elect up to five (5) total SSO and Health Fund Integrations. 
+ Inbound/Outbound Single-Sign-On Integration 
+iii.
+ 
+Single sign on capabilities utilizing the SAML 2.0 standard from/to the Customer’s portal into/from the Engage Platform 
+E-
+2
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+iv.
+ 
+Single sign on capabilities utilizing the SAML 2.0 standard from/to the Customer’s third party vendor into/from the Engage Platform 
+III.
+ 
+Embedded User Interface Integration 
+v.
+ 
+Health Fund Integration: Integration of FSA, HSA, or HRA (as selected in the applicable Attachment) balance information from Customer’s third party provider of such information for display in the Castlight Service. (Health fund integration subject to: (i) Castlight entering into a valid agreement with Customer’s FSA, HSA, or HRA provider for receipt of data necessary for Castlight’s provision of the health fund integration; and (ii) Castlight’s receipt of such data in a format acceptable to Castlight)
+vi.
+ 
+Benefits Enrollment and Portal Integration - Promotion within a Benefits Portal or Benefits Enrollment tool, which may include embedded registration where available
+IV.
+ 
+Program Linkout
+ - Embedded web link within the Engage Services platform to a third party site designated by Customer 
+Consumer Program Integration
+ - One-way integration of third party consumer apps, devices, and services available in the Store where Users are rewarded in real-time for completing progressive actions in the Engage Services platform. 
+Education Program Integration
+ - Allows Customer to guide participants through a program which rewards activities completed or self-attested directly within the Engage Services platform. No external data integration is implemented.
+F. INCLUDED SERVICES
+viii.
+ 
+Customer Success Support
+:
+ Ongoing consultative support focused on strategy, engagement, and growth delivered by the Customer’s Customer Success manager.
+ix.
+ 
+Engage User Support: Telephonic and chat support in addition to email support as described in the Included Services section. Telephonic and chat support is available in English and Spanish, as well as language line support for one hundred seventy (170) languages, for eligible Users, Monday through Friday (excluding holidays) 8AM – 9PM Eastern Time. Additionally, registered Users shall be entitled to third party support, outreach and communication as mutually agreed by Castlight and Customer.
+x.
+ 
+Engagement Strategy Playbook and Launch Support: Castlight will provide to Customer launch and campaign toolkits, registration support, playbook of email and print marketing content, print and digital launch communications, leadership team communications, incentive and reward program tied to registration or usage of the Engage Platform.
+xi.
+ 
+Incentives Administration: Regular reporting on reward redemption to Customer and to Castlight’s incentive fulfillment partner(s).
+xii.
+ 
+Incentive Reporting: Upon Customer’s written request, Castlight will provide User platform activity reporting to Customer’s incentive vendor(s).
+xiii.
+ 
+User Account Management:
+o
+ 
+User registration using social security number or another secure, Castlight-approved identifier or process that is enabled by information contained in Customer’s eligibility file
+o
+ 
+User password change/reset 
+o
+ 
+User e-mail address change
+o
+ 
+User communication opt out options
+G. IMPLEMENTATION SERVICES
+E-
+3
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+Implementation support from kickoff through launch of the Engage Services platform, delivered by an implementation team.
+ii.
+ 
+Castlight’s implementation of Engage Essentials Plus: 
+•
+Eligibility data management: scoping, data inclusion and business rules definition, testing, file approval 
+•
+Platform configuration and testing
+•
+Program vendor management: data transfer scoping and configuration
+•
+Demonstration and/or Test Account: provision of Demonstration and/or Test Accounts to Customer as agreed to in writing between the parties
+•
+Eligibility Feeds: integration of a Customer-provided eligibility data file in accordance with Castlight’s specifications
+H. INCLUDED COMMUNICATIONS AND ENGAGEMENT SERVICES 
+Customer can create and deliver in-app communications via the Communication Suite. 
+I. SERVICE EXCLUSIONS
+Subject to change from time to time at Castlight’s sole discretion, Engage Essentials and Engage Essentials Plus exclude:
+xii.
+ 
+Additional customizations of the Castlight Services including, but not limited to, customizations to the data required to support the Castlight Services (i.e. data used to process eligibility, provider network data, or data in claims files that are not mapped to Castlight's standard specifications), or customizations to the content display that require additional data feeds not included in Castlight’s standard implementation
+xiii.
+ 
+Customizations to text or other content in the Castlight Services outside of targeted messages and the configurable sections of the Your Plan page
+xiv.
+ 
+Customized reporting or data analytics, which includes any reporting that requires adding fields to the eligibility file outside of the two (2) included with standard reporting
+xv.
+ 
+Additional customer support services (e.g. claims dispute resolution)
+xvi.
+ 
+Single sign on capabilities, unless such specific capabilities are purchased and meet Castlight’s technological requirements of SAML 2.0
+xvii.
+ 
+Supporting a change to or an addition of Customer’s Administrators, including but not limited to receiving data feeds from Administrators other than those providing services to Customer as of the Effective Date of SOF 5
+xviii.
+ 
+Supporting data feeds in addition to the specified data feeds from the Administrators or as otherwise specified above (such as feeds from HSA/FSA/HRA vendors or wellness vendors)
+xix.
+ 
+Delivery of outbound files other than incentive files which are in accordance with Castlight’s specifications
+xx.
+ 
+Provision of Engage Essentials or Engage Essentials Plus to persons other than Users unless otherwise agreed to by the Parties in writing
+xxi.
+ 
+Printing and distribution of printed communications materials for Engagement Strategy related services set forth above
+xxii.
+ 
+Any additional services associated with rollover of plans beyond the rollover services provided through implementation services above, including but not limited to Administrator changes, vendor changes, new networks, broadening of an existing COE program and/or inclusion of on-site clinic benefits. Such additional services shall be provided on a then-current Castlight professional services time and materials basis.
+Provision of any of these additional services requires a separate Services Order Form under the SaaS Agreement, including terms and conditions and additional fees to be mutually agreed to by the parties in writing.
+E-
+4
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+ADDENDUM F TO SOF 5
+EMAIL ATTACHMENT TEMPLATE
+This Attachment to SOF 5 of the SaaS Agreement (the “
+Attachment
+”) is made as of [ENTER DATE] (“
+Attachment
+ 
+Effective Date
+”) and shall pertain only to the customer identified below (for purposes of this Attachment, “
+Customer
+”). The terms and conditions of SOF 5 to the SaaS Agreement effective as of January 1, 2020 (together with the SaaS Agreement, the “
+Agreement
+”) by and between Castlight Health, Inc. (“
+Castlight
+”) and Anthem, Inc. on behalf of itself and its Affiliates (each an “
+Anthem Company
+” and collectively, “
+Anthem
+”) shall apply herein. The duties and obligations of the Parties set forth elsewhere in the Agreement, together with the terms of this Attachment, shall collectively define the duties and obligations of the Parties with respect to Customer. Anthem and Castlight may also be referred to herein each as a “
+Party
+” and collectively as the “
+Parties
+.” All terms not otherwise defined herein shall have the meanings as assigned to them in the Agreement.
+1.
+CUSTOMER INFORMATION
+ 
+Customer Legal Name:
+Intended Service Start Date:
+Anthem Account Executive
+Name of TPA:
+Anthem
+Name of DBM:
+Name of PBM:
+Name of HSA Vendor (if applicable):
+Name of HRA Vendor (if applicable):
+Name of FSA Vendor (if applicable):
+Total Number of Employee Users:
+2.
+SERVICES
+:
+ 
+A.
+ 
+[Add applicable Enterprise Service, either Engage Elite, Engage Elite Plus, Essentials or Essentials Plus (including pricing and term) or Platform Service Providers (including pricing and term)], which will include the functionalities set forth in the applicable Addendum to SOF 5. 
+3.
+TERM AND TERMINATION OF THIS ATTACHMENT
+A.
+ 
+The term of this Attachment shall commence on the Attachment Effective Date and shall continue until it is terminated in accordance with Section IV.B of SOF 5. 
+ 
+ 
+F-
+1
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+ADDENDUM G TO SOF 5
+ANTHEM CLINICAL PROGRAMS 
+AND RELATED ANTHEM MATERIALS AND ANTHEM DATA
+Anthem may provide data and integration opportunities for the following Care Management and/or Wellness Programs: Complex Care, Condition Care: Core, Condition Care Asthma, Condition Care Diabetes, Condition Care COPD, Condition Care CAD, Condition Care Heart Failure, Condition Care Health Support Programs (include Vascular-at-Risk, Low Back Pain, and Musculoskeletal), Case Management, High Risk Maternity Case Management, Future Moms, MyHealth Coach, EAP (Basic or Enhanced), Behavioral Health Products (Standard CM, or BH Resource), Integrated Health Model (National or Local), Mercer Health Advantage, MyHealth Advantage (Gold, Silver, CDH, Platinum), Towers Watson Care Advocacy, and any new programs developed. Also to be noted: any new programs developed on the Healthy Returns (HRS) platform could be included in the data for current or future capabilities. Anthem’s Care Management and Wellness programs are constantly evolving, requiring coordination across our partners. The Parties may add new programs by agreement via email. New programs could include, but are not limited to: health coaching programs, new IHM models, new case management or disease management.
+Data that could be provided to Castlight to help Anthem manage their membership through their proprietary care management and wellness programs include, but is not limited to: case status, condition, program goals, incentives milestones, program phone numbers, program names, care gaps, AHG triggers, program triggers and referrals, assessments and assessment data. 
+Periodically, Anthem updates its Healthy Returns System (HRS) to ensure clinical and programmatic relevancy. Anthem and Castlight should coordinate efforts to ensure any new clinical or programmatic guidelines are met across all programs.
+G -1
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+ADDENDUM H TO SOF
+BRANDING SPECIFICATIONS
+User Interface Design for the Engage Services when branded “Anthem Engage”
+The Parties will work together to design the user interface for “Anthem Engage” based on the Anthem Reimagined User Interface Library: 
+https://anthemuxd-a18049.sites.us2.oraclecloud.com/ari/
+Anthem may from time to time update branding specifications impacting the UID to be consistent with its Enterprise Platform Strategies.
+Specifications for Use of Anthem Health Plan Logos
+H-1
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+ADDENDUM I TO SOF 5
+REPORTING
+Part 1 - Care & Cost Finder Services
+Reports and Reporting related to the Care & Cost Finder Services shall be as described in this Part 1 of this 
+Addendum I
+, and otherwise shall be subject to all the terms and conditions of the SaaS Agreement.
+A.
+ 
+Timing of Reports
+. At all times during the term of this SOF 5, Castlight shall make periodic Reports as set forth in Part 1, Section B of this 
+Addendum I
+ available to Anthem on following schedule; provided that if the due date falls on a weekend or non-business day, Castlight shall provide the reports on the next business day.
+1. Monthly Reports – to be received by Anthem within 2 weeks after the end of the month.
+2. Annual Reports – to be received by Anthem within 30 days after the end of the year.
+B.
+ 
+Reports
+. Except as the Parties may otherwise agree and document in an amendment, Castlight shall provide the following reports to Anthem, based on specifications as to the design, structure, layout, and frequency of the reports:
+1. 
+Utilization of all Transparency Web Site pages
+, to be provided at least monthly.
+a. Web Utilization extracts with the same data structure being used by Anthem’s existing Estimate Your Cost, Find a Doctor, and Patient Ratings and Reviews features.
+b. Final utilization tracking details to be defined; e.g., visitors, visits, public, secure, abandons, page usage, errors experienced, ratings/reviews activity, search result.
+2. 
+User satisfaction survey results
+, to be provided at least monthly -- Evaluate User satisfaction using sound mechanisms for data collection and reliable methodologies for evaluating and analyzing satisfaction data, including documentation of areas of dissatisfaction.
+3. 
+All files/data exchange reporting
+ as mutually agreed -- Error reports, file counts, load errors, balance and controls, etc.
+4. 
+Performance reporting
+ to be provided at least monthly:
+a. System availability by day, with details on availability issues, duration and root cause
+b. Site response time by day, with details on response issues
+c. Defect reporting to follow the following: severity 1’s to be reported daily until resolution; severity 2’s within 15 days of issue identification and monthly reporting for severity 3’s along with a summary from the month.
+d. In the event of high levels of outages, unique reporting on request by Anthem to confirm performance as applicable
+I-1
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+5. 
+Analytics and savings
+ information including Customer reporting, the development and provision of which shall be considered custom work for which Castlight may charge fees to Anthem.
+6. 
+Raw data file
+ for use in Anthem performed analytics, including member usage and application usage (i.e. search behavior) delivered monthly.
+7. Roadmap/planned enhancement reporting
+, to be provided at least monthly.
+Part 2 – Engage Services
+Reports and Reporting related to the Engage Services shall be as described in this Part 2 of this 
+Addendum I
+, and otherwise shall be subject to all the terms and conditions of the SaaS Agreement. 
+Castlight shall provide the following:
+i. Offering shall include self-service reporting for Customer with participation rates that meet identified HIPAA-compliant thresholds.
+ii. Castlight shall provide quarterly reports on the last day of the first (1st) month following the completion of each reporting quarter. The focus of quarterly reporting is to provide a summary of key activities within the quarter, and to begin to profile behavior change impact drivers that will lead to successful program outcomes. Program Reporting shall encompass any currently available reporting on the platform.
+iii. Ad Hoc Reports.
+For any Customer who requests more than two (2) ad hoc reports, Three Hundred Fifty Dollars ($350.00) will be billed per existing report produced. For any non-existing reports that need to be created, there will be a Ten Thousand Dollar ($10,000.00) fee to create the new report. These reports should be able to be re-used for future Customers.
+iv. Continuous Improvement
+1. Anthem and Castlight will collaborate in continuous improvement and roadmap management activities.
+vii.
+ 
+Customer reporting to be provided monthly and will include the number of Customers using the Engage Services monthly in the aggregate and by lines of business.
+The reports identified above will be determined and mutually agreed by Anthem and Castlight as part of the Reporting workstream in the Anthem Engage program. However, the metrics included will contain:
+• Registration
+• MAU – Monthly Active Logins
+• Usage activity, including such items as:
+• Page clicks
+Clicks to 3rd party links
+• Clicks to Call Utilization 3rd party links
+I-2
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+• 
+Tracker/Program activity
+• Challenge activity
+• Program activity
+• Sleep
+• Physical Activity
+• Nutrition
+• HRA Completions
+• Biometric Screening Completions
+• Incentive Dollars Earned
+• # of Members Earning Incentive Dollars
+• Points Earned
+• Points Redeemed
+• # of Members Earning Points
+• Book of business reports must be able to be broken out by segment, line of business, or state
+I-3
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY [***], HAS BEEN OMITTED BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+ADDENDUM J TO SOF 5
+ 
+RATES
+Service
+Fee/Hour
+Engineering
+$240/hour
+Non-Engineering
+$180/hour
+J-1

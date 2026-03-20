@@ -1,0 +1,1412 @@
+EX-10.37
+
+25
+
+d180840dex1037.htm
+
+EX-10.37
+
+EX-10.37
+
+Exhibit 10.37 
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+MASTER SUBSCRIPTION AGREEMENT 
+
+ 
+
+This Master Subscription Agreement (this “
+MSA
+” or “
+Terms
+”)
+between Chainalysis Inc., a Delaware corporation with an address at 228 Park Avenue South #23474, New York, New York 10003 (“Chainalysis”) and Bullish (GI) Limited with an address at Portland House, Glacis Road Gibraltar , GX11 1AA
+Gibraltar (“
+Licensee
+”), is effective as of the last date signed below (the “
+Effective Date
+”), and governs the use and access to the products, services (and any data derived from any of the foregoing), and data
+ordered by Licensee and made available by Chainalysis under order(s) entered into by the parties (each, a “
+Order
+”) (collectively, the “
+Services
+”). All Services in effect as of, and placed after, the Effective Date
+shall be governed by the terms set forth herein. Each Order shall be governed by the terms of this MSA and this MSA incorporates by reference any exhibits attached hereto. This MSA, any attached or incorporated exhibits, and any Order(s) shall be
+collectively referred to as this “
+Agreement
+”. 
+ 
+B
+ACKGROUND
+ 
+
+The Services may be accessed through Chainalysis’ Authorized User (as defined below) credentials, and in the case of the KYT service, also through an
+Application Programming Interface (the “
+KYT API
+”; collectively, the “
+KYT Service
+”). Other Services may be accessed through an API as explicitly set forth in an Order. Any reference to “Services” in the MSA
+shall include the KYT API, provided that such inclusion, as well as any reference to KYT API, shall apply only to the extent the KYT Service is provided by Chainalysis to Licensee as part of the Services. In the event of any conflict between an
+Order, any exhibits, and this MSA, the terms of this MSA shall control. 
+ 
+T
+ERMS
+ 
+AND
+
+C
+ONDITIONS
+ 
+ 
+ 
+
+1.
+
+ 
+R
+IGHTS
+ 
+AND
+ R
+ESTRICTIONS
+. 
+
+(a) Services Use and Access.
+ Subject to the terms and conditions of this Agreement and except as it relates to any Chainalysis Data
+which is licensed pursuant to Section 1(b), Chainalysis permits Licensee and [***] to access and use the Services in the quantities identified on the applicable Order during the Term (as defined in Section 5(b)) solely for the purpose of
+analyzing digital asset transactions for Licensee’s internal business or operations, or as otherwise explicitly set forth in an Order (the “
+Purpose
+”). 
+
+(b) Chainalysis Data.
+ Subject to the terms and conditions of this Agreement, Chainalysis hereby grants Licensee a [***] to access and
+use the Chainalysis Data during the Term (as defined in Section 5(b)) solely for the Purpose. “
+Chainalysis Data
+” means: (i) data provided through any online Services which is extracted or downloaded therefrom such that it
+is accessible outside of or without the online Services or (ii) data that is otherwise provided by Chainalysis to Licensee. For the avoidance of doubt, any reference to “Services” shall include Chainalysis Data (except as used in
+Section 1(a)). 
+ 
+As part of Services, Licensee shall have the right to make and use a reasonable number of copies of any written or online
+descriptions of the functionality, technical requirements, or use of the Service provided by Chainalysis (collectively, “
+Documentation
+”) in connection with Licensee’s use of the Services during the Term.
+
+(c) Restrictions.
+ Licensee agrees that it shall not directly or indirectly: (i) use the Services for
+any illegal or unauthorized purpose or in any manner that damages or interferes with the Services’ operation; (ii) remove any copyright, trademark or other proprietary rights notices contained in or on the Services or any reports or
+outputs thereof; (iii) sublicense, sell, lease (including on a service bureau basis), share, or transfer the Services or make it available to anyone except for its Affiliates or Authorized Users; (iv) separately extract and provide or
+otherwise use data from the Services except as made available as part of the Services’ normal functions; (v) modify, create derivative works of, reverse engineer, reverse compile, decompile or disassemble the Services, or any elements
+thereof (except as this restriction (v) is prohibited by Applicable Law); (vi) use or access the Services for competitive or benchmarking purposes; (vii) circumvent any security measures or use restrictions in the Services;
+(viii) employ or authorize a Chainalysis Competitor to use or view the Services; (ix) without limiting its obligations under the Section 7, post, make public in any manner, or disclose to any third party, any aspect of the Services,
+including but not limited to photographs or screenshots thereof (“
+Screenshots
+”) or API keys; or (x) attempt to do any of the foregoing. In addition, at all times, Licensee will ensure that its Authorized Users comply with
+Chainalysis’ Acceptable Use Policy, the current version of which is incorporated into this MSA which may be amended from time to time (available at
+
+https://go.chainalysis.com/acceptable-use-policy)
+, [***] If Licensee or any Authorized User violates these restrictions or any other provision of this Agreement,
+or any Authorized User violates Chainalysis’ Acceptable Use Policy, Chainalysis may suspend or block Licensee’s or such Authorized User’s access to the Services. “
+Chainalysis Competitor
+” means a person or entity in
+the business of developing, distributing, or commercializing software or Internet products or services substantially similar to or competitive with Chainalysis’ products or services. “
+Applicable Law
+” means any laws,
+regulations, statutes, governmental orders, or laws and regulations related to the personal data and privacy in any relevant jurisdiction including any amended or superseding regulations to those set out here, applicable to the relevant party. 
+
+(d) Updates.
+ As part of the Services, Chainalysis shall provide any modifications, improvements, bug fixes, or other new versions of the Services made
+available to Chainalysis customers as part of a standard subscription, [***] (each, an “
+Update
+”) promptly following the date on which such Update is made available. [***]
+
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+1
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+[***] 
+ 
+ 
+
+2.
+
+ 
+U
+SE
+ 
+OF
+ T
+HE
+ S
+ERVICES
+. 
+
+(a) Chainalysis Responsibilities. 
+ 
+(i)
+
+Support
+. Chainalysis will use commercially reasonable efforts to provide support to Licensee in accordance with the support policy available at 
+http://go.chainalysis.com/support-policy
+ which may be amended from time to time by
+Chainalysis at Chainalysis’ sole discretion. 
+ 
+(ii) 
+Security
+. Chainalysis will: (i) maintain appropriate administrative,
+technical and physical safeguards designed to protect the security, confidentiality and integrity of the Services and any Licensee Data (as defined below) stored on, or accessible via the Services. These safeguards include [***] 
+
+(iii) 
+Service Levels
+. Except as it relates to “Trial” Orders or any test environment for Services, the Services will be
+available [***] including modifications to the same which render the KYT API unable to reach the Services, unavailability of the public Internet, unavailability due to causes beyond Chainalysis’ reasonable control (including but not limited to,
+unavailability in connection with integration partners, resellers, or other third parties), or Force Majeure Events (as defined below) (the “
+Service Level
+”). Chainalysis’ temporary suspension of the Services in accordance with
+this Agreement will not be deemed to be an availability failure under this Section 2(a)(iii). [***] “
+Emergency Maintenance
+” means any maintenance required to be conducted by Chainalysis to apply immediate patches or fixes or
+other immediate maintenance activities to the Service; Chainalysis shall notify the Licensee as soon as is practicable if an Emergency Maintenance is necessary. 
+
+[***] 
+ 
+[***] 
+
+[***] 
+ 
+[***] 
+
+[***] 
+ 
+[***]
+
+(4)
+ 
+Where Chainalysis confirms the failure of a Service Level which rises to the level
+of a Service Credit, and Licensee makes a request for a Service Credit within [***] after the end of the applicable month in accordance with the process set forth below, Chainalysis shall apply such Service Credits to Licensee’s account. [***]
+
+ 
+[***] 
+ 
+(iv) 
+Subcontracting
+. As of
+the Effective Date of this Agreement, Chainalysis uses those subcontractors (including Material Subcontractors) set forth in Exhibit B. [***] 
+
+(v) 
+KnowledgeBase
+. Information about the Reactor and KYT Services may be found at the KnowledgeBase link within each service. 
+
+(vi) 
+Third-Party Products or Services
+. Chainalysis may provide Licensee with access to products, services, information, content,
+messages, or websites through the Services that are from third parties (including other users) (collectively, “
+Third Party Products
+”). Except as expressly provided herein, any use by Licensee of Third Party Products, and any
+exchange of data between Licensee and any provider of Third Party Products, is solely between Licensee and the applicable third party and may be subject to additional terms. Notwithstanding anything to the contrary in this Agreement, Chainalysis
+shall have no liability in connection with Licensee’s use of any Third Party Products. Chainalysis does not warrant (except as required by law) in any manner, including for accuracy or completeness, or support Third Party Products, except as
+explicitly specified in an Order and Licensee agrees that Third Party Products are provided 
+AS-IS
+. 
+
+(vii) 
+Beta Services
+. From time to time, Chainalysis may invite Licensee to trial services and/or features that are not generally
+available to customers (“
+Beta Services
+”) at no charge. Licensee may accept or decline any such trial in Licensee’s sole discretion. Beta Services will be clearly designated as beta,
+
+non-production,
+ evaluation, or by a similar description. Notwithstanding anything to the contrary in this Agreement, the Beta Services are for evaluation purposes and not for production use, are not supported,
+are not covered by any service level commitment and 
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+2
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+are provided “
+AS IS
+”, exclusive of any warranty whatsoever, including for accuracy or
+completeness. Licensee acknowledges that Beta Services may be discontinued at any time without notice, may be subject to additional terms, and they may never be made generally available. Notwithstanding anything to the contrary in this Agreement,
+Licensee will have no liability for any harm or damage arising out of or in connection with a Beta Service. 
+ 
+(b) Licensee Responsibilities; Authorized
+User Credentials. 
+ 
+[***] At all times, Licensee shall be responsible and liable for all acts or omissions of its Authorized Users, its Affiliates, and
+its and its Affiliates’ employees, contractors, and agents, in connection with this Agreement, as if Licensee had been the performing party. 
+
+(i) Each Authorized User credential is limited to use by the single, originally named individual and cannot be shared with other individuals.
+[***] Without limiting any other rights it may have under this Agreement, Chainalysis may immediately suspend or revoke any Authorized User credentials if, in its sole reasonable discretion, it is being shared or being used by anyone other than an
+Authorized User. 
+ 
+(ii) [***] 
+
+[***] 
+ 
+[***] 
+
+(v) Licensee agrees to comply with all laws and regulations applicable to it in connection with this Agreement including, without limitation,
+the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act, and any applicable anti-bribery laws and laws governing transactions with government and public entities. 
+
+3. KYT Service
+. The additional terms in this Section 3 shall apply to the KYT Service to the extent they are provided to Licensee. 
+
+(a) Implementation
+. Licensee shall complete configuration and implementation of the KYT Service, which includes account setup and
+provisioning and KYT API integration within [***] days of the Order Start Date for the KYT Service, or such later date as agreed between the parties and Chainalysis shall cooperate with Licensee, and
+
+shall provide commercially reasonable assistance as requested by Licensee, to facilitate Licensee’s
+completion of Implementation, and Licensee’s primary contact on the applicable Order shall be Licensee’s project lead for such implementation. Implementation will be performed using professional skill, care and experience at
+Licensee’s direction and control. Licensee shall be deemed to be implemented when the following [***] 
+ 
+[***] 
+
+[***] 
+ 
+Without limiting any of
+Chainalysis’ rights hereunder, at Chainalysis’ sole option, if such implementation is not completed within [***] days of the Order Start Date for the KYT Service or at such later date as agreed between the parties, Chainalysis may decline
+to provide Licensee with documents evidencing its use of the KYT Service. 
+ 
+(b)
+ 
+Licensee is required to enter into the KYT
+API all information required for verification and other services to be performed by the KYT Service. Licensee will provide current and accurate information as requested by Chainalysis via the Services and will promptly update any such information
+determined to be incorrect. Licensee expressly acknowledges that the information required for the Services to function does not, by itself, allow for the identification of any individual, and Licensee represents and warrants that it will not, unless
+explicitly agreed to in writing by Chainalysis, provide Chainalysis with any information that, alone or in combination with other information provided to Chainalysis, can be used to identify an individual person. 
+
+ 
+
+4.
+
+ 
+C
+ONSIDERATION
+. 
+
+(a) Fees
+. Licensee shall pay to Chainalysis the amounts set forth on an Order (the “
+Fees
+”). Unless otherwise set
+forth on an Order, Fees are due within 30 days from the date of the relevant billing start date, or receipt of the relevant invoice, on an upfront annual basis. In the event an Order sets forth payment terms different than “annual” and
+Licensee is delinquent in fulfilling its payment obligations during the corresponding term, Licensee agrees that Chainalysis may, without limiting any of its rights hereunder, in its sole discretion, require Licensee to fulfill its payment
+obligations on an annual basis for any subsequent terms, unless otherwise agreed to in writing by the parties. Notwithstanding anything stated otherwise, any Licensee-generated purchase order document (whether signed by one or both parties) shall be
+construed solely as evidence of Licensee’s internal business processes, and the terms contained thereon shall be void and of no effect with regard to this Agreement between the parties. 
+
+(b) Taxes
+. In addition to the Fees, Licensee will pay any sales, use, excise, import or export, value added or similar tax or duty
+(“
+Taxes
+”) based on the Services provided under this Agreement and in no event, based on Chainalysis’ gross receipts, net income, or payroll including any penalties and interest, which may be assessed on the Fees. Chainalysis
+will use commercially reasonable efforts to include on its invoices to Licensee any Taxes that Chainalysis is responsible for collecting and remitting on the applicable invoice. 
+
+(c) Late Payments; Disputed Fees
+. Without limiting any other rights it may have, if Fees are not received when due, Chainalysis may
+(i) assess a late payment charge of [***] per month or the maximum allowed by law, if less, and, (ii) upon notice of such overdue payment and Licensee’s failure to provide payment within [***] of such notice, suspend access to the
+Services until payment in full of all overdue 
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+3
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+Fees and late payments are received. Licensee may dispute Fees in writing prior to the date such Fees are due, specifying the grounds for the dispute. The parties will work in good faith to
+promptly resolve disputes. Licensee will pay all reasonably undisputed amounts on any invoice on or before when such Fees are due. 
+ 
+ 
+
+5.
+
+ 
+T
+ERM
+ 
+AND
+ T
+ERMINATION
+. 
+
+(a) Term
+. This MSA will commence on the Effective Date and remain in effect until all Orders hereunder have expired or have been
+terminated in accordance with this Agreement. 
+ 
+(b) Order Term
+. The term of each Order will commence on the Order start date
+specified therein (the “
+Order Start Date
+”) and continue for the duration set forth in the applicable Order (which will be twelve (12) months from the Order Start Date if no such period is specified), unless earlier terminated
+as provided herein. [***] Notwithstanding the foregoing, any Order that is a “Trial” or a “Launchpad” Order (as denoted in the applicable Order), shall not automatically renew and will expire upon the expiration of the term set
+forth therein, unless otherwise agreed to by the parties in writing. All Order term(s) shall be collectively referred to as the “
+Term
+”. [***] Except as set forth in this Agreement, this MSA or any Order(s) are 
+non-cancellable
+ and may not be terminated by either party prior to the expiration of the then-current Order term. 
+
+(c) Termination
+. Either party may terminate this Agreement for a material breach of this Agreement [***] by the other party that is
+not cured within [***] days following written notice thereof. The written notice will give full details of the material breach, and state that failure to remedy said breach within [***] days following receipt of the written notice may give rise
+to termination In addition, either party may terminate this Agreement at any time if: 
+ 
+(i) the other party is declared or acknowledges
+that it is insolvent or otherwise unable to pay its debts as they become due or upon the filing of any proceeding (whether voluntary or involuntary) for bankruptcy, insolvency or relief from its creditors; 
+
+[***] 
+ 
+(iii) the other party
+assigns or transfers this Agreement or any of its rights or obligations under this Agreement, [***] except as permitted in this Agreement;
+
+(iv) it or its legal counsel has reasonably determined that its continued performance
+hereunder will or is likely to violate Applicable Laws, including but not limited to economic and trade sanctions. 
+ 
+[***] 
+
+(d) Effect of Termination
+. If this Agreement or any Order is terminated, this Agreement or the applicable Order(s) will terminate as
+of the effective date of termination and Licensee shall immediately cease using and delete, destroy or return all copies of the relevant Chainalysis Data and certify such deletion or destruction in writing to Chainalysis. If Licensee terminates
+without cause, or Chainalysis terminates with cause, Licensee shall not be entitled to a refund and Chainalysis may declare to be due and payable immediately, any Fees that would otherwise become due and payable during the remainder of the term for
+the applicable Order(s) (in the absence of the termination). If Licensee terminates with cause, Chainalysis will refund the portion of any prepaid fees covering the remainder of the term of all terminated Orders after the effective date of
+termination. In no event will any termination relieve Licensee of its obligation to pay any Fees that have accrued, or for Services that have been provided, prior to the effective date of termination. Any rights, obligation, or required performance
+of the parties in this Agreement which, by their express terms or nature and context are intended to survive termination or expiration of this Agreement, will survive any such termination or expiration, including but not limited to, Sections 4 (to
+the extent Fees remain unpaid), 5(c), 5 (f), 6, 7, 10, 11, and 14. 
+ 
+[***] 
+
+[***] 
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+4
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+6.
+
+ 
+I
+NTELLECTUAL
+ P
+ROPERTY
+ A
+ND
+ P
+ERSONAL
+
+D
+ATA
+. 
+ 
+(a) Services
+. Except for the license granted pursuant to Section 1(b),
+Chainalysis retains all right, title and interest in and to the Services, including all related intellectual property rights. 
+ 
+[***]
+
+[***] 
+
+(d) Feedback
+. Notwithstanding anything to the contrary in this Agreement, Licensee hereby grants Chainalysis a, worldwide,
+royalty-free license to use any ideas, suggestions, messages, comments, input, recommendations, or enhancement requests provided by Licensee, its Authorized Users, its employees or agents (“
+Feedback
+”) in connection with the Services
+to Chainalysis for any lawful purpose. Licensee acknowledges that it provides Feedback voluntarily, and Chainalysis has no obligation to use any Feedback. [***] 
+
+(e) Marks
+. “Chainalysis”, “Chainalysis Reactor”, “Chainalysis KYT”, “Kryptos”, and
+Chainalysis’ other product and Services names, marks, and logos used or displayed on the Services are registered or unregistered trademarks of Chainalysis (collectively, “
+Marks
+”), and Licensee may only use such Marks to
+identify itself as a Chainalysis customer,; provided Licensee may not attempt to claim any rights in the Marks, degrade the distinctiveness of the Marks, or use the Marks to disparage or misrepresent Chainalysis, its Services or products. All use of
+the Marks will inure to Chainalysis’ benefit. 
+ 
+[***] 
+ 
+ 
+
+7.
+
+ 
+C
+ONFIDENTIALITY
+. 
+
+(a) Definition. “Confidential Information
+” means any 
+non-public
+ material or
+information, received on or following, the Effective Date, in any form or medium (whether oral, written, electronic or other), including pricing information, technology, business methods, finances, trade secrets, market opportunities, customer
+lists, or other proprietary information that is marked as confidential or that a reasonable person would recognize as confidential from its nature or the circumstances of its disclosure. In addition, Chainalysis’ Confidential Information
+includes, but is not limited to, any aspect of the Services and any data derived therefrom (including but not limited to, Chainalysis
+
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+5
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+Data, Screenshots, exposure, counterparty and other attribution or clustering information, transaction details
+(such list, collectively, the “
+Proprietary Data
+”), training materials, the access codes, API keys, technical specifications, connectivity standards or protocols, or other relevant procedures used by Licensee to connect to the
+Services). 
+ 
+(b) Ownership
+. In connection with the performance of this Agreement, each party (the “
+Receiving
+Party
+”) may have access to certain of the other party’s (the “
+Disclosing Party
+”) Confidential Information or that of third parties that the Disclosing Party is required to maintain as confidential. No ownership in or
+rights to Confidential Information is transferred as a result of such access. 
+ 
+(c) Obligations
+. The Receiving Party will:
+(i) only use Confidential Information as necessary or permitted under this Agreement; (ii) only provide access to Confidential Information on an 
+“as-needed”
+ basis to its Affiliates,
+Authorized Users, personnel, agents, attorneys, investors, bankers, accountants, contractors, professional advisors and/or consultants (“
+Representatives
+”) who are bound by obligations materially similar to this Section 7; and
+(iii) maintain Confidential Information using methods at least as protective as it uses to protect its own information of a similar nature, but in no event using less than a reasonable degree of care. Following termination or expiration of this
+Agreement and upon written request from the Disclosing Party, the Receiving Party will promptly return or destroy the Disclosing Party’s Confidential Information. Nothing herein will require the destruction or return of Confidential Information
+permitted to be maintained under this Agreement or maintained on routine computer backup systems solely for archival purposes, provided that, Confidential Information maintained for archival purposes will not be readily accessible. Notwithstanding
+any expiration or termination of this Agreement (or any provision hereunder), for so long as any Confidential Information is retained, it shall remain subject to this Section 7. 
+
+(d)
+ 
+The obligations in Section 7(c) will apply during and for two (2) years after the Term, except in the case of
+Confidential Information that is a trade secret, in which case the obligations will remain in effect for so long as the information is a trade secret. 
+
+(e) Exceptions
+. Confidential Information does not include, and Section 7(c) does not apply to information that is:
+(i) publicly available when disclosed or becomes publicly available without fault of the Receiving Party; (ii) rightfully communicated to the Receiving Party by a third party not bound to keep such information confidential, whether prior
+to or following disclosure, (iii) independently developed by Receiving Party without reference to or reliance on Confidential Information; or (iv) approved in writing for disclosure by the Disclosing Party who may impose reasonable
+conditions on such disclosure; provided, however, the foregoing exceptions shall not apply to Proprietary Data, which Licensee shall keep confidential at all times. In addition, the Receiving Party may disclose Confidential Information to the
+limited extent required to comply with regulatory authority requests, a subpoena, civil investigative order, the order of a court or other governmental body, or with applicable law, provided that, to the extent permitted by law, the Receiving Party
+first gives written notice to the Disclosing Party and reasonably cooperates with any Disclosing Party’s efforts to obtain a protective order (at the Disclosing Party’s request and expense). Subject to the terms of this Agreement, in the
+event Licensee reasonably determines that the disclosure of Confidential Information is material and necessary to the disposition of a legal, regulatory, arbitration or administrative proceeding, to which it is a party (each, a “Court
+Disclosure”), Licensee may disclose the relevant portions of such Confidential Information in a Court Disclosure, provided that prior to
+
+disclosure Licensee shall to the extent permitted by law: (i) provide written notice to Chainalysis with sufficient time for Chainalysis to review the intended Court Disclosure and if deemed
+necessary in Chainalysis’ sole discretion, assist Licensee with respect to same; and (ii) obtain prior written consent from Chainalysis. For the avoidance of doubt, Chainalysis is under no obligation to review or assist in connection with
+any Court Disclosure. 
+ 
+ 
+
+8.
+
+ 
+W
+ARRANTIES
+ A
+ND
+ D
+ISCLAIMER
+. 
+
+(a)
+ 
+[***] 
+
+[***] 
+ 
+[***] 
+
+(b) Mutual Representations and Warranties
+. Each party represents and warrants that: (i) it has the right to enter into and
+perform its obligations under this Agreement, and that such performance does not and will not conflict with any other agreement of such party or any judgment, order, or decree by which it is bound; (ii) it has all necessary licenses, permits,
+authorizations, necessary approvals and registrations required to perform its obligations under this Agreement; and (iii) it will comply with all Applicable Laws that may govern its performance under this Agreement and all and its use or
+provision of the Service, and any applicable anti-bribery laws and laws governing transactions with government and public entities, including, without limitation, the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act, Each party will comply
+with all laws applicable to its performance under this Agreement. 
+ 
+(c) Disclaimer
+. EXCEPT AS SPECIFICALLY PROVIDED IN SECTION
+6(b), 8(a) and 8(b), NEITHER PARTY MAKES, AND EACH PARTY EXPRESSLY DISCLAIMS, ANY REPRESENTATIONS OR WARRANTIES IN CONNECTION WITH THIS AGREEMENT, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF
+MERCHANTABILITY, ACCURACY, COMPLETENESS, FITNESS FOR A PARTICULAR PURPOSE, AND 
+NON-INFRINGEMENT.
+ THERE IS NO WARRANTY THAT SERVICES (AND INFORMATION PROVIDED THEREFROM) WILL BE ERROR-FREE, OR MEET
+LICENSEE’S REQUIREMENTS. WITHOUT LIMITING THIS SECTION, CHAINALYSIS MAKES THE SERVICES AVAILABLE ON AN “AS IS” BASIS. LICENSEE AGREES THAT THERE IS NO OBLIGATION ON THE PART OF CHAINALYSIS TO PROVIDE ANY INFORMATION TO LICENSEE OR TO
+ANY THIRD PARTY IN EXCESS OF WHAT IS AVAILABLE TO LICENSEE THROUGH THE SERVICES. INFORMATION PROVIDED BY THE SERVICES ARE FOR INFORMATIONAL PURPOSES ONLY AND IS NOT INVESTMENT ADVICE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN
+WARRANTIES IN CERTAIN CIRCUMSTANCES. ACCORDINGLY, IN SUCH JURISDICTIONS, SOME OF THE LIMITATIONS SET FORTH ABOVE MAY NOT APPLY. 
+ 
+[***] 
+
+[***] 
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+6
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+[***] 
+
+[***] 
+ 
+[***] 
+
+[***] 
+ 
+[***] 
+
+[***] 
+ 
+[***] 
+
+[***] 
+ 
+[***]
+
+[***] 
+
+[***] 
+ 
+ 
+
+11.
+
+ 
+L
+IMITATION
+ 
+OF
+ L
+IABILITY
+. 
+
+[***] 
+ 
+[***]
+
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+7
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+[***] 
+
+(d)
+ 
+NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, LICENSEE ACKNOWLEDGES AND AGREES THAT CHAINALYSIS PROVIDES A
+REPORTING AND INFORMATION SERVICES ONLY, AND HAS NO RESPONSIBILITY OR LIABILITY FOR THE TRANSACTIONS ANALYZED BY THE SERVICES OR FOR ANY DECISION MADE OR ACTS OR OMISSIONS IN RELIANCE ON THE SERVICES, AND THAT IN NO EVENT WILL CHAINALYSIS BE
+RESPONSIBLE IN CONNECTION WITH ANY ACTUAL OR POTENTIAL LEGAL OR REGULATORY VIOLATIONS UNCOVERED IN CONNECTION WITH LICENSEE’S USE OF THE SERVICES. 
+
+(e)
+ 
+FOR THE AVOIDANCE OF DOUBT, THE LIMITS AND EXCLUSIONS OF LIABILITY SET FORTH IN THIS SECTION 11 DO NOT APPLY TO ANY
+LIABILITY WHICH CANNOT BE EXCLUDED UNDER APPLICABLE LAWS. 
+ 
+ 
+
+12.
+
+ 
+D
+ATA
+ P
+ROTECTION
+ A
+ND
+ S
+ECURITY
+.
+
+ 
+(a)
+ 
+For the purposes of this Section 12, the terms “personal data”,
+“process”, “processing”, “controller”, “data subject”, “processor” and “personal data breach” shall have the meaning given to them in the General Data Protection Regulation (EU) 2016/679
+(the “
+GDPR
+”). 
+ 
+(b)
+ 
+The parties acknowledge and agree that each party may process personal data (in
+connection with the arrangements envisaged in this Agreement and each Order (in this Section 12, the “
+Relevant Data
+”). 
+
+(c)
+ 
+Each party agrees that where the party determines the purposes and means of the processing the Relevant Data, it shall be a
+separate data controller in relation to such Relevant Data and shall comply (and ensure that each of its subcontractors complies) with any applicable Data Protection Laws when carrying out any such processing. 
+
+(d)
+ 
+Chainalysis shall (where Chainalysis is processing Relevant Data on behalf of Licensee, which the parties agree for the
+purposes of this Agreement, including the subsections below, is limited solely to the names and 
+e-mail
+ addresses of Authorized Users): 
+
+(i) (except as required by Applicable Laws), only process the Relevant Data as reasonably necessary to provide the Service or as permitted
+under the Agreement; 
+ 
+(ii) notify Licensee as soon as possible, without undue delay, in writing if it becomes aware of the occurrence of
+any personal data breach in relation to the Relevant Data and give Licensee, the Licensee’s Affiliates and any Authorized Users such information, assistance and cooperation as they reasonably require to enable it to address a personal data
+breach, including mitigating any adverse consequences for data subjects; 
+ 
+(iii) notify Licensee in writing if it receives any
+communication from a data subject, the office of a supervisory authority, or another data protection authority seeking to exercise its rights under, or alleging or proposing to investigate an allegation of breach of, Applicable
+
+Laws (including applicable Data Protection Laws) in relation to the Relevant Data and give Licensee, the Licensee’s Affiliates and any Authorized Users such information, assistance and 
+co-operation
+ as they reasonably require to enable Licensee, the Licensee’s Affiliates and any Authorized Users to comply with their obligations under Applicable Laws (including Data Protection Laws) to respond
+to such a communication; 
+ 
+(iv) to the extent permitted by applicable law, not make any public announcement about an actual or suspected
+personal data breach, any actual or threatened investigation by a supervisory authority, any communication received from a supervisory authority or data subject or any actual or suspected breach of Applicable Laws (including Data Protection Laws),
+without the prior written consent of the other party; and 
+ 
+(v) at all times implement appropriate technical and organisational security
+measures designed to keep all Relevant Data secure. 
+ 
+[***] 
+
+[***] 
+ 
+[***] 
+
+[***] 
+ 
+[***]
+
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+8
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+14.
+
+ 
+G
+ENERAL
+ T
+ERMS
+. 
+
+(a) Governing Law; Attorneys’ Fees
+. This Agreement, 
+
+including its formation, is governed by the laws of the State of New York, without giving effect to conflicts of laws principles that would require a different
+result. Any claim, action or judicial proceeding arising out of or related to this Agreement will be brought in the federal or state courts located in New York County, New York, and the prevailing party will be entitled to recover reasonable
+attorneys’ fees and expenses incurred in resolving such claim, action or judicial proceeding. 
+ 
+(b) Insurance
+. At all times
+during the Term, Chainalysis will maintain Commercial General Liability insurance [***] 
+ 
+(c) Remedies; Injunctive Relief
+. All
+rights and remedies of the parties under this Agreement are cumulative and the exercise of one remedy will not exclude election of other remedies. A party’s breach or threatened breach of any of Sections 1(b), 6 or 7 of this Agreement may cause
+irreparable injury that may not be compensated by monetary damages. Accordingly, in addition to any other remedies available to it, a party may seek injunctive or other equitable relief for such breach or threatened breach. 
+
+(d) Notices
+. All notices or consents required or permitted to be given hereunder shall be in writing: (i) to Licensee at any of
+the contact addresses (including 
+e-mail)
+ in the “Licensee Information” section of an Order (or at any of the contact addresses as updated by the parties in writing,
+
+e-mail
+ to suffice), or (ii) to Chainalysis if sent to Chainalysis Inc., at 
+legal@chainalysis.com
+, Attention: LEGAL, or to the Chainalysis address set forth in the applicable Order. Notices shall be
+deemed to be duly given if sent via: (a) hand delivery, (b) certified mail return receipt requested postage prepaid, (c) nationally recognized overnight courier service, or 
+(d) e-mail.
+
+Operational communications, such as changing a party’s notice address, may be given via email with not less than ten (10) days’ prior written notice of change of notice address. 
+
+(e) Attribution
+. Chainalysis may only indicate and/or include that Licensee is a customer on Chainalysis’ website and standard
+marketing materials with Licensee’s prior written consent. Any such attribution will be consistent with Licensee’s style guidelines or requirements as communicated to Chainalysis. The parties may agree to additional marketing efforts
+(e.g., case studies, events) in writing. [***] 
+ 
+(f) Relationship Between the Parties
+. The parties are independent contractors.
+Nothing in this Agreement will be construed as creating a partnership, franchise, joint venture, agency, fiduciary or employment relationship between the parties. Neither party will have the authority or power to bind the other party or represent
+that it has such right. 
+ 
+(g) Assignment
+. Neither party may assign this Agreement, in whole or in part, whether by operation of law
+or otherwise, without the other party’s written consent not to be unreasonably withheld; provided, however, either party may assign this Agreement in its entirety (including all Orders), without the other party’s consent in connection with
+a merger, acquisition, or sale of all or substantially all of
+
+its assets and the assigning party shall provide notice to the other party of such assignment as soon as is practicable under the circumstances. Notwithstanding the foregoing, if Licensee is
+acquired by, sells substantially all of its assets to, or undergoes a change of control in favor of, a Chainalysis Competitor or an affiliate thereof, then Chainalysis may terminate this Agreement upon written notice and Chainalysis will refund
+Licensee any prepaid fees covering the remainder of the term of all Orders for the period after the effective date of such termination. [***] 
+
+(h) Waiver; Amendment
+. This Agreement may not be modified except by a written instrument signed by both parties. A party’s
+failure to enforce any provision of this Agreement will not be deemed a waiver of future enforcement of that or any other provision. 
+
+(i) Force Majeure
+. Nonperformance or delay in the performance of either party of its obligations under this Agreement will be excused
+and will not be held liable hereunder to the extent that performance is rendered impossible by events beyond its reasonable control, which may include without limitation
+
+denial-of-service
+ attacks, strikes, shortages, riots, insurrection, fires, flood, storm, explosions, acts of God, war, terrorism, governmental action, labor conditions,
+earthquakes and material shortages (a “
+Force Majeure Event
+” or “
+FME
+”), [***] 
+ 
+(j) Federal Government
+End Use Terms
+. If Licensee is a U.S. federal government department or agency or otherwise becomes subject to the Federal Acquisition Regulations (FAR), Licensee acknowledges that its technical data and software rights related to the Services
+include only those rights customarily provided to the public as defined in this MSA and that the Services are provided in accordance with FAR 12.211 (Technical Data) and FAR 12.212 (Software) and, for Department of Defense transactions, DFAR 
+252.227-7015
+ (Technical Data – Commercial Items) and DFAR 
+227.7202-3
+ (Rights in Commercial Computer Software or Computer Software Documentation). If Licensee needs rights
+not granted under these terms, it must negotiate with Chainalysis to determine if there are acceptable terms for granting those rights, and a mutually acceptable written addendum specifically granting those rights must be included in any applicable
+agreement. 
+ 
+(k) Compliance with Law
+. Licensee acknowledges that the Services and all related technical information, documents and
+materials, including the Documentation, may, either now or through subsequent developments, be subject to export controls under the U.S. Export Administration Regulations and/or economic sanctions restrictions under the U.S. Treasury’s Office
+of Foreign Assets Control regulations that could require a license for delivery to certain entities. Licensee will (a) comply strictly with all legal requirements established under these controls, (b) cooperate fully with Chainalysis in
+any official or unofficial audit or inspection that relates to these controls and (c) not export, 
+re-export,
+ divert or transfer, directly or indirectly, any such item or direct products thereof to any
+country or national thereof that is embargoed by Executive Order or other applicable law, rule or regulation, unless Licensee has obtained the prior written authorization of Chainalysis and the applicable governmental agency.
+
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+9
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+(l)
+ 
+Miscellaneous
+. Titles and headings used in this Agreement are
+intended solely for convenience of reference and do not affect its meaning. If any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law, the remaining provisions of this Agreement will be unaffected. Except
+as expressly set forth herein, nothing in this Agreement grants any rights to any entity other than the parties to this Agreement. There are no third-party beneficiaries under this Agreement. 
+
+(m)
+ 
+Entire Agreement
+. This Agreement is the entire agreement between the parties with respect to the applicable Services
+and supersedes any prior agreements (including that certain Terms and Conditions between Chainalysis and Licensee, (formerly known as B1 (Gibraltar) Limited) (as amended) dated September 8, 2020, proposals and understandings about the same
+subject. In accordance with the
+
+foregoing (except as it relates to any distribution agreements), as of the Effective Date, any existing Services and/or effective Orders between the parties for any Chainalysis offering shall be
+governed by this MSA and any existing, governing agreements shall be superseded. This Agreement may be executed in counterparts, each of which will be deemed an original, but all of which will constitute one and the same document. The parties may
+electronically sign this Agreement and any documents related thereto and this Agreement may be executed in any number of counterparts, each of which is an original and all of which together evidence the same agreement.
+
+ 
+
+ 
+ 
+The individuals and/or
+entities signing this MSA are authorized to execute this MSA on behalf of Licensee and Chainalysis. Each party represents and warrants as to itself that each Agreement is executed and approved by representatives authorized to bind such party to such
+Agreement. 
+ 
+ 
+
+Chainalysis Inc.
+
+ 
+
+  
+
+Bullish (GI) Limited
+
+By:
+
+ 
+
+ 
+[***]
+
+ 
+
+        
+
+  
+
+By:
+
+  
+
+ 
+[***]
+
+Name: [***]
+
+ 
+
+  
+
+Name: [***]
+
+Title: [***]
+
+ 
+
+  
+
+Title: [***]
+
+Date: 12 November 2021
+
+ 
+
+  
+
+Date: 12 November 2021
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+10
+
+  
+
+[***] 
+ 
+ 
+
+Exhibit A 
+
+Information Security 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+
+[***] 
+ 
+[***] 
+
+[***] 
+ 
+[***] 
+
+[***] 
+ 
+[***] 
+
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+
+[***] 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+11
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+[***] 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+
+[***] 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+12
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+13
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+ 
+ 
+
+ 
+
+[***]
+
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+14
+
+  
+
+DocuSign Envelope ID: DCCE3991-E02F-4FD4-9E3D-6CFA1BDC900D 
+
+ 
+
+Exhibit B 
+ 
+ 
+
+[***]
+
+ 
+ 
+ 
+
+[***]
+
+ 
+ 
+ 
+
+[***]
+
+ 
+ 
+ 
+
+[***]
+
+ 
+ 
+ 
+
+[***]
+
+ 
+ 
+ 
+
+[***]
+
+ 
+ 
+ 
+
+[***]
+
+ 
+ 
+ 
+
+[***]
+
+ 
+ 
+ 
+
+[***]
+
+ 
+ 
+ 
+
+[***]
+
+ 
+
+ 
+
+Chainalysis MSA 122520
+
+  
+
+15

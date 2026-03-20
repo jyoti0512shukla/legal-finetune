@@ -1,0 +1,682 @@
+EX-10.2
+
+3
+
+jazzq22020ex102.htm
+
+PHARMACY MASTER SERVICES AGREEMENT
+
+Exhibit
+
+Exhibit 10.2
+[***] = CERTAIN PORTIONS OF THIS AGREEMENT HAVE BEEN OMITTED BECAUSE THE OMITTED PORTIONS ARE BOTH NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM IF PUBLICLY DISCLOSED.
+CONFIDENTIAL
+Pharmacy Master Services Agreement
+This Pharmacy Services Agreement (the “Agreement”) is made effective as of 1 July 2020 (the “Effective Date”) by and between 
+Jazz Pharmaceuticals, Inc
+. with a principal place of business at 3170 Porter Drive, Palo Alto, CA 94304 (“Jazz Pharmaceuticals”) and 
+Express Scripts Specialty Distribution Services, Inc.
+ with a principal place of business at One Express Way, St. Louis, MO 63121 (“ESSDS”). Jazz Pharmaceuticals and ESSDS may be referred to herein individually as a “Party” and collectively as the “Parties.”
+RECITALS
+WHEREAS
+, Jazz Pharmaceuticals and ESSDS are parties to that certain Master Services Agreement, dated as of July 1, 2017, as amended, (the “Prior Master Services Agreement”) through which ESSDS provides dispensing, distribution, and other services for the Product (as defined below); 
+WHEREAS
+, the Parties desire to terminate the Prior Master Services Agreement and enter into a new agreement through which ESSDS will continue to provide certain services performed under the Prior Master Services Agreement, and undertake certain additional services associated herewith; and
+WHEREAS
+, ESSDS has experience in providing the services desired by Jazz Pharmaceuticals and is willing to provide such services under the terms set forth in this Agreement.
+NOW THEREFORE
+, in consideration of the premises and the mutual covenants, representations and warranties set forth in this Agreement, the Parties agree as follows:
+ARTICLE I
+DEFINITIONS
+As used in this Agreement, each of the following terms (and the plural or singular thereof, when appropriate) shall have the meaning set forth herein:
+1.1
+“Adverse Drug Experience” shall have the meaning assigned to it in 21 CFR 310.305 and 21 CFR 314.80, as such provision may be amended from time to time.
+1.2
+“Affiliate” of an entity shall mean any person or entity controlling, controlled by, or under common control with such entity for so long as such control exists. As used herein, “control” means ownership, directly or indirectly, of at least fifty percent (50%) of the common stock or voting ownership interests of the entity in question.
+Page 
+1
+ of 
+34
+1.3
+ “Applicable Laws” shall mean all federal, state, and local laws and governmental agency regulations and requirements applicable to the Services, including without limitation HIPAA, Medicare and Medicaid laws under Title XVIII and XIX of the Social Security Act, and relevant State and Federal pharmacy licensure requirements and pharmacy regulations.
+1.4
+“Average Daily Sales” shall mean the average number of commercial bottles of the Product sold per day over the previous six (6) months, excluding all sales of Product (i) for dispensing to VA, and (ii) to Puerto Rico.
+1.5
+“Bridge Benefit” shall mean the Jazz Pharmaceuticals’ sponsored program that provides Product at no cost to eligible patients who are at risk of an interruption in therapy due to a change in the their insurance circumstances.
+1.6
+ “Certified Pharmacy” shall mean the facility or facilities licensed and operated by ESSDS in compliance with the REMS Program and utilized by ESSDS in connection with the performance of this Agreement. 
+1.7
+ “Confidential Information” shall have the meaning assigned to it in Section 8.2.
+1.8
+“Data” shall mean the data specified in a Work Order, including but not limited to physician and patient data and required data elements for the REMS Program Central Database, and such other data as the Parties agree shall be provided by ESSDS to Jazz Pharmaceuticals under this Agreement.
+1.9
+“DEA” shall mean the United States Drug Enforcement Administration, or any successor thereto.
+1.10
+“Deliverables” shall mean those items to be delivered to Jazz Pharmaceuticals by ESSDS hereunder and as may be specified in a Work Order.
+1.11
+“FDA” shall mean the United States Food and Drug Administration or any successor thereto.
+1.12
+“Full Time Employee” or “FTE” shall mean a full time ESSDS employee working a forty (40) hour week who is dedicated exclusively to performing Pharmacy Services pursuant to the Agreement or any applicable Work Order.
+1.13
+“HIPAA” means the Health Insurance Portability and Accountability Act of 1996, as amended, and the regulations promulgated pursuant thereto in the United States Code of Federal Regulations (45 CFR Parts 160 and 164).
+1.14
+“Information Technology” shall have the meaning assigned to it in Section 8.8 herein. 
+Pharmacy Master Services Agreement
+1.15
+“Inspection” shall have the meaning assigned to it in Section 5.2 herein
+1.16
+ “Intellectual Property” means any and all patents, trade secrets, inventions, know-how, copyrights, trademarks, service marks and trade dress, applications for the same, and registrations and applications for registration or renewals thereof in the United States and all other nations throughout the world, including without limitation all derivative works, renewals, extensions, reversions or restorations associated with such copyrights, now or hereafter provided by applicable law, regardless of the medium of fixation or means of expression.
+1.17
+“Non-PAP Order” shall mean each shipment of Product by ESSDS to any Non-PAP Patient in accordance with this Agreement.
+1.18
+“Non-PAP Patient” shall mean any Patient other than a PAP Patient.
+1.19
+“Patient Assistance Program” or “PAP” shall mean the Jazz Pharmaceuticals' sponsored program that provides Product at no cost to eligible patients. Jazz Pharmaceuticals has sole discretion over the eligibility criteria and operation of the PAP. “PAP Patient” shall mean a Patient who has been approved as eligible to participate in the PAP.
+1.20
+“PAP Order” shall mean each shipment of Product by ESSDS to any PAP Patient in accordance with this Agreement.
+1.21
+“Patient” shall mean an individual who has been prescribed the Product.
+1.22
+“Patient Data” shall include data about a Patient including information about a Patient’s health, medical insurance claims, and payment information obtained from the Patient or the Patient’s prescribing physician.
+1.23
+“Pharmacy Services” shall have the meaning assigned to it in Section 2.1 herein.
+1.24
+“Physician Confidential Information” shall mean information pertaining to a physician that is protected from use or disclosure pursuant to applicable law.
+1.25
+“Product” shall mean Xyrem
+®
+ (sodium oxybate) oral solution and dosing kit, and/or the branded version of an oxybate formulation, if approved, filed under NDA 021196.
+1.26
+“Product Complaint” shall mean notification relating to product quality, purity, identity, potency, packaging, tampering, and/or quality aspects of the Product.
+1.27
+ “Records” shall have the meaning assigned to it in Section 7.1 herein.
+Pharmacy Master Services Agreement
+1.28
+ “REMS Documents” shall mean the approved XYREM REMS Documents, including both the XYREM REMS Document and the XYREM REMS Supporting Document, as well as any modifications or successor documents thereto as approved by the FDA. 
+1.29
+“REMS Pharmacy Services” shall have the meaning assigned to it in Section 2.1 herein.
+1.30
+“REMS Program” shall mean the XYREM REMS Program, as approved by the FDA, or any successor entity thereto as approved by FDA, including successor entities including additional oxybate formulations, and as described in the REMS Documents.
+1.31
+“REMS Program Items” shall mean materials required in connection with the performance of REMS Pharmacy Services by ESSDS hereunder, including, but not limited to, REMS Program enrollment forms and materials to be distributed to prescribers and patients. REMS Program Items shall not include any Product.
+1.32
+“Services” shall mean the Pharmacy Services and REMS Pharmacy Services collectively, as defined in Section 2.1.
+1.33
+“Service Level Agreements” or “SLAs” shall mean the service levels required for certain Services in order to support the Product, and are defined in Exhibit D.
+1.34
+“SOPs” shall mean the written standard operating procedures of ESSDS, as of the Effective Date, or any others mutually agreed to be the Parties after the Effective Date, which describe the REMS Program-specific operation processes of ESSDS.
+1.35
+“Territory” shall mean the United States of America, including its territories where ESSDS is allowed to legally distribute and ship the Product.
+1.36
+“Trademarks” shall mean the Jazz Pharmaceuticals trademarks set forth in Exhibit B.
+1.37
+“Veteran’s Administration” or “VA” shall mean the U.S. Department of Veteran’s Affairs, which provides a prescription benefit to VA healthcare system enrollees.
+1.38
+“VA FSS” shall mean the Veteran’s Administration Federal Supply Schedule pricing contract provided to Jazz Pharmaceuticals for the Product.
+1.39
+“Voucher Program Services” shall mean those voucher program services set forth in any applicable Work Order.
+1.40
+“WAC” shall mean the current wholesale acquisition cost of Product as provided by Jazz Pharmaceuticals. WAC does not include discounts, rebates or chargebacks. WAC may not be the actual acquisition cost.
+1.41
+“Work Order” shall have the meaning assigned to it in Section 2.1.
+Pharmacy Master Services Agreement
+1.42
+“Work Instructions” or “WIs” shall mean written work instructions of ESSDS, as of the Effective Date, or any others mutually agreed to by the Parties after the Effective Date, which provide detailed descriptions of the performance of certain tasks at ESSDS specifically required for Product.
+ARTICLE II
+PHARMACYAND REMS PHARMACY SERVICES
+2.1    
+Services.
+  During the term of the Agreement, all commercial, non-clinical trial Product sold by Jazz Pharmaceuticals, or made available through the PAP, in the Territory will be dispensed exclusively through ESSDS pursuant to the terms of this Agreement.  ESSDS agrees to provide those pharmacy and REMS services described in this Agreement and written Work Orders hereunder (the “Pharmacy Services”), including but not limited to pharmacy dispensing services, safety and support services, ancillary supply services, certain education services, and data reporting.  
+During the term of the Agreement, ESSDS agrees to provide other REMS services described in this Agreement and written Work Orders hereunder (the “REMS Pharmacy Services”), including but not limited to activities directed towards ensuring Jazz Pharmaceuticals’ compliance with the requirements of the REMS Program. 
+The Pharmacy and REMS Pharmacy Services (collectively, the “Services”) to be provided as of the Effective Date are described in written Work Orders hereunder. These Services may be amended from time to time through the addition of a Work Order. Each Work Order will be numbered in consecutive order. Each Work Order will be deemed incorporated into this Agreement. In the event of a conflict between the terms of this Agreement and the terms of the Work Order, the terms of this Agreement will govern, unless the Parties have expressly agreed in the Work Order that the Work Order shall amend a specified section of this Agreement, in which case such amendment will only apply to such Work Order. 
+In addition to the Services set forth in the following, fully executed Work Orders to the Prior Master Services Agreement between the Parties, and for which services are ongoing, shall henceforth be considered Work Orders under this Agreement. Each of these Work Orders shall be subject to the terms and conditions set forth in this Agreement as if they were originally executed hereunder, except that the fees associated with these Work Orders are subject to the annual adjustment specified in Section 3.1, meaning that the fees charged at execution will be those fees agreed upon for calendar year 2020, [***].
+Pharmacy Master Services Agreement
+For the avoidance of doubt, Jazz Pharmaceuticals’ commercial function shall have responsibility for Jazz’s oversight of Pharmacy Services, and decisions related to changes to Pharmacy Services shall be directed by personnel in that function.
+For the avoidance of doubt, Jazz Pharmaceuticals’ non-commercial function of Pharmacovigilance, Quality and Safety shall have responsibility for Jazz’s oversight of the REMS Pharmacy Services, and decisions related to changes to REMS Pharmacy Services shall be directed by personnel in that function.
+2.2    
+Modifications in Services.
+ Jazz Pharmaceuticals may propose changes (such as a change in process) to Services through a Work Order by submitting a request in writing setting forth the proposed modifications to such Services (a “Modification Request”). In the event of any Modification Request, or if ESSDS receives a technical direction from Jazz Pharmaceuticals that is reasonably viewed by ESSDS as a Modification Request, ESSDS shall notify Jazz Pharmaceuticals in writing of the anticipated cost impact of such Modification Request. The Parties agree to negotiate in good faith any adjustments to the fees payable under this Agreement that are necessitated by a Modification Request and recognize that ESSDS shall have no obligation to perform modified or additional Services until the parties have agreed on the associated fees. A Modification Request must be signed by the Parties.
+2.3    
+Exclusive Pharmacy.
+ During the term of this Agreement, all commercial, non-clinical trial Product sold by Jazz Pharmaceuticals, or made available through the PAP, in the Territory will be dispensed exclusively through ESSDS pursuant to this Agreement. [***] Notwithstanding the foregoing, Jazz Pharmaceuticals may establish a third party pharmacy to make available commercial, non-clinical trial Product in the Territory if ESSDS does not, or cannot, meet Jazz Pharmaceuticals requirements for dispensing the Product in the Territory in accordance with the terms and conditions of the Agreement. 
+2.4    
+Data and Data Reports.
+ ESSDS will provide to Jazz Pharmaceuticals or third parties authorized by Jazz Pharmaceuticals, the Data and Data Reports as set forth in any Work Order. Data will be transferred with the content and in the formats defined in the Work Order, and will be provided in the manner and frequency defined in the Work Order.
+[***]
+Pharmacy Master Services Agreement
+2.5    
+Warehousing.
+ All commercial, non-clinical trial Product sold, or made available pursuant to this Agreement in the Territory shall be warehoused at ESSDS at the Certified Pharmacy in accordance with any related Work Orders or SOPs, and Work Instructions, and with due care in accordance with the standards and practices which are generally accepted in the industry and exercised by other persons engaged in performing similar services in the local areas and in accordance with Applicable Law.
+2.6    
+Quality of Services; Compliance with Law.
+ ESSDS agrees to perform the Services in a professional and timely manner in accordance with the terms and conditions of this Agreement, the applicable Work Orders or any mutually agreed Modification Requests, Work Instructions and SOPs and in compliance with Applicable Laws and currently recognized and accepted industry standards. The SOPs and Work Instructions shall not be modified without notice to Jazz Pharmaceuticals unless required by law and Jazz Pharmaceuticals shall have the right in the event of a change to notify ESSDS of any change it believes will be required to the Work Instructions as a result of the change to such SOPs. In such event the Parties will work together in good faith to determine whether a Modification Request is required. ESSDS shall provide the Services through personnel, who are appropriately skilled, qualified, properly licensed where applicable, and trained to provide Services. ESSDS shall perform the Services at the designated ESSDS locations listed in Exhibit D, ESSDS Locations. The Certified Pharmacy shall maintain all relevant State and Federal licenses required by Applicable Law. 
+ESSDS shall monitor developments in Applicable Laws and shall promptly notify Jazz Pharmaceuticals of any relevant developments of which it becomes aware, and the Parties shall work together in good faith to determine whether a Modification Request is required.
+2.7    
+Personnel.
+ ESSDS shall provide the REMS Pharmacy Services through personnel who are qualified and appropriately trained to provide the REMS Pharmacy Services (the “Personnel”). ESSDS shall have sole discretion over the management and oversight of its Personnel working on the REMS Pharmacy Services, but will reasonably consult with Jazz Pharmaceuticals with respect to Jazz Pharmaceuticals’ personnel recommendations to help to ensure Jazz Pharmaceuticals’ satisfaction with the REMS Pharmacy Services. ESSDS shall provide opportunities to review and make recommendation on job descriptions prior to such job descriptions being used in the Personnel recruitment process for open positions. Prior to assigning any individual to work on the REMS Pharmacy Services on a full-time basis, Jazz Pharmaceuticals shall be given an opportunity to confirm that it is satisfied with such person’s training and qualifications. ESSDS shall ensure that all employees assigned to support the REMS Pharmacy Services are qualified and competent in their respective roles and responsibilities and have reasonable experience performing the tasks they will perform in connection with the REMS Pharmacy Services, consistent with industry standards. In addition, ESSDS will ensure that its Personnel participate in any instruction and training as required by Jazz Pharmaceuticals, including training directly from Jazz Pharmaceuticals.
+Pharmacy Master Services Agreement
+[***]  
+Specific roles are or will be described in more detail in the applicable Work Order(s). In the event that Jazz Pharmaceuticals is dissatisfied with any individual performing REMS Pharmacy Services, it may notify ESSDS of its concerns and ESSDS will take such concerns under advisement and take corrective action as appropriate. 
+It is understood that ESSDS and its employees will be serving under this Agreement as an independent contractor, and will not be eligible to participate in any benefits extended by Jazz Pharmaceuticals to its employees.
+ESSDS will maintain in full force and effect throughout the performance of this Agreement insurance related to Worker’s Compensation for its employees who perform REMS Pharmacy Services under this Agreement and will provide Jazz Pharmaceuticals a certificate of insurance evidencing such coverage if requested in writing by Jazz Pharmaceuticals. 
+2.8    
+Handling of the Product.
+ In connection with the provision of Services, ESSDS shall at all times handle, maintain, store, transport and deliver the Product in accordance with all Applicable Laws and SOPs. ESSDS will prepare the Product under conditions that are consistent with currently accepted standards of care including relevant requirements specified in the applicable SOPs and Work Instructions, the REMS Program, and Product Prescribing Information.
+2.9     
+Subcontracting.
+ ESSDS may not subcontract or otherwise delegate any of its obligations with respect to the Services, except to an Affiliate, without Jazz Pharmaceuticals’ prior written consent, which will not be unreasonably withheld, including by agreeing to a Work Order specifying the subcontractor. Upon receipt of such consent, before allowing any subcontractor to being performing services, ESSDS shall enter into a binding written agreement with such subcontractor that protects Jazz Pharmaceuticals’ rights and interests to at least the same degree as this Agreement. ESSDS shall be responsible for any permitted subcontractors’ compliance with the terms hereof. Jazz Pharmaceuticals shall have no obligation to pay any such subcontractors for any Services.
+Pharmacy Master Services Agreement
+2.10    
+Privacy
+. 
+(a)    Notwithstanding anything to the contrary herein (including the Exhibits hereto), ESSDS shall only provide information to Jazz Pharmaceuticals in a manner consistent with HIPAA. Accordingly, the Parties agree that ESSDS shall only provide Jazz Pharmaceuticals information that is de-identified in accordance with HIPAA’s de-identification provision, 45 C.F.R. § 164.514(b), unless ESSDS: (i) has on file a valid, unrevoked, HIPAA-compliant authorization for each patient whose protected health information (“PHI”) is sought to be disclosed; or (ii) authorization is not required under Applicable Law in order to disclose the PHI. Jazz Pharmaceuticals represents and warrants that it cannot and will not attempt to identify the individual who is the subject of any de-identified information. To the extent that Jazz Pharmaceuticals, or a contractor of Jazz Pharmaceuticals (e.g., a Hub), maintains the relevant HIPAA authorization, Jazz Pharmaceuticals agrees to, or to require its contractor to, appropriately communicate to ESSDS any expiration, revocation, or restriction requested by a patient related to the HIPAA authorization or the patient’s PHI.
+(b)    If Jazz Pharmaceuticals seeks PHI from ESSDS for Jazz Pharmaceuticals’ public health activities purposes (e.g., REMS, adverse event reporting), Jazz Pharmaceuticals represents and warrants that the disclosure of such PHI by ESSDS to Jazz Pharmaceuticals, either directly to Jazz Pharmaceuticals or to Jazz Pharmaceuticals’ data collection agent, satisfies the conditions of 45 C.F.R. § 164.512(b) in that: (i) if Jazz Pharmaceuticals uses a third party to collect data for Jazz Pharmaceuticals, such third party is serving in the capacity as Jazz Pharmaceuticals’ agent for the purpose of, among other things, collecting data on behalf of Jazz Pharmaceuticals; (ii) the data to be collected is to be used and/or disclosed by Jazz Pharmaceuticals, or its data collection agent, solely for public health activities purposes and for no other purpose; (iii) de-identified data (as described in 45 C.F.R. § 164.514(b)) is not sufficient under the circumstances to enable Jazz Pharmaceuticals to satisfy its public health activities purposes; and (iv) the data to be collected includes the minimal amount of PHI required in order for Jazz Pharmaceuticals to conduct its public health activities purposes.
+2.11     
+REMS Program Items
+(a)    REMS Program Items. From the Effective Date of this Agreement, Jazz Pharmaceuticals shall provide REMS Program Items to ESSDS of the type and quantities to be reasonably determined by Jazz Pharmaceuticals for performance of REMS Pharmacy Services. ESSDS shall not utilize or distribute REMS Program Items for any purpose other than as set forth in this Agreement and the Work Orders hereunder. ESSDS is strictly prohibited from selling, utilizing, or transferring REMS Program Items to any third-party under any circumstances not contemplated by this Agreement. 
+(b)    Title; Storage. REMS Program Items shall be marked as property of Jazz
+Pharmaceuticals. ESSDS shall furnish and maintain a suitable place for storage of REMS Program Items. Legal title to all REMS Program Items shall remain with Jazz Pharmaceuticals. 
+ARTICLE III
+COMPENSATION, INVOICING AND PAYMENT
+Pharmacy Master Services Agreement
+3.1    
+Services Fees.
+ The full and complete compensation by Jazz Pharmaceuticals for ESSDS’ performance of the Services and for assumption of its obligations hereunder shall be as set forth in the applicable Work Order, which shall be inclusive of all taxes applicable to the performance of Services. The fees for Services may only be modified by written agreement of the Parties via an amendment to the applicable Work Order in accordance with Section 2.1. All expenses, including shipping costs, reimbursed hereunder shall be at cost, without markup. Unless otherwise set forth in a Work Order, ESSDS shall be responsible for all costs and expenses associated with fulfilling its obligations hereunder. On the first anniversary of the Effective Date, and each anniversary thereafter, [***]. ESSDS shall notify Jazz Pharmaceuticals in writing before the effective time of any such increase in fees.
+3.2    
+Invoices for Services Fees.
+ 
+ ESSDS will issue invoices to Jazz Pharmaceuticals for payment and reimbursement of the fees and expenses for the Services as set forth in the applicable Work Order hereunder. ESSDS will provide reasonable detailed invoices, together with adequate supporting documentation. All fees shall be paid in United States dollars and payable in the same. Invoices will be sent to:
+Jazz Pharmaceuticals, Inc.
+3170 Porter Drive
+Palo Alto, CA 94304
+Attention Accounts Payable
+Or via email to: ap@jazzpharma.com
+3.3    
+Payment
+. Jazz Pharmaceuticals will pay all undisputed amounts invoiced in accordance with the terms hereof within thirty (30) days of receipt. In the event that Jazz Pharmaceuticals disputes any portion of an invoice, Jazz Pharmaceuticals will pay the undisputed portion in the ordinary course and will notify ESSDS within ten (10) business days of the disputed portion and will request information from ESSDS reasonably necessary to substantiate the invoiced amount. ESSDS will provide the requested information within ten (10) business days. If Jazz Pharmaceuticals continues to question the invoiced amounts following such information request and response, it shall promptly notify ESSDS and the Parties shall, within ten (10) business days, meet (in person or by phone) to resolve any dispute. The finally resolved amount shall be payable within thirty (30) days of the original invoice date or within ten (10) business days of the dispute resolution, whichever is later. In the event that Jazz Pharmaceuticals has prepaid any amounts and the actual fees or expenses are less than estimated, then ESSDS will promptly (and in all cases within thirty (30) days reimburse the amount of any overpayment to Jazz Pharmaceuticals or at Jazz Pharmaceuticals’ request credit the amount of such overpayment to other invoices. 
+3.4    
+Fair Market Value.
+ ESSDS agrees with Jazz Pharmaceuticals that the compensation payable to ESSDS for the Services to be performed by it (a) are for bona fide series provided by ESSDS to Jazz Pharmaceuticals, (b) have been determined through good faith and negotiated at arm’s length and as such represent the fair market value for such Services, and (c) does not take into account the volume or value of referrals or business otherwise generated between the Parties or their Affiliates for which payment may be made, in whole or in part, under Medicare, Medicaid or other federal or state health care programs. ESSDS also confirms to Jazz 
+Pharmacy Master Services Agreement
+Pharmaceuticals that it will retain the Services fees provided by Jazz Pharmaceuticals under this Agreement and that such Services fees will not be passed on to any of ESSDS’ customers. No provision of this Agreement shall be applied or construed in a manner inconsistent with applicable state or federal laws or regulations.
+ARTICLE IV
+SUPPLY OF PRODUCT
+4.1    
+Non-PAP Orders
+(a) 
+General
+. Jazz Pharmaceuticals shall deliver to ESSDS at the Certified Pharmacy sufficient quantities of Product to fulfill Non-PAP orders. ESSDS maintains a reasonable quantity of components on-site or nearby to allow product disbursements to occur in a timely and efficient manner. The Product to be shipped pursuant to Non-PAP Orders shall be furnished to, and held by, ESSDS on a consignment basis at a Certified Pharmacy at all times. The consignment of Product hereunder shall at no time be construed as a loan or other debt financing or secured transaction arrangement between the Parties, and title to consigned Product shall remain with Jazz Pharmaceuticals until transferred pursuant to Section 3.1(b).
+(b)
+Transfer of Title
+. Upon removal of the consigned Product by ESSDS from the product storage area to fulfill a Non-PAP Order, title to such Product shall pass to ESSDS and ESSDS shall be deemed to have purchased from Jazz Pharmaceuticals such Product. ESSDS shall confirm all such purchases and shipments of Product in writing to Jazz Pharmaceuticals on a weekly basis via a confirmation of Product Shipped, which will document all purchases of Product by ESSDS in the previous week. If a month ends in the beginning or middle of a week, ESSDS shall send an additional purchase order to Jazz Pharmaceuticals to confirm purchases made as of the last day of each month. This transfer of title process applies only to Product that has not already been purchased as part of a Buy In option, as described in Section 4.2, where title transfers upon submission of a relevant purchase order.
+(c)
+Pricing of Non-PAP Orders.
+ Subject to the restrictions set forth in Section 6.2 of this Agreement and any FDA requirement or other Applicable Law, ESSDS shall have the sole authority to determine pricing to Patients for Non-PAP Orders.
+4.2    
+Buy In.
+ ESSDS shall be offered [***] Manufacturer’s Product [***]
+Pharmacy Master Services Agreement
+4.3    
+PAP Orders.
+ Subject to available space as determined by ESSDS, Jazz Pharmaceuticals will deliver to ESSDS at the Certified Pharmacy, at Jazz Pharmaceuticals own expense, sufficient quantities of Product to fulfill PAP orders. ESSDS will maintain a reasonable quantity of components on-site or nearby to allow product disbursements to occur in a timely and efficient manner. The Product shipped pursuant to PAP Orders shall be for the account of Jazz Pharmaceuticals, and title to such Product shall remain with Jazz Pharmaceuticals until confirmation of the PAP Order in ESSDS’ internal order processing system, at which time title will pass to the PAP Patient. ESSDS will fulfill PAP Orders as set forth in the applicable SOP and Business Rules.
+4.4    
+Risk of Loss.
+ All risk of Product loss or damage during the time that such Product is at the Certified Pharmacy prior to the transfer of title to ESSDS pursuant to Section 3.1(b) shall be borne by Jazz Pharmaceuticals, except to the extent caused by the negligence or willful misconduct of ESSDS or its affiliates. Payment to Jazz Pharmaceuticals by ESSDS for Product lost or damaged while at the Certified Pharmacy (i) after title to such Product has transferred to ESSDS pursuant to Section 3.1(b); or (ii) that is the result of ESSDS or its affiliates negligence or willful misconduct shall be based on Jazz Pharmaceuticals’ actual replacement costs, as reasonably determined and documented by Jazz Pharmaceuticals. 
+4.5    
+Returns and Replacement.
+ In the event that (a) Product is damaged or destroyed after the transfer of title pursuant to Section 3.1(a) and (b) such damage or destruction [***] ESSDS shall replace the Product to the Patient free of charge once the damaged Product is returned to ESSDS. ESSDS shall monitor all reports of lost Product for the potential for abuse or diversion in compliance with relevant SOPs and WIs. ESSDS will cooperate with state and federal authorities fully in any investigations of lost Product, and will promptly provide reports of such loss to Jazz Pharmaceuticals within one (1) week from ESSDS’ conclusion of its investigation. Where abuse or diversion is not suspected and the damage or destruction is the direct result of a defect [***] ESSDS will promptly replace the Product at no charge to the Patient once approved by the pharmacy. Jazz Pharmaceuticals shall reimburse ESSDS for an amount equal to the replacement cost of such Product. 
+All Return or Replacement activities will be conducted in accordance with applicable SOPs, Work Instructions, and the REMS Documents. Applicable fees will apply to the processing and shipping of replacement Product and WAC price will be applied to the replacement Product, and record of the shipment will be kept in the Patient file. Upon receipt of damaged Product, ESSDS will keep damaged Product in a secure locked area in compliance with applicable SOPs, and will dispose of it using Jazz Pharmaceuticals’ reverse distributor vendor in compliance with applicable SOP and Applicable Law. ESSDS will be responsible for covering any shipping costs associated with getting the Product to the reverse distributor for destruction. All other costs associated with the utilization of Jazz Pharmaceuticals’ reverse distributor vendor will be covered by Jazz Pharmaceuticals. 
+Pharmacy Master Services Agreement
+4.6    
+Expired Product.
+ Jazz Pharmaceuticals will, at its cost, replace Product that expires prior to the purchase thereof by ESSDS. Jazz Pharmaceuticals will not replace expired Product once it has been purchased by ESSDS. ESSDS will dispose of or return expired Product as reasonably directed by Jazz Pharmaceuticals, in accordance with Applicable Law and applicable SOPs and WIs, and Jazz Pharmaceuticals shall promptly reimburse ESSDS for all reasonable out-of-pocket expenses incurred in complying with this Section.
+4.7    
+Territory.
+ ESSDS shall use commercially reasonable efforts to obtain and maintain all necessary licenses and approvals to dispense Product in the Territory. 
+4.8    
+Recall or Market Withdrawal.
+ Jazz Pharmaceuticals may elect to recall or withdraw the Product from the market as a result of (i) a request, instruction, or other action of a government entity; (ii) a determination for reasons associated with safety, quality, technical or other issues directly affecting the Product. 
+4.8.1 In the event of such recall or withdrawal, Jazz Pharmaceuticals shall provide as much written notice to ESSDS as reasonably possible of such recall or withdrawal (such notice to include the reasons for the recall or withdrawal and any notices or other communication from any government entity in relation thereto). ESSDS shall reasonably cooperate in effecting such recall in accordance with the applicable SOP.
+4.8.2 If Jazz Pharmaceuticals is required to recall, or, on its own initiative, recalls or withdraws any Product sold in the Territory, ESSDS shall reasonably assist Jazz Pharmaceuticals in such recall in accordance with the Applicable Laws. For such purposes, ESSDS shall maintain a complete and current list of Patients who ESSDS reasonably believes could have been exposed to product covered by the recall or withdrawal. Jazz Pharmaceuticals shall pay for all reasonable documented out of pocket costs and expenses of ESSDS solely as a result of any such recall, unless the recall results from ESSDS’ negligence, recklessness, or willful misconduct. ESSDS shall provide to Jazz Pharmaceuticals, at Jazz Pharmaceutical’s request, any information reasonably requested by Jazz Pharmaceuticals in connection with Jazz Pharmaceuticals’ investigations relating to recalled Product, subject to the confidentiality constraints imposed by Applicable Law.
+Pharmacy Master Services Agreement
+ARTICLE V
+AUDITS; REGULATORY INQUIRIES; DEBARMENT; OTHER REGULATORY MATTERS
+5.1    
+Audit.
+ During the Term and for a period of eighteen (18) months thereafter, ESSDS shall make Records available for Jazz Pharmaceuticals or its designee's inspection during regular business hours and upon at least forty-eight (48) hours' advance notice.  In addition, Jazz Pharmaceuticals shall have the right, during the Term, (i) to one time annually inspect (or more frequently and without notice if Jazz Pharmaceuticals has reasonable cause to perform such an inspection) any of ESSDS’ facilities from which the Services are performed and equipment used to perform the Services (including computers, call centers, software programs and any other systems) during normal business hours and upon 30 day prior written notice, accompanied by a detailed audit scope (ii) to be present when Services are being performed by ESSDS or ESSDS’ permitted subcontractors, and (iii) to monitor by telephone the performance of any call center or telephone-related ESSDS Services provided under this Agreement.  ESSDS will cooperate in any audits at ESSDS’ expense.  If any audit results in findings that require follow-up or action, ESSDS will address such findings within a commercially reasonable timeframe at ESSDS’ expense.
+ 
+Audits will be excluded during the months of December and January, unless the request is related to an inspection and timing stipulated by a government regulator that impacts the services defined in this agreement. If a third party is used to conduct any audit, such third party will sign a confidentiality agreement with ESSDS. 
+5.2    
+Regulatory Inquiries and Inspections.
+ To the extent practicable and permitted under Applicable Law, ESSDS shall notify Jazz Pharmaceuticals immediately (with a copy of all associated notices and correspondence) of its receipt of any notice of an inspection, audit or regulatory action relating to the Product by, any regulatory authority, including without limitation, the United States Department of Health and Human Services, the FDA or any other government agency or any state board of pharmacy or any national accrediting body (an “Inspection”). Jazz Pharmaceuticals shall have the right to be present at and to participate in any such Inspection or regulatory action with respect to the Product or the Services. In the event that ESSDS does not receive prior notice of such regulatory inspection, ESSDS shall notify Jazz Pharmaceuticals as soon as practicable after such inspection begins. 
+5.3    
+No Debarment.
+5.3.1    ESSDS represents and warrants to Jazz Pharmaceuticals that it (i) is not currently excluded, debarred, suspended or otherwise ineligible to participate in Federal health care programs or in Federal procurement or nonprocurement programs or proposed for exclusion under such programs, and (ii) has not been convicted of a criminal offence that falls with 42 USC §1320a-7(a) or §1320a-7(b)(1)-(3) but has not yet been excluded, debarred, suspended, or otherwise declared ineligible to participate in Federal health care programs or in federal procurement or nonprocurement programs. ESSDS agrees that it will immediately notify Jazz Pharmaceuticals in writing if any of the representations and warranties made by ESSDS in this Section ceases to be true at any time during the term of the Agreement.
+Pharmacy Master Services Agreement
+5.3.2    Jazz Pharmaceuticals represents and warrants to ESSDS that it (i) is not currently excluded, debarred, suspended or otherwise ineligible to participate in Federal health care programs or in Federal procurement or nonprocurement programs or proposed for exclusion under such programs, and (ii) has not been convicted of a criminal offense that falls under 42 USC §1320a-7(a) or §1320a-7(b)(1)-(3) but has not yet been excluded, debarred, suspended, or otherwise declared ineligible to participate in Federal health care programs or in federal procurement or nonprocurement programs. Jazz Pharmaceuticals agrees that it will immediately notify ESSDS in writing if any of the representations and warranties made by Jazz Pharmaceuticals in this Section cease to be true at any time during the term of the Agreement.
+ARTICLE VI
+PURCHASE PRICE OF PRODUCTS
+6.1    
+Purchase Price of Products.
+ With respect to all Product purchased by ESSDS pursuant to Section 3.1, ESSDS shall pay a purchase price to Jazz Pharmaceuticals [***]. Notwithstanding, ESSDS shall pay Jazz Pharmaceuticals [***].
+6.2    
+Payment Terms.
+ ESSDS shall have the right to establish the price at which it resells Product to Non-PAP Patients, and shall have all right title and interest in and to any amounts that ESSDS receives from third parties in connection with Product dispensed or distributed pursuant to Non-PAP Orders; provided, however, that the price at which ESSDS sells Product shall not exceed [***]. This limitation is intended solely to create an upper limit, and is not intended by either party to indicate a desire, intent, or belief that the practice of pricing at, or near, this upper limit is sufficient to meet current marketplace demands. The parties acknowledge the vast complexities of pricing within the pharmaceutical marketplace, and ESSDS represents that typical pricing conventions will apply (example: larger customers typically receive better pricing). ESSDS shall make best efforts in all cases to negotiate in good faith with any Third Party Payer in connection with the purchase of Product on terms that are commercially reasonable. The parties have a shared desire to ensure Patients receive drug in a timely manner. From time to time Jazz Pharmaceuticals may become aware of specific Third Party Payer issues that could impact patients. In the event that Jazz Pharmaceuticals becomes aware of such issues, Jazz Pharmaceuticals may escalate those concerns through the Jazz Pharmaceuticals’ Head of US Market Access, directly to the ESSDS VP of Commercial Activity. ESSDS agrees to use best efforts to ensure such issues are quickly resolved. Nothing in this section shall be interpreted as Jazz Pharmaceuticals setting pharmacy pricing or taking any action inconsistent with provisions contained in Article 4.1(c), titled “Pricing of Non-PAP Orders”.
+ 
+ 
+Pharmacy Master Services Agreement
+ARTICLE VII
+RECORDS AND NOTIFICATIONS
+7.1    
+Records.
+ ESSDS shall at all times keep and maintain complete, timely and accurate written records relating to the performance of the Services as provided for under this Agreement (collectively, the “Records”). ESSDS shall maintain the Records in compliance with Applicable Laws and ESSDS’s record retention policies.
+7.2     
+Adverse Event Reporting.
+    ESSDS shall comply with the agreed Potential Adverse Event Reporting SOP and WIs and report any potential Adverse Drug Experiences that it receives to Jazz Pharmaceuticals in compliance with those SOPs and WIs.
+7.3    
+Product Complaints.
+ ESSDS shall comply with the agreed Product Complaint SOP and properly report any technical complaints (e.g., reports about potential production issues such as packaging irregularities that are not a result of shipping damage) or Product Complaints (e.g. reports regarding contamination, discoloration, improper labeling, adulteration) that it receives to Jazz Pharmaceuticals.
+7.4    
+Other Notifications.
+ Other Notifications. ESSDS shall notify Jazz Pharmaceuticals within one (1) business day if the Product or the REMS Program is within the scope of a FDA or DEA inspection.
+ARTICLE VIII
+CONFIDENTIALITY
+8.1    
+Confidentiality of Agreement.
+ The Parties agree that the terms and conditions of
+the Agreement are Confidential Information (as defined in Section 8.2 below) and shall not be disclosed to anyone for any purpose without the prior written consent of the other Party, except as expressly permitted by this Agreement.
+ 
+8.2    
+Confidential Information.
+ Each Party acknowledges that in connection with this Agreement, it may receive information, including and without limitation, trade secrets and innovations, information regarding the Product and planned products, the Program and the Services and planned services, contractors, customers, prospective customers, financial data, computer software processes, ideas, marketing information, strategies, forecasts, development programs, data, know-how, improvements and other valuable business information from or on behalf of the other Party (the “Disclosing Party”) which the Disclosing Party considers to be proprietary and confidential and the value of which might be lost if the confidentiality of such information is not maintained (collectively, the “Confidential Information”). The Party receiving such Confidential Information (the “Receiving Party”) agrees, at all times during the term of this Agreement, and subject to the limitations set forth herein, (i) to treat as confidential all Confidential Information received from the Disclosing Party with at least the same degree of care with which the Receiving Party treats its own confidential information, (ii) to disclose Confidential Information to only those of its employees, agents, consultants and permitted subcontractors who have a need to know such Confidential Information in order to accomplish the purposes of this Agreement and who are subject to obligations of confidentiality at least as restrictive as those obligations of confidentiality in this 
+Pharmacy Master Services Agreement
+Section, and (iii) to not use the Disclosing Party’s Confidential Information for any purpose except those purposes permitted by this Agreement. Unless otherwise expressly set forth herein to the contrary, each Party hereby acknowledges and agrees that, as between the Parties, the Disclosing Party owns all right, title, and interest in and to the Confidential Information disclosed to the Receiving Party.
+8.3.     
+Exceptions.
+ The obligations of confidentiality and nonuse set forth herein shall
+not apply to information that the Receiving Party can demonstrate by competent written evidence: (i)    is or becomes generally available to the public other than as a result of a disclosure by the Receiving Party in breach this Agreement, (ii) was within the Receiving Party’s possession prior to the date of the Prior Agreement and had become known to the Receiving Party from the Receiving Party’s own sources without restriction, (iii) becomes available to the Receiving Party on a non-confidential basis from a third Party not acting on behalf of the Disclosing Party and not under any obligation to keep such information confidential, and (iv)was or is independently developed by the Receiving Party without the use of or access to any Confidential Information. Any combination of features or disclosures will not be deemed to fall within the foregoing exclusions merely because certain individual features fall within such foregoing exclusions unless the combination as a whole falls within any of the above exclusions.
+8.4.     
+Authorized Disclosure.
+ The Receiving Party may disclose Confidential Information of the Disclosing Party to the extent such disclosure is required by Applicable Law, a valid order of a court or other governmental body having jurisdiction, or rules of a securities exchange; 
+provided, however, 
+that the Receiving Party both: (a) gives prompt notice to the Disclosing Party of the disclosure requirement in order to allow the Disclosing Party to obtain any available limitation on or exemptions from such disclosure requirement, where reasonably practicable, and (b) reasonably cooperates in such efforts by the Disclosing Party, where not prohibited by Applicable Law, court order, or securities exchange rules. 
+8.5.     
+Permitted Uses and Disclosures.
+ The Receiving Party may use Confidential Information in the performance of its obligations or exercise of its rights under this Agreement or any Work Order. 
+8.6.     
+Data.
+     ESSDS agrees to maintain the security and confidentiality of all Data, including any Personal Data, in accordance with all Applicable Laws, applicable agreements, patient release forms, consents, and the provisions of this Agreement, the SOPs and all Work Orders. For the purposes of this Section, “Personal Data” shall mean computerized or electronic records as well as paper-based files in any medium or format collected by ESSDS in connection with the performance of Services, including by not limited to information received from any patient, health care professional, and other business-to-business customers or vendors that specifically identifies, or when used together with other available information identifies, a particular individual. Personal Data includes name, address, telephone number, fax number, Social Security number, DEA number, other government issued identifier, credit card information, insurance identification number, IP addresses, email address and information relating to the past, present or future health or condition (physical or mental) of an individual, but does not include information that is deidentified, encoded or made anonymous. The parties agree that Jazz Pharmaceuticals will not have any ownership in Personal Data created, collected or recorded by ESSDS in connection with the Services. ESSDS agreed that it will not utilize Personal Data outside the scope of this Agreement, provided however, that ESSDS 
+Pharmacy Master Services Agreement
+and/or its affiliates may use Personal Data in the aggregate or on a deidentified basis with other drug-use data, to the extent permitted by law, without charge, for research, cost analysis and other internal business purposes of ESSDS, provided that said use does not in any way compete with the business of Jazz Pharmaceuticals. ESSDS will establish commercially reasonable controls to ensure the confidentiality of Confidential Information and Data and to ensure that Data is not disclosed contrary to the provisions of this Agreement; provided, further, without limiting the foregoing, that ESSDS shall implement and/or maintain a comprehensive written information privacy and security program that includes appropriate administrative, technical and physical safeguards and other security measures appropriate to the size and complexity of ESSDS’ operations and the nature and scope its activities that are designed to (a) ensure the security and confidentiality of Data; (b) protect against any anticipated threats or hazards to the security, confidentiality and integrity of Data; and (c) protect against unauthorized access to or use of Data that could result in the destruction, use, modification or unauthorized disclosure of Data.
+8.7     
+Return of Confidential Information.
+ Upon expiration or earlier termination of this Agreement, or upon the Disclosing Party’s earlier request, the Receiving Party (a) shall return to the Disclosing Party all documents, papers, and other materials in the Receiving Party’s possession or under the Receiving Party’s control containing the Disclosing Party’s Confidential Information, or (b) shall destroy any or all such documents, papers and other materials items, thereafter sending the Disclosing Party a signed certification of destruction covering the applicable items. Notwithstanding the foregoing, each Party may retain a single archival copy of the other Party’s Confidential Information for the sole purpose of facilitating compliance with the surviving provisions of this Agreement. 
+8.8     
+Access to Information Technology.
+(a)    Jazz Pharmaceuticals may provide ESSDS with access to the Jazz Pharmaceuticals network, system, and/or a specific application, as Jazz Pharmaceuticals may decide in its sole discretion (the “Information Technology”) for use under this Agreement.  This Information Technology will be used solely for purposes of, and in connection with, the Services provided under this Agreement and for no other purpose whatsoever.  Access to such Information Technology will be strictly limited to those ESSDS agents, employees and consultants (the “IT Access Recipients”) who are required to use such Information Technology for the performance of the Services. The Information Technology may not be copied, modified or distributed, or provided to or used by any third party.  ESSDS will be liable for any unauthorized use of Jazz Pharmaceuticals’ Information Technology by any IT Access Recipients.
+Pharmacy Master Services Agreement
+(b)    ESSDS will notify Jazz Pharmaceuticals within forty eight (48) hours in the event that any IT Access Recipient has terminated its relationship with ESSDS, including but not limited to (i) ESSDS employees that have left employment with the ESSDS for any reason whatsoever; and (ii) ESSDS agents or contractors that are no longer under contractual obligations with ESSDS relating to the Services provided hereunder. 
+(c)    ESSDS will notify Jazz Pharmaceuticals within forty eight (48) hours in the event that the duties of any IT Access Recipient have been reassigned such that the recipient no longer requires access to Information Technology. 
+(d)    ESSDS will take all reasonable precautions to prevent the unauthorized access to Jazz Pharmaceuticals’ Information Technology by ESSDS Personnel. ESSDS will notify Jazz Pharmaceuticals immediately (and in all cases within three days) of becoming aware of any actual or suspected unauthorized access to the Information Technology. 
+8.9     
+Injunctive Relief.
+ Each Party acknowledges that the disclosure or use of the other
+Party’s Confidential Information, other than as expressly permitted herein, without such Party’s prior written permission may cause the Disclosing Party irreparable harm and that any material breach or threatened material breach of the obligations of confidentiality and non-use by the
+Receiving Party will entitle the Disclosing Party to seek injunctive relief, in addition to any other legal remedies available to it, in any court of competent jurisdiction.
+ARTICLE IX
+REPRESENTATIONS, WARRANTIES AND COVENANTS
+9.1    
+General.
+ Each Party hereby represents, warrants, and covenants to the other that: (i) it has all requisite corporate power and authority to enter into this Agreement and perform and observe all obligations and conditions required to be performed or observed by that Party under this Agreement, (ii) neither the execution and delivery of this Agreement nor the performance by that Party of its respective obligations under this Agreement will conflict with or result in a breach of any covenant or agreement between that Party and any third party, (iii) this Agreement represents the legal, valid, and binding obligation of that Party, and (iv) as of the Effective Date, such Party has (or will have at such time as performance of its obligations under this Agreement may require) obtained all of the local, state, and federal permits, licenses, or other regulatory registrations or approvals necessary, if any, for the performance of its obligations under this Agreement.
+9.2    
+ESSDS Representations and Warranties.
+9.2.1    ESSDS represents and warrants that, to the best of its knowledge, it owns and possesses all right, title and interest in and to, or has valid licenses to use all the proprietary rights necessary to perform its obligations under this Agreement.
+Pharmacy Master Services Agreement
+9.2.2    ESSDS warrants that any computer systems used in connection with the Services shall operate substantially in accordance with any descriptions or the specifications set forth in this Agreement or any applicable Work Orders. A business continuity plan, as set forth in the applicable SOP, will be implemented by ESSDS to assure that this warranty will be met.
+9.2.3    ESSDS represents, warrants, and covenants that ESSDS’s contracted work with pharmaceutical/medical device manufacturers is independent from its parent company’s clinical and formulary decisions. There is a firewall between ESSDS’s pharmaceutical/medical device services business and the pharmacy benefit management (“PBM”) business. ESSDS will not be influenced by any PBM rebate or other related agreements with pharmaceutical/medical device manufacturers. Similarly, transactions between pharmaceutical/medical device manufacturers and ESSDS will not affect PBM clinical and formulary decisions.
+9.2.4    ESSDS shall:
+(a) provide all Services and Deliverables to Jazz Pharmaceuticals pursuant to this Agreement in compliance with Applicable Laws and in a good, workmanlike, and timely manner, consistent with standards for the industry;
+(b) comply with the descriptions, specifications and representations as to the Services and Deliverables (including performance, capabilities, accuracy, completeness, characteristics, specifications, configurations, standards, functions, and requirements) as set forth in this Agreement or in a Work Order, including, without limitation, the Performance Standards and Measures included in the applicable Work Order and the specifications contained within the REMS Documents.
+(c) maintain all licenses, certifications, permits and authorizations pertinent to the practice of pharmacy and required by all Applicable Laws, the REMS Documents, rules and regulations and this Agreement.
+(d) make no representation, guarantee, or warranty about the Product, whether orally or in writing, except as contained in written materials delivered to ESSDS by Jazz Pharmaceuticals for use in connection with the Services; and (i) avoid deceptive, misleading or unethical practices that are or might be detrimental to Jazz Pharmaceuticals, the Product, or the public; and (ii) make no false or misleading representations with regard to Jazz Pharmaceuticals or the Product.
+(e) use commercially reasonable technical measures to (i) detect and eliminate computer viruses and other destructive code introduced to any computer systems used in connection with the Services, (ii) correct any error reproducible by ESSDS in any computer systems used in connection with the Services, and (iii) ensure that any computer systems used in connection with the Services are available without interruption, except as contemplated by the business continuity plan, included as an Appendix to JPP-0002 – Inventory Control SOP.
+Pharmacy Master Services Agreement
+9.3    
+Jazz Pharmaceuticals Representations and Warranties
+9.3.1    Jazz Pharmaceuticals represents and warrants that, to the best of its knowledge, it owns and possesses all right, title and interest in and to, or has valid licenses to use all of the proprietary rights necessary to perform its obligations under this Agreement.
+9.3.2    Jazz Pharmaceuticals warrants that, as of the delivery to ESSDS, the Product will (a) conform to Jazz Pharmaceuticals’ stated Product specifications, (b) not be adulterated or misbranded within the meaning of the federal Food, Drug and Cosmetic Act of 1938, Title 21, as amended (the “Act”), and (c) not be articles which may not, under the provisions of the Act, be introduced into interstate commerce. THE WARRANTY SET FORTH IN THIS SECTION IS THE SOLE AND EXCLUSIVE WARRANTY GIVEN BY JAZZ PHARMACEUTICALS WITH RESPECT TO THE PRODUCT. JAZZ PHARMACEUTICALS EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES RELATED TO THE PRODUCT, EXPRESS OR IMPLED, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+9.3.3    Jazz Pharmaceuticals represents and warrants that: (i) it is engaging ESSDS to perform bona fide, legitimate, reasonable, and necessary Services; (ii) the Services are not intended to serve, either directly or indirectly, as a means of marketing the Product or as remuneration for steering patients or prescribers to the Product; (iii) the Services are not intended to diminish the objectivity or professional judgment of ESSDS; (iv) any service requirements imposed by Jazz Pharmaceuticals, including through SOPs, Work Instructions, and Business Rules, are reasonably limited to what is necessary to ensure compliance with Jazz Pharmaceuticals’ obligations under Applicable Law, including with respect to the REMS Program; (v) the Services do not involve counseling or promotion of any off-label use of Product; and (vi) the Services do not involve the counseling or promotion of a business arrangement or other activity that violates Applicable Law.
+9.3.4    Jazz Pharmaceuticals represents and warrants that: (i) all programs initiated by Jazz Pharmaceuticals and included as part of the Services, including any eligibility criteria for participation in any such programs, shall be structured in accordance with Applicable Law; and (ii) Jazz Pharmaceuticals is responsible for the content of all materials provided by Jazz Pharmaceuticals for use or distribution in connection with the Services, including REMS Program Items, and Jazz Pharmaceuticals shall ensure that all such materials have received any required regulatory approvals, are educational and not promotional with respect to the Product or providing Product-related or REMS Program-related information. 
+ARTICLE X
+OWNERSHIP AND INTELLECTUAL PROPERTY
+10.1    
+Intellectual Property of Jazz Pharmaceuticals
+. All Intellectual Property (including patents, copyrights, trademarks, trade secrets, ideas, improvements, discoveries, enhancements, 
+Pharmacy Master Services Agreement
+modifications, know-how, data, and information of every kind and description) either (a) conceived, generated, made, fixed in a tangible medium of expression or reduced to practice, as the case may be, by ESSDS within the scope and course of providing the Services to Jazz Pharmaceuticals under this Agreement, either alone or jointly with others or (b) owned or controlled by Jazz Pharmaceuticals on the Effective Date and/or otherwise independently of ESSDS and this Agreement which arise out of or relate to this Agreement, the Services, or the Jazz Pharmaceuticals Confidential Information (the “Jazz Intellectual Property”) will be the sole and exclusive property of Jazz Pharmaceuticals. ESSDS will disclose Jazz Intellectual Property under subpart (a) of this paragraph promptly to Jazz Pharmaceuticals, and hereby assigns all of ESSDS’s right, title and interest in and to any such Jazz Intellectual Property to Jazz Pharmaceuticals without royalty or any other consideration (other than compensation for the Services as provided by this Agreement or an applicable Work Order). For the avoidance of doubt, this includes, but may not be limited to, all Records, Deliverables, Program Items, and Data. Jazz Pharmaceuticals shall also own all right, title, and interest in any telephone numbers, fax numbers, web, and email domains established by ESSDS solely in connection with the Services hereunder and all such Intellectual Property rights therein, and the Parties will take all actions necessary so that any such numbers and domains will be registered with Jazz Pharmaceuticals following the expiration or termination of this Agreement for any reason, at Jazz Pharmaceuticals’ sole cost and expense. ESSDS will cooperate fully with Jazz Pharmaceuticals in the process of securing and enforcing Jazz Pharmaceuticals’ rights to such Jazz Intellectual Property, which may include executing applications, assignments or other instruments, and Jazz Pharmaceuticals will compensate ESSDS for ESSDS’s reasonable time devoted to such activities at Jazz Pharmaceuticals’ request and reimburse ESSDS for reasonable expenses incurred in connection therewith. If any part of the Jazz Intellectual Property under subpart (a) of this paragraph is based on, incorporates or is an improvement or derivative of, or cannot be reasonably and fully made, used, reproduced, modified, distributed or otherwise exploited without using, any technology or intellectual property rights owned or licensed by ESSDS and not assigned hereunder, then ESSDS hereby grants to Jazz Pharmaceuticals and its Affiliates a nonexclusive, either (i) perpetual and irrevocable (with respect to Records, Deliverables, Program Items, and Data supplied by ESSDS that incorporate such technology or intellectual property) or (ii) term-based (with respect to Jazz Pharmaceuticals’ receipt of Services, as provided in Section 10.3), worldwide, royalty-free, sublicensable (other than for receipt of Services) right and license to exploit and exercise all such technology and intellectual property rights in support of Jazz Pharmaceuticals’ receipt of the Services (as provided in Section 10.3) and exercise or exploitation of the Jazz Intellectual Property or any rights to the foregoing assigned to Jazz Pharmaceuticals (including, without limitation, any modifications, improvements and derivatives of any of them). Any copyrightable work, whether published or unpublished, created by ESSDS in connection with or during the performance of any Services will be considered a work made for hire to the fullest extent permitted by law. If any such copyrightable work is not classified as a work made for hire, then ESSDS assigns all worldwide rights in the work to Jazz Pharmaceuticals without royalty or any other consideration. No third party has or will have any claim of ownership for Intellectual Property assigned by ESSDS to Jazz Pharmaceuticals under this Agreement.
+10.2    
+Intellectual Property of ESSDS
+. Notwithstanding anything to the contrary in Section 10.1 or otherwise, the Jazz Intellectual Property does not include, and ESSDS shall retain all right, title and interest in and to, the ESSDS IP. “ESSDS IP” shall mean (a) all Intellectual Property (including trade secrets, trademarks, patents, copyrights and other non-registered intellectual property) owned or control by ESSDS on the Effective Date and/or otherwise independently of Jazz Pharmaceuticals and this Agreement, including but not limited to, all Intellectual Property embodied in the ESSDS 
+Pharmacy Master Services Agreement
+Software and all ESSDS Prior Works that ESSDS shall use in connection with performing the Services under this Agreement. The term “ESSDS Prior Works” shall mean any and all Intellectual Property or other products developed, owned, controlled or acquired by ESSDS prior to the Effective Date of this Agreement and/or otherwise independently of Jazz Pharmaceuticals and this Agreement, including, but not limited to (i) computer software, technology, patient-centric services and analytics for pharmaceutical, biotechnology, medical device, vaccine and diagnostic manufacturers (“ESSDS Software”), (ii) specialty pharmacy industry knowledge, (iii) specialty pharmacy distribution and services software, and (iv) specialty pharmacy data reporting to payers and manufacturers, subject to any data reporting restrictions set forth elsewhere in this Agreement.
+10.3    
+Licenses to Jazz Pharmaceuticals
+. ESSDS hereby grants to Jazz Pharmaceuticals a limited, non-transferable, non-exclusive, royalty-free right and license to the ESSDS IP, including the ESSDS Software, ESSDS Portal, and ESSDS Prior Works, solely as reasonably necessary in Jazz Pharmaceuticals’ normal course of receiving and using the Services during the term of this Agreement.
+ARTICLE XI
+TERM AND TERMINATION
+11.1    
+Term; Renewal.
+ Unless otherwise terminated in accordance with the terms hereof, this Agreement will remain in effect for a period of two (2) years from the Effective Date. If no such notice of termination is given, this Agreement can be renewed for one (1) additional one (1) year term at the discretion of Jazz Pharmaceuticals by a written amendment hereto, subject to the right of termination as otherwise provided herein. 
+11.2    
+Termination Without Cause.
+ Either Party may terminate this Agreement or any Work Order at any time without cause on one hundred eighty (180) days’ prior written notice to the other Party. 
+11.3    
+Termination for Cause.
+ Either Party may terminate this Agreement immediately upon written notice to the other Party if such other Party materially breaches this Agreement and, after receiving written notice identifying such breach, fails to cure such material breach within thirty (30) days after receipt of such notice. Such notice will include the effective date of termination.
+11.4    
+Termination for Legal Necessity.
+ Either Party may terminate this Agreement immediately upon written notice to the other Party in the event that (1) any Applicable Law, court decision, or the like is enacted, promulgated, published, or otherwise made effective, which would make ESSDS’ performance of the Pharmacy Services illegal or otherwise commercially impracticable or Jazz Pharmaceuticals’ development or commercialization of the Product commercially, medically, or technically impracticable or (2) Jazz Pharmaceuticals receives notice of regulatory action by the FDA that results in the termination or suspension of its rights to manufacture or distribute the Product in the United States.
+Pharmacy Master Services Agreement
+11.5    
+Bankruptcy or Insolvency.
+ Either Party may terminate this Agreement immediately upon written notice to the other Party, if such other Party makes an assignment for the benefit of creditors, files a petition in bankruptcy, is adjudicated insolvent or bankrupt, a receiver or trustee is appointed with respect to a substantial part of such other Party’s property, or a proceeding is commenced against it which will substantially impair its ability to perform hereunder.
+11.6    
+Partial Termination.
+ A Party shall have the option and right to terminate (i) all of the Services or (ii) one or more specific services that may be part of the Services (collectively or individually referred to as “Specified Service”) as provided for in this Article X with one hundred eighty (180) days’ prior written notice to the other Party.
+11.7    
+Effect of Termination.
+ Upon expiration or earlier termination of this Agreement:
+11.7.1 ESSDS shall deliver to Jazz Pharmaceutical, at Jazz Pharmaceuticals’ expense, all tangible materials in ESSDS’ possession or control belonging to Jazz Pharmaceuticals.
+11.7.2 ESSDS shall notify any person or entity who contacts ESSDS in connection with any matter related to the Services that ESSDS is no longer providing those Services and direct them as requested by Jazz Pharmaceuticals.
+11.7.3 ESSDS shall invoice Jazz Pharmaceuticals for any payments due for the applicable Services through the date of termination, pursuant to Section 2.8 and Jazz Pharmaceuticals shall pay such invoice(s) in accordance with Section 2.7.
+11.7.4 ESSDS shall otherwise provide all other cooperation reasonably requested by Jazz Pharmaceuticals to ensure a smooth transition and the uninterrupted operation of the Specified Service.
+11.8    
+Transition of Services.
+ Upon termination or expiration of this Agreement or any Specified Service, the Parties shall mutually agree on an expeditious schedule of transition of the applicable Services.
+11.9    
+Transition of Patient Information.
+ In connection with any of the Services, Jazz Pharmaceuticals may request that ESSDS transfer all prescriptions, all patient and prescriber data required to administer and maintain compliance with the REMS Program, SOPs and Business Rules at Jazz Pharmaceutical’s request to a pharmacy assuming responsibility for such services for the purpose of continuing “treatment” (as that term is defined by HIPAA) of affected Patients, and ESSDS shall expeditiously honor that request to the extent disclosure of such Patient Data by ESSDS is permitted under Applicable Law, including, but not limited to, HIPAA. All such Patient Data shall be transferred in standard NCPDP format. The purpose of any transfer of Patient Data is to assure, to the extent possible, as smooth transition for Patients.
+Pharmacy Master Services Agreement
+11.10    
+Survival.
+ Termination or expiration of the Agreement for any reason shall not affect the continuing rights and obligations of the Parties under Articles III; VII; VIII; X; XII; and XIV; and Sections 2.3; 2.4.1; 5.1; 5.2; 9.1; 11.7; 11.8; 11.9; 11.10; and 13.4 of this Agreement.
+ARTICLE XII
+INDEMNIFICATION; LIMITATION OF LIABILITY; INSURANCE
+12.1    
+Indemnification by Jazz Pharmaceuticals.
+ Subject to the terms hereof, Jazz Pharmaceuticals shall indemnify and defend ESSDS, its Affiliates, and their respective directors, officers, employees, agents, successors and permitted assigns, from and against any liabilities, damages, loss, judgments, settlements or expense (including reasonable attorneys’ fees) (collectively, “Losses”) as a result of any third-party
+ 
+claim, demand, or action (collectively, “Claims”) to the extent arising from (a) the manufacture, sale or use, of the Product; (b) the negligence, recklessness, or willful misconduct of Jazz Pharmaceuticals or any of its employees, or (c) Jazz Pharmaceuticals’ failure to comply with its obligations under this Agreement. Such obligation to indemnify, defend, and hold harmless shall not apply to the extent Losses and Claims are caused by ESSDS’ breach hereof, negligence, recklessness, or willful misconduct. 
+12.2    
+Indemnification by ESSDS.
+ Subject to the terms hereof, ESSDS shall indemnify and defend Jazz Pharmaceuticals, its Affiliates, and their respective directors, officers, employees, agents, successors and permitted assigns, from and against any Losses as a result of any third-party Claims, to the extent arising from (a) the negligence, recklessness or willful misconduct of ESSDS or any of its employees, or (b) ESSDS’ breach of any representation, warranty, or obligation under this Agreement. Such obligation to indemnify, defend, and hold harmless shall not apply to the extent Losses and Claims are caused by Jazz Pharmaceuticals’ breach hereof, negligence, recklessness or willful misconduct. 
+12.3    
+Indemnification Conditions and Procedures.
+ The Party seeking indemnification (the “Requesting Party”) shall (a) promptly notify the other Party (the “Indemnifying Party”) in writing upon receipt of oral or written notice of any actual or alleged Claim, (b) allow the Indemnifying Party, at its discretion and cost, to undertake and control the defense of such Claim, (c) diligently assist the Indemnifying Party and cooperate in defending against such Claim; and (d) not, except at its own cost, voluntarily make or agree to make any payment or incur any expense in connection with any such Claim without the prior written consent of the Indemnifying Party.
+12.4    
+Limitation of Liability.
+ EXCEPT WITH RESPECT TO BREACHES OF CONFIDENTIALITY OBLIGATIONS UNDER ARTICLE VIII, INTELLECTUAL PROPERTY INFRINGEMENT CLAIMS, AND THE PARTIES’ INDEMNIFICATION OBLIGATIONS UNDER SECTIONS 11.1 AND 11.2, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR LOST PROFITS OR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR SIMILAR DAMAGES, HOWEVER CAUSED AND ON ANY LEGAL THEORY, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+Pharmacy Master Services Agreement
+12.5    
+Insurance.
+ Each Party will maintain at least [***] of commercial general liability insurance and [***] of product liability insurance. ESSDS will maintain Workers’ Compensation coverage (or its equivalent) in compliance with Applicable Law, automotive liability insurance of at least [***] and professional liability insurance of at least [***]. As evidence of the coverage required by this Agreement, either Party may, in lieu of actual policies, accept Certificates of Insurance setting forth the nature of the coverage, the limits of liability, the name of the insurance carrier, policy number and the date of expiration, which shall be furnished on demand.
+ARTICLE XIII
+COLLABORATION
+13.1    
+Annual Review.
+ No less than one hundred-eighty (180) days prior to each anniversary of the Effective Date of this Agreement, ESSDS and Jazz Pharmaceuticals will meet to review the Services to be performed during the next twelve (12) months (each such meeting, an “Annual Review”). The purpose of each Annual Review is to assess the operational program(s), identify any areas of improvement, and discuss any additional or revised services. The Annual Review is not intended to take the place of regular and ongoing communications between the Parties pursuant to Section 13.2. The Annual Review will take place at a time, location, and method (i.e., in-person or teleconference) mutually determined by the Parties.
+13.2    
+Regular Meetings and Communication.
+ Jazz Pharmaceuticals and ESSDS agree to meet (whether in-person or by teleconference) as necessary, for ESSDS to effectively perform the Services specified in each Work Order hereunder. Jazz Pharmaceuticals and ESSDS agree to meet formally on at least a quarterly basis during the Term to, among other things, discuss performance under the Agreement, strategic planning, and to evaluate the progress being made against objectives established in this Agreement or Work Orders and any enhancements that might be made to the processes set forth herein.
+13.3    
+Non-Disparagement; No Disadvantaging.
+ Neither Party will disparage the other Party or the Product or Services.
+ 
+Notwithstanding the foregoing, the following actions shall not be considered disparaging: (i) the action taken is related to drug interactions with other prescription or over-the-counter drug products, (ii) the action taken is related to contraindications for such Product; (iii) the action taken involves displaying or communicating relative Patient costs or coverage, (iv) or as otherwise may be consistent with ESSDS’s independent exercise of the practice of pharmacy in accordance with all Applicable Law.
+Pharmacy Master Services Agreement
+13.4    
+Exclusivity and Non-Competition.
+ From the effective date until twelve (12) months after the termination of this agreement, ESSDS will not accept or participate in Services related to products related to oxybate and oxybate salts and their derivatives with any other party without the prior written consent of Jazz Pharmaceuticals. From the effective date until the termination or expiration of the Agreement, ESSDS will not accept or participate in Services related to products indicated for the treatment of cataplexy in narcolepsy or excessive daytime sleepiness in narcolepsy. 
+ARTICLE XIV
+GENERAL PROVISIONS
+14.1    
+Amendment.
+ This Agreement may not be amended or modified except by a written instrument signed by both Parties.
+14.2    
+Waiver.
+ A failure by either Party to insist upon strict compliance with any term of this Agreement, to exercise any option, to enforce any right, or to seek any remedy upon any default of the other Party shall not affect, or constitute a waiver of, such Party’s right to insist upon strict compliance with that term, to exercise that option, to enforce that right, or to seek that remedy with respect to that default or any prior, contemporaneous, or subsequent default. No custom or practice of the Parties at variance with any provision of this Agreement shall affect, or constitute a waiver of, a Party’s right to demand strict compliance with all provisions of this Agreement.
+14.3    
+Assignment.
+ Jazz Pharmaceuticals may assign this Agreement, in whole or in part, to any Affiliate or to a third-party successor to substantially all of the business to which this Agreement relates, whether in a merger, sale of stock, sale of assets or other transaction. ESSDS may assign this Agreement, in whole or in part, upon consent of Jazz Pharmaceuticals, such consent not to be unreasonably withheld.
+14.4    
+No Implied Licenses.
+     Except as expressly provided in this Agreement, nothing contained herein shall be deemed to grant either Party any rights or licenses under any Intellectual Property rights of the other Party. 
+14.5    
+Entire Agreement.
+ This Agreement (together with all Exhibits and Work Orders hereto incorporated by reference) constitutes the entire agreement between the Parties with respect to the Services and supersedes all prior negotiations, representations or agreements, written or oral, regarding the subject matter hereof, which will remain in full force and effect in accordance with its terms with respect to disclosures made prior to the date hereof. Jazz Pharmaceuticals specifically rejects and will not be bound by any other terms and conditions.
+14.6    
+Tax Liability.
+ ESSDS will be solely responsible for meeting its corporation tax and any applicable social security (or equivalent in any other country, e.g., national insurance obligations) and for enabling that its employees meet their respective income tax and applicable social security obligations (or equivalent in any other country) and all other applicable social insurances. ESSDS shall indemnify and hold harmless Jazz Pharmaceuticals for all taxes, social security or its equivalent and other contributions, costs, claims, penalties, interest, expenses or proceedings which Jazz Pharmaceuticals may incur arising from or in connection with the failure of ESSDS or its employees to meet their respective responsibilities under this Section.
+Pharmacy Master Services Agreement
+14.7    
+Relationship of the Parties.
+ ESSDS will be an independent contractor of Jazz Pharmaceuticals, and nothing in this Agreement will be construed to create any partnership, joint venture, agency, or employment relationship between the Parties or between Jazz Pharmaceuticals and the Personnel of ESSDS. ESSDS is and will remain responsible for its respective Personnel and will make no claim against Jazz Pharmaceuticals or its Affiliates for eligibility to participate in any benefits extended by Jazz Pharmaceuticals to its employees. ESSDS will have no authority to act for, bind or commit Jazz Pharmaceuticals or its Affiliates in any way.
+14.8    
+Force Majeure.
+ If the performance of any part of this Agreement by either party shall be affected for any length of time by fire or other casualty, government restrictions, war, riots, strikes, or labor disputes, lock outs, transportation delays, and acts of God, or any such similar causes which are beyond the reasonable control of such Party, such Party shall not be responsible for delay or failure of the performance of this Agreement for such length of time; provided, however, that the obligation of the Parties to pay amounts then due shall not be suspended or delayed; and provided, further, that if ESSDS is precluded from rendering Services for a continuous period in excess of ten (10) business days, Jazz Pharmaceuticals shall be entitled to terminate this agreement upon five (5) days’ notice.
+14.9    
+Severability.
+ If any of the provisions or any portion of any provision of this Agreement is held to be unenforceable or invalid by a court or arbitration panel of competent jurisdiction, the validity and enforceability of the enforceable portion of any such provision and/or the remaining provisions will not be affected. 
+14.10    
+Governing Law.
+ This Agreement, and any dispute related hereto, will be governed and construed in accordance with the laws of the State of Delaware, excluding any choice of law rules which may direct the application of the laws of another jurisdiction. In the event of any dispute between the Parties, prior to any Party commencing an action for damages, each Party will designate a representative and the representatives will meet in person or telephonically in a good-faith attempt to resolve their differences. Prior to such meeting, the complaining Party will provide a written explanation of the dispute.
+14.11 
+Notices.
+ Any notice delivered to a Party pursuant to this Agreement must be in writing and may be delivered: personally (effective upon receipt); by depositing with a nationally-recognized overnight courier (effective one business day after deposit); or by depositing in the United States Mail, postage prepaid, registered or certified mail, return receipt requested (effective five days after deposit). All notices hereunder will be addressed to the Party at the address indicated below, or at such other address that may have been specified by written notice delivered in accordance with this Section:
+Pharmacy Master Services Agreement
+If to ESSDS:
+ 
+ 
+ 
+ 
+Express Scripts, Inc.
+c/o Express Scripts Specialty Distribution Services, Inc.
+One Express Way, 
+St. Louis, MO 63121
+Attn: Legal Department
+ 
+ 
+ 
+with a copy to
+:
+ 
+Express Scripts Specialty Distribution Services, Inc.
+One Express Way, 
+St. Louis, MO 63121
+Attn: General Manager
+ 
+ 
+ 
+If to Jazz Pharmaceuticals:
+ 
+ 
+ 
+ 
+Jazz Pharmaceuticals, Inc. 
+Attention: Legal Department
+3170 Porter Drive
+Palo Alto, CA 94304
+Email: 
+Jazz_Notices@jazzpharma.com
+ 
+ 
+ 
+14.12    
+Counterparts.
+ This Agreement, any Work Order, and any amendments hereto or thereto, may be executed in counterparts, each of which will be deemed an original but all of which together will constitute one and the same instrument. Facsimile and pdf signatures will be considered original signatures.
+14.13    
+Compliance with Laws
+. Each Party shall, in its respective performance of this Agreement, take all actions necessary and appropriate to assure that it complies with all applicable federal, state, and local laws and regulations, including, without limitation, the Anti-Kickback Statute (42 U.S.C. § 1320a-7b(b)), the Public Contracts Anti-Kickback Act (41 U.S.C. § 51 et seq.) and the Stark Law (42 U.S.C. § 1395nn).
+14.14    
+Publicity.
+ Neither Party shall cause or permit the oral or written release of any statement, advertisement, information or publicity referring to the other Party or any of its personnel without such Party’s prior written consent. 
+(Signature Page to Follow)
+Pharmacy Master Services Agreement
+Pharmacy Master Services Agreement
+Intending to be bound by the provisions hereof, each of the parties hereto have caused this Agreement to be executed personally or by its duly authorized representative, to be effective as of the Effective Date.
+AGREED TO:
+ 
+AGREED TO:
+ 
+ 
+ 
+Jazz Pharmaceuticals, Inc.
+ 
+Express Scripts Specialty Distribution Services, Inc.
+   
+ 
+ 
+ 
+ 
+ 
+ 
+          /s/ Debra S. Feldman
+ 
+          /s/ Joshua B. Parker
+Name: Debra S. Feldman
+ 
+Name: Joshua B. Parker
+ 
+ 
+ 
+Title: VP, Pharmacovigilance
+ 
+Title: VP
+ 
+ 
+ 
+Date: 25-Jun-2020
+ 
+Date: 06/23/2020 | 2:52 PM CDT
+ 
+ 
+ 
+ 
+ 
+ 
+          /s/ Ernie Ross
+ 
+Approved as to Legal Form
+Name: Ernie Ross
+ 
+RPM for JD
+ 
+ 
+6-23-20
+Title: VP, U.S. Market Access
+ 
+Legal Dept.
+ 
+ 
+ 
+Date: 25-Jun-2020
+ 
+ 
+ 
+ 
+ 
+Pharmacy Master Services Agreement
+EXHIBIT A
+Trademarks
+XYREM® (sodium oxybate)
+XYREM REMS Program
+®
+ 
+866-XYREM88
+®
+ 
+Jazz Pharmaceuticals, Inc.
+®
+ 
+Pharmacy Master Services Agreement
+EXHIBIT B
+ESSDS LOCATIONS
+Express Scripts Building 5
+8931 Springdale Ave. Ste. A St. Louis, MO 63134
+Express Scripts Building 6
+4700 North Hanley Rd. St. Louis, MO 63134
+Pharmacy Master Services Agreement
+EXHIBIT C
+WORK ORDER NO.___
+TO PHARMACY MASTER SERVICES AGREEMENT
+This Work Order No. __ (“Work Order __”), dated as of the last date signed below, is made effective ________________, 20__ (“Work Order Effective Date”), pursuant to the terms of the Pharmacy Master Services Agreement (“Master Agreement”) effective as of July 1, 2017 between Jazz Pharmaceuticals, Inc. (“Jazz Pharmaceuticals”) and Express Scripts Specialty Distribution Services, Inc. (“ESSDS”), (individually, “Party” and collectively, “Parties”), the terms of which are incorporated herein by reference.
+No modification of this Work Order __ will be deemed effective unless in writing and signed by the Parties via a Work Order Modification in accordance with Article II, Section 2 of the Master Agreement. No waiver under this Work Order __ will be effective unless in writing and signed by the Party to be bound and then only to the extent expressly waived in such signed writing.
+A.
+SCOPE OF SERVICES
+B.
+PROGRAM FEES and PASS THROUGH EXPENSES
+Accepted and Agreed:
+ 
+ 
+EXPRESS SCRIPTS SPECIALTY DISTRIBUTION SERVICES, INC.
+ 
+JAZZ PHARMACEUTICALS, INC.
+ 
+ 
+ 
+By: ___________________________
+ 
+By: ___________________________
+Signature: ______________________
+ 
+Signature: ______________________
+Title: __________________________
+ 
+Title: __________________________
+Date: __________________________
+ 
+Date: __________________________
+Exhibit A
+Scope of Service
+Exhibit B
+Fees
+Pharmacy Master Services Agreement
+EXHIBIT D
+Service Level Agreements (“SLA”)
+This document identifies the expected level of service for certain Services during the Term of the Agreement. The purpose of this SLA is to specify the requirements of certain Services with regards to:
+Function
+Activity
+Measurement
+Service Level Commitment
+Operations
+Inbound Calls to the Call Center across all departments
+Average Speed to Answer (ASA)
+Monthly
+1
+ ASA ≤ 40 Seconds for RPH; ≤ 30 Seconds for PSC, RN and Reimbursement 
+Operations
+Inbound Calls to the Call Center across all departments
+Inbound call Service Level (SL)
+80% of all inbound calls are answered in ≤ 20 seconds Monthly
+1
+Operations
+Inbound Calls to the Call Center across all departments
+Maximum wait time
+≥ 99% of all inbound calls will be answered in less than 5 minutes unless caller is proactively offered an automated, or manual, option to receive a returned call without losing his/her place in queue
+Operations
+Inbound Calls to the Call Center
+Inbound Call Abandon Rate
+≤ 4% abandon rate Monthly
+1
+Customer Experience
+Patient Feedback among patients who received shipment
+Patient Satisfaction Percentage
+2
+Greater than or equal to 90% Monthly
+1
+1
+Excludes the month of January. ESSDS will make commercially reasonable efforts to achieve SLAs for the month of January. 
+2
+Patient Satisfaction Percentage is measured by a patient responding with 3, 4, or 5 to the question “
+On a scale from 1 - 5 where 1 is Very Dissatisfied and 5 is Very Satisfied, how would you rate your overall experience with your specialty pharmacy?”
+Pharmacy Master Services Agreement
