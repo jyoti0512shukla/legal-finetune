@@ -1,0 +1,26 @@
+# Core ML
+torch>=2.1.0
+transformers>=4.40.0
+peft>=0.10.0
+bitsandbytes>=0.43.0
+accelerate>=0.30.0
+datasets>=2.19.0
+trl>=0.8.0
+
+# Data pipeline
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+tqdm>=4.66.0
+pyyaml>=6.0.0
+
+# Claude distillation
+anthropic>=0.25.0
+
+# Evaluation
+rouge-score>=0.1.2
+nltk>=3.8.0
+
+# Utilities
+pandas>=2.2.0
+jsonlines>=4.0.0

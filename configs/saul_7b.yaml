@@ -1,0 +1,13 @@
+# Saul-7B fine-tuning config
+extends: base.yaml
+
+base_model: Equall/Saul-Instruct-v1
+output_dir: outputs/saul-7b-legal-lora
+
+# Saul-7B fits comfortably on A100 40GB with these settings
+max_seq_length: 2048
+per_device_batch_size: 4
+gradient_accumulation_steps: 4  # effective batch size = 16
+
+# 3 epochs over ~1000 examples = ~200 steps
+num_epochs: 3

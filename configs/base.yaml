@@ -1,0 +1,31 @@
+# Base training config — shared defaults
+max_seq_length: 2048
+
+# QLoRA
+lora_r: 16
+lora_alpha: 32
+lora_dropout: 0.05
+target_modules:
+  - q_proj
+  - k_proj
+  - v_proj
+  - o_proj
+  - gate_proj
+  - up_proj
+  - down_proj
+
+# Training
+num_epochs: 3
+per_device_batch_size: 4
+gradient_accumulation_steps: 4
+learning_rate: 2e-4
+warmup_ratio: 0.05
+weight_decay: 0.01
+lr_scheduler_type: cosine
+bf16: true
+
+# Infra
+logging_steps: 10
+save_steps: 100
+eval_steps: 100
+save_total_limit: 3
