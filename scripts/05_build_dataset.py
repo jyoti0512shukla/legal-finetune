@@ -122,6 +122,14 @@ def main():
         logger.info("Augmented: %d examples", len(augmented_examples))
         all_examples.extend(augmented_examples)
 
+    # Layer 5: v3 task-specific data (risk, extraction, checklist, redline)
+    v3_dir = PROCESSED_DIR / "v3_tasks"
+    if v3_dir.exists():
+        for jsonl_file in sorted(v3_dir.glob("*.jsonl")):
+            v3_examples = load_distilled_jsonl(jsonl_file)
+            logger.info("v3 %s: %d examples", jsonl_file.stem, len(v3_examples))
+            all_examples.extend(v3_examples)
+
     logger.info("Total before filtering: %d examples", len(all_examples))
 
     # Quality filter
