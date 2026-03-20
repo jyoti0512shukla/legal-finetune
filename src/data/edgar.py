@@ -70,21 +70,24 @@ def search_edgar(
             if not file_type.startswith("EX-10"):
                 continue
 
-            # Extract CIK and build URL
+            # Extract fields from EDGAR EFTS response
             ciks = src.get("ciks", [])
             cik = ciks[0] if ciks else ""
-            accession = src.get("file_num", "") or h.get("_id", "")
-            filename = src.get("file_name", "")
+            adsh = src.get("adsh", "")
             display_names = src.get("display_names", [])
             entity = display_names[0].split("(")[0].strip() if display_names else "Unknown"
             date = src.get("file_date", "")
 
-            # Build direct URL to the exhibit
-            acc_no_dashes = accession.replace("-", "")
+            # _id format is "adsh:filename" — extract filename from it
+            hit_id = h.get("_id", "")
+            filename = hit_id.split(":")[-1] if ":" in hit_id else ""
+
+            # Build direct URL: https://www.sec.gov/Archives/edgar/data/{cik}/{adsh_no_dashes}/{filename}
+            acc_no_dashes = adsh.replace("-", "")
             url = f"{ARCHIVES_BASE}/{cik}/{acc_no_dashes}/{filename}" if cik and filename else None
 
             hits.append({
-                "accession": accession,
+                "accession": adsh,
                 "filename": filename,
                 "entity": entity,
                 "cik": cik,
