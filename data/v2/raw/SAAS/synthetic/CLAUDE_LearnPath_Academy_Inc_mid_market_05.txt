@@ -1,0 +1,271 @@
+SOFTWARE AS A SERVICE SUBSCRIPTION AGREEMENT
+
+This Software as a Service Subscription Agreement (this "Agreement") is made and entered into as of August 15, 2024 (the "Effective Date"), by and between LearnPath Academy, Inc., a Delaware corporation having its principal place of business at 2200 Mission College Boulevard, Suite 300, Santa Clara, California 95054 ("Provider"), and The Board of Regents of the Texas State University System, a state agency and instrumentality of the State of Texas, having its principal administrative office at 601 Colorado Street, Suite 200, Austin, Texas 78701 ("Customer"). Provider and Customer may each be referred to individually as a "Party" and collectively as the "Parties."
+
+RECITALS
+
+WHEREAS, Provider develops, hosts, and operates a cloud-based learning management platform that provides course delivery, learner analytics, assessment management, and credential issuance functionality for higher education institutions (the "LearnPath Platform");
+
+WHEREAS, Customer operates one or more institutions of higher education within the Texas State University System and desires to subscribe to the LearnPath Platform to support online and blended course delivery to its enrolled students, faculty, and staff;
+
+WHEREAS, the Parties have negotiated this Agreement to govern Customer's subscription to and use of the LearnPath Platform, including the rights and obligations of each Party with respect to data privacy under the Family Educational Rights and Privacy Act (20 U.S.C. § 1232g) and applicable state student privacy laws;
+
+WHEREAS, the Parties acknowledge that Customer is a state agency subject to the laws and regulations of the State of Texas, including the Texas Public Information Act, and that this Agreement shall be construed accordingly; and
+
+WHEREAS, the Parties wish to set forth the terms and conditions upon which Customer will subscribe to the Platform and Provider will provide the related Services, Support, and Implementation Services to Customer;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Academic Term" means a fall semester, spring semester, summer session, or other discrete instructional period as defined in Customer's published academic calendar. The Parties acknowledge that Customer's operational requirements vary substantially between Academic Terms (when the Platform is in active use by enrolled students) and academic break periods (when usage is minimal).
+
+1.2 "Affiliate" means, with respect to any entity, any other entity that directly or indirectly controls, is controlled by, or is under common control with such entity, where "control" means the ownership of more than fifty percent (50%) of the voting securities or membership interests of such entity, or the power to direct or cause the direction of the management and policies of such entity, whether through the ownership of voting securities, by contract, or otherwise.
+
+1.3 "Authorized User" means any individual employee, faculty member, instructor, administrator, or enrolled student of Customer or its constituent institutions who is authorized by Customer to access and use the Platform pursuant to the rights granted to Customer hereunder. Each Authorized User shall be assigned a unique login credential and shall agree to the Provider's standard end-user terms of service prior to first access.
+
+1.4 "Confidential Information" means all non-public information disclosed by one Party (the "Disclosing Party") to the other Party (the "Receiving Party") that is identified as confidential at the time of disclosure or that, given the nature of the information and the circumstances surrounding its disclosure, would reasonably be understood to be confidential. Confidential Information of Provider includes the source code, technical architecture, security protocols, and pricing of the Platform. Confidential Information of Customer includes Customer Data, Student Data, and any non-public information regarding Customer's operations, finances, or strategic plans.
+
+1.5 "Customer Data" means all electronic data, content, records, and other information that is uploaded to, transmitted through, processed by, or stored within the Platform by or on behalf of Customer or any Authorized User in connection with Customer's use of the Services, including without limitation Student Data.
+
+1.6 "Documentation" means the user manuals, technical documentation, administrator guides, application programming interface specifications, and accessibility statements for the Platform that are made generally available by Provider to its customers, as such documentation may be updated by Provider from time to time in the ordinary course of business.
+
+1.7 "Effective Date" means the date first written above.
+
+1.8 "FERPA" means the Family Educational Rights and Privacy Act, 20 U.S.C. § 1232g, and the regulations promulgated thereunder at 34 C.F.R. Part 99, in each case as the same may be amended from time to time.
+
+1.9 "Implementation Services" means the professional services to be provided by Provider during the implementation phase of this Agreement, including configuration of the Platform, integration with Customer's identity management system via Security Assertion Markup Language (SAML) 2.0, migration of Customer Data from Customer's prior learning management system, training of Customer's administrators, and acceptance testing.
+
+1.10 "Intellectual Property Rights" means all intellectual property and proprietary rights of any kind anywhere in the world, including without limitation patents, copyrights, moral rights, trademarks, trade dress, trade secrets, know-how, database rights, and all other rights of a similar nature, whether registered or unregistered and whether now existing or hereafter created or acquired.
+
+1.11 "Order Form" means any document executed by both Parties that references this Agreement and specifies one or more components of Customer's subscription, including the number of student licenses, applicable fees, billing schedule, and any institution-specific configurations.
+
+1.12 "Personal Data" means any information relating to an identified or identifiable natural person, including without limitation information protected under FERPA, the Children's Online Privacy Protection Act (COPPA), and applicable state student data privacy laws of the State of Texas.
+
+1.13 "Platform" means the LearnPath Academy learning management software-as-a-service platform, including all features, functionality, modules, application programming interfaces, web interfaces, mobile applications, and updates thereto, as made available by Provider during the Subscription Term.
+
+1.14 "Services" means, collectively, (a) Customer's right to access and use the Platform during the Subscription Term, (b) the Implementation Services, (c) the Support Services, and (d) any other services expressly described in this Agreement or any Order Form.
+
+1.15 "Service Level Agreement" or "SLA" means the service level commitments set forth in Article 6 of this Agreement.
+
+1.16 "Student Data" means any information that, alone or in combination with other information, is linked or linkable to an identified or identifiable student of Customer, including without limitation enrollment records, course completion data, grades, assessment results, and any other information that constitutes "education records" under FERPA.
+
+1.17 "Subscription Fees" means the fees payable by Customer to Provider for the Services as set forth in the applicable Order Form.
+
+1.18 "Subscription Term" means the period during which Customer is authorized to access and use the Platform, consisting of the Initial Term and any Renewal Terms, in each case unless earlier terminated in accordance with this Agreement.
+
+1.19 "Support Services" means the technical support services to be provided by Provider as more fully described in Article 6 of this Agreement.
+
+1.20 "Texas Public Information Act" means Chapter 552 of the Texas Government Code, as the same may be amended from time to time.
+
+1.21 "WCAG 2.1 AA" means the Web Content Accessibility Guidelines version 2.1, Level AA, as published by the World Wide Web Consortium.
+
+ARTICLE 2 — SERVICES AND SUBSCRIPTION
+
+2.1 Provision of Services. Subject to Customer's compliance with the terms and conditions of this Agreement and Customer's timely payment of all applicable Subscription Fees, Provider shall make the Platform available to Customer and its Authorized Users during the Subscription Term in accordance with the terms of this Agreement, the applicable Order Form, the Documentation, and the Service Level Agreement set forth in Article 6.
+
+2.2 License Grant. Subject to the terms and conditions of this Agreement, Provider hereby grants to Customer a limited, non-exclusive, non-transferable, non-sublicensable right and license during the Subscription Term to access and use the Platform solely for Customer's internal educational purposes and solely for the benefit of Customer's enrolled students, faculty, and authorized staff. This license does not grant Customer any right to (a) modify, adapt, alter, translate, or create derivative works based upon the Platform; (b) sublicense, lease, sell, resell, transfer, assign, or otherwise commercially exploit access to the Platform; (c) reverse engineer, decompile, or disassemble the Platform; or (d) use the Platform to build a competing product or service.
+
+2.3 Authorized Users. Customer shall be responsible for (a) the acts and omissions of its Authorized Users in connection with their use of the Platform, (b) the secure management of Authorized User credentials, including immediate deactivation of credentials upon termination of an Authorized User's relationship with Customer, and (c) ensuring that all Authorized Users comply with the applicable terms of this Agreement.
+
+2.4 Customer Responsibilities. Customer shall (a) provide accurate, current, and complete information when registering Authorized Users; (b) maintain the security and confidentiality of all credentials issued to its Authorized Users; (c) use the Platform only in compliance with all applicable federal, state, and local laws and regulations; and (d) promptly notify Provider of any unauthorized access to or use of the Platform of which Customer becomes aware.
+
+2.5 Suspension Rights. Provider may suspend Customer's access to the Platform, in whole or in part, upon prior written notice if Provider reasonably determines that (a) Customer's use of the Platform poses an immediate and material security risk to Provider's systems or other customers; (b) Customer has materially breached the license restrictions set forth in Section 2.2 and has failed to cure such breach within ten (10) business days of receiving written notice thereof; or (c) suspension is required by applicable law or by order of a court of competent jurisdiction. Provider shall reinstate access promptly upon resolution of the condition that gave rise to suspension.
+
+ARTICLE 3 — IMPLEMENTATION SERVICES
+
+3.1 Scope of Implementation. Provider shall provide Implementation Services to Customer in accordance with a mutually agreed implementation plan to be developed by the Parties within thirty (30) days of the Effective Date. The Implementation Services shall include, at a minimum, (a) configuration of the Platform to reflect Customer's institutional branding, course catalog structure, and grading scales; (b) integration with Customer's existing student information system and identity provider via SAML 2.0 single sign-on; (c) migration of historical course content and student records from Customer's prior learning management system, subject to a data migration scope of work; (d) training of Customer's designated administrators and faculty leads; and (e) user acceptance testing.
+
+3.2 Implementation Fees. The Implementation Services shall be provided for a one-time fee of Seventy-Five Thousand United States Dollars ($75,000), which shall be invoiced upon execution of the implementation plan and shall be due and payable within thirty (30) days of receipt of invoice.
+
+3.3 Implementation Schedule. Provider shall use commercially reasonable efforts to complete the Implementation Services within ninety (90) days of the Effective Date, subject to Customer's timely cooperation and provision of all information and resources reasonably required by Provider. The Parties acknowledge that the implementation schedule may be adjusted by mutual written agreement to accommodate Customer's academic calendar.
+
+3.4 Acceptance. Implementation shall be deemed complete upon Customer's written acceptance, which shall not be unreasonably withheld, conditioned, or delayed. If Customer identifies material deficiencies in the Implementation Services, Customer shall provide Provider with a written description of such deficiencies, and Provider shall have thirty (30) days to remediate such deficiencies and resubmit for acceptance.
+
+3.5 Customer Cooperation. Customer acknowledges that the timely completion of Implementation Services depends on Customer's cooperation, including the timely designation of project leads, provision of access to Customer's existing systems, and prompt review of deliverables. Provider shall not be responsible for delays in implementation that are caused by Customer's failure to provide such cooperation, and any associated rescheduling shall not constitute a breach of this Agreement by Provider.
+
+ARTICLE 4 — SUBSCRIPTION FEES AND PAYMENT
+
+4.1 Subscription Fees. In consideration of the Services to be provided by Provider, Customer shall pay an annual Subscription Fee of One Hundred Eighty Thousand United States Dollars ($180,000), which entitles Customer to provision the Platform to up to five thousand (5,000) Authorized Users who are enrolled students of Customer's constituent institutions. The Subscription Fee shall be invoiced annually in advance, with the first invoice due upon execution of this Agreement and subsequent annual invoices due thirty (30) days prior to the start of each Subscription Year.
+
+4.2 Payment Terms. All Subscription Fees shall be due and payable in United States Dollars within thirty (30) days of the date of invoice (the "Due Date"). Customer shall make all payments by electronic funds transfer to the account designated by Provider in writing. The Parties acknowledge that, as Customer is a state agency, payment is subject to applicable Texas state appropriations law and the Texas Prompt Payment Act, Chapter 2251 of the Texas Government Code.
+
+4.3 Excess Usage. If Customer's usage of the Platform exceeds five thousand (5,000) Authorized Users in any Subscription Year, Customer shall pay an additional fee of Thirty United States Dollars ($30) per Authorized User per Subscription Year for each Authorized User in excess of the included allotment, calculated based on the peak number of concurrent provisioned Authorized Users during the Subscription Year. Such excess usage fees shall be invoiced at the end of the applicable Subscription Year and shall be due within thirty (30) days of the date of invoice.
+
+4.4 Late Payments. Any undisputed Subscription Fees not paid by the Due Date shall accrue interest at a rate equal to the lesser of (a) one percent (1.0%) per month or (b) the maximum rate permitted by applicable law, in each case calculated from the original Due Date until the date of actual payment. Notwithstanding the foregoing, Provider acknowledges that Customer's payment obligations are subject to the Texas Prompt Payment Act and that interest shall accrue only as permitted thereunder.
+
+4.5 Disputed Invoices. If Customer in good faith disputes any portion of an invoice, Customer shall notify Provider in writing of the dispute within fifteen (15) business days of receipt of the invoice, identifying with reasonable particularity the disputed amount and the basis for the dispute. Customer shall pay all undisputed amounts in accordance with Section 4.2, and the Parties shall negotiate in good faith to resolve the disputed amount. Late payment interest shall not accrue on amounts that are the subject of a good-faith dispute during the period of dispute resolution.
+
+4.6 Taxes. The Subscription Fees are exclusive of all taxes, levies, and duties, except taxes imposed on Provider's net income. Customer represents that, as a state agency of the State of Texas, Customer is exempt from Texas sales and use tax pursuant to Section 151.309 of the Texas Tax Code, and Customer shall provide Provider with a valid Texas sales and use tax exemption certificate upon request.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Initial Term. The initial term of this Agreement (the "Initial Term") shall commence on the Effective Date and shall continue for a period of three (3) years, unless earlier terminated in accordance with Article 13.
+
+5.2 Renewal Terms. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive one (1) year renewal terms (each a "Renewal Term") unless either Party provides written notice of non-renewal to the other Party at least ninety (90) days prior to the expiration of the then-current term.
+
+5.3 Fee Adjustments at Renewal. Provider may adjust the Subscription Fees for any Renewal Term by providing written notice of the adjusted fees to Customer at least one hundred twenty (120) days prior to the start of the Renewal Term. Any such adjustment shall not exceed the lesser of (a) five percent (5%) above the Subscription Fees in effect during the immediately preceding Subscription Year or (b) the percentage increase in the Consumer Price Index for All Urban Consumers (CPI-U) published by the United States Bureau of Labor Statistics for the twelve-month period ending three months prior to the start of the Renewal Term.
+
+5.4 Customer Termination for Convenience. Notwithstanding Section 5.2, Customer may terminate this Agreement for convenience by providing Provider with at least ninety (90) days' prior written notice, with such termination to take effect at the end of an Academic Term to minimize disruption to Authorized Users.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime Commitment. Provider shall use commercially reasonable efforts to make the Platform available with a Monthly Uptime Percentage of at least 99.9% during Academic Terms, calculated as: (Total Minutes in Month - Excluded Minutes - Downtime Minutes) / (Total Minutes in Month - Excluded Minutes), expressed as a percentage. During academic break periods (defined as the period between Academic Terms when fewer than ten percent (10%) of provisioned Authorized Users are actively using the Platform), Provider shall use commercially reasonable efforts to maintain availability but shall not be subject to the 99.9% commitment.
+
+6.2 Excluded Downtime. The following shall not be counted as Downtime for purposes of calculating Monthly Uptime Percentage: (a) scheduled maintenance windows announced at least seventy-two (72) hours in advance, which shall not exceed eight (8) hours per calendar month and shall be scheduled outside of peak usage hours; (b) emergency maintenance required to address security vulnerabilities, with as much advance notice as is reasonably practicable; (c) downtime caused by Customer's acts or omissions, including misconfiguration of Customer's identity provider; (d) downtime caused by force majeure events; and (e) downtime caused by failures of third-party services or networks outside Provider's reasonable control.
+
+6.3 Service Credits. If the Monthly Uptime Percentage during an Academic Term falls below 99.9%, Customer shall be entitled to receive service credits as follows: (a) below 99.9% but at or above 99.5%: a service credit equal to five percent (5%) of one-twelfth (1/12) of the annual Subscription Fee; (b) below 99.5% but at or above 99.0%: a service credit equal to ten percent (10%) of one-twelfth (1/12) of the annual Subscription Fee; (c) below 99.0%: a service credit equal to twenty-five percent (25%) of one-twelfth (1/12) of the annual Subscription Fee. Service credits shall be Customer's sole and exclusive remedy for failures to meet the Service Level Agreement, except that three (3) or more consecutive months of SLA failures during Academic Terms shall constitute a material breach of this Agreement entitling Customer to terminate for cause pursuant to Section 13.2 without further notice.
+
+6.4 Service Credit Procedure. To claim a service credit, Customer shall submit a written request to Provider within thirty (30) days following the end of the affected month, specifying the basis for the claim. Provider shall apply approved service credits to the next subsequent invoice. Service credits shall not be paid in cash and shall not exceed in the aggregate twenty-five percent (25%) of the annual Subscription Fee for any Subscription Year.
+
+6.5 Support Services. Provider shall provide the following Support Services to Customer's designated administrators during the Subscription Term: (a) twenty-four hours per day, seven days per week ("24x7") access to a knowledge base, online help center, and self-service ticketing portal; (b) email support with a target initial response time of four (4) business hours for issues affecting the production environment; (c) telephone support during Provider's standard business hours of 8:00 a.m. to 6:00 p.m. Pacific Time, Monday through Friday, excluding Provider's published holidays; and (d) emergency on-call support for Severity 1 incidents (defined as a complete outage of the Platform affecting all Authorized Users) with a target initial response time of one (1) hour, twenty-four hours per day, seven days per week.
+
+6.6 Severity Levels. Provider shall categorize support issues using the following severity levels: Severity 1 (complete production outage), Severity 2 (significant degradation affecting a substantial portion of users), Severity 3 (limited functionality issue with a workaround), and Severity 4 (general inquiry or feature request). Provider shall use commercially reasonable efforts to resolve Severity 1 issues within four (4) hours, Severity 2 issues within one (1) business day, Severity 3 issues within five (5) business days, and Severity 4 issues in accordance with Provider's standard product roadmap.
+
+6.7 Maintenance Windows. Provider shall conduct routine maintenance of the Platform during a standard maintenance window of Sunday from 10:00 p.m. to 2:00 a.m. Pacific Time. Provider shall provide Customer with at least seventy-two (72) hours' advance notice of any maintenance that is expected to result in service interruption during the standard maintenance window. Maintenance scheduled outside the standard window shall require at least five (5) business days' advance notice except in the case of emergency maintenance.
+
+ARTICLE 7 — CUSTOMER DATA AND PRIVACY
+
+7.1 Ownership of Customer Data. As between the Parties, Customer shall retain all right, title, and interest in and to Customer Data, including all Student Data. Provider acknowledges that Customer Data is the exclusive property of Customer and that Provider has no right, title, or interest in Customer Data except for the limited license set forth in Section 7.2.
+
+7.2 License to Process. Customer hereby grants to Provider a limited, non-exclusive, non-transferable, royalty-free license to access, store, process, transmit, and display Customer Data solely as necessary to provide the Services to Customer in accordance with this Agreement and the Documentation. Provider shall not use Customer Data for any other purpose, including without limitation product improvement, machine learning model training, marketing, or sale to third parties, except as expressly permitted by Customer in writing.
+
+7.3 FERPA Designation. The Parties acknowledge that, in providing the Services, Provider is acting as a "school official" with "legitimate educational interests" in the meaning of FERPA, 34 C.F.R. § 99.31(a)(1)(i)(B). Provider shall (a) use Student Data only for the purpose of providing the Services to Customer; (b) not disclose Student Data to any third party except as necessary to provide the Services and only after such third party has agreed in writing to comply with FERPA's restrictions on the use and re-disclosure of Student Data; and (c) maintain the confidentiality of Student Data in accordance with FERPA and this Agreement.
+
+7.4 Data Security. Provider shall implement and maintain reasonable and appropriate administrative, physical, and technical safeguards designed to protect Customer Data against unauthorized access, disclosure, alteration, and destruction. Such safeguards shall include, at a minimum, (a) encryption of Customer Data in transit using Transport Layer Security (TLS) 1.2 or higher; (b) encryption of Customer Data at rest using AES-256 or equivalent; (c) role-based access controls limiting access to Customer Data to Provider personnel with a need to know; (d) annual third-party penetration testing of the Platform; (e) maintenance of SOC 2 Type II certification; and (f) a documented information security program reviewed and updated at least annually.
+
+7.5 Breach Notification. Provider shall notify Customer in writing of any actual or reasonably suspected unauthorized access to, acquisition of, or disclosure of Customer Data (a "Security Incident") without undue delay and in any event within seventy-two (72) hours of Provider's discovery of such Security Incident. Such notification shall include a description of the nature of the Security Incident, the categories and approximate number of individuals affected, the categories and approximate number of records affected, the measures taken or proposed to be taken to address the Security Incident, and the contact information of Provider's designated security officer. Provider shall cooperate with Customer's investigation of the Security Incident and shall reimburse Customer for the reasonable costs of mandatory breach notifications to affected individuals to the extent the Security Incident was caused by Provider's breach of its obligations under this Article 7.
+
+7.6 Data Residency. Provider shall store and process all Customer Data within data centers physically located in the contiguous United States. Provider shall not transfer Customer Data outside of the United States without Customer's prior written consent.
+
+7.7 Data Return and Deletion. Upon expiration or termination of this Agreement for any reason, Provider shall, at Customer's election: (a) make Customer Data available for export by Customer in a commercially reasonable, machine-readable format for a period of sixty (60) days following expiration or termination; or (b) permanently delete Customer Data from Provider's production systems within thirty (30) days of expiration or termination, with deletion from backup systems to follow in accordance with Provider's standard backup retention schedule (not to exceed ninety (90) days). Upon Customer's written request, Provider shall provide written certification of deletion.
+
+7.8 Texas Public Information Act. The Parties acknowledge that Customer is subject to the Texas Public Information Act and that certain information related to this Agreement may be subject to public disclosure. Provider acknowledges that, in the event Customer receives a request for public information that implicates Provider's Confidential Information, Customer shall, to the extent permitted by law, notify Provider of such request and provide Provider with a reasonable opportunity to seek protective relief.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Provider Intellectual Property. As between the Parties, Provider shall retain all right, title, and interest in and to the Platform, the Documentation, and all related Intellectual Property Rights, including without limitation any modifications, enhancements, derivative works, or improvements thereto, regardless of whether such modifications were created based on suggestions, feedback, or requests from Customer. No rights are granted to Customer hereunder other than as expressly set forth in this Agreement, and all rights not expressly granted to Customer are reserved by Provider.
+
+8.2 Customer Data. As provided in Article 7, Customer Data is and shall remain the exclusive property of Customer. Provider claims no right, title, or interest in Customer Data, and the limited license granted under Section 7.2 shall not be construed as a transfer of any ownership rights.
+
+8.3 Feedback. From time to time, Customer or its Authorized Users may provide Provider with suggestions, comments, ideas, or feedback regarding the Platform (collectively, "Feedback"). Customer hereby grants Provider a perpetual, irrevocable, royalty-free, worldwide license to use, reproduce, modify, and incorporate such Feedback into the Platform without obligation or attribution to Customer. Provider shall not, however, disclose any Confidential Information of Customer in connection with the use of Feedback.
+
+8.4 No Implied Licenses. Except for the limited rights expressly granted in this Agreement, neither Party grants any rights or licenses to the other Party, whether by implication, estoppel, or otherwise, with respect to any of its Intellectual Property Rights.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party agrees that it shall (a) hold the other Party's Confidential Information in strict confidence; (b) use the other Party's Confidential Information solely for the purpose of performing its obligations or exercising its rights under this Agreement; (c) not disclose the other Party's Confidential Information to any third party except to its employees, contractors, and advisors who have a legitimate need to know such information and who are bound by written obligations of confidentiality at least as protective as those set forth in this Article 9; and (d) protect the other Party's Confidential Information using the same degree of care that it uses to protect its own confidential information of similar importance, but in no event less than reasonable care.
+
+9.2 Exclusions. The obligations set forth in Section 9.1 shall not apply to information that the Receiving Party can demonstrate (a) was already known to the Receiving Party at the time of disclosure without obligation of confidentiality; (b) was independently developed by the Receiving Party without use of or reference to the Disclosing Party's Confidential Information; (c) was rightfully received by the Receiving Party from a third party without obligation of confidentiality; or (d) is or becomes publicly available through no fault of or breach by the Receiving Party.
+
+9.3 Compelled Disclosure. The Receiving Party may disclose the Disclosing Party's Confidential Information to the extent required by law, regulation, court order, or governmental authority, provided that the Receiving Party (a) gives the Disclosing Party prompt written notice of such requirement, to the extent legally permitted, before making such disclosure; (b) cooperates with the Disclosing Party, at the Disclosing Party's expense, in any reasonable effort to obtain a protective order or other appropriate remedy; and (c) discloses only that portion of Confidential Information that is legally required to be disclosed.
+
+9.4 Return or Destruction. Upon the expiration or termination of this Agreement, or upon the Disclosing Party's earlier written request, the Receiving Party shall return to the Disclosing Party or destroy all Confidential Information of the Disclosing Party in the Receiving Party's possession or control, except to the extent that retention is required by law or by the Receiving Party's bona fide internal records retention policies, in which case the retained Confidential Information shall remain subject to the obligations of this Article 9 for as long as it is retained.
+
+9.5 Survival. The obligations set forth in this Article 9 shall survive any expiration or termination of this Agreement for a period of five (5) years, except that the obligations with respect to trade secrets shall survive for so long as such information continues to qualify as a trade secret under applicable law.
+
+9.6 Equitable Relief. The Parties acknowledge that any breach of this Article 9 may cause irreparable harm to the Disclosing Party for which monetary damages would be inadequate, and accordingly the Disclosing Party shall be entitled to seek injunctive and other equitable relief without the necessity of proving actual damages or posting bond.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants to the other Party that (a) it is duly organized, validly existing, and in good standing under the laws of the jurisdiction of its formation; (b) it has the full corporate or institutional power and authority to enter into this Agreement and to perform its obligations hereunder; (c) the execution, delivery, and performance of this Agreement have been duly authorized by all necessary corporate or institutional action; and (d) this Agreement, when executed, will constitute a legal, valid, and binding obligation enforceable against it in accordance with its terms.
+
+10.2 Provider Service Warranty. Provider represents and warrants that during the Subscription Term: (a) the Platform shall perform substantially in accordance with the Documentation in all material respects; (b) the Platform shall not contain any virus, worm, trojan horse, or other malicious code introduced by Provider; (c) Provider shall provide the Services in a professional and workmanlike manner consistent with generally accepted industry standards; (d) Provider shall comply with all applicable federal, state, and local laws and regulations in performing its obligations under this Agreement; and (e) Provider's accessibility statement reflects substantial conformance with the WCAG 2.1 AA accessibility standard as of the Effective Date, and Provider shall use commercially reasonable efforts to maintain such conformance during the Subscription Term.
+
+10.3 Customer Warranty. Customer represents and warrants that (a) it has the right and authority to upload Customer Data to the Platform; (b) Customer Data, when used in accordance with this Agreement, does not infringe upon the Intellectual Property Rights of any third party; and (c) Customer's use of the Platform shall comply with all applicable laws and regulations.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS ARTICLE 10, THE PLATFORM AND THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE," AND PROVIDER DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. PROVIDER DOES NOT WARRANT THAT THE PLATFORM WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE FROM SECURITY VULNERABILITIES.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Provider Indemnity. Provider shall defend Customer and its officers, directors, employees, and agents (each a "Customer Indemnified Party") against any third-party claim, suit, action, or proceeding (each a "Claim") alleging that Customer's use of the Platform in accordance with this Agreement infringes, misappropriates, or otherwise violates any Intellectual Property Right of such third party, and Provider shall indemnify each Customer Indemnified Party for any damages, settlement amounts, and reasonable attorneys' fees and costs finally awarded against such Customer Indemnified Party with respect to such Claim. Provider's obligations under this Section 11.1 shall not apply to the extent that the Claim arises out of (a) any modification of the Platform by any party other than Provider; (b) any combination of the Platform with software, hardware, or data not provided by Provider; (c) Customer's use of the Platform in a manner not authorized by this Agreement or the Documentation; or (d) any Customer Data.
+
+11.2 Customer Indemnity. Customer shall, to the extent permitted by Texas law and subject to the constitutional and statutory limitations on the authority of Customer to indemnify third parties, defend Provider and its officers, directors, employees, and agents (each a "Provider Indemnified Party") against any Claim alleging that (a) any Customer Data infringes or misappropriates the Intellectual Property Rights of any third party; or (b) Customer's use of the Platform in violation of this Agreement caused damage to such third party. Customer shall indemnify each Provider Indemnified Party for any damages, settlement amounts, and reasonable attorneys' fees and costs finally awarded against such Provider Indemnified Party with respect to such Claim. The Parties acknowledge that Customer's indemnification obligations are subject to the appropriations of the Texas Legislature and to the sovereign immunity of the State of Texas, and nothing in this Section 11.2 shall be construed as a waiver of such sovereign immunity.
+
+11.3 Indemnification Procedure. The Party seeking indemnification (the "Indemnified Party") shall (a) provide the indemnifying Party (the "Indemnifying Party") with prompt written notice of the Claim; (b) grant the Indemnifying Party sole control over the defense and settlement of the Claim, provided that the Indemnifying Party shall not enter into any settlement that imposes any liability or obligation on the Indemnified Party without the Indemnified Party's prior written consent (which shall not be unreasonably withheld); and (c) provide the Indemnifying Party with all reasonable cooperation, information, and assistance in connection with the defense of the Claim, at the Indemnifying Party's expense.
+
+11.4 Mitigation of IP Claims. If the Platform becomes, or in Provider's reasonable opinion is likely to become, the subject of a Claim of infringement or misappropriation, Provider may, at its option and expense, (a) procure for Customer the right to continue using the Platform; (b) modify the Platform to make it non-infringing without materially diminishing its functionality; (c) replace the Platform with a non-infringing alternative of substantially equivalent functionality; or (d) if none of the foregoing is commercially reasonable, terminate this Agreement and refund to Customer a pro-rata portion of the prepaid Subscription Fees corresponding to the unused portion of the then-current Subscription Term.
+
+11.5 Sole Remedy. The provisions of this Article 11 set forth Provider's sole and exclusive liability and Customer's sole and exclusive remedy with respect to any Claim of intellectual property infringement or misappropriation arising out of Customer's use of the Platform.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF SUBSCRIPTION FEES PAID OR PAYABLE BY CUSTOMER TO PROVIDER DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOST REVENUE, LOST BUSINESS OPPORTUNITIES, LOSS OF USE, OR LOSS OF DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+12.3 Exceptions to Limitations. The limitations set forth in Sections 12.1 and 12.2 shall not apply to (a) Provider's obligations under Article 11 (Indemnification); (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Customer Data and Privacy); (d) Customer's payment obligations under Article 4; (e) any liability arising from a Party's gross negligence, willful misconduct, or fraud; or (f) any liability that, under applicable law, cannot be limited or excluded.
+
+12.4 Basis of the Bargain. The Parties acknowledge that the limitations of liability set forth in this Article 12 are an essential element of the bargain between the Parties and that the Subscription Fees would be substantially higher in the absence of such limitations.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Term. This Agreement shall commence on the Effective Date and shall continue in effect throughout the Subscription Term, subject to early termination as set forth in this Article 13.
+
+13.2 Termination for Material Breach. Either Party may terminate this Agreement upon thirty (30) days' prior written notice to the other Party if the other Party commits a material breach of this Agreement and fails to cure such breach within the thirty (30) day notice period. Any termination by Customer for material breach by Provider shall entitle Customer to a refund of the pro-rata portion of any prepaid Subscription Fees corresponding to the period after the effective date of termination.
+
+13.3 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice to the other Party if the other Party (a) becomes insolvent or unable to pay its debts as they become due; (b) makes a general assignment for the benefit of creditors; (c) files a voluntary petition in bankruptcy; (d) has an involuntary petition in bankruptcy filed against it that is not dismissed within sixty (60) days; or (e) ceases to do business in the ordinary course.
+
+13.4 Termination for Convenience. Customer may terminate this Agreement for convenience as set forth in Section 5.4.
+
+13.5 Effects of Termination. Upon expiration or termination of this Agreement: (a) all rights and licenses granted to Customer hereunder shall immediately cease; (b) Customer shall pay Provider all Subscription Fees that have accrued through the effective date of termination; (c) each Party shall return or destroy the other Party's Confidential Information in accordance with Section 9.4; (d) Provider shall make Customer Data available for export or shall delete Customer Data in accordance with Section 7.7; and (e) the provisions of this Agreement that by their nature are intended to survive termination, including Articles 1, 7 (in part), 8, 9, 11, 12, and 14, shall so survive.
+
+13.6 Transition Assistance. For a period of up to ninety (90) days following the effective date of expiration or termination of this Agreement, Provider shall provide Customer with reasonable transition assistance to facilitate Customer's migration to a successor learning management system, including the export of Customer Data in a commercially reasonable, machine-readable format. Such transition assistance shall be provided at Provider's then-current professional services rates, except that the export of Customer Data in standard formats shall be provided at no additional charge.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of laws principles.
+
+14.2 Venue and Jurisdiction. The Parties agree that any action, suit, or proceeding arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in Travis County, Texas, and each Party hereby irrevocably consents to the personal jurisdiction of such courts. Provider acknowledges that Customer is a state agency entitled to sovereign immunity under Texas law, and nothing in this Agreement shall constitute a waiver of such sovereign immunity except to the extent expressly permitted by Texas statute.
+
+14.3 Informal Dispute Resolution. Before initiating any litigation, the Parties agree to attempt in good faith to resolve any dispute arising out of or relating to this Agreement through direct negotiation between executives of each Party with authority to resolve the dispute. If the dispute is not resolved within thirty (30) days after written notice from one Party to the other identifying the dispute and requesting negotiation, either Party may proceed to litigation in accordance with Section 14.2.
+
+14.4 Waiver of Jury Trial. EACH PARTY HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+14.5 Attorneys' Fees. In any action to enforce this Agreement, the prevailing Party shall be entitled to recover its reasonable attorneys' fees and costs, subject to and to the extent permitted by applicable Texas law and the constitutional limitations on awards against the State of Texas.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement, together with any exhibits, schedules, and Order Forms attached hereto or executed by the Parties referencing this Agreement, constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written, between the Parties with respect to such subject matter.
+
+15.2 Amendments. No amendment, modification, or supplement to this Agreement shall be effective unless set forth in a writing executed by authorized representatives of both Parties.
+
+15.3 Severability. If any provision of this Agreement is held to be invalid, illegal, or unenforceable by a court of competent jurisdiction, such provision shall be modified to the minimum extent necessary to render it valid, legal, and enforceable, or, if no such modification is possible, severed from this Agreement, and the remaining provisions of this Agreement shall continue in full force and effect.
+
+15.4 Waiver. No failure or delay by either Party in exercising any right, power, or privilege under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power, or privilege. Any waiver of a provision of this Agreement shall be effective only if set forth in a writing signed by the waiving Party.
+
+15.5 Notices. All notices required or permitted to be given under this Agreement shall be in writing and shall be deemed given (a) when delivered personally; (b) when sent by certified or registered mail, return receipt requested, postage prepaid; (c) when sent by nationally recognized overnight courier with confirmation of delivery; or (d) when sent by email with confirmation of receipt, in each case addressed to the receiving Party at the address set forth below or at such other address as such Party may designate from time to time by notice given in accordance with this Section.
+
+If to Provider: LearnPath Academy, Inc., 2200 Mission College Boulevard, Suite 300, Santa Clara, California 95054, Attention: General Counsel.
+
+If to Customer: The Texas State University System, 601 Colorado Street, Suite 200, Austin, Texas 78701, Attention: Office of General Counsel.
+
+15.6 Assignment. Neither Party may assign this Agreement, in whole or in part, without the prior written consent of the other Party, provided that Provider may assign this Agreement without consent in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets, provided that the assignee assumes all of Provider's obligations under this Agreement. Any purported assignment in violation of this Section shall be null and void.
+
+15.7 Force Majeure. Neither Party shall be liable for any failure or delay in performing its obligations under this Agreement (other than payment obligations) to the extent that such failure or delay is caused by events beyond such Party's reasonable control, including without limitation acts of God, natural disasters, fire, flood, hurricane, earthquake, war, terrorism, civil unrest, governmental action, labor disputes, pandemics, epidemics, internet or telecommunications failures, or denial of service attacks. The Party whose performance is affected by a force majeure event shall promptly notify the other Party and shall use commercially reasonable efforts to resume performance as soon as practicable.
+
+15.8 Independent Contractors. The Parties are independent contractors. Nothing in this Agreement shall be construed as creating a partnership, joint venture, agency, employment, or other similar relationship between the Parties. Neither Party shall have the authority to bind the other or to incur any obligation on behalf of the other.
+
+15.9 No Third-Party Beneficiaries. This Agreement is for the sole benefit of the Parties and their respective successors and permitted assigns. Nothing in this Agreement, express or implied, is intended to or shall confer upon any other person or entity any legal or equitable right, benefit, or remedy of any nature whatsoever under or by reason of this Agreement.
+
+15.10 Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. The exchange of executed counterparts by electronic transmission (including by email of a PDF copy or by an electronic signature platform such as DocuSign) shall be deemed effective for all purposes.
+
+15.11 Headings. The headings of Articles and Sections in this Agreement are for convenience of reference only and shall not affect the interpretation of this Agreement.
+
+15.12 Construction. The Parties acknowledge that this Agreement has been negotiated by both Parties with the benefit of legal counsel, and any rule of construction to the effect that ambiguities are to be resolved against the drafting Party shall not apply to the interpretation of this Agreement.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date first written above.
+
+LEARNPATH ACADEMY, INC.
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+THE BOARD OF REGENTS OF THE TEXAS STATE UNIVERSITY SYSTEM
+
+By: ________________________
+Name:
+Title: Chancellor
+Date:
