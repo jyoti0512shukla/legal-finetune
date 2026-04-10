@@ -1,0 +1,81 @@
+{
+  "source_file": "CLAUDE_NorthernEdge_Canada_enterprise_16.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "NorthernEdge Cloud Solutions Inc.",
+    "PROVIDER_STATE": "Canada",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "200 Bay Street, Suite 3500, Royal Bank Plaza, South Tower, Toronto, Ontario M5J 2J2, Canada",
+    "CUSTOMER_NAME": "Maple Capital Bank",
+    "CUSTOMER_STATE": "Canada",
+    "CUSTOMER_ENTITY_TYPE": "Schedule I bank",
+    "CUSTOMER_ADDRESS": "100 King Street West, 35th Floor, Toronto, Ontario M5X 1A9, Canada",
+    "EFFECTIVE_DATE": "February 18, 2025",
+    "GOVERNING_LAW_STATE": "Ontario",
+    "VENUE_COUNTY": "City of Toronto",
+    "VENUE_CITY": "Toronto",
+    "ANNUAL_FEE_AMOUNT": "Six Hundred Thousand Canadian Dollars (CAD $600,000)",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "one hundred eighty (180)",
+    "IMPLEMENTATION_FEE": "One Hundred Twenty-Five Thousand Canadian Dollars (CAD $125,000)"
+  },
+  "replacements_made": {
+    "PROVIDER_ADDRESS": {
+      "original": "200 Bay Street, Suite 3500, Royal Bank Plaza, South Tower, Toronto, Ontario M5J 2J2, Canada",
+      "occurrences": 2
+    },
+    "CUSTOMER_ADDRESS": {
+      "original": "100 King Street West, 35th Floor, Toronto, Ontario M5X 1A9, Canada",
+      "occurrences": 2
+    },
+    "IMPLEMENTATION_FEE": {
+      "original": "One Hundred Twenty-Five Thousand Canadian Dollars (CAD $125,000)",
+      "occurrences": 1
+    },
+    "ANNUAL_FEE_AMOUNT": {
+      "original": "Six Hundred Thousand Canadian Dollars (CAD $600,000)",
+      "occurrences": 1
+    },
+    "PROVIDER_NAME": {
+      "original": "NorthernEdge Cloud Solutions Inc.",
+      "occurrences": 2
+    },
+    "NOTICE_DAYS": {
+      "original": "one hundred eighty (180)",
+      "occurrences": 3
+    },
+    "CUSTOMER_NAME": {
+      "original": "Maple Capital Bank",
+      "occurrences": 2
+    },
+    "EFFECTIVE_DATE": {
+      "original": "February 18, 2025",
+      "occurrences": 1
+    },
+    "CUSTOMER_ENTITY_TYPE": {
+      "original": "Schedule I bank",
+      "occurrences": 1
+    },
+    "VENUE_COUNTY": {
+      "original": "City of Toronto",
+      "occurrences": 1
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 1
+    },
+    "TERM_YEARS": {
+      "original": "three (3)",
+      "occurrences": 1
+    },
+    "GOVERNING_LAW_STATE": {
+      "original": "Ontario",
+      "occurrences": 4
+    },
+    "PROVIDER_STATE": {
+      "original": "Canada",
+      "occurrences": 20
+    }
+  },
+  "total_substitutions": 42
+}

@@ -1,0 +1,80 @@
+{
+  "source_file": "CLAUDE_MenuMaster_RestaurantPOS_smb_15.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "MenuMaster POS Cloud, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1100 Peachtree Street NE, Suite 1800, Atlanta, Georgia 30309",
+    "CUSTOMER_NAME": "Peachtree Hospitality Group, LLC",
+    "CUSTOMER_STATE": "Georgia",
+    "CUSTOMER_ENTITY_TYPE": "limited liability company",
+    "CUSTOMER_ADDRESS": "75 West Wieuca Road NE, Atlanta, Georgia 30342",
+    "EFFECTIVE_DATE": "June 4, 2024",
+    "GOVERNING_LAW_STATE": "Georgia",
+    "VENUE_COUNTY": "Fulton County",
+    "VENUE_CITY": "Atlanta",
+    "ANNUAL_FEE_AMOUNT": "Twelve Thousand United States Dollars ($12,000)",
+    "TERM_YEARS": "one (1)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "thirty (30)"
+  },
+  "replacements_made": {
+    "PROVIDER_ADDRESS": {
+      "original": "1100 Peachtree Street NE, Suite 1800, Atlanta, Georgia 30309",
+      "occurrences": 2
+    },
+    "ANNUAL_FEE_AMOUNT": {
+      "original": "Twelve Thousand United States Dollars ($12,000)",
+      "occurrences": 1
+    },
+    "CUSTOMER_ADDRESS": {
+      "original": "75 West Wieuca Road NE, Atlanta, Georgia 30342",
+      "occurrences": 2
+    },
+    "CUSTOMER_NAME": {
+      "original": "Peachtree Hospitality Group, LLC",
+      "occurrences": 2
+    },
+    "PROVIDER_NAME": {
+      "original": "MenuMaster POS Cloud, Inc.",
+      "occurrences": 2
+    },
+    "CUSTOMER_ENTITY_TYPE": {
+      "original": "limited liability company",
+      "occurrences": 2
+    },
+    "VENUE_COUNTY": {
+      "original": "Fulton County",
+      "occurrences": 1
+    },
+    "EFFECTIVE_DATE": {
+      "original": "June 4, 2024",
+      "occurrences": 1
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 1
+    },
+    "NOTICE_DAYS": {
+      "original": "thirty (30)",
+      "occurrences": 9
+    },
+    "PROVIDER_STATE": {
+      "original": "Delaware",
+      "occurrences": 1
+    },
+    "CUSTOMER_STATE": {
+      "original": "Georgia",
+      "occurrences": 5
+    },
+    "VENUE_CITY": {
+      "original": "Atlanta",
+      "occurrences": 6
+    },
+    "TERM_YEARS": {
+      "original": "one (1)",
+      "occurrences": 4
+    }
+  },
+  "total_substitutions": 39
+}

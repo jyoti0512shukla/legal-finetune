@@ -1,0 +1,81 @@
+{
+  "source_file": "CLAUDE_ClaimsFlow_Insurance_mid_market_14.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "ClaimsFlow Insurance Platform, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "350 North Orleans Street, Suite 950, Chicago, Illinois 60654",
+    "CUSTOMER_NAME": "Heartland Mutual Insurance Company",
+    "CUSTOMER_STATE": "Illinois",
+    "CUSTOMER_ENTITY_TYPE": "mutual insurance company",
+    "CUSTOMER_ADDRESS": "200 East Randolph Street, Suite 4400, Chicago, Illinois 60601",
+    "EFFECTIVE_DATE": "March 12, 2024",
+    "GOVERNING_LAW_STATE": "Illinois",
+    "VENUE_COUNTY": "Cook County",
+    "VENUE_CITY": "Chicago",
+    "ANNUAL_FEE_AMOUNT": "One Hundred Forty-Four Thousand United States Dollars ($144,000)",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "eighteen (18)",
+    "NOTICE_DAYS": "ninety (90)",
+    "IMPLEMENTATION_FEE": "Sixty Thousand United States Dollars ($60,000)"
+  },
+  "replacements_made": {
+    "ANNUAL_FEE_AMOUNT": {
+      "original": "One Hundred Forty-Four Thousand United States Dollars ($144,000)",
+      "occurrences": 1
+    },
+    "CUSTOMER_ADDRESS": {
+      "original": "200 East Randolph Street, Suite 4400, Chicago, Illinois 60601",
+      "occurrences": 2
+    },
+    "PROVIDER_ADDRESS": {
+      "original": "350 North Orleans Street, Suite 950, Chicago, Illinois 60654",
+      "occurrences": 2
+    },
+    "IMPLEMENTATION_FEE": {
+      "original": "Sixty Thousand United States Dollars ($60,000)",
+      "occurrences": 1
+    },
+    "PROVIDER_NAME": {
+      "original": "ClaimsFlow Insurance Platform, Inc.",
+      "occurrences": 2
+    },
+    "CUSTOMER_NAME": {
+      "original": "Heartland Mutual Insurance Company",
+      "occurrences": 2
+    },
+    "CUSTOMER_ENTITY_TYPE": {
+      "original": "mutual insurance company",
+      "occurrences": 1
+    },
+    "EFFECTIVE_DATE": {
+      "original": "March 12, 2024",
+      "occurrences": 1
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 1
+    },
+    "VENUE_COUNTY": {
+      "original": "Cook County",
+      "occurrences": 1
+    },
+    "NOTICE_DAYS": {
+      "original": "ninety (90)",
+      "occurrences": 3
+    },
+    "PROVIDER_STATE": {
+      "original": "Delaware",
+      "occurrences": 1
+    },
+    "CUSTOMER_STATE": {
+      "original": "Illinois",
+      "occurrences": 6
+    },
+    "TERM_YEARS": {
+      "original": "two (2)",
+      "occurrences": 2
+    }
+  },
+  "total_substitutions": 26
+}

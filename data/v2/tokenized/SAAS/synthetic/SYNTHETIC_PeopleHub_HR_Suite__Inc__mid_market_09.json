@@ -1,0 +1,57 @@
+{
+  "source_file": "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "PeopleHub HR Suite, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_NAME": "Westbrook Consulting Group, LLC",
+    "CUSTOMER_STATE": "Delaware",
+    "CUSTOMER_ENTITY_TYPE": "limited liability company",
+    "EFFECTIVE_DATE": "August 1, 2024",
+    "GOVERNING_LAW_STATE": "Delaware",
+    "VENUE_COUNTY": "New Castle County",
+    "VENUE_CITY": "Wilmington",
+    "ANNUAL_FEE_AMOUNT": "USD 60,000",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)"
+  },
+  "replacements_made": {
+    "CUSTOMER_NAME": {
+      "original": "Westbrook Consulting Group, LLC",
+      "occurrences": 3
+    },
+    "CUSTOMER_ENTITY_TYPE": {
+      "original": "limited liability company",
+      "occurrences": 1
+    },
+    "PROVIDER_NAME": {
+      "original": "PeopleHub HR Suite, Inc.",
+      "occurrences": 3
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 1
+    },
+    "LIABILITY_CAP_MONTHS": {
+      "original": "twelve (12)",
+      "occurrences": 1
+    },
+    "VENUE_CITY": {
+      "original": "Wilmington",
+      "occurrences": 6
+    },
+    "ANNUAL_FEE_AMOUNT": {
+      "original": "USD 60,000",
+      "occurrences": 1
+    },
+    "PROVIDER_STATE": {
+      "original": "Delaware",
+      "occurrences": 9
+    },
+    "TERM_YEARS": {
+      "original": "two (2)",
+      "occurrences": 1
+    }
+  },
+  "total_substitutions": 26
+}

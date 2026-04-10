@@ -1,0 +1,57 @@
+{
+  "source_file": "SYNTHETIC_BuildKit_Cloud__Inc__smb_04.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "BuildKit Cloud, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_NAME": "Stellar Software Studio, Inc.",
+    "CUSTOMER_STATE": "California",
+    "CUSTOMER_ENTITY_TYPE": "corporation",
+    "EFFECTIVE_DATE": "July 1, 2024",
+    "GOVERNING_LAW_STATE": "California",
+    "VENUE_COUNTY": "San Francisco County",
+    "VENUE_CITY": "San Francisco",
+    "ANNUAL_FEE_AMOUNT": "USD 24,000",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)"
+  },
+  "replacements_made": {
+    "CUSTOMER_NAME": {
+      "original": "Stellar Software Studio, Inc.",
+      "occurrences": 1
+    },
+    "PROVIDER_NAME": {
+      "original": "BuildKit Cloud, Inc.",
+      "occurrences": 1
+    },
+    "VENUE_CITY": {
+      "original": "San Francisco",
+      "occurrences": 5
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 2
+    },
+    "LIABILITY_CAP_MONTHS": {
+      "original": "twelve (12)",
+      "occurrences": 1
+    },
+    "CUSTOMER_STATE": {
+      "original": "California",
+      "occurrences": 8
+    },
+    "ANNUAL_FEE_AMOUNT": {
+      "original": "USD 24,000",
+      "occurrences": 1
+    },
+    "TERM_YEARS": {
+      "original": "three (3)",
+      "occurrences": 1
+    },
+    "PROVIDER_STATE": {
+      "original": "Delaware",
+      "occurrences": 1
+    }
+  },
+  "total_substitutions": 21
+}

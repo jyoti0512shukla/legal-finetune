@@ -1,0 +1,77 @@
+{
+  "source_file": "CLAUDE_PharmaTrack_Clinical_enterprise_12.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "PharmaTrack Clinical Data Systems, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "525 Washington Boulevard, Suite 1900, Jersey City, New Jersey 07310",
+    "CUSTOMER_NAME": "Meridian Pharmaceuticals, Inc.",
+    "CUSTOMER_STATE": "Delaware",
+    "CUSTOMER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_ADDRESS": "800 Boylston Street, 16th Floor, Boston, Massachusetts 02199",
+    "EFFECTIVE_DATE": "January 8, 2025",
+    "GOVERNING_LAW_STATE": "New Jersey",
+    "VENUE_COUNTY": "Hudson County",
+    "VENUE_CITY": "Jersey City",
+    "ANNUAL_FEE_AMOUNT": "Nine Hundred Sixty Thousand United States Dollars ($960,000)",
+    "TERM_YEARS": "four (4)",
+    "LIABILITY_CAP_MONTHS": "twenty-four (24)",
+    "NOTICE_DAYS": "one hundred eighty (180)",
+    "IMPLEMENTATION_FEE": "Two Hundred Fifty Thousand United States Dollars ($250,000)"
+  },
+  "replacements_made": {
+    "PROVIDER_ADDRESS": {
+      "original": "525 Washington Boulevard, Suite 1900, Jersey City, New Jersey 07310",
+      "occurrences": 2
+    },
+    "CUSTOMER_ADDRESS": {
+      "original": "800 Boylston Street, 16th Floor, Boston, Massachusetts 02199",
+      "occurrences": 2
+    },
+    "ANNUAL_FEE_AMOUNT": {
+      "original": "Nine Hundred Sixty Thousand United States Dollars ($960,000)",
+      "occurrences": 1
+    },
+    "IMPLEMENTATION_FEE": {
+      "original": "Two Hundred Fifty Thousand United States Dollars ($250,000)",
+      "occurrences": 1
+    },
+    "PROVIDER_NAME": {
+      "original": "PharmaTrack Clinical Data Systems, Inc.",
+      "occurrences": 2
+    },
+    "CUSTOMER_NAME": {
+      "original": "Meridian Pharmaceuticals, Inc.",
+      "occurrences": 2
+    },
+    "NOTICE_DAYS": {
+      "original": "one hundred eighty (180)",
+      "occurrences": 4
+    },
+    "EFFECTIVE_DATE": {
+      "original": "January 8, 2025",
+      "occurrences": 1
+    },
+    "VENUE_COUNTY": {
+      "original": "Hudson County",
+      "occurrences": 1
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 2
+    },
+    "GOVERNING_LAW_STATE": {
+      "original": "New Jersey",
+      "occurrences": 2
+    },
+    "PROVIDER_STATE": {
+      "original": "Delaware",
+      "occurrences": 2
+    },
+    "TERM_YEARS": {
+      "original": "four (4)",
+      "occurrences": 4
+    }
+  },
+  "total_substitutions": 26
+}

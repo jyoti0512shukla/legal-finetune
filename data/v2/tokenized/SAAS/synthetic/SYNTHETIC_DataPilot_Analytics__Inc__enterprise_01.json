@@ -1,0 +1,68 @@
+{
+  "source_file": "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "DataPilot Analytics, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "123 Tech Drive, San Francisco, California 94105",
+    "CUSTOMER_NAME": "MidWest Retail Group, LLC",
+    "CUSTOMER_STATE": "Illinois",
+    "CUSTOMER_ENTITY_TYPE": "limited liability company",
+    "CUSTOMER_ADDRESS": "456 Commerce Blvd, Chicago, Illinois 60606",
+    "EFFECTIVE_DATE": "November 1, 2023",
+    "GOVERNING_LAW_STATE": "California",
+    "VENUE_COUNTY": "San Francisco County",
+    "VENUE_CITY": "San Francisco",
+    "ANNUAL_FEE_AMOUNT": "USD 480,000",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "sixty (60)"
+  },
+  "replacements_made": {
+    "PROVIDER_NAME": {
+      "original": "DataPilot Analytics, Inc.",
+      "occurrences": 1
+    },
+    "CUSTOMER_NAME": {
+      "original": "MidWest Retail Group, LLC",
+      "occurrences": 1
+    },
+    "CUSTOMER_ENTITY_TYPE": {
+      "original": "limited liability company",
+      "occurrences": 1
+    },
+    "VENUE_CITY": {
+      "original": "San Francisco",
+      "occurrences": 3
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 1
+    },
+    "LIABILITY_CAP_MONTHS": {
+      "original": "twelve (12)",
+      "occurrences": 2
+    },
+    "GOVERNING_LAW_STATE": {
+      "original": "California",
+      "occurrences": 5
+    },
+    "NOTICE_DAYS": {
+      "original": "sixty (60)",
+      "occurrences": 2
+    },
+    "TERM_YEARS": {
+      "original": "three (3)",
+      "occurrences": 3
+    },
+    "PROVIDER_STATE": {
+      "original": "Delaware",
+      "occurrences": 1
+    },
+    "CUSTOMER_STATE": {
+      "original": "Illinois",
+      "occurrences": 2
+    }
+  },
+  "total_substitutions": 22
+}

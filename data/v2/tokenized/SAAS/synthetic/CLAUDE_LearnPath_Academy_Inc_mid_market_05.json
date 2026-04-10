@@ -1,0 +1,81 @@
+{
+  "source_file": "CLAUDE_LearnPath_Academy_Inc_mid_market_05.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "LearnPath Academy, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "2200 Mission College Boulevard, Suite 300, Santa Clara, California 95054",
+    "CUSTOMER_NAME": "The Board of Regents of the Texas State University System",
+    "CUSTOMER_STATE": "Texas",
+    "CUSTOMER_ENTITY_TYPE": "state agency and instrumentality of the State of Texas",
+    "CUSTOMER_ADDRESS": "601 Colorado Street, Suite 200, Austin, Texas 78701",
+    "EFFECTIVE_DATE": "August 15, 2024",
+    "GOVERNING_LAW_STATE": "Texas",
+    "VENUE_COUNTY": "Travis County",
+    "VENUE_CITY": "Austin",
+    "ANNUAL_FEE_AMOUNT": "One Hundred Eighty Thousand United States Dollars ($180,000)",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "ninety (90)",
+    "IMPLEMENTATION_FEE": "Seventy-Five Thousand United States Dollars ($75,000)"
+  },
+  "replacements_made": {
+    "PROVIDER_ADDRESS": {
+      "original": "2200 Mission College Boulevard, Suite 300, Santa Clara, California 95054",
+      "occurrences": 2
+    },
+    "ANNUAL_FEE_AMOUNT": {
+      "original": "One Hundred Eighty Thousand United States Dollars ($180,000)",
+      "occurrences": 1
+    },
+    "CUSTOMER_NAME": {
+      "original": "The Board of Regents of the Texas State University System",
+      "occurrences": 1
+    },
+    "CUSTOMER_ENTITY_TYPE": {
+      "original": "state agency and instrumentality of the State of Texas",
+      "occurrences": 1
+    },
+    "IMPLEMENTATION_FEE": {
+      "original": "Seventy-Five Thousand United States Dollars ($75,000)",
+      "occurrences": 1
+    },
+    "CUSTOMER_ADDRESS": {
+      "original": "601 Colorado Street, Suite 200, Austin, Texas 78701",
+      "occurrences": 2
+    },
+    "PROVIDER_NAME": {
+      "original": "LearnPath Academy, Inc.",
+      "occurrences": 2
+    },
+    "EFFECTIVE_DATE": {
+      "original": "August 15, 2024",
+      "occurrences": 1
+    },
+    "VENUE_COUNTY": {
+      "original": "Travis County",
+      "occurrences": 1
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 1
+    },
+    "NOTICE_DAYS": {
+      "original": "ninety (90)",
+      "occurrences": 5
+    },
+    "TERM_YEARS": {
+      "original": "three (3)",
+      "occurrences": 2
+    },
+    "PROVIDER_STATE": {
+      "original": "Delaware",
+      "occurrences": 1
+    },
+    "CUSTOMER_STATE": {
+      "original": "Texas",
+      "occurrences": 26
+    }
+  },
+  "total_substitutions": 47
+}

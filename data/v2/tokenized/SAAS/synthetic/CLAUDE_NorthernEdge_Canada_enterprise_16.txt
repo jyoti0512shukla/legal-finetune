@@ -1,0 +1,259 @@
+CLOUD SOFTWARE SUBSCRIPTION AGREEMENT
+
+This Cloud Software Subscription Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_ENTITY_TYPE}} incorporated under the {{PROVIDER_STATE}} Business Corporations Act having its registered office at {{PROVIDER_ADDRESS}} ("Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_ENTITY_TYPE}} governed by the Bank Act ({{PROVIDER_STATE}}) having its head office at {{CUSTOMER_ADDRESS}} ("Customer"). Provider and Customer may each be referred to individually as a "Party" and collectively as the "Parties."
+
+RECITALS
+
+WHEREAS, Provider develops, hosts, and operates a cloud-based regulatory compliance and reporting platform designed for use by Canadian financial institutions in meeting their reporting obligations to the Office of the Superintendent of Financial Institutions (OSFI), the Financial Transactions and Reports Analysis Centre of {{PROVIDER_STATE}} (FINTRAC), and provincial securities regulators (the "NorthernEdge Platform");
+
+WHEREAS, Customer is a federally regulated financial institution licensed to carry on banking business in {{PROVIDER_STATE}} and desires to subscribe to the NorthernEdge Platform to support its regulatory reporting and anti-money-laundering compliance functions;
+
+WHEREAS, the Parties acknowledge that Customer is subject to extensive supervision by Canadian financial regulators, including OSFI Guideline B-10 (Outsourcing of Business Activities, Functions and Processes), Guideline B-13 (Technology and Cyber Risk Management), and the Personal Information Protection and Electronic Documents Act (PIPEDA);
+
+WHEREAS, the Parties further acknowledge that Customer's use of the Platform constitutes "outsourcing of a material business activity" within the meaning of OSFI Guideline B-10, and the terms of this Agreement have been negotiated to comply with the requirements applicable to such outsourcing arrangements;
+
+WHEREAS, the Parties intend that this Agreement shall be governed by the laws of the Province of {{GOVERNING_LAW_STATE}} and the federal laws of {{PROVIDER_STATE}} applicable therein; and
+
+WHEREAS, the Parties wish to establish a multi-year commercial relationship under terms that satisfy Customer's regulatory obligations and provide Provider with reasonable commercial certainty;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means, with respect to any entity, any other entity that directly or indirectly controls, is controlled by, or is under common control with such entity, where "control" has the meaning given to it under the {{PROVIDER_STATE}} Business Corporations Act.
+
+1.2 "Authorized User" means each individual employee, contractor, or agent of Customer who is authorized by Customer to access and use the Platform in the performance of Customer's regulatory compliance functions.
+
+1.3 "Confidential Information" means all non-public information disclosed by one Party to the other Party that is identified as confidential at the time of disclosure or that, given the nature of the information and the circumstances surrounding its disclosure, would reasonably be understood to be confidential. Confidential Information of Customer includes Customer Data, Customer's compliance methodologies, customer lists, and any non-public information regarding Customer's operations.
+
+1.4 "Customer Data" means all electronic data, content, and information uploaded to, transmitted through, or stored within the Platform by or on behalf of Customer or any Authorized User, including without limitation Personal Information of Customer's clients, transaction records, suspicious transaction reports, and other regulatory reporting data.
+
+1.5 "Documentation" means the user manuals, technical documentation, security white papers, and other materials describing the functionality and operation of the Platform that are made generally available by Provider.
+
+1.6 "Effective Date" has the meaning set forth in the preamble.
+
+1.7 "FINTRAC" means the Financial Transactions and Reports Analysis Centre of {{PROVIDER_STATE}} and any successor agency thereto.
+
+1.8 "Force Majeure Event" means any event or circumstance beyond the reasonable control of a Party, including without limitation acts of God, natural disasters, fire, flood, war, terrorism, civil unrest, governmental action, pandemic, epidemic, labour disputes, internet or telecommunications failures, denial of service attacks, or material failures of third-party cloud infrastructure providers, but excluding Customer's payment obligations.
+
+1.9 "Implementation Services" means the professional services to be provided by Provider in connection with the initial deployment, configuration, integration, training, and acceptance testing of the Platform.
+
+1.10 "Intellectual Property Rights" means all intellectual property and proprietary rights of any kind anywhere in the world, including without limitation patents, copyrights, trade-marks, trade secrets, know-how, industrial designs, integrated circuit topographies, database rights, moral rights, and all other rights of a similar nature.
+
+1.11 "OSFI" means the Office of the Superintendent of Financial Institutions of {{PROVIDER_STATE}} and any successor agency thereto.
+
+1.12 "OSFI Guideline B-10" means OSFI Guideline B-10 — Outsourcing of Business Activities, Functions and Processes, as amended or replaced from time to time.
+
+1.13 "OSFI Guideline B-13" means OSFI Guideline B-13 — Technology and Cyber Risk Management, as amended or replaced from time to time.
+
+1.14 "PIPEDA" means the Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5, and the regulations thereunder, as the same may be amended from time to time.
+
+1.15 "Personal Information" means information about an identifiable individual as defined under PIPEDA.
+
+1.16 "Platform" means the NorthernEdge regulatory compliance and reporting platform, including all features, functionality, modules, application programming interfaces, web interfaces, and updates thereto, as made available by Provider during the Subscription Term.
+
+1.17 "Services" means, collectively, Customer's right of access to the Platform during the Subscription Term, the Implementation Services, the Support Services, and any other services expressly provided for in this Agreement.
+
+1.18 "Subscription Fees" means the fees payable by Customer to Provider for the Services as set forth in Section 4.1.
+
+1.19 "Subscription Term" has the meaning set forth in Section 5.1.
+
+1.20 "Support Services" means the technical support services to be provided by Provider as more fully described in Article 6.
+
+ARTICLE 2 — SUBSCRIPTION AND LICENCE
+
+2.1 Provision of the Platform. Subject to the terms and conditions of this Agreement and Customer's timely payment of the Subscription Fees, Provider shall make the Platform available to Customer and its Authorized Users during the Subscription Term in accordance with this Agreement, the Documentation, and the Service Level Agreement set forth in Article 6.
+
+2.2 Licence Grant. Subject to the terms and conditions of this Agreement, Provider hereby grants to Customer a limited, non-exclusive, non-transferable, non-sublicensable right and licence during the Subscription Term to access and use the Platform solely for Customer's internal business purposes in connection with Customer's regulatory compliance and reporting functions.
+
+2.3 Authorized Users. The Subscription includes the right for up to seventy-five (75) Authorized Users to access the Platform concurrently. Customer may add additional Authorized Users by providing Provider with written notice and paying additional Subscription Fees of Three Hundred Canadian Dollars (CAD $300) per additional Authorized User per month, prorated for any partial month.
+
+2.4 Restrictions on Use. Customer shall not, and shall not permit any Authorized User to, (a) modify, adapt, alter, translate, or create derivative works based upon the Platform; (b) sublicence, lease, sell, resell, or transfer access to the Platform to any third party; (c) reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Platform, except to the extent such restriction is prohibited by applicable Canadian copyright law; (d) use the Platform to develop a competing product or service; (e) remove or alter any proprietary notices appearing on the Platform; or (f) use the Platform in violation of applicable laws or regulations.
+
+ARTICLE 3 — IMPLEMENTATION SERVICES
+
+3.1 Scope of Implementation. Provider shall provide Implementation Services to Customer in accordance with a written Implementation Plan to be developed by the Parties within forty-five (45) days of the Effective Date. The Implementation Services shall include configuration of the Platform to reflect Customer's compliance workflows, integration with Customer's core banking system, training of Customer's compliance personnel, and user acceptance testing.
+
+3.2 Implementation Fee. The Implementation Services shall be provided for a one-time fee of {{IMPLEMENTATION_FEE}}, payable in two installments: one-half upon execution of the Implementation Plan and one-half upon Customer's written acceptance of the Implementation Services.
+
+3.3 Implementation Schedule. Provider shall use commercially reasonable efforts to complete the Implementation Services within one hundred fifty (150) days of the Effective Date, subject to Customer's timely cooperation.
+
+3.4 Acceptance. Implementation shall be deemed complete upon Customer's written acceptance, which shall not be unreasonably withheld, conditioned, or delayed.
+
+ARTICLE 4 — SUBSCRIPTION FEES AND PAYMENT
+
+4.1 Subscription Fees. In consideration of the Services, Customer shall pay an annual Subscription Fee of {{ANNUAL_FEE_AMOUNT}}, payable in equal quarterly installments of One Hundred Fifty Thousand Canadian Dollars (CAD $150,000) in advance. The first quarterly installment shall be due upon execution of this Agreement.
+
+4.2 Payment Terms. All Subscription Fees shall be due and payable in Canadian Dollars within thirty (30) days of the date of invoice (the "Due Date"). Customer shall make all payments by wire transfer to the account designated by Provider in writing.
+
+4.3 Disputed Invoices. If Customer in good faith disputes any portion of an invoice, Customer shall notify Provider in writing of the dispute within twenty (20) business days of receipt of the invoice. Customer shall pay all undisputed amounts in accordance with Section 4.2, and the Parties shall negotiate in good faith to resolve the disputed amount within thirty (30) days.
+
+4.4 Late Payments. Any undisputed amounts not paid by the Due Date shall accrue interest at a rate equal to the lesser of (a) one and one-half percent (1.5%) per month or (b) the maximum rate permitted by applicable {{GOVERNING_LAW_STATE}} law.
+
+4.5 Taxes. The Subscription Fees are exclusive of all taxes, levies, and duties, except taxes imposed on Provider's net income. Customer shall be responsible for payment of all such taxes, including without limitation any applicable Goods and Services Tax / Harmonized Sales Tax (GST/HST) imposed under the Excise Tax Act ({{PROVIDER_STATE}}), provincial sales taxes, and Quebec Sales Tax (where applicable).
+
+4.6 Fee Escalation. Subscription Fees may be adjusted at the start of each Renewal Term by Provider's written notice given at least one hundred twenty (120) days prior to the start of the Renewal Term. Any such adjustment shall not exceed the lesser of (a) four percent (4%) above the Subscription Fees in effect during the immediately preceding Subscription Year or (b) the percentage increase in the Consumer Price Index for {{PROVIDER_STATE}} (all items) published by Statistics {{PROVIDER_STATE}} for the twelve-month period ending three months prior to the start of the Renewal Term.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Initial Term. The initial term of this Agreement (the "Initial Term") shall commence on the Effective Date and continue for a period of {{TERM_YEARS}} years thereafter, unless earlier terminated in accordance with Article 13.
+
+5.2 Renewal Terms. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive one (1) year renewal terms (each a "Renewal Term") unless either Party provides written notice of non-renewal to the other Party at least {{NOTICE_DAYS}} days prior to the expiration of the then-current term. The {{NOTICE_DAYS}} day non-renewal notice period reflects Customer's regulatory obligation to provide its regulators with adequate notice of changes to material outsourcing arrangements.
+
+5.3 Customer Termination Rights. In addition to Customer's rights under Article 13, Customer may terminate this Agreement immediately upon written notice if (a) Provider loses or fails to maintain SOC 2 Type II certification or ISO/IEC 27001 certification; or (b) OSFI or another regulator having jurisdiction over Customer directs Customer to terminate the outsourcing arrangement contemplated by this Agreement.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime Commitment. Provider shall use commercially reasonable efforts to make the Platform available with a Monthly Uptime Percentage of at least 99.95%, calculated as: (Total Minutes in Month - Excluded Minutes - Downtime Minutes) / (Total Minutes in Month - Excluded Minutes), expressed as a percentage.
+
+6.2 Excluded Downtime. The following shall not be counted as Downtime: (a) scheduled maintenance windows announced at least seventy-two (72) hours in advance, which shall not exceed six (6) hours per calendar month and shall be scheduled outside of peak business hours; (b) emergency maintenance with as much advance notice as is reasonably practicable; (c) downtime caused by Customer's acts or omissions; (d) downtime caused by Force Majeure Events; and (e) downtime caused by failures of third-party services or networks outside Provider's reasonable control.
+
+6.3 Service Credits. If the Monthly Uptime Percentage falls below 99.95%, Customer shall be entitled to receive service credits as follows: (a) below 99.95% but at or above 99.9%: a service credit equal to ten percent (10%) of one-twelfth (1/12) of the annual Subscription Fee; (b) below 99.9% but at or above 99.5%: twenty percent (20%); (c) below 99.5%: forty percent (40%). To claim a service credit, Customer shall submit a written request within thirty (30) days following the end of the affected month. Service credits shall not exceed in the aggregate fifty percent (50%) of the annual Subscription Fee in any Subscription Year.
+
+6.4 Support Services. Provider shall provide the following Support Services: (a) twenty-four hours per day, seven days per week ("24x7") access to a self-service knowledge base and online help centre; (b) email support with a target initial response time of one (1) hour for Severity 1 issues and four (4) business hours for Severity 2 issues; (c) telephone support during Provider's business hours of 8:00 a.m. to 8:00 p.m. Eastern Time, Monday through Friday; and (d) emergency on-call support for Severity 1 incidents (defined as a complete outage of the Platform) with a target initial response time of thirty (30) minutes, twenty-four hours per day, seven days per week.
+
+6.5 Severity Levels. Provider shall categorize support issues using the following severity levels: Severity 1 (complete outage), Severity 2 (significant degradation affecting compliance operations), Severity 3 (limited functionality issue with workaround), and Severity 4 (general inquiry). Provider shall use commercially reasonable efforts to resolve Severity 1 issues within four (4) hours, Severity 2 issues within one (1) business day, Severity 3 issues within five (5) business days, and Severity 4 issues per Provider's standard product roadmap.
+
+ARTICLE 7 — CUSTOMER DATA, PRIVACY, AND REGULATORY COMPLIANCE
+
+7.1 Ownership of Customer Data. As between the Parties, Customer shall retain all right, title, and interest in and to Customer Data, including all Personal Information. Provider acknowledges that Customer Data is the exclusive property of Customer.
+
+7.2 Licence to Process. Customer hereby grants to Provider a limited, non-exclusive, non-transferable, royalty-free licence to access, store, process, transmit, and display Customer Data solely as necessary to provide the Services to Customer in accordance with this Agreement. Provider shall not use Customer Data for any other purpose, including without limitation product improvement, machine learning model training, marketing, or sale to third parties.
+
+7.3 PIPEDA Compliance. Provider shall handle all Personal Information in accordance with PIPEDA and the principles set out in Schedule 1 thereto, and shall implement and maintain physical, organizational, and technological safeguards consistent with the sensitivity of the Personal Information processed.
+
+7.4 Data Residency. Provider shall store and process all Customer Data in data centres physically located within {{PROVIDER_STATE}}. Provider shall not transfer Customer Data outside of {{PROVIDER_STATE}} without Customer's prior written consent. Provider acknowledges that this data residency requirement is essential to Customer's compliance with OSFI guidelines and provincial privacy legislation, and that any transfer of Customer Data outside of {{PROVIDER_STATE}} without Customer's prior written consent shall constitute a material breach of this Agreement entitling Customer to terminate immediately.
+
+7.5 OSFI B-10 and B-13 Compliance. The Parties acknowledge that Customer's use of the Platform constitutes a material outsourcing arrangement within the meaning of OSFI Guideline B-10 and that the Platform constitutes a technology service subject to OSFI Guideline B-13. Provider shall (a) cooperate with Customer in fulfilling Customer's obligations under such guidelines; (b) provide Customer with such information about the Platform, Provider's controls, and Provider's subcontractors as Customer may reasonably require to satisfy its regulatory obligations; (c) notify Customer promptly of any material change to the Platform, the Services, Provider's subcontractors, or Provider's controls that could affect the outsourcing arrangement; and (d) permit Customer and its regulators to exercise the audit rights set forth in Section 7.9.
+
+7.6 Data Security. Provider shall implement and maintain commercially reasonable administrative, physical, and technical safeguards designed to protect Customer Data against unauthorized access, disclosure, alteration, and destruction, including without limitation (a) encryption of Customer Data in transit using TLS 1.2 or higher; (b) encryption of Customer Data at rest using AES-256 or equivalent; (c) role-based access controls; (d) annual third-party penetration testing; (e) maintenance of SOC 2 Type II certification and ISO/IEC 27001 certification; and (f) a documented information security program reviewed and updated at least annually.
+
+7.7 Breach Notification. Provider shall notify Customer in writing of any actual or reasonably suspected unauthorized access to, acquisition of, or disclosure of Customer Data (a "Security Incident") without undue delay and in any event within forty-eight (48) hours of Provider's discovery of such Security Incident. Provider shall cooperate with Customer's investigation and shall reimburse Customer for the reasonable costs of mandatory breach notifications to affected individuals, the Office of the Privacy Commissioner of {{PROVIDER_STATE}}, and applicable provincial privacy commissioners, to the extent the Security Incident was caused by Provider's breach of its obligations under this Article 7.
+
+7.8 Subcontractors. Provider may use subcontractors to perform the Services, provided that (a) Provider shall remain fully responsible for the acts and omissions of its subcontractors; (b) Provider shall ensure that each subcontractor is bound by written obligations of confidentiality and data protection at least as protective as those set forth in this Agreement; (c) Provider shall provide Customer with written notice of any new subcontractor at least sixty (60) days before such subcontractor begins providing services in connection with this Agreement; and (d) Customer shall have the right, upon reasonable grounds, to object to the use of any new subcontractor and to require Provider to engage an alternative subcontractor or to terminate the Agreement without penalty.
+
+7.9 Audit Rights. Customer and its regulators (including OSFI) shall have the right to audit Provider's facilities, records, and information security controls in order to verify Provider's compliance with this Agreement and applicable regulatory requirements. Such audits shall be conducted upon thirty (30) days' prior written notice (or such shorter notice as may be required by Customer's regulators), during normal business hours, by Customer or by an independent third-party auditor reasonably acceptable to Provider, and shall be conducted in a manner that does not unreasonably interfere with Provider's operations. The costs of such audits shall be borne as follows: (a) Customer shall bear the costs of audits initiated as routine examinations; (b) Provider shall bear the costs of audits initiated as a result of a Security Incident or other failure attributable to Provider; and (c) the costs of audits required by Customer's regulators shall be borne in accordance with the directions of such regulators.
+
+7.10 Data Return and Deletion. Upon expiration or termination of this Agreement, Provider shall, at Customer's election, (a) make Customer Data available for export by Customer in a commercially reasonable, machine-readable format for a period of ninety (90) days following expiration or termination; or (b) permanently delete Customer Data from Provider's production systems within thirty (30) days of expiration or termination, with deletion from backup systems to follow within ninety (90) days. Provider shall provide written certification of deletion upon Customer's request. Notwithstanding the foregoing, Provider shall retain Customer Data for any longer period required by applicable law.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Provider Intellectual Property. As between the Parties, Provider shall retain all right, title, and interest in and to the Platform, the Documentation, and all related Intellectual Property Rights, including without limitation any modifications, enhancements, derivative works, or improvements thereto.
+
+8.2 Customer Data. As provided in Article 7, Customer Data is and shall remain the exclusive property of Customer.
+
+8.3 Customer Configurations. Customer-specific configurations, business rules, and reporting templates developed by Customer or by Provider on Customer's behalf shall be deemed Confidential Information of Customer, and Provider shall not use such configurations for the benefit of any third party.
+
+8.4 Feedback. From time to time, Customer or its Authorized Users may provide Provider with general suggestions, comments, ideas, or feedback regarding the Platform. Customer hereby grants Provider a perpetual, irrevocable, royalty-free, worldwide licence to use such Feedback to improve the Platform, provided that Provider shall not use any Customer Data in connection with such use of Feedback.
+
+8.5 No Implied Licences. Except for the limited rights expressly granted in this Agreement, neither Party grants any rights or licences to the other Party, whether by implication, estoppel, or otherwise, with respect to any of its Intellectual Property Rights.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party agrees that it shall (a) hold the other Party's Confidential Information in strict confidence; (b) use the other Party's Confidential Information solely for the purpose of performing its obligations or exercising its rights under this Agreement; (c) not disclose the other Party's Confidential Information to any third party except to its employees, contractors, and advisors who have a legitimate need to know such information and who are bound by written obligations of confidentiality at least as protective as those set forth in this Article 9; and (d) protect the other Party's Confidential Information using the same degree of care that it uses to protect its own confidential information of similar importance, but in no event less than reasonable care.
+
+9.2 Exclusions. The obligations set forth in Section 9.1 shall not apply to information that the Receiving Party can demonstrate (a) was already known to the Receiving Party at the time of disclosure without obligation of confidentiality; (b) was independently developed by the Receiving Party without use of or reference to the Disclosing Party's Confidential Information; (c) was rightfully received by the Receiving Party from a third party without obligation of confidentiality; or (d) is or becomes publicly available through no fault of or breach by the Receiving Party.
+
+9.3 Compelled Disclosure. The Receiving Party may disclose the Disclosing Party's Confidential Information to the extent required by law, provided that the Receiving Party gives the Disclosing Party prompt written notice of such requirement (to the extent legally permitted) and cooperates with the Disclosing Party in any reasonable effort to obtain a protective order.
+
+9.4 Survival. The obligations set forth in this Article 9 shall survive any expiration or termination of this Agreement for a period of seven (7) years, except that the obligations with respect to Personal Information and trade secrets shall survive for so long as such information remains confidential.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants to the other Party that (a) it is duly incorporated, validly existing, and in good standing under the laws of the jurisdiction of its incorporation; (b) it has the full corporate power and authority to enter into this Agreement; (c) the execution, delivery, and performance of this Agreement have been duly authorized; and (d) this Agreement, when executed, constitutes a legal, valid, and binding obligation enforceable against it in accordance with its terms.
+
+10.2 Provider Warranties. Provider represents and warrants that during the Subscription Term: (a) the Platform shall perform substantially in accordance with the Documentation in all material respects; (b) the Platform shall not contain any virus, worm, trojan horse, or other malicious code introduced by Provider; (c) Provider shall provide the Services in a professional and workmanlike manner; (d) Provider shall comply with all applicable Canadian laws and regulations in performing its obligations; (e) Provider shall maintain SOC 2 Type II certification and ISO/IEC 27001 certification throughout the Subscription Term; and (f) Provider shall comply with the requirements of OSFI Guidelines B-10 and B-13 applicable to a service provider in respect of its provision of the Services.
+
+10.3 Customer Warranties. Customer represents and warrants that (a) Customer is duly licensed to carry on banking business in {{PROVIDER_STATE}}; (b) Customer has the right to upload Customer Data to the Platform; and (c) Customer's use of the Platform shall comply with all applicable Canadian laws and regulations.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS ARTICLE 10, THE PLATFORM AND THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE," AND PROVIDER DISCLAIMS ALL OTHER WARRANTIES, CONDITIONS, AND REPRESENTATIONS, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED CONDITIONS OR WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND ANY CONDITIONS OR WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Provider Indemnity. Provider shall defend Customer and its directors, officers, employees, and agents (each a "Customer Indemnified Party") against any third-party claim, action, suit, or proceeding (each a "Claim") alleging that Customer's use of the Platform in accordance with this Agreement infringes any Intellectual Property Right of such third party, and Provider shall indemnify each Customer Indemnified Party for any damages, settlement amounts, and reasonable legal fees and costs finally awarded against such Customer Indemnified Party with respect to such Claim. Provider's obligations shall not apply to Claims arising out of (a) any modification of the Platform by any party other than Provider; (b) any combination of the Platform with software, hardware, or data not provided by Provider; (c) Customer's use of the Platform in a manner not authorized by this Agreement; or (d) Customer Data.
+
+11.2 Customer Indemnity. Customer shall defend Provider and its directors, officers, employees, and agents against any third-party Claim alleging that any Customer Data infringes the rights of any third party, and Customer shall indemnify Provider for any damages, settlement amounts, and reasonable legal fees and costs finally awarded against Provider with respect to such Claim.
+
+11.3 Indemnification Procedure. The Indemnified Party shall (a) provide the Indemnifying Party with prompt written notice of the Claim; (b) grant the Indemnifying Party sole control over the defence and settlement of the Claim, provided that the Indemnifying Party shall not enter into any settlement that imposes any liability or obligation on the Indemnified Party without the Indemnified Party's prior written consent (not to be unreasonably withheld); and (c) provide the Indemnifying Party with all reasonable cooperation, information, and assistance, at the Indemnifying Party's expense.
+
+11.4 Sole Remedy. The provisions of this Article 11 set forth Provider's sole and exclusive liability and Customer's sole and exclusive remedy with respect to any Claim of intellectual property infringement.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF SUBSCRIPTION FEES PAID OR PAYABLE BY CUSTOMER TO PROVIDER DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOSS OF GOODWILL, OR LOSS OF DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT.
+
+12.3 Exceptions to Limitations. The limitations set forth in Sections 12.1 and 12.2 shall not apply to (a) Provider's obligations under Article 11 (Indemnification); (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Customer Data, Privacy, and Regulatory Compliance), including without limitation any unauthorized transfer of Customer Data outside of {{PROVIDER_STATE}}; (d) Customer's payment obligations; (e) any liability arising from a Party's gross negligence, willful misconduct, or fraud; or (f) any liability that, under applicable law, cannot be limited or excluded.
+
+12.4 Basis of the Bargain. The Parties acknowledge that the limitations of liability set forth in this Article 12 are an essential element of the bargain between the Parties.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Material Breach. Either Party may terminate this Agreement upon thirty (30) days' prior written notice to the other Party if the other Party commits a material breach of this Agreement and fails to cure such breach within the thirty (30) day notice period.
+
+13.2 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice to the other Party if the other Party becomes insolvent, makes an assignment for the benefit of creditors, files a notice of intention or proposal under the Bankruptcy and Insolvency Act ({{PROVIDER_STATE}}), files a petition for arrangement under the Companies' Creditors Arrangement Act ({{PROVIDER_STATE}}), has any equivalent proceedings commenced against it that are not dismissed within sixty (60) days, or ceases to do business.
+
+13.3 Termination for Regulatory Direction. Customer may terminate this Agreement immediately upon written notice if OSFI or another regulator having jurisdiction over Customer directs Customer to terminate this Agreement.
+
+13.4 Effects of Termination. Upon expiration or termination of this Agreement: (a) all rights and licences granted to Customer hereunder shall immediately cease; (b) Customer shall pay Provider all Subscription Fees that have accrued through the effective date of termination; (c) Provider shall make Customer Data available for export or shall delete Customer Data in accordance with Section 7.10; (d) each Party shall return or destroy the other Party's Confidential Information; and (e) the provisions of this Agreement that by their nature are intended to survive termination shall so survive.
+
+13.5 Transition Assistance. For a period of up to {{NOTICE_DAYS}} days following the effective date of expiration or termination of this Agreement, Provider shall provide Customer with reasonable transition assistance to facilitate Customer's migration to a successor system or to bring the function in-house, including the export of Customer Data, the transfer of historical workflow configurations, and reasonable consultation with Customer's transition team. Such transition assistance shall be provided at Provider's then-current professional services rates, except that the export of Customer Data in standard formats shall be provided at no additional charge.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the Province of {{GOVERNING_LAW_STATE}} and the federal laws of {{PROVIDER_STATE}} applicable therein, without regard to its conflict of laws principles or the United Nations Convention on Contracts for the International Sale of Goods.
+
+14.2 Informal Dispute Resolution. Before initiating any litigation, the Parties agree to attempt in good faith to resolve any dispute arising out of or relating to this Agreement through direct negotiation between executives of each Party with authority to resolve the dispute. If the dispute is not resolved within thirty (30) days after written notice from one Party to the other identifying the dispute, either Party may proceed to litigation.
+
+14.3 Venue and Jurisdiction. The Parties agree that any action, suit, or proceeding arising out of or relating to this Agreement shall be brought exclusively in the courts of the Province of {{GOVERNING_LAW_STATE}} sitting in the {{VENUE_COUNTY}}, and each Party hereby irrevocably attorns to the jurisdiction of such courts.
+
+14.4 Language. The Parties acknowledge that they have required this Agreement and all related documents to be drafted in the English language. Les parties reconnaissent avoir exigé que la présente convention et tous les documents connexes soient rédigés en anglais.
+
+14.5 Legal Costs. In any action to enforce this Agreement, the prevailing Party shall be entitled to recover its reasonable legal fees and costs.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written.
+
+15.2 Amendments. No amendment, modification, or supplement to this Agreement shall be effective unless set forth in a writing executed by authorized representatives of both Parties.
+
+15.3 Severability. If any provision of this Agreement is held to be invalid, illegal, or unenforceable, such provision shall be modified to the minimum extent necessary to render it valid and enforceable, and the remaining provisions of this Agreement shall continue in full force and effect.
+
+15.4 Waiver. No failure or delay by either Party in exercising any right under this Agreement shall operate as a waiver thereof.
+
+15.5 Notices. All notices required under this Agreement shall be in writing and shall be deemed given when delivered personally, by registered mail return receipt requested, by nationally recognized overnight courier, or by email with confirmation of receipt to the addresses set forth below.
+
+If to Provider: {{PROVIDER_NAME}}, {{PROVIDER_ADDRESS}}, Attention: General Counsel.
+
+If to Customer: {{CUSTOMER_NAME}}, {{CUSTOMER_ADDRESS}}, Attention: General Counsel.
+
+15.6 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, provided that either Party may assign this Agreement without consent in connection with a merger, amalgamation, acquisition, or sale of all or substantially all of its assets, provided that the assignee assumes all of the assigning Party's obligations under this Agreement.
+
+15.7 Force Majeure. Neither Party shall be liable for any failure or delay in performing its obligations under this Agreement (other than payment obligations) to the extent that such failure or delay is caused by a Force Majeure Event.
+
+15.8 Independent Contractors. The Parties are independent contractors. Nothing in this Agreement shall be construed as creating a partnership, joint venture, agency, or employment relationship between the Parties.
+
+15.9 No Third-Party Beneficiaries. This Agreement is for the sole benefit of the Parties and their respective successors and permitted assigns.
+
+15.10 Counterparts. This Agreement may be executed in counterparts, including by electronic signature, each of which shall be deemed an original.
+
+15.11 Headings. The headings of Articles and Sections in this Agreement are for convenience of reference only and shall not affect the interpretation of this Agreement.
+
+15.12 Construction. The Parties acknowledge that this Agreement has been negotiated by both Parties with the benefit of legal counsel.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date first written above.
+
+NORTHERNEDGE CLOUD SOLUTIONS INC.
+
+Per: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+MAPLE CAPITAL BANK
+
+Per: ________________________
+Name:
+Title: Chief Compliance Officer
+Date:

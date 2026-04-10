@@ -1,0 +1,285 @@
+CLINICAL TRIAL MANAGEMENT SYSTEM SOFTWARE-AS-A-SERVICE AGREEMENT
+
+This Clinical Trial Management System Software-as-a-Service Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} ("Provider"), and {{CUSTOMER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} ("Customer"). Provider and Customer may each be referred to individually as a "Party" and collectively as the "Parties."
+
+RECITALS
+
+WHEREAS, Provider develops, validates, hosts, and supports a clinical trial management system designed for use by pharmaceutical and biotechnology sponsors in the planning, conduct, monitoring, and reporting of human clinical trials, which system has been validated for use in regulated environments and qualifies for use under the United States Food and Drug Administration's regulations governing electronic records and electronic signatures (the "PharmaTrack Platform");
+
+WHEREAS, Customer is a clinical-stage biopharmaceutical company that conducts clinical trials in the United States and other jurisdictions for the purpose of obtaining regulatory approval for its therapeutic products and desires to subscribe to the PharmaTrack Platform to support such clinical trials;
+
+WHEREAS, the Parties acknowledge that the use of the PharmaTrack Platform in regulated clinical research is subject to applicable laws and regulations, including without limitation 21 C.F.R. Part 11 (Electronic Records; Electronic Signatures), the principles of Good Clinical Practice (GCP) as set forth by the International Council for Harmonisation (ICH E6), the Health Insurance Portability and Accountability Act of 1996 (HIPAA), and applicable data protection laws of jurisdictions in which clinical trials are conducted;
+
+WHEREAS, the Parties have negotiated this Agreement to allocate the rights, responsibilities, risks, and remedies arising out of Customer's subscription to and use of the PharmaTrack Platform, with particular attention to the heightened regulatory environment in which the Platform is used; and
+
+WHEREAS, the Parties wish to establish a long-term commercial relationship to support multiple clinical trials over the Subscription Term;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "21 CFR Part 11" means Title 21, Part 11 of the United States Code of Federal Regulations, governing the criteria under which the United States Food and Drug Administration considers electronic records, electronic signatures, and handwritten signatures executed to electronic records to be trustworthy, reliable, and generally equivalent to paper records and handwritten signatures executed on paper.
+
+1.2 "Affiliate" means, with respect to any entity, any other entity that directly or indirectly controls, is controlled by, or is under common control with such entity, where "control" means the ownership of more than fifty percent (50%) of the voting securities of such entity or the power to direct the management and policies of such entity, whether through the ownership of voting securities, by contract, or otherwise.
+
+1.3 "Authorized User" means any individual employee, contractor, clinical investigator, study coordinator, monitor, statistician, or other individual authorized by Customer to access and use the Platform in the performance of Customer's clinical trial activities. Each Authorized User shall be uniquely identified within the Platform and shall be assigned access rights commensurate with such Authorized User's role and responsibilities under applicable Standard Operating Procedures.
+
+1.4 "Clinical Trial" means a research investigation involving human subjects designed to evaluate the effects of one or more biomedical or behavioral interventions on health outcomes, including without limitation Phase I, Phase II, Phase III, and Phase IV interventional clinical trials sponsored by Customer or its Affiliates and conducted in accordance with applicable Good Clinical Practice principles.
+
+1.5 "Confidential Information" means all non-public information disclosed by one Party to the other Party that is identified as confidential at the time of disclosure or that, given the nature of the information and the circumstances surrounding its disclosure, would reasonably be understood to be confidential. Confidential Information of Customer includes Trial Data, Customer's clinical trial protocols, research strategies, drug development plans, regulatory filings, and patient identifying information. Confidential Information of Provider includes the source code, validation documentation, security architecture, and pricing of the Platform.
+
+1.6 "Customer Data" means all electronic data, content, and information uploaded to, transmitted through, or stored within the Platform by or on behalf of Customer or any Authorized User, including without limitation Trial Data and any metadata related thereto. Customer Data does not include Provider's aggregated, de-identified usage telemetry concerning the Platform itself.
+
+1.7 "Documentation" means the user manuals, validation documentation, installation qualification (IQ) protocols, operational qualification (OQ) protocols, performance qualification (PQ) protocols, system requirements specifications, technical architecture documentation, and other documentation made available by Provider in respect of the Platform, as updated from time to time.
+
+1.8 "Effective Date" has the meaning set forth in the preamble.
+
+1.9 "FDA" means the United States Food and Drug Administration, and any successor agency thereto.
+
+1.10 "Force Majeure Event" means any event or circumstance beyond the reasonable control of a Party, including without limitation acts of God, natural disasters, fire, flood, earthquake, war, terrorism, civil unrest, governmental action, pandemic, epidemic, labor disputes, internet or telecommunications failures, or denial of service attacks, but excluding Customer's payment obligations.
+
+1.11 "GxP Audit Trail" means the system-generated record maintained by the Platform that captures, in a manner compliant with 21 CFR Part 11, all user actions affecting Customer Data, including the identity of the user, the date and time of the action, the action taken, the prior value (if applicable), and the new value, in each case in a tamper-evident and non-modifiable form.
+
+1.12 "Implementation Services" means the professional services described in Article 3 to be provided by Provider in connection with the initial deployment, validation, configuration, and acceptance of the Platform for Customer's use.
+
+1.13 "Intellectual Property Rights" means all intellectual property and proprietary rights of any kind anywhere in the world, including without limitation patents, copyrights, trademarks, trade secrets, know-how, database rights, moral rights, and all other rights of a similar nature, whether registered or unregistered.
+
+1.14 "IQ/OQ/PQ" means, collectively, Installation Qualification, Operational Qualification, and Performance Qualification, being the three formal validation phases required to demonstrate that the Platform is installed correctly, operates as designed, and performs reliably under intended conditions of use, in each case in accordance with applicable industry standards including those set forth in the International Society for Pharmaceutical Engineering (ISPE) Good Automated Manufacturing Practice (GAMP) 5 guide.
+
+1.15 "Monthly Uptime Percentage" means the percentage calculation defined in Section 6.1 of this Agreement.
+
+1.16 "Personal Data" means any information relating to an identified or identifiable natural person, including without limitation patient identifying information collected in the course of a Clinical Trial, in each case as defined under applicable privacy laws including HIPAA, the EU General Data Protection Regulation (where applicable), and applicable state privacy laws.
+
+1.17 "Platform" means the PharmaTrack Clinical Trial Management System software-as-a-service platform, including all features, modules (including but not limited to study management, monitoring, randomization, electronic data capture, and reporting), application programming interfaces, web interfaces, mobile applications, and updates thereto, in each case as made available by Provider during the Subscription Term.
+
+1.18 "Quality Management System" or "QMS" means Provider's documented quality management system applicable to the design, development, validation, deployment, and ongoing maintenance of the Platform, which QMS is designed to comply with applicable industry standards for software used in regulated clinical research environments.
+
+1.19 "Regulatory Authority" means the FDA, the European Medicines Agency, and any other governmental authority responsible for the regulation of pharmaceutical development, clinical research, and product approval in any jurisdiction in which Customer conducts a Clinical Trial.
+
+1.20 "Services" means, collectively, the Subscription, the Implementation Services, the Support Services, and any other services expressly provided for in this Agreement or any Statement of Work.
+
+1.21 "Source Code Escrow Agreement" means the source code escrow agreement to be entered into by Provider, Customer, and a mutually agreed independent escrow agent in accordance with Section 8.5.
+
+1.22 "Statement of Work" or "SOW" means a written document executed by the Parties that references this Agreement and describes specific services to be performed by Provider for Customer.
+
+1.23 "Subscription" means Customer's right of access to and use of the Platform as set forth in this Agreement during the Subscription Term.
+
+1.24 "Subscription Fees" means the fees payable by Customer to Provider for the Subscription as set forth in Section 4.1.
+
+1.25 "Subscription Term" has the meaning set forth in Section 5.1.
+
+1.26 "Support Services" means the technical support services to be provided by Provider as more fully described in Article 6.
+
+1.27 "Trial Data" means all data, information, records, and reports generated, collected, processed, or stored by or through the Platform in connection with a Clinical Trial, including without limitation case report forms, source data, monitoring reports, statistical analyses, randomization records, drug accountability records, adverse event reports, and Personal Data of Clinical Trial participants. Trial Data is a subset of Customer Data.
+
+ARTICLE 2 — SUBSCRIPTION AND LICENSE
+
+2.1 Provision of the Platform. Subject to the terms and conditions of this Agreement, Provider shall make the Platform available to Customer and its Authorized Users during the Subscription Term in accordance with this Agreement, the Documentation, and the Service Level Agreement set forth in Article 6. Provider shall maintain the Platform in a validated state suitable for use in regulated clinical research, in accordance with Provider's Quality Management System and the requirements of 21 CFR Part 11.
+
+2.2 License Grant. Subject to Customer's compliance with the terms and conditions of this Agreement and Customer's timely payment of all applicable Subscription Fees, Provider hereby grants to Customer a limited, non-exclusive, non-transferable, non-sublicensable right and license during the Subscription Term to access and use the Platform solely for Customer's internal business purposes in connection with the planning, conduct, monitoring, and reporting of Clinical Trials sponsored by Customer or its Affiliates.
+
+2.3 Restrictions on Use. Customer shall not, and shall not permit any Authorized User to, (a) modify, adapt, alter, translate, or create derivative works based upon the Platform; (b) sublicense, lease, sell, resell, transfer, distribute, or otherwise commercially exploit access to the Platform to any third party, except that Customer may permit clinical investigators, clinical research organizations engaged by Customer, and other Authorized Users to access the Platform solely for the purpose of conducting Customer's Clinical Trials; (c) reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Platform, except to the extent such restriction is prohibited by applicable law; (d) use the Platform to develop a competing product or service; (e) remove or alter any proprietary notices appearing on the Platform; or (f) use the Platform in violation of applicable laws or regulations.
+
+2.4 Authorized Users. Customer shall be responsible for all acts and omissions of its Authorized Users in connection with their use of the Platform. Customer shall ensure that each Authorized User is provisioned with credentials commensurate with such user's role and complies with Customer's Standard Operating Procedures and the requirements of 21 CFR Part 11. Customer shall promptly deactivate the credentials of any Authorized User upon the cessation of such individual's relationship with Customer or such individual's involvement in the Clinical Trials supported by the Platform.
+
+2.5 Multi-Trial Use. The Subscription includes the right to use the Platform in connection with any number of Clinical Trials sponsored by Customer or its wholly-owned Affiliates during the Subscription Term, subject to the user volume thresholds set forth in the applicable Statement of Work.
+
+ARTICLE 3 — IMPLEMENTATION AND VALIDATION SERVICES
+
+3.1 Scope of Implementation Services. Provider shall provide Implementation Services to Customer in accordance with a written Implementation Plan to be developed by the Parties within forty-five (45) days of the Effective Date. The Implementation Services shall include, at a minimum, (a) installation and configuration of the Platform within Provider's validated cloud environment to reflect Customer's organizational structure, study designs, and data standards; (b) execution of Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualification (PQ) protocols sufficient to demonstrate the Platform's fitness for Customer's intended use under 21 CFR Part 11 and applicable GxP standards; (c) provision of validation documentation, including IQ/OQ/PQ protocols and reports, traceability matrices, and risk assessments; (d) integration with Customer's existing systems via standard application programming interfaces; (e) training of Customer's designated administrators, study managers, and Authorized Users; and (f) user acceptance testing.
+
+3.2 Implementation Fee. The Implementation Services shall be provided for a one-time fee of {{IMPLEMENTATION_FEE}}, payable in three installments: (a) one-third upon execution of the Implementation Plan; (b) one-third upon successful completion of OQ; and (c) one-third upon Customer's written acceptance of the Implementation Services.
+
+3.3 Validation Documentation Ownership. The validation documentation produced as part of the Implementation Services, including the IQ/OQ/PQ protocols and reports specific to Customer's instance of the Platform, shall be deliverable to Customer and may be used by Customer in support of Customer's regulatory submissions and inspections, provided that the validation documentation shall remain Confidential Information of both Parties to the extent it discloses Provider's proprietary technical information.
+
+3.4 Customer Cooperation. Customer acknowledges that the timely completion of the Implementation Services depends on Customer's cooperation, including the timely provision of organizational information, study designs, data standards, and personnel for training and acceptance testing. Provider shall not be responsible for delays caused by Customer's failure to provide such cooperation, and any associated rescheduling shall not constitute a breach of this Agreement.
+
+3.5 Acceptance. Implementation shall be deemed complete upon Customer's written acceptance, which shall not be unreasonably withheld, conditioned, or delayed beyond fifteen (15) business days following Provider's notification of completion of Performance Qualification. If Customer identifies material non-conformities, Customer shall provide Provider with a written description, and Provider shall have thirty (30) days to remediate and resubmit for acceptance.
+
+ARTICLE 4 — SUBSCRIPTION FEES AND PAYMENT
+
+4.1 Subscription Fees. In consideration of the Subscription and Services, Customer shall pay an annual Subscription Fee of {{ANNUAL_FEE_AMOUNT}}, payable in equal quarterly installments of Two Hundred Forty Thousand United States Dollars ($240,000) in advance. The first quarterly installment shall be due upon execution of this Agreement, and subsequent quarterly installments shall be due thirty (30) days prior to the start of each calendar quarter.
+
+4.2 Payment Terms. All Subscription Fees shall be due and payable in United States Dollars within thirty (30) days of the date of invoice (the "Due Date"). Customer shall make all payments by wire transfer to the account designated by Provider in writing.
+
+4.3 Disputed Invoices. If Customer in good faith disputes any portion of an invoice, Customer shall notify Provider in writing of the dispute within fifteen (15) business days of receipt of the invoice, identifying with reasonable particularity the disputed amount and the basis for the dispute. Customer shall pay all undisputed amounts in accordance with Section 4.2, and the Parties shall negotiate in good faith to resolve the disputed amount within thirty (30) days.
+
+4.4 Late Payments. Any undisputed Subscription Fees not paid by the Due Date shall accrue interest at a rate equal to the lesser of (a) one and one-half percent (1.5%) per month or (b) the maximum rate permitted by applicable law, in each case calculated from the Due Date until the date of actual payment.
+
+4.5 Taxes. The Subscription Fees are exclusive of all taxes, levies, and duties, except taxes imposed on Provider's net income. Customer shall be responsible for payment of all such taxes.
+
+4.6 Fee Escalation. Subscription Fees may be adjusted at the start of each Renewal Term by Provider's written notice given at least {{NOTICE_DAYS}} days prior to the start of the Renewal Term. Any such adjustment shall not exceed the lesser of (a) four percent (4%) above the Subscription Fees in effect during the immediately preceding Subscription Year or (b) the percentage increase in the Consumer Price Index for All Urban Consumers (CPI-U) published by the United States Bureau of Labor Statistics for the twelve-month period ending three months prior to the start of the Renewal Term.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Initial Term. The initial term of this Agreement (the "Initial Term") shall commence on the Effective Date and continue for a period of {{TERM_YEARS}} years thereafter, unless earlier terminated in accordance with Article 13.
+
+5.2 Renewal Terms. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive one (1) year renewal terms (each a "Renewal Term") unless either Party provides written notice of non-renewal to the other Party at least {{NOTICE_DAYS}} days prior to the expiration of the then-current term.
+
+5.3 Continuation Through End of Trial. Notwithstanding any expiration or termination of this Agreement, in the event a Clinical Trial supported by the Platform remains in progress as of the effective date of expiration or termination (other than termination for material breach by Customer), Customer may elect to continue the Subscription, on a Clinical-Trial-by-Clinical-Trial basis, until the database lock for the affected Clinical Trial, and Customer shall pay a pro-rata Subscription Fee for the duration of such continuation.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime Commitment. Provider shall use commercially reasonable efforts to make the Platform available with a Monthly Uptime Percentage of at least 99.99%, calculated as: (Total Minutes in Month - Excluded Minutes - Downtime Minutes) / (Total Minutes in Month - Excluded Minutes), expressed as a percentage. The 99.99% commitment reflects the mission-critical nature of the Platform's use in active Clinical Trials and the regulatory consequences of data unavailability during dosing visits, monitoring, or adverse event reporting.
+
+6.2 Excluded Downtime. The following shall not be counted as Downtime for purposes of calculating Monthly Uptime Percentage: (a) scheduled maintenance windows announced at least seventy-two (72) hours in advance, which shall not exceed {{TERM_YEARS}} hours per calendar month and shall be scheduled during off-peak hours; (b) emergency maintenance required to address security vulnerabilities or system failures, with as much advance notice as is reasonably practicable; (c) downtime caused by Customer's acts or omissions; (d) downtime caused by Force Majeure Events; and (e) downtime caused by failures of third-party services or networks outside Provider's reasonable control.
+
+6.3 Service Credits. If the Monthly Uptime Percentage falls below 99.99%, Customer shall be entitled to receive service credits as follows: (a) below 99.99% but at or above 99.9%: a service credit equal to ten percent (10%) of one-twelfth (1/12) of the annual Subscription Fee; (b) below 99.9% but at or above 99.5%: a service credit equal to twenty percent (20%) of one-twelfth (1/12) of the annual Subscription Fee; (c) below 99.5%: a service credit equal to fifty percent (50%) of one-twelfth (1/12) of the annual Subscription Fee. To claim a service credit, Customer shall submit a written request within thirty (30) days following the end of the affected month. Service credits shall not exceed in the aggregate fifty percent (50%) of the annual Subscription Fee in any Subscription Year.
+
+6.4 Support Services. Provider shall provide the following Support Services to Customer's designated administrators during the Subscription Term: (a) twenty-four hours per day, seven days per week ("24x7") access to a knowledge base and self-service ticketing portal; (b) email support with a target initial response time of one (1) hour for Severity 1 issues and {{TERM_YEARS}} business hours for Severity 2 issues; (c) telephone support during Provider's business hours of 8:00 a.m. to 8:00 p.m. Eastern Time, Monday through Friday, excluding Provider's published holidays; and (d) emergency on-call support for Severity 1 incidents (defined as a complete outage of the Platform or loss of access to Trial Data) with a target initial response time of fifteen (15) minutes, twenty-four hours per day, seven days per week.
+
+6.5 Severity Levels. Provider shall categorize support issues using the following severity levels: Severity 1 (complete outage or loss of data access), Severity 2 (significant degradation affecting Clinical Trial operations), Severity 3 (limited functionality issue with workaround), and Severity 4 (general inquiry or feature request). Provider shall use commercially reasonable efforts to resolve Severity 1 issues within {{TERM_YEARS}} hours, Severity 2 issues within one (1) business day, Severity 3 issues within five (5) business days, and Severity 4 issues in accordance with Provider's standard product roadmap.
+
+6.6 Quality Management System. Provider shall maintain its Quality Management System throughout the Subscription Term and shall make available to Customer, upon reasonable request, summary documentation of the QMS sufficient to demonstrate the validated state of the Platform.
+
+ARTICLE 7 — CUSTOMER DATA, PRIVACY, AND REGULATORY COMPLIANCE
+
+7.1 Ownership of Customer Data. As between the Parties, Customer shall retain all right, title, and interest in and to Customer Data, including all Trial Data and all Personal Data contained therein. Provider acknowledges that Customer Data is the exclusive property of Customer and that Provider has no right, title, or interest in Customer Data except for the limited license set forth in Section 7.2.
+
+7.2 License to Process. Customer hereby grants to Provider a limited, non-exclusive, non-transferable, royalty-free license to access, store, process, transmit, and display Customer Data solely as necessary to provide the Services to Customer in accordance with this Agreement. Provider shall not use Customer Data for any other purpose, including without limitation product improvement, machine learning model training, marketing, or sale to third parties. The Parties acknowledge that this restriction is essential to the protection of Trial Data and patient privacy.
+
+7.3 21 CFR Part 11 Compliance. Provider represents and warrants that the Platform has been designed, developed, and validated to comply with the technical requirements of 21 CFR Part 11, including without limitation the maintenance of GxP Audit Trails, electronic signature functionality, system access controls, time-stamped operational checks, and authority checks.
+
+7.4 GxP Audit Trail. The Platform shall automatically generate and maintain a GxP Audit Trail capturing all user actions affecting Customer Data. The GxP Audit Trail shall be tamper-evident, time-stamped, and exportable in a standard format suitable for inspection by Regulatory Authorities.
+
+7.5 HIPAA and Privacy Compliance. To the extent that Customer Data includes Protected Health Information as defined under HIPAA, Provider shall act as a Business Associate of Customer with respect to such Protected Health Information, and the Parties shall enter into a Business Associate Agreement substantially in the form attached as Exhibit A. Provider shall comply with applicable privacy laws of jurisdictions in which Customer conducts Clinical Trials.
+
+7.6 Regulatory Inspections. Provider shall reasonably cooperate with Customer in connection with any inspection of the Platform or related records by a Regulatory Authority, including by making available, at Customer's request, validation documentation, audit trail records, and personnel for interview. Provider shall promptly notify Customer of any inspection or audit by a Regulatory Authority that involves or relates to the Platform's use by Customer.
+
+7.7 Data Security. Provider shall implement and maintain commercially reasonable administrative, physical, and technical safeguards designed to protect Customer Data against unauthorized access, disclosure, alteration, and destruction, including without limitation (a) encryption of Customer Data in transit using TLS 1.2 or higher; (b) encryption of Customer Data at rest using AES-256 or equivalent; (c) role-based access controls; (d) annual third-party penetration testing; (e) maintenance of SOC 2 Type II certification; and (f) a documented information security program reviewed and updated at least annually.
+
+7.8 Breach Notification. Provider shall notify Customer in writing of any actual or reasonably suspected unauthorized access to, acquisition of, or disclosure of Customer Data (a "Security Incident") without undue delay and in any event within forty-eight (48) hours of Provider's discovery of such Security Incident. Provider shall cooperate with Customer's investigation and shall reimburse Customer for the reasonable costs of mandatory breach notifications to affected individuals to the extent the Security Incident was caused by Provider's breach of this Article 7.
+
+7.9 Customer Audit Rights. Customer shall have the right, no more than once per calendar year (and additionally as reasonably required following a Security Incident), to audit Provider's Quality Management System, validation documentation, security controls, and compliance with this Agreement. Such audits shall be conducted upon thirty (30) days' prior written notice, during normal business hours, by Customer or by an independent third-party auditor reasonably acceptable to Provider, and shall be conducted in a manner that does not unreasonably interfere with Provider's operations. Customer shall bear its own costs of audit, and the audit shall be subject to confidentiality obligations.
+
+7.10 Data Return and Deletion. Upon expiration or termination of this Agreement (or earlier upon Customer's request following database lock for a particular Clinical Trial), Provider shall, at Customer's election, (a) make Customer Data available for export in a commercially reasonable, machine-readable format, including the GxP Audit Trail, for a period of one hundred twenty (120) days; or (b) permanently delete Customer Data from Provider's production systems within sixty (60) days of expiration or termination, with deletion from backup systems to follow in accordance with Provider's standard backup retention schedule. Upon Customer's written request, Provider shall provide written certification of deletion. Notwithstanding the foregoing, Provider shall retain Customer Data for any longer period required by applicable law or by Customer for purposes of regulatory inspection.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS AND SOURCE CODE ESCROW
+
+8.1 Provider Intellectual Property. As between the Parties, Provider shall retain all right, title, and interest in and to the Platform, the Documentation, the validation methodology (including, without limitation, the structure of the IQ/OQ/PQ protocols), and all related Intellectual Property Rights, including without limitation any modifications, enhancements, derivative works, or improvements thereto, regardless of whether such modifications were created based on suggestions, feedback, or requests from Customer.
+
+8.2 Customer Data. As provided in Article 7, Customer Data is and shall remain the exclusive property of Customer.
+
+8.3 Customer-Specific Configurations. Notwithstanding Section 8.1, configurations, study designs, data dictionaries, edit checks, and other Customer-specific configurations developed by Customer or by Provider on Customer's behalf and embodying Customer's proprietary clinical research methodology shall be deemed Confidential Information of Customer, and Provider shall not use such configurations for the benefit of any third party.
+
+8.4 No Implied Licenses. Except for the limited rights expressly granted in this Agreement, neither Party grants any rights or licenses to the other Party, whether by implication, estoppel, or otherwise, with respect to any of its Intellectual Property Rights.
+
+8.5 Source Code Escrow. Within ninety (90) days after the Effective Date, Provider shall deposit with a mutually agreed independent escrow agent (the "Escrow Agent") a complete and current copy of the source code, build instructions, technical documentation, and any other materials reasonably required to enable a competent third party to independently maintain the Platform (collectively, the "Escrow Materials"). The deposit and release of Escrow Materials shall be governed by a separate three-party Source Code Escrow Agreement among Provider, Customer, and the Escrow Agent. Customer shall be entitled to obtain release of the Escrow Materials upon the occurrence of any of the following release conditions: (a) Provider files a voluntary petition in bankruptcy or has an involuntary petition filed against it that is not dismissed within sixty (60) days; (b) Provider ceases to do business in the ordinary course; (c) Provider materially breaches its support obligations under this Agreement and fails to cure such breach within sixty (60) days of written notice; or (d) Provider ceases to provide commercially reasonable maintenance and support for the Platform. Upon release of the Escrow Materials, Customer shall be granted a non-exclusive, non-transferable, royalty-free license to use the Escrow Materials solely for the internal purpose of maintaining and operating the Platform for Customer's own use.
+
+8.6 Escrow Fees. Provider shall pay all fees of the Escrow Agent for the deposit, maintenance, and verification of the Escrow Materials.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party agrees that it shall (a) hold the other Party's Confidential Information in strict confidence; (b) use the other Party's Confidential Information solely for the purpose of performing its obligations or exercising its rights under this Agreement; (c) not disclose the other Party's Confidential Information to any third party except to its employees, contractors, and advisors who have a legitimate need to know such information and who are bound by written obligations of confidentiality at least as protective as those set forth in this Article 9; and (d) protect the other Party's Confidential Information using the same degree of care that it uses to protect its own confidential information of similar importance, but in no event less than reasonable care.
+
+9.2 Exclusions. The obligations set forth in Section 9.1 shall not apply to information that the Receiving Party can demonstrate (a) was already known to the Receiving Party at the time of disclosure without obligation of confidentiality; (b) was independently developed by the Receiving Party without use of or reference to the Disclosing Party's Confidential Information; (c) was rightfully received by the Receiving Party from a third party without obligation of confidentiality; or (d) is or becomes publicly available through no fault of or breach by the Receiving Party.
+
+9.3 Compelled Disclosure. The Receiving Party may disclose the Disclosing Party's Confidential Information to the extent required by law, regulation, court order, or governmental authority, provided that the Receiving Party (a) gives the Disclosing Party prompt written notice of such requirement, to the extent legally permitted, before making such disclosure; (b) cooperates with the Disclosing Party, at the Disclosing Party's expense, in any reasonable effort to obtain a protective order or other appropriate remedy; and (c) discloses only that portion of Confidential Information that is legally required to be disclosed.
+
+9.4 Survival. The obligations set forth in this Article 9 shall survive any expiration or termination of this Agreement for a period of seven (7) years, except that the obligations with respect to Trial Data, patient information, and trade secrets shall survive in perpetuity or for so long as such information continues to qualify as a trade secret under applicable law.
+
+9.5 Equitable Relief. The Parties acknowledge that any breach of this Article 9 may cause irreparable harm to the Disclosing Party for which monetary damages would be inadequate, and accordingly the Disclosing Party shall be entitled to seek injunctive and other equitable relief without the necessity of proving actual damages or posting bond.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants to the other Party that (a) it is duly organized, validly existing, and in good standing under the laws of the jurisdiction of its formation; (b) it has the full corporate power and authority to enter into this Agreement and to perform its obligations hereunder; (c) the execution, delivery, and performance of this Agreement have been duly authorized by all necessary corporate action; and (d) this Agreement, when executed, constitutes a legal, valid, and binding obligation enforceable against it in accordance with its terms.
+
+10.2 Provider Warranties. Provider represents and warrants that during the Subscription Term: (a) the Platform shall perform substantially in accordance with the Documentation in all material respects; (b) the Platform has been designed and validated to comply with the technical requirements of 21 CFR Part 11; (c) Provider's Quality Management System is designed in accordance with applicable industry standards including GAMP 5; (d) the Platform shall not contain any virus, worm, trojan horse, or other malicious code introduced by Provider; (e) Provider shall provide the Services in a professional and workmanlike manner consistent with generally accepted industry standards for software validation in regulated environments; and (f) Provider has not engaged any individual to perform Services who has been debarred under 21 U.S.C. § 335a or any equivalent provision of law in any other jurisdiction.
+
+10.3 Customer Warranties. Customer represents and warrants that (a) Customer has obtained all necessary consents, permissions, and approvals required to upload Customer Data to the Platform; (b) Customer's use of the Platform shall comply with all applicable laws and regulations, including without limitation HIPAA, 21 CFR Part 50 (informed consent), and Good Clinical Practice; and (c) Customer shall not use the Platform in connection with any Clinical Trial that has not been duly authorized by an Institutional Review Board or equivalent ethics committee.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS ARTICLE 10, THE PLATFORM AND THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE," AND PROVIDER DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Provider Indemnity. Provider shall defend Customer and its officers, directors, employees, and agents (each a "Customer Indemnified Party") against any third-party claim, suit, action, or proceeding (each a "Claim") alleging that Customer's use of the Platform in accordance with this Agreement infringes or misappropriates any Intellectual Property Right of such third party, and Provider shall indemnify each Customer Indemnified Party for any damages, settlement amounts, and reasonable attorneys' fees and costs finally awarded against such Customer Indemnified Party with respect to such Claim. Provider's obligations under this Section 11.1 shall not apply to the extent that the Claim arises out of (a) any modification of the Platform by any party other than Provider; (b) any combination of the Platform with software, hardware, or data not provided by Provider; (c) Customer's use of the Platform in a manner not authorized by this Agreement; or (d) Customer Data.
+
+11.2 Customer Indemnity. Customer shall defend Provider and its officers, directors, employees, and agents (each a "Provider Indemnified Party") against any Claim alleging that (a) any Customer Data infringes or misappropriates the Intellectual Property Rights of any third party; (b) Customer's use of the Platform in violation of this Agreement caused damage to such third party; (c) any Clinical Trial conducted by Customer using the Platform was not duly authorized or was conducted in violation of applicable laws or regulations; or (d) Customer's failure to obtain valid informed consent from Clinical Trial participants. Customer shall indemnify each Provider Indemnified Party for any damages, settlement amounts, and reasonable attorneys' fees and costs finally awarded against such Provider Indemnified Party.
+
+11.3 Indemnification Procedure. The Party seeking indemnification (the "Indemnified Party") shall (a) provide the indemnifying Party (the "Indemnifying Party") with prompt written notice of the Claim; (b) grant the Indemnifying Party sole control over the defense and settlement of the Claim, provided that the Indemnifying Party shall not enter into any settlement that imposes any liability or obligation on the Indemnified Party without the Indemnified Party's prior written consent (which shall not be unreasonably withheld); and (c) provide the Indemnifying Party with all reasonable cooperation, information, and assistance in connection with the defense of the Claim, at the Indemnifying Party's expense.
+
+11.4 IP Claim Mitigation. If the Platform becomes, or in Provider's reasonable opinion is likely to become, the subject of a Claim of infringement or misappropriation, Provider may, at its option and expense, (a) procure for Customer the right to continue using the Platform; (b) modify the Platform to make it non-infringing without materially diminishing its functionality and without compromising its compliance with 21 CFR Part 11; (c) replace the Platform with a non-infringing alternative of substantially equivalent functionality and compliance; or (d) if none of the foregoing is commercially reasonable, terminate this Agreement and refund to Customer the prepaid Subscription Fees corresponding to the unused portion of the then-current Subscription Term.
+
+11.5 Sole Remedy. The provisions of this Article 11 set forth Provider's sole and exclusive liability and Customer's sole and exclusive remedy with respect to any Claim of intellectual property infringement or misappropriation arising out of Customer's use of the Platform.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF SUBSCRIPTION FEES PAID OR PAYABLE BY CUSTOMER TO PROVIDER DURING THE TWENTY-FOUR (24) MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY. The Parties acknowledge that this 24-month cap is higher than typical software-as-a-service agreements and reflects the heightened risks associated with the use of the Platform in regulated clinical research.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOST REVENUE, LOSS OF GOODWILL, OR LOSS OF DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+12.3 Exceptions to Limitations. The limitations set forth in Sections 12.1 and 12.2 shall not apply to (a) Provider's obligations under Article 11 (Indemnification); (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Customer Data, Privacy, and Regulatory Compliance), including without limitation any breach of Provider's obligations regarding Trial Data or Personal Data; (d) Customer's payment obligations under Article 4; (e) any liability arising from a Party's gross negligence, willful misconduct, or fraud; (f) any liability arising from Provider's breach of Section 7.3 (21 CFR Part 11 Compliance); or (g) any liability that, under applicable law, cannot be limited or excluded.
+
+12.4 Basis of the Bargain. The Parties acknowledge that the limitations of liability set forth in this Article 12 are an essential element of the bargain between the Parties.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Material Breach. Either Party may terminate this Agreement upon thirty (30) days' prior written notice to the other Party if the other Party commits a material breach of this Agreement and fails to cure such breach within the thirty (30) day notice period. In the case of a material breach of Article 7 by Provider, Customer may terminate immediately without cure period upon notice.
+
+13.2 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice to the other Party if the other Party (a) becomes insolvent or unable to pay its debts as they become due; (b) makes a general assignment for the benefit of creditors; (c) files a voluntary petition in bankruptcy; (d) has an involuntary petition in bankruptcy filed against it that is not dismissed within sixty (60) days; or (e) ceases to do business in the ordinary course.
+
+13.3 Termination for Loss of Validation. Customer may terminate this Agreement immediately upon written notice if Provider materially fails to maintain the Platform in a validated state suitable for use in regulated clinical research, and such failure is not cured within thirty (30) days of written notice.
+
+13.4 Termination for Convenience. Customer may terminate this Agreement for convenience by providing Provider with at least {{NOTICE_DAYS}} days' prior written notice, with such termination to take effect no earlier than the second anniversary of the Effective Date. Termination for convenience shall not entitle Customer to a refund of any prepaid Subscription Fees corresponding to the period prior to the effective date of termination.
+
+13.5 Effects of Termination. Upon expiration or termination of this Agreement: (a) all rights and licenses granted to Customer hereunder shall cease, except to the extent Customer has elected to continue Subscription pursuant to Section 5.3; (b) Customer shall pay Provider all Subscription Fees that have accrued through the effective date of termination; (c) each Party shall return or destroy the other Party's Confidential Information in accordance with this Agreement; (d) Provider shall make Customer Data available for export or shall delete Customer Data in accordance with Section 7.10; and (e) the provisions of this Agreement that by their nature are intended to survive termination shall so survive.
+
+13.6 Transition Assistance. For a period of up to {{NOTICE_DAYS}} days following the effective date of expiration or termination of this Agreement, Provider shall provide Customer with reasonable transition assistance, including the export of Customer Data in machine-readable format, transfer of validation documentation, and reasonable consultation regarding the migration of in-progress Clinical Trials to a successor system. Such transition assistance shall be provided at Provider's then-current professional services rates, except that the export of Customer Data and validation documentation in standard formats shall be provided at no additional charge.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to its conflict of laws principles or the United Nations Convention on Contracts for the International Sale of Goods.
+
+14.2 Informal Dispute Resolution. Before initiating any litigation, the Parties agree to attempt in good faith to resolve any dispute arising out of or relating to this Agreement through direct negotiation between executives of each Party with authority to resolve the dispute. If the dispute is not resolved within thirty (30) days after written notice from one Party to the other identifying the dispute and requesting negotiation, either Party may proceed to litigation in accordance with Section 14.3.
+
+14.3 Venue and Jurisdiction. The Parties agree that any action, suit, or proceeding arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, and each Party hereby irrevocably consents to the personal jurisdiction of such courts.
+
+14.4 Waiver of Jury Trial. EACH PARTY HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+14.5 Attorneys' Fees. In any action to enforce this Agreement, the prevailing Party shall be entitled to recover its reasonable attorneys' fees and costs.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement, together with any exhibits, schedules, Statements of Work, and Order Forms attached hereto or executed by the Parties referencing this Agreement, constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written, between the Parties.
+
+15.2 Amendments. No amendment, modification, or supplement to this Agreement shall be effective unless set forth in a writing executed by authorized representatives of both Parties.
+
+15.3 Severability. If any provision of this Agreement is held to be invalid, illegal, or unenforceable by a court of competent jurisdiction, such provision shall be modified to the minimum extent necessary to render it valid and enforceable, or, if no such modification is possible, severed from this Agreement, and the remaining provisions of this Agreement shall continue in full force and effect.
+
+15.4 Waiver. No failure or delay by either Party in exercising any right, power, or privilege under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise thereof preclude any other or further exercise thereof. Any waiver of a provision of this Agreement shall be effective only if set forth in a writing signed by the waiving Party.
+
+15.5 Notices. All notices required or permitted to be given under this Agreement shall be in writing and shall be deemed given (a) when delivered personally; (b) when sent by certified or registered mail, return receipt requested, postage prepaid; (c) when sent by nationally recognized overnight courier with confirmation of delivery; or (d) when sent by email with confirmation of receipt to the addresses set forth below or such other address as a Party may designate by notice hereunder.
+
+If to Provider: {{PROVIDER_NAME}}, {{PROVIDER_ADDRESS}}, Attention: General Counsel.
+
+If to Customer: {{CUSTOMER_NAME}}, {{CUSTOMER_ADDRESS}}, Attention: General Counsel.
+
+15.6 Assignment. Neither Party may assign this Agreement, in whole or in part, without the prior written consent of the other Party, provided that either Party may assign this Agreement without consent in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets, provided that the assignee assumes all of the assigning Party's obligations under this Agreement and is not a competitor of the non-assigning Party.
+
+15.7 Force Majeure. Neither Party shall be liable for any failure or delay in performing its obligations under this Agreement (other than payment obligations) to the extent that such failure or delay is caused by a Force Majeure Event. The Party whose performance is affected by a Force Majeure Event shall promptly notify the other Party and shall use commercially reasonable efforts to resume performance as soon as practicable.
+
+15.8 Independent Contractors. The Parties are independent contractors. Nothing in this Agreement shall be construed as creating a partnership, joint venture, agency, employment, or other similar relationship between the Parties.
+
+15.9 No Third-Party Beneficiaries. This Agreement is for the sole benefit of the Parties and their respective successors and permitted assigns. Nothing in this Agreement, express or implied, is intended to confer upon any other person or entity any legal or equitable right, benefit, or remedy of any nature whatsoever.
+
+15.10 Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. Counterparts may be exchanged by electronic transmission.
+
+15.11 Headings. The headings of Articles and Sections in this Agreement are for convenience of reference only and shall not affect the interpretation of this Agreement.
+
+15.12 Construction. The Parties acknowledge that this Agreement has been negotiated by both Parties with the benefit of legal counsel, and any rule of construction to the effect that ambiguities are to be resolved against the drafting Party shall not apply to the interpretation of this Agreement.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date first written above.
+
+PHARMATRACK CLINICAL DATA SYSTEMS, INC.
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+MERIDIAN PHARMACEUTICALS, INC.
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:

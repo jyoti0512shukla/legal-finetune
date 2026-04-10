@@ -1,0 +1,53 @@
+{
+  "source_file": "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "ShieldNet Cyber Security, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_NAME": "GlobalBank Holdings, N.A.",
+    "CUSTOMER_STATE": "United States",
+    "CUSTOMER_ENTITY_TYPE": "national banking association",
+    "EFFECTIVE_DATE": "April 10, 2024",
+    "GOVERNING_LAW_STATE": "New York",
+    "VENUE_COUNTY": "New York County",
+    "VENUE_CITY": "New York",
+    "ANNUAL_FEE_AMOUNT": "USD 1,500,000",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "thirty-six (36)"
+  },
+  "replacements_made": {
+    "PROVIDER_NAME": {
+      "original": "ShieldNet Cyber Security, Inc.",
+      "occurrences": 3
+    },
+    "CUSTOMER_NAME": {
+      "original": "GlobalBank Holdings, N.A.",
+      "occurrences": 3
+    },
+    "LIABILITY_CAP_MONTHS": {
+      "original": "thirty-six (36)",
+      "occurrences": 1
+    },
+    "CUSTOMER_STATE": {
+      "original": "United States",
+      "occurrences": 2
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 1
+    },
+    "TERM_YEARS": {
+      "original": "three (3)",
+      "occurrences": 2
+    },
+    "PROVIDER_STATE": {
+      "original": "Delaware",
+      "occurrences": 1
+    },
+    "GOVERNING_LAW_STATE": {
+      "original": "New York",
+      "occurrences": 11
+    }
+  },
+  "total_substitutions": 24
+}

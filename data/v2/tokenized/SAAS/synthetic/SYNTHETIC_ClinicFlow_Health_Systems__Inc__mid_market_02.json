@@ -1,0 +1,53 @@
+{
+  "source_file": "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "ClinicFlow Health Systems, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_NAME": "Regional Medical Group, P.C.",
+    "CUSTOMER_STATE": "New York",
+    "CUSTOMER_ENTITY_TYPE": "professional corporation",
+    "EFFECTIVE_DATE": "January 1, 2025",
+    "GOVERNING_LAW_STATE": "New York",
+    "VENUE_COUNTY": "New York County",
+    "VENUE_CITY": "New York",
+    "ANNUAL_FEE_AMOUNT": "USD 96,000",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twenty-four (24)"
+  },
+  "replacements_made": {
+    "PROVIDER_NAME": {
+      "original": "ClinicFlow Health Systems, Inc.",
+      "occurrences": 2
+    },
+    "CUSTOMER_NAME": {
+      "original": "Regional Medical Group, P.C.",
+      "occurrences": 2
+    },
+    "CUSTOMER_ENTITY_TYPE": {
+      "original": "professional corporation",
+      "occurrences": 1
+    },
+    "LIABILITY_CAP_MONTHS": {
+      "original": "twenty-four (24)",
+      "occurrences": 1
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 1
+    },
+    "PROVIDER_STATE": {
+      "original": "Delaware",
+      "occurrences": 1
+    },
+    "CUSTOMER_STATE": {
+      "original": "New York",
+      "occurrences": 12
+    },
+    "TERM_YEARS": {
+      "original": "two (2)",
+      "occurrences": 1
+    }
+  },
+  "total_substitutions": 21
+}

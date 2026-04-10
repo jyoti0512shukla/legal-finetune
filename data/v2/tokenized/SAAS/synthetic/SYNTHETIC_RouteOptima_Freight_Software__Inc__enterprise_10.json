@@ -1,0 +1,49 @@
+{
+  "source_file": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "RouteOptima Freight Software, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_NAME": "Lonestar Trucking Holdings, Inc.",
+    "CUSTOMER_STATE": "Texas",
+    "CUSTOMER_ENTITY_TYPE": "corporation",
+    "EFFECTIVE_DATE": "October 1, 2024",
+    "GOVERNING_LAW_STATE": "Texas",
+    "VENUE_COUNTY": "Dallas County",
+    "VENUE_CITY": "Dallas",
+    "ANNUAL_FEE_AMOUNT": "USD 360,000",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "six (6)"
+  },
+  "replacements_made": {
+    "PROVIDER_NAME": {
+      "original": "RouteOptima Freight Software, Inc.",
+      "occurrences": 2
+    },
+    "CUSTOMER_NAME": {
+      "original": "Lonestar Trucking Holdings, Inc.",
+      "occurrences": 2
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 2
+    },
+    "TERM_YEARS": {
+      "original": "three (3)",
+      "occurrences": 1
+    },
+    "LIABILITY_CAP_MONTHS": {
+      "original": "six (6)",
+      "occurrences": 1
+    },
+    "VENUE_CITY": {
+      "original": "Dallas",
+      "occurrences": 5
+    },
+    "CUSTOMER_STATE": {
+      "original": "Texas",
+      "occurrences": 8
+    }
+  },
+  "total_substitutions": 21
+}

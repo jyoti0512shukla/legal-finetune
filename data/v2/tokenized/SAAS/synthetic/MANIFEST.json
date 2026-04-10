@@ -1,0 +1,82 @@
+{
+  "type": "SAAS",
+  "processed": 15,
+  "skipped": 0,
+  "contracts": [
+    {
+      "contract": "CLAUDE_LearnPath_Academy_Inc_mid_market_05",
+      "placeholders": 14,
+      "substitutions": 47
+    },
+    {
+      "contract": "CLAUDE_PharmaTrack_Clinical_enterprise_12",
+      "placeholders": 13,
+      "substitutions": 26
+    },
+    {
+      "contract": "CLAUDE_ContractIQ_LegalTech_smb_13",
+      "placeholders": 13,
+      "substitutions": 32
+    },
+    {
+      "contract": "CLAUDE_ClaimsFlow_Insurance_mid_market_14",
+      "placeholders": 14,
+      "substitutions": 26
+    },
+    {
+      "contract": "CLAUDE_MenuMaster_RestaurantPOS_smb_15",
+      "placeholders": 14,
+      "substitutions": 39
+    },
+    {
+      "contract": "CLAUDE_NorthernEdge_Canada_enterprise_16",
+      "placeholders": 14,
+      "substitutions": 42
+    },
+    {
+      "contract": "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01",
+      "placeholders": 11,
+      "substitutions": 22
+    },
+    {
+      "contract": "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02",
+      "placeholders": 8,
+      "substitutions": 21
+    },
+    {
+      "contract": "SYNTHETIC_LedgerCore_Financial_Software__Inc__enterprise_03",
+      "placeholders": 9,
+      "substitutions": 18
+    },
+    {
+      "contract": "SYNTHETIC_BuildKit_Cloud__Inc__smb_04",
+      "placeholders": 9,
+      "substitutions": 21
+    },
+    {
+      "contract": "SYNTHETIC_FactoryMind_Industrial_IoT__Inc__enterprise_06",
+      "placeholders": 9,
+      "substitutions": 23
+    },
+    {
+      "contract": "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07",
+      "placeholders": 8,
+      "substitutions": 21
+    },
+    {
+      "contract": "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08",
+      "placeholders": 8,
+      "substitutions": 24
+    },
+    {
+      "contract": "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09",
+      "placeholders": 9,
+      "substitutions": 26
+    },
+    {
+      "contract": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10",
+      "placeholders": 7,
+      "substitutions": 21
+    }
+  ]
+}
