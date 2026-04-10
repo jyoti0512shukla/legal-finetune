@@ -1,0 +1,1779 @@
+EX-10.1
+
+2
+
+amk-ex101_93.htm
+
+EX-10.1
+
+amk-ex101_93.htm
+
+Exhibit 10.1
+
+ 
+
+The redacted information has been excluded
+
+because it is both (i) not material and (ii) of the type of information
+
+that the registrant customarily treats as private and confidential.
+
+ 
+
+BETA Services
+
+ 
+
+MASTER SUBSCRIPTION AGREEMENT
+
+ 
+
+This BETA Services Master Subscription Agreement (this “
+Agreement
+”) is entered into as of this 21
+st
+ 
+day of May, 2020 (the “Agreement Date” by and between Refinitiv US LLC, 3 Times Square, New York, NY 10036, (“
+RUS
+”) for its BETA System services primarily located at, 350 North Sunny Slope Road, Brookfield, WI 53005,
+ and AssetMark Financial Holdings, Inc. (“
+AssetMark
+”) with an address at 1655 Grant Street, Concord, CA 94520. As used herein, AssetMark includes AssetMark Financial Holdings, Inc. and its Affiliates. 
+
+ 
+
+WHEREAS
+, RUS owns certain proprietary computer programs. 
+The BETA Services, consisting of all of the services provided hereunder by RUS pursuant to this Agreement are provided through the BETA system which includes (i) back office processing support for securities brokerage firms, (ii) front office integration and accessibility to the back office processing, (iii) near real time access to the back office application program through an interface (API), (iv) data file delivery of back office data, (vi) provides an open API environment to BETA’s order management system, and (vii) the ability to receive selected, near real-time, BETA back office transaction messages. BETA Services and other optional subsequently provided services are collectively
+ with any successor computer programs provided to AssetMark by RUS pursuant to this Agreement, the “
+BETA System
+”;
+
+ 
+
+WHEREAS
+, RUS desires to provide, and AssetMark desires to obtain from RUS, certain development services, hosting services and the right to use and permit AssetMark to use the BETA System and the BETA Services (as defined below) in accordance with the terms and subject to the conditions of this Agreement; 
+
+ 
+
+NOW, THEREFORE
+, in consideration of the mutual promises and covenants exchanged herein, BETA and AssetMark agree as follows:
+
+ 
+
+1.
+Purpose; Applicability; Definitions
+. 
+
+ 
+
+(a)
+Purpose
+.  The purpose of this Agreement is to set forth the terms and conditions governing the mutual rights, duties and obligations of the parties hereto with respect to the BETA Services to be provided by RUS to AssetMark.  
+
+ 
+
+(b)
+Applicability
+.  The terms and conditions specifically applicable to the BETA Service are set forth herein, and not to other services that may be provided by RUS to AssetMark in the future.
+
+ 
+
+(c)
+Definitions
+.  Terms used with initial capital letters herein shall have the meanings ascribed to them in the body of this Agreement, including Section 24.
+
+ 
+
+2.
+Entities Covered
+.  
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+(a)
+General
+. Subject to the terms and upon the conditions of this Agreement, RUS hereby grants to AssetMark a non-exclusive, nontransferable (except as permitted herein), non-sub-licensable, royalty-free, limited right and license to use the BETA Services and the Documentation, and a license to prepare derivative works of the Documentation, in each case solely for processing security transactions over the BETA System
+.
+
+ 
+
+(b)
+Affiliates
+. For purposes of this Agreement, the term “
+Affiliate
+” means, with respect to any entity, any other entity Controlling, Controlled by or under common Control with such entity, and the term “
+Control
+” and its derivatives mean, with regard to any entity, the legal, beneficial or equitable ownership, directly or indirectly, of fifty percent (50%) or more of the capital stock (or other ownership interest, if not a corporation) of such entity ordinarily having voting rights. 
+
+ 
+
+(c)
+Divested Entities
+.  If requested by AssetMark, RUS shall provide the BETA Services to a divested AssetMark entity (an “
+AssetMark Entity
+”) which is processed as part of the same system as AssetMark (but with segregated data files) for up to twelve (12) months after such entity is divested by AssetMark on the same terms and conditions as in this Agreement; provided, however, that the divested entity is responsible for any increased costs incurred by RUS to provide the BETA Services to the divested entity as a then-separate entity.
+
+ 
+
+3.
+BETA Services Provided
+.
+
+ 
+
+(a)
+Beta Services
+. RUS shall provide AssetMark with the BETA System and services that are set forth in this Agreement and those that are set forth, together with their charges, on Exhibit A attached hereto (the “
+BETA Services
+”).
+
+ 
+
+(b)
+Maintenance Services; Enhancements.
+ Maintenance services (e.g., bug and break-fix service packs) and, subject to the other terms and conditions of this Agreement, general enhancements to the BETA System, shall be made available to AssetMark by RUS at no additional cost.  Any other new features or services that may be developed by RUS that are optional services and only offered to RUS clients as an optional service during the term of this Agreement (the “
+Chargeable Enhancements
+”) shall be made available to AssetMark at the prices agreed to by the parties, and upon such other terms as BETA may reasonably deem appropriate; provided, however, that RUS may only charge AssetMark for such Chargeable Enhancements if it generally charges its other customers for enhancements of the same nature, and RUS may only charge AssetMark in the same manner it charges the rest of its customer base, generally.  All enhancements to the BETA System, and any new features or services introduced by RUS, shall remain the exclusive proprietary property of RUS.
+
+ 
+
+(c)
+Performance Standards
+. Provided AssetMark adheres to RUS’s reasonable written recommendations regarding BETA System use and equipment configuration, in addition to the requirements set forth in this Agreement and in any Schedule, RUS shall provide the BETA Services in accordance with the service level standards set forth in the Exhibit B hereto (each, a “
+Performance Standard
+”). Notwithstanding anything to the contrary contained herein, the Performance Standards presume that no act or omission of AssetMark has caused BETA to fail to meet an applicable Performance Standard. RUS shall not be liable to AssetMark to the extent that a breach by AssetMark of its obligations under this Agreement results in RUS’s failure to perform 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+2
+
+the BETA Services in accordance with 
+such affected
+ Performance Standard.  Additionally, 
+the measurement and reporting of Performance Standards will be suspended during the period of 
+a Force Majeure Event.
+
+ 
+
+(i)
+Failure to Meet Performance Standards
+.  If RUS fails to meet a Performance Standard, RUS shall promptly: (A) investigate, assemble and where possible using commercially reasonable efforts preserve pertinent information with respect to such failure, and report on the causes of such failure, including performing a root cause analysis of such failure as specified in Exhibit B; (B) minimize the impact of such failure by initiating remediation of such failure in accordance with the Performance Standard requirements; and (C) take reasonable preventive measures so that the failure does not recur.
+
+ 
+
+(ii)
+Performance Credits
+.  In the event that RUS fails to meet a Performance Standard as set forth in Exhibit B and this Section 3(c), then in addition to the right to terminate set forth in Section 9(b), if applicable, AssetMark shall be entitled to (A) recover the credits specified in Exhibit B not to exceed the then-applicable Maximum Fees at Risk as specified in Exhibit B (the “
+Performance Credits
+”) or (B) decline such credits and seek any other remedy to which it may be entitled under this Agreement
+
+ 
+
+(iii)
+Reports
+.  RUS shall monitor its performance of the BETA Services.  RUS shall provide to AssetMark, by the fifteenth (15
+th
+) day after the end of each month during the Term, monthly reporting on RUS’s performance against the Performance Standards, and such other reports as the parties may mutually agree are reasonably necessary or desirable from time to time.
+
+ 
+
+(d)
+Third Party Embedded Code
+.  To the extent that the BETA System contains any embedded, third-party code, the terms of this Agreement shall apply to such third-party code and AssetMark’s use of the BETA System, including such third-party code, will be governed by this Agreement and not any other terms. For the purposes of this Section 3(d), embedded code does not include interfaces to any third-party software or third-party systems.  
+
+ 
+
+(e)
+BETA User Committee
+.  As a user of the BETA System, AssetMark shall be entitled to membership in the BETA User Committee (the “
+BUC
+”) and shall have the option to participate in BUC activities.  BUC activities provide RUS customers with opportunities for input about ideas for changes and improvements to the BETA System and the BETA Services and to receive communications about the status of new developments, forthcoming changes and other matters of common concern to users of the BETA System and the BETA Services.
+
+ 
+
+(f)
+Requested Changes
+.  During the Term, the AssetMark Entities may request that RUS make a change to the BETA Services or add functionality to the BETA Services (each, a “
+Change Request
+”).  As long as such changes or new functionality is not a result of RUS’s obligation to evolve the BETA Services over the Term (as described herein, including Section 25(n)), AssetMark will pay RUS the agreed-upon professional services rate to develop such change or new functionality which fees will be agreed a memorialized in a writing signed by both parties prior to any work commencing. RUS shall provide a good-faith estimate for the development costs related to the same for AssetMark’s consideration.
+
+ 
+
+(g)
+Change Control Principles
+.
+
+ 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+3
+
+ 
+
+RUS shall be responsible for all changes to the BETA Services.  RUS s
+hall inform AssetMark of changes that are being applied to the BETA System through its standard BETA System communication process and by direct contact by the RUS relationship manager for AssetMark.
+
+ 
+
+(h)
+Acceptance
+.
+
+ 
+
+(i)
+Notice and Acceptance Testing Commencement
+.  
+Following such time as RUS has (A) completed its development of an AssetMark requested modification and (B) successfully completed its internal testing and review of such modification with no material defect or failure being found, RUS shall make that modification available to AssetMark for AssetMark’s user acceptance testing in a test environment.  The date on which RUS provides AssetMark with such written notice shall be referred to as the “
+Acceptance Test Start Date
+.”
+
+ 
+
+(ii)
+All AssetMark-requested enhancements (including each modification update and upgrade that RUS makes available to AssetMark hereunder) shall be subject to acceptance by AssetMark to ensure that they satisfy the applicable specifications and requirements and do not otherwise disrupt AssetMark’s use of the BETA System. AssetMark shall have not more than thirty (30) days after the Acceptance Test Start Date, or such other period to which the parties otherwise agree (the “
+Test Period
+”), to perform, or have performed, whatever acceptance testing AssetMark determines is necessary or desirable. AssetMark will be deemed to have accepted such enhancement unless AssetMark provides notice of non-acceptance to RUS during or promptly following the end the Test Period and specifies in reasonable detail the basis for such non-acceptance.  Upon receipt of such notice from AssetMark and provided that any non-conformity is actually a defect and not a modification to t
+he original request, RUS shall, at its sole cost and expense, promptly cure the defects and resubmit the AssetMark-requested enhancement (or portions thereof) for evaluation and retesting by AssetMark.  In the event any material defect remains uncured after sixty (60) days, AssetMark may, in its discretion, (i) grant additional time for the cure or (ii) terminate the SOW for such modification, without payment of termination charge or penalty, on written notice to RUS.  The acceptance process above will apply to any subsequent submission of an AssetMark-requested enhancement by RUS to AssetMark.
+
+ 
+
+(i)
+Background Checks
+.
+
+ 
+
+(i)
+RUS agrees to perform background checks (as described in more detail below) on all of its employees assigned to work on the BETA System generally and AssetMark-specific matters under this Agreement.  RUS also is responsible for assuring that any contract personnel utilized to perform AssetMark work under this Agreement undergo such background checks.
+
+ 
+
+(ii)
+Each of RUS’s employees and contract personnel assigned to perform work for AssetMark under this Agreement must undergo criminal background checks in advance of such assignment to (including any performance of such work on behalf of) AssetMark.  The background checks shall, subject to applicable Law, include criminal records checks for all misdemeanor and felony convictions for offenses based on dishonesty and/or of a monetary or financial nature, including but not limited to, theft, fraud (credit card, bad checks and the like), shoplifting, forgery, counterfeiting, embezzlement or identity theft, or any other misdemeanor or felony conviction related to employment, in all counties where the individual has lived during at least the seven (7) years prior to such assignment to AssetMark. 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+4
+
+ 
+
+(iii)
+RUS agrees to assign to the performance of BETA Services only individuals for whom any background checks required under this Agreement reveal no misdemeanor or felony convictions of any type identified above, regardless of whether adjudication has been withheld to the extent permitted by applicable Law.
+
+ 
+
+(iv)
+In addition, AssetMark may, at any time and at AssetMark’s sole expense, require those RUS employees, contractors and agents that are to visit AssetMark’s premises for any period of time (each, and “
+On-Premises Representative
+”) to be fingerprinted for purposes of conducting a fingerprint check, which check AssetMark may arrange and shall notify RUS in advance of such person’s arrival at AssetMark’s facility.  RUS acknowledges and agrees that AssetMark shall have the right to exclude, or immediately remove, from AssetMark’s premises, and require that RUS immediately replace with a suitable and qualified representative, any On-Premises Representative who fails to meet the background investigation report criteria specified above, who refuses to be fingerprinted or whose results of the fingerprint check do not satisfy any requirements as determined by AssetMark consistent with applicable law.  RUS shall provide reasonable cooperation and information to AssetMark, at AssetMark’s request, in connection with AssetMark’s performance of any investigation and fingerprint check.  AssetMark shall treat the results of such background investigations and fingerprint checks as RUS’s Confidential Information subject to the provisions hereof.  Further, AssetMark shall use information obtained from the background investigations and the fingerprint checks solely for the purposes of approving or disapproving the assignment of any RUS employees, contractors and agents hereunder.
+
+ 
+
+(v)
+RUS Employees, Contractors and Agents
+.  RUS agrees to advise 
+RUS employees, contractors and agents
+ that all AssetMark related information they may obtain in the course of providing the BETA Services is AssetMark’s Confidential Information and also agrees that any violation of this Agreement by any such 
+RUS employee, contractor or agent
+ shall constitute a violation of this Agreement by RUS.  
+RUS employees, contractors and agents
+ are subject to RUS’s Confidentiality Policy and are required to maintain the Confidential Information of RUS and its clients.  While on AssetMark premises, RUS and 
+RUS’s employees, contractors and agents
+ shall (A) comply with the reasonable requests and standard rules and regulations of AssetMark regarding safety and health, personal and professional conduct (including adhering to general safety practices or procedures) generally applicable to such AssetMark premises (provided that AssetMark notifies RUS of such rules and regulations) and (B) otherwise conduct themselves in a professional and businesslike manner.  RUS shall cause 
+RUS employees, contractors and agents
+ having access to AssetMark Confidential Information to maintain and enforce the confidentiality provisions of this Agreement.  If AssetMark notifies RUS that any 
+RUS employee, contractor or agent
+ is not conducting himself or herself in accordance with this Agreement, RUS shall promptly (1) investigate the matter and take appropriate action which may include (i) removing the applicable person from providing services for AssetMark and providing AssetMark with prompt notice of such removal and (ii) replacing the applicable person with a similarly qualified individual, or (2) take other appropriate disciplinary action to prevent a recurrence of such conduct.  In the event of a second violation of this Agreement by a particular 
+RUS employee, contractor or agent
+, RUS shall promptly remove permanently the individual from providing services for AssetMark.
+
+ 
+
+4.
+Capacity Planning; Equipment and Infrastructure
+.  RUS, and not AssetMark, shall be responsible for all infrastructure costs associated with RUS’s obligation to maintain then-current 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+5
+
+trade and account volumes.  
+AssetMark
+ shall be responsible for obtaining, installing at its premises, and maintaining all equipment and hardware, including telecommunications equipment, necessary for using the BETA 
+S
+ystem.  
+
+ 
+
+5.
+AssetMark Data
+.
+
+ 
+
+(a)
+Supply of Data
+. AssetMark will timely supply RUS, in a form reasonably acceptable to RUS, with all data necessary for RUS to perform the ongoing BETA Services to be provided hereunder.  It is the sole responsibility of AssetMark to ensure the completeness and accuracy of such data.
+
+ 
+
+(b)
+Ownership of Data
+. RUS acknowledges that all records, data, files and other input material relating to any AssetMark Entity and its and their clients, advisors, and employees (“
+AssetMark Data
+”) are the sole and exclusive property of AssetMark and are part of Client Materials.  AssetMark grants RUS a non-exclusive, non-transferable (except as expressly permitted herein), terminable at-will license to use the AssetMark Materials solely as necessary to perform this Agreement for AssetMark’s benefit.  Client Materials are deemed Confidential Information of AssetMark.
+
+ 
+
+(c)
+Data Handling
+. RUS (i) shall not sell, assign, lease, or otherwise disclose to any third party, or share with any third party except with respect to the processing of AssetMark Data in accordance with this Agreement or at the direction of AssetMark, or commercially exploit for itself or on any third party’s behalf, any AssetMark customer, or employee personal data and (ii) with respect to such Data shall at all times comply with the California Consumer Privacy Act of 2018 (and as it may be subsequently updated, modified, superseded, or replaced).
+
+ 
+
+6.
+Charges.
+
+ 
+
+(a)
+AssetMark shall pay for BETA Services in accordance with Exhibit A attached hereto and as may be adjusted as provided herein, and Exhibit A sets forth all of the fees that RUS is entitled to charge AssetMark under this Agreement. Charges for any partial month of service shall be prorated on the basis of a thirty (30) day month.  
+
+ 
+
+(b)
+Invoicing and Payment
+.  RUS shall invoice AssetMark monthly in arrears by electronic invoice for all applicable charges.  Except for the Conversion Period charges, no invoice shall include estimated charges, but only actual charges.  If payment of undisputed amounts is not received by RUS within thirty (30) days after the receipt by AssetMark of the RUS electronic transmission of the invoice, RUS shall provide AssetMark written notice of the same.  If AssetMark does not pay any undisputed amount owed to RUS within five (5) days after the date such notice is deemed given pursuant to Section 23(b), AssetMark agrees to pay RUS interest on the unpaid and undisputed balance at the rate of one percent (1%) per annum from the date of electronic transmission of the invoice until paid in full.  
+
+ 
+
+(c)
+Taxes.
+ All charges shall be exclusive of any federal, state or local sales, use, excise, 
+ad
+ 
+valorem
+ or personal property taxes levied, or any fines, forfeitures or penalties assessed against AssetMark (and not RUS) in connection therewith, as a result of this Agreement.  Any such taxes which may be applicable will be paid by AssetMark or by RUS for AssetMark’s account, in which case AssetMark shall reimburse RUS for amounts so paid.
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+6
+
+ 
+
+ 
+
+(i)
+Party’s Own Taxes
+.  AssetMark and RUS shall each bear sole responsibility for all taxes, assessments, personal property taxes, personnel taxes, and other 
+ad valorem 
+levies on each party’s respective owned and leased) except where otherwise expressly provided in this Agreement.
+
+ 
+
+(ii)
+Tax Indemnity
+.  Except where RUS acts as a purchasing agent hereunder with respect to specific BETA Services provided to AssetMark hereunder, RUS shall be responsible for, and shall hold AssetMark harmless from, any sales, use, excise, value-added, gross receipts, services, consumption and other taxes and duties payable by RUS on any and all goods and/or services used or consumed by RUS in providing the BETA Services hereunder, where the tax is imposed on RUS’s acquisition or use of such goods or services and the amount of tax is measured by RUS’s costs in acquiring such goods or services.
+
+ 
+
+(iii)
+Cooperation of the Parties
+.  AssetMark and RUS shall reasonably cooperate with each other to accurately determine 
+the respective liability of AssetMark and RUS for any taxes, or penalties and interest related to the BETA Services and products covered by this Agreement 
+and to minimize such liability in the aggregate to the extent legally permissible.  Each party shall provide and make available to the other party any resale certificates, information regarding out-of-state sales or use of equipment, materials or services, and any other exemption certificates or information requested by a party.
+
+ 
+
+(d)
+Utilities and Expenses
+.  All electrical utility service at AssetMark’s offices shall be paid by AssetMark.  RUS shall arrange for the installation of all telecommunications services necessary for AssetMark’s use of the BETA System and the charges for such telecommunications services will be passed through to and paid by AssetMark. All such activities shall be reflected in a writing signed by both parties.  Any charges for transportation, lodging and subsistence during travel incurred by RUS shall be reimbursed only if authorized in advance by AssetMark.
+
+ 
+
+8.
+Term of the Agreement
+.  This Agreement will be effective on the Agreement Date and the term of the Agreement shall commence on the Effective Date and, unless earlier terminated as permitted herein, will terminate ten years following the Effective Date (the “
+Term
+”).  The “Effective Date” means and commences on the first trade month of AssetMark on the BETA System. 
+
+ 
+
+9.
+Termination
+.   The following termination rights shall apply to this Agreement:
+
+ 
+
+a)
+For Convenience
+.  At any time after the initial five (5) years from the Effective Date, the Agreement may be terminated by AssetMark for convenience upon one-hundred eighty (180) days’ prior written notice to RUS during the Term provided that AssetMark pays the applicable termination for convenience fees for any such termination set forth below.  If AssetMark terminates the Agreement for convenience, AssetMark will be obligated for seventy-five percent (75%) of the BETA Processing Monthly Fees for the remaining of the term, payable upon termination. Such payment shall constitute AssetMark’s sole and exclusive liability and shall be RUS’ sole and exclusive remedy for such termination.
+
+ 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+7
+
+ 
+
+b)
+For Chronic Performance Standard Breach
+. This Agreement may be terminated by AssetMark upon thirty (30) days’ prior written notice to RUS for cause for Chronic Performance Standard Breach (as defined in Exhibit B) by RUS, regardless of the payment of Performance Credits for such failures.
+
+ 
+
+c)
+For Material Breach by RUS
+. This Agreement may also be terminated by AssetMark upon written notice to RUS for cause for material breach by RUS to meet its obligations under this Agreement, but only to the extent such failure is not remedied by RUS within thirty (30) days after receipt of written notice from AssetMark notifying RUS of such failure.
+
+ 
+
+d)
+For Material Breach by AssetMark
+. This Agreement may be terminated by RUS upon written notice to AssetMark for AssetMark’s breach of Section 15 or 18 of this Agreement or failure to pay undisputed fees when due, but only to the extent such failure is not remedied by AssetMark within thirty (30) days after written notice is given by RUS to AssetMark of such failure.
+
+ 
+
+10.
+Transition Services
+. After notice of termination or non-renewal by AssetMark, RUS shall continue to provide the BETA Services and shall cooperate fully with AssetMark in effecting an efficient and complete transition of the BETA Services to AssetMark or another services provider, such cooperation to include transfer of any and all AssetMark Data (except RUS may retain a copy to the extent that the AssetMark Data resides on the RUS’s backup, disaster recovery or business continuity systems and is not generally accessible or RUS is obligated by applicable Law or industry or governmental regulations to retain such Confidential Information), which shall include all records, files, information and procedures relating to the BETA Services and reasonable opportunities to discuss the BETA Services with appropriate employees of RUS and such other reasonable transition services as AssetMark shall request (collectively, the “
+Transition Services
+”).  RUS shall provide the Transition Services based on the rates set forth in Exhibit A for any additional resources required to provide the Transition Services.  AssetMark shall pay the charges for de-conversion set forth in Exhibit A and other fees for Transition Services as agreed by the parties. The Transition Services will be provided commencing upon notice of termination or non-renewal by AssetMark, as applicable, and shall continue to be provided by BETA at AssetMark’s request until eighteen (18) months after termination.  After the completion of the provision of the Transition Services by RUS, RUS shall, if requested and paid for by AssetMark, retain a copy of AssetMark’s and its Affiliates’ transaction data until such time as AssetMark sends a request for destruction of the same, provided that RUS shall provide inquiry only services for the period after de-conversion.  Upon the completion of such destruction, RUS shall send AssetMark a written and certification of the completion of the same.
+
+ 
+
+11.
+Parties’ Responsibility to Comply with Laws
+.  As between AssetMark and RUS, AssetMark has the responsibility under Laws with respect to AssetMark’s and its customers’ use and access, or limitation of access, with respect to the BETA Services.  As between AssetMark and RUS, RUS is responsible for ensuring that the BETA System complies with Laws applicable to the BETA Services and its performance with respect thereto.
+
+ 
+
+12.
+Audits
+.
+
+ 
+
+(a)
+BETA Services and Security
+.  During the Term, RUS agrees to engage a third party in accordance with the terms of Exhibit E (the “
+Third Party Auditor
+”), to conduct on-site audits 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+8
+
+of 
+RUS
+ not more than one (1) time per year 
+to verify 
+RUS
+’s compliance with its obligations set forth in this A
+greement.
+  
+During each calendar year, 
+RUS
+ will, at 
+RUS
+’
+s expense, cause to be conducted SSAE 18 SOC 1 Type 2, and SOC 2 Type 2 audits for 
+RUS
+’s production service location and 
+RUS
+’s BCP site by an independent public accounting firm (“
+RUS
+ Auditor
+”), and provide 
+AssetMark
+ with 
+executive summaries
+ of the resulting reports.  Unless otherwise agreed by 
+RUS
+ and 
+AssetMark
+, each SOC 1
+, subject to the carve outs in 
+Exhibit
+ 
+E
+ and
+ the
+ SOC 2 audit shall be conducted with the objective of obtaining a final, unqualified audit opinion for the applicable audit period and, as such, 
+RUS
+ shall promptly remediate any material weakness or deficiency revealed by any such audit.  
+AssetMark
+ and its external auditors will be provided 
+executive summaries 
+of relevant reports 
+promptly
+, subject to 
+the 
+RUS
+ Auditor’s restricted use provisions contained within the reports, including any subsequent reports issued following 
+RUS
+’s remediation of material weaknesses or deficiencies, as soon as reasonably possible after the conclusion of such audit.  
+AssetMark
+ shall have the right to provide a copy of such reports to any applicable regulators
+ and request confidential treatment
+; provided, however, that any such regulator’s refusal to agree to be bound by confidentiality terms shall not prevent such disclosure
+.
+  At 
+AssetMark
+’s request, 
+RUS
+ shall confirm in writing that there have been no changes in the relevant policies, procedures and internal controls since the completion of any such audit, or, as applicable, that material weaknesses or deficiencies have been remediated (i.e., through a representation letter provided by 
+RUS
+).  SSAE
+ 
+18 shall mean the Statement on Standards for Attestation Engagements “Attestation Standards: Clarification and Recodification” issued by the AICPA Auditing Standards Board for reports dated after May 1, 2017.  
+All audits shall be conducted during normal business hours and after reasonable notice to 
+RUS
+.
+  If an audit conducted by 
+the Third Party Auditor
+ results in 
+RUS
+ being notified that it, its third-party providers, agents or permitted subcontractors are not in compliance with such requirements
+ or this Agreement
+, 
+RUS
+ shall, at its sole cost and expense, promptly take all necessary actions to bring itself into compliance, and shall promptly cause each of its agents, contractors and permitted subcontractors to take all necessary actions to bring themselves into compliance at its or their expense.
+
+ 
+
+(b)
+Confidentiality of Audits
+.  Each party agrees to hold confidential (in accordance with Section 15) all information learned and determinations made in the course of any inspection or audit under this Section 12, except when it is necessary for a party to reveal such information in order to enforce its rights under this Agreement and except when compelled by Laws.
+
+ 
+
+(c)
+Fee Audits
+.  During the Term and for a period of twelve (12) months after the termination or expiration of this Agreement, RUS shall retain complete and accurate records and supporting documentation sufficient to document RUS’s performance of the BETA Services and to support the invoices submitted by RUS to AssetMark under this Agreement.  Upon at least thirty (30) days prior written notice from AssetMark, RUS shall provide AssetMark, or an AssetMark Auditor, with access to such financial records and supporting documentation as may be requested by AssetMark or its designated third party auditor so that they may audit the BETA Services provided and the fees charged to AssetMark hereunder to determine if such fees are accurate and in accordance with this Agreement. No Fee Audit shall go back further than to January 1 of the last full calendar year preceding the date of the audit or, in the case of an audit after the Term, to the date that is twelve (12) months preceding the last day of the Term. If, as a result of such audit, an AssetMark Auditor reasonably determines that RUS has overcharged AssetMark under this Agreement, AssetMark shall notify RUS of the amount of such overcharge and RUS shall promptly pay to AssetMark an amount equal to (i) the amount of the overcharge, (ii) plus interest on the overpaid amount at the rate of LIBOR plus two percent (2%) per annum from the date of 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+9
+
+RUS
+’s receipt of such payment
+, and 
+(iii) 
+in the event such overcharge
+, netted against any undercharges on the same invoice or invoice period, 
+was 
+five
+ percent
+ (
+5
+%) or more of the invoiced amount, the reasonable costs and expenses incurred by 
+AssetMark
+ 
+in conducting such audit
+. 
+ 
+If, as a result of such audit, 
+AssetMark
+ or its designated third-
+party auditor reasonably determines that 
+RUS
+ has undercharged
+, netted against any overcharges on the same invoice or invoice period,
+ 
+AssetMark
+ under this Agreement, 
+AssetMark
+ shall notify 
+RUS
+ of such undercharge
+, but shall not be obligated to pay 
+RUS
+ the amount of such net undercharge.
+
+ 
+
+13.
+Source Code Escrow
+.   If AssetMark desires that a copy of the Source code be made available to it upon the occurrence of certain events and upon payment of the user Escrow Fee set out in Exhibit A, RUS shall deposit into escrow the source code and documentation for the BETA System (including the same for all updates, upgrades and deliverables) (the “
+Escrow Materials
+”).  AssetMark shall have a non-exclusive and worldwide license to use, copy, distribute, perform and prepare derivative works of the Escrow Materials, with the right to grant sublicenses to third parties to exercise such license, solely for the benefit of and on behalf of AssetMark and its Affiliates.  AssetMark, on behalf of itself and its Affiliates, hereby covenants not to exercise or grant any sublicense permitted by this Section 13 until such time as the Escrow Materials are released to AssetMark pursuant to this Agreement and a source code escrow arrangement substantially in the form of Exhibit G hereto (the “
+Escrow Agreement
+”).  Within sixty (60) days after the Effective Date of this Agreement, the parties shall enter into the Escrow Agreement that shall include release conditions for the Escrow Materials limited to the commencement of a voluntary or involuntary bankruptcy or insolvency proceeding by or involving RUS (or its permitted successors and assigns) that remains in effect for more than sixty (60)
+ days. All rights and interests granted to AssetMark hereunder are, for purposes of Section 365(n) of the United States Bankruptcy Code (the “
+Bankruptcy Code
+”), licenses of “intellectual property” within the meaning of Sections 101(35A) and 365 of the Bankruptcy Code.  RUS acknowledges that AssetMark, as a licensee of such rights and interests hereunder, will retain and may fully exercise all of its rights and interests under this Agreement and the Bankruptcy Code, and no subsequent sale or transfer of the intellectual property by RUS, or by any successor in interest to RUS, shall terminate or modify AssetMark’s rights and interests under this Agreement, whether AssetMark, or any successor in interest, receives notice of any such sale or transfer or objects to any such sale or transfer.  RUS further acknowledges that any Exhibits are an “agreement supplementary to” this Agreement as such phrase is used in Section 365(n) of the Bankruptcy Code.  The source code form of any software embedded in or part of any Service shall be the “embodiment” of the intellectual property licensed to AssetMark under this Agreement (as that term is used in Section 365(n) of the Bankruptcy Code).  In the event RUS, or any successor in interest to RUS, including a debtor-in-possession or trustee, rejects this Agreement under Section 365 of the Bankruptcy Code, AssetMark shall elect, and hereby does so elect prospectively, to retain its rights and interests to the intellectual property under this Agreement to the full extent permitted by Section 365(n) of the Bankruptcy Code, and hereby prospectively requests that RUS and any successor in interest to RUS, comply with the requirements of Section 365(n)(3) and (4) of the Bankruptcy Code. RUS further acknowledges that, without in any way limiting RUS’s obligations, AssetMark will be entitled to a complete duplicate of (and complete access to) any such intellectual property and all embodiments thereof upon written request by AssetMark (a) upon commencement of a bankruptcy or insolvency proceeding by or against RUS, unless RUS or its representative or trustee elects to continue to perform all of its obligations hereunder, or (b) if not delivered under clause (a) upon the rejection of this Agreement by or on behalf of RUS. The Source Code as delivered by RUS shall be deemed 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+10
+
+Confidential Information of 
+RUS
+ under Section 15 of this Agreement and shall be subject to the provisions thereof.
+
+ 
+
+14.
+Representations and Warranties
+.
+
+ 
+
+(a)
+Power and Authority
+. Each party represents and warrants to the other that it has all requisite power and authority to execute, deliver and perform its obligations under this Agreement.
+
+ 
+
+(b)
+Title and Non-Infringement
+. 
+
+ 
+
+(i)
+RUS hereby represents and warrants to AssetMark that it (A) has and at all times will have the full legal right to provide the BETA System and all BETA Services provided by under this Agreement, and (B) has no knowledge of any claim, litigation or proceeding pending or threatened against RUS with respect to such BETA Services or the BETA System, or any component thereof, alleging infringement of any patent or copyright or misappropriation of any trade secret or any other proprietary right of any person.
+
+ 
+
+(ii)
+AssetMark hereby represents and warrants to RUS that it has and at all times will have the full legal right to provide the AssetMark Data to RUS as contemplated herein and AssetMark has no knowledge of any claim, litigation or proceeding pending or threatened against AssetMark with respect to data, alleging infringement of any patent or copyright or misappropriation of any trade secret or any other proprietary right of any person.
+
+ 
+
+(c)
+Compliance with Laws; Handling of Customer Data
+. 
+
+ 
+
+(i)
+RUS hereby represents and warrants to AssetMark that in performing its obligations and exercising its rights under this Agreement, (i) RUS will comply (and shall require all of its personnel providing BETA Services hereunder or otherwise involved in RUS’s performance under this Agreement to comply) and, subject to Section 3(f), the BETA System shall comply, with all applicable Laws (and all changes in Laws) applicable to RUS and the BETA System and the BETA Services it provides hereunder, including the Foreign Corrupt Practices Act, the Gramm-Leach-Bliley Act, the Sarbanes Oxley Act, Regulation SP, Massachusetts 201 C.M.R. sections 17.00-17.04, New York Cybersecurity Requirements for Financial Services Companies (23 NYCRR 500), Reg (EU) 2016/679 (the General Data Protection Act of the EU), and the California Consumer Privacy Act of 2018, (ii) RUS shall, at no additional charge, promptly provide all assistance to AssetMark as reasonably necessary for AssetMark to respond to any regulatory inquiry or examination, or any AssetMark customer demand or request that is authorized by legislative or regulatory authority, and (iii) RUS will obtain and maintain all permits, licenses, and consents required in connection therewith.
+
+ 
+
+(ii)
+AssetMark hereby represents and warrants to RUS that AssetMark is in compliance with all Laws applicable to it, including the Foreign Corrupt Practices Act, the Gramm-Leach-Bliley Act, the Sarbanes Oxley Act, Regulation SP, Massachusetts 201 C.M.R. sections 17.00-17.04, New York Cybersecurity Requirements for Financial Services Companies (23 NYCRR 500), Reg (EU) 2016/679 (the General Data Protection Regulation of the EU), and the California Consumer Privacy Act of 2018, and will obtain and maintain all permits, licenses, and consents required in connection with its obligations under this Agreement.
+
+ 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+11
+
+ 
+
+(iii)
+RUS hereby represents and warrants that without AssetMark’s express, written consent, it shall not sell, assign, lease, or otherwise disclose to any third party, or share with any third party except in connection with processing AssetMark Data in accordance with this Agreement (e.g., sharing data with the SEC, IRS), or commercially exploit for itself or on any third party’s behalf, any AssetMark client, advisor, or employee personal data.
+
+ 
+
+(d)
+No Malicious Code
+. 
+
+ 
+
+(i)
+Except for the functions and features expressly disclosed in the Specifications, RUS hereby represents and warrants to AssetMark that to the best of RUS’s knowledge the BETA System (as such BETA System is made available to AssetMark by RUS) does not contain, and RUS will not knowingly insert into the BETA System, any RUS Malicious Code.  The term “
+RUS Malicious Code
+” means any lock, dongle, clock, timer, counter, hardware key, copy protection feature, replication device, “virus” or “worm,” as those terms are commonly used in the computer industry, or other software code that may (A) lock, disable, or erase any software, programs, or data of AssetMark, its Affiliates, or its or their respective customers or suppliers, (B) limit or prevent full use of the BETA System as permitted under this Agreement, (C) harm or otherwise interfere with AssetMark’s servers or data processing hardware (including terminals, auxiliary storage, and communication and peripheral devices), or (D) require action or intervention by RUS or any other person to allow use of the BETA System as permitted under this Agreement.  Notwithstanding the foregoing, AssetMark acknowledges and agrees that RUS shall not have any liability for any RUS Malicious Code that is introduced into the BETA System or BETA Services (1) by AssetMark or any third party outside of RUS’s control, (2) via a network connection outside of RUS’s control, or (3) after the BETA System or BETA Services are outside of RUS’s control.
+
+ 
+
+(ii)
+AssetMark hereby represents and warrants to RUS that AssetMark shall not knowingly provide to RUS data, software or tools to be used with the BETA System that contains and AssetMark will not intentionally, or through AssetMark’s gross negligence, insert any AssetMark Malicious Code.  The term “
+AssetMark Malicious Code
+” means any lock, dongle, clock, timer, counter, hardware key, copy protection feature, replication device, “virus” or “
+worm
+,” as those terms are commonly used in the computer industry, or other software code that may (A) lock, disable, or erase any software, programs, or data of RUS, its Affiliates, or its or their respective customers or suppliers, (B) limit or prevent full use of the BETA System in the ordinary course of RUS’s business, (C) harm or otherwise interfere with RUS’s servers or data processing hardware (including terminals, auxiliary storage, and communication and peripheral devices), or (D) require action or intervention by AssetMark or any other person to allow use of the BETA System in the ordinary course of RUS’
+s business.  Notwithstanding the foregoing, RUS acknowledges and agrees that AssetMark shall not have any liability for AssetMark Malicious Code that is introduced into the BETA System or otherwise provided to RUS (1) by RUS or any third party outside of AssetMark’s control or (2) via a network connection outside of AssetMark’s control. 
+
+ 
+
+(iii)
+A party shall not be in breach of its representation in this Section 14(d), unless and to the extent that such party provides any Malicious Code to the other party intentionally or through its gross negligence.  Notwithstanding the foregoing, a party that provides Malicious Code to the other party shall as soon as practicable correct and resolve all errors or inaccuracies in the other party’s services and systems to the extent caused by such Malicious Code and shall, 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+12
+
+subject to the limitations on liability and damages set forth elsewhere in this Agreement, 
+be liable for damages caused to such other party by such Malicious Code, including, without limitation, damages to such other party
+’
+s software, hardware, data, services and systems; 
+provided
+ that the injured party promptly notifies the other party of any such error, inaccuracy or damage.
+ For purposes of this Section
+ 14(d)(iii)
+, Malicious Code means (
+i
+) RUS Malicious Code, with respect to RUS, or (ii) AssetMark Malicious Code, with respect to AssetMark.
+
+ 
+
+(e)
+Open Source Code
+.  RUS hereby represents and warrants to AssetMark that the BETA System provided by RUS to AssetMark under this Agreement will not contain any freeware, computer code, or other items or materials that are subject to the GNU General Public License or any other open source license agreement, except as expressly set forth in a Schedule to this Agreement.  For any such code identified, RUS shall, upon request, provide AssetMark with a copy of all applicable open source license agreements. 
+
+ 
+
+(f)
+Disaster Recovery and Business Continuity
+.  With respect to its disaster recovery and business continuity program(s) (the “
+DR/BCP
+”
+)
+, RUS hereby represents and warrants to AssetMark that:  
+
+ 
+
+(i)
+(A) in accordance with applicable regulatory guidance (e.g., FFIEC) RUS shall maintain and implement a pandemic or mass absentee plan. The plan shall include preventive controls to reduce the likelihood that RUS operations that support AssetMark will be significantly affected by a pandemic event, including:  monitoring of potential outbreaks, educating employees, communicating and coordinating with critical service providers and suppliers, and providing appropriate hygiene training and tools to employees. Procedures to continue critical operations shall include social distancing to minimize staff contact, telecommuting, or conducting operations from alternative sites; (B) it has in place and shall maintain in place throughout the Term a DR/BCP (i) designed to enable RUS to provide the BETA Services and the BETA System in accordance with this Agreement, including achieving the recovery time objective(s) and recovery point objective(s) documented in the DR/BCP and (ii) that meets the requirements of Exhibit D, (C) during the Term it shall test the operability and effectiveness of such plan at least once every twelve (12) months and each time there is a material change to the DR/BCP, (D) it shall revise such plan as necessary to ensure continued operability and (E) AssetMark shall be permitted to participate in each such test and receive reasonable, advance notice of each such test;
+
+ 
+
+(ii)
+if the occurrence of a disaster affecting RUS’s provision of the BETA Services to AssetMark causes RUS to allocate limited resources between or among RUS’s customers and/or Affiliates, AssetMark shall receive at least the same priority in respect of such allocation as RUS’s Affiliates and RUS’s other customers.
+
+ 
+
+(g)
+No Litigation
+. Each of the parties herby represents and warrants to the other that there is no proceeding pending or, to the knowledge of the Party making the representation and warranty, threatened which challenges or may have a material adverse effect on this Agreement or the transactions contemplated by this Agreement.
+
+ 
+
+(h)
+Customer Satisfaction.
+  RUS represents and warrants that there is no existing pattern or repetition of material customer complaints regarding the BETA Services, including functionality or performance issues, and that RUS's engineers have not currently identified any 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+13
+
+repeating adverse impact on the 
+BETA 
+Services, including functionality or performance, for which the root cause is believed to be a material flaw or defect in the 
+BETA 
+Services
+
+ 
+
+(i)
+Performance of the BETA Services and the BETA System
+. RUS hereby represents and warrants to AssetMark that: (i) the BETA Services shall be performed in a professional and workmanlike manner using a reasonable number of staff who are properly educated, trained, skilled, experienced and qualified for the work they are to perform; and (ii) the BETA Services will be provided and the BETA System will function (x) with the same or better features and functionality as those included in the BETA Services and BETA System on the Effective Date and RUS shall take no action that will degrade, diminish, or eliminate such features and functionality; (y) at all times in accordance with the requirements and specifications set forth at https://www.betasys.com/secure/BUC/, which shall not be materially modified or amended without prior written notice to AssetMark that is adequate for AssetMark to analyze the impact of such change on AssetMark’s use of the BETA Services and/or BETA System, but in no event shall any such materially diminish the overall functionality or performance of the BETA Services and/or BETA System from that existing as of the Effective Date; and (z) the Documentation; provided, however, that before AssetMark seeks any external remedy for a breach of the representation or warranty in subsection (ii) of this Section 14(i), AssetMark shall bring such issue through the Governance Process and will do so only in the event AssetMark reasonably believes it will suffer twenty-five thousand dollars ($25,000) or more in any rolling twelve (12) month period as a result of such failure of the BETA System to function in accordance with such requirements, specifications or the Documentation.
+
+ 
+
+(j)
+Information and Physical Security.
+  RUS represents and warrants to AssetMark that RUS shall establish and maintain safeguards against the destruction, loss, or alteration of Client Materials in the possession or control of RUS and its agents that are (i) no less rigorous than those maintained by RUS for its other customers’ information of a similar nature; (ii) in compliance with the requirements of Exhibit E and (iii) it will not transmit or make available any AssetMark client personal data outside the United States.  RUS further represents and warrants to AssetMark with respect to information and physical security as follows:
+
+ 
+
+(i)
+RUS personnel, permitted contractors and agents shall not attempt to access, share, copy, or allow access to, any Client Materials, except as necessary for RUS to provide the BETA Services or as expressly permitted by this Agreement.  If any such activity is attempted, attained or is reasonably suspected, RUS shall promptly report such incident to AssetMark, describe in detail the attempt and/or the accessed Client Materials, and, if applicable, retrieve and return to AssetMark any copied or removed Client Materials;
+
+ 
+
+(ii)
+RUS shall utilize all reasonable efforts, including thorough technical, organizational, and systems security measures, to guard against the unauthorized access, alteration or destruction of Client Materials.  Such measures shall include, without limitation, the use of software that: (A) requires all users to enter a user identification and password prior to gaining access to RUS’s and its third party providers’ information systems; (B) controls and tracks the addition and deletion of users; and (C) controls and tracks user access to areas and features of the information systems;
+
+ 
+
+(iii)
+Without limiting any other provisions of this Agreement, RUS shall, as part of the BETA Services, maintain and enforce, at all locations where services relating directly or 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+14
+
+indirectly to the 
+BETA 
+Services are performed, safety and physical and computer system security procedures that are at least (a) equal to mutually agreed industry standards for such types of service locations and (b) as rigorous as those procedures in effect at such locations as of the Effective Date;
+
+ 
+
+(iv)
+RUS shall periodically (at least annually) test the software code and other aspects of the BETA Services for potential areas where security could be breached.  RUS shall report to AssetMark promptly any breaches of security that impact AssetMark (including breaches of RUS’s security processes);
+
+ 
+
+(v)
+If RUS provides the BETA Services to AssetMark from a location that is shared with one or more third parties, RUS shall develop a process, subject to AssetMark’s prior written approval, not to be unreasonably withheld, and maintain such process, to restrict access in any such shared environment to that portion dedicated to the BETA Services only to RUS’s employees, or subcontractors or agents engaged in performing services directly relating to the BETA Services; and
+
+ 
+
+(vi)
+RUS shall perform periodic vulnerability assessments of the BETA Services (“
+Assessments
+”) in accordance with the terms of Exhibit E. AssetMark shall have the right to discuss the executive summaries provided of the results of such Assessments with the appropriate representatives of RUS.
+
+ 
+
+15.
+Confidentiality
+.
+
+ 
+
+(a)
+Confidentiality Obligation
+.  Each party that receives Confidential Information (in such capacity the “
+Receiving Party
+”) from the other party (in such capacity the “
+Disclosing Party
+”) shall hold such Confidential Information of the Disclosing Party in strict confidence.  The Receiving Party shall have the limited right to use the Confidential Information only for the purposes of fulfilling its commitments and obligations to the Disclosing Party under this Agreement and for no other purpose.  Except as permitted in the foregoing sentence or by prior written consent of the Disclosing Party, the Receiving Party shall not use, disclose or distribute to any person, firm or entity any Confidential Information and shall not permit any person, firm or entity to use, disclose or distribute any Confidential Information; 
+provided
+ that the Receiving Party may disclose or distribute such Confidential Information to the following: (i) its officers, employees and directors who have a business need to know such Confidential Information; and (ii) its attorneys, accountants, consultants, agents, independent contractors or professional advisors (the “
+Receiving Party Agents
+”) who (y) have a business need to know such Confidential Information and (z) are subject to fiduciary, professional or written obligations of confidentiality substantially similar to, and no less restrictive than, the obligations set forth herein.  The Receiving Party shall be responsible for ensuring that the Receiving Party Agents comply with the terms of this Agreement and shall remain ultimately responsible for the use, disclosure or distribution of Confidential Information by the Receiving Party Agents.  Any failure by the Receiving Party Agents to comply with the terms hereof shall constitute a material breach of this Agreement by the Receiving Party.  Except in connection with the purposes identified above, the Receiving Party shall not copy or otherwise reproduce, or permit to be copied or otherwise reproduced, all or any part of the Disclosing Party’s Confidential Information without the prior written consent of the Disclosing Party.
+
+ 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+15
+
+ 
+
+(b)
+Confidential Information
+.  As used in this Agreement, “
+Confidential Information
+” means (i) the subject and terms of any and all potential or binding business transactions between the parties, including without limitation the terms and conditions of this Agreement (ii) all oral or written information, of whatever kind and in whatever form, and whether or not marked as “confidential,” of the Disclosing Party, its employees, suppliers, or customers, including the identities thereof, that may be obtained from any source as a result of or in connection with this Agreement, as well as all such other information designated by the Disclosing Party as confidential including past, present or future business and business activities, financial or technical information; products, services, research and development; processes, techniques; designs; financial planning practices; client information (including clients’ identities and any client related data or information); and marketing plans, and (iii the software systems utilized by RUS hereunder, including all enhancements thereto, and all screens and formats used in connection therewith (“
+BETA System IP
+”) are the exclusive proprietary property of RUS, and except as expressly permitted by this Agreement, shall be deemed RUS Confidential Information 
+
+ 
+
+(c)
+Exceptions
+.  Confidential Information shall not include any information that the Receiving Party can demonstrate (i) is in the public domain through no fault or breach of confidentiality by such Receiving Party, (ii) was known by the Receiving Party prior to its disclosure by the Disclosing Party and was not obtained in such circumstances subject to a requirement of confidentiality, or (iii) was developed independently of, and without the use of or access to, any Confidential Information exchanged pursuant to this Agreement.  Despite the obligations of this Section 15, the Receiving Party may disclose the Confidential Information of the Disclosing Party to the limited extent such Confidential Information is required to be disclosed by the Receiving Party by Law or pursuant to an order of any court or administrative body; 
+provided
+ that the Receiving Party shall (x) provide the Disclosing Party with prompt notice of such request or order, including copies of subpoenas or orders requesting such Confidential Information to the extent it is legally permitted to do so, (y) cooperate reasonably with the Disclosing Party in resisting the disclosure of such Confidential Information via a protective order or other appropriate legal action, and (z) shall not make disclosure pursuant thereto until the Disclosing Party has had a reasonable opportunity to resist such disclosure, unless the Receiving Party is ordered otherwise.
+
+ 
+
+(d)
+Ownership
+.  All Confidential Information shall be and remain the sole and exclusive property of the Disclosing Party or its employees, suppliers or customers, as the case may be.  Except as otherwise set forth in this Agreement, neither Party acquires any right, license or other interest or title in or to the Disclosing Party’s Confidential Information, including any rights to create derivative works of any Confidential Information, under this Agreement, except the limited right to use such Confidential Information in accordance with this Agreement.  Except as expressly provided herein, AssetMark Confidential Information shall not be (i) used by RUS other than is necessary for RUS’s performance of its obligations under this Agreement, including for testing of new enhancements and new releases of the BETA System and the BETA Services before the same are provided to AssetMark, and provided that RUS uses only aggregated and anonymous versions of such AssetMark Confidential Information for such testing purposes, (ii) disclosed, sold, assigned, leased or otherwise provided to or used for the benefit of any third party by RUS, or (iii) commercially exploited by or on behalf of RUS.
+
+ 
+
+(e)
+Unauthorized Disclosure
+.  The Receiving Party shall (i) promptly notify the Disclosing Party if the Receiving Party discovers or is notified of an unauthorized disclosure or release of, or access to, the Disclosing Party’s Confidential Information (each, an “
+Unauthorized 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+16
+
+Disclosure
+”
+) to or by any person obtaining or reasonably believed to have obtained such Confidential Information, or access to such Confidential Information, from or through the Receiving Party, (ii) reasonably assist the Disclosing Party in any action taken against the person(s) responsible for such Unauthorized Disclosure, and (iii) take immediate corrective action to cease the existing Unauthorized Disclosure and prevent any other or future Unauthorized Disclosures.
+
+ 
+
+(f)
+Return of Confidential Information
+.  Upon written request by the Disclosing Party at any time, the Receiving Party shall (i) turn over to the Disclosing Party all Confidential Information, all documents or media containing the Confidential Information, and any and all copies or extracts thereof or (ii) destroy the Confidential Information, and any and all copies or extracts thereof, and provide the Disclosing Party with written certification of such destruction signed by an authorized representative of the Receiving Party.  Notwithstanding the foregoing, each Party acknowledges that the Receiving Party shall not be required to comply with the foregoing to the extent that (y) the Confidential Information resides on the Receiving Party’s backup, disaster recovery or business continuity systems, or (z) the Receiving Party is obligated by applicable Law or industry or governmental regulations to retain such Confidential Information.  In addition, upon termination or expiration of this Agreement (or any applicable Schedule, written statement of work, work order or the like), RUS shall (1) shred all documents containing AssetMark Data prior to disposal and (2) destroy all copies of the AssetMark Data and certify in writing to AssetMark that RUS has complied with the requirements contained herein; provided, however, that RUS shall not be required to destroy Confidential Information that resides on its backup, disaster recover, or business continuity systems so long RUS renders such information useless or inaccessible and continues to treat handle such information confidential as required by this Section 15.
+
+ 
+
+(g)
+Trademarks, Trade Names, and Publicity
+.  Neither party shall use the other party’s name, service marks or trademarks, or refer to or identify the other party in any advertising, publicity releases (including references on any customer lists, or posting on web-sites), or promotional or marketing correspondence to others; provided, however, that a party may announce this transaction in its public filings if required to do so by any Laws and AssetMark may inform its advisors of the transaction contemplated hereby.
+ To the extent it is legally permitted to do so, 
+AssetMark shall (i) give RUS prior written notice before it discloses this Agreement or any part thereof with any government agency, (ii) shall seek confidential treatment for the entire Agreement and (iii) redact all pricing information, security information and other relevant information reasonably requested by RUS.
+
+ 
+
+16.
+Indemnification
+.
+
+ 
+
+(a)
+Obligation to Defend and Indemnify
+. RUS shall defend AssetMark, its Affiliates, the other AssetMark Entities and its and their respective directors, officers, employees, agents, contractors, successors, and assigns (each, an “
+AssetMark Indemnified Party
+”) from and against any and all claims, demands, investigations, and causes of action by third parties (each, a “
+Claim
+”) to the extent any such Claim is based on, arises from or relates to: (i) any allegation that any of the BETA System or the BETA Services, or any AssetMark’s possession or use of the same in accordance with the terms of this Agreement, infringes the patent, copyright, trademark or service mark right or constitutes a misappropriation of a trade secret right of any third party; (ii) any bodily injury (including death) or damage to or loss of any tangible personal or real property caused by the actions or omissions of RUS, its Affiliates, any RUS contractor or agent, or any of their 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+17
+
+respective directors, officers, employees, agents, contrac
+tors, successors, or assigns;
+ (iii) any allegation that any of 
+RUS
+’
+s personnel is an employee of 
+AssetMark
+ by virtue of performing any BETA Services under this Agreement or otherwise
+;
+ or
+ (iv) any expenses, including any taxes, which were the responsibility of 
+RUS
+ hereunder
+.
+  In addition, 
+RUS
+ shall indemnify and hold each
+ 
+AssetMark
+ Indemnified Party harmless from and against any and all damages, losses, fines, penalties, costs, and other amounts (including 
+the costs of settlement and 
+reasonable attorneys
+’ and experts’
+ fees and expenses) incurred or suffered by any such 
+AssetMark
+ 
+Indemnified Party in connection with any Claim. 
+Notwithstanding the foregoing
+,
+ 
+RUS
+ shall not be liable nor have any obligation to indemnify 
+the 
+AssetMark
+ Indemnified Parties 
+to the extent 
+such Claims were caused by any act or omission of 
+AssetMark
+ or any of its Affiliates or end users, including 
+AssetMark
+’s or its Affiliates or end user’s failure to comply with this Agreemen
+t or Law
+; provided, however, 
+that i
+f an indemnity Claim arises from an assertio
+n that there was a failure by 
+AssetMark
+ to c
+omply with Law, and 
+AssetMark
+ believes that both parties or 
+RUS
+ may be responsible for the cause of such assertion, such Claim shall first be escalated to Governance for a determination of whether 
+RUS
+ was the primary cause and is responsible for indemnification hereunder
+,
+ whether 
+RUS
+ should indemnify 
+AssetMark
+, and whether and to what extent 
+the related liability, damages, costs connected to the Claims should be apportioned between the parties
+; provided further, that if the parties are unable to resolve the matter via Governance, either party shall be entitled to bring
+ the matter for determination by
+ a court of law
+.
+
+ 
+
+(b)
+AssetMark’s Indemnity Obligation
+.  AssetMark shall defend RUS, its Affiliates, and their respective directors, officers, employees, agents, contractors, successors, and assigns (each, a “
+RUS Indemnified Party
+”) from and against any and all Claims to the extent that any such Claim is based on, arises from or relates to:  (i) any allegation that any of the AssetMark Data or services provided by AssetMark to RUS infringes the patent, copyright, trademark or service mark right or constitutes a misappropriation of the trade secret right of any third party; (ii) any bodily injury (including death) or damage to or loss of any tangible personal or real property caused by the actions or omissions of AssetMark, its Affiliates, any AssetMark agents, or any of their respective directors, officers, employees, agents, contractors, successors, or assigns; (iii) any allegation that any of AssetMark’s personnel is an employee of RUS by virtue of receiving any BETA Services under this Agreement or otherwise; or (iv) any expenses, including any taxes, which were the responsibility of AssetMark hereunder  In addition, AssetMark shall indemnify and hold each Indemnified Party harmless from and against any and all damages, losses, fines, penalties, costs, and other amounts (including the costs of settlement and reasonable attorneys’ and experts’ fees and expenses) incurred or suffered by any such RUS Indemnified Party in connection with any Claim.  Notwithstanding the foregoing, AssetMark shall not be liable nor have any obligation to indemnify the RUS Indemnified Parties to the extent such Claims were caused by or would not have arisen but for any act or omission of RUS, including RUS’s failure to comply with this Agreement or Laws; provided, however, that if an indemnity Claim arises from an assertion that there was a failure by RUS to comply with Law, and RUS believes that both parties or AssetMark may be responsible for the cause of such assertion, such Claim shall first be escalated to Governance for a determination of whether AssetMark was the primary cause and is responsible for indemnification hereunder, whether AssetMark should indemnify RUS, and whether and to what extent the related liability, damages, costs connected to the Claims should be apportioned between the parties; provided further, that if the parties are unable to resolve the matter via Governance, either party shall be entitled to bring the matter for determination by a court of law.
+
+ 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+18
+
+ 
+
+(c)
+Indemnification Procedure
+.  The indemnified party shall:(i) give the indemnifying party prompt written notice of such claim; and (ii) allow the indemnifying party to control, and fully cooperate with the indemnifying party (at the indemnifying party’s sole expense) in, the defense and all related negotiations. The indemnifying party shall not enter into any stipulated judgment or settlement that purports to bind the indemnified party without the indemnified party’s express written authorization, which shall not be unreasonably withheld or delayed.
+
+ 
+
+17.
+Disclaimer of Warranties and Limitations of Liability
+.
+
+ 
+
+(a)
+Disclaimer of Warranty
+.  EXCEPT FOR THE EXPRESS WARRANTIES CONTAINED IN THIS AGREEMENT, NEITHER PARTY MAKES, AND EACH PARTY HEREBY EXPRESSLY DENIES, REJECTS AND DISCLAIMS, ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT.  IN PARTICULAR, RUS DOES NOT WARRANT THE RESULTS OF THE USE OF THE BETA SERVICES, THAT OPERATION OF THE BETA SYSTEM SHALL BE UNINTERRUPTED, THAT ANY OR ALL FAILURES, DEFECTS OR ERRORS WILL BE CORRECTED OR THAT THE FUNCTIONS CONTAINED IN THE BETA SERVICES WILL OPERATE IN THE ENVIRONMENT SELECTED BY ASSETMARK.  EACH PARTY HEREBY DISCLAIMS ANY AND ALL WARRANTIES THAT MAY ARISE FROM COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE OF TRADE.
+
+ 
+
+(b)
+Limitation of Liability
+.  SUBJECT TO SECTION 17(d) BELOW, NEITHER PARTY NOR ITS AFFILIATES, EMPLOYEES, OFFICERS AND AGENTS SHALL BE LIABLE TO THE OTHER PARTY OR TO ANY THIRD PARTY FOR ANY CONSEQUENTIAL, SPECIAL, INCIDENTAL, INDIRECT OR PUNITIVE DAMAGES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF OR OTHERWISE MIGHT HAVE ANTICIPATED THE POSSIBILITY OF SUCH DAMAGES, EXCEPT WHERE SUCH DAMAGES RESULT FROM (i) A BREACH OF ITS CONFIDENTIALITY OBLIGATIONS UNDER SECTION 15.  IN ADDITION, SUBJECT TO SECTION 17(d) BELOW, NEITHER PARTY NOR ITS AFFILIATES, EMPLOYEES, OFFICERS AND AGENTS SHALL BE LIABLE TO THE OTHER PARTY OR TO ANY THIRD PARTY FOR ANY LOSS OR DAMAGE, WHETHER DIRECT OR INDIRECT, RESULTING FROM DELAYS OR INTERRUPTIONS OF SERVICE DUE TO MECHANICAL, ELECTRICAL OR WIRE DEFECTS OR DIFFICULTIES, STORMS, STRIKES, WALK-OUTS, EQUIPMENT OR SYSTEMS FAILURES, OR OTHER CAUSES OVER WHICH SUCH PARTY, ITS AFFILIATES, EMPLOYEES, OFFICERS, DIRECTORS OR AGENTS AGAINST WHOM LIABILITY IS SOUGHT, HAVE NO REASONABLE CONTROL OR MEANS OF MITIGATION, OR FOR LOSS OR DAMAGE, DIRECT OR INDIRECT, RESULTING FROM INACCURACIES, ERRONEOUS STATEMENTS, ERRORS OF FACT, OMISSIONS, OR ERRORS IN THE TRANSMISSION OR DELIVERY OF THE BETA SYSTEM, OR ANY DATA PROVIDED AS A PART OF OR FOR PROCESSING IN THE BETA SYSTEM PURSUANT TO THIS AGREEMENT.  EXCEPT AS SET FORTH IN SECTION 17(d)
+ BELOW, THE LIABILITY OF EACH PARTY UNDER THIS AGREEMENT AND OF ITS AFFILIATES HEREUNDER SHALL BE LIMITED TO, IN THE AGGREGATE, AND EACH PARTY AGREES NOT TO MAKE ANY CLAIM EXCEEDING, THE LIABILITY CAP SPECIFIED IN SECTION 17(c) BELOW. 
+
+ 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+19
+
+ 
+
+(c)
+Subject to Section 17(d) below, each party’s total liability to the other, whether in contract or in tort (including breach of warranty, negligence, strict liability or otherwise) shall be limited to the greater of (i) an amount equal to the total charges payable to RUS pursuant to this Agreement for the twelve (12) months prior to the month in which the most recent event giving rise to liability occurred; provided, however, that each party’s total liability with respect to Claims or damages relating to breaches (other than for gross negligence or willful misconduct) of a party’s confidentiality-related obligations or data security-related or data protection-related obligations shall be limited to an amount equal to the total charges payable to RUS pursuant to this Agreement for the eighteen (18) months prior to the month in which the most recent event giving rise to liability occurred (“
+Liability Cap
+”).
+
+ 
+
+(d)
+Exceptions to Limitation of Liability
+.  THE LIMITATIONS ON DAMAGES SET FORTH IN SECTION 17(b) ABOVE SHALL NOT APPLY WITH RESPECT TO (i) LIABILITY THAT ARISES FROM A PARTY’S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT, OR (iv) ANY FEES PAYABLE HEREUNDER, INCLUDING WITHOUT LIMITATION ANY TERMINATION FEE AND ANY REIMBURSEMENT TO ASSETMARK PURSUANT TO SECTION 16(b).
+
+ 
+
+(e)
+Time for Making Claims
+.  ANY SUIT OR ACTION BY EITHER PARTY TO THIS AGREEMENT AGAINST THE OTHER PARTY, IT AFFILIATES, OFFICERS, DIRECTORS, AGENTS, EMPLOYEES, SUCCESSORS OR ASSIGNS, BASED UPON ANY ACT OR OMISSION ARISING OUT OF OR RELATING TO THIS AGREEMENT, OR SERVICES PERFORMED HEREUNDER, OR ANY ALLEGED BREACH THEREOF, SHALL BE COMMENCED WITHIN TWO (2) YEARS AFTER THE FIRST OCCURRENCE GIVING RISE TO SUCH CLAIM OR BE FOREVER BARRED.
+
+ 
+
+18.
+Use of the BETA System
+.
+
+ 
+
+(a)
+AssetMark acknowledges that the software systems utilized by RUS hereunder, including all enhancements thereto, and all screens and formats used in connection therewith, are the exclusive proprietary property of RUS and shall only be used by AssetMark solely in accordance with the terms of this Agreement.  For so long as RUS operates the BETA System for AssetMark, all methods of data access to, or interactive or batch file transfer of, data on BETA System’s mainframe computer must be authorized by RUS, and any unauthorized interactive or batch file transfer of data on BETA System’s mainframe computer via a program automated workstation or computer is explicitly prohibited.
+
+ 
+
+(b)
+Except as expressly permitted by this Agreement, AssetMark agrees that it will use the services provided hereunder only in connection with its own brokerage business and it will not, without the express written permission of RUS, sell, lease, or otherwise provide or make available the BETA System to any third party.  For purposes of the foregoing, AssetMark’s “own brokerage business” shall include AssetMark’s Affiliates, the AssetMark Entities and its and their respective bona fide correspondents. 
+AssetMark covenants and agrees that AssetMark shall be liable for any breach of the Agreement by any of its Affiliates or their end users.
+
+ 
+
+(c)
+The obligations of this Section 18 shall survive termination of this Agreement.
+
+ 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+20
+
+ 
+
+19.
+Insurance
+. RUS, either directly or through its parent entity,
+ agrees to obtain and maintain and keep in full force and effect the following forms of insurance with the minimum limits of insurance stated below:
+
+ 
+
+TYPE OF COVERAGE
+
+REQUIRED AMOUNT
+
+Workers Compensation
+
+Statutory Limits
+
+Employer’s Liability (bodily injury by disease per person, by accident policy limit, by disease policy limit).
+
+$1,000,000
+
+Commercial General Liability Insurance including Broad Form Contractual, Broad Form Property damage Personal Injury and Advertising Liability, Completed Operation and Products coverage.
+
+$1,000,000 per occurrence and annual aggregate $2,000,000
+
+Medical Payments
+
+$5,000 per person
+
+Commercial Auto Liability including Owned, Non-owned and Hired Motor Vehicles coverage which are operated on behalf of RUS pursuant to RUS’s activities hereunder.  
+The policy shall be endorsed to name AssetMark, its Affiliates, directors, officers, employees, and agents as additional insureds.
+
+$1,000,000 combined single limit
+
+Umbrella/Excess Liability.  
+In addition to including the general policy provisions required below, the terms and conditions of the policy must be at least as broad as the underlying Employer’s Liability, Commercial General Liability, and Automotive Liability policies required herein.
+
+$20,000,000 each occurrence/general aggregate
+, in excess of the Employer’s Liability, Commercial General Liability, and Automotive Liability
+.
+
+Professional Liability/Errors and Omissions.  
+If such coverage is written on a claims-made basis, coverage with respect to any and all work performed in connection with this Agreement shall be maintained for a period of at least three (3) years after the expiration or termination of this Agreement.
+
+$25,000,000 each occurrence/general aggregate.
+
+Electronic Data Processing 
+providing coverage for all risks of loss or damage to RUS’s equipment, data, media and valuable papers that result from a failure of computer and/or network security measures, policies, or procedures.  Such insurance shall include Extra Expense and Business Income coverage for RUS adequate to cover such risks on a replacement cost or upgrade basis.
+
+A minimum limit adequate to cover such risks on a replacement cost or upgrade basis.
+
+Employee Fidelity Bond.  Such policy must include coverage for loss of money, securities or other property owned by Client or its or their customers through any fraudulent or dishonest act committed by any RUS employee or person under RUS’s supervision, whether acting alone or in collusion with others.  Such policy shall name AssetMark as a loss payee.
+
+Not less than $25,000,000 each occurrence/general aggregate.
+
+ 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+21
+
+Network Security and Privacy Liability (Cyber) Insurance. Provides coverage for damages that arise from a failure of computer security or systems, wrongful release of private/confidential information, and/or the breach or theft of sensitive information.
+
+Not less than $25,000,000 each occurrence/general aggregate.
+
+ 
+
+ 
+
+(a)
+On request, once per year, or to verify renewal of lapsed coverage, RUS shall provide AssetMark with certificates of insurance evidencing that RUS has the foregoing insurance in effect.
+
+ 
+
+(b)
+All insurance policies shall be issued by companies licensed to do business in the states where the BETA Services are delivered or the operations are performed and must be rated "A-" or better by A.M. Best.  All insurance policies shall include waivers of subrogation against AssetMark, its Affiliates, directors, officers, employees, and agents, and certificates shall note that insurers will endeavor to provide at least thirty (30) days written notice to AssetMark prior to cancellation or non-renewal.  All insurance policies shall apply as primary to and non-contributory with any other insurance afforded to AssetMark, its Affiliates, directors, officers, employees, and agents.  All insurance policies shall include coverage for defense costs and related expenses.
+
+ 
+
+(c)
+RUS must provide coverage for all subcontractors used in connection with this Agreement under these required insurance policies or require that each subcontractor maintain and evidence its own insurance policies in accordance with the requirements herein.  RUS shall be liable to AssetMark, without regard to any exclusions or limitation of liability in Section 17, for all damages incurred by AssetMark as a result of RUS’s failure to carry adequate coverage for its subcontractors, or failure of its subcontractors to carry adequate coverage as prescribed herein.
+
+ 
+
+(d)
+RUS’s obligation to maintain insurance coverage shall be in addition to, and not in substitution for, RUS’s other obligations hereunder, and RUS’s liability to AssetMark shall not be decreased in any way or limited to the amount of coverage required hereunder.  AssetMark does not in any way represent that the insurance or limits of insurance specified above are sufficient or adequate to protect RUS’s interests or liabilities.  RUS is responsible, at RUS’s sole expense, for providing any additional insurance RUS deems necessary to protect RUS’s interests. 
+
+ 
+
+20.
+Governance Process
+.
+
+ 
+
+(a)
+Generally
+.  Each party shall appoint personnel to serve on a three-tiered governance team.  At the first level, each party shall identify a relationship manager (“
+Level 1
+”).  At the next level, each party shall appoint a more senior person (Managing Director level at RUS) (“
+Level 2
+”).  Each party shall appoint Level 3 representatives, which shall be a senior executive (each, a “
+Level 3
+”).  The parties may mutually agree from time to time to change the composition and structure of the Level representatives.
+
+ 
+
+(b)
+Meetings
+.  The Level 1 persons and their respective teams shall meet monthly to receive a status report from the teams and address any potential roadblocks the teams believe may affect timely delivery of the project’s deliverables.  As the project progresses, the Level 1 representatives can decide to have these meetings on a less frequent basis.
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+22
+
+ 
+
+(c)
+Uses; Dispute Escalation Process
+.  The Governance Process described in this Section 20 shall be used for negotiations and resolution of disputes and other issues that arise or occur between the parties with respect to the subject matter of this Agreement, and such governance process shall begin reasonably promptly after a request for use of the governance process is provided to the other party (a “
+Dispute Notice
+”).  Within thirty (30) days after such Dispute Notice, the Level 1 representatives of each party shall meet to discuss the issue.  If the Level 1 representatives cannot agree at the meeting to resolve the issue, each party shall reduce to a writing their respective positions and provide the other party with the same no later than fifteen (15) days after such meeting.  Within fifteen (15) days after such exchange, or as soon thereafter as can reasonably be scheduled, the Level 2 representatives shall meet to determine whether they can reach an agreement.  If they cannot, the issue shall be escalated to the Level 3 representatives of each party, who shall meet as reasonably practicable.  Any of the meetings described in this Section 20(c) may be conducted by telephone or such locations as are mutually convenient, including during the governance process
+ meetings set forth above.  If the governance process involves consideration of a dispute for which a party, acting in good faith, deems that time is of the essence, each of the preceding periods set forth in this Section 20(c) shall be shortened to address the dispute on such expedited basis as is reasonably practicable.
+
+ 
+
+(d)
+Both parties shall continue performing their obligations under this Agreement while any dispute is being resolved under the governance process unless and until the dispute is resolved or until this Agreement is terminated as provided herein.
+
+ 
+
+(e)
+Notwithstanding anything to the contrary in this Section 20, each party has the absolute right to seek equitable relief for any dispute under this Agreement without resorting to the governance process set forth herein in the event such party believes it is necessary to do so in order to protect its rights. 
+In particular
+, each party acknowledges and agrees that due to the unique nature of the Confidential Information and, (i) in the case of AssetMark, the AssetMark Data, and (ii) in the case of RUS, the BETA System IP,  there may be no adequate remedy at law for a breach by the other party of its obligations under Sections 5, Section 15 and Section 18 and that such breach may cause irreparable harm to the non-breaching party.  Therefore upon any such breach or any threat thereof,  the non-breaching party shall be entitled to seek appropriate equitable relief in addition to whatever remedies it may have at law.
+
+ 
+
+21.
+Applicable Law, Venue and Severability
+. 
+
+(a)
+This Agreement shall be construed and enforced in accordance with the law of the State of New York without giving effect to any choice of law or conflict of law provisions.  Any disputes arising under this Agreement will be brought and heard in the appropriate Federal or state court located in New York County in the State of New York and each of the parties hereby irrevocably consents to the jurisdiction of such courts.  Each party hereby irrevocably waives the right to a trial by jury in any action or proceeding arising out of this Agreement.
+
+(b)
+In the event that any court having competent jurisdiction over the interpretation of this Agreement shall determine that one or more of the provisions contained in this Agreement shall be unenforceable in any respect, then such provision shall be deemed limited and restricted to the extent that such court shall deem it to be enforceable, and, as so limited or restricted, shall remain in full force and effect.  In the event that any such provision or provisions shall be deemed 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+23
+
+wholly unenforceable, such provision shall be deemed deleted from this Agreement, and the remaining provisions shall remain in full force and effect.  Any such judicial interpretation requiring limitation or deletion of a provision shall be valid only in the jurisdiction in which such interpretation is made.
+ 
+
+22.
+Force Majeure
+. If and to the extent that a party’s performance of any of its obligations pursuant to this Agreement is prevented, hindered or delayed by fire, flood, earthquake, elements of nature or acts of God, pandemics, acts of war, terrorism, riots, civil disorders, rebellions or revolutions, or any other similar cause beyond the reasonable control of such party (each, a “
+Force Majeure Event
+”), and such non-performance, hindrance or delay could not have been prevented by the taking of reasonable precautions, then the non-performing, hindered or delayed party shall be excused for such non-performance, hindrance or delay of those obligations affected by the Force Majeure Event.  The party experiencing a Force Majeure Event shall notify promptly the other party and declares in writing that it has suffered a Force Majeure Event.  Such excused performance shall last only for so long as such Force Majeure Event continues and such Party continues to use all commercially reasonable efforts to recommence performance whenever and to whatever extent possible without delay, including through the use of alternative sources, workaround plans or other means.  The Party whose performance is prevented, hindered or delayed by a Force Majeure Event shall promptly notify the other Party of the occurrence of the Force Majeure Event and describe in reasonable detail the nature of the Force Majeure Event and the proposed steps such Party will take to recommence performance of its obligations under this Agreement.  The occurrence of a Force Majeure Event does not excuse, limit or otherwise affect RUS’s obligation to provide either normal recovery procedures or any other disaster recovery services required pursuant to in this Agreement or to exercise immediately its DR/BCP upon suffering the Force Majeure Event.   Notwithstanding the foregoing, neither Party will be entitled to relief under this Section 22 to the extent that any event otherwise constituting a Force Majeure Event results from the negligence, fault or intentional wrongdoing of such Party (or, in the case of RUS, any Approved Subcontractor).  If a Party claims the benefit of a Force Majeure Event, the other Party will likewise be excused from performance of its obligations hereunder on a day-for-day basis to the extent such Party’s obligations are affected due to the other Party’s delayed performance.  Without limiting RUS’s obligations hereunder, whenever a Force Majeure Event causes RUS to allocate limited resources between or among RUS’s customers, RUS will not without the consent of AssetMark take resources used to provide the BETA Services to AssetMark and re-deploy them to provide services or solutions to other RUS customers.  When allocating additional resources, RUS agrees to treat AssetMark fairly in comparison with its other customers in the allocation of such resources.  In the event a Force Majeure Event impacting RUS’ performance hereunder continues for a period of twenty (20) days, AssetMark may terminate this Agreement, without payment of termination fee or charge, by providing written notice to RUS.  For the avoidance of doubt, in the event RUS’ performance hereunder is the subject of a force majeure event, the fees to be paid by AssetMark hereunder shall be equitably adjusted to reflect the period in which performance was affected.
+
+23.
+General
+.
+
+(a)
+Assignment
+.  Except with respect to an internal reorganization of a party where an assignment is made to another Affiliate of the party or to a successor entity in the event of a merger, acquisition, or sale of all or substantially all of its assets, neither party shall assign this Agreement, or any of its rights or obligations hereunder, without the prior written consent of the other party.  
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+24
+
+In addition, 
+RUS
+ shall not delegate or subcontract any of its rights or obligations hereunder to a third party without the prior written consent of 
+AssetMark
+.  In the event such delegation or subcontracting is consented to by 
+AssetMark
+, 
+RUS
+ shall remain primarily responsible for the acts, omissions, performance and non-performance of any such subcontractor to the same extent if such subcontracting arrangement had not been made and such 
+third party to which such rights or obligations are delegated or subcontracted shall be bound by the terms and conditions of this Agreement applicable to 
+RUS
+.  
+RUS
+ shall also be solely responsible for all payments due to such third party.  Any other assignment, transfer, delegation or subcontracting of rights or obligations
+, whether by change of control and/or operation of law,
+ by either party hereunder shall be null and void.  All terms and conditions of this Agreement shall be binding upon and shall inure to the benefit of and be enforceable by the parties hereto and their respective successors and permitted assigns.
+
+ 
+
+(b)
+Notices
+. Any 
+notice, request, demand or other communication required hereunder shall be in writing, shall reference this Agreement, and shall be deemed to be properly given: (i) when delivered personally; (ii) when received by registered or certified mail, with written confirmation of receipt, postage prepaid; or (iii) when received from a nationally recognized private industry express courier (e.g., Federal Express, UPS or DHL), with written confirmation of receipt.  All notices shall be sent to the address set forth in the preamble (or to such other address as may be designated by a party by giving written notice to the other party pursuant to this Section 23(b).  For the avoidance of doubt, no such amendments or modifications may be made via email, facsimile or orally.
+
+ 
+
+(c)
+No Third-Party Beneficiaries
+.  This Agreement is entered into solely between and may be enforced only by, RUS and AssetMark, and this Agreement is not intended to create and shall not be deemed to create any rights in third parties, including suppliers and customers of a party hereto or its Affiliates (including customers and accounts), or to create any obligations of a party hereto to any such third parties.
+
+(d)
+Construction
+.  This Agreement has been negotiated by the parties and their respective counsel.  The language used in this Agreement shall be deemed to be the language chosen by the parties to express their mutual intent, and no rule of strict construction shall be applied against any party as the drafter.  Any references to any federal, state, local or foreign statute or law shall also refer to all rules and regulations promulgated thereunder, unless the context otherwise requires.  Unless the context otherwise requires:  (i) a term has the meaning assigned to it in this Agreement; (ii) forms of the word “include” mean that the inclusion is not limited to the items listed; (iii) “or” is disjunctive but not exclusive; (iv) words in the singular include the plural, and in the plural include the singular; (v) provisions apply to successive events and transactions; (vi) “hereof”, “hereunder”, “herein” and “hereto” refer to the entire Agreement and not any section or subsection; and (vii) “$” means the currency of the United States of America.
+
+(e)
+Captions and Section Headings
+.
+  The captions and Section headings used in this Agreement are inserted for convenience only and shall not affect the meaning or interpretation of this Agreement.
+
+(f)
+Counterparts
+.  This Agreement may be executed in one or more counterparts, with the same effect as if the parties had signed the same document.  Each counterpart so executed shall 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+25
+
+be deemed to be an original, and all such counterparts shall be construed together and shall constitute one Agreement.
+
+(g)
+Modification; Subsequent Terms
+.  No amendment or modification of any provision of this Agreement shall be effective unless in writing and signed by a duly authorized representative of RUS and AssetMark.  To the extent that the terms and conditions of the Schedules hereto or Exhibits to such Schedules (“
+Subsequent Terms
+”) conflict with or create an ambiguity when read with those herein, those Subsequent Terms shall control the interpretation and any conflict resolution thereof
+, but only to the extent the parties have specifically identified in writing and have referenced the terms and conditions contained herein that they are attempting to modify or override.
+
+(h)
+Entire Agreement.
+ This constitute the entire agreement between the parties concerning the subject matter hereof and supersedes all prior or contemporaneous representations, discussions, proposals, negotiations, conditions, agreements, and communications, whether oral or written. In particular, unless otherwise specifically set out herein, no shrink-wrap, click-wrap, or other terms and conditions, privacy policies, or agreements (“
+Additional Terms
+”) provided with any products, services, documentation or software, including any maintenance and support updates thereto, hereunder shall be binding on AssetMark, even if use of such items requires an affirmative “acceptance” of those Additional Terms before access is permitted.  All such Additional Terms shall be of no force or effect and shall be deemed rejected by AssetMark in their entirety.
+
+(i)
+Remedies Cumulative; Waiver
+.  The enumeration herein of specific remedies shall not be exclusive of any other remedies, including any remedies that the parties may have at law or in equity.  Subject to the notice requirements in Section 23(b) above, the waiver by either party of a breach of or a default under any provision of this Agreement must be in writing, be specific as to the rights being waived and the intent of waiver, signed by the party against which such waiver is being asserted and shall not be construed as a waiver of any subsequent breach of or default under the same or any other provision of this Agreement, nor shall any delay or omission on the part of either party to exercise or avail itself of any right or remedy that it has or may have hereunder operate as a waiver of any right or remedy.
+
+(j)
+Permitted Subcontractors
+.  RUS shall have the right to retain consultants or contractors without the prior consent of AssetMark, but such consultants shall be subject to the obligations of RUS, and RUS shall be responsible for the acts and omissions of such parties to the same extent as if they were actions
+ of RUS.
+
+(k)
+Acquired AssetMark Users
+.  If AssetMark acquires a business entity that has an agreement with RUS for use of the BETA System, AssetMark shall be entitled add or convert the acquired entity’s users to AssetMark’s instance of the BETA System and such additional users’ use of the BETA System shall be governed by this Agreement upon such acquisition.  Further, AssetMark shall be entitled to terminate the agreement between RUS and the acquired entity; provided, however, that the acquired entity, or its successor in interest  shall remain responsible for all fees relating to termination for convenience specified in such agreement, outstanding fees due and owing to RUS, deconversion fees specified in the such agreement, and fees specified in such Agreement relating to BETA System inquiry capabilities post financial conversion (i.e., for historical data lookups and storage).
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+26
+
+(l)
+Relationship of the Parties
+.  Nothing contained in this Agreement shall be deemed or construed as creating a joint venture, general or limited partnership, branch or agency, employment, or fiduciary relationship between the parties.  Neither party, nor either party’s agents, have any authority of any kind to bind the other party in any respect whatsoever, and the relationship of the parties is, and at all times shall continue to be, that of independent contractors.  This Agreement is not intended, nor shall it be construed, to bestow upon either party any special treatment regarding any other arrangements, agreements or understandings that exist or may hereafter exist between the parties or their affiliates.  Neither party shall have any obligation to deal with the other in any capacity other than as set forth in this Agreement.  Nothing herein shall cause either party to be construed as or deemed to be a fiduciary with respect to the other party or to any customer of AssetMark.
+
+(m)
+Governance Meetings
+.  Every thirty-six (36) months, the members of the Governance Committee shall meet to review changes in Industry Standards and pricing trends.  In reviewing pricing trends AssetMark agrees that the pricing model in Exhibit A was formulated by RUS to meet AssetMark’s request for a ten (10) year term.  As such, the pricing in the beginning years were significantly reduced and the later years of the Term were adjusted to accommodate that request.  If the parties agree to modify the pricing they must account for that model and agree on a commercially reasonable change that does not unfairly penalize RUS.  In addition, in year seven (7) of the Term, the parties shall commence discussions on renewal of the Term
+
+(n)
+Evolution of the BETA Services.  At its cost and expense, RUS will cause the BETA Services to evolve and be enhanced, modified, replaced and supplemented as reasonably necessary to allow AssetMark to take advantage of technological advances and to keep pace with advances in the U.S. brokerage industry that are accepted as Industry Standard.  The term “
+Industry Standard
+” means advances that are (i) implemented by at least two (2) major market participants or recommended by the majority of the BUC.  In providing the BETA Services to AssetMark, RUS will inform AssetMark of new improvements, enhancements, modifications, updates, releases and revisions to the platform or other related technology or processes RUS is developing that could be expected to have an impact on the BETA Services or AssetMark’s business.
+
+24.
+Definitions
+.  
+
+ 
+
+(a)
+The following terms, when used with initial capital letters in this Agreement, shall have the meaning ascribed below:
+
+ 
+
+(i)
+“
+BETA Services
+” consist of all of the services provided hereunder by RUS pursuant to this Agreement
+
+ 
+
+(ii)
+“
+Client Materials
+” means, collectively, all (a) information, Client Personal Data, software, or other materials provided to RUS by or on behalf of AssetMark, which RUS is required to host, use or modify in the provision of a Service; (b) AssetMark's
+ 
+Contributed
+ 
+Data;
+ 
+and
+ 
+(c)
+ 
+material
+ 
+users
+ 
+contribute
+ 
+to
+ 
+any Interactive
+ 
+Service.
+
+ 
+
+(iii)
+“
+Client Personal Data
+” means the Personally Identifiable Information made available or uploaded into the BETA System 
+by, 
+or on behalf of, AssetMark and processed by RUS in connection with this Agreement.
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+27
+
+ 
+
+(iv)
+“
+Documentation
+” means user manuals, technical manuals, product descriptions, service guides and the like that are made generally available by RUS to users of the BETA System.  RUS has provided the applicable Documentation as of the Effective Date to AssetMark.  Changes to the Documentation shall not operate to reduce or diminish the features, functions or capabilities of the BETA System.
+
+ 
+
+(v)
+“
+Laws
+” means any law, by-law, stated policy, declaration, decree, directive, legislative enactment, statute, order, ordinance, regulation, rule or other binding action of or by a Federal, state, municipal, local, territorial or other domestic or foreign government department, security exchange, association, registered securities association, registered clearing agency, municipal securities rulemaking board, regulatory authority, judicial or administrative body.
+
+ 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+28
+
+ 
+
+25.
+Schedules and Exhibits
+.  The following Schedules and Exhibits are incorporated into this Agreement by this reference:
+
+ 
+
+Exhibit A – Pricing for BETA Services
+
+Exhibit B – Service Level Agreement and Reports
+
+Exhibit C – Conversion Rates
+
+Exhibit D – Disaster Recovery, Business Continuity
+
+Exhibit E – Security
+
+Exhibit F – Third Party Terms
+
+Exhibit G - Escrow
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+29
+
+IN WITNESS WHEREOF, 
+each party hereto has, through its duly authorized representative, executed this Agreement as of th
+e date 
+set forth below
+.
+
+ 
+
+Refinitiv US LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Joseph Mrak III
+
+ 
+
+5/21/2020
+
+ 
+
+Signature
+
+ 
+
+Date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Global Head of Wealth
+
+ 
+
+ 
+
+ 
+
+Title
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Joseph Mrak III
+
+ 
+
+ 
+
+ 
+
+Print
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AssetMark Financial Holdings, Inc. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Charles Goldman
+
+ 
+
+5/20/2020
+
+ 
+
+Signature
+
+ 
+
+Date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+President and CEO
+
+ 
+
+ 
+
+ 
+
+Title
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Charles Goldman
+
+ 
+
+ 
+
+ 
+
+Print
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Confidential Information of AssetMark and RUS
+
+ 
+
+30
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXHIBIT A
+
+BETA PRICING DETAIL
+
+ 
+
+ 
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Confidential Information of AssetMark and RUS

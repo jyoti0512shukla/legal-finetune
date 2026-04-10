@@ -1,0 +1,177 @@
+{
+  "contract_type": "SAAS",
+  "target_count": 25,
+  "raw_hits": 55,
+  "after_quality_filter": 10,
+  "after_diversity_filter": 10,
+  "rejected_total": 45,
+  "selected": [
+    {
+      "filer": "Brag House Holdings, Inc.",
+      "tier": "unknown",
+      "year": 2025,
+      "accession": "0001213900-25-003044",
+      "word_count": 8256,
+      "quality_score": 5,
+      "quality_issues": [],
+      "bias": "balanced",
+      "length_bucket": "long"
+    },
+    {
+      "filer": "CarbonMeta Technologies, Inc.",
+      "tier": "unknown",
+      "year": 2023,
+      "accession": "0001493152-23-013105",
+      "word_count": 3216,
+      "quality_score": 4,
+      "quality_issues": [
+        "no_clear_parties"
+      ],
+      "bias": "balanced",
+      "length_bucket": "medium"
+    },
+    {
+      "filer": "Genius Group Ltd",
+      "tier": "unknown",
+      "year": 2021,
+      "accession": "0001104659-21-111136",
+      "word_count": 15624,
+      "quality_score": 4,
+      "quality_issues": [
+        "no_clear_parties"
+      ],
+      "bias": "balanced",
+      "length_bucket": "very_long"
+    },
+    {
+      "filer": "AssetMark Financial Holdings, Inc.",
+      "tier": "unknown",
+      "year": 2021,
+      "accession": "0001564590-21-042168",
+      "word_count": 15801,
+      "quality_score": 4,
+      "quality_issues": [
+        "missing_1_standard_clauses"
+      ],
+      "bias": "balanced",
+      "length_bucket": "very_long"
+    },
+    {
+      "filer": "Rivian Automotive, Inc. / DE",
+      "tier": "unknown",
+      "year": 2021,
+      "accession": "0001193125-21-289903",
+      "word_count": 10796,
+      "quality_score": 4,
+      "quality_issues": [
+        "some_redaction_11"
+      ],
+      "bias": "balanced",
+      "length_bucket": "long"
+    },
+    {
+      "filer": "Coursera, Inc.",
+      "tier": "unknown",
+      "year": 2021,
+      "accession": "0000950123-21-000094",
+      "word_count": 7629,
+      "quality_score": 4,
+      "quality_issues": [
+        "no_clear_parties"
+      ],
+      "bias": "balanced",
+      "length_bucket": "long"
+    },
+    {
+      "filer": "Tesspay Inc.",
+      "tier": "unknown",
+      "year": 2024,
+      "accession": "0001493152-24-005723",
+      "word_count": 8552,
+      "quality_score": 4,
+      "quality_issues": [
+        "no_clear_parties"
+      ],
+      "bias": "balanced",
+      "length_bucket": "long"
+    },
+    {
+      "filer": "LPL Financial Holdings Inc.",
+      "tier": "unknown",
+      "year": 2021,
+      "accession": "0001397911-21-000029",
+      "word_count": 11340,
+      "quality_score": 3,
+      "quality_issues": [
+        "missing_1_standard_clauses",
+        "some_redaction_10"
+      ],
+      "bias": "balanced",
+      "length_bucket": "long"
+    },
+    {
+      "filer": "RxSight, Inc.",
+      "tier": "unknown",
+      "year": 2021,
+      "accession": "0001193125-21-211793",
+      "word_count": 6124,
+      "quality_score": 3,
+      "quality_issues": [
+        "missing_1_standard_clauses",
+        "no_clear_parties"
+      ],
+      "bias": "balanced",
+      "length_bucket": "long"
+    },
+    {
+      "filer": "Tesspay Inc.",
+      "tier": "unknown",
+      "year": 2024,
+      "accession": "0001493152-24-005723",
+      "word_count": 5925,
+      "quality_score": 3,
+      "quality_issues": [
+        "missing_1_standard_clauses",
+        "no_clear_parties"
+      ],
+      "bias": "balanced",
+      "length_bucket": "medium"
+    }
+  ],
+  "distribution": {
+    "tiers": {
+      "unknown": 10
+    },
+    "tier_targets": null,
+    "companies": {
+      "Brag House Holdings, Inc.": 1,
+      "CarbonMeta Technologies, Inc.": 1,
+      "Genius Group Ltd": 1,
+      "AssetMark Financial Holdings, Inc.": 1,
+      "Rivian Automotive, Inc. / DE": 1,
+      "Coursera, Inc.": 1,
+      "Tesspay Inc.": 2,
+      "LPL Financial Holdings Inc.": 1,
+      "RxSight, Inc.": 1
+    },
+    "unique_companies": 9,
+    "years": {
+      "2025": 1,
+      "2023": 1,
+      "2021": 6,
+      "2024": 2
+    },
+    "bias": {
+      "balanced": 10
+    },
+    "length_bucket": {
+      "long": 6,
+      "medium": 2,
+      "very_long": 2
+    }
+  },
+  "pii_redacted": {
+    "emails": 7,
+    "phones": 2
+  }
+}

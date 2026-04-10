@@ -1,0 +1,512 @@
+{
+  "target_per_type": 25,
+  "min_year": 0,
+  "types": {
+    "IP_LICENSE": {
+      "selected": [
+        {
+          "filer": "CerenceInc",
+          "year": 2019,
+          "word_count": 9608,
+          "quality_score": 5,
+          "quality_issues": [],
+          "cuad_folder": "IP",
+          "filename": "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.pdf"
+        },
+        {
+          "filer": "ArmstrongFlooringInc",
+          "year": 2019,
+          "word_count": 8284,
+          "quality_score": 5,
+          "quality_issues": [],
+          "cuad_folder": "IP",
+          "filename": "ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual Property Agreement.pdf"
+        },
+        {
+          "filer": "GarrettMotionInc",
+          "year": 2018,
+          "word_count": 8757,
+          "quality_score": 4,
+          "quality_issues": [
+            "missing_1_standard_clauses"
+          ],
+          "cuad_folder": "IP",
+          "filename": "GarrettMotionInc_20181001_8-K_EX-2.4_11364532_EX-2.4_Intellectual Property Agreement.pdf"
+        }
+      ],
+      "company_distribution": {
+        "CerenceInc": 1,
+        "ArmstrongFlooringInc": 1,
+        "GarrettMotionInc": 1
+      },
+      "year_distribution": {
+        "2018": 1,
+        "2019": 2
+      },
+      "quality_distribution": {
+        "5": 2,
+        "4": 1
+      },
+      "unique_companies": 3,
+      "count": 3,
+      "pii_redacted": {
+        "emails": 18,
+        "phones": 42
+      }
+    },
+    "MAINTENANCE": {
+      "selected": [
+        {
+          "filer": "CardlyticsInc",
+          "year": 2018,
+          "word_count": 25087,
+          "quality_score": 5,
+          "quality_issues": [],
+          "cuad_folder": "Maintenance",
+          "filename": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement1.pdf"
+        },
+        {
+          "filer": "BloomEnergyCorp",
+          "year": 2018,
+          "word_count": 16116,
+          "quality_score": 3,
+          "quality_issues": [
+            "heavy_redaction_70"
+          ],
+          "cuad_folder": "Maintenance",
+          "filename": "BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.pdf"
+        }
+      ],
+      "company_distribution": {
+        "CardlyticsInc": 1,
+        "BloomEnergyCorp": 1
+      },
+      "year_distribution": {
+        "2018": 2
+      },
+      "quality_distribution": {
+        "5": 1,
+        "3": 1
+      },
+      "unique_companies": 2,
+      "count": 2,
+      "pii_redacted": {
+        "emails": 0,
+        "phones": 2
+      }
+    },
+    "MSA": {
+      "selected": [
+        {
+          "filer": "KUBIENT",
+          "year": 0,
+          "word_count": 4014,
+          "quality_score": 5,
+          "quality_issues": [],
+          "cuad_folder": "Service",
+          "filename": "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part1.pdf"
+        },
+        {
+          "filer": "FEDERATEDGOVERNMENTINCOMESECURITIESINC",
+          "year": 2020,
+          "word_count": 1762,
+          "quality_score": 4,
+          "quality_issues": [
+            "missing_1_standard_clauses"
+          ],
+          "cuad_folder": "Service",
+          "filename": "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.pdf"
+        },
+        {
+          "filer": "VerizonAbsLlc",
+          "year": 2020,
+          "word_count": 45143,
+          "quality_score": 3,
+          "quality_issues": [
+            "too_long",
+            "no_clear_parties"
+          ],
+          "cuad_folder": "Service",
+          "filename": "VerizonAbsLlc_20200123_8-K_EX-10.4_11952335_EX-10.4_Service Agreement.pdf"
+        },
+        {
+          "filer": "ReynoldsConsumerProductsInc",
+          "year": 2020,
+          "word_count": 17207,
+          "quality_score": 3,
+          "quality_issues": [
+            "missing_1_standard_clauses",
+            "no_clear_parties"
+          ],
+          "cuad_folder": "Service",
+          "filename": "ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.pdf"
+        }
+      ],
+      "company_distribution": {
+        "KUBIENT": 1,
+        "FEDERATEDGOVERNMENTINCOMESECURITIESINC": 1,
+        "VerizonAbsLlc": 1,
+        "ReynoldsConsumerProductsInc": 1
+      },
+      "year_distribution": {
+        "0": 1,
+        "2020": 3
+      },
+      "quality_distribution": {
+        "5": 1,
+        "4": 1,
+        "3": 2
+      },
+      "unique_companies": 4,
+      "count": 4,
+      "pii_redacted": {
+        "emails": 11,
+        "phones": 9
+      }
+    },
+    "OUTSOURCING": {
+      "selected": [
+        {
+          "filer": "ParatekPharmaceuticalsInc",
+          "year": 2017,
+          "word_count": 17726,
+          "quality_score": 3,
+          "quality_issues": [
+            "missing_1_standard_clauses",
+            "no_clear_parties"
+          ],
+          "cuad_folder": "Outsourcing",
+          "filename": "ParatekPharmaceuticalsInc_20170505_10-KA_EX-10.29_10323872_EX-10.29_Outsourcing Agreement.pdf"
+        },
+        {
+          "filer": "FerroglobePlc",
+          "year": 2015,
+          "word_count": 4627,
+          "quality_score": 3,
+          "quality_issues": [
+            "missing_2_standard_clauses"
+          ],
+          "cuad_folder": "Outsourcing",
+          "filename": "FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing Agreement.pdf"
+        }
+      ],
+      "company_distribution": {
+        "ParatekPharmaceuticalsInc": 1,
+        "FerroglobePlc": 1
+      },
+      "year_distribution": {
+        "2015": 1,
+        "2017": 1
+      },
+      "quality_distribution": {
+        "3": 2
+      },
+      "unique_companies": 2,
+      "count": 2,
+      "pii_redacted": {
+        "emails": 2,
+        "phones": 3
+      }
+    },
+    "RESELLER": {
+      "selected": [
+        {
+          "filer": "EhaveInc",
+          "year": 2019,
+          "word_count": 13634,
+          "quality_score": 5,
+          "quality_issues": [],
+          "cuad_folder": "Reseller",
+          "filename": "EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement.pdf"
+        },
+        {
+          "filer": "GentechHoldingsInc",
+          "year": 2019,
+          "word_count": 4097,
+          "quality_score": 5,
+          "quality_issues": [],
+          "cuad_folder": "Distributor",
+          "filename": "GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.pdf"
+        },
+        {
+          "filer": "StaarSurgicalCompany",
+          "year": 2018,
+          "word_count": 7649,
+          "quality_score": 5,
+          "quality_issues": [],
+          "cuad_folder": "Distributor",
+          "filename": "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf"
+        },
+        {
+          "filer": "InnerscopeHearingTechnologiesInc",
+          "year": 2018,
+          "word_count": 3360,
+          "quality_score": 5,
+          "quality_issues": [],
+          "cuad_folder": "Distributor",
+          "filename": "InnerscopeHearingTechnologiesInc_20181109_8-K_EX-10.6_11419704_EX-10.6_Distributor Agreement.pdf"
+        },
+        {
+          "filer": "NEONSYSTEMSINC",
+          "year": 1999,
+          "word_count": 8888,
+          "quality_score": 5,
+          "quality_issues": [],
+          "cuad_folder": "Distributor",
+          "filename": "NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_New.pdf"
+        },
+        {
+          "filer": "FuseMedicalInc",
+          "year": 2019,
+          "word_count": 5339,
+          "quality_score": 4,
+          "quality_issues": [
+            "no_clear_parties"
+          ],
+          "cuad_folder": "Distributor",
+          "filename": "FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.pdf"
+        },
+        {
+          "filer": "HealthcareIntegratedTechnologiesInc",
+          "year": 2019,
+          "word_count": 3519,
+          "quality_score": 4,
+          "quality_issues": [
+            "missing_1_standard_clauses"
+          ],
+          "cuad_folder": "Reseller",
+          "filename": "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf"
+        },
+        {
+          "filer": "SmartRxSystemsInc",
+          "year": 2018,
+          "word_count": 6123,
+          "quality_score": 4,
+          "quality_issues": [
+            "missing_1_standard_clauses"
+          ],
+          "cuad_folder": "Distributor",
+          "filename": "SmartRxSystemsInc_20180914_1-A_EX1A-6 MAT CTRCT_11351705_EX1A-6 MAT CTRCT_Distributor Agreement.pdf"
+        },
+        {
+          "filer": "BravatekSolutionsInc",
+          "year": 2017,
+          "word_count": 2384,
+          "quality_score": 4,
+          "quality_issues": [
+            "missing_1_standard_clauses"
+          ],
+          "cuad_folder": "Reseller",
+          "filename": "BravatekSolutionsInc_20170418_8-K_EX-10.1_10205739_EX-10.1_Reseller Agreement.pdf"
+        },
+        {
+          "filer": "ImineCorp",
+          "year": 2018,
+          "word_count": 5369,
+          "quality_score": 3,
+          "quality_issues": [
+            "missing_2_standard_clauses"
+          ],
+          "cuad_folder": "Distributor",
+          "filename": "ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.pdf"
+        },
+        {
+          "filer": "NETGEAR",
+          "year": 0,
+          "word_count": 6029,
+          "quality_score": 3,
+          "quality_issues": [
+            "no_clear_parties"
+          ],
+          "cuad_folder": "Distributor",
+          "filename": "NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.pdf"
+        }
+      ],
+      "company_distribution": {
+        "EhaveInc": 1,
+        "GentechHoldingsInc": 1,
+        "StaarSurgicalCompany": 1,
+        "InnerscopeHearingTechnologiesInc": 1,
+        "NEONSYSTEMSINC": 1,
+        "FuseMedicalInc": 1,
+        "HealthcareIntegratedTechnologiesInc": 1,
+        "SmartRxSystemsInc": 1,
+        "BravatekSolutionsInc": 1,
+        "ImineCorp": 1,
+        "NETGEAR": 1
+      },
+      "year_distribution": {
+        "0": 1,
+        "1999": 1,
+        "2017": 1,
+        "2018": 4,
+        "2019": 4
+      },
+      "quality_distribution": {
+        "5": 5,
+        "4": 4,
+        "3": 2
+      },
+      "unique_companies": 11,
+      "count": 11,
+      "pii_redacted": {
+        "emails": 2,
+        "phones": 2
+      }
+    },
+    "SAAS": {
+      "selected": [
+        {
+          "filer": "VitalibisInc",
+          "year": 2018,
+          "word_count": 7045,
+          "quality_score": 5,
+          "quality_issues": [],
+          "cuad_folder": "Hosting",
+          "filename": "VitalibisInc_20180316_8-K_EX-10.2_11100168_EX-10.2_Hosting Agreement.pdf"
+        }
+      ],
+      "company_distribution": {
+        "VitalibisInc": 1
+      },
+      "year_distribution": {
+        "2018": 1
+      },
+      "quality_distribution": {
+        "5": 1
+      },
+      "unique_companies": 1,
+      "count": 1,
+      "pii_redacted": {
+        "emails": 3,
+        "phones": 2
+      }
+    },
+    "SOFTWARE_LICENSE": {
+      "selected": [
+        {
+          "filer": "GpaqAcquisitionHoldingsInc",
+          "year": 2020,
+          "word_count": 7187,
+          "quality_score": 4,
+          "quality_issues": [
+            "no_clear_parties"
+          ],
+          "cuad_folder": "License_Agreements",
+          "filename": "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.6_11951677_EX-10.6_License Agreement.pdf"
+        },
+        {
+          "filer": "CytodynInc",
+          "year": 2020,
+          "word_count": 24801,
+          "quality_score": 3,
+          "quality_issues": [
+            "heavy_redaction_92"
+          ],
+          "cuad_folder": "License_Agreements",
+          "filename": "CytodynInc_20200109_10-Q_EX-10.5_11941634_EX-10.5_License Agreement.pdf"
+        }
+      ],
+      "company_distribution": {
+        "GpaqAcquisitionHoldingsInc": 1,
+        "CytodynInc": 1
+      },
+      "year_distribution": {
+        "2020": 2
+      },
+      "quality_distribution": {
+        "4": 1,
+        "3": 1
+      },
+      "unique_companies": 2,
+      "count": 2,
+      "pii_redacted": {
+        "emails": 0,
+        "phones": 0
+      }
+    },
+    "VENDOR_SUPPLY": {
+      "selected": [
+        {
+          "filer": "InmodeLtd",
+          "year": 2019,
+          "word_count": 6122,
+          "quality_score": 5,
+          "quality_issues": [],
+          "cuad_folder": "Manufacturing",
+          "filename": "InmodeLtd_20190729_F-1A_EX-10.9_11743243_EX-10.9_Manufacturing Agreement.pdf"
+        },
+        {
+          "filer": "UpjohnInc",
+          "year": 2020,
+          "word_count": 33948,
+          "quality_score": 4,
+          "quality_issues": [
+            "too_long"
+          ],
+          "cuad_folder": "Manufacturing",
+          "filename": "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf"
+        },
+        {
+          "filer": "ReynoldsConsumerProductsInc",
+          "year": 2019,
+          "word_count": 9599,
+          "quality_score": 4,
+          "quality_issues": [
+            "no_clear_parties"
+          ],
+          "cuad_folder": "Supply",
+          "filename": "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.pdf"
+        },
+        {
+          "filer": "KitovPharmaLtd",
+          "year": 2019,
+          "word_count": 8964,
+          "quality_score": 3,
+          "quality_issues": [
+            "no_clause_structure"
+          ],
+          "cuad_folder": "Manufacturing",
+          "filename": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement.pdf"
+        },
+        {
+          "filer": "NeuroboPharmaceuticalsInc",
+          "year": 2019,
+          "word_count": 3094,
+          "quality_score": 3,
+          "quality_issues": [
+            "heavy_redaction_88"
+          ],
+          "cuad_folder": "Manufacturing",
+          "filename": "NeuroboPharmaceuticalsInc_20190903_S-4_EX-10.36_11802165_EX-10.36_Manufacturing Agreement_ Supply Agreement.pdf"
+        }
+      ],
+      "company_distribution": {
+        "InmodeLtd": 1,
+        "UpjohnInc": 1,
+        "ReynoldsConsumerProductsInc": 1,
+        "KitovPharmaLtd": 1,
+        "NeuroboPharmaceuticalsInc": 1
+      },
+      "year_distribution": {
+        "2019": 4,
+        "2020": 1
+      },
+      "quality_distribution": {
+        "5": 1,
+        "4": 2,
+        "3": 2
+      },
+      "unique_companies": 5,
+      "count": 5,
+      "pii_redacted": {
+        "emails": 4,
+        "phones": 0
+      }
+    }
+  },
+  "pii_grand_total": {
+    "emails": 40,
+    "phones": 60
+  }
+}

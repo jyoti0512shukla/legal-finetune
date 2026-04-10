@@ -1,0 +1,731 @@
+EX-10.96
+
+5
+
+ex10-96.htm
+
+ 
+
+Exhibit
+10.96
+
+ 
+
+GULP
+DATA, INC.
+
+SAAS
+AGREEMENT
+
+ 
+
+This
+SaaS Agreement (“
+Agreement
+”) is entered into on 
+8/17/2022
+ (the “
+Effective Date
+”) between
+Gulp Data, Inc., with a place of business at 1250 Av. Juan Ponce de León, 3
+rd
+ Floor, San Juan, Puerto Rico, 00907 (“
+GulpData
+”),
+and CarbonMeta Technologies Inc, a Delaware company, with a place of business at 13110 NE 177th Place, #145 Woodinville, WA 98072 (“
+Customer
+”).
+There shall be no force or effect to any different terms of any related purchase order or similar form even if signed by the parties
+after the date hereof.
+
+ 
+
+SECTION
+1: DEFINITIONS
+
+ 
+
+As
+used herein, the following terms shall have the following definitions:
+
+ 
+
+a)
+“
+DataSet
+”
+ means the raw form of Customer’s data as set forth on Exhibit A, and any and all updates,
+ upgrades and new data added by Customer to the DataSet during the Term of this Agreement.
+
+ 
+ 
+
+b)
+“
+Lender
+ Agreement
+” means the lending agreement between Lender and Customer as set forth
+ on Exhibit B.
+
+ 
+ 
+
+c)
+“
+Lender
+”
+ means the third party Lender set forth on Exhibit B.
+
+ 
+ 
+
+d)
+“
+Services
+”
+ means GulpData’s cloud-based services as further described herein.
+
+ 
+ 
+
+e)
+“
+Service
+ Fee
+” collectively means the implementation and hosting fees as set forth on Exhibit
+ A.
+
+ 
+ 
+
+f)
+“
+Natural
+ Terminating Event
+” means the end of the month following the full payment and satisfaction
+ of all obligations due by Customer to Lender under the Lender Agreement.
+
+ 
+
+SECTION
+2: GENERAL PROVISIONS
+
+ 
+
+2.1.
+
+About the Services
+. As a requirement under the Lender Agreement, Lender requires that Customer store the DataSet with GulpData
+pursuant to the terms of this Agreement. Customer shall work with GulpData in good faith to set up, install, and maintain an interface
+(the “Interface”) between Customer’s systems and the GulpData Service to allow for the real-time access and extraction
+of the DataSet for the duration of the Term (as hereinafter defined in Section 5.1). Such DataSet shall be made available to GulpData
+in an un-encrypted format, at all times. Customer shall not block, interfere or tamper with, or otherwise prohibit, the Interface from
+accessing, analyzing and extracting the DataSet. Customer shall for the duration of the Term continue to update and service the DataSet.
+Any such blocking, interfering, tampering or otherwise prohibiting such Interface, or failing to update or service the DataSet required
+to be made available hereunder, shall be deemed a material breach of this Agreement by Customer. In consideration for the Service Fees
+set forth herein, and the other consideration provided to GulpData hereunder (including pursuant to Section 7 hereof), GulpData shall
+store and maintain a copy of the DataSet in the Services during the Term. Customer hereby grants GulpData the right to access, store,
+maintain, update and otherwise use the DataSet in order to provide the Services to Customer during the Term.
+
+ 
+
+2.2.
+
+Reliance on the Services; Assumption of the Risk
+. Customer acknowledges that the Services are provided for general storage purposes
+only. Customer acknowledges further that any reliance on the Services is at Customer’s own risk. Customer understands and agrees
+that GulpData shall bear no liability or otherwise be responsible for delays in the provision of Services or any portion thereof.
+
+ 
+
+2.3.
+
+Restrictions and Responsibilities
+. In addition to the other restrictions set forth in this Agreement, Customer will not, directly
+or indirectly, do any of the following: reverse engineer, decompile, disassemble or otherwise attempt to discover the source code, object
+code or underlying structure, ideas, know-how or algorithms relevant to the Services or any Interface, software, documentation or data
+related to the Services (“
+Software
+”); modify, translate, or create derivative works based on the Services or any Software
+(except to the extent permitted in writing by GulpData). Customer represents, covenants, and warrants that Customer will use the Services
+only in compliance with this Agreement and all applicable laws and regulations, and will not tamper with the Services or Software. Customer
+shall be responsible for obtaining and maintaining any equipment and ancillary services needed to connect to, access or otherwise use
+the Services, including, without limitation, modems, hardware, servers, software, operating systems, networking, web servers and the
+like (collectively, “
+Equipment
+”). Customer shall also be responsible for maintaining the security of the Equipment,
+and for all uses of Customer’s account or the Equipment with or without Customer’s knowledge or consent.
+
+ 
+
+2.4.
+
+Authorized Users
+. Customer is responsible for compliance of this Agreement by its personnel (collectively, the “Authorized
+Users”). Additionally, Customer shall require Authorized Users to (i) keep all passwords used to access the Services confidential
+and secure; (ii) not attempt to gain unauthorized access to the Services or their related systems or networks; and (iii) not tamper with
+the DataSet or the Interface. Customer shall not, and shall cause all Authorized Users not to, impersonate another user or provide false
+user information or passwords or share accounts. Customer is solely responsible for the performance of all obligations under this Section,
+and Authorized Users’ compliance with all applicable federal, state and local laws.
+
+ 
+
+1
+
+ 
+
+ 
+
+SECTION
+3: USE OF THE SERVICES
+
+ 
+
+3.1.
+
+Right to Monitor
+. GulpData shall have the right to monitor Customer’s use of the Services, and its obligations hereunder.
+
+ 
+
+3.2.
+
+Proprietary Information and Data Confidentiality
+. Each party (the “
+Receiving Party
+”) understands that the other
+party (the “
+Disclosing Party
+”) has disclosed or may disclose business, technical or financial information relating
+to the Disclosing Party’s business that the Receiving Party knows or reasonably should know is confidential to the Disclosing Party
+(hereinafter referred to as “
+Proprietary Information
+” of the Disclosing Party). Proprietary Information of GulpData
+includes non-public information regarding features, functionality and performance of the Service, and the Derived Data (defined in Section
+9.3). Proprietary Information of Customer includes, but is not limited to, the DataSet. The Receiving Party agrees: (i) to take reasonable
+precautions to protect such Proprietary Information, and (ii) not to use (except in performance or development of the Services or as
+otherwise permitted in this Agreement) or divulge to any third person any such Proprietary Information. The Disclosing Party agrees that
+the foregoing shall not apply with respect to (I) any information after three (3) years following the disclosure thereof; or (II) any
+information that the Receiving Party can document (a) is or becomes generally available to the public, or (b) was in its possession or
+known by it prior to receipt from the Disclosing Party, or (c) was rightfully disclosed to it without restriction by a third party, or
+(d) was independently developed without use of any Proprietary Information of the Disclosing Party. A disclosure of Proprietary Information
+which is required to be disclosed by law or by a regulatory authority is not a breach of this Agreement. Customer shall own all right,
+title and interest in and to the DataSet, except for the rights expressly granted to GulpData hereunder. GulpData shall own and retain
+all right, title and interest in and to (A) the Services and Software, all improvements, enhancements or modifications thereto, (B) any
+software, applications, inventions or other technology developed in connection with implementation services, customer feedback or technical
+support, (C) any Derived Data (as hereinafter defined in Section 9.3), and (D) all intellectual property rights related to any of the
+foregoing. No rights or licenses are granted to the other party’s Proprietary Information, except as expressly set forth herein.
+
+ 
+
+SECTION
+4: FEES; TERMS OF PAYMENT; REFUNDS
+
+ 
+
+4.1.
+
+Service Fees
+. Customer shall pay the Service Fees (or have the Service Fees paid on their behalf by Lender) as compensation for
+the Services performed by GulpData. All Service Fees paid hereunder shall be non-refundable.
+
+ 
+
+4.2.
+
+Invoicing
+. All Service Fees shall be due up front in advance of the Term.
+
+ 
+
+4.3.
+
+Form of Payment
+. Payment shall be made as requested by GulpData.
+
+ 
+
+4.4.
+
+Taxes
+. All Service Fees are exclusive of taxes, including, without limitation, any sales, use, excise, withholding or other taxes
+based on the payment of any fees hereunder or use or access of the Services by Customer hereunder (collectively, “Taxes”).
+
+ 
+
+SECTION
+5: TERM AND TERMINATION
+
+ 
+
+5.1.
+
+Term
+. This Agreement commences as of the Effective Date and shall continue thereafter for a period of twelve (12) months thereafter,
+or as otherwise extended or earlier terminated as provided for under this Agreement (the “Term”).
+
+ 
+
+5.2.
+
+Termination
+. Either party may terminate this Agreement for cause if the other party materially breaches this Agreement and such
+breach is not cured within three (3) business days after written notice of the breach. In addition, this Agreement shall also terminate
+on a Natural Terminating Event.
+
+ 
+
+5.3.
+
+No Refund of Fees
+. In no event shall any fees paid to GulpData be refunded, in whole or in part, for any reason or no reason whatsoever.
+
+ 
+
+5.4.
+
+Destruction of Customer Data
+. In the event this Agreement is terminated due to a Natural Terminating Event, GulpData shall delete
+or destroy the DataSet held by GulpData in the Services. Except in the case of a Natural Terminating Event, Customer understands that
+the DataSet will not be deleted or destroyed.
+
+ 
+
+5.5
+
+Survival
+. Sections 3, 4, 6, 7, 8 and 9 shall survive any termination or expiration of this Agreement.
+
+ 
+
+2
+
+ 
+
+ 
+
+SECTION
+6: DISCLAIMERS; LIMITATIONS OF LIABILITY; INDEMNIFICATION
+
+ 
+
+6.1.
+
+DISCLAIMER OF WARRANTY
+. GULPDATA DOES NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR FREE; NOR DOES IT MAKE ANY
+WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF THE SERVICES. THE SERVICES ARE PROVIDED “AS IS” AND GULPDATA
+DISCLAIMS AND EXCLUDES ALL WARRANTIES, WHETHER STATUTORY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+ 
+
+6.2.
+
+LIMITATION OF LIABILITY
+. GULPDATA SHALL NOT HAVE ANY LIABILITY TO CUSTOMER ARISING OUT OF OR RELATING TO THIS AGREEMENT FOR ANY:
+(I) LOST REVENUES, PROFITS, SAVINGS OR GOODWILL; OR (II) ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES. IN ADDITION,
+THE TOTAL AGGREGATE LIABILITY OF GULPDATA ARISING OUT OF OR IN ANY WAY CONNECTED TO THIS AGREEMENT SHALL NOT EXCEED THE AMOUNT OF SERVICES
+FEES PAID BY CUSTOMER TO GULPDATA.
+
+ 
+
+6.3.
+
+INDEMNIFICATION
+. CUSTOMER AGREES TO, AS APPLICABLE, DEFEND OR TO ASSIST IN THE DEFENSE OF GULPDATA AND GULPDATA’S AFFILIATES,
+SUPPLIERS, VENDORS AND ITS AND THEIR RESPECTIVE DIRECTORS, OFFICERS, USERS AND AGENTS (COLLECTIVELY, THE “
+INDEMNIFIED PARTIES
+”),
+FROM AND AGAINST ALL CLAIMS, CAUSES OF ACTION, SUITS, PROCEEDINGS, EACH BROUGHT BY A THIRD PARTY, TO THE EXTENT ARISING OUT OF OR RELATED
+TO (A) CUSTOMER’S USE OF THE SERVICES; (B) CUSTOMER’S NONCOMPLIANCE WITH OR BREACH OF THIS AGREEMENT; (C) CUSTOMER’S
+VIOLATIONS OF ANY THIRD-PARTY RIGHTS, INCLUDING THIRD-PARTY INTELLECTUAL PROPERTY RIGHTS; OR (D) GULPDATA’S PERMITTED USE OF THE
+DATASET PURSUANT TO THIS AGREEMENT, AND SHALL INDEMNIFY AND HOLD INDEMNIFIED PARTIES HARMLESS FROM ALL RESULTING LIABILITIES, LOSSES,
+DAMAGES, JUDGMENTS, SETTLEMENTS, COSTS AND EXPENSES, INCLUDING ATTORNEYS’ FEES AND COSTS OF LITIGATION AND APPEAL.
+
+ 
+
+SECTION
+7: LICENSE RIGHTS
+
+ 
+
+7.1
+
+License Grant
+ Customer hereby grants GulpData the perpetual, royalty-free, unrestricted right and license to use, sell or otherwise
+distribute the DataSet, in whole, in part or aggregated with other data, provided however that GulpData may not sell or otherwise distribute
+the DataSet, in whole, in part or aggregated with other data, for any commercial purposes unless: (a) Customer has breached this Agreement,
+in any manner and for any reason, including, without limitation, any obstruction or tampering of the Interface, and has failed to cure
+such breach within the cure period set forth in Section 5.2, or (b) Customer has defaulted or otherwise violated the terms of the Lender
+Agreement in accordance with the terms thereof.
+
+ 
+
+SECTION
+8: GOVERNING LAW; ARBITRATION
+
+ 
+
+8.1.
+
+Governing Law
+. This Agreement shall be governed and construed in accordance with the laws of the State of Delaware without regard
+to its conflicts of law provisions. Each of the parties hereto agrees to submit to the personal jurisdiction of the courts located in
+Kent County, Delaware, and any cause of action that relates to or arises from this Agreement and/or the Services must be filed therein
+unless subject to the binding arbitration provisions of Section 8.2.
+
+ 
+
+8.2.
+
+Arbitration
+. The parties agree that any dispute concerning, relating, or referring to this Agreement and/or the Services shall
+be resolved exclusively by binding arbitration administered by JAMS in accordance with the substantive laws of the State of Delaware
+and shall be brought for arbitration in Kent County, Delaware, pursuant to the JAMS Comprehensive Arbitration Rules and Procedures, which
+are deemed incorporated by reference into this Section 8.2.. The arbitrator and not any federal, state, or local court or agency shall
+have exclusive authority to resolve any dispute relating to the interpretation, applicability, enforceability, conscionability, or formation
+of this Agreement, including but not limited to any claim that all or any part of this Agreement is void or voidable. Nothing herein
+prevents either party from seeking any interim injunction it deems necessary in order to preserve the status quo prior to the resolution
+of any dispute, in any jurisdiction.
+
+ 
+
+3
+
+ 
+
+ 
+
+SECTION
+9: MISCELLANEOUS
+
+ 
+
+9.1.
+
+Authority
+. Each party represents and warrants to the other that it has full power and authority to enter into this Agreement and
+that it is binding upon such party and enforceable in accordance with its terms, except as may be limited by bankruptcy or insolvency
+laws and subject to principles of equity.
+
+ 
+
+9.2.
+
+Waiver
+. Any waiver of a right under this Agreement shall only be effective if agreed or declared in writing. Any delay in exercising
+a right or the non-exercise of a right shall not be deemed a waiver and shall not prevent a party from exercising that right in the future.
+The rights and remedies herein provided are cumulative and not exclusive of any rights and remedies provided by law.
+
+ 
+
+9.3.
+
+Derived Data
+. Notwithstanding anything to the contrary herein contained, GulpData shall have (and Customer consents to GulpData
+having) the right to collect, analyze and appraise data and other information relating to the provision, use and performance of the Services,
+including, without limitation, information concerning the DataSet and data derived therefrom, (including by use of scripts, crawlers
+and other tools implemented by GulpData) (such data and information to be collectively referred to herein as “Derived Data”).
+GulpData shall own all right, title and interest in and to the Derived Data. Customer acknowledges that GulpData may use, sell, or otherwise
+distribute the Derived Data as it sees fit, subject to Section 3.2, including for use in improving and enhancing the Services and for
+other development, diagnostic and corrective purposes in connection with the Services and other GulpData offerings, and for any other
+legal purposes. No rights or licenses to the Derived Data are granted to Customer hereunder.
+
+ 
+
+9.4.
+
+Force Majeure
+. Each party hereto shall not be bound to meet any obligation if prevented from doing so as a consequence of acts
+of God or force majeure, including but not limited to measures taken or imposed by any government or public authority or in case of any
+other event beyond the control of us, including but not limited to natural disasters (such as storm, hurricane, fire, flood, earthquake),
+war, civil unrest, terrorist activities, states of emergency, government sanctions, embargos, nationalizations, strikes and breakdowns
+of public utilities (such as of electricity or telecommunication services). The affected party shall use all reasonable efforts to notify
+the other party of the circumstances causing the delay and to resume performance as soon as possible, both without undue delay.
+
+ 
+
+9.5.
+
+Assignment
+. GulpData shall have the right to assign and/or transfer this Agreement and GulpData’s rights and obligations
+hereunder to any third party after notifying Customer as provided for herein. Customer agrees and acknowledges that Customer shall not
+assign or transfer its rights or subcontract or delegate the performance of any of its rights under this Agreement without GulpData’s
+prior written consent which consent shall not be unreasonably withheld or delayed. Any purported assignment or transfer in violation
+of this paragraph is void.
+
+ 
+
+9.6.
+
+Rights of Third Parties
+. This Agreement does not give any right to any third party unless explicitly stated herein.
+
+ 
+
+9.7.
+
+Relationship of the Parties
+. The parties are independent contractors under this Agreement, and nothing herein shall be construed
+to create a partnership, joint venture or agency relationship between them. Neither party has authority to enter into any agreement of
+any kind in the name of the other party.
+
+ 
+
+9.8.
+
+Severability
+. If any part of this Agreement is determined to be invalid or unenforceable by applicable law, then the invalid or
+unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original
+provision and the remainder of this Agreement will continue in effect.
+
+ 
+
+9.9.
+
+Notices
+. Except as explicitly stated otherwise, any notices shall be given in writing and delivered by email or postal mail to,
+as applicable, the email address set forth in the signature page or the address first set forth above, as each may be amended from time-to-time.
+
+ 
+
+9.10.
+
+Publicity
+. Customer grants a perpetual and irrevocable license to GulpData to reference Customer on public customer lists and
+to use Customer’s name and logo in press releases, advertising material and other promotional material. GulpData may, subject to
+Customer’s written approval, also publish a case study outlining the success of the relationship established by this Agreement,
+provided that it does not disclose any Proprietary Information.
+
+ 
+
+9.11.
+
+Entire Agreement
+. This Agreement and the Exhibits hereto contain the entire agreement of the parties with respect to the subject
+matter of this Agreement. All prior agreements and understandings on the subject matter are expressly merged into this Agreement. No
+other agreements, covenants, representations or warranties, express or implied, oral or written, have been made by the parties hereto
+concerning this Agreement.
+
+ 
+
+(signature
+page to follow)
+
+ 
+
+4
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, THE CUSTOMER AND GULP DATA HAVE CAUSED THIS AGREEMENT TO BE DULY EXECUTED BY THEIR RESPECTIVE DULY AUTHORIZED OFFICERS
+AS OF THE DATE FIRST ABOVE WRITTEN.
+
+ 
+
+GULP
+ DATA, INC.
+
+ 
+
+CARBONMETA
+ TECHNOLOGIES INC.
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+By:
+
+ 
+
+(Signature)
+
+ 
+
+ 
+
+(Signature)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+Lauren
+ Cascio
+
+ 
+
+Name:
+
+Lloyd
+ Spencer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+Chairman
+
+ 
+
+Title:
+
+CEO
+
+ 
+
+5
+
+ 
+
+ 
+
+Exhibit
+A
+
+ 
+
+Data
+Set; Service Fees
+
+ 
+
+DataSet
+Details
+:
+
+ 
+
+1.
+Connecticut
+ Business Case : Complete business model for processing of plastics waste into high value
+ hydrogen and carbon, including presentation and pro-forma P&L
+
+2.
+West
+ Virginia Business Case : Complete business model for processing of coal waste into high value
+ carbon, including presentation and pro-forma P&L
+
+3.
+Data
+ Files : list of active coal plants, which are target customers for the West Virginia Business
+ Case data set
+
+4.
+Silicon
+ Carbide Study : complete and recent study on silicon carbide marketplace
+
+ 
+
+Service
+Fees
+: The Service Fees for the Term shall be:
+
+ 
+
+Implementation
+Fees: $1,500
+
+Hosting
+Fees: $3.500
+
+ 
+
+__________________________________
+
+Total
+Service Fees: $5,000
+
+ 
+
+Payment
+Instructions:
+
+ 
+
+Beneficiary
+Name:
+ Gulp Data Inc.
+
+ 
+
+Account
+Number: 
+XXXXXX 
+
+ 
+
+Type
+of Account: 
+Checking
+
+ 
+
+Beneficiary
+Address:
+ 1250 Ponce de Leon Ave, STE 301 San Juan, San Juan 00907
+
+ 
+
+Receiving
+Bank Details:
+ ABA# 084106768 - Evolve Bank & Trust
+
+ 
+
+Bank
+Address: 
+6070 Poplar Ave, Suite 200 Memphis, TN 38119 
+
+ 
+
+Payment
+Terms
+: The Services Fees shall be paid in advance.
+
+ 
+
+6
+
+ 
+
+ 
+
+Exhibit
+B
+
+ 
+
+Copy
+of Loan Agreement
+
+ 
+
+7

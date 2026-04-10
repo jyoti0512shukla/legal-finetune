@@ -1,0 +1,1266 @@
+EX-10.10
+
+13
+
+d237930dex1010.htm
+
+EX-10.10
+
+EX-10.10
+
+Exhibit 10.10 
+
+ 
+ 
+
+ 
+CLOUD SERVICES AGREEMENT 
+
+This Cloud Services Agreement is made effective on 
+May 28, 2021
+ between: 
+
+QAD Inc., 
+having its principal place of business at 100 Innovation Place, CA 93108 Santa Barbara, United States (hereinafter “Vendor”), and
+
+ 
+RxSight, Inc.
+ having its principal place of business at 100 Columbia, Aliso Viejo, CA 92656 (hereinafter “Customer”). 
+
+WHEREAS
+ Vendor makes its enterprise applications and related offerings available to customers in a hosted environment that is maintained by Vendor; and
+
+ 
+WHEREAS
+ this Agreement outlines the terms and conditions under which Customer can purchase such services from Vendor, 
+
+NOW THEREFORE,
+ the parties agree as follows: 
+ 
+Article
+1     Definitions 
+ 
+ 
+
+1.1
+
+ 
+Affiliate
+ means a legal entity in which the undersigned Customer a) directly or indirectly holds more
+than 50% of the nominal value of the issued share capital, or b) has more than 50% of the voting power at general meetings; or c) has the power to appoint a majority of the directors; or d) otherwise maintains core control of such entity.
+
+ 
+ 
+
+1.2
+
+ 
+Agreement
+ means this Cloud Services Agreement together with any amendments hereto as well as any Order
+Documents (including the referenced Program Documents) and Work Orders (and amendments thereto) entered into under this Cloud Services Agreement. 
+ 
+ 
+
+1.3
+
+ 
+Cloud Applications
+ means the software applications identified in an Order Document that are made
+available by Vendor to Customer as part of the Cloud Services. 
+ 
+ 
+
+1.4
+
+ 
+Cloud Services
+ means access to the Cloud Applications in a hosted Environment, together with support for
+the Cloud Applications, as detailed in the applicable Order Document. 
+ 
+ 
+
+1.5
+
+ 
+Customer
+ means the customer entity that is the signatory to this Agreement. With respect to each Order
+Document and Work Order executed under this Agreement, “Customer” also means an Affiliate which executes such Order Document or Work Order. 
+ 
+ 
+
+1.6
+
+ 
+Documentation
+ means Vendor’s published user manuals and other technical and functional
+documentation of the Services made available to Customer by Vendor. 
+ 
+ 
+
+1.7
+
+ 
+Environment
+ means the infrastructure used to deliver the Cloud Services (i.e. network, hardware,
+operating system and Cloud Applications, all hosted in a data center, up until where the Internet Protocol data packets leave the data center either via a private or public connection). 
+
+ 
+
+1.8
+
+ 
+Invoice Period
+ means the period as indicated in an Order Document, for which Vendor shall invoice
+Customer for the Cloud Services. 
+
+ 
+
+ 
+
+ 
+
+QAD Cloud Services Agreement
+
+  
+
+Page 1 of 10                
+
+1.9
+
+ 
+Order Document
+ means a document executed by Customer and Vendor that provides for the purchase and
+delivery of Cloud Services under the terms of this Agreement, as further defined by one or more Program Documents incorporated into the Order Document by reference. 
+
+ 
+
+1.10
+
+ 
+Personal Data
+ means any information related to any identified or identifiable person and any other
+additional data deemed as personal data under the applicable personal data protection laws. 
+ 
+ 
+
+1.11
+
+ 
+Program Document
+ means a document incorporated into an Order Document for the purpose of defining the
+Cloud Services to be purchased and delivered under that Order Document. The Program Documents documenting the various available Cloud Services are available on http://www.qad.com/legal.html. 
+
+ 
+
+1.12
+
+ 
+Services
+ means Cloud Services provided under an Order Document and project-based services provided under
+a Work Order. 
+ 
+ 
+
+1.13
+
+ 
+Vendor Group of Companies
+ means QAD Inc., with an address of 100 Innovation Place, Santa Barbara, CA
+93108 USA, and any directly or indirectly held subsidiaries of QAD Inc. 
+ 
+ 
+
+1.14
+
+ 
+Work Order
+ means a document describing the project-based services provided under the terms of this
+Agreement. 
+ 
+Article 2     Services 
+ 
+ 
+
+2.1
+
+ 
+Ordering Services
+. Customer and Affiliates may elect to purchase Services under the terms of this
+Agreement by executing one or more Order Documents or Work Orders prepared by Vendor. The Order Document or Work Order becomes effective once fully executed by both parties. Cloud Services purchased under an Order Document shall be as defined in one
+or more Program Documents incorporated into the Order Document by reference. Vendor shall deliver the Services to Customer for use solely for Customer’s own business purposes. 
+
+ 
+
+2.2
+
+ 
+Use of the Services
+. Customer shall not interfere with or disrupt Vendor’s operation of the systems
+used to host the Services or other equipment or networks connected to the Services. Customer shall follow Vendor’s reasonable instructions on how to use the Services. 
+
+ 
+
+2.3
+
+ 
+Cooperation
+. Customer acknowledges that the timely provision of, and access to, assistance, cooperation,
+complete and accurate information from its officers, agents, and employees are required to enable Vendor to provide the Services. 
+ 
+ 
+
+2.4
+
+ 
+Development Tools
+. Vendor may provide certain development tools which Customer may use subject to the
+following conditions: (i) Customer may use the resulting developments exclusively for Customer’s own business purposes and only together with the Cloud Applications made available to Customer hereunder; (ii) Customer shall not make
+the developments available to any other person; (iii) Customer shall follow instructions and guidelines published by Vendor for using the development tools and for promoting developments into the cloud Environment; (iv) Customer
+acknowledges and agrees that Vendor makes no warranty with respect to developments created by Customer, and that Vendor is not responsible for any adverse impact on Cloud Services performance caused by such developments; and (v) the Progress
+Software Corporation development tools may be used only to install, support, localize or customize the Cloud Applications made available to Customer hereunder. 
+
+ 
+
+2.5
+
+ 
+Responsible for Affiliates
+. Customer shall be responsible for compliance with this Agreement by any
+Affiliate that receives Services hereunder. 
+ 
+Article 3     Acceptance 
+
+ 
+
+3.1
+
+ 
+Procedure
+. If Customer and Vendor have agreed that a certain project-based Service or a specific
+deliverable under project-based Services is subject to an acceptance test, then the Service or the deliverable, as the case may be, shall be deemed to have been accepted by Customer upon the first to occur of the following: (a) Customer’s
+first production use of the Service or deliverable; or (b) the completion of a formal acceptance test 
+
+ 
+
+ 
+
+ 
+
+QAD Cloud Services Agreement
+
+  
+
+Page 2 of 10                
+
+ 
+
+which formal acceptance test shall be conducted on the following terms: (i) Vendor shall notify Customer in writing that the Service or the deliverable is ready for acceptance;
+(ii) upon receipt of such notice, Customer shall test the Service or the deliverable for a maximum of two weeks and in a manner consistent with acceptance criteria, which criteria shall be jointly developed and mutually agreed between Vendor
+and Customer; (iii) upon the expiration of such 
+two-week
+ period, Customer shall either certify to Vendor that the Service or the deliverable is accepted or deliver to Vendor a written description of any
+specific claimed defects in the Service or the deliverable, which defects shall be limited to the failure of the Service or the deliverable to conform to the applicable specifications, or in the absence of such written description of any bona fide
+defects within two weeks of notification by Vendor that the Service or the deliverable is ready for acceptance, the Service or the deliverable shall be deemed accepted by Customer; and (iv) upon receipt of such written description, Vendor shall
+determine whether any of such claimed defects are bona fide defects, and if so, shall proceed to remedy the same, whereupon the Service or the deliverable shall be retested in accordance with the above procedure. For the avoidance of doubt, no
+“acceptance” terms shall apply to Cloud Services. 
+ 
+Article 4     Warranties 
+
+ 
+
+4.1
+
+ 
+Cloud Services Warranty
+. Vendor warrants that, for the period during which Cloud Services are provided,
+the Cloud Services shall function in accordance with the applicable Cloud Program Documents and that the Cloud Applications shall be free from material program errors and shall function substantially in accordance with the Documentation. Vendor does
+not warrant that the Cloud Applications are completely error free and Vendor does not warrant that the Cloud Applications conform to or satisfy any particular federal, national, state or local laws. If Vendor is unable, after reasonable efforts
+following receipt of Customer’s detailed warranty claim, to make the Cloud Applications perform as warranted, Customer’s sole remedy shall be to terminate the use of the Cloud Applications and in such event Vendor shall refund to Customer
+the fees paid for the affected Cloud Services for the period during which the defect existed (not to exceed 90 days of fees) plus any prepaid and unused fees for such affected Cloud Services. This warranty shall not apply to any malfunction or error
+resulting from improper use of the Cloud Applications by Customer or to malfunctions or errors caused by Customer-provided or Customer-developed software or other materials. This warranty shall apply to the extent that Customer permits the
+installation of all fixes, new releases, hardware and software updates recommended by Vendor. The warranties concerning availability of the Environment are documented in the relevant Cloud Program Documents. 
+
+ 
+
+4.2
+
+ 
+Project-Based Services Warranty
+. Vendor warrants for a period of 90 days after the acceptance date, or
+in case no acceptance test applies then for a period of 90 days after delivery, that the project-based Services provided by Vendor under the Agreement shall be performed in a professional and workmanlike manner consistent with industry standards and
+that any deliverables provided as part of the project-based Services shall be substantially free from material program errors and shall function substantially in accordance with the applicable Work Order or other specifications agreed in writing by
+the parties. Any warranty claim by Customer must be detailed in writing and must be delivered to Vendor within the 
+90-day
+ warranty period. If Vendor delivers a fix in response to a warranty claim by Customer,
+then an extended warranty period shall apply for the 30 days after the fix is delivered. If Vendor is unable, after reasonable efforts following receipt of Customer’s detailed warranty claim, to make the project-based Services or the
+deliverable comply with this warranty, Customer’s sole remedy shall be to terminate the use of the project-based Services or the deliverable and in such event Vendor shall refund to Customer the fees paid by Customer for the affected portion of
+the project-based Services. 
+ 
+ 
+
+4.3
+
+ 
+Security
+. Vendor will implement and maintain appropriate technical and organizational measures that will
+ensure the continued confidentiality, integrity and availability of the Environment and any data contained therein. As part of this commitment Vendor shall maintain the certifications identified in the relevant Program Document. Vendor shall, upon
+request, provide to Customer evidence of such certifications. 
+ 
+ 
+
+4.4
+
+ 
+Content
+. Vendor may provide as part of the Services third-party content, such as trade or compliance
+content. This content is provided “as is”, and Vendor makes no warranty as to the accuracy or completeness of such content. Customer uses such content at its own risk, and Vendor shall have no liability to Customer or any third party based
+on Customer’s use of or reliance on such content. 
+
+ 
+
+ 
+
+ 
+
+QAD Cloud Services Agreement
+
+  
+
+Page 3 of 10                
+
+4.5
+
+ 
+Limitations
+. The limited warranties provided in this Agreement are in lieu of all other warranties,
+express or implied. To the maximum extent permitted by applicable law, no other warranty is made hereunder by Vendor and all other warranties and conditions (including merchantability and fitness for a particular purpose), either express or implied,
+are excluded. 
+ 
+Article 5     Fees and Payment 
+
+ 
+
+5.1
+
+ 
+Invoicing
+. 
+ 
+ 
+
+ 
+
+a)
+
+ 
+Beginning on the Start Date of the term specified in an Order Document and continuing thereafter for each
+Invoice Period during the term of the Order Document, Vendor shall invoice Customer for the Cloud Services specified in the Order Document. Invoices for the Cloud Services shall be issued at least 30 days in advance of the start of the Invoice
+Period. 
+ 
+ 
+
+ 
+
+b)
+
+ 
+In the event an Order Document automatically renews under this Agreement, then for each renewal term the Cloud
+Services fee rates shall be the same as the rates for the previous term, plus an increase equal to the percentage by which the Consumer Price Index for All Urban Consumers 
+(CPI-U,
+ as published by the US
+Department of Labor) increased over the previous term. 
+ 
+ 
+
+ 
+
+c)
+
+ 
+If in any calendar month the Disk Space used by Customer exceeds the limitations set forth in an applicable
+Program Document then Customer shall pay an additional 
+true-up
+ fee for such excess usage at Vendor’s then-current list price. Vendor shall issue invoices for these
+
+true-up
+ fees after the end of each quarterly period, and no separate purchase order from Customer shall be required. 
+ 
+ 
+
+ 
+
+d)
+
+ 
+Invoices for project-based Services provided on a time and materials basis shall be issued twice monthly in
+arrears. Invoices for 
+fixed-fee
+ project-based Services provided under an Order Document (such as Setup) shall be issued upon execution of the Order Document. Invoices for
+
+fixed-fee
+ project-based Services provided under a Work Order shall be issued as provided in the Work Order. 
+ 
+ 
+
+5.2
+
+ 
+Expenses
+. Customer shall reimburse Vendor for documented and reasonable travel and 
+out-of-pocket
+ expenses incurred in conjunction with project-based Services. Vendor’s standard policies concerning travel and living shall apply. 
+
+ 
+
+5.3
+
+ 
+Payment
+. Payments for all fees due under the Agreement shall be due within 30 days of the invoice date.
+In the event of payment default lasting more than 30 days the service levels documented in the applicable Program Document shall no longer apply and Customer shall not be eligible to receive service credits as provided under the Program Document.
+Additionally, Vendor may, upon written notice providing 15 days to remedy the default, suspend delivery of the Services and/or declare the entire unpaid sum of Cloud Services fees for the full initial term (or renewal term as applicable) immediately
+due and payable. 
+ 
+ 
+
+5.4
+
+ 
+Interest
+. Any amounts due to Vendor under this Agreement which are not paid within the agreed payment
+term shall incur interest at the rate of 
+one-and-one-half
+ percent (1
+1
+⁄
+2
+%) per month or any part of the month, or the maximum permitted by law, whichever is less. The interest shall be due only after a first notice of late payment has been issued by Vendor and shall then be
+calculated from the date payment is originally due under the Agreement until the date payment is made in full. Customer shall pay such interest, with all payments first being applied to interest and then to principal. Reasonable legal costs incurred
+by Vendor in enforcing its rights in relation to any overdue payment (including reasonable attorney fees) shall be paid by Customer to Vendor. 
+ 
+ 
+
+5.5
+
+ 
+Taxes
+. Services fees are exclusive of all taxes, duties and fees. Customer shall make no deductions for
+taxes, duties or fees of any kind from any payment to Vendor under this Agreement. If Customer is required by law to withhold taxes, duties or fees, then Customer shall pay Vendor a gross amount of money, such that the net amount received by Vendor
+(after deducting or withholding the required taxes, duties or fees) is equal to the amount of the fee originally owed before subtracting such taxes, duties or fees. Taxes on the net income of Vendor are the responsibility of Vendor.
+
+ 
+ 
+
+5.6
+
+ 
+Vendor Group of Companies
+. Vendor reserves the right to assign the invoicing and/or the collection of
+payments to other entities in the Vendor Group of Companies. 
+
+ 
+
+ 
+
+ 
+
+QAD Cloud Services Agreement
+
+  
+
+Page 4 of 10                
+
+Article 6    Confidentiality 
+
+ 
+
+6.1
+
+ 
+Confidential Information
+. Both parties agree that any information obtained directly or indirectly, from
+the other party in connection with the Agreement and marked as “confidential” or “proprietary” or some similar legend, or made known to the other party as being confidential or proprietary is the confidential or proprietary
+property of such party (hereinafter “Confidential Information”). Information shall not be deemed Confidential Information, and the receiving party shall have no obligation with respect to any such information, which the receiving party can
+prove by written records: 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+is already in the public domain other than by a breach of this Agreement on the part of the receiving party; or
+
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+is rightfully disclosed to recipient by a third party which has the right to disclose the information and
+transmits it to the receiving party without any obligation of confidentiality; or 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+is rightfully known to the receiving party without any limitation on use or disclosure prior to receipt of the
+same from the disclosing party; or 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+is independently developed by personnel of the receiving party who have not had, either directly or indirectly,
+access to, or knowledge of, Confidential Information received from the disclosing party; or 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+is generally made available to third parties by the disclosing party without any restriction concerning use or
+disclosure; or 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+is approved for release by written authorization of the disclosing party; or 
+
+ 
+
+ 
+
+•
+
+ 
+
+ 
+is required to be disclosed by a court or governmental entity with jurisdiction over the receiving party, and the
+receiving party gives the disclosing party prompt written notice sufficient to allow the disclosing party to seek a protective order or other appropriate remedy, and the receiving party discloses only such information as is legally required and uses
+reasonable efforts to obtain confidential treatment of any information so disclosed. 
+ 
+ 
+
+6.2
+
+ 
+Treatment of Confidential Information
+. It is agreed that Confidential Information under the Agreement
+shall: (a) be kept confidential by the receiving party; (b) be treated by the receiving party in the same way as the receiving party treats Confidential Information generated by itself; (c) not be used by the receiving party otherwise
+than in connection with the Agreement; and (d) not be divulged by the receiving party, except to its personnel who have a need to know and have undertaken to keep the Confidential Information confidential. 
+
+ 
+
+6.3
+
+ 
+Disclosure by Employees
+. Both parties shall use all reasonable steps to ensure that Confidential
+Information received under the Agreement is not disclosed by its employees or agents in violation of this Article. 
+ 
+Article 7
+    Personal Data 
+ 
+ 
+
+7.1
+
+ 
+Processing and Use of Personal Data
+. Vendor may process and use the Personal Data only to perform its
+obligations or exercise its rights under the Agreement and may disclose them only to Vendor’s employees and agents that have a need to know and are bound by appropriate confidentiality obligations. When processing Personal Data Customer and
+Vendor will each observe all Personal Data protection laws applicable to their respective roles of data controller and data processor. 
+ 
+ 
+
+7.2
+
+ 
+Additional Obligations
+. Vendor agrees (a) to maintain reasonable security measures for the
+protection of Personal Data, as further outlined in this Agreement and in the applicable Program Document; (b) to act only on instruction from Customer in connection with protecting, collecting, storing, transferring and otherwise processing of
+Personal Data (Customer’s instructions may be implied or of a general nature); (c) not to copy or reproduce any Personal Data without the express written permission of Customer, except as technically necessary to comply with this Agreement; and
+(d) to inform Customer promptly in writing if it becomes aware of any unauthorized use or disclosure of Personal Data by itself or others. 
+ 
+ 
+
+7.3
+
+ 
+Export of Personal Data
+. To the extent Vendor initiates the export of Personal Data in the context of
+the provision of the Services, Vendor is responsible for ensuring that appropriate arrangements are in place to cover 
+
+ 
+
+ 
+
+ 
+
+QAD Cloud Services Agreement
+
+  
+
+Page 5 of 10                
+
+ 
+
+such export (e.g. contractual arrangements, such as the EU standard contractual clauses). Customer acknowledges that Vendor does not control nor has knowledge of to whom Customer provides access
+to the Environment and that providing access to the Environment to persons located in other countries may constitute export of Personal Data by Customer. Customer is responsible for ensuring that appropriate arrangements are in place to cover such
+export. 
+ 
+ 
+
+7.4
+
+ 
+Intended Use
+. Customer is aware and acknowledges that the Services offered by Vendor are focused on use
+in the context of manufacturing. As such, Vendor has the reasonable expectance that Customer only enters personal data into the Environment that is relevant in such a context; typically, such information is limited to contact information. Customer
+understands that records related to access to and use of the Environment (e.g. user names and usage logs) are maintained by Vendor. Customer acknowledges that Vendor does not check and takes no responsibility for any data entered by Customer into
+the Environment. 
+ 
+ 
+
+7.5
+
+ 
+Assistance
+. Vendor shall render reasonable assistance to Customer to help Customer comply with
+applicable personal data protection laws. If such assistance falls outside of the definition of the contracted Services, such assistance shall be charged by Vendor at the normal Services rates. 
+
+ 
+
+7.6
+
+ 
+Audits
+. Customer shall have the right to audit Vendor’s compliance with its obligations with regard
+to the processing of Personal Data. Accordingly, Vendor shall make available certificates providing evidence of independent audits of Vendor’s security practices and related activities. If Customer wishes to conduct an additional audit,
+Customer and Vendor shall agree on the date and the process in writing. In any event, an audit shall be limited to the Services provided for Customer. Customer acknowledges that access to data centers and other secure environments is not possible as
+such access would not be permitted under the applicable procedures required to be followed by Vendor or its suppliers to maintain certain certifications (e.g. ISO certifications). Any costs incurred by Vendor to facilitate a Customer audit shall be
+charged to Customer at Vendor’s normal Services rates. Customer shall be fully liable for any damages caused by Customer during the conduct of an audit. 
+
+Article 8     Intellectual Property 
+ 
+ 
+
+8.1
+
+ 
+Ownership
+. Vendor or its licensors shall retain all intellectual property rights in and to the Cloud
+Applications, the Services and anything developed or delivered by Vendor under the Agreement. Vendor shall not obtain any intellectual property rights in or to the Confidential Information or Personal Data of Customer. Vendor shall not obtain any
+intellectual property rights in or to developments created by Customer using development tools provided by Vendor, provided that Customer shall not through such development obtain any intellectual property rights to materials owned by Vendor or its
+licensors. 
+ 
+ 
+
+8.2
+
+ 
+Customer Data
+. Customer grants to Vendor the 
+non-exclusive
+ right
+to use anonymized Customer data for the sole purpose of and only to the extent necessary for Vendor to provide, improve and develop the Services. 
+
+Article 9    Indemnification for Intellectual Property Infringement 
+
+ 
+
+9.1
+
+ 
+Vendor Intellectual Property Indemnification
+. Vendor shall defend, at its expense, any action brought
+against Customer based on the claim that the use of the Services, when used within the scope of this Agreement, infringes any intellectual property rights. Vendor shall indemnify Customer for any damages finally awarded against Customer which are
+attributable to such claim, provided a) Customer promptly notifies Vendor of any suit or claim, b) Customer permits Vendor to defend, compromise, or settle the claim, and c) Customer gives Vendor the requested information and fully cooperates in
+defending, compromising or settling the claim. 
+ 
+ 
+
+9.2
+
+ 
+Remedies
+. Vendor shall, in addition to indemnification, a) procure for Customer the right to use the
+Services, orb) replace or modify the infringing Services to make them 
+non-infringing,
+ or c) if the foregoing alternatives are not commercially reasonable, terminate the access to relevant parts of the Services
+and provide a refund of Services fees paid for the relevant part of the Services with respect to the 90 days prior to the date of termination or provide a refund of the fees paid for the deliverables, as the case may be. 
+
+ 
+
+ 
+
+ 
+
+QAD Cloud Services Agreement
+
+  
+
+Page 6 of 10                
+
+9.3
+
+ 
+Customer Intellectual Property Indemnification
+. Customer shall defend, at its expense, any action
+brought against Vendor based on a claim that any software or information provided by Customer or stored by Customer in the Environment infringes any intellectual property rights or is otherwise unlawful, provided that Vendor notifies Customer
+promptly in writing of the claim. Customer shall indemnify Vendor for any damages finally awarded against Vendor which are attributable to such claim, provided a) Vendor promptly notifies Customer of any suit or claim, b) Vendor permits Customer to
+defend, compromise, or settle the claim, and c) Vendor gives Customer the requested information and fully cooperates in defending, compromising or settling the claim. 
+
+ 
+
+9.4
+
+ 
+Entire Liability
+. THIS ARTICLE STATES THE ENTIRE LIABILITY OF PARTIES WITH RESPECT TO INFRINGEMENT OF
+COPYRIGHTS, TRADE SECRETS, PATENTS AND OTHER INTELLECTUAL PROPERTY RIGHTS ARISING FROM THE USE OF THE SERVICES. 
+ 
+Article 10
+    Limitation of Liability 
+ 
+ 
+
+10.1
+
+ 
+DAMAGES LIMITATION
+. NEITHER PARTY SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR
+CONSEQUENTIAL DAMAGES, OR ANY LOSS OF PROFITS OR REVENUE. 
+ 
+ 
+
+10.2
+
+ 
+MONETARY LIMITATION
+. A PARTY’S MAXIMUM LIABILITY FOR ANY DAMAGES ARISING OUT OF OR RELATED TO THE
+AGREEMENT OR THE SERVICES, WHETHER IN CONTRACT OR TORT OR OTHERWISE, SHALL BE LIMITED TO THE AMOUNT OF THE FEES CUSTOMER PAID TO VENDOR OVER THE PREVIOUS TWELVE CALENDAR MONTHS UNDER THE ORDER DOCUMENT OR WORK ORDER GIVING RISE TO THE LIABILITY, AND
+IF SUCH DAMAGES RESULT FROM CUSTOMER’S USE OF A PARTICULAR SERVICE, SUCH LIABILITY SHALL BE LIMITED TO THE FEES CUSTOMER PAID VENDOR OVER THE PREVIOUS TWELVE CALENDAR MONTHS FOR SUCH SERVICE. THE FOREGOING MAXIMUM LIABILITY LIMIT SHALL NOT
+APPLY TO (1) DAMAGES ARISING FROM DEATH OR PERSONAL INJURY; OR (2) UNAUTHORIZED USE OR DISCLOSURE OF CONFIDENTIAL INFORMATION CAUSED BY A PARTY’S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT; OR (3) A PARTY’S INDEMNIFICATION
+OBLIGATIONS IN RELATION TO INTELLECTUAL PROPERTY INFRINGEMENT AS PROVIDED UNDER THE AGREEMENT. 
+ 
+Article 11
+    Term and Termination 
+ 
+ 
+
+11.1
+
+ 
+Term
+. This Agreement shall remain in effect until terminated as provided herein. Either party may
+terminate this Agreement for convenience with 30 days’ notice at any time while no Order Document or Work Order is in effect. Each Order Document shall be 
+non-cancellable
+ through the term stated therein
+and it shall thereafter automatically renew for subsequent 
+non-cancellable
+ 
+one-year
+ renewal terms unless terminated by either party effective as of the end date of the
+term (or any subsequent anniversary thereof) by delivering notice 90 days prior to the permitted termination date. 
+Non-renewal
+ notices to be given to Vendor shall be delivered by email to
+
+[Email]
+. 
+ 
+ 
+
+11.2
+
+ 
+Termination for Cause
+. Either party may terminate this Agreement or any Order Document or Work Order
+upon the other party’s material breach thereof, provided the breaching party fails to remedy such breach within 30 days of receiving the terminating party’s breach notice. If this Agreement is terminated for cause under this section then
+any and all Order Documents and Work Orders hereunder shall be automatically terminated simultaneously. 
+ 
+ 
+
+11.3
+
+ 
+Effect of Termination
+. Termination of this Agreement or any Order Document or Work Order shall not, by
+itself, entitle Customer to any refund for any fees paid nor shall it impair any warranty or other remedy available to either party under the Agreement. 
+ 
+ 
+
+11.4
+
+ 
+Return of Materials
+. Upon termination of this Agreement for any reason or upon Customer’s request
+Vendor shall promptly return to Customer all data and other materials owned by Customer. 
+
+ 
+
+ 
+
+ 
+
+QAD Cloud Services Agreement
+
+  
+
+Page 7 of 10                
+
+11.5
+
+ 
+Exit Services
+. In the event of any expiration or termination of this Agreement, Vendor shall provide
+such assistance as agreed by parties to enable Customer to transition the provision of the Services provided by Vendor either 
+in-house
+ or to a third party. The scope and costs of such transitional assistance
+shall be agreed by Vendor and Customer in writing in a Work Order. 
+ 
+Article 12     Miscellaneous 
+
+ 
+
+12.1
+
+ 
+Law Applicable to this Agreement
+. This Agreement shall be subject to and construed, interpreted, and
+applied in accordance with the laws of the State of California, United States of America. Any dispute, claim or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof,
+shall be determined by arbitration in Los Angeles California USA before a single arbitrator. The arbitration shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures. The language of the arbitration shall be
+English. The arbitral award, which shall be final and binding on both parties, may be enforced in any court having jurisdiction thereof Any discovery as part of the arbitration process shall include the right to subpoena. Parties acknowledge and
+agree that the U.N. Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act shall not apply to this Agreement. 
+
+ 
+
+12.2
+
+ 
+Audit
+. Vendor may audit Customer’s use of the Services to verify that such usage is in accordance
+with the Agreement. Customer shall provide reasonable cooperation with such audits as Vendor may request. 
+ 
+ 
+
+12.3
+
+ 
+Insurance
+. 
+ 
+ 
+
+ 
+
+(a)
+
+ 
+Required Coverage
+. At all times during the term of this Agreement Vendor shall procure and maintain, at
+its sole cost and expense, insurance coverage in the following types and amounts: 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Commercial General Liability with limits no less than $1,000,000 per occurrence and $2,000,000 in the aggregate,
+such policy will include coverage for 3rd party bodily injury and property damage and also include contractual liability coverage; and 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Worker’s Compensation and employers’ liability insurance with limits no less than the minimum amount
+required by applicable law for each accident, including occupational disease coverage; and 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Cyber Liability Insurance, including third party coverage, with limits no less than $1,000,000 per occurrence and
+$2,000,000 in the aggregate for all claims each policy year; and 
+ 
+ 
+
+ 
+
+•
+
+ 
+
+ 
+Errors and Omissions/Professional Liability with limits no less than $1,000,000 per claim and $2,000,000 in the
+aggregate for all claims each policy year. 
+ 
+ 
+
+ 
+
+(b)
+
+ 
+Policies
+. All insurance required to be provided under this contract shall be issued by an insurance
+company that is AM Best rated 
+A-VII
+ or better. 
+ 
+ 
+
+ 
+
+(c)
+
+ 
+Certificates of Insurance
+. Certificates of insurance evidencing all coverages described in this section
+shall be furnished to Customer on written request. 
+ 
+ 
+
+ 
+
+(d)
+
+ 
+Non-waiver
+. This section is not intended to and shall not be
+construed in any manner as waiving, restricting or limiting the liability of either party for any obligations under this Agreement (including any provisions hereof requiring a party to indemnify, defend and hold harmless the other party).
+
+ 
+ 
+
+12.4
+
+ 
+Legal Construction
+. To the extent that any law, statute, treaty, or regulation by its terms as
+determined by a court, tribunal, or other government authority of competent jurisdiction, is in conflict with this Agreement, the conflicting terms of this Agreement shall be superseded only to the extent necessary by the terms required by such law,
+statute, treaty, or regulation. lf any portion of this Agreement shall be otherwise unlawful, void, or for any reason unenforceable, then that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties.
+In either case, the remainder of this Agreement shall continue in full force and effect. 
+
+ 
+
+ 
+
+ 
+
+QAD Cloud Services Agreement
+
+  
+
+Page 8 of 10                
+
+12.5
+
+ 
+Purchase Order Terms and Conditions
+. Additional or different terms or conditions appearing on
+Customer’s purchase order shall be deemed null and void. 
+ 
+ 
+
+12.6
+
+ 
+Segmentation and Priority
+. Purchases of Services under an Order Document or Work Order are each separate
+and independent from other purchases of Services. Customer’s obligation to pay for Services fees is not contingent on performance of any separately purchased Services. The following order of priority shall apply to the documents comprising the
+Agreement: first, the Order Documents with respect to the Cloud Services and the Work Orders with respect to project-based services; second, the Program Documents; and third, this Agreement. 
+
+ 
+
+12.7
+
+ 
+Assignment
+. Neither party shall assign or transfer its interest in the Agreement or any Order Document
+or Work Order to a third patty without the other party’s prior written consent. Notwithstanding the foregoing, Vendor may assign this Agreement and any Order Documents or Work Orders to a member of the Vendor Group of Companies under any
+conditions or to an unrelated company pursuant to the sale, merger or other consolidation of Vendor or any of its operating divisions. 
+ 
+ 
+
+12.8
+
+ 
+Staffing and Subcontracting
+. Vendor will, at its sole discretion, decide which staff is used to perform
+the Services. Vendor may subcontract the Services in whole or in part provided that Vendor will continue to warrant the Services under the terms and conditions of the Agreement. At the request of Customer, Vendor will provide information on the
+subcontractors used by Vendor (e.g. the data centers used by Vendor). Customer shall have the opportunity to object, providing reasonable arguments, to the use of certain subcontractors. In case of an objection, parties shall act in good faith to
+address and resolve the objection. Customer acknowledges and is aware that multiple companies that form part of the Vendor Group of Companies may be involved in the provision of the Services. 
+
+ 
+
+12.9
+
+ 
+Personnel
+. Customer shall not hire any employee of Vendor or of Vendor’s subcontractors during the
+term of the Agreement and for 180 days after termination of the Agreement unless Customer pays to Vendor an amount equal to twelve months of such employee’s then-current compensation. 
+
+ 
+
+12.10
+
+ 
+Publicity
+. With prior written approval from Customer, Vendor is permitted to incorporate Customer’s
+name in the customer reference list of Vendor and in any public filings required by law and to issue a press release concerning the arrangement provided under this Agreement. 
+
+ 
+
+12.11
+
+ 
+Force Majeure
+. Neither party shall be liable for delays or
+
+non-performance
+ if such delays or 
+non-performance
+ are beyond such party’s reasonable control provided the party takes reasonable steps to remedy the delay or 
+non-performance
+ promptly. Customer acknowledges that adverse physical security conditions prevailing in a location where services are to be provided 
+on-site
+ shall constitute a
+condition of Force Majeure for Vendor. Customer further acknowledges that cloud environments are inherently subject to hacking and viruses and other malicious behavior, and that Vendor shall not be liable for damages arising from such behavior
+except to the extent Vendor has failed to fulfill its obligations under this Agreement. 
+ 
+ 
+
+12.12
+
+ 
+Waiver
+. The waiver by any party of a breach or default by the other party of any provision of this
+Agreement shall not be construed as a waiver by such party of any succeeding breach or default by the other party of the same or another provision. 
+ 
+ 
+
+12.13
+
+ 
+Notices
+. Any notices required or permitted to be given pursuant to this Agreement shall be in writing,
+addressed to the addresses noted on page one of this Agreement. These written communications shall be in such a manner that proof of delivery can be verified. Each party shall notify the other in writing in the event of any address change.
+Notwithstanding the above, 
+non-renewal
+ notices to be given to Vendor shall be delivered by email to 
+[Email]
+. 
+
+ 
+
+12.14
+
+ 
+Language
+. The original of this Agreement has been written in the English language. Customer hereby
+waives any right Customer may have under the laws of the country in which the Services are provided to have this Agreement written in another language. The Documentation is provided in English and, when available, in other languages.
+
+ 
+
+ 
+
+ 
+
+QAD Cloud Services Agreement
+
+  
+
+Page 9 of 10                
+
+12.15
+
+ 
+Compliance with Laws
+. The parties shall comply with all laws and regulations applicable in the context
+of this Agreement. Customer is aware that Vendor is or is owned by a U.S. company and that U.S. export laws and regulations apply to the use, export or 
+re-export
+ of its products. The Software is not to be used
+in any government and/ or defense related activity unless approved under U.S. Export Law and Regulation. 
+ 
+ 
+
+12.16
+
+ 
+Entire Agreement
+. The Agreement contains the entire agreement between the parties with respect to the
+subject matter hereof and shall supersede any and all prior communications, representations, minutes, agreements, and/or undertakings, either verbal or written, between the parties regarding the said subject matter. Any modification of any of the
+terms and provisions of the Agreement must be in writing and signed by duly authorized representatives of the parties. Customer acknowledges that Vendor makes no representations regarding the availability of any specific future Services.
+
+ 
+ 
+
+12.17
+
+ 
+Survival
+. The clauses of this Agreement which are by their nature intended to survive the expiry
+termination of this Agreement shall survive the expiry or termination of this Agreement. Such provisions include, but are not limited to, the provisions on Confidentiality, Personal Data, Indemnification for Intellectual Property Right Infringement,
+Limitation of Liability and Compliance with Laws. 
+ 
+ 
+
+12.18
+
+ 
+Counterparts and Valid Signatures
+. This Agreement may be executed in counterparts, each of which shall
+be deemed an original, but all of which together shall constitute one and the same instrument. Electronic copies of documents (scans) and electronic signatures shall be acceptable as originals. 
+
+IN WITNESS WHEREOF,
+ the parties have caused this Agreement to be executed by their duly authorized representatives. 
+
+ 
+
+QAD Inc.
+
+ 
+
+ 
+
+RxSight, Inc.
+
+ 
+/s/ Michael Brunnick
+
+ 
+
+ 
+
+ 
+/s/ Patrick M. Cullen
+
+Authorized Signature:
+
+ 
+
+ 
+
+Authorized Signature:
+
+ 
+Michael Brunnick
+
+ 
+
+ 
+
+ 
+Patrick M. Cullen
+
+Printed Name:
+
+ 
+
+ 
+
+Printed Name:
+
+ 
+Senior Vice President
+
+ 
+
+ 
+
+ 
+Vice President
+
+Title:
+
+ 
+
+ 
+
+Title:
+
+ 
+May 28, 2021
+
+ 
+
+ 
+
+ 
+May 28, 2021
+
+Date:
+
+ 
+
+ 
+
+Date:
+
+Legal Review:
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+May 28, 2021 
+
+ 
+
+ 
+
+ 
+
+QAD Cloud Services Agreement
+
+  
+
+Page 10 of 10

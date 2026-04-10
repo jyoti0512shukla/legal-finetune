@@ -33,17 +33,26 @@ def search_edgar(
     start_date: str = "2019-01-01",
     end_date: str = "2024-12-31",
     max_results: int = 100,
+    cik: Optional[str] = None,
 ) -> list[dict]:
     """Search EDGAR EFTS for EX-10.x filings matching the query.
+
+    Args:
+        query: Search query string
+        start_date / end_date: Date range
+        max_results: Max hits to return
+        cik: Optional CIK to filter to a specific company
 
     Returns a list of hit dicts with keys: accession, filename, entity, cik, date, url.
     """
     headers = {"User-Agent": USER_AGENT}
     hits = []
     offset = 0
-    page_size = min(max_results, 100)
+    page_size = 100  # SEC EFTS max page size
+    # SEC EFTS hard cap: offset must be < 10000
+    MAX_OFFSET = 9900
 
-    while len(hits) < max_results:
+    while len(hits) < max_results and offset < MAX_OFFSET:
         params = {
             "q": query,
             "dateRange": "custom",
@@ -52,6 +61,9 @@ def search_edgar(
             "from": offset,
             "size": page_size,
         }
+        if cik:
+            # SEC accepts CIK with leading zeros stripped
+            params["ciks"] = cik.lstrip("0") or "0"
         try:
             resp = requests.get(EFTS_SEARCH_URL, params=params, headers=headers, timeout=30)
             resp.raise_for_status()

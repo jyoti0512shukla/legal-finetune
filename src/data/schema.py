@@ -53,15 +53,21 @@ class Jurisdiction(str, Enum):
 
 # EDGAR search presets — maps contract type to SEC EFTS search query
 EDGAR_QUERIES = {
-    ContractType.MSA: '"master services agreement"',
-    ContractType.SAAS: '"master subscription agreement" OR "saas agreement"',
-    ContractType.NDA: '"non-disclosure agreement" OR "confidentiality agreement"',
-    ContractType.EMPLOYMENT: '"employment agreement"',
-    ContractType.SOFTWARE_LICENSE: '"software license agreement"',
-    ContractType.SUPPLY: '"supply agreement"',
-    ContractType.VENDOR: '"vendor agreement"',
-    ContractType.IP_LICENSE: '"license agreement" "royalty"',
-    ContractType.CONSULTING: '"consulting agreement"',
+    ContractType.MSA: '"master services agreement" OR "master service agreement" OR "professional services agreement"',
+    ContractType.SAAS: (
+        '"software as a service" OR "saas agreement" '
+        'OR "master subscription agreement" '
+        'OR "subscription services agreement" '
+        'OR "cloud services agreement" '
+        'OR "platform services agreement"'
+    ),
+    ContractType.NDA: '"non-disclosure agreement" OR "confidentiality agreement" OR "mutual nda"',
+    ContractType.EMPLOYMENT: '"employment agreement" "annual base salary"',
+    ContractType.SOFTWARE_LICENSE: '"software license agreement" OR "end user license agreement"',
+    ContractType.SUPPLY: '"supply agreement" OR "manufacturing and supply"',
+    ContractType.VENDOR: '"vendor agreement" OR "vendor services agreement"',
+    ContractType.IP_LICENSE: '"license agreement" "royalty" OR "patent license"',
+    ContractType.CONSULTING: '"consulting agreement" OR "independent contractor agreement"',
 }
 
 # Clause heading patterns — used by the segmenter to identify clause boundaries

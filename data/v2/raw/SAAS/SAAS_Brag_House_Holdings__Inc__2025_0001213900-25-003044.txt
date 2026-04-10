@@ -1,0 +1,1435 @@
+EX-10.14
+
+2
+
+ea020493007ex10-14_brag.htm
+
+SOFTWARE AS A SERVICE (SAAS) AGREEMENT, DATED NOVEMBER 13, 2024, BY AND BETWEEN BRAG HOUSE HOLDINGS, INC. AND EVEMETA, LLC
+
+Exhibit 10.14
+
+ 
+
+EVEMETA COMPRESSION
+
+SOFTWARE AS A SERVICE (SaaS) AGREEMENT
+
+ 
+
+THIS EVEMETA COMPRESSION
+SOFTWARE AS A SERVICE (SaaS) AGREEMENT
+ (this “
+Agreement
+”), is dated as of November 13, 2024 (the “
+Effective
+Date
+”), is by and between EVEMeta, LLC, a Delaware limited liability company, with its headquarters 1235 Kensington Avenue,
+Los Angeles, California (“
+EVEMeta
+”), and Brag House Holdings, Inc., a Delaware corporation, with its headquarters located
+at 25 Pompton Avenue, Suite 101, Verona, NJ 07044, (“
+Customer
+”). EVEMeta and Customer may be referred to herein collectively
+as the “
+Parties
+” or, individually, as a “
+Party
+.”
+
+ 
+
+Capitalized terms used herein
+but not otherwise defined shall have the meanings ascribed to them in the MSA (as defined below).
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS
+, EVEMeta is
+an image and video compression technology company that provides access to the commercial compression offered by EVEMeta (and more fully
+described on 
+EVEMeta URL
+) to its customers (the “
+Compression Services
+”);
+
+ 
+
+WHEREAS
+, Customer
+desires to access the Compression Services, and EVEMeta desires to provide Customer access to the Compression Services, subject to the
+terms and conditions of this Agreement; and
+
+ 
+
+WHEREAS
+, simultaneously
+with the execution of this Agreement, the Customer is entering into a Master Services Agreement (“
+MSA
+”) with Artemis
+Ave LLC (“
+Artemis
+”) that provides, in part, for Customer’s access and use the Compression Services and the EVEMeta
+IP (defined below) as set forth herein.
+
+ 
+
+NOW, THEREFORE
+, in
+consideration of the mutual covenants, terms, and conditions set forth herein, and for other good and valuable consideration, the receipt
+and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+ 
+
+1. 
+Definitions
+.
+
+ 
+
+The following terms, when used in this Agreement,
+shall have the respective meanings set forth below.
+
+ 
+
+“Aggregated Statistics”
+
+has the meaning set forth in 
+Section 2(e)
+.
+
+ 
+
+“
+Artemis ZuCasa Platform
+”
+means the proprietary video hosting and monitoring platform owned by Artemis Ave LLC.
+
+ 
+
+“
+Authorized User
+”
+means Customer and Customer’s employees, consultants, contractors, and agents who are authorized by Customer to access and use the
+Compression Services under the rights granted to Customer pursuant to this Agreement.
+
+ 
+
+“
+Compression Services
+”
+has the meaning set forth in the Recitals hereto.
+
+ 
+
+“
+Confidential Information
+”
+has the meaning set forth in 
+Section 5
+.
+
+ 
+
+“
+Customer Common Stock
+”
+means shares of common stock, par value $0.0001 per share, of Customer.
+
+ 
+
+1
+
+ 
+
+ 
+
+“
+Customer Data
+”
+means, other than Aggregated Statistics, information, data, and other content, in any form or medium, that is submitted, posted, or otherwise
+transmitted by or on behalf of Customer or any other Authorized User in connection with the Compression Services provided herein.
+
+ 
+
+“
+Customer IPO
+” has
+the meaning set forth in 
+Section 4(a)
+.
+
+ 
+
+“
+Documentation
+”
+means EVEMeta’s end user documentation relating to the Compression Services available at the EVEMeta URL.
+
+ 
+
+“
+EVEMeta IP
+” means
+the Compression Services, the Documentation, and all intellectual property provided to Customer or any other Authorized User in connection
+with the foregoing. For the avoidance of doubt, EVEMeta IP includes Aggregated Statistics and any information, data, or other content
+derived from EVEMeta’s monitoring of Customer’s access to or use of the Compression Services, but] does not include Customer
+Data.
+
+ 
+
+“
+EVEMeta URL
+” means
+the EVEMeta website located at 
+www.evemeta.com.
+
+ 
+
+“
+Feedback
+” has the
+meaning set forth in 
+Section 6
+.
+
+ 
+
+“
+Fees
+” has the meaning
+set forth in 
+Section 4
+.
+
+ 
+
+“
+Field of Use
+”
+means social media and streaming services around video gaming and entertainment.
+
+ 
+
+“
+Force Majeure Event
+”
+has the meaning set forth in 
+Section 13(c)
+.
+
+ 
+
+“
+Losses
+”
+has the meaning set forth in 
+Section 10(a)
+.
+
+ 
+
+“
+MSA
+”
+has the meaning set forth in the Recitals.
+
+ 
+
+“
+Nasdaq
+”
+means the Nasdaq Capital Market.
+
+ 
+
+“
+Notice
+”
+has the meaning set forth in 
+Section 13(b)
+.
+
+ 
+
+“
+Reimbursable Expenses
+”
+means additional costs, fees and expenses beyond those anticipated hereunder for which EVEMeta desires reimbursement.
+
+ 
+
+“
+Released Stock
+”
+has the meaning set forth in 
+Section 4(b)
+.
+
+ 
+
+“
+Service Suspension
+”
+has the meaning set forth in 
+Section 2(g)
+.
+
+ 
+
+“
+Stock Consideration
+”
+has the meaning set forth in 
+Section 4(a)
+.
+
+ 
+
+“
+Target Sale Price
+”
+has the meaning set forth in 
+Section 4(b)
+.
+
+ 
+
+“
+Third-Party Claim
+”
+has the meaning set forth in 
+Section 10(a)
+.
+
+ 
+
+“
+Third-Party Products
+”
+means any products, content, services, information, websites, or other materials that are owned by third parties and are incorporated
+into or accessible through the Compression Services.
+
+ 
+
+“
+Term
+” has the meaning
+set forth in 
+Section 12(a)
+.
+
+ 
+
+2
+
+ 
+
+ 
+
+2. 
+Access
+and Use.
+
+ 
+
+(a)
+Provision of Access
+. Subject to and conditions set
+forth herein and on Customer’s compliance with all other terms and conditions of this Agreement, EVEMeta hereby grants Customer
+a worldwide revocable, non-exclusive, non-transferable, non-sublicensable, limited right to access and use the Compression Services during
+the Term solely for Customer’s internal business operations by Authorized Users in accordance with the terms and conditions herein.
+Customer shall use the Compression Services solely in the Field of Use and solely in connection with the Artemis ZuCasa Platform. EVEMeta
+shall promptly provide Customer the necessary passwords and access credentials, if needed, to allow Customer to access the Compression
+Services.
+
+ 
+
+(b)
+Documentation License
+. Subject to the terms and conditions contained in this Agreement, EVEMeta
+hereby grants Customer a worldwide non-exclusive, non-sublicensable, non-transferable license for Authorized Users to use the Documentation
+for accessing and using the service during the Term solely for Customer’s internal business purposes in connection with use of the
+Compression Services.
+
+ 
+
+(c)
+Downloadable Software
+. Use of the Compression Services may require or include use of downloadable
+software. EVEMeta grants Customer a worldwide non-transferable, non-exclusive, non-assignable, limited right for Authorized Users to use
+downloadable software EVEMeta provides as part of the Compression Services. Any Third-Party Products that consist of downloadable software
+are subject to the terms of 
+Section 2(e)
+.
+
+ 
+
+(d)
+Use Restrictions
+. Customer shall not, and shall not permit any Authorized Users to, use the Compression
+Services, any software component of the Compression Services, or Documentation for any purposes beyond the scope of the access granted
+in this Agreement. Customer shall not at any time, directly or indirectly, and shall not permit any Authorized Users to: (i) copy, modify,
+or create derivative works of the Compression Services, any software component of the Compression Services, or Documentation, in whole
+or in part; (ii) rent, lease, lend, sell, license, sublicense, assign, distribute, publish, transfer, or otherwise make available the
+Compression Services or Documentation except as expressly permitted under this Agreement; (iii) reverse engineer, disassemble, decompile,
+decode, adapt, or otherwise attempt to derive or gain access to any software component of the Compression Services, in whole or in part;
+(iv) remove any proprietary notices from the Compression Services or Documentation; or (v) use the Compression Services or Documentation
+in any manner or for any purpose that infringes, misappropriates, or otherwise violates any intellectual property right or other right
+of any person, or that violates any applicable law, regulation, or rule.
+
+ 
+
+(e)
+Aggregated Statistics
+. Notwithstanding anything to the contrary in this Agreement, EVEMeta may
+monitor Customer’s use of the Compression Services and collect and compile data and information related to Customer’s use
+of the Compression Services to be used by EVEMeta in an aggregated and anonymized manner, including to compile statistical and performance
+information related to the provision and operation of the Compression Services to Customer (“
+Aggregated Statistics
+”).
+As between EVEMeta and Customer, all right, title, and interest in Aggregated Statistics, and all intellectual property rights therein,
+shall belong to and be retained solely by EVEMeta. Subject in all respects to the confidentiality provisions of 
+Section 5
+, EVEMeta
+may compile Aggregated Statistics based on Customer Data input into the Compression Services. Customer agrees that EVEMeta may, with Customer’s
+prior written consent, (i) make Aggregated Statistics publicly available in compliance with applicable law, and (ii) use the Aggregated
+Statistics to the extent and in the manner permitted under applicable law; 
+provided that
+, in each instance, such Aggregated Statistics
+do not identify Customer, its address, any data other than Customer Data specifically compiled hereunder as Aggregated Statistics or Customer’s
+Confidential Information.
+
+ 
+
+3
+
+ 
+
+ 
+
+(f)
+Reservation of Rights
+. EVEMeta reserves all rights not expressly granted to Customer in this Agreement.
+Except for the limited rights and licenses expressly granted under this Agreement, nothing in this Agreement grants, by implication, waiver,
+estoppel, or otherwise, to Customer or any third party, any intellectual property rights or other right, title, or interest in or to the
+EVEMeta IP.
+
+ 
+
+Customer reserves all rights not expressly
+granted to EVEMeta in this Agreement. Except for the limited rights expressly granted under this Agreement, nothing in this Agreement
+grants, by implication, waiver, estoppel, or otherwise, to EVEMeta or any third party, any intellectual property rights or other right,
+title, or interest whatsoever in or to the Customer Data.
+
+ 
+
+(g)
+Suspension
+. Notwithstanding anything to the contrary in this Agreement, EVEMeta may temporarily
+suspend Customer’s and any other Authorized User’s access to any portion or all of the Compression Services if: (i) EVEMeta
+reasonably determines that (A) there is a threat or attack on any of the EVEMeta IP; (B) Customer’s or any other Authorized User’s
+use of the EVEMeta IP disrupts or poses a security risk to the EVEMeta IP or to any other customer or vendor of EVEMeta; (C) Customer
+or any other Authorized User is using the EVEMeta IP for fraudulent or illegal activities; (D) subject to applicable Law, Customer has
+ceased to continue its business in the ordinary course, made an assignment for the benefit of creditors or similar disposition of its
+assets, or become the subject of any bankruptcy, reorganization, liquidation, dissolution, or similar proceeding; (E) Customer breaches
+or violates any provision of the MSA; or (F) EVEMeta’s provision of the Compression Services to Customer or any other Authorized
+User is prohibited by applicable Law; (ii) any vendor of EVEMeta has suspended or terminated EVEMeta’s access to or use of any third-party
+services or products required to enable Customer to access the Compression Services; or (iii) in accordance with 
+Section 5
+ (any
+such suspension described in subclause (i), (ii), or (iii), a “
+Service Suspension
+”). EVEMeta shall use commercially
+reasonable efforts to provide written notice of any Service Suspension to Customer and to provide updates regarding resumption of access
+to the Compression Services following any Service Suspension. EVEMeta shall use commercially reasonable efforts to resume providing access
+to the Compression Services as soon as reasonably possible after the event giving rise to the Compression Services Suspension is cured.
+EVEMeta will have no liability for any damage, liabilities, losses (including any loss of or profits), or any other consequences that
+Customer or any other Authorized User may incur as a result of a Service Suspension.
+
+ 
+
+3.
+
+Customer Responsibilities.
+
+ 
+
+(a)
+Account Use
+. Customer is responsible and liable for all uses of the Compression Services and Documentation
+resulting from access provided by Customer, directly or indirectly, whether such access or use is permitted by or in violation of this
+Agreement. Without limiting the generality of the foregoing, Customer is responsible for all acts and omissions of Authorized Users, and
+any act or omission by an Authorized User that would constitute a breach of this Agreement if taken by Customer will be deemed a breach
+of this Agreement by Customer. Customer shall use reasonable efforts to make all Authorized Users aware of this Agreement’s provisions
+as applicable to such Authorized User’s use of the Compression Services and shall cause Authorized Users to comply with such provisions.
+
+ 
+
+(b)
+Customer Data
+. Customer hereby grants to EVEMeta a non-exclusive, royalty-free, worldwide license
+to reproduce, distribute, and otherwise use and display the Customer Data and perform all acts with respect to the Customer Data as may
+be necessary for EVEMeta to provide the Compression Services to Customer, and, subject to the restrictions and limitations set forth in
+
+Section 2(e)
+, a non-exclusive, perpetual, irrevocable, royalty-free, worldwide license to reproduce, distribute, modify, and otherwise
+use and display Customer Data incorporated within the Aggregated Statistics. Customer will provide its Customer Data and any Authorized
+User’s use of Customer Data that, to its knowledge, will not violate any policy or terms referenced in or incorporated into this
+Agreement or any applicable Law. Customer is solely responsible for the development, content, operation, maintenance, and use of Customer
+Data but shall not be liable in any way or in any capacity for its use by EVEMeta as Aggregated Statistics.
+
+ 
+
+4
+
+ 
+
+ 
+
+(c)
+Passwords and Access Credentials
+. Customer will be responsible for keeping Customer’s passwords
+and access credentials associated with the Compression Services confidential. Customer will not sell or transfer them to any other person
+or entity. Customer will promptly notify EVEMeta about any unauthorized access to Customer’s passwords or access credentials.
+
+ 
+
+(d)
+Third-Party Products
+. The Compression Services may permit
+access to Third-Party Products. For purposes of this Agreement, such Third-Party Products are subject to their own terms and conditions
+presented to Customer for acceptance within the Compression Services by website link or otherwise.
+
+ 
+
+4.
+
+Stock Compensation; Reimbursable Expenses and Payment.
+
+ 
+
+(a)
+In exchange for EVEMeta’s provision to Customer of the right to access and use the Compression Services
+during the Term as set forth in this Agreement, Customer shall issue to EVEMeta an aggregate of 312,500 shares of Customer Common Stock
+(the “
+Stock Consideration
+”) upon execution hereof, which shares of Customer Common Stock shall be locked-up and released
+in accordance with the terms outlined in 
+Exhibit A
+. The amount of Stock Consideration to be issued is based upon an assumed initial
+offering price of $4.00 per share of Customer Common Stock upon completion by Customer of an initial public offering of its securities
+(the “
+Customer IPO
+”) and the corresponding listing and quotation thereof on Nasdaq. The Stock Consideration shall be
+released from lock-up to EVEMeta incrementally as outlined in 
+Exhibit A
+.
+
+ 
+
+(b)
+Notwithstanding anything else set forth herein, EVEMeta may not sell or otherwise transfer the shares
+of Customer Common Stock it receives as Stock Consideration hereunder (i) until such time as the Customer IPO has been consummated and
+closed; and (ii) in any event, until such time as such Brag Common Stock has been the subject of registration under the Securities Act
+or there is available a valid exemption from registration.. Thereafter, in the event that the shares of Customer Common Stock issued hereunder
+have been released from lock-up in accordance with 
+Exhibit A
+ (the “
+Released Stock
+”), and EVEMeta seeks to sell
+the shares of Customer Common Stock that have been issued to EVEMeta and so released, if the then-applicable closing price of such common
+stock as quoted by Nasdaq on the date EVEMeta is seeking to sell is less than $4.00 per share (“
+Target Sale Price
+”)
+and EVEMeta executes and closes such sale at a sale price below the Target Sale Price, Customer shall pay to EVEMeta an amount equal to
+the difference between the Target Sale Price and the actual price per share it receives in respect of such sale (the “
+Actual
+Price
+”) up to an aggregate amount equal to $1,250,000, provided, however, such sale by EVEMeta must have been undertaken in
+good faith in a bona fide arms-length third-party transaction brokered by a registered broker-dealer based on the then-quoted Nasdaq price.
+In any event, EVEMeta must liquidate all of the Stock Consideration it receives hereunder within 18 months of release each corresponding
+lock-up. To the extent that any of the Stock Consideration is not sold within such 18-month period, Brag’s obligation to pay EVEMeta
+the difference between the Target Sale Price and the Actual Price shall terminate and will not apply to any subsequent sale of the corresponding
+Stock Consideration.
+
+ 
+
+5
+
+ 
+
+ 
+
+(c)
+The shares of Customer Common Stock issuable to EVEMeta hereunder are inclusive of all costs, fees and
+expenses incurred by EVEMeta relating to its provision of the Services and delivery of Deliverables hereunder. Notwithstanding the foregoing,
+Brag shall bear the cost of cloud, on-premises, or hybrid server infrastructure and shall pay for all costs necessary for the acquisition
+and implementation (exclusive of development work) of third party’s software approved by Brag. In the event that EVEMeta intends
+to incur or does incur Reimbursable Expenses, which are costs, fees and expenses beyond those anticipated hereunder for which EVEMeta
+desires reimbursement, it shall submit a written request to Customer, along with reasonable detail as to such additional costs, fees and
+expenses, seeking Customer’s permission to incur or be reimbursed for the same. Following written consent by Customer, if any, EVEMeta
+shall submit invoices, along with appropriate supporting information, within ten (10) calendar days of the end of each calendar month
+hereunder to Customer requesting reimbursement of the Reimbursable Expenses. Customer shall reimburse EVEMeta, within thirty (30) days
+of receipt of such invoices, for the Reimbursable Expenses, provided that, the Reimbursable Expenses were approved by Customer, in writing,
+prior to EVEMeta’ incurring such expenses and, if and when approved, shall be included in the EVEMeta invoices with supporting invoices
+(to the extent available).
+
+ 
+
+5.
+
+Representations and Warranties
+.
+
+ 
+
+(a)
+Investment Representations of EVEMeta
+.
+
+ 
+
+i. 
+Acquisition
+Entirely for Own Account
+. This Agreement is made with EVEMeta in reliance upon EVEMeta’s representations to Customer, which,
+by execution of this Agreement, EVEMeta hereby confirms, that the Stock Consideration to be issued to will be acquired by EVEMeta for
+EVEMeta’s own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof, and that
+EVEMeta does not have a present intention of selling, granting any participation in, or otherwise distributing the same. By executing
+this Agreement, EVEMeta represents that EVEMeta does not have any contract, undertaking, agreement or arrangement with any person to sell,
+transfer or grant participations to any person or to any third parties, with respect to the Stock Consideration.
+
+ 
+
+ii. 
+Receipt
+of Information
+. EVEMeta has had an opportunity to ask questions and receive answers from Customer regarding the terms and conditions
+of the acquisition of the Stock Consideration and the business, properties, prospects, and financial condition of Customer and its affiliates,
+and to obtain additional information (to the extent Customer and its affiliates possessed such information or could acquire it without
+unreasonable effort or expense) necessary to verify the accuracy of any information furnished to EVEMeta or to which EVEMeta had access.
+The foregoing, however, does not limit or modify the representations and warranties of Customer or the rights of EVEMeta to rely thereon.
+
+ 
+
+iii. 
+Accredited
+Investor Status
+. EVEMeta is an “accredited investor” as such term is defined in Rule 501 promulgated under the Securities
+Act.
+
+ 
+
+iv The
+Stock Consideration may only be disposed of in compliance with state and federal securities laws. In connection with any transfer of Stock
+Consideration other than pursuant to an effective registration statement or Rule 144, Customer may require the transferor thereof to provide
+to the Customer an opinion of counsel selected by the transferor and reasonably acceptable to the Customer, the form and substance of
+which opinion shall be reasonably satisfactory to the Customer, to the effect that such transfer does not require registration of such
+transferred Stock Consideration under the Securities Act. As a condition of transfer, any such transferee shall agree in writing to be
+bound by the terms of this Agreement and shall have the rights and obligations of EVEMeta under this Agreement.
+
+ 
+
+6
+
+ 
+
+ 
+
+v. Each
+Purchaser agrees to the imprinting, so long as is required by this Section 10(d) of a legend on any of the Stock Consideration in the
+following form:
+
+ 
+
+THIS SECURITY HAS NOT BEEN REGISTERED
+WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION
+UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), AND, ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT
+TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT
+TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS. THIS SECURITY MAY BE
+PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT WITH A REGISTERED BROKER- DEALER OR OTHER LOAN WITH A FINANCIAL INSTITUTION THAT
+IS AN “ACCREDITED INVESTOR” AS DEFINED IN RULE 501(a) UNDER THE SECURITIES ACT OR OTHER LOAN SECURED BY SUCH SECURITIES.
+
+ 
+
+vi. In
+addition to the above legend, each share of Customer Common Stock that forms part of the Stock Consideration shall carry the following
+legend:
+
+ 
+
+THIS SECURITY IS SUBJECT TO LOCK-UP
+PURSUANT TO THE TERMS AND CONDITIONS OF A SOFTWARE AS A SERVICE AGREEMENT, DATED AS OF NOVEMBER 13, 2024, BETWEEN EVEMETA LLC AND BRAG
+HOUSE HOLDINGS, INC. AND, ACCORDINGLY, MAY NOT BE TRANSFERRED, OFFERED OR SOLD EXCEPT PURSUANT TO RELEASE OF THE LOCK-UP IN ACCORDANCE
+WITH THE TERMS AND CONDITIONS OF SAID AGREEMENT.
+
+ 
+
+(b)
+Mutual Representation and Warranties. Each Party represents and warrants to the other that:
+
+ 
+
+i.
+it is a duly organized, validly existing, and in good standing as a corporation or other entity under the Laws of the jurisdiction of
+its incorporation or other organization;
+
+ 
+
+ii.
+it has, and throughout the Term will retain, the full right, power, and authority to enter into this Agreement and perform its obligations
+hereunder;
+
+ 
+
+iii.
+the execution of this Agreement by its representative whose signature is set forth at the end of this Agreement has been duly authorized
+by all necessary corporate or organizational action of such Party; and
+
+ 
+
+iv.
+when executed and delivered by both parties, this Agreement will constitute the legal, valid, and binding obligation of such Party, enforceable
+against it in accordance with its terms.
+
+ 
+
+(c)
+Additional Warranties and Covenants of EVEMeta
+.
+
+ 
+
+i.
+EVEMeta, and throughout the Term and any additional periods during which EVEMeta does or is required to perform the Compression Services
+hereunder, will have, the unconditional and irrevocable right, power, and authority, including all permits and licenses required, to provide
+the Compression Services and grant and perform all rights and licenses granted or required to be granted by it under this Agreement;
+
+ 
+
+7
+
+ 
+
+ 
+
+ii.
+neither EVEMeta's grant of the rights or licenses hereunder nor its performance of any Compression Services or other obligations under
+this Agreement does: (A) conflict with or violate any applicable U.S. Law, including any Law relating to data privacy, data security,
+or personal information; (B) require the consent, approval, or authorization of any governmental or regulatory authority or other third
+party; or (C) require the provision of any payment or other consideration by Customer or any Authorized User to any third party, provided,
+however that EVEMeta shall use commercially reasonable efforts to comply with any changes in applicable U.S. Law and shall promptly notify
+Customer in writing if it becomes aware of any change that would materially impact EVEMeta's performance of its obligations hereunder;
+
+ 
+
+iii.
+the Compression Services, Documentation, and all other Compression Services and materials provided by EVEMeta under this Agreement will
+not infringe, misappropriate, or otherwise violate any Intellectual Property Right or other right of any third party;
+
+ 
+
+iv.
+there is no settled, pending, or threatened action, and it has not received any written, oral, or other notice of any action (including
+in the form of any offer to obtain a license): (A) alleging that any access to or use of the Compression Services does or would infringe,
+misappropriate, or otherwise violate any Intellectual Property Right of any third party; (B) challenging EVEMeta's ownership of, or right
+to use or license, any software or other materials used or required to be used in connection with the performance, accessing, or use of
+the Compression Services, or alleging any adverse right, title, or interest with respect thereto; or (C) that, if decided unfavorably
+to EVEMeta, would reasonably be expected to have an actual or potential adverse effect on its ability to perform the Compression Services
+or its other obligations under this Agreement, and it has no knowledge of any factual, legal, or other reasonable basis for any such litigation,
+claim, or proceeding;
+
+ 
+
+v.
+the Compression Services will in all material respects conform to and perform in accordance with the Specifications and all requirements
+of this Agreement;
+
+ 
+
+vi.
+all specifications are, and will be continually updated and maintained so that they continue to be, current, complete, and accurate so
+that they do and will continue to fully describe the Compression Services in all material respects such that at no time during the Term
+or any additional periods during which EVEMeta does or is required to perform the Compression Services will the Compression Services have
+any undocumented feature;
+
+ 
+
+vii.
+the Compression Services are and will remain free of any harmful code; and
+
+ 
+
+viii.
+EVEMeta will perform all Compression Services in a timely, professional and workmanlike manner in accordance with commercially reasonable
+industry standards and practices for similar Compression Services, using EVEMeta personnel with the requisite skill, experience, and qualifications,
+and shall devote adequate resources to meet its obligations under this Agreement.
+
+ 
+
+8
+
+ 
+
+ 
+
+6.
+
+Confidential Information.
+
+ 
+
+From time to time during
+the Term, EVEMeta and Customer may disclose or make available to the other party information about its business affairs, products, confidential
+intellectual property, trade secrets, third-party confidential information, and other sensitive or proprietary information, whether orally
+or in written, electronic, or other form or media, and whether or not marked, designated, or otherwise identified as “confidential”
+at the time of disclosure (collectively, “
+Confidential Information
+”). Confidential Information does not include information
+that, at the time of disclosure is: (a) in the public domain; (b) rightfully obtained by the receiving party on a non-confidential basis
+from a third party; or (c) independently developed by the receiving party. The receiving party shall not disclose the disclosing party’s
+Confidential Information to any person or entity, except to the receiving party’s employees, agents, or subcontractors who have
+a need to know the Confidential Information for the receiving party to exercise its rights or perform its obligations hereunder and who
+are required to protect the Confidential Information in a manner no less stringent than required under this Agreement. Notwithstanding
+the foregoing, each party may disclose Confidential Information to the limited extent required (x) to comply with the order of a court
+or other governmental body, or as otherwise necessary to comply with applicable law, provided that the party making the disclosure pursuant
+to the order shall first have given written notice to the other party and made a reasonable effort to obtain a protective order; or (y)
+to establish a party’s rights under this Agreement, including to make required court filings. Each party’s obligations of
+non-disclosure with regard to Confidential Information are effective as of the date such Confidential Information is first disclosed to
+the receiving party and will expire five years thereafter; provided, however, with respect to any Confidential Information that constitutes
+a trade secret (as determined under applicable law), such obligations of non-disclosure will survive the termination or expiration of
+this Agreement for as long as such Confidential Information remains subject to trade secret protection under applicable law.
+
+ 
+
+7.
+
+Intellectual Property Ownership; Feedback.
+
+ 
+
+As between Customer and EVEMeta,
+(a) EVEMeta owns all right, title, and interest, including all intellectual property rights, in and to the Compression Services and (b)
+Customer owns all right, title, and interest, including all intellectual property rights, in and to Customer Data. If Customer or any
+of Customer’s employees, contractors, or agents sends or transmits any communications or materials to EVEMeta by mail, email, telephone,
+or otherwise, suggesting or recommending changes to the Compression Services, including without limitation, new features or functionality
+relating thereto, or any comments, questions, suggestions, or the like (“
+Feedback
+”), EVEMeta is free to use such Feedback
+irrespective of any other obligation or limitation between Customer and EVEMeta governing such Feedback. All Feedback is and will be treated
+as non-confidential. Customer hereby assign to EVEMeta on Customer’s behalf, and shall cause Customer’s employees, contractors,
+and agents to assign, all right, title, and interest in, and EVEMeta is free to use, without any attribution or compensation to Customer
+or any third party, any ideas, know-how, concepts, techniques, or other intellectual property rights contained in the Feedback, for any
+purpose whatsoever, although EVEMeta is not required to use any Feedback.
+
+ 
+
+8.
+
+Audit Rights and Compliance.
+
+ 
+
+(a)
+Audit Rights
+. Customer reserves the right, upon reasonable prior written notice to EVEMeta, to
+audit and inspect EVEMeta’s documentation and policies related to its provision of the Compression Services under this Agreement,
+for the purposes of ensuring EVEMeta’s compliance with its obligations under this Agreement, including but not limited to obligations
+related to data security, confidentiality, and compliance with applicable law. Such audits shall:
+
+ 
+
+i.
+be conducted no more than once annually (unless required by Law or a security incident), during regular
+business hours, and in a manner that does not unreasonably interfere with EVEMeta’s operations;
+
+ 
+
+ii.
+be carried out either by Customer’s internal auditors or by an independent third party selected
+by Customer, provided such third party agrees to reasonable confidentiality terms; and
+
+ 
+
+9
+
+ 
+
+ 
+
+iii.
+allow Customer to review documentation and policies related to EVEMeta’s handling of Customer Data,
+including security policies, compliance with applicable data privacy laws, and disaster recovery plans.
+
+ 
+
+(b)
+Compliance with Laws
+. EVEMeta shall comply with laws and regulations specific to data protection
+and data privacy relevant to the Compression Services, including without limitation data privacy and security laws, such as the General
+Data Protection Regulation, the California Consumer Privacy Act, and any other applicable data protection legislation. EVEMeta represents
+and warrants that:
+
+ 
+
+i.
+it has implemented and maintains appropriate technical and organizational measures to ensure a level of
+security appropriate to the risks presented to Customer Data;
+
+ 
+
+ii.
+it shall immediately notify Customer in the event of any data breach involving Customer Data, and shall
+provide reasonable assistance to Customer in addressing the breach, including cooperation with regulatory authorities; and
+
+ 
+
+iii.
+EVEMeta will not transfer or process Customer Data outside the agreed-upon jurisdictions without obtaining
+Customer’s prior written consent and ensuring appropriate safeguards are in place, in accordance with applicable data protection
+laws.
+
+ 
+
+(c)
+Remediation
+. If an audit reveals any non-compliance by EVEMeta, EVEMeta shall, at its own cost
+and expense, promptly take all necessary actions to remedy such non-compliance and provide written confirmation to Customer of the steps
+taken. If the non-compliance constitutes a material breach, Customer shall have the right to terminate the Agreement without penalty.
+
+ 
+
+9.
+
+Limited Warranty and Warranty Disclaimer.
+
+ 
+
+(a)
+EVEMeta warrants that the Compression Services, when used in accordance with the Documentation and this
+Agreement, will perform substantially in accordance with the service levels described in. In the event of a breach of this warranty, Customer’s
+sole and exclusive remedy, and EVEMeta’s sole obligation, will be for EVEMeta to use commercially reasonable efforts to correct
+non-conforming Compression Services at no additional charge to Customer, or, if EVEMeta is unable to restore such functionality within
+ninety (90) days, for Customer to terminate this Agreement and receive a refund of any prepaid, unused fees covering the remainder of
+the term after the date of termination.
+
+ 
+
+(b)
+Security Warranty
+. EVEMeta warrants that it has implemented and will maintain throughout the term
+of this Agreement industry-standard administrative, physical, and technical safeguards designed to protect the security, confidentiality,
+and integrity of Customer Data. In the event of a data breach that is a result of EVEMeta’s failure to comply with this warranty,
+EVEMeta shall (i) promptly notify Customer of the breach, (ii) take immediate action to contain and remedy the breach, and (iii) provide
+Customer with a detailed report of the actions taken. Customer’s sole remedy, and EVEMeta’s sole liability, in the event of
+a breach of this warranty, shall be for EVEMeta to use commercially reasonable efforts to remedy the breach and restore the security of
+the affected data.
+
+ 
+
+(c)
+Compliance with Law Warranty
+. EVEMeta warrants that its provisions of the Compression Services,
+and its use and processing of Customer Data, will comply with all applicable Laws and regulations, including but not limited to the General
+Data Protection Regulation, the California Consumer Privacy Act, and other applicable privacy and data protection laws. EVEMeta further
+warrants that it will not transfer Customer Data outside agreed-upon jurisdictions without obtaining Customer’s prior written consent.
+Customer’s sole remedy for a breach of warranty shall be termination of the Agreement and a refund of any prepaid, unused fees covering
+the remainder of the term after the date or termination.
+
+ 
+
+10
+
+ 
+
+ 
+
+(d)
+Warranty Limitations
+. The limited warranties set forth above do not apply: (i) if the Compression
+Services are used by Customer in a manner not permitted by this Agreement; (ii) if the non-conformance is caused by Customer’s or
+any third-party’s software, hardware, or misuse of the Compression Services by any of the same; (iii) to any Third-Party Products
+integrated with the Compression Services; or (iv) to any modifications or updates to the Compression Services made by anyone other than
+EVEMeta or its authorized representatives.
+
+ 
+
+(e)
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE COMPRESSION SERVICES ARE PROVIDED “AS IS”
+AND EVEMETA HEREBY DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE
+IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, AND ALL WARRANTIES ARISING FROM
+COURSE OF DEALING, USAGE, OR TRADE PRACTICE. EVEMETA MAKES NO WARRANTY OF ANY KIND THAT THE COMPRESSION SERVICES WILL OPERATE WITHOUT
+INTERRUPTION, ERROR-FREE, OR COMPLETELY SECURE, NOR DOES IT WARRANT THAT ALL ERRORS OR DEFECTS CAN OR WILL BE CORRECTED.
+
+ 
+
+10.
+
+Indemnification.
+
+ 
+
+(a)
+EVEMeta Indemnification
+. EVEMeta shall indemnify, defend,
+and hold Customer harmless from and against any and all, damages, liabilities, deficiencies, claims, actions, judgments, settlements,
+interest, awards, penalties, fines, costs, or expenses of whatever kind, including reasonable attorneys’ fees (“
+Losses
+”),
+incurred by Customer resulting from any third-party claim, suit, action, or proceeding (“
+Third-Party Claim
+”) that
+the Compression Services, or any use of the Compression Services in accordance with this Agreement, infringes or misappropriates such
+third party’s patents, copyrights, or trade secrets, provided that Customer promptly notifies EVEMeta in writing of the Third-Party
+Claim, cooperates with EVEMeta, and allows EVEMeta sole authority to control the defense and settlement of such Third-Party Claim. This
+
+Section 10(a)
+ will not apply to the extent that any such Third-Party Claim arises from Customer Data or Third-Party Products.
+
+ 
+
+(b)
+Customer Indemnification
+. Customer shall indemnify, hold
+harmless, and, at EVEMeta’s option, defend EVEMeta and its officers, directors, employees, agents, affiliates, successors, and
+assigns from and against any and all Losses arising from or relating to any Third-Party Claim (i) that the Customer Data, or any use
+of the Customer Data in accordance with this Agreement, infringes or misappropriates such third party’s intellectual property rights;
+or (ii) based on Customer’s or any Authorized User’s negligence or willful misconduct or use of the Compression Services
+in a manner not authorized by this Agreement; provided that Customer may not settle any Third-Party Claim against EVEMeta unless EVEMeta
+consents to such settlement, and further provided that EVEMeta will have the right, at its option, to defend itself against any such
+Third-Party Claim or to participate in the defense thereof by counsel of its own choice.
+
+ 
+
+11
+
+ 
+
+ 
+
+11.
+
+Limitations of Liability.
+
+ 
+
+IN NO EVENT WILL EVEMETA BE LIABLE
+UNDER OR IN CONNECTION WITH THIS AGREEMENT UNDER ANY LEGAL OR EQUITABLE THEORY, INCLUDING BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE),
+STRICT LIABILITY, OR OTHERWISE, FOR ANY: (a) CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, ENHANCED, OR PUNITIVE DAMAGES; (b)
+INCREASED COSTS, DIMINUTION IN VALUE OR LOST BUSINESS, PRODUCTION, REVENUES, OR PROFITS; (c) LOSS OF GOODWILL OR REPUTATION; (d) USE,
+INABILITY TO USE, LOSS, INTERRUPTION, DELAY OR RECOVERY OF ANY DATA, OR BREACH OF DATA OR SYSTEM SECURITY; OR (e) COST OF REPLACEMENT
+GOODS OR SERVICES, IN EACH CASE REGARDLESS OF WHETHER EVEMETA WAS ADVISED OF THE POSSIBILITY OF SUCH LOSSES OR DAMAGES OR SUCH LOSSES
+OR DAMAGES WERE OTHERWISE FORESEEABLE. IN NO EVENT WILL EVEMETA’S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT
+UNDER ANY LEGAL OR EQUITABLE THEORY, INCLUDING BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE EXCEED
+THE TOTAL AMOUNT PAID TO EVEMETA UNDER THIS AGREEMENT IN THE TWELVE (12) MONTH PERIOD PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+
+ 
+
+12.
+
+Term and Termination.
+
+ 
+
+(a)
+Term
+. The term of this Agreement shall commence on the Effective Date and continue for 18 months
+from the Effective Date, whereupon, it shall automatically renew each year for up to four successive one-year periods unless earlier terminated
+pursuant to the terms and conditions of this Agreement. For purposes hereof, the term “
+Term
+” shall include each successive
+one-year renewal period, if any.
+
+ 
+
+(b)
+Termination for Cause
+. Either Party may terminate this Agreement, effective upon written notice
+to the other Party, if the Other Party:
+
+ 
+
+i.
+Material Breach
+. Materially breaches this Agreement and such breach either (i) is incapable of
+cure; or (ii) remains uncured thirty 30 days after the non-breaching party provides written notice of such breach. The non-breaching party
+may terminate immediately if the breach is incapable of cure or upon expiration of the cure period if the breach remains uncured.
+
+ 
+
+ii.
+Insolvency
+. Becomes insolvent or is generally unable to pay its debts as they become due; files
+for bankruptcy; makes a general assignment for the benefit of creditors; applies for or has a receiver or a trustee appointed; or takes
+any similar action in connection with the insolvency or bankruptcy proceedings.
+
+ 
+
+iii.
+Security Breach
+. Experiences a security breach or data loss that affects the Customer Data and
+fails to remedy such breach or provide adequate assurances to Customer within a reasonable time frame, not to exceed thirty (30) days,
+following notice of such breach.
+
+ 
+
+(c)
+Termination by Customer
+. In addition to any other rights of termination granted to Customer under
+this Agreement, Customer may terminate this Agreement:
+
+ 
+
+i.
+in whole or in part, upon providing sixty (60) days’ prior written notice to EVEMeta. In such event,
+EVEMeta shall provide reasonable assistance to transition all Customer Data and ensure an orderly wind-down of services without additional
+cost to Customer; or
+
+ 
+
+ii.
+Immediately upon written notice if EVEMeta fails to meet the agreed-upon service levels, performance requirements,
+or experiences recurring service outages that materially impair Customer’s ability to use the Compression Services for its intended
+business purposes, and such failures remain uncured for thirty (30) days after Customer’s written notice to EVEMeta.
+
+ 
+
+12
+
+ 
+
+ 
+
+(d)
+Effect of Termination
+.
+
+ 
+
+i.
+Obligations Upon Termination
+. Upon termination of this Agreement for any reason, (i) EVEMeta shall
+immediately cease providing the Compression Services, (ii) each Party shall promptly return or destroy all Confidential Information of
+the other Party in its possession, and (iii) Customer shall immediately discontinue use of the Compression Services and Documentation.
+
+ 
+
+ii.
+Transition Assistance
+. In the event of termination, EVEMeta shall, at Customer’s written
+request, provide reasonable assistance for up to sixty (60) days post-termination to transition Customer’s data to a new provider
+or system, at no additional cost to Customer. Customer Data shall be returned in a format reasonably requested by Customer, and EVEMeta
+shall delete all Customer Data from its systems upon successful transition.
+
+ 
+
+iii.
+Return of Stock Consideration; Payment of Reimbursable Expenses.
+ In the event of termination by
+Customer of this Agreement for any reason, EVEMeta shall return to Customer any remaining unreleased Customer Common Stock up to the date
+of termination. Customer shall pay any outstanding approved Reimbursable Expenses incurred by EVEMeta up to the date of termination and
+the transition period referenced in Section 12(d)(ii) above.
+
+ 
+
+(e)
+Survival
+. This 
+Section 12
+, Sections 5, 6, 10,
+11, and 13, and any right, obligation, or required performance of the Parties in this Agreement which, by its express terms or nature
+and context is intended to survive termination or expiration of this Agreement, which survive any such termination or expiration.
+
+ 
+
+13.
+
+Miscellaneous.
+
+ 
+
+(a)
+Entire Agreement
+. This Agreement, together with any other documents incorporated herein by reference
+and all related Exhibits, constitutes the sole and entire agreement of the Parties with respect to the subject matter of this Agreement
+and supersedes all prior and contemporaneous understandings, agreements, and representations and warranties, both written and oral, with
+respect to such subject matter.
+
+ 
+
+(b)
+Notices
+. All notices, requests, consents, claims, demands, waivers, and other communications hereunder
+(each, a “
+Notice
+”) must be in writing and addressed to the Parties at the addresses set forth on the first page of
+this Agreement (or to such other address that may be designated by the Party giving Notice from time to time in accordance with this Section).
+All Notices must be delivered by personal delivery, nationally recognized overnight courier (with all fees pre-paid), or email (with confirmation
+of transmission), or certified or registered mail (in each case, return receipt requested, postage pre-paid). Except as otherwise provided
+in this Agreement, a Notice is effective only: (i) upon receipt by the receiving Party; and (ii) if the Party giving the Notice has complied
+with the requirements of this Section.
+
+ 
+
+(c)
+Force Majeure
+. Subject to the terms hereof, if either
+Party is prevented, hindered or delayed in the performance of any obligation under this Agreement by a Force Majeure Event (as defined
+below), such obligation shall be suspended during the continuance of such Force Majeure Event, and the affected Party shall not be liable
+or responsible to the other Party nor be deemed to have defaulted under or breached this Agreement, provided the affected Party notifies
+the other Party and uses commercially reasonable efforts to correct such failure or delay in its performance. For the purposes of this
+Agreement, “
+Force Majeure Event
+” shall mean any unforeseen circumstances or causes beyond a Party's reasonable control,
+including, but not limited to, (a) an act of God or public enemy, fire, explosion, perils of the sea, lightning, earthquake, storm, flood,
+declared or undeclared war, revolution, insurrection, riot, civil unrest, acts of civil or military authorities, act of piracy, act of
+terrorism, sabotage, blockade, embargo, accident, national or regional emergency, pandemic, epidemic or quarantine, (b) government or
+administrative action which prevents, hinders or delays performance of such Party's obligations, including without limitation any change
+to applicable Laws or regulations (c) a strike, lockout or other labor unrest, slowdown or other industrial disturbances, (d) shortage
+of adequate power or telecommunications or transportation facilities, (e) a material adverse change in the business, prospects, operations,
+performance, results of operations, properties, assets, liabilities or condition (financial or otherwise) of a Party, taken as a whole,
+or a material impairment of a Party's ability to perform its obligations under the Agreement. Without limiting the foregoing, the Parties
+acknowledge and agree that during a Force Majeure Event, the non-affected Party may suspend the performance of its obligations hereunder
+until such time as the affected Party resumes performance. Either Party may terminate this Agreement or the SOWs if such failure or delay
+continues for a period of sixty (60) consecutive days or more. Unless this Agreement or the SOW is terminated in accordance with this
+section, the Term of this Agreement and/or the SOW shall be automatically extended by a period of time equal to the period of suspension
+due to the Force Majeure Event.
+
+ 
+
+13
+
+ 
+
+ 
+
+(d)
+Amendment and Modification; Waiver
+. No amendment to or modification of this Agreement is effective
+unless it is in writing and signed by an authorized representative of each Party. No waiver by any Party of any of the provisions hereof
+will be effective unless explicitly set forth in writing and signed by the Party so waiving. Except as otherwise set forth in this Agreement,
+(i) no failure to exercise, or delay in exercising, any rights, remedy, power, or privilege arising from this Agreement will operate or
+be construed as a waiver thereof, and (ii) no single or partial exercise of any right, remedy, power, or privilege hereunder will preclude
+any other or further exercise thereof or the exercise of any other right, remedy, power, or privilege.
+
+ 
+
+(e)
+Severability
+. If any provision of this Agreement is invalid, illegal, or unenforceable in any jurisdiction,
+such invalidity, illegality, or unenforceability will not affect any other term or provision of this Agreement or invalidate or render
+unenforceable such term or provision in any other jurisdiction. Upon such determination that any term or other provision is invalid, illegal,
+or unenforceable, the Parties shall negotiate in good faith to modify this Agreement so as to effect their original intent as closely
+as possible in a mutually acceptable manner in order that the transactions contemplated hereby be consummated as originally contemplated
+to the greatest extent possible.
+
+ 
+
+(f)
+Governing Law; Submission to Jurisdiction
+. This Agreement is governed by and construed in accordance
+with the internal laws of the State of Delaware without giving effect to any choice or conflict of law provision or rule that would require
+or permit the application of the laws of any jurisdiction other than those of the State of Delaware. Any legal suit, action, or proceeding
+arising out of or related to this Agreement or the licenses granted hereunder will be instituted exclusively in the federal courts of
+the United States or the courts of the State of Delaware in each case located in the city of Wilmington and County of New Castle, and
+each Party irrevocably submits to the exclusive jurisdiction of such courts in any such suit, action, or proceeding.
+
+ 
+
+(g)
+Assignment
+. Neither Party may assign this Agreement, in whole or in part, without the prior written
+consent of an authorized representative of the other Party, provided that either Party may assign this Agreement to any of its affiliates
+or any third party that merges with, consolidates with or acquires control of such Party or which acquires all or substantially all of
+the assets of such Party, conditioned upon the successor or assignee (i) covenanting and agreeing with other party to be bound by the
+provisions of this Agreement and (ii) having the financial wherewithal to perform all obligations under this Agreement. No assignment
+or other transfer will relieve a Party of any of its obligations or performance under this Agreement. Subject to the foregoing, this Agreement
+shall inure to the benefit of and be binding upon the Parties and their respective successors and permitted assigns.
+
+ 
+
+(h)
+Counterparts
+. This Agreement may be executed in counterparts (including by email, .pdf, or digital
+platforms like DocuSign), with each considered an original, but together constituting one and the same agreement. A signed copy, whether
+transmitted electronically or digitally executed, will have the same force and effect as an original signature. Copies of this Agreement
+exchanged by electronic transmission, including .pdf or other digital means, shall be treated as original executed counterparts.
+
+ 
+
+[Signature Page(s) Follow(s)]
+
+ 
+
+14
+
+ 
+
+ 
+
+IN WITNESS WHEREOF
+, the Parties hereto have executed this Agreement
+as of the Effective Date.
+
+ 
+
+ 
+
+Brag House Holdings, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+/s/ Lavell Juan Malloy, II
+
+ 
+
+Print Name: 
+ 
+Lavell Juan Malloy, II
+
+ 
+
+Title: 
+ 
+CEO
+
+ 
+
+ 
+
+ 
+
+ 
+
+EVEMeta LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+/s/ Anthony Rennert
+
+ 
+
+Print Name: 
+ 
+Anthony Lawrence Rennert
+
+ 
+
+Title: 
+ 
+Founder
+
+ 
+
+15
+
+ 
+
+ 
+
+Exhibit A
+
+to
+
+EVEMeta Compression Software as a Service
+Agreement
+
+ 
+
+Capitalized terms used herein
+but not otherwise defined shall have the respective meanings ascribed to them above in the Agreement.
+
+ 
+
+Stock Consideration and Payment for Reimbursable
+Expenses:
+
+ 
+
+Stock Consideration
+:
+In exchange for provision of the Compression Services and licenses as provided for under the Agreement, the Customer has agreed to issue
+to EVEMeta 312,500 shares of locked-up Customer Common Stock upon the execution of the Agreement. Such 312,500 shares of Customer Common
+Stock shall be subject to lock-up and released as follows:
+
+ 
+
+o
+Phase 1
+: An initial 20% of the 312,500 shares of Customer Common Stock shall be released from lock-up
+within 30 days following completion of the Customer IPO.
+
+ 
+ 
+ 
+
+o
+Phase 2
+: An additional 20% of the 312,500 shares of Customer Common Stock shall be released from
+lock-up one year following the completion of the Customer IPO.
+
+ 
+ 
+ 
+
+o
+Phase 3
+: An additional 20% of the 312,500 shares of Customer Common Stock shall be released from
+lock-up two years following the completion of the Customer IPO.
+
+ 
+ 
+ 
+
+o
+Phase 4
+: An additional 20% of the 312,500 shares of Customer Common Stock shall be released from
+lock-up three years following the completion of the Customer IPO.
+
+ 
+ 
+ 
+
+o
+Phase 5
+: The remaining 20% of the 312,500 shares of Customer Common Stock shall be released from
+lock-up four years following the completion of the Customer IPO.
+
+ 
+
+Notwithstanding the foregoing, unless mutually
+agreed upon by the Parties, it is expressly understood that the shares of Customer Common Stock issuable above shall not be released unless
+and until the prior phase of Services has been completed to Industry Standard.
+
+ 
+
+EVEMeta may not sell or otherwise transfer the
+shares of Customer Common Stock it receives as Stock Consideration hereunder (i) until such time as the Brag IPO has been consummated
+and closed; and (ii) in any event, until such time as such Customer Common Stock has been the subject of registration under the Securities
+Act or there is available a valid exemption from registration.
+
+ 
+
+ 
+
+16
