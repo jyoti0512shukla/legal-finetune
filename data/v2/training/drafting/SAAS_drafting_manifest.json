@@ -1,0 +1,376 @@
+{
+  "type": "SAAS",
+  "task": "drafting",
+  "total_examples": 120,
+  "total_contracts": 30,
+  "per_clause_type_counts": {
+    "intellectual_property": 30,
+    "limitation_of_liability": 30,
+    "termination": 30,
+    "data_privacy": 23,
+    "service_level": 4,
+    "indemnification": 3
+  },
+  "contracts": [
+    {
+      "template": "CLAUDE_BrandWaffle_FranchisePOS_enterprise_25",
+      "industry": "restaurant_tech",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_BrightStep_Learning_K12_mid_market_17",
+      "industry": "k12_education",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_ClaimsFlow_Insurance_mid_market_14",
+      "industry": "insurance",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_ContractIQ_LegalTech_smb_13",
+      "industry": "legal_tech",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_FleetTrace_Telematics_smb_22",
+      "industry": "logistics_telematics",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_ForgeRunner_DevTools_smb_20",
+      "industry": "developer_tools",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_GuardPath_MSSP_smb_21",
+      "industry": "cybersecurity",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_KeystoneAccess_IAM_enterprise_28",
+      "industry": "identity_access_management",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_LearnPath_Academy_Inc_mid_market_05",
+      "industry": "higher_education",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_MedPath_HospitalEHR_enterprise_23",
+      "industry": "healthcare_ehr",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_MenuMaster_RestaurantPOS_smb_15",
+      "industry": "restaurant_tech",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "service_level"
+      ]
+    },
+    {
+      "template": "CLAUDE_ModelForge_AI_Platform_mid_market_18",
+      "industry": "ai_ml_platform",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_NorthernEdge_Canada_enterprise_16",
+      "industry": "banking",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_ObservoLoop_Observability_mid_market_30",
+      "industry": "developer_observability",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "service_level"
+      ]
+    },
+    {
+      "template": "CLAUDE_PayBridge_PaymentInfra_enterprise_26",
+      "industry": "payment_processing",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "indemnification"
+      ]
+    },
+    {
+      "template": "CLAUDE_PharmaTrack_Clinical_enterprise_12",
+      "industry": "pharmaceutical",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_PulseLoop_Email_Marketing_smb_19",
+      "industry": "marketing_tech",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_StaffOS_HRIS_enterprise_24",
+      "industry": "hr_tech",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_TastePilot_OnlineOrdering_mid_market_31",
+      "industry": "restaurant_online_ordering",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "indemnification"
+      ]
+    },
+    {
+      "template": "CLAUDE_TeleVita_RemotePatient_enterprise_27",
+      "industry": "healthcare_telemedicine",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_VectorPoint_VectorDB_smb_29",
+      "industry": "vector_database",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "SYNTHETIC_BuildKit_Cloud__Inc__smb_04",
+      "industry": "developer_tools",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02",
+      "industry": "healthcare",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01",
+      "industry": "retail_analytics",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "service_level"
+      ]
+    },
+    {
+      "template": "SYNTHETIC_FactoryMind_Industrial_IoT__Inc__enterprise_06",
+      "industry": "industrial_iot",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "service_level"
+      ]
+    },
+    {
+      "template": "SYNTHETIC_LedgerCore_Financial_Software__Inc__enterprise_03",
+      "industry": "financial_services",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09",
+      "industry": "hr_tech",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07",
+      "industry": "marketing_tech",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10",
+      "industry": "logistics",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08",
+      "industry": "cybersecurity",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "indemnification"
+      ]
+    }
+  ]
+}

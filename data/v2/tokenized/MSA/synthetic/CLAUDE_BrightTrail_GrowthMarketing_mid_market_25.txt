@@ -1,0 +1,225 @@
+BRIGHTTRAIL — GROWTH MARKETING SERVICES AGREEMENT
+
+This is the BrightTrail Growth Marketing Services Agreement (the "Agreement"). It is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} (the "Agency," "we," or "our"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} (the "Client," "you"). It starts on {{EFFECTIVE_DATE}}.
+
+We do growth marketing — paid acquisition (Google Ads, Meta Ads, TikTok, LinkedIn), performance creative, lifecycle email/SMS, conversion-rate optimization, and analytics. You hire us through Statements of Work for specific scopes. We try to keep our paperwork short and human.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 The "Services" are the growth marketing services we provide under each Statement of Work.
+
+1.2 A "Statement of Work" or "SOW" is a document we both sign that describes a specific scope — the channels, the deliverables, the team, the fees, the term, and any project-specific terms.
+
+1.3 "Deliverables" are the things we hand over to you under a SOW — campaigns, creative assets, landing page copy, audience definitions, dashboards, and reports.
+
+1.4 "Background IP" is what each of us already owns going in. Our Background IP includes our internal playbooks, our analytics templates, our creative testing methodologies, and our benchmarking data.
+
+1.5 "Client Materials" are things you give us to use on the project — your brand assets, your product information, your CRM data, your historical campaign performance.
+
+1.6 "Customer Data" is information about your end customers that we touch in connection with running campaigns — names, contact information, behavior data, and ad-platform audience uploads.
+
+1.7 "Ad Spend" is the media spend you authorize on third-party advertising platforms (Google, Meta, TikTok, LinkedIn, etc.) — billed by the platforms directly to your accounts, not through us.
+
+ARTICLE 2 — SCOPE OF SERVICES
+
+2.1 SOW model. We do work for you only under signed SOWs.
+
+2.2 Order of precedence. As described in the preamble.
+
+2.3 What we promise. We do the work in a professional, workmanlike manner, using current best practices for growth marketing.
+
+2.4 What you do. You give us reasonable access to your ad accounts, your analytics, your CRM, your CMS, and any other tools we need. You authorize the Ad Spend through your own ad-platform accounts.
+
+2.5 No exclusivity. We can work with other clients (subject to the conflict rule below). You can work with other agencies.
+
+2.6 Conflicts. We will not knowingly take on a direct competitor of yours during an active SOW without telling you first.
+
+ARTICLE 3 — DELIVERABLES AND ACCEPTANCE
+
+3.1 Performance-based work. The Services consist of ongoing campaign management against the metrics in the SOW (CAC, ROAS, conversion rate, etc.) plus discrete Deliverables (creative assets, landing pages, dashboards). The principal output is ongoing performance, not discrete deliverables, except as the SOW specifies.
+
+3.2 Discrete Deliverables. For discrete Deliverables (creative assets, landing pages, dashboards), you have ten (10) business days from delivery to review and tell us in writing whether you accept or want changes.
+
+3.3 Cure. If you ask for changes, we will make them at no additional charge if they are within scope. After two rounds you can either accept with a fair fee reduction or terminate the affected SOW.
+
+3.4 Deemed acceptance. If you do not respond within the Acceptance Period, the Deliverable is deemed accepted.
+
+3.5 Performance reporting. We send you a weekly performance report and a monthly business review.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Fees. You pay us the fees in each SOW. Fees are typically a fixed monthly retainer plus a percentage of Ad Spend on accounts we manage.
+
+4.2 Annual aggregate. The total fees you pay us across all active SOWs as of the Effective Date is roughly {{ANNUAL_FEE_AMOUNT}}, included for reference only.
+
+4.3 Ad Spend. Ad Spend is paid by you directly to the ad platforms — we do not invoice you for Ad Spend. We have read-write access to your ad accounts to manage the campaigns; you remain the account owner and the billing party with each platform.
+
+4.4 Performance-based bonuses. If the SOW includes a performance-based bonus (for example, a bonus when CAC drops below a target), we calculate the bonus monthly based on the agreed metric and invoice it the following month.
+
+4.5 Net 30. We invoice the retainer monthly. Late payments accrue 1% per month or the maximum allowed by law, whichever is less.
+
+4.6 Disputes. If you think a charge is wrong, tell us within 15 business days. Pay the parts you do not dispute on time.
+
+4.7 Taxes. Fees do not include taxes.
+
+ARTICLE 5 — TERM AND TERMINATION
+
+5.1 Initial Term. This Agreement runs for {{TERM_YEARS}} years from the Effective Date.
+
+5.2 Renewal. After the Initial Term, this Agreement auto-renews for one-year periods. Either of us can stop renewal by giving written notice at least {{NOTICE_DAYS}} days before the current term ends.
+
+5.3 You can cancel any active SOW for convenience on 30 days notice.
+
+ARTICLE 6 — TEAM AND STAFFING
+
+6.1 Designated team. Each SOW lists the lead growth marketers — typically the account director, the paid media lead, the creative lead, and the analytics lead.
+
+6.2 No swapping. We will not swap out designated team members without telling you first.
+
+6.3 Removal on your request. If you want us to take someone off your account, ask. We will do it within five business days.
+
+6.4 Background checks. We run background checks on all our employees consistent with our standard practice.
+
+6.5 Non-solicitation. While we are working together and for 12 months after, you will not directly hire or solicit our team members who worked on your account (general public job ads do not count).
+
+ARTICLE 7 — CLIENT DATA, CUSTOMER DATA, AND CONSENT
+
+7.1 You own Client Materials and Customer Data. Your brand assets, your CRM data, your customer information, your campaign performance — you own all of it.
+
+7.2 Limited use. We use Client Materials and Customer Data only to run campaigns for you under the SOWs. We do not sell them, share them with other clients, or use them for any other purpose.
+
+7.3 Customer Data uploaded to ad platforms. When we upload Customer Data to an ad platform (for example, hashed email addresses for a custom audience on Meta or Google), we follow the ad platform's terms and the applicable consent rules. You are responsible for obtaining the customer consent required for the upload.
+
+7.4 No AI training. We will not use Customer Data to train any artificial intelligence model.
+
+7.5 Marketing consent is on you. You promise that for every customer in your CRM database whose information we use for marketing campaigns, you have a lawful basis under CAN-SPAM (15 U.S.C. § 7701), the Telephone Consumer Protection Act (47 U.S.C. § 227), and applicable state privacy laws. We support unsubscribe links in every email and STOP keywords for SMS, but the legal obligation to comply is yours.
+
+7.6 Privacy law compliance. We comply with applicable privacy laws (CCPA, CPRA, Virginia CDPA, Colorado CPA, Connecticut DPA, Utah CPA) as a service provider acting on your behalf.
+
+7.7 Security. We protect Client Materials and Customer Data with TLS 1.2 in transit, AES-256 at rest, role-based access controls, and an annual review of our security practices.
+
+7.8 Breach notification. If we have a security incident affecting Client Materials or Customer Data, we will tell you in writing within 72 hours.
+
+7.9 Return on cancellation. When the engagement ends, we hand off the ad account access, return Client Materials, and delete the copies of Customer Data we hold (except for archival in normal records retention).
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Background IP. Each side keeps its Background IP. We are not transferring our internal playbooks, our methodologies, or our benchmarking data.
+
+8.2 Work Product is yours. Subject to Section 8.3 and to you paying the fees, we assign to you all rights in the Deliverables we create specifically for you under each SOW — campaigns, creative assets, landing page copy, audience definitions, dashboards, and reports. To the maximum extent permitted by copyright law, the Deliverables are "work made for hire" for you. To the extent they are not, we hereby assign them to you.
+
+8.3 License to Background IP. If a Deliverable contains some of our Background IP, we grant you a perpetual, irrevocable, non-exclusive, royalty-free license to use that Background IP solely as embedded in the Deliverable.
+
+8.4 Ad accounts and audiences. The ad-platform accounts are yours throughout. The audiences, the campaigns, the historical performance data, and the conversion data within those accounts are yours. We will not export or replicate audience data outside your accounts.
+
+8.5 Aggregate benchmarks. We may use de-identified, aggregated benchmarks across our clients (such as average CAC by industry or average ROAS by channel) for industry analysis, provided no Client-identifying information is included.
+
+8.6 Feedback. If you tell us how to improve our process, we can use that feedback. We will not use Client Materials or Customer Data in connection with feedback.
+
+8.7 Portfolio rights. We can mention you as a customer on our website and in case studies, with your prior written approval of the specific case study text.
+
+8.8 No implied licenses. You only get the rights this Agreement actually grants.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Mutual. Each of us holds the other's non-public information confidential, uses it only for the work, and shares it only with our people who need to know.
+
+9.2 Exceptions. The promise does not cover information that is already public, was already known, was independently developed, or was rightfully received from someone else.
+
+9.3 Compelled disclosure. If a court order requires disclosure, we will tell the other side first if we are legally allowed to.
+
+9.4 Survival. Confidentiality obligations last during this Agreement and for two years after.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Authority. Each of us has the authority to enter into this Agreement.
+
+10.2 What we promise. We will do the work professionally and consistent with industry standards. The Deliverables (other than Client Materials) will not knowingly infringe anyone else's IP. We will comply with applicable laws, including ad-platform terms.
+
+10.3 What you promise. You have the right to provide Client Materials and Customer Data. You have the consent required to use Customer Data for marketing under CAN-SPAM, the TCPA, and applicable privacy laws. Your products and the claims in your campaigns comply with applicable advertising laws (FTC endorsement guides, FDA advertising rules where applicable).
+
+10.4 Disclaimer. EXCEPT FOR THE LIMITED WARRANTY ABOVE, THE SERVICES AND DELIVERABLES ARE PROVIDED "AS IS." WE DISCLAIM ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. PERFORMANCE MARKETING DEPENDS ON MANY FACTORS OUTSIDE OUR CONTROL — AD AUCTIONS, AD-PLATFORM POLICY CHANGES, ATTRIBUTION CHANGES, MARKET CONDITIONS. WE DO NOT WARRANT ANY SPECIFIC CAC, ROAS, REVENUE, OR CONVERSION OUTCOME EXCEPT AS THE SOW EXPRESSLY PROMISES.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 We defend you. We will defend you against any third-party claim that the Deliverables (the parts we built — not Client Materials, not Customer Data) infringe a third party's U.S. patent, copyright, trademark, or trade secret. We will pay the final judgment or agreed settlement, subject to the cap in Article 12.
+
+11.2 You defend us. You will defend us against any third-party claim that arises from (a) Client Materials or Customer Data, (b) any product or claim in your campaigns that turns out to be untrue or non-compliant with FTC rules, (c) your alleged failure to obtain proper consent under CAN-SPAM, the TCPA, or applicable privacy laws (including any TCPA class action arising from your messaging), or (d) your use of a Deliverable in a way the SOW did not permit.
+
+11.3 How indemnification works. The side seeking indemnity tells the other side promptly, gives the other side control of the defense, and helps out at the indemnifying side's reasonable expense.
+
+11.4 If a Deliverable might infringe. If a Deliverable might be the subject of an IP claim, we may (a) get you a license, (b) modify it, (c) replace it, or (d) take it back and refund the fees you paid for it.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. EXCEPT AS PROVIDED IN SECTION 12.3, NEITHER OF US WILL BE LIABLE TO THE OTHER FOR MORE THAN THE TOTAL FEES YOU HAVE PAID US UNDER THE AFFECTED SOW IN THE {{LIABILITY_CAP_MONTHS}} MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM. AD SPEND IS NOT INCLUDED IN THIS CAP — AD SPEND IS PAID BY YOU TO THE AD PLATFORMS DIRECTLY.
+
+12.2 No indirect damages. EXCEPT AS PROVIDED IN SECTION 12.3, NEITHER OF US WILL BE LIABLE TO THE OTHER FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, LOST REVENUE, LOST CONVERSIONS, OR LOSS OF BRAND VALUE, EVEN IF EITHER OF US HAS BEEN ADVISED THAT THOSE DAMAGES ARE POSSIBLE.
+
+12.3 What is not capped. The cap and the exclusion do not apply to (a) what we owe under Article 11, (b) breach of Article 9 (Confidentiality), (c) your obligation to pay fees, (d) your indemnity obligations under Section 11.2 (including TCPA class actions), (e) gross negligence, willful misconduct, or fraud, or (f) anything the law says cannot be limited.
+
+12.4 Why the cap. The cap reflects the price of agency services.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for material breach. Either of us can terminate this Agreement, or any SOW, on 30 days written notice if the other side materially breaches and does not cure within those 30 days.
+
+13.2 Termination for repeat compliance issues. We can terminate immediately if (a) you ask us to run a campaign that we reasonably believe violates applicable advertising or consumer protection law, and you do not address our concerns; or (b) an ad platform permanently restricts our ability to manage your account due to your sending behavior or product category.
+
+13.3 Termination for insolvency. Either of us can terminate immediately if the other becomes insolvent or files for bankruptcy.
+
+13.4 Effects of termination. When this ends: (a) we hand off ad account access to you, (b) we deliver any work completed up to the termination date, (c) we return Client Materials and Customer Data, (d) you pay for accepted work, (e) each of us returns or destroys the other's Confidential Information, and (f) Articles 1, 7, 8, 9, 11, 12, and 14 keep working.
+
+13.5 Wind-down. After termination, we will help you wind down for up to 30 days at our standard rates — knowledge transfer, account handoff to a successor agency or your in-house team, and answering questions about the campaigns.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing law. The laws of the State of {{GOVERNING_LAW_STATE}} apply, without regard to conflict-of-laws rules.
+
+14.2 Where to sue. Any lawsuit about this Agreement must be filed in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+14.3 Talk first. Before suing, please email legal@brighttrail.io and give us 30 days to fix the problem informally.
+
+14.4 No jury. We both give up the right to a jury trial.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Whole agreement. This Agreement plus all signed SOWs make up the whole deal between us about the Services.
+
+15.2 Updates. Changes only count if they are in writing signed by both of us.
+
+15.3 Severability. If a court says a part of this Agreement does not work, the rest still does.
+
+15.4 No waiver. Not enforcing a right one time is not a permanent giveup.
+
+15.5 Notices. Formal notices go to the addresses on the SOW or to legal@brighttrail.io.
+
+15.6 Independent contractors. We are independent contractors.
+
+15.7 Subcontractors. We may use approved freelance creative talent, copywriters, and analytics specialists. They sign confidentiality and IP assignment agreements substantially similar to ours.
+
+15.8 Assignment. Neither of us can assign this Agreement without the other's consent, except either of us can assign in connection with a merger or sale of substantially all assets.
+
+15.9 Force majeure. Neither of us is liable for delays caused by events outside our reasonable control, except your obligation to pay still applies.
+
+15.10 No third-party beneficiaries. Only you and we have rights under this Agreement.
+
+15.11 Counterparts. We can sign in counterparts.
+
+15.12 Plain language. We wrote this in plain language on purpose.
+
+Signed:
+
+{{PROVIDER_NAME}}
+
+By: ________________________
+Name:
+Title: Managing Partner
+Date:
+
+{{CUSTOMER_NAME}}
+
+By: ________________________
+Name:
+Title: Vice President, Growth
+Date:

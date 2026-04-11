@@ -1,0 +1,245 @@
+BRANDWAFFLE FRANCHISE PLATFORM MASTER SUBSCRIPTION AGREEMENT
+
+This Master Subscription Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} ("Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} ("Customer"). Customer is a franchisor that licenses its brand and operating system to franchisees who operate restaurants under such brand.
+
+This Agreement is intentionally a Master Agreement only. The specific Modules, the included Restaurant Locations, the Hardware Equipment to be deployed at such Restaurant Locations, the per-Location Subscription Fees, the Hardware Lease or Sale terms, the Subscription Term dates, the franchisee billing arrangements, and any custom terms shall be set forth in one or more Order Forms executed by both Parties (each, an "Order Form") and incorporated by reference into this Agreement. In the event of a conflict between this Agreement and an Order Form, the Order Form shall control as to the matters expressly addressed therein.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means any entity that directly or indirectly controls, is controlled by, or is under common control with a Party.
+
+1.2 "Authorized User" means an employee, manager, or other workforce member of Customer, a Franchisee, or a Restaurant Location who is authorized to access and use the Platform.
+
+1.3 "Brand Standards Module" means the Module that allows Customer to define operational standards (menu items, pricing, promotions, food safety procedures, brand guidelines) and to monitor compliance by Franchisees and Restaurant Locations.
+
+1.4 "Cardholder Data" has the meaning given in the PCI-DSS standard published by the PCI Security Standards Council.
+
+1.5 "Customer Data" means all electronic data, content, records, transactions, sales data, inventory data, customer loyalty data, and other information uploaded to, transmitted through, processed by, or stored within the Platform on behalf of Customer, any Franchisee, or any Restaurant Location.
+
+1.6 "Franchisee" means a person or entity that has entered into a franchise agreement with Customer to operate one or more Restaurant Locations under Customer's brand.
+
+1.7 "Hardware Equipment" means the BrandWaffle point-of-sale terminals, kitchen display screens, kitchen printers, cash drawers, and other physical hardware that Provider sells or leases to Customer or directly to Franchisees for use at Restaurant Locations under an Order Form.
+
+1.8 "Module" means a discrete functional component of the Platform (such as Point-of-Sale, Kitchen Display System, Inventory Management, Labor Scheduling, Brand Standards, Loyalty, Online Ordering, Delivery Integrations, Reporting, or Franchisee Portal) as identified on an Order Form.
+
+1.9 "Order Form" has the meaning set forth in the preamble.
+
+1.10 "Platform" means Provider's hosted franchise restaurant operations platform, marketed as BrandWaffle, including all Modules and the Hardware Equipment management firmware made available to Customer under one or more Order Forms.
+
+1.11 "Restaurant Location" means a physical restaurant location at which the Platform is deployed, whether operated by Customer directly, by an Affiliate of Customer, or by a Franchisee.
+
+1.12 "Subscription" means Customer's right to deploy and use a specified set of Modules at a specified number of Restaurant Locations for a specified Subscription Term, as set forth on an Order Form.
+
+1.13 "Subscription Fees" means the fees payable by Customer for a Subscription, typically billed on a per-Restaurant-Location per-month basis as set forth on the applicable Order Form.
+
+1.14 "Subscription Term" means the period during which a Subscription is in effect, as set forth on the applicable Order Form.
+
+ARTICLE 2 — SUBSCRIPTION AND LICENSE
+
+2.1 Provision of Services. Subject to the terms of this Agreement and the applicable Order Form, Provider shall make the Modules identified on each Order Form available to Customer for deployment at the Restaurant Locations identified on the Order Form (or, where the Order Form provides for franchisee-led adoption, at Restaurant Locations subsequently activated by Franchisees in accordance with the Order Form).
+
+2.2 License Grant. Provider hereby grants to Customer, during each Subscription Term, a limited, non-exclusive, non-transferable right and license to access and use the Modules identified on the applicable Order Form at the Restaurant Locations specified on such Order Form, solely for the operation of restaurants under Customer's brand.
+
+2.3 Sublicense to Franchisees. Customer may sublicense its rights under this Agreement to its Franchisees solely for the purpose of operating Restaurant Locations under Customer's franchise system, provided that (a) each Franchisee shall be bound by terms substantially similar to and no less protective of Provider than this Agreement, (b) Customer shall remain primarily responsible for the acts and omissions of its Franchisees, and (c) any breach of this Agreement by a Franchisee shall be deemed a breach by Customer for the purposes of this Agreement.
+
+2.4 Restrictions. Customer and its Franchisees shall not (a) modify or create derivative works based on the Platform; (b) use the Platform at any restaurant that is not operating under Customer's brand; (c) reverse engineer the Platform or the firmware on Hardware Equipment; (d) use the Platform to build a competing product; or (e) use the Platform in any manner not authorized by the applicable Order Form.
+
+2.5 Suspension. Provider may suspend the Platform at any specific Restaurant Location, in whole or in part, upon prior written notice if Provider reasonably determines that such Restaurant Location's use poses an immediate security risk or that Customer or the Franchisee operating such Restaurant Location has materially breached the license restrictions in Section 2.4 and failed to cure within ten (10) business days of written notice. Provider shall use commercially reasonable efforts to limit any suspension to the minimum scope necessary and shall not suspend the Platform across all Restaurant Locations except in cases of an enterprise-wide compliance failure, security incident, or non-payment.
+
+ARTICLE 3 — IMPLEMENTATION, HARDWARE, AND HARDWARE REFRESH
+
+3.1 Statements of Work. Implementation, Hardware Equipment installation, integration with Customer's existing systems (such as franchise reporting systems and royalty calculation systems), training, and other professional services ("Professional Services") shall be performed under one or more Statements of Work ("SOW"), each signed by both Parties.
+
+3.2 Hardware Sale or Lease. Hardware Equipment shall be sold or leased to Customer under the Order Form, which shall specify (a) the type and quantity of Hardware Equipment per Restaurant Location, (b) the price (or lease rate), (c) whether title passes to Customer, to a Franchisee, or remains with Provider, and (d) the warranty coverage.
+
+3.3 Hardware Refresh Cycle. Where the Order Form provides for a Hardware Refresh Cycle, Provider shall replace the Hardware Equipment at each Restaurant Location with then-current Hardware Equipment models on a four (4) year cycle, beginning four (4) years after the initial deployment at each Restaurant Location. The cost of the Hardware Refresh shall be included in the per-Restaurant-Location Subscription Fee, except that any expedited refresh requested by Customer or any Restaurant Location shall be at Customer's separate expense.
+
+3.4 Hardware Warranty. Provider warrants the Hardware Equipment for a period of one (1) year from the date of installation against defects in materials and workmanship. The remedy for any hardware defect during the warranty period is, at Provider's option, repair, replacement, or refund of the lease or sale price of the affected unit. The hardware warranty does not cover damage from misuse, accident, customer-side power supply problems, exposure to liquids inconsistent with restaurant operating conditions, or unauthorized modifications.
+
+3.5 On-Site Hardware Replacement SLA. For any Hardware Equipment failure at a Restaurant Location that prevents the Restaurant Location from accepting card payments or fulfilling orders during open hours, Provider shall use commercially reasonable efforts to dispatch replacement Hardware Equipment for delivery within twenty-four (24) hours of a verified failure report.
+
+3.6 Customer and Franchisee Cooperation. Customer shall ensure that each Restaurant Location provides Provider's installation technicians with access to the Restaurant Location during reasonable installation windows, with appropriate power and network connectivity, and with access to the location's existing point-of-sale equipment for migration.
+
+3.7 Change Orders. Any change to the scope of Professional Services or Hardware Equipment described in an SOW or Order Form shall be documented in a written change order signed by both Parties.
+
+ARTICLE 4 — SUBSCRIPTION FEES AND PAYMENT
+
+4.1 Fees. Customer shall pay Provider the Subscription Fees, Hardware fees, and Professional Services fees set forth on the applicable Order Form or SOW.
+
+4.2 Per-Restaurant-Location Pricing. Subscription Fees are typically billed on a per-Restaurant-Location per-month basis. The Order Form shall specify the per-Restaurant-Location monthly fee, the included Modules, and any volume discount tiers based on the total number of Restaurant Locations under the Order Form.
+
+4.3 Annual Aggregate. The annual aggregate Subscription Fees payable by Customer across all then-active Order Forms as of the Effective Date is {{ANNUAL_FEE_AMOUNT}}, included for reference only and updated by reference to the Order Forms then in effect from time to time.
+
+4.4 Franchisee Direct Billing. Where the Order Form provides for direct billing of Franchisees, Provider shall invoice each Franchisee directly for the per-Restaurant-Location Subscription Fees applicable to the Restaurant Locations operated by such Franchisee. Customer shall remain a guarantor of payment by its Franchisees, and Provider may pursue Customer for any Franchisee invoice that remains unpaid after sixty (60) days from the original due date. Customer is not obligated to pay any Franchisee invoice unless and until Provider has so pursued Customer in writing.
+
+4.5 Payment Terms. Unless otherwise set forth on an Order Form, all undisputed invoices shall be due and payable within thirty (30) days. Late payments shall accrue interest at the lesser of one percent (1%) per month or the maximum rate permitted by applicable law.
+
+4.6 Disputed Invoices. If Customer or any Franchisee in good faith disputes any portion of an invoice, Customer or such Franchisee shall notify Provider within fifteen (15) business days. Undisputed amounts shall be paid on time.
+
+4.7 Taxes. Subscription Fees and Hardware fees are exclusive of all taxes other than taxes imposed on Provider's net income. Customer or the applicable Franchisee shall be responsible for all sales, use, and similar taxes.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Agreement Term. This Agreement shall commence on the Effective Date and shall continue in effect so long as any Order Form remains in effect.
+
+5.2 Subscription Term. The Subscription Term for each Subscription shall be as set forth on the applicable Order Form. Each Subscription shall automatically renew for successive renewal terms equal in length to the initial Subscription Term unless either Party provides written notice of non-renewal at least {{NOTICE_DAYS}} days prior to expiration of the then-current Subscription Term.
+
+5.3 Per-Location Termination. Customer may remove a specific Restaurant Location from a Subscription if the underlying Restaurant Location closes or if a Franchisee's franchise agreement with Customer is terminated. The per-Location Subscription Fee for the removed Restaurant Location shall be discontinued at the end of the calendar month in which Customer notifies Provider in writing.
+
+5.4 Fee Adjustments at Renewal. Provider may adjust Subscription Fees for any renewal Subscription Term by providing written notice at least one hundred twenty (120) days prior to the start of the renewal Subscription Term. Any adjustment shall not exceed five percent (5%) above the per-Restaurant-Location Subscription Fee in effect during the immediately preceding Subscription Year.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Service Levels. The Service Level commitments applicable to each Module shall be set forth in the Service Level Exhibit to the applicable Order Form.
+
+6.2 Default Uptime. The Platform (Point-of-Sale and Payment Processing Modules in particular) shall be subject to a default uptime commitment of at least 99.95% measured monthly during typical restaurant operating hours (defined as 6:00 a.m. to 1:00 a.m. local time at each Restaurant Location), excluding scheduled maintenance and force majeure events.
+
+6.3 Offline Mode. The Parties acknowledge that the Hardware Equipment supports an offline mode that allows a Restaurant Location to continue accepting card payments and printing kitchen tickets for short periods when network connectivity to the Platform is lost. Loss of connectivity that does not impair offline mode operation shall not be counted as Platform downtime.
+
+6.4 Support Tiers. Provider shall provide twenty-four hours per day, seven days per week support to Customer's enterprise help desk, and shall provide tiered support directly to Restaurant Locations during operating hours. The Order Form shall specify the support tier and any additional support options.
+
+6.5 Severity 1 Incidents. Provider shall treat as Severity 1 any incident that prevents one or more Restaurant Locations from accepting card payments during operating hours. Provider shall use commercially reasonable efforts to acknowledge a Severity 1 incident within fifteen (15) minutes and to provide a workaround within one (1) hour.
+
+6.6 Service Credits. Service credits for failure to meet the Service Levels shall be Customer's sole and exclusive monetary remedy for such failure, except that two (2) or more consecutive months of failure to meet the default uptime commitment shall constitute a material breach entitling Customer to terminate the affected Order Form for cause.
+
+ARTICLE 7 — CUSTOMER DATA, CARDHOLDER DATA, AND PCI-DSS
+
+7.1 Ownership of Customer Data. As between the Parties, Customer shall retain all right, title, and interest in and to Customer Data. Provider acknowledges that Customer Data is the exclusive property of Customer.
+
+7.2 Permitted Uses. Provider shall use and disclose Customer Data only as necessary to provide the Services to Customer in accordance with this Agreement and the applicable Order Form. Provider shall not use Customer Data for any other purpose, including without limitation product improvement, machine learning model training, marketing, or sale to third parties, except as expressly permitted by Customer in writing.
+
+7.3 PCI-DSS Compliance. Provider shall maintain compliance with the Payment Card Industry Data Security Standard (PCI-DSS) at the level required by the major card brands for the volume of card transactions processed through the Platform (which the Parties anticipate will be Level 1). Provider shall provide Customer with a current Attestation of Compliance from a Qualified Security Assessor on at least an annual basis and shall promptly notify Customer of any change in its PCI-DSS compliance status.
+
+7.4 Cardholder Data Handling. Provider shall act as a "service provider" with respect to Cardholder Data within the meaning of PCI-DSS, and Provider's PCI-DSS compliance shall extend to all handling, storage, and transmission of Cardholder Data through the Platform and the Hardware Equipment. Provider shall not store any Cardholder Data outside of PCI-compliant scope. Cardholder Data shall be tokenized at the point of capture by the Hardware Equipment such that the Restaurant Location's network never transmits Primary Account Number information in the clear.
+
+7.5 Brand Standards and Aggregate Reporting. The Parties acknowledge that the Brand Standards Module aggregates data across Customer's Restaurant Locations to compute brand-wide compliance metrics. Provider shall make this aggregated data available to Customer in the Brand Standards Module dashboard and reports, and shall not provide aggregated data identifiable to specific Restaurant Locations or Franchisees to any third party without Customer's prior written consent.
+
+7.6 Security. Provider shall implement and maintain the safeguards required by PCI-DSS, including (a) encryption of Cardholder Data in transit using TLS 1.2 or higher; (b) encryption of Cardholder Data at rest using AES-256; (c) network segmentation isolating the cardholder data environment from other systems; (d) annual third-party penetration testing; (e) quarterly vulnerability scans by an Approved Scanning Vendor; (f) maintenance of SOC 2 Type II certification; and (g) a documented information security program reviewed at least annually.
+
+7.7 Breach Notification. Provider shall notify Customer in writing of any actual or reasonably suspected unauthorized access to or disclosure of Customer Data without undue delay and in any event within seventy-two (72) hours of Provider's discovery. The notification shall include any information Provider reasonably has about the nature of the incident, the data involved, the affected Restaurant Locations and Franchisees, and the actions Provider is taking. Provider shall also notify the relevant card brands and acquiring banks as required by PCI-DSS.
+
+7.8 Subprocessors. Provider shall maintain a list of subprocessors that have access to Customer Data on Provider's Customer Trust Portal. Provider shall provide Customer with at least thirty (30) days prior written notice of any addition or change to a subprocessor that has access to Cardholder Data. Customer may object to any new or changed subprocessor on reasonable security grounds.
+
+7.9 Data Residency. Provider shall store and process Customer Data within data centers physically located in the contiguous United States.
+
+7.10 Data Return and Deletion. Upon expiration or termination of an Order Form, Provider shall, at Customer's election, make Customer Data attributable to such Order Form available for export by Customer in a commercially reasonable, machine-readable format for a period of {{NOTICE_DAYS}} days, or permanently delete such Customer Data from production systems within thirty (30) days. Cardholder Data shall be deleted in accordance with PCI-DSS retention requirements.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Provider Intellectual Property. Provider shall retain all right, title, and interest in and to the Platform, the Modules, the firmware on Hardware Equipment, the Documentation, and all related Intellectual Property Rights.
+
+8.2 Customer Data and Brand. Customer Data is and shall remain the exclusive property of Customer. Customer also retains all right, title, and interest in and to its trademarks, brand standards, menu items, recipes, restaurant operating procedures, and other brand-related intellectual property. Provider's only right with respect to Customer's brand is the limited right to display Customer's brand within the Platform and on Hardware Equipment screens for the purpose of operating the Platform on Customer's behalf.
+
+8.3 Brand Standards Configurations. Customer-developed configurations within the Brand Standards Module — including the menu hierarchy, the brand standards definitions, the operating procedures, and the compliance metrics Customer chooses to track — shall be deemed Customer's property. Provider shall not use such Customer-developed configurations for the benefit of any other restaurant brand without Customer's prior written consent.
+
+8.4 Feedback. Customer or its Authorized Users may provide Provider with suggestions, comments, or feedback regarding the Platform ("Feedback"). Customer hereby grants Provider a perpetual, irrevocable, royalty-free, worldwide license to use such Feedback to improve the Platform, provided that Provider shall not use Customer Data, Customer's brand, or any Customer brand standards configuration in connection with Feedback.
+
+8.5 No Implied Licenses. Other than the limited rights expressly granted, neither Party grants any rights or licenses to the other Party.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party shall (a) hold the other Party's Confidential Information in strict confidence; (b) use it solely for purposes of this Agreement; (c) not disclose it to any third party except to employees, contractors, advisors, and Franchisees who have a need to know and are bound by similar confidentiality obligations; and (d) protect it with at least reasonable care.
+
+9.2 Customer's Confidential Information. Customer's Confidential Information includes Customer Data, Customer's brand standards configurations, sales data and franchise system performance data, royalty calculation methodologies, pricing and promotional strategies, and any other non-public information about Customer's franchise system.
+
+9.3 Exclusions. Confidentiality obligations shall not apply to information that the Receiving Party can demonstrate (a) was already known without obligation of confidentiality; (b) was independently developed; (c) was rightfully received from a third party; or (d) is or becomes public through no fault of the Receiving Party.
+
+9.4 Compelled Disclosure. The Receiving Party may disclose Confidential Information to the extent required by law, provided it gives prompt notice to the Disclosing Party where legally permitted.
+
+9.5 Survival. The obligations in this Article 9 shall survive any expiration or termination of this Agreement for a period of five (5) years, except that obligations with respect to trade secrets shall survive for so long as such information remains a trade secret.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants that it has the corporate authority to enter into this Agreement.
+
+10.2 Provider Warranties. Provider warrants that during each Subscription Term: (a) the Platform shall perform substantially in accordance with the Documentation; (b) Provider shall not knowingly include any malicious code in the Platform or Hardware Equipment firmware; (c) Provider shall provide the Services in a professional and workmanlike manner; (d) Provider shall comply with PCI-DSS at the applicable level; and (e) Provider shall comply with applicable federal, state, and local laws.
+
+10.3 Customer Warranties. Customer warrants that (a) it has the right to enter into this Agreement on behalf of its franchise system; (b) its sublicensing of the Platform to Franchisees is in compliance with applicable franchise laws, including the FTC Franchise Rule and state franchise registration and disclosure laws; and (c) its use of the Platform shall comply with applicable laws.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES IN THIS ARTICLE 10, THE PLATFORM AND THE HARDWARE EQUIPMENT ARE PROVIDED "AS IS." PROVIDER DISCLAIMS ALL OTHER WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Provider Indemnity. Provider shall defend Customer against any third-party claim alleging that Customer's or any Franchisee's use of the Platform or Hardware Equipment in accordance with this Agreement infringes any Intellectual Property Right of such third party. Provider's obligations shall not apply to claims arising from (a) modification by anyone other than Provider; (b) combination with other software, hardware, or data not provided by Provider; (c) use in violation of this Agreement; or (d) Customer Data.
+
+11.2 PCI Indemnity. Provider shall indemnify Customer for direct costs and expenses Customer or any Franchisee incurs as a result of a Cardholder Data breach to the extent caused by Provider's breach of its PCI-DSS obligations under Section 7.3, including (a) PCI fines and assessments imposed by acquiring banks or card brands, (b) reasonable forensic investigation costs, (c) the reasonable costs of any required customer notification, and (d) the reasonable costs of credit monitoring or identity protection offered to affected cardholders.
+
+11.3 Customer Indemnity. Customer shall defend Provider against any third-party claim alleging that (a) Customer Data infringes any third-party right; (b) Customer's use of the Platform in violation of this Agreement caused damage to a third party; (c) Customer's franchise system arrangement violates the FTC Franchise Rule, any state franchise law, or any other regulation governing franchising; or (d) any Franchisee's actions in connection with the Platform.
+
+11.4 Indemnification Procedure. The Party seeking indemnification shall (a) provide prompt written notice; (b) grant the indemnifying Party sole control over the defense and settlement (subject to a no-bad-settlement-without-consent right); and (c) provide reasonable cooperation at the indemnifying Party's expense.
+
+11.5 Mitigation. If the Platform or Hardware Equipment becomes the subject of an infringement claim, Provider may, at its option, (a) procure the right to continue using the Platform or Hardware Equipment, (b) modify it, (c) replace it, or (d) terminate the affected Order Form and refund the prepaid portion of Subscription Fees and the unused portion of any Hardware lease or sale fee.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT OR ANY ORDER FORM, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF SUBSCRIPTION FEES PAID OR PAYABLE BY CUSTOMER TO PROVIDER DURING THE {{LIABILITY_CAP_MONTHS}} MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOST REVENUE, LOST BUSINESS OPPORTUNITIES, LOST CUSTOMER GOODWILL, OR LOSS OF DATA, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+12.3 Exceptions to Limitations. The limitations in Sections 12.1 and 12.2 shall not apply to (a) Provider's obligations under Article 11 (Indemnification), including specifically the PCI Indemnity in Section 11.2; (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Customer Data, Cardholder Data, and PCI-DSS); (d) Customer's payment obligations; (e) liability arising from gross negligence, willful misconduct, or fraud; or (f) any liability that cannot be limited under applicable law.
+
+12.4 Basis of the Bargain. The limitations of liability are an essential element of the bargain between the Parties.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Material Breach. Either Party may terminate this Agreement, an Order Form, or an SOW upon thirty (30) days' prior written notice if the other Party commits a material breach and fails to cure within the notice period.
+
+13.2 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice if the other Party becomes insolvent, makes a general assignment for the benefit of creditors, files for bankruptcy, or has bankruptcy filed against it that is not dismissed within sixty (60) days.
+
+13.3 Termination for Loss of PCI-DSS Compliance. Customer may terminate this Agreement or any Order Form upon written notice if Provider loses PCI-DSS Level 1 compliance and fails to remediate within ninety (90) days of Customer's written notice.
+
+13.4 Effects of Termination. Upon expiration or termination: (a) all rights and licenses granted hereunder shall immediately cease; (b) Customer (and any Franchisee directly billed by Provider) shall pay all undisputed amounts that have accrued; (c) each Party shall return or destroy the other Party's Confidential Information; (d) Provider shall make Customer Data available for export or shall delete it in accordance with Section 7.10; (e) any leased Hardware Equipment shall be returned to Provider in accordance with the Order Form (or, where Hardware was sold, shall remain Customer's property); and (f) the provisions that by their nature are intended to survive termination shall so survive.
+
+13.5 Transition Assistance. For a period of up to one hundred eighty (180) days following expiration or termination, Provider shall provide Customer with reasonable transition assistance, including export of historical sales data, inventory data, and Customer-developed configurations. Standard data exports shall be at no additional charge. Customized transition services shall be at Provider's then-current professional services rates.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to its conflict-of-laws principles.
+
+14.2 Venue and Jurisdiction. Any action arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, and each Party irrevocably consents to the personal jurisdiction of such courts.
+
+14.3 Informal Dispute Resolution. Before initiating litigation, the Parties shall attempt in good faith to resolve any dispute through direct negotiation between executives. If unresolved within thirty (30) days, either Party may proceed to litigation.
+
+14.4 Waiver of Jury Trial. EACH PARTY HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement, together with all Order Forms and SOWs, constitutes the entire agreement between the Parties.
+
+15.2 Order of Precedence. In the event of a conflict between this Agreement and an Order Form, the Order Form shall control as to the matters expressly addressed therein. In the event of a conflict between an SOW and this Agreement, the SOW shall control as to the Professional Services described therein.
+
+15.3 Amendments. No amendment shall be effective unless in writing executed by both Parties.
+
+15.4 Severability. If any provision is held unenforceable, the remaining provisions shall continue in full force.
+
+15.5 Waiver. No failure or delay in exercising any right shall operate as a waiver thereof.
+
+15.6 Notices. Formal notices shall be in writing and delivered to the addresses set forth on the applicable Order Form.
+
+15.7 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, except in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+15.8 Force Majeure. Neither Party shall be liable for delays caused by events outside its reasonable control (other than payment obligations).
+
+15.9 Independent Contractors. The Parties are independent contractors. Nothing in this Agreement creates a franchise relationship between Provider and Customer or between Provider and any Franchisee.
+
+15.10 No Third-Party Beneficiaries. Franchisees are not third-party beneficiaries of this Agreement, except to the extent expressly set forth in an Order Form for direct billing.
+
+15.11 Counterparts. This Agreement may be executed in counterparts.
+
+15.12 Headings. Headings are for convenience only.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+{{CUSTOMER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:

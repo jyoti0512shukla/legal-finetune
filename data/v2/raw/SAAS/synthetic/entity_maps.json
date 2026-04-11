@@ -1,6 +1,5 @@
 {
   "_description": "Hand-curated entity maps for synthetic SaaS contracts. Each key is the contract filename (without .txt). Values are the entities to be replaced with placeholders during tokenization.",
-
   "CLAUDE_LearnPath_Academy_Inc_mid_market_05": {
     "PROVIDER_NAME": "LearnPath Academy, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -20,7 +19,6 @@
     "NOTICE_DAYS": "ninety (90)",
     "IMPLEMENTATION_FEE": "Seventy-Five Thousand United States Dollars ($75,000)"
   },
-
   "CLAUDE_PharmaTrack_Clinical_enterprise_12": {
     "PROVIDER_NAME": "PharmaTrack Clinical Data Systems, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -40,7 +38,6 @@
     "NOTICE_DAYS": "one hundred eighty (180)",
     "IMPLEMENTATION_FEE": "Two Hundred Fifty Thousand United States Dollars ($250,000)"
   },
-
   "CLAUDE_ContractIQ_LegalTech_smb_13": {
     "PROVIDER_NAME": "ContractIQ Legal Tech, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -59,7 +56,6 @@
     "LIABILITY_CAP_MONTHS": "twelve (12)",
     "NOTICE_DAYS": "thirty (30)"
   },
-
   "CLAUDE_ClaimsFlow_Insurance_mid_market_14": {
     "PROVIDER_NAME": "ClaimsFlow Insurance Platform, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -79,7 +75,6 @@
     "NOTICE_DAYS": "ninety (90)",
     "IMPLEMENTATION_FEE": "Sixty Thousand United States Dollars ($60,000)"
   },
-
   "CLAUDE_MenuMaster_RestaurantPOS_smb_15": {
     "PROVIDER_NAME": "MenuMaster POS Cloud, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -98,7 +93,6 @@
     "LIABILITY_CAP_MONTHS": "twelve (12)",
     "NOTICE_DAYS": "thirty (30)"
   },
-
   "CLAUDE_NorthernEdge_Canada_enterprise_16": {
     "PROVIDER_NAME": "NorthernEdge Cloud Solutions Inc.",
     "PROVIDER_STATE": "Canada",
@@ -118,7 +112,6 @@
     "NOTICE_DAYS": "one hundred eighty (180)",
     "IMPLEMENTATION_FEE": "One Hundred Twenty-Five Thousand Canadian Dollars (CAD $125,000)"
   },
-
   "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01": {
     "PROVIDER_NAME": "DataPilot Analytics, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -137,7 +130,6 @@
     "LIABILITY_CAP_MONTHS": "twelve (12)",
     "NOTICE_DAYS": "sixty (60)"
   },
-
   "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02": {
     "PROVIDER_NAME": "ClinicFlow Health Systems, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -153,7 +145,6 @@
     "TERM_YEARS": "two (2)",
     "LIABILITY_CAP_MONTHS": "twenty-four (24)"
   },
-
   "SYNTHETIC_LedgerCore_Financial_Software__Inc__enterprise_03": {
     "PROVIDER_NAME": "LedgerCore Financial Software, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -169,7 +160,6 @@
     "TERM_YEARS": "five (5)",
     "LIABILITY_CAP_MONTHS": "twelve (12)"
   },
-
   "SYNTHETIC_BuildKit_Cloud__Inc__smb_04": {
     "PROVIDER_NAME": "BuildKit Cloud, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -185,7 +175,6 @@
     "TERM_YEARS": "three (3)",
     "LIABILITY_CAP_MONTHS": "twelve (12)"
   },
-
   "SYNTHETIC_FactoryMind_Industrial_IoT__Inc__enterprise_06": {
     "PROVIDER_NAME": "FactoryMind Industrial IoT, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -201,7 +190,6 @@
     "TERM_YEARS": "three (3)",
     "LIABILITY_CAP_MONTHS": "twelve (12)"
   },
-
   "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07": {
     "PROVIDER_NAME": "PixelBoost Marketing Cloud, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -217,7 +205,6 @@
     "TERM_YEARS": "one (1)",
     "LIABILITY_CAP_MONTHS": "twelve (12)"
   },
-
   "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08": {
     "PROVIDER_NAME": "ShieldNet Cyber Security, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -233,7 +220,6 @@
     "TERM_YEARS": "three (3)",
     "LIABILITY_CAP_MONTHS": "thirty-six (36)"
   },
-
   "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09": {
     "PROVIDER_NAME": "PeopleHub HR Suite, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -249,7 +235,6 @@
     "TERM_YEARS": "two (2)",
     "LIABILITY_CAP_MONTHS": "twelve (12)"
   },
-
   "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10": {
     "PROVIDER_NAME": "RouteOptima Freight Software, Inc.",
     "PROVIDER_STATE": "Delaware",
@@ -264,5 +249,284 @@
     "ANNUAL_FEE_AMOUNT": "USD 360,000",
     "TERM_YEARS": "three (3)",
     "LIABILITY_CAP_MONTHS": "six (6)"
+  },
+  "CLAUDE_BrightStep_Learning_K12_mid_market_17": {
+    "PROVIDER_NAME": "BrightStep Learning, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "88 Innovation Way, Suite 400, San Mateo, California 94402",
+    "CUSTOMER_NAME": "Riverdale Unified School District",
+    "CUSTOMER_STATE": "California",
+    "CUSTOMER_ENTITY_TYPE": "public school district organized under the laws of the State of California",
+    "CUSTOMER_ADDRESS": "1450 Civic Center Drive, Riverdale, California 92505",
+    "EFFECTIVE_DATE": "September 3, 2024",
+    "GOVERNING_LAW_STATE": "California",
+    "VENUE_COUNTY": "Riverside County",
+    "VENUE_CITY": "Riverdale",
+    "ANNUAL_FEE_AMOUNT": "One Hundred Thirty-Two Thousand United States Dollars ($132,000)",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "ninety (90)",
+    "IMPLEMENTATION_FEE": "Twenty Thousand United States Dollars ($20,000)"
+  },
+  "CLAUDE_ModelForge_AI_Platform_mid_market_18": {
+    "PROVIDER_NAME": "ModelForge AI, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1500 Folsom Street, 4th Floor, San Francisco, California 94103",
+    "CUSTOMER_NAME": "Sentry Insurance Analytics, Inc.",
+    "CUSTOMER_STATE": "Wisconsin",
+    "CUSTOMER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_ADDRESS": "2200 North Stevens Point Road, Stevens Point, Wisconsin 54481",
+    "EFFECTIVE_DATE": "October 14, 2024",
+    "GOVERNING_LAW_STATE": "California",
+    "VENUE_COUNTY": "San Francisco County",
+    "VENUE_CITY": "San Francisco",
+    "ANNUAL_FEE_AMOUNT": "Two Hundred Forty Thousand United States Dollars ($240,000)",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "ninety (90)",
+    "IMPLEMENTATION_FEE": "Forty Thousand United States Dollars ($40,000)"
+  },
+  "CLAUDE_PulseLoop_Email_Marketing_smb_19": {
+    "PROVIDER_NAME": "PulseLoop, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "250 West Main Street, Suite 300, Durham, North Carolina 27701",
+    "CUSTOMER_NAME": "Saltwater Apparel Co.",
+    "CUSTOMER_STATE": "North Carolina",
+    "CUSTOMER_ENTITY_TYPE": "limited liability company",
+    "CUSTOMER_ADDRESS": "1840 Beach Road, Wilmington, North Carolina 28403",
+    "EFFECTIVE_DATE": "April 8, 2024",
+    "GOVERNING_LAW_STATE": "North Carolina",
+    "VENUE_COUNTY": "Durham County",
+    "VENUE_CITY": "Durham",
+    "ANNUAL_FEE_AMOUNT": "Twenty-Four Thousand United States Dollars ($24,000)",
+    "TERM_YEARS": "one (1)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "thirty (30)",
+    "IMPLEMENTATION_FEE": "Two Thousand Five Hundred United States Dollars ($2,500)"
+  },
+  "CLAUDE_ForgeRunner_DevTools_smb_20": {
+    "PROVIDER_NAME": "ForgeRunner, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1 ForgeRunner Plaza, San Jose, California 95113",
+    "CUSTOMER_NAME": "Cypress Loop Studios, LLC",
+    "CUSTOMER_STATE": "California",
+    "CUSTOMER_ENTITY_TYPE": "limited liability company",
+    "CUSTOMER_ADDRESS": "1 Cypress Loop Way, San Francisco, California 94110",
+    "EFFECTIVE_DATE": "November 12, 2024",
+    "GOVERNING_LAW_STATE": "California",
+    "VENUE_COUNTY": "Santa Clara County",
+    "VENUE_CITY": "San Jose",
+    "ANNUAL_FEE_AMOUNT": "One Thousand Eight Hundred United States Dollars ($1,800)",
+    "TERM_YEARS": "one (1)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "thirty (30)"
+  },
+  "CLAUDE_GuardPath_MSSP_smb_21": {
+    "PROVIDER_NAME": "GuardPath Security, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1 GuardPath Way, Houston, Texas 77027",
+    "CUSTOMER_NAME": "Compass Drilling Holdings, LLC",
+    "CUSTOMER_STATE": "Texas",
+    "CUSTOMER_ENTITY_TYPE": "limited liability company",
+    "CUSTOMER_ADDRESS": "1 Compass Drilling Drive, Houston, Texas 77034",
+    "EFFECTIVE_DATE": "July 22, 2024",
+    "GOVERNING_LAW_STATE": "Texas",
+    "VENUE_COUNTY": "Harris County",
+    "VENUE_CITY": "Houston",
+    "ANNUAL_FEE_AMOUNT": "Three Thousand Six Hundred United States Dollars ($3,600)",
+    "TERM_YEARS": "one (1)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "thirty (30)"
+  },
+  "CLAUDE_FleetTrace_Telematics_smb_22": {
+    "PROVIDER_NAME": "FleetTrace, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1 FleetTrace Plaza, Dallas, Texas 75201",
+    "CUSTOMER_NAME": "Lonestar Owner-Operators, LLC",
+    "CUSTOMER_STATE": "Texas",
+    "CUSTOMER_ENTITY_TYPE": "limited liability company",
+    "CUSTOMER_ADDRESS": "1 Trucker Way, Lubbock, Texas 79401",
+    "EFFECTIVE_DATE": "March 18, 2025",
+    "GOVERNING_LAW_STATE": "Texas",
+    "VENUE_COUNTY": "Dallas County",
+    "VENUE_CITY": "Dallas",
+    "ANNUAL_FEE_AMOUNT": "Three Hundred Sixty United States Dollars ($360)",
+    "TERM_YEARS": "one (1)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "ninety (90)"
+  },
+  "CLAUDE_MedPath_HospitalEHR_enterprise_23": {
+    "PROVIDER_NAME": "MedPath Health Systems, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1 MedPath Center, Verona, Wisconsin 53593",
+    "CUSTOMER_NAME": "Lakeshore Regional Health System",
+    "CUSTOMER_STATE": "Michigan",
+    "CUSTOMER_ENTITY_TYPE": "non-profit hospital system",
+    "CUSTOMER_ADDRESS": "1 Lakeshore Health Drive, Grand Rapids, Michigan 49503",
+    "EFFECTIVE_DATE": "October 21, 2024",
+    "GOVERNING_LAW_STATE": "Michigan",
+    "VENUE_COUNTY": "Kent County",
+    "VENUE_CITY": "Grand Rapids",
+    "ANNUAL_FEE_AMOUNT": "Eight Hundred Forty Thousand United States Dollars ($840,000)",
+    "TERM_YEARS": "five (5)",
+    "LIABILITY_CAP_MONTHS": "twenty-four (24)",
+    "NOTICE_DAYS": "one hundred eighty (180)",
+    "IMPLEMENTATION_FEE": "Two Hundred Thousand United States Dollars ($200,000)"
+  },
+  "CLAUDE_StaffOS_HRIS_enterprise_24": {
+    "PROVIDER_NAME": "StaffOS Software, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1 StaffOS Way, Pleasanton, California 94588",
+    "CUSTOMER_NAME": "Aurelius Strategy Partners, LLP",
+    "CUSTOMER_STATE": "Delaware",
+    "CUSTOMER_ENTITY_TYPE": "limited liability partnership",
+    "CUSTOMER_ADDRESS": "1 Aurelius Plaza, Wilmington, Delaware 19801",
+    "EFFECTIVE_DATE": "September 9, 2024",
+    "GOVERNING_LAW_STATE": "Delaware",
+    "VENUE_COUNTY": "New Castle County",
+    "VENUE_CITY": "Wilmington",
+    "ANNUAL_FEE_AMOUNT": "Four Hundred Eighty Thousand United States Dollars ($480,000)",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "ninety (90)",
+    "IMPLEMENTATION_FEE": "One Hundred Fifty Thousand United States Dollars ($150,000)"
+  },
+  "CLAUDE_BrandWaffle_FranchisePOS_enterprise_25": {
+    "PROVIDER_NAME": "BrandWaffle Software, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1 BrandWaffle Drive, Boston, Massachusetts 02110",
+    "CUSTOMER_NAME": "Sundry Brands International, Inc.",
+    "CUSTOMER_STATE": "Florida",
+    "CUSTOMER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_ADDRESS": "1 Sundry Brands Plaza, Miami, Florida 33131",
+    "EFFECTIVE_DATE": "January 7, 2025",
+    "GOVERNING_LAW_STATE": "Florida",
+    "VENUE_COUNTY": "Miami-Dade County",
+    "VENUE_CITY": "Miami",
+    "ANNUAL_FEE_AMOUNT": "One Million Two Hundred Thousand United States Dollars ($1,200,000)",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "one hundred eighty (180)",
+    "IMPLEMENTATION_FEE": "One Hundred Eighty Thousand United States Dollars ($180,000)"
+  },
+  "CLAUDE_PayBridge_PaymentInfra_enterprise_26": {
+    "PROVIDER_NAME": "PayBridge Networks, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1 PayBridge Plaza, New York, New York 10005",
+    "CUSTOMER_NAME": "Pinnacle Trust Bank, N.A.",
+    "CUSTOMER_STATE": "United States",
+    "CUSTOMER_ENTITY_TYPE": "national banking association",
+    "CUSTOMER_ADDRESS": "1 Pinnacle Trust Center, Charlotte, North Carolina 28202",
+    "EFFECTIVE_DATE": "May 6, 2025",
+    "GOVERNING_LAW_STATE": "New York",
+    "VENUE_COUNTY": "New York County",
+    "VENUE_CITY": "New York",
+    "ANNUAL_FEE_AMOUNT": "One Million Eight Hundred Thousand United States Dollars ($1,800,000)",
+    "TERM_YEARS": "five (5)",
+    "LIABILITY_CAP_MONTHS": "thirty-six (36)",
+    "NOTICE_DAYS": "one hundred eighty (180)",
+    "IMPLEMENTATION_FEE": "Two Hundred Thousand United States Dollars ($200,000)"
+  },
+  "CLAUDE_TeleVita_RemotePatient_enterprise_27": {
+    "PROVIDER_NAME": "TeleVita Health Systems, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1 TeleVita Way, Cambridge, Massachusetts 02142",
+    "CUSTOMER_NAME": "Northridge University Medical Center",
+    "CUSTOMER_STATE": "Pennsylvania",
+    "CUSTOMER_ENTITY_TYPE": "non-profit academic medical center",
+    "CUSTOMER_ADDRESS": "1 Northridge Health Drive, Pittsburgh, Pennsylvania 15213",
+    "EFFECTIVE_DATE": "February 11, 2025",
+    "GOVERNING_LAW_STATE": "Pennsylvania",
+    "VENUE_COUNTY": "Allegheny County",
+    "VENUE_CITY": "Pittsburgh",
+    "ANNUAL_FEE_AMOUNT": "Seven Hundred Twenty Thousand United States Dollars ($720,000)",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "twenty-four (24)",
+    "NOTICE_DAYS": "one hundred eighty (180)",
+    "IMPLEMENTATION_FEE": "One Hundred Fifty Thousand United States Dollars ($150,000)"
+  },
+  "CLAUDE_KeystoneAccess_IAM_enterprise_28": {
+    "PROVIDER_NAME": "KeystoneAccess Identity Platform, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1 KeystoneAccess Way, Boulder, Colorado 80302",
+    "CUSTOMER_NAME": "Cardinal Asset Advisors, LLC",
+    "CUSTOMER_STATE": "Connecticut",
+    "CUSTOMER_ENTITY_TYPE": "registered investment adviser limited liability company",
+    "CUSTOMER_ADDRESS": "1 Cardinal Asset Plaza, Greenwich, Connecticut 06830",
+    "EFFECTIVE_DATE": "June 30, 2025",
+    "GOVERNING_LAW_STATE": "Connecticut",
+    "VENUE_COUNTY": "Fairfield County",
+    "VENUE_CITY": "Greenwich",
+    "ANNUAL_FEE_AMOUNT": "Three Hundred Sixty Thousand United States Dollars ($360,000)",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "twenty-four (24)",
+    "NOTICE_DAYS": "one hundred eighty (180)",
+    "IMPLEMENTATION_FEE": "Seventy-Five Thousand United States Dollars ($75,000)"
+  },
+  "CLAUDE_VectorPoint_VectorDB_smb_29": {
+    "PROVIDER_NAME": "VectorPoint Cloud, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1 VectorPoint Way, Berkeley, California 94704",
+    "CUSTOMER_NAME": "Quill AI Labs, Inc.",
+    "CUSTOMER_STATE": "Delaware",
+    "CUSTOMER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_ADDRESS": "1 Quill Labs Plaza, Mountain View, California 94043",
+    "EFFECTIVE_DATE": "December 3, 2024",
+    "GOVERNING_LAW_STATE": "California",
+    "VENUE_COUNTY": "Alameda County",
+    "VENUE_CITY": "Berkeley",
+    "ANNUAL_FEE_AMOUNT": "Forty-Eight Thousand United States Dollars ($48,000)",
+    "TERM_YEARS": "one (1)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "thirty (30)"
+  },
+  "CLAUDE_ObservoLoop_Observability_mid_market_30": {
+    "PROVIDER_NAME": "ObservoLoop, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1 ObservoLoop Plaza, Portland, Oregon 97205",
+    "CUSTOMER_NAME": "Northwave Software Co.",
+    "CUSTOMER_STATE": "Washington",
+    "CUSTOMER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_ADDRESS": "1 Northwave Way, Seattle, Washington 98101",
+    "EFFECTIVE_DATE": "July 1, 2024",
+    "GOVERNING_LAW_STATE": "Oregon",
+    "VENUE_COUNTY": "Multnomah County",
+    "VENUE_CITY": "Portland",
+    "ANNUAL_FEE_AMOUNT": "Ninety-Six Thousand United States Dollars ($96,000)",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "sixty (60)"
+  },
+  "CLAUDE_TastePilot_OnlineOrdering_mid_market_31": {
+    "PROVIDER_NAME": "TastePilot Online, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1 TastePilot Plaza, Nashville, Tennessee 37203",
+    "CUSTOMER_NAME": "Magnolia Table Restaurant Group, LLC",
+    "CUSTOMER_STATE": "Tennessee",
+    "CUSTOMER_ENTITY_TYPE": "limited liability company",
+    "CUSTOMER_ADDRESS": "1 Magnolia Table Way, Nashville, Tennessee 37212",
+    "EFFECTIVE_DATE": "April 22, 2025",
+    "GOVERNING_LAW_STATE": "Tennessee",
+    "VENUE_COUNTY": "Davidson County",
+    "VENUE_CITY": "Nashville",
+    "ANNUAL_FEE_AMOUNT": "One Hundred Twenty Thousand United States Dollars ($120,000)",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "sixty (60)"
   }
 }

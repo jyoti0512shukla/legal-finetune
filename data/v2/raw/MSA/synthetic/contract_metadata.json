@@ -1,0 +1,788 @@
+{
+  "_description": "Per-contract metadata for synthetic MSA contracts. Each entry captures industry, deal_size, customer_type, negotiation_bias, drafting_style, regulatory_frameworks, special_features, and primary_clause_focus \u2014 used by the drafting examples generator to build realistic briefs.",
+  "CLAUDE_PinnacleAdvisory_Strategy_enterprise_01": {
+    "industry": "management_consulting",
+    "industry_label": "management / strategy consulting (Big 3-style)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "global_holding_company",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [],
+    "special_features": [
+      "MFN pricing representation across the rate card",
+      "Key Personnel commitment with no replacement without consent",
+      "Acceptance Period with cure right and equitable Fee reduction on second cure failure",
+      "results-of-services standard plus disclaimer of any specific business outcome",
+      "non-solicitation of personnel \u2014 12 months post-engagement",
+      "right of audit on time-and-materials billing"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "personnel"
+    ]
+  },
+  "CLAUDE_GlobalSphere_ITServices_enterprise_02": {
+    "industry": "it_services",
+    "industry_label": "IT services / system integration (large enterprise, financial services customer)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "national_bank",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "GLBA",
+      "Interagency Guidelines (12 C.F.R. Part 30, Appendix B)",
+      "FFIEC IT Examination Handbook",
+      "OCC Bulletin 2013-29",
+      "Bank Service Company Act (12 U.S.C. \u00a7 1867)",
+      "PCI DSS"
+    ],
+    "special_features": [
+      "Onshore-Only delivery \u2014 performance restricted to contiguous U.S. by U.S. citizens / LPRs",
+      "Cleared Personnel requirement (background checks + citizenship + clearance pre-approval)",
+      "regulator pass-through audit rights under Bank Service Company Act",
+      "$25M heightened cap for compliance breaches",
+      "subprocessor approval-based (not notice-based) for any access to NPI",
+      "no deemed acceptance \u2014 Customer must affirmatively accept",
+      "12-month transition period at pre-termination rates",
+      "termination right if subcontractor performs from offshore"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "personnel",
+      "deliverables_acceptance"
+    ]
+  },
+  "CLAUDE_NorthwoodCounsel_LegalServices_enterprise_03": {
+    "industry": "legal_services",
+    "industry_label": "outside corporate legal counsel (Big Law)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "law_firm_engagement_with_corporate_client",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "ABA Model Rules of Professional Conduct",
+      "attorney-client privilege",
+      "attorney work product doctrine"
+    ],
+    "special_features": [
+      "Engagement Letter model (matter-by-matter scope)",
+      "rules of professional conduct override on conflict \u2014 RPC controls",
+      "explicit conflict check + ethical wall procedure",
+      "responsible partner commitment with no replacement without consent",
+      "$25M professional liability (E&O) insurance requirement",
+      "right of Client to discharge the Firm at any time (RPC right)",
+      "no work stoppage during fee disputes",
+      "no reuse of Client Confidential Information for other clients",
+      "RPC retention of Client file"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "personnel",
+      "intellectual property"
+    ]
+  },
+  "CLAUDE_CapstoneAudit_Big4Audit_enterprise_04": {
+    "industry": "financial_audit",
+    "industry_label": "Big 4-style financial statement audit (PCAOB-registered)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "public_company_audit_committee",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "PCAOB Standards (auditing, quality control)",
+      "PCAOB Rule 3526 / 3527 partner rotation",
+      "AICPA Code of Professional Conduct",
+      "SEC auditor independence rules",
+      "Sarbanes-Oxley Act (Section 404 internal control over financial reporting)",
+      "Form 8-K reporting (auditor change)"
+    ],
+    "special_features": [
+      "Audit Committee pre-approval required for all Services and Permitted Non-Audit Services",
+      "Prohibited Services list (bookkeeping, valuations, internal audit, MAS, legal, etc.)",
+      "5-year lead audit partner and concurring partner rotation per PCAOB Rule 3526/3527",
+      "Working Papers are property of the Auditor, not the Company",
+      "auditor independence rules override liability caps and indemnification",
+      "$100M professional liability insurance requirement",
+      "Form 8-K cooperation on auditor change",
+      "no work stoppage on fee dispute (regulatory reporting obligation)",
+      "shareholder ratification of auditor appointment annually",
+      "auditor independence cooling-off restrictions on Customer hiring of audit personnel"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "confidentiality",
+      "indemnification"
+    ]
+  },
+  "CLAUDE_ZenithBPO_ContactCenter_enterprise_05": {
+    "industry": "bpo_contact_center",
+    "industry_label": "outsourced contact center / customer support BPO (multi-shore)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "airline_holding_company",
+    "negotiation_bias": "provider_friendly",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "Telephone Consumer Protection Act (TCPA)",
+      "PCI DSS (where Agents handle card data)",
+      "applicable state two-party consent recording laws (California, Florida, Pennsylvania, etc.)",
+      "labor laws of the Philippines, India, and the United States"
+    ],
+    "special_features": [
+      "multi-shore delivery (United States, Philippines, India) by default",
+      "per-Seat or per-minute billing model",
+      "Service Level credits as Customer's sole monetary remedy",
+      "early termination fee = lesser of remaining contract value or 12 months of fees",
+      "TCPA class action exposure carved out from liability cap",
+      "two-party consent call recording compliance",
+      "PCI DSS for any payment card capture",
+      "no joint employment language with respect to Agents"
+    ],
+    "primary_clause_focus": [
+      "service level",
+      "indemnification",
+      "termination"
+    ]
+  },
+  "CLAUDE_MeridianHealthAdvisors_HospitalConsulting_enterprise_06": {
+    "industry": "healthcare_consulting",
+    "industry_label": "healthcare strategy and compliance consulting (hospital system clients)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "regional_health_system_consulting",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "HIPAA",
+      "federal Anti-Kickback Statute (AKS)",
+      "Stark Law (42 U.S.C. \u00a7 1395nn)",
+      "Civil Monetary Penalties Law",
+      "federal False Claims Act",
+      "federal Sunshine Act (Open Payments)"
+    ],
+    "special_features": [
+      "AKS personal services safe harbor compliance (1-year minimum SOW term, FMV pricing, no volume/value-based fees)",
+      "Stark Law personal services exception compliance",
+      "BAA as Exhibit A with conflict precedence",
+      "exclusivity carve-out \u2014 Health System may engage other consultants",
+      "healthcare conflict of interest disclosure + ethical walls for competing providers",
+      "$5M heightened cap for HIPAA breaches",
+      "Sunshine Act transfer-of-value reporting cooperation",
+      "exclusion / debarment status as termination event"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "indemnification",
+      "personnel"
+    ]
+  },
+  "CLAUDE_KingstoneAdvisory_MnA_enterprise_07": {
+    "industry": "investment_banking_advisory",
+    "industry_label": "investment banking M&A and capital markets advisory (FINRA broker-dealer)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "acquiring_corporation",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "FINRA rules",
+      "Securities Act of 1933",
+      "Securities Exchange Act of 1934",
+      "FINRA Code of Arbitration Procedure",
+      "Regulation FD",
+      "insider trading laws"
+    ],
+    "special_features": [
+      "Engagement Letter model with success fee contingent on Closing",
+      "tail period for success fees (12-24 months post-termination)",
+      "non-exclusive engagement by default",
+      "no fiduciary relationship explicit disclaimer",
+      "advisor reliance on Company information without verification",
+      "fairness opinion delivery and use restrictions",
+      "FINRA arbitration carve-out from court venue",
+      "broad Company indemnity except for Advisor gross negligence / willful misconduct / FINRA violation",
+      "information barriers and restricted list for Advisor personnel receiving MNPI",
+      "FINRA recordkeeping retention obligations"
+    ],
+    "primary_clause_focus": [
+      "indemnification",
+      "limitation of liability",
+      "termination"
+    ]
+  },
+  "CLAUDE_PatriotIT_FederalContractor_enterprise_08": {
+    "industry": "federal_it_services",
+    "industry_label": "federal government IT services (FAR/DFARS contractor)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "federal_executive_agency",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "FAR (Federal Acquisition Regulation)",
+      "DFARS (Defense Federal Acquisition Regulation Supplement)",
+      "DFARS 252.204-7012 (Safeguarding CDI and Cyber Incident Reporting)",
+      "NIST SP 800-171",
+      "CMMC (Cybersecurity Maturity Model Certification)",
+      "ITAR (22 C.F.R. Parts 120-130)",
+      "EAR (15 C.F.R. Parts 730-774)",
+      "Service Contract Act (41 U.S.C. \u00a7\u00a7 6701-6707)",
+      "Buy American Act",
+      "Section 508 of the Rehabilitation Act",
+      "Federal Tort Claims Act",
+      "Contract Disputes Act (41 U.S.C. \u00a7\u00a7 7101-7109)",
+      "Anti-Kickback Act of 1986",
+      "NISPOM (National Industrial Security Program Operating Manual)"
+    ],
+    "special_features": [
+      "Task Order model with FAR/DFARS clause incorporation by reference",
+      "FAR/DFARS clauses control over Agreement provisions in conflict",
+      "Government Furnished Equipment (GFE) handling",
+      "NIST SP 800-171 + CMMC compliance for CDI/CUI",
+      "DFARS 252.204-7012 cyber incident reporting (72 hours to DoD)",
+      "ITAR / EAR export controls",
+      "U.S. citizenship requirement for CUI/CDI access",
+      "Foreign Ownership, Control, or Influence (FOCI) compliance",
+      "no cloud storage outside U.S.",
+      "Service Contract Act wage determinations",
+      "Buy American Act compliance",
+      "Section 508 accessibility for IT deliverables",
+      "FAR data rights clauses control IP allocation",
+      "Contract Disputes Act dispute resolution (no arbitration default)",
+      "Termination for Convenience under FAR 52.249-2",
+      "no waiver of sovereign immunity"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "intellectual property",
+      "termination"
+    ]
+  },
+  "CLAUDE_ApexBeacon_GeneralConsulting_mid_market_09": {
+    "industry": "general_consulting",
+    "industry_label": "general management consulting (mid-market)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "mid_market_corporation",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [],
+    "special_features": [
+      "bare master + many small SOWs typical mid-market consulting model",
+      "fixed-fee SOWs with change order process",
+      "Acceptance Period with cure right and equitable Fee reduction on second cure failure",
+      "deemed acceptance after 15 business days",
+      "termination for convenience with 30-day notice",
+      "wind-down assistance at standard rates"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "deliverables_acceptance"
+    ]
+  },
+  "CLAUDE_LingoBridge_Translation_mid_market_10": {
+    "industry": "translation_localization",
+    "industry_label": "translation and localization services (mid-market LSP)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "global_software_company",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "ASTM F2575",
+      "ISO 17100"
+    ],
+    "special_features": [
+      "per-word rate model with TM discount tiers (75-99% high-fuzzy, 100% exact match)",
+      "Translation Memory ownership belongs to Customer; delivered in TMX on request",
+      "explicit no-MT-training restriction on Customer Materials",
+      "human translation tier vs post-edited MT vs raw MT disclosure",
+      "rush fees as percentage uplift",
+      "ASTM F2575 / ISO 17100 quality standards",
+      "linguistic quality scoring (MQM / LISA QA error typology)"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "data privacy"
+    ]
+  },
+  "CLAUDE_PrismData_AnalyticsConsulting_mid_market_11": {
+    "industry": "data_analytics_consulting",
+    "industry_label": "data analytics consulting (mid-market, retail customer)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "retail_corporation",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "CCPA",
+      "CPRA",
+      "Virginia CDPA",
+      "Colorado Privacy Act",
+      "Connecticut Data Privacy Act",
+      "Utah Consumer Privacy Act"
+    ],
+    "special_features": [
+      "Derived Insights ownership assigned to Customer along with Work Product",
+      "no-data-exfiltration restriction (analyze in secure environment only)",
+      "no use of Client Data to train commercial models",
+      "no aggregation of Client Data with other clients",
+      "service provider posture under CCPA/CPRA",
+      "model performance metrics + holdout validation requirement for predictive models",
+      "$5M Privacy Breach Indemnity (uncapped)"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "data privacy"
+    ]
+  },
+  "CLAUDE_MercerHealthStaffing_LocumsServices_enterprise_12": {
+    "industry": "healthcare_staffing",
+    "industry_label": "healthcare staffing and locum tenens (Locums + travel nursing)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "regional_health_system_locums",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "HIPAA",
+      "federal Anti-Kickback Statute",
+      "Stark Law",
+      "OIG/GSA exclusion lists",
+      "NPDB (National Practitioner Data Bank)",
+      "Joint Commission credentialing standards",
+      "state nursing licensure boards",
+      "state medical boards"
+    ],
+    "special_features": [
+      "per-shift / per-hour billing model (no fixed fees)",
+      "comprehensive Credentialing File requirement (license, NPDB, OIG/GSA, drug screen, immunizations)",
+      "primary source verification of licensure",
+      "$1M / $3M malpractice insurance maintained by Staffing Agency",
+      "BAA as Exhibit A",
+      "AKS personal services safe harbor compliance (1-year minimum SOW term, FMV pricing)",
+      "Health System retains responsibility for medical staff privileges",
+      "non-discouragement of patient safety reporting (anti-FCA whistleblower)",
+      "25% conversion fee if Health System hires Healthcare Professional within 12 months",
+      "Joint Commission credentialing standards"
+    ],
+    "primary_clause_focus": [
+      "personnel",
+      "data privacy",
+      "indemnification"
+    ]
+  },
+  "CLAUDE_NorthernLedger_AccountingAdvisory_mid_market_13": {
+    "industry": "accounting_tax_advisory",
+    "industry_label": "accounting, tax, and advisory services (mid-market CPA firm, multiple service lines)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "mid_market_corporation",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "IRS Circular 230 (31 C.F.R. Subtitle A, Part 10)",
+      "AICPA Code of Professional Conduct",
+      "AICPA Statements on Auditing Standards",
+      "AICPA Statements on Standards for Tax Services",
+      "AICPA SSARS",
+      "state board of accountancy rules",
+      "IRC \u00a7 7216 (tax return information confidentiality)"
+    ],
+    "special_features": [
+      "Engagement Letter required per service line (tax compliance, tax advisory, audit, review, compilation, advisory)",
+      "audit / non-attest service independence carve-out",
+      "Working Papers are property of the Firm (not Customer)",
+      "tax controversy representation as separate scope",
+      "AICPA Code overrides this Agreement on conflict",
+      "$5M E&O insurance requirement",
+      "Customer right to discharge Firm at any time (AICPA right)",
+      "successor accountant cooperation per AICPA Code",
+      "IRC \u00a7 7216 tax return information consent requirement"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "intellectual property",
+      "limitation of liability"
+    ]
+  },
+  "CLAUDE_SterlingRisk_BankAdvisory_enterprise_14": {
+    "industry": "bank_risk_advisory",
+    "industry_label": "bank risk management advisory (regulatory remediation, internal audit support)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "regional_bank_holding",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "OCC Heightened Standards (12 C.F.R. Part 30, Appendix D)",
+      "OCC Bulletin 2013-29",
+      "Interagency Guidelines (12 C.F.R. Part 30, Appendix B)",
+      "FFIEC IT Examination Handbook",
+      "GLBA",
+      "Bank Secrecy Act",
+      "Bank Service Company Act (12 U.S.C. \u00a7 1867)",
+      "Community Reinvestment Act",
+      "OFAC sanctions"
+    ],
+    "special_features": [
+      "Customer-paper rejecting Provider standard terms",
+      "Onshore-Only delivery + U.S. citizenship requirement",
+      "MFN pricing representation",
+      "regulator pass-through audit rights under Bank Service Company Act",
+      "concentration risk and exit plan cooperation under OCC Heightened Standards",
+      "$20M heightened cap for compliance breaches",
+      "12-month transition period for regulatory remediation continuity",
+      "no provider suspension during remediation projects",
+      "no deemed acceptance",
+      "Bank consent required for provider M&A"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "indemnification",
+      "termination"
+    ]
+  },
+  "CLAUDE_BioCardinal_CRO_enterprise_15": {
+    "industry": "contract_research_organization",
+    "industry_label": "contract research organization (CRO) for pharmaceutical clinical trials",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "pharmaceutical_sponsor",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "FDA 21 C.F.R. Part 50 (Protection of Human Subjects)",
+      "FDA 21 C.F.R. Part 54 (Financial Disclosure)",
+      "FDA 21 C.F.R. Part 56 (IRBs)",
+      "FDA 21 C.F.R. Part 312 (IND)",
+      "FDA 21 C.F.R. Part 11 (Electronic Records and Signatures)",
+      "ICH E6(R3) Good Clinical Practice",
+      "HIPAA",
+      "Common Rule (45 C.F.R. Part 46)",
+      "21 U.S.C. \u00a7 335a (debarment)"
+    ],
+    "special_features": [
+      "Sponsor-paper for outsourced clinical operations (Work Order model)",
+      "Sponsor approval of all Permitted Subcontractors (sub-CROs, central labs, imaging vendors)",
+      "Sponsor-direction clause \u2014 Sponsor retains overall trial responsibility",
+      "Trial Data ownership belongs to Sponsor (including biological samples)",
+      "21 CFR Part 11 compliance for electronic data capture",
+      "BAA as Exhibit A for HIPAA-covered subjects",
+      "ICH E6(R3) GCP and protocol fidelity required",
+      "pharmacovigilance and SAE/SUSAR reporting obligations",
+      "$20M heightened cap for compliance and subject safety breaches",
+      "$10M E&O / professional liability insurance",
+      "termination right for FDA debarment, Form 483, or warning letter",
+      "termination right for subject safety concerns",
+      "Sponsor-controlled publication rights",
+      "Bayh-Dole-aware IP allocation for federally funded sub-studies"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "data privacy",
+      "termination"
+    ]
+  },
+  "CLAUDE_DefenseCorp_PrimeSubcontract_enterprise_16": {
+    "industry": "federal_research_subcontract",
+    "industry_label": "federal research and technology subcontract (under DoD prime contract)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "prime_federal_contractor",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "FAR (Federal Acquisition Regulation)",
+      "DFARS (Defense Federal Acquisition Regulation Supplement)",
+      "FAR Subpart 31 (Cost Principles)",
+      "DFARS 252.204-7012",
+      "NIST SP 800-171",
+      "CMMC",
+      "ITAR",
+      "EAR",
+      "NISPOM",
+      "Service Contract Act",
+      "Contract Disputes Act",
+      "Bayh-Dole Act (35 U.S.C. \u00a7\u00a7 200-212)",
+      "37 C.F.R. Part 401 (subject inventions)",
+      "Anti-Kickback Act of 1986",
+      "Procurement Integrity Act"
+    ],
+    "special_features": [
+      "Prime-Subcontractor (flow-down) model under federal prime contract",
+      "FAR/DFARS clauses + Prime Contract flow-down provisions control over Agreement",
+      "FAR Part 31 cost principles for cost-reimbursement Subcontract Task Orders",
+      "DCAA-acceptable accounting system requirement",
+      "indirect cost rate true-up to actual rates",
+      "Bayh-Dole subject invention disclosure obligations",
+      "FAR/DFARS data rights clauses control IP allocation (limited rights / GPR / unlimited rights)",
+      "Government Furnished Equipment handling",
+      "U.S. citizen-only access to CUI / CDI / classified",
+      "FOCI (Foreign Ownership, Control, or Influence) compliance",
+      "Termination for Convenience under FAR 52.249-2",
+      "Termination of the Prime Contract triggers termination right",
+      "stop work orders under FAR 52.242-15",
+      "Contract Disputes Act dispute resolution"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "data privacy",
+      "termination"
+    ]
+  },
+  "CLAUDE_LumenBrand_MarketingAgency_mid_market_17": {
+    "industry": "marketing_agency",
+    "industry_label": "mid-market full-service marketing and brand agency",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "consumer_brand",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english_common_paper",
+    "regulatory_frameworks": [
+      "FTC endorsement guides",
+      "CAN-SPAM",
+      "TCPA",
+      "ADA web accessibility",
+      "DMCA",
+      "SAG-AFTRA scale"
+    ],
+    "special_features": [
+      "plain English voice with SOW model",
+      "Third-Party Materials pass-through with use-limit disclosure",
+      "Talent and union work residuals pass-through",
+      "portfolio rights subject to confidentiality opt-out",
+      "pre-publication review for content naming Client",
+      "10 business day acceptance with 2 cure cycles",
+      "no exclusivity but conflict notification rule"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "indemnification"
+    ]
+  },
+  "CLAUDE_ForgeBuild_CustomDev_mid_market_18": {
+    "industry": "custom_software_development",
+    "industry_label": "mid-market custom software development shop",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "logistics_company",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english_common_paper",
+    "regulatory_frameworks": [
+      "open source licenses (MIT, Apache, GPL, AGPL)",
+      "DMCA"
+    ],
+    "special_features": [
+      "two-week sprint development methodology",
+      "OSS Components NOTICE file with copyleft warning",
+      "no source code escrow \u2014 source delivered to Client git repo continuously",
+      "60-day post-acceptance bug fix included; ongoing maintenance separate",
+      "T&M weekly time reporting through PM tool",
+      "wind-down assistance for 30 days at standard rates",
+      "clearly drafted IP assignment with Background IP license-back"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "deliverables_acceptance"
+    ]
+  },
+  "CLAUDE_SignalPath_UXResearch_mid_market_19": {
+    "industry": "ux_research",
+    "industry_label": "user research and UX research consultancy",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "consumer_brand_research",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english_common_paper",
+    "regulatory_frameworks": [
+      "CCPA",
+      "CPRA",
+      "Virginia CDPA",
+      "Colorado Privacy Act",
+      "Connecticut Data Privacy Act",
+      "Utah Consumer Privacy Act",
+      "GDPR (cross-border where applicable)"
+    ],
+    "special_features": [
+      "Participant Data ownership with consent-form-bounded use",
+      "no identifying use of any Participant in marketing without separate consent",
+      "Recruiting from Research Firm panel by default",
+      "Service Provider posture under CCPA / CPRA",
+      "explicit recording retention schedule (12 months default)",
+      "research-specific aggregate insights carve-out"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "intellectual property"
+    ]
+  },
+  "CLAUDE_SwiftHire_FreelancePlatform_smb_20": {
+    "industry": "freelance_marketplace",
+    "industry_label": "freelancer talent marketplace platform (Upwork-style)",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "software_studio",
+    "negotiation_bias": "provider_friendly",
+    "drafting_style": "click_through_tos",
+    "regulatory_frameworks": [
+      "California AB-5",
+      "ABC test for worker classification",
+      "IRS 20-factor test",
+      "Title VII / EEOC anti-discrimination",
+      "FCRA"
+    ],
+    "special_features": [
+      "marketplace facilitator posture (not employer of Freelancers)",
+      "explicit worker misclassification risk disclosure",
+      "non-circumvention with 12-month conversion fee (15% of first-year base)",
+      "$100 minimum liability floor",
+      "class action waiver",
+      "no warranty of Freelancer quality / classification status",
+      "marketplace dispute resolution as facilitation, not legal representation"
+    ],
+    "primary_clause_focus": [
+      "limitation of liability",
+      "indemnification"
+    ]
+  },
+  "CLAUDE_PixelHaven_DesignPlatform_smb_21": {
+    "industry": "design_talent_platform",
+    "industry_label": "curated design talent marketplace",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "consumer_brand",
+    "negotiation_bias": "provider_friendly",
+    "drafting_style": "click_through_tos",
+    "regulatory_frameworks": [
+      "California AB-5",
+      "ABC test",
+      "IRS 20-factor test"
+    ],
+    "special_features": [
+      "curated marketplace (vetting + skills assessment)",
+      "concierge matching at Pro tier",
+      "default Designer Agreement template with work-made-for-hire IP assignment",
+      "non-circumvention with 12-month conversion fee (20% of first-year base)",
+      "stock and licensed third-party asset pass-through",
+      "$100 minimum liability floor",
+      "class action waiver"
+    ],
+    "primary_clause_focus": [
+      "limitation of liability",
+      "intellectual property"
+    ]
+  },
+  "CLAUDE_TalentWire_RecruiterPlatform_smb_22": {
+    "industry": "contract_recruiter_platform",
+    "industry_label": "contract recruiter / placement marketplace",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "engineering_firm",
+    "negotiation_bias": "provider_friendly",
+    "drafting_style": "click_through_tos",
+    "regulatory_frameworks": [
+      "Title VII (anti-discrimination)",
+      "Age Discrimination in Employment Act",
+      "Americans with Disabilities Act",
+      "Genetic Information Nondiscrimination Act",
+      "Fair Credit Reporting Act"
+    ],
+    "special_features": [
+      "Employer responsible for Candidate background checks under FCRA",
+      "TalentWire is not a 'consumer reporting agency' under FCRA",
+      "anti-discrimination covenant in job postings",
+      "Recruiter Agreement model with placement fee + refund policy",
+      "non-circumvention with no direct contact with Candidates outside platform",
+      "$100 minimum liability floor",
+      "class action waiver",
+      "explicit no warranty of Recruiter or Candidate quality"
+    ],
+    "primary_clause_focus": [
+      "limitation of liability",
+      "indemnification"
+    ]
+  },
+  "CLAUDE_NeuralForge_AIConsulting_mid_market_23": {
+    "industry": "ai_ml_consulting",
+    "industry_label": "AI / machine learning consultancy (model design, training, deployment)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "insurance_corporation",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [],
+    "special_features": [
+      "modern minimalist plain-language voice for ML consulting",
+      "Customer Models (weights + architecture + training code) assigned to Customer",
+      "explicit no-training-on-Customer-Data clause as central commitment",
+      "compute pass-through at cost (cloud training / GPU bills)",
+      "Foundation Model usage with no-retention agreements",
+      "no model performance guarantees beyond SOW acceptance criteria",
+      "immediate termination right for breach of no-training clause"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "data privacy"
+    ]
+  },
+  "CLAUDE_Northform_BrandStudio_smb_24": {
+    "industry": "brand_design_studio",
+    "industry_label": "modern brand and identity design studio",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "consumer_brand",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [],
+    "special_features": [
+      "fixed-fee project model with limited revision rounds",
+      "Third-Party Materials pass-through at cost",
+      "final source files + exported assets delivered on acceptance",
+      "portfolio rights with confidentiality opt-out window",
+      "minimal SMB plain-language voice",
+      "no AI training on Client Materials"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "deliverables_acceptance"
+    ]
+  },
+  "CLAUDE_BrightTrail_GrowthMarketing_mid_market_25": {
+    "industry": "growth_marketing",
+    "industry_label": "performance / growth marketing agency (paid media, lifecycle, CRO)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "consumer_brand",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [
+      "FTC endorsement guides",
+      "CAN-SPAM",
+      "TCPA",
+      "CCPA",
+      "CPRA",
+      "Virginia CDPA",
+      "Colorado Privacy Act",
+      "Connecticut Data Privacy Act",
+      "Utah Consumer Privacy Act"
+    ],
+    "special_features": [
+      "retainer + percentage-of-Ad-Spend pricing model",
+      "Ad Spend paid by Customer to ad platforms directly (not through Agency)",
+      "performance bonus pricing tied to CAC / ROAS targets",
+      "Customer audiences and ad accounts remain Customer property",
+      "TCPA class action carve-out from liability cap",
+      "consent-driven termination right for repeat compliance issues",
+      "explicit no warranty of CAC / ROAS / conversion outcomes"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "indemnification"
+    ]
+  }
+}

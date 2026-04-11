@@ -1,0 +1,239 @@
+MODELFORGE AI — PLATFORM SUBSCRIPTION AGREEMENT
+
+This is the ModelForge AI Platform Subscription Agreement (the "Agreement"). It is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} with its office at {{PROVIDER_ADDRESS}} ("we" or "ModelForge"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{PROVIDER_ENTITY_TYPE}} with its office at {{CUSTOMER_ADDRESS}} ("you" or "Sentry"). The Agreement starts on {{EFFECTIVE_DATE}} (the "Start Date").
+
+We provide a managed machine-learning platform that lets your data scientists train, host, and serve models. This Agreement covers your subscription. The Order Form (Exhibit A) lists the specific tier, the workloads, and the price.
+
+ARTICLE 1 — DEFINITIONS
+
+We define terms inline where they first show up. The terms below appear so often that we collected them here for easy reference.
+
+1.1 "ModelForge Platform" means our hosted MLOps service, including the model training environment, the feature store, the model registry, the inference endpoints, the monitoring dashboards, the SDKs, and any improvements we ship during the Term.
+
+1.2 "Customer Data" means any data you upload to the ModelForge Platform, any data your applications send to the ModelForge Platform for inference, and any data the ModelForge Platform produces from your inputs (including model outputs, embeddings, and inference logs).
+
+1.3 "Customer Models" means the machine-learning models you train, fine-tune, or host on the ModelForge Platform — including the model weights, the model architecture, and any code you write to define or run them.
+
+1.4 "Foundation Models" means any third-party large-language or vision foundation models we make available through the ModelForge Platform. The list of available Foundation Models is at modelforge.ai/foundation-models, and that list changes from time to time.
+
+1.5 "Authorized User" means an employee or contractor of yours that you authorize to access the ModelForge Platform.
+
+1.6 "Compute Units" means the metered units we use to bill for training and inference. One Compute Unit equals one hour of one A10G-equivalent GPU. Other accelerator types convert to Compute Units at the ratios on our pricing page at modelforge.ai/pricing.
+
+ARTICLE 2 — SUBSCRIPTION AND LICENSE
+
+2.1 What you get. We give you a non-exclusive, non-transferable, non-sublicensable right to use the ModelForge Platform during the Term, for the workloads and seats listed on the Order Form, for your internal business purposes (including production applications you ship to your customers).
+
+2.2 Authorized Users. You can let your employees and contractors use the ModelForge Platform as Authorized Users. You are responsible for what they do. You should enforce reasonable security on their accounts (including SSO and MFA, both of which we support).
+
+2.3 What you cannot do. You agree not to (a) reverse engineer the ModelForge Platform; (b) use it to build a competing MLOps product; (c) submit content that is illegal, infringing, or designed to deceive; (d) try to extract the weights or training data of any Foundation Model we host; or (e) use the ModelForge Platform in life-critical applications (medical devices, aviation, nuclear) without our written approval.
+
+2.4 If we have to suspend access. We can suspend access if we have an immediate security concern, if you materially breach Section 2.3 and do not fix it within five (5) business days of our notice, or if you have not paid an undisputed invoice for thirty (30) days after a written reminder. We will give as much notice as we reasonably can. We will turn access back on once the cause is resolved. We will not delete your Customer Data or Customer Models during a suspension.
+
+ARTICLE 3 — IMPLEMENTATION AND ONBOARDING
+
+3.1 Setup. Onboarding includes provisioning your tenant on the ModelForge Platform, configuring your VPC peering or PrivateLink connection, setting up SSO with your identity provider, importing your initial datasets, and a four (4) hour kickoff session for your data science team.
+
+3.2 Setup fee. The one-time setup fee is {{IMPLEMENTATION_FEE}}, invoiced when this Agreement is signed and due thirty (30) days later.
+
+3.3 Schedule. We aim to finish onboarding within sixty (60) days of the Start Date, assuming you give us the network access and the identity provider configuration we need within a reasonable time.
+
+3.4 Acceptance. Onboarding is "done" when your data science lead confirms in writing (email is fine) that they can train a model end-to-end, deploy it to a staging endpoint, and call it from your application.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Subscription fee. You pay an annual subscription fee of {{ANNUAL_FEE_AMOUNT}}. The subscription gives you access to the ModelForge Platform with your committed allocation of Compute Units, storage, and seats described on the Order Form.
+
+4.2 Overage. If your Compute Unit usage exceeds your committed allocation in any month, the overage is billed at our then-current published rate. Overages are invoiced monthly in arrears. We will alert you in the dashboard when you cross 80% and 100% of your monthly committed allocation.
+
+4.3 Foundation Model usage. If you use a Foundation Model that has its own per-token or per-call price, we pass that price through at cost plus a 10% margin. The margin is to cover billing reconciliation. We show you the breakdown on every invoice.
+
+4.4 Net 30. Annual fees are invoiced in advance. Overage fees are invoiced in arrears. All fees are due thirty (30) days after the invoice date. If you do not pay an undisputed invoice on time, we can charge interest at one percent (1%) per month or the maximum allowed by law, whichever is less.
+
+4.5 Renewal pricing. We can change the subscription fee at renewal. We will not increase it by more than seven percent (7%) over the prior year, and we will give you written notice at least one hundred twenty (120) days before the renewal starts.
+
+4.6 Taxes. The fees do not include taxes. You are responsible for any sales, use, or VAT taxes that apply to the service. We are responsible for our own income taxes.
+
+4.7 Disputed invoices. If you think an invoice is wrong, tell us in writing within fifteen (15) business days. Pay the parts you do not dispute on time. We will work the dispute in good faith.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Initial Term. The Initial Term runs for {{TERM_YEARS}} years from the Start Date.
+
+5.2 Renewal. After the Initial Term, this Agreement automatically renews for one (1) year terms unless either side gives written notice of non-renewal at least {{NOTICE_DAYS}} days before the current term ends.
+
+5.3 Termination for convenience. Neither side has a general termination-for-convenience right during the Initial Term. We can each only terminate for the reasons in Article 13.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Inference uptime. We aim for the inference endpoints on the ModelForge Platform to be available at least 99.9% of the time, measured monthly. The monthly uptime percentage equals (total minutes in the month minus excluded minutes minus downtime minutes) divided by (total minutes in the month minus excluded minutes), expressed as a percentage.
+
+6.2 Training uptime. We aim for the training environment to be available at least 99.5% of the time. We treat training and inference separately because training jobs are more tolerant of brief interruptions and we sometimes pause the training environment to roll out improvements.
+
+6.3 Excluded downtime. The following do not count as downtime: (a) scheduled maintenance announced at least 72 hours in advance; (b) emergency security maintenance, with as much notice as is practical; (c) downtime caused by your code (including model code, data pipelines, and SSO configuration); (d) downtime caused by Foundation Model providers; (e) downtime caused by force majeure events; and (f) downtime in regions you have not paid for.
+
+6.4 Service credits. If we miss the inference SLA, you get a service credit:
+(a) below 99.9% but at or above 99.5%: 5% of one twelfth of the annual subscription fee;
+(b) below 99.5% but at or above 99.0%: 10% of one twelfth of the annual subscription fee;
+(c) below 99.0%: 25% of one twelfth of the annual subscription fee.
+Service credits are applied to your next invoice. They are the only money remedy you get for a missed SLA. If we miss the inference SLA for two months in a row, you can terminate this Agreement for cause without further notice.
+
+6.5 Support. Standard support includes (a) twenty-four hour, seven day per week access to our help center and ticketing portal; (b) email support with a four (4) business hour first response target during business hours (Pacific Time); and (c) a one (1) hour first response target for Severity 1 issues, twenty-four hours per day. Premium support tiers are available on the Order Form.
+
+6.6 Maintenance windows. Routine maintenance happens Sundays from 11:00 p.m. to 2:00 a.m. Pacific Time. We give 72 hours notice for maintenance outside that window.
+
+ARTICLE 7 — CUSTOMER DATA, PRIVACY, AND AI USE
+
+This article is the most important one in the Agreement. If anything in this Article 7 conflicts with anything elsewhere in this Agreement, this Article 7 wins.
+
+7.1 You own Customer Data and Customer Models. You retain all rights, title, and interest in Customer Data and Customer Models. We do not own them, and we do not get a license to use them beyond what Section 7.2 says.
+
+7.2 Why we touch Customer Data and Customer Models. You give us a limited, non-exclusive, royalty-free license to host, store, process, and serve Customer Data and Customer Models — only as needed to provide the ModelForge Platform to you. We will not use Customer Data or Customer Models for any other purpose unless you give us specific written permission.
+
+7.3 No training on Customer Data. We will not use Customer Data, Customer Models, your prompts, your inference inputs, or your inference outputs to train, fine-tune, or evaluate any of our own machine-learning models, any Foundation Model, or any other model. This is one of the most important promises in this Agreement. If we ever want to use any of your data for any kind of model training, we will get your specific written approval first, for the specific use, and you can say no without affecting any of your other rights.
+
+7.4 No sharing with Foundation Model providers for training. When you call a Foundation Model through the ModelForge Platform, we route the call so that the Foundation Model provider does not retain your input or use it to train. We have negotiated this with the Foundation Model providers we offer. The list of providers and their data retention terms is at modelforge.ai/foundation-models. If you ever use a Foundation Model whose terms do not give you this protection, we will tell you clearly in the dashboard before you make the call.
+
+7.5 Customer Models stay yours. Customer Models — including weights, architectures, and any artifacts you create on the ModelForge Platform — are your property. We will not use them, copy them outside our infrastructure, share them with anyone, or claim a license to them. Even if you build a Customer Model by fine-tuning one of our public Foundation Models, the resulting fine-tuned weights belong to you.
+
+7.6 Tenant isolation. Your Customer Data and Customer Models are stored in a way that keeps them separate from other customers. We do not commingle your data with other customers' data in any model training, evaluation, or shared dataset.
+
+7.7 Security. We protect Customer Data and Customer Models with the following measures, at a minimum: (a) encryption in transit using TLS 1.2 or higher; (b) encryption at rest using AES-256, with customer-managed keys available on enterprise tiers; (c) role-based access controls; (d) annual third-party penetration testing; (e) annual SOC 2 Type II audits; and (f) a documented information security program reviewed annually.
+
+7.8 Breach notification. If we discover a security incident that compromises Customer Data or Customer Models, we will tell you in writing within seventy-two (72) hours. The notice will describe the incident, the data involved, the affected customers (to the extent we know), and what we are doing about it. We will help your team investigate.
+
+7.9 Data residency. By default we store and process Customer Data in our United States region. If you need a different region, we can provide it for an additional fee on the Order Form. We do not move Customer Data between regions without your written approval.
+
+7.10 Subprocessors. We use a small number of subprocessors (cloud infrastructure, payment processing, support tooling). The current list is at modelforge.ai/subprocessors. We will give you thirty (30) days advance notice before we add or change a subprocessor that handles Customer Data, and you can object on reasonable security grounds. If we cannot resolve your objection, you can terminate this Agreement and get a prorated refund.
+
+7.11 Personal data. You are the controller of any personal data in Customer Data. We act as a processor. The Data Processing Addendum at modelforge.ai/dpa is incorporated by reference. If applicable laws require additional terms (like the EU Standard Contractual Clauses), the DPA controls.
+
+7.12 Data return and deletion. When this Agreement ends, you have {{NOTICE_DAYS}} days to export Customer Data and Customer Models using our self-service export tools at no charge. After that, we delete Customer Data and Customer Models from our production systems within thirty (30) days, with backup deletion completed within {{NOTICE_DAYS}} days as part of our normal retention cycle. We will give you a written certification of deletion if you ask.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Our IP. We own the ModelForge Platform — the software, the infrastructure code, the dashboards, the SDKs, our trademarks, and any improvements or new features we build, including improvements that come from general lessons we learn from running the service (so long as those improvements do not include any of your Customer Data or Customer Models). Section 7 limits how we can use information that comes from your tenant.
+
+8.2 Your IP. You own Customer Data, Customer Models, and any code or artifacts you build on top of the ModelForge Platform. Article 7 controls what we can and cannot do with your IP.
+
+8.3 Foundation Model IP. Each Foundation Model is owned by its provider and licensed to you under the provider's terms. The active provider terms are at modelforge.ai/foundation-models. We do not claim any ownership of Foundation Models.
+
+8.4 Output IP. Outputs from a Foundation Model that you generate through the ModelForge Platform belong to you, to the extent the law permits ownership of model outputs and to the extent the Foundation Model provider's terms allow. We make no warranty that any specific Foundation Model output is original or non-infringing — you should review outputs before using them in production.
+
+8.5 Feedback. If you send us product feedback, bug reports, or feature ideas, we can use that feedback to improve the ModelForge Platform without owing you anything. We will not use Customer Data or Customer Models when we work on feedback. We will not use your name in our marketing without permission.
+
+8.6 No implied licenses. Other than the licenses written into this Agreement, neither of us is granting any IP rights to the other.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 What is confidential. Information one of us shares with the other that is marked confidential, or that a reasonable person would understand to be confidential given the circumstances, is "Confidential Information." Our Confidential Information includes our pricing, our security architecture, and the source code and design of the ModelForge Platform. Your Confidential Information includes Customer Data, Customer Models, your training pipelines, and your model performance metrics.
+
+9.2 What we both promise. Each of us will (a) keep the other's Confidential Information secret, (b) only use it as needed to do this Agreement, (c) only share it with employees, contractors, and advisors who need to know and who are bound by confidentiality duties at least as strict as the ones in this Article 9, and (d) protect it with the same care we use for our own confidential information of similar sensitivity, and at least reasonable care.
+
+9.3 Exceptions. The promise in Section 9.2 does not cover information that becomes public without our fault, information we already knew before the other side shared it (and that we can prove we knew), information independently developed without using the other's Confidential Information, or information rightfully obtained from a third party who had no duty of confidence.
+
+9.4 Compelled disclosure. If a court order or law requires one of us to disclose Confidential Information, we will tell the other side first (if legally permitted) so the other side has a chance to seek a protective order. We will only disclose what is legally required.
+
+9.5 Equitable relief. We both agree that breach of this Article 9 could cause harm that money cannot fix. The non-breaching side can ask for injunctive relief without having to post bond.
+
+9.6 Survival. The confidentiality promises last for five (5) years after the Agreement ends. Trade secrets are protected for as long as they remain trade secrets.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 What we both promise. Each of us promises that we have authority to sign this Agreement and that, when signed, it is a binding obligation.
+
+10.2 What we promise about the ModelForge Platform. During the Term, the ModelForge Platform will work substantially as our documentation describes; we will not knowingly include malicious code in the ModelForge Platform; we will provide the service in a workmanlike manner consistent with industry standards; and we will comply with applicable laws when running the service.
+
+10.3 What you promise. You have the right to upload Customer Data and Customer Models; your use of the ModelForge Platform follows applicable laws; and you will not use the ModelForge Platform in the prohibited use cases listed in Section 2.3.
+
+10.4 The standard disclaimer. Other than the express promises in this Article 10, the ModelForge Platform is provided "as is." We disclaim all other warranties, express or implied, including merchantability, fitness for a particular purpose, and non-infringement. We do not promise the ModelForge Platform will be uninterrupted or error-free. We do not promise that any Foundation Model will produce accurate, useful, or non-infringing output — you remain responsible for evaluating the output for your use case.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 We defend you against IP claims about the ModelForge Platform. If a third party sues you because using the ModelForge Platform (the parts we built) supposedly infringes their patent, copyright, trademark, or trade secret, we will defend you and pay any final judgment or agreed settlement. This does not include claims about Foundation Models, Customer Models, Customer Data, or anything you built.
+
+11.2 We do not indemnify Foundation Model output. Because Foundation Models are not under our control, we do not indemnify you for claims that a Foundation Model output infringes someone's IP. The relevant Foundation Model provider may offer its own indemnity, and we will pass through whatever indemnity it provides; the current pass-through terms are at modelforge.ai/foundation-models.
+
+11.3 You defend us against misuse and Customer Data claims. You will defend us against claims that arise from (a) Customer Data or Customer Models infringing someone else's rights, (b) your use of the ModelForge Platform in the prohibited use cases in Section 2.3, or (c) any model you train or fine-tune that ends up infringing someone's IP because of the data you trained it on.
+
+11.4 How indemnification works. The side seeking indemnification will tell the other side promptly in writing, give the other side control of the defense (subject to a cooperation obligation and a no-settlement-without-consent right for terms that impose obligations on the indemnified side), and help out at the indemnifying side's reasonable expense.
+
+11.5 If the ModelForge Platform might infringe. If we think the ModelForge Platform is likely to be the subject of an IP claim, we can (a) get you a license to keep using it, (b) modify it to be non-infringing without losing material functionality, (c) replace it with something equivalent, or (d) terminate this Agreement and refund a prorated portion of your prepaid fees.
+
+11.6 Sole remedy. Article 11 is the only remedy you get for IP infringement claims about the ModelForge Platform.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. Except as Section 12.3 says, the total liability of either side under this Agreement is limited to the total subscription fees you have paid us in the {{LIABILITY_CAP_MONTHS}} months immediately before the event causing the liability, no matter what legal theory the claim is based on.
+
+12.2 No indirect damages. Except as Section 12.3 says, neither side is liable to the other for indirect, incidental, special, consequential, exemplary, or punitive damages — including lost profits, lost revenue, lost business opportunities, loss of data, or loss of goodwill — even if the side has been told those damages were possible.
+
+12.3 What is not capped or excluded. The cap in Section 12.1 and the exclusion in Section 12.2 do not apply to: (a) what we owe under Article 11; (b) breach of Article 7 (Customer Data, Privacy, and AI Use), specifically including Section 7.3 (no training on Customer Data); (c) breach of Article 9 (Confidentiality); (d) your obligation to pay fees; (e) liability arising from gross negligence, willful misconduct, or fraud; or (f) anything that the law says cannot be limited.
+
+12.4 Why the cap. The cap and the exclusion are an essential part of the deal. The subscription fee would be much higher without them.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for material breach. Either side can terminate this Agreement on thirty (30) days written notice if the other side materially breaches this Agreement and does not fix the breach within those thirty (30) days. If you terminate for our material breach, we will refund the unused prepaid portion of the subscription fee. If we materially breach Section 7.3 (no training on Customer Data), you can terminate immediately on written notice without a cure period.
+
+13.2 Termination for insolvency. Either side can terminate immediately on written notice if the other side becomes insolvent, makes a general assignment for the benefit of creditors, files for bankruptcy, or has bankruptcy proceedings filed against it that are not dismissed within sixty (60) days.
+
+13.3 What happens when this ends. When this Agreement ends or expires: (a) your access to the ModelForge Platform stops; (b) you pay any fees that have accrued; (c) we make Customer Data and Customer Models available for export under Section 7.12 and then delete them; (d) we each return or destroy the other's Confidential Information; and (e) the parts of this Agreement that should logically survive — including Articles 1, 7 (in part), 8, 9, 11, 12, and 14 — keep working.
+
+13.4 Transition help. For up to {{NOTICE_DAYS}} days after termination, we will give you reasonable transition help to migrate Customer Models to another platform. Standard exports (model weights, training data, configuration files) are free. More involved help (like adapter development or custom export formats) is available at our normal professional services rates.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing law. {{GOVERNING_LAW_STATE}} law applies, without regard to its conflict-of-laws rules. The United Nations Convention on Contracts for the International Sale of Goods does not apply.
+
+14.2 Where to sue. Any lawsuit about this Agreement must be filed in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}. We both agree those courts have personal jurisdiction over us.
+
+14.3 Talk first. Before starting a lawsuit, we will both try in good faith to resolve any dispute by direct discussion. If we cannot resolve it within thirty (30) days of one side telling the other side there is a dispute, then either side can go to court.
+
+14.4 No jury. We both give up the right to a jury trial for any dispute about this Agreement.
+
+14.5 Lawyers' fees. The side that wins gets reasonable lawyers' fees and costs.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Whole agreement. This Agreement, the Order Forms, the Data Processing Addendum, and the Foundation Model terms together are the whole deal between us. They replace any earlier discussions or proposals.
+
+15.2 Changes. Changes only count if they are in writing and signed by both sides.
+
+15.3 If part is unenforceable. If a court says one part of this Agreement does not work, the rest still does. The court should rewrite the unenforceable part to make it work, if possible.
+
+15.4 Waivers. Not enforcing a right one time is not a permanent giveup.
+
+15.5 Notices. Formal notices have to be in writing and delivered by hand, certified mail, overnight courier, or email with confirmation of receipt:
+If to us: {{PROVIDER_NAME}}, {{PROVIDER_ADDRESS}}, Attention: Legal, legal@modelforge.ai.
+If to you: {{CUSTOMER_NAME}}, {{CUSTOMER_ADDRESS}}, Attention: General Counsel.
+
+15.6 Assignment. Neither side can assign this Agreement without the other side's written consent, except that either side can assign without consent in a merger, acquisition, corporate reorganization, or sale of substantially all assets, so long as the buyer takes on all the obligations.
+
+15.7 Force majeure. Neither side is liable for delays caused by events outside its reasonable control, like natural disasters, war, pandemics, or government action — except your obligation to pay fees still applies.
+
+15.8 Independent contractors. We are independent contractors. This Agreement does not create a partnership, joint venture, or employment relationship.
+
+15.9 No third-party beneficiaries. Only the parties to this Agreement have rights under it.
+
+15.10 Counterparts. We can sign in counterparts, including by electronic signature.
+
+15.11 Headings. Headings are just for convenience.
+
+15.12 No drafter rule. We both negotiated this Agreement with the benefit of legal counsel. No rule of construction that ambiguities are construed against the drafter applies.
+
+Signed:
+
+MODELFORGE AI, INC.
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+SENTRY INSURANCE ANALYTICS, INC.
+
+By: ________________________
+Name:
+Title: Chief Technology Officer
+Date:

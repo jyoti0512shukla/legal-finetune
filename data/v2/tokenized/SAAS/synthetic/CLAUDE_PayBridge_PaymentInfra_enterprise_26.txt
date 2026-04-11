@@ -1,0 +1,237 @@
+PAYMENT PROCESSING TECHNOLOGY SERVICES AGREEMENT
+
+This Payment Processing Technology Services Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} ("Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} ("Bank"). Provider and Bank may each be referred to individually as a "Party" and collectively as the "Parties."
+
+The Parties have negotiated this Agreement extensively to allocate risk consistent with Bank's status as a regulated financial institution and Bank's responsibilities under applicable banking laws and regulations governing the use of third-party service providers. In the event of any conflict between this Agreement and any other document referenced herein (including any Provider standard terms, online terms, or click-through agreements), this Agreement shall control.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means, with respect to any entity, any other entity that directly or indirectly controls, is controlled by, or is under common control with such entity.
+
+1.2 "Authorized User" means an individual employee, officer, contractor, or service provider of Bank or any Bank Affiliate authorized by Bank to access the Platform.
+
+1.3 "Bank Data" means all electronic data, content, records, and information uploaded to, transmitted through, processed by, or stored within the Platform by or on behalf of Bank or any Authorized User, including without limitation Customer Information, Transaction Data, and Nonpublic Personal Information.
+
+1.4 "Customer Information" has the meaning given in 12 C.F.R. Part 30, Appendix B and includes any nonpublic personal information about Bank's customers within the meaning of the Gramm-Leach-Bliley Act.
+
+1.5 "FFIEC" means the Federal Financial Institutions Examination Council and its constituent agencies.
+
+1.6 "GLBA" means the Gramm-Leach-Bliley Act, 15 U.S.C. § 6801 et seq., and the regulations promulgated thereunder, including 12 C.F.R. Part 30, Appendix B (Interagency Guidelines Establishing Information Security Standards).
+
+1.7 "OCC" means the Office of the Comptroller of the Currency.
+
+1.8 "OCC Bulletin 2013-29" means OCC Bulletin 2013-29, "Third-Party Relationships: Risk Management Guidance," issued by the Office of the Comptroller of the Currency, as the same may be supplemented or replaced from time to time by interagency guidance on third-party risk management (including the Interagency Guidance on Third-Party Relationships: Risk Management issued in 2023).
+
+1.9 "Platform" means Provider's hosted payment processing technology platform, including the transaction routing engine, the payment orchestration layer, the fraud screening engine, the dashboards, the APIs, and any updates released by Provider during the Term.
+
+1.10 "Regulator" means the OCC, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Consumer Financial Protection Bureau, the Financial Crimes Enforcement Network, any state banking regulator with jurisdiction over Bank, and any other governmental authority with examination or enforcement authority over Bank or its activities.
+
+1.11 "Subprocessor" means any third party engaged by Provider to process Bank Data on Provider's behalf in connection with the Services.
+
+1.12 "Transaction Data" means information related to a payment transaction processed through the Platform, including the originator, beneficiary, amount, currency, payment instrument, authorization status, and any related metadata.
+
+ARTICLE 2 — SERVICES AND SUBSCRIPTION
+
+2.1 Provision of Services. Subject to the terms and conditions of this Agreement, Provider shall make the Platform available to Bank and the Authorized Users in accordance with this Agreement, the Service Level Agreement set forth in Article 6, and the Documentation. The Services shall include payment transaction routing and orchestration, fraud screening, settlement reporting, and the related dashboards and APIs.
+
+2.2 License Grant. Provider hereby grants to Bank, during the Term, a non-exclusive, non-transferable, non-sublicensable, royalty-free license to access and use the Platform solely for Bank's internal business purposes, including the processing of payment transactions originated by or on behalf of Bank's customers. Bank's Affiliates may use the Platform under this license, and Bank shall remain responsible for the acts and omissions of its Affiliates in such use.
+
+2.3 Use Restrictions. Bank shall not (a) modify or create derivative works based on the Platform; (b) reverse engineer the Platform except to the extent such restriction is prohibited by applicable law; (c) use the Platform to build a product that competes with the Platform; or (d) sublicense, sell, or otherwise commercially exploit access to the Platform other than as expressly permitted herein.
+
+2.4 No Provider Suspension Without Notice. Notwithstanding anything to the contrary in this Agreement or in any Provider standard terms, Provider shall not suspend, throttle, or otherwise impair Bank's access to the Platform without providing Bank at least five (5) business days' prior written notice to a designated Bank vendor management contact, except in the case of (a) a confirmed security incident requiring immediate action to protect Bank Data, or (b) a court order or directive of a Regulator requiring immediate suspension. In any such emergency suspension, Provider shall notify Bank within four (4) hours of the action and shall restore service as soon as the cause is resolved.
+
+ARTICLE 3 — IMPLEMENTATION SERVICES
+
+3.1 Implementation Plan. Provider shall provide implementation services in accordance with a mutually agreed implementation plan, which shall be developed by the Parties within thirty (30) days of the Effective Date and shall address (a) Bank's regulatory requirements under OCC Bulletin 2013-29 and the FFIEC IT Examination Handbook, (b) integration with Bank's core banking system, (c) integration with Bank's BSA/AML monitoring systems, (d) integration with Bank's fraud detection infrastructure, and (e) user acceptance testing meeting Bank's standards.
+
+3.2 Implementation Fee. The implementation services shall be provided for a fee of {{IMPLEMENTATION_FEE}}, invoiced in two (2) installments: fifty percent (50%) upon execution of the implementation plan and the remaining fifty percent (50%) upon Bank's written acceptance of the completed implementation under Section 3.4.
+
+3.3 Implementation Schedule. Provider shall use commercially reasonable efforts to complete implementation within {{NOTICE_DAYS}} days of the Effective Date, subject to Bank's timely cooperation and to Bank's right to extend the implementation schedule to accommodate Bank's regulatory examination cycle, internal change management requirements, or other reasonable business considerations.
+
+3.4 Acceptance. Implementation shall be deemed complete upon Bank's written acceptance, which shall not be unreasonably withheld but which shall be conditioned on Provider's satisfaction of (a) the acceptance criteria set forth in the implementation plan, (b) the security control validation set forth in Article 7, and (c) Bank's vendor risk management onboarding process under OCC Bulletin 2013-29.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Subscription Fees. Bank shall pay Provider an annual subscription fee of {{ANNUAL_FEE_AMOUNT}}, which entitles Bank to process up to twenty million (20,000,000) payment transactions per year through the Platform. Excess transaction fees shall be billed at a rate set forth in the applicable Order Form, with thirty (30) days' prior written notice of any rate change.
+
+4.2 MFN Pricing. Provider represents and warrants that the per-transaction pricing offered to Bank in this Agreement is no less favorable than the per-transaction pricing offered by Provider to any other customer of similar size, transaction volume, and risk profile as of the Effective Date. If Provider offers more favorable per-transaction pricing to any such other customer during the Term, Provider shall promptly notify Bank and shall offer Bank such more favorable pricing for the remainder of the Term. This representation shall be tested annually by Provider's independent auditor as part of Provider's SOC 1 Type II audit.
+
+4.3 Payment Terms. All undisputed Subscription Fees shall be due and payable within forty-five (45) days of the date of invoice, in accordance with Bank's standard accounts payable cycle and consistent with Bank's policies for vendor payment.
+
+4.4 Disputed Invoices. Bank may withhold payment of any disputed amount until the dispute is resolved. Provider shall not impose any late fee, interest charge, or service suspension with respect to any amount in good-faith dispute. The Parties shall negotiate in good faith to resolve any dispute, and Bank shall pay any undisputed amounts in accordance with Section 4.3.
+
+4.5 Taxes. The Subscription Fees are exclusive of all taxes other than taxes imposed on Provider's net income.
+
+ARTICLE 5 — TERM AND TERMINATION
+
+5.1 Initial Term. The initial term of this Agreement shall commence on the Effective Date and shall continue for a period of {{TERM_YEARS}} years, unless earlier terminated in accordance with Article 13.
+
+5.2 Renewal Terms. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive one (1) year renewal terms unless either Party provides written notice of non-renewal at least {{NOTICE_DAYS}} days prior to the expiration of the then-current term.
+
+5.3 Bank Termination for Convenience. Notwithstanding Section 5.2, Bank may terminate this Agreement for convenience at any time after the second anniversary of the Effective Date by providing Provider with at least one hundred eighty (180) days' prior written notice. Bank shall pay any Subscription Fees that have accrued through the effective date of termination.
+
+5.4 Fee Adjustments at Renewal. Provider may adjust the Subscription Fees for any renewal term by providing written notice of the adjusted fees to Bank at least one hundred eighty (180) days prior to the start of the renewal term. Any such adjustment shall not exceed three percent (3%) above the Subscription Fees in effect during the immediately preceding Subscription Year.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime Commitment. Provider shall make the Platform available with a Monthly Uptime Percentage of at least 99.99% during all hours, twenty-four hours per day, seven days per week. Monthly Uptime Percentage shall be calculated as the percentage of total minutes in the calendar month during which the Platform was available to process payment transactions, expressed as a percentage.
+
+6.2 Service Credits. If Monthly Uptime Percentage falls below 99.99% in any calendar month, Bank shall be entitled to receive service credits as follows: (a) below 99.99% but at or above 99.95%: a service credit equal to ten percent (10%) of one twelfth (1/12) of the annual Subscription Fee; (b) below 99.95% but at or above 99.9%: a service credit equal to twenty-five percent (25%) of one twelfth (1/12) of the annual Subscription Fee; (c) below 99.9% but at or above 99.5%: a service credit equal to fifty percent (50%) of one twelfth (1/12) of the annual Subscription Fee; (d) below 99.5%: a service credit equal to one hundred percent (100%) of one twelfth (1/12) of the annual Subscription Fee.
+
+6.3 Service Credits Are Not Sole Remedy. Notwithstanding anything to the contrary, the service credits set forth in Section 6.2 shall be in addition to, and not in lieu of, any other rights or remedies available to Bank under this Agreement or applicable law, including without limitation Bank's right to terminate this Agreement for material breach.
+
+6.4 Severity 1 Incident Response. Provider shall use commercially reasonable efforts to acknowledge any Severity 1 incident (defined as any event affecting Bank's ability to process payment transactions) within fifteen (15) minutes and to provide a workaround within thirty (30) minutes.
+
+6.5 Maintenance Windows. Provider shall not perform scheduled maintenance during the four (4) hours preceding or following the close of the major U.S. equity markets, during U.S. federal holidays, or during quarter-end or year-end financial reporting windows, except with Bank's prior written consent.
+
+6.6 Annual Disaster Recovery Test. Provider shall conduct a full disaster recovery test of the Platform at least annually and shall provide Bank with a written summary of the results of each test, including the recovery time objective achieved, the recovery point objective achieved, and any deficiencies identified, within thirty (30) days of the test.
+
+ARTICLE 7 — BANK DATA, INFORMATION SECURITY, AND REGULATORY COMPLIANCE
+
+7.1 Ownership of Bank Data. As between the Parties, Bank shall retain all right, title, and interest in and to Bank Data, including all Customer Information, Nonpublic Personal Information, and Transaction Data. Provider acknowledges that Bank Data is the exclusive property of Bank.
+
+7.2 Permitted Uses. Provider shall use and disclose Bank Data only as necessary to provide the Services to Bank in accordance with this Agreement and only as permitted by applicable law. Provider shall not (a) use Bank Data for any purpose other than providing the Services; (b) sell, lease, or rent Bank Data to any third party; (c) use Bank Data to train any machine learning model, develop any commercial product, or contribute to any aggregated dataset; (d) mine Bank Data for analytics or insights for Provider's own purposes; or (e) disclose Bank Data to any third party other than as permitted in Section 7.10.
+
+7.3 GLBA Compliance. Provider acknowledges that Bank Data may include "nonpublic personal information" within the meaning of GLBA and that Provider, in providing the Services, shall be subject to the obligations of a service provider under GLBA and the Interagency Guidelines Establishing Information Security Standards (12 C.F.R. Part 30, Appendix B). Provider shall implement and maintain administrative, technical, and physical safeguards designed to comply with such obligations.
+
+7.4 Regulatory Examination. Provider acknowledges that Bank's use of the Platform is subject to examination by Bank's Regulators under 12 U.S.C. § 1867(c) (Bank Service Company Act) and applicable state laws. Provider shall cooperate fully with any examination, audit, or inquiry by a Regulator with respect to Bank's use of the Platform, including by (a) making available to the Regulator (and to Bank upon Bank's request to facilitate such examination) such books, records, personnel, facilities, and information as the Regulator may reasonably request; (b) responding to Regulator inquiries within the time frames required by the Regulator; (c) permitting the Regulator to conduct on-site examinations at Provider's facilities upon reasonable notice; and (d) providing copies of Provider's SOC 1 Type II reports, SOC 2 Type II reports, PCI DSS Attestations of Compliance, and other relevant compliance reports as soon as available.
+
+7.5 Bank Audit Rights. In addition to Bank's rights under Section 7.4, Bank shall have the right, upon at least thirty (30) days' prior written notice (or, in the case of a Regulator-driven audit, upon shorter notice as the Regulator requires), to audit Provider's compliance with this Agreement, the Service Level Agreement, the security obligations of this Article 7, and applicable laws. Bank may conduct such audit using internal audit personnel or a third-party auditor of Bank's choosing, subject to such third-party auditor's execution of a reasonable confidentiality agreement. Bank's audit rights shall not be limited in frequency in the event of a Security Incident, a Regulator inquiry, or a material change in Provider's risk profile.
+
+7.6 Information Security Program. Provider shall maintain a documented information security program designed to comply with the Interagency Guidelines, the FFIEC IT Examination Handbook, and applicable industry standards. Provider's information security program shall include without limitation: (a) administrative safeguards including written policies, employee training, background checks, and a designated information security officer; (b) physical safeguards including data center physical access controls; (c) technical safeguards including encryption of Bank Data in transit (TLS 1.2 or higher) and at rest (AES-256), role-based access controls, multi-factor authentication for privileged access, and continuous network monitoring; (d) annual third-party penetration testing; (e) maintenance of SOC 1 Type II, SOC 2 Type II, and PCI DSS Level 1 certifications throughout the Term; and (f) annual independent assessment of the information security program against the Interagency Guidelines.
+
+7.7 Security Incident Notification. Provider shall notify Bank's designated security contact in writing of any actual or reasonably suspected unauthorized access to, acquisition of, use of, disclosure of, modification of, or destruction of Bank Data (a "Security Incident") without undue delay and in any event within twenty-four (24) hours of Provider's discovery of such Security Incident. The notification shall include all information then available regarding the nature of the Security Incident, the categories and approximate number of records affected, the categories and approximate number of individuals affected, the technical and operational measures Provider has taken or proposes to take to address the Security Incident, and the contact information for Provider's incident response lead. Provider shall provide Bank with regular updates on the Security Incident at intervals no less frequent than daily until the incident is resolved.
+
+7.8 Cooperation in Breach Response. Provider shall cooperate fully with Bank in Bank's investigation, response, and notification efforts with respect to any Security Incident, including by (a) providing forensic data and incident response personnel, (b) participating in Bank-led incident response calls, (c) reimbursing Bank for the reasonable costs of breach notifications, credit monitoring, and forensic investigation to the extent the Security Incident was caused by Provider's breach of this Agreement, and (d) cooperating with any Regulator inquiry arising from the Security Incident.
+
+7.9 Subprocessors. Provider shall not engage any Subprocessor to process Bank Data without Bank's prior written approval, which Bank may withhold or condition in its sole discretion based on the Subprocessor's risk profile, security posture, or geographic location. Provider shall maintain a list of approved Subprocessors at a Bank-accessible Customer Trust Portal. For each new or replacement Subprocessor, Provider shall (a) provide Bank with at least sixty (60) days' prior written notice, (b) provide Bank with the Subprocessor's most recent SOC 2 Type II report and any other compliance documentation Bank reasonably requests, and (c) not engage the Subprocessor until Bank has provided written approval. Bank may object to any new or replacement Subprocessor on any reasonable ground, including its security posture, jurisdiction, regulatory status, or relationship to a competitor of Bank.
+
+7.10 Permitted Disclosures. Provider may disclose Bank Data only (a) to its employees, contractors, and approved Subprocessors who have a need to know to provide the Services and who are bound by confidentiality obligations at least as protective as those set forth in this Agreement; (b) to a Regulator as permitted under Section 7.4; or (c) as required by court order or applicable law, in which case Provider shall (to the extent legally permitted) give Bank prompt notice to allow Bank to seek a protective order.
+
+7.11 Data Residency. Provider shall store and process Bank Data only within data centers physically located in the contiguous United States. Provider shall not transfer Bank Data outside of the United States, and Provider shall not permit any Subprocessor to process Bank Data from any location outside of the United States, without Bank's prior written consent.
+
+7.12 Data Return and Deletion. Upon expiration or termination of this Agreement for any reason, Provider shall, at Bank's election: (a) make Bank Data available for export by Bank in a commercially reasonable, machine-readable format for a period of one hundred eighty (180) days following expiration or termination at no additional charge; or (b) permanently delete Bank Data from Provider's production systems within thirty (30) days, with backup deletion to follow within ninety (90) days. Provider shall provide Bank with written certification of deletion upon Bank's request. Provider may retain Bank Data only to the extent required by applicable law (including the Bank Service Company Act recordkeeping requirements), and any retained Bank Data shall remain subject to the obligations of this Agreement.
+
+7.13 Concentration Risk and Exit Plan. The Parties acknowledge that Bank's regulators expect Bank to maintain a documented exit plan for critical third-party service providers under OCC Bulletin 2013-29 and the 2023 Interagency Guidance on Third-Party Relationships. Provider shall cooperate with Bank in the development and annual review of such exit plan and shall make available to Bank such technical, operational, and contractual information as Bank reasonably requires to maintain the exit plan.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Provider Intellectual Property. As between the Parties, Provider shall retain all right, title, and interest in and to the Platform, the Documentation, and all related Intellectual Property Rights, subject to the limited license granted to Bank in Section 2.2.
+
+8.2 Bank Data. Bank Data is and shall remain the exclusive property of Bank, as set forth in Article 7.
+
+8.3 Bank Configurations. All configurations, business rules, fraud rules, routing rules, integration mappings, and other Bank-developed content within the Platform shall be deemed Bank's property to the extent they reflect Bank's proprietary processes, risk models, or business intelligence. Provider shall not use any such Bank-developed content for the benefit of any other customer of Provider.
+
+8.4 Feedback. From time to time, Bank or its Authorized Users may provide Provider with suggestions, comments, or feedback regarding the Platform ("Feedback"). Bank hereby grants Provider a perpetual, irrevocable, royalty-free, worldwide license to use such Feedback to improve the Platform, provided that Provider shall not use any Bank Data, Bank-developed content, or any information that identifies Bank in connection with such use of Feedback.
+
+8.5 No Implied Licenses. Except for the limited rights expressly granted in this Agreement, neither Party grants any rights or licenses to the other Party.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party agrees to (a) hold the other Party's Confidential Information in strict confidence; (b) use the other Party's Confidential Information solely for the purposes of this Agreement; (c) not disclose the other Party's Confidential Information to any third party except to its employees, contractors, and advisors who have a legitimate need to know and who are bound by confidentiality obligations at least as protective as those set forth in this Article 9; and (d) protect the other Party's Confidential Information using the same degree of care it uses to protect its own confidential information of similar importance, but in no event less than reasonable care.
+
+9.2 Bank's Confidential Information. Bank's Confidential Information includes all Bank Data (including Customer Information and Nonpublic Personal Information), Bank's proprietary risk models and fraud rules, Bank's pricing and product strategy, the existence and terms of this Agreement, and any information about Bank's regulatory examinations or supervisory communications.
+
+9.3 Compelled Disclosure. The Receiving Party may disclose Confidential Information to the extent required by court order or applicable law, provided that the Receiving Party (a) gives the Disclosing Party prompt written notice of the requirement, to the extent legally permitted, before making such disclosure; (b) cooperates with the Disclosing Party in any reasonable effort to obtain a protective order; and (c) discloses only that portion of Confidential Information that is legally required to be disclosed. Notwithstanding the foregoing, Provider may disclose Confidential Information to a Regulator of Provider in connection with such Regulator's examination of Provider, without prior notice to Bank, but Provider shall use commercially reasonable efforts to obtain confidential treatment of such disclosure.
+
+9.4 Survival. The obligations set forth in this Article 9 shall survive any expiration or termination of this Agreement for a period of seven (7) years, except that the obligations with respect to trade secrets and Customer Information shall survive for so long as such information continues to qualify as a trade secret or Customer Information.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants that (a) it is duly organized, validly existing, and in good standing under the laws of the jurisdiction of its formation; (b) it has the corporate power and authority to enter into this Agreement; and (c) this Agreement, when executed, will constitute a legal, valid, and binding obligation enforceable against it in accordance with its terms.
+
+10.2 Provider Warranties. Provider represents, warrants, and covenants that during the Term: (a) the Platform shall perform substantially in accordance with the Documentation in all material respects; (b) Provider shall provide the Services in a professional and workmanlike manner consistent with the highest standards of the payment processing industry; (c) Provider shall comply with all federal, state, and local laws and regulations applicable to its provision of the Services, including without limitation GLBA, the FFIEC IT Examination Handbook, the Bank Service Company Act, OCC Bulletin 2013-29 and the 2023 Interagency Guidance, the Bank Secrecy Act and applicable AML regulations, and PCI DSS; (d) Provider shall not knowingly include any virus, worm, trojan horse, or other malicious code in the Platform; (e) Provider shall maintain SOC 1 Type II, SOC 2 Type II, and PCI DSS Level 1 certifications throughout the Term; and (f) Provider shall promptly notify Bank of any change in Provider's regulatory status, any Regulator enforcement action against Provider, any change in Provider's senior officers, and any material change in Provider's financial condition.
+
+10.3 Bank Warranties. Bank represents and warrants that (a) it has the right and authority to upload Bank Data to the Platform; and (b) Bank's use of the Platform shall comply with applicable laws.
+
+10.4 Provider Indemnity for Warranty Breach. In the event Provider breaches Section 10.2, Bank shall be entitled, in addition to any other rights and remedies, to a refund of the prepaid Subscription Fees corresponding to the period of breach and to terminate this Agreement for cause without further notice.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Provider IP Indemnity. Provider shall defend Bank, its Affiliates, and their respective officers, directors, employees, and agents (each a "Bank Indemnified Party") against any third-party claim, suit, action, or proceeding (each a "Claim") alleging that Bank's use of the Platform in accordance with this Agreement infringes, misappropriates, or otherwise violates any Intellectual Property Right of such third party, and Provider shall indemnify each Bank Indemnified Party for any damages, settlement amounts, and reasonable attorneys' fees finally awarded against such Bank Indemnified Party with respect to such Claim.
+
+11.2 Provider Compliance Indemnity. Provider shall defend each Bank Indemnified Party against, and shall indemnify each Bank Indemnified Party for any damages, regulatory fines, settlement amounts, and reasonable attorneys' fees finally awarded against any Bank Indemnified Party arising out of or relating to (a) any Security Incident affecting Bank Data to the extent caused by Provider's breach of Article 7; (b) any failure by Provider to maintain SOC 1 Type II, SOC 2 Type II, or PCI DSS Level 1 certifications as required under Section 7.6; (c) any failure by Provider to comply with GLBA, the Interagency Guidelines, OCC Bulletin 2013-29, or the FFIEC IT Examination Handbook in providing the Services; or (d) any inaccuracy in the MFN representation in Section 4.2.
+
+11.3 Bank Indemnity. Bank shall defend Provider against any third-party Claim alleging that (a) Bank Data infringes any Intellectual Property Right of such third party; or (b) Bank's use of the Platform in violation of this Agreement caused damage to such third party. Bank shall indemnify Provider for any damages, settlement amounts, and reasonable attorneys' fees finally awarded against Provider with respect to such Claim.
+
+11.4 Indemnification Procedure. The Party seeking indemnification (the "Indemnified Party") shall (a) provide the Indemnifying Party with prompt written notice of the Claim; (b) grant the Indemnifying Party control over the defense and settlement of the Claim, provided that the Indemnifying Party shall not enter into any settlement that imposes any liability or obligation on the Indemnified Party, or that requires any admission of wrongdoing by the Indemnified Party, without the Indemnified Party's prior written consent; and (c) provide the Indemnifying Party with reasonable cooperation and assistance at the Indemnifying Party's expense. Notwithstanding the foregoing, the Indemnified Party shall be entitled to participate in the defense at the Indemnified Party's own expense and with counsel of the Indemnified Party's choosing.
+
+11.5 Mitigation of IP Claims. If the Platform becomes, or in Provider's reasonable opinion is likely to become, the subject of a Claim of infringement or misappropriation, Provider may, at its option and expense, (a) procure for Bank the right to continue using the Platform; (b) modify the Platform to be non-infringing without materially diminishing functionality; (c) replace the Platform with a non-infringing alternative of substantially equivalent functionality; or (d) if none of the foregoing is commercially reasonable, terminate this Agreement and refund a prorated portion of the prepaid Subscription Fees corresponding to the unused portion of the then-current Term.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF SUBSCRIPTION FEES PAID OR PAYABLE BY BANK TO PROVIDER DURING THE {{LIABILITY_CAP_MONTHS}} MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOST REVENUE, LOST BUSINESS OPPORTUNITIES, OR LOSS OF DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+12.3 Exceptions to Limitations. The limitations in Sections 12.1 and 12.2 shall not apply to (a) Provider's obligations under Article 11 (Indemnification), including specifically the Provider Compliance Indemnity in Section 11.2; (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Bank Data, Information Security, and Regulatory Compliance); (d) Bank's payment obligations under Article 4; (e) any liability arising from a Party's gross negligence, willful misconduct, or fraud; (f) any liability arising from a violation of GLBA, the Interagency Guidelines, the Bank Service Company Act, OCC Bulletin 2013-29, or any other banking law applicable to Provider; or (g) any liability that, under applicable law, cannot be limited or excluded.
+
+12.4 Heightened Cap for Compliance Breaches. Notwithstanding Section 12.1, with respect to any claim arising under Section 11.2 (Provider Compliance Indemnity), the aggregate cap shall be the greater of (a) the cap in Section 12.1, or (b) Twenty Million United States Dollars ($20,000,000). The Parties acknowledge that this heightened cap reflects the regulatory and reputational risk to Bank associated with a compliance failure by a critical third-party service provider.
+
+12.5 Basis of the Bargain. The Parties acknowledge that the limitations of liability set forth in this Article 12, including the heightened cap in Section 12.4, are an essential element of the bargain between the Parties.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Material Breach. Either Party may terminate this Agreement upon thirty (30) days' prior written notice to the other Party if the other Party commits a material breach and fails to cure such breach within the thirty (30) day notice period. Bank shall be entitled to a refund of any prepaid Subscription Fees corresponding to the period after the effective date of termination.
+
+13.2 Termination for Loss of Compliance. Bank may terminate this Agreement immediately upon written notice if (a) Provider loses or fails to maintain SOC 1 Type II, SOC 2 Type II, or PCI DSS Level 1 certification for a period exceeding sixty (60) days; (b) Provider becomes the subject of a final, non-appealable enforcement action by any U.S. financial regulator for a violation of GLBA, the Interagency Guidelines, OCC Bulletin 2013-29, or the Bank Service Company Act; (c) any Regulator of Bank issues a written directive to Bank to terminate its relationship with Provider; or (d) Provider experiences a material adverse change in financial condition that, in Bank's reasonable judgment, materially impairs Provider's ability to perform under this Agreement.
+
+13.3 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice to the other Party if the other Party (a) becomes insolvent or unable to pay its debts as they become due; (b) makes a general assignment for the benefit of creditors; (c) files a voluntary petition in bankruptcy; or (d) has an involuntary petition in bankruptcy filed against it that is not dismissed within thirty (30) days.
+
+13.4 Effects of Termination. Upon expiration or termination of this Agreement: (a) all rights and licenses granted to Bank hereunder shall continue in effect during the Transition Period defined in Section 13.5; (b) Bank shall pay Provider all undisputed Subscription Fees that have accrued through the effective date of termination; (c) each Party shall return or destroy the other Party's Confidential Information in accordance with Section 9; (d) Provider shall make Bank Data available for export or shall delete Bank Data in accordance with Section 7.12; and (e) the provisions of this Agreement that by their nature are intended to survive termination, including Articles 1, 7 (in part), 8, 9, 11, 12, and 14, shall so survive.
+
+13.5 Transition Period. Following any termination of this Agreement (other than termination by Provider for Bank's uncured failure to pay an undisputed amount), Provider shall continue to provide the Services to Bank for a transition period of up to twelve (12) months following the effective date of termination (the "Transition Period"), at the rates in effect immediately prior to termination. During the Transition Period, Provider shall provide Bank with all reasonable transition assistance to facilitate Bank's migration to a successor service provider, including without limitation (a) the export of Bank Data in standard payment industry formats, (b) the provision of API documentation and integration support, (c) the participation of Provider's transition team in Bank-led migration calls, and (d) cooperation with Bank's incoming service provider. Standard transition assistance shall be provided at no additional charge; non-standard or expedited transition assistance shall be provided at Provider's then-current professional services rates.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to its conflict-of-laws principles.
+
+14.2 Venue and Jurisdiction. The Parties agree that any action, suit, or proceeding arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, and each Party hereby irrevocably consents to the personal jurisdiction of such courts.
+
+14.3 Informal Dispute Resolution. Before initiating any litigation, the Parties shall attempt in good faith to resolve any dispute through direct negotiation between executives of each Party with authority to resolve the dispute. If the dispute is not resolved within thirty (30) days after written notice from one Party to the other, either Party may proceed to litigation.
+
+14.4 Waiver of Jury Trial. EACH PARTY HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+14.5 No Class Actions. Notwithstanding anything to the contrary, the foregoing waiver of jury trial does not constitute a waiver of any right of Bank to participate in or pursue any class action, collective action, or representative action that may be available to Bank or Bank's customers under applicable consumer protection law.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions between the Parties with respect to such subject matter. Any Provider standard terms, online terms, or click-through agreements that may be presented to Bank in the course of using the Platform are expressly rejected and shall have no force or effect.
+
+15.2 Amendments. No amendment, modification, or supplement to this Agreement shall be effective unless set forth in a writing executed by authorized representatives of both Parties.
+
+15.3 Severability. If any provision of this Agreement is held to be invalid, illegal, or unenforceable, such provision shall be modified to the minimum extent necessary to render it valid, or, if no such modification is possible, severed from this Agreement, and the remaining provisions shall continue in full force.
+
+15.4 Waiver. No failure or delay by either Party in exercising any right under this Agreement shall operate as a waiver thereof.
+
+15.5 Notices. All notices required or permitted under this Agreement shall be in writing and shall be delivered to the addresses set forth on a notices schedule mutually agreed by the Parties.
+
+15.6 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, which consent shall not be unreasonably withheld. Notwithstanding the foregoing, Bank's prior written consent is required for any assignment by Provider in connection with a merger, acquisition, change of control, corporate reorganization, or sale of all or substantially all of Provider's assets, and Bank may withhold such consent if Bank reasonably determines that the proposed assignee does not meet Bank's vendor risk management requirements under OCC Bulletin 2013-29.
+
+15.7 Force Majeure. Neither Party shall be liable for any failure or delay in performing its obligations under this Agreement to the extent caused by events beyond such Party's reasonable control. The Party affected by a force majeure event shall promptly notify the other Party and shall use commercially reasonable efforts to resume performance.
+
+15.8 Independent Contractors. The Parties are independent contractors. Nothing in this Agreement shall be construed as creating a partnership, joint venture, agency, employment, or other similar relationship.
+
+15.9 No Third-Party Beneficiaries. This Agreement is for the sole benefit of the Parties and their respective successors and permitted assigns. No customer of Bank, individual whose Customer Information is processed through the Platform, or other person shall have any rights under this Agreement.
+
+15.10 Counterparts. This Agreement may be executed in counterparts.
+
+15.11 Headings. The headings of Articles and Sections in this Agreement are for convenience of reference only.
+
+15.12 Construction. The Parties acknowledge that this Agreement has been negotiated by both Parties with the benefit of legal counsel, and any rule of construction to the effect that ambiguities are to be resolved against the drafting Party shall not apply.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+{{CUSTOMER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Information Officer
+Date:

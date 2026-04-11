@@ -1,6 +1,6 @@
 CLINICAL TRIAL MANAGEMENT SYSTEM SOFTWARE-AS-A-SERVICE AGREEMENT
 
-This Clinical Trial Management System Software-as-a-Service Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} ("Provider"), and {{CUSTOMER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} ("Customer"). Provider and Customer may each be referred to individually as a "Party" and collectively as the "Parties."
+This Clinical Trial Management System Software-as-a-Service Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} ("Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} ("Customer"). Provider and Customer may each be referred to individually as a "Party" and collectively as the "Parties."
 
 RECITALS
 

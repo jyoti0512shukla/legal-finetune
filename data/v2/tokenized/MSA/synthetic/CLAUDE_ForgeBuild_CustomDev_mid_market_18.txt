@@ -1,0 +1,221 @@
+FORGEBUILD — CUSTOM SOFTWARE DEVELOPMENT SERVICES AGREEMENT
+
+This is the ForgeBuild Custom Software Development Services Agreement (the "Agreement"). It is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} (the "Developer," "we," or "our"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} (the "Client," or "you"). It starts on {{EFFECTIVE_DATE}}.
+
+We build custom software for businesses. You hire us to do specific projects through Statements of Work. This Agreement covers the standing rules. The Statements of Work cover what we build, by when, and what it costs. If something in a Statement of Work conflicts with this Agreement, this Agreement wins on the things it covers, except where the Statement of Work expressly says otherwise.
+
+ARTICLE 1 — DEFINITIONS
+
+We define most terms inline. The terms below come up often.
+
+1.1 "Statement of Work" or "SOW" is a document we both sign that describes a specific project — the scope, the deliverables, the timeline, the team, the fees, the acceptance criteria, and any project-specific terms.
+
+1.2 "Deliverables" are the things we hand over to you under a SOW — source code, compiled binaries, documentation, designs, deployment scripts, and so on.
+
+1.3 "Background IP" is what each of us already owns going in. Our Background IP includes our internal libraries, our project templates, our methodologies, and any open-source software we contribute to.
+
+1.4 "OSS Components" are open-source software components included in a Deliverable. The applicable OSS license terms govern the use of any OSS Component.
+
+1.5 "Client Materials" are things you give us to use on the project — your existing code, your data, your APIs, your design files.
+
+ARTICLE 2 — SCOPE OF SERVICES
+
+2.1 SOW model. We do work for you only under signed SOWs.
+
+2.2 Order of precedence. As described in the preamble.
+
+2.3 What we promise. We will write the code in a professional, workmanlike manner, using current best practices for the languages and frameworks involved. We will not knowingly include malicious code.
+
+2.4 What you do. You give us reasonable access to your existing systems, your APIs, your design files, and your team. If you do not, we are not responsible for delays.
+
+2.5 Development methodology. Unless the SOW says otherwise, we work in two-week sprints with a backlog you and we maintain together. You attend sprint reviews and give us feedback in time for the next sprint planning meeting.
+
+ARTICLE 3 — DELIVERABLES AND ACCEPTANCE
+
+3.1 Delivery. We deliver each Deliverable on the schedule and in the format the SOW says. Source code is delivered to your designated git repository.
+
+3.2 Acceptance criteria. Each SOW lists the acceptance criteria for the Deliverables — automated test pass rates, manual test scenarios, performance benchmarks, integration checks, and so on.
+
+3.3 Acceptance Period. You have fifteen (15) business days from delivery of each milestone to test the Deliverable against the acceptance criteria and tell us in writing whether you accept it or want fixes.
+
+3.4 Cure. If you ask for fixes, we will make them at no additional charge if they are within the acceptance criteria. We deliver the fixed code within ten (10) business days. If after two rounds of fixes the Deliverable still does not meet the acceptance criteria, you can either accept it with a fair fee reduction, or terminate the affected SOW and get back any fees paid for that milestone.
+
+3.5 Deemed acceptance. If you do not respond within the Acceptance Period, the Deliverable is deemed accepted.
+
+3.6 Out-of-scope changes. New features, scope changes, or design pivots need a written change order signed by both of us, and may carry additional fees.
+
+3.7 Bug fixes after acceptance. We fix bugs in accepted code free for 60 days after each milestone. After that, ongoing maintenance is a separate scope under a maintenance SOW.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Fees. You pay us the fees in each SOW. Fees can be fixed-fee per milestone, time-and-materials at the SOW rates, or any other basis the SOW says.
+
+4.2 Annual aggregate. The total fees you pay us across all active SOWs as of the Effective Date is roughly {{ANNUAL_FEE_AMOUNT}}, included for reference only.
+
+4.3 Time-and-materials reporting. For T&M projects, we send you a detailed weekly report — who worked, what they worked on, and how many hours. You can dispute any hour through the project management tool.
+
+4.4 Net 30. We invoice monthly and you pay within 30 days. Late payments accrue 1% per month or the maximum allowed by law, whichever is less.
+
+4.5 Disputes. If you think a charge is wrong, tell us within 15 business days. Pay the parts you do not dispute on time.
+
+4.6 Audit. You can audit our T&M time records once per year on 30 days notice.
+
+4.7 Taxes. Fees do not include taxes. You are responsible for any taxes that apply.
+
+ARTICLE 5 — TERM AND TERMINATION
+
+5.1 Initial Term. This Agreement runs for {{TERM_YEARS}} years from the Effective Date.
+
+5.2 Renewal. After the Initial Term, this Agreement automatically renews for one (1) year periods. Either of us can stop the renewal by giving written notice at least {{NOTICE_DAYS}} days before the current term ends.
+
+5.3 You can cancel any active SOW. Cancel any SOW in writing on 30 days notice. We will stop work and bill you for everything we have done up to the cancellation date plus any non-cancellable third-party costs.
+
+ARTICLE 6 — TEAM AND STAFFING
+
+6.1 Designated team. Each SOW lists the lead engineers — the technical lead, the project manager, and any key specialists.
+
+6.2 No swapping. We will not swap out designated team members without telling you first, except if someone leaves the company, gets sick, or we need to remove them.
+
+6.3 Removal on your request. If you want us to take someone off your project, ask. We will do it within five business days.
+
+6.4 Background checks. We run background checks on all our employees consistent with our standard practice.
+
+6.5 Non-solicitation. While we are working together and for 12 months after, you will not directly hire or solicit our engineers who worked on your project (general public job ads do not count).
+
+6.6 Subcontractors. We may use approved freelance engineers and subcontractors for specialized work. We remain responsible for their performance. They sign confidentiality and IP assignment agreements substantially similar to ours.
+
+ARTICLE 7 — CLIENT MATERIALS AND DATA
+
+7.1 You own Client Materials. Your existing code, your data, your APIs — you own all of it.
+
+7.2 Limited use. We use Client Materials only to do the project for you under the SOWs. We do not sell them, share them, or use them for any other client.
+
+7.3 Customer data. To the extent your project involves data about your end customers (PII, payment info, health data), the SOW will list any specific data handling requirements (HIPAA, PCI DSS, etc.). We will follow those requirements and we will not access end-customer data unless the SOW expressly requires it.
+
+7.4 Security. We protect Client Materials with TLS 1.2 in transit, AES-256 at rest in our development infrastructure, role-based access in our git repos and project management tools, and SSH-key-only access to any of your systems.
+
+7.5 Breach notification. If we have a security incident affecting Client Materials, we will tell you in writing within 72 hours of discovering it.
+
+7.6 Return on cancellation. When the engagement ends, we return any Client Materials we hold and delete the copies we have, except for archival copies in our normal records retention.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Background IP. Each side keeps its Background IP. We are not transferring our internal libraries, our project templates, or our methodologies.
+
+8.2 Work Product is yours. Subject to Section 8.3, Section 8.4, and to you paying the fees, we assign to you all rights in the Deliverables we create specifically for you under each SOW. To the maximum extent permitted by copyright law, the Deliverables are "work made for hire" for you. To the extent they are not, we hereby assign them to you. Our employees and subcontractors have signed agreements that let us make this assignment.
+
+8.3 License to Background IP. If a Deliverable contains some of our Background IP (like a library we wrote and reuse), we grant you a perpetual, irrevocable, non-exclusive, royalty-free license to use that Background IP solely as embedded in the Deliverable. The Background IP itself remains ours.
+
+8.4 OSS Components. The Deliverables may include OSS Components. We list the OSS Components and their licenses in a NOTICE file in the Deliverable. The OSS Components are governed by their respective OSS licenses, not by this Agreement. We will not include OSS Components with copyleft licenses (such as the GPL or AGPL) in a Deliverable in a way that would require you to release your own code under a copyleft license, without telling you first and getting your written approval.
+
+8.5 Customer-Specific Code. Any code we write specifically for you that does not depend on our Background IP is yours, including the source code, the compiled binaries, the deployment scripts, and the documentation.
+
+8.6 Source Code Delivery. We deliver the source code to your git repository on an ongoing basis as we develop. There is no separate "source code escrow" — you have the source code in real time.
+
+8.7 Feedback. If you tell us how to improve our process or our work for other clients, we can use that feedback. We will not use any Client Materials in connection with feedback.
+
+8.8 Portfolio rights. We can list you as a customer on our website and in case studies. If you want us to keep the engagement confidential, just tell us.
+
+8.9 No implied licenses. You only get the rights this Agreement actually grants.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Mutual. Each of us holds the other's non-public information confidential, uses it only for the work, and shares it only with our people who need to know and are bound by similar confidentiality.
+
+9.2 Exceptions. The promise does not cover information that is already public, was already known, was independently developed, or was rightfully received from someone else with no confidentiality duty.
+
+9.3 Compelled disclosure. If a court order requires disclosure, we will tell the other side first if we are legally allowed to.
+
+9.4 Survival. Confidentiality obligations last during this Agreement and for three years after.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Authority. Each of us has the authority to enter into this Agreement.
+
+10.2 What we promise. We will perform the work professionally and consistent with industry standards. The Deliverables (other than OSS Components and Client Materials) will not knowingly infringe anyone else's IP. We will not knowingly include malicious code. We will comply with applicable laws.
+
+10.3 What you promise. You have the right to provide Client Materials. The Client Materials do not infringe anyone else's rights. Your use of the Deliverables will comply with applicable laws.
+
+10.4 Disclaimer. EXCEPT FOR THE LIMITED WARRANTY ABOVE, THE SERVICES AND DELIVERABLES ARE PROVIDED "AS IS." WE DISCLAIM ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. SOFTWARE IS COMPLEX AND WE DO NOT WARRANT THAT THE DELIVERABLES WILL BE BUG-FREE OR PERFORM TO ANY SPECIFIC PERFORMANCE METRIC NOT EXPRESSLY SET FORTH IN A SOW'S ACCEPTANCE CRITERIA.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 We defend you. We will defend you against any third-party claim that the Deliverables (the parts we built — not OSS Components, not Client Materials) infringe a third party's U.S. patent, copyright, trademark, or trade secret. We will pay the final judgment or agreed settlement, subject to the cap in Article 12.
+
+11.2 You defend us. You will defend us against any third-party claim that arises from (a) Client Materials, (b) your use of a Deliverable in a way the SOW did not contemplate, (c) any open source component you ask us to incorporate that turns out to infringe someone's IP, or (d) anything you build on top of the Deliverables that infringes someone else's rights.
+
+11.3 How indemnification works. The side seeking indemnity tells the other side promptly, gives the other side control of the defense (subject to a no-bad-settlement-without-consent right), and helps out at the indemnifying side's reasonable expense.
+
+11.4 If a Deliverable might infringe. If a Deliverable might be the subject of an IP claim, we may (a) get you a license, (b) modify it to be non-infringing without losing material value, (c) replace it, or (d) take it back and refund the fees you paid for it.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. EXCEPT AS PROVIDED IN SECTION 12.3, NEITHER OF US WILL BE LIABLE TO THE OTHER FOR MORE THAN THE TOTAL FEES YOU HAVE PAID US UNDER THE AFFECTED SOW IN THE {{LIABILITY_CAP_MONTHS}} MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM.
+
+12.2 No indirect damages. EXCEPT AS PROVIDED IN SECTION 12.3, NEITHER OF US WILL BE LIABLE TO THE OTHER FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, LOST REVENUE, LOST BUSINESS, OR LOSS OF DATA, EVEN IF EITHER OF US HAS BEEN ADVISED THAT THOSE DAMAGES ARE POSSIBLE.
+
+12.3 What is not capped. The cap and the exclusion do not apply to (a) what we owe under Article 11; (b) breach of Article 9 (Confidentiality); (c) your obligation to pay fees; (d) gross negligence, willful misconduct, or fraud; or (e) anything the law says cannot be limited.
+
+12.4 Why the cap. The cap reflects the price of custom software development. If you need a higher cap on a particular project, talk to us before signing the SOW.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for material breach. Either of us can terminate this Agreement, or any SOW, on 30 days written notice if the other side materially breaches and does not cure within those 30 days.
+
+13.2 Termination for insolvency. Either of us can terminate immediately if the other becomes insolvent or files for bankruptcy.
+
+13.3 Effects of termination. When this ends: (a) we stop working, (b) we deliver any work completed up to the termination date including the source code in your git repository, (c) we return Client Materials, (d) you pay us for accepted work and non-cancellable commitments, (e) each of us returns or destroys the other's Confidential Information, and (f) Articles 1, 7, 8, 9, 11, 12, and 14 keep working.
+
+13.4 Wind-down assistance. After termination, we will help you wind down for up to 30 days at our standard rates — knowledge transfer, deployment support, and answering questions from your replacement team.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing law. The laws of the State of {{GOVERNING_LAW_STATE}} apply, without regard to conflict-of-laws rules.
+
+14.2 Where to sue. Any lawsuit about this Agreement must be filed in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+14.3 Talk first. Before suing, we will both try in good faith to resolve any dispute through direct discussion.
+
+14.4 No jury. We both give up the right to a jury trial.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Whole agreement. This Agreement plus all signed SOWs make up the whole deal between us.
+
+15.2 Updates. Changes only count if they are in writing signed by both of us.
+
+15.3 Severability. If a court says a part of this Agreement does not work, the rest still does.
+
+15.4 Waiver. Not enforcing a right one time is not a permanent giveup.
+
+15.5 Notices. Formal notices go to the addresses on the SOW.
+
+15.6 Independent contractors. We are independent contractors. We are not your employee, agent, or partner.
+
+15.7 Subcontractors. We may use approved freelance engineers and subcontractors as set forth in Section 6.6.
+
+15.8 Assignment. Neither of us can assign this Agreement without the other's consent, except either of us can assign in connection with a merger or sale of substantially all assets.
+
+15.9 Force majeure. Neither of us is liable for delays caused by events outside our reasonable control, except your obligation to pay still applies.
+
+15.10 No third-party beneficiaries. Only you and we have rights under this Agreement.
+
+15.11 Counterparts. We can sign in counterparts.
+
+15.12 Plain language. We wrote this in plain language on purpose. No rule that ambiguities are construed against the drafter applies.
+
+Signed:
+
+{{PROVIDER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+{{CUSTOMER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Technology Officer
+Date:

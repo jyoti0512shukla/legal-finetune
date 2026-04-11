@@ -1,0 +1,241 @@
+REMOTE PATIENT MONITORING AND TELEMEDICINE SERVICES AGREEMENT
+
+This Remote Patient Monitoring and Telemedicine Services Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} ("Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} ("Customer"). Customer is an academic medical center engaged in clinical care, medical education, and federally funded research.
+
+The Parties have negotiated this Agreement to allocate risk consistent with Customer's status as a covered entity under HIPAA, a recipient of federal grant funding from the National Institutes of Health, and an institution conducting research subject to Common Rule oversight. In the event of any conflict between this Agreement and any other document referenced herein, including any standard Provider terms or click-through agreements, this Agreement shall control. The Business Associate Agreement attached as Exhibit A and the Data Use Agreement attached as Exhibit B are incorporated by reference; in the event of conflict between this Agreement and either Exhibit, the relevant Exhibit shall control as to the matters expressly addressed therein.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "21 CFR Part 820" means Title 21, Part 820 of the United States Code of Federal Regulations (the FDA Quality System Regulation for medical device manufacturers).
+
+1.2 "Authorized User" means a physician, advanced practice provider, nurse, technician, researcher, administrator, or other workforce member of Customer or its Affiliates who is authorized by Customer to access and use the Platform in connection with Patient care, clinical operations, or research activities.
+
+1.3 "BAA" means the Business Associate Agreement attached hereto as Exhibit A.
+
+1.4 "Common Rule" means the Federal Policy for the Protection of Human Subjects, 45 C.F.R. Part 46.
+
+1.5 "Customer Data" means all electronic data, content, records, and information uploaded to, transmitted through, processed by, or stored within the Platform by or on behalf of Customer or any Authorized User, including without limitation Protected Health Information, Research Data, Patient-Reported Outcomes, and Wearable Device Data.
+
+1.6 "FDA" means the United States Food and Drug Administration.
+
+1.7 "HIPAA" means the Health Insurance Portability and Accountability Act of 1996, as amended by the Health Information Technology for Economic and Clinical Health Act ("HITECH"), and the regulations promulgated thereunder at 45 C.F.R. Parts 160 and 164.
+
+1.8 "NIH" means the National Institutes of Health.
+
+1.9 "NIH DMS Policy" means the NIH Data Management and Sharing Policy (NOT-OD-21-013), as the same may be supplemented or replaced from time to time.
+
+1.10 "Patient" means an individual receiving clinical care from Customer or participating in a research study conducted by Customer.
+
+1.11 "Platform" means Provider's hosted remote patient monitoring and telemedicine software-as-a-service platform, including the patient-facing mobile app, the clinician-facing dashboards, the wearable device integration layer, the video visit module, the asynchronous messaging module, the clinical decision support module, the population health Module, and any updates released by Provider during the Term. The Platform incorporates one or more components that are or may be regulated as Software as a Medical Device ("SaMD") by the FDA.
+
+1.12 "Protected Health Information" or "PHI" has the meaning set forth in 45 C.F.R. § 160.103.
+
+1.13 "Research Data" means data generated through clinical research conducted by Customer, including data subject to the NIH DMS Policy and Common Rule.
+
+1.14 "SaMD" means Software as a Medical Device, as defined by the International Medical Device Regulators Forum and as the term is used by the FDA.
+
+1.15 "Subprocessor" means any third party engaged by Provider to process Customer Data on Provider's behalf.
+
+1.16 "Wearable Device Data" means physiological measurements (heart rate, blood pressure, blood glucose, oxygen saturation, weight, activity level, sleep, electrocardiogram tracings, and similar measurements) collected from Patient wearable devices integrated with the Platform.
+
+ARTICLE 2 — SERVICES AND SUBSCRIPTION
+
+2.1 Provision of Services. Subject to the terms of this Agreement, Provider shall make the Platform available to Customer and the Authorized Users in accordance with this Agreement, the Service Level Agreement set forth in Article 6, the Documentation, the BAA, and the Data Use Agreement.
+
+2.2 License Grant. Provider hereby grants to Customer, during the Term, a non-exclusive, non-transferable, non-sublicensable right and license to access and use the Platform for (a) clinical care of Patients of Customer and its Affiliates, (b) clinical research conducted by Customer or its Affiliates, and (c) medical education activities of Customer.
+
+2.3 Use Restrictions. Customer shall not (a) modify or create derivative works based on the Platform; (b) reverse engineer the Platform except to the extent such restriction is prohibited by applicable law; (c) use the Platform to provide services to any unaffiliated healthcare provider; or (d) sublicense, sell, or otherwise commercially exploit access to the Platform.
+
+2.4 No Provider Suspension. Notwithstanding any provision of this Agreement to the contrary, and notwithstanding any provision of any standard Provider terms, Provider shall not suspend, throttle, or impair Customer's access to the Platform if such suspension would foreseeably affect Patient care, except in the case of a confirmed security incident requiring immediate action to protect Customer Data. In any such emergency suspension, Provider shall notify Customer's Chief Information Officer and Chief Medical Information Officer within two (2) hours of the action and shall restore service as soon as the cause is resolved.
+
+ARTICLE 3 — IMPLEMENTATION AND VALIDATION SERVICES
+
+3.1 Implementation Plan. Provider shall provide implementation services in accordance with a mutually agreed implementation plan. The plan shall address (a) integration with Customer's electronic health record system, (b) integration with Customer's identity provider, (c) configuration of the Platform to support Customer's clinical workflows, (d) validation of any SaMD components in accordance with Customer's clinical and quality requirements, and (e) training of Authorized Users.
+
+3.2 Validation of SaMD Components. The Parties acknowledge that the Platform contains components regulated as SaMD by the FDA. Provider shall provide Customer, prior to clinical go-live, with (a) the FDA classification, intended use, and indications for use of each SaMD component; (b) the clearance number of any SaMD component cleared under 510(k), the De Novo number of any SaMD component cleared under De Novo, or the PMA number of any SaMD component approved under PMA, as applicable; (c) the labeling of each SaMD component as cleared or approved by FDA; (d) installation qualification and operational qualification documentation for each SaMD component, including any documentation required to demonstrate compliance with 21 CFR Part 820; and (e) reasonable cooperation with Customer's clinical engineering and biomedical engineering teams in their performance qualification of each SaMD component in Customer's clinical environment.
+
+3.3 Implementation Fee. The implementation services shall be provided for a fee of {{IMPLEMENTATION_FEE}}, invoiced upon the milestones set forth in the implementation plan.
+
+3.4 Acceptance. Implementation shall be deemed complete upon Customer's written acceptance, which shall not be unreasonably withheld but which shall be conditioned upon (a) Provider's satisfaction of the acceptance criteria set forth in the implementation plan, (b) Customer's clinical leadership approval of any SaMD component for use in Patient care, and (c) sign-off by Customer's Privacy Officer and Information Security Officer on Provider's compliance with the BAA and Customer's information security policies.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Subscription Fees. Customer shall pay Provider an annual subscription fee of {{ANNUAL_FEE_AMOUNT}}, payable annually in advance on the first day of each Subscription Year.
+
+4.2 Funding Contingency. The Parties acknowledge that Customer is a non-profit academic medical center and that a portion of Customer's funding to support the use of the Platform may be derived from grants from NIH and other federal and state funding sources. In the event that Customer's funding is reduced, suspended, or terminated, Customer may, upon ninety (90) days' written notice, reduce the scope of the Subscription on a proportional basis, with a corresponding proportional reduction in the Subscription Fees, subject to good faith negotiation between the Parties.
+
+4.3 Payment Terms. All undisputed Subscription Fees shall be due and payable within sixty (60) days of receipt of invoice, in accordance with Customer's standard accounts payable cycle.
+
+4.4 Disputed Invoices. Customer may withhold payment of any disputed amount until the dispute is resolved. The Parties shall negotiate in good faith to resolve any dispute, and Customer shall pay any undisputed amounts in accordance with Section 4.3.
+
+4.5 Taxes. As a non-profit academic medical center, Customer is generally exempt from sales and use tax. Customer shall provide Provider with a valid exemption certificate upon request.
+
+ARTICLE 5 — TERM AND TERMINATION
+
+5.1 Initial Term. The initial term of this Agreement shall commence on the Effective Date and shall continue for a period of {{TERM_YEARS}} years, unless earlier terminated in accordance with Article 13.
+
+5.2 Renewal Terms. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive one (1) year renewal terms unless either Party provides written notice of non-renewal at least {{NOTICE_DAYS}} days prior to the expiration of the then-current term.
+
+5.3 Customer Termination for Convenience. Customer may terminate this Agreement for convenience at any time upon ninety (90) days' prior written notice. Customer shall be entitled to a refund of any prepaid Subscription Fees corresponding to the period after the effective date of termination.
+
+5.4 Fee Adjustments at Renewal. Provider may adjust the Subscription Fees for any renewal term by providing written notice at least one hundred eighty (180) days prior to the start of the renewal term. Any such adjustment shall not exceed three percent (3%) above the Subscription Fees in effect during the immediately preceding Subscription Year.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime Commitment. Provider shall make the Platform available with a Monthly Uptime Percentage of at least 99.95% during all hours, twenty-four hours per day, seven days per week, recognizing that Patient monitoring and telemedicine services may be required at any time.
+
+6.2 Service Credits. If Monthly Uptime Percentage falls below 99.95% in any calendar month, Customer shall be entitled to receive service credits, the amounts of which shall be set forth in the Service Level Exhibit. Service credits shall be in addition to, and not in lieu of, any other rights or remedies of Customer.
+
+6.3 Patient-Critical Incident Response. Provider shall use commercially reasonable efforts to acknowledge any Severity 1 incident affecting Patient care within fifteen (15) minutes and to provide a workaround within thirty (30) minutes. The Parties acknowledge that the failure of certain Platform components could pose a risk to Patient safety, and that such incidents shall be treated with the utmost urgency.
+
+6.4 SaMD-Specific Incidents. Any incident affecting an SaMD component of the Platform shall be reported by Provider to Customer's Chief Medical Information Officer and Chief Quality Officer within two (2) hours of Provider's discovery, regardless of severity. Provider shall cooperate with Customer's evaluation of whether the incident constitutes a reportable event under 21 C.F.R. Part 803 (Medical Device Reporting), and Provider shall make any required Medical Device Reports to FDA in its capacity as the manufacturer of the SaMD components.
+
+6.5 Maintenance Windows. Provider shall not perform scheduled maintenance during regular Patient care hours, defined as 6:00 a.m. to 10:00 p.m. local time at Customer's primary location, except with Customer's prior written consent.
+
+ARTICLE 7 — CUSTOMER DATA, PHI, AND RESEARCH DATA
+
+7.1 Ownership of Customer Data. As between the Parties, Customer shall retain all right, title, and interest in and to Customer Data, including all PHI, Research Data, Patient-Reported Outcomes, and Wearable Device Data.
+
+7.2 Business Associate Status. Provider is a "business associate" of Customer within the meaning of HIPAA. The BAA attached as Exhibit A governs Provider's handling of PHI. In the event of conflict between this Article 7 and the BAA with respect to PHI, the BAA shall control.
+
+7.3 Permitted Uses. Provider shall use and disclose Customer Data only as permitted by HIPAA, the BAA, this Agreement, the Data Use Agreement, and applicable law. Provider shall not use Customer Data for any other purpose, including without limitation (a) to train any artificial intelligence or machine learning model, (b) to develop any commercial product, (c) to contribute to any aggregated dataset for sale or licensing, (d) to support any clinical research conducted by Provider or any third party, or (e) to market any product or service to Patients. Customer Data shall not be de-identified by Provider for any purpose except as expressly permitted by Customer in writing.
+
+7.4 Research Data and the NIH DMS Policy. The Parties acknowledge that some Customer Data constitutes Research Data subject to the NIH DMS Policy, federal grant terms and conditions, and the Common Rule. Provider shall (a) cooperate with Customer in any data management and sharing plan submitted by Customer to NIH, (b) provide Customer with the technical means to extract and share Research Data in standard formats required by NIH-designated repositories, (c) not share Research Data with any third party other than as instructed by Customer in writing, and (d) maintain Research Data for the period required by the applicable federal grant or by the Common Rule, whichever is longer.
+
+7.5 SaMD Algorithm Transparency. Provider shall make available to Customer such documentation regarding the SaMD components of the Platform — including the intended use, the validation data set, the performance characteristics, and the limitations — as Customer reasonably requires for clinical decision-making, for IRB review of any research involving the SaMD components, and for response to any FDA inquiry. Provider shall not make any material change to an SaMD component (including any change that requires a new 510(k) submission under FDA's guidance on software changes to existing medical devices) without prior written notice to Customer and an opportunity for Customer to validate the change.
+
+7.6 Security Safeguards. Provider shall implement and maintain administrative, physical, and technical safeguards designed to comply with the HIPAA Security Rule (45 C.F.R. Part 164, Subpart C), the BAA, and the heightened expectations applicable to academic medical centers. Such safeguards shall include without limitation (a) encryption of Customer Data in transit using TLS 1.2 or higher; (b) encryption of Customer Data at rest using AES-256; (c) role-based access controls aligned with Customer's clinical workflow structure; (d) multi-factor authentication for all Authorized User access; (e) annual third-party penetration testing; (f) maintenance of HITRUST CSF certification or equivalent throughout the Term; and (g) a documented information security program reviewed annually.
+
+7.7 Breach Notification. Provider shall notify Customer's Privacy Officer in writing of any "Breach" of "Unsecured PHI" (as both terms are defined under 45 C.F.R. § 164.402) without unreasonable delay and in any event within twenty-four (24) hours of Provider's discovery. The notification shall include all information required by the BAA, and Provider shall provide regular updates at intervals no less frequent than daily until the incident is resolved. Provider shall reimburse Customer for the reasonable costs of HIPAA-required breach notifications, credit monitoring, and forensic investigation to the extent the breach was caused by Provider's breach of Article 7 or the BAA.
+
+7.8 Subprocessors. Provider shall not engage any Subprocessor to process PHI or Research Data without Customer's prior written approval. Provider shall maintain a list of approved Subprocessors at a Customer-accessible Customer Trust Portal. Customer may withhold approval of any Subprocessor on any reasonable ground.
+
+7.9 Data Residency. Provider shall store and process all Customer Data within data centers physically located in the contiguous United States, and shall not transfer Customer Data outside of the United States without Customer's prior written consent.
+
+7.10 Right to Audit. Once per calendar year (and additionally following any Security Incident or upon the request of any Regulator with jurisdiction over Customer), Customer or a third-party auditor engaged by Customer (under reasonable confidentiality obligations) shall have the right to audit Provider's compliance with this Article 7, the BAA, the Data Use Agreement, and applicable laws, upon at least sixty (60) days' prior written notice (or shorter notice as required by the circumstances).
+
+7.11 Regulator Cooperation. Provider shall cooperate fully with any audit, inquiry, or investigation by the U.S. Department of Health and Human Services Office for Civil Rights, the FDA, the NIH Office of Extramural Research, the Office for Human Research Protections, any state attorney general, or any other governmental authority with jurisdiction over Customer or its activities, in each case as such audit, inquiry, or investigation relates to Customer's use of the Platform.
+
+7.12 Data Return and Deletion. Upon expiration or termination of this Agreement, Provider shall, at Customer's election, (a) make Customer Data available for export by Customer in standard healthcare interoperability formats (HL7, FHIR, CCDA, DICOM as applicable) for a period of one hundred eighty (180) days at no additional charge; or (b) permanently delete Customer Data from Provider's production systems within thirty (30) days, with backup deletion to follow within ninety (90) days, in each case subject to Provider's right to retain Customer Data to the extent required by applicable law or by the FDA's recordkeeping requirements for SaMD.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Provider Intellectual Property. As between the Parties, Provider shall retain all right, title, and interest in and to the Platform, the Documentation, and all related Intellectual Property Rights, including the SaMD components.
+
+8.2 Customer Data and Research IP. Customer Data is and shall remain the exclusive property of Customer. Customer shall also retain all right, title, and interest in and to any research findings, scientific publications, derivative datasets, and intellectual property generated by Customer or its researchers using the Platform, regardless of whether such intellectual property was generated using Provider's tools or templates.
+
+8.3 NIH Bayh-Dole Compliance. The Parties acknowledge that any inventions made using federal funds may be subject to the Bayh-Dole Act (35 U.S.C. §§ 200-212) and applicable NIH grant terms. Nothing in this Agreement shall be construed to grant Provider any rights in any such Bayh-Dole subject invention.
+
+8.4 SaMD Improvements. Any improvements to the SaMD components of the Platform that Provider develops based on general lessons learned from operating the Platform across customers — and that do not incorporate any of Customer Data, any Customer-developed clinical workflow, or any Customer research output — shall belong to Provider. Improvements developed jointly by Provider and Customer shall be subject to a separate written agreement allocating IP ownership.
+
+8.5 Feedback. Customer or its Authorized Users may provide Provider with suggestions or feedback regarding the Platform. Customer hereby grants Provider a perpetual, irrevocable, royalty-free, worldwide license to use such feedback to improve the Platform, provided that Provider shall not use any Customer Data, Research Data, or Customer's name in connection with such use.
+
+8.6 No Implied Licenses. Except for the limited rights expressly granted, neither Party grants any rights or licenses to the other Party.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party shall (a) hold the other Party's Confidential Information in strict confidence; (b) use it solely for purposes of this Agreement; (c) not disclose it to any third party except to its employees, contractors, and advisors who have a legitimate need to know and who are bound by similar confidentiality obligations; and (d) protect it with at least reasonable care.
+
+9.2 Customer's Confidential Information. Customer's Confidential Information includes Customer Data, Research Data, Customer's clinical workflows and protocols, Customer's research strategies and unpublished findings, the existence and terms of this Agreement, and any information about regulatory inquiries received by Customer.
+
+9.3 Compelled Disclosure. The Receiving Party may disclose Confidential Information to the extent required by court order or applicable law, provided that the Receiving Party gives the Disclosing Party prompt notice (where legally permitted) and discloses only what is legally required.
+
+9.4 Survival. The obligations in this Article 9 shall survive any expiration or termination of this Agreement for a period of seven (7) years, except that obligations with respect to PHI, Research Data, and trade secrets shall survive for so long as such information remains protected under applicable law.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants that (a) it is duly organized and in good standing; (b) it has the corporate power and authority to enter into this Agreement; and (c) this Agreement constitutes a binding obligation enforceable against it in accordance with its terms.
+
+10.2 Provider Warranties. Provider represents, warrants, and covenants that during the Term: (a) the Platform shall perform substantially in accordance with the Documentation; (b) Provider shall not knowingly include any malicious code in the Platform; (c) Provider shall provide the Services in a professional and workmanlike manner consistent with the highest standards of the healthcare technology industry; (d) Provider shall comply with HIPAA, HITECH, the FDA's regulations applicable to SaMD (including 21 CFR Part 820 to the extent applicable), and all other applicable federal, state, and local laws; (e) Provider shall maintain all FDA clearances, approvals, or De Novo authorizations required for any SaMD component of the Platform throughout the Term; (f) Provider shall maintain HITRUST CSF certification (or Customer-approved equivalent) throughout the Term; and (g) Provider shall promptly notify Customer of any Regulator enforcement action, FDA Form 483 observation, FDA warning letter, or material change in Provider's regulatory status.
+
+10.3 Customer Warranties. Customer represents and warrants that (a) it has the right to upload Customer Data to the Platform; (b) it shall use the Platform in compliance with applicable laws; and (c) it shall obtain any necessary patient authorizations or research subject consents required by HIPAA and the Common Rule.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES IN THIS ARTICLE 10, THE PLATFORM IS PROVIDED "AS IS." PROVIDER DISCLAIMS ALL OTHER WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. NOTWITHSTANDING THE FOREGOING, PROVIDER DOES NOT DISCLAIM ANY EXPRESS WARRANTY MADE WITH RESPECT TO ANY SaMD COMPONENT OF THE PLATFORM AS PART OF FDA-CLEARED LABELING.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Provider IP Indemnity. Provider shall defend Customer against any third-party claim alleging that Customer's use of the Platform in accordance with this Agreement infringes any Intellectual Property Right of such third party, and Provider shall indemnify Customer for any damages, settlement amounts, and reasonable attorneys' fees finally awarded against Customer with respect to such claim.
+
+11.2 Provider Compliance Indemnity. Provider shall defend Customer against, and shall indemnify Customer for, any damages, regulatory fines, settlement amounts, and reasonable attorneys' fees finally awarded against Customer arising out of or relating to (a) any Breach of Unsecured PHI to the extent caused by Provider's breach of Article 7 or the BAA; (b) any failure by Provider to maintain HITRUST CSF certification (or Customer-approved equivalent) throughout the Term; (c) any failure by Provider to maintain FDA clearance, approval, or authorization for any SaMD component throughout the Term, where Customer suffers damages from such failure; (d) any failure by Provider to comply with the FDA's Medical Device Reporting requirements (21 C.F.R. Part 803) with respect to an SaMD component; or (e) any harm to a Patient caused by a defect in an SaMD component to the extent attributable to Provider's negligence or intentional misconduct.
+
+11.3 Customer Indemnity. Customer shall defend Provider against any third-party claim alleging that (a) Customer Data infringes any third-party right; (b) Customer's use of the Platform in violation of this Agreement caused damage to a third party; or (c) Customer's clinical practice using the Platform constitutes professional malpractice.
+
+11.4 Indemnification Procedure. The Party seeking indemnification shall (a) provide prompt written notice; (b) grant the indemnifying Party control over the defense and settlement (subject to a no-bad-settlement-without-consent right); and (c) provide reasonable cooperation at the indemnifying Party's expense.
+
+11.5 Mitigation. If the Platform becomes the subject of an infringement claim, Provider may, at its option, (a) procure for Customer the right to continue using the Platform, (b) modify the Platform to be non-infringing without materially diminishing functionality, (c) replace the Platform with a non-infringing equivalent, or (d) terminate this Agreement and refund a prorated portion of the prepaid Subscription Fees.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF SUBSCRIPTION FEES PAID OR PAYABLE BY CUSTOMER TO PROVIDER DURING THE {{LIABILITY_CAP_MONTHS}} MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOST REVENUE, LOST BUSINESS OPPORTUNITIES, OR LOSS OF DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT.
+
+12.3 Exceptions to Limitations. The limitations in Sections 12.1 and 12.2 shall not apply to (a) Provider's obligations under Article 11, including specifically the Provider Compliance Indemnity in Section 11.2; (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 or the BAA; (d) Customer's payment obligations; (e) any liability arising from a Party's gross negligence, willful misconduct, or fraud; (f) any harm to a Patient caused by a defect in an SaMD component to the extent attributable to Provider's negligence or intentional misconduct; or (g) any liability that, under applicable law, cannot be limited.
+
+12.4 Heightened Cap for Patient Harm and Compliance. Notwithstanding Section 12.1, with respect to any claim arising under Section 11.2(d), 11.2(e), or 12.3(f) (Patient harm or SaMD-related liability), the aggregate cap shall be the greater of (a) the cap in Section 12.1, or (b) Twenty-Five Million United States Dollars ($25,000,000), reflecting the Parties' acknowledgment of the heightened risks associated with software used in clinical care.
+
+12.5 Basis of the Bargain. The limitations of liability are an essential element of the bargain between the Parties.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Material Breach. Either Party may terminate this Agreement upon thirty (30) days' prior written notice if the other Party commits a material breach and fails to cure within the notice period. Customer shall be entitled to a refund of any prepaid Subscription Fees corresponding to the period after the effective date of termination.
+
+13.2 Termination for Loss of Compliance or Clearance. Customer may terminate this Agreement immediately upon written notice if (a) Provider loses HITRUST CSF certification and fails to remediate within ninety (90) days; (b) the FDA withdraws or rescinds the clearance, approval, or De Novo authorization of any SaMD component of the Platform; (c) Provider receives an FDA warning letter, consent decree, or other enforcement action that materially affects Provider's ability to perform under this Agreement; or (d) Provider becomes the subject of a final, non-appealable HIPAA enforcement action by HHS OCR.
+
+13.3 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice if the other Party becomes insolvent, makes a general assignment for the benefit of creditors, files a voluntary petition in bankruptcy, or has an involuntary petition filed against it that is not dismissed within thirty (30) days.
+
+13.4 Effects of Termination. Upon expiration or termination: (a) all rights and licenses granted hereunder shall continue during the Transition Period in Section 13.5; (b) Customer shall pay any undisputed amounts that have accrued; (c) each Party shall return or destroy the other Party's Confidential Information; (d) Provider shall make Customer Data available for export or shall delete it in accordance with Section 7.12; and (e) the provisions that by their nature are intended to survive termination shall so survive.
+
+13.5 Transition Period. Following any termination of this Agreement (other than termination by Provider for Customer's uncured failure to pay an undisputed amount), Provider shall continue to provide the Services to Customer for a transition period of up to twelve (12) months following the effective date of termination, at the rates in effect immediately prior to termination, to ensure continuity of Patient care. During the Transition Period, Provider shall provide Customer with reasonable transition assistance to facilitate Customer's migration to a successor system, including the export of Customer Data in standard healthcare interoperability formats.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to conflict-of-laws principles.
+
+14.2 Venue and Jurisdiction. Any action arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, and each Party irrevocably consents to the personal jurisdiction of such courts.
+
+14.3 Informal Dispute Resolution. Before initiating any litigation, the Parties shall attempt in good faith to resolve any dispute through direct negotiation between executives. If unresolved within thirty (30) days, either Party may proceed to litigation.
+
+14.4 Waiver of Jury Trial. EACH PARTY HEREBY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement, together with the BAA and the Data Use Agreement, constitutes the entire agreement between the Parties with respect to the subject matter hereof. Any standard Provider terms, online terms, or click-through agreements presented to Customer in the course of using the Platform are expressly rejected.
+
+15.2 Order of Precedence. This Agreement shall control over the Service Level Exhibit. The BAA shall control over this Agreement with respect to PHI. The Data Use Agreement shall control over this Agreement with respect to Research Data subject to the Common Rule or NIH grant terms.
+
+15.3 Amendments. No amendment shall be effective unless in writing executed by authorized representatives of both Parties.
+
+15.4 Severability. If any provision is held unenforceable, the remaining provisions shall continue in full force.
+
+15.5 Waiver. No failure or delay by either Party in exercising any right shall operate as a waiver thereof.
+
+15.6 Notices. All notices required or permitted under this Agreement shall be in writing and shall be delivered to the addresses set forth on a notices schedule mutually agreed by the Parties.
+
+15.7 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, which consent shall not be unreasonably withheld. Any assignment by Provider shall require Customer's prior written consent, including in connection with a merger or change of control.
+
+15.8 Force Majeure. Neither Party shall be liable for delays caused by events outside its reasonable control (other than payment obligations).
+
+15.9 Independent Contractors. The Parties are independent contractors. Nothing in this Agreement creates any healthcare provider-patient relationship between Provider and any Patient.
+
+15.10 No Third-Party Beneficiaries. No Patient, research subject, or other person shall have any rights under this Agreement. Patients retain all rights they have under HIPAA, the Common Rule, and applicable law.
+
+15.11 Counterparts. This Agreement may be executed in counterparts.
+
+15.12 Headings. Headings are for convenience only.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+{{CUSTOMER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:

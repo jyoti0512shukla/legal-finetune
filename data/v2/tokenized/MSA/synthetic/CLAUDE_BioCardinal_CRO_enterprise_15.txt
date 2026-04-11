@@ -1,0 +1,247 @@
+CLINICAL RESEARCH ORGANIZATION SERVICES AGREEMENT
+
+This Clinical Research Organization Services Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} (the "CRO"), having its principal place of business at {{PROVIDER_ADDRESS}}, and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} (the "Sponsor"), having its principal place of business at {{CUSTOMER_ADDRESS}}. The CRO and the Sponsor may each be referred to as a "Party" and collectively as the "Parties."
+
+The Parties acknowledge that the Sponsor is a pharmaceutical company that conducts clinical trials in the United States and other jurisdictions, and that the CRO is engaged to perform clinical research operations on the Sponsor's behalf. This Agreement is subject to the United States Food and Drug Administration's regulations governing clinical investigations (including 21 C.F.R. Parts 50, 54, 56, and 312), the principles of Good Clinical Practice (GCP) as set forth in the International Council for Harmonisation guideline ICH E6(R3), the Health Insurance Portability and Accountability Act of 1996 (HIPAA), the Common Rule, and applicable foreign clinical research laws. In the event of any conflict between this Agreement and any such law or regulation, the law or regulation shall control.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means any entity that directly or indirectly controls, is controlled by, or is under common control with another entity.
+
+1.2 "Background IP" means any Intellectual Property Rights owned or licensable by a Party prior to the Effective Date or independently developed outside of any Work Order.
+
+1.3 "Clinical Trial" means a research investigation involving human subjects designed to evaluate one or more biomedical interventions on health outcomes, sponsored by the Sponsor and conducted in accordance with applicable GCP principles.
+
+1.4 "GCP" means Good Clinical Practice as set forth in ICH E6(R3) and applicable national regulations.
+
+1.5 "ICF" means the informed consent form executed by each subject before participating in a Clinical Trial.
+
+1.6 "Investigational Product" means the drug, biologic, or device being studied in a Clinical Trial.
+
+1.7 "Investigator" means the physician or other qualified individual responsible for the conduct of a Clinical Trial at a particular site.
+
+1.8 "IRB" means the Institutional Review Board (or equivalent ethics committee) responsible for reviewing and approving a Clinical Trial.
+
+1.9 "Permitted Subcontractor" means any third-party subcontractor (such as a central laboratory, imaging vendor, or specialty CRO) approved by the Sponsor in writing to perform a portion of the Services on the CRO's behalf.
+
+1.10 "Protocol" means the clinical study protocol approved by the Sponsor and the IRB for a Clinical Trial.
+
+1.11 "Regulatory Authority" means the FDA and any analogous foreign regulatory authority with jurisdiction over the relevant Clinical Trial.
+
+1.12 "Services" means the clinical research operations services to be performed by the CRO for the Sponsor under one or more Work Orders, including without limitation Clinical Trial design support, site identification and selection, site management, monitoring, data management, biostatistics, medical writing, regulatory submissions support, and pharmacovigilance.
+
+1.13 "Site" means a physical location at which a Clinical Trial is conducted.
+
+1.14 "Trial Data" means all data and information generated in or arising from a Clinical Trial, including without limitation case report forms, source documents, laboratory results, imaging, electronic health records data, biological samples (where applicable), and pharmacovigilance reports.
+
+1.15 "Work Order" means a written work order executed by both Parties that describes a particular Clinical Trial or set of Services. Each Work Order shall reference and be governed by this Agreement.
+
+ARTICLE 2 — SCOPE OF SERVICES
+
+2.1 Engagement of Services. The CRO shall provide the Services described in each Work Order from time to time during the Term.
+
+2.2 Work Orders. Each Work Order shall specify (a) the Clinical Trial(s) involved; (b) the scope of the Services; (c) the Protocol; (d) the deliverables; (e) the timeline and milestones; (f) the budget and Fees; (g) the Sponsor-approved Permitted Subcontractors; (h) the Sites and Investigators; and (i) any project-specific terms.
+
+2.3 Order of Precedence. In the event of any conflict between this Agreement and a Work Order, this Agreement shall control as to the matters expressly addressed, except where the Work Order expressly modifies as it applies to the relevant Clinical Trial. Applicable law and regulation control over both this Agreement and any Work Order.
+
+2.4 Standard of Performance. The CRO shall perform the Services in accordance with (a) the Protocol; (b) GCP and applicable Regulatory Authority guidance; (c) the CRO's standard operating procedures; (d) the standards of the clinical research industry; and (e) all applicable laws.
+
+2.5 Sponsor Direction. The Sponsor retains overall responsibility for the design, conduct, and supervision of each Clinical Trial. The CRO shall act under the Sponsor's direction and shall escalate to the Sponsor any material decisions affecting the Protocol, the Investigators, the Sites, or subject safety.
+
+2.6 No Subcontracting Without Sponsor Approval. The CRO shall not engage any Permitted Subcontractor without the Sponsor's prior written approval. The Sponsor may withhold approval in its sole discretion. The CRO shall remain primarily responsible for the performance of any Permitted Subcontractor and shall flow down to each Permitted Subcontractor all relevant obligations of this Agreement.
+
+ARTICLE 3 — DELIVERABLES AND ACCEPTANCE
+
+3.1 Delivery. The CRO shall deliver each deliverable in accordance with the schedule and in the format set forth in the applicable Work Order.
+
+3.2 Acceptance Period. The Sponsor shall have a period of twenty (20) business days following delivery of each deliverable to review the deliverable and notify the CRO in writing of acceptance or rejection. Rejection shall be accompanied by a detailed description of the alleged non-conformity.
+
+3.3 Cure of Non-Conformity. The CRO shall correct rejected deliverables at no additional charge within fifteen (15) business days. After two (2) cycles of cure, the Sponsor may, at its option, (a) accept the deliverable with an equitable Fee reduction, (b) terminate the affected Work Order, or (c) require the CRO to engage at the CRO's expense a third party reasonably acceptable to the Sponsor to complete the deliverable.
+
+3.4 No Deemed Acceptance. There shall be no deemed acceptance of any deliverable.
+
+3.5 Regulatory-Quality Deliverables. Where a deliverable will be submitted to a Regulatory Authority, the CRO shall ensure that the deliverable meets the quality standards required for regulatory submission and is consistent with the Protocol and GCP.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Fees. The Sponsor shall pay the CRO the Fees set forth in each Work Order. Fees may be calculated on a fixed-fee, milestone-based, time-and-materials, or pass-through basis as set forth in the Work Order.
+
+4.2 Annual Aggregate Reference. The aggregate annual Fees payable by the Sponsor across all then-active Work Orders as of the Effective Date is approximately {{ANNUAL_FEE_AMOUNT}}, included for reference only.
+
+4.3 Pass-Through Costs. The Sponsor shall reimburse the CRO for pass-through costs (such as Site investigator fees, IRB fees, central laboratory fees, and patient stipends) at cost, accompanied by reasonable documentation. The Sponsor's prior written approval shall be required for any pass-through cost in excess of the budget set forth in the Work Order.
+
+4.4 Change Orders. Any change to the scope, Protocol, schedule, or Fees set forth in a Work Order shall be documented in a written change order signed by both Parties. The Parties acknowledge that Protocol amendments are common in clinical research and shall be reflected in change orders that adjust the Fees and timeline as appropriate.
+
+4.5 Invoicing. The CRO shall invoice the Sponsor monthly in arrears for Services performed and pass-through costs incurred, subject to any milestone-based or fixed-fee provisions in the Work Order.
+
+4.6 Payment Terms. All undisputed invoices shall be due and payable within forty-five (45) days of the date of invoice.
+
+4.7 Disputed Invoices. The Sponsor may withhold payment of any disputed amount until the dispute is resolved.
+
+4.8 Audit Right. The Sponsor shall have the right, upon at least thirty (30) days' prior written notice, to audit the CRO's records for any Services billed on a time-and-materials basis or any pass-through costs.
+
+4.9 Taxes. Fees are exclusive of all taxes other than taxes imposed on the CRO's net income.
+
+ARTICLE 5 — TERM AND TERMINATION
+
+5.1 Initial Term. This Agreement shall commence on the Effective Date and shall continue for a period of {{TERM_YEARS}} years, unless earlier terminated in accordance with Article 13.
+
+5.2 Renewal. This Agreement shall automatically renew for successive one (1) year renewal terms unless either Party provides written notice of non-renewal at least {{NOTICE_DAYS}} days prior to the expiration of the then-current term.
+
+5.3 Sponsor Termination for Convenience. The Sponsor may terminate this Agreement, or any Work Order, for convenience at any time upon thirty (30) days' prior written notice. Upon termination for convenience, the Sponsor shall pay the CRO for all Services performed and pass-through costs incurred through the effective date of termination, plus any non-cancellable third-party commitments.
+
+ARTICLE 6 — KEY PERSONNEL AND STAFFING
+
+6.1 Key Personnel. Each Work Order shall identify the Key Personnel of the CRO assigned to the Clinical Trial, including the project manager, the lead clinical research associate, and the responsible biostatistician.
+
+6.2 No Replacement Without Consent. The CRO shall not replace any Key Personnel without the Sponsor's prior written consent except in case of death, disability, or departure from the CRO. In any such case, the CRO shall propose a replacement of comparable qualifications within ten (10) business days.
+
+6.3 Removal on Sponsor Request. The Sponsor may, at any time, request that the CRO remove any individual personnel from the Clinical Trial. The CRO shall comply within five (5) business days.
+
+6.4 GCP Training. The CRO shall ensure that all personnel performing the Services have completed GCP training appropriate to their role and have read the Protocol.
+
+6.5 Investigator Selection. The CRO shall recommend Investigators to the Sponsor based on the criteria set forth in the Work Order. The Sponsor retains the right to approve or reject any proposed Investigator and to terminate any Investigator's involvement in the Clinical Trial.
+
+ARTICLE 7 — TRIAL DATA, SUBJECT PRIVACY, AND REGULATORY COMPLIANCE
+
+7.1 Ownership of Trial Data. As between the Parties, the Sponsor shall retain all right, title, and interest in and to all Trial Data, including all case report forms, source documents, laboratory results, imaging, electronic data, biological samples (subject to the consent obtained from each subject), and any other data generated in or arising from the Clinical Trial.
+
+7.2 Permitted Uses. The CRO shall use Trial Data solely as necessary to perform the Services. The CRO shall not (a) use Trial Data for any other purpose; (b) sell, lease, or rent Trial Data; (c) use Trial Data to train any machine learning model or for any commercial product; (d) publish any results from the Trial Data without the Sponsor's prior written consent; or (e) disclose Trial Data to any third party except as expressly permitted herein.
+
+7.3 21 CFR Part 11 Compliance. To the extent the CRO uses electronic systems to capture, store, or process Trial Data, the CRO shall ensure that such systems comply with 21 CFR Part 11 (Electronic Records; Electronic Signatures), including validation, audit trails, electronic signatures, and access controls.
+
+7.4 HIPAA. To the extent the Trial Data includes Protected Health Information from United States subjects, the CRO is a "business associate" of the Sponsor under HIPAA, and the Business Associate Agreement attached as Exhibit A governs the CRO's handling of PHI.
+
+7.5 Subject Consent. The CRO shall ensure that each Investigator obtains and documents informed consent from each subject in accordance with 21 C.F.R. Part 50 and applicable IRB requirements. The CRO shall not disclose subject identifiable information except to the Sponsor, the Regulatory Authorities, the IRB, and other authorized parties.
+
+7.6 Pharmacovigilance and Adverse Event Reporting. The CRO shall conduct pharmacovigilance activities in accordance with the Protocol and applicable Regulatory Authority requirements. The CRO shall report serious adverse events and suspected unexpected serious adverse reactions to the Sponsor without delay and within the timeframes required by the applicable regulatory framework.
+
+7.7 Regulatory Inspections. The CRO shall cooperate fully with any FDA inspection, foreign Regulatory Authority inspection, Sponsor audit, or IRB inspection of the CRO's facilities, records, or systems related to the Clinical Trial.
+
+7.8 Sponsor Audit Right. The Sponsor shall have the right, upon at least thirty (30) days' prior written notice (or shorter notice in case of a regulatory inspection or for-cause audit), to audit the CRO's compliance with this Agreement, GCP, and applicable laws.
+
+7.9 Data Security. The CRO shall implement and maintain administrative, physical, and technical safeguards designed to protect Trial Data, including encryption in transit (TLS 1.2 or higher) and at rest (AES-256), role-based access controls, multi-factor authentication, annual third-party penetration testing, and a documented information security program.
+
+7.10 Breach Notification. The CRO shall notify the Sponsor of any actual or reasonably suspected unauthorized access to or disclosure of Trial Data within twenty-four (24) hours of discovery, with regular updates until the incident is resolved.
+
+7.11 Cross-Border Data Transfer. To the extent the Clinical Trial involves the transfer of personal data across borders, the CRO shall comply with all applicable cross-border transfer requirements (including the EU Standard Contractual Clauses where applicable).
+
+7.12 Return of Trial Data. Upon completion of the relevant Clinical Trial or upon the Sponsor's earlier written request, the CRO shall transfer all Trial Data to the Sponsor in the format and on the timeline specified by the Sponsor, and shall destroy all copies of Trial Data in its possession (except as required by law for the CRO's records retention obligations).
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Background IP. As between the Parties, each Party shall retain all right, title, and interest in and to its respective Background IP. The CRO's Background IP includes the CRO's project management methodologies, electronic data capture system, biostatistical software, monitoring tools, and proprietary databases.
+
+8.2 Sponsor Ownership of Trial Data and Inventions. The Sponsor shall own all Trial Data, all inventions arising from the Clinical Trial that relate to the Investigational Product or its use, all data analyses related to the Investigational Product, and all results of the Clinical Trial. The CRO hereby irrevocably assigns to the Sponsor all right, title, and interest in and to any such intellectual property created in the course of performing the Services. The CRO shall ensure that all of its personnel and Permitted Subcontractors have executed agreements sufficient to vest the rights necessary to make such assignment.
+
+8.3 License to Background IP. To the extent any deliverable incorporates the CRO's Background IP, the CRO hereby grants the Sponsor a perpetual, irrevocable, non-exclusive, royalty-free license to use such Background IP solely as embedded in the deliverable.
+
+8.4 Publication Rights. The Sponsor retains the exclusive right to publish or to authorize publication of the results of any Clinical Trial. The CRO shall not publish or present any Trial Data or results without the Sponsor's prior written consent. Investigators may publish only in accordance with the publication provisions of the Investigator Agreement, which the CRO shall negotiate at the Sponsor's direction.
+
+8.5 No Implied Licenses. Except for the limited rights expressly granted in this Article 8, neither Party grants any rights or licenses to the other Party.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party shall hold the other Party's Confidential Information in strict confidence, use it solely for purposes of this Agreement, share it only with personnel and Permitted Subcontractors who have a need to know and are bound by similar confidentiality obligations, and protect it with at least reasonable care.
+
+9.2 Sponsor's Confidential Information. The Sponsor's Confidential Information includes all Trial Data, the Protocol, the Investigational Product information, the Sponsor's drug development plans, the Sponsor's regulatory strategy, and any information about the Sponsor's interactions with Regulatory Authorities.
+
+9.3 Compelled Disclosure. The Receiving Party may disclose Confidential Information to the extent required by law, court order, or regulator with examination authority, provided that the Receiving Party gives the Disclosing Party prompt written notice (where legally permitted).
+
+9.4 Survival. The obligations in this Article 9 shall survive any expiration or termination of this Agreement for a period of seven (7) years, except that obligations with respect to Trial Data, the Protocol, and trade secrets shall survive for so long as such information remains protected under applicable law.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants that it is duly organized and in good standing, has the corporate authority to enter into this Agreement, and that this Agreement constitutes a binding obligation enforceable against it.
+
+10.2 CRO Warranties. The CRO represents, warrants, and covenants that (a) the Services shall be performed in accordance with GCP, the Protocol, and the highest standards of the clinical research industry; (b) the CRO and its personnel are duly qualified and have the necessary expertise to perform the Services; (c) the CRO shall comply with FDA regulations (21 C.F.R. Parts 50, 54, 56, 312), ICH E6(R3) GCP, HIPAA, the Common Rule, and other applicable laws; (d) neither the CRO nor any of its personnel is currently debarred or excluded under 21 U.S.C. § 335a or under any analogous foreign regulation; (e) the CRO shall maintain professional liability insurance coverage of not less than Ten Million United States Dollars ($10,000,000) per claim; and (f) the CRO shall promptly notify the Sponsor of any FDA Form 483, FDA warning letter, or other Regulatory Authority enforcement action against the CRO.
+
+10.3 Sponsor Warranties. The Sponsor represents and warrants that (a) it has the right to engage the CRO for the Services and (b) the Investigational Product complies with all applicable requirements for clinical investigation under FDA regulations.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS ARTICLE 10, THE SERVICES ARE PROVIDED ON AN "AS IS" BASIS. THE CRO DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED. THE CRO DOES NOT WARRANT ANY SPECIFIC CLINICAL OUTCOME, ANY SPECIFIC REGULATORY OUTCOME, OR ANY SPECIFIC TIMING.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 CRO Indemnity. The CRO shall defend the Sponsor against any third-party claim arising from (a) the CRO's negligent acts or omissions in performing the Services; (b) the CRO's breach of GCP, the Protocol, FDA regulations, or other applicable healthcare laws; (c) any unauthorized disclosure of Trial Data by the CRO in violation of Article 7; or (d) the placement of any debarred or excluded individual on the Clinical Trial.
+
+11.2 Sponsor Indemnity. The Sponsor shall defend the CRO against any third-party claim arising from (a) the Investigational Product itself (including product liability claims by subjects or their representatives); (b) the Protocol design as approved by the Sponsor; or (c) the Sponsor's instructions to the CRO.
+
+11.3 Indemnification Procedure. The Party seeking indemnification shall provide prompt written notice, grant the indemnifying Party control over the defense and settlement (subject to a no-bad-settlement-without-consent right), and provide reasonable cooperation at the indemnifying Party's expense.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT OR ANY WORK ORDER, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL FEES PAID OR PAYABLE BY THE SPONSOR TO THE CRO UNDER THE AFFECTED WORK ORDER DURING THE {{LIABILITY_CAP_MONTHS}} MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, ARISING OUT OF OR RELATED TO THIS AGREEMENT.
+
+12.3 Exceptions to Limitations. The limitations in Sections 12.1 and 12.2 shall not apply to (a) the CRO's obligations under Article 11; (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Trial Data, Subject Privacy, and Regulatory Compliance); (d) the Sponsor's payment obligations; (e) any liability arising from a Party's gross negligence, willful misconduct, or fraud; (f) any liability arising from the placement of a debarred or excluded individual on the Clinical Trial; (g) any liability arising from the CRO's violation of FDA regulations or GCP; or (h) any liability that, under applicable law, cannot be limited.
+
+12.4 Heightened Cap for Compliance and Subject Safety. Notwithstanding Section 12.1, with respect to any claim arising under Section 11.1(b), 11.1(c), or 11.1(d), the aggregate cap shall be the greater of (a) the cap in Section 12.1, or (b) Twenty Million United States Dollars ($20,000,000), reflecting the regulatory and patient safety risks of clinical research.
+
+12.5 Basis of the Bargain. The limitations of liability are an essential element of the bargain between the Parties.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Material Breach. Either Party may terminate this Agreement, or any Work Order, upon thirty (30) days' prior written notice if the other Party commits a material breach and fails to cure within the notice period.
+
+13.2 Termination for Loss of Compliance. The Sponsor may terminate this Agreement immediately upon written notice if (a) the CRO is debarred or excluded under 21 U.S.C. § 335a or under any analogous foreign regulation; (b) the CRO becomes the subject of a final, non-appealable FDA enforcement action that materially affects its ability to perform under this Agreement; (c) the CRO loses any required regulatory registration or qualification; or (d) the CRO materially breaches GCP or the Protocol and fails to cure such breach within fifteen (15) days.
+
+13.3 Termination for Subject Safety. The Sponsor may terminate this Agreement, any Work Order, or any specific Site immediately upon written notice if the Sponsor reasonably determines that continuation poses an unreasonable risk to subject safety.
+
+13.4 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice if the other Party becomes insolvent or files for bankruptcy.
+
+13.5 Effects of Termination. Upon termination: (a) the CRO shall promptly cease performance of the Services; (b) the CRO shall transfer all Trial Data to the Sponsor in accordance with Section 7.12; (c) the CRO shall return Sponsor Confidential Information; (d) the Sponsor shall pay the CRO for all Services performed and pass-through costs incurred through the effective date of termination plus non-cancellable commitments; and (e) the provisions that by their nature are intended to survive shall so survive.
+
+13.6 Wind-Down Assistance. Following termination, the CRO shall provide reasonable wind-down assistance to ensure the orderly transfer of the Clinical Trial to a successor CRO or to the Sponsor's in-house team, including the transfer of Trial Data, the transition of Site relationships, and reasonable knowledge transfer.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to its conflict-of-laws principles.
+
+14.2 Venue and Jurisdiction. Any action arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+14.3 Informal Dispute Resolution. Before initiating any litigation, the Parties shall attempt in good faith to resolve any dispute through direct negotiation between executives.
+
+14.4 Waiver of Jury Trial. EACH PARTY HEREBY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement, together with the BAA and all Work Orders, constitutes the entire agreement between the Parties.
+
+15.2 Amendments. No amendment shall be effective unless in writing executed by both Parties.
+
+15.3 Severability. If any provision is held to be unenforceable, the remaining provisions shall continue in full force.
+
+15.4 Waiver. No failure or delay in exercising any right shall operate as a waiver thereof.
+
+15.5 Notices. Formal notices shall be in writing and delivered to the addresses set forth in the applicable Work Order.
+
+15.6 Independent Contractors. The CRO is an independent contractor of the Sponsor. Nothing in this Agreement creates any joint venture or agency relationship.
+
+15.7 Subcontractors. As provided in Section 2.6.
+
+15.8 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party.
+
+15.9 Force Majeure. Neither Party shall be liable for delays caused by events outside its reasonable control (other than payment obligations).
+
+15.10 No Third-Party Beneficiaries. No subject or Investigator shall have any rights under this Agreement.
+
+15.11 Counterparts. This Agreement may be executed in counterparts.
+
+15.12 Headings. Headings are for convenience of reference only.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+{{CUSTOMER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Medical Officer
+Date:

@@ -1,0 +1,85 @@
+{
+  "source_file": "CLAUDE_ModelForge_AI_Platform_mid_market_18.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "ModelForge AI, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "1500 Folsom Street, 4th Floor, San Francisco, California 94103",
+    "CUSTOMER_NAME": "Sentry Insurance Analytics, Inc.",
+    "CUSTOMER_STATE": "Wisconsin",
+    "CUSTOMER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_ADDRESS": "2200 North Stevens Point Road, Stevens Point, Wisconsin 54481",
+    "EFFECTIVE_DATE": "October 14, 2024",
+    "GOVERNING_LAW_STATE": "California",
+    "VENUE_COUNTY": "San Francisco County",
+    "VENUE_CITY": "San Francisco",
+    "ANNUAL_FEE_AMOUNT": "Two Hundred Forty Thousand United States Dollars ($240,000)",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "ninety (90)",
+    "IMPLEMENTATION_FEE": "Forty Thousand United States Dollars ($40,000)"
+  },
+  "replacements_made": {
+    "PROVIDER_ADDRESS": {
+      "original": "1500 Folsom Street, 4th Floor, San Francisco, California 94103",
+      "occurrences": 2
+    },
+    "CUSTOMER_ADDRESS": {
+      "original": "2200 North Stevens Point Road, Stevens Point, Wisconsin 54481",
+      "occurrences": 2
+    },
+    "ANNUAL_FEE_AMOUNT": {
+      "original": "Two Hundred Forty Thousand United States Dollars ($240,000)",
+      "occurrences": 1
+    },
+    "IMPLEMENTATION_FEE": {
+      "original": "Forty Thousand United States Dollars ($40,000)",
+      "occurrences": 1
+    },
+    "CUSTOMER_NAME": {
+      "original": "Sentry Insurance Analytics, Inc.",
+      "occurrences": 2
+    },
+    "VENUE_COUNTY": {
+      "original": "San Francisco County",
+      "occurrences": 1
+    },
+    "PROVIDER_NAME": {
+      "original": "ModelForge AI, Inc.",
+      "occurrences": 2
+    },
+    "EFFECTIVE_DATE": {
+      "original": "October 14, 2024",
+      "occurrences": 1
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 2
+    },
+    "LIABILITY_CAP_MONTHS": {
+      "original": "twelve (12)",
+      "occurrences": 1
+    },
+    "NOTICE_DAYS": {
+      "original": "ninety (90)",
+      "occurrences": 4
+    },
+    "GOVERNING_LAW_STATE": {
+      "original": "California",
+      "occurrences": 2
+    },
+    "CUSTOMER_STATE": {
+      "original": "Wisconsin",
+      "occurrences": 1
+    },
+    "PROVIDER_STATE": {
+      "original": "Delaware",
+      "occurrences": 1
+    },
+    "TERM_YEARS": {
+      "original": "two (2)",
+      "occurrences": 1
+    }
+  },
+  "total_substitutions": 24
+}

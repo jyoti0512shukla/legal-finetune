@@ -1,0 +1,316 @@
+{
+  "type": "MSA",
+  "task": "drafting",
+  "total_examples": 100,
+  "total_contracts": 25,
+  "per_clause_type_counts": {
+    "intellectual_property": 25,
+    "limitation_of_liability": 25,
+    "termination": 25,
+    "confidentiality": 21,
+    "data_privacy": 3,
+    "service_level": 1
+  },
+  "contracts": [
+    {
+      "template": "CLAUDE_ApexBeacon_GeneralConsulting_mid_market_09",
+      "industry": "general_consulting",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_BioCardinal_CRO_enterprise_15",
+      "industry": "contract_research_organization",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_BrightTrail_GrowthMarketing_mid_market_25",
+      "industry": "growth_marketing",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_CapstoneAudit_Big4Audit_enterprise_04",
+      "industry": "financial_audit",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_DefenseCorp_PrimeSubcontract_enterprise_16",
+      "industry": "federal_research_subcontract",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_ForgeBuild_CustomDev_mid_market_18",
+      "industry": "custom_software_development",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_GlobalSphere_ITServices_enterprise_02",
+      "industry": "it_services",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_KingstoneAdvisory_MnA_enterprise_07",
+      "industry": "investment_banking_advisory",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_LingoBridge_Translation_mid_market_10",
+      "industry": "translation_localization",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_LumenBrand_MarketingAgency_mid_market_17",
+      "industry": "marketing_agency",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_MercerHealthStaffing_LocumsServices_enterprise_12",
+      "industry": "healthcare_staffing",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_MeridianHealthAdvisors_HospitalConsulting_enterprise_06",
+      "industry": "healthcare_consulting",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_NeuralForge_AIConsulting_mid_market_23",
+      "industry": "ai_ml_consulting",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_NorthernLedger_AccountingAdvisory_mid_market_13",
+      "industry": "accounting_tax_advisory",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_Northform_BrandStudio_smb_24",
+      "industry": "brand_design_studio",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_NorthwoodCounsel_LegalServices_enterprise_03",
+      "industry": "legal_services",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_PatriotIT_FederalContractor_enterprise_08",
+      "industry": "federal_it_services",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_PinnacleAdvisory_Strategy_enterprise_01",
+      "industry": "management_consulting",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_PixelHaven_DesignPlatform_smb_21",
+      "industry": "design_talent_platform",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_PrismData_AnalyticsConsulting_mid_market_11",
+      "industry": "data_analytics_consulting",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "data_privacy"
+      ]
+    },
+    {
+      "template": "CLAUDE_SignalPath_UXResearch_mid_market_19",
+      "industry": "ux_research",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_SterlingRisk_BankAdvisory_enterprise_14",
+      "industry": "bank_risk_advisory",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_SwiftHire_FreelancePlatform_smb_20",
+      "industry": "freelance_marketplace",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_TalentWire_RecruiterPlatform_smb_22",
+      "industry": "contract_recruiter_platform",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_ZenithBPO_ContactCenter_enterprise_05",
+      "industry": "bpo_contact_center",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "intellectual_property",
+        "limitation_of_liability",
+        "termination",
+        "service_level"
+      ]
+    }
+  ]
+}

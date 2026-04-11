@@ -1,0 +1,234 @@
+BRIGHTSTEP LEARNING — SCHOOL SUBSCRIPTION AGREEMENT
+
+This is the BrightStep Learning School Subscription Agreement (the "Agreement"). It is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} with its office at {{PROVIDER_ADDRESS}} ("we" or "BrightStep"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_ENTITY_TYPE}} with its administrative office at {{CUSTOMER_ADDRESS}} ("you" or "the District"). This Agreement starts on {{EFFECTIVE_DATE}} (the "Start Date").
+
+We provide a K-8 reading and math practice platform. You want to use it for your students. This Agreement explains the deal.
+
+ARTICLE 1 — DEFINITIONS
+
+We tried to keep defined terms to a minimum. Most terms are defined inline where they first appear. The terms below show up often enough that we collected them here.
+
+1.1 "BrightStep Platform" means our cloud-based reading and math practice software, including the teacher dashboard, the student app, the parent portal, and any updates we release during the Term.
+
+1.2 "Order Form" means the document that lists the schools, the number of students, the price, and the Start Date for your subscription. The first Order Form is attached as Exhibit A. Future Order Forms can add schools or students.
+
+1.3 "Student Data" means any information about a student that you upload to the BrightStep Platform or that the BrightStep Platform collects from a student while they are using it. Student Data includes student names, grade levels, login IDs, reading scores, math scores, time-on-task data, and any other information that is "education records" under FERPA or "personal information" of a child under COPPA.
+
+1.4 "Authorized User" means a teacher, administrator, or student that you authorize to use the BrightStep Platform.
+
+1.5 "FERPA" means the Family Educational Rights and Privacy Act, 20 U.S.C. § 1232g.
+
+1.6 "COPPA" means the Children's Online Privacy Protection Act, 15 U.S.C. § 6501 et seq.
+
+1.7 "{{CUSTOMER_STATE}} Student Data Laws" means the {{CUSTOMER_STATE}} Student Online Personal Information Protection Act (Cal. Bus. & Prof. Code § 22584, "SOPIPA") and Assembly Bill 1584 (Cal. Educ. Code § 49073.1).
+
+ARTICLE 2 — SUBSCRIPTION AND LICENSE
+
+2.1 What you get. We give you a non-exclusive, non-transferable right to use the BrightStep Platform during the Term for the schools, students, and teachers listed on the Order Form. You can use the BrightStep Platform for any educational purpose tied to your curriculum.
+
+2.2 Who can use it. You can let teachers, administrators, students, and (if a parent has given the necessary consent) parents use the BrightStep Platform. You are responsible for making sure they only use it for school purposes and follow your acceptable use policies.
+
+2.3 What you cannot do. You agree not to (a) sell, sublicense, or rent the BrightStep Platform to anyone else; (b) try to copy or reverse engineer the software; (c) use it to build something that competes with us; or (d) remove our copyright or trademark notices.
+
+2.4 If we need to suspend access. If we have a serious security concern or if you have not paid an undisputed invoice for more than thirty (30) days after we send a written reminder, we can suspend access. We will give you as much notice as we reasonably can. We will turn access back on once the issue is resolved. We will not suspend access during the last two weeks of any school grading period unless there is a real security emergency.
+
+ARTICLE 3 — IMPLEMENTATION AND ONBOARDING
+
+3.1 Setup. We will set up the BrightStep Platform for you within thirty (30) days of the Start Date. Setup includes creating accounts for your teachers, importing your school roster from your student information system, configuring single sign-on, and running a 90-minute training session for each school's lead teacher.
+
+3.2 Setup fee. The one-time setup fee is {{IMPLEMENTATION_FEE}}, invoiced when this Agreement is signed and due within thirty (30) days.
+
+3.3 Your part. You agree to give us a clean roster file in the format we ask for, designate a project lead at each school, and respond to onboarding questions within five (5) business days. If onboarding gets delayed because we are waiting on you, we are not responsible for that delay.
+
+3.4 Done. Onboarding is "done" when each school's lead teacher confirms in writing (email is fine) that they can log in, see their roster, and run a sample assignment.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Subscription fee. You pay an annual subscription fee of {{ANNUAL_FEE_AMOUNT}} for the right to enroll up to four thousand five hundred (4,500) students across the schools listed on the Order Form. We invoice the subscription fee once per year, payable thirty (30) days after the invoice date.
+
+4.2 Net 30 with school district timing. We understand that school districts pay on warrant cycles. If your warrant cycle is longer than thirty (30) days, tell us at signature and we will adjust the payment terms in writing.
+
+4.3 Adding students mid-year. If you go above 4,500 enrolled students, we charge thirty United States Dollars ($30) per extra student per year. We do not unenroll students automatically — we send you a notice at the end of each quarter showing your enrollment count.
+
+4.4 Renewal pricing. We can adjust the annual fee at renewal. We will not raise the per-student price by more than five percent (5%) above the prior year, and we will give you written notice at least one hundred twenty (120) days before the renewal starts so you have time to budget.
+
+4.5 Taxes. Public school districts in {{CUSTOMER_STATE}} are generally tax-exempt. You will give us your exemption certificate when this Agreement is signed. If a tax later applies, we will invoice it separately and you will pay it.
+
+4.6 Disputed invoices. If you think an invoice is wrong, tell us in writing within thirty (30) days. We will work it out together. You should pay the parts you do not dispute on time.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Initial Term. This Agreement runs for {{TERM_YEARS}} years from the Start Date.
+
+5.2 Renewal. After the Initial Term, this Agreement automatically renews for one (1) year terms unless either side gives written notice that it does not want to renew at least {{NOTICE_DAYS}} days before the current term ends.
+
+5.3 Termination for convenience by you. You can terminate this Agreement at the end of any school year for any reason by giving us written notice at least {{NOTICE_DAYS}} days before the end of the school year. We will refund any prepaid fees for the time after the termination date.
+
+5.4 No early termination by us for convenience. We cannot terminate this Agreement for convenience during the Initial Term or any renewal term. We can only terminate for the reasons listed in Article 13.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime. We aim for the BrightStep Platform to be available at least 99.5% of the time during the school year (defined as August 15 through June 15). Uptime is measured by the minute. We do not promise uptime during the summer break period; we use that time for upgrades.
+
+6.2 What does not count as downtime. Scheduled maintenance announced at least 48 hours in advance, downtime caused by your network or your single sign-on provider, downtime caused by a force majeure event, and downtime caused by you using the BrightStep Platform in a way we did not approve.
+
+6.3 If we miss the SLA. If our uptime drops below 99.5% in any school month, you get a service credit equal to ten percent (10%) of one twelfth (1/12) of the annual subscription fee. The credit is applied to your next invoice. This is the only money remedy you get for an SLA miss. If we miss the SLA for two months in a row during the school year, you can terminate this Agreement for cause without any further notice and we will refund the prepaid portion.
+
+6.4 Support hours. We answer email support questions Monday through Friday, 6:00 a.m. to 6:00 p.m. Pacific Time, excluding federal holidays. We aim to give a substantive first response within four (4) business hours. For Severity 1 issues (BrightStep Platform completely down for everyone), we have an after-hours pager with a one (1) hour response target.
+
+6.5 Maintenance. We do routine maintenance on Sundays from 11:00 p.m. to 3:00 a.m. Pacific Time. We will give 72 hours notice for any other planned maintenance.
+
+ARTICLE 7 — STUDENT DATA AND PRIVACY
+
+This is the most important article in this Agreement, so we kept the language plain. If anything in this Article 7 conflicts with anything elsewhere in the Agreement, this Article 7 wins.
+
+7.1 You own Student Data. The District owns all Student Data. We do not own it, we do not have any rights to it beyond the limited permission you give us in Section 7.2, and we will not claim a right to it later.
+
+7.2 Why we touch Student Data. You give us permission to host, store, process, and display Student Data only to provide the BrightStep Platform to you. We will not use Student Data for any other purpose. Specifically, we will not (a) use Student Data to advertise or market to students or parents, (b) sell Student Data, (c) use Student Data to build user profiles for non-educational purposes, or (d) use Student Data to train any artificial intelligence model unless you give us specific written permission for a specific project.
+
+7.3 FERPA. We are acting as a "school official" with "legitimate educational interests" under FERPA, 34 C.F.R. § 99.31(a)(1)(i)(B). That means we are subject to all the same restrictions on use and re-disclosure of education records that apply to your own employees. We will not re-disclose Student Data to anyone except the limited subprocessors we list at brightstep.com/subprocessors, and even then only as needed to run the BrightStep Platform.
+
+7.4 COPPA. Many of your students are under 13. We rely on you to provide the parental consent that COPPA requires for school use, and we limit our collection and use of personal information from students under 13 to what is reasonably necessary for the educational service. We do not require students to disclose more personal information than is reasonably necessary to participate in an activity.
+
+7.5 {{CUSTOMER_STATE}} Student Data Laws. We comply with SOPIPA and AB 1584. We do not engage in targeted advertising, do not use covered information to amass a profile, and do not sell covered information. We will delete your students' covered information within forty-five (45) days of your written request.
+
+7.6 Security. We protect Student Data with what we believe are reasonable security measures, including:
+(a) encryption of Student Data in transit using TLS 1.2 or higher;
+(b) encryption of Student Data at rest using AES-256;
+(c) role-based access controls so only employees who need to see Student Data can see it;
+(d) annual third-party penetration tests; and
+(e) annual SOC 2 Type II audits, the report of which we will share with you under NDA.
+
+7.7 Breach. If we discover a security incident that compromises Student Data, we will tell you in writing within seventy-two (72) hours, even if we are still investigating. The notice will tell you what happened, who we think was affected, what data was involved, and what we are doing about it. We will pay the reasonable costs of any breach notifications you have to send out under {{CUSTOMER_STATE}} law if the incident was caused by something we did wrong. We will help your team investigate.
+
+7.8 Where Student Data lives. We store Student Data in data centers inside the contiguous United States. We do not move it outside the United States. If we ever need to change that, we will get your written approval first.
+
+7.9 Subprocessors. We use a small list of service providers (like our cloud hosting provider and our error tracking provider) that touch Student Data. The current list is at brightstep.com/subprocessors. We give you thirty (30) days notice before we add or change a subprocessor that handles Student Data, and you can object on reasonable security grounds. If we cannot resolve your objection, you can terminate this Agreement and get a prorated refund.
+
+7.10 Audit. Once per year, with at least thirty (30) days notice, you (or a third party you choose, under NDA) can review our security practices. We will respond to a reasonable security questionnaire. For a deeper audit (like an on-site visit), we will charge you our reasonable costs and you will follow our protocols.
+
+7.11 Data return and deletion. When this Agreement ends, you have {{NOTICE_DAYS}} days to export Student Data using our self-service export tool at no charge. After that, we delete Student Data from our production systems within thirty (30) days. Backups are deleted within {{NOTICE_DAYS}} days as part of our normal retention cycle. We will give you a written certification of deletion if you ask.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Our IP. We own the BrightStep Platform — the software, the lesson content, the graphics, the algorithms, our brand, all of it. Nothing in this Agreement gives you any ownership of any of that. We keep the right to make new features, improvements, and bug fixes.
+
+8.2 Your IP. You own your Student Data. You own anything your teachers create inside the BrightStep Platform that is original to them, like custom assignments or annotations. We do not claim a license to that beyond what we need to display it back to you.
+
+8.3 Feedback. If your teachers send us product ideas or bug reports, we can use those ideas to improve the BrightStep Platform without owing you anything. We will not use your name or your teachers' names in our marketing without asking first. We will not use any Student Data when we work on those ideas.
+
+8.4 No implied licenses. You only get the rights this Agreement actually gives you. We are not granting you anything else by implication.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 What is confidential. Information one of us shares with the other that is marked confidential or that a reasonable person would understand to be confidential is "Confidential Information." Our Confidential Information includes our pricing, our technical architecture, and our security details. Your Confidential Information includes Student Data, your security setup, and your strategic plans for technology in your district.
+
+9.2 What we both promise. Each of us will (a) keep the other's Confidential Information secret, (b) only use it as needed to do this Agreement, (c) only share it with employees and contractors who need to know and who are bound by similar confidentiality duties, and (d) protect it with at least reasonable care.
+
+9.3 Exceptions. The promise in Section 9.2 does not cover information that is already public, information one of us already knew before the other shared it, information independently developed without using the other's Confidential Information, or information rightfully received from someone else with no duty of confidence.
+
+9.4 If a court asks. If a court order or law requires one of us to disclose Confidential Information, we will tell the other side first (if we are legally allowed to) so they have a chance to object or get a protective order. We will only disclose what is legally required.
+
+9.5 Public records. We understand that you, as a {{CUSTOMER_STATE}} public school district, are subject to the {{CUSTOMER_STATE}} Public Records Act. If you receive a public records request for our Confidential Information, you will (to the extent the law allows) tell us about the request and give us a reasonable chance to seek protective relief.
+
+9.6 How long this lasts. The confidentiality promise lasts during this Agreement and for three (3) years after it ends. For trade secrets and Student Data, it lasts as long as the information is still a trade secret or still protected under FERPA and the other student privacy laws.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 What we both promise. Each of us promises that (a) we have the legal authority to sign this Agreement, (b) signing it does not break any other agreement we have, and (c) when signed, this Agreement is a binding obligation.
+
+10.2 What we promise about the BrightStep Platform. We promise that during the Term, the BrightStep Platform will work substantially as our documentation describes; we will not knowingly include malicious code in the BrightStep Platform; we will provide the service in a workmanlike manner; we will comply with applicable federal, state, and local laws (including FERPA, COPPA, SOPIPA, and AB 1584) when providing the service; and our accessibility statement reflects substantial conformance with WCAG 2.1 AA.
+
+10.3 What you promise. You promise that you have the right to upload Student Data, that you have the parental consent COPPA requires for the students who use the BrightStep Platform, and that your use of the BrightStep Platform will follow applicable laws.
+
+10.4 The standard disclaimer. Other than the express promises in this Article 10, the BrightStep Platform is provided "as is." We are not making any other warranties, including the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. We do not promise the BrightStep Platform will be error-free or uninterrupted.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 We defend you against IP claims. If a third party sues you because using the BrightStep Platform supposedly infringes their patent, copyright, trademark, or trade secret, we will defend you and pay any final court judgment or settlement we agree to. We will not pay for any claim that comes from (a) you using the BrightStep Platform in a way the documentation does not permit, (b) you combining the BrightStep Platform with hardware or software we did not provide, (c) you modifying the BrightStep Platform, or (d) Student Data you uploaded.
+
+11.2 You defend us against Student Data and misuse claims. To the extent {{CUSTOMER_STATE}} law allows a school district to indemnify a vendor (we acknowledge there are limits), you will defend us against claims that arise from (a) Student Data infringing someone else's rights, or (b) your use of the BrightStep Platform that violates this Agreement. You are not waiving any sovereign immunity or any limit on a public school district's authority to indemnify.
+
+11.3 How indemnification works. The side seeking indemnification will (a) tell the other side promptly in writing, (b) let the other side run the defense (but the indemnifying side cannot agree to anything that puts an obligation on the indemnified side without the indemnified side's written consent), and (c) help out as needed at the indemnifying side's expense.
+
+11.4 If a claim is brewing. If we think the BrightStep Platform might soon be the subject of an IP claim, we can (a) get you a license to keep using it, (b) modify it so it does not infringe but still works for you, (c) replace it with something equivalent, or (d) terminate this Agreement and refund a prorated portion of your prepaid fees.
+
+11.5 Sole remedy. This Article 11 is the only remedy you get from us for IP infringement claims about the BrightStep Platform.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. Except as we describe in Section 12.3, neither of us will be liable to the other for more than the total subscription fees paid by you in the {{LIABILITY_CAP_MONTHS}} months before whatever caused the claim, no matter what legal theory the claim is based on.
+
+12.2 No indirect damages. Except as we describe in Section 12.3, neither of us is liable to the other for indirect, incidental, special, consequential, or punitive damages — including lost profits, lost revenue, or lost opportunities — even if we knew those damages were possible.
+
+12.3 What is not capped or excluded. The cap in Section 12.1 and the exclusion in Section 12.2 do not apply to: (a) what we owe under Article 11 (Indemnification); (b) a breach of Article 7 (Student Data and Privacy); (c) a breach of Article 9 (Confidentiality); (d) your obligation to pay subscription fees; (e) liability arising from gross negligence, willful misconduct, or fraud; or (f) anything that the law says cannot be limited.
+
+12.4 Why we have a cap. The cap and the exclusion are an essential part of the deal. The subscription fee would be a lot higher if we did not have them.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for material breach. Either of us can terminate this Agreement on thirty (30) days written notice if the other side materially breaks this Agreement and does not fix the breach within those thirty (30) days. If you are terminating because of something we did, we will refund the unused portion of any prepaid subscription fee.
+
+13.2 Termination for insolvency. Either of us can terminate immediately on written notice if the other side becomes insolvent, makes a general assignment for the benefit of creditors, files for bankruptcy, or has bankruptcy filed against it that is not dismissed within sixty (60) days.
+
+13.3 Termination by you for convenience. You can terminate at the end of any school year as described in Section 5.3.
+
+13.4 What happens when this ends. When this Agreement ends or expires: (a) your access to the BrightStep Platform stops; (b) you pay any subscription fees you owe up to the end date; (c) we return or delete Student Data the way Section 7.11 says; (d) we each return or destroy the other's Confidential Information; and (e) the parts of this Agreement that should logically survive — like Articles 1, 7 (in part), 8, 9, 11, 12, and 14 — keep working.
+
+13.5 Transition help. For up to one hundred eighty (180) days after termination, we will help you migrate your students and historical data to a different system. Standard data exports are free. For more involved help (like building a custom export format), we will charge our normal professional services rates.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing law. {{CUSTOMER_STATE}} law applies, without regard to its conflict-of-laws rules.
+
+14.2 Where to sue. Any lawsuit about this Agreement must be filed in the state or federal courts located in {{VENUE_COUNTY}}, {{CUSTOMER_STATE}}. We both agree those courts have personal jurisdiction over us.
+
+14.3 Talk first. Before starting a lawsuit, we will both try in good faith to resolve any dispute by direct discussion between authorized representatives. If we cannot resolve it within thirty (30) days of one side telling the other side there is a dispute, then either of us can go to court.
+
+14.4 No jury. We both give up the right to a jury trial for any dispute about this Agreement.
+
+14.5 Lawyers' fees. The side that wins gets reasonable lawyers' fees and costs, to the extent {{CUSTOMER_STATE}} law allows that for a public school district.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Whole agreement. This Agreement, together with the Order Forms, is the whole deal between us about the BrightStep Platform. It replaces any earlier discussions or proposals.
+
+15.2 Changes. Changes to this Agreement only count if they are in writing and signed by both sides.
+
+15.3 If part of this is unenforceable. If a court says one part of this Agreement does not work, the rest still does. The court should rewrite the unenforceable part to make it work, if possible.
+
+15.4 Waivers. Not enforcing a right one time does not mean we are giving it up forever.
+
+15.5 Notices. Formal notices have to be in writing and delivered by hand, by certified mail, by overnight courier, or by email with confirmation of receipt, sent to the address below:
+If to us: {{PROVIDER_NAME}}, {{PROVIDER_ADDRESS}}, Attention: Legal Team, legal@brightstep.com.
+If to you: {{CUSTOMER_NAME}}, {{CUSTOMER_ADDRESS}}, Attention: Superintendent.
+
+15.6 Assignment. Neither of us can assign this Agreement without the other's written approval, except that we can assign it without approval if we sell substantially all of our business (and the buyer takes on all our obligations).
+
+15.7 Force majeure. Neither of us is liable for delays caused by events outside our reasonable control, like natural disasters, pandemics, or government action (except your obligation to pay still applies). The affected side will tell the other side and try to fix things as soon as it reasonably can.
+
+15.8 Independent parties. We are independent contractors. This Agreement does not create a partnership, joint venture, or employment relationship. Neither of us can bind the other.
+
+15.9 No third-party beneficiaries. Only the District and BrightStep can enforce this Agreement. No student, parent, teacher, or other person has any rights under it. (Students still have all their rights under FERPA, COPPA, and applicable {{CUSTOMER_STATE}} law — those rights are not created by this Agreement and not given up by it.)
+
+15.10 Counterparts. We can sign this Agreement in counterparts and exchange them by email or e-signature platform.
+
+15.11 Headings. The headings are just for convenience.
+
+15.12 Plain language. We wrote this Agreement in plain English on purpose. If a court ever has to interpret it, the court should not apply any rule that ambiguities are construed against the drafter — we both negotiated this.
+
+Signed:
+
+BRIGHTSTEP LEARNING, INC.
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+RIVERDALE UNIFIED SCHOOL DISTRICT
+
+By: ________________________
+Name:
+Title: Superintendent
+Date:

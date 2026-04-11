@@ -1,0 +1,233 @@
+CONTACT CENTER OUTSOURCING MASTER SERVICES AGREEMENT
+
+This Contact Center Outsourcing Master Services Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} (the "Service Provider"), having its principal place of business at {{PROVIDER_ADDRESS}}, and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} (the "Client"), having its principal place of business at {{CUSTOMER_ADDRESS}}. Service Provider and Client may each be referred to as a "Party" and collectively as the "Parties."
+
+WHEREAS, Service Provider operates contact centers in the United States, the Philippines, and India staffed with customer service representatives, technical support agents, and sales agents; and
+
+WHEREAS, Client desires to engage Service Provider to provide outsourced customer support, technical support, and customer engagement services for Client's customers pursuant to one or more Statements of Work executed under this Agreement;
+
+NOW, THEREFORE, in consideration of the mutual covenants set forth herein, the Parties agree as follows.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means any entity that directly or indirectly controls, is controlled by, or is under common control with another entity.
+
+1.2 "Agent" means any individual customer service representative, technical support representative, or sales representative employed or contracted by Service Provider to perform Services under a Statement of Work.
+
+1.3 "Authorized Caller" means an end-user customer of Client (or other person) who calls, emails, chats with, or otherwise interacts with Service Provider Agents in connection with Client's products or services.
+
+1.4 "Background IP" means any Intellectual Property Rights owned or licensable by a Party prior to the Effective Date or independently developed outside of any Statement of Work.
+
+1.5 "Caller Data" means information about Authorized Callers collected by Service Provider in the course of performing the Services, including names, contact information, customer account information, payment information, call recordings, chat transcripts, and case history.
+
+1.6 "Delivery Center" means a contact center facility from which Service Provider performs the Services, identified on the applicable Statement of Work.
+
+1.7 "Intellectual Property Rights" means all intellectual property and proprietary rights of any kind anywhere in the world.
+
+1.8 "Permitted Delivery Locations" means the geographic locations from which Service Provider is authorized to deliver Services under a Statement of Work, which by default include the United States, the Philippines, and India, and may be limited or expanded on a per-Statement-of-Work basis.
+
+1.9 "Seat" means a single Agent workstation provisioned to perform Services for Client. Capacity is measured in Seats.
+
+1.10 "Services" means the outsourced customer support, technical support, sales, retention, and customer engagement services to be performed by Service Provider for Client under one or more Statements of Work.
+
+1.11 "Statement of Work" or "SOW" means a written document executed by both Parties that describes a particular engagement, including the Services, the Permitted Delivery Locations, the number of Seats, the Service Levels, the Fees, the schedule, and any project-specific terms.
+
+ARTICLE 2 — SCOPE OF SERVICES
+
+2.1 Engagement of Services. Service Provider shall provide the Services described in each Statement of Work executed by the Parties from time to time during the Term.
+
+2.2 Statements of Work. Each Statement of Work shall specify (a) the scope of the Services; (b) the Permitted Delivery Locations; (c) the number of Seats and the staffing model; (d) the Service Levels (including answer time, abandonment rate, first-call resolution, and customer satisfaction targets); (e) the Fees and the basis on which they are calculated; (f) the schedule and any ramp-up plan; and (g) any project-specific terms.
+
+2.3 Order of Precedence. In the event of any conflict between this Agreement and a Statement of Work, this Agreement shall control as to the matters expressly addressed in this Agreement, except that the Statement of Work may expressly modify any provision solely as it applies to that specific engagement.
+
+2.4 Permitted Delivery Locations. Unless the applicable Statement of Work expressly restricts the Permitted Delivery Locations, Service Provider may deliver the Services from any of its Delivery Centers in the United States, the Philippines, and India. Service Provider shall not deliver Services from any other location without Client's prior written consent. Where the Statement of Work restricts the Permitted Delivery Locations (for example, to U.S.-only delivery), Service Provider shall comply with such restrictions.
+
+2.5 Standard of Performance. Service Provider shall perform the Services in a professional and workmanlike manner, in accordance with the Service Levels set forth in the applicable Statement of Work and Service Provider's documented quality assurance program.
+
+2.6 Cooperation. Client shall provide Service Provider with such Client-specific training materials, product information, knowledge base content, and access to Client's customer relationship management system as Service Provider reasonably requires to perform the Services.
+
+ARTICLE 3 — DELIVERABLES AND ACCEPTANCE
+
+3.1 Performance-Based Delivery. The Parties acknowledge that the principal output of the Services is ongoing performance against the Service Levels set forth in the applicable Statement of Work, rather than discrete deliverables. Accordingly, Service Provider's performance shall be measured continuously against the Service Levels.
+
+3.2 Specific Deliverables. To the extent a Statement of Work identifies specific deliverables (such as a knowledge base, a quality assurance manual, or a transition plan), such deliverables shall be subject to a Customer review period of fifteen (15) business days, with a reasonable cure right for non-conforming deliverables.
+
+3.3 Service Level Reporting. Service Provider shall provide Client with weekly reports of its performance against each Service Level metric set forth in the applicable Statement of Work, in a format reasonably acceptable to Client.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Fees. Client shall pay Service Provider the Fees set forth in each Statement of Work. The basis for Fees may include (a) per-Seat per-month pricing, (b) per-minute pricing for handle time, (c) per-interaction pricing, (d) blended-rate hourly pricing, or (e) any other basis the Parties agree to in the Statement of Work.
+
+4.2 Annual Aggregate Reference. The aggregate annual Fees payable by Client across all then-active Statements of Work as of the Effective Date is approximately {{ANNUAL_FEE_AMOUNT}}, included for reference only.
+
+4.3 Locked-In Per-Seat Rates. Per-Seat rates set forth in any Statement of Work shall be fixed for the duration of that Statement of Work and shall not be increased except by mutual written agreement.
+
+4.4 Volume Adjustments. Where a Statement of Work provides for variable Seat capacity, the Fees shall be adjusted on a monthly basis based on the actual number of Seats provisioned, subject to any minimum commitment set forth in the Statement of Work.
+
+4.5 Pass-Through Telephony Costs. Telephony costs (toll-free numbers, long-distance, SMS) shall be passed through to Client at cost without markup, accompanied by reasonable documentation. Service Provider shall not impose any administrative fee on pass-through costs.
+
+4.6 Payment Terms. All undisputed invoices shall be due and payable within thirty (30) days of the date of invoice. Late payments shall accrue interest at the lesser of one and one-half percent (1.5%) per month or the maximum rate permitted by applicable law.
+
+4.7 Disputed Invoices. Client shall notify Service Provider in writing of any disputed amount within fifteen (15) business days of receipt of the invoice and shall pay all undisputed amounts on time.
+
+4.8 Audit Right. Service Provider shall have the right to invoice Client for any Services rendered, but any audit of Service Provider records by Client shall be limited to once per twelve-month period and shall be conducted at Client's expense by an independent auditor under a reasonable confidentiality agreement.
+
+4.9 Taxes. Fees are exclusive of all taxes other than taxes imposed on Service Provider's net income.
+
+ARTICLE 5 — TERM AND TERMINATION
+
+5.1 Initial Term. The initial term of this Agreement shall commence on the Effective Date and shall continue for a period of {{TERM_YEARS}} years, unless earlier terminated in accordance with Article 13.
+
+5.2 Renewal. This Agreement shall automatically renew for successive one (1) year renewal terms unless either Party provides written notice of non-renewal at least {{NOTICE_DAYS}} days prior to the expiration of the then-current term.
+
+5.3 Statement of Work Term. Each Statement of Work shall continue for the term set forth therein, subject to the Service Provider's right under Section 13.6 to recover early-termination fees if Client terminates a Statement of Work for convenience.
+
+ARTICLE 6 — AGENTS, STAFFING, AND SERVICE LEVELS
+
+6.1 Agent Hiring and Training. Service Provider shall hire, train, and supervise Agents in accordance with Service Provider's standard hiring practices and the training requirements set forth in the applicable Statement of Work. Service Provider shall be solely responsible for all employer obligations with respect to its Agents, including wages, benefits, taxes, workers' compensation, and compliance with applicable labor laws in the relevant jurisdictions.
+
+6.2 Background Checks. Service Provider shall conduct background checks on all Agents who will handle Caller Data, in accordance with applicable law in the jurisdiction where the Agent is employed.
+
+6.3 Service Levels. Each Statement of Work shall set forth the Service Levels applicable to the Services, which may include (a) average speed of answer; (b) abandonment rate; (c) first-call resolution rate; (d) average handle time; (e) customer satisfaction (CSAT) score; (f) net promoter score (NPS); (g) quality assurance (QA) score; and (h) any other metrics the Parties agree to in the Statement of Work.
+
+6.4 Service Level Credits. If Service Provider fails to meet any Service Level in any month, Client shall be entitled to receive a service credit, the amount of which shall be set forth in the applicable Statement of Work. Service credits shall be Client's sole and exclusive monetary remedy for failure to meet a Service Level, except that two (2) or more consecutive months of failure to meet a critical Service Level (as designated in the Statement of Work) shall constitute a material breach entitling Client to terminate the affected Statement of Work for cause.
+
+6.5 No Joint Employment. The Parties acknowledge that Service Provider's Agents are employees or contractors of Service Provider, not of Client. Nothing in this Agreement shall be construed as creating any employment relationship between Client and any Agent.
+
+6.6 Non-Solicitation of Agents. During the Term and for a period of twelve (12) months thereafter, Client shall not solicit or hire any Agent who has performed Services for Client; provided, however, that this restriction shall not apply to (a) general public employment advertising not directed at Service Provider personnel, or (b) any Agent whose employment with Service Provider has terminated for at least six (6) months prior to the date of solicitation.
+
+6.7 Subcontractors. Service Provider shall not subcontract any of the Services to any third party without Client's prior written consent.
+
+ARTICLE 7 — CALLER DATA, CALL RECORDINGS, AND PRIVACY
+
+7.1 Ownership of Caller Data. As between the Parties, Client shall retain all right, title, and interest in and to Caller Data. Service Provider acknowledges that Caller Data is the exclusive property of Client.
+
+7.2 Permitted Uses. Service Provider shall use and disclose Caller Data only as necessary to perform the Services in accordance with the applicable Statement of Work. Service Provider shall not use Caller Data for any other purpose, including without limitation marketing, sale to third parties, or training any artificial intelligence model, except as expressly permitted by Client in writing.
+
+7.3 Call Recording Notice. Service Provider shall comply with all applicable laws regarding the recording of customer calls and the consent of Authorized Callers to such recording. Where a state law requires the consent of all parties to a recording (such as California, Florida, or Pennsylvania), Service Provider shall obtain such consent through an automated announcement at the start of each call. Service Provider shall comply with the Telephone Consumer Protection Act and similar laws in connection with any outbound calls or text messages.
+
+7.4 Caller Data Security. Service Provider shall implement and maintain administrative, physical, and technical safeguards designed to protect Caller Data, including encryption in transit using TLS 1.2 or higher, encryption at rest using AES-256, role-based access controls limiting Agent access to Caller Data, annual third-party penetration testing, and an annual independent assessment of Service Provider's information security program.
+
+7.5 PCI DSS. To the extent the Services involve Service Provider Agents accepting payment card information from Authorized Callers, Service Provider shall comply with the Payment Card Industry Data Security Standard (PCI DSS) at the level required by the major card brands.
+
+7.6 Breach Notification. Service Provider shall notify Client in writing of any actual or reasonably suspected unauthorized access to or disclosure of Caller Data without undue delay and in any event within seventy-two (72) hours of discovery.
+
+7.7 Data Residency. Where the applicable Statement of Work restricts the geographic locations from which Caller Data may be accessed (for example, U.S.-only access), Service Provider shall comply with such restrictions and shall route the affected Services to Delivery Centers in the permitted locations.
+
+7.8 Return of Caller Data. Upon completion of the relevant engagement or upon Client's earlier written request, Service Provider shall return or destroy all Caller Data in its possession or control, except to the extent retention is required by applicable law.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Background IP. As between the Parties, each Party shall retain all right, title, and interest in and to its respective Background IP. Service Provider's Background IP includes Service Provider's contact center technology, workforce management software, quality assurance methodologies, and training curricula. Client's Background IP includes Client's product information, brand standards, knowledge base content, and customer relationship management data.
+
+8.2 Assignment of Work Product. To the extent any Service Provider personnel create any Work Product specifically for Client in the course of performing the Services (such as Client-specific training materials, knowledge base articles, or call scripts), Service Provider hereby irrevocably assigns to Client all right, title, and interest in and to such Work Product, including all Intellectual Property Rights therein. To the maximum extent permitted by applicable copyright law, such Work Product shall be deemed "work made for hire" for Client, and to the extent it does not so qualify, Service Provider hereby assigns it to Client.
+
+8.3 License to Background IP. To the extent any Work Product incorporates Service Provider's Background IP, Service Provider hereby grants to Client a perpetual, irrevocable, non-exclusive, royalty-free, worldwide license to use such Background IP solely as embedded in the Work Product.
+
+8.4 Aggregate Performance Statistics. Service Provider may use de-identified, aggregated performance statistics derived from its overall operations (such as average handle time across all Service Provider clients in a given vertical) for benchmarking purposes, provided that such aggregated statistics do not identify Client or any Authorized Caller and do not include any Caller Data.
+
+8.5 Feedback. Client or its Authorized Users may provide Service Provider with feedback regarding the Services. Client hereby grants Service Provider a perpetual, irrevocable, royalty-free, worldwide license to use such feedback to improve the Services.
+
+8.6 No Implied Licenses. Except for the limited rights expressly granted in this Article 8, neither Party grants any rights or licenses to the other Party.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party shall (a) hold the other Party's Confidential Information in strict confidence; (b) use the other Party's Confidential Information solely for the purposes of this Agreement; (c) not disclose the other Party's Confidential Information to any third party except to its employees, Agents, contractors, and advisors who have a legitimate need to know and who are bound by similar confidentiality obligations; and (d) protect the other Party's Confidential Information using the same degree of care it uses to protect its own confidential information of similar importance.
+
+9.2 Exclusions. Confidentiality obligations shall not apply to information that the Receiving Party can demonstrate (a) was already known without obligation of confidentiality; (b) was independently developed; (c) was rightfully received from a third party; or (d) is or becomes publicly available through no fault of the Receiving Party.
+
+9.3 Compelled Disclosure. The Receiving Party may disclose Confidential Information to the extent required by court order or applicable law, provided the Receiving Party gives the Disclosing Party prompt notice (where legally permitted).
+
+9.4 Survival. The obligations in this Article 9 shall survive any expiration or termination of this Agreement for a period of five (5) years.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants that (a) it is duly organized and in good standing; (b) it has the corporate authority to enter into this Agreement; and (c) this Agreement constitutes a binding obligation enforceable against it.
+
+10.2 Service Provider Warranties. Service Provider warrants that (a) the Services shall be performed in a professional and workmanlike manner consistent with the standards of the contact center outsourcing industry; (b) Service Provider shall comply with all applicable federal, state, and local laws and regulations in performing the Services, including labor laws in the jurisdictions where its Agents are employed; (c) Service Provider shall maintain PCI DSS compliance as required for the Services; and (d) Service Provider has the right and authority to perform the Services from the Permitted Delivery Locations.
+
+10.3 Client Warranties. Client warrants that (a) Client has the right to provide Caller Data to Service Provider for use in performing the Services; (b) Client's products and services with respect to which Service Provider provides customer support comply with applicable consumer protection laws; and (c) any outbound call lists or text message lists provided by Client to Service Provider have been obtained in compliance with the Telephone Consumer Protection Act and applicable state law.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS ARTICLE 10, THE SERVICES ARE PROVIDED ON AN "AS IS" BASIS. SERVICE PROVIDER DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. SERVICE PROVIDER DOES NOT WARRANT ANY SPECIFIC CUSTOMER SATISFACTION OUTCOME OR SALES RESULT.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Service Provider Indemnity. Service Provider shall defend Client against any third-party claim, suit, action, or proceeding (each a "Claim") alleging that (a) Service Provider's performance of the Services caused bodily injury or property damage; or (b) Service Provider's call recording practices in violation of applicable law caused damage to such third party. Service Provider shall indemnify Client for any damages, settlement amounts, and reasonable attorneys' fees finally awarded against Client with respect to such Claim.
+
+11.2 Client Indemnity. Client shall defend Service Provider against any third-party Claim alleging that (a) Client's products or services with respect to which Service Provider provides customer support are defective or do not comply with applicable consumer protection laws, or (b) any outbound call list or text message list provided by Client to Service Provider was not obtained in compliance with the Telephone Consumer Protection Act or applicable state law (including any TCPA class action arising from such outbound calls or text messages).
+
+11.3 Indemnification Procedure. The Party seeking indemnification shall (a) provide prompt written notice; (b) grant the indemnifying Party sole control over the defense and settlement (subject to a no-bad-settlement-without-consent right); and (c) provide reasonable cooperation at the indemnifying Party's expense.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT OR ANY STATEMENT OF WORK, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF FEES PAID OR PAYABLE BY CLIENT TO SERVICE PROVIDER UNDER THE AFFECTED STATEMENT OF WORK DURING THE {{LIABILITY_CAP_MONTHS}} MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOST REVENUE, LOST BUSINESS OPPORTUNITIES, OR LOSS OF DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT.
+
+12.3 Exceptions to Limitations. The limitations set forth in Sections 12.1 and 12.2 shall not apply to (a) Service Provider's obligations under Article 11 (Indemnification); (b) Client's indemnity obligations under Article 11 (including any TCPA class action arising from Client's outbound call lists); (c) any breach of Article 9 (Confidentiality); (d) any breach of Article 7 (Caller Data, Call Recordings, and Privacy); (e) Client's payment obligations under Article 4; (f) any liability arising from a Party's gross negligence, willful misconduct, or fraud; or (g) any liability that, under applicable law, cannot be limited or excluded.
+
+12.4 Basis of the Bargain. The Parties acknowledge that the limitations of liability set forth in this Article 12 are an essential element of the bargain between the Parties.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Material Breach. Either Party may terminate this Agreement, or any Statement of Work, upon thirty (30) days' prior written notice to the other Party if the other Party commits a material breach and fails to cure such breach within the thirty (30) day notice period.
+
+13.2 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice if the other Party becomes insolvent, makes a general assignment for the benefit of creditors, files a voluntary petition in bankruptcy, or has an involuntary petition filed against it that is not dismissed within sixty (60) days.
+
+13.3 Termination for SLA Failures. Client may terminate any Statement of Work for cause upon written notice if Service Provider fails to meet a critical Service Level for two (2) or more consecutive months.
+
+13.4 Effects of Termination. Upon expiration or termination: (a) Service Provider shall promptly cease performance of Services under the affected Statement of Work; (b) Service Provider shall return Caller Data in accordance with Section 7.8; (c) Client shall pay Service Provider for all undisputed Fees that have accrued through the effective date of termination; (d) each Party shall return or destroy the other Party's Confidential Information; and (e) the provisions of this Agreement that by their nature are intended to survive termination shall so survive.
+
+13.5 Wind-Down Assistance. For a period of up to one hundred eighty (180) days following termination, Service Provider shall provide Client with reasonable wind-down assistance to facilitate Client's transition to a successor service provider or in-house team, including the orderly transfer of Caller Data, knowledge base content, and any Client-specific training materials.
+
+13.6 Early Termination Fees. If Client terminates a Statement of Work for convenience prior to the end of its term, Client shall pay Service Provider an early termination fee equal to the lesser of (a) the Fees that would have been payable under the Statement of Work for the remaining term, or (b) twelve (12) months of Fees at the run-rate in effect immediately prior to termination, recognizing the substantial investment Service Provider makes in hiring, training, and equipping Agents for each engagement.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to its conflict-of-laws principles.
+
+14.2 Venue and Jurisdiction. Any action arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+14.3 Informal Dispute Resolution. Before initiating any litigation, the Parties shall attempt in good faith to resolve any dispute through direct negotiation between executives of each Party with authority to resolve the dispute.
+
+14.4 Waiver of Jury Trial. EACH PARTY HEREBY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement, together with all Statements of Work, constitutes the entire agreement between the Parties.
+
+15.2 Amendments. No amendment shall be effective unless in writing executed by both Parties.
+
+15.3 Severability. If any provision is held to be unenforceable, the remaining provisions shall continue in full force.
+
+15.4 Waiver. No failure or delay in exercising any right shall operate as a waiver thereof.
+
+15.5 Notices. Formal notices shall be in writing and delivered to the addresses set forth in the applicable Statement of Work.
+
+15.6 Independent Contractors. The Parties are independent contractors. Neither Party shall have the authority to bind the other.
+
+15.7 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, except either Party may assign without consent in connection with a merger, acquisition, corporate reorganization, or sale of substantially all of its assets.
+
+15.8 Force Majeure. Neither Party shall be liable for delays caused by events outside its reasonable control (other than payment obligations).
+
+15.9 No Third-Party Beneficiaries. This Agreement is for the sole benefit of the Parties.
+
+15.10 Counterparts. This Agreement may be executed in counterparts.
+
+15.11 Headings. Headings are for convenience of reference only.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+{{CUSTOMER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Customer Officer
+Date:

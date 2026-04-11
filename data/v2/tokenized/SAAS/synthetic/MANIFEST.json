@@ -1,6 +1,6 @@
 {
   "type": "SAAS",
-  "processed": 15,
+  "processed": 18,
   "skipped": 0,
   "contracts": [
     {
@@ -77,6 +77,21 @@
       "contract": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10",
       "placeholders": 7,
       "substitutions": 21
+    },
+    {
+      "contract": "CLAUDE_BrightStep_Learning_K12_mid_market_17",
+      "placeholders": 15,
+      "substitutions": 33
+    },
+    {
+      "contract": "CLAUDE_ModelForge_AI_Platform_mid_market_18",
+      "placeholders": 15,
+      "substitutions": 24
+    },
+    {
+      "contract": "CLAUDE_PulseLoop_Email_Marketing_smb_19",
+      "placeholders": 15,
+      "substitutions": 30
     }
   ]
 }

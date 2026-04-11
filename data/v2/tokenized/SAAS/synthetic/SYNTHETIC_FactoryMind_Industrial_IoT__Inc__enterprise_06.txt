@@ -1,6 +1,6 @@
 SOFTWARE AS A SERVICE SUBSCRIPTION AGREEMENT
 
-This Software as a Service Subscription Agreement (hereinafter referred to as the "Agreement") is entered into as of the 1st day of January, 2024 (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_ENTITY_TYPE}} duly organized and existing under the laws of the State of {{PROVIDER_STATE}}, with its principal place of business located at 123 Innovation Drive, {{VENUE_CITY}}, {{CUSTOMER_STATE}} 60601 (hereinafter referred to as the "Provider"), and {{CUSTOMER_NAME}}, a {{PROVIDER_ENTITY_TYPE}} duly organized and existing under the laws of the State of {{CUSTOMER_STATE}}, with its principal place of business located at 456 Manufacturing Lane, {{VENUE_CITY}}, {{CUSTOMER_STATE}} 60602 (hereinafter referred to as the "Customer").
+This Software as a Service Subscription Agreement (the "Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} with its principal place of business at {{PROVIDER_ADDRESS}} (the "Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} with its principal place of business at {{CUSTOMER_ADDRESS}} (the "Customer").
 
 WHEREAS, Provider is engaged in the business of offering industrial Internet of Things (IoT) solutions, including a hybrid deployment of on-premises edge agents and cloud-based platforms;
 

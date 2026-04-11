@@ -1,0 +1,183 @@
+VECTORPOINT — CUSTOMER AGREEMENT
+
+Welcome to VectorPoint. This Customer Agreement (the "Agreement") covers your use of the VectorPoint vector database service. It is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} (the "Provider," "we," or "our"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} (the "Customer," or "you"). It starts on {{EFFECTIVE_DATE}}.
+
+We try to keep our paperwork short and human. If something is unclear, email us at legal@vectorpoint.dev and we will fix it.
+
+ARTICLE 1 — DEFINITIONS
+
+We define terms inline. Two terms come up enough to collect here.
+
+1.1 The "Service" is the VectorPoint hosted vector database, including the indexing engine, the query API, the dashboards, the SDKs, and any updates we ship.
+
+1.2 "Customer Data" is anything you put into the Service: the vectors you upload, the metadata you attach, the queries you run, and the documents you store. It includes any source data you embed before uploading.
+
+ARTICLE 2 — SUBSCRIPTION AND LICENSE
+
+2.1 What you get. We give you a non-exclusive license to use the Service for your application during the Term. You can run as much production traffic as your tier allows.
+
+2.2 Authorized Users. Add as many of your team members as your tier allows. You are responsible for what they do.
+
+2.3 What you cannot do. You cannot reverse engineer the Service, build a competing vector database with it, send us content that is illegal or infringing, or store anyone's personal data without the right to do so.
+
+2.4 If we have to suspend you. We will give you a heads-up before suspending you, except if there is a security emergency. Reasons we might suspend: you are abusing the Service, you owe us money for more than 30 days, or a court tells us to.
+
+ARTICLE 3 — IMPLEMENTATION
+
+3.1 Self-serve. You can sign up, create an index, and start uploading vectors in under 10 minutes. There is no implementation phase. There is no setup fee on the standard tiers.
+
+3.2 Office hours. We hold free office hours every week for any customer that wants help. Sign up at vectorpoint.dev/office-hours.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Subscription. You pay {{ANNUAL_FEE_AMOUNT}} per year, billed once a year on the anniversary of {{EFFECTIVE_DATE}}.
+
+4.2 Overage. If you use more vectors, queries, or storage than your tier allows, we bill the overage at the rates on vectorpoint.dev/pricing. We send a dashboard alert at 80% and 100% of your tier so you can upgrade or trim.
+
+4.3 Net 30. Annual fees are due 30 days after the invoice date. Late payments accrue 1% per month, or the most the law allows, whichever is less.
+
+4.4 Renewal pricing. We may change the price at renewal. We will email you 60 days before any change. If you do not like the new price, cancel before the renewal date.
+
+4.5 Taxes. Fees do not include taxes. You pay any taxes that apply.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Initial Term. The initial term is {{TERM_YEARS}} years, starting on {{EFFECTIVE_DATE}}.
+
+5.2 Renewal. After the initial term, the Agreement renews for one (1) year periods. Either of us can stop the renewal by giving written notice at least {{NOTICE_DAYS}} days before the current term ends.
+
+5.3 You can cancel any time. Cancel in the dashboard. Cancellation takes effect at the end of the current billing period.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime. We aim for 99.9% monthly uptime. The Service is "up" if you can run queries against your indexes through the production API endpoint.
+
+6.2 Excluded downtime. Scheduled maintenance announced 48 hours ahead, your code, third-party services we depend on, force majeure, and your tier limits being exceeded do not count.
+
+6.3 Service credits. If we miss the uptime SLA in any month, you get a service credit equal to 10% of one twelfth of the annual subscription fee. The credit is applied to your next invoice. It is the only money remedy you get for an SLA miss.
+
+6.4 Support. Email support is included. We aim for a 1-business-day first response. The public docs and the community forum are available 24/7. Premium support is available on the Pro tier.
+
+ARTICLE 7 — YOUR DATA AND PRIVACY
+
+This article is where it counts. If anything in it conflicts with anything elsewhere in this Agreement, this article wins.
+
+7.1 You own Customer Data. You retain all rights to Customer Data. We do not own it.
+
+7.2 Why we touch Customer Data. We host, store, index, and serve Customer Data only to provide the Service to you. That is it.
+
+7.3 No training on Customer Data. We will not use Customer Data — including the vectors you upload, your queries, your metadata, or the source documents you embed — to train any artificial intelligence or machine learning model. Not our models, not anyone's models. If we ever want to do anything else with your data, we will ask first, and you can say no.
+
+7.4 No selling. We will not sell Customer Data, share it with advertisers, or include it in any commercial dataset.
+
+7.5 Tenant isolation. Your indexes are stored separately from every other customer's indexes. We do not commingle.
+
+7.6 Security. We protect Customer Data with TLS 1.2+ in transit, AES-256 at rest, role-based access controls, annual third-party penetration testing, and an annual SOC 2 Type II audit. We share the SOC 2 report under NDA on request.
+
+7.7 Breach notification. If we discover a security incident affecting Customer Data, we will tell you in the dashboard and by email within 72 hours. We will tell you what we know and what we are doing about it.
+
+7.8 Data residency. We host Customer Data in the United States by default. EU and APAC regions are available on the Pro tier.
+
+7.9 Subprocessors. The current list is at vectorpoint.dev/subprocessors. We give 30 days notice before adding or changing a subprocessor that handles Customer Data.
+
+7.10 Data export and deletion. You can export your indexes through the API at any time at no charge. After your account is canceled, we keep your data available for 60 days. After that, we delete it within 30 days, with backup deletion completed within 90 days.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Our IP. We own the Service. The indexing engine, the query optimizer, the SDKs, our trademarks, and any improvements are ours. Nothing in this Agreement gives you any of that.
+
+8.2 Your IP. You own Customer Data. You also own the application you build on top of the Service.
+
+8.3 Embeddings and outputs. Vectors you generate using your own embedding model and upload to the Service belong to you. Query results returned by the Service to you belong to you.
+
+8.4 Feedback. If you send us product ideas or bug reports, we can use them to improve the Service. We will not use Customer Data when we work on feedback. We will not use your name in marketing without asking first.
+
+8.5 No implied licenses. You only get the rights this Agreement actually gives you.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 What is confidential. Information one of us shares with the other that is marked confidential, or that a reasonable person would understand to be confidential, is "Confidential Information."
+
+9.2 Promises. We will keep each other's Confidential Information secret, only use it as needed for this Agreement, only share it with people who need to know and are bound by similar confidentiality, and protect it with at least reasonable care.
+
+9.3 Exceptions. The promise does not cover information that is already public, was already known, was independently developed, or was rightfully received from someone else with no confidentiality duty.
+
+9.4 Compelled disclosure. If a court order requires disclosure, we will tell the other side first if we are legally allowed to.
+
+9.5 Survival. Confidentiality obligations last during this Agreement and for two (2) years after.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Authority. Each of us has the authority to enter into this Agreement.
+
+10.2 What we promise. During your paid subscription, the Service will work substantially as documented, we will not knowingly include malicious code, and we will provide the Service in a workmanlike manner.
+
+10.3 What you promise. You have the right to upload Customer Data, your use of the Service complies with applicable laws, and you are not on any sanctions list.
+
+10.4 Disclaimer. EXCEPT FOR THE LIMITED WARRANTY ABOVE, THE SERVICE IS PROVIDED "AS IS." WE DISCLAIM ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT ANY QUERY WILL RETURN A SPECIFIC RESULT.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 We defend you. If a third party sues you because the Service itself (the parts we built) supposedly infringes their U.S. patent, copyright, trademark, or trade secret, we will defend you and pay the final judgment or agreed settlement, subject to the cap in Article 12. This does not cover Customer Data, your application, or anything you built using the Service.
+
+11.2 You defend us. You will defend us against any claim that arises from (a) Customer Data, (b) your application or how it uses the Service, (c) your use of the Service in violation of this Agreement, or (d) any infringement claim about the embedding model you used to generate vectors.
+
+11.3 How indemnification works. The side seeking indemnification will tell the other side promptly, give the other side control of the defense (subject to a no-bad-settlement-without-consent right), and help out at the indemnifying side's reasonable expense.
+
+11.4 If the Service might infringe. If we think the Service might be the subject of an IP claim, we may (a) get you a license, (b) modify the Service, (c) replace it with something equivalent, or (d) terminate this Agreement and refund unused prepaid fees.
+
+11.5 Sole remedy. This is the only remedy you get from us for IP infringement claims about the Service.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING OUT OF OR RELATED TO THE SERVICE OR THIS AGREEMENT IS LIMITED TO THE TOTAL FEES YOU HAVE PAID US IN THE {{LIABILITY_CAP_MONTHS}} MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM. THE CAP APPLIES REGARDLESS OF LEGAL THEORY.
+
+12.2 No indirect damages. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER WE NOR YOU WILL BE LIABLE TO THE OTHER FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, LOST REVENUE, LOST DATA, LOSS OF GOODWILL, OR LOSS OF USE, EVEN IF EITHER OF US HAS BEEN ADVISED THAT THOSE DAMAGES ARE POSSIBLE.
+
+12.3 What is not capped. The cap and the exclusion do not apply to (a) what we owe under Article 11, (b) breach of Article 7 (Your Data and Privacy), specifically Section 7.3 (no training on Customer Data), (c) breach of Article 9 (Confidentiality), (d) your obligation to pay fees, (e) gross negligence, willful misconduct, or fraud, or (f) anything the law says cannot be limited.
+
+12.4 Why the cap. The cap reflects the price. If you need a higher cap, talk to us about a custom enterprise agreement.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for material breach. Either of us can terminate on 30 days written notice if the other materially breaches and does not cure within those 30 days. If you terminate for our material breach, we will refund the unused prepaid portion. If we materially breach Section 7.3 (no training on Customer Data), you can terminate immediately without a cure period.
+
+13.2 Termination for insolvency. Either of us can terminate immediately on written notice if the other becomes insolvent, makes a general assignment for the benefit of creditors, files for bankruptcy, or has bankruptcy filed against it that is not dismissed within 60 days.
+
+13.3 What happens when this ends. When the Agreement ends: (a) your access to the Service stops, (b) you owe any unpaid fees through the end date, (c) we delete Customer Data per Section 7.10, (d) we each return or destroy the other's Confidential Information, and (e) Articles 1, 7 (in part), 8, 9, 11, 12, and 14 keep working.
+
+13.4 Transition help. For up to 60 days after termination, we will help you export your indexes and metadata to another service. Standard exports are free.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing law. The laws of the State of {{GOVERNING_LAW_STATE}} apply, without regard to conflict-of-laws rules.
+
+14.2 Where to sue. Any lawsuit about this Agreement must be filed in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+14.3 Talk first. Before you sue, please email legal@vectorpoint.dev and give us 30 days to fix the problem informally.
+
+14.4 No jury. We both give up the right to a jury trial.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Whole agreement. This Agreement, plus the documents we link to (the pricing page, the subprocessor list, the privacy policy), are the whole deal between us about the Service.
+
+15.2 Updates. We may update this Agreement from time to time. We will email you 30 days before any material change. Continuing to use the Service after the change means you accept it.
+
+15.3 Severability. If a court says a part of this Agreement does not work, the rest still does.
+
+15.4 No waiver. Not enforcing a right one time is not a permanent giveup.
+
+15.5 Notices. We will send you notices by email. You will send us notices to legal@vectorpoint.dev.
+
+15.6 Assignment. You cannot assign this Agreement without our written consent. We may assign without your consent in connection with a merger or sale of substantially all of our assets, so long as the buyer takes on our obligations.
+
+15.7 Force majeure. Neither of us is liable for delays caused by events outside our reasonable control, except your obligation to pay still applies.
+
+15.8 Independent contractors. We are independent contractors.
+
+15.9 No third-party beneficiaries. Only you and we have rights under this Agreement.
+
+15.10 Counterparts. We can sign in counterparts, including by electronic signature.
+
+15.11 Plain language. We wrote this in plain language on purpose. No rule that ambiguities are construed against the drafter applies.

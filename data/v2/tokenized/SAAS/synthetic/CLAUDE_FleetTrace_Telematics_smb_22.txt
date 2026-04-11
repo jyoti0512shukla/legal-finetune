@@ -1,0 +1,250 @@
+FLEETTRACE TERMS OF SERVICE
+
+Last updated: {{EFFECTIVE_DATE}}.
+
+These are the Terms of Service for FleetTrace, a fleet telematics, electronic logging, and IFTA compliance service operated by {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ("FleetTrace," "we," "our") with its principal place of business at {{PROVIDER_ADDRESS}}.
+
+By clicking "I Accept," by activating the FleetTrace device on a vehicle, or by signing in to the FleetTrace driver app, you ("you," "your," and if you are accepting on behalf of a company, that company) agree to these Terms. If you do not agree, do not activate the device and do not use the Service.
+
+The Service is provided to {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} with its principal place of business at {{CUSTOMER_ADDRESS}}, with an Effective Date of {{EFFECTIVE_DATE}}.
+
+ARTICLE 1 — DEFINITIONS
+
+We define most terms inline. The terms below appear often.
+
+1.1 "FleetTrace" or "Service" means the FleetTrace fleet telematics platform, including the FleetTrace Device, the driver-facing mobile app, the dashboard, the IFTA fuel tax reporting tool, the ELD compliance module, the dispatch portal, and any updates we ship.
+
+1.2 "FleetTrace Device" means the FleetTrace OBD-II / J1939 telematics dongle that we sell or lease to you for installation in your vehicles.
+
+1.3 "Vehicle" means any commercial motor vehicle on which a FleetTrace Device is installed or for which the driver app is used.
+
+1.4 "Driver" means a natural person operating a Vehicle who is using the FleetTrace driver app.
+
+1.5 "Customer Data" means GPS location data, engine telemetry, hours-of-service logs, fuel purchase records, route history, vehicle diagnostics codes, and driver behavior data collected by the FleetTrace Device or the driver app from your Vehicles and Drivers.
+
+1.6 "ELD" means Electronic Logging Device, as defined under 49 C.F.R. Part 395.
+
+1.7 "FMCSA" means the Federal Motor Carrier Safety Administration.
+
+1.8 "IFTA" means the International Fuel Tax Agreement.
+
+ARTICLE 2 — YOUR ACCOUNT AND THE SERVICE
+
+2.1 Eligibility. You must be at least 18 years old, hold a valid commercial motor vehicle operating authority (or be the authorized representative of a motor carrier that does), and not be on any U.S. or international sanctions list.
+
+2.2 What the Service does. FleetTrace collects telemetry from your Vehicles, generates ELD-compliant hours-of-service logs, calculates IFTA quarterly fuel tax reports, tracks vehicle location and driver behavior, and presents the results in a web dashboard and the driver app.
+
+2.3 What you must do.
+(a) Install the FleetTrace Device only in Vehicles you own, lease, or are authorized to manage.
+(b) Make sure your Drivers create accounts in the driver app and use them.
+(c) Confirm that the Vehicle make, model, and year are correct in the dashboard so that the device's J1939 / OBD-II decoder can read the engine bus correctly.
+(d) Review and edit hours-of-service logs in compliance with 49 C.F.R. Part 395.
+(e) Submit your IFTA quarterly returns to the appropriate base jurisdiction. The FleetTrace IFTA tool generates the report; the legal duty to file is yours.
+(f) Comply with the FMCSA ELD rule, the Hours of Service rules, and any state DOT requirements that apply to your operations.
+
+2.4 What you cannot do.
+(a) Reverse engineer, decompile, or tamper with the FleetTrace Device.
+(b) Disconnect the FleetTrace Device from a Vehicle's diagnostic port for the purpose of evading hours-of-service tracking.
+(c) Falsify, alter, or delete ELD records in a manner that violates 49 C.F.R. Part 395.
+(d) Use the Service to track any individual without their knowledge if that tracking is unlawful in the jurisdiction where the tracking occurs.
+(e) Resell access to the Service or wrap it in a managed offering of your own without a separate written agreement.
+(f) Use the Service in any way that bypasses any usage limit on your plan.
+
+2.5 No professional advice. FleetTrace is a tool. We do not provide legal advice on hours-of-service compliance, IFTA filing requirements, DOT audit defense, or any other regulated matter. You should consult a qualified compliance professional for those questions.
+
+2.6 Suspension. We can suspend the Service immediately and without prior notice if you violate Section 2.4, if your usage poses a security or stability risk to us or other customers, if you have not paid an undisputed invoice within fifteen (15) days of the due date, or if suspension is required by law or court order. We will tell you why and we will turn it back on once the cause is resolved.
+
+ARTICLE 3 — IMPLEMENTATION AND HARDWARE
+
+3.1 Self-installed device. The FleetTrace Device is self-installable in most light- and medium-duty Vehicles by plugging it into the OBD-II port. For heavy-duty Vehicles with a J1939 connector, a wired install kit is included. We do not provide on-site installation under the standard plan.
+
+3.2 Hardware fee. The FleetTrace Device is sold to you for One Hundred Forty-Nine United States Dollars ($149) per Vehicle, invoiced at the time you place the device order. We ship within five (5) business days of order.
+
+3.3 Title to hardware. Title to the FleetTrace Device passes to you on delivery. You are responsible for the device, including loss, theft, and damage.
+
+3.4 Hardware warranty. We warrant that the FleetTrace Device will be free from material defects in materials and workmanship for one (1) year from the date of shipment. Your sole remedy for a hardware defect is, at our option, replacement or refund of the hardware fee. This warranty does not cover damage caused by misuse, accident, or installation in a Vehicle the device was not designed for.
+
+3.5 Onboarding help. We offer an online setup wizard, a public knowledge base, and email support for getting your devices and driver app accounts running. We do not bill onboarding time on the standard plan.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Subscription. You pay an annual subscription fee of {{ANNUAL_FEE_AMOUNT}} per Vehicle for the Service, which includes ELD compliance, IFTA reporting, location tracking, driver app access, and standard email support. Hardware is billed separately under Section 3.2.
+
+4.2 Auto-renewal. Your subscription automatically renews each year on the anniversary of the Effective Date for that Vehicle. We charge the payment method on file. To cancel auto-renewal for a Vehicle, click "Cancel Subscription" in the dashboard at least seven (7) days before the renewal date for that Vehicle.
+
+4.3 Per-Vehicle billing. Subscription fees are billed per Vehicle. If you add a Vehicle mid-year, the prorated fee is charged at the time you add it. If you remove a Vehicle mid-year, the unused portion is not refunded.
+
+4.4 Price changes on renewal. We may change the price on renewal. We will email you at least sixty (60) days before any change. If you do not want to renew at the new price, cancel before the renewal date.
+
+4.5 Payment method. You authorize us to charge your payment method for all fees due. You will keep the payment method valid. If a charge fails, we will retry. We may suspend the Service if the charge is not paid within fifteen (15) days.
+
+4.6 Refunds. Subscription fees are non-refundable, except where Section 13.1 says otherwise.
+
+4.7 Taxes. The fees do not include sales, use, or excise taxes. You are responsible for any taxes that apply.
+
+4.8 Disputes. If you think a charge is wrong, dispute it through the dashboard within thirty (30) days. We will respond within ten (10) business days.
+
+ARTICLE 5 — TERM AND CANCELLATION
+
+5.1 Term. These Terms start on the Effective Date for the first Vehicle and continue until your Account is canceled or terminated.
+
+5.2 Initial subscription period. The initial subscription period for each Vehicle is {{TERM_YEARS}} years, and the subscription auto-renews for one (1) year periods after that.
+
+5.3 You can cancel any time. You can cancel your subscription for any Vehicle at any time in the dashboard. Cancellation takes effect at the end of the current billing period for that Vehicle. We do not refund the unused portion of the current period.
+
+5.4 We can stop offering the Service. We may discontinue the Service on at least sixty (60) days notice. If we do, we will refund any prepaid fees that cover the period after the discontinuation date.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Best efforts uptime. The Service uses commercially reasonable efforts to maintain availability. We do not commit to a specific uptime number on the standard plan. The Service typically achieves 99.0% monthly uptime, but that is not a promise.
+
+6.2 What does not count as downtime. Downtime caused by your Vehicle's electrical system, your cellular carrier, the FleetTrace Device hardware, force majeure events, scheduled maintenance, FMCSA-mandated outages, or events outside our reasonable control does not count.
+
+6.3 No service credits on the standard plan. The standard plan does not include service credits. Service credits are available on the Fleet Plus plan.
+
+6.4 ELD-specific exception. If the Service is unavailable in a way that prevents your Drivers from logging hours-of-service in the driver app, the Drivers should fall back to paper logs as permitted under 49 C.F.R. § 395.32. We will use commercially reasonable efforts to restore service quickly, but we do not warrant that the Service will be available at all times during a Driver's duty period. You remain responsible for hours-of-service compliance regardless of the Service's availability.
+
+6.5 Support channels. Email support is available with a one (1) business day target first response time. Telephone support is available on the Fleet Plus plan. A public knowledge base is available 24x7.
+
+6.6 Maintenance. We do routine maintenance on Sundays from 3:00 a.m. to 5:00 a.m. Central Time, when over-the-road traffic is at its lowest.
+
+ARTICLE 7 — YOUR DATA AND PRIVACY
+
+7.1 You own Customer Data. You retain all rights, title, and interest in Customer Data.
+
+7.2 Why we touch Customer Data. You give us permission to collect, store, process, analyze, and use Customer Data only as needed to provide the Service to you — generating ELD logs, calculating IFTA reports, displaying location and behavior data in the dashboard, and producing alerts.
+
+7.3 Use for aggregate fleet benchmarks. We may use de-identified, aggregated information derived from Customer Data across all our customers to compute industry benchmarks (average miles per gallon by Vehicle class, average idle time, average HOS violations) and to improve the Service. "De-identified" means the information cannot be linked back to you, your Vehicles, your Drivers, or any individual. We will not share or sell any data that can identify you or any of your Drivers. If you do not want us to use de-identified, aggregated data this way, email optout@fleettrace.io and we will exclude your tenant within thirty (30) days.
+
+7.4 No sale, no third-party advertising. We do not sell Customer Data. We do not provide Customer Data to third-party advertisers, insurance underwriters, freight brokers, or load boards without your written instruction.
+
+7.5 Driver privacy. Drivers will be able to see their own data in the driver app. Drivers should be told that the Service is in use in their Vehicle and that location, hours-of-service, and behavior data is being collected. State law may require additional notice; you are responsible for complying with that.
+
+7.6 Off-duty location. Where the FleetTrace Device or the driver app continues to track location while a Driver is off-duty (for example, in a personal-use Vehicle), the Driver can use the "Off Duty — Personal" status in the app, which limits location reporting to start and end of the off-duty period for HOS compliance purposes only, as permitted by 49 C.F.R. § 395.
+
+7.7 Tenant isolation. Your Customer Data is logically isolated from every other customer's tenant.
+
+7.8 Security. We protect Customer Data with TLS 1.2 or higher in transit, AES-256 at rest, role-based access controls, annual third-party penetration testing, and a documented information security program reviewed annually.
+
+7.9 Breach notification. If we discover a security incident that compromises Customer Data, we will tell you in the dashboard and by email within seventy-two (72) hours of discovery. The notice will say what we know, what data was involved, and what we are doing about it.
+
+7.10 Subprocessors. The current subprocessor list is at fleettrace.io/subprocessors. We may update it without prior notice.
+
+7.11 Data retention and deletion. ELD records and supporting documents are retained for the period required by 49 C.F.R. § 395.22(i) (currently six months, plus the duty period to which they relate). After that, we delete them within thirty (30) days unless you have configured a longer retention. IFTA records are retained for four years after the IFTA quarter to which they relate, as required for IFTA audit purposes.
+
+7.12 Your data export. You can export Customer Data, ELD records, and IFTA reports through the dashboard at any time at no charge.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Our IP. We own the Service. The FleetTrace Device firmware, the dashboard, the driver app, our trademarks, and any improvements we make are all ours. Nothing in these Terms gives you any ownership of any of that.
+
+8.2 License to use the firmware. We grant you a non-exclusive, non-transferable, non-sublicensable license to use the FleetTrace Device firmware solely as embedded in the FleetTrace Device for use with the Service. The license ends if your subscription ends or your Account is terminated.
+
+8.3 Your IP. You own Customer Data. You own the routes, the dispatch instructions, and the operational data your team enters into the dashboard.
+
+8.4 Aggregated benchmarks. Aggregated benchmark data we produce under Section 7.3 belongs to us, subject to the de-identification limit there.
+
+8.5 Feedback. If you send us product feedback or bug reports, you give us a perpetual, irrevocable, royalty-free license to use that feedback to improve the Service. We will not use Customer Data in connection with feedback.
+
+8.6 Marketing. We may list your company name and logo as a customer of the Service. To opt out, email optout@fleettrace.io.
+
+8.7 No implied licenses. Other than the rights expressly granted, neither of us is granting any IP rights to the other.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Mutual. Each of us will (a) keep the other's non-public information confidential, (b) only use it as needed for the Service, and (c) not disclose it to anyone outside the receiving side's organization without permission, except to employees and contractors who need to know and are bound by similar confidentiality duties.
+
+9.2 Exceptions. Confidentiality does not apply to information that is already public, that the receiving side already knew, that the receiving side independently developed, or that the receiving side is legally required to disclose.
+
+9.3 Survival. Confidentiality obligations last during these Terms and for two (2) years after termination.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Authority. Each of us has the authority to enter into these Terms.
+
+10.2 Limited service warranty. We warrant that, during your paid subscription, the Service will work substantially as documented and we will not knowingly include malicious code in the Service or the FleetTrace Device firmware. Your sole remedy if we breach this warranty is for us to use commercially reasonable efforts to fix the problem, and if we cannot fix it within thirty (30) days, you can cancel and get a prorated refund.
+
+10.3 Your warranties. You warrant that you have the right to install the FleetTrace Device in your Vehicles, your use of the Service complies with applicable laws (including 49 C.F.R. Parts 390–399), you are not on any U.S. or international sanctions list, and you understand that the Service is a tool to assist your compliance efforts and that you remain responsible for your own compliance.
+
+10.4 BIG DISCLAIMER. EXCEPT FOR THE LIMITED WARRANTY IN SECTION 10.2 AND THE HARDWARE WARRANTY IN SECTION 3.4, THE SERVICE AND THE FLEETTRACE DEVICE ARE PROVIDED "AS IS" AND "AS AVAILABLE." WE EXPRESSLY DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SERVICE WILL DETECT EVERY HOURS-OF-SERVICE VIOLATION, EVERY ELIGIBLE FUEL PURCHASE, OR EVERY VEHICLE FAULT CODE. WE DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE. YOU REMAIN RESPONSIBLE FOR YOUR OWN HOURS-OF-SERVICE COMPLIANCE, YOUR OWN IFTA FILINGS, AND YOUR OWN DOT AUDIT POSTURE.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 We defend you against IP claims about the Service. If a third party sues you because the Service or the FleetTrace Device firmware (the parts we built) supposedly infringes their U.S. patent, copyright, trademark, or trade secret, we will defend you and pay the final judgment or agreed settlement, subject to the cap in Section 12.1. This does not apply to claims arising from (a) Customer Data, (b) modifications you made to the FleetTrace Device or the firmware, (c) your use of the Service in violation of these Terms, or (d) anything you built using the data the Service produces.
+
+11.2 No indemnity for compliance failures. We do not indemnify you for any FMCSA penalty, DOT audit finding, IFTA assessment, or other regulatory consequence that arises from your use of the Service. Compliance is your responsibility. The Service is a tool, not a guarantee of compliance.
+
+11.3 You defend us. You will defend us against any claim that arises from (a) your installation of the FleetTrace Device in any Vehicle you did not have the right to install it in, (b) Customer Data infringing someone's rights, (c) tracking of any individual in violation of state or federal privacy law, (d) any FMCSA or DOT enforcement action arising from your operations, or (e) your use of the Service in violation of these Terms.
+
+11.4 How indemnification works. The side seeking indemnity will tell the other side promptly, give the other side control of the defense (subject to a no-bad-settlement-without-consent right), and help out at the indemnifying side's reasonable expense.
+
+11.5 If the Service might infringe. If we think the Service might be the subject of an IP claim, we may (a) get you a license, (b) modify the Service, (c) replace it with something equivalent, or (d) terminate your subscription and refund unused prepaid fees.
+
+11.6 Sole remedy. This Article 11 is the only remedy you get for IP infringement claims about the Service.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING OUT OF OR RELATED TO THE SERVICE, THE FLEETTRACE DEVICE, OR THESE TERMS IS LIMITED TO THE GREATER OF (A) THE TOTAL FEES YOU HAVE PAID US (FOR BOTH SERVICE AND HARDWARE) IN THE TWELVE (12) MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM, OR (B) ONE HUNDRED UNITED STATES DOLLARS ($100). THE CAP APPLIES REGARDLESS OF LEGAL THEORY.
+
+12.2 No indirect damages. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER WE NOR YOU WILL BE LIABLE TO THE OTHER FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES — INCLUDING LOST PROFITS, LOST REVENUE, LOST FREIGHT, LOST CONTRACTS, LOSS OF CARGO, LOSS OF USE OF VEHICLES, OR LOSS OF GOODWILL — EVEN IF EITHER OF US HAS BEEN ADVISED THAT THOSE DAMAGES ARE POSSIBLE.
+
+12.3 COMPLIANCE DISCLAIMER. YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT WE ARE NOT LIABLE FOR ANY FMCSA PENALTY, DOT AUDIT FINDING, IFTA ASSESSMENT, HOURS-OF-SERVICE VIOLATION, INSURANCE CONSEQUENCE, OR LOSS OF OPERATING AUTHORITY THAT YOU MAY INCUR IN CONNECTION WITH YOUR USE OF THE SERVICE OR THE FLEETTRACE DEVICE. YOU UNDERSTAND THAT THE SERVICE IS A TOOL TO ASSIST YOUR COMPLIANCE EFFORTS, NOT A GUARANTEE OF COMPLIANCE, AND THAT YOUR COMPLIANCE OBLIGATIONS UNDER FEDERAL AND STATE TRANSPORTATION LAW ARE YOURS ALONE.
+
+12.4 What is not capped. The cap and the exclusion in Sections 12.1, 12.2, and 12.3 do not apply to (a) what we owe under Article 11, (b) your obligation to pay fees, (c) your indemnity obligations under Article 11.3, (d) gross negligence, willful misconduct, or fraud, or (e) anything that the law says cannot be limited.
+
+12.5 Why we have a cap. The cap reflects that the Service is offered at a low per-Vehicle price and that no telematics service can guarantee compliance with FMCSA, DOT, or IFTA rules. If you need a higher cap, talk to us about a Fleet Plus plan with a separately negotiated agreement.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for material breach. Either of us can terminate these Terms on thirty (30) days written notice if the other materially breaches and does not cure within those thirty (30) days. If you terminate for our material breach, we will refund the unused prepaid portion.
+
+13.2 We can terminate immediately. We can terminate your Account immediately and without prior notice if (a) you violate Section 2.4, (b) you fail to pay any undisputed invoice when due and ignore our reminder for thirty (30) days, (c) you become insolvent or file for bankruptcy, (d) we are required to terminate by law, or (e) FMCSA or another regulator orders us to terminate your Account.
+
+13.3 What happens when this ends. When your Account ends:
+(a) the FleetTrace Device will stop reporting to our cloud (you can re-pair it with another carrier's account if your fleet changes hands);
+(b) you can export your ELD records, IFTA reports, and Customer Data through the dashboard for {{NOTICE_DAYS}} days after termination;
+(c) we keep ELD records for the period required by 49 C.F.R. § 395.22(i) and IFTA records for four (4) years for audit purposes;
+(d) you owe any unpaid fees through the termination date;
+(e) Articles 1, 7 (in part), 8, 9, 11, 12, and 14 keep working.
+
+13.4 Hardware on termination. The FleetTrace Device belongs to you. We do not require you to return it. You can keep it as a paperweight, recycle it, or sell it to another FleetTrace customer.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing law. The laws of the State of {{GOVERNING_LAW_STATE}} apply, without regard to conflict-of-laws rules.
+
+14.2 Where to sue. Any lawsuit about these Terms must be filed in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}. You consent to the personal jurisdiction of those courts.
+
+14.3 No jury. We both give up the right to a jury trial.
+
+14.4 Class action waiver. To the extent permitted by law, you and we each agree to bring any claim only in your or our individual capacity and waive any right to participate in a class action, collective action, or representative action.
+
+14.5 Talk first. Before you sue, please email us at legal@fleettrace.io and give us thirty (30) days to fix the problem informally.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Whole agreement. These Terms, plus the documents we link to (the pricing page, the subprocessor list, the privacy policy), are the whole agreement between us about the Service.
+
+15.2 We can update these Terms. We may update these Terms from time to time. If we make a material change, we will email you and post a notice in the dashboard at least thirty (30) days before the change takes effect. Continuing to use the Service after the change means you accept it. If you do not accept the change, cancel your subscription before the effective date.
+
+15.3 Severability. If a court says a part of these Terms is unenforceable, the rest still applies.
+
+15.4 No waiver. If we do not enforce a right one time, that does not give it up forever.
+
+15.5 Notices. We will send you notices by email to the address on file or by posting in the dashboard. You will send us notices by email to legal@fleettrace.io.
+
+15.6 Assignment. You cannot assign these Terms without our written consent. We may assign these Terms without your consent in connection with a merger, acquisition, or sale of substantially all of our assets.
+
+15.7 Force majeure. Neither of us is liable for delays caused by events outside our reasonable control. Your obligation to pay fees still applies.
+
+15.8 Independent parties. We are independent contractors. These Terms do not create a partnership, joint venture, or employment relationship.
+
+15.9 No third-party beneficiaries. Only you and we have rights under these Terms. Drivers are not third-party beneficiaries; their privacy and labor rights come from applicable law, not from these Terms.
+
+15.10 No drafter rule. We both negotiated these Terms. No rule of construction that ambiguities are construed against the drafter applies.
+
+15.11 Headings. Headings are just for convenience.
+
+THE SERVICE IS NOT AVAILABLE TO USERS UNDER 18, TO PERSONS PROHIBITED FROM RECEIVING IT UNDER U.S. EXPORT LAWS, OR TO USERS IN COUNTRIES SUBJECT TO U.S. EMBARGOES.
+
+By clicking "I Accept," by activating the FleetTrace Device, or by signing in to the FleetTrace driver app, you acknowledge that you have read and agree to these Terms.

@@ -1,0 +1,229 @@
+NEURALFORGE — CUSTOMER AGREEMENT
+
+This is the NeuralForge Customer Agreement (the "Agreement"). It is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} (the "Consultancy," "we," or "our"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} (the "Customer," "you"). It starts on {{EFFECTIVE_DATE}}.
+
+We do AI and machine learning consulting — model design, data engineering, model training, evaluation, deployment, and ongoing model operations. You hire us through Statements of Work. We try to keep our paperwork short and human. If something is unclear, email us at legal@neuralforge.ai.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 The "Services" are the AI and ML consulting services we provide under each Statement of Work.
+
+1.2 A "Statement of Work" or "SOW" is a document we both sign that describes a specific engagement — the goals, the data, the deliverables, the team, the fees, and any project-specific terms.
+
+1.3 "Customer Data" is your data we use to train, evaluate, or run a Model — including your training datasets, your validation sets, and any data your applications send to a deployed Model for inference.
+
+1.4 "Customer Models" are the models we train, fine-tune, or build for you under a SOW — including the model weights, the model architecture, the training code, and the inference code.
+
+1.5 "Background IP" is what each of us already owns going in. Our Background IP includes our internal training infrastructure, our evaluation harnesses, our base ML libraries, our methodologies, and any open source software we contribute to.
+
+1.6 "Foundation Models" are third-party large language or vision models we may fine-tune or call on your behalf.
+
+ARTICLE 2 — SCOPE OF SERVICES
+
+2.1 SOW model. We do work for you only under signed SOWs.
+
+2.2 Order of precedence. This Agreement controls except where the SOW expressly modifies as it applies to the relevant engagement.
+
+2.3 What we promise. We do the work in a professional, workmanlike manner using current best practices in machine learning.
+
+2.4 What you do. You give us reasonable access to Customer Data, your existing infrastructure, and your stakeholders. If you do not, we are not responsible for delays.
+
+2.5 No model performance guarantees. ML model performance depends on data quality, problem framing, and many factors outside any consultant's control. The SOW will set expected target metrics; we will use commercially reasonable efforts to meet them but we do not guarantee any specific accuracy, precision, recall, AUC, latency, or other performance metric unless the SOW expressly says so.
+
+ARTICLE 3 — DELIVERABLES AND ACCEPTANCE
+
+3.1 Delivery. We deliver each Customer Model and related Deliverables on the schedule and in the format the SOW says.
+
+3.2 Acceptance criteria. Each SOW lists the acceptance criteria — including any model performance metrics on a holdout dataset.
+
+3.3 Acceptance Period. You have fifteen (15) business days from delivery to test against the acceptance criteria and tell us in writing whether you accept or want changes.
+
+3.4 Cure. If you reject, we use commercially reasonable efforts at no additional charge to address the issue within fifteen (15) business days. After two cycles, you can either accept with a fair fee reduction or terminate the affected SOW.
+
+3.5 Deemed acceptance. If you do not respond within the Acceptance Period, the deliverable is deemed accepted.
+
+3.6 Out-of-scope changes. New use cases, new datasets, or new performance targets need a written change order signed by both of us.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Fees. You pay us the fees in each SOW.
+
+4.2 Annual aggregate. The total fees you pay us across all active SOWs as of the Effective Date is roughly {{ANNUAL_FEE_AMOUNT}}, included for reference only.
+
+4.3 Compute pass-through. Cloud compute costs (GPU training, hosted inference, vector database) used for your project are passed through at cost without markup. We send you the cloud bills for transparency. Your prior approval is required for any compute spend above the budget in the SOW.
+
+4.4 Foundation Model usage. Where we use a Foundation Model on your behalf, the Foundation Model provider's per-token or per-call cost is passed through to you at cost. We pre-disclose the Foundation Model providers we use.
+
+4.5 Net 30. We invoice monthly. Late payments accrue 1% per month or the maximum allowed by law, whichever is less.
+
+4.6 Disputes. If you think a charge is wrong, tell us within 15 business days. Pay the parts you do not dispute on time.
+
+4.7 Taxes. Fees do not include taxes.
+
+ARTICLE 5 — TERM AND TERMINATION
+
+5.1 Initial Term. This Agreement runs for {{TERM_YEARS}} years from the Effective Date.
+
+5.2 Renewal. After the Initial Term, this Agreement auto-renews for one-year periods. Either of us can stop renewal by giving written notice at least {{NOTICE_DAYS}} days before the current term ends.
+
+5.3 You can cancel any active SOW for convenience on 30 days notice.
+
+ARTICLE 6 — TEAM AND STAFFING
+
+6.1 Designated team. Each SOW lists the lead ML engineers and data scientists.
+
+6.2 No swapping. We will not swap out designated team members without telling you first, except if someone leaves the company, gets sick, or needs to be removed.
+
+6.3 Removal on your request. If you want us to take someone off your project, ask. We will do it within five business days.
+
+6.4 Background checks. We run background checks on all our employees consistent with our standard practice.
+
+6.5 Non-solicitation. While we are working together and for 12 months after, you will not directly hire or solicit our team members who worked on your project (general public job ads do not count).
+
+ARTICLE 7 — CUSTOMER DATA AND PRIVACY
+
+7.1 You own Customer Data. You retain all rights to Customer Data.
+
+7.2 Why we touch Customer Data. We use Customer Data only to perform the Services for you under the SOW — training your Customer Model, evaluating it, deploying it, and serving inference requests.
+
+7.3 No training on Customer Data for anyone else. We will not use Customer Data to train any model for any other client, to train our own commercial models, or to contribute to any aggregated training dataset. The only models that touch Customer Data are the Customer Models we build for you.
+
+7.4 No selling. We will not sell Customer Data, share it with advertisers, or use it for any commercial purpose other than the engagement.
+
+7.5 No sharing with Foundation Model providers for training. Where we call a Foundation Model on your behalf, we route the call so the Foundation Model provider does not retain your input or use it to train. We have negotiated this with the providers we use. If a Foundation Model whose terms do not give this protection becomes necessary for your use case, we will tell you in writing first and get your approval.
+
+7.6 Sensitive data. Where Customer Data includes personal information, PHI, payment card data, or other sensitive information, the SOW will list any specific handling requirements (HIPAA, PCI DSS, etc.) and we will follow them.
+
+7.7 Security. We protect Customer Data with TLS 1.2 in transit, AES-256 at rest, role-based access controls in our training infrastructure, multi-factor authentication, an annual SOC 2 Type II audit, and a documented information security program reviewed annually.
+
+7.8 Breach notification. If we discover a security incident affecting Customer Data, we will tell you in writing within 72 hours of discovery.
+
+7.9 Data residency. We process Customer Data in our United States cloud regions by default. EU and APAC regions are available as an extra-cost option.
+
+7.10 Subprocessors. The current subprocessor list is at neuralforge.ai/subprocessors and includes our cloud provider, our experiment tracking provider, our error tracking provider, and the Foundation Model providers you have approved.
+
+7.11 Return on cancellation. When the engagement ends, we return Customer Data and the Customer Models to you, then delete our copies (except for archival in normal records retention).
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Background IP. Each side keeps its Background IP.
+
+8.2 Customer Models are yours. Subject to Section 8.3 and to you paying the fees, we assign to you all rights in the Customer Models we build for you under each SOW — the model weights, the model architecture, the training code, the evaluation code, the inference code, and the documentation. To the maximum extent permitted by copyright law, the Customer Models are "work made for hire" for you. To the extent they are not, we hereby assign them to you.
+
+8.3 License to Background IP. If a Customer Model uses some of our Background IP (for example, our internal training pipeline or our evaluation harness), we grant you a perpetual, irrevocable, non-exclusive, royalty-free license to use that Background IP solely as embedded in or necessary to operate the Customer Model.
+
+8.4 Foundation Model IP. Foundation Models are owned by their respective providers and are used under those providers' terms. We do not transfer ownership of any Foundation Model. Where you fine-tune a Foundation Model, the resulting fine-tuned weights are yours, subject to the underlying Foundation Model provider's terms of use.
+
+8.5 Output IP. Outputs from a Customer Model that you generate using your inference traffic belong to you, to the extent the law permits ownership of model outputs. We make no warranty that any specific model output is original or non-infringing — you should review outputs before using them in production.
+
+8.6 Customer Data is not training material for our other work. As provided in Section 7.3, Customer Data is not used to train models for anyone else. Improvements to our Background IP that we develop based on general lessons from running engagements (and that do not include any of Customer Data, any Customer Model architecture, or anything Customer-specific) belong to us.
+
+8.7 Feedback. If you tell us how to improve our process or our work, we can use that feedback. We will not use Customer Data in connection with feedback.
+
+8.8 No implied licenses. You only get the rights this Agreement actually grants.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Mutual. Each of us holds the other's non-public information confidential, uses it only for the work, and shares it only with our people who need to know and are bound by similar confidentiality.
+
+9.2 Customer's Confidential Information includes Customer Data, Customer Models, your problem framing, your performance metrics, the existence and contents of any SOW, and your business strategy.
+
+9.3 Exceptions. The promise does not cover information that is already public, was already known, was independently developed, or was rightfully received from someone else with no confidentiality duty.
+
+9.4 Compelled disclosure. If a court order requires disclosure, we will tell the other side first if we are legally allowed to.
+
+9.5 Survival. Confidentiality obligations last during this Agreement and for five (5) years after.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Authority. Each of us has the authority to enter into this Agreement.
+
+10.2 What we promise. The Services will be performed in a professional, workmanlike manner consistent with current ML best practices. The Customer Models will not knowingly include malicious code. We will comply with applicable laws.
+
+10.3 What you promise. You have the right to provide Customer Data. The Customer Data does not infringe anyone else's rights and may lawfully be used to train, evaluate, and run the Customer Models for the use case in the SOW.
+
+10.4 Disclaimer. EXCEPT FOR THE LIMITED WARRANTY ABOVE, THE SERVICES, CUSTOMER MODELS, AND DELIVERABLES ARE PROVIDED "AS IS." WE DISCLAIM ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. ML MODEL OUTPUTS ARE PROBABILISTIC. WE DO NOT WARRANT ANY SPECIFIC ACCURACY, PRECISION, RECALL, LATENCY, OR OTHER PERFORMANCE METRIC EXCEPT AS EXPRESSLY SET FORTH AS AN ACCEPTANCE CRITERION IN A SOW. WE DO NOT WARRANT THAT ANY MODEL OUTPUT IS CORRECT, NON-INFRINGING, OR FIT FOR PRODUCTION USE — YOU REMAIN RESPONSIBLE FOR EVALUATING MODEL OUTPUTS BEFORE PRODUCTION USE.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 We defend you against IP claims about our deliverables. If a third party sues you because the Customer Model code we wrote (the parts we built — not the Foundation Models, not Customer Data, not your application) infringes their U.S. patent, copyright, trademark, or trade secret, we will defend you and pay the final judgment or agreed settlement, subject to the cap in Article 12.
+
+11.2 We do not indemnify Foundation Model output. Because Foundation Models are not under our control, we do not indemnify you for claims that a Foundation Model output infringes someone's IP.
+
+11.3 You defend us. You will defend us against any third-party claim that arises from (a) Customer Data, (b) any model you train on data you did not have the right to use, (c) any application you build using the Customer Models, or (d) your use of the Services in violation of this Agreement.
+
+11.4 How indemnification works. The side seeking indemnity tells the other side promptly, gives the other side control of the defense (subject to a no-bad-settlement-without-consent right), and helps out at the indemnifying side's reasonable expense.
+
+11.5 If a deliverable might infringe. If a deliverable might be the subject of an IP claim, we may (a) get you a license, (b) modify it to be non-infringing without losing material value, (c) replace it, or (d) take it back and refund the fees you paid for it.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. EXCEPT AS PROVIDED IN SECTION 12.3, NEITHER OF US WILL BE LIABLE TO THE OTHER FOR MORE THAN THE TOTAL FEES YOU HAVE PAID US UNDER THE AFFECTED SOW IN THE {{LIABILITY_CAP_MONTHS}} MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM.
+
+12.2 No indirect damages. EXCEPT AS PROVIDED IN SECTION 12.3, NEITHER OF US WILL BE LIABLE TO THE OTHER FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, LOST REVENUE, LOST BUSINESS, OR LOSS OF DATA, EVEN IF EITHER OF US HAS BEEN ADVISED THAT THOSE DAMAGES ARE POSSIBLE.
+
+12.3 What is not capped. The cap and the exclusion do not apply to (a) what we owe under Article 11, (b) breach of Article 7 (Customer Data and Privacy), specifically Section 7.3 (no training for others), (c) breach of Article 9 (Confidentiality), (d) your obligation to pay fees, (e) gross negligence, willful misconduct, or fraud, or (f) anything the law says cannot be limited.
+
+12.4 Why the cap. The cap reflects the price of consulting services.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for material breach. Either of us can terminate this Agreement, or any SOW, on 30 days written notice if the other side materially breaches and does not cure within those 30 days. If we materially breach Section 7.3, you can terminate immediately without a cure period.
+
+13.2 Termination for insolvency. Either of us can terminate immediately if the other becomes insolvent or files for bankruptcy.
+
+13.3 Effects of termination. When this ends: (a) we stop work, (b) we deliver the Customer Models and Customer Data to you, (c) we return Client Materials, (d) you pay us for accepted work and non-cancellable cloud commitments, (e) each of us returns or destroys the other's Confidential Information, and (f) Articles 1, 7, 8, 9, 11, 12, and 14 keep working.
+
+13.4 Wind-down assistance. After termination, we will help you wind down for up to 30 days at our standard rates — knowledge transfer, deployment support, and model handoff to your in-house team or successor consultancy.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing law. The laws of the State of {{GOVERNING_LAW_STATE}} apply, without regard to conflict-of-laws rules.
+
+14.2 Where to sue. Any lawsuit about this Agreement must be filed in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+14.3 Talk first. Before suing, please email legal@neuralforge.ai and give us 30 days to fix the problem informally.
+
+14.4 No jury. We both give up the right to a jury trial.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Whole agreement. This Agreement plus all signed SOWs make up the whole deal between us about the Services.
+
+15.2 Updates. Changes only count if they are in writing signed by both of us.
+
+15.3 Severability. If a court says a part of this Agreement does not work, the rest still does.
+
+15.4 No waiver. Not enforcing a right one time is not a permanent giveup.
+
+15.5 Notices. Formal notices go to the addresses on the SOW or to legal@neuralforge.ai.
+
+15.6 Independent contractors. We are independent contractors.
+
+15.7 Subcontractors. We may use approved freelance ML engineers for specialized work. They sign confidentiality and IP assignment agreements substantially similar to ours.
+
+15.8 Assignment. Neither of us can assign this Agreement without the other's consent, except either of us can assign in connection with a merger or sale of substantially all assets.
+
+15.9 Force majeure. Neither of us is liable for delays caused by events outside our reasonable control, except your obligation to pay still applies.
+
+15.10 No third-party beneficiaries. Only you and we have rights under this Agreement.
+
+15.11 Counterparts. We can sign in counterparts.
+
+15.12 Plain language. We wrote this in plain language on purpose.
+
+Signed:
+
+{{PROVIDER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+{{CUSTOMER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Technology Officer
+Date:

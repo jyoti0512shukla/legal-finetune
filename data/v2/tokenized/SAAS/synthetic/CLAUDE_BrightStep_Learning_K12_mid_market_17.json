@@ -1,0 +1,85 @@
+{
+  "source_file": "CLAUDE_BrightStep_Learning_K12_mid_market_17.txt",
+  "entity_map": {
+    "PROVIDER_NAME": "BrightStep Learning, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "88 Innovation Way, Suite 400, San Mateo, California 94402",
+    "CUSTOMER_NAME": "Riverdale Unified School District",
+    "CUSTOMER_STATE": "California",
+    "CUSTOMER_ENTITY_TYPE": "public school district organized under the laws of the State of California",
+    "CUSTOMER_ADDRESS": "1450 Civic Center Drive, Riverdale, California 92505",
+    "EFFECTIVE_DATE": "September 3, 2024",
+    "GOVERNING_LAW_STATE": "California",
+    "VENUE_COUNTY": "Riverside County",
+    "VENUE_CITY": "Riverdale",
+    "ANNUAL_FEE_AMOUNT": "One Hundred Thirty-Two Thousand United States Dollars ($132,000)",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)",
+    "NOTICE_DAYS": "ninety (90)",
+    "IMPLEMENTATION_FEE": "Twenty Thousand United States Dollars ($20,000)"
+  },
+  "replacements_made": {
+    "CUSTOMER_ENTITY_TYPE": {
+      "original": "public school district organized under the laws of the State of California",
+      "occurrences": 1
+    },
+    "ANNUAL_FEE_AMOUNT": {
+      "original": "One Hundred Thirty-Two Thousand United States Dollars ($132,000)",
+      "occurrences": 1
+    },
+    "PROVIDER_ADDRESS": {
+      "original": "88 Innovation Way, Suite 400, San Mateo, California 94402",
+      "occurrences": 2
+    },
+    "CUSTOMER_ADDRESS": {
+      "original": "1450 Civic Center Drive, Riverdale, California 92505",
+      "occurrences": 2
+    },
+    "IMPLEMENTATION_FEE": {
+      "original": "Twenty Thousand United States Dollars ($20,000)",
+      "occurrences": 1
+    },
+    "CUSTOMER_NAME": {
+      "original": "Riverdale Unified School District",
+      "occurrences": 2
+    },
+    "PROVIDER_NAME": {
+      "original": "BrightStep Learning, Inc.",
+      "occurrences": 2
+    },
+    "EFFECTIVE_DATE": {
+      "original": "September 3, 2024",
+      "occurrences": 1
+    },
+    "VENUE_COUNTY": {
+      "original": "Riverside County",
+      "occurrences": 1
+    },
+    "PROVIDER_ENTITY_TYPE": {
+      "original": "corporation",
+      "occurrences": 1
+    },
+    "LIABILITY_CAP_MONTHS": {
+      "original": "twelve (12)",
+      "occurrences": 1
+    },
+    "NOTICE_DAYS": {
+      "original": "ninety (90)",
+      "occurrences": 4
+    },
+    "CUSTOMER_STATE": {
+      "original": "California",
+      "occurrences": 12
+    },
+    "PROVIDER_STATE": {
+      "original": "Delaware",
+      "occurrences": 1
+    },
+    "TERM_YEARS": {
+      "original": "two (2)",
+      "occurrences": 1
+    }
+  },
+  "total_substitutions": 33
+}

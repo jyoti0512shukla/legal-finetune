@@ -1,0 +1,201 @@
+OBSERVOLOOP — CUSTOMER AGREEMENT
+
+This is the ObservoLoop Customer Agreement (the "Agreement"). It is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} (the "Provider," "we," "our"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} (the "Customer," "you"). It starts on {{EFFECTIVE_DATE}}.
+
+ObservoLoop is a hosted observability platform — logs, metrics, traces, and alerts for software teams. We try to keep this Agreement short and human. If something is unclear, email us at legal@observoloop.io.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 The "Service" is the ObservoLoop hosted observability platform — log ingestion, metric ingestion, distributed trace collection, the dashboards, the query engine, the alerting engine, the SDKs and agents, and any updates we ship.
+
+1.2 "Customer Data" is the telemetry you send us — log events, metric series, distributed traces, span attributes, alert events, dashboard configurations, query history, and any source-attribution data your agents include.
+
+1.3 "Authorized User" is anyone you authorize to log in to the Service.
+
+1.4 "Ingest Volume" is the metered volume of telemetry your account ingests, measured in gigabytes per month for logs and traces and in active metric series for metrics.
+
+1.5 "Sampling" is the practice of selecting a subset of telemetry events for ingestion, configurable in the agents and the Service dashboard.
+
+ARTICLE 2 — SUBSCRIPTION AND LICENSE
+
+2.1 What you get. We give you a non-exclusive license to use the Service for your software team during the Term. You can install our agents on as many of your hosts and containers as your tier allows.
+
+2.2 Authorized Users. Your tier includes a number of Authorized User seats. Add more if you need them; they are billed at the per-seat rate on the pricing page.
+
+2.3 What you cannot do. You cannot reverse engineer the Service, build a competing observability platform with it, send us telemetry that contains personal data without the right to do so, or use the Service to monitor systems you do not have permission to monitor.
+
+2.4 Suspension. We will give you a heads-up before suspending you, except in the case of a security emergency. Reasons we might suspend: you are abusing the Service, you owe us money for more than 30 days, or a court tells us to.
+
+ARTICLE 3 — IMPLEMENTATION
+
+3.1 Self-serve. You install the agents on your hosts, point them at our endpoint, and start ingesting telemetry. There is no implementation phase. There is no setup fee on the standard tiers.
+
+3.2 Onboarding help. We offer a free onboarding consultation for any customer that signs an annual subscription. Standard support handles ongoing questions.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Subscription. You pay {{ANNUAL_FEE_AMOUNT}} per year for your tier, billed annually in advance.
+
+4.2 Volume metering. Your tier includes a baseline Ingest Volume. If you exceed the baseline in any month, the overage is billed at the rates on observoloop.io/pricing. Overages are billed monthly in arrears.
+
+4.3 Sampling controls. You can configure sampling at the agent level and at the Service ingest endpoint to control your Ingest Volume. We offer guides at observoloop.io/sampling. We bill based on what you ingest, not what you generate, so good sampling can reduce your bill.
+
+4.4 Volume alerts. We send a dashboard alert at 80% and 100% of your monthly baseline so you can adjust sampling or upgrade your tier before incurring overage.
+
+4.5 Net 30. Annual fees are due 30 days after the invoice date. Late payments accrue 1% per month or the most the law allows, whichever is less.
+
+4.6 Renewal pricing. We may change the price at renewal. We will email you 60 days before any change.
+
+4.7 Disputes. If you think a charge is wrong, dispute it in the dashboard within 30 days. Pay the parts you do not dispute on time.
+
+4.8 Taxes. Fees do not include taxes. You are responsible for any taxes that apply.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Initial Term. The initial term is {{TERM_YEARS}} years, starting on the Effective Date.
+
+5.2 Renewal. The Agreement auto-renews for one (1) year periods after the initial term. Either of us can stop renewal by giving written notice at least {{NOTICE_DAYS}} days before the current term ends.
+
+5.3 You can cancel any time. Cancel in the dashboard. Cancellation takes effect at the end of the current billing period. We do not refund unused portions.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Ingestion uptime. We aim for 99.95% monthly ingestion uptime — meaning your agents can successfully send telemetry to our ingest endpoint.
+
+6.2 Query uptime. We aim for 99.9% monthly query uptime — meaning you can run dashboards and alerts against your ingested data. Query and ingestion are separate because we sometimes pause query temporarily during platform upgrades while ingestion continues normally.
+
+6.3 Excluded downtime. Scheduled maintenance with 48 hours notice, your code (including misconfigured agents), third-party services we depend on, force majeure events, and your tier limits being exceeded do not count as downtime.
+
+6.4 Service credits. If we miss the ingestion or query SLA, you get a service credit equal to (a) 5% of one twelfth of the annual subscription fee for any month between 99.9% and 99.95%, (b) 10% for any month between 99.5% and 99.9%, or (c) 25% for any month below 99.5%. Credits apply to your next invoice. They are the only money remedy for an SLA miss.
+
+6.5 Support. Standard support is included: 24/7 access to the help center and ticketing portal, email support with a 4-business-hour first response target during business hours (Pacific Time), and 24/7 emergency on-call support for Severity 1 incidents (a complete production outage of your account) with a 1-hour first response target.
+
+6.6 Maintenance. We do routine maintenance on Sundays from 11:00 p.m. to 2:00 a.m. Pacific Time. We give 72 hours notice for any other planned maintenance.
+
+ARTICLE 7 — YOUR DATA AND PRIVACY
+
+7.1 You own Customer Data. You retain all rights to Customer Data. We do not own it.
+
+7.2 Why we touch Customer Data. We host, store, index, query, and serve Customer Data only to provide the Service to you — running your dashboards, evaluating your alert rules, and serving your queries. We will not use Customer Data for any other purpose.
+
+7.3 No training. We will not use Customer Data — including your logs, metrics, traces, span attributes, alert payloads, or query history — to train any artificial intelligence or machine learning model. If we ever want to do anything else with your data, we will ask first.
+
+7.4 No selling. We will not sell Customer Data, share it with advertisers, or include it in any commercial dataset.
+
+7.5 Aggregate stats. We may compute and use de-identified, aggregated statistics about platform-wide usage (such as the average query latency across all customers, or the average ingest volume per host) to operate and improve the Service. Aggregate statistics do not identify you, your hosts, your applications, or any individual.
+
+7.6 Personal data in telemetry. The Parties acknowledge that logs, traces, and span attributes may inadvertently contain personal data (user IDs, IP addresses, request headers, error messages with personal data in them). You are responsible for configuring your agents and your application to scrub or sample personal data before it leaves your environment. We provide configurable scrubbing rules at the agent and ingest level. The Data Processing Addendum at observoloop.io/dpa applies to any personal data we end up processing on your behalf.
+
+7.7 Tenant isolation. Your Customer Data is logically isolated from every other customer's Customer Data.
+
+7.8 Security. We protect Customer Data with TLS 1.2+ in transit, AES-256 at rest, role-based access controls, annual third-party penetration testing, and an annual SOC 2 Type II audit. We share the SOC 2 report under NDA on request.
+
+7.9 Breach notification. If we discover a security incident that compromises Customer Data, we will tell you in the dashboard and by email within 72 hours of discovery.
+
+7.10 Data residency. We host Customer Data in our United States region by default. EU and APAC regions are available on the Pro tier and above.
+
+7.11 Subprocessors. The current subprocessor list is at observoloop.io/subprocessors. We give Pro tier customers and above 30 days notice before adding or changing a subprocessor that handles Customer Data.
+
+7.12 Retention. By default, we retain logs and traces for 30 days and metrics for 13 months. You can change retention in your account settings, subject to the limits of your tier.
+
+7.13 Data export and deletion. You can export Customer Data using our API at any time at no charge. After your account is canceled, we keep Customer Data available for 60 days for export. After that, we delete Customer Data within 30 days, with backup deletion completed within 90 days.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Our IP. We own the Service. The ingest engine, the query engine, the storage layer, the agents, the dashboards, the SDKs, our trademarks, and any improvements are ours. Nothing in this Agreement gives you any of that.
+
+8.2 Your IP. You own Customer Data. You also own the dashboards, alerts, queries, runbooks, and other content you create within the Service that reflect your operational practices.
+
+8.3 Aggregate stats. Aggregate statistics computed under Section 7.5 belong to us, subject to the de-identification limit there.
+
+8.4 Feedback. If you send us product feedback, bug reports, or feature ideas, we can use them to improve the Service. We will not use Customer Data when we work on feedback. We will not use your name in marketing without asking first.
+
+8.5 No implied licenses. You only get the rights this Agreement actually gives you.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Mutual. Each of us will keep the other's non-public information confidential, only use it as needed for the Service, only share it with people who need to know and are bound by similar confidentiality, and protect it with at least reasonable care.
+
+9.2 Customer's Confidential Information includes Customer Data, your dashboards and alerts (which may reflect operational practices), and your security incident history.
+
+9.3 Exceptions. The promise does not cover information that is already public, was already known, was independently developed, or was rightfully received from someone else with no confidentiality duty.
+
+9.4 Compelled disclosure. If a court order requires disclosure, we will tell the other side first if we are legally allowed to.
+
+9.5 Survival. Confidentiality obligations last during this Agreement and for two (2) years after.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Authority. Each of us has the authority to enter into this Agreement.
+
+10.2 What we promise. During your paid subscription, the Service will work substantially as documented, we will not knowingly include malicious code in the Service or our agents, and we will provide the Service in a workmanlike manner.
+
+10.3 What you promise. You have the right to upload Customer Data, you will scrub or sample personal data before sending it to us, your use of the Service complies with applicable laws, and you are not on any sanctions list.
+
+10.4 Disclaimer. EXCEPT FOR THE LIMITED WARRANTY ABOVE, THE SERVICE IS PROVIDED "AS IS." WE DISCLAIM ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SERVICE WILL DETECT EVERY ANOMALY, EVERY OUTAGE, OR EVERY PERFORMANCE REGRESSION IN YOUR APPLICATION. OBSERVABILITY IS A TOOL TO HELP YOUR ENGINEERING TEAM, NOT A SUBSTITUTE FOR YOUR ENGINEERING JUDGMENT.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 We defend you. If a third party sues you because the Service itself (the parts we built) supposedly infringes their U.S. patent, copyright, trademark, or trade secret, we will defend you and pay the final judgment or agreed settlement, subject to the cap in Article 12. This does not cover Customer Data or anything you built using the Service.
+
+11.2 You defend us. You will defend us against any claim that arises from (a) Customer Data, including any personal data your agents sent us that you did not have the right to collect, (b) your application or how it uses the Service, or (c) your use of the Service in violation of this Agreement.
+
+11.3 How indemnification works. The side seeking indemnity will tell the other side promptly, give the other side control of the defense (subject to a no-bad-settlement-without-consent right), and help out at the indemnifying side's reasonable expense.
+
+11.4 If the Service might infringe. If we think the Service might be the subject of an IP claim, we may (a) get you a license, (b) modify the Service, (c) replace it with something equivalent, or (d) terminate this Agreement and refund unused prepaid fees.
+
+11.5 Sole remedy. This is the only remedy you get from us for IP infringement claims about the Service.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING OUT OF OR RELATED TO THE SERVICE OR THIS AGREEMENT IS LIMITED TO THE TOTAL FEES YOU HAVE PAID US IN THE {{LIABILITY_CAP_MONTHS}} MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM.
+
+12.2 No indirect damages. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER WE NOR YOU WILL BE LIABLE TO THE OTHER FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, LOST REVENUE, LOST DATA, LOSS OF GOODWILL, OR LOSS OF USE, EVEN IF EITHER OF US HAS BEEN ADVISED THAT THOSE DAMAGES ARE POSSIBLE. THIS INCLUDES, FOR THE AVOIDANCE OF DOUBT, ANY DAMAGES YOU INCUR AS A RESULT OF AN OUTAGE IN YOUR OWN APPLICATION THAT THE SERVICE FAILED TO DETECT OR ALERT ON.
+
+12.3 What is not capped. The cap and the exclusion do not apply to (a) what we owe under Article 11, (b) breach of Article 7 (Your Data and Privacy), (c) breach of Article 9 (Confidentiality), (d) your obligation to pay fees, (e) gross negligence, willful misconduct, or fraud, or (f) anything the law says cannot be limited.
+
+12.4 Why the cap. The cap reflects the price. If you need a higher cap, talk to us about a custom enterprise agreement.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for material breach. Either of us can terminate on 30 days written notice if the other materially breaches and does not cure within those 30 days. If you terminate for our material breach, we will refund the unused prepaid portion.
+
+13.2 Termination for insolvency. Either of us can terminate immediately on written notice if the other becomes insolvent, makes a general assignment for the benefit of creditors, files for bankruptcy, or has bankruptcy filed against it that is not dismissed within 60 days.
+
+13.3 What happens when this ends. When the Agreement ends: (a) the agents stop sending data to us, (b) you owe any unpaid fees through the end date, (c) we delete Customer Data per Section 7.13, (d) we each return or destroy the other's Confidential Information, and (e) Articles 1, 7 (in part), 8, 9, 11, 12, and 14 keep working.
+
+13.4 Transition help. For up to 60 days after termination, we will help you export Customer Data and dashboards to another platform. Standard exports are free.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing law. The laws of the State of {{GOVERNING_LAW_STATE}} apply, without regard to conflict-of-laws rules.
+
+14.2 Where to sue. Any lawsuit about this Agreement must be filed in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+14.3 Talk first. Before you sue, please email legal@observoloop.io and give us 30 days to fix the problem informally.
+
+14.4 No jury. We both give up the right to a jury trial.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Whole agreement. This Agreement, plus the documents we link to (the pricing page, the subprocessor list, the privacy policy, the DPA), are the whole deal between us about the Service.
+
+15.2 Updates. We may update this Agreement from time to time. We will email you 30 days before any material change.
+
+15.3 Severability. If a court says a part of this Agreement does not work, the rest still does.
+
+15.4 No waiver. Not enforcing a right one time is not a permanent giveup.
+
+15.5 Notices. We will send you notices by email. You will send us notices to legal@observoloop.io.
+
+15.6 Assignment. You cannot assign this Agreement without our written consent. We may assign without your consent in connection with a merger or sale of substantially all of our assets.
+
+15.7 Force majeure. Neither of us is liable for delays caused by events outside our reasonable control, except your obligation to pay still applies.
+
+15.8 Independent contractors. We are independent contractors.
+
+15.9 No third-party beneficiaries. Only you and we have rights under this Agreement.
+
+15.10 Counterparts. We can sign in counterparts, including by electronic signature.
+
+15.11 Plain language. We wrote this in plain language on purpose.

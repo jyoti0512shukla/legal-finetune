@@ -1,0 +1,231 @@
+FEDERAL INFORMATION TECHNOLOGY SERVICES MASTER AGREEMENT
+
+This Federal Information Technology Services Master Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} (the "Contractor"), having its principal place of business at {{PROVIDER_ADDRESS}}, and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} (the "Government"), having its principal place of business at {{CUSTOMER_ADDRESS}}. The Contractor and the Government may each be referred to as a "Party" and collectively as the "Parties."
+
+This Agreement governs the performance of information technology services by the Contractor for the Government under one or more Task Orders to be issued under this Agreement. The Parties acknowledge that this Agreement is a federal government contract and is subject to the Federal Acquisition Regulation ("FAR") and the Defense Federal Acquisition Regulation Supplement ("DFARS"). The mandatory FAR and DFARS clauses set forth in Exhibit A are incorporated into this Agreement by reference and shall govern over any inconsistent provision of this Agreement. In the event of any conflict between this Agreement and any applicable law, regulation, or FAR/DFARS clause, the law, regulation, or FAR/DFARS clause shall control.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "CMMC" means the Cybersecurity Maturity Model Certification framework adopted by the Department of Defense.
+
+1.2 "Contracting Officer" means the duly authorized contracting officer of the Government with authority to enter into, administer, and modify this Agreement and any Task Order issued hereunder.
+
+1.3 "Controlled Unclassified Information" or "CUI" means information that requires safeguarding or dissemination controls pursuant to and consistent with applicable law, regulations, and government-wide policies.
+
+1.4 "Covered Defense Information" or "CDI" has the meaning given in DFARS 252.204-7012.
+
+1.5 "DFARS" means the Defense Federal Acquisition Regulation Supplement.
+
+1.6 "Disclosing Party" and "Receiving Party" have the meanings given in Article 9.
+
+1.7 "EAR" means the Export Administration Regulations, 15 C.F.R. Parts 730-774.
+
+1.8 "FAR" means the Federal Acquisition Regulation, 48 C.F.R. Chapter 1.
+
+1.9 "Government Furnished Equipment" or "GFE" means any property furnished by the Government to the Contractor for use in performing the Services under a Task Order.
+
+1.10 "ITAR" means the International Traffic in Arms Regulations, 22 C.F.R. Parts 120-130.
+
+1.11 "Key Personnel" means the specific individual personnel of the Contractor identified as Key Personnel on a Task Order.
+
+1.12 "NIST SP 800-171" means the National Institute of Standards and Technology Special Publication 800-171, "Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations."
+
+1.13 "OCI" means an organizational conflict of interest as defined in FAR Subpart 9.5.
+
+1.14 "Services" means the information technology services to be performed by the Contractor for the Government under one or more Task Orders.
+
+1.15 "Task Order" means a written task order issued by the Contracting Officer under this Agreement that describes a particular requirement, including the scope of work, the period of performance, the funding, the Key Personnel, and any task-specific terms.
+
+1.16 "Work Product" means all deliverables, software code, documentation, designs, data, reports, and other tangible work product created by or on behalf of the Contractor in the course of performing the Services.
+
+ARTICLE 2 — SCOPE OF SERVICES
+
+2.1 Issuance of Task Orders. The Contracting Officer may issue Task Orders to the Contractor under this Agreement from time to time during the Term. Each Task Order shall describe the requirement, the period of performance, the funding (which shall be subject to availability of appropriations), the Key Personnel, the deliverables, and any task-specific terms.
+
+2.2 Order of Precedence. In the event of any conflict between this Agreement and a Task Order, the Task Order shall control as to the matters expressly addressed therein. In the event of any conflict between this Agreement (or any Task Order) and any applicable FAR or DFARS clause, the FAR or DFARS clause shall control. In the event of any conflict between this Agreement and any other applicable federal law or regulation, the law or regulation shall control.
+
+2.3 Standard of Performance. The Contractor shall perform the Services in a professional and workmanlike manner, in accordance with the requirements set forth in each Task Order, the applicable FAR and DFARS clauses, and the standards of the federal IT services industry.
+
+2.4 Section 508 Compliance. Any Work Product that constitutes electronic and information technology shall comply with the accessibility standards set forth in Section 508 of the Rehabilitation Act of 1973, 29 U.S.C. § 794d, and the implementing regulations.
+
+2.5 Buy American Act. The Contractor shall comply with the Buy American Act, 41 U.S.C. §§ 8301-8305, and the implementing FAR clauses, with respect to any end products supplied under this Agreement.
+
+ARTICLE 3 — DELIVERABLES AND ACCEPTANCE
+
+3.1 Delivery. The Contractor shall deliver each Work Product item in accordance with the schedule set forth in the applicable Task Order.
+
+3.2 Acceptance Period. The Contracting Officer (or the Contracting Officer's designated representative) shall have a period of thirty (30) calendar days following delivery of each Work Product item to inspect and accept or reject the item, in accordance with FAR Subpart 46.5.
+
+3.3 Cure of Non-Conformity. If the Contracting Officer rejects a Work Product item, the Contractor shall, at no additional cost to the Government, cure the non-conformity within the time period specified in the rejection notice or such longer period as the Contracting Officer may permit.
+
+3.4 Final Acceptance. Final acceptance of each Work Product item shall be in writing by the Contracting Officer. There shall be no deemed acceptance.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Fees. The Government shall pay the Contractor in accordance with the funding, payment schedule, and contract type (firm-fixed-price, cost-plus-fixed-fee, time-and-materials, or labor-hour) set forth in each Task Order. All payment shall be subject to the availability of appropriations.
+
+4.2 Annual Aggregate Reference. The aggregate annual Fees payable by the Government across all then-active Task Orders as of the Effective Date is approximately {{ANNUAL_FEE_AMOUNT}}, included for reference only and subject to the availability of appropriations and the issuance of Task Orders by the Contracting Officer.
+
+4.3 Service Contract Act Wage Determinations. To the extent the Services are subject to the Service Contract Act, 41 U.S.C. §§ 6701-6707, the Contractor shall comply with the wage determinations issued by the Department of Labor and shall pay covered employees at not less than the wage rates and fringe benefits set forth in the applicable wage determinations.
+
+4.4 Payment in Accordance with FAR. Payment shall be made in accordance with the Prompt Payment Act, 31 U.S.C. §§ 3901-3907, and the applicable FAR clauses.
+
+4.5 Limitation of Funds. Where a Task Order is issued on an incrementally funded basis, the Contractor shall not be obligated to perform Services in excess of the amount allotted, and the Government shall not be obligated to pay any amount in excess of the amount allotted, in accordance with FAR 52.232-22 (Limitation of Funds).
+
+4.6 Audit. The Contractor's records (including time records, expense records, and supporting documentation) shall be subject to audit by the Defense Contract Audit Agency, the Government Accountability Office, the Inspector General, the Contracting Officer, and any other federal auditor with jurisdiction over the Contractor or this Agreement, in accordance with FAR Subpart 4.7.
+
+4.7 Taxes. Fees are exclusive of all taxes other than taxes imposed on the Contractor's net income.
+
+ARTICLE 5 — TERM AND TERMINATION
+
+5.1 Period of Performance. The period of performance of this Agreement shall commence on the Effective Date and shall continue for a period of {{TERM_YEARS}} years, subject to the Government's right to extend pursuant to FAR 52.217-9 (Option to Extend the Term of the Contract).
+
+5.2 Termination for Convenience. The Government may terminate this Agreement, or any Task Order, in whole or in part, for the convenience of the Government in accordance with FAR 52.249-2 (Termination for Convenience of the Government). Upon any such termination, the Contractor shall be entitled to reimbursement of allowable costs incurred prior to termination plus a reasonable profit, in accordance with FAR Subpart 49.
+
+5.3 Termination for Default. The Government may terminate this Agreement, or any Task Order, for default in accordance with FAR 52.249-8 (Default).
+
+ARTICLE 6 — KEY PERSONNEL AND CLEARANCES
+
+6.1 Key Personnel. Each Task Order shall identify the Contractor Key Personnel committed to perform the Services under that Task Order.
+
+6.2 Substitution of Key Personnel. The Contractor shall not substitute any Key Personnel without the prior written approval of the Contracting Officer, in accordance with FAR 52.222-46 or analogous Key Personnel clauses. Any proposed substitution shall be accompanied by a resume and qualifications for the proposed substitute, and the Contracting Officer shall approve or disapprove the substitution within a reasonable time.
+
+6.3 Security Clearances. Where the Services involve access to classified information or to facilities requiring security clearance, the Contractor shall ensure that all personnel performing such Services possess the required security clearance and are eligible to access the relevant classified information at the required level. The Contractor shall comply with all applicable security clearance requirements, including the National Industrial Security Program Operating Manual (NISPOM).
+
+6.4 Background Investigations. All Contractor personnel performing the Services shall undergo background investigations in accordance with the requirements of the applicable Task Order and the Contracting Officer's instructions.
+
+6.5 Citizenship. Where the Services involve access to CUI, CDI, ITAR-controlled information, or classified information, only United States citizens may perform such Services, except as expressly permitted by the Contracting Officer in writing.
+
+6.6 Removal of Personnel. The Contracting Officer may, at any time and for any reason, request that the Contractor remove any individual personnel from the performance of the Services. The Contractor shall comply with any such request promptly.
+
+6.7 Non-Solicitation. The Government does not impose any restriction on the Contractor's hiring practices except as provided in any applicable post-employment restrictions on former federal employees.
+
+ARTICLE 7 — INFORMATION SECURITY, CUI, AND EXPORT CONTROLS
+
+7.1 NIST SP 800-171 Compliance. To the extent the Services involve access to, processing of, or storage of CUI, the Contractor shall implement the security requirements of NIST SP 800-171 in its information systems that handle CUI, in accordance with DFARS 252.204-7012.
+
+7.2 CMMC Compliance. To the extent required by the applicable Task Order or by DoD CMMC requirements, the Contractor shall maintain the CMMC certification level required by the Task Order throughout the period of performance.
+
+7.3 Cyber Incident Reporting. The Contractor shall report any "cyber incident" affecting CDI or the Contractor's covered information systems to the Department of Defense at https://dibnet.dod.mil within seventy-two (72) hours of discovery, in accordance with DFARS 252.204-7012(c).
+
+7.4 Notification to Government. In addition to the DFARS-required cyber incident reporting, the Contractor shall notify the Contracting Officer in writing of any cyber incident affecting CUI, CDI, or any Government information within twenty-four (24) hours of discovery.
+
+7.5 ITAR and EAR Compliance. The Contractor shall comply with the ITAR and the EAR with respect to any defense articles, defense services, technical data, or controlled commodities involved in the performance of this Agreement. The Contractor shall not export, re-export, or transfer (in-country) any such items to any foreign person or destination without the appropriate export authorization.
+
+7.6 Foreign Ownership, Control, or Influence (FOCI). The Contractor shall comply with the FOCI requirements of the NISPOM and shall promptly notify the Government of any change in foreign ownership, control, or influence over the Contractor.
+
+7.7 Government Furnished Equipment. The Contractor shall use any GFE provided to it by the Government solely for the purpose of performing the Services under the applicable Task Order. The Contractor shall maintain GFE in good condition, shall implement appropriate security controls, and shall return GFE to the Government at the end of the period of performance or upon the Government's earlier request.
+
+7.8 No Cloud Storage Outside the United States. The Contractor shall not store, process, or transmit any CUI, CDI, or other Government information using cloud computing services located outside of the United States, in accordance with DFARS 252.239-7010 and the applicable cloud computing requirements.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Federal Government IP Clauses. The intellectual property rights in any Work Product shall be governed by the applicable FAR data rights clauses (including FAR 52.227-14 (Rights in Data — General), FAR 52.227-17 (Rights in Data — Special Works), and any other applicable FAR or DFARS data rights clauses) and the rights specified in the applicable Task Order. Nothing in this Article 8 shall be construed to grant rights to the Government in excess of, or in derogation of, the rights specified in the applicable FAR or DFARS clauses.
+
+8.2 Government Purpose Rights. Unless the Task Order specifies otherwise, the Government shall have the rights in Work Product specified in the applicable FAR or DFARS data rights clauses, which may include "unlimited rights," "limited rights," "Government purpose rights," "restricted rights," "specifically negotiated license rights," or such other rights as the FAR or DFARS specifies.
+
+8.3 Marking of Restricted Data. The Contractor shall mark any data delivered to the Government with the restrictive markings required by the applicable FAR or DFARS clauses, where such markings are necessary to preserve the Contractor's restricted rights.
+
+8.4 Contractor's Pre-Existing IP. The Contractor shall retain ownership of its pre-existing intellectual property to the extent permitted by the applicable FAR data rights clauses and the applicable Task Order. The Government's rights in any pre-existing Contractor IP delivered to the Government shall be specified in the applicable Task Order.
+
+8.5 No Implied Licenses. Except as expressly granted by the FAR data rights clauses or by the applicable Task Order, no rights or licenses are granted by either Party to the other Party.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party (the "Receiving Party") shall (a) hold the other Party's (the "Disclosing Party's") Confidential Information in strict confidence; (b) use such Confidential Information solely for purposes of this Agreement; (c) not disclose it except to its personnel who have a need to know and are bound by obligations of confidentiality; and (d) protect it with at least reasonable care.
+
+9.2 Government's Confidential Information includes any CUI, CDI, or other Government information identified as sensitive, and any Government information that is subject to FOIA exemptions.
+
+9.3 Compelled Disclosure. The Receiving Party may disclose Confidential Information to the extent required by law, court order, or by a Government audit or inspection right.
+
+9.4 Survival. The obligations in this Article 9 shall survive any expiration or termination of this Agreement indefinitely or for as long as required by applicable law.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants that (a) it has the authority to enter into this Agreement and (b) this Agreement constitutes a binding obligation enforceable against it.
+
+10.2 Contractor Warranties. The Contractor represents, warrants, and covenants that (a) the Services shall be performed in a professional and workmanlike manner consistent with the standards of the federal IT services industry; (b) the Contractor shall comply with all applicable federal laws, regulations, FAR clauses, and DFARS clauses; (c) the Contractor shall maintain all required security clearances, NIST SP 800-171 compliance, and CMMC certifications throughout the period of performance; (d) the Contractor is not currently debarred, suspended, or proposed for debarment from federal contracting; (e) the Contractor has no organizational conflict of interest with respect to this Agreement that has not been disclosed to and mitigated in coordination with the Contracting Officer; and (f) the Contractor shall promptly notify the Contracting Officer of any change in its debarment, suspension, or OCI status.
+
+10.3 Government Reservation of Rights. Nothing in this Article 10 shall be construed to waive any rights or remedies of the Government under the FAR, the DFARS, or applicable federal law.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS ARTICLE 10 AND IN THE APPLICABLE FAR AND DFARS CLAUSES, THE SERVICES ARE PROVIDED ON AN "AS IS" BASIS. THE CONTRACTOR DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Indemnification under Federal Law. The Government's indemnification obligations under this Agreement, if any, are governed by 28 U.S.C. § 1346 (the Federal Tort Claims Act), the Contract Disputes Act, and other applicable federal law. Nothing in this Agreement shall be construed as a waiver of sovereign immunity or as creating any indemnification obligation of the Government in excess of what federal law permits.
+
+11.2 Contractor Indemnity. To the extent permitted by applicable law and the FAR, the Contractor shall hold harmless the Government against any third-party claim, suit, action, or proceeding alleging that any Work Product, when used by the Government in accordance with this Agreement, infringes any United States patent, copyright, trademark, or trade secret of such third party, in accordance with FAR 52.227-3 (Patent Indemnity) or analogous clauses.
+
+11.3 Personnel Misconduct. The Contractor shall hold harmless the Government against any third-party claim arising from the Contractor's personnel's misconduct, negligence, or violation of applicable law in the course of performing the Services.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Limitation in Accordance with FAR. The Contractor's liability under this Agreement is limited as set forth in the applicable FAR clauses, including FAR 52.246-25 (Limitation of Liability — Services) where applicable.
+
+12.2 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3 OR AS LIMITED BY THE APPLICABLE FAR CLAUSES, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF THE CONTRACTOR ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL FEES PAID OR PAYABLE BY THE GOVERNMENT TO THE CONTRACTOR UNDER THE AFFECTED TASK ORDER DURING THE {{LIABILITY_CAP_MONTHS}} MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.3 Exceptions to Limitations. The limitations in Sections 12.1 and 12.2 shall not apply to (a) the Contractor's obligations under Article 11 (Indemnification); (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Information Security, CUI, and Export Controls); (d) any liability arising from the Contractor's gross negligence, willful misconduct, or fraud; (e) any liability arising from the Contractor's violation of NIST SP 800-171, DFARS 252.204-7012, the ITAR, or the EAR; (f) any debarment-eligible misconduct; or (g) any liability that, under applicable federal law, cannot be limited or excluded.
+
+12.4 Indirect Damages. EXCEPT AS PROVIDED BY APPLICABLE FAR CLAUSES OR FEDERAL LAW, NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Convenience. The Government may terminate this Agreement or any Task Order for the convenience of the Government in accordance with FAR 52.249-2 and the applicable termination procedures.
+
+13.2 Termination for Default. The Government may terminate this Agreement or any Task Order for default in accordance with FAR 52.249-8.
+
+13.3 Stop Work Order. The Contracting Officer may issue a stop work order in accordance with FAR 52.242-15.
+
+13.4 Effects of Termination. Upon termination, (a) the Contractor shall promptly cease performance of the Services as directed; (b) the Contractor shall deliver to the Government all Work Product completed or in progress; (c) the Contractor shall return GFE in accordance with Section 7.7; (d) the Contractor shall be entitled to reimbursement of allowable costs in accordance with the applicable FAR termination clauses; and (e) the provisions of this Agreement that by their nature are intended to survive termination shall so survive.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the federal laws of the United States. To the extent any matter is not addressed by federal law, the laws of the State of {{GOVERNING_LAW_STATE}} shall apply.
+
+14.2 Disputes. Any dispute arising out of or relating to this Agreement shall be resolved in accordance with the Contract Disputes Act, 41 U.S.C. §§ 7101-7109, and the FAR Disputes clause (FAR 52.233-1).
+
+14.3 Venue. Any judicial proceeding shall be brought in the United States Court of Federal Claims or the United States district court located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, as required by the Contract Disputes Act.
+
+14.4 Continued Performance. Pending final resolution of any dispute, the Contractor shall continue to perform the Services in accordance with the Contracting Officer's direction.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement, together with all incorporated FAR and DFARS clauses and all Task Orders, constitutes the entire agreement between the Parties.
+
+15.2 Order of Precedence. (a) Applicable federal law and regulations; (b) FAR and DFARS clauses incorporated by reference; (c) the Task Order; (d) this Agreement.
+
+15.3 Amendments. No amendment to this Agreement shall be effective unless in writing and executed by the Contracting Officer and the Contractor.
+
+15.4 Severability. If any provision is held to be unenforceable, the remaining provisions shall continue in full force.
+
+15.5 Waiver. No failure or delay by either Party in exercising any right shall operate as a waiver thereof.
+
+15.6 Notices. Formal notices shall be in writing and delivered to the Contracting Officer at the address set forth in the applicable Task Order.
+
+15.7 Independent Contractor. The Contractor is an independent contractor of the Government. Nothing in this Agreement shall be construed as creating any employment, partnership, or agency relationship.
+
+15.8 Subcontractors. The Contractor shall not subcontract any of the Services without the prior written consent of the Contracting Officer, and any approved subcontract shall include the mandatory flow-down clauses required by the applicable FAR and DFARS clauses.
+
+15.9 Assignment. This Agreement may not be assigned by the Contractor except in accordance with FAR Subpart 42.12 (Novation and Change-of-Name Agreements).
+
+15.10 Anti-Kickback. The Contractor shall comply with the Anti-Kickback Act of 1986, 41 U.S.C. §§ 8701-8707, and the implementing FAR clauses.
+
+15.11 Counterparts. This Agreement may be executed in counterparts.
+
+15.12 Headings. Headings are for convenience of reference only.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+{{CUSTOMER_NAME}}
+
+By: ________________________
+Name:
+Title: Contracting Officer
+Date:

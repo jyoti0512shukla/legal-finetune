@@ -1,0 +1,246 @@
+GUARDPATH SUBSCRIBER AGREEMENT
+
+Last updated: {{EFFECTIVE_DATE}}.
+
+These are the terms for GuardPath, a managed extended detection and response (XDR) service operated by {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ("GuardPath," "we," "our"), {{PROVIDER_ADDRESS}}.
+
+By clicking "Start Free Trial," "Upgrade to Paid," or by installing the GuardPath agent on any of your endpoints, you ("you" or "Customer," and if you are accepting on behalf of a company, that company) agree to these terms. If you do not agree, do not install the agent and do not use the Service.
+
+The Service is provided to {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} at {{CUSTOMER_ADDRESS}}, with an Effective Date of {{EFFECTIVE_DATE}}.
+
+ARTICLE 1 — DEFINITIONS
+
+We define most terms inline. The terms below appear often.
+
+1.1 "Service" or "GuardPath" means the GuardPath managed XDR service, including the endpoint agent, the cloud-side detection engine, the dashboards, the alert workflow, the integrations, our security operations center coverage, and any updates we ship.
+
+1.2 "Endpoint" means any device on which the GuardPath agent is installed (workstations, laptops, servers, virtual machines, cloud instances).
+
+1.3 "Customer Data" means logs, alerts, telemetry, file metadata, process metadata, and any other information collected from your Endpoints by the GuardPath agent.
+
+1.4 "Free Trial" means the no-cost evaluation tier described in Section 2.5.
+
+1.5 "Paid Plan" means any paid tier described on our pricing page.
+
+ARTICLE 2 — YOUR ACCOUNT AND THE SERVICE
+
+2.1 Eligibility. You must be at least 18 years old, have authority to install the agent on the Endpoints in your environment, and not be on any U.S. or international sanctions list.
+
+2.2 What the Service does. GuardPath collects telemetry from your Endpoints, sends it to our cloud, runs detections, raises alerts, and gives you a dashboard to triage them. On the Paid Plan, our security operations center triages alerts on your behalf and contacts you for high-severity findings.
+
+2.3 What you must do.
+(a) Install the agent only on Endpoints you have permission to manage.
+(b) Keep the agent updated. We push updates automatically; do not block them.
+(c) Configure the integrations and alerting destinations through our dashboard.
+(d) Respond to security findings in a reasonable time.
+
+2.4 What you cannot do.
+(a) Reverse engineer the agent or the cloud detection engine.
+(b) Use the Service to monitor any system you do not have permission to monitor.
+(c) Use the Service to attack any third party or to exfiltrate data from a system you do not own.
+(d) Resell the Service or wrap it in a managed service offering of your own without a separate written agreement with us.
+(e) Use the Service in a way that bypasses any usage limit on your plan.
+
+2.5 Free Trial.
+(a) The Free Trial covers up to twenty-five (25) Endpoints for fourteen (14) days.
+(b) The Free Trial is provided "as is," with no SLA, no security operations center coverage, no support guarantee, and no indemnity.
+(c) At the end of the Free Trial, your access to the Service stops automatically unless you upgrade to a Paid Plan. We will email you on day 7, day 12, and day 14 to remind you.
+(d) If you do not upgrade, we delete Customer Data from your Free Trial within thirty (30) days.
+
+2.6 Conversion to Paid Plan. You can upgrade to a Paid Plan at any time during the Free Trial by clicking "Upgrade to Paid" in the dashboard. The Effective Date of the Paid Plan is the day you click upgrade. The first payment is charged immediately. Your subscription auto-renews under Section 4.3.
+
+2.7 Suspension. We can suspend the Service immediately and without prior notice if (a) you violate Section 2.4, (b) we receive a credible report that you are using the Service to attack a third party, (c) your usage poses a security or stability risk to us or our other customers, (d) you have not paid an undisputed invoice within fifteen (15) days of the due date, or (e) suspension is required by law.
+
+ARTICLE 3 — IMPLEMENTATION
+
+3.1 Self-installed agent. Onboarding consists of creating your Account, downloading the agent, and installing it on your Endpoints using your standard endpoint management tool. Most customers complete onboarding within thirty (30) minutes.
+
+3.2 No implementation fee. There is no implementation fee on the Free Trial or the standard Paid Plan. White-glove onboarding is available on the Enterprise plan for an additional fee.
+
+3.3 Help. Free office hours and a public knowledge base are available for self-installed onboarding. Email support is available on the Paid Plan with a one (1) business day target first response time.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Subscription. After you upgrade to the Paid Plan, you pay an annual subscription fee of {{ANNUAL_FEE_AMOUNT}}, which covers up to fifty (50) Endpoints, security operations center coverage during business hours (9:00 a.m. to 9:00 p.m. Central Time), and standard email support.
+
+4.2 Endpoint overage. If you go over fifty (50) Endpoints, the overage is billed at sixty United States Dollars ($60) per Endpoint per year, prorated to the nearest month.
+
+4.3 Auto-renewal. Your subscription automatically renews each year on the anniversary of your Paid Plan upgrade. We charge the payment method on file. To cancel auto-renewal, click "Cancel Subscription" in the dashboard at least seven (7) days before the renewal date. Cancellation takes effect at the end of the current term; we do not refund the unused portion.
+
+4.4 Price changes on renewal. We may change the price on renewal. We will email you at least sixty (60) days before any change. If you do not want to renew at the new price, cancel before the renewal date.
+
+4.5 Payment method. You authorize us to charge your payment method for all fees due. You will keep the payment method valid. If a charge fails, we will retry. We may suspend the Service if the charge is not paid within fifteen (15) days.
+
+4.6 Refunds. Subscription fees are non-refundable, except where Section 13.1 says otherwise.
+
+4.7 Taxes. The fees do not include taxes. You are responsible for any sales, use, or VAT taxes that apply.
+
+4.8 Disputes. If you think a charge is wrong, dispute it through the dashboard within thirty (30) days. We will respond within ten (10) business days.
+
+ARTICLE 5 — TERM AND CANCELLATION
+
+5.1 Term. These terms start on the Effective Date and continue until your Account is canceled or terminated.
+
+5.2 Initial paid term. The initial paid term is one (1) year, and the subscription auto-renews for one (1) year periods after that.
+
+5.3 You can cancel any time. You can cancel your Paid Plan at any time in the dashboard. Cancellation takes effect at the end of the current billing period. We do not refund the unused portion.
+
+5.4 We can stop offering the Service. We may discontinue the Service on at least sixty (60) days notice. If we do, we will refund any prepaid fees that cover the period after the discontinuation date.
+
+ARTICLE 6 — SLA AND SUPPORT
+
+6.1 Best efforts uptime. The Service uses commercially reasonable efforts to maintain availability. We do not commit to a specific uptime number on the Free Trial or the standard Paid Plan. The standard Paid Plan typically achieves 99.5% monthly uptime, but that is not a promise.
+
+6.2 What does not count as downtime. Downtime caused by your network, your endpoint configuration, third-party services we depend on, force majeure events, scheduled maintenance, or events outside our reasonable control does not count.
+
+6.3 No service credits on the standard Paid Plan. The standard Paid Plan does not include service credits. Service credits are available on the Enterprise plan, which requires a separate signed order.
+
+6.4 Detection coverage is best effort. We do not guarantee that the Service will detect every threat, prevent every breach, or correctly classify every alert. Threat detection is inherently probabilistic. You are responsible for your own security posture, your own incident response, and your own decisions about what to do with our alerts.
+
+6.5 SOC coverage hours. Security operations center triage on the standard Paid Plan covers business hours (9:00 a.m. to 9:00 p.m. Central Time). After-hours and 24x7 coverage are available on higher plans.
+
+6.6 Support channels. Email support is available with a one (1) business day target first response time. A public knowledge base and community forum are available 24x7.
+
+ARTICLE 7 — YOUR DATA AND PRIVACY
+
+7.1 You own Customer Data. You retain all rights, title, and interest in Customer Data.
+
+7.2 Why we touch Customer Data. You give us permission to collect, store, process, analyze, and use Customer Data only as needed to provide the Service to you — including running our detection engine on it, displaying it in your dashboard, and using it to trigger alerts.
+
+7.3 Use for threat intelligence (de-identified). We may use de-identified, aggregated information derived from Customer Data across all our customers to improve the Service, train our detection models, and contribute to industry threat intelligence. "De-identified" means the information cannot be linked back to you, your Endpoints, your users, or any individual. We will not share or sell any data that can identify you. If you do not want us to use de-identified, aggregated data this way, email optout@guardpath.io and we will exclude your tenant within thirty (30) days. (Note: opting out reduces the quality of detections we can provide you, since our detections benefit from cross-customer threat intelligence.)
+
+7.4 No advertising, no resale. We will not use Customer Data for advertising, marketing, or sale to anyone.
+
+7.5 Tenant isolation. Customer Data from your tenant is logically isolated from every other customer's tenant.
+
+7.6 Security. We protect Customer Data with:
+(a) encryption in transit using TLS 1.2 or higher;
+(b) encryption at rest using AES-256;
+(c) role-based access controls;
+(d) annual third-party penetration testing;
+(e) annual SOC 2 Type II audits, the report of which we share under NDA on request.
+
+7.7 Breach notification. If we discover a security incident that compromises Customer Data, we will tell you in the dashboard and by email within seventy-two (72) hours of discovery. The notice will say what we know about the incident, the data involved, and what we are doing about it.
+
+7.8 Subprocessors. The current subprocessor list is at guardpath.io/subprocessors. We may update it without prior notice. The list typically includes our cloud hosting provider, our error tracking provider, and our customer support tool.
+
+7.9 Personal data. Customer Data may include personal information about your employees (usernames, email addresses, IP addresses, hostnames). You are the controller of that personal data; we are the processor. We process it only as needed to run the Service.
+
+7.10 Data retention and deletion. We retain Customer Data for the length of your subscription, plus thirty (30) days after termination for export. After that we delete Customer Data from production systems within thirty (30) days, with backup deletion completed within ninety (90) days.
+
+7.11 Your data export. You can export Customer Data using our API or the dashboard at any time. We charge no fee for export.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY
+
+8.1 Our IP. We own the Service. The agent code, the cloud detection engine, the detection rules, the dashboards, our trademarks, and any improvements we make are all ours. Nothing in these terms gives you any ownership of any of that.
+
+8.2 License to use the agent. We grant you a non-exclusive, non-transferable, non-sublicensable license to install and use the GuardPath agent on Endpoints during your subscription, only in connection with using the Service. The license ends when your subscription ends or your Account is terminated.
+
+8.3 Your IP. You own Customer Data and any data your team creates inside the dashboard (notes, custom rules you write on top of our framework).
+
+8.4 Our improvements. Anything we improve or build for the Service — including improvements that we develop after observing patterns in alerts across our customer base — belongs to us, subject to the de-identification limit in Section 7.3.
+
+8.5 Feedback. If you send us product feedback or bug reports, you give us a perpetual, irrevocable, royalty-free license to use that feedback to improve the Service. We will not use Customer Data in connection with feedback.
+
+8.6 Marketing. We may list your company name and logo as a customer of the Service. If you want to opt out, email optout@guardpath.io.
+
+8.7 No implied licenses. Other than the rights expressly granted, neither of us is granting any IP rights to the other.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Mutual. Each of us will (a) keep the other's non-public information confidential, (b) only use it as needed for the Service, and (c) not disclose it to anyone outside the receiving side's organization without permission, except to employees and contractors who need to know and are bound by similar confidentiality duties.
+
+9.2 Exceptions. Confidentiality does not apply to information that is already public, that the receiving side already knew, that the receiving side independently developed, or that the receiving side is legally required to disclose.
+
+9.3 Survival. Confidentiality obligations last during these terms and for two (2) years after termination.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Authority. Each of us has authority to enter into these terms.
+
+10.2 Limited service warranty. We warrant that, during your paid subscription, the Service will work substantially as documented and we will not knowingly include malicious code in the agent. Your sole remedy if we breach this warranty is for us to use commercially reasonable efforts to fix the problem, and if we cannot fix it within thirty (30) days, you can cancel and get a prorated refund.
+
+10.3 Your warranties. You warrant that (a) you have the right to install the agent on your Endpoints, (b) your use of the Service complies with applicable laws, (c) you are not on any U.S. or international sanctions list, and (d) you understand that threat detection is inherently probabilistic and that you are responsible for your own security decisions.
+
+10.4 BIG DISCLAIMER. EXCEPT FOR THE LIMITED WARRANTY IN SECTION 10.2, THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE." WE EXPRESSLY DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SERVICE WILL DETECT ANY SPECIFIC THREAT, PREVENT ANY SPECIFIC BREACH, OR CORRECTLY CLASSIFY ANY SPECIFIC ALERT. WE DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE FROM SECURITY VULNERABILITIES. YOU UNDERSTAND THAT NO SECURITY SERVICE CAN GUARANTEE PROTECTION AGAINST ALL THREATS, AND YOU REMAIN RESPONSIBLE FOR YOUR OWN SECURITY POSTURE.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 We defend you (Paid Plan only). If you are on the Paid Plan and a third party sues you because the Service itself (the parts we built) supposedly infringes their U.S. patent, copyright, trademark, or trade secret, we will defend you and pay the final judgment or agreed settlement, subject to the cap in Section 12.1. This does not apply to claims arising from (a) Customer Data, (b) modifications you made to the agent, (c) your use of the Service in a way these terms do not permit, or (d) what you did with our alerts.
+
+11.2 No indemnity for missed detections. We do not indemnify you for any loss caused by a threat we did not detect, an alert we misclassified, or an incident we failed to prevent. Your security posture is your responsibility.
+
+11.3 No indemnity on the Free Trial. We do not indemnify Free Trial users for any reason.
+
+11.4 You defend us. You will defend us against any claim that arises from (a) your installation of the agent on any Endpoint you did not have permission to install it on, (b) Customer Data infringing someone's rights, (c) your use of the Service to monitor a system you did not have permission to monitor, or (d) your use of the Service in violation of these terms or any law.
+
+11.5 How indemnification works. The side seeking indemnity will tell the other side promptly, give the other side control of the defense (subject to a no-bad-settlement-without-consent right), and help out at the indemnifying side's reasonable expense.
+
+11.6 If the Service might infringe. If we think the Service might be the subject of an IP claim, we may (a) get you a license, (b) modify the Service, (c) replace it with something equivalent, or (d) terminate your subscription and refund unused prepaid fees.
+
+11.7 Sole remedy. This Article 11 is the only remedy you get for IP infringement claims about the Service.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING OUT OF OR RELATED TO THE SERVICE OR THESE TERMS IS LIMITED TO THE TOTAL FEES YOU HAVE PAID US IN THE TWELVE (12) MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM. FOR FREE TRIAL USERS, OUR TOTAL LIABILITY IS CAPPED AT ONE HUNDRED UNITED STATES DOLLARS ($100). THE CAP APPLIES REGARDLESS OF LEGAL THEORY.
+
+12.2 No indirect damages. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER WE NOR YOU WILL BE LIABLE TO THE OTHER FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES — INCLUDING LOST PROFITS, LOST REVENUE, LOST DATA, LOSS OF GOODWILL, LOSS OF USE, OR DAMAGES ARISING FROM A SECURITY INCIDENT THE SERVICE FAILED TO DETECT OR PREVENT — EVEN IF EITHER OF US HAS BEEN ADVISED THAT THOSE DAMAGES ARE POSSIBLE.
+
+12.3 SECURITY INCIDENT DISCLAIMER. YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT WE ARE NOT LIABLE FOR LOSSES ARISING FROM (A) THREATS WE DID NOT DETECT, (B) ALERTS WE MISCLASSIFIED, (C) BREACHES OF YOUR ENVIRONMENT THAT THE SERVICE FAILED TO PREVENT, OR (D) ANY DECISION YOU MADE BASED ON OUR ALERTS. YOU UNDERSTAND THAT THE SERVICE IS A TOOL TO ASSIST YOUR SECURITY OPERATIONS, NOT A GUARANTEE OF SECURITY. YOU REMAIN RESPONSIBLE FOR YOUR OWN SECURITY DECISIONS, YOUR OWN INCIDENT RESPONSE, AND YOUR OWN BUSINESS CONTINUITY.
+
+12.4 What is not capped. The cap and the exclusion in Sections 12.1, 12.2, and 12.3 do not apply to (a) what we owe under Article 11, (b) your obligation to pay fees, (c) your indemnity obligations under Article 11.4, (d) gross negligence, willful misconduct, or fraud, or (e) anything that the law says cannot be limited.
+
+12.5 Why we have a cap. The cap reflects that the Service is offered at a low price and that no security service can guarantee protection against all threats. If you need a higher cap, talk to us about an Enterprise plan with a separately negotiated agreement and a higher fee.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for material breach. Either of us can terminate these terms on thirty (30) days written notice if the other materially breaches and does not cure within those thirty (30) days. If you terminate for our material breach, we will refund the unused prepaid portion.
+
+13.2 We can terminate immediately. We can terminate your Account immediately and without prior notice if (a) you violate Section 2.4, (b) you fail to pay any undisputed invoice when due and ignore our reminder for thirty (30) days, (c) you become insolvent or file for bankruptcy, (d) we are required to terminate by law, or (e) you have not used the Service for ninety (90) consecutive days on the Free Trial.
+
+13.3 What happens when this ends. When your Account ends:
+(a) the agent will stop reporting to us;
+(b) we will tell the agent to uninstall itself on next check-in (you can also uninstall it manually);
+(c) Customer Data is retained for thirty (30) days for export, then deleted per Section 7.10;
+(d) you owe any unpaid fees through the termination date;
+(e) Articles 1, 7 (in part), 8, 9, 11, 12, and 14 keep working.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing law. Texas law applies, without regard to its conflict-of-laws rules.
+
+14.2 Where to sue. Any lawsuit about these terms must be filed in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}. You consent to the personal jurisdiction of those courts.
+
+14.3 No jury. We both give up the right to a jury trial.
+
+14.4 Class action waiver. To the extent permitted by law, you and we each agree to bring any claim only in your or our individual capacity and waive any right to participate in a class action, collective action, or representative action.
+
+14.5 Talk first. Before you sue, please email us at legal@guardpath.io and give us thirty (30) days to fix the problem informally.
+
+ARTICLE 15 — GENERAL
+
+15.1 Whole agreement. These terms, plus the documents we link to (the pricing page, the subprocessor list, the privacy policy), are the whole agreement between us about the Service.
+
+15.2 We can update these terms. We may update these terms from time to time. If we make a material change, we will email you and post a notice in the dashboard at least thirty (30) days before the change takes effect. Continuing to use the Service after the change means you accept it. If you do not accept the change, cancel your subscription before the effective date.
+
+15.3 Severability. If a court says a part of these terms is unenforceable, the rest still applies.
+
+15.4 No waiver. If we do not enforce a right one time, that does not give it up forever.
+
+15.5 Notices. We will send you notices by email to the address on file or by posting in the dashboard. You will send us notices by email to legal@guardpath.io.
+
+15.6 Assignment. You cannot assign these terms without our written consent. We may assign these terms without your consent in connection with a merger, acquisition, or sale of substantially all of our assets.
+
+15.7 Force majeure. Neither of us is liable for delays caused by events outside our reasonable control. Your obligation to pay fees still applies.
+
+15.8 Independent parties. We are independent contractors. These terms do not create a partnership, joint venture, or employment relationship.
+
+15.9 No third-party beneficiaries. Only you and we have rights under these terms.
+
+15.10 No drafter rule. We both negotiated these terms. No rule of construction that ambiguities are construed against the drafter applies.
+
+15.11 Headings. Headings are just for convenience.
+
+THE SERVICE IS NOT AVAILABLE TO USERS UNDER 18, TO PERSONS PROHIBITED FROM RECEIVING IT UNDER U.S. EXPORT LAWS, OR TO USERS IN COUNTRIES SUBJECT TO U.S. EMBARGOES.
+
+By clicking "Start Free Trial," "Upgrade to Paid," or by installing the GuardPath agent, you acknowledge that you have read and agree to these terms.

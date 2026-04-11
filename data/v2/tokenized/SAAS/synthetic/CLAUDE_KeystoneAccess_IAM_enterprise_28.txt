@@ -1,0 +1,233 @@
+IDENTITY AND ACCESS MANAGEMENT SERVICES AGREEMENT
+
+This Identity and Access Management Services Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} ("Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} ("Customer"). Customer is a registered investment adviser regulated by the United States Securities and Exchange Commission ("SEC") and is subject to the rules of the SEC, the Investment Advisers Act of 1940, and applicable state securities laws.
+
+The Parties have negotiated this Agreement extensively. In the event of any conflict between this Agreement and any other document referenced herein (including any Provider standard terms, online terms, or click-through agreements), this Agreement shall control. Customer's continued use of the Platform shall not be construed as acceptance of any such standard Provider terms.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means, with respect to any entity, any other entity that directly or indirectly controls, is controlled by, or is under common control with such entity.
+
+1.2 "Authorized User" means an officer, employee, or contractor of Customer or any Affiliate of Customer authorized by Customer to access the Platform, including any individual whose identity is provisioned through the Platform for the purpose of accessing Customer's information systems.
+
+1.3 "Client Data" means non-public personal information about Customer's clients within the meaning of Regulation S-P (17 C.F.R. § 248.30).
+
+1.4 "Customer Data" means all electronic data, content, records, and information uploaded to, transmitted through, processed by, or stored within the Platform by or on behalf of Customer, including without limitation directory data, identity attributes, authentication logs, authorization decisions, session metadata, access reviews, and any Client Data referenced in identity records.
+
+1.5 "FINRA" means the Financial Industry Regulatory Authority.
+
+1.6 "GLBA" means the Gramm-Leach-Bliley Act and the regulations promulgated thereunder, including SEC Regulation S-P.
+
+1.7 "IAM" means identity and access management.
+
+1.8 "Investment Advisers Act" means the Investment Advisers Act of 1940, as amended, and the rules and regulations of the SEC promulgated thereunder.
+
+1.9 "Platform" means Provider's hosted identity and access management software-as-a-service platform, including the directory service, the single sign-on service, the multi-factor authentication service, the access governance dashboards, the lifecycle management workflows, the privileged access management module, the policy decision point, and any updates released by Provider during the Term.
+
+1.10 "Regulator" means the SEC, FINRA, any state securities regulator with jurisdiction over Customer, and any other governmental authority with examination or enforcement authority over Customer or its activities.
+
+1.11 "SEC" means the United States Securities and Exchange Commission.
+
+1.12 "SEC Cybersecurity Rule" means SEC Rule 206(4)-9 (Cybersecurity Risk Management for Investment Advisers and Investment Companies), as the same may be supplemented or replaced from time to time, and any successor cybersecurity risk management rules adopted by the SEC.
+
+1.13 "Subprocessor" means any third party engaged by Provider to process Customer Data on Provider's behalf.
+
+ARTICLE 2 — SERVICES AND SUBSCRIPTION
+
+2.1 Provision of Services. Subject to the terms of this Agreement, Provider shall make the Platform available to Customer and the Authorized Users in accordance with this Agreement, the Service Level Agreement set forth in Article 6, and the Documentation. The Services shall include directory services, single sign-on, multi-factor authentication, lifecycle management (provisioning and deprovisioning), access governance, privileged access management, and the related dashboards and APIs.
+
+2.2 License Grant. Provider hereby grants to Customer, during the Term, a non-exclusive, non-transferable, non-sublicensable, royalty-free license to access and use the Platform solely for Customer's internal business purposes, including the management of identities and access for Authorized Users across Customer's information systems.
+
+2.3 Use Restrictions. Customer shall not (a) modify or create derivative works based on the Platform; (b) reverse engineer the Platform except to the extent such restriction is prohibited by applicable law; (c) use the Platform to provide identity services to any third party other than Customer's Affiliates; or (d) sublicense the Platform.
+
+2.4 No Provider Suspension Without Notice. Notwithstanding anything to the contrary in this Agreement or in any Provider standard terms, Provider shall not suspend Customer's access to the Platform without providing Customer at least five (5) business days' prior written notice to a designated Customer vendor management contact, except in the case of a confirmed security incident requiring immediate action. The Parties acknowledge that suspension of an IAM service may foreseeably prevent Customer from accessing its own systems and from continuing to provide investment advisory services to its clients, and Provider shall treat any necessary suspension with the highest urgency.
+
+ARTICLE 3 — IMPLEMENTATION SERVICES
+
+3.1 Implementation Plan. Provider shall provide implementation services in accordance with a mutually agreed implementation plan, which shall be developed by the Parties within thirty (30) days of the Effective Date and shall address (a) integration with Customer's existing identity sources, (b) integration with Customer's portfolio management system, customer relationship management system, and other line-of-business applications, (c) configuration of Customer's authentication and authorization policies, (d) lifecycle management workflow configuration to address Customer's onboarding and offboarding requirements, including the SEC Custody Rule's requirements for prompt deprovisioning, and (e) user acceptance testing.
+
+3.2 Implementation Fee. The implementation services shall be provided for a fee of {{IMPLEMENTATION_FEE}}, invoiced in accordance with the milestones set forth in the implementation plan.
+
+3.3 Implementation Schedule. Provider shall use commercially reasonable efforts to complete implementation within {{NOTICE_DAYS}} days of the Effective Date.
+
+3.4 Acceptance. Implementation shall be deemed complete upon Customer's written acceptance, which shall not be unreasonably withheld but shall be conditioned upon Provider's satisfaction of (a) the acceptance criteria set forth in the implementation plan, (b) the security control validation set forth in Article 7, and (c) Customer's vendor risk management onboarding process.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Subscription Fees. Customer shall pay Provider an annual subscription fee of {{ANNUAL_FEE_AMOUNT}}, payable annually in advance.
+
+4.2 Payment Terms. All undisputed Subscription Fees shall be due and payable within forty-five (45) days of the date of invoice.
+
+4.3 Disputed Invoices. Customer may withhold payment of any disputed amount until the dispute is resolved. Provider shall not impose any late fee, interest charge, or service suspension with respect to any amount in good-faith dispute.
+
+4.4 Taxes. The Subscription Fees are exclusive of all taxes other than taxes imposed on Provider's net income.
+
+ARTICLE 5 — TERM AND TERMINATION
+
+5.1 Initial Term. The initial term of this Agreement shall commence on the Effective Date and shall continue for a period of {{TERM_YEARS}} years, unless earlier terminated in accordance with Article 13.
+
+5.2 Renewal Terms. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive one (1) year renewal terms unless either Party provides written notice of non-renewal at least {{NOTICE_DAYS}} days prior to the expiration of the then-current term.
+
+5.3 Customer Termination for Convenience. Customer may terminate this Agreement for convenience at any time after the first anniversary of the Effective Date by providing Provider with at least one hundred eighty (180) days' prior written notice.
+
+5.4 Fee Adjustments at Renewal. Provider may adjust the Subscription Fees for any renewal term by providing written notice at least one hundred eighty (180) days prior to the start of the renewal term, with any adjustment limited to the lesser of (a) five percent (5%) above the prior year's fees, or (b) the percentage increase in the Consumer Price Index for All Urban Consumers (CPI-U) over the same period.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime Commitment. Provider shall make the Platform available with a Monthly Uptime Percentage of at least 99.99% during all hours, twenty-four hours per day, seven days per week.
+
+6.2 Service Credits. If Monthly Uptime Percentage falls below 99.99% in any calendar month, Customer shall be entitled to receive service credits in amounts set forth in the Service Level Exhibit. Service credits shall be in addition to, and not in lieu of, any other rights or remedies of Customer.
+
+6.3 Severity 1 Incident Response. Provider shall use commercially reasonable efforts to acknowledge any Severity 1 incident (defined as any event affecting the ability of Customer's Authorized Users to authenticate or to access Customer's information systems) within fifteen (15) minutes and to provide a workaround within thirty (30) minutes.
+
+6.4 Maintenance Windows. Provider shall not perform scheduled maintenance during the U.S. equity market trading hours or during the four (4) hours preceding or following such hours, except with Customer's prior written consent. The Parties acknowledge that maintenance during market hours could foreseeably affect Customer's ability to execute investment advisory services on behalf of its clients.
+
+6.5 Annual Disaster Recovery Test. Provider shall conduct a full disaster recovery test of the Platform at least annually and shall provide Customer with a written summary of the results.
+
+ARTICLE 7 — CUSTOMER DATA, INFORMATION SECURITY, AND REGULATORY COMPLIANCE
+
+7.1 Ownership of Customer Data. As between the Parties, Customer shall retain all right, title, and interest in and to Customer Data, including all Client Data referenced in identity records. Provider acknowledges that Customer Data is the exclusive property of Customer.
+
+7.2 Permitted Uses. Provider shall use and disclose Customer Data only as necessary to provide the Services to Customer in accordance with this Agreement and only as permitted by applicable law. Provider shall not (a) use Customer Data for any purpose other than providing the Services; (b) sell, lease, or rent Customer Data to any third party; (c) use Customer Data to train any machine learning model, develop any commercial product, or contribute to any aggregated dataset; (d) mine Customer Data for analytics or insights for Provider's own purposes; or (e) disclose Customer Data to any third party other than as permitted in Section 7.10.
+
+7.3 Regulation S-P Compliance. Provider acknowledges that Customer Data may include "non-public personal information" within the meaning of SEC Regulation S-P (17 C.F.R. § 248.30) and that Provider, in providing the Services, shall be subject to the obligations of a service provider under Regulation S-P. Provider shall implement and maintain administrative, technical, and physical safeguards designed to comply with such obligations.
+
+7.4 SEC Cybersecurity Rule. The Parties acknowledge that Customer is subject to the SEC Cybersecurity Rule, which requires Customer to adopt and implement written cybersecurity policies and procedures, to oversee third-party service providers that have access to Customer's information systems or Customer Data, and to provide notice of significant cybersecurity incidents to the SEC and to clients within the time frames specified by the SEC. Provider shall (a) provide Customer with such information about Provider's cybersecurity program as Customer reasonably requires to comply with the SEC Cybersecurity Rule; (b) cooperate with Customer's annual cybersecurity risk assessment of Provider; (c) promptly notify Customer of any incident that could constitute a "significant cybersecurity incident" within the meaning of the SEC Cybersecurity Rule, with sufficient detail to allow Customer to make any required notification to the SEC and its clients; and (d) not object to any request by Customer to disclose information about a cybersecurity incident affecting the Platform to the SEC, FINRA, or any state securities regulator.
+
+7.5 Regulator Examination. Provider acknowledges that Customer's use of the Platform is subject to examination by the SEC and other Regulators. Provider shall cooperate fully with any examination, audit, or inquiry by a Regulator with respect to Customer's use of the Platform, including by (a) making available to the Regulator (and to Customer upon Customer's request) such books, records, personnel, facilities, and information as the Regulator may reasonably request; (b) responding to Regulator inquiries within the time frames required by the Regulator; (c) providing copies of Provider's SOC 2 Type II reports, ISO 27001 certifications, and other relevant compliance reports as soon as available; and (d) permitting on-site examinations at Provider's facilities by the Regulator upon reasonable notice.
+
+7.6 Customer Audit Rights. In addition to Customer's rights under Section 7.5, Customer shall have the right, upon at least thirty (30) days' prior written notice (or, in the case of a Regulator-driven audit, upon shorter notice as the Regulator requires), to audit Provider's compliance with this Agreement, the Service Level Agreement, the security obligations of this Article 7, and applicable laws. Customer may conduct such audit using internal audit personnel or a third-party auditor of Customer's choosing, subject to such auditor's execution of a reasonable confidentiality agreement.
+
+7.7 Information Security Program. Provider shall maintain a documented information security program designed to comply with the SEC Cybersecurity Rule, Regulation S-P, the AICPA Trust Services Criteria, the NIST Cybersecurity Framework, and applicable industry standards. Provider's information security program shall include (a) administrative safeguards including written policies, employee training, background checks, and a designated chief information security officer; (b) physical safeguards including data center physical access controls; (c) technical safeguards including encryption of Customer Data in transit (TLS 1.2 or higher) and at rest (AES-256), strong cryptographic controls for password and credential storage, role-based access controls, multi-factor authentication for all privileged access, and continuous network monitoring; (d) annual third-party penetration testing of the Platform; (e) maintenance of SOC 2 Type II certification and ISO 27001 certification throughout the Term; (f) annual independent assessment of the information security program; and (g) a documented incident response plan tested annually.
+
+7.8 Security Incident Notification. Provider shall notify Customer's designated security contact in writing of any actual or reasonably suspected unauthorized access to, acquisition of, use of, disclosure of, modification of, or destruction of Customer Data (a "Security Incident") without undue delay and in any event within twenty-four (24) hours of Provider's discovery of such Security Incident. The notification shall include all information then available regarding the nature of the Security Incident, the categories and approximate number of records affected, the technical and operational measures Provider has taken or proposes to take to address the Security Incident, and the contact information for Provider's incident response lead. Provider shall provide Customer with regular updates on the Security Incident at intervals no less frequent than every twelve (12) hours until the incident is resolved.
+
+7.9 Cooperation in Breach Response. Provider shall cooperate fully with Customer in Customer's investigation, response, and notification efforts with respect to any Security Incident, including by (a) providing forensic data and incident response personnel, (b) participating in Customer-led incident response calls, (c) providing such information as Customer reasonably requires to determine whether the incident constitutes a "significant cybersecurity incident" under the SEC Cybersecurity Rule, (d) reimbursing Customer for the reasonable costs of breach notifications, credit monitoring, and forensic investigation to the extent the Security Incident was caused by Provider's breach of this Agreement, and (e) cooperating with any Regulator inquiry arising from the Security Incident.
+
+7.10 Subprocessors. Provider shall not engage any Subprocessor to process Customer Data without Customer's prior written approval, which Customer may withhold or condition in its sole discretion based on the Subprocessor's risk profile, security posture, regulatory status, or geographic location. Provider shall maintain a list of approved Subprocessors at a Customer-accessible Customer Trust Portal. For each new or replacement Subprocessor, Provider shall (a) provide Customer with at least sixty (60) days' prior written notice, (b) provide Customer with the Subprocessor's most recent SOC 2 Type II report, (c) provide Customer with a written explanation of the Subprocessor's role and the type of Customer Data the Subprocessor will process, and (d) not engage the Subprocessor until Customer has provided written approval. Customer may object to any new or replacement Subprocessor on any reasonable ground.
+
+7.11 Permitted Disclosures. Provider may disclose Customer Data only (a) to its employees, contractors, and approved Subprocessors who have a need to know to provide the Services and who are bound by confidentiality obligations at least as protective as those set forth in this Agreement; (b) to a Regulator as permitted under Section 7.5; or (c) as required by court order or applicable law, in which case Provider shall (to the extent legally permitted) give Customer prompt notice to allow Customer to seek a protective order.
+
+7.12 Data Residency. Provider shall store and process all Customer Data within data centers physically located in the contiguous United States. Provider shall not transfer Customer Data outside of the United States, and shall not permit any Subprocessor to process Customer Data from any location outside of the United States, without Customer's prior written consent.
+
+7.13 Data Return and Deletion. Upon expiration or termination of this Agreement, Provider shall, at Customer's election, (a) make Customer Data available for export by Customer in a commercially reasonable, machine-readable format for a period of one hundred eighty (180) days at no additional charge; or (b) permanently delete Customer Data from Provider's production systems within thirty (30) days, with backup deletion to follow within ninety (90) days. Provider shall provide Customer with written certification of deletion upon request. Provider may retain Customer Data only to the extent required by applicable law (including any retention requirements applicable to Provider as a service provider to a regulated investment adviser) and any retained Customer Data shall remain subject to this Agreement.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Provider Intellectual Property. As between the Parties, Provider shall retain all right, title, and interest in and to the Platform, the Documentation, and all related Intellectual Property Rights, subject to the limited license granted to Customer in Section 2.2.
+
+8.2 Customer Data. Customer Data is and shall remain the exclusive property of Customer.
+
+8.3 Customer Configurations. All authentication policies, authorization rules, lifecycle workflows, access governance configurations, and other Customer-developed content within the Platform shall be deemed Customer's property to the extent they reflect Customer's proprietary security model, business processes, or risk management approach. Provider shall not use any such Customer-developed content for the benefit of any other customer.
+
+8.4 Feedback. Customer or its Authorized Users may provide Provider with suggestions, comments, or feedback regarding the Platform ("Feedback"). Customer hereby grants Provider a perpetual, irrevocable, royalty-free, worldwide license to use such Feedback to improve the Platform, provided that Provider shall not use any Customer Data, Customer-developed configurations, or any information identifying Customer in connection with such use.
+
+8.5 No Implied Licenses. Except for the limited rights expressly granted, neither Party grants any rights or licenses to the other Party.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party agrees to (a) hold the other Party's Confidential Information in strict confidence; (b) use the other Party's Confidential Information solely for the purposes of this Agreement; (c) not disclose the other Party's Confidential Information to any third party except to its employees, contractors, and advisors who have a legitimate need to know and who are bound by similar confidentiality obligations; and (d) protect the other Party's Confidential Information using the same degree of care it uses to protect its own confidential information of similar importance, but in no event less than reasonable care.
+
+9.2 Customer's Confidential Information. Customer's Confidential Information includes Customer Data, Client Data, Customer's investment strategies and trading activity (to the extent reflected in Customer Data), Customer's security architecture and incident response procedures, the existence and terms of this Agreement, and any information about Customer's regulatory examinations or supervisory communications.
+
+9.3 Compelled Disclosure. The Receiving Party may disclose Confidential Information to the extent required by court order or applicable law, provided that the Receiving Party (a) gives the Disclosing Party prompt written notice (where legally permitted), (b) cooperates with the Disclosing Party in any reasonable effort to obtain a protective order, and (c) discloses only that portion of Confidential Information that is legally required.
+
+9.4 Survival. The obligations in this Article 9 shall survive any expiration or termination of this Agreement for a period of seven (7) years, except that obligations with respect to trade secrets and Client Data shall survive for so long as such information remains protected under applicable law.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants that (a) it is duly organized and in good standing; (b) it has the corporate power and authority to enter into this Agreement; and (c) this Agreement constitutes a binding obligation enforceable against it in accordance with its terms.
+
+10.2 Provider Warranties. Provider represents, warrants, and covenants that during the Term: (a) the Platform shall perform substantially in accordance with the Documentation; (b) Provider shall not knowingly include any malicious code in the Platform; (c) Provider shall provide the Services in a professional and workmanlike manner consistent with the highest standards of the IAM industry; (d) Provider shall comply with the SEC Cybersecurity Rule, Regulation S-P, and all other applicable federal, state, and local laws and regulations; (e) Provider shall maintain SOC 2 Type II and ISO 27001 certifications throughout the Term; and (f) Provider shall promptly notify Customer of any change in Provider's regulatory status, any enforcement action by any U.S. or non-U.S. regulator against Provider, and any material change in Provider's senior officers or financial condition.
+
+10.3 Customer Warranties. Customer represents and warrants that (a) it has the right and authority to upload Customer Data to the Platform and (b) Customer's use of the Platform shall comply with applicable laws and regulations.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES IN THIS ARTICLE 10, THE PLATFORM IS PROVIDED "AS IS." PROVIDER DISCLAIMS ALL OTHER WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Provider IP Indemnity. Provider shall defend Customer and its officers, directors, employees, and agents against any third-party claim alleging that Customer's use of the Platform in accordance with this Agreement infringes any Intellectual Property Right of such third party, and Provider shall indemnify Customer for any damages, settlement amounts, and reasonable attorneys' fees finally awarded against Customer with respect to such claim.
+
+11.2 Provider Compliance Indemnity. Provider shall defend Customer against, and shall indemnify Customer for, any damages, regulatory fines, settlement amounts, and reasonable attorneys' fees finally awarded against Customer arising out of or relating to (a) any Security Incident affecting Customer Data to the extent caused by Provider's breach of Article 7; (b) any failure by Provider to maintain SOC 2 Type II or ISO 27001 certification as required under this Agreement; (c) any failure by Provider to comply with Regulation S-P or the SEC Cybersecurity Rule in providing the Services; or (d) any unauthorized disclosure of Customer Data by Provider to a third party in violation of this Agreement.
+
+11.3 Customer Indemnity. Customer shall defend Provider against any third-party claim alleging that (a) Customer Data infringes any Intellectual Property Right of such third party; or (b) Customer's use of the Platform in violation of this Agreement caused damage to a third party.
+
+11.4 Indemnification Procedure. The Party seeking indemnification shall (a) provide prompt written notice of the claim; (b) grant the indemnifying Party control over the defense and settlement (subject to a no-bad-settlement-without-consent right for terms imposing obligations on the indemnified Party); and (c) provide reasonable cooperation at the indemnifying Party's expense.
+
+11.5 Mitigation. If the Platform becomes the subject of an infringement claim, Provider may, at its option, (a) procure for Customer the right to continue using the Platform, (b) modify the Platform to be non-infringing without materially diminishing functionality, (c) replace the Platform with a non-infringing equivalent, or (d) terminate this Agreement and refund a prorated portion of the prepaid Subscription Fees.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF SUBSCRIPTION FEES PAID OR PAYABLE BY CUSTOMER TO PROVIDER DURING THE {{LIABILITY_CAP_MONTHS}} MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOST REVENUE, LOST BUSINESS OPPORTUNITIES, OR LOSS OF DATA, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+12.3 Exceptions to Limitations. The limitations in Sections 12.1 and 12.2 shall not apply to (a) Provider's obligations under Article 11, including specifically the Provider Compliance Indemnity in Section 11.2; (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Customer Data, Information Security, and Regulatory Compliance); (d) Customer's payment obligations; (e) any liability arising from a Party's gross negligence, willful misconduct, or fraud; (f) any liability arising from Provider's violation of the SEC Cybersecurity Rule, Regulation S-P, or other applicable securities law; or (g) any liability that, under applicable law, cannot be limited or excluded.
+
+12.4 Heightened Cap for Compliance Breaches. Notwithstanding Section 12.1, with respect to any claim arising under Section 11.2, the aggregate cap shall be the greater of (a) the cap in Section 12.1, or (b) Fifteen Million United States Dollars ($15,000,000), reflecting the regulatory and reputational risk to Customer associated with a compliance failure by an IAM service provider.
+
+12.5 Basis of the Bargain. The limitations of liability set forth in this Article 12, including the heightened cap in Section 12.4, are an essential element of the bargain between the Parties.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Material Breach. Either Party may terminate this Agreement upon thirty (30) days' prior written notice if the other Party commits a material breach and fails to cure within the notice period. Customer shall be entitled to a refund of any prepaid Subscription Fees corresponding to the period after the effective date of termination.
+
+13.2 Termination for Loss of Compliance. Customer may terminate this Agreement immediately upon written notice if (a) Provider loses or fails to maintain SOC 2 Type II or ISO 27001 certification for a period exceeding sixty (60) days; (b) Provider becomes the subject of a final, non-appealable enforcement action for a violation of Regulation S-P, the SEC Cybersecurity Rule, or any other applicable U.S. or non-U.S. cybersecurity regulation; or (c) any Regulator of Customer issues a written directive to Customer to terminate its relationship with Provider.
+
+13.3 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice if the other Party becomes insolvent, makes a general assignment for the benefit of creditors, files a voluntary petition in bankruptcy, or has an involuntary petition filed against it that is not dismissed within thirty (30) days.
+
+13.4 Effects of Termination. Upon expiration or termination of this Agreement: (a) all rights and licenses granted to Customer hereunder shall continue during the Transition Period defined in Section 13.5; (b) Customer shall pay Provider all undisputed Subscription Fees that have accrued; (c) each Party shall return or destroy the other Party's Confidential Information; (d) Provider shall make Customer Data available for export or shall delete Customer Data in accordance with Section 7.13; and (e) the provisions of this Agreement that by their nature are intended to survive termination shall so survive.
+
+13.5 Transition Period. Following any termination of this Agreement (other than termination by Provider for Customer's uncured failure to pay an undisputed amount), Provider shall continue to provide the Services to Customer for a transition period of up to twelve (12) months following the effective date of termination, at the rates in effect immediately prior to termination. The Parties acknowledge that the migration of an IAM service to a successor provider is a complex undertaking that requires extensive transition assistance, including identity record export, federation transition, and Authorized User migration. Provider shall provide all such reasonable transition assistance during the Transition Period at no additional charge for standard services.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to its conflict-of-laws principles.
+
+14.2 Venue and Jurisdiction. Any action arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, and each Party irrevocably consents to the personal jurisdiction of such courts.
+
+14.3 Informal Dispute Resolution. Before initiating any litigation, the Parties shall attempt in good faith to resolve any dispute through direct negotiation between executives of each Party with authority to resolve the dispute. If the dispute is not resolved within thirty (30) days, either Party may proceed to litigation.
+
+14.4 Waiver of Jury Trial. EACH PARTY HEREBY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof. Any standard Provider terms, online terms, or click-through agreements presented to Customer in the course of using the Platform are expressly rejected.
+
+15.2 Amendments. No amendment shall be effective unless in writing executed by authorized representatives of both Parties.
+
+15.3 Severability. If any provision is held unenforceable, the remaining provisions shall continue in full force.
+
+15.4 Waiver. No failure or delay in exercising any right shall operate as a waiver thereof.
+
+15.5 Notices. All notices required or permitted under this Agreement shall be in writing and shall be delivered to the addresses set forth on a notices schedule mutually agreed by the Parties.
+
+15.6 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, which Customer's consent shall be in Customer's sole discretion in connection with any merger, acquisition, change of control, or sale of substantially all of Provider's assets, given that an IAM service provider's identity is critical to Customer's vendor risk profile.
+
+15.7 Force Majeure. Neither Party shall be liable for delays caused by events outside its reasonable control (other than payment obligations).
+
+15.8 Independent Contractors. The Parties are independent contractors. Nothing in this Agreement creates an investment adviser relationship between Provider and Customer or between Provider and any client of Customer.
+
+15.9 No Third-Party Beneficiaries. No client of Customer or other person shall have any rights under this Agreement.
+
+15.10 Counterparts. This Agreement may be executed in counterparts.
+
+15.11 Headings. Headings are for convenience only.
+
+15.12 Construction. The Parties acknowledge that this Agreement has been negotiated by both Parties with the benefit of legal counsel, and any rule of construction that ambiguities are construed against the drafting Party shall not apply.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+{{CUSTOMER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Compliance Officer
+Date:

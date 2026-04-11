@@ -1,0 +1,239 @@
+BANK RISK MANAGEMENT ADVISORY MASTER SERVICES AGREEMENT
+
+This Bank Risk Management Advisory Master Services Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} (the "Advisor"), having its principal place of business at {{PROVIDER_ADDRESS}}, and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} (the "Bank"), having its principal place of business at {{CUSTOMER_ADDRESS}}. The Advisor and the Bank may each be referred to as a "Party" and collectively as the "Parties."
+
+The Parties have negotiated this Agreement extensively to allocate risk consistent with the Bank's status as a regulated financial institution and the Bank's responsibilities under applicable banking laws and regulations governing the use of third-party service providers. In the event of any conflict between this Agreement and any other document referenced herein (including any Advisor standard terms or click-through agreements), this Agreement shall control. Any standard Advisor terms presented to the Bank in the course of using any Advisor tools are expressly rejected.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means, with respect to any entity, any other entity that directly or indirectly controls, is controlled by, or is under common control with such entity.
+
+1.2 "Bank Materials" means any data, information, documents, records, books, working papers, models, files, and other materials made available by or on behalf of the Bank to the Advisor in connection with the performance of any Statement of Work, including without limitation Customer Information, Nonpublic Personal Information, board materials, and supervisory communications.
+
+1.3 "Confidential Information" means all non-public information disclosed by one Party to the other in connection with this Agreement, including Bank Materials.
+
+1.4 "Customer Information" has the meaning given in 12 C.F.R. Part 30, Appendix B.
+
+1.5 "FFIEC" means the Federal Financial Institutions Examination Council.
+
+1.6 "OCC" means the Office of the Comptroller of the Currency.
+
+1.7 "OCC Heightened Standards" means the OCC's Heightened Standards for Large Banks (12 C.F.R. Part 30, Appendix D), as the same may be amended from time to time.
+
+1.8 "Regulator" means the OCC, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Consumer Financial Protection Bureau, the Financial Crimes Enforcement Network, the Office of Foreign Assets Control, any state banking regulator with jurisdiction over the Bank, and any other governmental authority with examination or enforcement authority over the Bank.
+
+1.9 "Services" means the bank risk management advisory services to be performed by the Advisor for the Bank under one or more Statements of Work, including credit risk advisory, market risk advisory, operational risk advisory, model risk advisory, BSA/AML advisory, compliance advisory, internal audit support, and regulatory remediation.
+
+1.10 "Statement of Work" or "SOW" means a written document executed by both Parties that describes a particular engagement.
+
+1.11 "Subcontractor" means any third party engaged by the Advisor to perform any portion of the Services on the Advisor's behalf.
+
+1.12 "Work Product" means all deliverables, reports, models, recommendations, and other tangible work product created by or on behalf of the Advisor in the course of performing any engagement.
+
+ARTICLE 2 — SCOPE OF SERVICES
+
+2.1 Engagement of Services. The Advisor shall provide the Services described in each SOW executed by the Parties from time to time during the Term.
+
+2.2 Statements of Work. Each SOW shall describe (a) the scope of the Services; (b) the Deliverables; (c) the Key Personnel assigned; (d) the Fees; (e) the schedule; (f) the acceptance criteria; (g) the location of performance (which shall be onshore U.S. unless expressly otherwise stated); and (h) any project-specific terms.
+
+2.3 Order of Precedence. As described in the preamble.
+
+2.4 No Audit / Independence. The Parties acknowledge that the Advisor is providing advisory services, not financial statement audit services, and is not subject to the auditor independence rules of the SEC or PCAOB. The Advisor may, however, be required to maintain separation from any audit firm that performs financial statement audit services for the Bank, and the Advisor shall promptly notify the Bank of any such conflict.
+
+2.5 Standard of Performance. The Advisor shall perform the Services in a professional and workmanlike manner, in accordance with the highest standards of the bank risk management advisory profession, and in compliance with all applicable banking laws and regulations including the OCC Heightened Standards, the FFIEC IT Examination Handbook, OCC Bulletin 2013-29, the Bank Secrecy Act, the Gramm-Leach-Bliley Act, and the Community Reinvestment Act.
+
+2.6 Onshore Delivery Only. Notwithstanding any other provision, all Services shall be performed exclusively from facilities physically located in the contiguous United States, by personnel who are United States citizens or lawful permanent residents physically present in the contiguous United States. The Advisor shall not perform any Services from, or provide any personnel access to Bank Materials from, any location outside of the contiguous United States, without the Bank's prior written consent (which the Bank may grant or withhold in its sole discretion).
+
+2.7 No Provider Suspension. Notwithstanding any provision of this Agreement to the contrary, the Advisor shall not suspend, throttle, or impair the Bank's access to the Services without the Bank's prior written consent, except in the case of a confirmed security incident requiring immediate action. The Parties acknowledge that suspension of bank risk advisory services in the middle of a regulatory remediation project could have material adverse consequences for the Bank's regulatory standing.
+
+ARTICLE 3 — DELIVERABLES AND ACCEPTANCE
+
+3.1 Delivery. The Advisor shall deliver each Deliverable in accordance with the schedule and in the format set forth in the applicable SOW.
+
+3.2 Acceptance Period. The Bank shall have a period of twenty (20) business days following delivery to review the Deliverable and notify the Advisor in writing of acceptance or rejection. Rejection shall be accompanied by a detailed written description of the alleged non-conformity.
+
+3.3 Cure of Non-Conformity. The Advisor shall correct rejected Deliverables at no additional charge within fifteen (15) business days. After two (2) cycles of cure, the Bank may, at its option, (a) accept the Deliverable with an equitable Fee reduction, (b) terminate the affected SOW and recover Fees paid for the rejected Deliverable, or (c) require the Advisor to engage at the Advisor's expense a third party reasonably acceptable to the Bank to complete the rejected Deliverable.
+
+3.4 No Deemed Acceptance. There shall be no deemed acceptance of any Deliverable. Any Deliverable not affirmatively accepted by the Bank in writing shall remain unaccepted notwithstanding any passage of time.
+
+3.5 Regulator-Facing Deliverables. Where a Deliverable is intended to be submitted by the Bank to a Regulator (such as a remediation status report), the Advisor shall ensure that the Deliverable supports the Bank's regulatory positions and is consistent with the Bank's prior submissions to the Regulator. The Bank shall remain responsible for the contents of any submission to a Regulator.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Fees. The Bank shall pay the Advisor the Fees set forth in each SOW. Fees may be billed on a time-and-materials, fixed-fee, milestone-based, or other basis as set forth in the SOW.
+
+4.2 Annual Aggregate Reference. The aggregate annual Fees payable by the Bank across all then-active SOWs as of the Effective Date is approximately {{ANNUAL_FEE_AMOUNT}}, included for reference only.
+
+4.3 Locked-In Rates. Hourly rates set forth in any SOW shall be fixed for the duration of that SOW and shall not be increased without the Bank's prior written consent.
+
+4.4 MFN Pricing. The Advisor represents and warrants that the rates offered to the Bank are no less favorable than the rates offered by the Advisor to any other client of similar size, complexity, and engagement profile during the same calendar year.
+
+4.5 Payment Terms. All undisputed invoices shall be due and payable within forty-five (45) days of the date of invoice.
+
+4.6 Disputed Invoices. The Bank may withhold payment of any disputed amount until the dispute is resolved. The Advisor shall not impose any late fee or interest charge on any amount in good-faith dispute.
+
+4.7 Audit Right. The Bank shall have the right, upon at least thirty (30) days' prior written notice, to audit the Advisor's records (including time records and supporting documentation) for any Services billed on a time-and-materials basis. If any audit reveals an overcharge in excess of three percent (3%), the Advisor shall reimburse the Bank for the reasonable costs of the audit in addition to refunding the overcharged amounts.
+
+4.8 Taxes. Fees are exclusive of all taxes other than taxes imposed on the Advisor's net income.
+
+ARTICLE 5 — TERM AND TERMINATION
+
+5.1 Initial Term. The initial term shall commence on the Effective Date and shall continue for a period of {{TERM_YEARS}} years, unless earlier terminated in accordance with Article 13.
+
+5.2 Renewal. This Agreement shall automatically renew for successive one (1) year renewal terms unless either Party provides written notice of non-renewal at least {{NOTICE_DAYS}} days prior to the expiration of the then-current term.
+
+5.3 Bank Termination for Convenience. The Bank may terminate this Agreement, or any SOW, for convenience at any time upon ninety (90) days' prior written notice.
+
+ARTICLE 6 — KEY PERSONNEL AND STAFFING
+
+6.1 Key Personnel. Each SOW shall identify the Key Personnel committed to perform the Services.
+
+6.2 No Replacement Without Consent. The Advisor shall not replace any Key Personnel without the Bank's prior written consent except in case of death, disability, or departure from the Advisor.
+
+6.3 Background Checks and Citizenship. The Advisor shall ensure that all personnel performing the Services have undergone background investigations reasonably acceptable to the Bank and are United States citizens or lawful permanent residents physically present in the contiguous United States.
+
+6.4 Removal on Bank Request. The Bank may, at any time and for any reason that does not violate applicable employment law, request that the Advisor remove any individual personnel. The Advisor shall comply within five (5) business days.
+
+6.5 Non-Solicitation. During the Term and for a period of twelve (12) months thereafter, the Bank shall not solicit or hire any Key Personnel who performed Services for the Bank.
+
+ARTICLE 7 — BANK MATERIALS, INFORMATION SECURITY, AND REGULATORY COMPLIANCE
+
+7.1 Ownership of Bank Materials. As between the Parties, the Bank shall retain all right, title, and interest in and to Bank Materials, including all Customer Information and Nonpublic Personal Information.
+
+7.2 Permitted Uses. The Advisor shall use Bank Materials only as necessary to perform the Services. The Advisor shall not (a) use Bank Materials for any other purpose; (b) sell, lease, or rent Bank Materials; (c) use Bank Materials to train any machine learning model or to develop any commercial product; (d) mine Bank Materials for analytics for the Advisor's own purposes; or (e) disclose Bank Materials to any third party except as expressly permitted herein.
+
+7.3 GLBA Compliance. The Advisor acknowledges that Bank Materials may include Nonpublic Personal Information and that the Advisor, in performing the Services, shall be subject to the obligations of a service provider under the Gramm-Leach-Bliley Act and the Interagency Guidelines Establishing Information Security Standards.
+
+7.4 Regulator Examination. The Advisor shall cooperate fully with any examination, audit, or inquiry by the Bank's Regulators under 12 U.S.C. § 1867(c) (Bank Service Company Act). The Advisor shall (a) make available to the Regulator (and to the Bank upon the Bank's request) such books, records, personnel, facilities, and information as the Regulator may reasonably request; (b) respond to Regulator inquiries within the time frames required; and (c) permit on-site examinations at the Advisor's facilities upon reasonable notice.
+
+7.5 Bank Audit Rights. The Bank shall have the right, upon at least thirty (30) days' prior written notice (or shorter notice in case of a Regulator-driven audit), to audit the Advisor's compliance with this Agreement and applicable laws, with the Bank's audit rights exercisable without limitation in frequency in the event of a Security Incident, a Regulator inquiry, or a material change in the Advisor's risk profile.
+
+7.6 Information Security Program. The Advisor shall maintain a documented information security program designed to comply with the Interagency Guidelines, the FFIEC IT Examination Handbook, and applicable industry standards, including encryption in transit (TLS 1.2 or higher) and at rest (AES-256), role-based access controls, multi-factor authentication for privileged access, annual third-party penetration testing, and maintenance of SOC 2 Type II certification throughout the Term.
+
+7.7 Security Incident Notification. The Advisor shall notify the Bank's designated security contact of any actual or reasonably suspected unauthorized access to Bank Materials within twenty-four (24) hours of discovery, with regular updates at intervals no less frequent than daily until resolved.
+
+7.8 Subcontractors. The Advisor shall not engage any Subcontractor to access Bank Materials without the Bank's prior written approval. Approved Subcontractors shall be flowed down all relevant obligations of this Agreement.
+
+7.9 Data Residency. The Advisor shall store and process all Bank Materials only within data centers physically located in the contiguous United States.
+
+7.10 Return of Bank Materials. Upon completion of the relevant engagement, the Advisor shall return or destroy all Bank Materials in its possession or control. The Advisor may retain Bank Materials only to the extent required by applicable law (including the Bank Service Company Act recordkeeping requirements).
+
+7.11 Concentration Risk and Exit Plan. The Parties acknowledge that the Bank's regulators expect the Bank to maintain a documented exit plan for critical third-party service providers under OCC Bulletin 2013-29 and the OCC Heightened Standards. The Advisor shall cooperate with the Bank in the development and annual review of such exit plan.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Background IP. As between the Parties, each Party shall retain all right, title, and interest in and to its respective Background IP. The Advisor's Background IP includes the Advisor's risk management methodologies, model frameworks, and benchmarking databases (which do not contain Bank Materials).
+
+8.2 Assignment of Work Product. Subject to Section 8.3 and to the Bank's payment of all Fees due, the Advisor hereby irrevocably assigns to the Bank all right, title, and interest in and to the Work Product, including all Intellectual Property Rights therein. To the maximum extent permitted by applicable copyright law, the Work Product shall be deemed "work made for hire" for the Bank; to the extent it does not so qualify, the Advisor hereby assigns it to the Bank.
+
+8.3 License to Background IP. To the extent any Work Product incorporates the Advisor's Background IP, the Advisor hereby grants the Bank a perpetual, irrevocable, non-exclusive, royalty-free, worldwide license to use such Background IP solely as embedded in the Work Product.
+
+8.4 Bank Configurations. All custom risk models, monitoring rules, scoring methodologies, and other Bank-specific content developed by the Advisor for the Bank shall be deemed the Bank's property. The Advisor shall not use any such Bank-specific content for the benefit of any other client.
+
+8.5 No Implied Licenses. Except for the limited rights expressly granted in this Article 8, neither Party grants any rights or licenses to the other Party.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party shall (a) hold the other Party's Confidential Information in strict confidence; (b) use it solely for purposes of this Agreement; (c) not disclose it to any third party except to its personnel who have a legitimate need to know and are bound by similar confidentiality obligations; and (d) protect it with at least the same degree of care it uses to protect its own confidential information of similar importance.
+
+9.2 Bank's Confidential Information. The Bank's Confidential Information includes all Bank Materials, Customer Information, board materials, financial information, business plans, the existence and contents of any SOW, and any information about the Bank's regulatory examinations or supervisory communications.
+
+9.3 Compelled Disclosure. The Receiving Party may disclose Confidential Information to the extent required by court order or applicable law, provided that the Receiving Party gives the Disclosing Party prompt written notice (where legally permitted).
+
+9.4 Survival. The obligations in this Article 9 shall survive any expiration or termination of this Agreement for a period of seven (7) years, except that obligations with respect to Customer Information and trade secrets shall survive for so long as such information remains protected under applicable law.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants that it is duly organized and in good standing, has the corporate authority to enter into this Agreement, and that this Agreement constitutes a binding obligation enforceable against it.
+
+10.2 Advisor Warranties. The Advisor represents, warrants, and covenants that (a) the Services shall be performed in a professional and workmanlike manner consistent with the highest standards of the bank risk advisory profession; (b) the Deliverables shall conform to the acceptance criteria in the applicable SOW in all material respects; (c) the Advisor shall comply with the GLBA, the Interagency Guidelines, OCC Bulletin 2013-29, the OCC Heightened Standards, the FFIEC IT Examination Handbook, the Bank Secrecy Act, the Bank Service Company Act, and all other applicable banking laws and regulations; (d) the Advisor shall maintain SOC 2 Type II certification throughout the Term; and (e) the Advisor shall promptly notify the Bank of any Regulator enforcement action against the Advisor and any material change in the Advisor's senior officers or financial condition.
+
+10.3 Bank Warranties. The Bank represents and warrants that (a) it has the right to provide Bank Materials to the Advisor and (b) the engagement is for a legitimate business purpose.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS ARTICLE 10, THE SERVICES AND DELIVERABLES ARE PROVIDED ON AN "AS IS" BASIS. THE ADVISOR DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED. THE ADVISOR DOES NOT WARRANT ANY SPECIFIC REGULATORY OUTCOME OR EXAMINATION RATING.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Advisor IP Indemnity. The Advisor shall defend the Bank against any third-party claim alleging that any Deliverable infringes any Intellectual Property Right of such third party.
+
+11.2 Advisor Compliance Indemnity. The Advisor shall defend the Bank against, and shall indemnify the Bank for, any damages, regulatory fines, settlement amounts, and reasonable attorneys' fees finally awarded against the Bank arising out of (a) any Security Incident affecting Bank Materials to the extent caused by the Advisor's breach of Article 7; (b) any failure by the Advisor to comply with the GLBA, the Interagency Guidelines, OCC Bulletin 2013-29, or the OCC Heightened Standards in providing the Services; or (c) any breach of Section 2.6 (Onshore Delivery Only).
+
+11.3 Bank Indemnity. The Bank shall defend the Advisor against any third-party claim alleging that Bank Materials infringe any Intellectual Property Right of such third party.
+
+11.4 Indemnification Procedure. The Party seeking indemnification shall provide prompt written notice, grant the indemnifying Party control over the defense and settlement (subject to a no-bad-settlement-without-consent right), and provide reasonable cooperation at the indemnifying Party's expense.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT OR ANY STATEMENT OF WORK, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF FEES PAID OR PAYABLE BY THE BANK TO THE ADVISOR UNDER THE AFFECTED STATEMENT OF WORK DURING THE {{LIABILITY_CAP_MONTHS}} MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, ARISING OUT OF OR RELATED TO THIS AGREEMENT.
+
+12.3 Exceptions to Limitations. The limitations in Sections 12.1 and 12.2 shall not apply to (a) the Advisor's obligations under Article 11, including the Compliance Indemnity in Section 11.2; (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Bank Materials and Information Security); (d) the Bank's payment obligations; (e) any liability arising from a Party's gross negligence, willful misconduct, or fraud; (f) any liability arising from a violation of the GLBA, the Interagency Guidelines, OCC Bulletin 2013-29, the OCC Heightened Standards, or the Bank Service Company Act; or (g) any liability that, under applicable law, cannot be limited.
+
+12.4 Heightened Cap for Compliance Breaches. Notwithstanding Section 12.1, with respect to any claim arising under Section 11.2, the aggregate cap shall be the greater of (a) the cap in Section 12.1, or (b) Twenty Million United States Dollars ($20,000,000).
+
+12.5 Basis of the Bargain. The limitations of liability are an essential element of the bargain between the Parties.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Material Breach. Either Party may terminate this Agreement, or any SOW, upon thirty (30) days' prior written notice if the other Party commits a material breach and fails to cure within the notice period.
+
+13.2 Termination for Loss of Compliance. The Bank may terminate this Agreement immediately upon written notice if (a) the Advisor loses SOC 2 Type II certification for a period exceeding sixty (60) days; (b) the Advisor becomes the subject of a final, non-appealable enforcement action by any U.S. financial regulator; (c) any Regulator of the Bank issues a written directive to the Bank to terminate its relationship with the Advisor; or (d) the Advisor breaches Section 2.6 (Onshore Delivery Only).
+
+13.3 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice if the other Party becomes insolvent or files for bankruptcy.
+
+13.4 Effects of Termination. Upon termination: (a) all rights and licenses granted to the Bank shall continue during the Transition Period; (b) the Bank shall pay all undisputed amounts that have accrued; (c) each Party shall return or destroy the other Party's Confidential Information; (d) the Advisor shall return Bank Materials per Section 7.10; and (e) the provisions that by their nature are intended to survive shall so survive.
+
+13.5 Transition Period. Following any termination (other than by the Advisor for the Bank's uncured failure to pay an undisputed amount), the Advisor shall continue to provide the Services to the Bank for a transition period of up to twelve (12) months at the rates in effect immediately prior to termination, to ensure continuity of the Bank's regulatory remediation program and to facilitate transition to a successor service provider or in-house team.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to its conflict-of-laws principles.
+
+14.2 Venue and Jurisdiction. Any action arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+14.3 Informal Dispute Resolution. Before initiating any litigation, the Parties shall attempt in good faith to resolve any dispute through direct negotiation between executives.
+
+14.4 Waiver of Jury Trial. EACH PARTY HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement, together with all Statements of Work, constitutes the entire agreement between the Parties. Any Advisor standard terms or click-through agreements presented to the Bank in the course of using any Advisor tools are expressly rejected.
+
+15.2 Amendments. No amendment shall be effective unless in writing executed by both Parties.
+
+15.3 Severability. If any provision is held to be unenforceable, the remaining provisions shall continue in full force.
+
+15.4 Waiver. No failure or delay in exercising any right shall operate as a waiver thereof.
+
+15.5 Notices. Formal notices shall be in writing and delivered to the addresses set forth in the applicable Statement of Work or to such other address as a Party may designate in writing.
+
+15.6 Independent Contractors. The Parties are independent contractors.
+
+15.7 Subcontractors. The Advisor shall not subcontract any of the Services to any third party without the Bank's prior written consent.
+
+15.8 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party. The Bank's consent shall be in the Bank's sole discretion in connection with any merger, acquisition, change of control, or sale of substantially all of the Advisor's assets, given that the Advisor's identity is critical to the Bank's vendor risk profile under OCC Bulletin 2013-29.
+
+15.9 Force Majeure. Neither Party shall be liable for delays caused by events outside its reasonable control (other than payment obligations).
+
+15.10 No Third-Party Beneficiaries. This Agreement is for the sole benefit of the Parties.
+
+15.11 Counterparts. This Agreement may be executed in counterparts.
+
+15.12 Headings. Headings are for convenience of reference only.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: ________________________
+Name:
+Title: Managing Director
+Date:
+
+{{CUSTOMER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Risk Officer
+Date:

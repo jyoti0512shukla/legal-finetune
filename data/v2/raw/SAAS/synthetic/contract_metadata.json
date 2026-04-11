@@ -1,0 +1,784 @@
+{
+  "_description": "Per-contract metadata used by the drafting examples generator. Captures industry, deal size, regulatory frameworks, negotiation bias and special features so briefs can be realistic and faithful to the underlying clause text.",
+  "CLAUDE_LearnPath_Academy_Inc_mid_market_05": {
+    "industry": "higher_education",
+    "industry_label": "higher education / EdTech (learning management system)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "state_agency",
+    "negotiation_bias": "customer_friendly",
+    "regulatory_frameworks": [
+      "FERPA",
+      "COPPA",
+      "Texas Public Information Act",
+      "WCAG 2.1 AA"
+    ],
+    "special_features": [
+      "state agency / sovereign immunity carve-outs on indemnity",
+      "academic-term-aware SLA (99.9% during academic terms only)",
+      "FERPA school-official designation",
+      "data residency in contiguous United States",
+      "Customer is state appropriations-bound; payment subject to Texas Prompt Payment Act"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "indemnity"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "CLAUDE_PharmaTrack_Clinical_enterprise_12": {
+    "industry": "pharmaceutical",
+    "industry_label": "pharmaceutical / clinical trial data management",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "pharmaceutical_company",
+    "negotiation_bias": "customer_friendly",
+    "regulatory_frameworks": [
+      "21 CFR Part 11",
+      "GxP",
+      "HIPAA",
+      "GDPR (cross-border)"
+    ],
+    "special_features": [
+      "source code escrow obligation",
+      "computer system validation (CSV) requirements",
+      "electronic records and signatures (Part 11) compliance",
+      "FDA inspection cooperation",
+      "high liability cap (24 months) reflecting clinical trial risk"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "data privacy",
+      "service level"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "CLAUDE_ContractIQ_LegalTech_smb_13": {
+    "industry": "legal_tech",
+    "industry_label": "legal technology / contract lifecycle management",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "law_firm",
+    "negotiation_bias": "balanced",
+    "regulatory_frameworks": [
+      "attorney-client privilege",
+      "ABA Model Rules of Professional Conduct"
+    ],
+    "special_features": [
+      "explicit no-AI-training restriction on Customer Data",
+      "attorney-client privilege preservation language",
+      "ethical-walls enforcement",
+      "short SMB-style 1-year initial term"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "confidentiality"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "CLAUDE_ClaimsFlow_Insurance_mid_market_14": {
+    "industry": "insurance",
+    "industry_label": "insurance / claims management",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "mutual_insurance_company",
+    "negotiation_bias": "customer_friendly",
+    "regulatory_frameworks": [
+      "PCI-DSS",
+      "Illinois Insurance Code",
+      "NAIC Model Cybersecurity Law",
+      "GLBA"
+    ],
+    "special_features": [
+      "regulator audit pass-through (Illinois Department of Insurance)",
+      "PCI-DSS Level 1 service provider obligations",
+      "cyber insurance carrier notification",
+      "claims data retention obligations under state insurance law"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "indemnity",
+      "service level"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "CLAUDE_MenuMaster_RestaurantPOS_smb_15": {
+    "industry": "restaurant_tech",
+    "industry_label": "restaurant technology / point-of-sale (hardware + SaaS hybrid)",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "hospitality_company",
+    "negotiation_bias": "provider_friendly",
+    "regulatory_frameworks": [
+      "PCI-DSS",
+      "state weights & measures laws"
+    ],
+    "special_features": [
+      "hardware-plus-SaaS hybrid (POS terminals leased to Customer)",
+      "title to hardware retained by Provider until full payment",
+      "on-site replacement SLA for hardware failure",
+      "PCI-DSS for cardholder data captured at terminal",
+      "shrink-wrap-style limitation of remedies typical of SMB SaaS"
+    ],
+    "primary_clause_focus": [
+      "service level",
+      "limitation of liability"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "CLAUDE_NorthernEdge_Canada_enterprise_16": {
+    "industry": "banking",
+    "industry_label": "Canadian banking / cloud infrastructure",
+    "deal_size": "enterprise",
+    "currency": "CAD",
+    "customer_type": "regulated_bank",
+    "negotiation_bias": "customer_friendly",
+    "regulatory_frameworks": [
+      "OSFI Guideline B-10 (Third-Party Risk)",
+      "OSFI Guideline B-13 (Tech & Cyber Risk)",
+      "PIPEDA",
+      "Bank Act (Canada)"
+    ],
+    "special_features": [
+      "OSFI third-party risk and concentration risk language",
+      "Canadian data residency requirement (PIPEDA)",
+      "right of regulator (OSFI) to examine Provider books and records",
+      "exit and stressed-exit plan obligation",
+      "Schedule I bank Customer with heavy oversight powers",
+      "governing law: Province of Ontario"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "termination",
+      "service level"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01": {
+    "industry": "retail_analytics",
+    "industry_label": "retail analytics SaaS",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "retail_holding_company",
+    "negotiation_bias": "balanced",
+    "regulatory_frameworks": [
+      "CCPA"
+    ],
+    "special_features": [
+      "monthly billing cycle uncommon at enterprise tier",
+      "enterprise deal size with mid-market terms (no audit rights, simple SLA)"
+    ],
+    "primary_clause_focus": [
+      "service level"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02": {
+    "industry": "healthcare",
+    "industry_label": "healthcare practice management",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "professional_corporation",
+    "negotiation_bias": "balanced",
+    "regulatory_frameworks": [
+      "HIPAA",
+      "HITECH"
+    ],
+    "special_features": [
+      "HIPAA Business Associate posture",
+      "professional corporation customer (medical practice)"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "limitation of liability"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "SYNTHETIC_LedgerCore_Financial_Software__Inc__enterprise_03": {
+    "industry": "financial_services",
+    "industry_label": "capital markets / financial software",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "broker_dealer",
+    "negotiation_bias": "balanced",
+    "regulatory_frameworks": [
+      "SEC Rule 17a-4",
+      "FINRA recordkeeping rules",
+      "SOX"
+    ],
+    "special_features": [
+      "5-year initial term (longest in pool)",
+      "$2.4M annual fee \u2014 top of enterprise tier",
+      "WORM-style record retention obligations"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "termination"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "SYNTHETIC_BuildKit_Cloud__Inc__smb_04": {
+    "industry": "developer_tools",
+    "industry_label": "developer tools / build infrastructure SaaS",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "software_studio",
+    "negotiation_bias": "provider_friendly",
+    "regulatory_frameworks": [],
+    "special_features": [
+      "self-serve SMB tier",
+      "open source license interaction",
+      "click-through-style limitation of liability"
+    ],
+    "primary_clause_focus": [
+      "limitation of liability"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "SYNTHETIC_FactoryMind_Industrial_IoT__Inc__enterprise_06": {
+    "industry": "industrial_iot",
+    "industry_label": "industrial IoT / connected manufacturing",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "manufacturer",
+    "negotiation_bias": "balanced",
+    "regulatory_frameworks": [
+      "IEC 62443 (industrial control system security)",
+      "OSHA"
+    ],
+    "special_features": [
+      "OT/IT convergence \u2014 Provider services touch operational technology",
+      "factory floor downtime carve-outs in SLA"
+    ],
+    "primary_clause_focus": [
+      "service level",
+      "limitation of liability"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07": {
+    "industry": "marketing_tech",
+    "industry_label": "marketing automation / customer data platform",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "consumer_brand",
+    "negotiation_bias": "provider_friendly",
+    "regulatory_frameworks": [
+      "CCPA",
+      "CAN-SPAM",
+      "TCPA"
+    ],
+    "special_features": [
+      "consumer marketing data flows through Provider",
+      "Customer obligation to honor opt-outs sync'd to Platform"
+    ],
+    "primary_clause_focus": [
+      "data privacy"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08": {
+    "industry": "cybersecurity",
+    "industry_label": "managed cybersecurity / SOC-as-a-service",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "national_bank",
+    "negotiation_bias": "customer_friendly",
+    "regulatory_frameworks": [
+      "GLBA",
+      "FFIEC IT Handbook",
+      "OCC Bulletin 2013-29 (Third-Party Risk)",
+      "NYDFS Part 500"
+    ],
+    "special_features": [
+      "36-month liability cap (highest in pool) \u2014 reflects MSSP risk profile",
+      "national bank Customer with regulator pass-through audit rights",
+      "incident response SLA with 1-hour MTTA",
+      "Provider acts as both data processor and security services provider"
+    ],
+    "primary_clause_focus": [
+      "limitation of liability",
+      "indemnity",
+      "service level"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09": {
+    "industry": "hr_tech",
+    "industry_label": "HR information system / payroll-adjacent SaaS",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "consulting_firm",
+    "negotiation_bias": "balanced",
+    "regulatory_frameworks": [
+      "EEOC recordkeeping",
+      "state employment privacy laws"
+    ],
+    "special_features": [
+      "PII heavy (employee SSNs, compensation, performance reviews)",
+      "integration with third-party payroll providers"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "confidentiality"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10": {
+    "industry": "logistics",
+    "industry_label": "freight / transportation management software",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "trucking_holding_company",
+    "negotiation_bias": "provider_friendly",
+    "regulatory_frameworks": [
+      "FMCSA Hours of Service",
+      "ELD mandate"
+    ],
+    "special_features": [
+      "6-month liability cap (lowest in pool) \u2014 Provider-favorable",
+      "ELD compliance data flows through Provider",
+      "Customer-owned routing data vs Provider-owned aggregated benchmarks"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "limitation of liability"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+  "CLAUDE_BrightStep_Learning_K12_mid_market_17": {
+    "industry": "k12_education",
+    "industry_label": "K-12 education / EdTech (reading and math practice platform)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "k12_school_district",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "plain_english_common_paper",
+    "regulatory_frameworks": [
+      "FERPA",
+      "COPPA",
+      "California SOPIPA",
+      "California AB 1584",
+      "WCAG 2.1 AA"
+    ],
+    "special_features": [
+      "K-12 specific student data privacy with COPPA parental consent dependency",
+      "California SOPIPA / AB 1584 compliance",
+      "explicit no-AI-training restriction on student data",
+      "subprocessor list with notice and right to object",
+      "no provider termination for convenience",
+      "tax-exempt public school district with warrant cycle accommodation"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "indemnity"
+    ]
+  },
+  "CLAUDE_ModelForge_AI_Platform_mid_market_18": {
+    "industry": "ai_ml_platform",
+    "industry_label": "AI / ML platform (managed MLOps for model training and serving)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "ai_data_team",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english_common_paper",
+    "regulatory_frameworks": [
+      "customer_DPA"
+    ],
+    "special_features": [
+      "explicit no-training-on-customer-data clause as central commitment",
+      "customer model weights and outputs ownership",
+      "Foundation Model pass-through indemnity (limited)",
+      "tenant isolation and customer-managed encryption keys",
+      "Compute Unit metered overage pricing",
+      "right to terminate immediately for breach of no-training clause"
+    ],
+    "primary_clause_focus": [
+      "intellectual property",
+      "data privacy"
+    ]
+  },
+  "CLAUDE_PulseLoop_Email_Marketing_smb_19": {
+    "industry": "marketing_tech",
+    "industry_label": "marketing technology / email and SMS automation for D2C brands",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "ecommerce_brand",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english_common_paper",
+    "regulatory_frameworks": [
+      "CAN-SPAM",
+      "TCPA",
+      "CASL",
+      "CCPA",
+      "CPRA",
+      "Virginia CDPA",
+      "Colorado Privacy Act",
+      "Connecticut Data Privacy Act",
+      "Utah Consumer Privacy Act"
+    ],
+    "special_features": [
+      "explicit subprocessor list with right-to-object",
+      "separate DPA referenced and incorporated",
+      "TCPA class action exposure carve-out from liability cap",
+      "consent-driven termination right (provider can terminate for repeat consent failures)",
+      "opt-out sync to third-party systems on best-effort basis",
+      "deliverability-driven suspension trigger"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "indemnity"
+    ]
+  },
+  "CLAUDE_ForgeRunner_DevTools_smb_20": {
+    "industry": "developer_tools",
+    "industry_label": "developer tools / cloud CI/CD platform",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "software_studio",
+    "negotiation_bias": "provider_friendly",
+    "drafting_style": "click_through_tos",
+    "regulatory_frameworks": [
+      "U.S. export controls"
+    ],
+    "special_features": [
+      "click-through Terms of Service with no signature blocks",
+      "free tier with conversion-to-paid mechanism",
+      "open source component pass-through (OSS Components)",
+      "$100 minimum liability floor for free tier users",
+      "class action waiver",
+      "no-AI-training restriction on Customer Code"
+    ],
+    "primary_clause_focus": [
+      "limitation of liability",
+      "intellectual property"
+    ]
+  },
+  "CLAUDE_GuardPath_MSSP_smb_21": {
+    "industry": "cybersecurity",
+    "industry_label": "managed XDR / endpoint detection and response (SMB tier)",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "small_business",
+    "negotiation_bias": "provider_friendly",
+    "drafting_style": "click_through_tos",
+    "regulatory_frameworks": [
+      "U.S. export controls"
+    ],
+    "special_features": [
+      "free trial \u2192 paid auto-conversion model",
+      "explicit security incident disclaimer (no liability for missed detections)",
+      "de-identified threat intelligence opt-out",
+      "click-through with class action waiver",
+      "Free Trial users get $100 hard liability cap"
+    ],
+    "primary_clause_focus": [
+      "limitation of liability",
+      "data privacy"
+    ]
+  },
+  "CLAUDE_FleetTrace_Telematics_smb_22": {
+    "industry": "logistics_telematics",
+    "industry_label": "fleet telematics / ELD compliance / IFTA reporting (owner-operator SMB)",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "owner_operator_carrier",
+    "negotiation_bias": "provider_friendly",
+    "drafting_style": "click_through_tos",
+    "regulatory_frameworks": [
+      "FMCSA Hours of Service (49 C.F.R. Part 395)",
+      "ELD Mandate",
+      "IFTA",
+      "49 C.F.R. Parts 390-399 (FMCSRs)"
+    ],
+    "special_features": [
+      "click-through Terms with hardware lease + sale of FleetTrace Device",
+      "OBD-II / J1939 self-installation, no on-site",
+      "ELD-specific fallback to paper logs disclaimer",
+      "compliance disclaimer carve-out (no FMCSA/DOT/IFTA penalty liability)",
+      "off-duty location with personal-use carve-out",
+      "per-Vehicle billing with cancellation per Vehicle",
+      "$100 minimum liability floor"
+    ],
+    "primary_clause_focus": [
+      "limitation of liability",
+      "data privacy"
+    ]
+  },
+  "CLAUDE_MedPath_HospitalEHR_enterprise_23": {
+    "industry": "healthcare_ehr",
+    "industry_label": "healthcare / electronic health record platform (hospital system enterprise)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "regional_health_system",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "HIPAA",
+      "HITECH",
+      "HITRUST CSF",
+      "state breach notification laws"
+    ],
+    "special_features": [
+      "modular MSA + Order Form pattern (commercials in Order Form, master stays bare)",
+      "Business Associate Agreement (BAA) as Exhibit A with conflict precedence",
+      "right to audit Provider compliance once per year + after security incident",
+      "subprocessor list with 30-day notice and right to object",
+      "$5M heightened liability cap for HIPAA breaches (above standard cap)",
+      "regulator pass-through cooperation (HHS OCR, state AGs)",
+      "default 99.9% clinical Module uptime regardless of Order Form text",
+      "termination for HITRUST loss or HIPAA enforcement action"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "indemnity",
+      "termination"
+    ]
+  },
+  "CLAUDE_StaffOS_HRIS_enterprise_24": {
+    "industry": "hr_tech",
+    "industry_label": "HR information system / global payroll-adjacent SaaS (enterprise)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "global_consulting_firm",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "EEOC recordkeeping (Title VII, ADEA, ADA, FLSA)",
+      "Illinois BIPA",
+      "California CPRA (employee personal information)",
+      "New York SHIELD Act"
+    ],
+    "special_features": [
+      "modular MSA + per-country Payroll Module Order Forms",
+      "controller / processor split with separate DPA",
+      "third-party Payroll Provider integration",
+      "per-Employee true-up at end of each Subscription Year",
+      "no scheduled maintenance during 72-hour pre-payroll window",
+      "country-specific Payroll Module termination for regulatory change",
+      "Privacy Breach Indemnity covering state breach notification costs"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "service level"
+    ]
+  },
+  "CLAUDE_BrandWaffle_FranchisePOS_enterprise_25": {
+    "industry": "restaurant_tech",
+    "industry_label": "restaurant technology / multi-location franchise POS + brand standards (enterprise franchisor)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "franchisor_holding_company",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "PCI-DSS Level 1",
+      "FTC Franchise Rule",
+      "state franchise registration and disclosure laws",
+      "state weights and measures laws"
+    ],
+    "special_features": [
+      "modular MSA + per-Location Subscription pricing in Order Forms",
+      "sublicense to Franchisees with primary responsibility on Customer",
+      "direct billing of Franchisees with Customer as guarantor",
+      "Hardware Equipment with 4-year refresh cycle bundled in Subscription Fee",
+      "PCI-DSS Level 1 service provider posture with PCI Indemnity carve-out",
+      "Cardholder Data tokenized at Hardware Equipment capture",
+      "offline mode for Hardware Equipment to handle network loss",
+      "Brand Standards Module with cross-Franchisee aggregated reporting",
+      "per-Location termination when Franchisee agreement ends",
+      "24-hour on-site hardware replacement SLA"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "indemnity",
+      "service level"
+    ]
+  },
+  "CLAUDE_PayBridge_PaymentInfra_enterprise_26": {
+    "industry": "payment_processing",
+    "industry_label": "payment processing / fintech infrastructure (bank customer)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "national_bank",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "GLBA",
+      "Interagency Guidelines (12 C.F.R. Part 30, Appendix B)",
+      "OCC Bulletin 2013-29",
+      "2023 Interagency Guidance on Third-Party Relationships",
+      "FFIEC IT Examination Handbook",
+      "Bank Service Company Act (12 U.S.C. \u00a7 1867)",
+      "BSA / AML",
+      "PCI DSS Level 1"
+    ],
+    "special_features": [
+      "Customer-paper style with explicit rejection of Provider standard terms",
+      "MFN pricing representation tested annually by Provider auditor",
+      "OCC 2013-29 third-party risk management posture",
+      "Regulator examination right under Bank Service Company Act",
+      "Subprocessor approval-based (not notice-based) \u2014 Bank approval required",
+      "$20M heightened cap for compliance breaches",
+      "12-month transition period at pre-termination rates",
+      "Annual disaster recovery test required",
+      "No maintenance during quarter-end / year-end / market hours",
+      "Concentration risk and exit plan cooperation"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "indemnity",
+      "termination"
+    ]
+  },
+  "CLAUDE_TeleVita_RemotePatient_enterprise_27": {
+    "industry": "healthcare_telemedicine",
+    "industry_label": "telemedicine / remote patient monitoring (academic medical center)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "academic_medical_center",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "HIPAA",
+      "HITECH",
+      "FDA Software as a Medical Device (SaMD)",
+      "21 CFR Part 820 (FDA Quality System Regulation)",
+      "21 C.F.R. Part 803 (Medical Device Reporting)",
+      "NIH Data Management and Sharing Policy (NOT-OD-21-013)",
+      "Common Rule (45 C.F.R. Part 46)",
+      "Bayh-Dole Act (35 U.S.C. \u00a7\u00a7 200-212)"
+    ],
+    "special_features": [
+      "Customer-paper with BAA and Data Use Agreement as exhibits and conflict precedence",
+      "Software as a Medical Device validation requirements (IQ/OQ/PQ)",
+      "Provider acts as SaMD manufacturer for FDA Medical Device Reporting",
+      "FDA 510(k) / De Novo / PMA traceability documentation required",
+      "NIH grant funding contingency clause (proportional fee reduction)",
+      "$25M heightened cap for Patient harm and SaMD-related liability",
+      "Termination right on FDA withdrawal of clearance for SaMD components",
+      "Bayh-Dole carve-out preserving research IP for federally funded inventions",
+      "12-month Transition Period for continuity of Patient care"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "indemnity",
+      "termination"
+    ]
+  },
+  "CLAUDE_KeystoneAccess_IAM_enterprise_28": {
+    "industry": "identity_access_management",
+    "industry_label": "identity and access management for SEC-regulated investment advisers",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "registered_investment_adviser",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "Investment Advisers Act of 1940",
+      "SEC Cybersecurity Rule (Rule 206(4)-9)",
+      "SEC Regulation S-P",
+      "FINRA",
+      "GLBA",
+      "AICPA Trust Services Criteria",
+      "NIST Cybersecurity Framework",
+      "SOC 2 Type II",
+      "ISO 27001"
+    ],
+    "special_features": [
+      "Customer-paper rejecting all Provider standard terms",
+      "SEC Cybersecurity Rule cooperation including significant cybersecurity incident notification",
+      "Approval-based subprocessor model (not notice-based)",
+      "Customer audit right with no frequency limit during regulator inquiry",
+      "$15M heightened cap for compliance breaches",
+      "No scheduled maintenance during U.S. equity market hours",
+      "Customer assignment consent required for any Provider M&A",
+      "12-month Transition Period reflecting IAM migration complexity",
+      "Critical-vendor framing (IAM suspension would prevent Customer system access)"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "indemnity",
+      "service level"
+    ]
+  },
+  "CLAUDE_VectorPoint_VectorDB_smb_29": {
+    "industry": "vector_database",
+    "industry_label": "vector database / embeddings infrastructure for AI applications (SMB)",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "ai_startup",
+    "negotiation_bias": "provider_friendly",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [],
+    "special_features": [
+      "Stripe-style minimalist plain language with friendly tone",
+      "explicit no-AI-training restriction on Customer vectors / queries / metadata",
+      "tenant isolation (no commingled vector indexes)",
+      "self-serve onboarding with no implementation phase or fee",
+      "Section 7.3 carved out from liability cap (training restriction is foundational)",
+      "immediate termination for breach of no-training clause"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "intellectual property"
+    ]
+  },
+  "CLAUDE_ObservoLoop_Observability_mid_market_30": {
+    "industry": "developer_observability",
+    "industry_label": "developer observability / APM / distributed tracing (mid-market)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "software_company",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [
+      "customer_DPA"
+    ],
+    "special_features": [
+      "modern tech minimalist with separate ingestion and query SLAs",
+      "volume metering with sampling controls (cost optimization built into the contract)",
+      "personal-data-in-telemetry warning + customer-side scrubbing responsibility",
+      "explicit disclaimer that observability is not a substitute for engineering judgment",
+      "indirect damages exclusion specifically calls out customer outages the Service failed to detect"
+    ],
+    "primary_clause_focus": [
+      "service level",
+      "data privacy"
+    ]
+  },
+  "CLAUDE_TastePilot_OnlineOrdering_mid_market_31": {
+    "industry": "restaurant_online_ordering",
+    "industry_label": "restaurant online ordering and customer engagement platform (mid-market)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "restaurant_group",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [
+      "CCPA",
+      "CPRA",
+      "Virginia CDPA",
+      "Colorado CPA",
+      "Connecticut DPA",
+      "Utah CPA",
+      "CAN-SPAM",
+      "TCPA",
+      "ADA web accessibility (WCAG 2.1 AA)"
+    ],
+    "special_features": [
+      "modern minimalist with hybrid pricing (annual + per-order fee)",
+      "Third-Party Delivery Marketplace integration (DoorDash, Uber Eats, Grubhub)",
+      "loyalty program data ownership preserved on cancellation",
+      "TCPA class action carve-out from liability cap",
+      "ADA WCAG 2.1 AA conformance with custom-content carve-out",
+      "consent-driven termination for repeat marketing complaints",
+      "Diner rights request self-service tools",
+      "tokenized cardholder data via PCI-compliant payment processor"
+    ],
+    "primary_clause_focus": [
+      "data privacy",
+      "indemnity"
+    ]
+  }
+}

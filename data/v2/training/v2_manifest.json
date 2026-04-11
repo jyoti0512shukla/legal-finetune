@@ -1,0 +1,29 @@
+{
+  "train_count": 248,
+  "val_count": 27,
+  "total": 275,
+  "by_task": {
+    "drafting_clause": 200,
+    "drafting_full_contract": 48
+  },
+  "by_contract_type": {
+    "MSA": 116,
+    "SAAS": 132
+  },
+  "by_drafting_style": {
+    "plain_english_common_paper": 28,
+    "customer_paper_negotiated": 25,
+    "biglaw_formal": 100,
+    "modern_tech_minimalist": 27,
+    "modular_order_form": 39,
+    "click_through_tos": 29
+  },
+  "char_lens": {
+    "min": 1516,
+    "median": 3028,
+    "p95": 32250,
+    "max": 51895
+  },
+  "train_path": "/Users/jyotimishra/legal-finetune/data/v2/training/v2_train.jsonl",
+  "val_path": "/Users/jyotimishra/legal-finetune/data/v2/training/v2_val.jsonl"
+}

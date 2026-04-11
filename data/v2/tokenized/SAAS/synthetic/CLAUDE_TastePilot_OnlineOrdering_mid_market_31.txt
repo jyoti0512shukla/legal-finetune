@@ -1,0 +1,209 @@
+TASTEPILOT — CUSTOMER AGREEMENT
+
+This is the TastePilot Customer Agreement (the "Agreement"). It is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} (the "Provider," "we," "our"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} (the "Customer," "you"). It starts on {{EFFECTIVE_DATE}}.
+
+TastePilot is a hosted online ordering and customer engagement platform for multi-location restaurant groups. We try to keep our paperwork short and human. If something is unclear, email us at legal@tastepilot.com.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 The "Service" is the TastePilot hosted online ordering platform — your branded ordering web page, the mobile app, the third-party delivery integrations, the loyalty program engine, the customer database, the analytics dashboards, the marketing campaign tools, and any updates we ship.
+
+1.2 "Customer Data" is everything you put into the Service: your menu, your pricing, your locations, your customer database, your loyalty members, your order history, your campaign content, and any analytics you generate.
+
+1.3 "Diner" is an end customer of yours who places an order through the Service.
+
+1.4 "Diner Personal Data" is information about a Diner that the Service collects in the course of an order — name, email address, phone number, delivery address, payment method (tokenized), order history, loyalty membership, and dietary preferences.
+
+1.5 "Locations" are the restaurant locations you operate that use the Service. The number of Locations covered by your subscription is set on the order confirmation email or in the dashboard.
+
+1.6 "Third-Party Delivery Marketplace" is a third-party food delivery service (such as DoorDash, Uber Eats, or Grubhub) that we integrate with so that orders placed on the marketplace flow into your TastePilot dashboard.
+
+ARTICLE 2 — SUBSCRIPTION AND LICENSE
+
+2.1 What you get. We give you a non-exclusive license to use the Service for the Locations on your subscription during the Term. You can take orders through your branded ordering page, your mobile app, integrated Third-Party Delivery Marketplaces, and any other channel we add.
+
+2.2 Authorized Users. Add as many of your team members as you need. You are responsible for what they do.
+
+2.3 What you cannot do. You cannot reverse engineer the Service, build a competing online ordering platform with it, take orders for any restaurant that is not yours, or use the Service to send marketing messages without proper consent.
+
+2.4 Suspension. We will give you a heads-up before suspending you, except in a security emergency. Reasons we might suspend: you are abusing the Service, you owe us money for more than 30 days, we receive a credible report that you are using the Service without proper consent for marketing messages, or a court tells us to.
+
+ARTICLE 3 — IMPLEMENTATION
+
+3.1 Onboarding. We help you import your menu, set up your branded ordering page, configure your locations, integrate with your existing point-of-sale system, and connect your Third-Party Delivery Marketplace accounts. Most customers go live in 7 to 14 days.
+
+3.2 Onboarding fee. There is a one-time onboarding fee of Two Thousand Five Hundred United States Dollars ($2,500), waived if you sign a multi-year subscription.
+
+3.3 Your part. You give us your menu data in a clean format, designate a project lead at each location, and respond to our questions in a reasonable time.
+
+3.4 Done. Onboarding is "done" when your branded ordering page is live, your point-of-sale integration is sending orders to your terminals, and you can take a test order from start to finish.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Subscription. You pay {{ANNUAL_FEE_AMOUNT}} per year for the Service across the Locations on your subscription, billed annually in advance.
+
+4.2 Per-order fee. In addition to the subscription fee, we charge a small per-order fee for orders placed through your branded ordering page: nineteen cents ($0.19) per order. The per-order fee is billed monthly in arrears.
+
+4.3 Third-Party Delivery Marketplace orders. Orders that flow into the Service from a Third-Party Delivery Marketplace are not subject to the per-order fee in Section 4.2 — those are subject to the marketplace's own commission, which you pay directly to the marketplace under your separate agreement with them.
+
+4.4 Adding Locations. If you add a Location mid-year, the prorated subscription fee is charged at the time you add it. If you remove a Location mid-year, the unused portion is not refunded.
+
+4.5 Net 30. Annual fees are due 30 days after the invoice date. Monthly per-order invoices are due 30 days after the invoice date. Late payments accrue 1% per month or the most the law allows, whichever is less.
+
+4.6 Renewal pricing. We may change the price at renewal. We will email you 60 days before any change.
+
+4.7 Disputes. If you think a charge is wrong, dispute it in the dashboard within 30 days. Pay the parts you do not dispute on time.
+
+4.8 Taxes. Fees do not include taxes. You are responsible for any taxes that apply.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Initial Term. The initial term is {{TERM_YEARS}} years, starting on the Effective Date.
+
+5.2 Renewal. The Agreement auto-renews for one (1) year periods after the initial term. Either of us can stop renewal by giving written notice at least {{NOTICE_DAYS}} days before the current term ends.
+
+5.3 You can cancel any time. Cancel in the dashboard. Cancellation takes effect at the end of the current billing period.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime. We aim for 99.9% monthly uptime — meaning Diners can browse your menu, place orders, and pay.
+
+6.2 Excluded downtime. Scheduled maintenance announced 48 hours ahead, your Wi-Fi or POS connection issues, Third-Party Delivery Marketplace outages, force majeure events, and your tier limits being exceeded do not count.
+
+6.3 Service credits. If we miss the uptime SLA in any month, you get a service credit equal to 10% of one twelfth of the annual subscription fee. The credit applies to your next invoice.
+
+6.4 Severity 1 incidents. We treat any incident that prevents Diners from placing orders during your operating hours as Severity 1, with a 30-minute first response target.
+
+6.5 Support. Email support is included with a 4-business-hour first response target, Monday through Friday 9 a.m. to 6 p.m. Eastern Time. After-hours emergency support is available for Severity 1 incidents. Phone support is available on the Pro tier.
+
+6.6 Maintenance. We do routine maintenance on Tuesday mornings from 4:00 a.m. to 6:00 a.m. Eastern Time, when restaurant traffic is at its lowest.
+
+ARTICLE 7 — YOUR DATA, DINER PRIVACY, AND CONSENT
+
+7.1 You own Customer Data. You retain all rights to Customer Data, including your customer database and your loyalty member list.
+
+7.2 Why we touch Customer Data. We host, store, process, and use Customer Data only to provide the Service to you — running your ordering page, processing orders, sending order confirmations to Diners, running your loyalty program, sending marketing messages on your behalf to Diners who have opted in, and computing analytics for you.
+
+7.3 No selling, no AI training. We will not sell Customer Data or Diner Personal Data. We will not share Customer Data or Diner Personal Data with any third party except as needed to operate the Service (such as our payment processor and our SMS provider). We will not use Customer Data or Diner Personal Data to train any artificial intelligence model unless you give us specific written permission.
+
+7.4 Diner consent is on you. You promise that for every Diner in your customer database who receives marketing messages from the Service, you have a lawful basis to send them messages — including under CAN-SPAM (15 U.S.C. § 7701), the Telephone Consumer Protection Act (47 U.S.C. § 227), and applicable state privacy laws. The Service supports unsubscribe links in every marketing email and a STOP keyword for SMS, but the legal obligation to comply with consent and opt-out rules is yours.
+
+7.5 Loyalty data. The customer database and the loyalty member list are your property. If you cancel the Service, you can export them in standard formats (CSV, JSON) at any time. We will not retain them after the deletion period in Section 7.13.
+
+7.6 Diner rights requests. If a Diner asks you to delete or export their personal data under an applicable privacy law (CCPA, CPRA, Virginia CDPA, Colorado CPA, Connecticut DPA, Utah CPA, etc.), you can use our self-service tools to honor the request. We will help on a reasonable best-effort basis.
+
+7.7 ADA web accessibility. You acknowledge that your branded ordering page is subject to the Americans with Disabilities Act and applicable state accessibility laws to the extent it serves the public. We design the Service to substantially conform to WCAG 2.1 AA. You are responsible for any custom content (menu items, promotional content, custom HTML) you add through the dashboard.
+
+7.8 Tenant isolation. Your Customer Data is logically isolated from every other customer's tenant.
+
+7.9 Security. We protect Customer Data with TLS 1.2+ in transit, AES-256 at rest, role-based access controls, annual third-party penetration testing, and an annual SOC 2 Type II audit. Cardholder Data is tokenized at the point of capture by our PCI-compliant payment processor and never stored on our servers. We share the SOC 2 report under NDA on request.
+
+7.10 Breach notification. If we discover a security incident that compromises Customer Data, we will tell you in the dashboard and by email within 72 hours of discovery.
+
+7.11 Data residency. We host Customer Data in our United States region.
+
+7.12 Subprocessors. The current subprocessor list is at tastepilot.com/subprocessors and includes our cloud hosting provider, our payment processor, our email sending provider, our SMS provider, and the Third-Party Delivery Marketplaces you have integrated. We give 15 days notice before adding or changing a subprocessor that handles Customer Data or Diner Personal Data.
+
+7.13 Data export and deletion. You can export Customer Data through the dashboard at any time at no charge. After your account is canceled, we keep Customer Data available for 60 days. After that, we delete Customer Data within 30 days, with backup deletion completed within 90 days.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Our IP. We own the Service. The ordering platform, the loyalty engine, the dashboards, the SDKs, our trademarks, and any improvements are ours. Nothing in this Agreement gives you any of that.
+
+8.2 Your IP. You own Customer Data and your branded content — your menu items, your menu photos, your branding, your loyalty member list, your campaign content. We do not claim a license to your branded content beyond what we need to display it in the Service and in marketing messages on your behalf.
+
+8.3 Aggregate analytics. We may compute and use de-identified, aggregated statistics about platform-wide ordering patterns (such as the average order value across all customers, or the most common menu categories) to improve the Service. Aggregate statistics do not identify you, your customers, your menu, or any individual.
+
+8.4 Feedback. If you send us product feedback, bug reports, or feature ideas, we can use them to improve the Service. We will not use Customer Data or Diner Personal Data when we work on feedback. We may list your restaurant brand and logo as a customer of the Service. To opt out, email optout@tastepilot.com.
+
+8.5 No implied licenses. You only get the rights this Agreement actually gives you.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Mutual. Each of us will keep the other's non-public information confidential, only use it as needed for the Service, only share it with people who need to know and are bound by similar confidentiality, and protect it with at least reasonable care.
+
+9.2 Customer's Confidential Information includes Customer Data, Diner Personal Data, your sales data, your pricing strategies, and your marketing campaigns.
+
+9.3 Exceptions. The promise does not cover information that is already public, was already known, was independently developed, or was rightfully received from someone else with no confidentiality duty.
+
+9.4 Compelled disclosure. If a court order requires disclosure, we will tell the other side first if we are legally allowed to.
+
+9.5 Survival. Confidentiality obligations last during this Agreement and for two (2) years after.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Authority. Each of us has the authority to enter into this Agreement.
+
+10.2 What we promise. During your paid subscription, the Service will work substantially as documented, we will not knowingly include malicious code, and we will provide the Service in a workmanlike manner.
+
+10.3 What you promise. You have the right to upload Customer Data, you have the proper consent for any marketing message you send through the Service, your menu content does not infringe anyone's IP, and your use of the Service complies with applicable laws.
+
+10.4 Disclaimer. EXCEPT FOR THE LIMITED WARRANTY ABOVE, THE SERVICE IS PROVIDED "AS IS." WE DISCLAIM ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT EVERY ORDER WILL FLOW THROUGH SUCCESSFULLY OR THAT EVERY MARKETING MESSAGE WILL LAND IN THE INTENDED INBOX.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 We defend you. If a third party sues you because the Service itself (the parts we built) supposedly infringes their U.S. patent, copyright, trademark, or trade secret, we will defend you and pay the final judgment or agreed settlement, subject to the cap in Article 12. This does not cover Customer Data, your menu content, your branded content, or how you use the Service.
+
+11.2 You defend us. You will defend us against any claim that arises from (a) Customer Data, (b) your menu items, branded content, or marketing campaigns, (c) your alleged failure to obtain proper consent under CAN-SPAM, the TCPA, or applicable privacy law, including any TCPA class action arising from your messaging, or (d) your use of the Service in violation of this Agreement.
+
+11.3 How indemnification works. The side seeking indemnity will tell the other side promptly, give the other side control of the defense (subject to a no-bad-settlement-without-consent right), and help out at the indemnifying side's reasonable expense.
+
+11.4 If the Service might infringe. If we think the Service might be the subject of an IP claim, we may (a) get you a license, (b) modify the Service, (c) replace it with something equivalent, or (d) terminate this Agreement and refund unused prepaid fees.
+
+11.5 Sole remedy. This is the only remedy you get from us for IP infringement claims about the Service.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING OUT OF OR RELATED TO THE SERVICE OR THIS AGREEMENT IS LIMITED TO THE TOTAL FEES YOU HAVE PAID US IN THE {{LIABILITY_CAP_MONTHS}} MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM.
+
+12.2 No indirect damages. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER WE NOR YOU WILL BE LIABLE TO THE OTHER FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, LOST REVENUE, LOST BUSINESS OPPORTUNITIES, LOST CUSTOMER GOODWILL, OR LOSS OF DATA, EVEN IF EITHER OF US HAS BEEN ADVISED THAT THOSE DAMAGES ARE POSSIBLE.
+
+12.3 What is not capped. The cap and the exclusion do not apply to (a) what we owe under Article 11, (b) breach of Article 7 (Your Data, Diner Privacy, and Consent), (c) breach of Article 9 (Confidentiality), (d) your obligation to pay fees, (e) your indemnity obligations relating to TCPA class actions or your menu and marketing content, (f) gross negligence, willful misconduct, or fraud, or (g) anything the law says cannot be limited.
+
+12.4 Why the cap. The cap reflects the price of the Service. If you need a higher cap, talk to us about a custom enterprise arrangement.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for material breach. Either of us can terminate on 30 days written notice if the other materially breaches and does not cure within those 30 days. If you terminate for our material breach, we will refund the unused prepaid portion.
+
+13.2 Termination for repeat consent or compliance issues. We can terminate immediately if (a) we receive multiple verified consent or anti-spam complaints about your account that you do not address after we ask, (b) a major email or SMS provider permanently blocks our sending for your account, or (c) a regulator opens an investigation into your sending practices. We will give you a reasonable chance to fix the issue first.
+
+13.3 Termination for insolvency. Either of us can terminate immediately on written notice if the other becomes insolvent, makes a general assignment for the benefit of creditors, files for bankruptcy, or has bankruptcy filed against it that is not dismissed within 60 days.
+
+13.4 What happens when this ends. When the Agreement ends: (a) your access to the Service stops, (b) you owe any unpaid fees through the end date, (c) we delete Customer Data per Section 7.13, (d) we each return or destroy the other's Confidential Information, and (e) Articles 1, 7 (in part), 8, 9, 11, 12, and 14 keep working.
+
+13.5 Transition help. For up to 60 days after termination, we will help you export Customer Data and your customer database in standard formats. Standard exports are free.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing law. The laws of the State of {{GOVERNING_LAW_STATE}} apply, without regard to conflict-of-laws rules.
+
+14.2 Where to sue. Any lawsuit about this Agreement must be filed in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+14.3 Talk first. Before you sue, please email legal@tastepilot.com and give us 30 days to fix the problem informally.
+
+14.4 No jury. We both give up the right to a jury trial.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Whole agreement. This Agreement, plus the documents we link to (the pricing page, the subprocessor list, the privacy policy), are the whole deal between us about the Service.
+
+15.2 Updates. We may update this Agreement from time to time. We will email you 30 days before any material change.
+
+15.3 Severability. If a court says a part of this Agreement does not work, the rest still does.
+
+15.4 No waiver. Not enforcing a right one time is not a permanent giveup.
+
+15.5 Notices. We will send you notices by email. You will send us notices to legal@tastepilot.com.
+
+15.6 Assignment. You cannot assign this Agreement without our written consent. We may assign without your consent in connection with a merger or sale of substantially all of our assets.
+
+15.7 Force majeure. Neither of us is liable for delays caused by events outside our reasonable control, except your obligation to pay still applies.
+
+15.8 Independent contractors. We are independent contractors.
+
+15.9 No third-party beneficiaries. Only you and we have rights under this Agreement. Diners are not third-party beneficiaries; their privacy rights come from applicable law.
+
+15.10 Counterparts. We can sign in counterparts, including by electronic signature.
+
+15.11 Plain language. We wrote this in plain language on purpose.

@@ -1,0 +1,235 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+This Master Subscription Agreement (this "Agreement") is made and entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} ("Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} ("Customer"). Provider and Customer may each be referred to as a "Party" and collectively as the "Parties."
+
+This Agreement is intentionally a Master Agreement only. It does not, by itself, obligate Customer to purchase any Subscription, Module, or Professional Services. The specific Subscription Modules, Authorized Sites, Authorized Users, Subscription Fees, Subscription Term dates, Service Levels, and any custom terms applicable to a particular engagement shall be set forth in one or more Order Forms executed by both Parties from time to time and incorporated by reference into this Agreement (each, an "Order Form"). In the event of any conflict between this Agreement and an Order Form, the Order Form shall control as to the matters expressly addressed therein.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means, with respect to any entity, any other entity that directly or indirectly controls, is controlled by, or is under common control with such entity, where "control" means ownership of more than fifty percent (50%) of the voting securities or membership interests of such entity.
+
+1.2 "Authorized Site" means a hospital, clinic, ambulatory surgery center, physician practice, or other healthcare facility owned, operated, or managed by Customer or its Affiliates and identified on an Order Form.
+
+1.3 "Authorized User" means an individual employee, contractor, medical staff member, or other workforce member of Customer or an Authorized Site who is authorized by Customer to access and use the Platform pursuant to the rights granted on an Order Form.
+
+1.4 "BAA" means the Business Associate Agreement attached hereto as Exhibit A and executed simultaneously with this Agreement.
+
+1.5 "Customer Data" means all electronic data, content, records, and other information that is uploaded to, transmitted through, processed by, or stored within the Platform by or on behalf of Customer, an Authorized Site, or any Authorized User in connection with Customer's use of the Services, including without limitation Protected Health Information.
+
+1.6 "HIPAA" means the Health Insurance Portability and Accountability Act of 1996, as amended by the Health Information Technology for Economic and Clinical Health Act ("HITECH") and the regulations promulgated thereunder at 45 C.F.R. Parts 160 and 164.
+
+1.7 "Module" means a discrete functional component of the Platform (such as the inpatient EHR Module, the ambulatory EHR Module, the revenue cycle Module, the patient portal Module, the analytics Module, or the population health Module) as identified on an Order Form.
+
+1.8 "Order Form" has the meaning set forth in the preamble.
+
+1.9 "Platform" means Provider's hosted electronic health record and clinical workflow software-as-a-service platform, including all Modules made available to Customer under one or more Order Forms.
+
+1.10 "Professional Services" means implementation, configuration, data migration, integration, training, optimization, and other professional services provided by Provider under a Statement of Work.
+
+1.11 "Protected Health Information" or "PHI" has the meaning set forth in 45 C.F.R. § 160.103 and includes any individually identifiable health information transmitted, maintained, or processed through the Platform on Customer's behalf.
+
+1.12 "Service Level Agreement" or "SLA" means the service level commitments set forth in the applicable Order Form or the Service Level Exhibit attached thereto.
+
+1.13 "Statement of Work" or "SOW" means a written document signed by both Parties describing Professional Services to be provided by Provider, which is incorporated by reference into this Agreement.
+
+1.14 "Subscription" means Customer's right to access and use a specified set of Modules at specified Authorized Sites for a specified Subscription Term, in each case as set forth on an Order Form.
+
+1.15 "Subscription Fees" means the fees payable by Customer to Provider for a Subscription, as set forth on the applicable Order Form.
+
+1.16 "Subscription Term" means the period during which a Subscription is in effect, as set forth on the applicable Order Form.
+
+ARTICLE 2 — SUBSCRIPTION AND LICENSE
+
+2.1 Provision of Services. Subject to the terms and conditions of this Agreement, the applicable Order Form, and Customer's compliance therewith, Provider shall make the Modules identified on each Order Form available to Customer and the Authorized Sites and Authorized Users specified on such Order Form during the applicable Subscription Term, in accordance with the Service Level Agreement and the Documentation.
+
+2.2 License Grant. Provider hereby grants to Customer, during each Subscription Term, a limited, non-exclusive, non-transferable, non-sublicensable right and license to access and use the Modules identified on the applicable Order Form for the internal healthcare operations of Customer and the Authorized Sites set forth on such Order Form. The scope of the license, including the maximum number of Authorized Users, the included Authorized Sites, and any usage caps, is as expressly set forth on the applicable Order Form.
+
+2.3 Restrictions. Except as expressly permitted in this Agreement and the applicable Order Form, Customer shall not (a) modify, adapt, or create derivative works based on the Platform; (b) sublicense, rent, sell, or otherwise commercially exploit access to the Platform; (c) reverse engineer the Platform; (d) use the Platform to build a competing product; or (e) use the Platform in any manner not authorized by the applicable Order Form.
+
+2.4 Affiliates and Authorized Sites. Customer's Affiliates may receive the benefit of Subscriptions only if such Affiliates are identified as Authorized Sites on the applicable Order Form. Customer shall remain responsible for the acts and omissions of its Affiliates and Authorized Sites in connection with their use of the Platform and for compliance by such Affiliates and Authorized Sites with this Agreement.
+
+2.5 Suspension. Provider may suspend Customer's access to the Platform, in whole or in part, upon prior written notice if Provider reasonably determines that (a) Customer's use poses an immediate and material security risk; (b) Customer has materially breached the license restrictions in Section 2.3 and failed to cure within ten (10) business days of written notice; or (c) suspension is required by law. Provider shall not suspend access to clinical Modules during a clinical event or outage in a manner that would foreseeably endanger patient care, except where required by law.
+
+ARTICLE 3 — IMPLEMENTATION AND PROFESSIONAL SERVICES
+
+3.1 Statements of Work. Professional Services shall be provided under one or more SOWs, each of which shall specify the scope, deliverables, timeline, acceptance criteria, fees, and any project-specific terms. Each SOW shall be deemed incorporated into this Agreement upon execution by both Parties.
+
+3.2 No Implementation by Default. This Agreement does not, by itself, obligate Provider to perform any Professional Services. Implementation, data migration, integration with Customer's existing systems, training, and any other Professional Services shall be performed only pursuant to a duly executed SOW.
+
+3.3 Change Orders. Any change to the scope of Professional Services described in an SOW shall be documented in a written change order signed by both Parties. Change orders may result in adjustments to fees, deliverables, or schedules, as set forth therein.
+
+3.4 Customer Responsibilities. Customer acknowledges that timely completion of Professional Services depends on Customer's cooperation, including timely access to systems, data, and personnel. Provider shall not be responsible for delays in Professional Services attributable to Customer.
+
+ARTICLE 4 — SUBSCRIPTION FEES AND PAYMENT
+
+4.1 Fees. Customer shall pay Provider the Subscription Fees, Professional Services fees, and any other amounts set forth on the applicable Order Form or SOW. Except as expressly set forth on an Order Form, Subscription Fees are payable annually in advance.
+
+4.2 Annual Aggregate. The annual aggregate Subscription Fees payable by Customer across all then-active Order Forms as of the Effective Date is {{ANNUAL_FEE_AMOUNT}}, which figure is included in this Agreement for reference only and shall be updated by reference to the Order Forms then in effect from time to time.
+
+4.3 Payment Terms. Unless otherwise set forth on an Order Form, all undisputed invoices shall be due and payable within thirty (30) days of the date of invoice. Late payments shall accrue interest at the lesser of one percent (1%) per month or the maximum rate permitted by applicable law.
+
+4.4 Disputed Invoices. If Customer in good faith disputes any portion of an invoice, Customer shall notify Provider in writing of the dispute within fifteen (15) business days of receipt, identifying the disputed amount and the basis for the dispute. Customer shall pay all undisputed amounts on time. The Parties shall negotiate in good faith to resolve the dispute.
+
+4.5 Taxes. Subscription Fees and Professional Services fees are exclusive of all taxes other than taxes imposed on Provider's net income. Customer shall be responsible for all applicable taxes, except to the extent Customer is exempt and provides Provider with a valid exemption certificate.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Agreement Term. This Agreement shall commence on the Effective Date and shall continue in effect so long as any Order Form executed under it remains in effect, unless earlier terminated in accordance with Article 13.
+
+5.2 Subscription Term. The Subscription Term for each Subscription shall be as set forth on the applicable Order Form. Each Subscription shall automatically renew for successive renewal terms equal in length to the initial Subscription Term unless either Party provides written notice of non-renewal to the other Party at least {{NOTICE_DAYS}} days prior to the expiration of the then-current Subscription Term.
+
+5.3 Effect of Order Form Expiration. Expiration or termination of an individual Order Form shall not, by itself, terminate this Agreement or any other Order Form, unless expressly stated otherwise in the affected Order Form.
+
+5.4 Fee Adjustments at Renewal. Provider may adjust Subscription Fees for any renewal Subscription Term by providing written notice of the adjusted fees to Customer at least one hundred twenty (120) days prior to the start of the renewal Subscription Term. Any adjustment shall not exceed five percent (5%) above the Subscription Fees in effect during the immediately preceding Subscription Year.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Service Levels. The Service Level commitments applicable to each Module — including uptime targets, support response times, and service credits — shall be set forth in the Service Level Exhibit to the applicable Order Form. The Parties acknowledge that different Modules may carry different Service Levels reflecting their criticality to patient care.
+
+6.2 Clinical Module Standard. Notwithstanding Section 6.1, all Modules that touch direct clinical workflows (inpatient EHR, ambulatory EHR, computerized provider order entry, and medication administration) shall be subject to a default uptime commitment of at least 99.9% measured monthly, excluding scheduled maintenance and force majeure events, regardless of whether such commitment is restated on the Order Form.
+
+6.3 Support Tiers. Provider shall provide the support tier specified on the applicable Order Form. Standard support includes (a) twenty-four hours per day, seven days per week access to Provider's online help center; (b) email and telephone support during defined business hours; and (c) twenty-four hours per day, seven days per week emergency on-call support for Severity 1 incidents affecting clinical Modules with a target initial response time of one (1) hour.
+
+6.4 Service Credits. Service credits for failure to meet the Service Levels shall be Customer's sole and exclusive monetary remedy for such failure, except that two (2) or more consecutive months of failure to meet the clinical Module uptime commitment under Section 6.2 shall constitute a material breach of this Agreement entitling Customer to terminate the affected Order Form for cause.
+
+ARTICLE 7 — CUSTOMER DATA, PRIVACY, AND HIPAA
+
+7.1 Ownership of Customer Data. As between the Parties, Customer shall retain all right, title, and interest in and to Customer Data, including all PHI. Provider acknowledges that Customer Data is the exclusive property of Customer.
+
+7.2 Business Associate Status. The Parties acknowledge that, in providing the Services, Provider shall be acting as a "business associate" of Customer, as that term is defined under HIPAA. The BAA attached hereto as Exhibit A is incorporated by reference and constitutes the binding Business Associate Agreement between the Parties. In the event of a conflict between this Article 7 and the BAA with respect to PHI, the BAA shall control.
+
+7.3 Permitted Uses. Provider shall use and disclose Customer Data, including PHI, only as permitted by HIPAA, the BAA, this Agreement, and the applicable Order Form. Provider shall not use Customer Data for any other purpose, including without limitation product improvement, machine learning model training, marketing, or sale to third parties, except as expressly permitted by Customer in writing.
+
+7.4 Security. Provider shall implement and maintain administrative, physical, and technical safeguards designed to comply with the HIPAA Security Rule (45 C.F.R. Part 164, Subpart C), including without limitation (a) encryption of PHI in transit using TLS 1.2 or higher; (b) encryption of PHI at rest using AES-256; (c) role-based access controls aligned with the Authorized Site and Authorized User structure on each Order Form; (d) annual third-party penetration testing; (e) maintenance of HITRUST CSF certification or equivalent; and (f) a documented information security program reviewed and updated at least annually.
+
+7.5 Breach Notification. Provider shall notify Customer in writing of any "Breach" of "Unsecured Protected Health Information" (as both terms are defined under 45 C.F.R. § 164.402) without unreasonable delay and in any event within the timeframe set forth in the BAA, which shall not exceed seventy-two (72) hours of Provider's discovery of such Breach.
+
+7.6 Right to Audit. Once per calendar year, upon at least sixty (60) days prior written notice, Customer (or a third-party assessor engaged by Customer and bound by reasonable confidentiality obligations) shall have the right to audit Provider's compliance with this Article 7 and the BAA, at Customer's expense. Customer shall conduct any audit during normal business hours, in a manner that does not unreasonably interfere with Provider's operations, and in compliance with Provider's reasonable security protocols. The frequency of audits may be increased without limitation following a Security Incident or upon the request of any regulator with jurisdiction over Customer.
+
+7.7 Subprocessors. Provider shall maintain a list of subprocessors that have access to PHI on Provider's Customer Trust Portal, which list is incorporated by reference into the BAA. Provider shall provide Customer with at least thirty (30) days prior written notice of any addition or change to a subprocessor that has access to PHI. Customer may object to any new or changed subprocessor on reasonable security or compliance grounds. If the Parties cannot resolve Customer's objection in good faith, Customer may terminate the affected Order Form for cause and receive a prorated refund of any prepaid Subscription Fees.
+
+7.8 Regulator Cooperation. Provider shall cooperate with any audit, inquiry, or investigation by the Department of Health and Human Services Office for Civil Rights, any state attorney general, or any other regulator with jurisdiction over Customer's handling of PHI. Provider shall make available to Customer such information as Customer may reasonably require to respond to any such regulatory inquiry.
+
+7.9 Data Residency. Provider shall store and process Customer Data within data centers physically located in the contiguous United States. Provider shall not transfer Customer Data outside of the United States without Customer's prior written consent.
+
+7.10 Data Return and Deletion. Upon expiration or termination of an Order Form for any reason, Provider shall, at Customer's election: (a) make Customer Data attributable to such Order Form available for export by Customer in a commercially reasonable, machine-readable format for a period of {{NOTICE_DAYS}} days following expiration or termination; or (b) permanently delete such Customer Data from Provider's production systems within thirty (30) days of expiration or termination, with backup deletion to follow in accordance with Provider's standard backup retention schedule.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Provider Intellectual Property. As between the Parties, Provider shall retain all right, title, and interest in and to the Platform, the Modules, the Documentation, and all related Intellectual Property Rights, including without limitation any modifications, enhancements, derivative works, or improvements thereto. No rights are granted to Customer hereunder other than as expressly set forth in this Agreement and the applicable Order Forms.
+
+8.2 Customer Data. As provided in Article 7 and the BAA, Customer Data is and shall remain the exclusive property of Customer.
+
+8.3 Customer Configurations. Customer-specific configurations, custom forms, custom order sets, custom alerts, custom report templates, and other Customer-developed content within the Platform shall be deemed Customer's property to the extent they reflect Customer's own clinical workflows and intellectual property. Provider shall not use or sublicense any such Customer Configurations to any third party without Customer's prior written consent.
+
+8.4 Feedback. Customer or its Authorized Users may provide Provider with suggestions, comments, ideas, or feedback regarding the Platform ("Feedback"). Customer hereby grants Provider a perpetual, irrevocable, royalty-free, worldwide license to use such Feedback to improve the Platform, provided that Provider shall not use any Customer Data, including PHI, in connection with Feedback.
+
+8.5 No Implied Licenses. Except for the limited rights expressly granted in this Agreement, neither Party grants any rights or licenses to the other Party, whether by implication, estoppel, or otherwise, with respect to any of its Intellectual Property Rights.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party agrees to (a) hold the other Party's Confidential Information in strict confidence; (b) use the other Party's Confidential Information solely for the purposes of this Agreement; (c) not disclose the other Party's Confidential Information to any third party except to its employees, contractors, and advisors who have a legitimate need to know and who are bound by confidentiality obligations at least as protective as those set forth in this Article 9; and (d) protect the other Party's Confidential Information using the same degree of care it uses to protect its own confidential information of similar importance, but in no event less than reasonable care.
+
+9.2 Exclusions. The obligations in Section 9.1 shall not apply to information that the Receiving Party can demonstrate (a) was already known to it without obligation of confidentiality; (b) was independently developed without use of the Disclosing Party's Confidential Information; (c) was rightfully received from a third party without obligation of confidentiality; or (d) is or becomes publicly available through no fault of the Receiving Party.
+
+9.3 Compelled Disclosure. The Receiving Party may disclose Confidential Information to the extent required by law or regulatory authority, provided that the Receiving Party (a) gives the Disclosing Party prompt written notice of the requirement, to the extent legally permitted; (b) cooperates with the Disclosing Party in any reasonable effort to obtain a protective order; and (c) discloses only that portion of Confidential Information that is legally required.
+
+9.4 Survival. The obligations in this Article 9 shall survive any expiration or termination of this Agreement for a period of five (5) years, except that obligations with respect to PHI and trade secrets shall survive for so long as such information remains protected under applicable law.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants that (a) it is duly organized, validly existing, and in good standing under the laws of the jurisdiction of its formation; (b) it has the full corporate power and authority to enter into this Agreement; and (c) this Agreement constitutes a legal, valid, and binding obligation enforceable against it in accordance with its terms.
+
+10.2 Provider Warranties. Provider represents and warrants that during the Subscription Term: (a) the Platform shall perform substantially in accordance with the Documentation; (b) Provider shall not knowingly include any malicious code in the Platform; (c) Provider shall provide the Services in a professional and workmanlike manner; and (d) Provider shall comply with HIPAA, HITECH, and applicable federal, state, and local laws in providing the Services.
+
+10.3 Customer Warranties. Customer represents and warrants that (a) it has the right to upload Customer Data, including PHI, to the Platform; (b) it shall use the Platform in compliance with applicable laws; and (c) it shall obtain any necessary patient authorizations or consents as required by law for the use and disclosure of PHI through the Platform.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES IN THIS ARTICLE 10, THE PLATFORM AND THE SERVICES ARE PROVIDED "AS IS." PROVIDER DISCLAIMS ALL OTHER WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. PROVIDER DOES NOT WARRANT THAT THE PLATFORM WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Provider Indemnity. Provider shall defend Customer and its officers, directors, employees, and agents against any third-party claim alleging that Customer's use of the Platform in accordance with this Agreement and the applicable Order Form infringes any Intellectual Property Right of such third party, and Provider shall indemnify Customer for any damages, settlement amounts, and reasonable attorneys' fees finally awarded against Customer with respect to such claim. Provider's obligations under this Section 11.1 shall not apply to the extent the claim arises out of (a) any modification of the Platform by any party other than Provider; (b) any combination of the Platform with software, hardware, or data not provided by Provider; (c) Customer's use of the Platform in a manner not authorized by this Agreement or the applicable Order Form; or (d) Customer Data.
+
+11.2 HIPAA Breach Indemnity. Provider shall indemnify Customer for any direct costs and expenses Customer incurs as a result of a Breach of Unsecured PHI to the extent caused by Provider's breach of its obligations under Article 7 or the BAA, including without limitation (a) the reasonable costs of HIPAA-required breach notifications to affected individuals, the Department of Health and Human Services, and the media; (b) the reasonable costs of credit monitoring or identity theft protection offered to affected individuals; (c) the reasonable costs of forensic investigation; and (d) civil monetary penalties imposed by a regulator on Customer that are directly attributable to Provider's breach.
+
+11.3 Customer Indemnity. Customer shall defend Provider against any third-party claim alleging that (a) Customer Data infringes any third-party right; or (b) Customer's use of the Platform in violation of this Agreement caused damage to a third party. Customer shall indemnify Provider for any damages, settlement amounts, and reasonable attorneys' fees finally awarded against Provider with respect to such claim.
+
+11.4 Indemnification Procedure. The Party seeking indemnification shall (a) provide the indemnifying Party with prompt written notice of the claim; (b) grant the indemnifying Party sole control over the defense and settlement, provided that the indemnifying Party shall not enter into any settlement that imposes any liability or obligation on the indemnified Party without the indemnified Party's prior written consent (not to be unreasonably withheld); and (c) provide reasonable cooperation at the indemnifying Party's expense.
+
+11.5 Mitigation. If the Platform becomes, or is in Provider's reasonable opinion likely to become, the subject of an infringement claim, Provider may, at its option and expense, (a) procure for Customer the right to continue using the Platform; (b) modify the Platform to be non-infringing without materially diminishing functionality; (c) replace the Platform with a non-infringing equivalent; or (d) terminate the affected Order Form and refund the prepaid portion of Subscription Fees corresponding to the unused portion of the then-current Subscription Term.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT, ANY ORDER FORM, OR ANY SOW, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF SUBSCRIPTION FEES PAID OR PAYABLE BY CUSTOMER TO PROVIDER DURING THE {{LIABILITY_CAP_MONTHS}} MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOST REVENUE, LOST BUSINESS OPPORTUNITIES, LOSS OF USE, OR LOSS OF DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+12.3 Exceptions to Limitations. The limitations in Sections 12.1 and 12.2 shall not apply to (a) Provider's obligations under Article 11 (Indemnification), including specifically the HIPAA Breach Indemnity in Section 11.2; (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Customer Data, Privacy, and HIPAA) or the BAA; (d) Customer's payment obligations; (e) liability arising from a Party's gross negligence, willful misconduct, or fraud; or (f) any liability that, under applicable law, cannot be limited or excluded.
+
+12.4 Heightened Cap for Certain Breaches. Notwithstanding Section 12.1, with respect to any claim arising from a Breach of Unsecured PHI for which Provider is liable under Section 11.2, the aggregate cap shall be the greater of (a) the cap in Section 12.1, or (b) Five Million United States Dollars ($5,000,000). This heightened cap reflects the Parties' acknowledgment of the heightened risks associated with PHI.
+
+12.5 Basis of the Bargain. The Parties acknowledge that the limitations of liability set forth in this Article 12 are an essential element of the bargain between the Parties.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Material Breach. Either Party may terminate this Agreement, an Order Form, or an SOW upon thirty (30) days' prior written notice to the other Party if the other Party commits a material breach of this Agreement, the applicable Order Form, or the applicable SOW and fails to cure such breach within the thirty (30) day notice period. Termination of an Order Form for material breach shall not, by itself, terminate this Agreement or any other Order Form unless expressly stated in the notice.
+
+13.2 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice if the other Party (a) becomes insolvent; (b) makes a general assignment for the benefit of creditors; (c) files a voluntary petition in bankruptcy; or (d) has an involuntary petition in bankruptcy filed against it that is not dismissed within sixty (60) days.
+
+13.3 Termination for Loss of HITRUST or Regulatory Action. Customer may terminate this Agreement or any Order Form upon written notice if (a) Provider loses or fails to maintain HITRUST CSF certification (or Customer-approved equivalent) for a period exceeding ninety (90) days; or (b) Provider becomes the subject of a final, non-appealable enforcement action by the Department of Health and Human Services Office for Civil Rights for a violation of HIPAA that materially affects Provider's ability to perform under this Agreement.
+
+13.4 Effects of Termination. Upon expiration or termination of this Agreement: (a) all rights and licenses granted hereunder shall immediately cease; (b) Customer shall pay Provider all undisputed amounts that have accrued through the effective date of termination; (c) each Party shall return or destroy the other Party's Confidential Information in accordance with Section 9; (d) Provider shall make Customer Data available for export or shall delete Customer Data in accordance with Section 7.10; and (e) the provisions of this Agreement that by their nature are intended to survive termination, including Articles 1, 7 (in part), 8, 9, 11, 12, and 14, shall so survive.
+
+13.5 Transition Assistance. For a period of up to one hundred eighty (180) days following the effective date of expiration or termination of this Agreement or any Order Form, Provider shall provide Customer with reasonable transition assistance to facilitate Customer's migration to a successor electronic health record system, including the export of Customer Data in standard healthcare interoperability formats (HL7, FHIR, CCDA). Standard data exports shall be provided at no additional charge. Customized or scoped transition services shall be provided under a separate SOW at Provider's then-current professional services rates.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to its conflict-of-laws principles.
+
+14.2 Venue and Jurisdiction. The Parties agree that any action, suit, or proceeding arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, and each Party irrevocably consents to the personal jurisdiction of such courts.
+
+14.3 Informal Dispute Resolution. Before initiating any litigation, the Parties agree to attempt in good faith to resolve any dispute through direct negotiation between executives of each Party with authority to resolve the dispute. If the dispute is not resolved within thirty (30) days after written notice from one Party to the other identifying the dispute and requesting negotiation, either Party may proceed to litigation in accordance with Section 14.2.
+
+14.4 Waiver of Jury Trial. EACH PARTY HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement, together with the BAA, all Order Forms, and all SOWs executed by the Parties, constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings.
+
+15.2 Order of Precedence. In the event of a conflict between this Agreement and an Order Form, the Order Form shall control as to the matters expressly addressed therein. In the event of a conflict between this Agreement and the BAA with respect to PHI, the BAA shall control. In the event of a conflict between an SOW and this Agreement, the SOW shall control as to the Professional Services described therein.
+
+15.3 Amendments. No amendment to this Agreement shall be effective unless set forth in a writing executed by authorized representatives of both Parties.
+
+15.4 Severability. If any provision of this Agreement is held to be invalid, illegal, or unenforceable by a court of competent jurisdiction, such provision shall be modified to the minimum extent necessary to render it valid, or, if no such modification is possible, severed from this Agreement, and the remaining provisions shall continue in full force.
+
+15.5 Waiver. No failure or delay by either Party in exercising any right under this Agreement shall operate as a waiver thereof.
+
+15.6 Notices. All formal notices required or permitted under this Agreement shall be in writing and delivered by hand, certified mail, nationally recognized overnight courier, or email with confirmation of receipt, to the addresses set forth in the applicable Order Form or to such other address as a Party may designate in writing.
+
+15.7 Assignment. Neither Party may assign this Agreement, in whole or in part, without the prior written consent of the other Party, provided that either Party may assign this Agreement without consent in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets.
+
+15.8 Force Majeure. Neither Party shall be liable for any failure or delay in performing its obligations under this Agreement (other than payment obligations) to the extent caused by events beyond such Party's reasonable control.
+
+15.9 Independent Contractors. The Parties are independent contractors. Nothing in this Agreement shall be construed as creating a partnership, joint venture, or employment relationship.
+
+15.10 No Third-Party Beneficiaries. This Agreement is for the sole benefit of the Parties and their respective successors and permitted assigns. No patient, individual whose PHI is processed through the Platform, or other person shall have any rights under this Agreement.
+
+15.11 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original.
+
+15.12 Headings. The headings of Articles and Sections in this Agreement are for convenience of reference only.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+{{CUSTOMER_NAME}}
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
