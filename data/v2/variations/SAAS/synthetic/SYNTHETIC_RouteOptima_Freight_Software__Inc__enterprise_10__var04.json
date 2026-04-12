@@ -1,0 +1,13 @@
+{
+  "source_template": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10.txt",
+  "variation_index": 4,
+  "substitutions": {
+    "PROVIDER_NAME": "Brightline Software, Inc.",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_NAME": "Forge Industrial Holdings Inc.",
+    "CUSTOMER_STATE": "Delaware",
+    "VENUE_CITY": "Wilmington",
+    "TERM_YEARS": "one (1)",
+    "LIABILITY_CAP_MONTHS": "twenty-four (24)"
+  }
+}

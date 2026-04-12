@@ -1,0 +1,14 @@
+{
+  "source_template": "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08.txt",
+  "variation_index": 4,
+  "substitutions": {
+    "PROVIDER_NAME": "Fortis Cloud Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_NAME": "Beacon Health Network, Inc.",
+    "CUSTOMER_STATE": "Florida",
+    "GOVERNING_LAW_STATE": "Florida",
+    "TERM_YEARS": "five (5)",
+    "LIABILITY_CAP_MONTHS": "six (6)"
+  }
+}

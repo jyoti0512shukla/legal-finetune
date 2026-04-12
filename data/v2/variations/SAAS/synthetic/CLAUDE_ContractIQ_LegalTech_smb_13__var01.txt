@@ -1,0 +1,255 @@
+CONTRACT MANAGEMENT PLATFORM SUBSCRIPTION AGREEMENT
+
+This Contract Management Platform Subscription Agreement (this "Agreement") is made and entered into as of July 1, 2024 (the "Effective Date"), by and between Riverstone Software Inc., a Delaware corporation having its principal place of business at 6743 Highland Street NE, Atlanta, Georgia 30369 ("Provider"), and Highland Capital Group, Inc., a Georgia limited liability partnership having its principal place of business at 2264 Maple Street NE, Atlanta, Georgia 30148 ("Customer"). Provider and Customer may each be referred to individually as a "Party" and collectively as the "Parties."
+
+RECITALS
+
+WHEREAS, Provider operates a software-as-a-service contract management and analysis platform designed for use by law firms and their attorneys to organize, search, analyze, and collaborate on legal contracts on behalf of their clients (the "ContractIQ Platform");
+
+WHEREAS, Customer is a law firm engaged in the practice of corporate, commercial, and transactional law and desires to subscribe to the ContractIQ Platform to enhance the efficiency and quality of its legal services;
+
+WHEREAS, the Parties acknowledge that Customer's use of the Platform will involve the storage and processing of materials that may be subject to the attorney-client privilege, the attorney work-product doctrine, and other professional ethical obligations of attorneys, and that the Platform must be designed and operated in a manner consistent with the protection of such privileges and obligations;
+
+WHEREAS, the Parties further acknowledge that the integrity of the attorney-client relationship is a foundational interest of Customer and that any compromise of that relationship through breach of confidentiality or unauthorized use of Customer Data would cause Customer irreparable harm; and
+
+WHEREAS, the Parties wish to set forth the terms and conditions upon which Customer will subscribe to the Platform and Provider will provide the related Services;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means, with respect to any entity, any other entity that directly or indirectly controls, is controlled by, or is under common control with such entity, where "control" means the ownership of more than fifty percent (50%) of the voting securities or membership interests of such entity.
+
+1.2 "Attorney Work Product" means materials prepared by or on behalf of Customer's attorneys in anticipation of litigation or in connection with the provision of legal advice to a client, including without limitation drafts, mental impressions, conclusions, opinions, legal theories, and strategies, as the same are protected from disclosure under Federal Rule of Civil Procedure 26(b)(3) and analogous state law doctrines.
+
+1.3 "Authorized User" means each individual employee, partner, associate, contract attorney, paralegal, legal assistant, or other professional staff of Customer who is authorized by Customer to access and use the Platform. Each Authorized User shall be assigned a unique login credential and shall agree to Provider's standard end-user terms of service prior to first access.
+
+1.4 "Client Materials" means any documents, communications, data, or information uploaded to the Platform by Customer or any Authorized User that pertains to or originates from a client of Customer, including without limitation contracts that Customer is reviewing or drafting on behalf of its clients, client communications, and client work product.
+
+1.5 "Confidential Information" means all non-public information disclosed by one Party to the other Party that is identified as confidential at the time of disclosure or that, given the nature of the information and the circumstances surrounding its disclosure, would reasonably be understood to be confidential. For the avoidance of doubt, all Customer Data (including all Client Materials) shall be deemed Confidential Information of Customer regardless of whether so designated.
+
+1.6 "Customer Data" means all electronic data, content, and information uploaded to, transmitted through, or stored within the Platform by or on behalf of Customer or any Authorized User, including without limitation Client Materials, Privileged Materials, and Attorney Work Product.
+
+1.7 "Documentation" means the user manuals, technical documentation, security white papers, and other materials describing the functionality and operation of the Platform that are made generally available by Provider to its customers.
+
+1.8 "Effective Date" has the meaning set forth in the preamble.
+
+1.9 "Force Majeure Event" means any event or circumstance beyond the reasonable control of a Party, including without limitation acts of God, natural disasters, fire, flood, war, terrorism, civil unrest, governmental action, pandemic, epidemic, labor disputes, internet or telecommunications failures, or denial of service attacks, but excluding Customer's payment obligations.
+
+1.10 "Intellectual Property Rights" means all intellectual property and proprietary rights of any kind anywhere in the world, including without limitation patents, copyrights, trademarks, trade secrets, know-how, database rights, and all other rights of a similar nature.
+
+1.11 "Personal Data" means any information relating to an identified or identifiable natural person, as defined under applicable privacy laws including the Georgia SHIELD Act, the California Consumer Privacy Act, and the EU General Data Protection Regulation (where applicable).
+
+1.12 "Platform" means the ContractIQ Legal Tech contract management platform, including all features, functionality, modules, application programming interfaces, web interfaces, and updates thereto, as made available by Provider during the Subscription Term.
+
+1.13 "Privileged Materials" means any communications or materials that are subject to the attorney-client privilege under Georgia Civil Practice Law and Rules § 4503, the federal common-law attorney-client privilege, or analogous privileges of any other applicable jurisdiction, and includes all communications between attorneys at Customer and clients of Customer made in the course of seeking or providing legal advice.
+
+1.14 "Services" means, collectively, Customer's right of access to the Platform during the Subscription Term, the Support Services, and any other services expressly described in this Agreement.
+
+1.15 "Subscription Fees" means the fees payable by Customer to Provider for the Services as set forth in Section 4.1.
+
+1.16 "Subscription Term" has the meaning set forth in Section 5.1.
+
+1.17 "Support Services" means the technical support services to be provided by Provider as more fully described in Article 6.
+
+ARTICLE 2 — SUBSCRIPTION AND LICENSE
+
+2.1 Provision of the Platform. Subject to the terms and conditions of this Agreement and Customer's timely payment of Subscription Fees, Provider shall make the Platform available to Customer's Authorized Users during the Subscription Term in accordance with this Agreement, the Documentation, and the Service Level Agreement set forth in Article 6.
+
+2.2 License Grant. Subject to the terms and conditions of this Agreement, Provider hereby grants to Customer a limited, non-exclusive, non-transferable, non-sublicensable right and license during the Subscription Term to access and use the Platform solely for Customer's internal business purposes in connection with the provision of legal services to Customer's clients.
+
+2.3 Number of Authorized Users. The Subscription includes the right for up to ten (10) Authorized Users to access the Platform concurrently. Customer may add additional Authorized Users by providing Provider with written notice and paying additional Subscription Fees of Eighteen Hundred United States Dollars ($1,800) per additional Authorized User per annum, prorated for any partial year.
+
+2.4 Restrictions on Use. Customer shall not, and shall not permit any Authorized User to, (a) modify, adapt, alter, translate, or create derivative works based upon the Platform; (b) sublicense, lease, sell, resell, transfer, or distribute access to the Platform to any third party (except that Customer may make output of the Platform available to its clients in the ordinary course of providing legal services); (c) reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Platform; (d) use the Platform to develop a competing product or service; or (e) use the Platform in violation of applicable laws or regulations or in violation of Customer's professional ethical obligations as an attorney.
+
+2.5 Authorized Users. Customer shall be responsible for all acts and omissions of its Authorized Users in connection with their use of the Platform and shall ensure that each Authorized User complies with the terms of this Agreement.
+
+ARTICLE 3 — IMPLEMENTATION AND ONBOARDING
+
+3.1 Self-Service Onboarding. The Platform is designed for self-service onboarding, and no implementation fee shall apply to the basic Subscription. Provider shall provide Customer with online onboarding materials, video tutorials, and email-based onboarding assistance at no additional charge.
+
+3.2 Optional Implementation Services. Should Customer require assistance with the migration of historical contract data into the Platform or with custom integration with Customer's existing document management system, Provider shall provide such professional services pursuant to a written Statement of Work executed by both Parties at Provider's then-current professional services rates.
+
+3.3 Training. Provider shall make available to all Authorized Users at no additional charge live, instructor-led training sessions conducted by webinar at least once per calendar month, in addition to recorded training materials available on demand through Provider's online help center.
+
+ARTICLE 4 — SUBSCRIPTION FEES AND PAYMENT
+
+4.1 Subscription Fees. In consideration of the Services, Customer shall pay an annual Subscription Fee of Eighteen Thousand United States Dollars ($18,000), which is payable in monthly installments of One Thousand Five Hundred United States Dollars ($1,500) in advance. The first monthly installment shall be due upon execution of this Agreement, and subsequent monthly installments shall be due on the first day of each calendar month thereafter.
+
+4.2 Payment Terms. All Subscription Fees shall be due and payable in United States Dollars within one hundred eighty (180) days of the date of invoice (the "Due Date"). Customer shall make all payments by automatic credit card charge or electronic funds transfer to the account designated by Provider in writing.
+
+4.3 Disputed Invoices. If Customer in good faith disputes any portion of an invoice, Customer shall notify Provider in writing of the dispute within fifteen (15) business days of receipt of the invoice, and the Parties shall negotiate in good faith to resolve the disputed amount.
+
+4.4 Late Payments. Any undisputed Subscription Fees not paid by the Due Date shall accrue interest at a rate equal to the lesser of (a) one and one-half percent (1.5%) per month or (b) the maximum rate permitted by applicable law.
+
+4.5 Taxes. The Subscription Fees are exclusive of all taxes, levies, and duties, except taxes imposed on Provider's net income. Customer shall be responsible for payment of all such taxes.
+
+4.6 Fee Adjustments at Renewal. Provider may adjust the Subscription Fees for any Renewal Term by providing written notice to Customer at least sixty (60) days prior to the start of the Renewal Term. Any such adjustment shall not exceed five percent (5%) above the Subscription Fees in effect during the immediately preceding Subscription Year.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Initial Term. The initial term of this Agreement (the "Initial Term") shall commence on the Effective Date and continue for a period of three (3) year, unless earlier terminated in accordance with Article 13.
+
+5.2 Renewal Terms. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive three (3) year renewal terms (each a "Renewal Term") unless either Party provides written notice of non-renewal to the other Party at least one hundred eighty (180) days prior to the expiration of the then-current term.
+
+5.3 Termination for Convenience. Either Party may terminate this Agreement for convenience upon one hundred eighty (180) days' prior written notice to the other Party. Upon termination by Customer for convenience, no refund of prepaid Subscription Fees shall be provided. Upon termination by Provider for convenience, Provider shall refund to Customer the prepaid Subscription Fees corresponding to the period after the effective date of termination.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime Commitment. Provider shall use commercially reasonable efforts to make the Platform available with a Monthly Uptime Percentage of at least 99.5%, calculated as: (Total Minutes in Month - Excluded Minutes - Downtime Minutes) / (Total Minutes in Month - Excluded Minutes), expressed as a percentage.
+
+6.2 Excluded Downtime. The following shall not be counted as Downtime: (a) scheduled maintenance windows announced at least forty-eight (48) hours in advance, which shall not exceed six (6) hours per calendar month; (b) emergency maintenance required to address security vulnerabilities; (c) downtime caused by Customer's acts or omissions; (d) downtime caused by Force Majeure Events; and (e) downtime caused by failures of third-party services or networks outside Provider's reasonable control.
+
+6.3 Service Credits. If the Monthly Uptime Percentage falls below 99.5%, Customer shall be entitled to receive service credits as follows: (a) below 99.5% but at or above 99.0%: a service credit equal to five percent (5%) of one-twelfth (1/12) of the annual Subscription Fee; (b) below 99.0% but at or above 98.0%: a service credit equal to ten percent (10%); (c) below 98.0%: a service credit equal to twenty-five percent (25%). To claim a service credit, Customer shall submit a written request within one hundred eighty (180) days following the end of the affected month. Service credits shall not be paid in cash and shall not exceed in the aggregate twenty-five percent (25%) of the annual Subscription Fee in any Subscription Year.
+
+6.4 Support Services. Provider shall provide the following Support Services: (a) email and live chat support during Provider's business hours of 9:00 a.m. to 6:00 p.m. Eastern Time, Monday through Friday, excluding Provider's published holidays; (b) target initial response time of four (4) business hours for all inquiries; (c) twenty-four hours per day, seven days per week ("24x7") access to a self-service knowledge base and online help center; and (d) access to live, instructor-led training webinars at least monthly.
+
+6.5 Severity Levels. Provider shall categorize support issues using the following severity levels: Severity 1 (complete production outage), Severity 2 (significant degradation), Severity 3 (limited functionality issue), and Severity 4 (general inquiry). Provider shall use commercially reasonable efforts to resolve Severity 1 issues within three (3) business day, Severity 2 issues within three (3) business days, and Severity 3 and Severity 4 issues within Provider's standard support timeframes.
+
+ARTICLE 7 — CUSTOMER DATA, PRIVILEGE, AND PRIVACY
+
+7.1 Ownership of Customer Data. As between the Parties, Customer shall retain all right, title, and interest in and to Customer Data, including all Client Materials, Privileged Materials, and Attorney Work Product. Provider acknowledges that Customer Data is the exclusive property of Customer and that Provider has no right, title, or interest in Customer Data except for the limited license set forth in Section 7.2.
+
+7.2 License to Process. Customer hereby grants to Provider a limited, non-exclusive, non-transferable, royalty-free license to access, store, process, transmit, and display Customer Data solely as necessary to provide the Services to Customer. Provider shall not use Customer Data for any other purpose.
+
+7.3 NO USE FOR ARTIFICIAL INTELLIGENCE TRAINING. Provider expressly agrees that it shall not, and shall not permit any third party to, use Customer Data, in whole or in part, for the purpose of training, fine-tuning, validating, or improving any artificial intelligence model, machine learning model, large language model, or other automated decision-making system, whether maintained by Provider, its Affiliates, or any third party. This restriction is a material term of this Agreement, and any violation shall constitute a material breach entitling Customer to immediate termination without cure period.
+
+7.4 Preservation of Privilege. Provider acknowledges that Customer Data may include Privileged Materials and Attorney Work Product, and that the unauthorized disclosure of such materials could result in the waiver of attorney-client privilege and irreparable harm to Customer and to Customer's clients. Provider shall (a) treat all Customer Data as if it were protected by attorney-client privilege, regardless of whether so identified; (b) not disclose Customer Data to any third party except as expressly permitted by this Agreement; (c) implement technical and organizational measures designed to prevent unauthorized access to Customer Data; and (d) cooperate with Customer in asserting and preserving the attorney-client privilege and the work-product doctrine in the event of any actual or threatened compelled disclosure.
+
+7.5 No Joint Defense or Common Interest. The Parties acknowledge that this Agreement does not create any attorney-client relationship between Provider and Customer, and Provider shall not be entitled to claim the benefit of the attorney-client privilege or work-product doctrine with respect to any communications between Provider and Customer regarding the subject matter of this Agreement.
+
+7.6 Data Security. Provider shall implement and maintain reasonable and appropriate administrative, physical, and technical safeguards designed to protect Customer Data against unauthorized access, disclosure, alteration, and destruction, including without limitation (a) encryption of Customer Data in transit using TLS 1.2 or higher; (b) encryption of Customer Data at rest using AES-256 or equivalent; (c) role-based access controls; (d) annual third-party penetration testing; (e) maintenance of SOC 2 Type II certification; and (f) a documented information security program reviewed and updated at least annually.
+
+7.7 Breach Notification. Provider shall notify Customer in writing of any actual or reasonably suspected unauthorized access to, acquisition of, or disclosure of Customer Data (a "Security Incident") without undue delay and in any event within twenty-four (24) hours of Provider's discovery of such Security Incident. Such notification shall include a description of the nature of the Security Incident, the categories of Customer Data affected, the measures taken or proposed to be taken to address the Security Incident, and the contact information of Provider's designated security officer.
+
+7.8 Compelled Disclosure. If Provider receives any subpoena, discovery request, governmental order, or other legal process compelling the disclosure of Customer Data, Provider shall (a) immediately notify Customer in writing (to the extent legally permitted), (b) not produce any Customer Data until Customer has had a reasonable opportunity to assert objections or seek a protective order, and (c) cooperate with Customer's efforts to oppose disclosure or to limit the scope of disclosure.
+
+7.9 Data Retention and Deletion. Upon expiration or termination of this Agreement, Provider shall, at Customer's election: (a) make Customer Data available for export by Customer in a commercially reasonable, machine-readable format for a period of one hundred eighty (180) days following expiration or termination; or (b) permanently delete Customer Data from Provider's production systems within seven (7) days of expiration or termination, with deletion from backup systems to follow within one hundred eighty (180) days. Upon Customer's written request, Provider shall provide written certification of deletion. The seven-day deletion timeline reflects Customer's heightened obligations to clients regarding the handling of privileged materials.
+
+7.10 Personnel Background Checks. Provider shall conduct background checks on all of its personnel who will have access to Customer Data and shall ensure that all such personnel have executed enforceable confidentiality agreements with Provider.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Provider Intellectual Property. As between the Parties, Provider shall retain all right, title, and interest in and to the Platform, the Documentation, and all related Intellectual Property Rights, including without limitation any modifications, enhancements, derivative works, or improvements thereto.
+
+8.2 Customer Data. As provided in Article 7, Customer Data is and shall remain the exclusive property of Customer, and Provider claims no right, title, or interest in Customer Data.
+
+8.3 Feedback. From time to time, Customer or its Authorized Users may provide Provider with general suggestions, comments, ideas, or feedback regarding the Platform (collectively, "Feedback"). Customer hereby grants Provider a perpetual, irrevocable, royalty-free, worldwide license to use such Feedback to improve the Platform; provided, however, that Provider shall not in any way use, disclose, or incorporate any Customer Data, Client Materials, Privileged Materials, or Attorney Work Product in connection with such use of Feedback, and Provider shall not request or solicit any Feedback that requires the disclosure of any of the foregoing.
+
+8.4 No Implied Licenses. Except for the limited rights expressly granted in this Agreement, neither Party grants any rights or licenses to the other Party, whether by implication, estoppel, or otherwise, with respect to any of its Intellectual Property Rights.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party agrees that it shall (a) hold the other Party's Confidential Information in strict confidence; (b) use the other Party's Confidential Information solely for the purpose of performing its obligations or exercising its rights under this Agreement; (c) not disclose the other Party's Confidential Information to any third party except to its employees, contractors, and advisors who have a legitimate need to know such information and who are bound by written obligations of confidentiality at least as protective as those set forth in this Article 9; and (d) protect the other Party's Confidential Information using the same degree of care that it uses to protect its own confidential information of similar importance, but in no event less than reasonable care.
+
+9.2 Heightened Standard for Customer Data. With respect to Customer Data (including Client Materials, Privileged Materials, and Attorney Work Product), Provider shall apply the highest degree of care commensurate with the confidential nature of legal materials and the obligations of the legal profession, and shall implement procedures designed to ensure that no Provider personnel access Customer Data except as strictly necessary to provide the Services.
+
+9.3 Exclusions. The obligations set forth in Section 9.1 shall not apply to information that the Receiving Party can demonstrate (a) was already known to the Receiving Party at the time of disclosure without obligation of confidentiality; (b) was independently developed by the Receiving Party without use of or reference to the Disclosing Party's Confidential Information; (c) was rightfully received by the Receiving Party from a third party without obligation of confidentiality; or (d) is or becomes publicly available through no fault of or breach by the Receiving Party. The exclusions set forth in this Section 9.3 shall not apply to Customer Data, Client Materials, Privileged Materials, or Attorney Work Product, which shall remain confidential without exception.
+
+9.4 Compelled Disclosure. The Receiving Party may disclose the Disclosing Party's Confidential Information to the extent required by law, provided that the Receiving Party gives the Disclosing Party prompt written notice of such requirement before making such disclosure (to the extent legally permitted) and cooperates with the Disclosing Party in any reasonable effort to obtain a protective order.
+
+9.5 Survival. The obligations set forth in this Article 9 shall survive any expiration or termination of this Agreement in perpetuity with respect to Customer Data, Client Materials, Privileged Materials, and Attorney Work Product, and for a period of five (5) years with respect to all other Confidential Information.
+
+9.6 Equitable Relief. The Parties acknowledge that any breach of this Article 9 or Article 7 may cause irreparable harm to the affected Party for which monetary damages would be inadequate, and accordingly the affected Party shall be entitled to seek injunctive and other equitable relief without the necessity of proving actual damages or posting bond.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants to the other Party that (a) it is duly organized, validly existing, and in good standing under the laws of the jurisdiction of its formation; (b) it has the full corporate or partnership power and authority to enter into this Agreement; (c) the execution, delivery, and performance of this Agreement have been duly authorized; and (d) this Agreement, when executed, constitutes a legal, valid, and binding obligation enforceable against it in accordance with its terms.
+
+10.2 Provider Warranties. Provider represents and warrants that during the Subscription Term: (a) the Platform shall perform substantially in accordance with the Documentation in all material respects; (b) the Platform shall not contain any virus, worm, trojan horse, or other malicious code introduced by Provider; (c) Provider shall provide the Services in a professional and workmanlike manner; (d) Provider shall comply with all applicable laws and regulations in performing its obligations; (e) Provider has not used and will not use Customer Data for any purpose prohibited by Section 7.3; and (f) Provider maintains SOC 2 Type II certification.
+
+10.3 Customer Warranties. Customer represents and warrants that (a) Customer has the right and authority to upload Customer Data to the Platform; (b) Customer's use of the Platform shall comply with all applicable laws, regulations, and Customer's professional ethical obligations as an attorney; and (c) Customer shall not knowingly upload to the Platform any materials of any third party in violation of such third party's rights.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS ARTICLE 10, THE PLATFORM AND THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE," AND PROVIDER DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Provider Indemnity. Provider shall defend Customer and its partners, employees, and agents against any third-party claim alleging that Customer's use of the Platform in accordance with this Agreement infringes or misappropriates any Intellectual Property Right of such third party, and Provider shall indemnify Customer for any damages, settlement amounts, and reasonable attorneys' fees and costs finally awarded against Customer with respect to such claim. Provider's obligations shall not apply to claims arising out of (a) any modification of the Platform by any party other than Provider; (b) Customer's use of the Platform in a manner not authorized by this Agreement; or (c) Customer Data.
+
+11.2 Customer Indemnity. Customer shall defend Provider against any third-party claim alleging that any Customer Data infringes the rights of any third party, and Customer shall indemnify Provider for any damages finally awarded against Provider with respect to such claim. Customer's indemnity obligations shall not apply to any claim arising out of Provider's breach of this Agreement.
+
+11.3 Indemnification Procedure. The Indemnified Party shall (a) provide the Indemnifying Party with prompt written notice of the claim; (b) grant the Indemnifying Party sole control over the defense and settlement of the claim, provided that the Indemnifying Party shall not enter into any settlement that imposes any liability or obligation on the Indemnified Party without the Indemnified Party's prior written consent (not to be unreasonably withheld); and (c) provide the Indemnifying Party with all reasonable cooperation and assistance, at the Indemnifying Party's expense.
+
+11.4 Sole Remedy. The provisions of this Article 11 set forth Provider's sole liability and Customer's sole remedy with respect to any claim of intellectual property infringement.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT, STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF SUBSCRIPTION FEES PAID OR PAYABLE BY CUSTOMER TO PROVIDER DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOST REVENUE, LOSS OF GOODWILL, OR LOSS OF DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT.
+
+12.3 Exceptions to Limitations. The limitations set forth in Sections 12.1 and 12.2 shall not apply to (a) Provider's obligations under Article 11 (Indemnification); (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Customer Data, Privilege, and Privacy), including without limitation any unauthorized disclosure of Customer Data, Privileged Materials, or Attorney Work Product, and any violation of the prohibition on use of Customer Data for AI training; (d) Customer's payment obligations; (e) any liability arising from a Party's gross negligence, willful misconduct, or fraud; or (f) any liability that, under applicable law, cannot be limited or excluded.
+
+12.4 Basis of the Bargain. The Parties acknowledge that the limitations of liability set forth in this Article 12, together with the heightened obligations of Provider regarding Customer Data set forth in Article 7, are an essential element of the bargain between the Parties.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Material Breach. Either Party may terminate this Agreement upon one hundred eighty (180) days' prior written notice to the other Party if the other Party commits a material breach of this Agreement and fails to cure such breach within the one hundred eighty (180) day notice period.
+
+13.2 Immediate Termination by Customer. Notwithstanding Section 13.1, Customer may terminate this Agreement immediately upon written notice to Provider, without cure period, in the event of (a) any unauthorized disclosure of Customer Data by Provider; (b) any violation by Provider of Section 7.3 (No Use for Artificial Intelligence Training); (c) any material breach of Article 7 by Provider; or (d) Provider's loss of SOC 2 Type II certification.
+
+13.3 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice to the other Party if the other Party becomes insolvent, makes a general assignment for the benefit of creditors, files a voluntary petition in bankruptcy, has an involuntary petition in bankruptcy filed against it that is not dismissed within sixty (60) days, or ceases to do business.
+
+13.4 Termination for Convenience. As provided in Section 5.3, either Party may terminate this Agreement for convenience upon one hundred eighty (180) days' written notice.
+
+13.5 Effects of Termination. Upon expiration or termination of this Agreement: (a) all rights and licenses granted to Customer hereunder shall immediately cease; (b) Customer shall pay Provider all Subscription Fees that have accrued through the effective date of termination; (c) Provider shall delete or return Customer Data in accordance with Section 7.9; (d) each Party shall return or destroy the other Party's Confidential Information; and (e) the provisions of this Agreement that by their nature are intended to survive termination shall so survive, including without limitation Articles 7, 8, 9, 11, 12, and 14.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Georgia, without regard to its conflict of laws principles.
+
+14.2 Informal Dispute Resolution. Before initiating any litigation, the Parties agree to attempt in good faith to resolve any dispute arising out of or relating to this Agreement through direct negotiation between executives of each Party with authority to resolve the dispute. If the dispute is not resolved within one hundred eighty (180) days after written notice from one Party to the other identifying the dispute, either Party may proceed to litigation.
+
+14.3 Venue and Jurisdiction. The Parties agree that any action, suit, or proceeding arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in Fulton County, Georgia, and each Party hereby irrevocably consents to the personal jurisdiction of such courts.
+
+14.4 Waiver of Jury Trial. EACH PARTY HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+14.5 Equitable Relief. Notwithstanding the foregoing, either Party may seek injunctive or other equitable relief in any court of competent jurisdiction to prevent or restrain any threatened or actual breach of Article 7 or Article 9.
+
+14.6 Attorneys' Fees. In any action to enforce this Agreement, the prevailing Party shall be entitled to recover its reasonable attorneys' fees and costs.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written.
+
+15.2 Amendments. No amendment, modification, or supplement to this Agreement shall be effective unless set forth in a writing executed by authorized representatives of both Parties.
+
+15.3 Severability. If any provision of this Agreement is held to be invalid, illegal, or unenforceable, such provision shall be modified to the minimum extent necessary to render it valid and enforceable, and the remaining provisions of this Agreement shall continue in full force and effect.
+
+15.4 Waiver. No failure or delay by either Party in exercising any right under this Agreement shall operate as a waiver thereof. Any waiver of a provision of this Agreement shall be effective only if set forth in a writing signed by the waiving Party.
+
+15.5 Notices. All notices required under this Agreement shall be in writing and shall be deemed given when delivered personally, when sent by certified or registered mail return receipt requested, when sent by nationally recognized overnight courier, or when sent by email with confirmation of receipt to the addresses set forth below.
+
+If to Provider: Riverstone Software Inc., 6743 Highland Street NE, Atlanta, Georgia 30369, Attention: General Counsel.
+
+If to Customer: Highland Capital Group, Inc., 2264 Maple Street NE, Atlanta, Georgia 30148, Attention: Managing Partner.
+
+15.6 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, provided that Provider may assign this Agreement without consent in connection with a merger, acquisition, or sale of all or substantially all of its assets, provided that the assignee assumes all of Provider's obligations and is not a competitor of Customer.
+
+15.7 Force Majeure. Neither Party shall be liable for any failure or delay in performing its obligations under this Agreement (other than payment obligations) to the extent that such failure or delay is caused by a Force Majeure Event.
+
+15.8 Independent Contractors. The Parties are independent contractors. Nothing in this Agreement shall be construed as creating a partnership, joint venture, agency, employment, or attorney-client relationship between the Parties.
+
+15.9 No Third-Party Beneficiaries. This Agreement is for the sole benefit of the Parties. Notwithstanding the foregoing, the Parties acknowledge that the obligations of Provider regarding Customer Data may inure to the benefit of Customer's clients, and Customer's clients may have remedies against Provider for any unauthorized disclosure of their materials under applicable law.
+
+15.10 Counterparts. This Agreement may be executed in counterparts, including by electronic signature, each of which shall be deemed an original.
+
+15.11 Headings. The headings of Articles and Sections in this Agreement are for convenience of reference only and shall not affect the interpretation of this Agreement.
+
+15.12 Construction. The Parties acknowledge that this Agreement has been negotiated by both Parties with the benefit of legal counsel, and any rule of construction to the effect that ambiguities are to be resolved against the drafting Party shall not apply.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date first written above.
+
+CONTRACTIQ LEGAL TECH, INC.
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+HARTMAN & ASSOCIATES LLP
+
+By: ________________________
+Name:
+Title: Managing Partner
+Date:

@@ -1,0 +1,19 @@
+{
+  "source_template": "CLAUDE_PharmaTrack_Clinical_enterprise_12.txt",
+  "variation_index": 2,
+  "substitutions": {
+    "PROVIDER_NAME": "Riverstone Software Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "9892 Cedar Street, 22th Floor, Boston, Massachusetts 02304",
+    "CUSTOMER_NAME": "Lakeside Energy Solutions, Inc.",
+    "CUSTOMER_ADDRESS": "6932 Birch Street, 30th Floor, Boston, Massachusetts 02932",
+    "EFFECTIVE_DATE": "June 30, 2025",
+    "GOVERNING_LAW_STATE": "Massachusetts",
+    "VENUE_COUNTY": "Suffolk County",
+    "ANNUAL_FEE_AMOUNT": "Seven Hundred Twenty Thousand United States Dollars ($720,000)",
+    "TERM_YEARS": "two (2)",
+    "NOTICE_DAYS": "thirty (30)",
+    "IMPLEMENTATION_FEE": "Seventy-Five Thousand United States Dollars ($75,000)"
+  }
+}

@@ -1,0 +1,127 @@
+STATEMENT OF WORK ORDER FORM — UTILITY GRID MODERNIZATION (NERC CIP)
+
+This Statement of Work Order Form (this "Order Form" or "SOW") is dated {{EFFECTIVE_DATE}} and is issued under the Master Services Agreement between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}}) (the "Contractor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} ({{CUSTOMER_ADDRESS}}) (the "Utility"), dated {{MSA_EFFECTIVE_DATE}} (the "MSA"). This Order Form is structured as a modular form. The MSA's framework terms apply by reference; the project-specific terms are in the Schedules.
+
+Project Name: {{PROJECT_NAME}}
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 Order Form Structure. This Order Form is intentionally minimal. The substantive project terms are set forth in the Schedules. Where the Schedules conflict with the body of this Order Form, the Schedules control. Where this Order Form (including Schedules) conflicts with the MSA, the Order Form's project-specific commercial terms and the Utility's regulatory provisions control as to this Engagement only.
+
+1.2 Project Description and Scope. The Contractor shall provide professional services in support of the Utility's grid modernization initiative, including the deployment of advanced metering infrastructure analytics, distribution management system integration, and outage management system enhancements, in accordance with Schedule 1 (Project Description and Scope).
+
+1.3 NERC CIP Applicability. The Project includes work that touches Bulk Electric System (BES) Cyber Systems and BES Cyber Assets within the meaning of the North American Electric Reliability Corporation Critical Infrastructure Protection ("NERC CIP") reliability standards. The applicable NERC CIP standards and the Utility-specific implementation requirements are set forth in Schedule 1.D (NERC CIP Compliance Requirements). The Contractor shall comply with all NERC CIP requirements applicable to BES-touching work, including without limitation CIP-002 (BES Cyber System Categorization), CIP-003 through CIP-011 (Security Management Controls, Personnel and Training, Electronic Security Perimeters, Physical Security, Systems Security Management, Incident Reporting, Recovery Plans, Configuration Change Management, and Information Protection), and CIP-013 (Supply Chain Risk Management).
+
+1.4 Order of Precedence Within Order Form. Schedule 1 (including the NERC CIP requirements in 1.D) controls over the other Schedules.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables. The Deliverables are listed in Schedule 2 with target completion dates and acceptance criteria. Each Deliverable that touches BES Cyber Systems shall additionally satisfy the NERC CIP-relevant acceptance criteria in Schedule 2.A.
+
+2.2 Acceptance Period. Each Deliverable is subject to a twenty (20) business day Acceptance Period, extended to thirty (30) business days for any Deliverable requiring NERC CIP compliance review by the Utility's NERC compliance office.
+
+2.3 Cure of Non-Conformity. The Contractor shall correct any non-conformity within fifteen (15) business days at no additional charge. After two (2) cure cycles, the Utility may, at its sole option, accept with an equitable Project Fee reduction or terminate this SOW for material breach.
+
+2.4 No Deemed Acceptance. There shall be no deemed acceptance of any Deliverable. This rule applies with particular force to NERC CIP-relevant Deliverables.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project Window. The Project shall commence on {{PROJECT_START_DATE}} and shall be substantially complete by {{PROJECT_END_DATE}}.
+
+3.2 Milestones. Named milestones with target completion dates are set forth in Schedule 3.
+
+3.3 Regulatory Approval Gates. Certain Milestones in Schedule 3 are gated on the Utility's regulatory approvals from the Utility's state public utility commission and from the relevant Reliability Coordinator. The Utility makes no representation that such approvals will be obtained on any particular timeline. The Project Schedule shall be extended for any delay in regulatory approval, without prejudice to the Utility.
+
+3.4 Status Reporting and Schedule Slippage. The Contractor shall deliver weekly written status reports and shall promptly notify the Utility of any actual or anticipated milestone slippage exceeding five (5) business days.
+
+3.5 Utility Right to Suspend. The Utility may suspend the In-Scope Activities at any time on twenty-four (24) hours' notice in connection with (a) any NERC compliance audit or investigation, (b) any grid reliability event, (c) any storm response or emergency operations period, or (d) any other reason the Utility determines is necessary. The Utility shall pay for time charged through the suspension date but shall not pay for time during the suspension period.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named Key Personnel. The Contractor shall assign the Key Personnel named in Schedule 4. The Contractor shall not replace any Key Personnel without the Utility's prior written consent.
+
+4.2 NERC CIP-Trained Personnel. All Contractor personnel assigned to BES-touching work shall complete (i) the Utility's NERC CIP training, (ii) the Utility's standard background checks, and (iii) the Utility's identity verification and badging procedures, prior to receiving any access to BES Cyber Systems or BES-classified Bulk Electric System Information (BCSI). The Contractor shall maintain documentation of personnel clearances and shall make such documentation available to the Utility's NERC compliance office.
+
+4.3 Removal of Personnel. The Utility may at any time and without cause request that the Contractor remove any individual; the Contractor shall comply within five (5) business days.
+
+4.4 Non-Solicitation. The Contractor shall not, during the Project Period and for twelve (12) months following the Project End Date, solicit for employment any Utility employee with whom the Contractor had material contact, subject to the customary general-solicitation carve-out.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 Utility Responsibilities. The Utility's responsibilities — designated personnel, system access, data, regulatory liaisons — are set forth in Schedule 5.
+
+5.2 Production Access Limitations. Contractor access to production BES Cyber Systems shall be granted only on a temporary, just-in-time basis under Utility supervision, and only for personnel who have completed the requirements in Section 4.2.
+
+5.3 Customer Delays. If the Utility fails to satisfy its responsibilities, the Contractor shall be entitled to schedule extensions and reasonable cost recovery as set forth in Schedule 5.A.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions. The In-Scope Activities, the Project Schedule, and the Project Fee are based on the Assumptions in Schedule 6, including assumptions about the Utility's existing OT/ICS infrastructure, the stability of NERC CIP standards during the Project Period, and the availability of regulatory approvals.
+
+6.2 Third-Party Dependencies. Third-party dependencies are listed in Schedule 6.A.
+
+6.3 Notification of Changed Assumptions. The Utility shall promptly notify the Contractor in writing if it becomes aware that any Assumption has changed.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Hybrid Pricing. The Project Fee for this Order Form is structured as follows: (a) a fixed-fee component covering the design and pre-deployment phases; (b) a milestone-based component covering the deployment phases; and (c) a time-and-materials component (with a not-to-exceed cap) covering NERC CIP compliance support and post-deployment stabilization. The total combined Project Fee shall not exceed {{SOW_FEE_AMOUNT}} (the "Total NTE"). The detailed allocation across the three components is set forth in Schedule 7 (Fees and Payment).
+
+7.2 Right of Audit. The Utility retains the right of audit set forth in the MSA, applied to all Project records.
+
+7.3 Expense Reimbursement. The Utility shall reimburse reasonable, documented out-of-pocket expenses subject to the Utility's vendor travel policy and pre-approval of any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}}.
+
+7.4 Invoicing. Invoices issued per Schedule 7 are due net 60.
+
+7.5 Disputed Invoices. The Utility shall pay the undisputed portion and notify the Contractor in writing of any dispute.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests. Either Party may at any time submit a written Change Request.
+
+8.2 Impact Assessment. The Contractor shall deliver a written impact assessment within fifteen (15) business days. Impact assessments for changes affecting NERC CIP compliance shall include the impact on the Utility's compliance posture.
+
+8.3 Change Order. Both Parties must sign a Change Order. Change Orders affecting NERC CIP compliance shall require additional sign-off from the Utility's NERC compliance office.
+
+8.4 No Oral Modifications. Only a signed Change Order modifies this SOW.
+
+8.5 Continuing Performance. The Contractor continues performing the In-Scope Activities while a Change Request is being negotiated.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT AND UTILITY-SPECIFIC PROVISIONS
+
+9.1 Incorporation by Reference. This SOW Order Form is issued under the MSA. All MSA terms and conditions apply.
+
+9.2 Order of Precedence with MSA. The MSA controls except that the project-specific commercial terms in this Order Form, the NERC CIP requirements in Schedule 1.D, and the Utility-specific provisions in this Article 9 control over any inconsistent provisions in the MSA, solely as applied to this Engagement.
+
+9.3 Bulk Electric System Cyber Asset Information (BCSI). All information designated as BCSI by the Utility shall be handled in accordance with NERC CIP-011 and the Utility's BCSI handling procedures (Schedule 9.A). The Contractor shall not store, transmit, or process BCSI on any system that has not been approved by the Utility's NERC compliance office.
+
+9.4 Cyber Security Incident Reporting. Any cyber security incident affecting the Contractor's systems that hold or process Utility BCSI shall be reported to the Utility's incident response team within one (1) hour of discovery, in accordance with NERC CIP-008. The Contractor shall cooperate fully with the Utility's incident response and any subsequent NERC compliance reporting.
+
+9.5 Supply Chain Risk Management. The Contractor shall comply with NERC CIP-013 supply chain risk management requirements as they apply to the Contractor's services and any subcontractors. The Contractor's flow-down obligations to subcontractors are set forth in Schedule 9.B.
+
+9.6 Termination. The Utility may terminate this Order Form at any time, with or without cause, on thirty (30) days' written notice. The Utility shall pay for work performed through the termination date plus reasonable wind-down costs.
+
+SCHEDULES
+
+Schedule 1 — Project Description and Scope (1.A In-Scope, 1.B Out-of-Scope, 1.C Project Objectives, 1.D NERC CIP Compliance Requirements)
+Schedule 2 — Deliverables and Acceptance Criteria (2.A NERC CIP-Specific Acceptance Criteria)
+Schedule 3 — Project Schedule and Milestones (with Regulatory Approval Gates)
+Schedule 4 — Key Personnel
+Schedule 5 — Client Responsibilities (5.A Customer Delay Compensation)
+Schedule 6 — Assumptions and Dependencies
+Schedule 7 — Fees and Payment (Hybrid Pricing Allocation)
+Schedule 8 — Change Control Procedures
+Schedule 9 — Utility-Specific Provisions (9.A BCSI Handling, 9.B Subcontractor Flow-Down)
+
+SIGNED AS OF {{EFFECTIVE_DATE}}.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

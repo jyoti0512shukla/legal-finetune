@@ -1,0 +1,19 @@
+{
+  "source_template": "CLAUDE_ContractIQ_LegalTech_smb_13.txt",
+  "variation_index": 5,
+  "substitutions": {
+    "PROVIDER_NAME": "BlueShift Analytics Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "PROVIDER_ADDRESS": "4095 Westwood Boulevard, Suite 3000, San Jose, California 913",
+    "CUSTOMER_NAME": "Forge Industrial Holdings Inc.",
+    "CUSTOMER_STATE": "California",
+    "CUSTOMER_ENTITY_TYPE": "limited partnership",
+    "CUSTOMER_ADDRESS": "9761 Pinecrest Boulevard, Suite 3000, San Jose, California 398",
+    "EFFECTIVE_DATE": "November 20, 2024",
+    "VENUE_COUNTY": "Santa Clara County",
+    "ANNUAL_FEE_AMOUNT": "One Million Two Hundred Thousand United States Dollars ($1,200,000)",
+    "TERM_YEARS": "five (5)",
+    "NOTICE_DAYS": "thirty (30)"
+  }
+}

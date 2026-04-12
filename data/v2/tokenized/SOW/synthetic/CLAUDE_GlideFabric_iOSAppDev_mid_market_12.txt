@@ -1,0 +1,287 @@
+Statement of Work — iOS Native App Development
+
+Project: {{PROJECT_NAME}}
+SOW Effective Date: {{EFFECTIVE_DATE}}
+Provider: {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}})
+Client: {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} ({{CUSTOMER_ADDRESS}})
+Parent MSA: signed {{MSA_EFFECTIVE_DATE}}
+
+This SOW is part of the MSA above. The MSA controls the framework terms. This SOW controls the project-specific commercial terms.
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 What we're building
+
+The Provider is building a native iOS app for the Client's existing B2B SaaS product. The app gives the Client's end users the same core workflow they have on the web — create, view, edit, and share — but optimized for mobile use cases (push notifications, offline support, biometric auth, share sheet integration). The Project covers design, build, App Store submission, and a 30-day post-launch hypercare period.
+
+1.2 In-scope (T&M with NTE cap)
+
+The Provider will:
+
+(a) Run a 1-week design sprint to translate the Client's existing web product into mobile-native screens for the core workflow.
+
+(b) Build the iOS app in Swift with SwiftUI, targeting the latest iOS major version and the prior major version.
+
+(c) Implement the core workflow screens: sign-in (including SSO and biometric), home, list view, detail view, create/edit, share, settings, profile.
+
+(d) Implement push notifications via APNs for the Client's existing notification events.
+
+(e) Implement offline read-only support: cached recent items viewable without network.
+
+(f) Implement biometric auth (Face ID / Touch ID) for app unlock.
+
+(g) Integrate with the Client's existing API (the API contracts in Schedule A).
+
+(h) Build automated tests: unit tests for business logic, snapshot tests for the major screens, basic UI tests for the critical user flows.
+
+(i) Submit the app to the App Store under the Client's existing Apple Developer account, working through any App Store review feedback to first acceptance.
+
+(j) Provide 30 calendar days of post-launch hypercare with daily standups during the first week and weekly office hours during weeks 2-4.
+
+1.3 Out-of-scope
+
+(a) Android. Web. Apple Watch. iPad-specific layouts (the iPhone app will run on iPad in compatibility mode but is not optimized for iPad).
+
+(b) Backend / API changes. The Provider builds against the Client's existing API as documented in Schedule A. If the Client's existing API doesn't support a needed mobile feature, that's a Change Order.
+
+(c) Push notification server infrastructure. The Provider integrates with the Client's existing notification system; the Provider does not build new server infrastructure.
+
+(d) Offline write or sync support. Only offline read of cached recent items is in scope.
+
+(e) In-app purchases or subscription management.
+
+(f) Localization beyond US English.
+
+(g) Custom analytics or product analytics integration beyond a single basic events SDK (Mixpanel, Amplitude, or Segment — Client picks).
+
+(h) App Store screenshots, promotional graphics, marketing copy, or App Store optimization. The Client provides these.
+
+(i) Apple Developer account setup or App Store team management. The Client owns the Apple Developer account.
+
+(j) Multi-environment build configuration beyond development and production.
+
+1.4 Engagement period
+
+Start: {{PROJECT_START_DATE}}. End: {{PROJECT_END_DATE}}. End is the conclusion of the 30-day hypercare period after App Store first acceptance.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables
+
+(a) Design Sprint Deliverable — Figma screens for the core workflow, reviewed and signed off by the Client before build starts. Target: end of Project Week 2.
+
+(b) Build Phase 1 — Sign-In and Home Screen — running app build with sign-in (including SSO, biometric) and home screen. Target: end of Project Week 5.
+
+(c) Build Phase 2 — List, Detail, Create/Edit Screens — running app build with the core CRUD workflow. Target: end of Project Week 9.
+
+(d) Build Phase 3 — Push Notifications, Offline Support, Share Sheet — running app build with the remaining mobile-native features. Target: end of Project Week 12.
+
+(e) Test Suite Complete — unit tests, snapshot tests, and UI tests passing in CI. Target: end of Project Week 13.
+
+(f) App Store Submission — TestFlight build submitted to App Store Review. Target: end of Project Week 14.
+
+(g) App Store First Acceptance — app accepted by App Store Review (may require multiple submissions to address review feedback). Target: end of Project Week 16.
+
+(h) Hypercare Closure Report — written report covering the 30-day hypercare period. Target: end of Project Week 20.
+
+2.2 Acceptance window
+
+5 business days for build deliverables (the Client's QA team installs the TestFlight build and exercises the in-scope flows). 10 business days for the Hypercare Closure Report. If the Client doesn't respond within the acceptance window, the Provider sends a written reminder; if still no response within 3 business days after the reminder, the Deliverable is deemed accepted.
+
+2.3 Cure of non-conformity
+
+The Provider has 5 business days to fix and re-deliver each build deliverable. After two cure cycles on a single Deliverable, the Client may either accept with an equitable Project Fee reduction or escalate via the MSA's dispute resolution procedures.
+
+2.4 App Store review feedback
+
+App Store Review may require code changes to address Apple's review feedback. Working through Apple's review feedback to first acceptance is in scope. If Apple's feedback requires substantive changes to the in-scope features (e.g., Apple rejects the entire app architecture, Apple requires a feature change that wasn't anticipated), the affected scope may need a Change Order.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Dates
+
+Start: {{PROJECT_START_DATE}}. App Store first acceptance target: Week 16. End of hypercare: {{PROJECT_END_DATE}}.
+
+3.2 Milestones
+
+(a) M1 — Design Sprint Deliverable accepted (Week 2)
+
+(b) M2 — Build Phase 1 accepted (Week 5)
+
+(c) M3 — Build Phase 2 accepted (Week 9)
+
+(d) M4 — Build Phase 3 accepted (Week 12)
+
+(e) M5 — Test Suite Complete (Week 13)
+
+(f) M6 — App Store Submission (Week 14)
+
+(g) M7 — App Store First Acceptance (Week 16)
+
+(h) M8 — Hypercare Closure Report accepted (Week 20)
+
+3.3 Status
+
+Daily standup during active build phases. Written weekly status update by email each Friday. Provider notifies Client immediately if any milestone is anticipated to slip more than 5 business days.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named team
+
+(a) Engineering Lead — minimum 50% allocation across the engagement.
+
+(b) Senior iOS Engineer — minimum 100% allocation Weeks 1-16, then on-call during hypercare.
+
+(c) iOS Engineer — minimum 100% allocation Weeks 3-13, then 50% Weeks 14-16.
+
+(d) Designer — minimum 100% allocation Week 1-2, then 25% during build for design support.
+
+4.2 No replacement without consent
+
+The Senior iOS Engineer is the named Key Personnel. No replacement during the engagement without Client written consent except for resignation, leave, or for-cause termination of employment.
+
+4.3 Background
+
+All Provider personnel are subject to the MSA's background-check requirements.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 What we need from the Client
+
+(a) Designate a Client Project Owner with authority to approve design, approve features, and answer API questions.
+
+(b) Provide Apple Developer account access to the named Provider team members.
+
+(c) Provide access to the Client's existing API (development and staging environments — production access is not required and shall not be granted).
+
+(d) Provide test user accounts for the Client's API.
+
+(e) Provide API documentation and any internal architecture documentation needed to integrate with the Client's existing systems.
+
+(f) Provide a designated QA contact who installs each TestFlight build and provides feedback within the 5-business-day acceptance window.
+
+(g) Respond to design and product decisions within 3 business days during the build phases.
+
+(h) Provide App Store screenshots, promotional graphics, marketing copy, and Privacy Nutrition Label content for the App Store submission.
+
+5.2 Accuracy
+
+The Client is responsible for the accuracy of the API documentation and the test user account credentials. The Provider relies on the Client's documentation without independent verification.
+
+5.3 Client delays
+
+If the Client misses the 3-or-5-business-day windows on design decisions, build feedback, or API questions, the affected milestones move out by the same number of days. Persistent delays of more than 10 cumulative business days entitle the Provider to additional T&M charges for re-mobilization at the rate card in Schedule B.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions
+
+(a) The Client's existing API is complete and supports the mobile-native features in scope (push, offline read, biometric, SSO). The Provider relies on the API contracts in Schedule A and has not independently verified API completeness.
+
+(b) The Client's API uses standard OAuth 2.0 / OpenID Connect for authentication, including SSO via the Client's existing identity provider.
+
+(c) The Client owns the Apple Developer account and has the App Store listing already created (or is willing to create it during the engagement).
+
+(d) The Client has the rights to all assets used in the app (logos, icons, copy). The Provider relies on the Client's representations and does not perform independent IP clearance.
+
+(e) The app's core workflow can be implemented with the standard SwiftUI component set and a single push-notification SDK. Custom UI components or complex animations beyond standard SwiftUI capabilities may require a Change Order.
+
+(f) Apple's App Store Review Guidelines as published as of the Project Start Date remain materially unchanged during the Project. Material changes to App Store Review Guidelines that require app rework are addressable via Change Order.
+
+(g) The Client doesn't require the app to support iOS versions older than the latest two major versions.
+
+6.2 Third-party dependencies
+
+The Project depends on (a) the Client's existing API being available and stable, (b) Apple's App Store Connect and TestFlight services being operational, (c) any third-party SDKs the Provider uses (auth library, push notification SDK, analytics SDK) being available and supported, and (d) the Client's identity provider supporting mobile SSO.
+
+6.3 If an assumption is wrong
+
+The Provider notifies the Client promptly upon discovering any incorrect assumption.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 T&M with not-to-exceed cap
+
+The Provider performs the In-Scope Activities on a time-and-materials basis at the rates set forth in Schedule B, subject to a not-to-exceed cap of {{SOW_FEE_AMOUNT}} (the "NTE Cap"). The Provider shall not exceed the NTE Cap without the Client's prior written approval, which approval shall be implemented through a signed Change Order. If the Provider determines that it will reach 80% of the NTE Cap, the Provider shall promptly notify the Client in writing.
+
+7.2 Hourly rates
+
+The hourly rates by role are set out in Schedule B. Rates are blended-rate billing — all hours by all team members on the Project are billed at the rate for the named role. Rates shall not increase during the Project Period.
+
+7.3 Invoicing
+
+The Provider invoices monthly in arrears. Each invoice includes (i) the hours by named team member by week, (ii) the activities performed, (iii) any reimbursable expenses with documentation, and (iv) the cumulative spend against the NTE Cap. The Client pays each undisputed invoice within net 30.
+
+7.4 Expense reimbursement
+
+The Provider does not expect to incur reimbursable expenses (the engagement is fully remote). If the Client requests on-site visits, travel is reimbursed under the MSA's expense policy with pre-approval for any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}}.
+
+7.5 Apple Developer Program fees
+
+The Apple Developer Program fee is paid by the Client directly to Apple. The Provider does not invoice for the Apple Developer Program fee.
+
+7.6 Disputed invoices
+
+If the Client disputes any invoice or any portion of an invoice in good faith, the Client pays the undisputed portion and notifies the Provider in writing of the disputed portion.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests
+
+Either Party may at any time request a change to the In-Scope Activities, the Deliverables, the Project Schedule, the NTE Cap, or the Assumptions by sending a written Change Request.
+
+8.2 Impact Assessment
+
+The Provider will respond within 5 business days with the proposed impact on scope, schedule, and NTE Cap.
+
+8.3 Change Order
+
+If the Parties agree, they sign a written Change Order. Both signatures required.
+
+8.4 No oral modifications
+
+Only a signed Change Order modifies this SOW. This rule applies with particular force to changes in the NTE Cap, since exceeding the NTE Cap without Client approval is an unauthorized expansion.
+
+8.5 De minimis
+
+Changes that move the NTE Cap by less than {{CHANGE_ORDER_THRESHOLD}} and don't move milestones may be confirmed by email between the named project leads.
+
+8.6 Continuing performance
+
+The Provider continues working on the in-scope activities while a Change Request is being discussed.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT
+
+9.1 Incorporation
+
+This SOW is part of the MSA. All MSA terms apply.
+
+9.2 Order of precedence
+
+MSA wins on framework terms. This SOW wins on the project-specific commercial terms (NTE Cap, schedule, deliverables, acceptance, key personnel, App Store submission obligations).
+
+9.3 IP
+
+The iOS app source code, the SwiftUI components, the test suites, and the build configuration are Work Product under the MSA and are owned by the Client upon acceptance.
+
+9.4 App Store account
+
+The Apple Developer account remains the Client's at all times. The Provider operates under the Client's account as an authorized team member during the engagement and surrenders all access within 5 business days of the conclusion of the hypercare period.
+
+9.5 Termination
+
+Termination is governed by the MSA. The Client may terminate for convenience under the MSA on the notice period set out there. If the Client terminates for convenience after M3, the Client owes the Provider for all hours worked through the termination date plus a wind-down fee equal to two weeks of the named team's blended-rate cost.
+
+Signed as of {{EFFECTIVE_DATE}}.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

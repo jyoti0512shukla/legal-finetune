@@ -1,0 +1,213 @@
+FOUNDATION MODEL WEIGHTS ENTERPRISE LICENSE — ORDER FORM
+
+This Foundation Model Weights License Order Form (this "Order Form" or "Agreement") is dated {{EFFECTIVE_DATE}} and incorporates the terms set forth in the Schedules attached hereto. The Licensor is {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}}), and the Licensee is {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} ({{CUSTOMER_ADDRESS}}). The Licensor is an AI research lab that develops foundation models. This Order Form licenses the trained model weights to the Licensee for enterprise deployment.
+
+This Order Form is a modular form. Substantive terms are in the Schedules. Where the Schedules conflict with the body, the Schedules control.
+
+ARTICLE 1 — GRANT OF LICENSE
+
+1.1 Licensed Model. The Licensor licenses to the Licensee the foundation model identified in Schedule 1 (the "Licensed Model"), including:
+
+(a) the trained model weights (in the formats specified in Schedule 1, e.g. SafeTensors, GGUF, PyTorch state dict);
+
+(b) the model architecture configuration files;
+
+(c) the tokenizer and tokenizer configuration;
+
+(d) the inference example code, sample notebooks, and quickstart guides;
+
+(e) the system prompt templates and prompt engineering guides;
+
+(f) the Licensor's published Model Card describing the model's capabilities, limitations, training data summary, and known biases; and
+
+(g) any associated fine-tuning recipes (LoRA, full fine-tuning, RLHF reward models) and adapter weights specifically published by the Licensor for the Licensed Model.
+
+1.2 Grant. The Licensor hereby grants to the Licensee an {{LICENSE_GRANT_TYPE}}, royalty-bearing, non-transferable license to:
+
+(a) deploy the Licensed Model on infrastructure owned, leased, or controlled by the Licensee for inference and embeddings;
+
+(b) deploy the Licensed Model in the Licensee's authorized cloud environments (AWS, Azure, GCP, OCI, IBM Cloud, on-premises Kubernetes) using the deployment patterns published by the Licensor;
+
+(c) fine-tune, distill, prune, quantize, or otherwise adapt the Licensed Model for the Licensee's internal use and the Licensee's products described in Schedule 2;
+
+(d) integrate the Licensed Model into the Licensee's products and offer model-powered features to the Licensee's end users;
+
+(e) create derivative models from the Licensed Model and distribute them only as inference outputs (not as standalone weights) to the Licensee's end users;
+
+(f) generate, store, and use embeddings, model outputs, completions, and other inference results for the Licensee's business purposes; and
+
+(g) train evaluation harnesses, monitoring systems, and quality control pipelines that use the Licensed Model.
+
+1.3 Field of use: {{LICENSE_FIELD_OF_USE}}.
+
+1.4 Territory: {{LICENSE_TERRITORY}}.
+
+1.5 Term: {{LICENSE_TERM}}.
+
+1.6 Sublicensing: {{LICENSE_SUBLICENSE_RIGHTS}}.
+
+1.7 Reservation of rights. The Licensor retains all rights, title, and interest in the Licensed Model and the underlying training data. The Licensee receives only the rights expressly granted.
+
+ARTICLE 2 — RESTRICTIONS
+
+2.1 No redistribution of model weights. The Licensee shall not (and shall not permit any third party to) distribute, share, publish, or upload the Licensed Model weights, the architecture configuration, the tokenizer, or any fine-tuned derivative weights of the Licensed Model to:
+
+(a) any public model registry (Hugging Face Hub, GitHub, Model Zoo, ONNX Model Zoo, etc.);
+
+(b) any open-source repository or public archive;
+
+(c) any third party that does not have its own license from the Licensor;
+
+(d) any cloud storage location accessible outside the Licensee's enterprise environment; or
+
+(e) any web service or API endpoint accessible to anyone other than the Licensee's authorized users and end users.
+
+2.2 No re-training as a foundation model. The Licensee shall not use the Licensed Model (or its outputs) to train another foundation model intended for commercial release. Distillation, fine-tuning, and adaptation for the Licensee's internal use and the Licensee's products are permitted; building a competing foundation model from the Licensed Model is not.
+
+2.3 No redistribution of synthetic data for training. The Licensee shall not generate synthetic training data using the Licensed Model and then distribute that synthetic data to any third party for the purpose of training another model. Internal use of synthetic data is permitted.
+
+2.4 No prohibited use cases. The Licensee shall not use the Licensed Model for the prohibited use cases set forth in Schedule 3, which include (without limitation):
+
+(a) generating CSAM (child sexual abuse material) or content sexually exploiting minors;
+
+(b) generating non-consensual intimate imagery of identifiable real persons;
+
+(c) generating disinformation or deepfakes intended to mislead about real persons or events for political or harassment purposes;
+
+(d) generating malware, exploits, or instructions for committing cybercrime, biological attacks, chemical attacks, or attacks on critical infrastructure;
+
+(e) generating instructions for self-harm or suicide;
+
+(f) law enforcement use that has not been independently reviewed for civil rights compliance;
+
+(g) credit, employment, housing, insurance, or educational decisions that disadvantage protected groups in violation of applicable law;
+
+(h) high-stakes medical diagnostic or treatment decisions without a licensed clinician in the loop;
+
+(i) facial recognition or other biometric identification of real persons without a lawful basis; and
+
+(j) any use prohibited by applicable law.
+
+2.5 Use restrictions binding on end users. The Licensee shall require its end users (through Licensee's terms of service or acceptable use policy) to comply with the prohibited use cases in Schedule 3 and shall enforce such restrictions in good faith.
+
+2.6 No removal of safety mechanisms. The Licensee shall not remove, disable, or circumvent any safety mechanisms, content filters, watermarking, refusal behaviors, or alignment training that the Licensor has built into the Licensed Model, except for the Licensee's documented internal evaluation and red-teaming purposes.
+
+2.7 Attribution. The Licensee shall include attribution in the form set forth in Schedule 4 in any product that uses the Licensed Model, including a link to the Licensor's published Model Card.
+
+ARTICLE 3 — FEES AND PAYMENT
+
+3.1 Annual License Fee. The Licensee shall pay the Licensor an annual license fee of {{LICENSE_UPFRONT_FEE}}, payable on the Effective Date and on each anniversary thereof during the Term.
+
+3.2 Volume-Based Royalty. The Licensee shall pay the Licensor a volume-based royalty equal to {{LICENSE_ROYALTY_RATE}} based on the Licensee's monthly inference volume (measured in tokens generated, queries served, or compute-hours, as specified in Schedule 5). The royalty applies only to the Licensee's customer-facing usage of the Licensed Model and does not apply to internal evaluation, development, or research use.
+
+3.3 Minimum Annual Spend. The Licensee shall spend at least {{LICENSE_MIN_ANNUAL_ROYALTY}} per calendar year on a combination of the annual license fee, the volume-based royalty, and any optional support tier purchased.
+
+3.4 Updates. The Licensor will provide the Licensee with minor updates to the Licensed Model (security patches, alignment updates, bug fixes) during the Term at no additional cost. Major updates (e.g. model version upgrades from v1 to v2) may require a new license at the Licensor's then-current pricing.
+
+3.5 Inference compute. The Licensee is responsible for the cost of inference compute (cloud or on-premises). The Licensor's fees in this Article 3 are for the model license only.
+
+3.6 Payment Terms. Net thirty (30) days from invoice. Late payments accrue interest at one and one-half percent (1.5%) per month or the maximum permitted by law.
+
+ARTICLE 4 — RECORDS AND ROYALTY AUDIT
+
+4.1 Inference volume records. The Licensee shall maintain accurate records of the Licensee's monthly inference volume on the Licensed Model, including the number of input and output tokens, query counts, and compute-hours, for at least three (3) years.
+
+4.2 Audit Right. The Licensor may, on at least sixty (60) days' prior written notice and not more than {{LICENSE_AUDIT_FREQUENCY}}, engage an independent certified public accountant reasonably acceptable to the Licensee to audit the Licensee's books and records solely for purposes of verifying the volume-based royalty calculations.
+
+4.3 Audit Costs. The Licensor shall bear the cost of the audit, except that if the audit reveals an underpayment of more than five percent (5%) for any calendar year, the Licensee shall reimburse the Licensor for the cost of the audit.
+
+4.4 Self-reporting alternative. In lieu of a formal audit, the Licensor may accept the Licensee's quarterly self-certification of inference volume signed by an officer of the Licensee.
+
+ARTICLE 5 — IMPROVEMENTS AND FEEDBACK
+
+5.1 Licensee fine-tunes. The Licensee owns any fine-tuned derivative weights, prompts, evaluation harnesses, and adapters the Licensee creates from the Licensed Model. The Licensee's fine-tunes are subject to the redistribution restrictions in Section 2.1 (the Licensee owns them but cannot redistribute them as standalone weights).
+
+5.2 Feedback. If the Licensee provides feedback to the Licensor about the Licensed Model (bug reports, behavior issues, evaluation results, prompt patterns), the Licensor may use the feedback to improve future versions of the Licensed Model without obligation. The Licensee retains ownership of the underlying data behind the feedback (e.g. the Licensee's own evaluation prompts), but the Licensor may use the conceptual feedback freely.
+
+5.3 No automatic upgrade. New major versions of the Licensed Model are not automatically licensed to the Licensee under this Agreement. The Licensee may purchase a new version under a separate Order Form.
+
+ARTICLE 6 — CONFIDENTIALITY AND DATA HANDLING
+
+6.1 Licensor Confidential Information. The Licensee shall hold the model weights, the training data summary, the Licensor's pricing terms, and any non-public technical information about the Licensed Model in strict confidence.
+
+6.2 Licensee data handling. The Licensee retains ownership of all data the Licensee processes through the Licensed Model (input prompts, end-user data, fine-tuning datasets). The Licensor does not have access to the Licensee's inference data because the Licensed Model runs in the Licensee's environment. The Licensor will not collect, transmit, or use any of the Licensee's inference data unless the Licensee opts into a specific feedback or telemetry program.
+
+6.3 Telemetry. The Licensed Model may include optional telemetry that reports model version, environment, and basic operational metrics to the Licensor for the purpose of improving the model. Telemetry can be disabled at the Licensee's option.
+
+6.4 Survival. The confidentiality obligations under this Article 6 shall survive termination indefinitely with respect to the model weights and trade secrets.
+
+ARTICLE 7 — REPRESENTATIONS, WARRANTIES, AND INDEMNIFICATION
+
+7.1 Licensor Representations. The Licensor represents that (a) the Licensor has the right to grant this license, (b) the Licensor has obtained or has the right to use the training data underlying the Licensed Model, (c) the Licensor has implemented reasonable safety and alignment training, as described in the Model Card, and (d) the Licensed Model, as delivered, does not contain any malicious code, virus, or backdoor.
+
+7.2 No warranty of model behavior. EXCEPT FOR THE EXPRESS REPRESENTATIONS IN SECTION 7.1, THE LICENSED MODEL IS PROVIDED "AS IS." THE LICENSOR DOES NOT WARRANT THAT THE MODEL'S OUTPUTS WILL BE ACCURATE, FACTUAL, FREE OF BIAS, FREE OF HALLUCINATIONS, OR FIT FOR ANY PARTICULAR PURPOSE. THE LICENSEE IS SOLELY RESPONSIBLE FOR EVALUATING WHETHER THE LICENSED MODEL IS APPROPRIATE FOR THE LICENSEE'S USE CASE.
+
+7.3 Training data IP indemnification. The Licensor shall defend the Licensee against any third-party claim alleging that the training of the Licensed Model on the Licensor's training data infringes the third party's copyright, trademark, or other intellectual property right (a "Training Data IP Claim"). The Licensor's indemnification under this Section 7.3 is subject to the Licensee's compliance with Article 2 (Restrictions) and is capped at three (3) times the annual license fee paid in the prior twelve (12) months.
+
+7.4 Output indemnification carve-out. The Licensor's indemnification under Section 7.3 does NOT extend to claims arising from the specific outputs the Licensed Model generates in response to the Licensee's prompts. The Licensee assumes the risk of model outputs that may, in certain prompting contexts, reproduce copyrighted material or generate problematic content. The Licensee shall implement reasonable output filtering, content moderation, and human review processes appropriate for the Licensee's use case.
+
+7.5 Licensee Indemnification. The Licensee shall defend the Licensor against any third-party claim arising out of (a) the Licensee's use of the Licensed Model in violation of Article 2, (b) the Licensee's specific prompts and outputs (including any defamation, infringement, or harm caused by the model outputs the Licensee chose to generate or display), (c) the Licensee's failure to enforce the prohibited use restrictions on its end users, or (d) the Licensee's failure to obtain consent for any data the Licensee processes through the Licensed Model.
+
+7.6 Limitation of Liability. EXCEPT FOR (A) BREACHES OF CONFIDENTIALITY, (B) THE INDEMNIFICATION OBLIGATIONS, AND (C) WILLFUL MISCONDUCT, NEITHER PARTY'S AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL EXCEED THE ANNUAL LICENSE FEE PAID IN THE PRIOR TWELVE MONTHS. NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES.
+
+ARTICLE 8 — TERM AND TERMINATION OF LICENSE
+
+8.1 Term. The initial Term is one (1) year from the Effective Date, automatically renewing for successive one-year terms unless either Party gives at least sixty (60) days' notice of non-renewal.
+
+8.2 Termination for Material Breach. Either Party may terminate this Agreement upon thirty (30) days' prior written notice for the other Party's material breach.
+
+8.3 Termination for Prohibited Use. The Licensor may terminate this Agreement immediately, without cure period, if the Licensee uses the Licensed Model for any prohibited use case in Schedule 3.
+
+8.4 Termination for Non-Payment. The Licensor may terminate if the Licensee fails to pay any fee within thirty (30) days of the due date.
+
+8.5 Effect of Termination. Upon termination:
+
+(a) The Licensee shall, within thirty (30) days, delete all copies of the Licensed Model weights, the tokenizer, the configuration files, and any fine-tuned derivative weights from the Licensee's systems and infrastructure.
+
+(b) The Licensee shall certify deletion in writing.
+
+(c) The Licensee shall not retain any backup copies of the Licensed Model weights.
+
+(d) The Licensee may retain (i) outputs generated prior to termination, (ii) the Licensee's own training data and prompts, and (iii) the Licensee's own evaluation harnesses (with the Licensed Model removed from the harness).
+
+(e) The Licensee shall pay all amounts due through the date of termination.
+
+8.6 Survival. Articles 2 (with respect to data already generated), 4, 6, 7, 8.5, and 9 shall survive termination.
+
+ARTICLE 9 — MISCELLANEOUS
+
+9.1 Governing Law. This Agreement shall be governed by the laws of the State of {{GOVERNING_LAW_STATE}}.
+
+9.2 Dispute Resolution. Disputes shall be brought exclusively in the state or federal courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, except that the Licensor may seek injunctive relief in any court of competent jurisdiction to enforce the redistribution prohibition (Section 2.1) and the prohibited use cases (Section 2.4).
+
+9.3 Notices in writing.
+
+9.4 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, except in connection with a merger or sale of substantially all assets, in which case the assignor shall provide notice to the other Party.
+
+9.5 Entire Agreement. This Order Form, together with the Schedules and the Licensor's published Model Card, constitutes the entire agreement.
+
+9.6 Amendment in writing.
+
+9.7 Counterparts.
+
+SCHEDULES
+
+Schedule 1 — Identification of the Licensed Model (model name, version, parameter count, formats)
+Schedule 2 — Authorized Licensee Products
+Schedule 3 — Prohibited Use Cases
+Schedule 4 — Required Attribution
+Schedule 5 — Volume-Based Royalty Methodology
+
+IN WITNESS WHEREOF, the Parties have executed this Foundation Model Weights License Order Form as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title: Chief Technology Officer

@@ -1,0 +1,233 @@
+STATEMENT OF WORK NO. 4 — CORE BANKING LEDGER MODULE DEVELOPMENT
+
+This Statement of Work No. 4 (this "SOW") is entered into as of {{EFFECTIVE_DATE}} (the "SOW Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Client"). The Provider and the Client are collectively referred to as the "Parties."
+
+This SOW is issued pursuant to and is governed by the Master Software Development Services Agreement between the Parties dated {{MSA_EFFECTIVE_DATE}} (the "MSA"). All capitalized terms used but not defined in this SOW have the meanings given to them in the MSA. In the event of any conflict between this SOW and the MSA, the MSA shall control except with respect to commercial terms expressly set forth in this SOW (including the Project Fee, the Project Schedule, the Acceptance Criteria, and the source code escrow obligations), which shall control as to this Engagement only.
+
+The project described in this SOW is referred to as the "{{PROJECT_NAME}}" or the "Project."
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 Project Objectives. The Client has engaged the Provider to design, develop, test, and deliver a new Core Ledger Module (the "Module") that will replace the Client's legacy double-entry general ledger subsystem within the Client's core banking platform. The Module shall (a) maintain a fully auditable double-entry ledger across all of the Client's chart-of-accounts entities, (b) support intraday balance computation with sub-second latency at the Client's peak transaction throughput of fifteen thousand (15,000) transactions per second, (c) integrate with the Client's existing payment, deposit, and lending subsystems via the published API contracts referenced in Schedule A, (d) support the Client's regulatory reporting obligations under the Federal Financial Institutions Examination Council (FFIEC) Call Report instructions, and (e) be delivered as production-grade source code under the Provider's source code escrow arrangement.
+
+1.2 In-Scope Activities. Subject to the Assumptions in Article 6, the Provider shall perform the following In-Scope Activities:
+
+(a) Discovery and Requirements. Collaborative discovery sessions with the Client's banking platform engineering team, leading to a written Requirements Specification covering functional requirements, non-functional requirements (latency, throughput, availability), interface contracts, and regulatory compliance requirements.
+
+(b) Module Design. Architectural and detailed design of the Module, including the data model, the transaction processing pipeline, the consistency model, the recovery model, and the integration interfaces. Design artifacts shall be delivered in the form of an Architecture Specification and a Detailed Design Document.
+
+(c) Module Implementation. Implementation of the Module in the programming language and runtime environment specified in the Requirements Specification, following the Provider's secure software development lifecycle and the Client's coding standards.
+
+(d) Unit and Integration Testing. Implementation of unit tests covering at least eighty-five percent (85%) line coverage of the Module's business logic, plus integration tests against test doubles for each of the Client's downstream subsystems.
+
+(e) Performance Testing. Performance testing against the Client's peak throughput target, with results documented in a written Performance Test Report.
+
+(f) Security Testing. Internal application security review by the Provider's security team, including SAST, dependency vulnerability scanning, and threat modeling. The Provider shall also coordinate with the Client's third-party penetration testing vendor to support the Client's penetration test of the Module.
+
+(g) Production Cutover Support. Support for the Client during the production cutover from the legacy ledger to the Module, including the data migration of opening balances and the parallel-run validation period of fifteen (15) business days.
+
+(h) Source Code Escrow. Deposit of the Module source code with the source code escrow agent identified in Schedule B, in accordance with the source code escrow agreement attached as Schedule B-1.
+
+1.3 Out-of-Scope Activities. The following are expressly out-of-scope and not included in the Project Fee. Any of the following, if requested, requires a Change Order under Article 8:
+
+(a) Migration of any historical ledger data from the legacy system. Historical data migration is being performed by a separate vendor under a separate engagement, and the Provider shall coordinate with that vendor but shall not perform the migration itself.
+
+(b) Implementation of any features not described in the Requirements Specification.
+
+(c) Customer-facing user interface or operator console for the Module. The Module is a back-end service exposing API contracts; any UI is the Client's responsibility.
+
+(d) Integration with any third-party regulatory reporting vendor. The Provider shall produce the data feeds required by the Call Report instructions; mapping the Client's data to a third-party reporting vendor's input format is the Client's responsibility.
+
+(e) Any work product subject to U.S. export control restrictions other than EAR99 commercial software.
+
+(f) Provision of any production cloud infrastructure or hosting services. The Module will run on the Client's infrastructure.
+
+1.4 Engagement Period. The Provider shall perform the In-Scope Activities during the period beginning on the Project Start Date and ending on the Project End Date set forth in Article 3.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables. The Provider shall produce and deliver to the Client the following deliverables (each a "Deliverable" and collectively the "Deliverables"):
+
+(a) Requirements Specification — a written specification covering functional and non-functional requirements, interface contracts, and regulatory compliance requirements. Target delivery: end of Project Week 6.
+
+(b) Architecture Specification — a written specification of the Module's architecture. Target delivery: end of Project Week 10.
+
+(c) Detailed Design Document — a written document describing the data model, the transaction processing pipeline, the consistency model, and the recovery model. Target delivery: end of Project Week 14.
+
+(d) Module Source Code, Phase 1 (Core Posting Engine) — production-grade source code for the core posting engine, with unit tests and inline documentation. Target delivery: end of Project Week 22.
+
+(e) Module Source Code, Phase 2 (Integration Layer) — production-grade source code for the integration layer connecting the Module to the Client's downstream subsystems. Target delivery: end of Project Week 30.
+
+(f) Module Source Code, Phase 3 (Reporting Feeds) — production-grade source code for the regulatory reporting data feeds. Target delivery: end of Project Week 36.
+
+(g) Performance Test Report — a written report documenting the results of performance testing against the Client's throughput targets. Target delivery: end of Project Week 38.
+
+(h) Security Review Report — a written report documenting the Provider's internal security review and the resolution of any findings from the Client's third-party penetration test. Target delivery: end of Project Week 40.
+
+(i) Production Cutover Report — a written report documenting the production cutover and the parallel-run validation results. Target delivery: end of Project Week 44.
+
+2.2 Acceptance Criteria. Acceptance criteria for each Deliverable are set forth in Schedule A. For source code Deliverables (Sections 2.1(d), (e), (f)), acceptance criteria include (i) successful build and unit test execution in the Client's continuous integration environment, (ii) passing of the unit test coverage threshold, (iii) passing of the static analysis quality gate, (iv) absence of any critical or high severity vulnerabilities in dependency scans, and (v) the Provider's written attestation that the Module functions as specified in the Requirements Specification.
+
+2.3 Acceptance Period. The Client shall have a period of fifteen (15) business days following its receipt of each Deliverable (the "Acceptance Period") to review the Deliverable and notify the Provider in writing of either (a) acceptance, or (b) rejection accompanied by a written description of the alleged non-conformity with the acceptance criteria. For source code Deliverables, the Acceptance Period shall be twenty (20) business days to accommodate the Client's internal code review process.
+
+2.4 Cure of Non-Conformity. If the Client rejects a Deliverable, the Provider shall, at no additional charge to the Client, correct the alleged non-conformity and resubmit the corrected Deliverable to the Client within fifteen (15) business days of receipt of the Client's rejection notice. The Client shall then have a new Acceptance Period to review the resubmitted Deliverable. If the Provider fails to deliver a conforming Deliverable after three (3) cycles of cure (the additional cure cycle reflects the technical complexity of the Module), the Client may, at its option, (i) accept the Deliverable in its then-current form with an equitable reduction in the Project Fee attributable to such Deliverable, (ii) terminate this SOW for material breach pursuant to the termination provisions of the MSA, or (iii) require the Provider to engage at the Provider's expense a third-party developer reasonably acceptable to the Client to complete the rejected Deliverable.
+
+2.5 No Deemed Acceptance. There shall be no deemed acceptance of any Deliverable. Any Deliverable not affirmatively accepted by the Client in writing within the Acceptance Period shall remain unaccepted.
+
+2.6 Source Code Escrow Deposit Verification. As a condition of acceptance of each source code Deliverable, the Provider shall deposit the source code with the escrow agent within ten (10) business days following the Client's acceptance, and shall provide the Client with the escrow agent's deposit confirmation. Failure to make a timely escrow deposit shall be a material breach of this SOW.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project Start and End Dates. The Project shall commence on {{PROJECT_START_DATE}} (the "Project Start Date") and shall be substantially complete by {{PROJECT_END_DATE}} (the "Project End Date"), subject to (a) the Client's timely satisfaction of its Client Responsibilities under Article 5, (b) the Assumptions in Article 6 remaining valid, and (c) any extensions agreed in an executed Change Order.
+
+3.2 Milestones. The Project shall be performed in accordance with the following milestone schedule:
+
+(a) Milestone 1 — Requirements Specification Accepted. Target completion: Project Week 6.
+
+(b) Milestone 2 — Architecture Specification Accepted. Target completion: Project Week 10.
+
+(c) Milestone 3 — Detailed Design Document Accepted. Target completion: Project Week 14.
+
+(d) Milestone 4 — Phase 1 Source Code Accepted (Core Posting Engine). Target completion: Project Week 22.
+
+(e) Milestone 5 — Phase 2 Source Code Accepted (Integration Layer). Target completion: Project Week 30.
+
+(f) Milestone 6 — Phase 3 Source Code Accepted (Reporting Feeds). Target completion: Project Week 36.
+
+(g) Milestone 7 — Performance Test Report and Security Review Report Accepted. Target completion: Project Week 40.
+
+(h) Milestone 8 — Production Cutover Complete and Parallel-Run Validated. Target completion: Project Week 44.
+
+3.3 Inter-Milestone Dependencies. Milestones 2 through 8 are each dependent on the prior Milestone having been completed and the corresponding Deliverable having been accepted. Slippage in any earlier Milestone shall extend the target completion date for each subsequent Milestone by a corresponding number of business days, subject to Section 3.4.
+
+3.4 Status Reporting and Schedule Slippage. The Provider shall deliver to the Client a written status report at least once per week throughout the Project. The status report shall identify the activities completed, the activities planned, any open risks or issues, the current Module test coverage and quality metrics, and any actual or anticipated schedule slippage. If the Provider becomes aware of any actual or anticipated slippage of more than ten (10) business days against any Milestone target completion date, the Provider shall notify the Client in writing, identify the cause, and propose a remediation plan.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named Key Personnel. The Provider shall assign the following individuals as Key Personnel for this Project, each of whom is named in Schedule C together with such individual's role, expected minimum allocation percentage, and the period during which such individual is expected to be allocated to the Project:
+
+(a) Engineering Lead (minimum allocation 100% across the entire Project Period);
+
+(b) Principal Architect (minimum allocation 75% during Project Weeks 1 through 14, 25% thereafter);
+
+(c) Senior Software Engineer — Posting Engine (minimum allocation 100% during Project Weeks 6 through 24);
+
+(d) Senior Software Engineer — Integration Layer (minimum allocation 100% during Project Weeks 10 through 32);
+
+(e) Senior Software Engineer — Reporting Feeds (minimum allocation 100% during Project Weeks 14 through 38);
+
+(f) Quality Assurance Lead (minimum allocation 100% during Project Weeks 14 through 44);
+
+(g) Application Security Lead (minimum allocation 50% during Project Weeks 6 through 40).
+
+4.2 No Replacement Without Consent. The Provider shall not replace, reassign, or substantially reduce the allocation of any Key Personnel without the Client's prior written consent (which consent shall not be unreasonably withheld), except in the case of (i) the Key Personnel's resignation from the Provider, (ii) termination of the Key Personnel's employment for cause, (iii) the Key Personnel's death, disability, or extended leave of absence, or (iv) the Client's request for removal under Section 4.4.
+
+4.3 Background Checks and Training. All Provider personnel assigned to this Project shall have completed the background investigations and security training required by the MSA prior to receiving access to any Client systems or Client Materials. The Background investigation shall include credit history verification (consistent with applicable banking regulations on personnel handling sensitive systems).
+
+4.4 Removal of Personnel. The Client may, at any time and without cause, request that the Provider remove any individual from the Project. The Provider shall, within ten (10) business days following receipt of such request, remove the named individual from the Project and propose a replacement of comparable skills, experience, and seniority.
+
+4.5 Non-Solicitation of Key Personnel. During the Project Period and for twelve (12) months following the Project End Date, neither Party shall solicit for employment any Key Personnel of the other Party who is materially involved in this Project, subject to the customary general-solicitation carve-out in the MSA.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 Designated Client Personnel. The Client shall designate, prior to the Project Start Date, (a) an Executive Sponsor (the Client's Chief Technology Officer or designee) with authority to make Project-level decisions, (b) a Client Project Manager who will serve as the day-to-day point of contact for the Provider, (c) a Banking Platform Architect responsible for the integration interfaces between the Module and the Client's existing subsystems, and (d) a Compliance Liaison responsible for the regulatory reporting requirements.
+
+5.2 Access to Systems and Data. The Client shall provide the Provider with timely access to (a) the Client's continuous integration and source code management environments, (b) the Client's testing environment for the Module, (c) read-only access to the Client's existing core banking platform documentation and API contracts, and (d) such physical and logical access as the Provider reasonably requires. Production access shall not be required and shall not be granted.
+
+5.3 Non-Production Test Data. The Client shall provide non-production test data sufficient for the Provider to perform unit, integration, and performance testing of the Module. The Client shall not provide any production data containing customer non-public personal information; the Provider's testing shall be performed exclusively against synthetic or de-identified test data.
+
+5.4 Review and Approval Turnaround. The Client shall use commercially reasonable efforts to review and respond to any Deliverable, Change Order, decision request, or status report from the Provider within ten (10) business days following receipt (or twenty (20) business days for source code Deliverables).
+
+5.5 Client Delays. If the Client fails to satisfy any of its responsibilities under this Article 5 in a timely manner, and such failure prevents or delays the Provider from performing the In-Scope Activities, the Provider shall be entitled to (a) an extension of the relevant Milestone target completion date and the Project End Date by a number of business days equal to the duration of the Client's delay, and (b) reimbursement of any reasonable, documented additional costs the Provider incurs as a direct result of the Client Delay.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions. The Project Fee, the Project Schedule, and the In-Scope Activities are based on each of the following assumptions (the "Assumptions"). If any Assumption proves materially incorrect, the affected impact on scope, schedule, or fees shall be addressed through the change control procedure in Article 8.
+
+(a) The Client's published API contracts referenced in Schedule A are stable and complete as of the Project Start Date. Any breaking changes to those API contracts during the Project Period shall constitute a change in scope.
+
+(b) The Client's existing core banking platform supports the throughput target of fifteen thousand (15,000) transactions per second under the existing infrastructure capacity. The Provider's performance testing shall validate the Module's contribution to this target; end-to-end platform throughput is the Client's responsibility.
+
+(c) The Client's regulatory reporting requirements remain substantially as described in the FFIEC Call Report instructions in effect as of the Project Start Date. Any material changes to those instructions during the Project Period shall constitute a change in scope.
+
+(d) The Client's continuous integration environment, source code management system, and testing environment are operational and suitable for the Module's build and test workflow as of Project Week 4.
+
+(e) The Client's third-party penetration testing vendor will conduct its penetration test of the Module within ten (10) business days following the Client's acceptance of the Phase 3 Source Code (Milestone 6).
+
+(f) The legacy ledger subsystem will remain operational during the parallel-run validation period to support the comparison of legacy and Module results.
+
+(g) No regulatory examinations, supervisory actions, or consent orders affecting the Client's core banking platform will require the Provider to suspend or materially modify the In-Scope Activities during the Project.
+
+6.2 Third-Party Dependencies. The Project depends on the continued availability and proper functioning of (a) the Client's continuous integration and source code management environments, (b) any third-party libraries or open-source components incorporated into the Module (subject to the Provider's open-source compliance review), and (c) the source code escrow agent's services.
+
+6.3 Notification of Changed Assumptions. The Client shall promptly notify the Provider in writing if it becomes aware that any Assumption has changed or is no longer valid.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Project Fee. In consideration for the In-Scope Activities, the Client shall pay the Provider a fixed Project Fee of {{SOW_FEE_AMOUNT}} (the "Project Fee"), payable on the milestone-based schedule set forth in Section 7.3. The Project Fee is exclusive of taxes (which are addressed in the MSA) and exclusive of out-of-pocket expenses (which are addressed in Section 7.4).
+
+7.2 Pricing Structure. The Project Fee is a firm, fixed-fee amount allocated across the eight Milestones in Section 3.2. The Provider has scoped the Project, allocated the Key Personnel, and committed to the Project Schedule on the basis of this milestone-based fixed-fee structure, and the Provider shall bear any cost overruns within the scope of the In-Scope Activities and within the bounds of the Assumptions.
+
+7.3 Milestone-Based Payment Schedule. The Project Fee shall be invoiced and payable in accordance with the following milestone payment schedule:
+
+(a) Five percent (5%) shall be invoiced upon execution of this SOW.
+
+(b) Ten percent (10%) shall be invoiced upon Milestone 1 (Requirements Specification Accepted).
+
+(c) Ten percent (10%) shall be invoiced upon Milestone 2 (Architecture Specification Accepted).
+
+(d) Ten percent (10%) shall be invoiced upon Milestone 3 (Detailed Design Document Accepted).
+
+(e) Fifteen percent (15%) shall be invoiced upon Milestone 4 (Phase 1 Source Code Accepted).
+
+(f) Fifteen percent (15%) shall be invoiced upon Milestone 5 (Phase 2 Source Code Accepted).
+
+(g) Fifteen percent (15%) shall be invoiced upon Milestone 6 (Phase 3 Source Code Accepted).
+
+(h) Ten percent (10%) shall be invoiced upon Milestone 7 (Performance Test Report and Security Review Report Accepted).
+
+(i) The remaining ten percent (10%) (the "Retention Payment") shall be invoiced upon Milestone 8 (Production Cutover Complete and Parallel-Run Validated). The Retention Payment shall not be invoiced or earned until the parallel-run validation has been successfully completed.
+
+Each invoice shall be due and payable within net thirty (30) days of the date of the invoice.
+
+7.4 Expense Reimbursement. The Client shall reimburse the Provider for reasonable, documented out-of-pocket expenses, subject to (a) the Client's then-current vendor travel and expense policy, and (b) the requirement that any individual expense in excess of {{EXPENSE_PREAPPROVAL_THRESHOLD}} be pre-approved in writing by the Client.
+
+7.5 Disputed Invoices. If the Client disputes any invoice or any portion of an invoice in good faith, the Client shall (a) timely pay the undisputed portion of the invoice, (b) promptly notify the Provider in writing of the disputed portion, and (c) work in good faith with the Provider to resolve the dispute. The Provider shall not suspend the In-Scope Activities on account of any disputed invoice for which the undisputed portion has been paid.
+
+7.6 No Cost Sharing for Defect Cure. Any work performed by the Provider to cure a non-conformity in any accepted Deliverable identified during the parallel-run validation period or during the standard warranty period under the MSA shall be performed at the Provider's expense and shall not be invoiceable to the Client.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests. Either Party may at any time during the Project propose a change to the In-Scope Activities, the Deliverables, the Project Schedule, the Project Fee, or the Assumptions by submitting a written Change Request to the other Party. Each Change Request shall describe (a) the proposed change, (b) the reason for the change, (c) the proposed impact on scope, schedule, and fees, and (d) the proposed effective date.
+
+8.2 Impact Assessment. Within fifteen (15) business days following receipt of a Change Request, the Provider shall deliver to the Client a written impact assessment.
+
+8.3 Change Order. If the Parties agree to proceed with a proposed change, they shall execute a written change order (a "Change Order"), signed by an authorized representative of each Party. No change to this SOW shall be effective unless documented in a signed Change Order.
+
+8.4 No Oral Modifications. No oral statement, email, or other informal communication shall constitute a modification of this SOW. Only a Change Order signed by both Parties shall modify this SOW.
+
+8.5 De Minimis Threshold. Notwithstanding the foregoing, changes to the Project that have a cumulative impact on the Project Fee of less than {{CHANGE_ORDER_THRESHOLD}} and no impact on the Project Schedule may be implemented by written email confirmation between the Parties' Project Managers without a formal Change Order.
+
+8.6 Continuing Performance Pending Resolution. If the Parties are unable to reach agreement on a Change Request, the Provider shall continue to perform the In-Scope Activities in accordance with this SOW as in effect prior to the Change Request.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT
+
+9.1 Incorporation by Reference. This SOW is issued under and is governed by the MSA, which is incorporated into this SOW by reference. All terms and conditions of the MSA shall apply, including without limitation the MSA's provisions on confidentiality, intellectual property ownership (Work Product is assigned to the Client and Background IP is retained by the Provider), indemnification, limitation of liability, insurance, governing law, and dispute resolution.
+
+9.2 Order of Precedence. In the event of any conflict between this SOW and the MSA, the MSA shall control, except that the commercial terms expressly set forth in this SOW (including the Project Fee in Article 7, the Project Schedule in Article 3, the Acceptance Criteria referenced in Article 2, the Key Personnel allocations in Article 4, and the source code escrow obligations in Sections 1.2(h) and 2.6) shall control over any inconsistent provisions in the MSA solely as applied to this Engagement.
+
+9.3 Termination. This SOW may be terminated only as expressly provided in the MSA or in this SOW.
+
+IN WITNESS WHEREOF, the Parties have caused this Statement of Work No. 4 to be executed by their duly authorized representatives as of the SOW Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

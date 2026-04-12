@@ -1,0 +1,83 @@
+MUTUAL CONFIDENTIALITY AGREEMENT FOR A CUSTOMER REFERENCE CALL
+
+Effective {{EFFECTIVE_DATE}}
+
+This is a short mutual confidentiality agreement between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} at {{PROVIDER_ADDRESS}} (the "Reference Customer"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} at {{CUSTOMER_ADDRESS}} (the "Prospect"). We're signing it because a software vendor we both know is arranging a reference call between us, and we're both going to share things on that call that we'd like to keep private — how we're using the software, what we paid, what works, what doesn't, and what we're still evaluating. This agreement keeps that conversation useful for both of us. "We" and "you" refer to whichever of us is receiving the other's information at the time.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 Confidential Information. "Confidential Information" is anything either of us shares on the reference call that isn't public and that we've marked as confidential or that a reasonable person would understand to be confidential from context. That includes pricing, discounts, implementation experience, operational pain points, performance data, use-case details, team structure, and any unreleased features the vendor has shared with us as existing customers.
+
+1.2 Purpose. "Purpose" means (a) for the Reference Customer, sharing our experience with the vendor's product so the Prospect can evaluate whether to buy it; and (b) for the Prospect, asking questions about the Reference Customer's experience so the Prospect can make an informed buying decision.
+
+1.3 Representatives. "Representatives" means the people on each side's team who are either on the reference call or who receive a direct debrief from someone who was on the call, and who are bound to keep things confidential on terms at least as strict as this agreement.
+
+ARTICLE 2 — PURPOSE
+
+2.1 Use it only for the Purpose. We'll each use the other's Confidential Information only for the Purpose. Nothing from the reference call should be used for any other reason — not for competitive intelligence, not to negotiate against the vendor, not to recruit each other's employees, not for press, not for social media.
+
+2.2 No negotiating against the vendor. If the Prospect decides to buy the vendor's product, the Prospect won't use specific pricing or discount details the Reference Customer shared to negotiate the Prospect's own deal. The Prospect can use the general impression of "did this customer get a good deal" but not specific numbers.
+
+2.3 No poaching. Neither of us will use the reference call as an opportunity to recruit the other party's employees. For twelve (12) months after the Effective Date, neither of us will knowingly solicit for employment anyone who was on the call, except through general job postings not targeted at the other party.
+
+2.4 No recording, no transcripts. The reference call is not recorded by either side, and neither of us will make or share a written transcript. Short notes for internal use are fine — detailed notes that essentially reproduce the conversation are not.
+
+ARTICLE 3 — CONFIDENTIAL INFORMATION
+
+3.1 The basics. We'll each: (a) keep the other's Confidential Information private; (b) use it only for the Purpose; (c) share it only with our Representatives on a need-to-know basis; and (d) take reasonable care to protect it.
+
+3.2 Responsibility for our people. Each of us is responsible for our own team. If one of our Representatives leaks something, that's on us.
+
+3.3 Tell us if something leaks. If one of us finds out Confidential Information has been leaked, we'll tell the other party within five (5) business days and do what we can to help contain it.
+
+ARTICLE 4 — EXCLUSIONS
+
+4.1 What's not covered. The obligations in Article 3 don't apply to information that:
+  (a) is already public or becomes public without either of us breaking this agreement;
+  (b) we already knew, without any confidentiality obligation, before the reference call;
+  (c) we independently developed without using the other party's Confidential Information; or
+  (d) we rightfully got from a third party without any confidentiality duty to the other side.
+
+4.2 Vendor marketing materials. Anything the vendor has published on its website, in a case study, in a webinar, or in any other publicly available form is not Confidential Information, even if it relates to the Reference Customer.
+
+ARTICLE 5 — COMPELLED DISCLOSURE
+
+5.1 If one of us is legally required to disclose the other's Confidential Information, we'll give the other party written notice as soon as we legally can, cooperate with any protective order effort, and only disclose the minimum legally required. Everything else stays confidential.
+
+ARTICLE 6 — RETURN OR DESTRUCTION
+
+6.1 After the call. At any time after the reference call, either of us can ask the other to destroy any notes, recordings, or other materials containing the other party's Confidential Information, and the receiving party will do so within ten (10) business days and confirm in a short email. Routine email and cloud-storage backups can stay, but they remain subject to this agreement.
+
+ARTICLE 7 — NO LICENSE OR OWNERSHIP TRANSFER
+
+7.1 Sharing information on the reference call doesn't transfer any ownership and doesn't grant either of us any license to the other party's business, data, or systems. This agreement doesn't obligate either of us to do anything further — not to buy the vendor's product, not to engage with each other, not to continue the conversation.
+
+ARTICLE 8 — TERM AND SURVIVAL
+
+8.1 How long this lasts. This agreement runs for {{TERM_YEARS}} year from the Effective Date. Either of us can end it earlier with {{NOTICE_DAYS}} days' written notice.
+
+8.2 After the agreement ends. The confidentiality and non-use obligations continue for three (3) years after termination. Any trade secret is protected for as long as it qualifies as a trade secret under applicable law.
+
+ARTICLE 9 — EQUITABLE REMEDIES
+
+9.1 If either of us leaks the other's Confidential Information — for example, by posting the specific pricing we paid or the specific pain points we raised — money damages alone might not fix it. So either of us can ask a court for an injunction or specific performance, without posting a bond or proving actual damages, in addition to any other remedies at law or in equity.
+
+ARTICLE 10 — GENERAL
+
+10.1 Governing law. {{GOVERNING_LAW_STATE}} law governs. Any dispute goes to the state or federal courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+10.2 Entire agreement. This is the whole confidentiality agreement between us for the reference call.
+
+10.3 Changes require a signed writing from both of us.
+
+10.4 Neither of us can assign this agreement without the other's written consent.
+
+10.5 Electronic signatures are fine.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________

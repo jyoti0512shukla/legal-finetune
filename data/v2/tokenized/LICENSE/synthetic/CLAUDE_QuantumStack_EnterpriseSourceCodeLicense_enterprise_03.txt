@@ -1,0 +1,192 @@
+SOURCE CODE LICENSE AGREEMENT — ENTERPRISE PERPETUAL
+
+This SOURCE CODE LICENSE AGREEMENT (this "Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Licensor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Licensee"). The Licensor and the Licensee are collectively the "Parties."
+
+RECITALS
+
+WHEREAS, the Licensor has developed certain proprietary computer software and the underlying source code therefor, identified on Schedule A (the "Licensed Software");
+
+WHEREAS, the Licensee is engaged in the development of an integrated technology platform and desires to obtain a perpetual, irrevocable, source-code-level license to the Licensed Software for purposes of internal use, modification, integration, and distribution to the Licensee's end customers as part of the Licensee's larger platform;
+
+WHEREAS, the Licensor is willing to grant such a source-code license on the terms and conditions set forth herein, subject to the protections of the Licensor's trade secrets and the Licensor's other intellectual property rights in the Licensed Software;
+
+NOW, THEREFORE, the Parties agree as follows.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Documentation" means the user manuals, programmer's guides, API references, and other written documentation describing the Licensed Software, in the form delivered by the Licensor.
+
+1.2 "Field" means {{LICENSE_FIELD_OF_USE}}.
+
+1.3 "Licensed Software" means (a) the source code, object code, scripts, configuration files, build files, and Documentation for the software products identified on Schedule A, in the form existing as of the Effective Date, and (b) any Updates and Improvements provided to the Licensee by the Licensor under this Agreement.
+
+1.4 "Licensee Application" means the integrated technology platform developed and distributed by the Licensee that incorporates the Licensed Software (in whole or in part, in source or object code form) as one of its components.
+
+1.5 "Modifications" means any changes, enhancements, error corrections, derivative works, or other modifications to the Licensed Software made by the Licensee under the rights granted in Article 2.
+
+1.6 "Updates" means error corrections, bug fixes, and minor enhancements to the Licensed Software released by the Licensor from time to time during the Maintenance Term.
+
+1.7 "Object Code" means computer programming code in machine-readable, compiled, or assembled form.
+
+1.8 "Source Code" means computer programming code in human-readable form.
+
+1.9 "Territory" means {{LICENSE_TERRITORY}}.
+
+1.10 "Trade Secret" means any portion of the Licensed Software (including the Source Code, the algorithms, the data structures, the architectural designs, the trade secret know-how, and the Documentation) that is not generally known to the public and that derives independent economic value from not being generally known.
+
+ARTICLE 2 — GRANT OF LICENSE
+
+2.1 License Grant. Subject to the terms and conditions of this Agreement, including the Licensee's payment of the License Fee in Section 4.1, the Licensor hereby grants to the Licensee an {{LICENSE_GRANT_TYPE}}, perpetual, irrevocable (except for breach as set forth in Article 9), worldwide, non-transferable (except as permitted in Section 10.4) license under the Licensor's intellectual property rights in the Licensed Software to:
+
+(a) use the Licensed Software (in Source Code and Object Code form) for the Licensee's internal business purposes, including development, testing, and quality assurance, by the Licensee's employees and contractors;
+
+(b) reproduce the Licensed Software for the limited purpose of incorporating it into the Licensee Application;
+
+(c) modify the Licensed Software and create derivative works thereof, subject to Section 6.2;
+
+(d) distribute the Licensed Software, in Object Code form only and only as integrated into the Licensee Application, to the Licensee's end customers under an end-user license agreement that is at least as protective of the Licensor's rights as a customary commercial end-user license; and
+
+(e) sublicense the rights in clause (d) to the Licensee's end customers solely to the extent necessary for those end customers to use the Licensee Application.
+
+2.2 Source Code Use Limitation. The Licensee shall use the Source Code form of the Licensed Software only for purposes of (a) internal development of, and integration with, the Licensee Application, (b) error correction and customization for the Licensee's internal use, and (c) compiling Object Code for distribution under Section 2.1(d). The Licensee shall not, and shall not permit any third party to, distribute, disclose, or otherwise make the Source Code form of the Licensed Software available to any third party except as expressly permitted in Section 6.3.
+
+2.3 Reservation of Rights. The Licensor reserves the right to use, market, sell, license, and otherwise commercialize the Licensed Software for any purpose, including in competition with the Licensee, except to the extent expressly limited by Section 2.1. All rights not expressly granted to the Licensee in this Article 2 are reserved by the Licensor. No rights are granted by implication, estoppel, or otherwise.
+
+2.4 Sublicensing. {{LICENSE_SUBLICENSE_RIGHTS}}. Except as expressly permitted in Sections 2.1(d), 2.1(e), and 6.3, the Licensee shall not sublicense, assign, or transfer the Licensed Software (in Source Code or Object Code form) or any of the Licensee's rights under this Agreement to any third party.
+
+ARTICLE 3 — RESTRICTIONS
+
+3.1 No Reverse Engineering of Object Code. To the extent the Licensee has access only to Object Code (e.g. for components delivered in Object Code form), the Licensee shall not reverse engineer, decompile, or disassemble such Object Code.
+
+3.2 No Unauthorized Distribution. The Licensee shall not distribute, sell, lease, lend, sublicense, or otherwise transfer the Licensed Software (in Source Code or Object Code form) to any third party, except as expressly permitted in Sections 2.1(d), 2.1(e), and 6.3.
+
+3.3 No Use Outside Field. The Licensee shall not use the Licensed Software for any purpose outside the Field.
+
+3.4 No Removal of Notices. The Licensee shall not remove, alter, or obscure any copyright notice, trademark notice, or other proprietary notice or marking embedded in or accompanying the Licensed Software.
+
+3.5 No Open-Source Contamination. The Licensee shall not distribute the Licensed Software (in Source Code form) under any open-source license, and shall not combine the Licensed Software with any open-source software in a manner that would obligate the Licensor to disclose the Source Code of the Licensed Software or to license the Licensed Software under an open-source license. The Licensee shall not commit any portion of the Source Code of the Licensed Software to any public source code repository.
+
+3.6 Authorized Users. The Licensee shall ensure that only the Licensee's employees and individual contractors with a need-to-know access the Source Code of the Licensed Software, and that each such individual has signed a confidentiality agreement at least as protective as the obligations in Article 7.
+
+3.7 No Benchmarking. The Licensee shall not publish or disclose any benchmark, performance, or comparison results regarding the Licensed Software without the Licensor's prior written consent.
+
+ARTICLE 4 — FINANCIAL TERMS
+
+4.1 License Fee. In consideration of the source-code license granted hereunder, the Licensee shall pay the Licensor a one-time, non-refundable License Fee of {{LICENSE_UPFRONT_FEE}} within thirty (30) days of the Effective Date.
+
+4.2 Maintenance and Support Fees. The Licensee may, at its option, purchase annual maintenance and support services from the Licensor for an annual maintenance fee equal to twenty percent (20%) of the License Fee, payable annually in advance. Maintenance and support services include access to Updates, telephone and email support during the Licensor's standard business hours, and access to the Licensor's customer support portal. The Licensee may discontinue maintenance and support at any annual renewal, but the Licensee shall not be entitled to receive any Updates released after the date of discontinuation.
+
+4.3 Distribution Royalty. There is no per-end-customer distribution royalty. The Licensee may distribute the Licensed Software (in Object Code form, integrated into the Licensee Application) to an unlimited number of end customers without additional license fees, subject to the restrictions in Articles 2 and 3.
+
+4.4 Payment Terms. All amounts shall be paid in United States Dollars by wire transfer to the account designated by the Licensor in writing. Late payments shall bear interest at the lesser of one and one-half percent (1.5%) per month or the maximum rate permitted by applicable law.
+
+ARTICLE 5 — DELIVERY, MAINTENANCE, AND SUPPORT
+
+5.1 Delivery of Source Code. Within fifteen (15) business days of the Effective Date and the Licensor's receipt of the License Fee, the Licensor shall deliver to the Licensee the Source Code, Object Code, and Documentation for the Licensed Software via secure electronic transfer.
+
+5.2 Source Code Escrow. The Parties shall, within sixty (60) days of the Effective Date, enter into a three-party escrow agreement with an established source code escrow agent (such as Iron Mountain or NCC Group) under which the Licensor shall deposit a complete, current copy of the Source Code of the Licensed Software with the escrow agent. The Licensor shall update the deposit at least annually and within thirty (30) days after each Update. The escrow agreement shall provide for release of the Source Code to the Licensee upon (a) the Licensor's bankruptcy, insolvency, or assignment for the benefit of creditors, (b) the Licensor's dissolution or cessation of business, or (c) the Licensor's material failure to provide maintenance and support services after the Licensee has paid the maintenance fee and after the Licensor has had a reasonable opportunity to cure. The cost of the escrow shall be shared equally by the Parties.
+
+5.3 Updates. During any period in which the Licensee is current on maintenance fees under Section 4.2, the Licensor shall provide the Licensee with all Updates to the Licensed Software released by the Licensor for general distribution. Updates shall be deemed part of the Licensed Software upon delivery and shall be subject to the same terms and conditions of this Agreement.
+
+ARTICLE 6 — IMPROVEMENTS, MODIFICATIONS, AND OWNERSHIP
+
+6.1 Licensor Ownership. The Licensor retains all right, title, and interest in and to the Licensed Software, including all intellectual property rights therein. The Licensee acquires only the limited license rights expressly granted in Article 2.
+
+6.2 Licensee Modifications. Subject to the Licensor's underlying ownership of the Licensed Software, the Licensee shall own any Modifications made by the Licensee, provided that (a) the Licensee's ownership of the Modifications shall not extend to the underlying portions of the Licensed Software embedded therein, and (b) the Licensee's right to use, modify, and distribute the Modifications is limited by, and subject to, the rights granted in Article 2.
+
+6.3 Right to Engage Contractors. The Licensee may permit individual contractors to access the Source Code of the Licensed Software solely for purposes of performing services for the Licensee, provided that each contractor (a) has a need to know the Source Code, (b) is subject to written confidentiality and non-use obligations at least as protective as those in Article 7, and (c) does not retain any copy of the Source Code after the contractor's engagement ends.
+
+6.4 No Grant-Back. The Licensee is not required to disclose to or assign to the Licensor any Modifications. The Licensor has no rights in the Modifications other than as set forth in Section 6.5.
+
+6.5 License-Back of Bug Fixes. If the Licensee notifies the Licensor of an error or bug in the Licensed Software and provides the Licensor with a fix or patch (the "Bug Fix"), the Licensee hereby grants the Licensor a non-exclusive, royalty-free, perpetual, worldwide, sublicensable license to use, reproduce, modify, distribute, and incorporate the Bug Fix into the Licensed Software for general distribution to other licensees.
+
+ARTICLE 7 — CONFIDENTIALITY AND TRADE SECRET PROTECTION
+
+7.1 Trade Secret Status. The Parties acknowledge that the Source Code of the Licensed Software constitutes a Trade Secret of the Licensor and that the disclosure or unauthorized use of the Source Code would cause the Licensor irreparable harm.
+
+7.2 Confidentiality Obligations. The Licensee shall hold the Source Code of the Licensed Software in strict confidence and shall not disclose it to any third party except as expressly permitted in this Agreement. The Licensee shall implement and maintain reasonable security measures to protect the Source Code from unauthorized access, use, or disclosure, including (a) physical and logical access controls, (b) employee confidentiality agreements, (c) secure storage of source code repositories, and (d) audit logs of access to the source code.
+
+7.3 Use Restrictions. The Licensee shall use the Source Code of the Licensed Software solely for the purposes set forth in Section 2.1 and shall not use the Source Code for any purpose other than as permitted by this Agreement.
+
+7.4 Survival. The confidentiality obligations under this Article 7 shall survive termination or expiration of this Agreement and shall continue for so long as the Source Code of the Licensed Software remains a Trade Secret. The Licensee acknowledges that the perpetual nature of these obligations is consistent with the nature of trade secret protection under applicable law.
+
+7.5 Equitable Relief. The Licensee acknowledges that any breach of this Article 7 would cause the Licensor irreparable harm for which monetary damages would be inadequate, and the Licensor shall be entitled to seek injunctive relief and specific performance, in addition to any other remedies, without the necessity of posting a bond.
+
+ARTICLE 8 — REPRESENTATIONS, WARRANTIES, AND INDEMNIFICATION
+
+8.1 Mutual Representations. Each Party represents and warrants that it is duly organized, has the corporate power and authority to enter this Agreement, and that the execution and performance of this Agreement does not violate any other agreement to which it is a party.
+
+8.2 Licensor Title and Authority. The Licensor represents and warrants that (a) the Licensor is the sole owner of the Licensed Software, (b) the Licensor has the right to grant the licenses granted herein, (c) the Licensed Software, as of the Effective Date, does not infringe the intellectual property rights of any third party of which the Licensor has actual knowledge, and (d) the Licensor has not received any written claim that the Licensed Software infringes any third party's intellectual property rights.
+
+8.3 Open Source Disclosure. The Licensor represents and warrants that, except as set forth on Schedule B, the Licensed Software does not incorporate or depend on any open-source software. For each open-source component disclosed on Schedule B, the Licensor has identified the applicable open-source license and has confirmed that the inclusion of such component does not impose any disclosure or copyleft obligations on the Licensed Software or the Licensee Application.
+
+8.4 Licensor Infringement Indemnification. The Licensor shall defend, indemnify, and hold harmless the Licensee from any third-party claim that the Licensed Software, as delivered, infringes any United States patent, copyright, or trade secret of a third party. The Licensor's aggregate liability under this Section 8.4 shall not exceed three (3) times the License Fee paid to the Licensor.
+
+8.5 Mitigation. If the Licensed Software becomes the subject of an infringement claim, the Licensor may, at its option and expense, (a) obtain for the Licensee the right to continue using the Licensed Software, (b) modify the Licensed Software so that it is non-infringing, or (c) terminate the license and refund the License Fee, prorated over a five-year amortization schedule from the Effective Date.
+
+8.6 Licensee Indemnification. The Licensee shall defend, indemnify, and hold harmless the Licensor from any third-party claim arising out of (a) the Licensee Application (other than claims solely arising from the unmodified Licensed Software), (b) the Licensee's Modifications, (c) the Licensee's distribution of the Licensed Software outside the scope of the license, or (d) the Licensee's breach of Article 3 or Article 7.
+
+8.7 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS ARTICLE 8, THE LICENSED SOFTWARE IS PROVIDED "AS IS." THE LICENSOR DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8.8 Limitation of Liability. EXCEPT FOR (A) BREACHES OF ARTICLE 7, (B) THE INDEMNIFICATION OBLIGATIONS UNDER SECTIONS 8.4 AND 8.6, AND (C) WILLFUL MISCONDUCT OR FRAUD, NEITHER PARTY'S AGGREGATE LIABILITY ARISING OUT OF THIS AGREEMENT SHALL EXCEED THE LICENSE FEE PAID TO THE LICENSOR. NEITHER PARTY SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES.
+
+ARTICLE 9 — TERM AND TERMINATION OF LICENSE
+
+9.1 Term. This Agreement and the perpetual license granted in Section 2.1 shall commence on the Effective Date and shall continue in perpetuity, unless terminated for material breach as set forth in Section 9.2. The maintenance and support services under Section 4.2 shall continue on an annual basis, renewable at the Licensee's option.
+
+9.2 Termination for Material Breach. Either Party may terminate this Agreement upon thirty (30) days' prior written notice for the other Party's material breach, provided that the breaching Party has not cured the breach within the notice period. A material breach by the Licensee includes (a) any unauthorized disclosure or distribution of the Source Code in violation of Article 3 or Article 7, (b) any use of the Licensed Software outside the scope of the license, and (c) failure to pay the License Fee.
+
+9.3 Effect of Termination for Breach by Licensee. Upon termination of this Agreement by the Licensor for material breach by the Licensee:
+
+(a) The license granted in Section 2.1 shall terminate, and the Licensee shall immediately cease all use of the Licensed Software.
+
+(b) The Licensee shall, within thirty (30) days of termination, return or destroy all copies of the Source Code, Object Code, and Documentation in the Licensee's possession or control, and shall certify such return or destruction in writing.
+
+(c) The Licensee shall destroy all Modifications that incorporate any portion of the Licensed Software.
+
+(d) The Licensee shall not be entitled to a refund of the License Fee.
+
+9.4 No Termination for Convenience. Neither Party may terminate this Agreement for convenience.
+
+9.5 Survival. Articles 1, 6.1, 7, 8, 9.3, 9.5, and 10 shall survive termination or expiration of this Agreement.
+
+ARTICLE 10 — MISCELLANEOUS
+
+10.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to its conflict-of-laws principles.
+
+10.2 Dispute Resolution. Any dispute shall be brought exclusively in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, and the Parties consent to personal jurisdiction and venue. The Parties expressly waive any right to a jury trial.
+
+10.3 Notices. All notices shall be in writing and shall be deemed given when delivered by hand, overnight courier, or registered mail.
+
+10.4 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party. Notwithstanding the foregoing, either Party may assign this Agreement, without consent, to a successor in connection with a merger, consolidation, or sale of all or substantially all of its assets, provided that the assignee agrees in writing to be bound by this Agreement and (in the case of an assignment by the Licensee) the assignee is not a direct competitor of the Licensor.
+
+10.5 Entire Agreement. This Agreement, together with the Schedules and the Source Code Escrow Agreement, constitutes the entire agreement.
+
+10.6 Amendment. This Agreement may be amended only by a written instrument signed by both Parties.
+
+10.7 No Waiver. No failure or delay by a Party in exercising any right shall operate as a waiver.
+
+10.8 Severability. If any provision is held unenforceable, the remaining provisions shall continue in full force and effect.
+
+10.9 Counterparts. This Agreement may be executed in counterparts and by electronic signature.
+
+SCHEDULES
+
+Schedule A — Licensed Software (Components, Versions, and Source Code Manifest)
+Schedule B — Open Source Components and Licenses
+Schedule C — Form of End-User License Agreement
+Schedule D — Source Code Escrow Agreement (form)
+
+IN WITNESS WHEREOF, the Parties have executed this Source Code License Agreement as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

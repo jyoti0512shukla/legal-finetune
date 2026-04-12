@@ -1,0 +1,236 @@
+FORGERUNNER TERMS OF SERVICE
+
+Last updated: November 12, 2024.
+
+These are the Terms of Service for ForgeRunner — a continuous integration and deployment (CI/CD) service operated by ForgeRunner, Inc. (a Delaware corporation, "ForgeRunner," "we," "our"), 99 South Almaden Boulevard, Suite 600, San Jose, California 95113.
+
+By clicking "I Accept," by signing up for an account, or by using the Service in any way, you ("you," "your," or, if you are signing up on behalf of a company, that company) agree to these Terms. If you do not agree, do not use the Service. If you are accepting on behalf of a company, you represent that you have authority to bind that company.
+
+The Service is provided to Pacific Loop Studios, LLC, a California limited liability company with its office at 1240 Cesar Chavez Street, San Francisco, California 94110, with an Effective Date of November 12, 2024.
+
+ARTICLE 1 — DEFINITIONS
+
+The defined terms used in these Terms are introduced inline. The few we use repeatedly are listed here.
+
+1.1 "Service" or "ForgeRunner" means the ForgeRunner cloud CI/CD platform, including the build runners, the artifact registry, the dashboards, the CLI, the integrations with source control providers (GitHub, GitLab, and Bitbucket), and any updates we ship.
+
+1.2 "Account" means your ForgeRunner customer account, including all sub-accounts and projects under it.
+
+1.3 "Build Minutes" means the metered units we use to bill compute. One Build Minute equals one minute of one shared standard runner. Larger or specialized runners convert to Build Minutes at the published ratios on forgerunner.io/pricing.
+
+1.4 "Customer Code" means your source code, build artifacts, container images, environment variables, secrets, and any other content you push, build, or store in the Service.
+
+1.5 "OSS Components" means open source software components included in the Service, listed at forgerunner.io/oss-notice.
+
+ARTICLE 2 — YOUR ACCOUNT AND THE SERVICE
+
+2.1 Eligibility. You must be at least 18 years old and not a person prohibited from receiving the Service under U.S. export laws.
+
+2.2 Account creation. You agree to provide accurate information when you sign up and to keep it accurate. You are responsible for everything that happens under your Account, including the actions of every user you invite.
+
+2.3 What you can do with the Service. You can use the Service to:
+(a) build, test, and deploy your software;
+(b) host build artifacts and container images for your projects;
+(c) integrate with third-party services through our official integrations.
+
+2.4 What you cannot do. You agree not to:
+(a) use the Service to mine cryptocurrency, run proxy services, send spam, or perform any activity unrelated to building or deploying your software;
+(b) use the Service to attack any third party;
+(c) reverse engineer, scrape, or otherwise extract data from the Service except through our public APIs;
+(d) build a product that competes with the Service using our infrastructure;
+(e) bypass any Build Minute or storage limits;
+(f) upload Customer Code that infringes anyone's IP, that is illegal, or that contains malware.
+
+2.5 Free tier. We offer a Free Tier of up to 2,000 Build Minutes and 5 GB of storage per month. The Free Tier is provided "as is" with no SLA, no support guarantees, and no indemnity. You can convert from the Free Tier to a paid plan at any time in the dashboard.
+
+2.6 Suspension. We may suspend your Account, in whole or in part, immediately and without prior notice if:
+(a) you violate Section 2.4;
+(b) we receive a credible report that your Customer Code infringes someone's rights;
+(c) your usage poses a security or stability threat to the Service or other customers;
+(d) you have not paid an undisputed invoice within thirty (30) days of the due date;
+(e) suspension is required by law or court order.
+We will tell you why we suspended your Account as soon as we reasonably can. We will turn it back on once the cause is resolved.
+
+ARTICLE 3 — IMPLEMENTATION (NONE REQUIRED)
+
+3.1 Self-serve. The Service is fully self-serve. There is no implementation phase, no implementation fee, and no required onboarding. Sign up and start running pipelines.
+
+3.2 Free hands-on. We offer optional free office hours twice a week for any customer who wants help getting started. Sign up at forgerunner.io/office-hours.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Subscription. You pay an annual subscription fee of One Thousand Eight Hundred United States Dollars ($1,800) for the Starter Tier, which includes 50,000 Build Minutes per month, 50 GB of storage, and 5 user seats. The Effective Date is the day you accept these Terms.
+
+4.2 Overage. If you go over your monthly Build Minutes or storage allocation, we bill the overage at our published rates at forgerunner.io/pricing. Overages are billed monthly in arrears. We send a dashboard alert at 80% and 100% of your monthly allocation.
+
+4.3 Auto-renewal. Your subscription automatically renews each year on the anniversary of the Effective Date. We charge the payment method on file. You can cancel at any time in the dashboard before the renewal date.
+
+4.4 Price changes. We may change pricing on renewal. We will email you at least sixty (60) days before any price change. If you do not want to renew at the new price, cancel before the renewal date.
+
+4.5 Payment method. You authorize us to charge your payment method for all fees due. You agree to keep the payment method valid. If a charge fails, we will retry, and we may suspend the Service if the charge is not paid within fifteen (15) days.
+
+4.6 Taxes. The fees do not include taxes. You are responsible for any sales, use, or VAT taxes that apply. We are responsible for our own income taxes.
+
+4.7 Refunds. Subscription fees are non-refundable, except where required by law or where we expressly say otherwise (for example, in Section 13.1 below for our material breach).
+
+4.8 Disputes. If you think a charge is wrong, dispute it in the dashboard within thirty (30) days. We will review and respond within ten (10) business days.
+
+ARTICLE 5 — TERM AND CANCELLATION
+
+5.1 Term. These Terms start on the Effective Date and continue until your Account is canceled or terminated.
+
+5.2 Initial subscription period. The initial subscription period is one (1) year, and the subscription auto-renews for one (1) year periods after that.
+
+5.3 You can cancel any time. You can cancel your subscription in the dashboard at any time. Cancellation takes effect at the end of the current billing period. We do not refund the unused portion of the current period unless we are at fault.
+
+5.4 We can stop offering the Service. We may discontinue all or part of the Service on at least ninety (90) days notice. If we do, we will refund any prepaid fees that cover the period after the discontinuation date.
+
+ARTICLE 6 — UPTIME AND SUPPORT
+
+6.1 Best efforts uptime. We use commercially reasonable efforts to keep the Service available. We do not promise specific uptime numbers under these Terms. Premium SLAs are available on the Pro and Enterprise plans, which require a separate signed order.
+
+6.2 Maintenance. We do routine maintenance during off-peak hours and announce it on our status page at status.forgerunner.io.
+
+6.3 Support. Free Tier and Starter Tier customers get community support through our public forum and our public documentation. Email support is available with a target first response time of two (2) business days for Starter Tier customers. Faster support is available on higher plans.
+
+6.4 No human SLA on Free Tier. The Free Tier comes with no support commitment.
+
+ARTICLE 7 — YOUR DATA AND PRIVACY
+
+7.1 You own Customer Code. You retain all rights, title, and interest in Customer Code. We do not own it.
+
+7.2 Why we touch Customer Code. You give us the limited right to host, store, copy, and process Customer Code as needed to run the Service for you — for example, to clone your repo onto a build runner, build your code, store the build artifacts, and serve them back to you.
+
+7.3 No training, no commercial use of your code. We will not use Customer Code, your build logs, or your usage metrics to train any artificial intelligence model. We will not sell Customer Code, share it with anyone except the subprocessors listed at forgerunner.io/subprocessors, or use it for any purpose other than running the Service for you.
+
+7.4 Tenant isolation. Each customer's Customer Code is logically isolated from every other customer's Customer Code. We do not commingle Customer Code in any shared dataset.
+
+7.5 Security. We protect Customer Code with reasonable security measures, including:
+(a) encryption in transit using TLS 1.2 or higher;
+(b) encryption at rest using AES-256;
+(c) role-based access controls inside our infrastructure;
+(d) build runner isolation using container sandboxing;
+(e) annual third-party penetration testing;
+(f) annual SOC 2 Type II audits, the report of which we share under NDA on request.
+
+7.6 Secrets. You can store secrets (API keys, certificates, deploy credentials) in the Service. Secrets are encrypted at rest with a customer-tenant-specific key. We never log secret values in plaintext. You are responsible for rotating any secret you believe has been compromised.
+
+7.7 Breach notification. If we discover a security incident that compromises Customer Code, we will tell you in the dashboard and by email within seventy-two (72) hours of discovery. The notice will say what we know, what data was involved, and what we are doing about it.
+
+7.8 Data residency. We store Customer Code in our United States region by default. EU and APAC regions are available on the Pro plan and above.
+
+7.9 Subprocessors. The current subprocessor list is at forgerunner.io/subprocessors. We may update it without prior notice for the Free Tier and Starter Tier. Pro and Enterprise customers receive thirty (30) days notice of subprocessor changes that affect Customer Code.
+
+7.10 Your data export. You can export your Customer Code, build artifacts, and build history at any time using our CLI or API at no charge. After your Account is terminated, we keep this data available for thirty (30) days. After that, we delete it within thirty (30) days, with backup deletion completed within ninety (90) days.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY
+
+8.1 Our IP. We own the Service. The software, the dashboards, the CLI, the runner images we publish, the documentation, our trademarks, and any improvements we make are all ours. Nothing in these Terms gives you any ownership of any of that.
+
+8.2 Your IP. You own Customer Code and anything you build with the Service.
+
+8.3 OSS Components. The Service includes OSS Components subject to their own licenses. The full list and the applicable licenses are at forgerunner.io/oss-notice. Nothing in these Terms restricts your rights under any OSS license. If there is a conflict between these Terms and an OSS license as it applies to a specific OSS Component, the OSS license controls for that component.
+
+8.4 Your code stays under your license. If your Customer Code is licensed under an open source license (like MIT, Apache 2.0, or GPL), running it on the Service does not change that license, does not give us any additional rights to it, and does not require you to give us anything beyond what Section 7.2 says.
+
+8.5 Feedback. If you send us product feedback or bug reports, you give us a perpetual, irrevocable, royalty-free license to use that feedback to improve the Service. We will not use Customer Code in connection with feedback.
+
+8.6 Marketing. We may list your company name and logo as a customer of the Service. If you want to opt out, email optout@forgerunner.io and we will remove the listing within thirty (30) days.
+
+8.7 No implied licenses. Other than the rights expressly granted, neither of us is granting any IP rights to the other.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Mutual confidentiality. If one of us shares non-public information with the other that is marked confidential, or that a reasonable person would understand to be confidential, the receiving side will (a) not disclose it to anyone outside the receiving side's organization without permission, (b) only use it as needed to do these Terms, and (c) protect it with at least the same care it uses for its own confidential information of similar sensitivity.
+
+9.2 Exceptions. Confidentiality does not apply to information that is already public, that the receiving side already knew, that the receiving side independently developed, or that a court order requires the receiving side to disclose (in which case the receiving side will tell the other side first if legally permitted).
+
+9.3 Survival. Confidentiality obligations last during these Terms and for two (2) years after termination.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Authority. Each of us has the authority to enter into these Terms.
+
+10.2 Limited service warranty. We warrant that, during your paid subscription, the Service will work substantially as documented and we will not knowingly include malicious code in the Service. Your sole remedy if we breach this warranty is for us to use commercially reasonable efforts to fix the problem. If we cannot fix it within thirty (30) days, you can cancel and get a prorated refund of unused prepaid fees.
+
+10.3 Your warranties. You warrant that (a) you have the right to upload Customer Code, (b) Customer Code does not infringe any third party's rights, (c) your use of the Service complies with applicable laws, and (d) you are not on any U.S. or international sanctions list.
+
+10.4 BIG DISCLAIMER. EXCEPT FOR THE LIMITED WARRANTY IN SECTION 10.2, THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE." WE EXPRESSLY DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE FROM SECURITY VULNERABILITIES. WE DO NOT WARRANT THAT ANY BUILD WILL SUCCEED OR THAT ANY DEPLOY WILL WORK. WE DO NOT WARRANT THAT WE WILL DETECT MALICIOUS CONTENT IN CUSTOMER CODE.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 We defend you (paid plans only). If you are on a paid plan and a third party sues you because the Service itself (the parts we built) supposedly infringes their U.S. patent, copyright, trademark, or trade secret, we will defend you and pay the final court judgment or agreed settlement, subject to the cap in Section 12.1. This does not apply to claims arising from (a) Customer Code, (b) OSS Components used outside of the Service, (c) any modification of the Service by anyone other than us, (d) your use of the Service in violation of these Terms, or (e) anything you built with the Service.
+
+11.2 No indemnity on the Free Tier. We do not indemnify Free Tier users for any reason. Use the Free Tier at your own risk.
+
+11.3 You defend us. You will defend us against any claim that arises from (a) Customer Code, (b) your use of the Service in violation of these Terms or any law, (c) any product or service you build using the Service, or (d) any open source component you incorporated into Customer Code that turns out to infringe someone's rights.
+
+11.4 How indemnification works. The side seeking indemnity will tell the other side promptly, give the other side control of the defense (subject to a no-bad-settlement-without-consent right), and help out at the indemnifying side's reasonable expense.
+
+11.5 If the Service might infringe. If we think the Service might soon be the subject of an IP claim, we may (a) get you a license, (b) modify the Service to be non-infringing without losing material functionality, (c) replace it with something equivalent, or (d) terminate your subscription and refund unused prepaid fees.
+
+11.6 Sole remedy. This Article 11 is the only remedy you get for IP infringement claims about the Service.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING OUT OF OR RELATED TO THE SERVICE OR THESE TERMS IS LIMITED TO THE GREATER OF (A) THE TOTAL FEES YOU HAVE PAID US IN THE TWELVE (12) MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM, OR (B) ONE HUNDRED UNITED STATES DOLLARS ($100). FOR FREE TIER USERS, OUR TOTAL LIABILITY IS CAPPED AT ONE HUNDRED UNITED STATES DOLLARS ($100). THE CAP APPLIES REGARDLESS OF LEGAL THEORY.
+
+12.2 No indirect damages. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER WE NOR YOU WILL BE LIABLE TO THE OTHER FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES — INCLUDING LOST PROFITS, LOST REVENUE, LOST DATA, LOSS OF GOODWILL, OR LOSS OF USE — EVEN IF EITHER OF US HAS BEEN ADVISED THAT THOSE DAMAGES ARE POSSIBLE.
+
+12.3 What is not capped. The cap and the exclusion in Sections 12.1 and 12.2 do not apply to (a) what we owe under Article 11, (b) your obligation to pay fees, (c) your indemnity obligations under Article 11.3, (d) gross negligence, willful misconduct, or fraud, or (e) anything that the law says cannot be limited.
+
+12.4 Why we have a cap. The cap reflects that the Service is offered at a low price. If you need a higher cap, talk to us about an Enterprise plan with a separately negotiated agreement.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for material breach. Either of us can terminate these Terms on thirty (30) days written notice if the other materially breaches and does not cure within those thirty (30) days. If you terminate for our material breach, we will refund the unused prepaid portion of the subscription fee.
+
+13.2 We can terminate immediately. We can terminate your Account immediately and without prior notice if (a) you violate Section 2.4, (b) you fail to pay any undisputed invoice when due and ignore our reminder for thirty (30) days, (c) you become insolvent or file for bankruptcy, (d) we are required to terminate by law or court order, or (e) you have not used the Service for twelve (12) consecutive months on the Free Tier (we will email you first).
+
+13.3 What happens when this ends. When your Account is terminated:
+(a) your access to the Service stops;
+(b) you owe any unpaid fees through the termination date;
+(c) we delete Customer Code per Section 7.10;
+(d) Articles 1, 7 (in part), 8, 9, 11, 12, and 14 keep working.
+
+13.4 No obligation to keep your data after the export window. We are not responsible for data you fail to export within the thirty (30) day window in Section 7.10.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing law. California law applies, without regard to its conflict-of-laws rules.
+
+14.2 Where to sue. Any lawsuit about these Terms must be filed in the state or federal courts located in Santa Clara County, California. You consent to the personal jurisdiction of those courts.
+
+14.3 No jury. We both give up the right to a jury trial.
+
+14.4 Class action waiver. To the extent permitted by law, you and we each agree to bring any claim only in your or our individual capacity. You and we both waive any right to participate in a class action, collective action, or representative action.
+
+14.5 Talk first. Before you sue, please email us at legal@forgerunner.io and give us thirty (30) days to fix the problem informally.
+
+ARTICLE 15 — GENERAL
+
+15.1 Whole agreement. These Terms, plus the documents we link to (the pricing page, the subprocessor list, the OSS notice, and the privacy policy), are the whole agreement between us about the Service. They replace any earlier promises or proposals. If you signed a separate Enterprise Order Form with us, that Order Form takes precedence over these Terms for the matters it covers.
+
+15.2 We can update these Terms. We may update these Terms from time to time. If we make a material change, we will email you and post a notice in the dashboard at least thirty (30) days before the change takes effect. Continuing to use the Service after the change means you accept it. If you do not accept the change, cancel your subscription before the effective date.
+
+15.3 Severability. If a court says a part of these Terms is unenforceable, the rest still applies.
+
+15.4 No waiver. If we do not enforce a right one time, that does not give it up forever.
+
+15.5 Notices. We will send you notices by email to the address on file with your Account or by posting in the dashboard. You will send us notices by email to legal@forgerunner.io.
+
+15.6 Assignment. You cannot assign these Terms without our written consent. We may assign these Terms without your consent in connection with a merger, acquisition, or sale of substantially all of our assets.
+
+15.7 Force majeure. Neither of us is liable for delays caused by events outside our reasonable control. Your obligation to pay fees still applies.
+
+15.8 Independent parties. We are independent contractors. These Terms do not create a partnership, joint venture, or employment relationship.
+
+15.9 No third-party beneficiaries. Only you and we have rights under these Terms.
+
+15.10 No drafter rule. We both negotiated these Terms. No rule of construction that ambiguities are construed against the drafter applies.
+
+15.11 Headings. Headings are just for convenience.
+
+THE SERVICE IS NOT AVAILABLE TO USERS UNDER 18, TO PERSONS PROHIBITED FROM RECEIVING IT UNDER U.S. EXPORT LAWS, OR TO USERS IN COUNTRIES SUBJECT TO U.S. EMBARGOES.
+
+By clicking "I Accept" or by using the Service, you acknowledge that you have read and agree to these Terms.

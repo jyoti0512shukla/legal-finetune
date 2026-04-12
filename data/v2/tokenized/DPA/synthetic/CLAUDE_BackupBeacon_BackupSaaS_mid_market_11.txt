@@ -1,0 +1,172 @@
+DATA PROCESSING ADDENDUM (CLOUD BACKUP / DR SAAS)
+
+This Data Processing Addendum (the "DPA") is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} based at {{PROVIDER_ADDRESS}} (the "Processor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} based at {{CUSTOMER_ADDRESS}} (the "Controller"). It is part of the {{PARENT_AGREEMENT_NAME}} we signed on {{PARENT_AGREEMENT_DATE}}.
+
+The Processor provides cloud backup and disaster recovery services. Because backups by their nature contain whatever data the Controller chooses to back up — which may include the most sensitive information the Controller has — this DPA includes elevated security and confidentiality commitments. When this DPA conflicts with the parent agreement on personal-data matters, this DPA wins. Otherwise the parent agreement controls.
+
+DPA Effective Date: {{EFFECTIVE_DATE}}.
+
+ARTICLE 1 — DEFINITIONS
+
+We use standard meanings from the EU GDPR, the UK GDPR, and the CCPA / CPRA.
+
+"Backup Data" means the data the Controller backs up to the Processor's platform, which may include any data the Controller chooses to back up, including Personal Data.
+
+"Customer Personal Data" means any Personal Data contained in Backup Data.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES
+
+2.1 The Controller is the controller. The Processor is the processor.
+
+2.2 The Processor processes Customer Personal Data only on the Controller's documented instructions: the parent agreement, this DPA, and the Controller's backup policies and configurations.
+
+2.3 If the Processor thinks an instruction would break the law, the Processor will tell the Controller before performing it.
+
+2.4 No use of Backup Data. The Processor will not access, read, decrypt, scan, or otherwise use Backup Data except as strictly necessary to provide the backup service (e.g., to verify backup integrity, to restore data on the Controller's request, to apply the Processor's standard de-duplication, or to comply with a binding legal request). The Processor will not use Backup Data to train AI / ML models.
+
+2.5 Bring-Your-Own-Key option. The Controller may, at its option, use the Processor's bring-your-own-key (BYOK) feature, which encrypts Backup Data with a key managed by the Controller's external key management system. The Processor will not have access to the encryption key in BYOK mode. The Controller acknowledges that BYOK mode shifts certain operational risks (key loss = data loss) to the Controller.
+
+ARTICLE 3 — SCOPE OF PROCESSING
+
+3.1 Processing details are in Annex I.
+
+3.2 Nature and purpose: {{PROCESSING_PURPOSE}}.
+
+3.3 Categories of Personal Data: {{DATA_CATEGORIES}} (as determined by the Controller's choice of what to back up).
+
+3.4 Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+
+3.5 The Controller acknowledges that, by selecting which data to back up, the Controller determines the scope of Personal Data processed under this DPA.
+
+ARTICLE 4 — PROCESSOR OBLIGATIONS
+
+4.1 Processing limitation. The Processor processes Customer Personal Data only as the Controller instructs and only to provide the backup service.
+
+4.2 Personnel access. People at the Processor with access to Backup Data are subject to confidentiality obligations and access is strictly limited. Personnel access to actual Backup Data content (rather than metadata) requires Controller authorization, except where reasonably necessary to investigate a security incident or respond to a Controller support request.
+
+4.3 No sale or sharing under CCPA / CPRA.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+5.1 The Processor implements the TOMs in Annex II. TLS 1.2+ in transit. AES-256 at rest. SSO + MFA for personnel access.
+
+5.2 Backup-specific safeguards. Backup Data is encrypted in transit and at rest. Backup catalog and metadata are encrypted separately from Backup Data content. The Controller has the option to use BYOK encryption per Section 2.5.
+
+5.3 Annual SOC 2 Type II audit. Annual ISO 27001 surveillance. Quarterly internal vulnerability scans. Annual third-party penetration testing.
+
+5.4 Documented business continuity and disaster recovery plan with stated RTO/RPO and annual testing — including the Processor's own ability to restore the backup platform itself in the event of a regional outage.
+
+ARTICLE 6 — SUB-PROCESSORS
+
+6.1 General authorization. The Controller authorizes sub-processors subject to this Article 6.
+
+6.2 Current list at the Processor's trust center and in Annex III.
+
+6.3 The Processor will give the Controller at least 30 days' written notice before adding or replacing a sub-processor.
+
+6.4 The Controller may object on reasonable data protection grounds within 30 days. If unresolved within another 30 days, the Controller may terminate the affected portion of the parent agreement without penalty.
+
+6.5 Each sub-processor under written agreement with data protection terms at least as protective as this DPA.
+
+6.6 Primary liability for sub-processor acts and omissions.
+
+ARTICLE 7 — DATA SUBJECT RIGHTS
+
+7.1 Given that Backup Data is structured for backup and restore (not for per-Data-Subject retrieval), the Processor's ability to respond to per-Data-Subject requests is limited. The Controller is responsible for managing Data Subject requests at the source-system level (the systems whose data the Controller is backing up).
+
+7.2 The Processor will, on the Controller's request, delete specific backup sets associated with a specific time window in support of the Controller's response to a Data Subject erasure request, subject to the constraints of the backup retention policy.
+
+7.3 The Processor will not respond to Data Subjects directly.
+
+ARTICLE 8 — PERSONAL DATA BREACH NOTIFICATION
+
+8.1 The Processor will notify the Controller within {{BREACH_NOTIFICATION_HOURS}} hours after becoming aware of a Personal Data Breach affecting Customer Personal Data.
+
+8.2 The notification will include the categories and approximate number of Data Subjects affected (to the extent the Processor can determine from the metadata, given that backup content is encrypted), the contact point at the Processor, the likely consequences, and the measures taken or proposed.
+
+8.3 The Processor will cooperate with the Controller in investigating, remediating, and notifying any Supervisory Authority and affected Data Subjects.
+
+8.4 The Processor maintains a record of all Personal Data Breaches.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS
+
+9.1 The Processor will help the Controller with Data Protection Impact Assessments and prior consultations with Supervisory Authorities, including providing documentation about the backup architecture, the encryption at rest, the BYOK option, and the TOMs.
+
+9.2 The Controller is responsible for the DPIA itself.
+
+ARTICLE 10 — INTERNATIONAL TRANSFERS
+
+10.1 EU SCCs (2021/914) incorporated, Module 2 and Module 3, general sub-processor authorization (Option 2), Irish governing law and venue.
+
+10.2 UK IDTA incorporated for UK transfers.
+
+10.3 The Processor maintains a current Transfer Impact Assessment.
+
+10.4 Data residency controls. The Controller may select the storage region for Backup Data via the Processor's region selector. The Processor will store Backup Data exclusively in the selected region, with disaster recovery to a region in the same regulatory geography (EU-to-EU, US-to-US, etc.) unless the Controller explicitly opts in to cross-region disaster recovery.
+
+ARTICLE 11 — AUDIT RIGHTS
+
+11.1 The Controller can audit on at least {{AUDIT_NOTICE_DAYS}} days' notice and no more than once per twelve (12) month period.
+
+11.2 The Processor will share its current SOC 2 Type II report at no charge. Where the SOC 2 report adequately covers the audit scope, the Controller agrees to accept it instead of an on-site audit.
+
+11.3 Audits won't expose other customers' Backup Data or the Processor's trade secrets.
+
+ARTICLE 12 — DELETION OR RETURN OF CUSTOMER PERSONAL DATA
+
+12.1 When the services end, the Processor will delete all Backup Data at the Controller's choice and delete all existing copies, unless retention is required by law or by the backup retention schedule the Controller configured.
+
+12.2 Certification of deletion on request.
+
+12.3 Backup retention exception. Backup Data is retained per the retention schedule the Controller configured in the platform. Termination of the parent agreement does not automatically delete Backup Data within retention; the Controller must request deletion explicitly.
+
+12.4 Final deletion is completed within 30 days after the Controller's written termination instruction (or, if the Controller does not instruct, after the end of the configured retention period).
+
+ARTICLE 13 — TERM AND TERMINATION
+
+This DPA runs for the term of the parent agreement plus the wind-down period plus any retention period configured by the Controller. Articles 8, 11, and 12 survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+This DPA is part of the parent agreement. In any conflict, this DPA wins on personal-data matters. The parent agreement wins on commercial matters, IP, liability, governing law, and dispute resolution. Counterparts allowed.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+Parties: Controller is {{CUSTOMER_NAME}}; Processor is {{PROVIDER_NAME}}.
+Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+Categories of Personal Data: {{DATA_CATEGORIES}}.
+Sensitive Data: as determined by the Controller's choice of source systems to back up.
+Frequency: continuous (continuous backup) or scheduled (per the Controller's configuration).
+Nature: {{PROCESSING_PURPOSE}}.
+Purpose: providing the cloud backup and disaster recovery service.
+Retention: per the Controller's configured retention schedule plus the wind-down period.
+
+ANNEX II — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+Encryption: TLS 1.2+ in transit, AES-256 at rest. Backup catalog encrypted separately from Backup Data content. Optional BYOK encryption.
+Access: SSO + MFA, role-based, least privilege. Personnel access to actual Backup Data content requires Controller authorization or incident-response justification.
+Network: production / non-production segregation, WAF.
+Backup and recovery (of the platform itself): documented BCDR plan with stated RTO/RPO, annual DR testing.
+Personnel: background checks, confidentiality undertakings, annual security training.
+Sub-processor management: written agreements, monitoring.
+Regular testing: annual SOC 2 Type II, annual ISO 27001 surveillance, quarterly vulnerability scans, annual penetration testing.
+Data residency: hosted in {{DATA_RESIDENCY_REGION}}; region selector available.
+Incident response: documented plan, breach notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+Current list at the Processor's trust center: hyperscale cloud provider (storage), encryption key management vendor, transactional email vendor, customer support tool.
+
+Signed.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

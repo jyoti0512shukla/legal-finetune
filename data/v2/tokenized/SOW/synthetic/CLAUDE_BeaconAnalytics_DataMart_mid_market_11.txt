@@ -1,0 +1,225 @@
+STATEMENT OF WORK — REVENUE DATA MART BUILD
+
+This Statement of Work (the "SOW") is dated {{EFFECTIVE_DATE}} and is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} with offices at {{PROVIDER_ADDRESS}} (the "Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} with offices at {{CUSTOMER_ADDRESS}} (the "Client"). It's issued under the Master Services Agreement we signed on {{MSA_EFFECTIVE_DATE}} (the "MSA"). Capitalized terms not defined here have the meanings given in the MSA.
+
+The project covered by this SOW is "{{PROJECT_NAME}}".
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 What we're building. The Provider is building a Revenue Data Mart for the Client — a curated set of Snowflake tables and dbt models that consolidates the Client's revenue, billing, and usage data into a single source of truth that the Client's analytics team and finance team can query directly. The goal is to replace the Client's current pile of Looker SQL extracts and Google Sheets pivots with a versioned, tested, documented dbt project that the Client owns and can extend.
+
+1.2 What's in scope. The Provider will:
+
+(a) Audit the Client's source systems (Stripe, Salesforce, the Client's internal usage logs, the Client's HubSpot CRM) and document the source-to-target field mappings.
+
+(b) Build the dbt staging layer that lands raw data from each source into staging models.
+
+(c) Build the dbt mart layer that produces the four core revenue mart tables: customers, contracts, billing_events, and usage_events.
+
+(d) Build dbt tests for each model (uniqueness, not-null, referential integrity, accepted-values).
+
+(e) Build dbt documentation for each model and column.
+
+(f) Wire up the dbt project to run nightly via the Client's existing Airflow scheduler.
+
+(g) Provide read-only access patterns and example queries for the Client's analytics team.
+
+(h) Conduct a 60-minute walkthrough with the Client's analytics team and a 60-minute walkthrough with the Client's finance team.
+
+1.3 What's out of scope. The following are not included. Any of these, if requested, requires a Change Order under Article 8:
+
+(a) Source-system data quality remediation. The Provider builds models against the Client's source data as it exists. If the source data has gaps, errors, or inconsistencies, the Provider documents them but does not remediate them at the source.
+
+(b) Looker, Tableau, or any BI tool work. The Provider produces curated tables; downstream BI tool work is the Client's responsibility.
+
+(c) Real-time or near-real-time pipelines. This project produces a nightly batch pipeline only.
+
+(d) Any data sources beyond the four named in Section 1.2(a). Adding sources requires a Change Order.
+
+(e) Any data marts beyond the Revenue Data Mart. Marketing, product, or finance marts beyond revenue are out of scope.
+
+(f) Snowflake account setup, warehouse sizing, or cost optimization. The Provider assumes the Client has a working Snowflake account.
+
+(g) Airflow setup or DAG authoring beyond wiring up dbt to run on the existing schedule.
+
+(h) Data governance or data catalog work beyond the dbt-built documentation.
+
+(i) Any work involving personally identifiable information beyond the standard email and customer-name handling already in the source systems. The Provider does not perform PII discovery or PII masking.
+
+1.4 Engagement period. The Provider will perform the In-Scope Activities from the Project Start Date through the Project End Date set out in Article 3.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables.
+
+(a) Source-to-Target Mapping Document — written document mapping each source field from each source system to the target staging and mart tables. Target: end of Project Week 3.
+
+(b) Staging Layer Models — dbt staging models for all four sources, with tests and documentation. Target: end of Project Week 5.
+
+(c) Customers Mart Table — dbt model for the customers mart, with tests and documentation. Target: end of Project Week 7.
+
+(d) Contracts Mart Table — dbt model for the contracts mart, with tests and documentation. Target: end of Project Week 9.
+
+(e) Billing Events Mart Table — dbt model for the billing events mart, with tests and documentation. Target: end of Project Week 11.
+
+(f) Usage Events Mart Table — dbt model for the usage events mart, with tests and documentation. Target: end of Project Week 13.
+
+(g) Production Pipeline Wiring — dbt project wired into the Client's Airflow scheduler, running nightly with monitoring. Target: end of Project Week 14.
+
+(h) Walkthrough Sessions and Query Cookbook — recorded walkthroughs and a written query cookbook with example queries for the analytics team and the finance team. Target: end of Project Week 15.
+
+2.2 Acceptance criteria. Each model is conforming if (i) the dbt tests pass, (ii) the row counts and referential integrity match the source-to-target mapping, (iii) the model documentation is complete in dbt docs, and (iv) the model produces a non-empty result against a representative sample of source data.
+
+2.3 Acceptance period. The Client has 10 business days following receipt of each Deliverable to accept in writing or send a single consolidated rejection notice. If the Client doesn't respond within 10 business days, the Provider sends a written reminder; if still no response 5 business days after the reminder, the Deliverable is deemed accepted.
+
+2.4 Cure of non-conformity. If the Client rejects a Deliverable, the Provider has 10 business days to fix and re-deliver at no extra charge. After two cure cycles, the Client may either accept with an equitable Project Fee reduction or terminate this SOW for material breach.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Dates. The Project starts on {{PROJECT_START_DATE}} and is targeted to be substantially complete by {{PROJECT_END_DATE}}.
+
+3.2 Milestones.
+
+(a) M1 — Source-to-Target Mapping Document accepted (Week 3)
+
+(b) M2 — Staging Layer Models accepted (Week 5)
+
+(c) M3 — Customers Mart Table accepted (Week 7)
+
+(d) M4 — Contracts Mart Table accepted (Week 9)
+
+(e) M5 — Billing Events Mart Table accepted (Week 11)
+
+(f) M6 — Usage Events Mart Table accepted (Week 13)
+
+(g) M7 — Production Pipeline Wired and Walkthroughs Complete (Week 15)
+
+3.3 Status updates. The Provider will deliver a written status update by email at the end of each week. The Provider will notify the Client immediately if any milestone is anticipated to slip more than 5 business days.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named team.
+
+(a) Lead Analytics Engineer — minimum 100% allocation across the engagement.
+
+(b) Senior Analytics Engineer — minimum 50% allocation Weeks 5-15.
+
+(c) Engagement Manager — minimum 25% allocation across the engagement (manages scope, schedule, and Client communication).
+
+4.2 No replacement without consent. The Provider won't swap the Lead Analytics Engineer during the engagement without Client written consent.
+
+4.3 Background. All Provider personnel are subject to the MSA's background-check requirements.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 What the Provider needs from the Client. The Client will:
+
+(a) Designate a Client Project Owner who can answer source-system questions and approve deliverables.
+
+(b) Provide Snowflake access (the Provider requires its own database and schema in the Client's Snowflake account, with full read/write access to that schema).
+
+(c) Provide read-only access to each source system (Stripe, Salesforce, HubSpot) and read access to the Client's internal usage logs (typically via S3 or Snowflake stage).
+
+(d) Provide credentials for the Client's Airflow instance and the right to register the dbt project as a new DAG.
+
+(e) Provide access to subject-matter experts in the Client's revenue operations, billing, and product analytics teams.
+
+(f) Respond to deliverables, decision requests, and SME interview scheduling within 5 business days.
+
+5.2 Accuracy. The Client is responsible for the accuracy of (i) the source data in Stripe, Salesforce, HubSpot, and the internal usage logs, and (ii) any documentation or business rules the Client provides about how to interpret that data. The Provider relies on the Client-provided data and rules without independent verification.
+
+5.3 Source data quality. The Provider may identify data quality issues in the source systems during the audit phase. Identifying these issues is in scope; remediating them at the source is out of scope (Section 1.3(a)). The Provider will document the issues in the Source-to-Target Mapping Document and may build defensive logic into the staging models to handle the most common patterns, but cannot guarantee correct mart output if the source data is structurally broken.
+
+5.4 If the Client is late. If the Client misses the 5-business-day window on a deliverable review or a question, the Project End Date moves out by the same number of days.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions.
+
+(a) The Client's Snowflake account is operational and provisioned with sufficient warehouse capacity for the dbt build and test runs. The Provider's models will use a dedicated warehouse named in Schedule A.
+
+(b) The four named source systems (Stripe, Salesforce, HubSpot, internal usage logs) are accessible to the Provider in either raw form or via an existing extract pipeline that lands raw data into Snowflake on a daily basis. If raw data is not available, the Provider's scope includes reading from the existing extract pipelines as long as they are stable.
+
+(c) The Client's Stripe account has been operational for at least 12 months and the schema has not changed materially during that period. Material schema changes during the Project (other than additive changes) may trigger a Change Order.
+
+(d) The Client's Salesforce object model uses standard Account / Opportunity / Contract / Order objects and has not been heavily customized beyond what is documented in Schedule B.
+
+(e) The Client's internal usage logs have a stable schema and are written to a known location (S3 bucket or Snowflake stage) on at least a daily cadence.
+
+(f) The Client's existing Airflow scheduler is healthy and supports the addition of a new DAG without infrastructure changes.
+
+(g) The Client has not licensed any data activation or reverse-ETL tool that would expect a different mart shape than the four core mart tables in this SOW.
+
+(h) The Client has the budget and expectation that the dbt project becomes the Client's source of truth — the Client will retire the legacy Looker SQL extracts and Google Sheets pivots after acceptance, rather than maintaining both.
+
+6.2 Third-party dependencies. The Project depends on (a) the Snowflake platform being operational, (b) the dbt CLI and dbt Core packages being available and supported, (c) the Client's Stripe, Salesforce, HubSpot, and Airflow instances being accessible, and (d) any third-party dbt packages used (dbt_utils, dbt_external_tables, etc.) being available.
+
+6.3 If an assumption is wrong. The Provider will notify the Client promptly upon discovering any incorrect assumption.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Project Fee. The Client shall pay the Provider a fixed Project Fee of {{SOW_FEE_AMOUNT}} (the "Project Fee"), payable on the milestone-based schedule below. The Project Fee is exclusive of taxes and out-of-pocket expenses.
+
+7.2 Pricing structure. The Project Fee is a firm, fixed-fee amount allocated across the seven Milestones. The Provider has scoped the Project on a milestone-based fixed-fee basis and will absorb cost overruns within the In-Scope Activities and the Assumptions.
+
+7.3 Milestone-based payment schedule.
+
+(a) 10% on signature of this SOW (due net 30).
+
+(b) 10% on M1 (Source-to-Target Mapping Document accepted).
+
+(c) 15% on M2 (Staging Layer Models accepted).
+
+(d) 15% on M3 (Customers Mart Table accepted).
+
+(e) 15% on M4 (Contracts Mart Table accepted).
+
+(f) 15% on M5 (Billing Events Mart Table accepted).
+
+(g) 10% on M6 (Usage Events Mart Table accepted).
+
+(h) 10% on M7 (Production Pipeline Wired and Walkthroughs Complete).
+
+7.4 Snowflake credits. Snowflake credit consumption during the build and test runs is the Client's responsibility. The Provider will run efficient queries and reasonable warehouse sizes, but does not absorb Snowflake compute costs.
+
+7.5 Expense reimbursement. The Provider does not expect to incur reimbursable expenses on this Project (the engagement is fully remote). Any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}} requires written pre-approval.
+
+7.6 Disputed invoices. If the Client disputes any invoice in good faith, the Client pays the undisputed portion, notifies the Provider in writing of the dispute, and the Parties work in good faith to resolve.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests. Either Party may at any time request a change to the In-Scope Activities, the Deliverables, the Project Schedule, the Project Fee, or the Assumptions by sending a written Change Request.
+
+8.2 Impact Assessment. The Provider will respond within 5 business days with the proposed impact on scope, schedule, and Project Fee.
+
+8.3 Change Order. If the Parties agree, they sign a written Change Order. Both signatures required.
+
+8.4 No oral modifications. Only a signed Change Order modifies this SOW.
+
+8.5 De minimis. Changes that move the Project Fee by less than {{CHANGE_ORDER_THRESHOLD}} and don't move milestones may be confirmed by email between the named project leads.
+
+8.6 Continuing performance. The Provider continues working on the in-scope activities while a Change Request is being discussed.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT
+
+9.1 Incorporation. This SOW is part of the MSA. All MSA terms apply (confidentiality, data privacy, IP, indemnification, liability cap, governing law, dispute resolution).
+
+9.2 Order of precedence. MSA wins on framework terms. This SOW wins on the project-specific commercial terms.
+
+9.3 IP and dbt project ownership. The dbt project, the staging models, the mart models, the tests, and the documentation are Work Product under the MSA and are owned by the Client upon acceptance. The Provider may reuse generic dbt patterns and dbt utilities in other engagements, consistent with the MSA's residual knowledge clause.
+
+9.4 Termination. Termination is governed by the MSA.
+
+Signed as of {{EFFECTIVE_DATE}}.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

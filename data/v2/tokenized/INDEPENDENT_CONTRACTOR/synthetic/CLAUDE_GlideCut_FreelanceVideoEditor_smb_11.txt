@@ -1,0 +1,121 @@
+Independent Contractor Agreement — Freelance Video Editor
+
+Company: {{PROVIDER_NAME}} ({{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}}, {{PROVIDER_ADDRESS}})
+Editor: {{CUSTOMER_NAME}}, individual at {{CUSTOMER_ADDRESS}}
+Effective Date: {{EFFECTIVE_DATE}}
+
+This is a per-deliverable freelance video editor agreement. Standalone — no parent agreement.
+
+ARTICLE 1 — ENGAGEMENT
+
+The Company is engaging the Editor to provide video editing services on a per-project basis. Each project is a separate "Project Brief" identifying the deliverable, the rough cut date, the final delivery date, and the project fee.
+
+Typical projects include: marketing videos, customer story videos, founder thought-leadership videos, social cut-downs, and event recap videos.
+
+The Editor will personally perform the editing work and will not delegate the substantive creative work. The Editor may use research assistants for non-creative tasks (transcription, footage logging, color grading on the Editor's pass).
+
+The Editor will use best efforts to deliver work consistent with professional editing standards.
+
+ARTICLE 2 — TERM AND TERMINATION
+
+This Agreement starts on the Effective Date and continues until either party terminates it.
+
+Either party can terminate for convenience on {{IC_NOTICE_DAYS_CONVENIENCE}} days' written notice. Termination does not affect projects already in progress, which the Editor will complete and deliver under this Agreement unless the Company terminates a specific project for cause.
+
+The Company can terminate immediately for material breach, missed delivery dates without reasonable explanation, or any willful misconduct.
+
+On termination, the Editor delivers any in-progress projects (with payment for completed work) and returns Company materials.
+
+ARTICLE 3 — FEES, EXPENSES, AND COMPENSATION
+
+Per-project fixed fee. Each Project Brief specifies a fixed fee for the project. Default rates if not specified in a Project Brief:
+
+(a) Marketing video (under 2 minutes finished): {{IC_FIXED_FEE}} per finished minute
+(b) Customer story video (under 5 minutes finished): negotiated per project
+(c) Social cut-downs from existing project: 25% of the original project fee per cut-down
+
+Payment schedule. 50% on Project Brief signature, 50% on Company acceptance of the final cut.
+
+Revisions. Each project includes up to two (2) rounds of revisions. Additional revisions are billable at the hourly rate of {{IC_HOURLY_RATE}} per hour.
+
+Expense reimbursement. The Company will reimburse the Editor for stock footage licenses, music licenses, and stock sound effects pre-approved for the project. The Editor uses the Editor's own editing software and equipment.
+
+ARTICLE 4 — INDEPENDENT CONTRACTOR RELATIONSHIP
+
+The Editor is an independent contractor, not an employee. No employer-employee, partnership, joint venture, or agency relationship.
+
+No tax withholding. The Editor is responsible for all federal, state, and local income taxes, self-employment taxes, Social Security, and Medicare contributions.
+
+No employee benefits.
+
+W-9 and 1099. The Editor will provide a Form W-9. The Company will report compensation on Form 1099-NEC.
+
+The Editor uses the Editor's own editing software (Premiere Pro, DaVinci Resolve, Final Cut Pro, or similar), the Editor's own computer, and works from the Editor's own location. The Editor determines the editing schedule and is free to work for other clients.
+
+Tax indemnification. The Editor indemnifies the Company against any reclassification claim or tax authority claim relating to the Editor's compensation.
+
+ARTICLE 5 — WORK PRODUCT, INTELLECTUAL PROPERTY, AND PORTFOLIO RIGHTS
+
+5.1 Final video deliverables. The Company owns the final delivered videos (the "Final Videos") in their finished form. The Editor assigns all right, title, and interest in the Final Videos to the Company at the time of full payment for each project.
+
+5.2 Project files. Project files (Premiere project files, raw footage, timeline files, intermediate renders) belong to the Company. The Editor will deliver these to the Company on request after final payment for the project. The Editor may keep a backup copy for the Editor's own archival purposes only.
+
+5.3 Background IP. The Editor retains rights in the Editor's pre-existing transitions, presets, motion graphics templates, and editing techniques, with a non-exclusive perpetual license to the Company for any such Background IP incorporated into the Final Videos.
+
+5.4 Stock content licensing. The Editor will use only properly licensed stock footage, music, and sound effects, and will provide the Company with a list of stock content used in each project (with license documentation) upon delivery of the Final Videos. The Company is responsible for any usage rights that exceed the standard stock licenses (e.g., perpetual broadcast rights, paid social media usage).
+
+5.5 Portfolio rights. The Editor may include the Final Videos (or short clips and stills) in the Editor's professional portfolio (online and physical) and may credit the Editor's role on the Final Videos, unless the Company expressly designates a project as confidential at the start of the project. The Editor may not, however, publish the Final Videos publicly for the Editor's own purposes outside of a portfolio context (e.g., the Editor cannot upload the Final Videos to the Editor's own YouTube channel as standalone content).
+
+5.6 Original work. The Editor represents that the Final Videos will be original or properly licensed and will not infringe anyone's IP rights.
+
+ARTICLE 6 — CONFIDENTIALITY
+
+6.1 The Editor will hold all Company Confidential Information in strict confidence during this engagement and after.
+
+6.2 Confidential Information includes the Company's strategic plans, marketing strategy, customer information, pricing, financials, raw footage of Company executives or customers, and anything else marked confidential.
+
+6.3 The Editor will not use Confidential Information for any purpose other than the Company's projects.
+
+6.4 On termination, the Editor returns or deletes all Confidential Information.
+
+6.5 Injunctive relief available for breach.
+
+ARTICLE 7 — RESTRICTIVE COVENANTS
+
+7.1 The Editor is free to provide video editing services to other clients during this engagement, including direct competitors of the Company. (Video editing is a service-provider relationship, not a strategic role; non-competes are inappropriate.)
+
+7.2 During the Term and for six (6) months after, the Editor will not solicit any Company employee or contractor to leave the Company.
+
+7.3 The Editor will not use any Company Confidential Information when working for other clients.
+
+ARTICLE 8 — INDEMNIFICATION
+
+The Editor indemnifies the Company against any claim that the Final Videos infringe third-party IP (including improperly licensed stock content the Editor used), in addition to the tax indemnification in Article 4.
+
+The Editor's total liability under this Agreement is capped at the total fees paid by the Company to the Editor in the prior twelve (12) months, except for tax indemnification, IP infringement, willful misconduct, and fraud (uncapped).
+
+ARTICLE 9 — DISPUTE RESOLUTION AND GOVERNING LAW
+
+9.1 This Agreement is governed by the laws of {{GOVERNING_LAW_STATE}}.
+
+9.2 Any dispute will be brought in the state or federal courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+9.3 The Company can seek injunctive relief to enforce confidentiality and IP provisions.
+
+ARTICLE 10 — MISCELLANEOUS
+
+Entire agreement, amendment in writing, no assignment by Editor, survival of Articles 4-10, counterparts and electronic signatures.
+
+Signed.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+EDITOR: {{CUSTOMER_NAME}}
+
+Signature: _______________________________
+
+Date: _______________________________

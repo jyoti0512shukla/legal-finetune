@@ -1,0 +1,27 @@
+=== SaaS / Canadian Schedule I bank with OSFI ===
+
+PROMPT:
+Draft the Termination clause (Article 13) for a Software-as-a-Service Subscription Agreement between Brightline Software, Inc. (a Canadian corporation, the "Provider") and Maple Capital Bank (a Canadian Schedule I bank, the "Customer"). Effective Date: February 18, 2025. Industry: Canadian banking / cloud infrastructure. Deal size: enterprise. Negotiation posture: customer-friendly. Regulatory frameworks to address: OSFI Guideline B-10 (Third-Party Risk), OSFI Guideline B-13 (Technology & Cyber Risk), PIPEDA, Bank Act (Canada). Governing law: Ontario. Drafting style: BigLaw formal. Cover the standard provisions: termination for material breach with cure period, termination for insolvency under Canadian Bankruptcy and Insolvency Act, exit and stressed-exit plan per OSFI B-10, transition assistance, regulator-directed termination right.
+
+RESPONSE (570 tokens, 136.9s):
+**ARTICLE 13 — TERM AND TERMINATION**
+
+13.1 Term Reference. The term of this Agreement shall be as set forth in Article 5.
+
+13.2 Termination for Material Breach. Either Party may terminate this Agreement for material breach by the other Party, provided that the breaching Party fails to cure such breach within thirty (30) days of receiving written notice thereof.
+
+13.3 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice if the other Party becomes insolvent, makes an assignment for the benefit of creditors, or is the subject of any proceeding under the *Bankruptcy and Insolvency Act* (Canada) or any other insolvency law.
+
+13.4 Termination for Regulatory Order. Customer may terminate this Agreement immediately upon written notice if any Canadian banking regulator (including the Office of the Superintendent of Financial Institutions or the Bank of Canada) issues an order or directive that renders the continued use of the Services unlawful or that requires Customer to terminate the engagement with Provider.
+
+13.5 Termination for Convenience. Customer may terminate this Agreement for convenience upon ninety (90) days' prior written notice.
+
+13.6 Regulator-Directed Termination. The Parties acknowledge that under OSFI Guideline B-10, a banking regulator may direct Customer to terminate a third-party arrangement. Customer may terminate this Agreement immediately upon written notice to Provider to the extent required by such regulator direction.
+
+13.7 Termination Effects. Upon termination: (a) Customer shall pay all undisputed fees owed through the effective date of termination; (b) Provider shall cease providing the Services; (c) each Party shall return or destroy the other Party's Confidential Information; (d) Provider shall make Customer Data available for export or shall delete it in accordance with Section 7.11; and (e) the provisions that by their nature are intended to survive termination shall so survive.
+
+13.8 Transition Assistance. For a period of up to one hundred eighty (180) days following the effective date of termination (or any earlier date required by a regulator), Provider shall provide Customer with reasonable transition assistance to facilitate Customer's migration to a successor service provider or to Customer's internal operations, including the orderly transfer of Customer Data and the return of any Customer-furnished materials.
+
+13.9 Stressed Exit Plan. Upon Customer's reasonable request, Provider shall cooperate with Customer in executing Customer's regulator-approved exit plan for this engagement, including providing the necessary technical support and data exports required by the exit plan.
+
+13.10 Refund of Prepaid Fees. Within thirty (30) days of termination, Provider shall refund to Customer any prepaid fees for the remainder of the Subscription Term after the effective date of termination.

@@ -1,0 +1,163 @@
+INDEPENDENT CONTRACTOR AGREEMENT — MOONLIGHTING / SIDE PROJECT (PRIMARY EMPLOYER DISCLOSED)
+
+This INDEPENDENT CONTRACTOR AGREEMENT (this "Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} located at {{PROVIDER_ADDRESS}} (the "Company"), and {{CUSTOMER_NAME}}, an individual residing at {{CUSTOMER_ADDRESS}} (the "Contractor"). The Contractor is engaged in full-time W-2 employment with a third-party employer (the "Primary Employer") and is performing the Services described in this Agreement on a side-project basis outside of the Contractor's hours of work for the Primary Employer.
+
+RECITALS
+
+WHEREAS, the Contractor is currently employed full-time as a software engineer by the Primary Employer and provides the Services to the Company strictly in the Contractor's personal capacity outside of the Contractor's working hours for the Primary Employer;
+
+WHEREAS, the Company is a small, early-stage company and has elected to engage the Contractor on an independent contractor basis with full disclosure of the moonlighting arrangement and with the protections set forth in Article 4 below;
+
+WHEREAS, the Parties wish to allocate clearly the intellectual property and confidentiality obligations between the Company and the Primary Employer to avoid any ownership dispute;
+
+NOW, THEREFORE, the Parties agree as follows:
+
+ARTICLE 1 — ENGAGEMENT
+
+1.1 Engagement of Contractor. The Company hereby engages the Contractor to provide the services described in Section 1.2 (the "Services") as an independent contractor, on a part-time, after-hours, side-project basis.
+
+1.2 Scope of Services. The Contractor shall provide back-end software development services for the Company's mobile application, including: (a) design and implementation of REST API endpoints, (b) database schema development, (c) unit and integration testing, and (d) related technical advisory work. The Contractor's expected time commitment is approximately {{IC_HOURS_PER_MONTH_CAP}} hours per month.
+
+1.3 After-Hours Performance. The Contractor shall perform the Services outside of the Contractor's normal working hours for the Primary Employer (i.e., evenings, weekends, and personal time off). The Contractor shall not perform any Services for the Company during the Contractor's working hours for the Primary Employer.
+
+1.4 No Use of Primary Employer Resources. The Contractor shall not use any of the Primary Employer's facilities, equipment, software, networks, accounts, devices (including any laptop, phone, or other computing device issued by the Primary Employer), proprietary tools, libraries, code, documentation, or other resources to perform the Services. The Contractor shall use only the Contractor's own personal computing equipment and personal accounts.
+
+1.5 No Use of Primary Employer Trade Secrets. The Contractor shall not use, disclose, or incorporate into the Services any confidential information, trade secrets, source code, designs, or other proprietary information belonging to the Primary Employer.
+
+1.6 Personal Services. The Contractor shall personally perform the Services and shall not delegate or subcontract.
+
+1.7 Best Efforts Within After-Hours Capacity. The Contractor shall use the Contractor's best efforts to perform the Services in a professional manner, within the time the Contractor reasonably has available outside of the Primary Employer's working hours. The Parties acknowledge that the Contractor's obligations to the Primary Employer take priority over the Contractor's commitments to the Company in the event of a conflict.
+
+ARTICLE 2 — TERM AND TERMINATION
+
+2.1 Term. The Term commences on the Effective Date and continues for {{IC_TERM_MONTHS}} months thereafter, unless terminated earlier.
+
+2.2 Termination for Convenience. Either Party may terminate at any time on {{IC_NOTICE_DAYS_CONVENIENCE}} days' written notice.
+
+2.3 Termination for Cause. Either Party may terminate immediately for material breach. The Company may also terminate immediately if (a) the Contractor's Primary Employer asserts that this engagement violates the Contractor's obligations to the Primary Employer, (b) the Contractor's representations in Article 4 prove materially inaccurate, or (c) the Contractor uses any Primary Employer resources or trade secrets in connection with the Services.
+
+2.4 Termination by Contractor for Primary Employer Conflict. The Contractor may terminate this Agreement immediately on written notice to the Company if the Contractor's Primary Employer (a) requires the Contractor to cease moonlighting, (b) raises a conflict-of-interest concern with this engagement, or (c) takes any other action that reasonably requires the Contractor to discontinue the Services. Such termination shall not be a breach of this Agreement by the Contractor and shall not give rise to any liability to the Company.
+
+2.5 Effect of Termination. The Contractor delivers any in-progress code and work product, submits a final invoice, and surrenders any Company materials.
+
+ARTICLE 3 — FEES, EXPENSES, AND COMPENSATION
+
+3.1 Hourly Rate. The Company shall pay the Contractor at the hourly rate of {{IC_HOURLY_RATE}} per hour for time actually spent performing the Services.
+
+3.2 Hour Cap. The Contractor's total hours under this Agreement shall not exceed {{IC_HOURS_PER_MONTH_CAP}} hours per month, in keeping with the Contractor's after-hours capacity.
+
+3.3 Invoicing. Monthly, with a brief description of the work performed, due net 15.
+
+3.4 No Equity. The Contractor is not entitled to any equity in the Company under this Agreement. (Equity, if any, would be granted under a separate equity grant agreement and would itself need to be reviewed against the Contractor's obligations to the Primary Employer.)
+
+3.5 Expense Reimbursement. The Company will reimburse pre-approved out-of-pocket expenses (cloud hosting, third-party API costs, paid developer tools), with any individual expense above One Hundred United States Dollars (US$100) requiring written pre-approval.
+
+ARTICLE 4 — INDEPENDENT CONTRACTOR RELATIONSHIP AND PRIMARY EMPLOYER DISCLOSURE
+
+4.1 No Employment Relationship. The Contractor is an independent contractor of the Company and is not an employee of the Company. The Contractor remains a W-2 employee solely of the Primary Employer.
+
+4.2 Primary Employer Disclosure. The Contractor represents and warrants to the Company that, as of the Effective Date:
+
+(a) the Contractor is currently employed full-time by the Primary Employer in a software engineering role;
+
+(b) the Contractor has reviewed the Contractor's employment agreement, employee handbook, invention assignment agreement, and any moonlighting policy with the Primary Employer, and the Contractor has determined that this engagement does not violate the Contractor's obligations to the Primary Employer;
+
+(c) the Primary Employer's moonlighting policy either (i) permits this engagement without prior approval, (ii) permits this engagement subject to disclosure (and the Contractor has made the required disclosure to the Primary Employer), or (iii) permits this engagement subject to written approval (and the Contractor has obtained such written approval); and
+
+(d) the Services provided to the Company are not in the same line of business as the Contractor's work for the Primary Employer and do not compete with the Primary Employer.
+
+4.3 Continuing Conflict Representation. Throughout the Term, the Contractor shall promptly notify the Company in writing if (a) the Contractor's Primary Employer asserts that this engagement violates the Contractor's obligations, (b) the Contractor's Primary Employer changes its moonlighting policy in a way that affects this engagement, (c) the Contractor's Primary Employer's line of business changes in a way that creates a conflict, or (d) the Contractor's employment with the Primary Employer ends (at which point the Parties may discuss restructuring this engagement on a full-time basis if both Parties so desire).
+
+4.4 No Primary Employer Resources. The Contractor reaffirms the obligation in Section 1.4 not to use any Primary Employer resources, equipment, networks, or accounts in performing the Services.
+
+4.5 Indemnification of Company by Contractor. The Contractor indemnifies the Company against any claim by the Primary Employer that (a) this engagement violates the Contractor's obligations to the Primary Employer, (b) the Primary Employer owns any of the Work Product (other than to the limited extent set forth in Section 5.4), (c) the Contractor used Primary Employer resources or trade secrets in performing the Services, or (d) the Contractor breached the Contractor's duties to the Primary Employer.
+
+4.6 No Withholding. The Company shall not withhold any federal, state, or local income taxes, FICA contributions, or any other employment-related withholdings from the Contractor's compensation under this Agreement.
+
+4.7 No Employee Benefits. The Contractor is not entitled to any benefits provided to Company employees.
+
+4.8 Form W-9; Form 1099-NEC. The Contractor shall provide a Form W-9. The Company shall report compensation on Form 1099-NEC.
+
+4.9 Self-Employment Taxes. The Contractor is solely responsible for all federal, state, and local self-employment taxes, Social Security and Medicare contributions, and any other tax obligations on the compensation paid under this Agreement (in addition to the Contractor's W-2 wages from the Primary Employer).
+
+4.10 Tax Indemnification. The Contractor indemnifies the Company against any reclassification claim by the IRS or any state taxing authority and against any other tax claim relating to the compensation paid under this Agreement.
+
+ARTICLE 5 — WORK PRODUCT, INTELLECTUAL PROPERTY, AND PRIMARY EMPLOYER CARVE-OUT
+
+5.1 Work Product. Subject to Sections 5.3 and 5.4, the Company owns the work product produced by the Contractor for the Company under this Agreement (the "Work Product") once the Contractor has been paid in full for the relevant invoice period.
+
+5.2 Work Made for Hire. The Work Product is "work made for hire" to the maximum extent allowed under U.S. copyright law; to the extent any Work Product does not qualify as work made for hire, the Contractor assigns it to the Company, subject to Sections 5.3 and 5.4.
+
+5.3 Background IP. The Contractor retains all rights in the Contractor's pre-existing personal code, libraries, frameworks, and tools that the Contractor brings to the engagement, with a non-exclusive, perpetual, royalty-free license to the Company for any such Background IP incorporated into the Work Product.
+
+5.4 Primary Employer IP Carve-Out. The Parties acknowledge that:
+
+(a) any inventions, ideas, code, or work product created by the Contractor in the course of the Contractor's employment with the Primary Employer, or using the Primary Employer's resources, are the property of the Primary Employer and are NOT assigned to the Company;
+
+(b) the Contractor shall not assign to the Company any inventions, code, or work product that belongs to the Primary Employer under the Contractor's employment agreement or invention assignment agreement with the Primary Employer; and
+
+(c) if any portion of the Work Product is later determined to belong to the Primary Employer, the assignment to the Company in Section 5.2 is automatically void as to that portion, and the Contractor shall promptly notify the Company so the Parties can make alternative arrangements (such as the Company replacing the affected portion).
+
+5.5 Original Work to the Best of Contractor's Knowledge. The Contractor represents that, to the best of the Contractor's knowledge, the Work Product is original to the Contractor and does not incorporate any code or other material owned by the Primary Employer.
+
+5.6 No Solicitation of Primary Employer Co-Workers. The Contractor shall not solicit any of the Contractor's co-workers at the Primary Employer to leave the Primary Employer to join the Company. (This protects the Contractor from any tortious interference claim by the Primary Employer against the Company.)
+
+ARTICLE 6 — CONFIDENTIALITY (BIDIRECTIONAL)
+
+6.1 Company Confidential Information. The Contractor shall hold all Company Confidential Information in strict confidence during this engagement and at all times thereafter.
+
+6.2 Primary Employer Confidential Information. The Contractor shall not disclose to the Company any confidential information, trade secrets, or other proprietary information belonging to the Primary Employer. The Company has no interest in receiving such information and expressly disclaims any such interest.
+
+6.3 Use Restrictions. The Contractor shall not use Company Confidential Information for any purpose other than the work for the Company, and shall not use any Primary Employer Confidential Information in connection with the Services.
+
+6.4 Return of Materials. On termination, the Contractor returns or deletes all Company Confidential Information.
+
+ARTICLE 7 — RESTRICTIVE COVENANTS
+
+7.1 No Post-Engagement Non-Compete. There is no post-engagement non-compete on the Contractor. The Contractor may continue working full-time for the Primary Employer (and any future employer) without restriction.
+
+7.2 Non-Solicitation. During the Term and for six (6) months after, the Contractor shall not solicit any Company employee or contractor.
+
+7.3 No Use of Confidential Information. The Contractor shall not use Company Confidential Information for any other person or entity (including the Primary Employer or any future employer).
+
+ARTICLE 8 — INDEMNIFICATION AND LIABILITY
+
+8.1 Indemnification by Contractor. In addition to the indemnification in Article 4, the Contractor indemnifies the Company for breach of confidentiality, breach of representations, willful misconduct, and any IP infringement of the Work Product.
+
+8.2 Limitation. The Contractor's aggregate liability under this Agreement shall not exceed two (2) times the cumulative compensation paid under this Agreement, except for tax indemnification, Primary Employer indemnification under Section 4.5, willful misconduct, and fraud (uncapped).
+
+ARTICLE 9 — DISPUTE RESOLUTION AND GOVERNING LAW
+
+9.1 Governing Law. This Agreement is governed by the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to conflict of laws principles.
+
+9.2 Exclusive Venue. Disputes shall be brought in the state or federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+9.3 Equitable Relief. The Company may seek equitable relief to enforce confidentiality and IP provisions.
+
+ARTICLE 10 — MISCELLANEOUS
+
+10.1 Entire Agreement.
+
+10.2 Amendment in writing.
+
+10.3 No assignment by Contractor.
+
+10.4 Survival of Articles 4, 5, 6, 7, 8, 9, and 10.
+
+10.5 Counterparts and electronic signatures.
+
+10.6 Acknowledgment. The Contractor acknowledges that the Contractor has had the opportunity to review this Agreement against the Contractor's obligations to the Primary Employer (and to consult with the Contractor's own counsel if desired) before signing.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+CONTRACTOR: {{CUSTOMER_NAME}}
+
+Signature: _______________________________
+
+Date: _______________________________

@@ -1,0 +1,88 @@
+{{PROVIDER_NAME}} — OFFER LETTER
+
+{{EFFECTIVE_DATE}}
+
+Dear {{CUSTOMER_NAME}},
+
+We're excited to offer you the position of {{EMPLOYEE_TITLE}} at {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ("we" or "the Company"). Below are the terms. Please read them and let us know if you have any questions.
+
+ARTICLE 1 — POSITION
+
+1.1 Your role. You'll join us as {{EMPLOYEE_TITLE}}, reporting to your {{EMPLOYEE_REPORTS_TO}}. You'll generate qualified leads, qualify inbound prospects, conduct discovery calls and product demos, and close mid-market deals in your assigned territory.
+
+1.2 Where you'll work. This is a fully remote position, based out of your home in Texas. We don't have a Texas office, so you'll work from {{CUSTOMER_ADDRESS}} or wherever in Texas suits you.
+
+1.3 When you start. Your first day is {{EFFECTIVE_DATE}}.
+
+1.4 Your time. This is a full-time position. We expect you to be working roughly the equivalent of 40 hours per week, with most of those hours during normal business hours in your time zone for prospect calls.
+
+ARTICLE 2 — TERM AND TERMINATION
+
+2.1 At-will. Your employment with us is at-will. Either you or we can end the employment relationship at any time, for any reason or no reason, with or without notice.
+
+2.2 Notice. As a courtesy, please give us {{NOTICE_DAYS}} business days' notice if you decide to leave so we can transition your accounts.
+
+ARTICLE 3 — COMPENSATION
+
+3.1 Base salary. We'll pay you a base salary of {{EMPLOYEE_BASE_SALARY}} per year, paid every two weeks via direct deposit.
+
+3.2 Commission plan. You're eligible for variable compensation under our Sales Compensation Plan, with a target on-target earnings (OTE) calculated by adding {{EMPLOYEE_TARGET_BONUS_PCT}}% of your base salary to your base salary at full quota attainment. The full Sales Compensation Plan, including quota, accelerators, deal credit rules, and clawback rules, is a separate document that we'll share with you on your start date and that may be updated by us from time to time.
+
+3.3 Draw. We'll pay you a draw against commissions equal to one twelfth (1/12) of your annual variable target each month for your first six months. If you don't earn enough commission to cover the draw during that period, you don't owe us anything back. After your first six months, you're paid based on actual commission earned each month, with no draw.
+
+3.4 Texas Payday Law. Commissions earned but not yet paid are payable in accordance with the Texas Payday Law. Specifically, any commissions earned through your last day of employment will be paid to you within 30 days after your last day, calculated based on actually closed and collected deals as of that date.
+
+3.5 Commission clawback. If a customer cancels, refunds, or fails to pay within 90 days after the deal closes, the commission paid on that deal will be clawed back from your next commission paycheck (or from your final paycheck if you've left us by then). Details are in the Sales Compensation Plan.
+
+3.6 Benefits. You'll be eligible for our standard benefits package on your start date: medical, dental, vision, 401(k), unlimited PTO, and a home office stipend of US$1,000 (one-time) plus US$200 per quarter for ongoing supplies.
+
+3.7 Expenses. We reimburse reasonable business expenses, including travel for any in-person customer meetings, in accordance with our standard expense policy.
+
+ARTICLE 4 — RESTRICTIVE COVENANTS
+
+4.1 Confidentiality. You'll keep confidential, both during and after your employment, our customer lists, prospect data, pricing, sales playbooks, and any other non-public business information of the Company.
+
+4.2 Non-Solicitation. For 12 months after your employment ends, you agree not to solicit any of our customers or prospects with whom you had material contact during the 12 months before your departure for the purpose of providing competing products or services. The Company is providing you with confidential customer information and prospect data as consideration for this restriction, which is enforceable under Texas Business and Commerce Code § 15.50.
+
+4.3 Return of Company property. When your employment ends, you'll return all Company property and confidential information in your possession, including any laptop, accounts, customer lists, and prospect data downloaded from our CRM.
+
+4.4 DTSA whistleblower notice. Under the Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b)), you can disclose a trade secret in confidence to a government official or attorney for the purpose of reporting or investigating a suspected violation of law without facing trade-secret liability.
+
+ARTICLE 5 — CONDITIONS
+
+5.1 Background check. This offer is contingent on satisfactory completion of a standard background check and drug screen.
+
+5.2 I-9 verification. You'll complete Form I-9 within three business days of your start date.
+
+5.3 Your representations. By accepting, you confirm that no agreement with a previous employer prevents you from joining us, and that you won't bring any of their confidential information or customer data to us.
+
+ARTICLE 6 — DISPUTE RESOLUTION
+
+6.1 Governing law. Texas law governs this offer.
+
+6.2 Venue. Any dispute that we can't work out informally goes to the state or federal courts in {{VENUE_COUNTY}}, Texas.
+
+6.3 Equitable relief. We may seek an injunction in any court of competent jurisdiction to enforce the confidentiality and non-solicitation provisions in Article 4.
+
+ARTICLE 7 — GENERAL
+
+7.1 The whole offer. This letter, plus the Sales Compensation Plan and our employee handbook, is the whole offer.
+
+7.2 Changes. Any changes need to be in writing, signed by both of us, except that the Sales Compensation Plan may be updated by us from time to time on reasonable notice to you.
+
+7.3 To accept. Sign below and return.
+
+Welcome to the team.
+
+For {{PROVIDER_NAME}}:
+By: _______________________________
+Name:
+Title: VP, Sales
+
+Accepted by:
+
+{{CUSTOMER_NAME}}
+
+Signature: _______________________________
+
+Date: _______________________________

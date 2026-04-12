@@ -91,13 +91,17 @@ def build_full_contract_brief(contract_type: str, sub_map: dict, metadata: dict)
     """
     rng = random.Random(abs(hash(metadata.get("industry", "") + sub_map.get("CUSTOMER_NAME", ""))) % (2**32))
 
-    agreement_label = AGREEMENT_LABEL_BY_TYPE.get(contract_type, "commercial agreement")
+    agreement_label = (
+        metadata.get("agreement_label_override")
+        or AGREEMENT_LABEL_BY_TYPE.get(contract_type, "commercial agreement")
+    )
 
+    label_article = _a_or_an(agreement_label)
     opener = rng.choice([
-        f"Draft a complete {agreement_label}",
-        f"Generate the full text of a {agreement_label}",
-        f"Prepare a complete, end-to-end {agreement_label}",
-        f"Write a full {agreement_label} with all 15 articles",
+        f"Draft {label_article} complete {agreement_label}",
+        f"Generate the full text of {label_article} {agreement_label}",
+        f"Prepare {label_article} complete, end-to-end {agreement_label}",
+        f"Write {label_article} full {agreement_label}",
     ])
 
     provider = sub_map.get("PROVIDER_NAME", "")
@@ -108,29 +112,116 @@ def build_full_contract_brief(contract_type: str, sub_map: dict, metadata: dict)
     c_entity = sub_map.get("CUSTOMER_ENTITY_TYPE", "")
     p_article = _a_or_an(p_state) if p_state else "a"
     c_article = _a_or_an(c_state) if c_state else "a"
+
+    # Per-contract party role labels (matches clause-level generator)
+    party_roles = metadata.get("party_roles") or {}
+    provider_role = party_roles.get("provider", "Provider")
+    customer_role = party_roles.get("customer", "Customer")
+
     party_block = (
-        f"between {provider} ({p_article} {p_state} {p_entity}, the \"Provider\") "
-        f"and {customer} ({c_article} {c_state} {c_entity}, the \"Customer\")"
+        f"between {provider} ({p_article} {p_state} {p_entity}, the \"{provider_role}\") "
+        f"and {customer} ({c_article} {c_state} {c_entity}, the \"{customer_role}\")"
     )
 
-    fee = _money_short(sub_map.get("ANNUAL_FEE_AMOUNT", ""))
-    term = _format_term(sub_map.get("TERM_YEARS", ""))
-    cap = _format_months(sub_map.get("LIABILITY_CAP_MONTHS", ""))
-    notice = _format_days(sub_map.get("NOTICE_DAYS", ""))
     gov = sub_map.get("GOVERNING_LAW_STATE", "")
     venue = sub_map.get("VENUE_COUNTY", "")
 
-    fee_label = {
-        "SAAS": "annual subscription fee",
-        "MSA": "annual aggregate fees across all Statements of Work",
-    }.get(contract_type, "annual fee")
+    commercial = ""
+    if contract_type == "INDEPENDENT_CONTRACTOR":
+        fee_structure = sub_map.get("IC_FEE_STRUCTURE", "")
+        hourly = _money_short(sub_map.get("IC_HOURLY_RATE", ""))
+        fixed = _money_short(sub_map.get("IC_FIXED_FEE", ""))
+        retainer = _money_short(sub_map.get("IC_MONTHLY_RETAINER", ""))
+        term_months = sub_map.get("IC_TERM_MONTHS", "")
+        notice = sub_map.get("IC_NOTICE_DAYS_CONVENIENCE", "")
+        ic_bits = []
+        if fee_structure: ic_bits.append(f"fee structure: {fee_structure}")
+        if hourly: ic_bits.append(f"hourly rate {hourly}")
+        if retainer: ic_bits.append(f"monthly retainer {retainer}")
+        if fixed: ic_bits.append(f"fixed fee {fixed}")
+        if term_months: ic_bits.append(f"engagement term {term_months} months")
+        if notice: ic_bits.append(f"termination-for-convenience notice {notice} days")
+        if ic_bits:
+            commercial = "Key engagement terms: " + "; ".join(ic_bits) + "."
+    elif contract_type == "DPA":
+        # DPAs reference the parent agreement, the data residency region,
+        # and the breach notification timeline. No annual fee, no liability
+        # cap (those live in the parent SaaS / MSA / BAA).
+        parent_name = sub_map.get("PARENT_AGREEMENT_NAME", "")
+        parent_date = sub_map.get("PARENT_AGREEMENT_DATE", "")
+        residency = sub_map.get("DATA_RESIDENCY_REGION", "")
+        breach_hours = sub_map.get("BREACH_NOTIFICATION_HOURS", "")
+        dpa_bits = []
+        if parent_name and parent_date:
+            dpa_bits.append(f"issued under the parent {parent_name} dated {parent_date}")
+        elif parent_date:
+            dpa_bits.append(f"issued under the parent agreement dated {parent_date}")
+        if residency:
+            dpa_bits.append(f"data residency: {residency}")
+        if breach_hours:
+            dpa_bits.append(f"breach notification within {breach_hours} hours")
+        if dpa_bits:
+            commercial = "Key DPA terms: " + "; ".join(dpa_bits) + "."
+    elif contract_type == "SOW":
+        # SOWs have a Project Fee + project window + parent MSA reference,
+        # not annual subscription fee + multi-year term + liability cap.
+        sow_fee = _money_short(sub_map.get("SOW_FEE_AMOUNT", ""))
+        project_name = sub_map.get("PROJECT_NAME", "")
+        start_date = sub_map.get("PROJECT_START_DATE", "")
+        end_date = sub_map.get("PROJECT_END_DATE", "")
+        msa_date = sub_map.get("MSA_EFFECTIVE_DATE", "")
+        sow_bits = []
+        if project_name: sow_bits.append(f"project name \"{project_name}\"")
+        if sow_fee: sow_bits.append(f"fixed Project Fee of {sow_fee}")
+        if start_date and end_date:
+            sow_bits.append(f"project window from {start_date} through {end_date}")
+        elif start_date:
+            sow_bits.append(f"project start date {start_date}")
+        if msa_date:
+            sow_bits.append(f"issued under the parent MSA dated {msa_date}")
+        if sow_bits:
+            commercial = "Key project terms: " + "; ".join(sow_bits) + "."
+    elif contract_type == "LICENSE":
+        # License agreements have a unique commercial shape: grant type,
+        # field, territory, term, upfront fee, royalty rate, minimum royalty.
+        grant_type = sub_map.get("LICENSE_GRANT_TYPE", "")
+        field_of_use = sub_map.get("LICENSE_FIELD_OF_USE", "")
+        territory = sub_map.get("LICENSE_TERRITORY", "")
+        license_term = sub_map.get("LICENSE_TERM", "")
+        upfront = _money_short(sub_map.get("LICENSE_UPFRONT_FEE", ""))
+        royalty_rate = sub_map.get("LICENSE_ROYALTY_RATE", "")
+        min_royalty = _money_short(sub_map.get("LICENSE_MIN_ANNUAL_ROYALTY", ""))
+        sublicense = sub_map.get("LICENSE_SUBLICENSE_RIGHTS", "")
+        licensed_ip = sub_map.get("LICENSED_IP_DESCRIPTION", "")
+        lic_bits = []
+        if licensed_ip: lic_bits.append(f"licensed IP: {licensed_ip}")
+        if grant_type: lic_bits.append(f"grant: {grant_type}")
+        if field_of_use: lic_bits.append(f"field of use: {field_of_use}")
+        if territory: lic_bits.append(f"territory: {territory}")
+        if license_term: lic_bits.append(f"license term: {license_term}")
+        if upfront: lic_bits.append(f"upfront fee {upfront}")
+        if royalty_rate: lic_bits.append(f"running royalty {royalty_rate}")
+        if min_royalty: lic_bits.append(f"minimum annual royalty {min_royalty}")
+        if sublicense: lic_bits.append(f"sublicensing: {sublicense}")
+        if lic_bits:
+            commercial = "Key license terms: " + "; ".join(lic_bits) + "."
+    else:
+        fee = _money_short(sub_map.get("ANNUAL_FEE_AMOUNT", ""))
+        term = _format_term(sub_map.get("TERM_YEARS", ""))
+        cap = _format_months(sub_map.get("LIABILITY_CAP_MONTHS", ""))
+        notice = _format_days(sub_map.get("NOTICE_DAYS", ""))
 
-    bits = []
-    if fee: bits.append(f"{fee_label} of {fee}")
-    if term: bits.append(f"initial term of {term}")
-    if cap: bits.append(f"liability cap equal to {cap} of fees")
-    if notice: bits.append(f"notice period of {notice}")
-    commercial = "Key commercial terms: " + "; ".join(bits) + "." if bits else ""
+        fee_label = {
+            "SAAS": "annual subscription fee",
+            "MSA": "annual aggregate fees across all Statements of Work",
+        }.get(contract_type, "annual fee")
+
+        bits = []
+        if fee: bits.append(f"{fee_label} of {fee}")
+        if term: bits.append(f"initial term of {term}")
+        if cap: bits.append(f"liability cap equal to {cap} of fees")
+        if notice: bits.append(f"notice period of {notice}")
+        commercial = "Key commercial terms: " + "; ".join(bits) + "." if bits else ""
 
     juris = ""
     if gov:
@@ -160,11 +251,84 @@ def build_full_contract_brief(contract_type: str, sub_map: dict, metadata: dict)
     style_label = DRAFTING_STYLE_LABELS.get(style) if style else None
     style_block = f"Drafting style: {style_label}." if style_label else ""
 
-    closing = (
-        "Produce the complete agreement with all 15 articles in the standard "
-        "ARTICLE 1 — DEFINITIONS through ARTICLE 15 — GENERAL PROVISIONS structure. "
-        "Do not summarize, do not abbreviate sections, and do not skip any clause."
-    )
+    if contract_type == "INDEPENDENT_CONTRACTOR":
+        closing = (
+            "Produce the complete Independent Contractor Agreement with all "
+            "standard articles in the appropriate structure (Engagement, Term "
+            "and Termination, Fees and Compensation, Independent Contractor "
+            "Relationship and Tax Classification, Intellectual Property and "
+            "Work Product, Confidentiality, Restrictive Covenants and "
+            "Conflicts of Interest, Indemnification, Insurance where "
+            "applicable, and Miscellaneous). The agreement should explicitly "
+            "establish the 1099 / W-9 worker classification — no withholding, "
+            "no benefits, no employer-employee relationship — and should "
+            "address the IP assignment / work-for-hire question explicitly. "
+            "Do not summarize, do not abbreviate sections, and do not skip "
+            "any article."
+        )
+    elif contract_type == "DPA":
+        closing = (
+            "Produce the complete Data Processing Addendum with all standard "
+            "DPA articles in the appropriate structure (Definitions, Roles "
+            "of the Parties, Scope of Processing, Processor Obligations, "
+            "Personnel Confidentiality, Technical and Organizational "
+            "Measures, Sub-Processors, Data Subject Rights, Personal Data "
+            "Breach Notification, Data Protection Impact Assessments, "
+            "International Transfers, Audit Rights, Deletion or Return of "
+            "Personal Data, Term, and Incorporation of the Parent Agreement). "
+            "The DPA should NOT restate framework terms (limitation of "
+            "liability, indemnification, governing law, IP ownership) — "
+            "those are in the parent agreement and should only be referenced. "
+            "Include Annex I (Subject Matter and Details of Processing), "
+            "Annex II (Technical and Organizational Measures), and Annex III "
+            "(Sub-processors List) as separate annexes after the main body. "
+            "Do not summarize, do not abbreviate sections, and do not skip "
+            "any article."
+        )
+    elif contract_type == "SOW":
+        closing = (
+            "Produce the complete Statement of Work with all project-level "
+            "articles in the standard SOW structure (Project Description and "
+            "Scope, Deliverables and Acceptance, Project Schedule and "
+            "Milestones, Key Personnel, Client Responsibilities, Assumptions "
+            "and Dependencies, Fees and Payment, Change Control, and "
+            "Incorporation of the parent Master Services Agreement). The SOW "
+            "should NOT restate framework terms (limitation of liability, "
+            "indemnification, governing law, IP ownership) — those are in "
+            "the parent MSA and should only be referenced. Do not summarize, "
+            "do not abbreviate sections, and do not skip any article."
+        )
+    elif contract_type == "LICENSE":
+        closing = (
+            "Produce the complete License Agreement with all standard "
+            "articles in the appropriate structure (Definitions, Grant of "
+            "License, Restrictions on Use and Reservation of Rights, "
+            "Royalties and Payment Terms, Records and Royalty Audit, "
+            "Improvements and Grant-Back, Quality Control where applicable, "
+            "Confidentiality, Warranties and Infringement Indemnification, "
+            "Limitation of Liability, Term and Termination of License, and "
+            "Miscellaneous). The agreement should explicitly identify the "
+            "Licensed IP, the exclusivity (exclusive / sole / non-exclusive), "
+            "the field of use, the territory, and the royalty mechanics. "
+            "Do not summarize, do not abbreviate sections, and do not skip "
+            "any article."
+        )
+    elif contract_type == "NDA":
+        closing = (
+            "Produce the complete agreement with all standard NDA articles "
+            "in the appropriate structure. Do not summarize or abbreviate."
+        )
+    elif contract_type == "EMPLOYMENT":
+        closing = (
+            "Produce the complete employment agreement with all standard "
+            "articles. Do not summarize or abbreviate."
+        )
+    else:
+        closing = (
+            "Produce the complete agreement with all 15 articles in the standard "
+            "ARTICLE 1 — DEFINITIONS through ARTICLE 15 — GENERAL PROVISIONS structure. "
+            "Do not summarize, do not abbreviate sections, and do not skip any clause."
+        )
 
     parts = [
         f"{opener} {party_block}.",

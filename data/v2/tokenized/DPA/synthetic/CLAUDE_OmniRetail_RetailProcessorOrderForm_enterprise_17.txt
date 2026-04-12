@@ -1,0 +1,147 @@
+DATA PROCESSING ADDENDUM ORDER FORM (RETAIL — CONSUMER DATA)
+
+This Data Processing Addendum Order Form (this "DPA Order Form" or "DPA") is dated {{EFFECTIVE_DATE}} and incorporates the terms of the {{PARENT_AGREEMENT_NAME}} between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}}) (the "Processor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} ({{CUSTOMER_ADDRESS}}) (the "Controller"), dated {{PARENT_AGREEMENT_DATE}} (the "Agreement"). This DPA Order Form is structured as a modular form: the substantive data protection obligations are set forth in the Annexes attached hereto. Where the Annexes conflict with the body of this Order Form, the Annexes control. Where this DPA Order Form (including Annexes) conflicts with the Agreement on personal-data matters, this DPA Order Form controls.
+
+ARTICLE 1 — DEFINITIONS AND APPLICABLE PRIVACY LAW
+
+1.1 Definitions. "Personal Data," "Processing," "Controller," "Processor," "Sub-processor," "Personal Data Breach," and "Data Subject" have the meanings in the EU GDPR. "Personal Information," "Sale," "Sharing," and "Service Provider" have the meanings in the CCPA / CPRA.
+
+1.2 Applicable Privacy Law. EU GDPR; UK GDPR; CCPA / CPRA; PCI DSS (where applicable to payment card data); state breach notification laws; and any other privacy law applicable to the Processing.
+
+1.3 Annex I sets forth the parties, categories of Personal Data, categories of Data Subjects, and other details of Processing.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES (Annex IV)
+
+2.1 The Controller is the controller. The Processor is the processor. The Processor's role and obligations are set forth in Annex IV.
+
+2.2 The Processor processes Controller Personal Data only on documented Controller instructions. No Sale or Sharing under the CCPA / CPRA.
+
+ARTICLE 3 — SCOPE OF PROCESSING (Annex I)
+
+3.1 Subject matter, nature, purpose, duration, categories of Personal Data, and categories of Data Subjects are in Annex I.
+
+3.2 Nature and purpose: {{PROCESSING_PURPOSE}}.
+
+3.3 Categories of Personal Data: {{DATA_CATEGORIES}}.
+
+3.4 Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+
+ARTICLE 4 — PROCESSOR OBLIGATIONS (Annex IV)
+
+4.1 The Processor's obligations are in Annex IV. Process only on instructions, personnel confidentiality, no Sale, no use for AI training without consent, no combining with other data sources.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES (Annex II)
+
+5.1 The Processor implements the Technical and Organizational Measures (TOMs) in Annex II.
+
+5.2 PCI DSS scope. To the extent the Processor handles Cardholder Data within the meaning of PCI DSS, the Processor's TOMs comply with the applicable PCI DSS requirements and the Processor maintains PCI DSS attestation.
+
+ARTICLE 6 — SUB-PROCESSORS (Annex III + Annex IV.B)
+
+6.1 Sub-processor requirements are in Annex IV.B (general authorization, notification, objection rights, equivalent flow-down, primary liability).
+
+6.2 Current sub-processor list is in Annex III.
+
+ARTICLE 7 — DATA SUBJECT RIGHTS (Annex IV.C)
+
+7.1 Data subject rights assistance is in Annex IV.C.
+
+ARTICLE 8 — PERSONAL DATA BREACH NOTIFICATION (Annex IV.D)
+
+8.1 Breach notification is governed by Annex IV.D, with notification within {{BREACH_NOTIFICATION_HOURS}} hours after the Processor becomes aware of a Personal Data Breach.
+
+8.2 The Processor will cooperate with the Controller in investigating, remediating, and notifying any Supervisory Authority and affected Data Subjects.
+
+8.3 The Processor maintains a record of all Personal Data Breaches.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS (Annex IV.E)
+
+9.1 DPIA cooperation is governed by Annex IV.E.
+
+ARTICLE 10 — INTERNATIONAL TRANSFERS (Annex V)
+
+10.1 EU SCCs and UK IDTA are incorporated by reference, with the parameters set forth in Annex V.
+
+10.2 The Processor maintains a current Transfer Impact Assessment.
+
+ARTICLE 11 — AUDIT RIGHTS (Annex IV.F)
+
+11.1 Audit rights are in Annex IV.F. The Controller can audit on at least {{AUDIT_NOTICE_DAYS}} days' notice and no more than once per twelve (12) month period (except after a breach).
+
+11.2 The Processor will share its current SOC 2 Type II report at no charge.
+
+11.3 PCI DSS attestation. The Processor will share its most recent PCI DSS Attestation of Compliance (AOC) at no charge.
+
+ARTICLE 12 — DELETION OR RETURN OF PERSONAL DATA (Annex IV.G)
+
+12.1 Deletion or return is governed by Annex IV.G. At the end of the services, the Processor will delete or return Personal Data at the Controller's choice, with certification on request, subject to PCI DSS retention requirements for cardholder data.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+This DPA Order Form runs for the term of the Agreement plus the wind-down period. Articles 8, 11, and 12 (and the corresponding Annex provisions) survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+This DPA Order Form is part of the Agreement. In any conflict, this DPA Order Form (including Annexes) controls on personal-data matters; the Agreement controls on commercial matters, IP, liability, governing law, and dispute resolution. Counterparts allowed.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+Parties: Controller is {{CUSTOMER_NAME}}; Processor is {{PROVIDER_NAME}}.
+Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+Categories of Personal Data: {{DATA_CATEGORIES}}.
+Sensitive Data: payment card data is sensitive under PCI DSS.
+Frequency: continuous.
+Nature: {{PROCESSING_PURPOSE}}.
+Purpose: providing the omnichannel commerce platform to the Controller.
+Retention: parent agreement term plus wind-down; cardholder data per PCI DSS retention requirements.
+
+ANNEX II — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+Encryption: TLS 1.2+ in transit, AES-256 at rest.
+Cardholder data: tokenized at the point of capture; raw cardholder data not stored.
+Access: SSO + MFA, role-based, least privilege.
+Network: production / non-production segregation, WAF, DDoS protection. Cardholder Data Environment (CDE) network segregation.
+Backup and recovery: documented BCDR plan, annual DR testing.
+Personnel: background checks, confidentiality undertakings, annual security training, annual PCI DSS training for personnel in CDE-adjacent roles.
+Sub-processor management: written agreements, monitoring.
+Regular testing: annual SOC 2 Type II, annual ISO 27001 surveillance, annual PCI DSS attestation, quarterly internal vulnerability scans, annual penetration testing.
+Data residency: hosted in {{DATA_RESIDENCY_REGION}}.
+Incident response: documented plan, breach notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+Current list at the Processor's trust center: hyperscale cloud provider, payment tokenization vendor, fraud analytics vendor, transactional email vendor, customer support tool, observability vendor.
+
+ANNEX IV — PROCESSOR OBLIGATIONS DETAIL
+
+A. General obligations. Process only on instructions; personnel confidentiality; no sale or sharing under CCPA / CPRA; no use for the Processor's marketing; no use for AI training without consent.
+
+B. Sub-processor requirements. General authorization. 30-day written notice for additions or replacements. Reasonable objection rights within 30 days. Equivalent flow-down. Primary liability for sub-processor acts and omissions.
+
+C. Data subject rights. Self-service tools in the platform for retrieval and deletion. Forwarding of direct requests within 5 business days. No direct response without Controller authorization.
+
+D. Personal data breach notification. Within {{BREACH_NOTIFICATION_HOURS}} hours. Content includes nature, categories, approximate numbers, contact point, likely consequences, measures taken or proposed. Cooperation with investigation, remediation, and notification of any Supervisory Authority and affected Data Subjects.
+
+E. DPIA cooperation. Reasonable assistance with DPIAs under Article 35 GDPR and prior consultations under Article 36 GDPR. Documentation, attendance at meetings, answering reasonable questions.
+
+F. Audit rights. {{AUDIT_NOTICE_DAYS}} days' notice. No more than once per twelve (12) month period (except after a breach). Annual SOC 2 Type II report and PCI DSS AOC available at no charge. Audits won't expose other customers' data or trade secrets. Audit costs beyond the third-party reports at the Controller's expense unless material non-compliance.
+
+G. Deletion or return. At the end of the services, delete or return at the Controller's choice. Certification on request. Backup or archival copies retained per the Processor's retention schedule remain subject to this DPA's confidentiality and security obligations. PCI DSS-mandated retention period applies to cardholder data.
+
+ANNEX V — INTERNATIONAL TRANSFERS
+
+EU SCCs (2021/914) incorporated. Module 2 for direct transfers. Module 3 for onward transfers. General sub-processor authorization (Option 2). Irish governing law. Irish venue. Annexes referencing this DPA Order Form's Annexes I, II, and III. UK IDTA incorporated for UK transfers with the same parameters. Transfer Impact Assessment maintained on a current basis.
+
+Signed.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

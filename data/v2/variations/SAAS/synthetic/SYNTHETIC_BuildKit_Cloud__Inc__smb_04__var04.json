@@ -1,0 +1,15 @@
+{
+  "source_template": "SYNTHETIC_BuildKit_Cloud__Inc__smb_04.txt",
+  "variation_index": 4,
+  "substitutions": {
+    "PROVIDER_NAME": "Brightline Software, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "limited liability company",
+    "CUSTOMER_NAME": "Wellington Asset Management LLC",
+    "CUSTOMER_STATE": "California",
+    "VENUE_CITY": "San Francisco",
+    "ANNUAL_FEE_AMOUNT": "Twelve Thousand United States Dollars ($12,000)",
+    "TERM_YEARS": "one (1)",
+    "LIABILITY_CAP_MONTHS": "twenty-four (24)"
+  }
+}

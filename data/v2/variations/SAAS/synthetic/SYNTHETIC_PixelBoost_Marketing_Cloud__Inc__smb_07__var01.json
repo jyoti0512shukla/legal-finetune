@@ -1,0 +1,14 @@
+{
+  "source_template": "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07.txt",
+  "variation_index": 1,
+  "substitutions": {
+    "PROVIDER_NAME": "Apex Workflow Platform, Inc.",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_NAME": "Heritage Financial Services, Inc.",
+    "CUSTOMER_STATE": "Delaware",
+    "CUSTOMER_ENTITY_TYPE": "Delaware corporation",
+    "VENUE_CITY": "Wilmington",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twenty-four (24)"
+  }
+}

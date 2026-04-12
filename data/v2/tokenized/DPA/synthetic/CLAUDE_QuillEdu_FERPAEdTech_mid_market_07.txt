@@ -1,0 +1,179 @@
+DATA PROCESSING ADDENDUM (FERPA + STATE STUDENT DATA PRIVACY)
+
+This Data Processing Addendum (the "DPA") is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} based at {{PROVIDER_ADDRESS}} (the "Processor" or "School Official"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} based at {{CUSTOMER_ADDRESS}} (the "Controller" or "Educational Agency"). It's part of the {{PARENT_AGREEMENT_NAME}} we signed on {{PARENT_AGREEMENT_DATE}} (the "Agreement").
+
+The Processor acknowledges that the Educational Agency is subject to the Family Educational Rights and Privacy Act (FERPA, 20 U.S.C. § 1232g and 34 C.F.R. Part 99) and to state student data privacy laws (including, where applicable, California's Student Online Personal Information Protection Act (SOPIPA), New York Education Law § 2-d, and Colorado Student Data Transparency and Security Act). When this DPA conflicts with the Agreement, this DPA wins for personal-data matters. Otherwise the Agreement wins.
+
+DPA Effective Date: {{EFFECTIVE_DATE}}.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Education Records" has the meaning in 34 C.F.R. § 99.3 and includes "personally identifiable information" within the meaning of 34 C.F.R. § 99.3.
+
+1.2 "Personally Identifiable Information" or "PII" means information that the Processor receives from or on behalf of the Educational Agency that constitutes Education Records under FERPA, or that constitutes student personal information under any applicable state student data privacy law.
+
+1.3 "School Official" means a school official (within the meaning of 34 C.F.R. § 99.31(a)(1)(i)(B)) acting as an outside service provider under the FERPA school official exception. The Processor is engaged as a School Official.
+
+1.4 "Applicable Privacy Law" means FERPA, the FERPA implementing regulations, and any applicable state student data privacy law.
+
+1.5 "Data Subject," "Personal Data," and "Personal Data Breach" follow GDPR conventions for non-Education-Record Personal Data. For Education Records, the FERPA terminology controls.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES
+
+2.1 The Processor is engaged as a School Official with a "legitimate educational interest" in PII (within the meaning of 34 C.F.R. § 99.31(a)(1)(i)(A)). The Educational Agency has direct control over the Processor's use and maintenance of PII.
+
+2.2 The Processor processes PII only on the Educational Agency's documented instructions, which are: (a) the Agreement, (b) this DPA, and (c) the Educational Agency's standard configuration of the platform.
+
+2.3 If the Processor thinks an instruction would violate FERPA, state student data privacy law, or any other Applicable Privacy Law, the Processor will tell the Educational Agency before doing it.
+
+2.4 No Targeted Advertising. The Processor will not engage in targeted advertising to students or parents based on PII obtained from the Educational Agency. This restriction is material to the Educational Agency's compliance posture and is required by SOPIPA and similar state laws.
+
+2.5 No Profile Creation for Non-Educational Purposes. The Processor will not create personal profiles of students for any purpose other than providing the educational services to the Educational Agency.
+
+ARTICLE 3 — SCOPE OF PROCESSING
+
+3.1 The processing is described in Annex I.
+
+3.2 Nature and purpose: {{PROCESSING_PURPOSE}}.
+
+3.3 Categories of PII / Personal Data: {{DATA_CATEGORIES}}.
+
+3.4 Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+
+3.5 The Educational Agency represents that it has the authority under FERPA and state law to disclose PII to the Processor as a School Official.
+
+ARTICLE 4 — PROCESSOR OBLIGATIONS
+
+4.1 The Processor processes PII only as the Educational Agency instructs and only for the educational purposes described in the Agreement.
+
+4.2 People at the Processor with access to PII are subject to confidentiality obligations and access is need-to-know only.
+
+4.3 The Processor will not (a) sell PII (as prohibited by SOPIPA and similar state laws), (b) use PII for advertising or marketing, (c) use PII to train AI / ML models without express written consent from the Educational Agency, or (d) combine PII with personal data from any other source.
+
+4.4 The Processor will not use PII for any purpose other than providing the educational services to the Educational Agency.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+5.1 The Processor implements the technical and organizational measures (TOMs) in Annex II. TLS 1.2+ in transit. AES-256 at rest. SSO + MFA for personnel access.
+
+5.2 The Processor maintains a documented information security program consistent with the standards in 34 C.F.R. § 99.31(a)(1)(ii) for PII held by School Officials, plus any state-specific security standards (such as the New York Education Law § 2-d Parents Bill of Rights for Data Privacy and Security).
+
+5.3 Annual SOC 2 Type II audit. Annual third-party penetration testing. Quarterly internal vulnerability scans. Documented incident response plan.
+
+5.4 The Processor maintains a documented business continuity and disaster recovery plan with stated RTO/RPO.
+
+ARTICLE 6 — SUB-PROCESSORS
+
+6.1 The Educational Agency authorizes the Processor to use sub-processors that are listed in Annex III, subject to the rules below.
+
+6.2 The Processor will give the Educational Agency at least 60 days' written notice before adding or replacing a sub-processor.
+
+6.3 The Educational Agency may object to a new sub-processor on reasonable data protection grounds within 60 days. If the Parties cannot resolve the objection within 30 days after that, the Educational Agency may terminate the affected portion of the Agreement.
+
+6.4 Each sub-processor is subject to a written agreement with data protection and FERPA-compatible obligations at least as protective as this DPA.
+
+6.5 The Processor remains primarily liable for sub-processor acts and omissions.
+
+ARTICLE 7 — DATA SUBJECT RIGHTS / PARENT ACCESS
+
+7.1 The Processor will assist the Educational Agency in responding to parent requests for access to their child's Education Records under FERPA § 1232g(a)(1). This may include providing the Educational Agency with self-service tools to retrieve a student's records.
+
+7.2 If the Processor receives a request directly from a parent or eligible student, the Processor will forward the request to the Educational Agency within 5 business days and will not respond directly.
+
+7.3 The Educational Agency, not the Processor, is responsible for FERPA compliance with respect to parent access requests.
+
+ARTICLE 8 — INCIDENT NOTIFICATION
+
+8.1 The Processor will notify the Educational Agency within {{BREACH_NOTIFICATION_HOURS}} hours after becoming aware of an unauthorized access, acquisition, use, or disclosure of PII. This is a tighter window than required by most state breach notification laws and is included to give the Educational Agency time to fulfill its obligations under New York Education Law § 2-d, FERPA, and any other Applicable Privacy Law.
+
+8.2 The notification will include the categories and approximate number of students affected, the categories of PII affected, the contact point at the Processor, the likely consequences, and the measures taken or proposed.
+
+8.3 The Processor will cooperate with the Educational Agency in investigating, remediating, notifying parents and eligible students (where required by Applicable Privacy Law), and reporting to state education agencies (where required).
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS
+
+9.1 The Processor will provide reasonable assistance to the Educational Agency in conducting any privacy impact assessments required by state student data privacy laws, including providing documentation about the processing, the TOMs, and the sub-processors.
+
+ARTICLE 10 — DATA RESIDENCY
+
+10.1 PII is hosted in: {{DATA_RESIDENCY_REGION}}. The Processor will not transfer PII outside of the United States without the Educational Agency's prior written consent.
+
+10.2 PII is segregated logically (and where required by state law, physically) from data of other customers.
+
+ARTICLE 11 — AUDIT RIGHTS
+
+11.1 The Educational Agency may audit the Processor's compliance with this DPA and Applicable Privacy Law, on at least {{AUDIT_NOTICE_DAYS}} days' notice and no more than once per twelve (12) month period (except after a breach or a state regulator direction).
+
+11.2 The Processor will share its current SOC 2 Type II report at no charge. The Educational Agency agrees to accept the SOC 2 report in lieu of an on-site audit where the SOC 2 report adequately covers the audit scope.
+
+11.3 Audits won't expose other customers' data or the Processor's trade secrets.
+
+11.4 Audit costs beyond the SOC 2 report are at the Educational Agency's expense unless the audit reveals material non-compliance.
+
+ARTICLE 12 — DELETION OR RETURN OF PII
+
+12.1 When the services end, the Processor will delete or return all PII at the Educational Agency's choice and delete all existing copies, unless retention is required by Applicable Privacy Law.
+
+12.2 The Processor will certify deletion in writing to the Educational Agency on request.
+
+12.3 Backup or archival copies retained per the Processor's standard retention schedule remain subject to the confidentiality and security obligations of this DPA.
+
+12.4 Deletion is completed within 30 days after the end of services, except for backup copies retained per Section 12.3.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+13.1 This DPA runs for the term of the Agreement plus the wind-down period.
+
+13.2 Articles 8, 11, and 12 survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+14.1 This DPA is part of the Agreement.
+
+14.2 In any conflict, this DPA controls on PII matters and on the Processor's School Official obligations under FERPA. The Agreement controls on all other matters not modified by this DPA.
+
+14.3 No FERPA Limitation. Nothing in this DPA or the Agreement limits the Processor's obligations under FERPA or limits the Educational Agency's rights under FERPA.
+
+14.4 Counterparts allowed.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+Parties: Educational Agency is {{CUSTOMER_NAME}}; School Official is {{PROVIDER_NAME}}.
+Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+Categories of PII: {{DATA_CATEGORIES}}.
+Sensitive Data: PII relating to minors is sensitive by definition under FERPA and applicable state student data privacy laws.
+Frequency: continuous.
+Nature: {{PROCESSING_PURPOSE}}.
+Purpose: providing the educational platform to the Educational Agency to support student learning and instruction.
+Retention: for the term of the Agreement plus the wind-down period.
+
+ANNEX II — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+Encryption: TLS 1.2+ in transit, AES-256 at rest.
+Access: SSO + MFA, role-based, least privilege.
+Network: production / non-production segregation, WAF.
+Backup and recovery: documented BCDR plan, annual DR testing.
+Personnel: background checks (including any state-required educational sector checks), confidentiality undertakings, annual security training.
+Sub-processor management: written agreements, monitoring.
+Regular testing: annual SOC 2 Type II, quarterly internal vulnerability scans, annual penetration testing.
+Data residency: hosted in {{DATA_RESIDENCY_REGION}}.
+Incident response: documented incident response plan. Notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8.
+State law compliance: New York Education Law § 2-d Parents Bill of Rights compatibility where applicable.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+The current list of authorized sub-processors is at the Processor's trust center and is appended to this DPA on the DPA Effective Date.
+
+Signed.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

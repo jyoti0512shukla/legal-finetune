@@ -1,0 +1,14 @@
+{
+  "source_template": "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02.txt",
+  "variation_index": 3,
+  "substitutions": {
+    "PROVIDER_NAME": "Vertex Cloud Software, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_NAME": "Cardinal Manufacturing Co.",
+    "CUSTOMER_STATE": "California",
+    "CUSTOMER_ENTITY_TYPE": "Delaware corporation",
+    "TERM_YEARS": "five (5)",
+    "LIABILITY_CAP_MONTHS": "thirty-six (36)"
+  }
+}

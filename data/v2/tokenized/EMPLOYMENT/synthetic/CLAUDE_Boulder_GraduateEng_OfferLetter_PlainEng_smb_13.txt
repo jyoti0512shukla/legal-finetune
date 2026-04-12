@@ -1,0 +1,90 @@
+{{PROVIDER_NAME}} — OFFER LETTER
+
+{{EFFECTIVE_DATE}}
+
+Dear {{CUSTOMER_NAME}},
+
+We're delighted to offer you a position at {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ("we" or "the Company"). Below are the details of our offer. Please read carefully and let us know if you have any questions before signing.
+
+ARTICLE 1 — POSITION
+
+1.1 Your role. You'll join us as {{EMPLOYEE_TITLE}}, reporting to your {{EMPLOYEE_REPORTS_TO}}. You'll work on our backend services, write tests, do code reviews, and learn from a great team.
+
+1.2 Where you'll work. Your home office will be ours in {{VENUE_CITY}}, {{GOVERNING_LAW_STATE}}. We're hybrid — three days in the office, two remote — but flexible.
+
+1.3 When you start. Your first day is {{EFFECTIVE_DATE}}. If you need to push the start date by a few weeks for graduation or moving, just let us know.
+
+1.4 Your commitment. This is a full-time role. We expect you to focus your professional time on us, but personal investments, school commitments, and unpaid charity work are fine and encouraged.
+
+ARTICLE 2 — TERM AND TERMINATION
+
+2.1 At-will. Your employment with us is at-will, which means either you or we can end it at any time, for any reason or no reason. We'll do our best to give you reasonable notice if we ever need to let you go.
+
+2.2 Notice. As a courtesy, please give us at least {{NOTICE_DAYS}} business days' notice if you decide to leave.
+
+ARTICLE 3 — COMPENSATION
+
+3.1 Salary. Your starting base salary will be {{EMPLOYEE_BASE_SALARY}}, paid every two weeks.
+
+3.2 Bonus. You're eligible for an annual bonus targeted at {{EMPLOYEE_TARGET_BONUS_PCT}}% of your base salary, based on Company performance and your individual contributions. Bonuses are decided by the leadership team in good faith.
+
+3.3 Equity. Subject to Board approval, we'll grant you an equity award worth approximately {{EMPLOYEE_INITIAL_EQUITY}} at the time of grant, in the form of restricted stock units (RSUs). The grant vests over four years with a one-year cliff and quarterly vesting after that.
+
+3.4 Sign-on bonus. We'll pay you a sign-on bonus of Five Thousand United States Dollars (US$5,000) in your first paycheck. If you leave us within your first 12 months, we'll ask you to repay it.
+
+3.5 401(k). You'll be automatically enrolled in our 401(k) plan after 30 days, with a 3% contribution rate that you can change anytime. We match 100% of your first 4%.
+
+3.6 Benefits. You'll get our full benefits package on Day 1: health, dental, vision, life insurance, disability insurance, 20 days of paid time off, and 12 paid holidays.
+
+3.7 Expenses. We'll reimburse reasonable business expenses through our normal expense system.
+
+ARTICLE 4 — CONFIDENTIALITY AND IP
+
+4.1 Confidential information. While you work with us and after, you'll keep our confidential information confidential — that includes our codebase, customer data, business plans, financial information, and personnel matters.
+
+4.2 IP. Any code, designs, or inventions you create as part of your work for us belongs to {{PROVIDER_NAME}}. Anything that qualifies as a "work made for hire" is treated as such; everything else, you assign to us.
+
+4.3 California Section 2870 notice. The IP assignment in Section 4.2 doesn't cover inventions you create entirely on your own time, without using any Company resources, that don't relate to our business. This notice is required by California Labor Code Section 2870.
+
+4.4 California Section 16600. We don't ask you to sign a post-employment non-compete. After you leave us, you're free to work for whoever you want, including competitors. California Business and Professions Code Section 16600 makes this clear, and we honor it.
+
+4.5 DTSA whistleblower notice. Under the Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b)), you can disclose a trade secret in confidence to a government official or attorney for the purpose of reporting or investigating a suspected violation of law without facing trade-secret liability.
+
+ARTICLE 5 — CONDITIONS
+
+5.1 Background check. This offer depends on you passing a standard background and reference check. We don't anticipate any issues.
+
+5.2 I-9 verification. You'll need to complete Form I-9 within three business days of your start date and bring acceptable identification documents.
+
+5.3 Your representations. By accepting, you're confirming that no agreement with a previous employer prevents you from working with us, and that you won't bring any of their confidential information to us.
+
+ARTICLE 6 — DISPUTE RESOLUTION
+
+6.1 Governing law. California law governs this offer. Any dispute goes to the state or federal courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+6.2 No mandatory arbitration. We don't require you to arbitrate employment disputes.
+
+ARTICLE 7 — GENERAL
+
+7.1 The whole offer. This letter, plus the equity grant agreement and the benefit summaries we'll share with you, is the whole offer.
+
+7.2 Changes. Any changes need to be in writing, signed by both of us.
+
+7.3 If part is unenforceable. If a court strikes down part of this offer, the rest still applies.
+
+7.4 To accept. Sign below and return to us by email.
+
+We're really excited to have you join.
+
+For {{PROVIDER_NAME}}:
+By: _______________________________
+Name:
+Title: Engineering Manager
+
+Accepted by:
+
+{{CUSTOMER_NAME}}
+
+Signature: _______________________________
+
+Date: _______________________________

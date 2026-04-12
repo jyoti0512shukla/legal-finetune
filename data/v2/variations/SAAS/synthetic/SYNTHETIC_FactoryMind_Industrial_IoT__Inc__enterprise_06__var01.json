@@ -1,0 +1,15 @@
+{
+  "source_template": "SYNTHETIC_FactoryMind_Industrial_IoT__Inc__enterprise_06.txt",
+  "variation_index": 1,
+  "substitutions": {
+    "PROVIDER_NAME": "Helios Platform Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_NAME": "Wellington Asset Management LLC",
+    "CUSTOMER_STATE": "North Carolina",
+    "VENUE_CITY": "Raleigh",
+    "ANNUAL_FEE_AMOUNT": "Forty-Eight Thousand United States Dollars ($48,000)",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "thirty-six (36)"
+  }
+}

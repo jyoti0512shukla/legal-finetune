@@ -1,0 +1,69 @@
+{{PROVIDER_NAME}} — OFFER OF EMPLOYMENT (CLICK-THROUGH)
+
+Effective: {{EFFECTIVE_DATE}}
+
+{{CUSTOMER_NAME}}, by clicking "I Accept" in the {{PROVIDER_NAME}} HR platform onboarding flow, you agree to the offer of employment described in these Offer Terms. {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} with its principal place of business at {{PROVIDER_ADDRESS}} (the "Company"), is pleased to offer you employment as {{EMPLOYEE_TITLE}}, reporting to the {{EMPLOYEE_REPORTS_TO}}. If you do not agree to all of these Offer Terms, do not click "I Accept" — and contact your hiring manager.
+
+ARTICLE 1 — POSITION AND DUTIES
+
+1.1 Title and Reporting. You are offered the position of {{EMPLOYEE_TITLE}}, reporting to the {{EMPLOYEE_REPORTS_TO}}. You will perform duties customarily associated with this position and any additional duties reasonably assigned by the Company.
+
+1.2 Full-Time Commitment. This is a full-time position. You agree to devote substantially all of your business time and best efforts to the Company during the term of your employment.
+
+1.3 Outside Activities. You may engage in personal investments, charitable activities, and outside professional engagements, so long as such activities do not interfere with your duties or compete with the Company.
+
+1.4 Work Location. Your primary work location is the Company's offices in {{VENUE_CITY}}, {{GOVERNING_LAW_STATE}}, with hybrid in-office expectations as set by the Company from time to time.
+
+ARTICLE 2 — TERM AND TERMINATION (AT-WILL)
+
+2.1 At-Will Employment. Your employment is at-will. Either you or the Company may end the employment relationship at any time, for any reason or no reason, with or without notice. Nothing in these Offer Terms creates a guarantee of continued employment for any specific period.
+
+ARTICLE 3 — COMPENSATION AND BENEFITS
+
+3.1 Base Salary. The Company will pay you a base salary at the annualized rate of {{EMPLOYEE_BASE_SALARY}}, less applicable taxes and withholdings, in accordance with the Company's regular payroll practices.
+
+3.2 Target Variable Compensation. You will participate in the Company's sales commission plan, with an annual target variable compensation opportunity of {{EMPLOYEE_TARGET_BONUS_PCT}}% of your base salary. Variable compensation is governed by the Company's then-current Sales Compensation Plan, which is incorporated by reference. The Sales Compensation Plan may be amended by the Company in its discretion.
+
+3.3 Equity Grant. Subject to approval by the Board of Directors, the Company will grant you an initial equity award with a value of approximately {{EMPLOYEE_INITIAL_EQUITY}}, in the form of restricted stock units or stock options as determined by the Board, vesting over four (4) years with a one (1)-year cliff and quarterly vesting thereafter, subject to your continued employment and the terms of the applicable equity plan.
+
+3.4 Employee Benefits. You will be eligible to participate in the Company's standard employee benefit plans, including medical, dental, vision, 401(k), and paid time off, in each case subject to the terms of the applicable plan documents. The Company's benefit plan summaries are incorporated by reference and available to you through the HR platform.
+
+3.5 Sign-on Bonus. The Company will pay you a sign-on bonus of Five Thousand United States Dollars (US$5,000), payable in your first payroll after your start date. If your employment ends within twelve (12) months after your start date for any reason other than termination by the Company without Cause, you agree to repay the full sign-on bonus to the Company within thirty (30) days after your last day of employment.
+
+ARTICLE 4 — CONFIDENTIAL INFORMATION AND IP ASSIGNMENT
+
+4.1 Confidential Information. You agree to hold in strict confidence and not to use or disclose to any third party any non-public information of the Company, including trade secrets, customer data, financial information, business plans, and personnel information, both during and after your employment. You will return all Company property and confidential information upon the end of your employment.
+
+4.2 Invention Assignment. You assign to the Company any invention, work of authorship, or other intellectual property you create during your employment that relates to the Company's business or that was developed using Company resources. To the extent any such work qualifies as a "work made for hire," it is hereby deemed such.
+
+4.3 Defend Trade Secrets Act Notice. Pursuant to 18 U.S.C. § 1833(b), you are hereby notified that you cannot be held criminally or civilly liable under any federal or state trade secret law for the disclosure of a trade secret made in confidence to a federal, state, or local government official or to an attorney solely for the purpose of reporting or investigating a suspected violation of law, or made in a court filing under seal.
+
+4.4 Section 2870 Notice (California). The invention assignment in Section 4.2 does not apply to inventions you develop entirely on your own time, without using Company equipment, supplies, facilities, or trade secrets, that do not relate to the Company's business or to your work for the Company. This notice is provided pursuant to California Labor Code Section 2870.
+
+ARTICLE 5 — CONDITIONS PRECEDENT TO EMPLOYMENT
+
+5.1 Background Check. Your employment is contingent on satisfactory completion of standard background and reference checks.
+
+5.2 I-9 Verification. You must complete Form I-9 (Employment Eligibility Verification) and provide acceptable documentation of your identity and authorization to work in the United States within three (3) business days of your start date.
+
+5.3 W-4 Withholding. You must complete Form W-4 to authorize federal income tax withholding.
+
+5.4 Sign-on Bonus Rescission. If you fail to satisfy the conditions in Sections 5.1, 5.2, or 5.3 within thirty (30) days after your start date, the Company may rescind this offer and recover any sign-on bonus paid.
+
+ARTICLE 6 — DISPUTE RESOLUTION
+
+6.1 Governing Law. These Offer Terms are governed by the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to conflict of laws principles.
+
+6.2 Arbitration Carve-Out. Disputes arising under these Offer Terms are subject to the Company's then-current arbitration policy as set forth in the Employee Handbook, except that either party may seek injunctive relief in any court of competent jurisdiction to enforce confidentiality and IP assignment obligations.
+
+ARTICLE 7 — GENERAL PROVISIONS
+
+7.1 Entire Offer. These Offer Terms, together with the Company's Employee Handbook, the Sales Compensation Plan, the equity plan documents, and the benefit plan documents (each incorporated by reference), constitute the entire offer of employment.
+
+7.2 No Signature Block. These Offer Terms are accepted electronically by clicking "I Accept" in the HR platform onboarding flow. By clicking "I Accept," you acknowledge that you have read these Offer Terms, that you have had the opportunity to ask questions, and that you intend to be legally bound. Electronic acceptance constitutes a valid signature under the Electronic Signatures in Global and National Commerce Act (E-SIGN).
+
+7.3 Severability. If any provision of these Offer Terms is held to be invalid or unenforceable, the remaining provisions remain in full force and effect.
+
+7.4 Amendment. These Offer Terms may be amended only by a writing signed by you and a duly authorized officer of the Company.
+
+7.5 Termination. Either party may end the employment relationship at any time on at least {{NOTICE_DAYS}} days' written notice (or immediately for Cause), subject to the at-will provisions of Article 2.

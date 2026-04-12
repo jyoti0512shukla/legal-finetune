@@ -1,0 +1,15 @@
+{
+  "source_template": "SYNTHETIC_LedgerCore_Financial_Software__Inc__enterprise_03.txt",
+  "variation_index": 2,
+  "substitutions": {
+    "PROVIDER_NAME": "PrismLogic Software Solutions, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_NAME": "Evergreen Properties Inc.",
+    "CUSTOMER_ENTITY_TYPE": "corporation",
+    "VENUE_CITY": "Miami",
+    "ANNUAL_FEE_AMOUNT": "Two Hundred Forty Thousand United States Dollars ($240,000)",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "six (6)"
+  }
+}

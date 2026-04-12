@@ -1,0 +1,20 @@
+{
+  "source_template": "CLAUDE_LearnPath_Academy_Inc_mid_market_05.txt",
+  "variation_index": 5,
+  "substitutions": {
+    "PROVIDER_NAME": "Helios Platform Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "limited liability company",
+    "PROVIDER_ADDRESS": "4364 Westwood Boulevard, Suite 500, Austin, Texas 78983",
+    "CUSTOMER_NAME": "Beacon Health Network, Inc.",
+    "CUSTOMER_STATE": "Texas",
+    "CUSTOMER_ENTITY_TYPE": "limited partnership",
+    "CUSTOMER_ADDRESS": "657 Oakwood Boulevard, Suite 300, Austin, Texas 78260",
+    "EFFECTIVE_DATE": "May 6, 2025",
+    "VENUE_COUNTY": "Travis County",
+    "ANNUAL_FEE_AMOUNT": "Eighteen Thousand United States Dollars ($18,000)",
+    "TERM_YEARS": "four (4)",
+    "NOTICE_DAYS": "ninety (90)",
+    "IMPLEMENTATION_FEE": "Ten Thousand United States Dollars ($10,000)"
+  }
+}

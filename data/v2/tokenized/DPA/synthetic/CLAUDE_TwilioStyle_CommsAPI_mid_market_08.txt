@@ -1,0 +1,173 @@
+Data Processing Addendum — Communications API Platform
+
+Processor: {{PROVIDER_NAME}} ({{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}}, {{PROVIDER_ADDRESS}})
+Controller: {{CUSTOMER_NAME}} ({{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}}, {{CUSTOMER_ADDRESS}})
+DPA Effective Date: {{EFFECTIVE_DATE}}
+Parent agreement: {{PARENT_AGREEMENT_NAME}} dated {{PARENT_AGREEMENT_DATE}}
+
+This DPA is part of the parent agreement above. It governs how the Processor handles personal data on behalf of the Controller in connection with the SMS, voice, and email APIs the Processor provides under the parent agreement. When this DPA conflicts with the parent agreement on personal-data matters, this DPA wins. Otherwise the parent agreement controls.
+
+ARTICLE 1 — DEFINITIONS
+
+Standard meanings from the EU GDPR, UK GDPR, and CCPA / CPRA apply. "Personal Data," "Processing," "Controller," "Processor," "Sub-processor," "Personal Data Breach," and "Data Subject" all have GDPR meanings.
+
+"Communications Personal Data" means Personal Data the Controller submits to the Processor's communications APIs for transmission to end users, including phone numbers, email addresses, message content, and call metadata.
+
+"Carrier" means a third-party telecommunications carrier or email service provider that delivers the messages sent through the Processor's APIs.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES
+
+2.1 The Controller is the controller. The Processor is the processor for Communications Personal Data submitted via the APIs. Carriers are sub-processors with respect to the message delivery they perform.
+
+2.2 The Processor processes Communications Personal Data only on the Controller's documented instructions, which are: (a) the parent agreement, (b) this DPA, and (c) the Controller's API calls and product configuration.
+
+2.3 If the Processor thinks an instruction would break the law or violate carrier-level terms (such as TCPA, CAN-SPAM, GDPR Article 21, or carrier-level anti-abuse rules), the Processor will tell the Controller before performing the instruction.
+
+ARTICLE 3 — SCOPE OF PROCESSING
+
+3.1 The processing is described in Annex I.
+
+3.2 Nature and purpose: {{PROCESSING_PURPOSE}}.
+
+3.3 Categories of Personal Data: {{DATA_CATEGORIES}}.
+
+3.4 Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+
+3.5 The Controller represents that it has a lawful basis for sending each message, including any required end-user consent under TCPA (for SMS to U.S. numbers), CASL (for messages to Canadian recipients), GDPR (for marketing messages to EEA recipients), CAN-SPAM (for commercial email), and any other applicable opt-in / opt-out laws.
+
+ARTICLE 4 — PROCESSOR OBLIGATIONS
+
+4.1 The Processor processes Communications Personal Data only as the Controller instructs and only to deliver the messages submitted via the APIs.
+
+4.2 People at the Processor with access to Communications Personal Data are subject to confidentiality obligations and access is need-to-know only.
+
+4.3 No Sale or Secondary Use. The Processor will not sell Communications Personal Data, will not use it for the Processor's own marketing, and will not use it to train AI / ML models without express written consent from the Controller.
+
+4.4 Carrier Anti-Abuse. The Processor reserves the right to scan message content for spam, phishing, malware, or other carrier-level abuse signals as required by carrier-level anti-abuse policies. Such scanning is performed automatically and on the Controller's behalf, and the results are used only to enforce abuse policies and to comply with carrier requirements.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+5.1 The Processor implements the technical and organizational measures (TOMs) in Annex II. TLS 1.2+ in transit. AES-256 at rest. SSO + MFA for personnel access.
+
+5.2 Annual SOC 2 Type II audit. Annual ISO 27001 surveillance. Quarterly internal vulnerability scans. Annual third-party penetration testing.
+
+5.3 Documented business continuity and disaster recovery plan with stated RTO/RPO and annual testing.
+
+ARTICLE 6 — SUB-PROCESSORS (INCLUDING CARRIERS)
+
+6.1 The Controller authorizes the Processor to use sub-processors, including the Carriers, for delivery of messages submitted via the APIs.
+
+6.2 The Processor's currently authorized sub-processors are listed in Annex III and at the Processor's trust center.
+
+6.3 Notice of changes. The Processor will give the Controller at least 30 days' written notice (via in-product notification, email, or trust center update) before adding or replacing a non-Carrier sub-processor.
+
+6.4 Carrier Notice. The Processor cannot give meaningful advance notice of Carrier changes because Carrier routing may change in real time based on carrier capacity, regulatory requirements, and Controller routing preferences. The Processor will, however, maintain a current list of the Carriers that may handle the Controller's messages and will make that list available on the Controller's request.
+
+6.5 Right to object. The Controller may object to a non-Carrier sub-processor on reasonable data protection grounds within 30 days. Carriers are not subject to objection because the Controller's choice of destination country effectively chooses the Carrier.
+
+6.6 Sub-processor obligations. Each sub-processor (other than Carriers, which are subject to industry-standard carrier-level terms) is subject to a written agreement with data protection obligations equivalent to this DPA.
+
+6.7 Primary liability. The Processor remains primarily liable for sub-processor acts and omissions, including the acts and omissions of Carriers in delivering the Controller's messages, except to the extent the loss is caused solely by the Carrier's independent acts unrelated to the Processor's instructions.
+
+ARTICLE 7 — DATA SUBJECT RIGHTS
+
+7.1 The Processor will help the Controller respond to Data Subject requests, including by providing the Controller with the ability to retrieve, search, and delete Communications Personal Data via the API and the platform's reporting tools.
+
+7.2 If the Processor receives a Data Subject request directly, the Processor will forward it to the Controller within 5 business days.
+
+7.3 The Processor will not respond to Data Subjects directly without the Controller's authorization.
+
+ARTICLE 8 — PERSONAL DATA BREACH NOTIFICATION
+
+8.1 The Processor will notify the Controller within {{BREACH_NOTIFICATION_HOURS}} hours after becoming aware of a Personal Data Breach affecting Communications Personal Data.
+
+8.2 The notification will include the categories and approximate number of Data Subjects affected, the categories and approximate number of Personal Data records affected, the contact point at the Processor, the likely consequences, and the measures taken or proposed.
+
+8.3 The Processor will cooperate with the Controller in investigating, remediating, and reporting the breach to any Supervisory Authority and any affected Data Subjects.
+
+8.4 The Processor maintains a record of all Personal Data Breaches affecting Communications Personal Data.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS
+
+9.1 The Processor will help the Controller with Data Protection Impact Assessments under Article 35 GDPR and with prior consultations with Supervisory Authorities under Article 36 GDPR.
+
+9.2 The Controller is responsible for the DPIA itself; the Processor's role is supportive.
+
+ARTICLE 10 — INTERNATIONAL TRANSFERS
+
+10.1 EU SCCs (Commission Decision 2021/914) are incorporated by reference, with Module 2 for direct transfers and Module 3 for onward transfers, general sub-processor authorization (Option 2), Irish governing law and venue.
+
+10.2 UK IDTA is incorporated for UK transfers with the same parameters.
+
+10.3 The Processor maintains a current Transfer Impact Assessment.
+
+10.4 The Controller acknowledges that messages submitted to the APIs are routed via Carriers around the world based on the destination of the message. The Controller is responsible for determining whether to send messages to particular destinations.
+
+ARTICLE 11 — AUDIT RIGHTS
+
+11.1 The Controller can audit the Processor's compliance with this DPA, on at least {{AUDIT_NOTICE_DAYS}} days' notice and no more than once per twelve (12) month period (except after a Personal Data Breach).
+
+11.2 The Processor will share its current SOC 2 Type II report with the Controller at no charge. Where the SOC 2 report adequately covers the audit scope, the Controller agrees to accept it instead of an on-site audit.
+
+11.3 Audits won't expose other customers' data or the Processor's trade secrets, and won't unreasonably interfere with the Processor's business.
+
+ARTICLE 12 — DELETION OR RETURN OF PERSONAL DATA
+
+12.1 When the services end, the Processor will delete or return all Communications Personal Data at the Controller's choice and delete all existing copies, unless retention is required by law (including any retention required by carrier-level regulations).
+
+12.2 The Processor will certify deletion in writing on request.
+
+12.3 Backup or archival copies retained per the Processor's standard retention schedule remain subject to this DPA's confidentiality and security obligations.
+
+12.4 Deletion is completed within 30 days after the end of services.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+This DPA runs for the term of the parent agreement plus the wind-down period. Articles 8, 11, and 12 survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+This DPA is part of the parent agreement. In any conflict, this DPA wins on personal-data matters. The parent agreement wins on commercial matters, IP, liability, governing law, and dispute resolution. Counterparts allowed.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+Parties: Controller is {{CUSTOMER_NAME}}; Processor is {{PROVIDER_NAME}}.
+Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+Categories of Personal Data: {{DATA_CATEGORIES}}.
+Sensitive Data: none beyond what's identified above.
+Frequency: continuous, real-time.
+Nature: {{PROCESSING_PURPOSE}}.
+Purpose: providing communications APIs for the Controller's message delivery.
+Retention: for the term of the parent agreement plus the wind-down period; messages and metadata are retained for the periods set forth in the parent agreement and any carrier-level regulatory requirements.
+Carrier transfers: as set forth in Annex III.
+
+ANNEX II — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+Encryption: TLS 1.2+ in transit, AES-256 at rest.
+Access: SSO + MFA, role-based, least privilege.
+Network: production / non-production segregation, WAF, DDoS protection.
+Backup and recovery: documented BCDR plan, annual DR testing.
+Personnel: background checks, confidentiality undertakings, annual security training.
+Sub-processor management: written agreements with non-Carrier sub-processors, monitoring.
+Regular testing: annual SOC 2 Type II, annual ISO 27001 surveillance, quarterly vulnerability scans, annual penetration testing.
+Data residency: hosted in {{DATA_RESIDENCY_REGION}}; messages routed via Carriers based on destination.
+Incident response: documented incident response plan. Notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+Non-Carrier sub-processors: hyperscale cloud provider, customer support tool, observability vendor, billing/payment processor.
+Carriers: variable based on message destination; current list available at the Processor's trust center.
+
+Signed.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

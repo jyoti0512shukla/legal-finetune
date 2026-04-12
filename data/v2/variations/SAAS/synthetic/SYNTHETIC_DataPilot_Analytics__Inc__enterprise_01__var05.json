@@ -1,0 +1,17 @@
+{
+  "source_template": "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01.txt",
+  "variation_index": 5,
+  "substitutions": {
+    "PROVIDER_NAME": "Riverstone Software Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_NAME": "Wellington Asset Management LLC",
+    "CUSTOMER_STATE": "Florida",
+    "CUSTOMER_ENTITY_TYPE": "limited partnership",
+    "GOVERNING_LAW_STATE": "Florida",
+    "VENUE_CITY": "Miami",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "thirty-six (36)",
+    "NOTICE_DAYS": "thirty (30)"
+  }
+}

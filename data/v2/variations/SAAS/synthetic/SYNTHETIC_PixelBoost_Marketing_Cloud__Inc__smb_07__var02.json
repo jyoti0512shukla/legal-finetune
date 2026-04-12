@@ -1,0 +1,14 @@
+{
+  "source_template": "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07.txt",
+  "variation_index": 2,
+  "substitutions": {
+    "PROVIDER_NAME": "Fortis Cloud Inc.",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_NAME": "Northern Star Distribution LLC",
+    "CUSTOMER_STATE": "New York",
+    "CUSTOMER_ENTITY_TYPE": "Delaware corporation",
+    "VENUE_CITY": "New York",
+    "TERM_YEARS": "one (1)",
+    "LIABILITY_CAP_MONTHS": "eighteen (18)"
+  }
+}

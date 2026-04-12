@@ -1,0 +1,17 @@
+{
+  "source_template": "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01.txt",
+  "variation_index": 4,
+  "substitutions": {
+    "PROVIDER_NAME": "Pinnacle Digital Systems, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_NAME": "Coastal Maritime Holdings, Inc.",
+    "CUSTOMER_STATE": "Washington",
+    "CUSTOMER_ENTITY_TYPE": "limited partnership",
+    "GOVERNING_LAW_STATE": "Washington",
+    "VENUE_CITY": "Seattle",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "six (6)",
+    "NOTICE_DAYS": "sixty (60)"
+  }
+}

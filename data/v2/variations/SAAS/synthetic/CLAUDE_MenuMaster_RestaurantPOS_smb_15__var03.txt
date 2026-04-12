@@ -1,0 +1,279 @@
+RESTAURANT POINT-OF-SALE PLATFORM SUBSCRIPTION AGREEMENT
+
+This Restaurant Point-of-Sale Platform Subscription Agreement (this "Agreement") is made and entered into as of June 30, 2025 (the "Effective Date"), by and between Pinnacle Digital Systems, Inc., a Delaware Delaware corporation having its principal place of business at 6459 North Highland Avenue, Suite 2500, Chicago, Illinois 60801 ("Provider"), and Birchwood Construction Company, a Illinois limited partnership having its principal place of business at 8822 North Pinecrest Avenue, Suite 2000, Chicago, Illinois 60111 ("Customer"). Provider and Customer may each be referred to individually as a "Party" and collectively as the "Parties."
+
+RECITALS
+
+WHEREAS, Provider develops, hosts, and operates a cloud-based restaurant point-of-sale and management platform designed to support order entry, payment processing, kitchen display, inventory management, employee scheduling, and reporting for multi-unit restaurant operators (the "MenuMaster Platform");
+
+WHEREAS, Customer owns and operates a portfolio of eight (8) full-service and quick-service restaurants located in the metropolitan Chicago area and desires to subscribe to the MenuMaster Platform to standardize point-of-sale operations across its locations;
+
+WHEREAS, the use of the Platform requires the deployment of certain hardware components at Customer's restaurant locations, including terminals, kitchen display systems, receipt printers, and payment card readers, and the Parties acknowledge that such hardware will be supplied through a separate Hardware Purchase Order under terms set forth in this Agreement;
+
+WHEREAS, the Parties further acknowledge that restaurants operate during evenings, weekends, and holidays when many service providers are unavailable, and that the Platform must accordingly be supported by 24x7 technical assistance to minimize operational disruption; and
+
+WHEREAS, the Parties wish to establish a multi-year commercial relationship to support Customer's restaurant operations;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means, with respect to any entity, any other entity that directly or indirectly controls, is controlled by, or is under common control with such entity, where "control" means the ownership of more than fifty percent (50%) of the voting securities or membership interests of such entity.
+
+1.2 "Authorized Location" means a Customer-operated restaurant location that has been provisioned by Provider for access to and use of the Platform under this Agreement, as identified on Schedule A hereto and as may be amended from time to time by mutual written agreement of the Parties.
+
+1.3 "Authorized User" means each individual employee, manager, or contractor of Customer who is authorized by Customer to access and use the Platform at an Authorized Location, including without limitation servers, cashiers, kitchen staff, restaurant managers, and corporate office personnel. Customer may provision an unlimited number of Authorized Users at each Authorized Location at no additional charge.
+
+1.4 "Cardholder Data" means data extracted or derived from a payment card transaction, including without limitation the primary account number, cardholder name, expiration date, and service code, in each case as defined under the Payment Card Industry Data Security Standard.
+
+1.5 "Confidential Information" means all non-public information disclosed by one Party to the other Party that is identified as confidential at the time of disclosure or that, given the nature of the information and the circumstances surrounding its disclosure, would reasonably be understood to be confidential.
+
+1.6 "Customer Data" means all electronic data, content, and information uploaded to, transmitted through, or stored within the Platform by or on behalf of Customer, including without limitation menu data, sales data, inventory data, employee data, and customer (guest) data, but excluding Cardholder Data, which is governed by Section 7.5.
+
+1.7 "Documentation" means the user manuals, technical documentation, training materials, and other materials describing the functionality and operation of the Platform that are made generally available by Provider.
+
+1.8 "Effective Date" has the meaning set forth in the preamble.
+
+1.9 "Force Majeure Event" means any event or circumstance beyond the reasonable control of a Party, including without limitation acts of God, natural disasters, fire, flood, war, terrorism, civil unrest, governmental action, pandemic, epidemic, labor disputes, internet or telecommunications failures, denial of service attacks, or material failures of third-party cloud infrastructure or payment processing networks, but excluding Customer's payment obligations.
+
+1.10 "Hardware" means the physical hardware components recommended or required by Provider to operate the Platform, including without limitation terminal computers, kitchen display screens, receipt printers, payment card readers, cash drawers, and barcode scanners. Hardware shall be supplied to Customer pursuant to one or more Hardware Purchase Orders entered into between the Parties from time to time and shall be governed by the Hardware terms set forth in Article 3.
+
+1.11 "Hardware Purchase Order" means a written order executed by both Parties that references this Agreement and identifies the specific Hardware to be purchased by Customer, including the Hardware specifications, quantities, prices, and delivery terms.
+
+1.12 "Intellectual Property Rights" means all intellectual property and proprietary rights of any kind anywhere in the world, including without limitation patents, copyrights, trademarks, trade secrets, know-how, and all other rights of a similar nature.
+
+1.13 "PCI-DSS" means the Payment Card Industry Data Security Standard, as published by the PCI Security Standards Council, as the same may be amended from time to time.
+
+1.14 "Payment Processor" means a third-party payment processing service used by Customer to process payment card transactions through the Platform. Customer shall be responsible for entering into a separate agreement with a Payment Processor and for the fees and charges of such Payment Processor.
+
+1.15 "Personal Data" means any information relating to an identified or identifiable natural person, as defined under applicable privacy laws.
+
+1.16 "Platform" means the MenuMaster restaurant point-of-sale platform, including all software, features, functionality, modules, application programming interfaces, web interfaces, mobile applications, and updates thereto, but excluding the Hardware.
+
+1.17 "Services" means, collectively, Customer's right of access to the Platform during the Subscription Term, the Implementation Services, the Support Services, and any other services expressly described in this Agreement.
+
+1.18 "Subscription Fees" means the fees payable by Customer to Provider for the Services as set forth in Section 4.1.
+
+1.19 "Subscription Term" has the meaning set forth in Section 5.1.
+
+1.20 "Support Services" means the technical support services to be provided by Provider as more fully described in Article 6.
+
+ARTICLE 2 — SUBSCRIPTION AND LICENSE
+
+2.1 Provision of the Platform. Subject to the terms and conditions of this Agreement and Customer's timely payment of the Subscription Fees, Provider shall make the Platform available to Customer for use at the Authorized Locations during the Subscription Term in accordance with this Agreement, the Documentation, and the Service Level Agreement set forth in Article 6.
+
+2.2 License Grant. Subject to the terms and conditions of this Agreement, Provider hereby grants to Customer a limited, non-exclusive, non-transferable, non-sublicensable right and license during the Subscription Term to install, access, and use the Platform at the Authorized Locations solely for Customer's internal business purposes in connection with the operation of Customer's restaurants.
+
+2.3 Authorized Locations. As of the Effective Date, the Authorized Locations consist of the eight (8) restaurants identified on Schedule A. Customer may add additional Authorized Locations during the Subscription Term by providing Provider with written notice and paying the additional Subscription Fees set forth in Section 4.3.
+
+2.4 Restrictions on Use. Customer shall not, and shall not permit any Authorized User to, (a) modify, adapt, alter, translate, or create derivative works based upon the Platform; (b) sublicense, lease, sell, resell, or transfer access to the Platform to any third party (including without limitation any other restaurant or hospitality business not owned or operated by Customer); (c) reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Platform; (d) use the Platform to develop a competing product or service; (e) remove or alter any proprietary notices appearing on the Platform; or (f) use the Platform in violation of applicable laws or regulations.
+
+2.5 Customer Responsibilities. Customer shall be responsible for (a) the acts and omissions of its Authorized Users in connection with their use of the Platform; (b) maintaining adequate internet connectivity at each Authorized Location; (c) ensuring that all Authorized Users comply with applicable laws and regulations; and (d) promptly notifying Provider of any unauthorized access to or use of the Platform.
+
+ARTICLE 3 — HARDWARE
+
+3.1 Hardware Sales. Hardware shall be sold by Provider to Customer pursuant to one or more Hardware Purchase Orders. Each Hardware Purchase Order shall specify the Hardware to be purchased, the quantities, the per-unit prices, and the delivery terms. Hardware Purchase Orders are not subject to the Subscription Fees set forth in Article 4 and shall be invoiced separately.
+
+3.2 Title and Risk of Loss. Title to and risk of loss for all Hardware purchased pursuant to a Hardware Purchase Order shall pass to Customer upon delivery of the Hardware to the Authorized Location specified in the Hardware Purchase Order.
+
+3.3 Hardware Warranty. Provider warrants that, for a period of one (1) year following delivery, the Hardware shall be free from material defects in materials and workmanship under normal use and service. Provider's sole obligation, and Customer's sole remedy, for any breach of this warranty shall be, at Provider's option, repair or replacement of the defective Hardware. This warranty does not cover damage caused by misuse, accident, negligence, unauthorized modification, or normal wear and tear.
+
+3.4 Hardware Disclaimer. EXCEPT FOR THE EXPRESS WARRANTY SET FORTH IN SECTION 3.3, HARDWARE IS PROVIDED "AS IS" AND "WITH ALL FAULTS." PROVIDER DISCLAIMS ALL OTHER WARRANTIES WITH RESPECT TO THE HARDWARE, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+3.5 Hardware Maintenance. Provider may, but shall not be obligated to, offer hardware maintenance and replacement services pursuant to a separate hardware maintenance agreement at Customer's election.
+
+3.6 Use of Third-Party Hardware. Customer may, at its option, use third-party hardware components in connection with the Platform, provided that such hardware meets Provider's published technical specifications. Provider does not warrant the performance of the Platform with third-party hardware that does not meet Provider's specifications, and Provider's Service Level Agreement shall not apply to outages or degradations caused by such third-party hardware.
+
+ARTICLE 4 — SUBSCRIPTION FEES AND PAYMENT
+
+4.1 Subscription Fees. In consideration of the Services, Customer shall pay an annual Subscription Fee of Nine Hundred Sixty Thousand United States Dollars ($960,000), payable in monthly installments of One Thousand United States Dollars ($1,000) in advance. The Subscription Fee covers all eight (8) Authorized Locations identified on Schedule A as of the Effective Date.
+
+4.2 Payment Terms. All Subscription Fees shall be due and payable in United States Dollars within ninety (90) days of the date of invoice (the "Due Date"). Customer shall make all payments by automatic credit card charge or electronic funds transfer to the account designated by Provider in writing. Hardware Purchase Orders shall be invoiced separately upon shipment of the Hardware.
+
+4.3 Additional Authorized Locations. Customer may add additional Authorized Locations to the Subscription by providing Provider with written notice. Each additional Authorized Location shall be billed at One Hundred Twenty-Five United States Dollars ($125) per Authorized Location per month, prorated for any partial month. Provider shall provision the additional Authorized Location within five (5) business days of receipt of Customer's notice.
+
+4.4 Disputed Invoices. If Customer in good faith disputes any portion of an invoice, Customer shall notify Provider in writing of the dispute within fifteen (15) business days of receipt of the invoice. Customer shall pay all undisputed amounts in accordance with Section 4.2, and the Parties shall negotiate in good faith to resolve the disputed amount.
+
+4.5 Late Payments. Any undisputed amounts not paid by the Due Date shall accrue interest at a rate equal to the lesser of (a) one and one-half percent (1.5%) per month or (b) the maximum rate permitted by applicable Illinois law.
+
+4.6 Taxes. The Subscription Fees and Hardware prices are exclusive of all taxes, levies, and duties, except taxes imposed on Provider's net income. Customer shall be responsible for payment of all such taxes, including without limitation Illinois state and local sales taxes on Hardware purchases.
+
+4.7 Fee Adjustments at Renewal. Provider may adjust the Subscription Fees for any Renewal Term by providing written notice to Customer at least sixty (60) days prior to the start of the Renewal Term. Any such adjustment shall not exceed five percent (5%) above the Subscription Fees in effect during the immediately preceding Subscription Year.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Initial Term. The initial term of this Agreement (the "Initial Term") shall commence on the Effective Date and continue for a period of one (1) year thereafter, unless earlier terminated in accordance with Article 13.
+
+5.2 Renewal Terms. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive one (1) year renewal terms (each a "Renewal Term") unless either Party provides written notice of non-renewal to the other Party at least ninety (90) days prior to the expiration of the then-current term.
+
+5.3 Termination for Convenience. Either Party may terminate this Agreement for convenience upon ninety (90) days' prior written notice to the other Party at any time after the first six (6) months of the Initial Term. Upon termination by Customer for convenience, no refund of prepaid Subscription Fees shall be provided. Upon termination by Provider for convenience, Provider shall refund to Customer the prepaid Subscription Fees corresponding to the period after the effective date of termination.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime Commitment. Provider shall use commercially reasonable efforts to make the Platform available with a Monthly Uptime Percentage of at least 99.5%, calculated as: (Total Minutes in Month - Excluded Minutes - Downtime Minutes) / (Total Minutes in Month - Excluded Minutes), expressed as a percentage. The Parties acknowledge that the Platform is designed to operate in offline mode at the terminal level for short periods of time, and that brief cloud connectivity interruptions affecting reporting and synchronization shall not generally affect order entry and payment processing functionality at the Authorized Locations.
+
+6.2 Excluded Downtime. The following shall not be counted as Downtime: (a) scheduled maintenance windows, which shall be conducted between 3:00 a.m. and 5:00 a.m. Eastern Time and shall not exceed four (4) hours per calendar month; (b) emergency maintenance with as much advance notice as is reasonably practicable; (c) downtime caused by Customer's acts or omissions, including loss of internet connectivity at any Authorized Location; (d) downtime caused by Force Majeure Events; (e) downtime caused by failures of third-party services, including without limitation Payment Processors; and (f) downtime caused by Customer's use of third-party hardware that does not meet Provider's specifications.
+
+6.3 Service Credits. If the Monthly Uptime Percentage falls below 99.5%, Customer shall be entitled to receive service credits as follows: (a) below 99.5% but at or above 99.0%: a service credit equal to five percent (5%) of one-twelfth (1/12) of the annual Subscription Fee; (b) below 99.0% but at or above 98.0%: ten percent (10%); (c) below 98.0%: twenty-five percent (25%). To claim a service credit, Customer shall submit a written request within ninety (90) days following the end of the affected month. Service credits shall not be paid in cash and shall not exceed in the aggregate twenty-five percent (25%) of the annual Subscription Fee in any Subscription Year.
+
+6.4 Support Services. Provider shall provide the following Support Services: (a) twenty-four hours per day, seven days per week ("24x7") telephone support, with a target initial response time of fifteen (15) minutes for Severity 1 issues (defined as any condition preventing order entry or payment processing at one or more Authorized Locations during business hours); (b) email and live chat support during Provider's business hours of 9:00 a.m. to 9:00 p.m. Eastern Time, seven days per week; (c) twenty-four hours per day, seven days per week ("24x7") access to a self-service knowledge base and online help center; and (d) on-site technician dispatch as a separately-priced service available upon Customer's request.
+
+6.5 Severity Levels. Provider shall categorize support issues using the following severity levels: Severity 1 (any condition preventing order entry or payment processing at any Authorized Location during business hours), Severity 2 (significant degradation affecting reporting, inventory, or other non-critical functions), Severity 3 (limited functionality issue with workaround), and Severity 4 (general inquiry or feature request). Provider shall use commercially reasonable efforts to resolve Severity 1 issues within two (2) hours, Severity 2 issues within one (1) business day, Severity 3 issues within five (5) business days, and Severity 4 issues per Provider's standard product roadmap. The Parties acknowledge that the two-hour resolution target for Severity 1 issues reflects the operational criticality of point-of-sale functionality during restaurant service hours.
+
+ARTICLE 7 — CUSTOMER DATA, PRIVACY, AND PCI COMPLIANCE
+
+7.1 Ownership of Customer Data. As between the Parties, Customer shall retain all right, title, and interest in and to Customer Data. Provider acknowledges that Customer Data is the exclusive property of Customer and that Provider has no right, title, or interest in Customer Data except for the limited license set forth in Section 7.2.
+
+7.2 License to Process. Customer hereby grants to Provider a limited, non-exclusive, non-transferable, royalty-free license to access, store, process, transmit, and display Customer Data solely as necessary to provide the Services to Customer in accordance with this Agreement. Provider shall not use Customer Data for any other purpose, including without limitation product improvement, machine learning model training, marketing, or sale to third parties. Notwithstanding the foregoing, Provider may use aggregated and anonymized data derived from Customer's use of the Platform for statistical, analytical, and benchmarking purposes, provided that such aggregated data does not identify Customer, any Authorized Location, or any individual.
+
+7.3 Guest Data. Customer Data may include personally identifiable information of Customer's restaurant guests, including without limitation names, contact information, and dining preferences (collectively, "Guest Data"). Provider shall treat Guest Data as Personal Data and shall comply with applicable privacy laws.
+
+7.4 Data Security. Provider shall implement and maintain commercially reasonable administrative, physical, and technical safeguards designed to protect Customer Data against unauthorized access, disclosure, alteration, and destruction, including without limitation (a) encryption of Customer Data in transit using TLS 1.2 or higher; (b) encryption of Customer Data at rest using AES-256 or equivalent; (c) role-based access controls; (d) annual third-party penetration testing; and (e) a documented information security program reviewed and updated at least annually.
+
+7.5 PCI-DSS Compliance and Cardholder Data. The Platform is designed to facilitate payment processing through Payment Processors integrated with the Platform. Provider represents and warrants that the Platform shall be PCI-DSS compliant as a Payment Application (PA-DSS) or equivalent successor standard, and that Provider's hosting infrastructure shall maintain PCI-DSS Level 1 service provider compliance throughout the Subscription Term. Customer acknowledges that (a) Cardholder Data is processed by Customer's Payment Processor, not by Provider, and that Provider does not store Cardholder Data; (b) Customer is responsible for entering into a separate agreement with a PCI-DSS compliant Payment Processor; and (c) Customer is ultimately responsible for the PCI-DSS compliance of its own payment acceptance environment, including the secure handling of Cardholder Data at the Authorized Locations.
+
+7.6 Breach Notification. Provider shall notify Customer in writing of any actual or reasonably suspected unauthorized access to, acquisition of, or disclosure of Customer Data (a "Security Incident") without undue delay and in any event within seventy-two (72) hours of Provider's discovery of such Security Incident. Provider shall cooperate with Customer's investigation and shall reimburse Customer for the reasonable costs of mandatory breach notifications to affected individuals to the extent the Security Incident was caused by Provider's breach of its obligations under this Article 7.
+
+7.7 Data Retention and Deletion. Upon expiration or termination of this Agreement, Provider shall, at Customer's election, (a) make Customer Data available for export by Customer in a commercially reasonable, machine-readable format for a period of sixty (60) days following expiration or termination; or (b) permanently delete Customer Data from Provider's production systems within ninety (90) days of expiration or termination, with deletion from backup systems to follow within ninety (90) days. Notwithstanding the foregoing, Provider shall retain Customer Data for any longer period required by applicable law.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Provider Intellectual Property. As between the Parties, Provider shall retain all right, title, and interest in and to the Platform, the Documentation, and all related Intellectual Property Rights, including without limitation any modifications, enhancements, derivative works, or improvements thereto.
+
+8.2 Customer Data. As provided in Article 7, Customer Data is and shall remain the exclusive property of Customer.
+
+8.3 Customer Configurations. Menu configurations, pricing schemes, modifier groups, and other configurations entered into the Platform by Customer shall remain Customer's Confidential Information, and Provider shall not use such configurations for the benefit of any third party (except for the purpose of providing aggregated and anonymized benchmarking analytics as permitted by Section 7.2).
+
+8.4 Feedback. From time to time, Customer or its Authorized Users may provide Provider with general suggestions, comments, ideas, or feedback regarding the Platform. Customer hereby grants Provider a perpetual, irrevocable, royalty-free, worldwide license to use such Feedback to improve the Platform.
+
+8.5 No Implied Licenses. Except for the limited rights expressly granted in this Agreement, neither Party grants any rights or licenses to the other Party, whether by implication, estoppel, or otherwise, with respect to any of its Intellectual Property Rights.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Confidentiality Obligations. Each Party agrees that it shall (a) hold the other Party's Confidential Information in strict confidence; (b) use the other Party's Confidential Information solely for the purpose of performing its obligations or exercising its rights under this Agreement; (c) not disclose the other Party's Confidential Information to any third party except to its employees, contractors, and advisors who have a legitimate need to know such information and who are bound by written obligations of confidentiality at least as protective as those set forth in this Article 9; and (d) protect the other Party's Confidential Information using the same degree of care that it uses to protect its own confidential information of similar importance, but in no event less than reasonable care.
+
+9.2 Exclusions. The obligations set forth in Section 9.1 shall not apply to information that the Receiving Party can demonstrate (a) was already known to the Receiving Party at the time of disclosure without obligation of confidentiality; (b) was independently developed by the Receiving Party without use of or reference to the Disclosing Party's Confidential Information; (c) was rightfully received by the Receiving Party from a third party without obligation of confidentiality; or (d) is or becomes publicly available through no fault of or breach by the Receiving Party.
+
+9.3 Compelled Disclosure. The Receiving Party may disclose the Disclosing Party's Confidential Information to the extent required by law, provided that the Receiving Party gives the Disclosing Party prompt written notice of such requirement (to the extent legally permitted) and cooperates with the Disclosing Party in any reasonable effort to obtain a protective order.
+
+9.4 Survival. The obligations set forth in this Article 9 shall survive any expiration or termination of this Agreement for a period of three (3) years.
+
+9.5 Equitable Relief. The Parties acknowledge that any breach of this Article 9 may cause irreparable harm to the Disclosing Party for which monetary damages would be inadequate, and accordingly the Disclosing Party shall be entitled to seek injunctive and other equitable relief.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Mutual Warranties. Each Party represents and warrants to the other Party that (a) it is duly organized, validly existing, and in good standing under the laws of the jurisdiction of its formation; (b) it has the full corporate or limited partnership power and authority to enter into this Agreement; (c) the execution, delivery, and performance of this Agreement have been duly authorized; and (d) this Agreement, when executed, constitutes a legal, valid, and binding obligation enforceable against it in accordance with its terms.
+
+10.2 Provider Warranties. Provider represents and warrants that during the Subscription Term: (a) the Platform shall perform substantially in accordance with the Documentation in all material respects; (b) the Platform shall not contain any virus, worm, trojan horse, or other malicious code introduced by Provider; (c) Provider shall provide the Services in a professional and workmanlike manner consistent with generally accepted industry standards; (d) Provider shall comply with all applicable laws and regulations in performing its obligations; and (e) Provider shall maintain PCI-DSS Level 1 service provider compliance throughout the Subscription Term.
+
+10.3 Customer Warranties. Customer represents and warrants that (a) Customer has the right and authority to upload Customer Data to the Platform; (b) Customer's use of the Platform shall comply with all applicable laws and regulations, including without limitation employment laws, sales tax laws, and food safety regulations; and (c) Customer shall maintain its own PCI-DSS compliance for its payment acceptance environment at the Authorized Locations.
+
+10.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS ARTICLE 10 AND IN SECTION 3.3, THE PLATFORM, THE HARDWARE, AND THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE," AND PROVIDER DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Provider Indemnity. Provider shall defend Customer and its officers, directors, employees, and agents (each a "Customer Indemnified Party") against any third-party claim, suit, action, or proceeding (each a "Claim") alleging that Customer's use of the Platform in accordance with this Agreement infringes or misappropriates any Intellectual Property Right of such third party, and Provider shall indemnify each Customer Indemnified Party for any damages, settlement amounts, and reasonable attorneys' fees and costs finally awarded against such Customer Indemnified Party with respect to such Claim. Provider's obligations shall not apply to claims arising out of (a) any modification of the Platform by any party other than Provider; (b) any combination of the Platform with software or hardware not provided by Provider; (c) Customer's use of the Platform in a manner not authorized by this Agreement; or (d) Customer Data.
+
+11.2 Customer Indemnity. Customer shall defend Provider and its officers, directors, employees, and agents against any third-party Claim alleging that (a) any Customer Data infringes the rights of any third party; or (b) Customer's use of the Platform in violation of this Agreement caused damage to such third party. Customer shall indemnify Provider for any damages, settlement amounts, and reasonable attorneys' fees and costs finally awarded against Provider with respect to such Claim.
+
+11.3 Indemnification Procedure. The Indemnified Party shall (a) provide the Indemnifying Party with prompt written notice of the Claim; (b) grant the Indemnifying Party sole control over the defense and settlement of the Claim, provided that the Indemnifying Party shall not enter into any settlement that imposes any liability or obligation on the Indemnified Party without the Indemnified Party's prior written consent (not to be unreasonably withheld); and (c) provide the Indemnifying Party with all reasonable cooperation, information, and assistance, at the Indemnifying Party's expense.
+
+11.4 IP Claim Mitigation. If the Platform becomes the subject of a Claim of infringement, Provider may, at its option and expense, (a) procure for Customer the right to continue using the Platform; (b) modify the Platform to make it non-infringing; (c) replace the Platform with a non-infringing alternative; or (d) terminate this Agreement and refund the prepaid Subscription Fees corresponding to the unused portion of the then-current Subscription Term.
+
+11.5 Sole Remedy. The provisions of this Article 11 set forth Provider's sole and exclusive liability and Customer's sole and exclusive remedy with respect to any Claim of intellectual property infringement.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF SUBSCRIPTION FEES PAID OR PAYABLE BY CUSTOMER TO PROVIDER DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY. The aggregate cap set forth in this Section 12.1 shall not apply to amounts owed by Customer for Hardware purchases under Hardware Purchase Orders, which shall be governed by the terms of the applicable Hardware Purchase Order.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOST REVENUE, LOST BUSINESS OPPORTUNITIES, LOSS OF USE, OR LOSS OF DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+12.3 Exceptions to Limitations. The limitations set forth in Sections 12.1 and 12.2 shall not apply to (a) Provider's obligations under Article 11 (Indemnification); (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Customer Data, Privacy, and PCI Compliance); (d) Customer's payment obligations under Article 4; (e) Customer's obligations to pay for Hardware purchased under any Hardware Purchase Order; (f) any liability arising from a Party's gross negligence, willful misconduct, or fraud; or (g) any liability that, under applicable law, cannot be limited or excluded.
+
+12.4 Basis of the Bargain. The Parties acknowledge that the limitations of liability set forth in this Article 12 are an essential element of the bargain between the Parties.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for Material Breach. Either Party may terminate this Agreement upon ninety (90) days' prior written notice to the other Party if the other Party commits a material breach of this Agreement and fails to cure such breach within the ninety (90) day notice period.
+
+13.2 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice to the other Party if the other Party becomes insolvent, makes a general assignment for the benefit of creditors, files a voluntary petition in bankruptcy, has an involuntary petition in bankruptcy filed against it that is not dismissed within sixty (60) days, or ceases to do business.
+
+13.3 Termination for Convenience. As provided in Section 5.3, either Party may terminate this Agreement for convenience upon ninety (90) days' prior written notice after the first six (6) months of the Initial Term.
+
+13.4 Effects of Termination. Upon expiration or termination of this Agreement: (a) all rights and licenses granted to Customer hereunder shall immediately cease, and Customer shall cease all use of the Platform within seven (7) days; (b) Customer shall pay Provider all Subscription Fees that have accrued through the effective date of termination, plus any unpaid amounts owed under any outstanding Hardware Purchase Order; (c) Provider shall make Customer Data available for export or shall delete Customer Data in accordance with Section 7.7; (d) each Party shall return or destroy the other Party's Confidential Information; and (e) Customer shall retain title to all Hardware previously purchased pursuant to any Hardware Purchase Order, but the Hardware shall cease to be functional with the Platform; (f) the provisions of this Agreement that by their nature are intended to survive termination shall so survive.
+
+13.5 Transition Assistance. For a period of up to sixty (60) days following the effective date of expiration or termination of this Agreement, Provider shall provide Customer with reasonable transition assistance to facilitate Customer's migration to a successor point-of-sale system, including the export of Customer Data. Such transition assistance shall be provided at Provider's then-current professional services rates, except that the export of Customer Data in standard formats shall be provided at no additional charge.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Illinois, without regard to its conflict of laws principles.
+
+14.2 Informal Dispute Resolution. Before initiating any litigation, the Parties agree to attempt in good faith to resolve any dispute arising out of or relating to this Agreement through direct negotiation between executives of each Party with authority to resolve the dispute. If the dispute is not resolved within ninety (90) days after written notice from one Party to the other identifying the dispute, either Party may proceed to litigation.
+
+14.3 Venue and Jurisdiction. The Parties agree that any action, suit, or proceeding arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in Cook County, Illinois, and each Party hereby irrevocably consents to the personal jurisdiction of such courts.
+
+14.4 Waiver of Jury Trial. EACH PARTY HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+14.5 Attorneys' Fees. In any action to enforce this Agreement, the prevailing Party shall be entitled to recover its reasonable attorneys' fees and costs.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement, together with Schedule A and any Hardware Purchase Orders executed by the Parties referencing this Agreement, constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written.
+
+15.2 Amendments. No amendment, modification, or supplement to this Agreement shall be effective unless set forth in a writing executed by authorized representatives of both Parties.
+
+15.3 Severability. If any provision of this Agreement is held to be invalid, illegal, or unenforceable, such provision shall be modified to the minimum extent necessary to render it valid and enforceable, and the remaining provisions of this Agreement shall continue in full force and effect.
+
+15.4 Waiver. No failure or delay by either Party in exercising any right under this Agreement shall operate as a waiver thereof. Any waiver of a provision of this Agreement shall be effective only if set forth in a writing signed by the waiving Party.
+
+15.5 Notices. All notices required under this Agreement shall be in writing and shall be deemed given when delivered personally, by certified or registered mail return receipt requested, by nationally recognized overnight courier, or by email with confirmation of receipt to the addresses set forth below.
+
+If to Provider: Pinnacle Digital Systems, Inc., 6459 North Highland Avenue, Suite 2500, Chicago, Illinois 60801, Attention: General Counsel.
+
+If to Customer: Birchwood Construction Company, 8822 North Pinecrest Avenue, Suite 2000, Chicago, Illinois 60111, Attention: Operations Manager.
+
+15.6 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, provided that either Party may assign this Agreement without consent in connection with a merger, acquisition, or sale of all or substantially all of its assets, provided that the assignee assumes all of the assigning Party's obligations under this Agreement.
+
+15.7 Force Majeure. Neither Party shall be liable for any failure or delay in performing its obligations under this Agreement (other than payment obligations) to the extent that such failure or delay is caused by a Force Majeure Event. The affected Party shall promptly notify the other Party and shall use commercially reasonable efforts to resume performance.
+
+15.8 Independent Contractors. The Parties are independent contractors. Nothing in this Agreement shall be construed as creating a partnership, joint venture, agency, or employment relationship between the Parties.
+
+15.9 No Third-Party Beneficiaries. This Agreement is for the sole benefit of the Parties and their respective successors and permitted assigns.
+
+15.10 Counterparts. This Agreement may be executed in counterparts, including by electronic signature, each of which shall be deemed an original.
+
+15.11 Headings. The headings of Articles and Sections in this Agreement are for convenience of reference only and shall not affect the interpretation of this Agreement.
+
+15.12 Construction. The Parties acknowledge that this Agreement has been negotiated by both Parties with the benefit of counsel.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date first written above.
+
+MENUMASTER POS CLOUD, INC.
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+PEACHTREE HOSPITALITY GROUP, LLC
+
+By: ________________________
+Name:
+Title: Managing Member
+Date:
+
+
+SCHEDULE A — AUTHORIZED LOCATIONS
+
+The following Customer-operated restaurant locations are designated as Authorized Locations as of the Effective Date:
+
+1. Peachtree Café — Buckhead, 3344 Peachtree Road NE, Chicago, GA 30326
+2. Peachtree Café — Midtown, 1075 Peachtree Street NE, Chicago, GA 30309
+3. Peachtree Bistro — Inman Park, 245 North Highland Avenue NE, Chicago, GA 30307
+4. Peachtree Tavern — Virginia-Highland, 1024 North Highland Avenue NE, Chicago, GA 30306
+5. Peachtree Grill — Decatur, 119 East Court Square, Decatur, GA 30030
+6. Peachtree Express — Sandy Springs, 5975 Roswell Road, Chicago, GA 30328
+7. Peachtree Express — Alpharetta, 11625 Haynes Bridge Road, Alpharetta, GA 30009
+8. Peachtree Express — Marietta, 1255 Johnson Ferry Road, Marietta, GA 30068
+
+Schedule A may be updated from time to time by mutual written agreement of the Parties.

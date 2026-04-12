@@ -1,0 +1,15 @@
+{
+  "source_template": "SYNTHETIC_BuildKit_Cloud__Inc__smb_04.txt",
+  "variation_index": 5,
+  "substitutions": {
+    "PROVIDER_NAME": "Zenith Platform Holdings, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_NAME": "Forge Industrial Holdings Inc.",
+    "CUSTOMER_STATE": "Delaware",
+    "VENUE_CITY": "Wilmington",
+    "ANNUAL_FEE_AMOUNT": "Forty-Eight Thousand United States Dollars ($48,000)",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)"
+  }
+}

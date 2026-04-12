@@ -1,0 +1,242 @@
+Statement of Work — Security Awareness Training Rollout (Per-Seat)
+
+Project: {{PROJECT_NAME}}
+Provider: {{PROVIDER_NAME}}
+Customer: {{CUSTOMER_NAME}}
+SOW Effective Date: {{EFFECTIVE_DATE}}
+
+By clicking "I agree" or by signing this Statement of Work (the "SOW"), the Customer and the Provider agree to the terms below. This SOW operates under the Provider's Master Subscription Agreement dated {{MSA_EFFECTIVE_DATE}} (the "MSA"). Capitalized terms not defined here have the meanings in the MSA. This SOW is the Provider's standard click-through professional services SOW for self-serve security-awareness-training rollouts. It is delivered through the Provider's customer portal.
+
+This is the Provider's standard offering. Out-of-scope requests are routed to the Provider's custom services team under a separate SOW.
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 What you're getting
+
+The Provider is a security awareness training vendor. The Customer has purchased the Provider's per-seat subscription. This SOW covers the Provider's standard rollout services to get the Customer's employees enrolled, the Customer's training campaigns scheduled, the Customer's reporting dashboard configured, and the Customer's first phishing simulation launched.
+
+This is a standard click-through rollout. It is NOT custom consulting. The Provider's standard rollout playbook applies.
+
+1.2 What's in scope
+
+(a) Customer tenant provisioning on the Provider's training platform.
+
+(b) Single sign-on (SSO) configuration with one (1) supported identity provider (Okta, Google Workspace, Microsoft 365 / Azure AD — see Schedule A).
+
+(c) Bulk import of the Customer's employee roster from the SSO provider, with department and manager attribution.
+
+(d) Standard training campaign assignment using the Provider's pre-built training paths (Annual Security Awareness, Onboarding, Compliance Refresher).
+
+(e) Configuration of the Customer's reporting dashboard.
+
+(f) Launch of the Customer's first phishing simulation campaign using the Provider's standard phishing template library.
+
+(g) One (1) live "rollout best practices" session (45 minutes, remote).
+
+(h) Self-service access to the Provider's customer success knowledge base.
+
+1.3 What's NOT in scope
+
+(a) Anything beyond the standard rollout playbook.
+
+(b) Custom training content development. The Customer uses the Provider's pre-built training library.
+
+(c) Custom phishing template development. The Customer uses the Provider's pre-built phishing template library.
+
+(d) Integration with any HR information system or LMS beyond the SSO provider's directory sync.
+
+(e) Integration with any SIEM, SOAR, or security orchestration platform beyond the Provider's standard webhook events.
+
+(f) Custom reporting beyond the Provider's standard reporting dashboard.
+
+(g) Compliance attestation, audit support, or third-party risk management questionnaire response.
+
+(h) Any work performed outside the engagement period.
+
+(i) Any seat count above the Customer's per-seat subscription cap.
+
+1.4 Engagement period
+
+Start: {{PROJECT_START_DATE}}. End: {{PROJECT_END_DATE}}. The Engagement Period is approximately 3 weeks.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables
+
+(a) Tenant Provisioning Confirmation — confirmation that the Customer's tenant is provisioned on the Provider's platform. Delivered: end of Project Week 1.
+
+(b) SSO Integration Confirmation — confirmation that SSO with the Customer's identity provider is functional and the employee roster is imported. Delivered: end of Project Week 1.
+
+(c) Training Campaign Assignment Confirmation — confirmation that the standard training campaigns are assigned to the imported employees. Delivered: end of Project Week 2.
+
+(d) Reporting Dashboard Configuration Confirmation — confirmation that the standard reporting dashboard is configured. Delivered: end of Project Week 2.
+
+(e) First Phishing Simulation Launch Confirmation — confirmation that the first phishing simulation has been launched. Delivered: end of Project Week 3.
+
+(f) Rollout Best Practices Session — 45-minute remote session conducted with the Customer's security or HR team. Delivered: end of Project Week 3.
+
+2.2 Acceptance
+
+Each Deliverable is automatically accepted upon delivery via the Customer portal unless the Customer raises a written objection within three (3) business days. The objection must specifically identify why the Deliverable does not match what is described in Article 2.1.
+
+2.3 Cure
+
+If the Customer raises a valid objection, the Provider's rollout team will fix the issue within three (3) business days at no additional charge. The fix is bounded by what is described in Article 2.1.
+
+2.4 No refunds for completed Deliverables
+
+Deliverables that have been accepted (or deemed accepted under Section 2.2) are not subject to refund regardless of subsequent events.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project window
+
+Start: {{PROJECT_START_DATE}}. Substantial completion: {{PROJECT_END_DATE}}.
+
+3.2 Milestones
+
+(a) M1 — Tenant Provisioning and SSO Integration Confirmed (Week 1)
+
+(b) M2 — Training Campaign Assignment and Reporting Dashboard Configured (Week 2)
+
+(c) M3 — First Phishing Simulation Launched and Rollout Best Practices Session Complete (Week 3)
+
+3.3 Status updates
+
+The Customer can see real-time rollout progress in the Customer portal. The Provider does not deliver separate written status reports.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Rollout team
+
+The Provider assigns the next available rollout specialist from its standard rotation. The Customer cannot request specific individuals or require any named specialist to remain on the engagement throughout. The Provider's rollout team is fungible.
+
+4.2 No background checks beyond standard
+
+The Provider's rollout team has completed the Provider's standard background checks. No additional background checks are required for this rollout.
+
+4.3 Removal of personnel
+
+The Customer may request a different specialist via the Customer portal; the Provider will assign a different specialist within five (5) business days.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 What the Provider needs from the Customer
+
+(a) Designate one Customer point of contact (typically the Customer's IT or security administrator).
+
+(b) Provide SSO administrator access for the integration setup (see the SSO setup guide in the Customer portal).
+
+(c) Confirm the Customer's training campaign preferences via the rollout wizard.
+
+(d) Confirm the Customer's first phishing simulation parameters (template, target group, send window).
+
+(e) Show up to the rollout best practices session.
+
+(f) Respond to rollout-team messages in the Customer portal within 2 business days.
+
+5.2 Accuracy
+
+The Customer is responsible for the accuracy of the SSO configuration and the employee directory data. Errors caused by inaccurate Customer data or misconfigured SSO are not the Provider's responsibility.
+
+5.3 Customer delays
+
+If the Customer is more than 5 business days late on the rollout wizard or the SSO configuration, the Project End Date moves out by the same number of days. The Provider may charge the Customer at the Provider's standard re-engagement fee if the rollout is delayed more than 15 cumulative business days.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions
+
+(a) The Customer uses one of the supported identity providers (Schedule A) and is on a current/supported version.
+
+(b) The Customer has purchased a per-seat subscription with seats sufficient for the Customer's employee population. Additional seats above the subscription cap are billable.
+
+(c) The Customer's employee directory in the identity provider is reasonably clean (employees have valid email addresses, valid manager/department attributes).
+
+(d) The Customer's employees are willing and able to receive training emails and phishing simulation emails on their corporate email accounts.
+
+(e) The Customer has the legal right to assign mandatory security awareness training to its employees (this is uncontroversial in most jurisdictions but the Customer should confirm under any applicable works council or labor law obligations).
+
+(f) The Customer's email infrastructure does not block the Provider's training emails or phishing simulation emails (the Provider provides the IP allowlisting guide in the Customer portal).
+
+6.2 Third-party dependencies
+
+The Project depends on (a) the Customer's identity provider being accessible, and (b) the Provider's training platform being operational.
+
+6.3 If an assumption is wrong
+
+The Provider notifies the Customer through the Customer portal.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Fixed rollout fee plus per-seat product subscription
+
+The fixed rollout fee for this SOW is {{SOW_FEE_AMOUNT}}. This is a one-time fee for the standard rollout services described in Article 1.2.
+
+7.2 Per-seat product subscription
+
+The Customer's ongoing per-seat product subscription is paid separately to the Provider under the MSA on the per-seat pricing in the MSA. This SOW does not cover the product subscription fee.
+
+7.3 Payment
+
+The rollout fee is charged to the Customer's payment method on file at the start of the Engagement Period. By signing this SOW or clicking "I agree", the Customer authorizes the charge.
+
+7.4 No refunds
+
+The rollout fee is non-refundable. If the Customer terminates the engagement early or fails to complete the rollout, the fee is still due in full. This rule reflects the Provider's standard pricing for self-serve professional services.
+
+7.5 Standard re-engagement fee
+
+If the rollout is delayed by Customer-side issues for more than 15 cumulative business days, the Provider may charge a re-engagement fee at the Provider's standard rate to remobilize the rollout team.
+
+7.6 Expenses
+
+There are no reimbursable expenses for this remote engagement. Any out-of-scope request that would create expenses requires pre-approval per Section 8 and would be billed at cost subject to the Customer pre-approving any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}}.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Out-of-scope requests
+
+If the Customer wants something out-of-scope under Section 1.3, the Customer submits a Change Request through the Customer portal. The Provider has no obligation to accept any out-of-scope request. Most out-of-scope requests are better handled by the Provider's custom professional services team under a separate SOW.
+
+8.2 Standard Change Order pricing
+
+If the Provider accepts an out-of-scope request, the Provider's standard professional services pricing applies. By submitting a Change Request and the Provider accepting it, the Customer agrees to the Provider's standard rates.
+
+8.3 De minimis
+
+Tiny tweaks (less than {{CHANGE_ORDER_THRESHOLD}}) are handled by the rollout team via the Customer portal without a formal Change Order.
+
+8.4 No oral changes
+
+Changes are made via the Customer portal.
+
+ARTICLE 9 — INCORPORATION OF MASTER SUBSCRIPTION AGREEMENT
+
+9.1 The MSA controls
+
+This SOW is part of the MSA. All MSA terms apply (privacy, data security, IP, indemnification, liability cap, governing law, dispute resolution). Where this SOW conflicts with the MSA, the MSA wins, except for the project-specific commercial terms in this SOW (the rollout fee, the schedule, the deliverables, the acceptance terms).
+
+9.2 Provider IP retention
+
+All training content, phishing templates, reporting dashboards, and the underlying training platform remain the exclusive property of the Provider. The Customer obtains only the use rights granted in the MSA.
+
+9.3 Termination
+
+Termination is governed by the MSA. The Customer may terminate at any time, but the rollout fee is non-refundable per Section 7.4. The Provider may terminate at any time on ten (10) days' written notice if the Customer is in material breach.
+
+By signing below or clicking "I agree" in the Customer portal, the Customer agrees to this SOW.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+Or accepted via the Customer portal on the SOW Effective Date.

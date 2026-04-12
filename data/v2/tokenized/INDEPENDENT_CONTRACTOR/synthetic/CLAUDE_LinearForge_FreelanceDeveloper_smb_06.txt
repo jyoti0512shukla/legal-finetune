@@ -1,0 +1,143 @@
+Independent Contractor Agreement — Freelance Software Developer
+
+Company: {{PROVIDER_NAME}} ({{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}}, {{PROVIDER_ADDRESS}})
+Developer: {{CUSTOMER_NAME}}, individual at {{CUSTOMER_ADDRESS}}
+Effective Date: {{EFFECTIVE_DATE}}
+
+This agreement engages the Developer as an independent contractor to write code for the Company. It's a standalone IC agreement — no parent agreement.
+
+ARTICLE 1 — ENGAGEMENT
+
+The Company is engaging the Developer to write software development services on a project-by-project basis. Each project will be specified in a Linear/Jira/GitHub Issues ticket or a written project brief signed by both parties, identifying the scope, deliverables, target completion date, and compensation.
+
+The Developer will use the Developer's own equipment, work from the Developer's own location, and determine the Developer's own work schedule. The Company's tech stack and code review process apply to the deliverables, but not to how or when the Developer writes the code.
+
+The Developer will perform the work personally. Subcontracting requires Company written consent.
+
+ARTICLE 2 — TERM AND TERMINATION
+
+This agreement starts on the Effective Date and continues until either party terminates it.
+
+Either party can terminate for convenience on {{IC_NOTICE_DAYS_CONVENIENCE}} days' written notice (email is fine).
+
+The Company can terminate immediately if the Developer materially breaches the agreement, fails to deliver work meeting professional standards, commits willful misconduct, or violates Article 5 (IP) or Article 7 (confidentiality).
+
+On termination: Developer delivers any in-progress code to the Company's repository, submits a final invoice, and surrenders any Company credentials.
+
+ARTICLE 3 — FEES, EXPENSES, AND COMPENSATION
+
+Fee structure: hourly. The Developer is paid at the hourly rate of {{IC_HOURLY_RATE}} per hour for time spent on Company work.
+
+Time tracking: the Developer logs hours in Linear (or whatever the Company uses) by the end of each business day. The Company can audit time logs.
+
+Invoicing: monthly, on the first business day of the month covering the prior month. Net 30 payment terms.
+
+Expense reimbursement: the Company reimburses the Developer for pre-approved expenses (third-party API costs, paid library licenses, GPU compute for training runs, etc.). Any expense over Two Hundred Fifty United States Dollars (US$250) needs written pre-approval.
+
+Cap: total spend in any calendar month is capped at the not-to-exceed amount stated in each project brief. The Developer must notify the Company if approaching the cap.
+
+ARTICLE 4 — INDEPENDENT CONTRACTOR RELATIONSHIP
+
+The Developer is an independent contractor, not an employee. No employer-employee relationship, no partnership, no joint venture, no agency.
+
+The Company will not withhold any taxes from the Developer's compensation. The Developer is responsible for all federal, state, and local income taxes, self-employment taxes, Social Security, and Medicare contributions.
+
+The Developer is not eligible for any Company employee benefits — no medical, dental, retirement, vacation, workers' compensation, or unemployment insurance.
+
+The Developer will provide a completed Form W-9 to the Company. The Company will report compensation on Form 1099-NEC.
+
+The Developer is free to work for other clients during this engagement, subject to the conflicts and restrictive covenants in Article 8.
+
+If the Developer fails to pay required taxes, or if any taxing authority claims the Developer should have been classified as an employee, the Developer indemnifies the Company against any resulting claims, taxes, penalties, interest, and attorneys' fees.
+
+ARTICLE 5 — WORK PRODUCT AND INTELLECTUAL PROPERTY
+
+All code, scripts, configuration files, documentation, designs, and other deliverables created by the Developer for the Company under this agreement are "Work Product" and belong to the Company.
+
+The Developer assigns all right, title, and interest in the Work Product to the Company at the time of creation. The Work Product is "work made for hire" under Section 101 of the U.S. Copyright Act to the maximum extent allowed; to the extent it doesn't qualify as work made for hire, the Developer assigns it to the Company.
+
+Background IP: the Developer retains all rights in any pre-existing libraries, frameworks, code snippets, and tools that the Developer created independently before or outside of Company engagements. The Developer grants the Company a non-exclusive, perpetual, royalty-free, worldwide license to use any Background IP that the Developer incorporates into the Work Product, solely as part of the Work Product.
+
+Open source: the Developer can use open source software in the Work Product, provided that (a) the Developer informs the Company of the open source components used, and (b) the open source license is compatible with the Company's open source policy (which the Company will share on request). The Developer will not introduce GPL or AGPL components into the Work Product without Company written consent.
+
+The Developer represents that the Work Product is original and does not infringe anyone else's IP rights.
+
+ARTICLE 6 — REPRESENTATIONS AND WARRANTIES
+
+The Developer represents and warrants that:
+
+(a) the Developer has the right to enter this agreement and perform the work,
+
+(b) the Developer is not subject to any agreement that would prevent the work,
+
+(c) the Work Product will be the Developer's original work,
+
+(d) the Work Product will not infringe any third-party IP, and
+
+(e) the Developer is properly classified as an independent contractor under applicable law.
+
+ARTICLE 7 — CONFIDENTIALITY
+
+The Developer will hold all Company Confidential Information in strict confidence during this engagement and after. Confidential Information includes the Company's source code, business plans, customer lists, pricing, financials, product roadmap, and anything else marked confidential or that would reasonably be understood as confidential.
+
+The Developer will not use Confidential Information for any purpose other than the work for the Company.
+
+On termination, the Developer will return all Confidential Information and delete all copies, except for items the Developer is legally required to retain.
+
+The Developer agrees that breach of this Article 7 would cause irreparable harm, and that the Company can seek injunctive relief without posting bond.
+
+ARTICLE 8 — RESTRICTIVE COVENANTS
+
+The Developer is free to work for other clients during this engagement, with these limits:
+
+The Developer will not work for direct competitors of the Company on competing products during this engagement.
+
+The Developer will not solicit Company employees or other Company contractors during this engagement and for six (6) months after termination.
+
+The Developer will not use any Company Confidential Information when doing work for other clients.
+
+The Developer will disclose any actual or potential conflict of interest to the Company in writing as soon as it arises.
+
+For the avoidance of doubt: there is no post-engagement non-compete. The Developer is free to work on any project, for any client, after this engagement ends, subject only to the surviving confidentiality and non-solicit obligations.
+
+ARTICLE 9 — INDEMNIFICATION AND LIABILITY
+
+The Developer indemnifies the Company against any claim that the Work Product infringes third-party IP (in addition to the tax indemnification in Article 4).
+
+The Developer's total liability under this agreement is capped at the total fees paid by the Company to the Developer in the prior twelve (12) months, except for tax indemnification, IP infringement indemnification, and willful misconduct (all uncapped).
+
+ARTICLE 10 — DISPUTE RESOLUTION AND GOVERNING LAW
+
+This agreement is governed by the laws of {{GOVERNING_LAW_STATE}}.
+
+Any dispute will be brought in the state or federal courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+The Company can seek injunctive relief in any court to enforce Articles 5 (IP), 7 (confidentiality), and 8 (restrictive covenants).
+
+Both parties waive the right to a jury trial.
+
+ARTICLE 11 — MISCELLANEOUS
+
+Entire agreement. This agreement (plus any project briefs) is the entire agreement between the parties.
+
+Amendment. Any amendment must be in writing signed by both parties (email counts).
+
+Assignment. The Developer cannot assign this agreement. The Company can assign to a successor.
+
+Survival. Articles 4 (IC relationship), 5 (IP), 6 (reps and warranties), 7 (confidentiality), 8 (restrictive covenants), 9 (indemnification), 10 (dispute resolution), and 11 (miscellaneous) survive termination.
+
+Counterparts. This agreement can be signed in counterparts (electronic signatures are fine).
+
+Signed by both parties as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+DEVELOPER: {{CUSTOMER_NAME}}
+
+Signature: _______________________________
+
+Date: _______________________________

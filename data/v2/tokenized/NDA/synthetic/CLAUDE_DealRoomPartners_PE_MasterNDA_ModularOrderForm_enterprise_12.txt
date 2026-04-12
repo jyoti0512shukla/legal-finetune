@@ -1,0 +1,144 @@
+MASTER NON-DISCLOSURE AGREEMENT WITH PER-DEAL CONFIDENTIALITY SCHEDULES
+
+THIS MASTER NON-DISCLOSURE AGREEMENT (this "Master Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date") between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} with its principal place of business at {{PROVIDER_ADDRESS}} (the "Sponsor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} with its principal place of business at {{CUSTOMER_ADDRESS}} (the "Bidder"). The Sponsor and the Bidder are each referred to herein as a "Party" and collectively as the "Parties."
+
+This Master Agreement is drafted as a framework. Its sole function is to establish the baseline confidentiality, use, return, and equitable-remedies terms that will apply to any and all deals in which the Sponsor shares non-public information with the Bidder. Each specific deal is activated by the execution of a Confidentiality Schedule that incorporates this Master Agreement and specifies the deal-specific parameters (Purpose, Designated Deal Team, data room rules, survival, standstill, non-solicit, and any deal-specific carve-outs). The Sponsor and the Bidder do not expect to renegotiate confidentiality from scratch for each deal; instead, each Confidentiality Schedule is a short, self-contained document that "plugs into" this Master Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants set forth herein, the Parties, intending to be legally bound, agree as follows:
+
+ARTICLE 1 — DEFINITIONS AND STRUCTURE
+
+1.1 "Confidentiality Schedule" means a written schedule executed by the Sponsor and the Bidder that incorporates this Master Agreement by reference and specifies: (a) the deal identifier and a description of the specific transaction to which the Schedule applies; (b) the Purpose for that deal (stated narrowly); (c) the Designated Deal Team for the Bidder; (d) the initial tier of data room access granted to the Bidder; (e) the Survival Period (in years); (f) any Standstill Period and scope; (g) any Non-Solicit Period and scope; and (h) any additional deal-specific carve-outs or restrictions (including clean-team protocols where applicable).
+
+1.2 "Deal" means any specific transaction described in an executed Confidentiality Schedule, including investment opportunities in portfolio companies, secondary transactions, continuation vehicles, co-investments, or other capital-markets transactions.
+
+1.3 "Confidential Information" means all non-public information disclosed by or on behalf of a Disclosing Party to a Receiving Party or any member of the Designated Deal Team in connection with any Deal, in whatever form or medium, whether written, oral, electronic, visual, or otherwise. Confidential Information includes, without limitation, (a) financial statements, management accounts, and projections; (b) portfolio company operational, commercial, and customer data; (c) market intelligence, sourcing strategies, and proprietary deal analyses; (d) pricing guidance, valuation ranges, and bid parameters; (e) the existence and status of the Deal and the identities of the parties involved; and (f) any materials posted to, or made available through, the shared data room.
+
+1.4 "Designated Deal Team" means, with respect to each Deal, the individuals identified in the applicable Confidentiality Schedule (by name, role, and, where applicable, access tier) who are authorized to access Confidential Information in connection with that Deal.
+
+1.5 "Disclosing Party" means, with respect to any item of Confidential Information, the Party (or an affiliate of such Party acting on its behalf) that disclosed such item. "Receiving Party" means the other Party.
+
+1.6 "Purpose" means, with respect to each Deal, the sole purpose specified in the applicable Confidentiality Schedule — typically, the Bidder's good-faith evaluation of, and potential participation in, the specific Deal.
+
+1.7 "Survival Period" means, with respect to each Deal, the period set forth in the applicable Confidentiality Schedule during which the confidentiality and non-use obligations of this Master Agreement continue to apply to Confidential Information disclosed in connection with that Deal. If a Confidentiality Schedule does not specify a Survival Period, the default Survival Period shall be three (3) years from the conclusion of the Deal.
+
+1.8 "Trade Secret" means any Confidential Information that qualifies as a trade secret under the Defend Trade Secrets Act of 2016 or the laws of the State of {{GOVERNING_LAW_STATE}} or any other applicable law.
+
+1.9 Order of Precedence. In the event of any conflict between this Master Agreement and a Confidentiality Schedule, the Confidentiality Schedule shall govern solely with respect to the Deal to which it applies.
+
+ARTICLE 2 — PURPOSE
+
+2.1 Narrow Purpose. The Receiving Party shall use Confidential Information disclosed in connection with each Deal solely for the Purpose specified in the applicable Confidentiality Schedule. Confidential Information disclosed in connection with one Deal shall not be used in connection with any other Deal, whether or not both Deals are active, without the express written consent of the Disclosing Party.
+
+2.2 No Competitive Use. The Receiving Party shall not use Confidential Information, directly or indirectly, to (a) make an investment in, or offer financing to, any competitor of the subject of the Deal without the Disclosing Party's consent, (b) solicit any portfolio company, customer, supplier, or employee of the Disclosing Party or any subject of a Deal, or (c) target the Disclosing Party or any subject of a Deal for any commercial opportunity unrelated to the Deal.
+
+2.3 No Reverse Engineering. The Receiving Party shall not reverse engineer, disassemble, or otherwise attempt to derive the composition, structure, or methods of operation of any tangible item of Confidential Information, including any proprietary model, dataset, or software made available for inspection in connection with a Deal.
+
+ARTICLE 3 — CONFIDENTIAL INFORMATION
+
+3.1 General Obligations. The Receiving Party shall: (a) hold all Confidential Information in strict confidence; (b) use Confidential Information solely for the Purpose of the applicable Deal; (c) disclose Confidential Information only to members of the Designated Deal Team for that Deal who have a need to know and who are bound by written obligations of confidentiality and non-use no less protective than those set forth in this Master Agreement; and (d) protect Confidential Information using at least the same degree of care that the Receiving Party uses to protect its own confidential information, but in no event less than a reasonable degree of care.
+
+3.2 Data Room Access Tiers. Access to Confidential Information through the shared data room shall be organized in tiers, as specified in each Confidentiality Schedule. The Sponsor may adjust the Bidder's access tier at any time in the Sponsor's sole discretion based on the status of the applicable Deal.
+
+3.3 Responsibility for the Deal Team. The Receiving Party shall be fully responsible for any breach of this Master Agreement or any Confidentiality Schedule by any member of the Designated Deal Team.
+
+3.4 Incident Reporting. The Receiving Party shall notify the Disclosing Party in writing within three (3) business days after becoming aware of any actual or suspected unauthorized use, disclosure, loss, or exposure of Confidential Information, identifying the affected Deal and the nature of the incident, and shall cooperate reasonably with the Disclosing Party's investigation.
+
+ARTICLE 4 — EXCLUSIONS FROM CONFIDENTIALITY
+
+4.1 Exclusions. The obligations set forth in Article 3 shall not apply to any information that the Receiving Party can demonstrate by competent written evidence: (a) was in the public domain at the time of disclosure or subsequently entered the public domain through no breach of this Master Agreement; (b) was in the Receiving Party's possession, free of any obligation of confidence, prior to disclosure; (c) was independently developed without use of or reference to Confidential Information; or (d) was rightfully received from a third party without any obligation of confidence to the Disclosing Party.
+
+4.2 No Aggregate Knowledge Defense. Confidential Information shall not be deemed to fall within any of the exclusions in Section 4.1 merely because individual features of the information are in the public domain or in the Receiving Party's possession, unless the specific combination itself and its principle of operation were in the public domain or lawfully held by the Receiving Party.
+
+ARTICLE 5 — COMPELLED DISCLOSURE
+
+5.1 Legal Process. In the event that the Receiving Party is requested or required by any court, governmental authority, regulator, or other legal process to disclose Confidential Information, the Receiving Party shall promptly, and to the extent legally permissible, provide the Disclosing Party with written notice so the Disclosing Party may seek a protective order or other appropriate remedy at the Disclosing Party's sole cost, or waive compliance with this Master Agreement with respect to such disclosure.
+
+5.2 Limitation. If a protective order is not obtained and the Disclosing Party does not waive compliance, the Receiving Party may disclose only that portion of Confidential Information that its outside legal counsel advises is legally required to be disclosed, shall continue to treat non-disclosed portions as confidential, and shall use commercially reasonable efforts to obtain confidential treatment.
+
+5.3 Anti-Tipping Acknowledgment. The Parties acknowledge that material non-public information relating to any Deal may constitute inside information under the U.S. federal securities laws, and each Party shall implement and maintain appropriate controls to prevent insider trading and selective disclosure. Each Party's internal compliance function shall treat Confidential Information received under this Master Agreement consistently with its internal insider trading and information barrier policies.
+
+ARTICLE 6 — RETURN OR DESTRUCTION
+
+6.1 Return on Deal Conclusion. Upon the conclusion of any Deal (including a decision by either Party not to proceed, the execution of definitive documentation for the Deal, or the Disclosing Party's written notice that the Deal has been terminated), or upon the Disclosing Party's written request at any time in its sole discretion, the Receiving Party shall, at the Disclosing Party's election, return or destroy all Confidential Information disclosed in connection with that Deal, together with all copies, extracts, and derivative materials, and shall certify such return or destruction in writing within ten (10) business days.
+
+6.2 Schedule-Specific Retention. Each Confidentiality Schedule may specify an alternative retention or destruction schedule for Confidential Information disclosed in connection with that Deal (for example, to accommodate regulatory, audit, or litigation-hold obligations).
+
+6.3 Retention Exceptions. The Receiving Party may retain (a) one archival copy of Confidential Information in the custody of its outside legal counsel solely for the purpose of establishing compliance with this Master Agreement and the applicable Confidentiality Schedule, and (b) Confidential Information contained in automatic, tamper-resistant system backups. Any retained Confidential Information shall remain subject to this Master Agreement for so long as it is retained.
+
+ARTICLE 7 — NO LICENSE OR OWNERSHIP TRANSFER
+
+7.1 Ownership Reserved. All Confidential Information shall remain the sole and exclusive property of the Disclosing Party. Nothing in this Master Agreement or any Confidentiality Schedule shall be construed as granting the Receiving Party, by implication, estoppel, or otherwise, any license or other right in any patent, copyright, trademark, trade secret, or other intellectual property right of the Disclosing Party.
+
+7.2 No Transaction Obligation. This Master Agreement does not obligate either Party to pursue any Deal, to execute any Confidentiality Schedule, or to enter into any definitive agreement. Each Deal shall be subject to a separate Confidentiality Schedule and, if it proceeds, separate definitive documentation.
+
+ARTICLE 8 — STANDSTILL AND NON-SOLICIT (PER SCHEDULE)
+
+8.1 Per-Deal Standstill. To the extent a Confidentiality Schedule specifies a Standstill Period, the Receiving Party shall not, during that Standstill Period and with respect to the subject of that Deal, (a) acquire or propose to acquire any equity interest or material assets of the subject of the Deal outside the scope of the Deal, (b) solicit proxies or participate in any control contest, or (c) seek to influence the management or policies of the subject of the Deal, except as expressly permitted by the Confidentiality Schedule or with the prior written consent of the Disclosing Party.
+
+8.2 Per-Deal Non-Solicit. To the extent a Confidentiality Schedule specifies a Non-Solicit Period, the Receiving Party shall not, during that Non-Solicit Period, directly or indirectly solicit for employment any employee of the Disclosing Party or of the subject of the Deal whom the Receiving Party first came to know in connection with the Deal, subject to customary general-solicitation carve-outs as set forth in the Confidentiality Schedule.
+
+ARTICLE 9 — TERM AND SURVIVAL
+
+9.1 Term. This Master Agreement shall commence on the Effective Date and shall continue in full force and effect for a period of {{TERM_YEARS}} years thereafter, and shall automatically renew for successive one-year periods thereafter unless either Party provides {{NOTICE_DAYS}} days' prior written notice of non-renewal.
+
+9.2 Survival. Notwithstanding any expiration or termination of this Master Agreement or any Confidentiality Schedule, the Receiving Party's obligations of confidentiality and non-use with respect to Confidential Information disclosed in connection with each Deal shall survive for the Survival Period specified in the applicable Confidentiality Schedule (or, if none is specified, for the default Survival Period of three (3) years from the conclusion of the Deal). With respect to any Confidential Information that constitutes a Trade Secret, the obligations shall survive for so long as the information qualifies as a Trade Secret under applicable law.
+
+9.3 Termination of a Specific Schedule. Either Party may terminate a specific Confidentiality Schedule on written notice to the other Party in the event of a material breach by the other Party that is not cured within {{NOTICE_DAYS}} days of written notice.
+
+ARTICLE 10 — EQUITABLE REMEDIES
+
+10.1 Irreparable Harm. Each Party acknowledges that Confidential Information is of a special, unique, and extraordinary character, and that any breach of this Master Agreement or any Confidentiality Schedule may cause the Disclosing Party irreparable harm for which monetary damages would be an inadequate remedy.
+
+10.2 Injunctive Relief. The Disclosing Party shall be entitled, in addition to any other remedies available at law or in equity, to seek specific performance, injunctive relief, and other equitable relief in any court of competent jurisdiction, without the necessity of posting a bond or other security and without the necessity of proving actual damages.
+
+10.3 Cumulative Remedies. The rights and remedies of the Parties under this Master Agreement are cumulative and in addition to, and not in lieu of, any other rights and remedies available to the Parties at law or in equity.
+
+ARTICLE 11 — GENERAL PROVISIONS
+
+11.1 Governing Law. This Master Agreement and all Confidentiality Schedules shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to conflict of laws principles.
+
+11.2 Venue. Each Party irrevocably submits to the exclusive jurisdiction of the state and federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, for any dispute arising out of or relating to this Master Agreement or any Confidentiality Schedule.
+
+11.3 Entire Agreement. This Master Agreement, together with each executed Confidentiality Schedule, constitutes the entire agreement between the Parties with respect to the subject matter hereof.
+
+11.4 Amendments. No amendment of this Master Agreement shall be effective unless in writing and signed by both Parties. Confidentiality Schedules may be executed from time to time without amending this Master Agreement.
+
+11.5 Assignment. Neither Party may assign this Master Agreement or any Confidentiality Schedule without the prior written consent of the other Party, except that a Party may assign this Master Agreement to an affiliate or in connection with a corporate transaction.
+
+11.6 Severability. If any provision of this Master Agreement is held invalid, the remaining provisions shall continue in full force and effect.
+
+11.7 Counterparts. This Master Agreement and any Confidentiality Schedule may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the Parties have caused this Master Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+— — —
+
+FORM OF CONFIDENTIALITY SCHEDULE
+
+Confidentiality Schedule No. [__], dated [date], executed under and incorporating by reference the Master Non-Disclosure Agreement dated {{EFFECTIVE_DATE}} between the Sponsor and the Bidder.
+
+(a) Deal Identifier and Description: [project code name and one-line description]
+(b) Purpose (stated narrowly): [e.g., "the Bidder's good-faith evaluation of, and potential participation in, a secondary transaction involving the Sponsor's investment in [portfolio company]"]
+(c) Designated Deal Team: [named individuals, role, access tier]
+(d) Data Room Access Tier: [Tier 1 / Tier 2 / Clean Team as applicable]
+(e) Survival Period: [number of years] (default three (3) years if blank)
+(f) Standstill Period and Scope: [duration and subject, or "none"]
+(g) Non-Solicit Period and Scope: [duration and subject, or "none"]
+(h) Additional Carve-Outs or Restrictions: [clean-team protocol, competitively sensitive data redactions, or "none"]
+
+Agreed:
+{{PROVIDER_NAME}} ____________________
+{{CUSTOMER_NAME}} ____________________

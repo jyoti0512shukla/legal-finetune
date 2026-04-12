@@ -1,0 +1,116 @@
+STATEMENT OF WORK ORDER FORM — CONNECTED VEHICLE DATA PLATFORM
+
+This Statement of Work Order Form (this "Order Form" or "SOW") is dated {{EFFECTIVE_DATE}} and is issued under the Master Professional Services Agreement between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}}) (the "Vendor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} ({{CUSTOMER_ADDRESS}}) (the "Customer"), dated {{MSA_EFFECTIVE_DATE}} (the "MSA"). This Order Form is structured as a modular form. The MSA's framework terms apply by reference; the project-specific terms are in the Schedules.
+
+Project Name: {{PROJECT_NAME}}
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 Order Form Structure. This SOW Order Form is intentionally minimal. The substantive project terms are set forth in the Schedules. Where the Schedules conflict with the body of this Order Form, the Schedules control. Where this Order Form (including Schedules) conflicts with the MSA, the Order Form's project-specific commercial terms control as to this Engagement only.
+
+1.2 Project Description and Scope. The Vendor shall design, build, and deploy a connected-vehicle telemetry data platform that ingests, validates, and aggregates sensor data, diagnostic codes, and usage telemetry from the Customer's connected vehicle fleet, in accordance with Schedule 1 (Project Description and Scope). In-scope and out-of-scope activities are listed in Schedule 1.A and Schedule 1.B respectively.
+
+1.3 Vehicle Data Ownership Matrix. The data ownership rules for the connected-vehicle data ingested under this Project are set forth in the Vehicle Data Ownership Matrix attached as Schedule 1.C. The Matrix establishes which categories of data are owned by the Customer (the Vendor having no rights of use), which are jointly held (with usage rights as specified), and which (if any) the Vendor may use for its own platform development purposes. The Matrix shall be construed strictly in the Customer's favor; any data not expressly classified as joint or Vendor-usable shall be deemed Customer-owned with no Vendor usage rights.
+
+1.4 Order of Precedence Within Order Form. Schedule 1 (including the Vehicle Data Ownership Matrix in 1.C) controls over the other Schedules. Within the remaining Schedules, the order is: 2, 3, 4, 5, 6, 7, 8.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables. The Deliverables are listed in Schedule 2 with target completion dates and acceptance criteria.
+
+2.2 Acceptance Period. Each Deliverable is subject to a fifteen (15) business day Acceptance Period.
+
+2.3 Cure of Non-Conformity. The Vendor shall correct any non-conformity within fifteen (15) business days at no additional charge. After two (2) cure cycles, the Customer may accept with an equitable Project Fee reduction or terminate this SOW for material breach.
+
+2.4 No Deemed Acceptance. There shall be no deemed acceptance.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project Window. The Project shall commence on {{PROJECT_START_DATE}} and shall be substantially complete by {{PROJECT_END_DATE}}.
+
+3.2 Milestones. Named milestones with target completion dates and inter-milestone dependencies are set forth in Schedule 3.
+
+3.3 Status Reporting and Schedule Slippage. The Vendor shall deliver weekly written status reports. The Vendor shall promptly notify the Customer of any actual or anticipated milestone slippage exceeding five (5) business days, together with a remediation plan.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named Key Personnel. The Vendor shall assign the Key Personnel named in Schedule 4. The Vendor shall not replace any Key Personnel without the Customer's prior written consent.
+
+4.2 Background Checks. All Vendor personnel shall complete the background checks required by the MSA prior to receiving any access to Customer systems or vehicle telemetry data.
+
+4.3 Removal of Personnel. The Customer may at any time and without cause request that the Vendor remove any individual; the Vendor shall comply within ten (10) business days.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 Customer Responsibilities. The Customer's responsibilities — designated personnel, access to vehicle telemetry sources, access to vehicle data dictionaries, review and approval cadence — are set forth in Schedule 5.
+
+5.2 Customer Delays. If the Customer fails to satisfy its responsibilities, the Vendor shall be entitled to schedule extensions and reasonable cost recovery as set forth in Schedule 5.A.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions. The In-Scope Activities, the Project Schedule, and the Project Fee are based on the Assumptions in Schedule 6, including assumptions about the volume of vehicle telemetry data, the stability of the in-vehicle data interfaces, and the Customer's existing data infrastructure.
+
+6.2 Third-Party Dependencies. Third-party dependencies are listed in Schedule 6.A, including the Customer's vehicle telemetry communication providers and the Customer's cloud platform provider.
+
+6.3 Notification of Changed Assumptions. Each Party shall promptly notify the other in writing if it becomes aware that any Assumption has changed.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Project Fee. The Customer shall pay the Vendor a milestone-based Project Fee totaling {{SOW_FEE_AMOUNT}} for this Project, in accordance with the milestone payment schedule in Schedule 7.
+
+7.2 Pricing Structure. The Project Fee is structured as milestone-based payments, with each milestone payment earned upon Customer acceptance of the corresponding Deliverable.
+
+7.3 Expense Reimbursement. The Customer shall reimburse reasonable, documented out-of-pocket expenses subject to the Customer's vendor travel policy and pre-approval of any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}}.
+
+7.4 Invoicing. Invoices issued per Schedule 7 are due net 45.
+
+7.5 Disputed Invoices. The Customer shall pay the undisputed portion and notify the Vendor in writing of any dispute.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests. Either Party may at any time submit a written Change Request.
+
+8.2 Impact Assessment. The Vendor shall deliver an impact assessment within ten (10) business days.
+
+8.3 Change Order. Both Parties must sign a Change Order. No change to this SOW shall be effective unless documented in a signed Change Order.
+
+8.4 No Oral Modifications. Only a signed Change Order modifies this SOW.
+
+8.5 De Minimis. Changes that move the Project Fee by less than {{CHANGE_ORDER_THRESHOLD}} and don't move milestones may be confirmed by email between the named Project Managers.
+
+8.6 Continuing Performance. The Vendor continues performing the In-Scope Activities while a Change Request is being negotiated.
+
+ARTICLE 9 — INCORPORATION OF MASTER PROFESSIONAL SERVICES AGREEMENT
+
+9.1 Incorporation by Reference. This SOW Order Form is issued under and governed by the MSA. All MSA terms and conditions apply.
+
+9.2 Order of Precedence with MSA. The MSA controls except that the project-specific commercial terms in this Order Form (and its Schedules) and the Vehicle Data Ownership Matrix in Schedule 1.C control over any inconsistent provisions in the MSA, solely as applied to this Engagement.
+
+9.3 Connected Vehicle Data Privacy. The Vendor acknowledges that connected vehicle data may include personal information about vehicle owners and operators and shall be handled in accordance with the data privacy requirements of the MSA, the Customer's privacy policy, and applicable law (including the California Consumer Privacy Act and any state-specific connected vehicle laws). The Vendor shall not use connected vehicle data for any purpose not expressly authorized by the Vehicle Data Ownership Matrix in Schedule 1.C.
+
+9.4 Termination. Termination is governed by the MSA.
+
+SCHEDULES
+
+Schedule 1 — Project Description and Scope (1.A In-Scope, 1.B Out-of-Scope, 1.C Vehicle Data Ownership Matrix)
+Schedule 2 — Deliverables and Acceptance Criteria
+Schedule 3 — Project Schedule and Milestones
+Schedule 4 — Key Personnel and Allocations
+Schedule 5 — Client Responsibilities
+Schedule 6 — Assumptions and Dependencies
+Schedule 7 — Fees and Milestone Payment Schedule
+Schedule 8 — Change Control Procedures
+
+SIGNED AS OF {{EFFECTIVE_DATE}}.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

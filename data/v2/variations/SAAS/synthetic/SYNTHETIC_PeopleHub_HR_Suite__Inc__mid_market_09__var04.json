@@ -1,0 +1,15 @@
+{
+  "source_template": "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09.txt",
+  "variation_index": 4,
+  "substitutions": {
+    "PROVIDER_NAME": "Meridian SaaS Holdings, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "limited liability company",
+    "CUSTOMER_NAME": "Granite State Banking Corp.",
+    "CUSTOMER_ENTITY_TYPE": "Delaware corporation",
+    "VENUE_CITY": "Austin",
+    "ANNUAL_FEE_AMOUNT": "One Hundred Eighty Thousand United States Dollars ($180,000)",
+    "TERM_YEARS": "one (1)",
+    "LIABILITY_CAP_MONTHS": "thirty-six (36)"
+  }
+}

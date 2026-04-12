@@ -1,0 +1,14 @@
+{
+  "source_template": "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08.txt",
+  "variation_index": 1,
+  "substitutions": {
+    "PROVIDER_NAME": "Acuity Software Group, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_NAME": "Coastal Maritime Holdings, Inc.",
+    "CUSTOMER_STATE": "Minnesota",
+    "GOVERNING_LAW_STATE": "Minnesota",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)"
+  }
+}

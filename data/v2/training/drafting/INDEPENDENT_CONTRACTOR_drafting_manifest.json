@@ -1,0 +1,343 @@
+{
+  "type": "INDEPENDENT_CONTRACTOR",
+  "task": "drafting",
+  "total_examples": 125,
+  "total_contracts": 25,
+  "per_clause_type_counts": {
+    "ic_engagement": 25,
+    "ic_compensation": 25,
+    "ic_classification": 25,
+    "confidentiality": 25,
+    "ic_termination": 15,
+    "ic_intellectual_property": 8,
+    "indemnification": 1,
+    "ic_restrictive_covenants": 1
+  },
+  "contracts": [
+    {
+      "template": "CLAUDE_AeroVantage_DefenseConsultant_enterprise_16",
+      "industry": "defense_services",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_AtlanticBank_VendorConsultant_enterprise_13",
+      "industry": "financial_services_vendor",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_BeaconBrand_FractionalCMO_mid_market_09",
+      "industry": "fractional_executive",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_intellectual_property"
+      ]
+    },
+    {
+      "template": "CLAUDE_BeaconLitigation_DamagesExpertOrderForm_mid_market_20",
+      "industry": "litigation_expert",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_BeaconLitigation_ExpertWitness_mid_market_04",
+      "industry": "litigation_expert",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_GigPlatform_PlatformICClickthrough_smb_25",
+      "industry": "gig_economy_platform",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "indemnification"
+      ]
+    },
+    {
+      "template": "CLAUDE_GlideCut_FreelanceVideoEditor_smb_11",
+      "industry": "creative_services",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_GlobalReach_InternationalConsultant_W8BEN_mid_market_23",
+      "industry": "international_consulting",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_GoldenStateGig_AB5Compliant_smb_21",
+      "industry": "creative_services",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_restrictive_covenants"
+      ]
+    },
+    {
+      "template": "CLAUDE_LedgerLight_FractionalCFO_smb_08",
+      "industry": "fractional_executive",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_intellectual_property"
+      ]
+    },
+    {
+      "template": "CLAUDE_LinearForge_FreelanceDeveloper_smb_06",
+      "industry": "software_development",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_intellectual_property"
+      ]
+    },
+    {
+      "template": "CLAUDE_MercyHealth_HealthcareConsultant_enterprise_15",
+      "industry": "healthcare_services",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_NYFreelance_FreelanceIsntFreeAct_smb_22",
+      "industry": "creative_services",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_intellectual_property"
+      ]
+    },
+    {
+      "template": "CLAUDE_NimbleStudio_FreelanceDesigner_smb_05",
+      "industry": "creative_services",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_intellectual_property"
+      ]
+    },
+    {
+      "template": "CLAUDE_NorthArc_MarketingConsultant_smb_07",
+      "industry": "marketing_services",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_intellectual_property"
+      ]
+    },
+    {
+      "template": "CLAUDE_NovaPharma_PharmaConsultant_enterprise_17",
+      "industry": "pharmaceutical_services",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_PinnaclePartners_PEStrategyConsult_enterprise_02",
+      "industry": "strategy_consulting",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_intellectual_property"
+      ]
+    },
+    {
+      "template": "CLAUDE_PodPilot_PodcastProducer_smb_12",
+      "industry": "creative_services",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_ProDexStyle_OutgoingCEO_TransitionConsult_enterprise_01",
+      "industry": "executive_transition_advisory",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_RemoteOps_VirtualAssistant_smb_10",
+      "industry": "administrative_services",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_intellectual_property"
+      ]
+    },
+    {
+      "template": "CLAUDE_StarUniversity_AcademicResearcher_mid_market_18",
+      "industry": "academic_consulting",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_StateMHA_GovContractor_enterprise_14",
+      "industry": "government_services",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_VertexAI_BoardAdvisorOrderForm_enterprise_19",
+      "industry": "advisory_board",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_VertexAI_InterimCFO_PreIPO_enterprise_03",
+      "industry": "interim_executive",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    },
+    {
+      "template": "CLAUDE_WeekendDev_SideHustleMoonlighter_smb_24",
+      "industry": "software_development",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "ic_engagement",
+        "ic_compensation",
+        "ic_classification",
+        "confidentiality",
+        "ic_termination"
+      ]
+    }
+  ]
+}

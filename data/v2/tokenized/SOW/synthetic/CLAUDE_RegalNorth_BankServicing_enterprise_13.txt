@@ -1,0 +1,201 @@
+STATEMENT OF WORK NO. 7 — CORE BANKING SERVICING TECHNOLOGY ENGAGEMENT
+
+This Statement of Work No. 7 (this "SOW") is entered into as of {{EFFECTIVE_DATE}} (the "SOW Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Service Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Bank"). The Bank and the Service Provider are collectively the "Parties." This SOW is the Bank's standard form of engagement and shall be governed by the Bank's negotiated terms set forth herein.
+
+This SOW is issued pursuant to and is governed by the Master Services Agreement between the Parties dated {{MSA_EFFECTIVE_DATE}} (the "MSA"). All capitalized terms used but not defined in this SOW have the meanings given to them in the MSA. In the event of any conflict between this SOW and the MSA, the MSA shall control except with respect to commercial terms expressly set forth in this SOW (including the Project Fee, the Project Schedule, the Acceptance Criteria, the regulatory examination cooperation provisions, and the Bank's elevated personnel requirements), which shall control as to this Engagement only and only in the Bank's favor.
+
+The project described in this SOW is referred to as the "{{PROJECT_NAME}}" or the "Project."
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 Project Objectives. The Bank has engaged the Service Provider to provide professional services in connection with the modernization and ongoing maintenance of the Bank's core deposit servicing platform, including (a) extending the Bank's existing servicing platform to support a new high-yield deposit product, (b) building integration interfaces between the platform and the Bank's enterprise data warehouse for regulatory and management reporting, (c) implementing operational dashboards for the Bank's deposit operations team, and (d) supporting the Bank's regulatory examinations as they pertain to the work performed under this SOW.
+
+1.2 In-Scope Activities. Subject to the Bank's Assumptions in Article 6 and the regulatory requirements applicable to the Bank, the Service Provider shall perform the following In-Scope Activities:
+
+(a) Discovery and design sessions for the new high-yield deposit product, leading to a written Detailed Design Document.
+
+(b) Development and unit testing of the high-yield deposit product configuration in the Bank's existing core servicing platform.
+
+(c) Development of the integration interfaces between the servicing platform and the Bank's enterprise data warehouse.
+
+(d) Development of three (3) operational dashboards for the Bank's deposit operations team in the Bank's standard BI tooling.
+
+(e) Cooperation with the Bank's User Acceptance Testing organization, including issue triage and remediation during the UAT period.
+
+(f) Production cutover support for the new product launch under the Bank's change-management procedures.
+
+(g) Cooperation with the Bank's regulatory examiners and the Bank's internal audit organization during any examination, review, or audit that pertains to the work performed under this SOW.
+
+1.3 Out-of-Scope Activities. The following are out-of-scope under this SOW. Any of the following, if requested by the Bank, requires a Change Order under Article 8:
+
+(a) Modifications to the Bank's enterprise data warehouse beyond the integration interfaces described in Section 1.2(c).
+
+(b) Modifications to the Bank's BI tooling beyond the three operational dashboards in Section 1.2(d).
+
+(c) Servicing of customer-facing channels (online banking, mobile banking, IVR). Channel work is performed by separate vendors.
+
+(d) Customer notifications, marketing communications, or rate-disclosure document generation. The Bank's marketing organization handles these.
+
+(e) Any work product that would be subject to U.S. export-control restrictions other than EAR99 commercial software.
+
+(f) Any work product that would constitute legal advice, regulatory advice, or accounting advice.
+
+1.4 Engagement Period. The Service Provider shall perform the In-Scope Activities during the period beginning on the Project Start Date and ending on the Project End Date set forth in Article 3.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables. The Service Provider shall produce and deliver to the Bank the following deliverables (each a "Deliverable" and collectively the "Deliverables"), each in form and substance reasonably acceptable to the Bank:
+
+(a) Detailed Design Document for the new high-yield deposit product. Target delivery: end of Project Week 6.
+
+(b) Test-Environment Configuration of the new product in the Bank's UAT environment. Target delivery: end of Project Week 14.
+
+(c) Integration Interfaces (servicing platform to enterprise data warehouse) deployed to the Bank's UAT environment. Target delivery: end of Project Week 18.
+
+(d) Operational Dashboards (three dashboards) deployed to the Bank's UAT environment. Target delivery: end of Project Week 20.
+
+(e) UAT Issue Resolution Log documenting each issue raised during the Bank's UAT cycle and the resolution status. Target delivery: weekly during the UAT period.
+
+(f) Production Cutover Implementation supporting the Bank's go-live for the new product. Target delivery: end of Project Week 24.
+
+(g) Production Cutover Report documenting the cutover, any incidents, and the post-cutover validation results. Target delivery: end of Project Week 25.
+
+(h) Examination Cooperation Records — written records of any cooperation provided to the Bank's regulatory examiners or internal auditors, retained for the longer of seven (7) years or as required by the Bank's records retention policy.
+
+2.2 Acceptance Criteria. Acceptance criteria for each Deliverable are set forth in Schedule A. The Bank reserves the sole right to determine whether each Deliverable satisfies the acceptance criteria. The Bank shall not unreasonably withhold acceptance, but the Bank's determination of conformity is final, subject only to the dispute resolution procedure in the MSA.
+
+2.3 Acceptance Period. The Bank shall have a period of fifteen (15) business days following its receipt of each Deliverable (the "Acceptance Period") to review the Deliverable and notify the Service Provider in writing of either (a) the Bank's acceptance of the Deliverable, or (b) the Bank's rejection of the Deliverable, accompanied by a written description of the alleged non-conformity. If the Deliverable involves a system that touches Nonpublic Personal Information (NPI), the Acceptance Period shall be extended to twenty (20) business days to accommodate the Bank's security review.
+
+2.4 Cure of Non-Conformity. If the Bank rejects a Deliverable, the Service Provider shall, at no additional charge to the Bank, correct the alleged non-conformity and resubmit the corrected Deliverable to the Bank within fifteen (15) business days of receipt of the Bank's rejection notice. The Bank shall then have a new Acceptance Period to review the resubmitted Deliverable. If the Service Provider fails to deliver a conforming Deliverable after two (2) cycles of cure, the Bank may, at the Bank's sole option, (i) accept the Deliverable in its then-current form with an equitable reduction in the Project Fee attributable to such Deliverable as the Bank shall reasonably determine, (ii) terminate this SOW for material breach pursuant to the termination provisions of the MSA and recover any portion of the Project Fee paid for the rejected Deliverable, or (iii) require the Service Provider to engage at the Service Provider's expense a third-party developer reasonably acceptable to the Bank to complete the rejected Deliverable.
+
+2.5 No Deemed Acceptance. There shall be no deemed acceptance of any Deliverable. Notwithstanding the passage of time, no Deliverable shall be deemed accepted unless the Bank has affirmatively accepted such Deliverable in writing. The Bank's silence shall not constitute acceptance under any circumstances. This Section is an essential element of the Bank's regulatory compliance posture.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project Start and End Dates. The Project shall commence on {{PROJECT_START_DATE}} (the "Project Start Date") and shall be substantially complete by {{PROJECT_END_DATE}} (the "Project End Date"), in each case subject to (a) the satisfaction of the Bank's Client Responsibilities under Article 5, (b) the Assumptions in Article 6 remaining valid, (c) any extensions agreed in an executed Change Order, and (d) any extensions necessitated by regulatory or examination matters affecting the Bank.
+
+3.2 Milestones. The Project shall be performed in accordance with the following milestone schedule:
+
+(a) Milestone 1 — Detailed Design Document Accepted (Week 6).
+
+(b) Milestone 2 — Test-Environment Configuration Accepted (Week 14).
+
+(c) Milestone 3 — Integration Interfaces Accepted (Week 18).
+
+(d) Milestone 4 — Operational Dashboards Accepted (Week 20).
+
+(e) Milestone 5 — UAT Complete with All Critical and High-Severity Issues Resolved (Week 22).
+
+(f) Milestone 6 — Production Cutover Complete and Production Cutover Report Accepted (Week 25).
+
+3.3 Status Reporting and Schedule Slippage. The Service Provider shall deliver to the Bank a written status report at least once per week throughout the Project. Status reports shall identify the activities completed, the activities planned, any open risks or issues, the status of UAT issue resolution, the cumulative time and expense charges to date, and any actual or anticipated schedule slippage. If the Service Provider becomes aware of any actual or anticipated slippage of more than five (5) business days against any Milestone target completion date, the Service Provider shall promptly notify the Bank in writing.
+
+3.4 Bank's Right to Suspend. The Bank may, in its sole discretion, suspend the In-Scope Activities at any time on twenty-four (24) hours' written notice to the Service Provider in connection with (a) any regulatory examination, supervisory action, or consent order affecting the Bank, (b) any actual or suspected security incident, (c) any change-management restriction during a regulatory close-out period, or (d) any other reason the Bank determines is necessary. During any suspension, the Service Provider shall hold its Key Personnel available to resume work upon the Bank's notice. The Bank shall pay for time charged through the suspension date but shall not pay for time during the suspension period.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named Key Personnel. The Service Provider shall assign the following individuals as Key Personnel for this Project, each of whom is named in Schedule B:
+
+(a) Engagement Partner (minimum allocation 25% across the Project duration);
+
+(b) Engagement Manager (minimum allocation 100% across the Project duration);
+
+(c) Lead Banking Platform Engineer (minimum allocation 100% across Project Weeks 4 through 22);
+
+(d) Senior Integration Engineer (minimum allocation 100% across Project Weeks 8 through 18);
+
+(e) Senior Dashboard Engineer (minimum allocation 100% across Project Weeks 12 through 20);
+
+(f) Quality Assurance Lead (minimum allocation 100% across Project Weeks 12 through 22).
+
+4.2 No Replacement Without Consent. The Service Provider shall not replace, reassign, or substantially reduce the allocation of any Key Personnel without the Bank's prior written consent (which the Bank may grant or withhold in its reasonable discretion), except in the case of (i) the Key Personnel's resignation from the Service Provider, (ii) termination of the Key Personnel's employment for cause, or (iii) the Key Personnel's death, disability, or extended leave of absence. In any of these cases, the Service Provider shall promptly propose a replacement of comparable skills, experience, and seniority, and the Bank reserves the right to interview and approve the proposed replacement before the replacement begins work on the Project.
+
+4.3 Background Checks and Cleared Personnel. All Service Provider personnel assigned to this Project shall have completed (a) the background investigations required by the MSA, (b) a credit history check consistent with applicable banking regulations on personnel handling sensitive Bank systems, and (c) the Bank's standard security awareness training prior to receiving access to any Bank systems or Bank Materials. Personnel who have not completed these requirements shall not be granted access. The Service Provider shall maintain documentation of personnel clearances and shall make such documentation available to the Bank's vendor risk team upon request.
+
+4.4 Onshore-Only Requirement. All In-Scope Activities shall be performed exclusively from facilities physically located in the contiguous United States, by personnel who are United States citizens or lawful permanent residents physically present in the contiguous United States. The Service Provider shall not, without the Bank's prior written consent (which the Bank may grant or withhold in its sole discretion), perform any In-Scope Activities from, or grant any Service Provider personnel access to Bank Materials or Bank systems from, any location outside of the contiguous United States. This Section is an essential term of this SOW and a material part of the Bank's regulatory posture.
+
+4.5 Removal of Personnel. The Bank may, at any time and without cause, request that the Service Provider remove any individual from the Project. The Service Provider shall, within five (5) business days following receipt of such request, remove the named individual from the Project and propose a replacement.
+
+4.6 Non-Solicitation. The Service Provider shall not, during the Project Period and for twelve (12) months following the Project End Date, solicit for employment any Bank employee with whom the Service Provider personnel had material contact during the Project, subject to the customary general-solicitation carve-out in the MSA.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 Designated Client Personnel. The Bank shall designate, prior to the Project Start Date, (a) an Executive Sponsor (the Bank's Chief Information Officer or designee) with authority to make Project-level decisions, (b) a Bank Project Manager who will serve as the day-to-day point of contact for the Service Provider, (c) a Bank Vendor Risk Liaison, and (d) such Bank Subject Matter Experts as the Service Provider reasonably requires.
+
+5.2 Access to Bank Systems and Bank Materials. The Bank shall provide the Service Provider's Cleared Personnel with such access to the Bank's systems, networks, facilities, and Bank Materials as is reasonably necessary for the In-Scope Activities, subject to the Bank's standard access provisioning procedures and timelines. The Bank's standard access provisioning procedures may require up to fifteen (15) business days from the personnel clearance date.
+
+5.3 Production Access Limitations. Production access to the Bank's core servicing platform is restricted in accordance with the Bank's separation-of-duties controls. The Service Provider's personnel shall not be granted production access except (a) on a temporary, just-in-time basis under Bank supervision during cutover events, or (b) where the Service Provider's role in production support is expressly required for the In-Scope Activities and approved by the Bank's vendor risk team in writing.
+
+5.4 Review and Approval Turnaround. The Bank shall use commercially reasonable efforts to review and respond to any Deliverable, Change Order, decision request, or status report from the Service Provider within ten (10) business days following receipt, except that during regulatory examination periods or critical change-management freeze periods the Bank's response may be delayed without prejudice to the Bank.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions. The Project Fee, the Project Schedule, and the In-Scope Activities are based on the following assumptions. If any Assumption proves materially incorrect, the affected impact on scope, schedule, or fees shall be addressed through the change control procedure in Article 8, with any resulting fee adjustment subject to the Bank's reasonable approval.
+
+(a) The Bank's existing core servicing platform supports the new high-yield deposit product configuration without requiring a platform version upgrade.
+
+(b) The Bank's enterprise data warehouse and BI tooling are stable and operational throughout the Project Period.
+
+(c) The Bank's UAT cycle for the new product will be completed within four (4) calendar weeks of the Service Provider's delivery of the Test-Environment Configuration.
+
+(d) No regulatory examinations, supervisory actions, or consent orders affecting the Bank's deposit servicing platform will require the Bank to suspend the Project for more than ten (10) business days during the Project Period.
+
+(e) The Bank's change-management calendar will accommodate the production cutover within the Project End Date window.
+
+(f) No material change in the Bank's chart of accounts, regulatory reporting requirements, or product taxonomy will occur during the Project Period.
+
+6.2 Third-Party Dependencies. The Project depends on the continued availability of (a) the Bank's core servicing platform vendor's support, (b) the Bank's enterprise data warehouse vendor's support, and (c) any third-party libraries or components used by the Service Provider in the In-Scope Activities (subject to the MSA's open-source compliance requirements).
+
+6.3 Regulator-Driven Changes. If a change in applicable banking regulations during the Project Period requires modification of the In-Scope Activities, the Bank shall have the right to direct such modification, and the Service Provider shall comply. The Bank shall pay for any additional time charged by the Service Provider as a result of regulator-driven changes, subject to a Change Order.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Time-and-Materials Pricing. The Service Provider shall perform the In-Scope Activities on a time-and-materials basis at the rates set forth in Schedule C. The cumulative time-and-materials charges under this SOW shall not exceed {{SOW_FEE_AMOUNT}} (the "Not-to-Exceed Amount") without the Bank's prior written approval, which approval shall be implemented through a signed Change Order. If the Service Provider determines that it will reach seventy-five percent (75%) of the Not-to-Exceed Amount, the Service Provider shall promptly notify the Bank in writing.
+
+7.2 Rate Card. The hourly rates by role are set out in Schedule C. Rates shall not increase during the Project Period. For the avoidance of doubt, no rate increase, even if otherwise permitted under the MSA, shall apply to this SOW.
+
+7.3 Invoicing. The Service Provider shall invoice the Bank monthly in arrears for time worked on this SOW and reimbursable expenses incurred during the preceding month. Each invoice shall include (i) the hours worked by each named individual, by week, (ii) the activities performed, (iii) the cumulative spend against the Not-to-Exceed Amount, (iv) any reimbursable expenses with supporting documentation, and (v) the Service Provider's certification that no time was charged for personnel or activities outside the In-Scope Activities. The Bank shall pay each undisputed invoice within forty-five (45) days of receipt.
+
+7.4 Right of Audit. The Bank shall have the right, on reasonable notice, to audit the Service Provider's time records, expense documentation, personnel clearance records, and other records relating to the In-Scope Activities, for the period during which the Service Provider's records are required to be retained under the MSA. The Service Provider shall provide reasonable cooperation with the Bank's audits.
+
+7.5 Expense Reimbursement. The Bank shall reimburse the Service Provider for reasonable, documented out-of-pocket expenses incurred by the Service Provider in performing the In-Scope Activities, subject to (a) the Bank's then-current vendor travel and expense policy, and (b) the requirement that any individual expense in excess of {{EXPENSE_PREAPPROVAL_THRESHOLD}} be pre-approved in writing by the Bank.
+
+7.6 Disputed Invoices. If the Bank disputes any invoice or any portion of an invoice in good faith, the Bank shall (a) timely pay the undisputed portion of the invoice, (b) promptly notify the Service Provider in writing of the disputed portion, and (c) work in good faith with the Service Provider to resolve the dispute. The Service Provider shall not suspend the In-Scope Activities on account of any disputed invoice.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests. Either Party may at any time during the Project propose a change to the In-Scope Activities, the Deliverables, the Project Schedule, the Not-to-Exceed Amount, or the Assumptions by submitting a written Change Request to the other Party.
+
+8.2 Impact Assessment. Within ten (10) business days following receipt of a Change Request, the Service Provider shall deliver to the Bank a written impact assessment.
+
+8.3 Change Order. If the Parties agree to proceed with a proposed change, they shall execute a written change order (a "Change Order"), signed by an authorized representative of each Party. No change to this SOW shall be effective unless documented in a signed Change Order.
+
+8.4 No Oral Modifications. No oral statement, email, or other informal communication shall constitute a modification of this SOW. Only a Change Order signed by both Parties shall modify this SOW.
+
+8.5 Continuing Performance. If the Parties are unable to reach agreement on a Change Request, the Service Provider shall continue to perform the In-Scope Activities in accordance with this SOW as in effect prior to the Change Request, and either Party may escalate the dispute through the dispute resolution procedures of the MSA.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT AND REGULATORY PROVISIONS
+
+9.1 Incorporation by Reference. This SOW is issued under and is governed by the MSA, which is incorporated into this SOW by reference. All terms and conditions of the MSA shall apply to this SOW and to the In-Scope Activities, including without limitation the MSA's provisions on confidentiality, NPI security, intellectual property ownership, indemnification, limitation of liability, insurance, governing law, and dispute resolution.
+
+9.2 Order of Precedence. In the event of any conflict between this SOW and the MSA, the MSA shall control, except that the commercial terms expressly set forth in this SOW (including the Not-to-Exceed Amount in Article 7, the Project Schedule in Article 3, the Acceptance Criteria referenced in Article 2, the Key Personnel allocations in Article 4, and the onshore-only requirement in Section 4.4) shall control over any inconsistent provisions in the MSA solely as applied to this Engagement.
+
+9.3 Regulator Pass-Through. The Bank's regulators (including without limitation the Office of the Comptroller of the Currency, the Federal Reserve System, the Federal Deposit Insurance Corporation, the Consumer Financial Protection Bureau, and any state banking regulator with jurisdiction over the Bank) shall have the right to examine the Service Provider's records, facilities, and personnel relating to the In-Scope Activities, on substantially the same terms and to substantially the same extent as such regulators may examine the Bank itself. The Service Provider shall cooperate fully with any such examination and shall not condition its cooperation on payment beyond the time-and-materials charges set forth in this SOW.
+
+9.4 Bank Service Company Act. This SOW and the In-Scope Activities are subject to the Bank Service Company Act (12 U.S.C. § 1867) and the Service Provider acknowledges and agrees that the In-Scope Activities are services performed for a banking organization and are subject to the Bank's regulators' examination authority under the Bank Service Company Act.
+
+9.5 Termination. This SOW may be terminated only as expressly provided in the MSA or in this SOW. Notwithstanding the foregoing, the Bank may terminate this SOW at any time, with or without cause, on thirty (30) days' written notice, and shall pay for time charged through the termination date plus reasonable wind-down costs not to exceed two (2) weeks of time at the rates in Schedule C.
+
+IN WITNESS WHEREOF, the Parties have caused this Statement of Work No. 7 to be executed by their duly authorized representatives as of the SOW Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

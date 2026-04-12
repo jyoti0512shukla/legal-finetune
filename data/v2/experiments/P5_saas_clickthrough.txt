@@ -1,0 +1,17 @@
+=== SaaS / Click-through ToS for a CI/CD platform ===
+
+PROMPT:
+Draft the Limitation of Liability clause (Article 12) for a click-through Terms of Service for ForgeRunner, Inc. (a Delaware corporation, the "Provider") and Pacific Loop Studios, LLC (a California limited liability company, the "Customer"). Effective Date: November 12, 2024. Industry: developer tools / cloud CI/CD platform. Deal size: SMB. Negotiation posture: provider-friendly. Drafting style: click-through Terms of Service — terse numbered lists, no preamble, accept-by-clicking style. Cover the standard provisions: cap at the greater of prior 12-month fees or $100, class action waiver, ALL CAPS disclaimers, exceptions for the narrow indemnity and payment obligations, Free Tier users capped at $100 hard, and the basis-of-the-bargain acknowledgment.
+
+RESPONSE (411 tokens, 98.5s):
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. EXCEPT AS PROVIDED IN SECTION 12.3, NEITHER WE NOR YOU WILL BE LIABLE TO THE OTHER FOR ANY DAMAGES EXCEEDING THE TOTAL FEES YOU HAVE PAID US UNDER THE SERVICE PLAN IN THE twelve (12) MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM. FOR FREE TIER USERS, THE CAP IS CAPPED AT ONE HUNDRED UNITED STATES DOLLARS ($100).
+
+12.2 Exclusion of indirect damages. EXCEPT AS PROVIDED IN SECTION 12.3, NEITHER WE NOR YOU WILL BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOST REVENUE, LOST BUSINESS OPPORTUNITIES, LOSS OF DATA, OR LOSS OF GOODWILL, EVEN IF EITHER OF US HAS BEEN ADVISED THAT THOSE DAMAGES ARE POSSIBLE.
+
+12.3 Exceptions to limitations. The limitations in Sections 12.1 and 12.2 will not apply to (a) your obligation to pay fees; (b) our obligations under Article 11; (c) your indemnity obligations under Article 11; (d) your liability arising from gross negligence, willful misconduct, or fraud; or (e) anything that state law says cannot be limited.
+
+12.4 Why the cap. The cap in Section 12.1 is an essential element of the bargain between us. If the cap is removed, we will immediately terminate your access to the Service.
+
+12.5 Disclaimer of implied warranties. EXCEPT FOR THE EXPRESS WARRANTIES IN ARTICLE 9, THE SERVICE IS PROVIDED "AS IS." TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL IMPLIED WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE DISCLAIMER OF IMPLIED WARRANTIES IS CONSPICUOUS AND GIVEN IN ALL CAPS.

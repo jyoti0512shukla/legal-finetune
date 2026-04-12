@@ -1,0 +1,14 @@
+{
+  "source_template": "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07.txt",
+  "variation_index": 3,
+  "substitutions": {
+    "PROVIDER_NAME": "Lighthouse Cloud Technologies, Inc.",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_NAME": "Wellington Asset Management LLC",
+    "CUSTOMER_STATE": "Delaware",
+    "CUSTOMER_ENTITY_TYPE": "limited liability company",
+    "VENUE_CITY": "Wilmington",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twenty-four (24)"
+  }
+}

@@ -1,0 +1,238 @@
+PULSELOOP — EMAIL MARKETING SUBSCRIPTION AGREEMENT
+
+This is the PulseLoop Email Marketing Subscription Agreement (the "Agreement"). It is between PulseLoop, Inc., a Delaware corporation with its office at 250 West Main Street, Suite 300, Durham, North Carolina 27701 ("we" or "PulseLoop"), and Saltwater Apparel Co., a North Carolina limited liability company with its office at 1840 Beach Road, Wilmington, North Carolina 28403 ("you" or "Saltwater"). The Agreement starts on April 8, 2024 (the "Start Date").
+
+We provide an email marketing and customer messaging platform for direct-to-consumer brands. This Agreement covers your subscription. The Order Form (Exhibit A) lists your tier, your monthly contact allotment, and your price.
+
+ARTICLE 1 — DEFINITIONS
+
+We define most terms inline. The terms below appear often enough that we collected them here.
+
+1.1 "PulseLoop Platform" means our hosted email and SMS marketing software, including the campaign builder, the contact database, the segmentation engine, the analytics dashboard, the integrations with your e-commerce platform, and any improvements we ship during the Term.
+
+1.2 "Subscriber" means an individual end user of yours whose email address or phone number you have stored in the PulseLoop Platform for the purpose of receiving marketing messages from you.
+
+1.3 "Subscriber Data" means information about Subscribers that you store in the PulseLoop Platform — names, email addresses, phone numbers, addresses, purchase history, behavioral data we collect when Subscribers open your emails or click links, and any other personal information.
+
+1.4 "Authorized User" means an employee or contractor of yours that you authorize to log in to the PulseLoop Platform.
+
+1.5 "Anti-Spam Laws" means CAN-SPAM (15 U.S.C. § 7701), the Telephone Consumer Protection Act (47 U.S.C. § 227, "TCPA"), Canada's Anti-Spam Legislation (CASL), and any state laws that regulate marketing emails or text messages — including the California Consumer Privacy Act ("CCPA") to the extent it applies to marketing communications.
+
+1.6 "DPA" means the PulseLoop Data Processing Addendum, which is at pulseloop.com/dpa and which is part of this Agreement.
+
+ARTICLE 2 — SUBSCRIPTION AND LICENSE
+
+2.1 What you get. We give you a non-exclusive, non-transferable right to use the PulseLoop Platform during the Term, for the contact tier and Authorized User seats listed on the Order Form. You can use it for your own marketing — sending emails and texts to your Subscribers, segmenting your contact list, running A/B tests, and seeing the analytics.
+
+2.2 Your Subscribers. You can store up to fifteen thousand (15,000) Subscribers under the tier on the Order Form. If you go over, see Section 4.2.
+
+2.3 Authorized Users. You can give up to five (5) of your employees or contractors Authorized User access. Adding more seats costs an extra fee per the Order Form. You are responsible for what your Authorized Users do.
+
+2.4 What you cannot do. You agree not to (a) send messages without proper consent (see Section 7.4); (b) send messages that violate Anti-Spam Laws or any law; (c) send messages whose content is illegal, deceptive, fraudulent, or designed to mislead; (d) use the PulseLoop Platform for political campaigns, non-emergency public alerts, or any messaging that is regulated separately from commercial marketing without our written approval; (e) try to reverse engineer the PulseLoop Platform; (f) use the PulseLoop Platform to build a competing email marketing product; or (g) scrape or mine the PulseLoop Platform.
+
+2.5 If we need to suspend access. We can suspend access if your sending is causing high spam complaint rates (above 0.3% per campaign), if a major email or SMS provider is blocking your messages because of your sending behavior, if a deliverability investigation reasonably requires us to pause sending, or if you have not paid an undisputed invoice for thirty (30) days after a written reminder. We will tell you why and we will lift the suspension as soon as the cause is resolved.
+
+ARTICLE 3 — IMPLEMENTATION AND ONBOARDING
+
+3.1 Setup. Onboarding includes connecting your e-commerce platform (Shopify, WooCommerce, or BigCommerce), importing your existing subscriber list, configuring your sending domain (DKIM, SPF, DMARC), setting up your default templates, and a one-hour training call with your team.
+
+3.2 Setup fee. The one-time setup fee is Two Thousand Five Hundred United States Dollars ($2,500), invoiced when this Agreement is signed. We waive the setup fee if you sign a multi-year subscription.
+
+3.3 Schedule. We aim to finish onboarding within fifteen (15) business days of the Start Date, assuming you give us your existing list and DNS access in a reasonable time.
+
+3.4 Done. Onboarding is "done" when you can send a test campaign to your team and the campaign delivers, opens, and renders correctly across the major email clients we test.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Subscription fee. You pay an annual subscription fee of Twenty-Four Thousand United States Dollars ($24,000). This includes the contact tier and seats on the Order Form. We invoice annually in advance, payable thirty (30) days after the invoice date. If you would rather pay monthly, the monthly price is ten percent (10%) higher and is invoiced monthly in advance.
+
+4.2 Going over the contact tier. If your Subscriber count exceeds fifteen thousand (15,000), we charge an extra Two Hundred United States Dollars ($200) per month for each block of one thousand (1,000) Subscribers above the tier. We will alert you in the dashboard when you cross 80% and 100% of your tier so you can upgrade or trim your list before being charged.
+
+4.3 Add-ons. SMS messaging is metered per message at carrier-pass-through rates plus a small margin. The SMS rate is on our pricing page at pulseloop.com/pricing.
+
+4.4 Net 30. Annual fees are invoiced in advance. Overage and add-on fees are invoiced monthly in arrears. Late payments accrue interest at one percent (1%) per month or the maximum allowed by law, whichever is lower.
+
+4.5 Renewal pricing. We can adjust the subscription fee at renewal. We will not raise it by more than five percent (5%) above the prior year, and we will give you written notice at least sixty (60) days before the renewal starts.
+
+4.6 Taxes. The fees do not include sales tax. North Carolina sales tax applies. We will add it to the invoice. We are responsible for our own income taxes.
+
+4.7 Disputed invoices. If you think an invoice is wrong, tell us in writing within fifteen (15) business days. Pay the parts you do not dispute on time and we will work the dispute in good faith.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Initial Term. The Initial Term runs for one (1) year from the Start Date.
+
+5.2 Renewal. After the Initial Term, this Agreement automatically renews for one (1) year terms unless either side gives written notice that it does not want to renew at least thirty (30) days before the current term ends.
+
+5.3 Termination for convenience. Neither side has a general termination-for-convenience right during the Initial Term.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime. We aim for the PulseLoop Platform to be available at least 99.5% of the time, measured monthly. The PulseLoop Platform is "available" if you can log in, view the dashboard, and schedule campaigns. Email and SMS sending throughput depends on the email and SMS providers we use and is not part of the uptime calculation.
+
+6.2 Excluded downtime. The following do not count as downtime: (a) scheduled maintenance announced at least 48 hours in advance; (b) emergency security patches; (c) downtime caused by you (including misconfigured DNS, exhausted contact tier, or sending behavior that triggered blocks at major email providers); (d) downtime caused by third-party email or SMS providers; and (e) downtime caused by force majeure events.
+
+6.3 Service credits. If we miss the uptime SLA in any month, you get a service credit:
+(a) below 99.5% but at or above 99.0%: 5% of one twelfth of the annual subscription fee;
+(b) below 99.0%: 10% of one twelfth of the annual subscription fee.
+The credit is applied to your next invoice. It is the only money remedy you get for a missed SLA.
+
+6.4 Support. Support is included in the subscription. We answer email support tickets Monday through Friday, 9:00 a.m. to 6:00 p.m. Eastern Time, with a target first response time of one (1) business day. For Severity 1 issues (the PulseLoop Platform is fully down for everyone), we have an emergency pager with a four (4) hour first response target outside business hours. Live chat is available during business hours.
+
+6.5 Maintenance. We do routine maintenance on Sundays from 11:00 p.m. to 2:00 a.m. Eastern Time. We give 48 hours notice for any other planned maintenance.
+
+ARTICLE 7 — SUBSCRIBER DATA, PRIVACY, AND CONSENT
+
+This is the most important article in the Agreement. If anything in it conflicts with anything elsewhere, this Article 7 wins.
+
+7.1 You own Subscriber Data. You own all Subscriber Data. We do not own it. We do not get a license to use it beyond what Section 7.2 says.
+
+7.2 Why we touch Subscriber Data. You give us permission to host, store, process, and use Subscriber Data only as needed to provide the PulseLoop Platform to you — sending the messages you compose, recording delivery and engagement events, and producing analytics for you. We will not use Subscriber Data for any other purpose unless you give us specific written permission.
+
+7.3 No selling, no AI training. We will not sell Subscriber Data. We will not share Subscriber Data with anyone except the subprocessors listed in Section 7.10. We will not use Subscriber Data, your campaign content, or your engagement metrics to train any artificial intelligence model unless you give us specific written permission for a specific project, and you can say no without affecting any of your other rights.
+
+7.4 Consent is on you. You promise that for every Subscriber in the PulseLoop Platform, you have a lawful basis to send them marketing messages (express opt-in for SMS and for email subscribers in jurisdictions that require it; CAN-SPAM-compliant opt-in plus working opt-out for other email subscribers; CASL-compliant consent for Canadian Subscribers). You promise to honor unsubscribe and opt-out requests promptly. Our system supports unsubscribe links in every email and a STOP keyword for SMS — but the legal obligation to comply is yours.
+
+7.5 Sub-processor sync of opt-outs. When a Subscriber unsubscribes through one of our links, we mark them as unsubscribed in your account immediately and we sync the unsubscribe to your connected e-commerce platform on a best-effort basis. You are responsible for ensuring your other systems (CRM, support tools, post-purchase tools) honor the unsubscribe.
+
+7.6 Data Processing Addendum. The DPA at pulseloop.com/dpa is part of this Agreement and explains in detail how we handle personal data on your behalf. If applicable laws (like the EU Standard Contractual Clauses, the UK International Data Transfer Agreement, the CPRA, the Virginia CDPA, the Colorado Privacy Act, the Connecticut Data Privacy Act, the Utah Consumer Privacy Act, or any other state privacy law) require additional terms, the DPA controls. You are the controller of personal data; we are the processor.
+
+7.7 Security. We protect Subscriber Data with: (a) encryption in transit using TLS 1.2 or higher; (b) encryption at rest using AES-256; (c) role-based access controls; (d) annual third-party penetration testing; (e) annual SOC 2 Type II audits; and (f) a documented information security program reviewed annually.
+
+7.8 Breach. If we discover a security incident that compromises Subscriber Data, we will tell you in writing without undue delay and in any case within seventy-two (72) hours of discovery. The notice will describe what we know about the incident, the data involved, and what we are doing about it. We will help you investigate. If the incident was caused by something we did wrong and triggers state breach notification requirements, we will reimburse you for the reasonable cost of the required notifications.
+
+7.9 Data residency. We store and process Subscriber Data in the United States. If you need a different region, talk to us — additional fees may apply and the available regions are limited.
+
+7.10 Subprocessors. We use a small list of subprocessors to operate the PulseLoop Platform. The current list is at pulseloop.com/subprocessors and includes (as of the Start Date) (a) our cloud hosting provider; (b) our email sending provider; (c) our SMS provider; (d) our error tracking provider; and (e) our customer support tool. We give you fifteen (15) days notice before adding or changing a subprocessor that handles Subscriber Data, and you can object on reasonable security grounds. If we cannot resolve your objection, you can terminate this Agreement and get a prorated refund of unused prepaid fees.
+
+7.11 Data return and deletion. When this Agreement ends, you have sixty (60) days to export Subscriber Data and your campaign history using our self-service export tool at no charge. After that, we delete Subscriber Data from our production systems within thirty (30) days, with backup deletion completed within ninety (90) days as part of our normal retention cycle. We will give you a written certification of deletion if you ask.
+
+7.12 Subscriber rights requests. If a Subscriber asks you to delete or export their personal data under an applicable privacy law, you can use our self-service tools in the dashboard to honor that request. We will help you respond to Subscriber rights requests on a reasonable best-effort basis.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Our IP. We own the PulseLoop Platform — the software, the templates, the documentation, our brand. Nothing in this Agreement gives you ownership of any of that. We keep the right to make new features, improvements, and bug fixes.
+
+8.2 Your IP. You own Subscriber Data and you own the original content you create in the PulseLoop Platform — your campaigns, your custom templates, your audience segments, your branded creative. We do not claim a license to that content beyond what we need to actually deliver your campaigns and show you the analytics.
+
+8.3 Templates. We give you a non-exclusive, royalty-free right to use our standard email and SMS templates as starting points for your own campaigns. You can modify them. You cannot redistribute them as templates outside of your own campaigns.
+
+8.4 Feedback. If your team sends us product feedback, bug reports, or feature ideas, we can use that feedback to improve the PulseLoop Platform without owing you anything. We will not use Subscriber Data when we work on feedback.
+
+8.5 Marketing reference. We can include your name and logo in a list of customers on our website, in pitch decks, and in our marketing materials. If you would rather we did not, just tell us and we will stop.
+
+8.6 No implied licenses. Other than what is written in this Agreement, neither of us is granting any IP rights to the other.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 What is confidential. Information one of us shares with the other that is marked confidential, or that a reasonable person would understand to be confidential given the circumstances, is "Confidential Information." Our Confidential Information includes our pricing, our security details, and the source code of the PulseLoop Platform. Your Confidential Information includes Subscriber Data, your campaign analytics, and your business plans.
+
+9.2 What we both promise. Each of us will (a) keep the other's Confidential Information secret, (b) only use it as needed to do this Agreement, (c) only share it with employees, contractors, and advisors who need to know and who are bound by similar confidentiality duties, and (d) protect it with at least reasonable care.
+
+9.3 Exceptions. Section 9.2 does not cover information that becomes public without our fault, information one of us already knew before the other shared it, information independently developed without using the other's Confidential Information, or information rightfully obtained from a third party with no duty of confidence.
+
+9.4 Compelled disclosure. If a court order or law requires one of us to disclose Confidential Information, we will tell the other side first (if legally permitted) so they can object or get a protective order. We will only disclose what is legally required.
+
+9.5 Return on termination. When the Agreement ends, each of us will return or destroy the other's Confidential Information, except that we can keep one archival copy as required by our internal records retention policies, and that copy stays subject to this Article 9 for as long as we hold it.
+
+9.6 How long this lasts. Confidentiality obligations last during this Agreement and for three (3) years after it ends. Trade secrets are protected for as long as they remain trade secrets.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 What we both promise. Each of us has the authority to enter into this Agreement and, when signed, this Agreement is a binding obligation.
+
+10.2 What we promise about the PulseLoop Platform. During the Term, the PulseLoop Platform will work substantially as our documentation describes; we will not knowingly include malicious code; we will provide the service in a workmanlike manner; and we will comply with applicable laws when operating the service.
+
+10.3 What you promise. You have the right to upload Subscriber Data; you have collected the consents required by Anti-Spam Laws and applicable privacy laws for the Subscribers in your account; your campaign content does not infringe anyone's IP, is not illegal or deceptive, and does not target minors; and you will use the PulseLoop Platform in compliance with Anti-Spam Laws and applicable privacy laws.
+
+10.4 Disclaimer. Other than the express promises in this Article 10, the PulseLoop Platform is provided "as is." We disclaim all other warranties, express or implied, including merchantability, fitness for a particular purpose, and non-infringement. We do not promise the PulseLoop Platform will be error-free or that any specific email will land in any specific inbox.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 We defend you against IP claims about the PulseLoop Platform. If a third party sues you because using the PulseLoop Platform itself supposedly infringes their patent, copyright, trademark, or trade secret, we will defend you and pay any final judgment or agreed settlement. This does not include claims about your campaign content, your Subscriber Data, or your sending practices.
+
+11.2 You defend us against content and consent claims. You will defend us against claims that arise from (a) your campaign content (including IP claims about images, copy, or audio you used), (b) Subscriber Data, (c) your alleged failure to obtain proper consent under Anti-Spam Laws or privacy laws (including TCPA class actions), or (d) your use of the PulseLoop Platform that violates this Agreement or any law.
+
+11.3 How indemnification works. The side seeking indemnification will tell the other side promptly in writing, give the other side control of the defense (subject to a no-bad-settlement-without-consent right), and help out at the indemnifying side's reasonable expense.
+
+11.4 If the PulseLoop Platform might infringe. If we think the PulseLoop Platform might be the subject of an IP claim, we can (a) get you a license to keep using it, (b) modify it to be non-infringing without losing material functionality, (c) replace it with something equivalent, or (d) terminate this Agreement and refund a prorated portion of your prepaid fees.
+
+11.5 Sole remedy. Article 11 is the only remedy you get from us for IP infringement claims about the PulseLoop Platform itself.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Cap. Except as Section 12.3 says, the total liability of either side under this Agreement is capped at the greater of (a) the total subscription fees you paid us in the twelve (12) months immediately before the event causing the liability, or (b) Twenty Thousand United States Dollars ($20,000). The cap applies regardless of legal theory.
+
+12.2 No indirect damages. Except as Section 12.3 says, neither side is liable for indirect, incidental, special, consequential, or punitive damages — including lost profits, lost revenue, lost business opportunities, loss of data, or loss of goodwill — even if we knew those damages were possible.
+
+12.3 What is not capped or excluded. The cap in Section 12.1 and the exclusion in Section 12.2 do not apply to: (a) what we owe under Article 11 (Indemnification); (b) breach of Article 7 (Subscriber Data, Privacy, and Consent); (c) breach of Article 9 (Confidentiality); (d) your obligation to pay subscription fees; (e) your indemnity obligations relating to TCPA class actions, sending consent, or your campaign content; (f) liability arising from gross negligence, willful misconduct, or fraud; or (g) anything that the law says cannot be limited.
+
+12.4 Why the cap. The cap and the exclusion are an essential part of the deal. The subscription fee would be much higher without them, especially given how exposed we both are to TCPA class actions over consent issues that originate with the customer.
+
+ARTICLE 13 — TERMINATION
+
+13.1 Termination for material breach. Either side can terminate this Agreement on thirty (30) days written notice if the other side materially breaches this Agreement and does not fix the breach within those thirty (30) days. If you terminate for our material breach, we will refund the unused prepaid portion of the subscription fee.
+
+13.2 Termination for repeat consent or compliance issues. We can terminate immediately on written notice if (a) we receive multiple verified consent or anti-spam complaints about your account that you do not address after we ask, (b) a major email or SMS provider permanently blocks our sending for your account, or (c) a regulator opens an investigation into your sending practices. We will not terminate under this Section 13.2 capriciously — we will give you a reasonable chance to fix the issue first.
+
+13.3 Termination for insolvency. Either side can terminate immediately on written notice if the other side becomes insolvent, makes a general assignment for the benefit of creditors, files for bankruptcy, or has bankruptcy proceedings filed against it that are not dismissed within sixty (60) days.
+
+13.4 What happens when this ends. When this Agreement ends or expires: (a) your access to the PulseLoop Platform stops; (b) you pay any fees that have accrued through the termination date; (c) we return or delete Subscriber Data the way Section 7.11 says; (d) we each return or destroy the other's Confidential Information; and (e) the parts of this Agreement that should logically survive — including Articles 1, 7 (in part), 8, 9, 11, 12, and 14 — keep working.
+
+13.5 Transition help. For up to sixty (60) days after termination, we will help you migrate Subscriber Data and your campaign history to another platform. Standard exports (CSV of Subscriber Data, ZIP of campaign history) are free. Custom export formats are at our normal professional services rates.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing law. North Carolina law applies, without regard to its conflict-of-laws rules.
+
+14.2 Where to sue. Any lawsuit about this Agreement must be filed in the state or federal courts located in Durham County, North Carolina. We both agree those courts have personal jurisdiction over us.
+
+14.3 Talk first. Before starting a lawsuit, we will both try in good faith to resolve any dispute by direct discussion. If we cannot resolve it within thirty (30) days, then either side can go to court.
+
+14.4 No jury. We both give up the right to a jury trial for any dispute about this Agreement.
+
+14.5 Lawyers' fees. The side that wins gets reasonable lawyers' fees and costs.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Whole agreement. This Agreement, the Order Forms, and the DPA together are the whole deal between us.
+
+15.2 Changes. Changes only count if they are in writing and signed by both sides. We can update non-material parts of the DPA or the subprocessor list by posting an update at pulseloop.com — those updates take effect after the notice period in Section 7.10.
+
+15.3 If part is unenforceable. If a court says one part of this Agreement does not work, the rest still does. The court should rewrite the unenforceable part to make it work, if possible.
+
+15.4 Waivers. Not enforcing a right one time is not a permanent giveup.
+
+15.5 Notices. Formal notices have to be in writing and delivered by hand, certified mail, overnight courier, or email with confirmation of receipt:
+If to us: PulseLoop, Inc., 250 West Main Street, Suite 300, Durham, North Carolina 27701, Attention: Legal, legal@pulseloop.com.
+If to you: Saltwater Apparel Co., 1840 Beach Road, Wilmington, North Carolina 28403, Attention: Founder.
+
+15.6 Assignment. Neither side can assign this Agreement without the other side's written consent, except either side can assign without consent in a merger or sale of substantially all assets, so long as the buyer takes on all the obligations.
+
+15.7 Force majeure. Neither side is liable for delays caused by events outside its reasonable control, like natural disasters, pandemics, or government action — except your obligation to pay still applies.
+
+15.8 Independent contractors. We are independent contractors. This Agreement does not create a partnership, joint venture, or employment relationship.
+
+15.9 No third-party beneficiaries. Only the parties to this Agreement have rights under it. Subscribers are not third-party beneficiaries; their privacy rights come from applicable laws, not from this Agreement.
+
+15.10 Counterparts. We can sign in counterparts, including by electronic signature.
+
+15.11 Headings. Headings are just for convenience.
+
+15.12 No drafter rule. We both negotiated this Agreement. No rule of construction that ambiguities are construed against the drafter applies.
+
+Signed:
+
+PULSELOOP, INC.
+
+By: ________________________
+Name:
+Title: Chief Executive Officer
+Date:
+
+SALTWATER APPAREL CO.
+
+By: ________________________
+Name:
+Title: Founder
+Date:

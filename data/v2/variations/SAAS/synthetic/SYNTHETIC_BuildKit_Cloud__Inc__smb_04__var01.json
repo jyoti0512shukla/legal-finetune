@@ -1,0 +1,15 @@
+{
+  "source_template": "SYNTHETIC_BuildKit_Cloud__Inc__smb_04.txt",
+  "variation_index": 1,
+  "substitutions": {
+    "PROVIDER_NAME": "TitanSync Technologies, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_NAME": "Liberty Pharmaceuticals Inc.",
+    "CUSTOMER_STATE": "Colorado",
+    "VENUE_CITY": "Denver",
+    "ANNUAL_FEE_AMOUNT": "Nine Hundred Sixty Thousand United States Dollars ($960,000)",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "six (6)"
+  }
+}

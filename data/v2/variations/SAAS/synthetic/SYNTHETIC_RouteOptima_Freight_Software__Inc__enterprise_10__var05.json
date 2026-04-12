@@ -1,0 +1,13 @@
+{
+  "source_template": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10.txt",
+  "variation_index": 5,
+  "substitutions": {
+    "PROVIDER_NAME": "Quantix Data Systems, Inc.",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_NAME": "Lonestar Energy Holdings LLC",
+    "CUSTOMER_STATE": "Delaware",
+    "VENUE_CITY": "Wilmington",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "total": 21112,
+  "train_count": 19002,
+  "val_count": 2110,
+  "by_task": {
+    "extraction": 2986,
+    "qa": 9595,
+    "checklist_qa": 1268,
+    "risk_flagging": 4900,
+    "summary": 1255,
+    "drafting_clause": 903,
+    "drafting_full_contract": 205
+  },
+  "by_source": {
+    "CUAD_REAL": 6820,
+    "ACORD_REAL": 2313,
+    "SOW": 892,
+    "NDA": 919,
+    "SAAS": 1140,
+    "UNFAIR_TOS_REAL": 4000,
+    "LEGAL_SUMM_REAL": 435,
+    "DPA": 897,
+    "INDEPENDENT_CONTRACTOR": 916,
+    "MSA": 946,
+    "LICENSE": 923,
+    "EMPLOYMENT": 911
+  },
+  "char_lens": {
+    "min": 0,
+    "median": 0,
+    "p75": 0,
+    "p95": 0,
+    "max": 0
+  },
+  "sources": {
+    "synthetic_authored": "data/v2 (175 contracts × 7 types: SAAS, MSA, NDA, EMPLOYMENT, SOW, DPA, INDEPENDENT_CONTRACTOR)",
+    "cuad_real": "data/external/cuad/CUADv1.json (510 real commercial contracts × 41 clause categories, CC BY 4.0)",
+    "legal_summ_real": "data/external/legal_summarization (439 real plain-English summaries from tldrlegal/tosdr, CC BY-SA — verify license)",
+    "unfair_tos_real": "data/external/unfair_tos (LexGLUE UNFAIR-ToS, 9,414 sentence-level expert annotations, CC BY 4.0)",
+    "acord_real": "data/external/acord (ACORD, 114 lawyer-written queries × 3,931 real B2B clauses from EDGAR, CC BY 4.0)"
+  }
+}

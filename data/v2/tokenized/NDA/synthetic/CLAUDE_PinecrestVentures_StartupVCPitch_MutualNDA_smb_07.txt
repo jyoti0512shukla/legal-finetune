@@ -1,0 +1,89 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+Effective {{EFFECTIVE_DATE}}
+
+This agreement is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} at {{PROVIDER_ADDRESS}} (the "Founder Party"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} at {{CUSTOMER_ADDRESS}} (the "Investor"). We're using it because both of us are going to share confidential information as we talk about a possible seed investment by the Investor in the Founder Party. We want to keep that information private and we want to be clear about what we can and can't do with it. "We" and "you" in this agreement means whichever of us is receiving the other's information at the time; we flip roles as needed.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 Confidential Information. "Confidential Information" is anything one of us shares with the other that isn't public and that a reasonable person would treat as confidential. It includes financials, cap tables, pitch decks, product roadmaps, customer and user data, hiring plans, fund strategy, portfolio data, and investment thesis. It also includes the fact that we're even talking about an investment.
+
+1.2 Purpose. "Purpose" means evaluating a potential seed investment by the Investor in the Founder Party, and nothing else. If we actually decide to do the deal, the Purpose also includes negotiating and signing the definitive investment documents.
+
+1.3 Representatives. "Representatives" means each side's employees, directors, advisors, accountants, and lawyers — and on the Investor side, also the Investor's limited partners, fund advisors, and formation counsel. Everyone on that list has to have a real need to know and has to be told this is confidential before seeing anything.
+
+ARTICLE 2 — PURPOSE
+
+2.1 Use it only for the Purpose. Neither of us will use the other's Confidential Information for anything other than the Purpose. No competitive analysis. No sharing with portfolio companies. No using the Founder Party's financials to back a competing startup.
+
+2.2 No shopping. The Investor won't, for twelve (12) months after the Effective Date, use any Confidential Information it gets from the Founder Party to help fund, advise, or incubate any company whose core product would directly compete with the Founder Party's current or disclosed planned product.
+
+2.3 No reverse engineering. Neither of us will reverse engineer any product demo, prototype, or technical artifact shared under this agreement.
+
+ARTICLE 3 — CONFIDENTIAL INFORMATION
+
+3.1 The basics. We'll each: (a) keep the other's Confidential Information private; (b) use it only for the Purpose; (c) share it only with our own Representatives who actually need to see it and who are bound by confidentiality obligations at least as strict as this agreement; and (d) take reasonable care to protect it — at least as much care as we take with our own sensitive information.
+
+3.2 Responsibility. If one of our Representatives messes up and leaks or misuses Confidential Information, that's on us. Each of us is responsible for our own people.
+
+3.3 Tell us if something leaks. If one of us discovers that Confidential Information has been leaked, lost, or misused, that party will tell the other party within three (3) business days and will cooperate to contain the problem.
+
+ARTICLE 4 — EXCLUSIONS
+
+4.1 This agreement doesn't cover information that:
+  (a) was already public or became public without either of us breaking this agreement;
+  (b) we already knew, without confidentiality obligations, before receiving it;
+  (c) we independently developed without using the other side's Confidential Information; or
+  (d) we properly got from a third party who had no duty of confidence to the other side.
+
+4.2 Widely available content. The Founder Party's pitch deck, press releases, and other materials it has already shared publicly aren't Confidential Information.
+
+ARTICLE 5 — COMPELLED DISCLOSURE
+
+5.1 If one of us is legally required to disclose the other's Confidential Information (subpoena, court order, regulator request), we'll: (a) tell the other party as fast as we legally can, so they can try to get a protective order; (b) cooperate on that effort at the other party's expense; and (c) only disclose the minimum that's actually required. Whatever isn't compelled stays confidential.
+
+ARTICLE 6 — RETURN OR DESTRUCTION
+
+6.1 At any point, either of us can ask the other to return or destroy its Confidential Information, and the receiving party will do so within ten (10) business days and confirm in writing that it's done. We can keep copies in routine backups, and the Investor can keep one archival copy with its legal counsel, but whatever we retain stays subject to this agreement.
+
+ARTICLE 7 — NO LICENSE OR OWNERSHIP TRANSFER
+
+7.1 Sharing Confidential Information doesn't transfer any ownership and doesn't grant any license. All intellectual property rights stay with whoever owned them before. Nothing in this agreement obligates either of us to do the investment, to sign any further agreement, or even to continue the conversation.
+
+ARTICLE 8 — TERM AND SURVIVAL
+
+8.1 This agreement lasts {{TERM_YEARS}} years from the Effective Date. Either of us can end it earlier with {{NOTICE_DAYS}} days' written notice.
+
+8.2 Even after the agreement ends, the confidentiality and non-use obligations continue for three (3) years after termination. Trade secret protection continues for as long as the information is still a trade secret under applicable law.
+
+ARTICLE 9 — EQUITABLE REMEDIES
+
+9.1 Each of us acknowledges that if the other side's Confidential Information gets leaked or misused, money damages alone probably won't make it right. So either of us can seek an injunction or specific performance in court, without having to post a bond or prove actual damages, on top of any other remedies available at law or in equity.
+
+ARTICLE 10 — GENERAL
+
+10.1 Governing law. {{GOVERNING_LAW_STATE}} law governs this agreement. Any dispute goes to the state or federal courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+10.2 Entire agreement. This is the whole deal on confidentiality between us regarding the Purpose. It replaces any prior conversations or emails on the topic.
+
+10.3 Changes. Any changes have to be in writing signed by both of us.
+
+10.4 Assignment. Neither of us can assign this agreement without the other's written consent, except that the Investor can assign to any affiliated fund it manages.
+
+10.5 No waiver. Just because one of us doesn't immediately enforce a right doesn't mean we've given it up.
+
+10.6 Severability. If a court decides one part of this agreement isn't enforceable, the rest still is.
+
+10.7 Signatures. Both of us sign below. Electronic signatures are fine.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

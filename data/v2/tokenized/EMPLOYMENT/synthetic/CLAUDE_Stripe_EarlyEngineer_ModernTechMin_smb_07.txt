@@ -1,0 +1,80 @@
+{{PROVIDER_NAME}} — OFFER LETTER
+
+{{EFFECTIVE_DATE}}
+
+Hi {{CUSTOMER_NAME}},
+
+We're excited to offer you the role of {{EMPLOYEE_TITLE}} at {{PROVIDER_NAME}} ("we" or "the Company"). Below are the terms. Take a few minutes with this — and let us know if anything needs clarification before you sign.
+
+ARTICLE 1 — POSITION
+
+1.1 Role. You'll join us as {{EMPLOYEE_TITLE}}, reporting to the {{EMPLOYEE_REPORTS_TO}}. The day-to-day work is shipping production payments infrastructure code, partnering with product and design on new APIs, and helping us scale a small engineering team.
+
+1.2 Full-time and best efforts. We're hiring you full-time. We expect that you'll devote your professional energy to {{PROVIDER_NAME}} during work hours. Side projects are fine — even encouraged — as long as they don't compete with us, don't use our resources, and don't interfere with your work for us.
+
+1.3 Where you work. Your home base is our office in {{VENUE_CITY}}, {{GOVERNING_LAW_STATE}}. We work in-person on most days. Remote work for travel, doctors' appointments, family stuff, etc. is normal and doesn't need approval.
+
+ARTICLE 2 — TERM AND TERMINATION
+
+2.1 At-will. Your employment with us is at-will. That means you can leave whenever you want, for any reason. And we can let you go whenever we want, for any reason — though we'd much rather give you feedback first and try to make things work.
+
+ARTICLE 3 — COMPENSATION AND BENEFITS
+
+3.1 Salary. We'll pay you {{EMPLOYEE_BASE_SALARY}} per year as your base salary, paid every two weeks on our standard payroll cadence.
+
+3.2 Equity. Subject to board approval, we'll grant you equity worth approximately {{EMPLOYEE_INITIAL_EQUITY}} at the time of grant. The grant will be a mix of restricted stock units and early-exercise incentive stock options, exact split to be determined by the board. Vesting is over four years, with a one-year cliff and monthly vesting after that.
+
+If you elect to early-exercise the ISO portion, you'll have the chance to file a Section 83(b) election within 30 days of exercise. We don't give tax advice — talk to an accountant if you're not sure whether 83(b) makes sense for you.
+
+3.3 Sign-on bonus. We'll pay you a sign-on bonus of Twenty Thousand United States Dollars (US$20,000) in your first paycheck. If you leave us within the first 24 months for a reason that isn't us terminating you without cause, we'll ask you to repay it on a sliding scale: 100% if you leave in months 1-12, and 50% if you leave in months 13-24.
+
+3.4 Benefits. You'll get our standard benefits package: medical, dental, vision, 401(k) with company match, unlimited PTO (we'll talk about what that actually means in practice), 16 weeks of paid parental leave, and a learning and development budget.
+
+3.5 Expenses. We reimburse reasonable work expenses through our normal expense system. Don't go wild, but don't be shy about asking for things you need.
+
+ARTICLE 4 — CONFIDENTIALITY AND IP
+
+4.1 Confidential information. While you work here and after you leave, you'll keep our confidential information confidential. That includes things like our codebase, customer data, internal docs, financial information, product plans, and personnel information. You won't share it with anyone outside the Company, and you won't use it for anything other than your job.
+
+4.2 IP assignment. Anything you create as part of your work for us — code, designs, docs, ideas, inventions — belongs to {{PROVIDER_NAME}}. You agree to assign it to us, and to the extent it qualifies as a "work made for hire" under copyright law, that's how we'll treat it.
+
+4.3 Section 2870 (California). Section 4.2 doesn't apply to inventions you make entirely on your own time, without using any Company resources, that don't relate to our business. This is required notice under California Labor Code Section 2870.
+
+4.4 No California non-compete. We won't ask you to sign a post-employment non-compete because California Business & Professions Code Section 16600 makes those unenforceable for California employees. After you leave us, you're free to work wherever you want — including at competitors.
+
+4.5 DTSA whistleblower notice. Under the Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b)), you can disclose a trade secret in confidence to a government official or attorney for the purpose of reporting or investigating a suspected violation of law without facing trade-secret liability.
+
+ARTICLE 5 — PRIOR OBLIGATIONS
+
+5.1 You're free to work for us. By signing, you're confirming that no agreement with a former employer prevents you from joining us, and that you're not bringing any of their confidential information or trade secrets with you.
+
+ARTICLE 6 — DISPUTE RESOLUTION
+
+6.1 Governing law. {{GOVERNING_LAW_STATE}} law governs this offer. Any disputes go to the courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, except that we can ask a court anywhere for an injunction to stop a confidentiality or IP breach.
+
+6.2 No mandatory arbitration. We don't require you to arbitrate employment claims. If we ever change that policy, you'll have a chance to opt out.
+
+ARTICLE 7 — GENERAL PROVISIONS
+
+7.1 The whole offer. This letter, plus the standard equity grant agreement and benefit plan summaries we'll share with you, is the whole offer. Any changes have to be in writing and signed by both of us.
+
+7.2 If something's unenforceable. If a court strikes down part of this offer, the rest still applies.
+
+7.3 Sign here. To accept the offer, sign below and return a scan or photo. Your start date is the date listed above unless we agree on a different one.
+
+We're really excited about you joining. Let's go.
+
+—
+
+For {{PROVIDER_NAME}}:
+By: _______________________________
+Name:
+Title: Hiring Manager
+
+Accepted by:
+
+{{CUSTOMER_NAME}}
+
+Signature: _______________________________
+
+Date: _______________________________

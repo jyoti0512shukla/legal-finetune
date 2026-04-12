@@ -1,0 +1,27 @@
+=== SaaS / HIPAA telemedicine for an academic medical center ===
+
+PROMPT:
+Draft the Customer Data and HIPAA Compliance clause (Article 7) for a Software-as-a-Service Subscription Agreement between Helios Platform Inc. (a Delaware corporation, the "Provider") and Northridge University Medical Center (a Pennsylvania non-profit academic medical center, the "Customer"). Effective Date: February 11, 2025. Industry: telemedicine / remote patient monitoring. Deal size: enterprise. Negotiation posture: customer-friendly. Regulatory frameworks to address: HIPAA, HITECH, FDA Software as a Medical Device (SaMD), 21 CFR Part 820, NIH Data Management and Sharing Policy. Drafting style: BigLaw formal. Cover the standard provisions: Business Associate status with BAA reference, permitted uses limited to the Services, no AI training on PHI, HIPAA Security Rule safeguards with encryption, breach notification within 72 hours, data residency in the contiguous U.S., data return and deletion on termination, and regulator cooperation.
+
+RESPONSE (892 tokens, 224.2s):
+**ARTICLE 7 — HIPAA COMPLIANCE AND PROTECTED HEALTH INFORMATION**
+
+7.1 **Covered Entity and Business Associate.** The Parties acknowledge that Customer is a "covered entity" within the meaning of the Health Insurance Portability and Accountability Act of 1996 ("HIPAA") and that Provider is a "business associate" of Customer. Provider shall comply with HIPAA and the HITECH Act in its performance of the Services.
+
+7.2 **Business Associate Agreement.** The Parties shall execute and maintain a Business Associate Agreement in substantially the form attached as Exhibit A, which shall govern the handling of Protected Health Information ("PHI") by Provider. In the event of any conflict between this Agreement and the BAA, the BAA shall control with respect to Provider's obligations under HIPAA.
+
+7.3 **Permitted Uses of PHI.** Provider shall use and disclose PHI only as permitted by the BAA, as required by law, and only to the extent necessary to provide the Services. Provider shall not use PHI for any purpose other than the performance of the Services, including but not limited to product improvement, research, marketing, or commercial gain.
+
+7.4 **No Training of Artificial Intelligence on PHI.** Provider expressly agrees that it shall not use PHI, patient data, or any data derived from PHI to train, fine-tune, validate, or improve any artificial intelligence model, machine learning model, or algorithmic system, except where such use is expressly authorized in writing by Customer and complies with applicable privacy laws. Provider shall not contribute any data containing PHI to any third-party AI training dataset.
+
+7.5 **SaMD and FDA Compliance.** To the extent the Platform functions as Software as a Medical Device ("SaMD") under applicable FDA guidance, Provider shall maintain the Platform in compliance with the FDA's quality system regulations (21 C.F.R. Part 820) and shall promptly notify Customer of any FDA action, recall, or safety communication affecting the Platform. Provider shall not market the Platform for any use that has not been cleared or cleared by the FDA.
+
+7.6 **Security Safeguards.** Provider shall implement and maintain administrative, physical, and technical safeguards designed to comply with the HIPAA Security Rule, including without limitation (a) encryption of PHI in transit using TLS 1.2 or higher; (b) encryption of PHI at rest using AES-256 or equivalent; (c) role-based access controls; (d) annual third-party penetration testing; (e) maintenance of SOC 2 Type II certification; and (f) a documented information security program reviewed and updated at least annually.
+
+7.7 **Breach Notification.** Provider shall notify Customer in writing of any "Breach" of "Unsecured PHI" (as defined under 45 C.F.R. § 164.402) without undue delay and in any event within seventy-two (72) hours of Provider's discovery of such Breach. Such notification shall include the nature of the Breach, the categories of PHI involved, the measures taken to mitigate the effects, and the contact information of Provider's privacy officer.
+
+7.8 **Subcontractors.** Provider shall ensure that any subcontractor to whom it provides access to PHI has entered into a written agreement with Provider that is at least as protective of PHI as the BAA, and that such subcontractor complies with HIPAA and the BAA.
+
+7.9 **Regulator Cooperation.** Provider shall reasonably cooperate with Customer in any investigation or inquiry by the Department of Health and Human Services Office for Civil Rights, the Federal Trade Commission, any state attorney general, or any other governmental authority regarding Customer's handling of PHI.
+
+7.10 **Audit Rights.** Customer shall have the right, upon at least thirty (30) days' prior written notice and no more than once per calendar year, to audit Provider's compliance with the BAA and the HIPAA Security Rule. Such audit may be conducted by Customer or by a mutually agreed-upon third-party auditor. Provider shall provide reasonable access to facilities, personnel, and documentation necessary to complete the audit. Provider shall reimburse Customer for the reasonable costs of such audit only if the audit identifies a material deficiency in Provider's compliance.

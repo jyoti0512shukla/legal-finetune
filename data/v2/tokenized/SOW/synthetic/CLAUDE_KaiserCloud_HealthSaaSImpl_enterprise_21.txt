@@ -1,0 +1,185 @@
+STATEMENT OF WORK NO. 1 — PROFESSIONAL SERVICES IMPLEMENTATION (PROVIDER PAPER)
+
+This Statement of Work No. 1 (this "SOW") is entered into as of {{EFFECTIVE_DATE}} (the "SOW Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Customer"). The Provider and the Customer are collectively the "Parties." This SOW is the Provider's standard form for professional services engagements supporting the Provider's healthcare SaaS platform and is governed by the Provider's standard terms set forth herein.
+
+This SOW is issued pursuant to and is governed by the Master SaaS Subscription and Services Agreement between the Parties dated {{MSA_EFFECTIVE_DATE}} (the "MSA"). All capitalized terms used but not defined in this SOW have the meanings given to them in the MSA. In the event of any conflict between this SOW and the MSA, the MSA shall control except with respect to the project-specific commercial terms set forth in this SOW (which shall control as to this Engagement only). Notwithstanding anything in the MSA to the contrary, this SOW reflects the Provider's standard professional services terms and is structured in the Provider's favor.
+
+The project described in this SOW is referred to as the "{{PROJECT_NAME}}" or the "Project."
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 Project Objectives. The Customer has subscribed to the Provider's healthcare patient engagement SaaS platform under the MSA. The Customer has engaged the Provider's professional services team to perform the standard implementation of the platform for the Customer's environment, including configuration, integration with the Customer's electronic health record system, training of Customer end users, and go-live cutover support.
+
+1.2 In-Scope Activities. The Provider shall perform the following standard implementation In-Scope Activities, which are based on the Provider's standard implementation methodology and are not subject to material customization absent a Change Order:
+
+(a) Standard kickoff and project planning, using the Provider's standard project plan template.
+
+(b) Standard configuration of the platform's modules per the Customer-selected options identified in the Customer's order form, using only the platform's supported configuration capabilities.
+
+(c) Standard integration with the Customer's EHR using the Provider's pre-built EHR integration connector for the EHR vendor identified in Schedule A. Custom integration code or non-standard integration patterns are out-of-scope.
+
+(d) Standard data migration of patient demographic data using the Provider's standard data migration tooling and the Provider's standard data field mapping.
+
+(e) Standard end-user training using the Provider's standard training curriculum delivered remotely to up to fifty (50) Customer end users.
+
+(f) Standard go-live cutover support during the Customer's go-live week.
+
+(g) The Provider's standard 30-day post-go-live optimization period.
+
+1.3 Out-of-Scope Activities. The following are out-of-scope and require a Change Order at the Provider's then-current professional services rates:
+
+(a) Any activity not explicitly listed in Section 1.2.
+
+(b) Any platform customization that goes beyond the platform's standard configuration capabilities.
+
+(c) Any custom integration code or any integration with EHR vendors other than the one identified in Schedule A.
+
+(d) Migration of any data other than the standard patient demographic data using the standard tooling.
+
+(e) Training delivery in any format other than the Provider's standard remote curriculum, or training of more than fifty (50) Customer end users (additional users are billable per the Provider's standard training fees).
+
+(f) Any on-site visits requested by the Customer (the Provider's standard implementation is fully remote).
+
+(g) Any compliance attestation, audit support, or third-party risk management questionnaire response beyond the Provider's standard SOC 2 report and HIPAA documentation, all of which are made available under the MSA at no additional charge but do not include custom responses.
+
+(h) Any activity requested after the Provider's standard 30-day post-go-live optimization period.
+
+1.4 Engagement Period. The Provider shall perform the In-Scope Activities during the period beginning on the Project Start Date and ending on the Project End Date set forth in Article 3.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables. The Provider shall produce and deliver the following deliverables, each in the Provider's standard format:
+
+(a) Project Plan (the Provider's standard template). Target: end of Project Week 1.
+
+(b) Configuration Workbook (the Provider's standard template, populated with the Customer's selections). Target: end of Project Week 4.
+
+(c) Integration Test Results (using the Provider's standard EHR integration connector). Target: end of Project Week 6.
+
+(d) Data Migration Validation Report (using the Provider's standard tooling). Target: end of Project Week 7.
+
+(e) Training Completion Report. Target: end of Project Week 8.
+
+(f) Go-Live Cutover Confirmation. Target: end of Project Week 9.
+
+(g) Post-Go-Live Optimization Summary. Target: end of Project Week 13.
+
+2.2 Acceptance Criteria. Each Deliverable shall be deemed conforming if it has been produced using the Provider's standard methodology and standard templates. The Provider's professional services team's certification that the Deliverable conforms to the Provider's standard methodology is sufficient evidence of conformity, absent manifest error.
+
+2.3 Acceptance Period. The Customer shall have a period of five (5) business days following its receipt of each Deliverable to review and either (a) accept the Deliverable in writing, or (b) provide a written rejection notice. If the Customer fails to respond within five (5) business days, the Deliverable shall be deemed accepted.
+
+2.4 Cure of Non-Conformity. If the Customer rejects a Deliverable on the basis of non-conformity with the Provider's standard methodology, the Provider shall correct the non-conformity within ten (10) business days. After one (1) cure cycle, the Deliverable shall be deemed accepted unless the Customer reasonably establishes that the Deliverable still does not conform to the Provider's standard methodology.
+
+2.5 Out-of-Scope Rejection Limitation. The Customer may not reject any Deliverable on the basis that the Customer wanted a different scope, a different methodology, or different output formats than the Provider's standard. Such requests are properly addressed through the Change Control procedure in Article 8 and are not grounds for rejection.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project Start and End Dates. The Project shall commence on {{PROJECT_START_DATE}} and shall be substantially complete by {{PROJECT_END_DATE}}, in each case subject to (a) the Customer's timely satisfaction of the Customer Responsibilities, (b) the Assumptions in Article 6 remaining valid, and (c) any extensions agreed in an executed Change Order.
+
+3.2 Milestones. The Project shall be performed in accordance with the Provider's standard implementation milestone sequence:
+
+(a) Milestone 1 — Project Plan Accepted (Week 1).
+
+(b) Milestone 2 — Configuration Workbook Accepted (Week 4).
+
+(c) Milestone 3 — Integration Test Results Accepted (Week 6).
+
+(d) Milestone 4 — Data Migration Validation Report Accepted (Week 7).
+
+(e) Milestone 5 — Training Completion Report and Go-Live Cutover Complete (Week 9).
+
+(f) Milestone 6 — Post-Go-Live Optimization Summary Accepted (Week 13).
+
+3.3 Status Reporting. The Provider shall deliver weekly status updates in the Provider's standard format. The Provider's standard reporting cadence is sufficient regardless of any contrary expectations the Customer may have.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Provider Personnel Allocation. The Provider shall assign appropriate personnel to perform the In-Scope Activities consistent with the Provider's standard implementation team structure. Specific named individuals are identified in Schedule B but are not Key Personnel under this SOW; the Provider may reassign personnel at its discretion to balance the Provider's professional services capacity, provided that any replacement personnel have been trained on the Provider's standard implementation methodology.
+
+4.2 No Replacement Restrictions. Notwithstanding any contrary provisions in the MSA, the Provider shall have full discretion to assign and reassign professional services personnel to this Project. The Customer may not require the Provider to retain any specific individual on the Project.
+
+4.3 Background Checks. All Provider personnel are subject to the Provider's standard background check program. The Customer may not impose additional background check requirements beyond the Provider's standard program.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 Customer Cooperation. The Customer shall cooperate with the Provider's standard implementation methodology, including (a) designating a single Customer Project Owner with authority to make decisions, (b) making the Customer's IT, clinical, and administrative personnel available for the Provider's standard kickoff, configuration, training, and cutover sessions, (c) providing the Provider with timely access to the Customer's EHR test environment for the standard EHR integration, and (d) providing patient demographic data in the standard format required by the Provider's standard data migration tooling.
+
+5.2 Accuracy of Provided Materials. The Customer is responsible for the accuracy of all materials provided to the Provider. Errors or omissions in the provided materials are not a basis for rejection of any Deliverable.
+
+5.3 Review and Approval Turnaround. The Customer shall respond to the Provider's deliverables, decision requests, and questions within five (5) business days. Failure to do so shall result in deemed acceptance under Section 2.3 and may justify schedule extensions under Section 5.4.
+
+5.4 Customer Delays. If the Customer fails to satisfy its responsibilities in a timely manner, the Provider shall be entitled to (a) extend the Project End Date by the duration of the Customer's delay, (b) charge the Customer at the Provider's standard professional services rates for any additional Provider time required as a result of the Customer's delay, and (c) suspend the In-Scope Activities until the Customer has cured its delay. The Customer shall not be entitled to any extension of the standard 30-day post-go-live optimization period as a result of the Customer's own delays.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions. The In-Scope Activities, the Project Schedule, and the Project Fee are based on the following assumptions:
+
+(a) The Customer has subscribed to the platform tier and module set identified in the Customer's order form, and the In-Scope Activities are limited to the standard implementation of that tier and module set.
+
+(b) The Customer's EHR is the supported EHR identified in Schedule A and is at a version supported by the Provider's standard EHR integration connector.
+
+(c) The Customer's environment supports the Provider's standard remote training delivery and the Provider's standard remote cutover support model.
+
+(d) The Customer has fewer than fifty (50) end users requiring training under the Provider's standard training curriculum.
+
+(e) The Customer's data migration falls within the data volumes supported by the Provider's standard data migration tooling.
+
+(f) No regulatory inspection, accreditation review, or operational emergency affecting the Customer requires the Provider to provide non-standard support or to deviate from the Provider's standard methodology.
+
+6.2 Third-Party Dependencies. The Project depends on (a) the platform's continued availability under the MSA, and (b) the Customer's EHR and IT environment being operational.
+
+6.3 Provider's Standard Methodology Controls. To the extent any of the foregoing assumptions proves incorrect, the Customer agrees that the Provider's standard methodology shall control, and any deviation requested by the Customer is properly addressed through the Change Control procedure in Article 8 at the Provider's then-current professional services rates.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Fixed Fee for Standard Implementation. The Customer shall pay the Provider a fixed Project Fee of {{SOW_FEE_AMOUNT}} (the "Project Fee") for the standard implementation In-Scope Activities. The Project Fee is the Provider's standard implementation fee and reflects the standard scope; the Project Fee is not subject to reduction or refund except as expressly provided in this SOW.
+
+7.2 Payment Schedule. The Provider's standard payment schedule shall apply:
+
+(a) 50% of the Project Fee shall be invoiced upon execution of this SOW. The invoice shall be due and payable within net thirty (30) days, regardless of the Customer's internal accounts payable cycle.
+
+(b) The remaining 50% shall be invoiced upon Milestone 5 (Go-Live Cutover Complete). Due net thirty (30) days.
+
+7.3 Out-of-Scope Charges. Any out-of-scope work shall be invoiced separately at the Provider's then-current professional services rates, payable net thirty (30) days. The Provider may suspend out-of-scope work if any out-of-scope invoice is past due more than fifteen (15) days.
+
+7.4 Expense Reimbursement. The Provider's standard implementation is fully remote and the Provider does not expect to incur reimbursable expenses. If the Customer requests on-site activity, travel and lodging shall be billed at cost plus the Provider's standard 15% administrative fee, with no Customer pre-approval required for any individual expense up to {{EXPENSE_PREAPPROVAL_THRESHOLD}}.
+
+7.5 Late Payment. Past-due invoices shall accrue interest at the rate set forth in the MSA (or, if higher, the maximum rate permitted by applicable law). The Provider may suspend the In-Scope Activities and the Customer's use of the platform if any invoice is past due more than thirty (30) days.
+
+7.6 No Refunds. The Project Fee is non-refundable. If the Customer terminates this SOW prior to completion for any reason other than the Provider's uncured material breach, the Project Fee shall be deemed earned in full as of the termination date.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests. The Customer may propose a change in writing using the Provider's standard Change Request form. The Provider has no obligation to accept any proposed change.
+
+8.2 Impact Assessment. The Provider may, in its discretion, deliver an impact assessment to the Customer describing the proposed change's impact on scope, schedule, and the Project Fee, calculated at the Provider's then-current professional services rates.
+
+8.3 Change Order. If the Provider agrees to proceed with a proposed change, the Parties shall execute a written Change Order using the Provider's standard Change Order form. The Provider's standard Change Order is not negotiable as to form.
+
+8.4 No Oral Modifications. No oral statement, email, or other informal communication shall constitute a modification of this SOW. Only a Change Order signed by both Parties shall modify this SOW.
+
+8.5 Continuing Performance. The Provider shall continue to perform the In-Scope Activities while a Change Request is being negotiated.
+
+ARTICLE 9 — INCORPORATION OF MASTER AGREEMENT
+
+9.1 Incorporation by Reference. This SOW is issued under and is governed by the MSA. All terms of the MSA apply to this SOW, including the MSA's provisions on confidentiality, intellectual property (Provider retains all rights in the platform and the implementation methodology), indemnification, limitation of liability (subject to the cap in the MSA), insurance, governing law, and dispute resolution.
+
+9.2 Order of Precedence. In the event of any conflict between this SOW and the MSA, the MSA shall control, except that the project-specific commercial terms in this SOW shall control over any inconsistent provisions in the MSA solely as applied to this Engagement. The Provider's standard implementation methodology, standard templates, and standard payment schedule are part of the project-specific commercial terms.
+
+9.3 Provider IP Retention. All intellectual property in the platform, the standard configuration methodology, the standard data migration tooling, the standard training curriculum, and the standard templates remains the exclusive property of the Provider. The Customer obtains only the use rights granted in the MSA.
+
+9.4 Termination. This SOW may be terminated only as expressly provided in the MSA. The Provider may terminate this SOW at any time on ten (10) days' written notice if the Customer is in material breach of this SOW or the MSA. The Provider's right to terminate is in addition to any other remedies available under the MSA.
+
+IN WITNESS WHEREOF, the Parties have caused this Statement of Work No. 1 to be executed by their duly authorized representatives as of the SOW Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

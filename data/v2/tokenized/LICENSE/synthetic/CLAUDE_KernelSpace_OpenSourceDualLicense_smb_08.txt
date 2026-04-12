@@ -1,0 +1,131 @@
+Open Source Dual License Agreement (Commercial License)
+
+Licensor: {{PROVIDER_NAME}} ({{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}}, {{PROVIDER_ADDRESS}})
+Licensee: {{CUSTOMER_NAME}} ({{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}}, {{CUSTOMER_ADDRESS}})
+Effective Date: {{EFFECTIVE_DATE}}
+
+The Licensor publishes the Licensed Software under a dual-licensing model: (a) anyone can use the Licensed Software under the AGPLv3 open-source license, or (b) commercial users who don't want the AGPL's copyleft obligations can purchase a commercial license from the Licensor. This Agreement is the commercial license. The Licensee can use the Licensed Software in proprietary, closed-source applications without triggering the AGPL's source-code-disclosure requirement.
+
+ARTICLE 1 — WHAT'S LICENSED
+
+1.1 Licensed Software. The Licensor licenses to the Licensee the open-source software identified in the Licensee's order — typically a database engine, message broker, monitoring agent, or similar infrastructure component (the "Licensed Software"). The Licensor publishes the same source code under both AGPLv3 and this commercial license.
+
+1.2 Versions covered. The commercial license covers the Licensed Software version current as of the Effective Date and any minor / patch versions released during the Term. Major version upgrades may require a new commercial license at the Licensor's standard pricing.
+
+1.3 Documentation, plugins, and integrations. The commercial license also covers the Licensed Software's official documentation, official plugins published by the Licensor, and official integrations with third-party systems, in each case to the extent published by the Licensor under the commercial-license track.
+
+ARTICLE 2 — GRANT OF LICENSE
+
+2.1 Commercial license grant. The Licensor grants the Licensee an {{LICENSE_GRANT_TYPE}}, royalty-bearing license to use, reproduce, modify, and distribute the Licensed Software (and derivative works of the Licensed Software) under proprietary, closed-source terms — i.e. WITHOUT triggering the source-code disclosure obligations of the AGPLv3.
+
+2.2 What "without AGPL" means. Under the AGPL, anyone who modifies the Licensed Software and distributes it (or runs it as a network service) must make the modified source code available under AGPL. This commercial license relieves the Licensee of that obligation. The Licensee can:
+- modify the Licensed Software
+- embed the Licensed Software in the Licensee's proprietary product
+- distribute the Licensee's proprietary product to customers
+- run the Licensed Software as a network service for customers
+- keep all of the Licensee's modifications and the Licensee's product source code closed and proprietary
+
+2.3 Field of use. {{LICENSE_FIELD_OF_USE}}.
+
+2.4 Territory. {{LICENSE_TERRITORY}}.
+
+2.5 Term. {{LICENSE_TERM}}.
+
+2.6 Sublicensing. {{LICENSE_SUBLICENSE_RIGHTS}}.
+
+2.7 Reservation of rights. The Licensor retains ownership of the Licensed Software. The Licensee gets only the rights expressly granted. The Licensee's modifications to the Licensed Software are owned by the Licensee, but the Licensee's modifications cannot be re-licensed in a way that would cover the underlying Licensor-owned code.
+
+ARTICLE 3 — RESTRICTIONS
+
+3.1 Compliance with one of the two licenses. The Licensee may use the Licensed Software under either this commercial license OR the AGPLv3, but not both simultaneously for the same use case. If the Licensee chooses to use the Licensed Software under AGPLv3 for a particular use case, the AGPL terms apply, and this commercial license does not.
+
+3.2 No re-distribution as open source under a different name. The Licensee can't fork the Licensed Software, rebrand it, and distribute the fork as a competing open-source project under a different name. (The AGPL allows forking, but that has to happen under the AGPL — not under this commercial license, which is for proprietary use only.)
+
+3.3 No re-licensing. The Licensee can't grant sublicenses to third parties under this commercial license. Each commercial user must purchase its own commercial license from the Licensor.
+
+3.4 No removal of attribution. The Licensee will preserve the Licensor's copyright notices in the Licensed Software's source files. The Licensee is not required to provide end-user-facing attribution under this commercial license, but the Licensee may not falsely claim authorship of the Licensed Software.
+
+3.5 No use to compete with the Licensor's hosted service. If the Licensor offers a hosted / SaaS version of the Licensed Software, the Licensee may not use this commercial license to operate a competing hosted / SaaS version targeting the same market. (This is the "Business Source License" / "SSPL"-style restriction common in dual-licensing.) Internal hosting and providing the Licensed Software as a feature within a larger product are permitted; competitive standalone hosting is not.
+
+3.6 No removal of telemetry without disclosure. If the Licensed Software includes any telemetry that reports usage or version information back to the Licensor, the Licensee may disable the telemetry, but the Licensee will inform the Licensor by emailing the address in Section 9.3 if the Licensee disables telemetry across more than 50 instances.
+
+ARTICLE 4 — FEES
+
+4.1 Annual license fee. The Licensee pays an annual commercial license fee of {{LICENSE_UPFRONT_FEE}}, payable on the Effective Date and on each anniversary thereof during the Term.
+
+4.2 Per-instance pricing tier. The annual fee is calculated based on the number of production instances of the Licensed Software the Licensee runs. The Licensee's instance count and pricing tier are recorded on the order. If the Licensee scales beyond the contracted instance tier, the Licensee will true up to the next tier within thirty (30) days.
+
+4.3 No per-end-user royalty. The fee is based on the Licensee's instance count, not on the number of the Licensee's end users or end customers.
+
+4.4 Late payment. Late payments accrue interest at the lesser of one and one-half percent (1.5%) per month or the maximum rate permitted by law.
+
+4.5 Free re-licensing of contributions. If the Licensee contributes code back to the Licensed Software (a "Contribution"), the Licensee grants the Licensor a perpetual, royalty-free, sublicensable license to incorporate the Contribution into the Licensed Software and to license it under both the AGPLv3 and the commercial license. The Licensee does NOT receive a fee credit for Contributions, but the Licensee retains ownership of the Contribution.
+
+ARTICLE 5 — RECORDS AND AUDIT
+
+5.1 Instance count records. The Licensee will maintain accurate records of the production instances of the Licensed Software the Licensee runs.
+
+5.2 Audit right. The Licensor may, on thirty (30) days' written notice and not more than {{LICENSE_AUDIT_FREQUENCY}}, request a written self-certification from the Licensee identifying the number of production instances. The Licensor may, in addition, engage an independent auditor to verify the self-certification, with reasonable cooperation from the Licensee and at the Licensor's expense (unless the audit reveals an undercount of more than 10%, in which case the Licensee bears the cost).
+
+5.3 True-up. If the audit or self-certification reveals more instances than the Licensee's contracted tier, the Licensee will pay the difference between the contracted tier and the actual tier for the period of overuse, plus interest.
+
+ARTICLE 6 — CONFIDENTIALITY
+
+6.1 The Licensed Software is open source — there's nothing confidential about the source code itself.
+
+6.2 Each party will hold the other party's pricing, business terms, instance counts, and roadmap information in confidence and won't disclose them to third parties without consent.
+
+6.3 If the Licensor offers the Licensee any pre-release builds (alpha / beta versions), the Licensee will treat them as confidential until the Licensor releases them publicly.
+
+ARTICLE 7 — WARRANTIES AND INDEMNIFICATION
+
+7.1 The Licensor's warranties. The Licensor warrants that:
+- the Licensor has the right to grant this commercial license
+- the Licensed Software, as distributed by the Licensor under this commercial license, does not knowingly infringe any third-party copyright or patent
+- the Licensor will use reasonable efforts to fix critical security vulnerabilities and provide patches during the Term
+
+7.2 No warranty of merchantability. EXCEPT FOR THE EXPRESS WARRANTIES IN SECTION 7.1, THE LICENSED SOFTWARE IS PROVIDED "AS IS." NO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+7.3 Infringement indemnification. The Licensor will defend the Licensee against any third-party claim that the Licensed Software (as published by the Licensor, excluding any modifications by the Licensee or any third-party plugins not published by the Licensor) infringes the third party's copyright or patent. The Licensor's indemnification cap is two times (2x) the annual fees paid in the prior twelve (12) months.
+
+7.4 Mitigation. If the Licensed Software becomes subject to an infringement claim, the Licensor may, at its option, (a) procure for the Licensee the right to continue using, (b) replace the infringing portion with non-infringing functionality, or (c) terminate this license and refund a prorated portion of the unused annual fee.
+
+7.5 Licensee indemnification. The Licensee will indemnify the Licensor for any claim arising from (a) the Licensee's modifications to the Licensed Software, (b) the Licensee's product (other than the unmodified Licensed Software), or (c) the Licensee's use outside the licensed scope.
+
+7.6 Liability cap. Neither party's total liability (other than the indemnification in Section 7.3 and willful misconduct) exceeds the annual fees paid in the prior twelve (12) months. Neither party is liable for indirect, consequential, special, or punitive damages.
+
+ARTICLE 8 — TERM AND TERMINATION OF LICENSE
+
+8.1 Term. The initial Term is one (1) year from the Effective Date, automatically renewing for successive one-year terms unless either party gives at least sixty (60) days' notice of non-renewal.
+
+8.2 Termination for material breach. Either party may terminate this License if the other materially breaches and doesn't cure within thirty (30) days.
+
+8.3 Termination for non-payment. The Licensor may terminate if the Licensee fails to pay the annual fee within thirty (30) days of the due date.
+
+8.4 Effect of termination. After termination of the commercial license:
+- the Licensee may continue to use the Licensed Software, but only under the AGPLv3 — meaning the Licensee will be subject to the AGPL's source-code disclosure obligations
+- if the Licensee chooses not to comply with the AGPL, the Licensee must stop using the Licensed Software and remove it from the Licensee's product
+- the Licensee has a sell-off / wind-down period of six (6) months to update the Licensee's product to remove the Licensed Software or comply with the AGPL
+- the Licensee will pay all amounts due through the date of termination
+
+8.5 No refund. Annual fees are non-refundable except for the proration in Section 7.4.
+
+8.6 Survival. Articles 3.2 (no rebranding), 3.5 (no competing hosted service), 6, 7, 8.4, and 9 survive termination.
+
+ARTICLE 9 — MISCELLANEOUS
+
+9.1 Governing law: {{GOVERNING_LAW_STATE}}.
+9.2 Disputes: state or federal courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+9.3 Notices to the email address on file with the Licensor.
+9.4 No assignment without consent (Licensor may assign to a successor).
+9.5 Entire agreement.
+9.6 No waiver.
+9.7 Counterparts and electronic signatures.
+
+Signed:
+
+{{PROVIDER_NAME}}                                    {{CUSTOMER_NAME}}
+
+________________________                            ________________________
+Name:                                                Name:
+Title:                                               Title:

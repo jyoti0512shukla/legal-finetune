@@ -1,0 +1,133 @@
+Font License — Standard Commercial Terms
+
+Licensor: {{PROVIDER_NAME}} ({{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}}, {{PROVIDER_ADDRESS}})
+Licensee: {{CUSTOMER_NAME}} ({{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}}, {{CUSTOMER_ADDRESS}})
+Effective Date: {{EFFECTIVE_DATE}}
+
+This is a font license. The Licensor designs and licenses typefaces. The Licensee is a creative agency that wants to use the typefaces in client work. Standalone agreement, no parent contract.
+
+ARTICLE 1 — WHAT'S LICENSED
+
+The Licensor licenses to the Licensee the typefaces identified on the Licensee's order (the "Licensed Fonts"). Each Licensed Font is delivered as one or more font files (.otf, .ttf, .woff, .woff2) plus any associated trial files and specimen materials.
+
+The Licensor designed the Licensed Fonts. The Licensor (or the individual designer assigning rights to the Licensor) owns the copyright in the typeface design and the font software.
+
+ARTICLE 2 — GRANT OF LICENSE
+
+2.1 What the Licensee can do. The Licensor grants the Licensee an {{LICENSE_GRANT_TYPE}} license to install and use the Licensed Fonts.
+
+2.2 Field of use. {{LICENSE_FIELD_OF_USE}}.
+
+2.3 Territory. {{LICENSE_TERRITORY}}.
+
+2.4 Term. {{LICENSE_TERM}}.
+
+2.5 User seats. The Licensee may install the Licensed Fonts on up to the number of user seats covered by the Licensee's order. A "seat" is one (1) authorized user — typically one workstation. The current Licensee user seat count is recorded in the Licensee's account on the Licensor's website. The Licensee can purchase additional seats at any time.
+
+2.6 What use means. The Licensee may use the Licensed Fonts in:
+- print materials (brochures, books, magazines, packaging)
+- digital design materials (presentations, design files in InDesign / Figma / Sketch / Illustrator / Photoshop)
+- self-published materials and client deliverables
+- broadcast, film, and video productions
+- internal training materials
+- the Licensee's own website (subject to Section 3.3 below)
+
+2.7 What the Licensee CAN'T do (sublicensing). {{LICENSE_SUBLICENSE_RIGHTS}}.
+
+2.8 Reservation of rights. All rights not expressly granted are retained by the Licensor. No implied licenses.
+
+ARTICLE 3 — RESTRICTIONS
+
+3.1 No font file sharing. The Licensee can't share the font files with any party outside the Licensee's organization. This means:
+- no sending font files to clients (clients must purchase their own license if they want to install the fonts)
+- no posting font files on a shared drive accessible to anyone outside the Licensee's company
+- no distributing font files with the Licensee's design files (the Licensee must outline / convert text to outlines for any design file the Licensee delivers to a client)
+
+3.2 Client deliverables in outlines. When the Licensee delivers design files to a client (PDF, EPS, AI, INDD), the Licensee will convert all text set in the Licensed Fonts to outlines (or rasterize). This way the client can view and print the file but can't extract or re-use the font files.
+
+3.3 Web font use. Web font use (using the .woff or .woff2 files in a website's @font-face declaration) requires a separate web license, sold by domain or by monthly pageview tier. The standard desktop license in this Agreement does NOT include web font use.
+
+3.4 App embedding. Embedding the Licensed Fonts in a mobile app, desktop app, or other software product requires a separate app license. The standard desktop license does NOT include app embedding.
+
+3.5 ePub embedding. Embedding the Licensed Fonts in an ePub or other digital book format requires a separate ePub license, sold per title.
+
+3.6 No modification or derivative fonts. The Licensee can't modify the Licensed Fonts, create derivative typefaces, reverse engineer the font hinting, or rename and redistribute the fonts under a different name.
+
+3.7 No removal of metadata. The font file metadata (designer name, copyright notice, license URL) must remain intact in any installed copy.
+
+3.8 No use as logo or trademark for the Licensee's brand. The Licensee can use the Licensed Fonts in client logos and trademarks (that's part of the standard creative-agency use case), but the Licensee can't use a Licensed Font as the basis for a logo for the Licensee's own company without first obtaining a separate "logo license" from the Licensor.
+
+ARTICLE 4 — FEES
+
+4.1 License fee. The Licensee pays the upfront license fee of {{LICENSE_UPFRONT_FEE}}.
+
+4.2 No ongoing royalty. After the upfront fee, there's no per-use royalty, per-project royalty, or per-impression royalty for use within the desktop license scope. The license is a flat fee covering the seat count.
+
+4.3 Additional licenses. Additional licenses (web, app, ePub, additional seats, additional locations) are sold at the rates listed on the Licensor's website at the time of purchase.
+
+4.4 Payment terms. Net 30 from invoice.
+
+ARTICLE 5 — RECORDS AND AUDIT
+
+5.1 The Licensee will keep a record of which Licensed Fonts are installed on which workstations.
+
+5.2 If the Licensor has a reasonable basis to believe the Licensee has installed the Licensed Fonts on more workstations than the seat count covered by the Licensee's order, the Licensor may, on thirty (30) days' notice and not more than {{LICENSE_AUDIT_FREQUENCY}}, request a written report from the Licensee identifying the number of workstations on which the Licensed Fonts are installed.
+
+5.3 If the Licensee is over the seat count, the Licensee will purchase additional seats at the standard rate to bring the Licensee back into compliance, plus a true-up payment for the period of over-installation (one year of additional seat fees).
+
+ARTICLE 6 — CONFIDENTIALITY
+
+6.1 The Licensee will treat the Licensor's pricing, the Licensee's seat count, and any pre-release fonts as confidential.
+
+6.2 The Licensor will treat the Licensee's identity, account info, and seat count as confidential and will not include the Licensee in any marketing materials without consent.
+
+6.3 Trade secrets in font hinting. The Licensor's font hinting techniques are trade secrets. The Licensee will not attempt to extract, reverse engineer, or replicate the hinting algorithms.
+
+ARTICLE 7 — WARRANTIES AND INDEMNIFICATION
+
+7.1 The Licensor warrants that:
+- the Licensor has the right to grant this license
+- the Licensed Fonts do not infringe the copyright of any third-party typeface
+- the Licensed Fonts will install and render correctly on standard desktop operating systems and design applications
+
+7.2 Infringement indemnification. The Licensor will defend the Licensee against any third-party claim that the Licensed Fonts infringe the third party's typeface design copyright or font software copyright, and will pay any damages awarded. The Licensor's total indemnification liability is capped at three times (3x) the upfront license fee.
+
+7.3 The Licensee's indemnification. The Licensee will indemnify the Licensor for any claim arising from the Licensee's misuse of the Licensed Fonts (use outside the desktop license scope, font file sharing in violation of Article 3, modification of the fonts, etc.).
+
+7.4 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES IN SECTION 7.1, THE LICENSED FONTS ARE PROVIDED "AS IS." NO WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+7.5 Liability cap. Other than the indemnification in Section 7.2 and willful misconduct, neither party's total liability exceeds the upfront license fee. Neither party is liable for indirect, consequential, or punitive damages.
+
+ARTICLE 8 — TERM AND TERMINATION OF LICENSE
+
+8.1 Term. As stated in Section 2.4, the desktop font license is perpetual once the upfront fee is paid.
+
+8.2 Termination for material breach. The Licensor may terminate this License if the Licensee materially breaches and doesn't cure within thirty (30) days. Material breaches include unauthorized font file sharing, modification of the fonts, and use outside the licensed scope.
+
+8.3 Termination for non-payment. The Licensor may terminate if the Licensee fails to pay any fee within thirty (30) days of the due date.
+
+8.4 What happens after termination. After termination, the Licensee will:
+- uninstall all Licensed Fonts from all workstations
+- destroy all copies of the font files in the Licensee's possession
+- continue to comply with the confidentiality obligations and the use restrictions in Article 3
+
+The Licensee's perpetual right to use Licensed Fonts in materials already produced (printed brochures, finished design files, etc.) is preserved — the Licensee just can't keep installing the fonts on new workstations or use them in new projects.
+
+8.5 No refund. License fees are non-refundable.
+
+ARTICLE 9 — MISCELLANEOUS
+
+9.1 Governing law: {{GOVERNING_LAW_STATE}}.
+9.2 Disputes: courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+9.3 Notices in writing (email is fine).
+9.4 No assignment without consent.
+9.5 Entire agreement.
+9.6 Survival of Articles 3, 6.3, 7, 8.4, and 9.
+
+Signed by:
+
+{{PROVIDER_NAME}}                                    {{CUSTOMER_NAME}}
+
+________________________                            ________________________
+Name:                                                Name:
+Title:                                               Title:

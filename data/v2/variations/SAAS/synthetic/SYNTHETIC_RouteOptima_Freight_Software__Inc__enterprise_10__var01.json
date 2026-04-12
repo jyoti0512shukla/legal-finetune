@@ -1,0 +1,13 @@
+{
+  "source_template": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10.txt",
+  "variation_index": 1,
+  "substitutions": {
+    "PROVIDER_NAME": "Pinnacle Digital Systems, Inc.",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_NAME": "Birchwood Construction Company",
+    "CUSTOMER_STATE": "California",
+    "VENUE_CITY": "San Francisco",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "twenty-four (24)"
+  }
+}

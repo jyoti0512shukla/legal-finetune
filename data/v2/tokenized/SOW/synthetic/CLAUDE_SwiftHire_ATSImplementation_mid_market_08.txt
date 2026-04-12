@@ -1,0 +1,277 @@
+Statement of Work — ATS Implementation
+
+Project: {{PROJECT_NAME}}
+SOW Effective Date: {{EFFECTIVE_DATE}}
+Provider: {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}})
+Client: {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} ({{CUSTOMER_ADDRESS}})
+Parent MSA: signed {{MSA_EFFECTIVE_DATE}}
+
+This SOW operates under the Master Services Agreement above. Where this SOW says something different from the MSA on commercial terms (fee, schedule, deliverables, acceptance), this SOW wins. On everything else (confidentiality, IP, liability, governing law), the MSA wins.
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 What we're building
+
+The Provider is implementing a modern Applicant Tracking System (ATS) for the Client's talent team. The goal is to get the Client off its current spreadsheets-and-email recruiting workflow and onto a structured platform that supports req creation, candidate sourcing, interview scheduling, scorecards, offer letters, and reporting. The Project covers configuration, data migration, integrations with the Client's HRIS and email/calendar, training, and a 30-day go-live hypercare period.
+
+1.2 In-scope
+
+The Provider will:
+
+(a) Configure the ATS instance for the Client (req templates, scorecards, interview kits, offer letter templates, EEO/OFCCP fields, custom fields per Schedule A).
+
+(b) Build the org structure (departments, teams, hiring managers, recruiters, interviewers) per the Client-supplied org map.
+
+(c) Implement the role-based access controls per the access matrix in Schedule B.
+
+(d) Migrate the active req pipeline (open reqs and in-progress candidates) from the Client's current system into the ATS.
+
+(e) Integrate the ATS with the Client's HRIS (BambooHR or Workday — Schedule C identifies which) for new-hire push.
+
+(f) Integrate the ATS with the Client's calendar system (Google Workspace or Microsoft 365) for interview scheduling.
+
+(g) Implement the candidate-sourcing channel integrations: LinkedIn Recruiter System Connect, Indeed, the Client's careers page, and the Client's employee referral form.
+
+(h) Configure standard reports (req status, time-to-fill, source effectiveness, pass-through rates by stage, EEO reporting).
+
+(i) Run two training sessions: one for recruiters (90 minutes) and one for hiring managers (45 minutes).
+
+(j) Provide 30 calendar days of go-live hypercare following cutover, with daily standups during the first week and weekly office hours during weeks 2-4.
+
+1.3 Out-of-scope
+
+These are NOT included. Each of these, if requested, requires a Change Order.
+
+(a) Migration of historical (closed) reqs and candidates older than 90 days. Only active reqs and candidates currently in-flight are migrated.
+
+(b) Custom-built integrations beyond the standard integrations in Section 1.2. Custom API work is billable.
+
+(c) Background-check vendor integration. The Client's background-check vendor integration is set up by the background-check vendor, not by the Provider.
+
+(d) Compensation benchmarking, leveling, or comp-band setup.
+
+(e) Diversity sourcing services or DE&I consulting.
+
+(f) Recruitment marketing content (career page copy, employer branding).
+
+(g) Performance management, learning management, or any non-recruiting HR module.
+
+(h) Multi-tenant or multi-region instance setup beyond the single instance described in Schedule A.
+
+1.4 Project window
+
+Start: {{PROJECT_START_DATE}}. End: {{PROJECT_END_DATE}}. End date is the conclusion of the 30-day hypercare period after go-live.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables
+
+(a) Configuration Workbook — written workbook documenting the as-configured ATS, including req templates, scorecards, custom fields, and role-based access. Target: end of Project Week 4.
+
+(b) Integration Test Report — report covering HRIS, calendar, and sourcing channel integration test results. Target: end of Project Week 6.
+
+(c) Migration Validation Report — report comparing the migrated active pipeline against the source system. Target: end of Project Week 7.
+
+(d) UAT Sign-off — signed UAT acceptance from the Client's recruiting team confirming that the ATS is ready for go-live. Target: end of Project Week 8.
+
+(e) Go-Live and Cutover Confirmation — confirmation that the ATS is in production and the legacy workflow is retired. Target: end of Project Week 9.
+
+(f) Hypercare Closure Report — report summarizing the 30-day hypercare period, including issues raised and resolved. Target: end of Project Week 13.
+
+2.2 Acceptance window
+
+10 business days from receipt of each Deliverable. Client either accepts in writing or sends a single consolidated rejection notice with the alleged non-conformities. No deemed acceptance — the Client must affirmatively accept or reject each Deliverable within the acceptance window. The "no deemed acceptance" rule is intentional given the regulatory implications of mis-handled candidate data.
+
+2.3 Cure
+
+If the Client rejects, the Provider has 10 business days to fix and re-deliver. The Client gets a fresh acceptance window for the resubmitted Deliverable. After two cure cycles, the Client may either accept with an equitable Project Fee reduction or terminate this SOW for material breach.
+
+2.4 UAT criteria
+
+UAT sign-off (Deliverable (d)) is conditioned on the Client's recruiting team running through the test scripts in Schedule D and confirming that each test script passes. Test scripts cover req creation, candidate intake, interview scheduling, scorecard submission, offer letter generation, and HRIS push.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Dates
+
+Start: {{PROJECT_START_DATE}}. Substantial completion: {{PROJECT_END_DATE}}.
+
+3.2 Milestones
+
+(a) M1 — Kickoff and Configuration Workbook accepted (Week 4)
+
+(b) M2 — Integration Test Report accepted (Week 6)
+
+(c) M3 — Migration Validation Report accepted (Week 7)
+
+(d) M4 — UAT Sign-off (Week 8)
+
+(e) M5 — Go-Live (Week 9)
+
+(f) M6 — Hypercare Closure Report accepted (Week 13)
+
+3.3 Status updates
+
+Weekly written status update from the Provider on Fridays, covering completed work, planned work, open risks, and any anticipated slippage. If any milestone is anticipated to slip more than 5 business days, the Provider notifies the Client immediately and proposes a remediation plan.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named team
+
+(a) Implementation Lead — minimum 75% allocation across the Project.
+
+(b) ATS Configuration Specialist — minimum 100% allocation through M5, then 25% during hypercare.
+
+(c) Integration Engineer — minimum 100% allocation Weeks 4-7, then on-call during hypercare.
+
+(d) Trainer — Week 8 only.
+
+4.2 No replacement without consent
+
+The Provider won't swap out the Implementation Lead or the ATS Configuration Specialist without Client written consent. If a replacement is unavoidable (resignation, disability, leave), the Provider proposes a comparable replacement and gives the Client 5 business days to approve.
+
+4.3 Background
+
+All Provider personnel assigned to the Project have completed the standard background checks required by the MSA prior to receiving access to any Client systems.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 What we need from the Client
+
+(a) Designate one Client Implementation Owner with authority to approve Deliverables and make decisions on configuration choices.
+
+(b) Provide the org map, role-based access matrix, and custom field list (Schedules A and B) within the first 5 business days.
+
+(c) Provide HRIS API credentials for the integration described in Section 1.2(e).
+
+(d) Provide calendar admin access for the integration described in Section 1.2(f).
+
+(e) Provide the active req pipeline export from the current system within the first 10 business days.
+
+(f) Make the Client's recruiting team available for the UAT test scripts in Section 2.4.
+
+(g) Make hiring managers available for the 45-minute training session in Week 8.
+
+(h) Respond to deliverables, decision requests, and integration questions within 3 business days for time-sensitive items, 5 business days otherwise.
+
+5.2 Accuracy
+
+The Client is responsible for the accuracy of the org map, the access matrix, and the active req pipeline data. The Provider relies on the Client-provided data without independent verification.
+
+5.3 Client delays
+
+If the Client misses a 3-or-5-business-day response window and the delay impacts the Project Schedule, the Project End Date moves out by the same number of days. If a Client delay forces the Provider to re-mobilize personnel, the Provider may charge re-mobilization at the rates in the MSA after notice.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions
+
+(a) The Client has no more than 50 active reqs and no more than 800 candidates in flight as of the migration cutoff. Higher volumes are billable.
+
+(b) The Client uses one of the supported HRIS systems (BambooHR or Workday). Other HRIS systems are out of scope.
+
+(c) The Client uses Google Workspace or Microsoft 365 for calendar. Other calendar systems are out of scope.
+
+(d) The Client has an active LinkedIn Recruiter seat that supports the LinkedIn Recruiter System Connect (RSC) integration.
+
+(e) The Client's careers page is hostable on the standard ATS-provided careers site OR the Client's existing careers page can accept the standard ATS embed snippet. Custom careers page work beyond the embed is out of scope.
+
+(f) The Client is OFCCP-covered or, if not, doesn't require OFCCP-specific compliance reporting beyond the standard EEO fields. OFCCP-specific scope additions require a Change Order.
+
+(g) The Client doesn't have any legacy data residency or data export requirements that would prevent the use of the standard SaaS ATS.
+
+(h) The Client has the budget allocated for the ATS subscription itself (the Provider invoices for implementation services, not for the ATS subscription).
+
+6.2 Third-party dependencies
+
+The Project depends on (a) the ATS vendor's SaaS platform being operational, (b) the Client's HRIS API being available and stable, (c) LinkedIn Recruiter System Connect being available for the Client's seat tier, and (d) the Client's calendar admin granting integration access on schedule.
+
+6.3 If an assumption is wrong
+
+The Provider notifies the Client promptly upon discovering any incorrect assumption. The Parties work out a Change Order.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Fixed-fee with milestone-based payments
+
+The Project Fee is {{SOW_FEE_AMOUNT}}, fixed. This is not time-and-materials. The Provider absorbs cost overruns within the In-Scope Activities and within the Assumptions.
+
+7.2 Payment schedule
+
+(a) 25% on signature of this SOW. Invoice on signature, due net 30.
+
+(b) 25% on M4 (UAT Sign-off). Invoice on UAT sign-off, due net 30.
+
+(c) 35% on M5 (Go-Live). Invoice on go-live, due net 30.
+
+(d) 15% on M6 (Hypercare Closure Report accepted). Invoice on acceptance, due net 30.
+
+7.3 Expenses
+
+The Provider doesn't expect to incur reimbursable expenses on this Project. If on-site visits are needed (the Project is otherwise remote), travel is reimbursed under the MSA's expense policy with pre-approval for any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}}.
+
+7.4 ATS subscription
+
+The ATS subscription is paid by the Client directly to the ATS vendor. The Provider does not invoice for the subscription and is not responsible for the subscription terms.
+
+7.5 Late payment
+
+Net 30. The MSA's late-payment terms apply.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change requests
+
+Either Party may request a change in writing. The request describes the proposed change and the reason.
+
+8.2 Impact assessment
+
+The Provider responds within 5 business days with the proposed impact on scope, schedule, and Project Fee.
+
+8.3 Change Order
+
+If both Parties agree, they sign a written Change Order. No change is binding until signed by both Parties.
+
+8.4 No oral changes
+
+Slack messages, emails, hallway conversations — none of these change the scope. Only a signed Change Order changes the scope.
+
+8.5 De minimis
+
+Changes that move the Project Fee by less than {{CHANGE_ORDER_THRESHOLD}} and don't change the schedule can be confirmed by email between the named project leads.
+
+8.6 Continuing performance
+
+While a Change Request is being discussed, the Provider keeps doing the originally scoped work.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT
+
+9.1 Incorporation
+
+This SOW is incorporated into the MSA. All MSA terms apply (confidentiality, data privacy, IP, indemnification, liability cap, governing law, dispute resolution).
+
+9.2 Order of precedence
+
+MSA wins on framework terms. This SOW wins on the project-specific commercial terms (fee, schedule, deliverables, acceptance, key personnel).
+
+9.3 Candidate data
+
+The Client's candidate data is Confidential Information under the MSA. The Provider's access to candidate data during this Project is limited to Provider personnel with a need to know, and is governed by the MSA's data security obligations.
+
+9.4 Termination
+
+Termination is governed by the MSA. The Client may terminate for convenience under the MSA on the notice period set out there. Termination after M4 (UAT Sign-off) entitles the Provider to the M5 milestone payment plus reasonable wind-down costs.
+
+Signed as of {{EFFECTIVE_DATE}}.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

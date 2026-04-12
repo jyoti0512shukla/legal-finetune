@@ -1,0 +1,92 @@
+{{PROVIDER_NAME}} — REMOTE OFFER LETTER
+
+{{EFFECTIVE_DATE}}
+
+Hi {{CUSTOMER_NAME}},
+
+We're thrilled to offer you the role of {{EMPLOYEE_TITLE}} at {{PROVIDER_NAME}} ("we" or "the Company"). We're a fully remote design tools company. There is no headquarters and no expectation that you'll show up at one. Here's everything you need to know.
+
+ARTICLE 1 — THE ROLE
+
+1.1 What you'll do. You'll join us as {{EMPLOYEE_TITLE}}, reporting to the {{EMPLOYEE_REPORTS_TO}}. You'll own the design system that ships across our entire product surface. You'll partner with engineering and PM. You'll write things, review things, and ship things.
+
+1.2 Where you work. Anywhere in the United States that you'd like, as long as you have a stable internet connection and a workspace where you can focus. You can work from {{CUSTOMER_ADDRESS}} or anywhere else. We don't have a corporate office. If you want to work from a co-working space, the Company will reimburse a reasonable monthly membership.
+
+1.3 When you work. We have core hours from 10 AM to 2 PM in Eastern Time, when we expect you to be reachable for meetings or async questions. Outside those hours, your schedule is yours. Async is the default — most of our work happens in writing in tools like Notion, Linear, and Figma comments.
+
+1.4 Multi-state setup. Because we're fully remote, you can move during your employment. If you move to a new US state, please give us 30 days' notice so we can register for tax withholding in that state. We don't restrict where in the US you live.
+
+1.5 Full-time role. This is a full-time position. We expect you to devote substantially all of your professional time to the Company. Personal investments, charity, and unpaid side projects are fine; paid work for any other company requires our written approval.
+
+ARTICLE 2 — TERM AND TERMINATION
+
+2.1 At-will. Your employment with us is at-will. Either side can end it at any time, for any reason or no reason, with or without notice. If we let you go without cause, we'll do our best to give you reasonable notice.
+
+ARTICLE 3 — COMPENSATION AND BENEFITS
+
+3.1 Salary. Your base salary is {{EMPLOYEE_BASE_SALARY}} per year, paid every two weeks.
+
+3.2 Bonus. You're eligible for an annual bonus targeted at {{EMPLOYEE_TARGET_BONUS_PCT}}% of your base salary, based on Company performance and your individual contributions. Bonuses are decided by the leadership team in their discretion.
+
+3.3 Equity. Subject to board approval, we'll grant you equity worth approximately {{EMPLOYEE_INITIAL_EQUITY}} in the form of restricted stock units, vesting over four years with a one-year cliff and quarterly vesting after that.
+
+3.4 Home office stipend. We'll give you a one-time home office setup allowance of Two Thousand Five Hundred United States Dollars (US$2,500) for desk, chair, monitor, etc. After that, we provide a Five Hundred United States Dollar (US$500) annual refresh.
+
+3.5 Equipment. We'll send you a Company laptop and any peripherals you need on Day 1. If your role requires additional equipment, just ask.
+
+3.6 Co-working budget. If you want to work from a co-working space, we'll reimburse up to Three Hundred United States Dollars (US$300) per month against actual receipts.
+
+3.7 Travel. We bring the whole team together twice a year for in-person off-sites. Travel and lodging is on us. We may also send you to conferences or partner sites occasionally — usual expense rules apply.
+
+3.8 Benefits. You'll participate in our standard US benefits package: health insurance (medical, dental, vision), 401(k), unlimited PTO, and 16 weeks of paid parental leave.
+
+ARTICLE 4 — CONFIDENTIALITY AND IP
+
+4.1 Confidential information. Our customer data, code, designs, financial information, and unreleased product plans are confidential. Don't share them outside the Company. This obligation survives the end of your employment.
+
+4.2 IP. Anything you create as part of your work for us belongs to {{PROVIDER_NAME}}. You assign it to us, and to the extent it's a "work made for hire," that's how we'll treat it.
+
+4.3 Section 2870 / state law carve-outs. The IP assignment doesn't cover inventions you create entirely on your own time, without Company resources, that don't relate to our business. If your home state has a stronger inventor-protection statute (like California Labor Code Section 2870), we honor it.
+
+4.4 Defend Trade Secrets Act notice. Under 18 U.S.C. § 1833(b), you can share a trade secret in confidence with a government official or attorney to report or investigate a suspected violation of law without trade-secret liability.
+
+4.5 No non-compete. We don't ask remote employees to sign post-employment non-competes. After you leave, you're free to work for whoever you want, including competitors. We do ask you to keep our confidential information confidential and to not solicit our employees for 12 months after you leave.
+
+ARTICLE 5 — PRIOR OBLIGATIONS
+
+5.1 By signing this letter, you're confirming you're free to take the job. No agreement with a previous employer prevents you from working with us, and you're not bringing any of their confidential information or trade secrets to us.
+
+ARTICLE 6 — DISPUTE RESOLUTION
+
+6.1 Governing law. The laws of {{GOVERNING_LAW_STATE}} govern this letter. Disputes go to the state or federal courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, except that either party may seek an injunction in any court of competent jurisdiction to enforce confidentiality and IP obligations.
+
+6.2 No jury trial. Both of us waive our right to a jury trial in any employment dispute.
+
+ARTICLE 7 — GENERAL
+
+7.1 The whole deal. This letter, plus the equity grant documents and benefit plan summaries we'll send you, is the whole offer.
+
+7.2 Changes. Any changes have to be in writing, signed by both of us.
+
+7.3 If part is invalid. If a court strikes down any part of this letter, the rest stays in effect.
+
+7.4 Notice. Either party can terminate this employment relationship on at least {{NOTICE_DAYS}} days' written notice (except in cases involving Cause, where termination can be immediate).
+
+7.5 To accept. Sign below and send it back. Your start date is the date listed at the top.
+
+Welcome aboard.
+
+—
+
+For {{PROVIDER_NAME}}:
+By: _______________________________
+Name:
+Title: Head of People
+
+Accepted by:
+
+{{CUSTOMER_NAME}}
+
+Signature: _______________________________
+
+Date: _______________________________

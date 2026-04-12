@@ -1,0 +1,245 @@
+STATEMENT OF WORK NO. 2 — DIGITAL SERVICES MODERNIZATION ENGAGEMENT (STATE AGENCY)
+
+This Statement of Work No. 2 (this "SOW") is entered into as of {{EFFECTIVE_DATE}} (the "SOW Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Contractor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} (the "State Agency"). This SOW is the State Agency's standard form of engagement and shall be governed by the State Agency's negotiated terms set forth herein. The State Agency and the Contractor are collectively the "Parties."
+
+This SOW is issued pursuant to and is governed by the Master Professional Services Agreement between the Parties dated {{MSA_EFFECTIVE_DATE}} (the "MSA"). All capitalized terms used but not defined in this SOW have the meanings given to them in the MSA. In the event of any conflict between this SOW and the MSA, the MSA shall control except with respect to commercial terms and the State Agency-specific provisions expressly set forth in this SOW, which shall control as to this Engagement only and only in the State Agency's favor.
+
+The project described in this SOW is referred to as the "{{PROJECT_NAME}}" or the "Project."
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 Project Objectives. The State Agency has engaged the Contractor to modernize the State Agency's permit application portal — the public-facing web application through which residents and small businesses apply for and renew permits administered by the State Agency. The objectives are to (a) replace the legacy mainframe-backed application portal with a cloud-native web application, (b) improve accessibility to comply with the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA, (c) reduce average application completion time, (d) provide bilingual support (English and Spanish), and (e) preserve all data continuity and audit-trail requirements applicable to the State Agency under state records laws.
+
+1.2 In-Scope Activities. The Contractor shall:
+
+(a) Conduct a Discovery and Current-State Assessment, including stakeholder interviews, legacy system documentation review, and review of the State Agency's data classification policy.
+
+(b) Produce a Target State Architecture Document and a Migration Plan.
+
+(c) Build the new application portal as a cloud-native web application using the technology stack approved by the State Agency's Office of Information Technology Services (Schedule A).
+
+(d) Migrate the historical permit data from the legacy mainframe system to the new application portal's data store, with full data validation and reconciliation.
+
+(e) Implement the bilingual interface (English and Spanish) for all public-facing pages.
+
+(f) Implement WCAG 2.1 Level AA compliance, with third-party accessibility audit and remediation.
+
+(g) Implement role-based access controls for State Agency employees and integrate with the State Agency's enterprise single sign-on system.
+
+(h) Implement audit trails and records retention controls compliant with the State Agency's records retention schedule.
+
+(i) Conduct user acceptance testing in coordination with the State Agency's UAT team.
+
+(j) Conduct end-user training for State Agency employees and produce written training materials.
+
+(k) Provide a 90-calendar-day post-launch hypercare period.
+
+1.3 Out-of-Scope Activities. The following are out-of-scope under this SOW. Any of the following, if requested, requires a Change Order under Article 8:
+
+(a) Modifications to the State Agency's enterprise single sign-on system. The Contractor integrates with the existing system as is.
+
+(b) Modifications to the State Agency's existing payment processing infrastructure. Permit fees are processed through the State Agency's existing payment infrastructure.
+
+(c) New permit programs or new permit types not currently supported by the legacy system.
+
+(d) Modifications to the State Agency's enterprise data warehouse beyond delivering data extracts in the State Agency's standard format.
+
+(e) Modifications to the State Agency's internal case management systems.
+
+(f) Any work product subject to U.S. export-control restrictions.
+
+(g) Translation services into languages other than Spanish.
+
+(h) Print fulfillment, mail handling, or any non-digital services.
+
+1.4 Engagement Period. The Contractor shall perform the In-Scope Activities during the period beginning on the Project Start Date and ending on the Project End Date set forth in Article 3.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables. The Contractor shall produce and deliver to the State Agency the following deliverables:
+
+(a) Discovery and Current-State Assessment Report. Target: end of Project Week 6.
+
+(b) Target State Architecture Document and Migration Plan. Target: end of Project Week 12.
+
+(c) Iteration Build Releases — six (6) iteration builds delivered to the State Agency's UAT environment over Project Weeks 16 through 36, with each build implementing a defined set of user stories from the Migration Plan.
+
+(d) Data Migration Validation Report — written report documenting the historical data migration and the reconciliation results. Target: end of Project Week 38.
+
+(e) Accessibility Audit Report — third-party WCAG 2.1 Level AA audit results and remediation status. Target: end of Project Week 40.
+
+(f) Bilingual Implementation Validation — written validation that all public-facing pages support both English and Spanish. Target: end of Project Week 40.
+
+(g) UAT Sign-off — signed UAT acceptance from the State Agency's UAT team. Target: end of Project Week 42.
+
+(h) Production Cutover Implementation and Cutover Report. Target: end of Project Week 44.
+
+(i) End-User Training Sessions and Training Materials. Target: end of Project Week 45.
+
+(j) Hypercare Closure Report covering the 90-day hypercare period. Target: end of Project Week 58.
+
+(k) Records Retention Documentation evidencing the new system's compliance with the State Agency's records retention schedule.
+
+2.2 Acceptance Criteria. Acceptance criteria for each Deliverable are set forth in Schedule B. The State Agency reserves the sole right to determine whether each Deliverable satisfies the acceptance criteria.
+
+2.3 Acceptance Period. The State Agency shall have a period of twenty (20) business days following its receipt of each Deliverable to review and notify the Contractor in writing of acceptance or rejection. The State Agency may extend the Acceptance Period for any Deliverable that requires review by the State Agency's Office of Information Technology Services or any other state oversight body.
+
+2.4 Cure of Non-Conformity. If the State Agency rejects a Deliverable, the Contractor shall correct the alleged non-conformity at no additional charge and resubmit the corrected Deliverable to the State Agency within fifteen (15) business days. The State Agency shall then have a new Acceptance Period to review the resubmitted Deliverable. If the Contractor fails to deliver a conforming Deliverable after two (2) cycles of cure, the State Agency may, at its sole option, (i) accept the Deliverable in its then-current form with an equitable reduction in the Project Fee, (ii) terminate this SOW for material breach pursuant to the termination provisions of the MSA, or (iii) require the Contractor to engage at the Contractor's expense a third-party developer reasonably acceptable to the State Agency to complete the rejected Deliverable.
+
+2.5 No Deemed Acceptance. There shall be no deemed acceptance of any Deliverable under any circumstances.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project Start and End Dates. The Project shall commence on {{PROJECT_START_DATE}} and shall be substantially complete by {{PROJECT_END_DATE}}, subject to (a) the State Agency's Client Responsibilities, (b) the Assumptions in Article 6, (c) any extensions agreed in an executed Change Order, and (d) any extensions necessitated by state legislative, regulatory, or budget actions affecting the State Agency.
+
+3.2 Milestones.
+
+(a) Milestone 1 — Discovery and Current-State Assessment Report Accepted (Week 6).
+
+(b) Milestone 2 — Target State Architecture Document Accepted (Week 12).
+
+(c) Milestone 3 — Iteration Builds 1-3 Accepted (Week 24).
+
+(d) Milestone 4 — Iteration Builds 4-6 Accepted and Data Migration Validation Report Accepted (Week 38).
+
+(e) Milestone 5 — Accessibility Audit Report Accepted and Bilingual Implementation Validated (Week 40).
+
+(f) Milestone 6 — UAT Sign-off (Week 42).
+
+(g) Milestone 7 — Production Cutover Complete and Cutover Report Accepted (Week 44).
+
+(h) Milestone 8 — Hypercare Closure Report Accepted (Week 58).
+
+3.3 Status Reporting. The Contractor shall deliver written status reports weekly and shall hold biweekly status meetings with the State Agency Project Manager. Monthly executive readouts shall be held with the State Agency's IT Steering Committee.
+
+3.4 State Agency Right to Suspend. The State Agency may suspend the In-Scope Activities at any time on five (5) business days' written notice for any reason, including without limitation (a) state budget restrictions, (b) state legislative action affecting the Project, (c) executive order, (d) state procurement audit, or (e) any other reason the State Agency determines is necessary.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named Key Personnel. The Contractor shall assign the named Key Personnel in Schedule C, including:
+
+(a) Engagement Director (minimum allocation 25%);
+
+(b) Engagement Manager (minimum allocation 100%);
+
+(c) Lead Solution Architect (minimum allocation 75% Weeks 1-12, then 25% thereafter);
+
+(d) Lead Application Engineer (minimum allocation 100% Weeks 12-44);
+
+(e) Senior Data Migration Engineer (minimum allocation 100% Weeks 16-38);
+
+(f) Accessibility Lead (minimum allocation 50% Weeks 12-40);
+
+(g) Bilingual UX Lead (minimum allocation 75% Weeks 12-40).
+
+4.2 No Replacement Without Consent. The Contractor shall not replace any Key Personnel without the State Agency's prior written consent. The State Agency reserves the right to interview and approve any proposed replacement before the replacement begins work on the Project.
+
+4.3 Background Checks. All Contractor personnel assigned to this Project shall pass the State Agency's background check requirements (Schedule D), which include criminal history checks and may require fingerprint-based checks for personnel with access to State Agency systems containing personal information.
+
+4.4 MWBE Participation. The Contractor shall use commercially reasonable efforts to subcontract to certified Minority and Women-Owned Business Enterprises (MWBEs) consistent with the State Agency's MWBE participation goals set forth in Schedule E. The Contractor shall report MWBE participation quarterly during the Project.
+
+4.5 OFCCP Equal Opportunity. As a contractor providing services to a state agency, the Contractor shall comply with all applicable federal and state equal employment opportunity requirements.
+
+4.6 Removal of Personnel. The State Agency may, at any time and without cause, request that the Contractor remove any individual from the Project. The Contractor shall remove the named individual within five (5) business days.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 Designated State Agency Personnel. The State Agency shall designate (a) an Executive Sponsor, (b) a State Agency Project Manager, (c) a State Agency UAT Lead, (d) a Records Retention Liaison, and (e) such Subject Matter Experts as the Contractor reasonably requires.
+
+5.2 Access to Systems and Data. The State Agency shall provide the Contractor with timely access to the legacy mainframe environment in read-only mode, the State Agency's UAT environment, the enterprise single sign-on test environment, and such other systems as the In-Scope Activities require.
+
+5.3 Accuracy of Provided Materials. The State Agency is responsible for the accuracy of materials provided to the Contractor.
+
+5.4 Review and Approval Turnaround. The State Agency shall use commercially reasonable efforts to review and respond to Contractor deliverables within ten (10) business days. State Agency response times may be extended during state budget cycles, legislative session, or other periods of state administrative activity without prejudice to the State Agency.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions.
+
+(a) The State Agency's enterprise single sign-on system supports OIDC and is operational throughout the Project.
+
+(b) The State Agency's existing payment infrastructure remains operational and unchanged.
+
+(c) No state legislative or regulatory action during the Project Period materially changes the permit programs supported by the application portal.
+
+(d) The State Agency's records retention schedule for the application portal data is the schedule in effect on the Project Start Date. Material changes to the records retention schedule may trigger a Change Order.
+
+(e) The State Agency's IT Steering Committee meeting cadence supports the executive readout schedule in Section 3.3.
+
+(f) State budget appropriations are sufficient to support the Project Fee through the Project End Date.
+
+6.2 Third-Party Dependencies. The Project depends on (a) the State Agency's enterprise SSO system, (b) the State Agency's payment infrastructure, (c) the cloud platform provider (a state-approved cloud provider), and (d) the State Agency's UAT team availability.
+
+6.3 Notification of Changed Assumptions. The State Agency shall promptly notify the Contractor in writing if the State Agency becomes aware that any Assumption has changed.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Fixed-Fee with Milestone Payments. The State Agency shall pay the Contractor a fixed Project Fee of {{SOW_FEE_AMOUNT}} (the "Project Fee"), payable on the milestone-based schedule below. The Project Fee is exclusive of state and local taxes (which the State Agency is exempt from where applicable) and exclusive of out-of-pocket expenses.
+
+7.2 Milestone Payment Schedule.
+
+(a) 5% on Milestone 1 (Discovery Report Accepted).
+
+(b) 10% on Milestone 2 (Target State Architecture Document Accepted).
+
+(c) 20% on Milestone 3 (Iteration Builds 1-3 Accepted).
+
+(d) 25% on Milestone 4 (Iteration Builds 4-6 and Data Migration Validation Accepted).
+
+(e) 10% on Milestone 5 (Accessibility and Bilingual Validated).
+
+(f) 10% on Milestone 6 (UAT Sign-off).
+
+(g) 10% on Milestone 7 (Production Cutover Complete).
+
+(h) The remaining 10% (Retention Payment) on Milestone 8 (Hypercare Closure Report Accepted).
+
+Each milestone invoice is due and payable within forty-five (45) days of receipt, in accordance with the State Agency's standard payment cycle and prompt-payment statutes.
+
+7.3 Expense Reimbursement. The State Agency shall reimburse the Contractor for reasonable, documented out-of-pocket expenses, subject to (a) the State Agency's vendor travel policy, (b) the State's per diem rates, and (c) pre-approval of any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}}.
+
+7.4 No Cost Sharing for State-Funded Audits. If a state audit, financial review, or procurement audit during or after the Project Period requires additional Contractor cooperation beyond the In-Scope Activities, the Contractor shall cooperate at no additional charge.
+
+7.5 Disputed Invoices. The State Agency's prompt-payment statutes apply.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests. Either Party may at any time propose a change by submitting a written Change Request.
+
+8.2 Impact Assessment. Within ten (10) business days following receipt of a Change Request, the Contractor shall deliver a written impact assessment.
+
+8.3 Change Order. If the Parties agree, they shall execute a written Change Order. No change to this SOW shall be effective unless documented in a signed Change Order. Change Orders that would increase the Project Fee may require additional state procurement approval and may take longer than the standard process.
+
+8.4 No Oral Modifications. Only a Change Order signed by both Parties shall modify this SOW.
+
+8.5 Continuing Performance. The Contractor shall continue to perform the In-Scope Activities while a Change Request is being discussed.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT AND STATE-AGENCY-SPECIFIC PROVISIONS
+
+9.1 Incorporation by Reference. This SOW is issued under and is governed by the MSA. All MSA terms and conditions apply, including the MSA's provisions on confidentiality, data security, intellectual property ownership, indemnification, limitation of liability (subject to Section 9.4), insurance, governing law, and dispute resolution.
+
+9.2 Order of Precedence. The MSA shall control except that the commercial terms expressly set forth in this SOW (including the Project Fee in Article 7, the Project Schedule in Article 3, the Acceptance Criteria, and the State Agency-specific provisions in Sections 4.3, 4.4, 4.5, 9.3, 9.4, and 9.5) shall control over any inconsistent provisions in the MSA.
+
+9.3 FOIL / Public Records Compliance. The Contractor acknowledges that the State Agency is subject to the State's public records statute (the "Public Records Law") and that documents shared between the Parties may be subject to public disclosure. The Contractor shall mark documents containing trade secrets or confidential commercial information accordingly so the State Agency may invoke applicable exemptions, but the State Agency is not obligated to withhold any document that the Public Records Law requires to be disclosed.
+
+9.4 Sovereign Immunity. Nothing in this SOW or the MSA shall be construed as a waiver of the State Agency's sovereign immunity or any defenses available to the State Agency under state law. Any limitation of liability provisions in the MSA shall apply mutually, but the State Agency does not waive its sovereign immunity by agreeing to this SOW.
+
+9.5 No Indemnification of the State Agency Beyond State Law. The State Agency may not indemnify the Contractor or any third party except to the extent expressly permitted by state law. The MSA's mutual indemnification provisions, where applicable to the State Agency, shall be construed consistent with state law.
+
+9.6 Termination. The State Agency may terminate this SOW at any time, with or without cause, on thirty (30) days' written notice. The State Agency shall pay for work performed through the termination date plus reasonable, documented wind-down costs not to exceed two (2) weeks of Contractor time.
+
+9.7 Funding Out. The Project Fee is contingent on the continued availability of state appropriations. If state appropriations are not available in any fiscal year to fund the Project, the State Agency may terminate this SOW for non-appropriation on thirty (30) days' written notice without further liability.
+
+IN WITNESS WHEREOF, the Parties have caused this Statement of Work No. 2 to be executed by their duly authorized representatives as of the SOW Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

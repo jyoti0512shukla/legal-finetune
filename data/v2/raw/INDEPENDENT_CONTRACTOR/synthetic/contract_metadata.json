@@ -1,0 +1,648 @@
+{
+  "_description": "Per-contract metadata for synthetic Independent Contractor Agreement contracts. IC agreements are standalone contracts (not addenda) between a Company and an individual (or single-person LLC) engaged on a 1099 basis. Each entry captures industry, deal_size, customer_type, negotiation_bias, drafting_style, regulatory_frameworks, special_features, primary_clause_focus.",
+  "CLAUDE_ProDexStyle_OutgoingCEO_TransitionConsult_enterprise_01": {
+    "industry": "executive_transition_advisory",
+    "industry_label": "post-resignation transition consulting (outgoing CEO)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "executive_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "Insider trading rules under Section 10(b) of the Securities Exchange Act of 1934",
+      "Rule 10b-5",
+      "Section 16 reporting obligations"
+    ],
+    "party_roles": {"provider": "Company", "customer": "Independent Contractor"},
+    "pricing_structure": "hybrid_retainer_plus_hourly",
+    "special_features": [
+      "hybrid compensation: monthly retainer + hourly above cap (Pro-Dex pattern)",
+      "shortened 3-day termination for convenience reflecting transition nature",
+      "tax indemnification by Contractor (uncapped)",
+      "no IP article — IP was assigned during prior W-2 employment",
+      "customer-imposed conditions flow-down",
+      "insider trading policy compliance",
+      "D&O indemnification carve-out for prior CEO service"
+    ],
+    "primary_clause_focus": ["compensation", "ic_classification", "ic_termination"]
+  },
+  "CLAUDE_PinnaclePartners_PEStrategyConsult_enterprise_02": {
+    "industry": "strategy_consulting",
+    "industry_label": "strategy consulting for PE-backed portfolio company",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "consultant_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [],
+    "party_roles": {"provider": "Company", "customer": "Consultant"},
+    "pricing_structure": "fixed_fee_milestone",
+    "special_features": [
+      "fixed-fee with five milestone payments tied to value-creation playbook deliverables",
+      "private equity sponsor as third-party beneficiary of confidentiality and conflicts provisions",
+      "tax indemnification (uncapped)",
+      "Background IP carve-out with limited license to Company",
+      "12-month post-engagement non-solicit",
+      "PE sponsor portfolio non-compete during engagement"
+    ],
+    "primary_clause_focus": ["ic_intellectual_property", "compensation", "ic_restrictive_covenants"]
+  },
+  "CLAUDE_VertexAI_InterimCFO_PreIPO_enterprise_03": {
+    "industry": "interim_executive",
+    "industry_label": "interim Chief Financial Officer for late-stage IPO-track tech company",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "interim_executive_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "Sarbanes-Oxley Act of 2002",
+      "Section 10(b) and Rule 10b-5 (insider trading)",
+      "Regulation FD (post-IPO)",
+      "Rule 506(d) bad actor disqualification",
+      "PCAOB / SEC auditor independence rules"
+    ],
+    "party_roles": {"provider": "Company", "customer": "Interim CFO"},
+    "pricing_structure": "hybrid_retainer_with_ipo_bonus",
+    "special_features": [
+      "hybrid retainer + hourly excess + IPO completion bonus (cash, no equity)",
+      "explicit non-officer designation despite Interim CFO title",
+      "no equity participation (eligibility expressly denied)",
+      "auditor independence acknowledgment",
+      "Rule 506(d) bad actor disqualification representation",
+      "Reg FD training requirement post-IPO",
+      "D&O coverage at Company's discretion as additional insured",
+      "$2M E&O insurance requirement",
+      "tax indemnification (uncapped)",
+      "IPO completion bonus survives termination by 90 days"
+    ],
+    "primary_clause_focus": ["compensation", "ic_classification", "ic_intellectual_property"]
+  },
+  "CLAUDE_BeaconLitigation_ExpertWitness_mid_market_04": {
+    "industry": "litigation_expert",
+    "industry_label": "retained expert witness for litigation matter",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "expert_witness_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "Federal Rule of Civil Procedure 26(a)(2)(B) (expert disclosure)",
+      "Federal Rule of Civil Procedure 26(b)(3) (work product doctrine)",
+      "Federal Rule of Civil Procedure 26(b)(4) (expert discovery)",
+      "Federal Rule of Evidence 702 (expert qualification)",
+      "professional rules of conduct"
+    ],
+    "party_roles": {"provider": "Firm", "customer": "Expert"},
+    "pricing_structure": "hourly_with_retainer",
+    "special_features": [
+      "hourly rate with retainer applied as work proceeds",
+      "no IP article — opinions are the Expert's own; case materials are Firm's work product",
+      "no contingent fee (expressly prohibited)",
+      "travel time billed at 50% of hourly rate",
+      "attorney work product doctrine acknowledgment",
+      "draft destruction policy (no draft preservation)",
+      "no restrictive covenants (inappropriate for expert witnesses)",
+      "no indemnification of Expert (Expert relies on testimonial immunity)",
+      "$1M E&O insurance requirement",
+      "AAA arbitration for fee disputes",
+      "Expert may not terminate within 30 days of scheduled deposition or trial"
+    ],
+    "primary_clause_focus": ["compensation", "ic_classification", "ic_termination"]
+  },
+  "CLAUDE_NimbleStudio_FreelanceDesigner_smb_05": {
+    "industry": "creative_services",
+    "industry_label": "freelance visual design (logos, brand identity, marketing collateral, web design)",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "freelancer_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [],
+    "party_roles": {"provider": "Company", "customer": "Designer"},
+    "pricing_structure": "per_project_brief",
+    "special_features": [
+      "per-project briefs control compensation per deliverable",
+      "Designer's own equipment, schedule, and methods",
+      "Background IP retained by Designer with non-exclusive license to Company",
+      "portfolio rights for Designer (with attribution, unless designated confidential)",
+      "no post-engagement non-compete",
+      "narrow non-solicit only"
+    ],
+    "primary_clause_focus": ["ic_engagement", "ic_intellectual_property", "compensation"]
+  },
+  "CLAUDE_LinearForge_FreelanceDeveloper_smb_06": {
+    "industry": "software_development",
+    "industry_label": "freelance back-end and full-stack software development",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "freelancer_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [],
+    "party_roles": {"provider": "Company", "customer": "Developer"},
+    "pricing_structure": "hourly_per_ticket",
+    "special_features": [
+      "Linear/Jira/GitHub Issues tickets serve as project briefs",
+      "Developer's own equipment, location, and schedule",
+      "tech stack and code review process apply to deliverables only",
+      "Background IP retained by Developer with non-exclusive license",
+      "open-source contribution carve-out",
+      "no post-engagement non-compete"
+    ],
+    "primary_clause_focus": ["ic_engagement", "ic_intellectual_property", "compensation"]
+  },
+  "CLAUDE_NorthArc_MarketingConsultant_smb_07": {
+    "industry": "marketing_services",
+    "industry_label": "marketing strategy consulting (advisory, not implementation)",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "consultant_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [],
+    "party_roles": {"provider": "Company", "customer": "Consultant"},
+    "pricing_structure": "monthly_retainer",
+    "special_features": [
+      "advisory/oversight role (not hands-on implementation)",
+      "approximately 15 hours per week",
+      "monthly retainer compensation",
+      "Consultant retains the right to other clients",
+      "narrow non-solicit only"
+    ],
+    "primary_clause_focus": ["ic_engagement", "compensation", "ic_classification"]
+  },
+  "CLAUDE_LedgerLight_FractionalCFO_smb_08": {
+    "industry": "fractional_executive",
+    "industry_label": "fractional CFO services for small business",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "fractional_executive_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [
+      "GAAP financial reporting standards"
+    ],
+    "party_roles": {"provider": "Company", "customer": "Fractional CFO"},
+    "pricing_structure": "monthly_retainer",
+    "special_features": [
+      "part-time CFO covering close, reporting, cash flow, AR/AP, banking, investor relations",
+      "monthly retainer with set hours per week",
+      "Fractional CFO works with multiple clients",
+      "no equity component",
+      "no non-compete (Fractional CFO continues serving other clients)"
+    ],
+    "primary_clause_focus": ["ic_engagement", "ic_classification", "compensation"]
+  },
+  "CLAUDE_BeaconBrand_FractionalCMO_mid_market_09": {
+    "industry": "fractional_executive",
+    "industry_label": "fractional CMO services for mid-market consumer brand",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "fractional_executive_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [],
+    "party_roles": {"provider": "Company", "customer": "Fractional CMO"},
+    "pricing_structure": "monthly_retainer",
+    "special_features": [
+      "fractional CMO leading brand strategy, demand gen, marketing org, marketing tech stack",
+      "approximately 20 hours per week",
+      "monthly retainer",
+      "Fractional CMO retains the right to other (non-competing) clients",
+      "narrow non-solicit only"
+    ],
+    "primary_clause_focus": ["ic_engagement", "ic_classification", "compensation"]
+  },
+  "CLAUDE_RemoteOps_VirtualAssistant_smb_10": {
+    "industry": "administrative_services",
+    "industry_label": "remote virtual assistant providing administrative support",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "freelancer_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [],
+    "party_roles": {"provider": "Company", "customer": "Virtual Assistant"},
+    "pricing_structure": "hourly_with_monthly_cap",
+    "special_features": [
+      "remote-first; VA uses own computer and internet connection",
+      "monthly hour cap",
+      "no equipment provided",
+      "narrow non-solicit only",
+      "no post-engagement non-compete"
+    ],
+    "primary_clause_focus": ["ic_engagement", "ic_classification", "compensation"]
+  },
+  "CLAUDE_GlideCut_FreelanceVideoEditor_smb_11": {
+    "industry": "creative_services",
+    "industry_label": "freelance video editing for marketing content",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "freelancer_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [],
+    "party_roles": {"provider": "Company", "customer": "Editor"},
+    "pricing_structure": "per_project_brief",
+    "special_features": [
+      "per-project briefs with rough cut and final delivery dates",
+      "Editor's own equipment and editing software",
+      "may use assistants for non-creative tasks (transcription, footage logging)",
+      "portfolio rights with attribution",
+      "Background IP for editing presets retained by Editor"
+    ],
+    "primary_clause_focus": ["ic_engagement", "ic_intellectual_property", "compensation"]
+  },
+  "CLAUDE_PodPilot_PodcastProducer_smb_12": {
+    "industry": "creative_services",
+    "industry_label": "podcast producer (pre-production through distribution) for branded podcast",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "freelancer_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [],
+    "party_roles": {"provider": "Company", "customer": "Producer"},
+    "pricing_structure": "per_episode_fee",
+    "special_features": [
+      "per-episode fee covering pre-production, recording, post-production, distribution, show notes",
+      "Producer's own equipment and recording setup",
+      "host talent disclaimer (Producer is not on-air talent)",
+      "guest releases obtained by Producer",
+      "Background IP for production templates retained by Producer"
+    ],
+    "primary_clause_focus": ["ic_engagement", "ic_intellectual_property", "compensation"]
+  },
+  "CLAUDE_AtlanticBank_VendorConsultant_enterprise_13": {
+    "industry": "financial_services_vendor",
+    "industry_label": "regulated bank vendor consultant",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "consultant_individual",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "FFIEC vendor management guidance",
+      "OCC third-party risk management guidance",
+      "NYDFS Cybersecurity Regulation (23 NYCRR 500)",
+      "GLBA Safeguards Rule"
+    ],
+    "party_roles": {"provider": "Bank", "customer": "Vendor Consultant"},
+    "pricing_structure": "hourly_with_cap",
+    "special_features": [
+      "onshore-only US person requirement",
+      "regulatory examiner access rights",
+      "FFIEC/OCC vendor management compliance",
+      "NYDFS Cybersecurity Reg compliance",
+      "$2M E&O insurance requirement",
+      "background check and onboarding requirement",
+      "right to audit"
+    ],
+    "primary_clause_focus": ["ic_engagement", "ic_classification", "confidentiality"]
+  },
+  "CLAUDE_StateMHA_GovContractor_enterprise_14": {
+    "industry": "government_services",
+    "industry_label": "state agency consulting (state mental health authority)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "consultant_individual",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "state procurement code",
+      "Freedom of Information Law (FOIL) public records",
+      "state minority and women-owned business enterprise (MWBE) requirements",
+      "sovereign immunity doctrine"
+    ],
+    "party_roles": {"provider": "State Agency", "customer": "Contractor"},
+    "pricing_structure": "fixed_fee_per_deliverable",
+    "special_features": [
+      "sovereign immunity preserved",
+      "FOIL public records availability",
+      "MWBE participation requirement",
+      "funding-out / non-appropriation clause",
+      "state ethics rules compliance",
+      "no contingent fee",
+      "state audit rights",
+      "no flow-down to subcontractors"
+    ],
+    "primary_clause_focus": ["ic_engagement", "ic_classification", "ic_termination"]
+  },
+  "CLAUDE_MercyHealth_HealthcareConsultant_enterprise_15": {
+    "industry": "healthcare_services",
+    "industry_label": "healthcare clinical operations consultant + Business Associate",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "consultant_individual",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "HIPAA (Health Insurance Portability and Accountability Act)",
+      "HITECH",
+      "Stark Law (Physician Self-Referral)",
+      "Anti-Kickback Statute",
+      "OIG List of Excluded Individuals/Entities (LEIE)",
+      "SAM exclusion list"
+    ],
+    "party_roles": {"provider": "Health System", "customer": "Healthcare Consultant"},
+    "pricing_structure": "hourly_with_cap",
+    "special_features": [
+      "HIPAA Business Associate Agreement (BAA) incorporated",
+      "Stark / Anti-Kickback fair-market-value certification",
+      "OIG LEIE / SAM exclusion screening",
+      "$3M malpractice insurance requirement",
+      "PHI handling restrictions",
+      "no patient-facing clinical work",
+      "compliance hotline reporting obligation"
+    ],
+    "primary_clause_focus": ["ic_engagement", "confidentiality", "ic_classification"]
+  },
+  "CLAUDE_AeroVantage_DefenseConsultant_enterprise_16": {
+    "industry": "defense_services",
+    "industry_label": "defense industry consultant on classified prime contract",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "consultant_individual",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "International Traffic in Arms Regulations (ITAR)",
+      "Export Administration Regulations (EAR)",
+      "Cybersecurity Maturity Model Certification (CMMC)",
+      "Federal Acquisition Regulation (FAR)",
+      "Defense Federal Acquisition Regulation Supplement (DFARS)",
+      "DCAA audit standards",
+      "NISPOM (National Industrial Security Program)"
+    ],
+    "party_roles": {"provider": "Prime Contractor", "customer": "Defense Consultant"},
+    "pricing_structure": "hourly_with_dcaa_audit",
+    "special_features": [
+      "ITAR/EAR export control compliance",
+      "US person requirement",
+      "active security clearance required",
+      "CMMC compliance for Contractor's home/office systems",
+      "FAR/DFARS flow-downs to Contractor",
+      "DCAA timekeeping standards and audit rights",
+      "controlled unclassified information (CUI) handling",
+      "no foreign principal disclosure"
+    ],
+    "primary_clause_focus": ["ic_engagement", "confidentiality", "ic_classification"]
+  },
+  "CLAUDE_NovaPharma_PharmaConsultant_enterprise_17": {
+    "industry": "pharmaceutical_services",
+    "industry_label": "pharmaceutical KOL / commercial advisory consultant",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "physician_consultant_individual",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "Physician Payments Sunshine Act (Open Payments)",
+      "Anti-Kickback Statute (42 U.S.C. § 1320a-7b)",
+      "False Claims Act",
+      "FDA debarment list",
+      "PhRMA Code on Interactions with Healthcare Professionals",
+      "fair market value requirements"
+    ],
+    "party_roles": {"provider": "Pharma Sponsor", "customer": "Physician Consultant"},
+    "pricing_structure": "hourly_at_fair_market_value",
+    "special_features": [
+      "Sunshine Act / Open Payments reporting acknowledgment",
+      "fair-market-value certification",
+      "FDA debarment representation",
+      "no off-label promotion",
+      "$3M E&O insurance",
+      "compliance training requirement",
+      "PhRMA Code compliance",
+      "institutional approval required for academic consultants"
+    ],
+    "primary_clause_focus": ["ic_engagement", "compensation", "ic_classification"]
+  },
+  "CLAUDE_StarUniversity_AcademicResearcher_mid_market_18": {
+    "industry": "academic_consulting",
+    "industry_label": "academic researcher consulting under university outside-consulting policy",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "academic_researcher_individual",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "university outside-consulting policy (one-day-per-week rule)",
+      "California Business and Professions Code § 16600 (no non-competes)",
+      "Bayh-Dole Act (federal research funding IP)",
+      "academic publication and freedom of inquiry standards"
+    ],
+    "party_roles": {"provider": "Company", "customer": "Academic Researcher"},
+    "pricing_structure": "hourly_with_university_cap",
+    "special_features": [
+      "compliance with university outside-consulting policy",
+      "academic publication rights preserved",
+      "Bayh-Dole carve-out for federally funded research IP",
+      "Section 16600 acknowledgment (no non-compete)",
+      "use only personal time, no university resources",
+      "conflict of interest disclosure to university",
+      "narrow non-solicit only"
+    ],
+    "primary_clause_focus": ["ic_engagement", "ic_intellectual_property", "ic_restrictive_covenants"]
+  },
+  "CLAUDE_VertexAI_BoardAdvisorOrderForm_enterprise_19": {
+    "industry": "advisory_board",
+    "industry_label": "board advisor for technology company",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "board_advisor_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "federal securities laws (insider trading)",
+      "Section 10(b) and Rule 10b-5"
+    ],
+    "party_roles": {"provider": "Company", "customer": "Advisor"},
+    "pricing_structure": "cash_plus_equity",
+    "special_features": [
+      "modular order form with schedules",
+      "cash + equity (RSU/option) compensation",
+      "equity component governed by separate grant agreement",
+      "explicit non-officer / non-director designation",
+      "D&O coverage as additional insured",
+      "insider trading compliance for public company",
+      "no direct competitor advisory roles during Term"
+    ],
+    "primary_clause_focus": ["ic_engagement", "compensation", "ic_restrictive_covenants"]
+  },
+  "CLAUDE_BeaconLitigation_DamagesExpertOrderForm_mid_market_20": {
+    "industry": "litigation_expert",
+    "industry_label": "damages expert witness for litigation (modular order form)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "expert_witness_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "Federal Rule of Civil Procedure 26 (expert disclosure and work product)",
+      "Federal Rule of Evidence 702 (expert qualification)"
+    ],
+    "party_roles": {"provider": "Firm", "customer": "Damages Expert"},
+    "pricing_structure": "hourly_with_retainer",
+    "special_features": [
+      "modular order form with schedules (matter description, role, conflicts, CV)",
+      "no contingent fee (testimonial inadmissibility risk)",
+      "AAA arbitration for fee disputes (not the underlying matter)",
+      "$1M E&O insurance",
+      "no draft preservation policy",
+      "no restrictive covenants beyond conflict-of-interest provisions",
+      "Firm acts as outside litigation counsel for Client (third-party reference)"
+    ],
+    "primary_clause_focus": ["ic_engagement", "compensation", "confidentiality"]
+  },
+  "CLAUDE_GoldenStateGig_AB5Compliant_smb_21": {
+    "industry": "creative_services",
+    "industry_label": "California professional photographer (AB-5 / ABC test compliant)",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "freelancer_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [
+      "California Assembly Bill 5 (AB-5)",
+      "California Labor Code § 2775 (ABC test)",
+      "Dynamex Operations West, Inc. v. Superior Court (4 Cal. 5th 903 (2018))",
+      "California Business and Professions Code § 16600 (no non-competes)",
+      "California Industrial Welfare Commission Wage Orders"
+    ],
+    "party_roles": {"provider": "Company", "customer": "Contractor"},
+    "pricing_structure": "per_shoot_or_hourly",
+    "special_features": [
+      "ABC test prong A/B/C explicit language",
+      "Contractor's representations supporting ABC test (own business, multiple clients, insurance, equipment, marketing)",
+      "Section 16600 acknowledgment (no non-compete)",
+      "narrow non-solicit only",
+      "Contractor uses own equipment",
+      "no hours-of-work direction",
+      "outside the usual course of Company's business (sustainable consumer products, not photography)"
+    ],
+    "primary_clause_focus": ["ic_classification", "ic_engagement", "ic_restrictive_covenants"]
+  },
+  "CLAUDE_NYFreelance_FreelanceIsntFreeAct_smb_22": {
+    "industry": "creative_services",
+    "industry_label": "New York freelance copywriter (Freelance Isn't Free Act compliant)",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "freelancer_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [
+      "NYC Freelance Isn't Free Act (NYC Admin. Code §§ 20-927 to 20-935)",
+      "NY State Freelance Isn't Free Act (NY Labor Law §§ 191-d, 198-c)",
+      "NY General Business Law § 199-d"
+    ],
+    "party_roles": {"provider": "Hiring Party", "customer": "Freelance Worker"},
+    "pricing_structure": "per_project_order",
+    "special_features": [
+      "Freelance Isn't Free Act written contract requirement satisfied",
+      "30-day default payment term",
+      "anti-retaliation provision",
+      "no pre-completion modification of agreed compensation",
+      "double damages and attorneys' fees preserved as statutory remedies",
+      "venue carve-out: Freelance Worker may bring FIFA claims in NY courts",
+      "no post-engagement non-compete",
+      "narrow non-solicit only"
+    ],
+    "primary_clause_focus": ["compensation", "ic_classification", "ic_engagement"]
+  },
+  "CLAUDE_GlobalReach_InternationalConsultant_W8BEN_mid_market_23": {
+    "industry": "international_consulting",
+    "industry_label": "international consultant (non-US person, EU-based, market entry advisory)",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "foreign_consultant_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "IRC § 1441 (withholding on foreign persons)",
+      "IRC § 1442 (withholding on foreign corporations)",
+      "IRC § 1446 (withholding on foreign partners)",
+      "Form W-8BEN reporting",
+      "Form 1042-S reporting",
+      "FATCA",
+      "OFAC sanctions",
+      "Export Administration Regulations (EAR)",
+      "International Traffic in Arms Regulations (ITAR)",
+      "Foreign Corrupt Practices Act",
+      "UK Bribery Act",
+      "EU GDPR"
+    ],
+    "party_roles": {"provider": "Company", "customer": "Foreign Consultant"},
+    "pricing_structure": "hourly_with_cap",
+    "special_features": [
+      "Form W-8BEN reporting requirement",
+      "30% withholding under IRC § 1441/1442 (or treaty rate)",
+      "Form 1042-S annual reporting",
+      "no Form W-9, no Form 1099-NEC (Contractor is not a US person)",
+      "no US trade or business representation",
+      "performance from outside the United States only",
+      "OFAC sanctions screening",
+      "FCPA / UK Bribery Act compliance",
+      "ICDR international arbitration in lieu of court",
+      "no foreign employment relationship",
+      "GDPR cross-border data transfer acknowledgment"
+    ],
+    "primary_clause_focus": ["ic_classification", "compensation", "ic_engagement"]
+  },
+  "CLAUDE_WeekendDev_SideHustleMoonlighter_smb_24": {
+    "industry": "software_development",
+    "industry_label": "side-hustle software developer with disclosed primary employer (moonlighting)",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "moonlighter_individual",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [],
+    "party_roles": {"provider": "Company", "customer": "Contractor"},
+    "pricing_structure": "hourly_with_monthly_cap",
+    "special_features": [
+      "Primary Employer disclosure and moonlighting policy review representation",
+      "no use of Primary Employer resources, equipment, accounts, or networks",
+      "after-hours-only performance",
+      "Primary Employer IP carve-out (Section 5.4)",
+      "termination right for Contractor on Primary Employer conflict",
+      "Contractor indemnifies Company against any Primary Employer claim",
+      "no solicitation of Primary Employer co-workers (anti-tortious-interference)",
+      "bidirectional confidentiality (Company won't receive Primary Employer secrets)",
+      "no post-engagement non-compete"
+    ],
+    "primary_clause_focus": ["ic_classification", "ic_engagement", "ic_intellectual_property"]
+  },
+  "CLAUDE_GigPlatform_PlatformICClickthrough_smb_25": {
+    "industry": "gig_economy_platform",
+    "industry_label": "on-demand gig-economy platform click-through IC agreement (provider-friendly)",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "gig_worker_individual",
+    "negotiation_bias": "provider_friendly",
+    "drafting_style": "click_through_tos",
+    "regulatory_frameworks": [
+      "Federal Arbitration Act (9 U.S.C. §§ 1 et seq.)",
+      "California AB-5 / Labor Code § 2775 (potential applicability — disputed)",
+      "California PAGA"
+    ],
+    "party_roles": {"provider": "Platform", "customer": "Service Provider"},
+    "pricing_structure": "platform_set_per_task",
+    "special_features": [
+      "click-through acceptance",
+      "Platform-set rates with unilateral modification",
+      "deactivation without cause and without notice",
+      "broad license to Service Provider Content (perpetual, sublicensable, ML training)",
+      "Platform owns all performance/operational data",
+      "12-month customer non-circumvention",
+      "single-vertical non-compete during Term",
+      "Platform's liability capped at trailing 3 months of earnings",
+      "Service Provider liability uncapped",
+      "JAMS individual arbitration with class/collective/PAGA waiver",
+      "30-day arbitration opt-out window",
+      "unilateral modification by Platform with continued-use acceptance"
+    ],
+    "primary_clause_focus": ["ic_classification", "ic_restrictive_covenants", "ic_termination"]
+  }
+}

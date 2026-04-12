@@ -1,0 +1,175 @@
+PATENT LICENSE AGREEMENT — PHARMACEUTICAL WITH ROYALTY STACKING AND MINIMUM GUARANTEES
+
+This PATENT LICENSE AGREEMENT (this "Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Licensor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Licensee"). This Agreement reflects the Parties' agreement on royalty stacking, royalty floor, and minimum payment provisions that are typical of complex pharmaceutical licensing transactions involving multiple upstream patent holders.
+
+RECITALS
+
+WHEREAS, the Licensor owns certain patents and patent applications covering a specific antibody platform and methods of use thereof, more particularly identified in Schedule A (the "Licensor Patents");
+
+WHEREAS, the Licensee is developing therapeutic antibody products that may, in the course of development and commercialization, require licenses under multiple Third Party patents (in addition to the Licensor Patents) to avoid infringement, including patents covering antibody humanization, expression systems, manufacturing processes, and target binding;
+
+WHEREAS, the Parties wish to address upfront the financial mechanics of "royalty stacking" — the situation in which the Licensee must pay royalties to multiple upstream patent holders for the same Licensed Product — in a manner that is fair to both Parties and that allows the Licensee to commercialize the Licensed Products without being economically suffocated by stacked royalty obligations;
+
+NOW, THEREFORE, in consideration of the mutual covenants set forth herein, the Parties agree as follows.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means an entity controlling, controlled by, or under common control with the relevant Party (50% threshold).
+
+1.2 "Calendar Year" means a calendar year, with the first Calendar Year being a stub year ending December 31 of the year of the Effective Date.
+
+1.3 "Combination Royalty Stacking" means the situation in which the Licensee, in addition to its royalty obligations to the Licensor under Article 4, is also obligated to pay running royalties to one or more Third Parties for licenses under patents necessary to make, use, or sell a Licensed Product.
+
+1.4 "First Commercial Sale" means, on a country-by-country and Licensed Product-by-Licensed Product basis, the first commercial sale of a Licensed Product to a Third Party in such country following Regulatory Approval.
+
+1.5 "Floor Royalty Rate" means the minimum effective royalty rate that the Licensee must pay to the Licensor for any Licensed Product after application of all royalty stacking deductions, as set forth in Section 4.5.
+
+1.6 "Licensed Patents" means the Licensor Patents identified in Schedule A.
+
+1.7 "Licensed Product" means any pharmaceutical product whose manufacture, use, or sale would, but for the license granted in Article 2, infringe a Valid Claim of the Licensed Patents.
+
+1.8 "Net Sales" means the gross amounts invoiced for sales of Licensed Products to Third Parties (excluding sales between the Licensee and its Affiliates), less the standard pharmaceutical industry deductions for trade and quantity discounts, returns, freight, taxes (excluding income taxes), chargebacks and rebates, and government rebates including Medicaid, Medicare, and CMS-mandated rebates. Net Sales is further defined in Schedule B.
+
+1.9 "Regulatory Approval" means approval by the FDA, EMA, or comparable foreign regulatory authority required to market and sell a Licensed Product in the relevant country.
+
+1.10 "Stated Royalty Rate" means the royalty rate set forth in Section 4.3, before application of any royalty stacking deductions.
+
+1.11 "Stacking Deduction" means the credit the Licensee may take against the Stated Royalty Rate for Third Party royalties, calculated as set forth in Section 4.4.
+
+1.12 "Third Party" means any entity that is not the Licensor, the Licensee, or an Affiliate of either.
+
+1.13 "Third Party Royalty" means a running royalty payable by the Licensee to a Third Party for a license under a patent that is necessary to make, use, or sell a Licensed Product.
+
+1.14 "Valid Claim" means a claim of an issued, unexpired Licensed Patent that has not been held invalid or unenforceable.
+
+1.15 "Term" means the term set forth in Section 9.1.
+
+1.16 "Field" means {{LICENSE_FIELD_OF_USE}}.
+
+1.17 "Territory" means {{LICENSE_TERRITORY}}.
+
+ARTICLE 2 — GRANT OF LICENSE
+
+2.1 License Grant. Subject to the terms and conditions of this Agreement, the Licensor hereby grants to the Licensee an {{LICENSE_GRANT_TYPE}}, royalty-bearing license under the Licensed Patents to research, develop, make, have made, use, sell, offer to sell, import, and otherwise commercialize Licensed Products in the Field in the Territory.
+
+2.2 Reservation of Rights. The Licensor reserves the right to use the Licensed Patents for its own internal research purposes outside the commercial scope of this Agreement.
+
+2.3 Sublicensing. {{LICENSE_SUBLICENSE_RIGHTS}}.
+
+2.4 Term and Territory. {{LICENSE_TERM}} {{LICENSE_TERRITORY}}.
+
+ARTICLE 3 — RESTRICTIONS
+
+3.1 Field Limitation. The Licensee shall not use the Licensed Patents outside the Field. The Licensor reserves all rights for use of the Compound outside human therapeutic and diagnostic applications.
+
+3.2 No Use Outside the Territory. The Licensee shall not market or sell Licensed Products outside the Territory.
+
+3.3 No Reverse Engineering of Manufacturing Process. The Licensee shall not reverse engineer or attempt to derive the Licensor's proprietary manufacturing process for the Licensed Patents.
+
+3.4 No Sublicense to Competitors. Even where sublicensing is permitted under Section 2.3, the Licensee shall not sublicense to any direct competitor of the Licensor identified on Schedule C without the Licensor's prior written consent.
+
+ARTICLE 4 — FINANCIAL TERMS
+
+4.1 Upfront Payment. Within thirty (30) days of the Effective Date, the Licensee shall pay the Licensor a non-refundable upfront payment of {{LICENSE_UPFRONT_FEE}}.
+
+4.2 Milestone Payments. The Licensee shall pay the Licensor the milestone payments set forth in Schedule D upon the first achievement of each clinical, regulatory, and commercial milestone, on a Licensed Product-by-Licensed Product basis.
+
+4.3 Stated Running Royalty. Subject to the royalty stacking adjustments in Sections 4.4 and 4.5, the Licensee shall pay the Licensor a Stated Royalty Rate equal to {{LICENSE_ROYALTY_RATE}} on Net Sales of Licensed Products in the Territory, on a Licensed Product-by-Licensed Product and country-by-country basis.
+
+4.4 Stacking Deduction Mechanic. If the Licensee pays Third Party Royalties for a Licensed Product in a country, the Licensee may credit fifty percent (50%) of such Third Party Royalties against the running royalties otherwise payable to the Licensor for the same Licensed Product in the same country in the same Calendar Year. The Stacking Deduction shall not exceed the amount necessary to reduce the Licensor's running royalties from the Stated Royalty Rate to the Floor Royalty Rate.
+
+4.5 Floor Royalty Rate. The Floor Royalty Rate is fifty percent (50%) of the Stated Royalty Rate. After application of all Stacking Deductions, the running royalty payable to the Licensor for any Licensed Product in any country in any Calendar Year shall not be reduced below the Floor Royalty Rate.
+
+4.6 Worked Example. For illustration, if the Stated Royalty Rate is 8% of Net Sales and the Licensee pays Third Party Royalties of 6% of Net Sales for the same product, the Stacking Deduction is 50% × 6% = 3%, which would reduce the Licensor's running royalty from 8% to 5%. However, the Floor Royalty Rate (50% × 8% = 4%) means the Licensor's running royalty cannot fall below 4%, so the actual Stacking Deduction is capped at 4 percentage points. This worked example is for illustration only and is not intended to alter the calculations in Sections 4.3, 4.4, and 4.5.
+
+4.7 Minimum Annual Royalty. Beginning in the second Calendar Year after First Commercial Sale, the Licensee shall pay the Licensor a minimum annual royalty of {{LICENSE_MIN_ANNUAL_ROYALTY}} for each Calendar Year, creditable against running royalties (after stacking adjustments) otherwise payable for the same Calendar Year. If running royalties exceed the minimum annual royalty, no additional minimum-royalty payment is due.
+
+4.8 Tiered Royalty Adjustment. The Stated Royalty Rate set forth in Section 4.3 shall be adjusted (after stacking deductions) based on cumulative annual Net Sales of all Licensed Products as set forth in Schedule E (e.g. higher rate for the first $500M of annual Net Sales, lower rate for amounts above).
+
+4.9 Royalty Term. The royalty obligations under this Article 4 shall continue, on a Licensed Product-by-Licensed Product and country-by-country basis, until the later of (a) expiration of the last Valid Claim of the Licensed Patents covering such Licensed Product in such country, (b) expiration of all regulatory exclusivity for such Licensed Product in such country, or (c) ten (10) years after First Commercial Sale of such Licensed Product in such country.
+
+4.10 Disclosure of Third Party Royalties. The Licensee shall disclose to the Licensor, with each royalty report, the existence and rate of any Third Party Royalty for which the Licensee is taking a Stacking Deduction. The Licensee shall provide the Licensor with redacted copies of the relevant Third Party license agreements on request, with sensitive commercial terms reasonably redacted.
+
+4.11 Royalty Reports and Payment. Within sixty (60) days after the end of each Calendar Quarter, the Licensee shall provide the Licensor with a royalty report and shall pay the running royalties due (calculated after Stacking Deductions and subject to the Floor Royalty Rate).
+
+4.12 Currency. All payments in United States Dollars by wire transfer.
+
+ARTICLE 5 — RECORDS AND ROYALTY AUDIT
+
+5.1 Records. The Licensee shall maintain complete and accurate books and records of Net Sales, royalty calculations, Stacking Deductions, and Third Party Royalty payments for at least seven (7) years.
+
+5.2 Audit Right. The Licensor may, on at least thirty (30) days' prior written notice and not more than {{LICENSE_AUDIT_FREQUENCY}}, engage an independent certified public accountant reasonably acceptable to the Licensee to audit the Licensee's books and records solely for purposes of verifying the accuracy of the royalty reports and royalty payments, including verification of any Stacking Deductions claimed.
+
+5.3 Audit Costs. The Licensor shall bear the cost of the audit, except that if the audit reveals an underpayment of more than five percent (5%) for any Calendar Year, the Licensee shall reimburse the Licensor for the cost of the audit.
+
+5.4 Audit Findings. The Licensee shall pay any underreported royalties revealed by the audit, plus interest at one and one-half percent (1.5%) per month, within thirty (30) days of the audit report.
+
+ARTICLE 6 — IMPROVEMENTS, PATENT PROSECUTION, AND ENFORCEMENT
+
+6.1 Patent Prosecution. The Licensor shall control the prosecution and maintenance of the Licensed Patents at the Licensor's expense.
+
+6.2 Improvements. Any Improvements to the Licensed Patents made by the Licensor during the Term shall be deemed included in the Licensed Patents and licensed to the Licensee under Article 2 on the same terms.
+
+6.3 Enforcement. The Licensor shall have the first right (but not the obligation) to enforce the Licensed Patents against Third Party infringement. If the Licensor declines to enforce within ninety (90) days, the Licensee may step in. Recovery is shared 80/20 to the enforcing Party.
+
+ARTICLE 7 — CONFIDENTIALITY
+
+7.1 The Parties shall hold the financial terms of this Agreement, the Stacking Deductions, the underlying Third Party royalty rates, and any non-public technical information in strict confidence.
+
+7.2 Permitted disclosures include those to officers, directors, employees, advisors, prospective and actual investors, prospective and actual acquirers, and as required by applicable law (including securities laws).
+
+7.3 Survival. Confidentiality obligations survive termination for ten (10) years.
+
+ARTICLE 8 — REPRESENTATIONS, WARRANTIES, AND INDEMNIFICATION
+
+8.1 Licensor Representations. The Licensor represents and warrants that (a) the Licensor owns the Licensed Patents and has the right to grant this license, (b) the Licensor has not granted any conflicting license, and (c) to the Licensor's knowledge, no Third Party has alleged that the Licensed Patents are invalid.
+
+8.2 Licensee Indemnification. The Licensee shall defend, indemnify, and hold harmless the Licensor from any third-party claim arising from the Licensee's research, development, manufacture, or sale of any Licensed Product, including any product liability claim.
+
+8.3 Limitation of Liability. EXCEPT FOR (A) BREACHES OF CONFIDENTIALITY, (B) THE LICENSEE'S INDEMNIFICATION OBLIGATIONS UNDER SECTION 8.2, AND (C) WILLFUL MISCONDUCT, NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.
+
+ARTICLE 9 — TERM AND TERMINATION OF LICENSE
+
+9.1 Term. This Agreement commences on the Effective Date and continues until the expiration of the Royalty Term for all Licensed Products in all countries.
+
+9.2 Termination for Material Breach. Either Party may terminate upon sixty (60) days' written notice for the other Party's uncured material breach.
+
+9.3 Termination for Failure to Meet Minimums. The Licensor may terminate if the Licensee fails to pay the minimum annual royalty for any Calendar Year and fails to cure within ninety (90) days.
+
+9.4 Termination for Insolvency. Either Party may terminate immediately upon written notice for the other Party's bankruptcy or insolvency, subject to the Section 365(n) safe harbor for the Licensee in the event of the Licensor's bankruptcy.
+
+9.5 Effect of Termination. Upon termination (other than expiration), the Licensee shall cease all use of the Licensed Patents (subject to a six-month sell-off period for finished inventory), pay all amounts due, and return Confidential Information.
+
+9.6 Survival. Articles 4 (with respect to amounts owed), 5, 7, 8, 9.5, and 10 survive termination.
+
+ARTICLE 10 — MISCELLANEOUS
+
+10.1 Governing Law: {{GOVERNING_LAW_STATE}}.
+10.2 Arbitration: AAA Commercial Arbitration Rules in {{VENUE_CITY}}, {{GOVERNING_LAW_STATE}}, with three arbitrators.
+10.3 Notices in writing.
+10.4 Assignment to Affiliates and successors permitted; otherwise requires consent.
+10.5 Entire Agreement.
+10.6 Amendment in writing.
+10.7 Counterparts.
+
+SCHEDULES
+
+Schedule A — Licensed Patents
+Schedule B — Definition of Net Sales
+Schedule C — Restricted Sublicensees
+Schedule D — Milestone Payments
+Schedule E — Tiered Royalty Adjustment
+
+IN WITNESS WHEREOF, the Parties have executed this Patent License Agreement as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

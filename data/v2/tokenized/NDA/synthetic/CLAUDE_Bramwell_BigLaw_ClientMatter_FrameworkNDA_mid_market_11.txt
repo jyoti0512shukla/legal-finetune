@@ -1,0 +1,138 @@
+MASTER CONFIDENTIALITY AGREEMENT WITH PER-MATTER ADDENDA
+
+THIS MASTER CONFIDENTIALITY AGREEMENT (this "Master Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date") between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} with its principal office at {{PROVIDER_ADDRESS}} (the "Firm"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} with its principal place of business at {{CUSTOMER_ADDRESS}} (the "Client"). The Firm and the Client are each referred to herein as a "Party" and collectively as the "Parties."
+
+This Master Agreement is intentionally drafted as a bare framework. It establishes the baseline confidentiality, use, and return obligations that will apply to any non-public information exchanged between the Firm and the Client in connection with any legal engagement the Firm undertakes for the Client. The specific scope of each engagement — including the identity of the client-side contact, the engaged matter, the relevant law department authorizations, the retained outside vendors, the data room rules, the retention schedule, and any matter-specific restrictions — will be set forth in a separate Matter Addendum executed for each new engagement. This Master Agreement is not a substitute for the Firm's formal engagement letter, which will address fees, scope, and the attorney-client relationship separately.
+
+WHEREAS, the Firm provides legal services to the Client under one or more engagement letters, and the provision of those services requires the Firm and the Client to exchange non-public and privileged information;
+
+WHEREAS, the Firm is bound by the Rules of Professional Conduct applicable in each jurisdiction in which it practices, including Model Rule 1.6 (Confidentiality of Information), Model Rule 1.9 (Duties to Former Clients), and the attorney-client privilege and work-product doctrine;
+
+WHEREAS, the Parties wish to establish a single master framework governing confidentiality that may be supplemented, but not contradicted, by individual Matter Addenda;
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual covenants set forth herein, the Parties, intending to be legally bound, hereby agree as follows:
+
+ARTICLE 1 — DEFINITIONS AND STRUCTURE
+
+1.1 "Matter" means any discrete legal engagement described in a Matter Addendum executed under this Master Agreement.
+
+1.2 "Matter Addendum" means a written addendum executed by the Firm and the Client that incorporates this Master Agreement by reference and sets forth the scope of a specific Matter, including the matter description, the engaged attorneys, the authorized Client contacts, the sources of Confidential Information to be handled, the applicable data room protocols, any matter-specific retention or destruction schedule, and any additional matter-specific restrictions.
+
+1.3 "Confidential Information" means all non-public information disclosed by or on behalf of one Party (the "Disclosing Party") to the other Party (the "Receiving Party") in connection with any Matter, in whatever form or medium, including without limitation: (a) privileged communications; (b) attorney work product; (c) transactional documents, corporate records, board materials, and financial information; (d) litigation strategy, witness preparation notes, and case theory; (e) the identities of persons or entities involved in any Matter; and (f) any information designated by the Disclosing Party as confidential or that a reasonable person would understand from the circumstances of disclosure to be confidential. The existence, subject matter, and nature of any Matter shall itself constitute Confidential Information unless the relevant Matter Addendum expressly provides otherwise.
+
+1.4 "Purpose" means, with respect to each Matter, the Firm's provision of legal services and the Client's receipt of legal services in connection with that specific Matter, as defined in the applicable Matter Addendum, and nothing else.
+
+1.5 "Representatives" means, with respect to the Firm, the partners, associates, paralegals, secretaries, and other personnel of the Firm who have been staffed on the relevant Matter or who have a demonstrated need to know in connection with the Matter, together with any outside vendors (such as e-discovery providers or expert consultants) expressly engaged in writing for the Matter; and with respect to the Client, the directors, officers, employees, and legal-department personnel of the Client who have been designated in the relevant Matter Addendum or who have a demonstrated need to know in connection with the Matter, together with any outside co-counsel or expert consultants expressly engaged in writing for the Matter.
+
+1.6 "Trade Secret" means any Confidential Information that qualifies as a trade secret under the Defend Trade Secrets Act of 2016, the Uniform Trade Secrets Act as enacted in {{GOVERNING_LAW_STATE}}, or any other applicable law.
+
+1.7 Order of Precedence. In the event of any conflict between this Master Agreement and a Matter Addendum, the Matter Addendum shall govern solely with respect to the Matter to which it applies, provided that no Matter Addendum shall reduce the Firm's professional obligations of confidentiality under the applicable Rules of Professional Conduct. In the event of any conflict between this Master Agreement and the Firm's engagement letter for any Matter, the engagement letter shall govern.
+
+ARTICLE 2 — PURPOSE
+
+2.1 Narrow Purpose. The Receiving Party shall use Confidential Information solely for the Purpose of the applicable Matter and for no other purpose. Confidential Information disclosed in connection with one Matter shall not be used in connection with any other Matter, or for any non-Matter business purpose of the Receiving Party, unless the Disclosing Party has expressly consented in writing.
+
+2.2 Firm Conflict-of-Interest Carve-Out. The Client acknowledges that the Firm represents multiple clients across multiple matters. Nothing in this Master Agreement or any Matter Addendum shall be construed to restrict the Firm's ability to represent other clients, provided that the Firm complies with the applicable Rules of Professional Conduct (including Model Rules 1.7 and 1.9) and does not use or disclose any Confidential Information of the Client in connection with any other representation.
+
+2.3 No Reverse Engineering. To the extent any tangible item of Confidential Information (such as source code, a formulation sample, or a prototype) is disclosed in connection with a Matter, the Receiving Party shall not reverse engineer, disassemble, or attempt to derive its composition, structure, or methods of operation.
+
+ARTICLE 3 — CONFIDENTIAL INFORMATION
+
+3.1 General Obligations. The Receiving Party shall: (a) hold all Confidential Information in strict confidence; (b) use Confidential Information solely for the Purpose of the applicable Matter as set forth in the Matter Addendum; (c) disclose Confidential Information only to its Representatives who have a need to know in connection with the Matter and who are bound by written, ethical, or professional obligations of confidentiality and non-use no less protective than those set forth in this Master Agreement and the applicable Matter Addendum; and (d) protect Confidential Information using at least the degree of care the Receiving Party uses for its own most sensitive confidential information, but no less than a reasonable degree of care.
+
+3.2 Privilege and Work-Product Preservation. Each Party shall take reasonable steps to preserve the attorney-client privilege and work-product protection applicable to Confidential Information, including by (a) limiting distribution to personnel covered by the privilege, (b) marking documents as "Privileged and Confidential — Attorney-Client Communication" or "Attorney Work Product" as appropriate, and (c) promptly notifying the other Party of any event that may compromise the privileged or work-product status of any Confidential Information.
+
+3.3 Matter-Specific Data Room and Retention Protocols. Each Matter Addendum may specify additional data room access protocols, retention periods, destruction schedules, and security controls applicable to the Matter. The Receiving Party shall comply with any such matter-specific protocols, which shall be layered on top of (and not in lieu of) the baseline obligations of this Master Agreement.
+
+3.4 Responsibility for Representatives. Each Party shall be responsible for any breach of this Master Agreement or any Matter Addendum by any of its Representatives.
+
+3.5 Incident Reporting. The Receiving Party shall notify the Disclosing Party in writing promptly, and in any event within two (2) business days, after becoming aware of any actual or suspected unauthorized use, disclosure, loss, or exposure of Confidential Information. Such notification shall identify the affected Matter, the nature and scope of the incident, and any remedial steps taken or proposed. The Receiving Party shall cooperate fully with the Disclosing Party in investigating, mitigating, and remedying any incident.
+
+ARTICLE 4 — EXCLUSIONS FROM CONFIDENTIALITY
+
+4.1 Exclusions. The obligations in Article 3 shall not apply to any information that the Receiving Party can demonstrate by competent written evidence: (a) was in the public domain at the time of disclosure or subsequently entered the public domain through no breach of this Master Agreement or any Matter Addendum; (b) was in the Receiving Party's possession, free of any obligation of confidence, prior to disclosure; (c) was independently developed without use of or reference to Confidential Information; or (d) was rightfully received from a third party without any obligation of confidence to the Disclosing Party.
+
+4.2 Privileged Information Never Excluded. Confidential Information that consists of privileged attorney-client communications or protected attorney work product shall not fall within any of the exclusions in Section 4.1.
+
+ARTICLE 5 — COMPELLED DISCLOSURE
+
+5.1 Legal Process. In the event that the Receiving Party is requested or required by any court, governmental authority, or other legal process to disclose Confidential Information, the Receiving Party shall promptly notify the Disclosing Party, to the extent legally permissible, so that the Disclosing Party may seek a protective order or other appropriate remedy.
+
+5.2 Limitation. If a protective order is not obtained and the Disclosing Party does not waive compliance, the Receiving Party may disclose only the minimum portion of Confidential Information legally required to be disclosed, shall assert all applicable privileges and protections, and shall continue to treat non-disclosed portions as confidential.
+
+ARTICLE 6 — RETURN OR DESTRUCTION
+
+6.1 Return on Matter Conclusion. Upon the conclusion of each Matter (as reflected in the applicable engagement letter closing memorandum or in a written notice from either Party), or upon the Disclosing Party's written request at any time, the Receiving Party shall, at the Disclosing Party's election, return or destroy all Confidential Information disclosed in connection with that Matter, together with all copies, extracts, and derivative materials.
+
+6.2 Matter-Specific Schedules. Each Matter Addendum may specify alternative retention, destruction, or return schedules (for example, to accommodate litigation hold obligations, regulatory retention requirements, or the Firm's professional obligation to maintain client files). Where a Matter Addendum specifies such alternative schedules, those schedules shall govern for that Matter.
+
+6.3 Retention Exceptions. Notwithstanding the foregoing, the Firm may retain (a) its working file for each Matter in accordance with its records retention and destruction schedule and applicable Rules of Professional Conduct; (b) one archival copy of Confidential Information in the custody of its outside counsel or records department; and (c) Confidential Information contained in automatic, tamper-resistant system backups. Retained Confidential Information remains subject to this Master Agreement.
+
+ARTICLE 7 — NO LICENSE OR OWNERSHIP TRANSFER
+
+7.1 Ownership Reserved. All Confidential Information shall remain the sole and exclusive property of the Disclosing Party. Nothing in this Master Agreement or any Matter Addendum shall be construed as granting the Receiving Party, by implication, estoppel, or otherwise, any license or other right in any patent, copyright, trademark, trade secret, or other intellectual property right of the Disclosing Party.
+
+7.2 No Obligation to Engage. This Master Agreement does not obligate the Firm to undertake any particular Matter, or the Client to engage the Firm for any particular Matter. Each engagement is subject to a separate engagement letter and Matter Addendum.
+
+ARTICLE 8 — TERM AND SURVIVAL
+
+8.1 Term. This Master Agreement shall commence on the Effective Date and shall continue in full force and effect for an initial period of {{TERM_YEARS}} years, and shall automatically renew for successive one-year periods thereafter, unless either Party provides {{NOTICE_DAYS}} days' prior written notice of non-renewal. Termination of this Master Agreement shall not affect any Matter Addendum then in effect, which shall continue to be governed by the terms of this Master Agreement as in effect on the date of the applicable Matter Addendum.
+
+8.2 Survival of Confidentiality. The Receiving Party's obligations of confidentiality and non-use under this Master Agreement shall survive the expiration or termination of this Master Agreement and of any Matter Addendum. With respect to Confidential Information that is privileged, is work product, or constitutes a Trade Secret, the obligations shall continue for so long as the information remains privileged, protected, or a Trade Secret under applicable law. With respect to all other Confidential Information, the obligations shall continue for a period of ten (10) years after the conclusion of the applicable Matter.
+
+8.3 Matter Termination for Material Breach. Either Party may terminate a specific Matter, and the Disclosing Party may terminate the obligation to continue disclosing Confidential Information in connection with a Matter, upon written notice in the event of a material breach of this Master Agreement or the applicable Matter Addendum by the other Party that has not been cured within {{NOTICE_DAYS}} days of written notice.
+
+ARTICLE 9 — EQUITABLE REMEDIES
+
+9.1 Irreparable Harm. Each Party acknowledges that any breach of this Master Agreement may cause the Disclosing Party irreparable harm for which monetary damages alone would be an inadequate remedy.
+
+9.2 Injunctive Relief. The Disclosing Party shall be entitled, in addition to any other remedies available at law or in equity, to seek specific performance, injunctive relief, and other equitable relief in any court of competent jurisdiction to prevent or restrain any breach or threatened breach of this Master Agreement or any Matter Addendum, without the necessity of posting a bond or other security and without the necessity of proving actual damages.
+
+9.3 Cumulative Remedies. The rights and remedies of the Parties under this Master Agreement are cumulative and in addition to, and not in lieu of, any other rights and remedies.
+
+ARTICLE 10 — GENERAL PROVISIONS
+
+10.1 Governing Law. This Master Agreement and any Matter Addendum shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to conflict of laws principles, except that the Firm's professional obligations of confidentiality shall be governed by the Rules of Professional Conduct applicable in each jurisdiction in which the Firm practices.
+
+10.2 Venue. Each Party irrevocably submits to the exclusive jurisdiction of the state and federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, for any dispute arising out of or relating to this Master Agreement.
+
+10.3 Entire Agreement. This Master Agreement, together with each executed Matter Addendum and the applicable engagement letter, constitutes the entire agreement between the Parties with respect to confidentiality.
+
+10.4 Amendments. No amendment of this Master Agreement shall be effective unless in writing and signed by both Parties. Matter Addenda may be executed from time to time without amending this Master Agreement.
+
+10.5 Assignment. Neither Party may assign this Master Agreement without the prior written consent of the other Party, except that the Firm may assign this Master Agreement in connection with a merger, reorganization, or sale of substantially all of its practice, and the Client may assign this Master Agreement in connection with a merger or sale of substantially all of its business.
+
+10.6 Severability. If any provision of this Master Agreement is held invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect.
+
+10.7 Counterparts. This Master Agreement and any Matter Addendum may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the Parties have caused this Master Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title: Managing Partner
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title: General Counsel
+
+— — —
+
+FORM OF MATTER ADDENDUM
+
+This Matter Addendum (Addendum No. [__]) is executed under and incorporates by reference the Master Confidentiality Agreement dated {{EFFECTIVE_DATE}} between the Firm and the Client.
+
+(a) Matter Description: [describe the engagement — e.g., "Project Nightingale: representation in connection with the potential acquisition of [target]"]
+(b) Engaged Attorneys: [list lead partner, deal team partners, and associates]
+(c) Authorized Client Contacts: [list the Client personnel authorized to receive and direct the engagement]
+(d) Data Room Protocol: [specify any matter-specific data room access rules, watermarking, and download restrictions]
+(e) Retention and Destruction Schedule: [specify matter-specific retention period — e.g., "File closed and destroyed 10 years after Matter conclusion, subject to litigation hold"]
+(f) Additional Restrictions: [specify any matter-specific non-use restrictions or clean-team protocols]
+
+Agreed:
+{{PROVIDER_NAME}} ____________________
+{{CUSTOMER_NAME}} ____________________

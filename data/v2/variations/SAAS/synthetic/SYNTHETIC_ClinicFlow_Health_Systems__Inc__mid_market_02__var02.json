@@ -1,0 +1,14 @@
+{
+  "source_template": "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02.txt",
+  "variation_index": 2,
+  "substitutions": {
+    "PROVIDER_NAME": "Vertex Cloud Software, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_NAME": "Summit Retail Partners LLC",
+    "CUSTOMER_STATE": "Delaware",
+    "CUSTOMER_ENTITY_TYPE": "corporation",
+    "TERM_YEARS": "four (4)",
+    "LIABILITY_CAP_MONTHS": "thirty-six (36)"
+  }
+}

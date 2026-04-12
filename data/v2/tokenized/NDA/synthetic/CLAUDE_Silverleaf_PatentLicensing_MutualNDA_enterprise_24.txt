@@ -1,0 +1,115 @@
+MUTUAL NON-DISCLOSURE AGREEMENT FOR SEP LICENSING DISCUSSIONS
+
+This MUTUAL NON-DISCLOSURE AGREEMENT (this "Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} with its principal place of business at {{PROVIDER_ADDRESS}} ("Patent Holder"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} with its principal place of business at {{CUSTOMER_ADDRESS}} ("Implementer"). Patent Holder and Implementer are each referred to herein as a "Party" and collectively as the "Parties."
+
+WHEREAS, Patent Holder holds certain patents that it has declared to a standards-setting organization to be essential to certain wireless communications standards (the "Declared SEPs"), and has committed to license the Declared SEPs on fair, reasonable, and non-discriminatory ("FRAND") terms;
+
+WHEREAS, Implementer manufactures consumer electronic products that implement the applicable standards and desires to evaluate, and potentially negotiate, a license to the Declared SEPs;
+
+WHEREAS, the Parties desire to establish the terms under which they may exchange Confidential Information during their FRAND licensing discussions, in a manner consistent with applicable antitrust safe harbors for patent-licensing information exchange;
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual covenants set forth herein, the Parties, intending to be legally bound, hereby agree as follows:
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Confidential Information" means all non-public information disclosed by or on behalf of a Disclosing Party to a Receiving Party or any of its Representatives in connection with the Purpose, in whatever form or medium, whether or not marked as confidential. Confidential Information includes, without limitation: (a) claim charts, technical read-outs, and infringement analyses prepared by Patent Holder; (b) Implementer's product specifications, architecture, bill of materials, and implementation details relevant to the evaluation of the Declared SEPs; (c) the Parties' proposed royalty rates, royalty base, license scope, and other commercial terms; (d) comparable license agreements with third parties, to the extent disclosed under this Agreement, including associated rate information; (e) the Parties' respective positions on the FRAND analysis; and (f) the existence and content of the discussions between the Parties.
+
+1.2 "Comparable License Information" means any Confidential Information that reflects the specific royalty rates, royalty bases, scope terms, or other commercial terms of licenses between either Party and any third party.
+
+1.3 "Purpose" means the Parties' good-faith negotiation of a potential license of the Declared SEPs (or any subset thereof) on FRAND terms, and nothing else.
+
+1.4 "Representatives" means, with respect to a Receiving Party, such Receiving Party's directors, officers, employees, outside legal counsel (including outside patent counsel), and outside technical and economic experts retained for the Purpose, in each case who have a bona fide need to know Confidential Information and who are bound by written or professional obligations of confidentiality no less protective than those set forth herein.
+
+1.5 "Trade Secret" means any Confidential Information that qualifies as a trade secret under the Defend Trade Secrets Act of 2016 or the laws of the State of {{GOVERNING_LAW_STATE}} or any other applicable law.
+
+ARTICLE 2 — PURPOSE
+
+2.1 Narrow Purpose. Each Receiving Party shall use Confidential Information solely for the Purpose — namely, for the negotiation of a FRAND license to the Declared SEPs — and for no other purpose.
+
+2.2 No Use in Litigation. Neither Party shall use, introduce, rely upon, or reference any Confidential Information received from the other Party in connection with the Purpose in any current or future patent litigation or administrative proceeding between the Parties, including without limitation in any claim construction, infringement, invalidity, unenforceability, damages, or injunction proceedings. For the avoidance of doubt, this restriction shall not prevent either Party from using independently derived information, publicly available information, or information obtained through formal discovery in an active litigation.
+
+2.3 Antitrust Acknowledgment. Each Party acknowledges that the Parties remain independent competitors for purposes of antitrust law, and that nothing in this Agreement shall be construed as an agreement by the Parties to fix prices, allocate markets, or engage in any other conduct prohibited by the federal antitrust laws. The information exchange under this Agreement is limited to information reasonably necessary for good-faith patent-licensing negotiations.
+
+2.4 No Reverse Engineering. Nothing in this Agreement grants either Party any right to reverse engineer, benchmark, or dissect any product of the other Party outside the scope of applicable law.
+
+ARTICLE 3 — CONFIDENTIAL INFORMATION
+
+3.1 Obligations. The Receiving Party shall: (a) hold all Confidential Information in strict confidence; (b) use Confidential Information solely for the Purpose; (c) disclose Confidential Information only to its Representatives who have a bona fide need to know in connection with the Purpose and who are bound by written or professional obligations of confidentiality no less protective than those set forth herein; and (d) protect Confidential Information using at least the degree of care the Receiving Party uses for its own most sensitive confidential information, but no less than a reasonable degree of care.
+
+3.2 Comparable License Information. Comparable License Information shall be treated with heightened care. Access to Comparable License Information shall be limited to outside legal counsel and outside economic experts, and shall not be disclosed to the Receiving Party's in-house engineering, licensing, or commercial personnel, except with the Disclosing Party's prior written consent.
+
+3.3 Joint Defense Carve-Out. Notwithstanding anything to the contrary, either Party may share Confidential Information of the other Party with counsel to a co-defendant in existing patent litigation that involves the same patents or the same product, subject to a written joint-defense or common-interest agreement that provides confidentiality protections no less protective than those in this Agreement. The Party invoking this carve-out shall provide the other Party with prior written notice and a copy of the joint-defense or common-interest agreement.
+
+3.4 Responsibility for Representatives. Each Party shall be responsible for any breach of this Agreement by any of its Representatives.
+
+3.5 Incident Reporting. Each Party shall notify the other Party in writing within five (5) business days after becoming aware of any actual or suspected unauthorized use or disclosure of Confidential Information.
+
+ARTICLE 4 — EXCLUSIONS FROM CONFIDENTIALITY
+
+4.1 Exclusions. The obligations in Article 3 shall not apply to any information that the Receiving Party can demonstrate by competent written evidence: (a) was in the public domain at the time of disclosure or subsequently entered the public domain through no breach of this Agreement; (b) was in the Receiving Party's possession free of any obligation of confidence prior to disclosure; (c) was independently developed by the Receiving Party's personnel who had no access to Confidential Information, without use of or reference to any Confidential Information; or (d) was rightfully received from a third party without any obligation of confidence to the Disclosing Party.
+
+4.2 Comparable License Information Never Excluded. The specific terms of Comparable License Information shall not fall within any of the exclusions in Section 4.1 solely because the existence of a license between the parties identified therein is publicly known.
+
+ARTICLE 5 — COMPELLED DISCLOSURE
+
+5.1 Legal Process. If a Receiving Party is requested or required by any court, governmental authority, or other legal process to disclose Confidential Information, the Receiving Party shall, to the extent legally permissible, provide the Disclosing Party with prompt prior written notice so the Disclosing Party may, at its sole cost, seek a protective order or other appropriate remedy.
+
+5.2 Limitation. If a protective order is not obtained and the Disclosing Party does not waive compliance, the Receiving Party may disclose only the minimum portion of Confidential Information legally required to be disclosed, shall use commercially reasonable efforts to obtain assurances that confidential treatment (including sealing of Comparable License Information) will be accorded, and shall continue to treat non-disclosed portions as confidential.
+
+ARTICLE 6 — RETURN OR DESTRUCTION
+
+6.1 Return on Request. Upon the earlier of (a) the Disclosing Party's written request, or (b) the termination of licensing discussions between the Parties, the Receiving Party shall, at the Disclosing Party's election, return or destroy all Confidential Information, together with all copies, extracts, and derivative materials, and shall certify such return or destruction in writing within ten (10) business days.
+
+6.2 Retention for License. If the Parties execute a definitive FRAND license agreement, the Receiving Party may retain Confidential Information reasonably necessary to perform or administer such license, subject to the continuing obligations of this Agreement.
+
+6.3 Retention Exceptions. The Receiving Party may retain (a) one archival copy of Confidential Information in the custody of its outside legal counsel, and (b) Confidential Information contained in automatic system backups, in each case subject to the continuing obligations of this Agreement.
+
+ARTICLE 7 — NO LICENSE OR OWNERSHIP TRANSFER
+
+7.1 No Patent License. Nothing in this Agreement shall be construed as granting any license under any patent of either Party, whether by implication, estoppel, exhaustion, or otherwise. In particular, no license is granted to the Declared SEPs, and Patent Holder's commitment to license the Declared SEPs on FRAND terms shall be satisfied, if at all, only through a separate executed license agreement.
+
+7.2 Ownership Reserved. All Confidential Information shall remain the sole and exclusive property of the Disclosing Party. Each Party retains all patent, copyright, trademark, trade secret, and other intellectual property rights in its own materials.
+
+ARTICLE 8 — TERM AND SURVIVAL
+
+8.1 Term. This Agreement shall commence on the Effective Date and shall continue in full force and effect for a period of {{TERM_YEARS}} years thereafter, unless earlier terminated upon {{NOTICE_DAYS}} days' prior written notice by either Party.
+
+8.2 Survival. The Receiving Party's obligations of confidentiality and non-use with respect to Confidential Information shall survive for a period of five (5) years after the termination or expiration of this Agreement, and with respect to any Comparable License Information or Trade Secret, for a period of ten (10) years or for so long as such information remains a Trade Secret under applicable law, whichever is longer. The restrictions in Section 2.2 (No Use in Litigation) shall survive indefinitely.
+
+ARTICLE 9 — EQUITABLE REMEDIES
+
+9.1 Irreparable Harm. Each Party acknowledges that any breach of this Agreement may cause the Disclosing Party irreparable harm for which monetary damages would be inadequate, particularly with respect to the disclosure of Comparable License Information or the use of Confidential Information in litigation.
+
+9.2 Injunctive Relief. Each Party is entitled to seek specific performance, injunctive relief, and other equitable relief in any court of competent jurisdiction, without the necessity of posting a bond or other security and without the necessity of proving actual damages.
+
+9.3 Cumulative Remedies. Remedies are cumulative and in addition to any other rights and remedies available at law, in equity, or under any other agreement.
+
+ARTICLE 10 — GENERAL PROVISIONS
+
+10.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to conflict of laws principles.
+
+10.2 Venue. Each Party irrevocably submits to the exclusive jurisdiction of the state and federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, for any dispute arising out of or relating to this Agreement.
+
+10.3 Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof.
+
+10.4 Amendments. No amendment of this Agreement shall be effective unless in writing and signed by both Parties.
+
+10.5 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, except that either Party may assign this Agreement in connection with a merger, reorganization, or sale of all or substantially all of its relevant patent portfolio or business.
+
+10.6 Severability. If any provision of this Agreement is held invalid, the remaining provisions shall continue in full force and effect.
+
+10.7 Counterparts. This Agreement may be executed in counterparts.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

@@ -1,0 +1,164 @@
+DATA PROCESSING ADDENDUM (PROVIDER PAPER — STANDARD VENDOR DPA)
+
+This Data Processing Addendum (this "DPA") is entered into as of {{EFFECTIVE_DATE}} (the "DPA Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Processor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Controller"). This DPA is the Processor's standard form for Controller engagements and is governed by the Processor's standard terms set forth herein.
+
+This DPA forms part of, and is incorporated into, the {{PARENT_AGREEMENT_NAME}} between the Parties dated {{PARENT_AGREEMENT_DATE}} (the "Agreement"). All capitalized terms used but not defined in this DPA have the meanings given to them in the Agreement, in the EU GDPR, or in Article 1 below. In the event of any conflict between this DPA and the Agreement, this DPA shall control with respect to the Processing of Personal Data; the Agreement shall control with respect to all other matters not modified by this DPA. For the avoidance of doubt, this DPA does not modify the limitation of liability provisions of the Agreement, and the Agreement's liability cap (including any sub-cap for personal data matters set forth in the Agreement) governs both Party's liability under this DPA.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Applicable Data Protection Law" means the EU GDPR, the UK GDPR, and the CCPA / CPRA, in each case as applicable to the Processing.
+
+1.2 "Personal Data," "Processing," "Controller," "Processor," "Sub-processor," "Personal Data Breach," "Data Subject," and "Supervisory Authority" each have the meanings given to those terms in Article 4 of the EU GDPR.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES
+
+2.1 Roles. The Controller is the Controller. The Processor is the Processor.
+
+2.2 Documented Instructions. The Processor's documented instructions are: (a) the Agreement, (b) this DPA, and (c) the Controller's standard configuration of the Processor's services. No other instructions bind the Processor unless agreed in writing through the Processor's standard change order process.
+
+2.3 No Custom Processing. The Processor processes Personal Data in accordance with the Processor's standard product workflow. The Controller may not require the Processor to perform custom Processing not contemplated by the Processor's standard product, except through a separately negotiated and paid engagement.
+
+2.4 Aggregated Statistics. The Processor may use aggregated, de-identified usage statistics that do not identify any Data Subject for service operation, security, fraud prevention, and product improvement. Such aggregated statistics are not Personal Data and are not subject to this DPA.
+
+ARTICLE 3 — SCOPE OF PROCESSING
+
+3.1 Subject Matter and Duration. As set forth in Annex I.
+
+3.2 Nature and Purpose. {{PROCESSING_PURPOSE}}.
+
+3.3 Categories of Personal Data. {{DATA_CATEGORIES}}.
+
+3.4 Categories of Data Subjects. {{DATA_SUBJECT_CATEGORIES}}.
+
+3.5 Controller Lawful Basis. The Controller represents that it has a lawful basis under Applicable Data Protection Law for the Processing and that it has provided the necessary fair-processing notices.
+
+ARTICLE 4 — PROCESSOR OBLIGATIONS
+
+4.1 Compliance. The Processor shall Process Personal Data in accordance with this DPA and the Applicable Data Protection Law applicable to the Processor's role as a Processor.
+
+4.2 Personnel Confidentiality. The Processor's personnel are bound by confidentiality. Access is on a need-to-know basis.
+
+4.3 No Sale or Sharing. The Processor will not Sell or Share Controller Personal Data within the meaning of the CCPA / CPRA.
+
+4.4 No Onward Liability. Notwithstanding anything in this DPA, the Processor's liability for any claim arising under or in connection with this DPA shall be subject to the aggregate limitation of liability set forth in the Agreement, and any sub-cap for personal data matters in the Agreement shall apply.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+5.1 The Processor implements the standard TOMs in Annex II. The Processor's TOMs are commercially reasonable for SaaS platforms of the Processor's type and may be updated from time to time to reflect improvements in the state of the art, provided that no update shall reduce the overall level of security below the level provided as of the DPA Effective Date.
+
+5.2 Encryption: TLS 1.2+ in transit, AES-256 at rest.
+
+5.3 Annual SOC 2 Type II audit. Annual third-party penetration testing.
+
+ARTICLE 6 — SUB-PROCESSORS
+
+6.1 General Authorization. The Controller hereby grants the Processor a general authorization to engage Sub-processors. The current list is at the Processor's trust center.
+
+6.2 Notice of Changes. The Processor will notify the Controller of additions or replacements via the Processor's trust center, with at least fifteen (15) days' notice for additions and replacements.
+
+6.3 Right to Object. The Controller may object to a new Sub-processor on reasonable data protection grounds within fifteen (15) days. If the Controller does not object within fifteen (15) days, the Controller shall be deemed to have accepted the Sub-processor.
+
+6.4 Sub-processor Obligations. Each Sub-processor is subject to a written agreement with data protection obligations equivalent in substance to those imposed on the Processor under this DPA.
+
+6.5 Primary Liability. The Processor remains liable for its Sub-processors' acts and omissions to the extent set forth in the Agreement.
+
+ARTICLE 7 — DATA SUBJECT RIGHTS
+
+7.1 The Processor will provide the Controller with self-service tools in the platform for retrieving and deleting Personal Data on a per-Data-Subject basis. The Controller is responsible for using the self-service tools to respond to Data Subject requests.
+
+7.2 If the Processor receives a Data Subject request directly, the Processor will forward the request to the Controller within ten (10) business days.
+
+ARTICLE 8 — PERSONAL DATA BREACH NOTIFICATION
+
+8.1 The Processor will notify the Controller without undue delay and in any event within {{BREACH_NOTIFICATION_HOURS}} hours after becoming aware of a Personal Data Breach affecting Controller Personal Data.
+
+8.2 The notification will describe the nature of the Personal Data Breach, the categories and approximate number of Data Subjects and Personal Data records concerned, the contact point at the Processor, the likely consequences, and the measures taken or proposed.
+
+8.3 The Processor will cooperate with the Controller in investigating, remediating, and notifying any Supervisory Authority, in each case at the Processor's reasonable cost.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS
+
+9.1 The Processor will provide reasonable assistance to the Controller with Data Protection Impact Assessments under Article 35 GDPR. The Processor's standard assistance is the documentation of TOMs, the Processor's SOC 2 Type II report, and the trust center information. Custom DPIA assistance beyond this standard documentation is at the Controller's expense at the Processor's then-current professional services rates.
+
+ARTICLE 10 — INTERNATIONAL TRANSFERS
+
+10.1 EU SCCs (Commission Decision 2021/914) are incorporated by reference, with Module 2 (Controller to Processor) for direct transfers, Module 3 (Processor to Sub-processor) for onward transfers, general sub-processor authorization (Option 2), Irish governing law (Clause 17), and Irish venue (Clause 18). Annex I, II, and III to the EU SCCs are this DPA's Annex I, II, and III.
+
+10.2 UK IDTA is incorporated for UK transfers with the same parameters.
+
+10.3 The Processor maintains a current Transfer Impact Assessment.
+
+ARTICLE 11 — AUDIT RIGHTS
+
+11.1 Controller Audit Right. The Controller's audit right is satisfied by the Processor's annual SOC 2 Type II report and ISO 27001 certificate, which the Processor will provide to the Controller at no charge.
+
+11.2 On-Site Audits. On-site audits are not part of the Processor's standard service. The Controller may request an on-site audit, but the Processor reserves the right to (a) decline the audit if the Processor's third-party reports adequately address the requested audit scope, or (b) conduct the audit at the Controller's expense at the Processor's then-current rates plus reasonable third-party costs.
+
+11.3 Frequency. No more than once per twelve (12) month period.
+
+11.4 Scope Limitations. Audits shall not require disclosure of other customers' data, the Processor's trade secrets, or any information that would compromise the Processor's security posture.
+
+ARTICLE 12 — DELETION OR RETURN OF PERSONAL DATA
+
+12.1 End of Provision of Services. Upon the end of the provision of the services, the Processor will delete Controller Personal Data within ninety (90) days, in accordance with the Processor's standard data deletion procedures.
+
+12.2 Return Upon Request. Return of Controller Personal Data is available on the Controller's written request, at the Controller's expense at the Processor's then-current professional services rates, provided that the request is made within thirty (30) days following the end of the provision of services.
+
+12.3 Backup and Archival. Backup or archival copies retained per the Processor's standard retention schedule shall remain subject to this DPA's confidentiality and security obligations.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+13.1 Term. This DPA runs for the term of the Agreement plus the wind-down period.
+
+13.2 Survival. Articles 8 (for breaches occurring during the term), 11, and 12 shall survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+14.1 Incorporation. This DPA is incorporated into and forms part of the Agreement.
+
+14.2 Order of Precedence. In the event of any conflict between this DPA and the Agreement, this DPA shall control with respect to the Processing of Personal Data, except that the Agreement shall control with respect to limitation of liability, indemnification, and any other commercial terms not modified by this DPA. The Processor's standard terms in this DPA control over any contrary provisions in any Controller-issued documents.
+
+14.3 No Custom Modifications. The Controller acknowledges that this DPA is the Processor's standard form and that material modifications require the Processor's express written consent and may result in additional fees.
+
+14.4 Counterparts and Execution. Execution of the Agreement on or after the DPA Effective Date constitutes execution of this DPA.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+Parties: Controller is {{CUSTOMER_NAME}}; Processor is {{PROVIDER_NAME}}.
+Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+Categories of Personal Data: {{DATA_CATEGORIES}}.
+Sensitive Data: none beyond what's identified above; the Controller agrees not to submit special category data without express written authorization.
+Frequency: continuous.
+Nature: {{PROCESSING_PURPOSE}}.
+Purpose: providing the Processor's standard product to the Controller.
+Retention: per the Processor's standard data retention schedule.
+
+ANNEX II — TECHNICAL AND ORGANIZATIONAL MEASURES (PROCESSOR STANDARD)
+
+Encryption: TLS 1.2+ in transit, AES-256 at rest.
+Access: SSO + MFA, role-based.
+Network: production / non-production segregation, WAF.
+Backup and recovery: Processor's standard BCDR plan.
+Personnel: background checks, confidentiality undertakings, annual security training.
+Sub-processor management: written agreements.
+Regular testing: annual SOC 2 Type II, annual penetration testing.
+Data residency: Processor's standard hosting region: {{DATA_RESIDENCY_REGION}}.
+Incident response: Processor's standard incident response plan. Notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+Current list at the Processor's trust center.
+
+IN WITNESS WHEREOF, the Parties have executed this DPA as of the DPA Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

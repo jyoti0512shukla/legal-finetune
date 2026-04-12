@@ -1,0 +1,213 @@
+DATA PROCESSING ADDENDUM (INDIA DPDP ACT 2023)
+
+This Data Processing Addendum (this "DPA") is entered into as of {{EFFECTIVE_DATE}} (the "DPA Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Data Processor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Data Fiduciary"). The Data Fiduciary and the Data Processor are collectively the "Parties." This DPA is the Data Fiduciary's standard form for data processor engagements involving Indian customer data and shall be governed by the Data Fiduciary's negotiated terms set forth herein.
+
+This DPA forms part of, and is incorporated into, the {{PARENT_AGREEMENT_NAME}} between the Parties dated {{PARENT_AGREEMENT_DATE}} (the "Agreement"). All capitalized terms used but not defined in this DPA have the meanings given to them in the Agreement, in the Digital Personal Data Protection Act, 2023 of India ("DPDP Act"), or in Article 1 below. In the event of any conflict between this DPA and the Agreement, this DPA shall control with respect to the Processing of Personal Data; the Agreement shall control with respect to all other matters not modified by this DPA.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Applicable Data Protection Law" means, collectively, (a) the Digital Personal Data Protection Act, 2023 of India (the "DPDP Act"), (b) any rules notified thereunder by the Central Government of India, (c) the Information Technology Act, 2000 (India) and the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011, (d) the Reserve Bank of India ("RBI") Master Directions and circulars applicable to the Data Fiduciary as a Non-Banking Financial Company (including the RBI Guidelines on Digital Lending and the RBI Guidelines on Outsourcing of IT Services), and (e) any successor or implementing legislation, in each case as amended from time to time and applicable to the Processing of Data Fiduciary Personal Data under the Agreement.
+
+1.2 "Data Fiduciary Personal Data" means any Personal Data Processed by the Data Processor on behalf of the Data Fiduciary under the Agreement.
+
+1.3 "Data Principal," "Personal Data," "Personal Data Breach," "Processing," "Data Processor," and "Data Fiduciary" each have the meanings given to those terms in section 2 of the DPDP Act.
+
+1.4 "Data Protection Board" or "Board" means the Data Protection Board of India established under section 18 of the DPDP Act.
+
+1.5 "Significant Data Fiduciary" has the meaning given in section 10 of the DPDP Act, and the Data Fiduciary is or may be designated as a Significant Data Fiduciary by the Central Government.
+
+1.6 "Sub-Processor" means any third party engaged by the Data Processor to Process Data Fiduciary Personal Data.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES
+
+2.1 Roles. With respect to the Processing of Data Fiduciary Personal Data under the Agreement, the Data Fiduciary is the Data Fiduciary, the Data Processor is the Data Processor, and any Sub-Processor engaged in accordance with Article 6 is a sub-processor (within the meaning of section 8(2) of the DPDP Act).
+
+2.2 Documented Instructions. The Data Processor shall Process Data Fiduciary Personal Data only on documented instructions from the Data Fiduciary, which instructions are set forth in (a) the Agreement, (b) this DPA, and (c) any further documented instructions provided by the Data Fiduciary from time to time. The Data Processor shall not Process Data Fiduciary Personal Data for any other purpose, including the Data Processor's own product analytics or service improvement, without the Data Fiduciary's express prior written consent.
+
+2.3 Notification of Conflicting Instructions. The Data Processor shall promptly notify the Data Fiduciary in writing if any Data Fiduciary instruction would, in the Data Processor's reasonable opinion, violate the DPDP Act or any other Applicable Data Protection Law.
+
+2.4 RBI Outsourcing Acknowledgment. The Data Processor acknowledges that the Data Fiduciary is regulated by the RBI as a Non-Banking Financial Company and that the services provided under the Agreement constitute "Outsourcing of IT Services" within the meaning of the RBI Master Directions on Outsourcing of IT Services. The Data Processor shall comply with the requirements of those RBI Master Directions to the extent applicable to a service provider, including the right of audit by the RBI as set forth in Article 11.
+
+ARTICLE 3 — SCOPE OF PROCESSING
+
+3.1 Subject Matter and Duration. The subject matter and duration are as set forth in Annex I and shall continue for the term of the Agreement plus the wind-down period in Article 12.
+
+3.2 Nature and Purpose. The nature and purpose are {{PROCESSING_PURPOSE}}, as more fully described in Annex I.
+
+3.3 Categories of Personal Data and Data Principals. The categories of Data Fiduciary Personal Data include {{DATA_CATEGORIES}}, and the categories of Data Principals include {{DATA_SUBJECT_CATEGORIES}}, in each case as more fully described in Annex I.
+
+3.4 Lawful Basis. The Data Fiduciary represents and warrants that it has a valid lawful ground for Processing under section 4 of the DPDP Act (consent or legitimate use), and that it has provided to its Data Principals the notice required by section 5 of the DPDP Act.
+
+ARTICLE 4 — DATA PROCESSOR OBLIGATIONS
+
+4.1 Compliance with DPDP Act. The Data Processor shall Process Data Fiduciary Personal Data in accordance with this DPA and the obligations imposed on processors under section 8(2) of the DPDP Act.
+
+4.2 Personnel Confidentiality. The Data Processor shall ensure that personnel authorized to Process Data Fiduciary Personal Data have committed themselves to confidentiality and shall limit access to authorized personnel on a need-to-know basis.
+
+4.3 Cooperation with the Board. The Data Processor shall cooperate with any directions issued by the Data Protection Board of India to the extent applicable to the Data Processor as a service provider to the Data Fiduciary.
+
+4.4 No Sale or Secondary Use. The Data Processor shall not (a) sell Data Fiduciary Personal Data to any third party, (b) Process Data Fiduciary Personal Data for any purpose other than providing the services under the Agreement, (c) use Data Fiduciary Personal Data to train any artificial intelligence or machine learning model except as expressly authorized by the Data Fiduciary in writing, or (d) combine Data Fiduciary Personal Data with personal data from any other source.
+
+4.5 RBI Compliance. The Data Processor shall comply with the data protection and information security requirements applicable to outsourced IT services providers under the RBI Master Directions on Outsourcing of IT Services and the RBI Guidelines on Digital Lending, including the requirement that all Data Fiduciary Personal Data of Indian customers be stored on servers physically located in India.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+5.1 Implementation. Taking into account the state of the art, the costs of implementation, and the nature, scope, context, and purposes of Processing, as well as the risks of varying likelihood and severity for the rights of Data Principals, the Data Processor shall implement and maintain reasonable security safeguards (the "Security Safeguards") that satisfy the requirements of section 8(5) of the DPDP Act and Rule 8 of the IT Rules 2011, as further set forth in Annex II.
+
+5.2 Encryption. The Data Processor shall apply encryption to Data Fiduciary Personal Data both in transit (TLS 1.2 or higher) and at rest (AES-256 or stronger), as further described in Annex II.
+
+5.3 Confidentiality, Integrity, Availability, and Resilience. The Data Processor shall ensure the ongoing confidentiality, integrity, availability, and resilience of the Processing systems used to Process Data Fiduciary Personal Data.
+
+5.4 Restoration After Incident. The Data Processor shall maintain a documented business continuity and disaster recovery plan and shall maintain the ability to restore access to Data Fiduciary Personal Data in a timely manner after an incident.
+
+5.5 Regular Testing. The Data Processor shall regularly test and evaluate the effectiveness of the Security Safeguards through annual SOC 2 Type II audits, ISO 27001 certification, vulnerability assessments, and penetration testing.
+
+5.6 ISO 27001 / IS/ISO/IEC 27001:2013. The Data Processor's information security management system shall be certified under IS/ISO/IEC 27001:2013, the standard recognized by Rule 8 of the IT Rules 2011 as constituting "reasonable security practices."
+
+ARTICLE 6 — SUB-PROCESSORS
+
+6.1 Specific Authorization Required. The Data Fiduciary's specific written authorization is required for any Sub-Processor that Processes Data Fiduciary Personal Data. The currently authorized Sub-Processors are listed in Annex III.
+
+6.2 Notification of New Sub-Processors. The Data Processor shall notify the Data Fiduciary in writing at least sixty (60) days before engaging any new or replacement Sub-Processor and shall obtain the Data Fiduciary's prior written consent before such engagement.
+
+6.3 Sub-Processor Agreements. The Data Processor shall enter into a written agreement with each Sub-Processor that imposes data protection obligations equivalent in substance to those imposed on the Data Processor under this DPA, in accordance with section 8(2) of the DPDP Act.
+
+6.4 Indian Data Residency for Sub-Processors. Any Sub-Processor that Processes Data Fiduciary Personal Data of Indian customers shall comply with the Indian data residency requirement in Article 10.
+
+6.5 Primary Liability. The Data Processor shall remain primarily liable to the Data Fiduciary for the acts and omissions of its Sub-Processors as if such acts and omissions were the acts and omissions of the Data Processor itself.
+
+ARTICLE 7 — DATA PRINCIPAL RIGHTS
+
+7.1 Assistance to Data Fiduciary. The Data Processor shall provide reasonable technical and organizational assistance to the Data Fiduciary to enable the Data Fiduciary to respond to requests from Data Principals under sections 11 through 14 of the DPDP Act, including the right to access information, the right to correction and erasure, the right of grievance redressal, and the right of nomination.
+
+7.2 Forwarding of Requests. If the Data Processor receives a Data Principal request directly, the Data Processor shall forward the request to the Data Fiduciary without undue delay and in any event within three (3) business days.
+
+7.3 No Direct Response. The Data Processor shall not respond to or fulfill any Data Principal request without the Data Fiduciary's prior written authorization, except as required by the DPDP Act.
+
+ARTICLE 8 — PERSONAL DATA BREACH NOTIFICATION
+
+8.1 Notification Obligation. The Data Processor shall notify the Data Fiduciary of any Personal Data Breach without undue delay and in any event within {{BREACH_NOTIFICATION_HOURS}} hours after becoming aware of the Personal Data Breach. This notification window is materially shorter than the time required by the DPDP Act for the Data Fiduciary's notification to the Board, in order to give the Data Fiduciary time to investigate and report.
+
+8.2 Content of Notification. The Data Processor's notification shall include (a) the nature of the Personal Data Breach, (b) the categories and approximate number of Data Principals affected, (c) the categories and approximate number of Personal Data records affected, (d) the contact point at the Data Processor, (e) the likely consequences, and (f) the measures taken or proposed.
+
+8.3 Cooperation with Data Fiduciary and Board. The Data Processor shall cooperate with the Data Fiduciary in investigating, remediating, and reporting the Personal Data Breach to the Data Protection Board of India and to affected Data Principals as required by the DPDP Act.
+
+8.4 Cooperation with CERT-In. The Data Processor shall cooperate with the Data Fiduciary in any reporting required to the Indian Computer Emergency Response Team ("CERT-In") under the CERT-In Directions of April 2022.
+
+8.5 Records. The Data Processor shall maintain a record of all Personal Data Breaches affecting Data Fiduciary Personal Data.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS
+
+9.1 Assistance with DPIAs. The Data Processor shall provide reasonable assistance to the Data Fiduciary in conducting Data Protection Impact Assessments under section 10(2)(c) of the DPDP Act (which is mandatory for Significant Data Fiduciaries).
+
+9.2 Cooperation with Audits. The Data Processor shall cooperate with any periodic data audits the Data Fiduciary is required to conduct under section 10(2)(d) of the DPDP Act.
+
+9.3 Scope of Assistance. The Data Processor's assistance under this Article 9 includes providing documentation about the Processing, the Security Safeguards, and the Sub-Processors, in each case to the extent necessary for the Data Fiduciary to fulfill its DPDP Act obligations.
+
+ARTICLE 10 — DATA RESIDENCY AND CROSS-BORDER TRANSFERS
+
+10.1 Indian Data Residency Requirement. Data Fiduciary Personal Data of Indian Data Principals shall be Processed and stored on servers physically located in India, in compliance with the RBI Master Directions on Outsourcing of IT Services and the RBI Guidelines on Digital Lending, which require that all customer data of Indian RBI-regulated entities be stored in India. The Data Processor shall not transfer Data Fiduciary Personal Data of Indian Data Principals outside of India except as expressly permitted by Section 10.2.
+
+10.2 Limited Cross-Border Transfers. Notwithstanding Section 10.1, the Data Processor may transfer Data Fiduciary Personal Data outside of India only (a) to a country notified by the Central Government of India under section 16 of the DPDP Act, and (b) on the Data Fiduciary's prior written authorization, and (c) only to the extent permitted by the RBI Master Directions on Outsourcing of IT Services.
+
+10.3 Data Residency Designation. Data Fiduciary Personal Data is hosted in: {{DATA_RESIDENCY_REGION}}.
+
+10.4 Data Localization Audits. The Data Processor shall, on the Data Fiduciary's request, provide evidence of compliance with the data residency requirement in this Article 10, including server location attestations from the Data Processor's cloud infrastructure provider.
+
+ARTICLE 11 — AUDIT RIGHTS AND RBI ACCESS
+
+11.1 Data Fiduciary Audit Right. The Data Fiduciary shall have the right to audit the Data Processor's compliance with this DPA and Applicable Data Protection Law.
+
+11.2 RBI Audit Right. The Data Processor acknowledges that, pursuant to the RBI Master Directions on Outsourcing of IT Services, the RBI shall have the right to audit the Data Processor's books, records, and facilities to the extent the Data Processor's services support the Data Fiduciary's regulated activities. The Data Processor shall cooperate fully with any such RBI audit.
+
+11.3 Notice and Frequency. Audits by the Data Fiduciary shall be conducted no more than once per twelve (12) month period (except in connection with a Personal Data Breach or RBI directive). The Data Fiduciary shall provide at least {{AUDIT_NOTICE_DAYS}} days' prior written notice. RBI audits are not subject to this notice or frequency limitation.
+
+11.4 Third-Party Audit Reports. The Data Processor shall make available to the Data Fiduciary, at no charge, the most recent SOC 2 Type II report, ISO 27001 certificate, and CERT-In empanelled auditor report (if any) covering the Data Processor's services.
+
+11.5 Scope Limitations. Audits shall not require disclosure of other customers' data or the Data Processor's trade secrets, but the Data Processor shall not assert such limitations to obstruct any RBI audit right.
+
+ARTICLE 12 — DELETION OR RETURN OF PERSONAL DATA
+
+12.1 End of Provision of Services. Upon the end of the provision of the services under the Agreement, the Data Processor shall, at the Data Fiduciary's choice, delete or return all Data Fiduciary Personal Data and shall delete all existing copies, in accordance with section 8(7) of the DPDP Act.
+
+12.2 Erasure on Withdrawal of Consent. Where a Data Principal withdraws consent and the Data Fiduciary is required to erase the Data Principal's Personal Data under section 12 of the DPDP Act, the Data Processor shall promptly delete that Data Principal's Personal Data on the Data Fiduciary's instruction.
+
+12.3 Certification. The Data Processor shall certify in writing to the Data Fiduciary that it has deleted Data Fiduciary Personal Data in accordance with this Article 12.
+
+12.4 Backup and Archival Exception. Backup or archival copies retained pursuant to a documented retention schedule shall remain subject to the confidentiality and security obligations of this DPA until they are overwritten or deleted, and any retention beyond the period permitted by section 8(7) of the DPDP Act shall be supported by a specific legal requirement.
+
+12.5 Wind-Down Period. The Data Processor shall complete the deletion or return within thirty (30) days following the end of the provision of services.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+13.1 Term. This DPA shall commence on the DPA Effective Date and shall continue for the term of the Agreement plus the wind-down period in Article 12.
+
+13.2 Survival. Articles 8 (for breaches occurring during the term), 11 (for audits commenced during or shortly after termination), and 12 shall survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+14.1 Incorporation. This DPA is incorporated into and forms part of the Agreement.
+
+14.2 Order of Precedence. This DPA controls with respect to the Processing of Personal Data and the rights and obligations of the Parties under Applicable Data Protection Law. The Agreement controls with respect to all other matters not modified by this DPA.
+
+14.3 RBI Master Directions Compliance. Nothing in the Agreement or this DPA shall be construed to limit the Data Processor's obligations under the RBI Master Directions on Outsourcing of IT Services or the Data Fiduciary's right to comply with directions from the RBI.
+
+14.4 Counterparts and Execution. This DPA may be executed in counterparts.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+A. Parties.
+   (1) Data Fiduciary: {{CUSTOMER_NAME}}.
+   (2) Data Processor: {{PROVIDER_NAME}}.
+
+B. Description.
+   (1) Categories of Data Principals: {{DATA_SUBJECT_CATEGORIES}}.
+   (2) Categories of Personal Data: {{DATA_CATEGORIES}}.
+   (3) Sensitive Data: financial information including KYC data, account details, and transaction history.
+   (4) Frequency: continuous.
+   (5) Nature: {{PROCESSING_PURPOSE}}.
+   (6) Purpose: providing the digital lending and customer servicing platform to the Data Fiduciary in compliance with the RBI Guidelines on Digital Lending.
+   (7) Retention: for the term of the Agreement plus the wind-down period and any retention required under the RBI Master Directions.
+   (8) For Sub-Processor disclosures: as set forth in Annex III.
+
+ANNEX II — SECURITY SAFEGUARDS
+
+The Data Processor implements and maintains the following Security Safeguards in compliance with section 8(5) of the DPDP Act, Rule 8 of the IT Rules 2011, and the RBI Master Directions:
+
+1. Encryption. AES-256 encryption at rest. TLS 1.2 or higher in transit. End-to-end encryption for sensitive financial transactions.
+
+2. Access Controls. Multi-factor authentication for all personnel access. Role-based access control with the principle of least privilege. Privileged access management for administrative access.
+
+3. Network Security. Network segregation. Web application firewall. Intrusion detection and prevention. DDoS protection.
+
+4. Personnel Security. Background checks. Confidentiality undertakings. Annual data protection and information security training.
+
+5. Restoration. Documented business continuity and disaster recovery plan. Recovery time objective and recovery point objective documented in the BCDR plan. Annual disaster recovery testing.
+
+6. Sub-Processor Management. Each Sub-Processor is subject to a written sub-processor agreement and is monitored for ongoing compliance.
+
+7. Regular Testing. Annual SOC 2 Type II audit. IS/ISO/IEC 27001:2013 certification (or higher version). CERT-In empanelled auditor information security audit. Quarterly internal vulnerability scans. Annual third-party penetration testing.
+
+8. Data Residency. Data Fiduciary Personal Data of Indian Data Principals is hosted in: {{DATA_RESIDENCY_REGION}}.
+
+9. Incident Response. Documented incident response plan. Personal Data Breach notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8 of this DPA. CERT-In Directions of April 2022 incident reporting cooperation.
+
+10. RBI Compliance Documentation. The Data Processor maintains documentation of its compliance with the RBI Master Directions on Outsourcing of IT Services and the RBI Guidelines on Digital Lending, available on the Data Fiduciary's request.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+The current list of authorized Sub-Processors is maintained at the Data Processor's trust center and is appended to this DPA on the DPA Effective Date. Any additions or replacements require the Data Fiduciary's prior written consent under Article 6, and any Sub-Processor that Processes Data Fiduciary Personal Data of Indian Data Principals shall comply with the data residency requirement in Article 10.
+
+IN WITNESS WHEREOF, the Parties have executed this DPA as of the DPA Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

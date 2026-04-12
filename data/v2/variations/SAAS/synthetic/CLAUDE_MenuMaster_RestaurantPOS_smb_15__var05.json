@@ -1,0 +1,20 @@
+{
+  "source_template": "CLAUDE_MenuMaster_RestaurantPOS_smb_15.txt",
+  "variation_index": 5,
+  "substitutions": {
+    "PROVIDER_NAME": "Cascade Digital Solutions Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "6691 Bridgeport Street, San Francisco, California 94349",
+    "CUSTOMER_NAME": "Evergreen Properties Inc.",
+    "CUSTOMER_STATE": "California",
+    "CUSTOMER_ENTITY_TYPE": "limited liability partnership",
+    "CUSTOMER_ADDRESS": "4721 Park Street, San Francisco, California 94345",
+    "EFFECTIVE_DATE": "August 5, 2024",
+    "VENUE_COUNTY": "San Francisco County",
+    "VENUE_CITY": "San Francisco",
+    "ANNUAL_FEE_AMOUNT": "Twelve Thousand United States Dollars ($12,000)",
+    "TERM_YEARS": "three (3)",
+    "NOTICE_DAYS": "ninety (90)"
+  }
+}

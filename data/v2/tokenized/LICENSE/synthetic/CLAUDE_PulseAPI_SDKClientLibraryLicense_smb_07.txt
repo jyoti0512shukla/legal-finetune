@@ -1,0 +1,132 @@
+SDK License — Standard Terms
+
+Licensor: {{PROVIDER_NAME}} ({{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}}, {{PROVIDER_ADDRESS}})
+Licensee: {{CUSTOMER_NAME}} ({{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}}, {{CUSTOMER_ADDRESS}})
+Effective Date: {{EFFECTIVE_DATE}}
+
+The Licensor builds developer tools. The Licensed SDK is a client library that lets developers integrate the Licensor's API into their apps. This is a license to use the SDK in the Licensee's app — it's not the API itself (that's a separate API agreement) and it's not a SaaS subscription.
+
+ARTICLE 1 — WHAT'S LICENSED
+
+The Licensor licenses to the Licensee the SDK identified below (the "Licensed SDK"):
+
+- Source code and pre-built libraries for the Licensor's SDK in JavaScript / TypeScript, Python, Go, Ruby, Java, Swift, Kotlin
+- Sample apps and reference implementations
+- Developer documentation and API references
+- Code samples and snippets
+
+The Licensed SDK does NOT include:
+- the Licensor's API itself (use is governed by a separate API agreement)
+- the Licensor's hosted services
+- any data the Licensee or its users send through the API
+
+ARTICLE 2 — GRANT OF LICENSE
+
+2.1 What the Licensee can do. The Licensor grants the Licensee an {{LICENSE_GRANT_TYPE}}, royalty-free, worldwide, perpetual license to:
+- download and install the Licensed SDK
+- use the Licensed SDK in source code form for development, testing, and integration
+- modify the Licensed SDK and create derivative works for the Licensee's own use
+- compile the Licensed SDK and embed the compiled SDK in the Licensee's apps
+- distribute the Licensee's apps to the Licensee's end users (with the SDK embedded inside the app)
+
+2.2 Field of use. {{LICENSE_FIELD_OF_USE}}.
+
+2.3 Territory. {{LICENSE_TERRITORY}}.
+
+2.4 Term. {{LICENSE_TERM}}.
+
+2.5 Sublicensing. {{LICENSE_SUBLICENSE_RIGHTS}}.
+
+2.6 No fee. There's no license fee for the Licensed SDK. The Licensor's commercial model is based on API usage fees, not SDK fees.
+
+2.7 Reservation of rights. The Licensor retains all rights not expressly granted. The Licensor's API, hosted services, brand, and other IP are not licensed under this License.
+
+ARTICLE 3 — RESTRICTIONS
+
+3.1 No standalone SDK distribution. The Licensee can't distribute the Licensed SDK on its own as a developer tool. The Licensee can only embed the Licensed SDK inside the Licensee's own apps that the Licensee distributes to end users.
+
+3.2 No competing developer tools. The Licensee can't use the Licensed SDK as the basis for a competing client library, API gateway, or developer tool that competes with the Licensor.
+
+3.3 No use without API agreement. The Licensee can use the Licensed SDK only in conjunction with a valid API agreement with the Licensor. If the Licensee's API agreement is terminated, the Licensee's right to use the Licensed SDK to call the Licensor's API automatically ends. (The license to use the SDK code itself for non-API purposes — e.g. studying the code — remains, but the SDK without the API has limited utility.)
+
+3.4 No removal of attribution. The Licensee will preserve the Licensor's copyright notices, license text, and attribution in the Licensed SDK source files. If the Licensee distributes a compiled version of the SDK inside the Licensee's app, the Licensee will include the standard "Powered by [Licensor]" or equivalent attribution in the Licensee's app credits, About screen, or open-source license listing.
+
+3.5 No reverse engineering of the Licensor's API. The Licensee can't use the Licensed SDK to reverse engineer the Licensor's API, infer undocumented endpoints, or extract proprietary algorithms from the Licensor's hosted service.
+
+3.6 No re-licensing under a more restrictive license. The Licensee's modifications to the Licensed SDK are owned by the Licensee, but the Licensee can't re-license the original Licensed SDK code (the parts the Licensor wrote) under a more restrictive license than this Agreement.
+
+3.7 No use to circumvent rate limits. The Licensee can't use the Licensed SDK in a way designed to circumvent the rate limits, quotas, or fair-use policies of the Licensor's API.
+
+ARTICLE 4 — FEES
+
+4.1 Free SDK, paid API. As stated in Section 2.6, the SDK is free. The Licensee pays for API usage under the separate API agreement.
+
+4.2 No SDK royalty. There's no per-end-user, per-install, or per-API-call royalty for the SDK itself.
+
+4.3 No payment terms. There are no payment terms because there are no payments.
+
+ARTICLE 5 — RECORDS AND AUDIT
+
+5.1 No SDK audit. The Licensor doesn't audit the Licensee's use of the SDK because there's no fee tied to SDK use. API usage is metered separately by the Licensor's hosted service.
+
+5.2 Telemetry. The SDK includes optional telemetry that reports SDK version, environment (OS, language, runtime), and basic usage patterns to the Licensor for the purpose of improving the SDK. The telemetry can be disabled by setting an environment variable. The telemetry does not include the Licensee's API keys, the content of API calls, or any data that would identify the Licensee's end users.
+
+ARTICLE 6 — CONFIDENTIALITY
+
+6.1 The Licensed SDK is publicly available open-source-friendly code. There's nothing confidential about the SDK itself.
+
+6.2 The Licensee will treat any pre-release SDK versions, beta features, and the Licensee's API keys as confidential.
+
+6.3 The Licensor will treat the Licensee's account information and API key details as confidential.
+
+ARTICLE 7 — WARRANTIES AND INDEMNIFICATION
+
+7.1 The Licensor's warranties. The Licensor warrants that:
+- the Licensor has the right to grant this license
+- the Licensed SDK does not knowingly infringe any third-party copyright or patent
+- the Licensed SDK does not contain malware, spyware, or backdoors
+
+7.2 Open-source dependencies. The Licensed SDK incorporates open-source dependencies listed in the SDK's NOTICE file. Each open-source dependency is licensed under its own license terms (MIT, Apache 2.0, BSD, etc.). The Licensor's warranties in Section 7.1 do not apply to open-source dependencies, which are governed by their own licenses.
+
+7.3 Infringement indemnification. If a third party sues the Licensee claiming that the Licensed SDK (excluding open-source dependencies) infringes the third party's copyright or patent, the Licensor will defend the Licensee and pay damages. The Licensor's total indemnification liability is capped at One Hundred Thousand United States Dollars (US$100,000).
+
+7.4 The Licensee's indemnification. The Licensee will indemnify the Licensor for any claim arising from (a) the Licensee's app (other than the Licensed SDK), (b) the Licensee's modifications to the SDK, (c) the Licensee's use of the SDK outside the licensed scope, or (d) the Licensee's data being processed through the Licensor's API.
+
+7.5 Disclaimer. EXCEPT FOR THE EXPRESS WARRANTIES IN SECTION 7.1, THE LICENSED SDK IS PROVIDED "AS IS." NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE OR ERROR-FREE OPERATION.
+
+7.6 Liability cap. Neither party's total liability under this License (other than the indemnification in Section 7.3 and willful misconduct) exceeds One Hundred Thousand United States Dollars (US$100,000). Neither party is liable for indirect, consequential, special, or punitive damages.
+
+ARTICLE 8 — TERM AND TERMINATION OF LICENSE
+
+8.1 Term. The license is perpetual.
+
+8.2 Termination for material breach. Either party may terminate this License if the other materially breaches and doesn't cure within thirty (30) days of written notice.
+
+8.3 Termination for breach of restrictions. The Licensor may terminate immediately if the Licensee violates any of the restrictions in Article 3, including unauthorized SDK redistribution, building competing developer tools, or circumventing rate limits.
+
+8.4 Effect of termination. After termination, the Licensee will:
+- stop distributing the Licensed SDK in any new releases of the Licensee's app
+- stop using the Licensed SDK in any new development work
+- the Licensee may continue to operate (and provide support for) existing app versions that already incorporate the Licensed SDK, for a wind-down period of twelve (12) months after termination, after which the Licensee will distribute updated app versions that no longer use the Licensed SDK
+
+8.5 No termination of API agreement. Termination of this License does not automatically terminate the Licensee's API agreement (or vice versa). They are separate contracts.
+
+8.6 Survival. Articles 3, 6, 7, 8.4, and 9 survive termination.
+
+ARTICLE 9 — MISCELLANEOUS
+
+9.1 Governing law: {{GOVERNING_LAW_STATE}}.
+9.2 Disputes: state or federal courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+9.3 Notices in writing (email to the address on file).
+9.4 No assignment without consent.
+9.5 Entire agreement (together with the API agreement).
+9.6 No waiver.
+9.7 Counterparts and electronic signatures.
+
+Signed:
+
+{{PROVIDER_NAME}}                                    {{CUSTOMER_NAME}}
+
+________________________                            ________________________
+Name:                                                Name:
+Title:                                               Title:

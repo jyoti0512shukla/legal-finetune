@@ -1,0 +1,20 @@
+{
+  "source_template": "CLAUDE_MenuMaster_RestaurantPOS_smb_15.txt",
+  "variation_index": 1,
+  "substitutions": {
+    "PROVIDER_NAME": "Acuity Software Group, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "4799 Summit Street, 10th Floor, Boston, Massachusetts 02810",
+    "CUSTOMER_NAME": "Summit Retail Partners LLC",
+    "CUSTOMER_STATE": "Massachusetts",
+    "CUSTOMER_ENTITY_TYPE": "limited liability company",
+    "CUSTOMER_ADDRESS": "5110 Innovation Street, 8th Floor, Boston, Massachusetts 02209",
+    "EFFECTIVE_DATE": "May 22, 2024",
+    "VENUE_COUNTY": "Suffolk County",
+    "VENUE_CITY": "Boston",
+    "ANNUAL_FEE_AMOUNT": "One Hundred Fifty Thousand United States Dollars ($150,000)",
+    "TERM_YEARS": "two (2)",
+    "NOTICE_DAYS": "thirty (30)"
+  }
+}

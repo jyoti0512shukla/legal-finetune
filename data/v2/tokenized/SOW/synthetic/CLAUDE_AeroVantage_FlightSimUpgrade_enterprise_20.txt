@@ -1,0 +1,131 @@
+STATEMENT OF WORK ORDER FORM — FLIGHT SIMULATOR SOFTWARE UPGRADE (DEFENSE / ITAR)
+
+This Statement of Work Order Form (this "Order Form" or "SOW") is dated {{EFFECTIVE_DATE}} and is issued under the Master Subcontract Agreement between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}}) (the "Subcontractor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} ({{CUSTOMER_ADDRESS}}) (the "Prime Contractor"), dated {{MSA_EFFECTIVE_DATE}} (the "MSA"). This Order Form is structured as a modular form. The MSA's framework terms apply by reference; the project-specific terms are in the Schedules.
+
+Project Name: {{PROJECT_NAME}}
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 Order Form Structure. This Order Form is intentionally minimal. The substantive project terms are set forth in the Schedules. Where the Schedules conflict with the body of this Order Form, the Schedules control. Where this Order Form (including Schedules) conflicts with the MSA, the project-specific commercial terms and the Prime Contractor's defense-program-specific provisions in this Order Form control as to this Engagement only.
+
+1.2 Project Description and Scope. The Subcontractor shall provide professional services in support of the Prime Contractor's flight simulator software upgrade for the U.S. Government end-user identified in Schedule 1.A, including software engineering, integration with existing simulator hardware, validation, and acceptance testing, in accordance with Schedule 1 (Project Description and Scope).
+
+1.3 Export Control Applicability. The Project includes work product subject to the International Traffic in Arms Regulations (ITAR, 22 C.F.R. Parts 120-130) and the Export Administration Regulations (EAR, 15 C.F.R. Parts 730-774). The applicable export control classifications and the Prime Contractor's specific export control requirements are set forth in Schedule 1.E (Export Control Requirements). The Subcontractor shall comply with all applicable export control laws and the Prime Contractor's export control compliance program.
+
+1.4 Order of Precedence Within Order Form. Schedule 1 (including the Export Control Requirements in 1.E) controls over the other Schedules.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables. The Deliverables are listed in Schedule 2 with target completion dates and acceptance criteria. Each Deliverable that constitutes ITAR-controlled technical data shall additionally satisfy the marking, handling, and transmission requirements in Schedule 1.E.
+
+2.2 Acceptance Period. Each Deliverable is subject to a fifteen (15) business day Acceptance Period, extended to twenty (20) business days for Deliverables requiring U.S. Government end-user review.
+
+2.3 Cure of Non-Conformity. The Subcontractor shall correct any non-conformity within fifteen (15) business days at no additional charge. After two (2) cure cycles, the Prime Contractor may, at its sole option, accept with an equitable Project Fee reduction or terminate this SOW for material breach.
+
+2.4 No Deemed Acceptance. There shall be no deemed acceptance of any Deliverable.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project Window. The Project shall commence on {{PROJECT_START_DATE}} and shall be substantially complete by {{PROJECT_END_DATE}}.
+
+3.2 Milestones. Named milestones with target completion dates are set forth in Schedule 3.
+
+3.3 Status Reporting. The Subcontractor shall deliver weekly written status reports and shall participate in the Prime Contractor's standard program review cadence.
+
+3.4 Prime Contractor Right to Suspend. The Prime Contractor may suspend the In-Scope Activities at any time on twenty-four (24) hours' notice in connection with (a) any export control compliance investigation, (b) any U.S. Government end-user direction, (c) any program funding suspension, or (d) any other reason the Prime Contractor determines is necessary.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named Key Personnel. The Subcontractor shall assign the Key Personnel named in Schedule 4. The Subcontractor shall not replace any Key Personnel without the Prime Contractor's prior written consent.
+
+4.2 U.S. Person Requirement. All Subcontractor personnel assigned to ITAR-controlled work shall be "U.S. persons" within the meaning of 22 C.F.R. § 120.62 (i.e., U.S. citizens, U.S. lawful permanent residents, or persons granted asylum/refugee status). Personnel who are not U.S. persons shall not be assigned to ITAR-controlled work, shall not be granted access to ITAR-controlled technical data, and shall not be present in any meeting where ITAR-controlled technical data is discussed. The Subcontractor shall maintain documentation of personnel U.S. person status and shall make such documentation available to the Prime Contractor's export control compliance office.
+
+4.3 Personnel Security Clearances. To the extent the In-Scope Activities require access to classified information, the Subcontractor's assigned personnel shall hold the appropriate security clearances at the level identified in Schedule 4.A. Personnel without the required clearance shall not be assigned to classified work.
+
+4.4 Background Checks. All Subcontractor personnel shall have completed the background investigations required by the MSA and the Prime Contractor's facility security plan.
+
+4.5 Removal of Personnel. The Prime Contractor may at any time and without cause request that the Subcontractor remove any individual; the Subcontractor shall comply within five (5) business days.
+
+4.6 Non-Solicitation. The Subcontractor shall not, during the Project Period and for twelve (12) months following the Project End Date, solicit for employment any Prime Contractor employee with whom the Subcontractor had material contact, subject to the customary general-solicitation carve-out.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 Prime Contractor Responsibilities. The Prime Contractor's responsibilities — designated personnel, facility access, classified material handling support, U.S. Government end-user liaison — are set forth in Schedule 5.
+
+5.2 ITAR-Controlled Material Provision. The Prime Contractor shall provide ITAR-controlled technical data and ITAR-controlled hardware to the Subcontractor only at facilities and to personnel that have been pre-approved under the Prime Contractor's export control compliance program.
+
+5.3 Customer Delays. If the Prime Contractor fails to satisfy its responsibilities, the Subcontractor shall be entitled to schedule extensions and reasonable cost recovery as set forth in Schedule 5.A.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions. The In-Scope Activities, the Project Schedule, and the Project Fee are based on the Assumptions in Schedule 6, including assumptions about the U.S. Government end-user's requirements, the existing simulator hardware configuration, and the absence of program funding suspensions.
+
+6.2 Third-Party Dependencies. Third-party dependencies are listed in Schedule 6.A.
+
+6.3 Notification of Changed Assumptions. The Prime Contractor shall promptly notify the Subcontractor in writing if it becomes aware that any Assumption has changed.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Time-and-Materials with Not-to-Exceed. The Subcontractor shall perform the In-Scope Activities on a time-and-materials basis at the rates in Schedule 7.A, subject to a not-to-exceed cap of {{SOW_FEE_AMOUNT}} (the "NTE Cap"). The Subcontractor shall not exceed the NTE Cap without the Prime Contractor's prior written approval, which approval shall be implemented through a signed Change Order. If the Subcontractor reaches seventy-five percent (75%) of the NTE Cap, the Subcontractor shall promptly notify the Prime Contractor.
+
+7.2 Right of Audit. The Prime Contractor retains the right of audit set forth in the MSA, applied to all Project records. The U.S. Government end-user retains audit rights to the extent required by applicable Federal Acquisition Regulation (FAR) and Defense Federal Acquisition Regulation Supplement (DFARS) clauses.
+
+7.3 Expense Reimbursement. The Prime Contractor shall reimburse reasonable, documented out-of-pocket expenses subject to the Prime Contractor's vendor travel policy and pre-approval of any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}}.
+
+7.4 Invoicing. The Subcontractor shall invoice the Prime Contractor monthly in arrears with the level of detail required by the Prime Contractor's program controls. Invoices are due net 60.
+
+7.5 Disputed Invoices. The Prime Contractor shall pay the undisputed portion and notify the Subcontractor in writing of any dispute.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests. Either Party may at any time submit a written Change Request.
+
+8.2 Impact Assessment. The Subcontractor shall deliver an impact assessment within ten (10) business days. Impact assessments for changes affecting ITAR-controlled work or classified work shall include the impact on export control or security compliance.
+
+8.3 Change Order. Both Parties must sign a Change Order. Change Orders affecting export control classifications shall require additional sign-off from the Prime Contractor's export control compliance office.
+
+8.4 No Oral Modifications. Only a signed Change Order modifies this SOW.
+
+8.5 Continuing Performance. The Subcontractor continues performing the In-Scope Activities while a Change Request is being negotiated.
+
+ARTICLE 9 — INCORPORATION OF MASTER SUBCONTRACT AGREEMENT AND DEFENSE-SPECIFIC PROVISIONS
+
+9.1 Incorporation by Reference. This SOW Order Form is issued under the MSA. All MSA terms and conditions apply.
+
+9.2 Order of Precedence with MSA. The MSA controls except that the project-specific commercial terms in this Order Form, the Export Control Requirements in Schedule 1.E, and the defense-program-specific provisions in this Article 9 control over any inconsistent provisions in the MSA, solely as applied to this Engagement.
+
+9.3 ITAR / EAR Compliance. The Subcontractor shall comply with all applicable export control laws and regulations, including ITAR (22 C.F.R. Parts 120-130) and EAR (15 C.F.R. Parts 730-774). The Subcontractor shall not export, re-export, transfer, or release any controlled technical data, software, or hardware to any non-U.S. person or to any country embargoed by the U.S. Government, except as expressly authorized by an applicable export license or license exception. Any unauthorized export shall be a material breach.
+
+9.4 FAR / DFARS Flow-Downs. The Subcontractor acknowledges that this SOW is subject to the FAR and DFARS flow-down clauses identified in Schedule 9.A, which are incorporated by reference. The Subcontractor shall comply with all such flow-down clauses, including without limitation those relating to small business participation, equal employment opportunity, environmental compliance, and counterfeit electronic parts prevention.
+
+9.5 Cybersecurity Maturity Model Certification (CMMC). The Subcontractor shall maintain the CMMC certification level identified in Schedule 9.B at all times during the Project Period. Loss or downgrade of the required certification level shall be a material breach of this SOW.
+
+9.6 U.S. Government Audit Rights. The U.S. Government end-user shall have audit rights as required by applicable FAR and DFARS clauses. The Subcontractor shall cooperate with any such audit.
+
+9.7 Termination. The Prime Contractor may terminate this Order Form at any time, with or without cause, on thirty (30) days' written notice. The Prime Contractor shall pay for work performed through the termination date plus reasonable wind-down costs. Termination for the convenience of the U.S. Government end-user (T-for-C under FAR 52.249-2 or equivalent) shall be governed by the corresponding flow-down clause in Schedule 9.A.
+
+SCHEDULES
+
+Schedule 1 — Project Description and Scope (1.A U.S. Government End-User, 1.B In-Scope, 1.C Out-of-Scope, 1.D Project Objectives, 1.E Export Control Requirements)
+Schedule 2 — Deliverables and Acceptance Criteria
+Schedule 3 — Project Schedule and Milestones
+Schedule 4 — Key Personnel and Allocations (4.A Required Security Clearance Levels)
+Schedule 5 — Prime Contractor Responsibilities (5.A Customer Delay Compensation)
+Schedule 6 — Assumptions and Dependencies
+Schedule 7 — Fees and Payment (7.A Rate Card, 7.B NTE Allocation)
+Schedule 8 — Change Control Procedures
+Schedule 9 — Defense-Specific Provisions (9.A FAR/DFARS Flow-Downs, 9.B CMMC Requirements)
+
+SIGNED AS OF {{EFFECTIVE_DATE}}.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

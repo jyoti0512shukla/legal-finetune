@@ -1,0 +1,13 @@
+{
+  "source_template": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10.txt",
+  "variation_index": 3,
+  "substitutions": {
+    "PROVIDER_NAME": "Acuity Software Group, Inc.",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_NAME": "Evergreen Properties Inc.",
+    "CUSTOMER_STATE": "Texas",
+    "VENUE_CITY": "Austin",
+    "TERM_YEARS": "four (4)",
+    "LIABILITY_CAP_MONTHS": "six (6)"
+  }
+}

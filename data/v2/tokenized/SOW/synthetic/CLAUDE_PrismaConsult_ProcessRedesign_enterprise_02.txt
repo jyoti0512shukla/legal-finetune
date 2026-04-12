@@ -1,0 +1,207 @@
+STATEMENT OF WORK NO. 1 — FINANCE OPERATIONS PROCESS REDESIGN
+
+This Statement of Work No. 1 (this "SOW") is entered into as of {{EFFECTIVE_DATE}} (the "SOW Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Client"). The Provider and the Client are collectively referred to as the "Parties."
+
+This SOW is issued pursuant to and is governed by the Master Services Agreement between the Parties dated {{MSA_EFFECTIVE_DATE}} (the "MSA"). All capitalized terms used but not defined in this SOW have the meanings given to them in the MSA. In the event of any conflict between this SOW and the MSA, the MSA shall control except with respect to commercial terms expressly set forth in this SOW (including the Project Fee, the Project Schedule, and the Acceptance Criteria), which shall control as to this Engagement only.
+
+The project described in this SOW is referred to as the "{{PROJECT_NAME}}" or the "Project."
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 Project Objectives. The Client has engaged the Provider to conduct a structured assessment and redesign of the Client's order-to-cash and procure-to-pay finance operations across the Client's three operating divisions, with the objective of (a) reducing the Client's days sales outstanding (DSO) by at least eight (8) days against the pre-engagement baseline, (b) reducing the Client's accounts payable invoice processing cost per invoice by at least twenty percent (20%), (c) producing a target operating model that the Client can implement using its existing ERP and workflow tooling, and (d) producing a transition roadmap for the implementation phase to be performed under a separate Statement of Work.
+
+1.2 Engagement Phases. The Project shall be performed in two distinct phases:
+
+(a) Phase 1 — Diagnostic (Fixed-Fee). A fixed-fee diagnostic phase of approximately twelve (12) weeks during which the Provider shall (i) document the Client's current-state finance operations through stakeholder interviews, system walkthroughs, and process observation, (ii) benchmark the Client's processes against the Provider's industry benchmarks, (iii) identify the highest-impact improvement opportunities, (iv) produce the Diagnostic Report and the Target Operating Model, and (v) recommend the implementation roadmap and the prioritized initiative list. The Phase 1 fee is set at the fixed amount described in Article 7.
+
+(b) Phase 2 — Implementation Support (T&M with Cap). A time-and-materials phase of approximately twenty (20) weeks during which the Provider shall (i) support the Client in implementing the prioritized initiatives from the Phase 1 roadmap, (ii) provide change-management facilitation for the Client's internal teams, (iii) produce process documentation and training materials, and (iv) provide steady-state runbooks for the redesigned processes. Phase 2 is performed on a time-and-materials basis subject to the not-to-exceed cap described in Article 7.
+
+1.3 In-Scope Activities. The In-Scope Activities for this Project are limited to the activities described in Section 1.2 and the deliverables listed in Article 2. Without limitation, the following are also in-scope:
+
+(a) Up to fifty (50) stakeholder interviews across the Client's finance, accounting, and treasury organizations during Phase 1.
+
+(b) Up to four (4) on-site visits to the Client's regional finance operations centers during Phase 1.
+
+(c) Process observation and shadowing of the Client's accounts receivable, accounts payable, billing, and collections teams during Phase 1.
+
+(d) Up to four (4) executive readout sessions with the Client's CFO and finance leadership during Phase 1.
+
+(e) Facilitation of up to twelve (12) cross-functional implementation working sessions during Phase 2.
+
+1.4 Out-of-Scope Activities. The following are expressly out-of-scope and not included in either the Phase 1 fixed-fee or the Phase 2 not-to-exceed cap. Any of the following, if requested, requires a Change Order under Article 8:
+
+(a) Configuration, customization, or development of the Client's ERP system, workflow tools, or any other software system. The Provider's role is advisory; software changes are the Client's responsibility (or are out-sourced by the Client to a separate vendor).
+
+(b) Acquisition or license of any third-party benchmarking data, software, or platform on the Client's behalf.
+
+(c) Audit, attestation, or assurance services of any kind. The Provider is not engaged to perform any audit and shall not issue any audit report or opinion.
+
+(d) Any tax advice, tax planning, or tax compliance services.
+
+(e) Any work product subject to the rules of professional conduct of any state bar — the Provider is not engaged to provide legal advice and shall not opine on legal questions.
+
+(f) Implementation of any process changes outside the order-to-cash and procure-to-pay process areas (for example, treasury, financial planning and analysis, or external reporting).
+
+1.5 Engagement Period. The Provider shall perform the In-Scope Activities during the period beginning on the Project Start Date and ending on the Project End Date set forth in Article 3, subject to extensions agreed in any executed Change Order.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables. The Provider shall produce and deliver to the Client the following deliverables (each a "Deliverable" and collectively the "Deliverables"):
+
+(a) Phase 1 Workplan and Stakeholder Map — a written workplan, including the proposed interview list, the proposed working session cadence, and the executive readout schedule. Target delivery: end of Project Week 2.
+
+(b) Current-State Assessment — a written assessment of the Client's current-state finance operations, including the key process flows, pain points, control gaps, and quantitative baselines for the target metrics in Section 1.1. Target delivery: end of Project Week 6.
+
+(c) Industry Benchmark Report — a written report comparing the Client's current-state metrics against the Provider's industry benchmarks for comparable finance operations in the Client's industry. Target delivery: end of Project Week 7.
+
+(d) Target Operating Model — a written description of the recommended target operating model, including process flows, organizational structure recommendations, technology dependencies, and the prioritized initiative list. Target delivery: end of Project Week 10.
+
+(e) Implementation Roadmap — a written roadmap describing the recommended sequencing of the prioritized initiatives, the resource requirements, the expected benefit realization timing, and the key risks. Target delivery: end of Project Week 12. Acceptance of this Deliverable concludes Phase 1.
+
+(f) Phase 2 Process Documentation — written documentation of the redesigned processes for each prioritized initiative implemented during Phase 2. Target delivery: end of each implementation sprint during Phase 2.
+
+(g) Phase 2 Training Materials — written training materials, including process job aids and facilitator guides, for use by the Client's internal change-management team. Target delivery: end of Project Week 26.
+
+(h) Steady-State Runbooks — written runbooks describing the day-to-day operation of each redesigned process, including escalation procedures and key performance indicators. Target delivery: end of Project Week 30.
+
+2.2 Acceptance Criteria. Acceptance criteria for each Deliverable are set forth in Schedule A. Each Deliverable shall be deemed conforming if it satisfies the acceptance criteria for that Deliverable.
+
+2.3 Acceptance Period. The Client shall have a period of ten (10) business days following its receipt of each Deliverable (the "Acceptance Period") to review the Deliverable and notify the Provider in writing of either (a) the Client's acceptance of the Deliverable, or (b) the Client's rejection of the Deliverable, accompanied by a written description of the alleged non-conformity with the acceptance criteria.
+
+2.4 Cure of Non-Conformity. If the Client rejects a Deliverable, the Provider shall, at no additional charge to the Client, correct the alleged non-conformity and resubmit the corrected Deliverable to the Client within ten (10) business days of receipt of the Client's rejection notice. The Client shall then have a new Acceptance Period to review the resubmitted Deliverable. If the Provider fails to deliver a conforming Deliverable after two (2) cycles of cure, the Client may, at its option, either (i) accept the Deliverable in its then-current form with an equitable reduction in the Project Fee attributable to such Deliverable, or (ii) terminate this SOW for material breach pursuant to the termination provisions of the MSA and recover the portion of the Project Fee paid for the rejected Deliverable.
+
+2.5 No Deemed Acceptance. There shall be no deemed acceptance of any Deliverable. Any Deliverable not affirmatively accepted by the Client in writing within the Acceptance Period shall remain unaccepted, and the passage of time alone shall not constitute acceptance.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project Start and End Dates. The Project shall commence on {{PROJECT_START_DATE}} (the "Project Start Date") and shall be substantially complete by {{PROJECT_END_DATE}} (the "Project End Date"), subject to (a) the Client's timely satisfaction of its Client Responsibilities under Article 5, (b) the Assumptions in Article 6 remaining valid, and (c) any extensions agreed in an executed Change Order.
+
+3.2 Milestones. The Project shall be performed in accordance with the following milestone schedule:
+
+(a) Milestone 1 — Phase 1 Workplan Accepted. Target completion: Project Week 2.
+
+(b) Milestone 2 — Current-State Assessment Accepted. Target completion: Project Week 6.
+
+(c) Milestone 3 — Target Operating Model Accepted. Target completion: Project Week 10.
+
+(d) Milestone 4 — Implementation Roadmap Accepted (Phase 1 Complete). Target completion: Project Week 12. This milestone triggers the Client's Phase 2 go/no-go decision.
+
+(e) Milestone 5 — Phase 2 Mid-Point Review. Target completion: Project Week 22.
+
+(f) Milestone 6 — Phase 2 Steady-State Handover and Final Runbooks. Target completion: Project Week 32.
+
+3.3 Phase 1 / Phase 2 Gate. Following acceptance of the Implementation Roadmap (Milestone 4), the Client shall have a thirty (30) day period during which to (a) decide whether to proceed with Phase 2, (b) decide whether to modify the Phase 2 scope, or (c) elect not to proceed with Phase 2. If the Client elects not to proceed with Phase 2, this SOW shall be deemed complete upon the Provider's receipt of the final Phase 1 payment, and the Provider shall have no further obligation to perform Phase 2 services.
+
+3.4 Status Reporting and Schedule Slippage. The Provider shall deliver to the Client a written status report at least once per week throughout the Project. The status report shall identify the activities completed during the prior week, the activities planned for the following week, any open risks or issues, and any actual or anticipated schedule slippage. If the Provider becomes aware of any actual or anticipated slippage of more than five (5) business days against any Milestone target completion date, the Provider shall promptly notify the Client in writing, identify the cause of the slippage, and propose a remediation plan.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named Key Personnel. The Provider shall assign the following individuals as Key Personnel for this Project, each of whom is named in Schedule B together with such individual's role, expected minimum allocation percentage, and the period during which such individual is expected to be allocated to the Project:
+
+(a) Engagement Partner (minimum allocation 20% across the Project duration);
+
+(b) Engagement Manager (minimum allocation 100% across the Project duration);
+
+(c) Senior Process Consultant — Order-to-Cash (minimum allocation 100% during Phase 1, 50% during Phase 2);
+
+(d) Senior Process Consultant — Procure-to-Pay (minimum allocation 100% during Phase 1, 50% during Phase 2);
+
+(e) Change Management Lead (minimum allocation 75% across Phase 2).
+
+4.2 No Replacement Without Consent. The Provider shall not replace, reassign, or substantially reduce the allocation of any Key Personnel without the Client's prior written consent (which consent shall not be unreasonably withheld), except in the case of (i) the Key Personnel's resignation from the Provider, (ii) termination of the Key Personnel's employment for cause, (iii) the Key Personnel's death, disability, or extended leave of absence, or (iv) the Client's request for removal under Section 4.4.
+
+4.3 Background Checks and Training. All Provider personnel assigned to this Project shall have completed the background investigations and security training required by the MSA prior to receiving access to any Client systems or Client Materials.
+
+4.4 Removal of Personnel. The Client may, at any time and without cause, request that the Provider remove any individual from the Project. The Provider shall, within ten (10) business days following receipt of such request, remove the named individual from the Project and propose a replacement of comparable skills, experience, and seniority.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 Designated Client Personnel. The Client shall designate, prior to the Project Start Date, (a) an Executive Sponsor (the Client's Chief Financial Officer or designee) with authority to make Project-level decisions, (b) a Client Engagement Manager who will serve as the day-to-day point of contact for the Provider, and (c) Subject Matter Experts within the Client's order-to-cash and procure-to-pay organizations as reasonably necessary for the Provider to perform the diagnostic and implementation activities.
+
+5.2 Access to Personnel and Information. The Client shall provide the Provider with reasonable access to (a) the designated Subject Matter Experts for interviews and process observation, (b) read-only access to the Client's ERP and related systems for the purpose of process walkthroughs (the Provider shall not be granted any data export rights), (c) the Client's existing process documentation and training materials, and (d) such physical access to the Client's regional finance operations centers as the Provider reasonably requires for on-site visits.
+
+5.3 Accuracy of Provided Materials. The Client is responsible for the accuracy and completeness of all materials and information provided to the Provider. The Provider shall be entitled to rely on the materials provided by the Client without independent verification, and any errors or omissions in any Deliverable that result from inaccurate or incomplete source materials shall not be deemed a non-conformity of the Deliverable.
+
+5.4 Review and Approval Turnaround. The Client shall use commercially reasonable efforts to review and respond to any Deliverable, Change Order, decision request, or status report from the Provider within five (5) business days following receipt.
+
+5.5 Client Delays. If the Client fails to satisfy any of its responsibilities under this Article 5 in a timely manner, and such failure prevents or delays the Provider from performing the In-Scope Activities, the Provider shall be entitled to (a) an extension of the relevant Milestone target completion date and the Project End Date by a number of business days equal to the duration of the Client's delay, and (b) a reasonable adjustment to the Phase 2 not-to-exceed cap (with prior written notice to the Client). The Provider shall notify the Client of any anticipated Client Delay promptly upon becoming aware of it.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions. The Project Fee, the Project Schedule, and the In-Scope Activities are based on each of the following assumptions (the "Assumptions"). If any Assumption proves materially incorrect, the affected impact on scope, schedule, or fees shall be addressed through the change control procedure in Article 8.
+
+(a) The Client's three operating divisions follow substantially similar finance operations processes, such that a single target operating model can address all three divisions without material customization.
+
+(b) The Client's Subject Matter Experts will be available to the Provider for an average of six (6) hours per week per Subject Matter Expert during Phase 1.
+
+(c) The Client's existing ERP system (the version of the system in production as of the Project Start Date) is capable of supporting the workflow and configuration changes contemplated by the Target Operating Model. The Provider has not undertaken a separate technical fit assessment of the ERP system.
+
+(d) No significant organizational restructuring, M&A activity, or executive turnover within the Client's finance organization will occur during the Project Period that would require the Provider to substantially re-baseline the assessment.
+
+(e) The Client's pre-engagement DSO and AP cost-per-invoice baselines are reasonably representative of normal operating conditions and do not reflect any extraordinary circumstances (year-end close, regulatory remediation, system outage).
+
+(f) The implementation initiatives identified in the Implementation Roadmap will not require any third-party software license, hardware procurement, or external systems integration that the Client cannot procure on its standard purchasing timeline.
+
+6.2 Third-Party Dependencies. The Project depends on the continued availability and proper functioning of the Client's ERP system and the Client's existing workflow tooling. The Provider shall not be responsible for any delay or failure of performance to the extent caused by the failure of any such third-party dependency.
+
+6.3 Notification of Changed Assumptions. The Client shall promptly notify the Provider in writing if it becomes aware that any Assumption has changed or is no longer valid.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Two-Phase Pricing Structure. The Project Fee is structured in two phases corresponding to the two engagement phases described in Section 1.2:
+
+(a) Phase 1 — Fixed Fee. The Provider shall be paid a fixed Phase 1 fee of {{SOW_FEE_AMOUNT}} (the "Phase 1 Fee") for the Phase 1 services described in Section 1.2(a). The Phase 1 Fee is firm, fixed, and not subject to adjustment except through an executed Change Order under Article 8. The Provider shall bear any cost overruns within the scope of the Phase 1 In-Scope Activities and within the bounds of the Assumptions.
+
+(b) Phase 2 — Time-and-Materials Subject to Not-to-Exceed Cap. The Phase 2 services described in Section 1.2(b) shall be performed on a time-and-materials basis at the rates set forth in Schedule C, subject to a Phase 2 not-to-exceed cap of two (2) times the Phase 1 Fee (the "Phase 2 NTE Cap"). The Provider shall not exceed the Phase 2 NTE Cap without the Client's prior written approval, which approval shall be implemented through an executed Change Order. If the Provider determines that it will reach eighty percent (80%) of the Phase 2 NTE Cap, the Provider shall promptly notify the Client in writing.
+
+7.2 Phase 1 Payment Schedule. The Phase 1 Fee shall be invoiced and payable in accordance with the following schedule:
+
+(a) Twenty percent (20%) of the Phase 1 Fee shall be invoiced upon execution of this SOW, payable net thirty (30) days.
+
+(b) Thirty percent (30%) of the Phase 1 Fee shall be invoiced upon the Client's acceptance of the Current-State Assessment (Milestone 2), payable net thirty (30) days.
+
+(c) Thirty percent (30%) of the Phase 1 Fee shall be invoiced upon the Client's acceptance of the Target Operating Model (Milestone 3), payable net thirty (30) days.
+
+(d) Twenty percent (20%) of the Phase 1 Fee shall be invoiced upon the Client's acceptance of the Implementation Roadmap (Milestone 4), payable net thirty (30) days.
+
+7.3 Phase 2 Invoicing. Phase 2 time and expenses shall be invoiced monthly in arrears. Each Phase 2 invoice shall describe the Phase 2 services performed, the time spent (rounded to the nearest one-quarter hour), the personnel performing the services, and any reimbursable expenses incurred. The Client shall pay each undisputed Phase 2 invoice within thirty (30) days of receipt.
+
+7.4 Expense Reimbursement. The Client shall reimburse the Provider for reasonable, documented out-of-pocket expenses (including travel, lodging, and per diem) incurred by the Provider in performing the In-Scope Activities, subject to (a) the Client's then-current vendor travel and expense policy, and (b) the requirement that any individual expense in excess of {{EXPENSE_PREAPPROVAL_THRESHOLD}} be pre-approved in writing by the Client.
+
+7.5 Disputed Invoices. If the Client disputes any invoice or any portion of an invoice in good faith, the Client shall (a) timely pay the undisputed portion of the invoice, (b) promptly notify the Provider in writing of the disputed portion, and (c) work in good faith with the Provider to resolve the dispute. The Provider shall not suspend the In-Scope Activities on account of any disputed invoice for which the undisputed portion has been paid.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests. Either Party may at any time during the Project propose a change to the In-Scope Activities, the Deliverables, the Project Schedule, the Project Fee, the Phase 2 NTE Cap, or the Assumptions by submitting a written Change Request to the other Party. Each Change Request shall describe (a) the proposed change, (b) the reason for the change, (c) the proposed impact on scope, schedule, and fees, and (d) the proposed effective date.
+
+8.2 Impact Assessment. Within ten (10) business days following receipt of a Change Request, the Provider shall deliver to the Client a written impact assessment.
+
+8.3 Change Order. If the Parties agree to proceed with a proposed change, they shall execute a written change order (a "Change Order"), signed by an authorized representative of each Party, that documents the agreed change. No change to this SOW shall be effective unless documented in a signed Change Order.
+
+8.4 No Oral Modifications. No oral statement, email, or other informal communication shall constitute a modification of this SOW. Only a Change Order signed by both Parties shall modify this SOW.
+
+8.5 De Minimis Threshold. Notwithstanding the foregoing, changes to the Project that have a cumulative impact on the Project Fee or the Phase 2 NTE Cap of less than {{CHANGE_ORDER_THRESHOLD}} and no impact on the Project Schedule may be implemented by written email confirmation between the Parties' Engagement Managers without a formal Change Order.
+
+8.6 Continuing Performance Pending Resolution. If the Parties are unable to reach agreement on a Change Request, the Provider shall continue to perform the In-Scope Activities in accordance with this SOW as in effect prior to the Change Request, and either Party may escalate the dispute through the dispute resolution procedures of the MSA.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT
+
+9.1 Incorporation by Reference. This SOW is issued under and is governed by the MSA, which is incorporated into this SOW by reference. All terms and conditions of the MSA shall apply to this SOW and to the In-Scope Activities, including without limitation the MSA's provisions on confidentiality, intellectual property ownership, indemnification, limitation of liability, insurance, governing law, and dispute resolution.
+
+9.2 Order of Precedence. In the event of any conflict between this SOW and the MSA, the MSA shall control, except that the commercial terms expressly set forth in this SOW (including the Phase 1 Fee, the Phase 2 NTE Cap, the Project Schedule, the Acceptance Criteria, and the Key Personnel allocations) shall control over any inconsistent provisions in the MSA solely as applied to this Engagement.
+
+9.3 Termination. This SOW may be terminated only as expressly provided in the MSA or in this SOW. The Client's election not to proceed with Phase 2 under Section 3.3 shall not be deemed a termination for breach.
+
+IN WITNESS WHEREOF, the Parties have caused this Statement of Work No. 1 to be executed by their duly authorized representatives as of the SOW Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

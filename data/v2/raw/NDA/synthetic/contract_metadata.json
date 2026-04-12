@@ -1,0 +1,676 @@
+{
+  "_description": "Per-contract metadata for the NDA bucket. Captures deal context, customer type, negotiation posture, regulatory overlays and the distinguishing features that each NDA is meant to exemplify. Read alongside entity_maps.json and the per-contract tokenized templates in ../../tokenized/NDA/synthetic/.",
+
+  "CLAUDE_StrataCore_Acquisition_MutualNDA_enterprise_01": {
+    "industry": "m_and_a_strategic",
+    "industry_label": "strategic M&A due diligence (specialty chemicals acquisition)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "public_company_acquirer",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "mutual non-disclosure agreement for a potential acquisition transaction",
+    "party_roles": {"provider": "Party A", "customer": "Party B"},
+    "regulatory_frameworks": [
+      "Securities Exchange Act Regulation FD",
+      "HSR Act antitrust pre-closing conduct",
+      "Delaware General Corporation Law fiduciary duties"
+    ],
+    "special_features": [
+      "two-year standstill against unsolicited acquisition proposals",
+      "eighteen-month non-solicit of target employees with general-solicitation carve-out",
+      "no residuals clause — memory of Confidential Information is NOT permitted use",
+      "data room access protocol with watermarked documents and controlled printing",
+      "Regulation FD carve-out permitting public-company Discloser to comply with selective-disclosure rules"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "equitable_remedies"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_MeridianRetail_VendorEval_OneWayNDA_enterprise_02": {
+    "industry": "retail_enterprise_software_procurement",
+    "industry_label": "Fortune 500 retail enterprise evaluating a software vendor's platform",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "fortune_500_retailer",
+    "negotiation_bias": "customer_friendly",
+    "agreement_label_override": "one-way confidentiality and non-disclosure agreement (Customer is the Discloser; Vendor is the Receiving Party)",
+    "party_roles": {"provider": "Company", "customer": "Vendor"},
+    "regulatory_frameworks": [
+      "PCI-DSS v4.0 (Customer environment)",
+      "California Consumer Privacy Act / CPRA",
+      "Sarbanes-Oxley Act (Customer as a public company)"
+    ],
+    "special_features": [
+      "one-way NDA with Vendor as the sole Receiving Party (Customer is the Discloser)",
+      "five-year survival post-termination rather than the typical three",
+      "no residuals — Vendor's personnel may not rely on unaided memory",
+      "Customer right to conduct an annual information security audit of Vendor's handling practices during the evaluation period",
+      "aggressive return/destruction protocol with sworn certification by a Vendor officer"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "return_or_destruction",
+      "term_survival"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_NovaBio_JointVenture_MutualNDA_enterprise_03": {
+    "industry": "joint_venture_public_public_biotech",
+    "industry_label": "joint venture exploration between two publicly traded biotech companies",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "public_company_both_parties",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "mutual non-disclosure agreement for the exploration of a potential joint venture",
+    "party_roles": {"provider": "Party A", "customer": "Party B"},
+    "regulatory_frameworks": [
+      "Securities Exchange Act Regulation FD",
+      "HSR Act gun-jumping restrictions on pre-closing information exchange",
+      "Sherman Act Section 1 horizontal information-exchange doctrine"
+    ],
+    "special_features": [
+      "clean-team protocol for competitively sensitive information (pricing, customer-level, forward-looking plans)",
+      "Regulation FD carve-out for both parties as registered issuers",
+      "HSR gun-jumping acknowledgment — parties remain independent competitors pending any definitive agreement",
+      "eighteen-month mutual employee non-solicit with general solicitation carve-out",
+      "Ring-Fenced Competitive Information definition shared only with designated clean-team members"
+    ],
+    "primary_clause_focus": [
+      "purpose",
+      "confidentiality",
+      "compelled_disclosure"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_AtlasCompute_EmployeeConfid_OneWayNDA_enterprise_04": {
+    "industry": "tech_employer_senior_engineer",
+    "industry_label": "large technology employer onboarding a senior engineer (confidentiality + invention assignment)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "individual_employee",
+    "negotiation_bias": "provider_friendly",
+    "agreement_label_override": "employee confidentiality and invention assignment agreement",
+    "party_roles": {"provider": "Company", "customer": "Employee"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "California Labor Code Section 2870 (employee invention exemption)",
+      "Defend Trade Secrets Act of 2016 whistleblower notice",
+      "California Business & Professions Code Section 16600 (post-employment non-compete ban)"
+    ],
+    "special_features": [
+      "invention assignment with pre-assignment of Work Product created during employment",
+      "California Labor Code Section 2870 carve-out for inventions on employee's own time using no Company resources",
+      "Defend Trade Secrets Act whistleblower immunity notice in the required statutory form",
+      "twelve-month post-employment non-solicitation of Company employees (no non-compete, consistent with California law)",
+      "Prior Inventions schedule for pre-existing IP the employee brings to the role"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "no_license",
+      "term_survival"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_ForgeSignal_APIBetaNDA_OneWay_smb_05": {
+    "industry": "developer_tools_api_beta",
+    "industry_label": "developer tools vendor running a closed-beta API program",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "beta_developer",
+    "negotiation_bias": "provider_friendly",
+    "agreement_label_override": "click-through beta program non-disclosure agreement",
+    "party_roles": {"provider": "Provider", "customer": "Participant"},
+    "regulatory_frameworks": [],
+    "special_features": [
+      "click-to-accept flow triggered by enrollment in the beta program",
+      "no-signature-block execution (button click constitutes agreement)",
+      "explicit disclaimer that the beta API may change without notice and is offered AS IS",
+      "Feedback license-back to Provider covering improvements, suggestions, and bug reports"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "no_license"
+    ],
+    "drafting_style": "click_through_tos"
+  },
+
+  "CLAUDE_AetherLabs_ModelPreviewNDA_OneWay_smb_06": {
+    "industry": "ai_model_preview_research_access",
+    "industry_label": "AI research lab offering early preview access to a new foundation model",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "research_preview_user",
+    "negotiation_bias": "provider_friendly",
+    "agreement_label_override": "click-through AI model preview non-disclosure agreement",
+    "party_roles": {"provider": "Lab", "customer": "Previewer"},
+    "regulatory_frameworks": [],
+    "special_features": [
+      "no-publication restriction until general availability without written consent",
+      "no-benchmark-sharing clause to prevent leaked evaluation scores",
+      "no-distillation clause prohibiting training derivative models on Lab outputs",
+      "click-through acceptance tied to the API key provisioning flow"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "no_license"
+    ],
+    "drafting_style": "click_through_tos"
+  },
+
+  "CLAUDE_PinecrestVentures_StartupVCPitch_MutualNDA_smb_07": {
+    "industry": "startup_vc_pitch",
+    "industry_label": "seed-stage startup founders pitching venture capital investors",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "generic_corporate",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "mutual non-disclosure agreement for a potential seed investment",
+    "party_roles": {"provider": "Founder Party", "customer": "Investor"},
+    "regulatory_frameworks": [],
+    "special_features": [
+      "Investor carve-out allowing discussion with limited partners and fund advisors under equivalent confidentiality",
+      "no-shopping clause preventing Investor from using disclosed financials to back competing startups for 12 months",
+      "standard VC-customary exception for publicly available pitch deck content",
+      "short two-year term with three-year confidentiality tail"
+    ],
+    "primary_clause_focus": [
+      "purpose",
+      "confidentiality",
+      "term_survival"
+    ],
+    "drafting_style": "modern_tech_minimalist"
+  },
+
+  "CLAUDE_GlideOps_VendorDiscovery_MutualNDA_smb_08": {
+    "industry": "saas_vendor_discovery_call",
+    "industry_label": "early-stage SaaS vendor and prospective customer on a discovery call",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "generic_corporate",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "short-form mutual non-disclosure agreement for vendor discovery conversations",
+    "party_roles": {"provider": "Vendor", "customer": "Prospect"},
+    "regulatory_frameworks": [],
+    "special_features": [
+      "short-form structure designed for rapid execution before a single discovery call",
+      "one-year term with two-year confidentiality tail",
+      "explicit carve-out for publicly posted marketing materials and product documentation",
+      "no standstill, no non-solicit, no data room mechanics — deliberately minimalist"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "exclusions"
+    ],
+    "drafting_style": "modern_tech_minimalist"
+  },
+
+  "CLAUDE_Keystone_CanadianBank_Outsourcing_OneWayNDA_enterprise_09": {
+    "industry": "canadian_bank_cloud_outsourcing_diligence",
+    "industry_label": "Canadian Schedule I bank conducting cloud vendor outsourcing diligence under OSFI B-10",
+    "deal_size": "enterprise",
+    "currency": "CAD",
+    "customer_type": "regulated_bank",
+    "negotiation_bias": "customer_friendly",
+    "agreement_label_override": "one-way confidentiality agreement for Canadian bank outsourcing due diligence",
+    "party_roles": {"provider": "Bank", "customer": "Vendor"},
+    "regulatory_frameworks": [
+      "OSFI Guideline B-10 (Third-Party Risk Management)",
+      "OSFI Guideline B-13 (Technology and Cyber Risk Management)",
+      "Personal Information Protection and Electronic Documents Act (PIPEDA)",
+      "Bank Act (Canada)"
+    ],
+    "special_features": [
+      "OSFI regulator access and pass-through audit rights",
+      "PIPEDA-compliant handling of any personal information disclosed during diligence",
+      "Bank-friendly unilateral termination for any reason or no reason on ten business days' notice",
+      "Canadian jurisdiction with Ontario governing law and Toronto venue",
+      "sworn destruction certificate signed by an officer of Vendor"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "compelled_disclosure",
+      "return_or_destruction"
+    ],
+    "drafting_style": "customer_paper_negotiated"
+  },
+
+  "CLAUDE_SentinelDefense_BidTeam_OneWayNDA_enterprise_10": {
+    "industry": "federal_defense_contractor_bid_team",
+    "industry_label": "federal prime contractor assembling a bid team for a DoD IT modernization procurement",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "prime_federal_contractor",
+    "negotiation_bias": "provider_friendly",
+    "agreement_label_override": "bid team non-disclosure agreement for a federal procurement (CUI/controlled unclassified information)",
+    "party_roles": {"provider": "Prime Contractor", "customer": "Teaming Partner"},
+    "regulatory_frameworks": [
+      "NIST SP 800-171 (CUI Protection)",
+      "DFARS 252.204-7012 (Safeguarding Covered Defense Information)",
+      "ITAR (22 CFR Parts 120-130)",
+      "EAR (15 CFR Parts 730-774)",
+      "FAR 3.104 (Procurement Integrity Act)"
+    ],
+    "special_features": [
+      "U.S. citizen-only access to CUI and Controlled Defense Information",
+      "facility clearance and personnel security clearance flow-down",
+      "Procurement Integrity Act acknowledgment — no contractor bid or proposal information shared outside the bid team",
+      "no subcontracting of the Confidential Information handling without prior written consent",
+      "72-hour incident reporting to the Prime Contractor's security office per DFARS 252.204-7012"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "compelled_disclosure"
+    ],
+    "drafting_style": "customer_paper_negotiated"
+  },
+
+  "CLAUDE_Bramwell_BigLaw_ClientMatter_FrameworkNDA_mid_market_11": {
+    "industry": "biglaw_client_engagement_framework",
+    "industry_label": "BigLaw firm operating under a master client engagement framework with per-matter addenda",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "law_firm_engagement_with_corporate_client",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "master confidentiality agreement with per-matter confidentiality addenda",
+    "party_roles": {"provider": "Firm", "customer": "Client"},
+    "regulatory_frameworks": [
+      "Model Rule 1.6 (Confidentiality of Information)",
+      "Model Rule 1.9 (Duties to Former Clients)",
+      "attorney-client privilege and work-product doctrine"
+    ],
+    "special_features": [
+      "modular Master + Matter Addendum structure — one master agreement signed once, then lightweight addenda per matter",
+      "attorney-client privilege and work-product protections layered on top of the NDA",
+      "Firm conflict-of-interest carve-out permitting work for non-conflicting clients",
+      "per-matter data room provisions, retention periods, and destruction schedules pushed into Matter Addenda"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "term_survival",
+      "return_or_destruction"
+    ],
+    "drafting_style": "modular_order_form"
+  },
+
+  "CLAUDE_DealRoomPartners_PE_MasterNDA_ModularOrderForm_enterprise_12": {
+    "industry": "private_equity_dataroom_master",
+    "industry_label": "private equity firm operating a shared data room with per-deal confidentiality schedules",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "generic_corporate",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "master non-disclosure agreement with per-deal confidentiality schedules",
+    "party_roles": {"provider": "Sponsor", "customer": "Bidder"},
+    "regulatory_frameworks": [
+      "HSR Act antitrust pre-closing conduct",
+      "Securities Exchange Act anti-tipping rules"
+    ],
+    "special_features": [
+      "bare master NDA with all deal-specific terms pushed into per-deal Confidentiality Schedules",
+      "each Confidentiality Schedule can set its own Purpose, survival period, standstill period, and non-solicit terms",
+      "shared data room access protocol with tiered access levels defined per Schedule",
+      "default survival period is three years unless a Schedule specifies otherwise"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "term_survival"
+    ],
+    "drafting_style": "modular_order_form"
+  },
+
+  "CLAUDE_Wildflower_FreelanceDesigner_OneWayNDA_smb_13": {
+    "industry": "freelance_brand_designer_engagement",
+    "industry_label": "freelance brand designer engagement with a small D2C consumer goods brand",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "generic_corporate",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "plain-language confidentiality agreement for a freelance designer engagement",
+    "party_roles": {"provider": "Client", "customer": "Designer"},
+    "regulatory_frameworks": [],
+    "special_features": [
+      "one-way NDA protecting Client's brand, marketing plans, and unreleased product imagery",
+      "plain-language voice with 'we' and 'you' pronouns and no WHEREAS recitals",
+      "Designer retains Designer's own portfolio rights in the sketches and general style",
+      "no invention assignment — separate from the engagement contract, which handles deliverables"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "return_or_destruction"
+    ],
+    "drafting_style": "plain_english_common_paper"
+  },
+
+  "CLAUDE_Voxly_PodcastGuest_MutualNDA_smb_14": {
+    "industry": "podcast_guest_pre_interview",
+    "industry_label": "podcast production company and a prospective guest discussing a pre-recorded interview",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "generic_corporate",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "short mutual confidentiality agreement for a pre-interview conversation",
+    "party_roles": {"provider": "Producer", "customer": "Guest"},
+    "regulatory_frameworks": [],
+    "special_features": [
+      "very short mutual NDA for a single pre-interview call",
+      "carve-out for anything the Guest has already said publicly in prior interviews or writings",
+      "no residuals because this is an interview context — unaided memory is a thing here and is addressed explicitly",
+      "plain-language voice with 'we' and 'you'"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "exclusions"
+    ],
+    "drafting_style": "plain_english_common_paper"
+  },
+
+  "CLAUDE_Ledgerline_CustomerReference_MutualNDA_smb_15": {
+    "industry": "customer_reference_call_saas",
+    "industry_label": "SaaS vendor arranging a customer reference call for a sales prospect",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "generic_corporate",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "plain-language mutual non-disclosure agreement for a customer reference call",
+    "party_roles": {"provider": "Reference Customer", "customer": "Prospect"},
+    "regulatory_frameworks": [],
+    "special_features": [
+      "three-way dynamic — Reference Customer and Prospect each hold non-public information",
+      "short term because the call is a one-time event",
+      "Prospect can't use what the Reference Customer says to negotiate against the Vendor or poach the Reference Customer's employees",
+      "no recording, no written transcripts, no sharing call notes"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "term_survival"
+    ],
+    "drafting_style": "plain_english_common_paper"
+  },
+
+  "CLAUDE_Harbormate_ConsultantEngagement_OneWayNDA_mid_market_16": {
+    "industry": "management_consulting_engagement",
+    "industry_label": "management consulting firm engaging with a mid-market client on an operations improvement project",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "generic_corporate",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "plain-language consultant confidentiality agreement",
+    "party_roles": {"provider": "Client", "customer": "Consultant"},
+    "regulatory_frameworks": [],
+    "special_features": [
+      "one-way NDA (Client is Discloser) with plain-language voice",
+      "Consultant keeps industry-general know-how (the 'experience and skill' carve-out) but not Client-specific trade secrets",
+      "return or destruction on engagement completion with short confirmation email sufficient",
+      "no non-solicit — Client handles that in a separate engagement letter"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "return_or_destruction",
+      "purpose"
+    ],
+    "drafting_style": "plain_english_common_paper"
+  },
+
+  "CLAUDE_Elmwood_PE_PortfolioCoDiligence_MutualNDA_enterprise_17": {
+    "industry": "pe_portfolio_company_diligence",
+    "industry_label": "private equity portfolio company evaluating a bolt-on acquisition target",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "public_company_acquirer",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "mutual non-disclosure agreement for a PE-backed bolt-on acquisition",
+    "party_roles": {"provider": "Party A", "customer": "Party B"},
+    "regulatory_frameworks": [
+      "HSR Act antitrust pre-closing conduct",
+      "Delaware General Corporation Law fiduciary duties"
+    ],
+    "special_features": [
+      "sponsor flow-down allowing Confidential Information to be shared with the PE sponsor and its limited partners subject to equivalent confidentiality",
+      "carve-out permitting the sponsor to continue pursuing other acquisitions in the same industry sector",
+      "twelve-month standstill with board-level exception",
+      "eighteen-month non-solicit of target's senior management team"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "term_survival"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Ironclad_CrossBorderTechLicensing_OneWayNDA_enterprise_18": {
+    "industry": "cross_border_technology_licensing",
+    "industry_label": "U.S. technology licensor negotiating a Japanese manufacturing licensee",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "generic_corporate",
+    "negotiation_bias": "provider_friendly",
+    "agreement_label_override": "one-way non-disclosure agreement for a cross-border technology licensing negotiation",
+    "party_roles": {"provider": "Licensor", "customer": "Prospective Licensee"},
+    "regulatory_frameworks": [
+      "EAR (15 CFR Parts 730-774)",
+      "OFAC Sanctions Regulations",
+      "Japanese Foreign Exchange and Foreign Trade Act"
+    ],
+    "special_features": [
+      "U.S. export control compliance clause requiring Licensee to confirm end-user and end-use certifications",
+      "OFAC-denied-persons screening pre-condition",
+      "Japanese counterpart enforceability acknowledgment and English-language-controlling clause",
+      "five-year survival with trade secret carve-out, governed by New York law"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "compelled_disclosure",
+      "term_survival"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_CrestWell_PharmaLicensing_MutualNDA_enterprise_19": {
+    "industry": "pharma_asset_licensing_diligence",
+    "industry_label": "pharmaceutical company licensing diligence on a Phase 2 oncology asset",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "pharmaceutical_company",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "mutual non-disclosure agreement for a pharmaceutical licensing due diligence review",
+    "party_roles": {"provider": "Party A", "customer": "Party B"},
+    "regulatory_frameworks": [
+      "21 CFR Part 11 (Electronic Records)",
+      "FDA pre-submission meeting materials confidentiality",
+      "HIPAA (to the extent patient-level data is disclosed)"
+    ],
+    "special_features": [
+      "clinical trial data room with watermarked CRF tables and pseudonymized patient-level data",
+      "FDA pre-submission materials explicitly within Confidential Information",
+      "three-year survival with trade secret carve-out for manufacturing know-how",
+      "no use of Confidential Information to file competing regulatory submissions"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "no_license"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Solstice_AcademicResearch_OneWayNDA_mid_market_20": {
+    "industry": "academic_research_sponsored_collaboration",
+    "industry_label": "university research lab entering a sponsored research collaboration with an industry sponsor",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "academic_medical_center",
+    "negotiation_bias": "customer_friendly",
+    "agreement_label_override": "one-way non-disclosure agreement for a university research collaboration",
+    "party_roles": {"provider": "Sponsor", "customer": "University"},
+    "regulatory_frameworks": [
+      "Bayh-Dole Act (35 U.S.C. §§ 200-212)",
+      "NIH Grants Policy Statement",
+      "University academic freedom and publication policies"
+    ],
+    "special_features": [
+      "academic-publication carve-out — University may publish research results after 60-day sponsor review",
+      "Bayh-Dole acknowledgment of federal march-in rights where research is federally funded",
+      "student researcher access — students are 'Representatives' only to the extent they are bound by University confidentiality policies",
+      "no restriction on University's continued research in the same field outside the scope of the Purpose"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "exclusions",
+      "no_license"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Beacon_MediaDistribution_OneWayNDA_mid_market_21": {
+    "industry": "film_content_distribution_licensing",
+    "industry_label": "independent film studio disclosing unreleased content to a potential distribution partner",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "generic_corporate",
+    "negotiation_bias": "provider_friendly",
+    "agreement_label_override": "one-way non-disclosure agreement for unreleased film content screening",
+    "party_roles": {"provider": "Studio", "customer": "Distributor"},
+    "regulatory_frameworks": [
+      "Motion Picture Association content protection requirements",
+      "anti-piracy and anti-camcorder statutes"
+    ],
+    "special_features": [
+      "screener access protocol with individualized forensic watermarking and single-device viewing restrictions",
+      "no public commentary, no social media posts, and no leak of spoilers until theatrical release",
+      "content fingerprinting — Studio may use digital fingerprinting to trace the source of any leaked material",
+      "liquidated damages acknowledgment for quantifiable losses from leaks (for informational purposes; damages provable separately)"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "equitable_remedies"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_HarborGate_CyberForensics_MutualNDA_enterprise_22": {
+    "industry": "post_breach_cyber_forensics_engagement",
+    "industry_label": "breached company engaging a cyber-forensics firm under an attorney-client privilege umbrella",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "generic_corporate",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "mutual non-disclosure agreement for a post-breach cyber forensics engagement",
+    "party_roles": {"provider": "Client", "customer": "Forensics Firm"},
+    "regulatory_frameworks": [
+      "attorney-client privilege and work-product doctrine",
+      "state data breach notification statutes",
+      "SEC Cybersecurity Incident Disclosure Rule (Item 1.05 of Form 8-K)"
+    ],
+    "special_features": [
+      "privilege-preservation clause — Client's outside counsel directs the engagement to preserve attorney-client privilege",
+      "Forensics Firm's preliminary findings are privileged communications, not standalone reports",
+      "incident artifact handling — Forensics Firm may retain indicators of compromise for Client's regulatory obligations",
+      "SEC 8-K Item 1.05 awareness — Client reserves the right to make required public disclosures consistent with the securities laws"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "compelled_disclosure",
+      "term_survival"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Lighthouse_FranchiseDiligence_OneWayNDA_mid_market_23": {
+    "industry": "franchisor_prospect_diligence",
+    "industry_label": "franchisor disclosing confidential franchise operating information to a prospective franchisee",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "customer_type": "franchisor_holding_company",
+    "negotiation_bias": "provider_friendly",
+    "agreement_label_override": "one-way franchise prospect non-disclosure agreement",
+    "party_roles": {"provider": "Franchisor", "customer": "Prospect"},
+    "regulatory_frameworks": [
+      "FTC Franchise Rule (16 CFR Part 436)",
+      "state franchise registration and disclosure statutes"
+    ],
+    "special_features": [
+      "FTC Franchise Rule acknowledgment — NDA is separate from and does not supersede the Franchise Disclosure Document",
+      "Prospect may not use Franchisor's information to build a competing franchise system or open a competing unit for three (3) years",
+      "Franchisor's Operations Manual and unit economics are Confidential Information in their entirety",
+      "no-shop clause preventing Prospect from taking Franchisor's confidential information to a rival franchise system"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "purpose",
+      "no_license"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Silverleaf_PatentLicensing_MutualNDA_enterprise_24": {
+    "industry": "standard_essential_patent_licensing_negotiation",
+    "industry_label": "patent holder and standards implementer negotiating a SEP license",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "generic_corporate",
+    "negotiation_bias": "balanced",
+    "agreement_label_override": "mutual non-disclosure agreement for a standard-essential patent licensing negotiation",
+    "party_roles": {"provider": "Patent Holder", "customer": "Implementer"},
+    "regulatory_frameworks": [
+      "FRAND licensing obligations under applicable SSO policies",
+      "antitrust safe harbors for information exchange during patent licensing"
+    ],
+    "special_features": [
+      "FRAND licensing context — exchange of claim charts, rate proposals, and comparable license terms",
+      "no use of Confidential Information in subsequent patent litigation, including in claim construction, infringement, or validity",
+      "antitrust acknowledgment — parties remain independent competitors during licensing discussions",
+      "joint defense carve-out permitting disclosure to co-defendants in existing patent litigation"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "exclusions",
+      "no_license"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Crosswind_InternalInvestigation_OneWayNDA_enterprise_25": {
+    "industry": "internal_investigation_attorney_client_privileged",
+    "industry_label": "corporate internal investigation conducted under attorney-client privilege",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "generic_corporate",
+    "negotiation_bias": "provider_friendly",
+    "agreement_label_override": "one-way non-disclosure agreement for an attorney-client privileged internal investigation",
+    "party_roles": {"provider": "Company", "customer": "Investigation Vendor"},
+    "regulatory_frameworks": [
+      "attorney-client privilege and work-product doctrine",
+      "Upjohn warning (for employee interviews conducted by counsel)",
+      "Foreign Corrupt Practices Act (FCPA) (where applicable to the investigation subject)"
+    ],
+    "special_features": [
+      "privilege-preservation clause — Company's outside counsel directs the engagement to preserve attorney-client privilege and work-product protection",
+      "Investigation Vendor's deliverables are addressed to outside counsel, not to the Company, to preserve privilege",
+      "FCPA carve-out permitting the Company to self-report to DOJ or SEC in accordance with corporate voluntary disclosure policies",
+      "individual interviewees are not 'Representatives' and are given Upjohn warnings separately by counsel"
+    ],
+    "primary_clause_focus": [
+      "confidentiality",
+      "compelled_disclosure",
+      "purpose"
+    ],
+    "drafting_style": "biglaw_formal"
+  }
+}

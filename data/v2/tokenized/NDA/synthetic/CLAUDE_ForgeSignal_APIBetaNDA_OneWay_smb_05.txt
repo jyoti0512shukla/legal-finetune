@@ -1,0 +1,92 @@
+FORGESIGNAL BETA PROGRAM NON-DISCLOSURE TERMS
+
+Effective: {{EFFECTIVE_DATE}}
+
+By clicking "I Accept" in the ForgeSignal beta enrollment flow, you ("Participant") agree to these Non-Disclosure Terms with {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} located at {{PROVIDER_ADDRESS}} ("Provider"). These terms govern your access to and use of the ForgeSignal developer API in its private-beta form (the "Beta API") and any related documentation, SDKs, sample code, roadmap materials, or discussions (the "Beta Materials"). If you do not agree to all of these terms, do not click "I Accept" and do not use the Beta API.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Beta API" means Provider's closed-beta application programming interface and any endpoints, capabilities, features, or functionality made available under the ForgeSignal beta program.
+
+1.2 "Beta Materials" means the Beta API together with all documentation, SDKs, sample code, specifications, roadmap items, release notes, Discord discussions, Slack messages, support threads, and any other information Provider makes available to Participant through the beta program.
+
+1.3 "Confidential Information" means all non-public information relating to the Beta Materials, including: (a) the existence and specifics of the beta program; (b) all endpoints, parameters, data schemas, rate limits, error codes, and behavior of the Beta API; (c) performance, latency, and benchmark data; (d) Provider's product roadmap and unreleased features; (e) Provider's pricing plans for the commercial version; and (f) any other information that a reasonable person would recognize as confidential based on its nature.
+
+1.4 "Feedback" means any bug reports, error descriptions, feature suggestions, comments, ideas, or other input Participant provides about the Beta Materials.
+
+1.5 "Purpose" means Participant's internal evaluation of the Beta API and the submission of Feedback to Provider — nothing more.
+
+ARTICLE 2 — PURPOSE AND PERMITTED USE
+
+2.1 Participant may use the Beta Materials solely for the Purpose. Any other use is prohibited.
+
+2.2 Participant will not:
+  (a) redistribute, resell, sublicense, or transfer the Beta Materials to any third party;
+  (b) publish, post, blog, tweet, livestream, or otherwise publicly discuss the existence of the beta program, the specifics of the Beta API, or any benchmark, screenshot, or demonstration of the Beta API without Provider's prior written consent;
+  (c) reverse engineer, decompile, or attempt to derive the source code of any part of the Beta Materials;
+  (d) use the Beta API in any production workload or any application made generally available to end users; or
+  (e) build a competing product or service, or use the Beta Materials to train any competing model or service.
+
+2.3 No Residuals. Participant's Representatives may not rely on "unaided memory" to reuse Confidential Information outside the Purpose.
+
+ARTICLE 3 — CONFIDENTIAL INFORMATION
+
+3.1 Participant will: (a) hold Confidential Information in strict confidence; (b) use Confidential Information solely for the Purpose; (c) disclose Confidential Information only to Participant's employees who have a need to know for the Purpose and who are bound by confidentiality obligations at least as protective as these terms; and (d) protect Confidential Information using at least a reasonable degree of care.
+
+3.2 Participant is responsible for any breach by its employees, contractors, or anyone to whom Participant discloses Confidential Information in violation of these terms.
+
+3.3 Notification. Participant will notify Provider (at security@forgesignal.example) within 48 hours after becoming aware of any unauthorized use or disclosure of Confidential Information and will cooperate with Provider's investigation and remediation.
+
+ARTICLE 4 — EXCLUSIONS
+
+4.1 The obligations in Article 3 do not apply to information Participant can show by written evidence:
+  (a) is or becomes public through no breach of these terms;
+  (b) was already in Participant's possession without confidentiality obligations before disclosure;
+  (c) was independently developed by Participant without use of any Confidential Information; or
+  (d) was rightfully received from a third party without confidentiality obligations to Provider.
+
+ARTICLE 5 — COMPELLED DISCLOSURE
+
+5.1 If Participant is legally compelled to disclose Confidential Information, Participant will provide Provider with prompt prior written notice (where legally permitted) so Provider may seek a protective order, will cooperate with Provider's efforts to obtain one, and will disclose only the portion of Confidential Information legally required to be disclosed. Participant will continue to treat the non-disclosed portions as confidential.
+
+ARTICLE 6 — RETURN OR DESTRUCTION
+
+6.1 Upon Provider's request — which Provider may make at any time in its sole discretion — or upon termination of Participant's enrollment in the beta program, Participant will promptly destroy all Confidential Information in Participant's possession or control, including all copies and derivative materials, and confirm the destruction in writing. Participant may retain Confidential Information in routine system backups, but any retained copies remain subject to these terms.
+
+ARTICLE 7 — NO LICENSE OR OWNERSHIP TRANSFER
+
+7.1 The Beta Materials and all Confidential Information remain the exclusive property of Provider. Nothing in these terms grants Participant any license or other right, by implication, estoppel, or otherwise, in or to any patent, copyright, trademark, trade secret, or other intellectual property right of Provider, except for the limited right to use the Beta API solely for the Purpose during the beta program.
+
+7.2 Feedback License. Participant grants Provider a perpetual, irrevocable, worldwide, royalty-free, sublicensable license to use, reproduce, modify, and incorporate any Feedback into Provider's products and services, without any obligation to Participant.
+
+ARTICLE 8 — BETA DISCLAIMER
+
+8.1 THE BETA MATERIALS ARE PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT ANY WARRANTY OF ANY KIND. PROVIDER EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTY ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+
+8.2 Provider may change, suspend, or discontinue the Beta API, or any feature thereof, at any time without notice. Provider makes no commitment to release any commercial version of the Beta API, to make any particular feature generally available, or to maintain backward compatibility.
+
+ARTICLE 9 — TERM AND SURVIVAL
+
+9.1 These terms take effect when Participant clicks "I Accept" and continue for {{TERM_YEARS}} years, unless earlier terminated by Provider on written notice in its sole discretion.
+
+9.2 Participant's obligations of confidentiality and non-use survive for three (3) years after termination. Obligations relating to trade secrets survive for so long as the information remains a trade secret under applicable law.
+
+9.3 Either party may terminate these terms immediately upon any material breach by the other party, or on {{NOTICE_DAYS}} days' prior written notice without cause.
+
+ARTICLE 10 — EQUITABLE REMEDIES
+
+10.1 Participant acknowledges that any breach of these terms may cause Provider irreparable harm for which monetary damages would be inadequate. Accordingly, Provider is entitled to seek injunctive relief and specific performance, in addition to any other remedies available at law or in equity, without posting bond and without proving actual damages. Remedies are cumulative.
+
+ARTICLE 11 — GENERAL PROVISIONS
+
+11.1 These terms are governed by the laws of {{GOVERNING_LAW_STATE}}, without regard to conflict of laws principles.
+
+11.2 Any dispute arising under these terms will be resolved exclusively in the state and federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, and each party consents to the jurisdiction of those courts.
+
+11.3 These terms, together with any additional policies Provider references in the beta enrollment flow, constitute the entire agreement between the parties regarding the Beta Materials and supersede any prior discussions or agreements.
+
+11.4 Participant may not assign these terms. Provider may assign these terms freely in connection with a corporate transaction.
+
+11.5 If any provision of these terms is held invalid, the remaining provisions remain in full force. No waiver is effective unless in a writing signed by Provider.
+
+11.6 No signature block. These terms are accepted by clicking "I Accept" in the ForgeSignal beta enrollment flow, which constitutes a valid and binding electronic signature under the Electronic Signatures in Global and National Commerce Act (E-SIGN).

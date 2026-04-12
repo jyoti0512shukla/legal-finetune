@@ -1,0 +1,242 @@
+Statement of Work — Receivables Automation Setup (Self-Serve)
+
+Project: {{PROJECT_NAME}}
+Provider: {{PROVIDER_NAME}}
+Customer: {{CUSTOMER_NAME}}
+SOW Effective Date: {{EFFECTIVE_DATE}}
+
+By clicking "I agree" or by signing this Statement of Work (the "SOW"), you (the "Customer") and {{PROVIDER_NAME}} (the "Provider") agree to the terms below. This SOW operates under the Provider's Master Services Agreement dated {{MSA_EFFECTIVE_DATE}} (the "MSA"). Capitalized terms not defined here have the meanings in the MSA. Where this SOW says something different from the MSA on commercial terms, this SOW wins. On everything else (privacy, IP, liability, governing law), the MSA wins.
+
+This is the Provider's standard self-serve professional services SOW. It is delivered through the Provider's customer portal and is structured for low-touch onboarding to the Provider's receivables automation product.
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 What you're getting
+
+The Provider will help the Customer get up and running on the Provider's receivables automation product. The Provider's onboarding team will (a) configure the Customer's instance, (b) integrate the product with the Customer's accounting system, (c) import the Customer's open invoices, (d) train the Customer's team on day-to-day use, and (e) provide 14 days of post-launch support.
+
+This is a fixed-fee, self-serve onboarding. It is NOT custom consulting. The Provider's standard onboarding playbook applies.
+
+1.2 What's in scope
+
+(a) Standard configuration of the Customer's instance using the Customer's selections in the Provider's onboarding wizard.
+
+(b) Integration with one (1) supported accounting system (QuickBooks Online, Xero, or NetSuite — see the supported list in Schedule A).
+
+(c) Import of the Customer's open invoices via the standard CSV importer.
+
+(d) Configuration of the standard collection cadences (gentle reminder, firm reminder, escalation).
+
+(e) Standard email template setup using the Provider's templates.
+
+(f) One (1) live training session (60 minutes, remote).
+
+(g) Recorded training videos accessible via the Customer portal.
+
+(h) 14 days of post-launch support via the Customer portal.
+
+(i) Per-user account provisioning for up to ten (10) Customer users.
+
+1.3 What's NOT in scope
+
+(a) Anything beyond the standard onboarding playbook in Section 1.2.
+
+(b) Custom integration with any accounting system not on the supported list.
+
+(c) Import of historical paid invoices, customer master data beyond the open-invoice records, or any other historical data.
+
+(d) Custom email templates, custom collection cadences, or custom escalation rules. Customer can configure these themselves after onboarding.
+
+(e) Migration from another receivables automation product.
+
+(f) Multi-entity, multi-currency, or multi-subsidiary configuration. Single-entity setup only.
+
+(g) Provisioning for more than ten (10) Customer users (additional users are billable per the Provider's standard pricing).
+
+(h) Any tax, accounting, or financial advice.
+
+(i) Any work performed outside the engagement period.
+
+1.4 Engagement period
+
+Start: {{PROJECT_START_DATE}}. End: {{PROJECT_END_DATE}}. The Engagement Period is approximately 4 weeks.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables
+
+(a) Configuration Confirmation — written confirmation that the Customer's instance is configured per the onboarding wizard. Delivered: end of Project Week 1.
+
+(b) Integration Test Confirmation — confirmation that the integration with the Customer's accounting system is functioning, with a test invoice imported successfully. Delivered: end of Project Week 2.
+
+(c) Invoice Import Confirmation — confirmation that the Customer's open invoices have been imported and reconciled against the source. Delivered: end of Project Week 3.
+
+(d) Live Training Session — 60-minute remote training session conducted with up to ten (10) Customer attendees. Delivered: end of Project Week 3.
+
+(e) Go-Live Confirmation — confirmation that the Customer is live and the standard collection cadences are running. Delivered: end of Project Week 4.
+
+(f) Post-Launch Support Closure — at the end of the 14-day post-launch support period, summary of any support tickets opened and resolved.
+
+2.2 Acceptance
+
+Each Deliverable is automatically accepted upon delivery via the Customer portal unless the Customer raises a written objection within three (3) business days. The objection must specifically identify why the Deliverable does not match what is described in Article 2.1.
+
+2.3 Cure
+
+If the Customer raises a valid objection, the Provider's onboarding team will fix the issue within three (3) business days at no additional charge. The fix is bounded by what is described in Article 2.1 — out-of-scope requests are out-of-scope.
+
+2.4 No deemed acceptance windows beyond Section 2.2
+
+The 3-business-day objection window in Section 2.2 is the entire acceptance mechanism. After 3 business days with no objection, the Deliverable is deemed accepted.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project window
+
+Start: {{PROJECT_START_DATE}}. Substantial completion: {{PROJECT_END_DATE}}.
+
+3.2 Milestones
+
+(a) M1 — Configuration Confirmation (Week 1)
+
+(b) M2 — Integration Test Confirmation (Week 2)
+
+(c) M3 — Invoice Import Confirmation and Live Training Complete (Week 3)
+
+(d) M4 — Go-Live Confirmation (Week 4)
+
+3.3 Status updates
+
+The Customer can see real-time onboarding progress in the Customer portal. The Provider does not deliver separate written status reports.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Onboarding team
+
+The Provider assigns the next available onboarding specialist from its standard onboarding team rotation. The Customer cannot request specific individuals or require any specific named onboarding specialist to remain on the engagement throughout. The Provider's onboarding team is fungible and trained to deliver the standard onboarding consistently.
+
+4.2 No background checks beyond standard
+
+The Provider's onboarding team has completed the Provider's standard background checks. No additional background checks beyond the Provider's standard program are required for this self-serve onboarding.
+
+4.3 Removal of personnel
+
+If the Customer is unhappy with a specific onboarding specialist, the Customer may request a different specialist via the Customer portal. The Provider will assign a different specialist within five (5) business days.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 What the Provider needs from the Customer
+
+(a) Designate one Customer point of contact who will work with the onboarding team.
+
+(b) Provide accounting system credentials with the permissions needed for the integration (see the integration setup guide in the Customer portal).
+
+(c) Provide the open-invoice export from the Customer's accounting system in the standard CSV format (template in the Customer portal).
+
+(d) Confirm the Customer's collection cadences and escalation preferences via the onboarding wizard.
+
+(e) Show up to the live training session.
+
+(f) Respond to onboarding-team messages in the Customer portal within 2 business days.
+
+5.2 Accuracy
+
+The Customer is responsible for the accuracy of the open-invoice data and the accounting system credentials. Errors caused by inaccurate Customer data are not the Provider's responsibility.
+
+5.3 Customer delays
+
+If the Customer is more than 5 business days late on the onboarding wizard or the open-invoice export, the Project End Date moves out by the same number of days. The 14-day post-launch support window starts on actual go-live, not on the originally scheduled go-live date.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions
+
+(a) The Customer uses one of the supported accounting systems (Schedule A) and is on a current/supported version.
+
+(b) The Customer has fewer than 2,000 open invoices at the time of import. Higher volumes may require additional onboarding fee — the Provider will flag this during the onboarding wizard.
+
+(c) The Customer has fewer than 10 users.
+
+(d) The Customer has no multi-entity, multi-currency, or multi-subsidiary configuration needs.
+
+(e) The Customer is not migrating from another receivables automation product.
+
+(f) The Customer has the legal right to use the customer-contact email addresses in its accounting system for receivables follow-up communications.
+
+6.2 Third-party dependencies
+
+The Project depends on (a) the Customer's accounting system being accessible to the integration, and (b) the Provider's product platform being operational.
+
+6.3 If an assumption is wrong
+
+The Provider notifies the Customer through the Customer portal. The Customer can either bring the engagement back into the standard onboarding scope or proceed via a Change Order.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Fixed fee
+
+The fixed onboarding fee is {{SOW_FEE_AMOUNT}}. This is a one-time fee for the entire Engagement Period.
+
+7.2 Per-user product fee
+
+The Customer's ongoing product subscription is paid separately to the Provider under the MSA on the per-user pricing in the MSA. This SOW does not cover the product subscription fee.
+
+7.3 Payment
+
+The onboarding fee is charged to the Customer's payment method on file at the start of the Engagement Period. By signing this SOW or clicking "I agree", the Customer authorizes the charge.
+
+7.4 No refunds
+
+The onboarding fee is non-refundable. If the Customer terminates the engagement early or fails to complete the onboarding, the fee is still due in full.
+
+7.5 Expenses
+
+There are no reimbursable expenses for this self-serve engagement.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Out-of-scope requests
+
+If the Customer wants something that's out-of-scope under Section 1.3, the Customer can submit a Change Request through the Customer portal. The Provider has no obligation to accept any out-of-scope request — most out-of-scope requests are better handled by the Provider's custom professional services team under a separate SOW.
+
+8.2 Standard Change Order pricing
+
+If the Provider does accept an out-of-scope request, the Provider's standard professional services pricing applies. The Customer agrees to the Provider's standard rates by submitting a Change Request that the Provider accepts.
+
+8.3 De minimis
+
+Tiny tweaks (less than {{CHANGE_ORDER_THRESHOLD}}) can be handled by the onboarding team via the Customer portal without a formal Change Order.
+
+8.4 No oral changes
+
+Changes are made via the Customer portal. Email and phone changes are not binding.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT
+
+9.1 The MSA controls
+
+This SOW is part of the MSA. All MSA terms apply (privacy, data security, IP, indemnification, liability cap, governing law, dispute resolution). Where this SOW conflicts with the MSA, the MSA wins, except for the project-specific commercial terms in this SOW (the fee, the schedule, the deliverables, the acceptance terms).
+
+9.2 Self-serve nature
+
+This SOW is the Provider's standard self-serve professional services agreement. The Customer acknowledges that the engagement is structured for low-touch, standard onboarding and that the Provider is not providing custom consulting services.
+
+9.3 Termination
+
+Termination is governed by the MSA. The Customer may terminate the engagement at any time, but the onboarding fee is non-refundable per Section 7.4. The Provider may terminate at any time if the Customer is in material breach.
+
+By signing below or clicking "I agree" in the Customer portal, the Customer agrees to this SOW.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+Or accepted via the Customer portal on the SOW Effective Date.

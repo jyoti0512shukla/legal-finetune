@@ -1,0 +1,228 @@
+{
+  "_description": "Per-contract metadata for synthetic DPA (Data Processing Addendum) contracts. Each entry captures industry, deal_size, customer_type, negotiation_bias, drafting_style, regulatory_frameworks, special_features, and primary_clause_focus. DPAs operate UNDER a parent SaaS Agreement, MSA, or BAA.",
+  "CLAUDE_NorthstarCloud_EUSaasEnterprise_enterprise_01": {
+    "industry": "b2b_saas_general", "industry_label": "B2B SaaS — collaboration platform serving EU enterprise customers",
+    "deal_size": "enterprise", "currency": "USD", "customer_type": "eu_corporation",
+    "negotiation_bias": "balanced", "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": ["EU GDPR (Regulation (EU) 2016/679)", "UK GDPR", "UK Data Protection Act 2018", "EU SCCs (Commission Decision 2021/914) — Modules 2 and 3", "UK International Data Transfer Addendum (IDTA)"],
+    "party_roles": {"provider": "Processor", "customer": "Controller"}, "pricing_structure": "n/a — addendum to parent SaaS Agreement",
+    "special_features": ["EU SCCs Module 2 and Module 3 incorporated", "UK IDTA incorporated by reference", "Transfer Impact Assessment maintained", "general sub-processor authorization with 30-day notice", "third-party SOC 2 / ISO 27001 reports in lieu of on-site audits", "AES-256 at rest and TLS 1.2+ in transit", "Irish DPC as competent supervisory authority", "no use for AI training without consent"],
+    "primary_clause_focus": ["international transfers", "subprocessors", "security measures"]
+  },
+  "CLAUDE_PeoplePulse_UKHRTech_enterprise_02": {
+    "industry": "hr_tech", "industry_label": "HR information system serving UK enterprise customer (employee data)",
+    "deal_size": "enterprise", "currency": "GBP", "customer_type": "uk_corporation",
+    "negotiation_bias": "customer_friendly", "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": ["UK GDPR", "UK Data Protection Act 2018", "EU GDPR", "PECR", "ICO Employment Practices Code", "EU SCCs", "UK IDTA"],
+    "party_roles": {"provider": "Processor", "customer": "Controller"}, "pricing_structure": "n/a",
+    "special_features": ["Article 9 special category data acknowledgment", "Employee Personal Data heightened protection", "specific (not general) sub-processor authorization with 60-day notice", "no AI/ML training without consent", "field-level encryption for sensitive HR data", "shorter breach notification than Article 33", "ICO Employment Practices Code consistency", "self-service tools for DSR"],
+    "primary_clause_focus": ["data subject rights", "security measures", "subprocessors"]
+  },
+  "CLAUDE_VitalSync_HealthSaasBAA_enterprise_03": {
+    "industry": "healthcare_saas", "industry_label": "healthcare SaaS — combined DPA and HIPAA Business Associate Agreement",
+    "deal_size": "enterprise", "currency": "USD", "customer_type": "hospital_system",
+    "negotiation_bias": "customer_friendly", "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": ["HIPAA Privacy Rule", "HIPAA Security Rule", "HIPAA Breach Notification Rule", "HITECH Act", "CCPA / CPRA", "NIST SP 800-111", "NIST SP 800-52"],
+    "party_roles": {"provider": "Business Associate", "customer": "Covered Entity"}, "pricing_structure": "n/a",
+    "special_features": ["combined HIPAA BAA + CCPA service-provider DPA", "PHI is sensitive personal information by definition", "no HIPAA marketing or sale; no CCPA Sale or Sharing", "no AI/ML training on PHI without consent", "encryption meets NIST SP 800-111 / SP 800-52 safe harbor", "HHS OCR access right preserved", "US-only data residency", "annual HITRUST CSF assessment", "BAA flow-down to Subcontractors"],
+    "primary_clause_focus": ["security measures", "subprocessors", "breach notification"]
+  },
+  "CLAUDE_KalpaCloud_IndiaDPDPFintech_enterprise_04": {
+    "industry": "fintech_lending", "industry_label": "Indian digital lending platform — DPDP Act + RBI Master Directions",
+    "deal_size": "enterprise", "currency": "INR", "customer_type": "indian_nbfc",
+    "negotiation_bias": "customer_friendly", "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": ["Digital Personal Data Protection Act, 2023 (India)", "Information Technology Act, 2000", "IT (Reasonable Security Practices) Rules, 2011", "RBI Master Directions on Outsourcing of IT Services", "RBI Guidelines on Digital Lending", "CERT-In Directions of April 2022", "IS/ISO/IEC 27001:2013"],
+    "party_roles": {"provider": "Data Processor", "customer": "Data Fiduciary"}, "pricing_structure": "n/a",
+    "special_features": ["Indian data residency required (servers in India)", "RBI audit right preserved", "RBI Master Directions on Outsourcing compliance", "RBI Guidelines on Digital Lending compliance", "Significant Data Fiduciary acknowledgment", "Data Protection Board cooperation", "CERT-In April 2022 Directions reporting", "specific sub-processor authorization", "no AI/ML training without consent", "IS/ISO/IEC 27001:2013 required"],
+    "primary_clause_focus": ["security measures", "subprocessors", "international transfers"]
+  },
+  "CLAUDE_BrightTrail_AnalyticsSaaS_smb_05": {
+    "industry": "product_analytics", "industry_label": "product analytics SaaS — common-paper style",
+    "deal_size": "smb", "currency": "USD", "customer_type": "smb_corporation",
+    "negotiation_bias": "balanced", "drafting_style": "plain_english_common_paper",
+    "regulatory_frameworks": ["EU GDPR", "UK GDPR", "CCPA / CPRA", "EU SCCs", "UK IDTA"],
+    "party_roles": {"provider": "Processor", "customer": "Controller"}, "pricing_structure": "n/a",
+    "special_features": ["common-paper plain-English style", "EU SCCs and UK IDTA by reference", "general sub-processor authorization with 30-day notice", "self-service tools for DSR", "no use for product analytics or AI training without consent", "no responding to Data Subjects directly", "Irish DPC supervisory authority"],
+    "primary_clause_focus": ["international transfers", "subprocessors", "security measures"]
+  },
+  "CLAUDE_LinearStripeStyle_DevTooling_smb_06": {
+    "industry": "developer_tooling", "industry_label": "developer tooling / API platform — Stripe / Linear / Notion-style",
+    "deal_size": "smb", "currency": "USD", "customer_type": "tech_company",
+    "negotiation_bias": "balanced", "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": ["EU GDPR", "UK GDPR", "CCPA / CPRA", "EU SCCs", "UK IDTA"],
+    "party_roles": {"provider": "Processor", "customer": "Controller"}, "pricing_structure": "n/a",
+    "special_features": ["modern tech minimalist style", "EU SCCs and UK IDTA by reference", "30-day sub-processor notice via in-product notification or trust center", "no AI training without consent", "self-service deletion tools", "ISO 27001 surveillance"],
+    "primary_clause_focus": ["international transfers", "subprocessors", "security measures"]
+  },
+  "CLAUDE_QuillEdu_FERPAEdTech_mid_market_07": {
+    "industry": "edtech", "industry_label": "EdTech — K-12 student learning platform (FERPA + state student data privacy)",
+    "deal_size": "mid_market", "currency": "USD", "customer_type": "educational_agency",
+    "negotiation_bias": "customer_friendly", "drafting_style": "plain_english_common_paper",
+    "regulatory_frameworks": ["FERPA (20 U.S.C. § 1232g and 34 C.F.R. Part 99)", "California SOPIPA", "New York Education Law § 2-d Parents Bill of Rights", "Colorado Student Data Transparency and Security Act"],
+    "party_roles": {"provider": "School Official", "customer": "Educational Agency"}, "pricing_structure": "n/a",
+    "special_features": ["School Official designation under 34 C.F.R. § 99.31(a)(1)(i)(B)", "no targeted advertising to students or parents", "no profile creation for non-educational purposes", "no AI training without consent", "60-day sub-processor notice", "logical (and where required physical) data segregation", "US-only data residency", "NY Education Law § 2-d Parents Bill of Rights compatibility"],
+    "primary_clause_focus": ["data subject rights", "security measures", "subprocessors"]
+  },
+  "CLAUDE_TwilioStyle_CommsAPI_mid_market_08": {
+    "industry": "communications_api", "industry_label": "communications API platform (SMS / voice / email) — Twilio-style",
+    "deal_size": "mid_market", "currency": "USD", "customer_type": "tech_company",
+    "negotiation_bias": "balanced", "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": ["EU GDPR", "UK GDPR", "CCPA / CPRA", "TCPA", "CAN-SPAM", "CASL", "carrier-level anti-abuse rules", "EU SCCs", "UK IDTA"],
+    "party_roles": {"provider": "Processor", "customer": "Controller"}, "pricing_structure": "n/a",
+    "special_features": ["Carriers as sub-processors with no advance-notice requirement", "TCPA / CAN-SPAM / CASL consent acknowledgment", "carrier-level anti-abuse scanning", "no AI training without consent", "messages routed via Carriers based on destination", "Controller responsible for end-user consent management"],
+    "primary_clause_focus": ["subprocessors", "international transfers", "security measures"]
+  },
+  "CLAUDE_HelpDeskHero_SupportTooling_smb_09": {
+    "industry": "support_saas", "industry_label": "customer support SaaS — Zendesk / Intercom-style",
+    "deal_size": "smb", "currency": "USD", "customer_type": "saas_company",
+    "negotiation_bias": "balanced", "drafting_style": "plain_english_common_paper",
+    "regulatory_frameworks": ["EU GDPR", "UK GDPR", "CCPA / CPRA", "EU SCCs", "UK IDTA"],
+    "party_roles": {"provider": "Processor", "customer": "Controller"}, "pricing_structure": "n/a",
+    "special_features": ["aggregated de-identified analytics permitted", "no use for product analytics or AI training without consent", "no special category data submission acknowledgment", "self-service tools for DSR", "general sub-processor authorization with 30-day notice"],
+    "primary_clause_focus": ["security measures", "subprocessors", "data subject rights"]
+  },
+  "CLAUDE_PromptKit_LLMPlatform_smb_10": {
+    "industry": "ai_ml_platform", "industry_label": "LLM / generative AI platform",
+    "deal_size": "smb", "currency": "USD", "customer_type": "tech_company",
+    "negotiation_bias": "balanced", "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": ["EU GDPR", "UK GDPR", "CCPA / CPRA", "EU SCCs", "UK IDTA"],
+    "party_roles": {"provider": "Processor", "customer": "Controller"}, "pricing_structure": "n/a",
+    "special_features": ["NO model training on Customer Personal Data — contractual default, not feature toggle", "no human review except automated abuse / safety", "inference logs deleted within 30 days (10 days on termination)", "model weights and Customer Personal Data stored in separate environments", "region-locked inference via region selector", "no special category data without express authorization", "AI red team assessment", "model card and no-training attestation available"],
+    "primary_clause_focus": ["security measures", "international transfers", "deletion"]
+  },
+  "CLAUDE_BackupBeacon_BackupSaaS_mid_market_11": {
+    "industry": "backup_saas", "industry_label": "cloud backup and disaster recovery SaaS",
+    "deal_size": "mid_market", "currency": "USD", "customer_type": "tech_company",
+    "negotiation_bias": "balanced", "drafting_style": "plain_english_common_paper",
+    "regulatory_frameworks": ["EU GDPR", "UK GDPR", "CCPA / CPRA", "EU SCCs", "UK IDTA"],
+    "party_roles": {"provider": "Processor", "customer": "Controller"}, "pricing_structure": "n/a",
+    "special_features": ["BYO-key (BYOK) encryption option", "Backup catalog encrypted separately from Backup Data content", "personnel access to actual content requires Controller authorization", "DR region in same regulatory geography unless opt-in", "deletion subject to backup retention schedule", "no use for AI training", "region selector for storage region"],
+    "primary_clause_focus": ["security measures", "subprocessors", "deletion"]
+  },
+  "CLAUDE_AdMosaic_AdTechMarTech_mid_market_12": {
+    "industry": "adtech_martech", "industry_label": "AdTech / MarTech — first-party marketing data platform",
+    "deal_size": "mid_market", "currency": "USD", "customer_type": "saas_company",
+    "negotiation_bias": "balanced", "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": ["EU GDPR", "UK GDPR", "ePrivacy Directive", "CCPA / CPRA", "EU SCCs", "UK IDTA", "IAB TCF v2"],
+    "party_roles": {"provider": "Processor", "customer": "Controller"}, "pricing_structure": "n/a",
+    "special_features": ["no cross-customer audience building without consent", "Aggregated Insights with k-anonymity safeguard", "no Sale or Sharing under CCPA / CPRA", "consent honoring (opt-out, GPC, IAB TCF v2)", "pseudonymization of email and phone join keys", "suppression list management", "no AI training without consent", "no special category data acknowledgment", "EU-only data residency option"],
+    "primary_clause_focus": ["security measures", "subprocessors", "deletion"]
+  },
+  "CLAUDE_RegalNorth_BankProcessor_enterprise_13": {
+    "industry": "bank_processor", "industry_label": "regulated bank — service provider to national bank (GLBA + Interagency Guidelines)",
+    "deal_size": "enterprise", "currency": "USD", "customer_type": "national_bank",
+    "negotiation_bias": "customer_friendly", "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": ["Gramm-Leach-Bliley Act", "Interagency Guidelines (12 C.F.R. Part 30, Appendix B)", "FFIEC IT Examination Handbook", "OCC Bulletin 2013-29", "OCC Bulletin 2020-10", "23 NYCRR Part 500 (NYDFS Cybersecurity Regulation)", "Bank Service Company Act (12 U.S.C. § 1867)", "CCPA / CPRA"],
+    "party_roles": {"provider": "Processor", "customer": "Bank"}, "pricing_structure": "n/a",
+    "special_features": ["Onshore-only US person personnel", "Regulator pass-through audit rights under Bank Service Company Act", "Interagency Guidelines information security program", "NYDFS Cybersecurity Regulation Third Party Service Provider compliance", "no AI training without consent", "credit-history background checks", "specific sub-processor authorization with 60-day notice", "Computer-Security Incident Notification Requirements (12 C.F.R. § 53)"],
+    "primary_clause_focus": ["security measures", "subprocessors", "audit rights"]
+  },
+  "CLAUDE_NovaPharma_PharmaProcessor_enterprise_14": {
+    "industry": "pharma_clinical_trials", "industry_label": "pharma sponsor — clinical trial data processor (GDPR + 21 CFR Part 11 + ICH GCP)",
+    "deal_size": "enterprise", "currency": "USD", "customer_type": "pharmaceutical_company",
+    "negotiation_bias": "customer_friendly", "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": ["EU GDPR", "UK GDPR", "HIPAA (where applicable)", "21 C.F.R. Part 11 (electronic records and signatures)", "FDA guidance on electronic clinical investigation data", "ICH GCP E6(R2)", "CCPA / CPRA"],
+    "party_roles": {"provider": "Processor", "customer": "Sponsor"}, "pricing_structure": "n/a",
+    "special_features": ["21 C.F.R. Part 11 electronic records / signatures compliance", "ICH GCP E6(R2) compliance", "Computer Systems Validation (CSV) under Sponsor SOPs", "audit trails per 21 C.F.R. § 11.10(e)", "Article 9 special category data (health)", "Sponsor holds re-identification key (pseudonymized data)", "FDA / EMA inspection cooperation at no charge", "21 C.F.R. § 312.62 records retention", "specific sub-processor authorization"],
+    "primary_clause_focus": ["security measures", "subprocessors", "audit rights"]
+  },
+  "CLAUDE_EmpireState_GovProcessor_enterprise_15": {
+    "industry": "state_gov_services", "industry_label": "state government — vendor processing resident data",
+    "deal_size": "enterprise", "currency": "USD", "customer_type": "state_agency",
+    "negotiation_bias": "customer_friendly", "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": ["State public records law (FOIL)", "State Personal Privacy Protection Law", "State Information Security Breach and Notification Act", "state records retention statutes"],
+    "party_roles": {"provider": "Contractor", "customer": "State Agency"}, "pricing_structure": "n/a",
+    "special_features": ["sovereign immunity preserved", "FOIL / public records compliance acknowledgment", "no indemnification of Contractor by State Agency beyond state law", "MWBE participation reporting", "State Comptroller / AG / Inspector General audit rights preserved", "in-state or US-only data residency", "funding-out clause for non-appropriation", "US person personnel"],
+    "primary_clause_focus": ["security measures", "subprocessors", "audit rights"]
+  },
+  "CLAUDE_OmegaInsurer_InsuranceProcessor_enterprise_16": {
+    "industry": "insurance", "industry_label": "insurance carrier — service provider for policyholder data",
+    "deal_size": "enterprise", "currency": "USD", "customer_type": "insurance_carrier",
+    "negotiation_bias": "customer_friendly", "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": ["Gramm-Leach-Bliley Act", "NAIC Privacy of Consumer Financial and Health Information Regulation (Model 672)", "NAIC Insurance Data Security Model Law (Model 668)", "23 NYCRR Part 500", "HIPAA (health insurance)", "CCPA / CPRA", "state insurance laws"],
+    "party_roles": {"provider": "Service Provider", "customer": "Insurer"}, "pricing_structure": "n/a",
+    "special_features": ["NAIC Insurance Data Security Model Law compliance", "designated qualified individual (information security officer)", "annual program review and board reporting", "third-party service provider oversight under NAIC", "state insurance commissioner notification within 72 hours", "BAA available for health insurance products", "state insurance regulator audit rights preserved", "US-only data residency"],
+    "primary_clause_focus": ["security measures", "subprocessors", "audit rights"]
+  },
+  "CLAUDE_OmniRetail_RetailProcessorOrderForm_enterprise_17": {
+    "industry": "retail_commerce", "industry_label": "retail — consumer data processor (PCI DSS in-scope)",
+    "deal_size": "enterprise", "currency": "USD", "customer_type": "retail_corporation",
+    "negotiation_bias": "balanced", "drafting_style": "modular_order_form",
+    "regulatory_frameworks": ["EU GDPR", "UK GDPR", "CCPA / CPRA", "PCI DSS", "EU SCCs", "UK IDTA", "state breach notification laws"],
+    "party_roles": {"provider": "Processor", "customer": "Controller"}, "pricing_structure": "n/a",
+    "special_features": ["modular DPA Order Form structure with all substantive obligations in Annexes", "PCI DSS scope considerations on cardholder data", "tokenization at point of capture", "Cardholder Data Environment network segregation", "annual PCI DSS Attestation of Compliance (AOC)", "general sub-processor authorization with 30-day notice"],
+    "primary_clause_focus": ["security measures", "subprocessors", "international transfers"]
+  },
+  "CLAUDE_PortAuthority_TransportOrderForm_enterprise_18": {
+    "industry": "transportation_authority", "industry_label": "port authority — vessel and passenger data processor",
+    "deal_size": "enterprise", "currency": "USD", "customer_type": "transportation_authority",
+    "negotiation_bias": "customer_friendly", "drafting_style": "modular_order_form",
+    "regulatory_frameworks": ["State public records law", "state privacy statutes", "U.S. Coast Guard data handling requirements (where applicable)", "state breach notification laws"],
+    "party_roles": {"provider": "Vendor", "customer": "Authority"}, "pricing_structure": "n/a",
+    "special_features": ["modular DPA Order Form structure", "US-only data residency", "no DR site outside US", "specific sub-processor authorization with 60-day notice", "transportation-sector regulations cooperation", "state Comptroller and Authority Inspector General audit rights preserved", "sovereign immunity preserved"],
+    "primary_clause_focus": ["security measures", "subprocessors", "audit rights"]
+  },
+  "CLAUDE_GridStream_UtilityProcessorOrderForm_enterprise_19": {
+    "industry": "utility_grid", "industry_label": "electric utility — customer information system processor (NERC CIP-adjacent)",
+    "deal_size": "enterprise", "currency": "USD", "customer_type": "electric_utility",
+    "negotiation_bias": "customer_friendly", "drafting_style": "modular_order_form",
+    "regulatory_frameworks": ["state public utility commission orders", "state customer-energy-use-data privacy laws", "CCPA / CPRA", "state breach notification laws", "NERC CIP-008 / CIP-011 / CIP-014 (where applicable)"],
+    "party_roles": {"provider": "Processor", "customer": "Utility"}, "pricing_structure": "n/a",
+    "special_features": ["modular DPA Order Form structure", "NERC CIP-011 BCSI handling where applicable", "1-hour NERC CIP-008 expedited reporting cooperation", "Public Utility Commission audit rights preserved", "no use of customer energy use data for energy market trading", "US-only data residency", "NERC CIP-005 electronic security perimeter where applicable"],
+    "primary_clause_focus": ["security measures", "subprocessors", "audit rights"]
+  },
+  "CLAUDE_DigitalKey_BiometricsOrderForm_enterprise_20": {
+    "industry": "biometric_identity", "industry_label": "biometric identity verification — BIPA / CUBI compliant",
+    "deal_size": "enterprise", "currency": "USD", "customer_type": "regulated_corporation",
+    "negotiation_bias": "customer_friendly", "drafting_style": "modular_order_form",
+    "regulatory_frameworks": ["Illinois Biometric Information Privacy Act (BIPA, 740 ILCS 14)", "Texas Capture or Use of Biometric Identifier Act (CUBI)", "Washington biometric privacy law (RCW 19.375)", "EU GDPR Article 9", "UK GDPR Article 9", "CCPA / CPRA (sensitive personal information)", "ISO/IEC 27018", "NIST Face Recognition Vendor Test (FRVT)"],
+    "party_roles": {"provider": "Processor", "customer": "Controller"}, "pricing_structure": "n/a",
+    "special_features": ["modular DPA Order Form structure", "BIPA Section 15(a) written retention schedule and 3-year maximum retention", "BIPA Section 15(d) written disclosure right", "biometric template separation from identifying metadata", "per-Controller encryption context for biometric templates", "no use of biometric data for model training without consent", "NIST FRVT participation and results sharing", "ISO/IEC 27018 certification", "specific sub-processor authorization for biometric data access"],
+    "primary_clause_focus": ["security measures", "subprocessors", "deletion"]
+  },
+  "CLAUDE_KaiserCloud_ProviderPaperDPA_enterprise_21": {
+    "industry": "b2b_saas_general", "industry_label": "B2B SaaS vendor — provider-paper standard DPA",
+    "deal_size": "enterprise", "currency": "USD", "customer_type": "regulated_corporation",
+    "negotiation_bias": "provider_friendly", "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": ["EU GDPR", "UK GDPR", "CCPA / CPRA", "EU SCCs (2021/914)", "UK IDTA"],
+    "party_roles": {"provider": "Processor", "customer": "Controller"}, "pricing_structure": "n/a",
+    "special_features": ["Processor's standard form — provider-paper", "DPA does not modify Agreement liability cap", "no custom processing without standard change order", "aggregated statistics permitted as non-Personal Data", "15-day deemed acceptance for new sub-processors", "on-site audits at Customer expense at standard rates", "ninety-day post-termination deletion", "return on request at Customer expense", "no custom modifications without provider consent and additional fees"],
+    "primary_clause_focus": ["controller_processor_roles", "security measures", "subprocessors"]
+  },
+  "CLAUDE_DataMesh_JointController_enterprise_22": {
+    "industry": "data_sharing_alliance", "industry_label": "joint controller arrangement — data sharing alliance (Article 26 GDPR)",
+    "deal_size": "enterprise", "currency": "USD", "customer_type": "alliance_partner",
+    "negotiation_bias": "balanced", "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": ["EU GDPR Article 26", "UK GDPR", "CCPA / CPRA", "EU SCCs Module 1 (Controller to Controller)"],
+    "party_roles": {"provider": "Joint Controller A", "customer": "Joint Controller B"}, "pricing_structure": "n/a",
+    "special_features": ["Article 26 GDPR Joint Controller Arrangement", "explicit allocation of responsibilities under Article 26(1)", "Article 26(2) essence to be made available to data subjects", "single point of contact (Joint Controller A) for DSRs", "either Joint Controller may be approached per Article 26(3)", "joint DPIA / prior consultation", "joint breach notification cooperation", "EU SCCs Module 1 for Restricted Transfers between Joint Controllers", "no AI training on shared data without joint consent"],
+    "primary_clause_focus": ["controller_processor_roles", "data subject rights", "security measures"]
+  },
+  "CLAUDE_PaperTrail_ClickThroughDPA_smb_23": {
+    "industry": "self_serve_saas", "industry_label": "self-serve SaaS — click-through DPA",
+    "deal_size": "smb", "currency": "USD", "customer_type": "smb_corporation",
+    "negotiation_bias": "provider_friendly", "drafting_style": "click_through_tos",
+    "regulatory_frameworks": ["EU GDPR", "UK GDPR", "CCPA / CPRA", "EU SCCs", "UK IDTA"],
+    "party_roles": {"provider": "Processor", "customer": "Customer"}, "pricing_structure": "n/a",
+    "special_features": ["click-through self-serve DPA accepted via customer portal", "no custom instructions outside standard product", "15-day notice for new sub-processors via trust center", "audit right satisfied by SOC 2 Type II report only", "no on-site audit option in self-serve product", "self-service deletion via product tools", "auto-deletion within 30 days post-termination", "no custom DPIA assistance"],
+    "primary_clause_focus": ["controller_processor_roles", "subprocessors", "security measures"]
+  },
+  "CLAUDE_RidgeRouter_ProcessorToProcessor_mid_market_24": {
+    "industry": "infrastructure_routing", "industry_label": "data routing infrastructure — sub-processor to a processor (P2P)",
+    "deal_size": "mid_market", "currency": "USD", "customer_type": "saas_processor",
+    "negotiation_bias": "balanced", "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": ["EU GDPR Article 28(2) and (4)", "UK GDPR", "CCPA / CPRA", "EU SCCs Module 3 (Processor to Sub-Processor)", "UK IDTA"],
+    "party_roles": {"provider": "Sub-Processor", "customer": "Processor"}, "pricing_structure": "n/a",
+    "special_features": ["Sub-Processor DPA — Processor-to-Sub-Processor relationship", "Article 28(2) and (4) GDPR equivalence required", "no direct controller privity, controllers as third-party beneficiaries to data protection obligations only", "shorter breach notification than processor-to-controller window", "no independent use of data; instrumental role only", "sub-sub-processor consent required", "EU SCCs Module 3 incorporated", "pass-through audit rights for controllers when conducted through Processor"],
+    "primary_clause_focus": ["controller_processor_roles", "subprocessors", "international transfers"]
+  },
+  "CLAUDE_VoyageHorizons_LGPDBrazil_mid_market_25": {
+    "industry": "travel_hospitality", "industry_label": "travel platform serving Brazil customers — LGPD operator",
+    "deal_size": "mid_market", "currency": "BRL", "customer_type": "brazilian_corporation",
+    "negotiation_bias": "balanced", "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": ["Lei Geral de Proteção de Dados Pessoais (Lei n° 13.709/2018) (LGPD)", "ANPD regulations", "EU GDPR (extraterritorial)", "EU SCCs", "UK IDTA"],
+    "party_roles": {"provider": "Operator", "customer": "Controller"}, "pricing_structure": "n/a",
+    "special_features": ["LGPD Article 39 operator obligations", "DPO (Encarregado) under Article 41 LGPD", "ANPD cooperation", "Article 33 LGPD international transfer mechanisms", "ANPD-approved SCCs incorporated where available", "Article 16 LGPD deletion exceptions (legal obligation, research, anonymization)", "Sensitive Personal Data acknowledgment under Article 11 LGPD", "Article 48 LGPD breach notification cooperation", "DSR rights under Article 18 LGPD"],
+    "primary_clause_focus": ["controller_processor_roles", "international transfers", "data subject rights"]
+  }
+}

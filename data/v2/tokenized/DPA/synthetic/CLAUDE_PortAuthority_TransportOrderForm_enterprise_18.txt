@@ -1,0 +1,135 @@
+DATA PROCESSING ADDENDUM ORDER FORM (PORT AUTHORITY — VESSEL AND PASSENGER DATA)
+
+This Data Processing Addendum Order Form (this "DPA Order Form" or "DPA") is dated {{EFFECTIVE_DATE}} and incorporates the {{PARENT_AGREEMENT_NAME}} between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}}) (the "Vendor" or "Processor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} (the "Authority" or "Controller"), dated {{PARENT_AGREEMENT_DATE}} (the "Agreement"). This DPA Order Form is structured as a modular form. The substantive obligations are in the Annexes. Where the Annexes conflict with the body of this Order Form, the Annexes control. Where this DPA Order Form (including Annexes) conflicts with the Agreement on personal-data matters, this DPA Order Form controls.
+
+ARTICLE 1 — DEFINITIONS AND APPLICABLE PRIVACY LAW
+
+1.1 Definitions per the EU GDPR / UK GDPR / CCPA / CPRA conventions plus the maritime / transportation-specific definitions referenced in Annex I.
+
+1.2 Applicable Privacy Law. State public records law and privacy statutes; CCPA / CPRA where applicable; transportation-sector regulations (including U.S. Coast Guard and Department of Homeland Security data handling requirements as applicable to the Authority's operations).
+
+1.3 Annex I sets forth the parties, categories of Personal Data, categories of Data Subjects, and other details of Processing.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES (Annex IV)
+
+2.1 The Authority is the Controller. The Vendor is the Processor.
+
+2.2 The Vendor processes Personal Data only on the Authority's documented instructions. No commercial use, no AI training, no combining with other data.
+
+ARTICLE 3 — SCOPE OF PROCESSING (Annex I)
+
+3.1 Subject matter, nature, purpose, duration, categories of Personal Data, and categories of Data Subjects are in Annex I.
+
+3.2 Nature and purpose: {{PROCESSING_PURPOSE}}.
+
+3.3 Categories of Personal Data: {{DATA_CATEGORIES}}.
+
+3.4 Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+
+ARTICLE 4 — VENDOR OBLIGATIONS (Annex IV)
+
+4.1 The Vendor's obligations are in Annex IV.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES (Annex II)
+
+5.1 The Vendor implements the TOMs in Annex II.
+
+ARTICLE 6 — SUB-PROCESSORS (Annex III + Annex IV.B)
+
+6.1 Sub-processor requirements are in Annex IV.B. Specific authorization required.
+
+6.2 Current sub-processor list is in Annex III.
+
+ARTICLE 7 — DATA SUBJECT RIGHTS (Annex IV.C)
+
+7.1 Data subject rights assistance is in Annex IV.C.
+
+ARTICLE 8 — PERSONAL DATA BREACH NOTIFICATION (Annex IV.D)
+
+8.1 Notification within {{BREACH_NOTIFICATION_HOURS}} hours. Cooperation with the Authority's investigation and notifications.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS (Annex IV.E)
+
+ARTICLE 10 — DATA LOCATION (Annex V)
+
+10.1 US-only data residency. Data is hosted in: {{DATA_RESIDENCY_REGION}}.
+
+10.2 No international transfers without the Authority's prior written consent.
+
+ARTICLE 11 — AUDIT RIGHTS (Annex IV.F)
+
+11.1 Audit rights are in Annex IV.F. {{AUDIT_NOTICE_DAYS}} days' notice. No more than once per twelve (12) month period.
+
+11.2 The Vendor will share its current SOC 2 Type II report at no charge.
+
+11.3 State Comptroller and Authority Inspector General audit rights as required by state law.
+
+ARTICLE 12 — DELETION OR RETURN OF PERSONAL DATA (Annex IV.G)
+
+ARTICLE 13 — TERM AND TERMINATION
+
+This DPA Order Form runs for the term of the Agreement plus the records retention period. Articles 8, 11, and 12 (and the corresponding Annex provisions) survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+This DPA Order Form is part of the Agreement. In any conflict, this DPA Order Form (including Annexes) controls on personal-data matters; the Agreement controls on commercial matters, IP, liability, governing law, and dispute resolution. Sovereign immunity preserved. Counterparts allowed.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+Parties: Authority / Controller is {{CUSTOMER_NAME}}; Vendor / Processor is {{PROVIDER_NAME}}.
+Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+Categories of Personal Data: {{DATA_CATEGORIES}}.
+Sensitive Data: government-issued identifiers, vessel manifests, security clearance information where applicable.
+Frequency: continuous.
+Nature: {{PROCESSING_PURPOSE}}.
+Purpose: supporting the Authority's port operations.
+Retention: per the Authority's records retention schedule and applicable transportation regulations.
+
+ANNEX II — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+Encryption: TLS 1.2+ in transit, AES-256 at rest.
+Access: SSO + MFA, role-based, least privilege.
+Network: production / non-production segregation, WAF.
+Personnel: background checks (including state-required transportation worker checks), confidentiality undertakings, annual training.
+Sub-processor management: written agreements, monitoring.
+Regular testing: annual SOC 2 Type II, annual ISO 27001 surveillance, quarterly vulnerability scans, annual penetration testing.
+Data residency: hosted in {{DATA_RESIDENCY_REGION}}, US-only.
+Incident response: documented plan, breach notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+Current list at the Vendor's trust center.
+
+ANNEX IV — VENDOR OBLIGATIONS DETAIL
+
+A. Process only on instructions; personnel confidentiality; no commercial use; no AI training; no combining with other data.
+
+B. Sub-processor requirements: specific written authorization required, 60-day notice, equivalent flow-down, primary liability.
+
+C. Data subject rights: assistance with the Authority's response to public inquiries; forward direct requests to the Authority within 5 business days; no direct response.
+
+D. Personal data breach notification: {{BREACH_NOTIFICATION_HOURS}} hours; content includes nature, categories, approximate numbers, contact point, likely consequences, measures taken or proposed; cooperation with the Authority's investigation and notifications under any applicable state breach notification law.
+
+E. DPIA cooperation: reasonable assistance with the Authority's privacy impact assessments under state law.
+
+F. Audit rights: {{AUDIT_NOTICE_DAYS}} days' notice, no more than once per twelve (12) month period (except after a breach or state oversight directive). Annual SOC 2 Type II report and ISO 27001 certificate available at no charge. State Comptroller and Authority Inspector General audit rights preserved.
+
+G. Deletion or return: at the end of services, delete or return at the Authority's choice subject to records retention requirements; certification on request.
+
+ANNEX V — DATA LOCATION
+
+US-only data residency. Hosted in: {{DATA_RESIDENCY_REGION}}. No international transfers without the Authority's prior written consent. No DR site outside the US.
+
+Signed.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

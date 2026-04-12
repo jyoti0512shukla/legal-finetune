@@ -1,0 +1,207 @@
+STATEMENT OF WORK NO. 1 — LEGACY ORACLE TO SNOWFLAKE DATA MIGRATION
+
+This Statement of Work No. 1 (this "SOW") is entered into as of {{EFFECTIVE_DATE}} (the "SOW Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Client"). The Provider and the Client are collectively referred to as the "Parties."
+
+This SOW is issued pursuant to and is governed by the Master Services Agreement between the Parties dated {{MSA_EFFECTIVE_DATE}} (the "MSA"). All capitalized terms used but not defined in this SOW have the meanings given to them in the MSA. In the event of any conflict between this SOW and the MSA, the MSA shall control except with respect to commercial terms expressly set forth in this SOW (including the Project Fee, the Project Schedule, and the Acceptance Criteria), which shall control as to this Engagement only.
+
+The project described in this SOW is referred to as the "{{PROJECT_NAME}}" or the "Project."
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 Project Objectives. The Client has determined to retire its legacy Oracle Database 12c environment and migrate the data, schemas, and dependent application interfaces to a Snowflake cloud data platform tenant operated by the Client. The Provider shall perform the data migration, schema conversion, ETL pipeline rebuild, validation, and cutover services described in this Article 1, the purpose of which is to enable the Client to (a) decommission the legacy Oracle environment by the Project End Date, (b) achieve no greater than four (4) hours of cutover downtime for each migrated production workload, and (c) preserve referential integrity and historical reporting continuity across the migrated datasets.
+
+1.2 In-Scope Activities. Subject to the Assumptions set forth in Article 6, the Provider shall perform the following activities (the "In-Scope Activities"):
+
+(a) Discovery Phase. Conduct a structured discovery of the Client's existing Oracle 12c environment, including a catalog of databases, schemas, tables, views, stored procedures, materialized views, scheduled jobs, triggers, and ETL pipelines feeding the environment. The Discovery Phase shall produce a written Discovery Report (a Deliverable under Article 2).
+
+(b) Target Architecture Design. Design the target Snowflake architecture, including warehouses, databases, schemas, role-based access control, network policies, masking policies, data sharing configurations, and resource monitors. The Target Architecture Design shall be documented in a written Architecture Specification (a Deliverable under Article 2).
+
+(c) Schema Conversion. Convert Oracle schemas to Snowflake-compatible schemas, including mapping of Oracle data types to Snowflake equivalents, conversion of stored procedures and packages from PL/SQL to Snowflake SQL or JavaScript user-defined functions, and remediation of any Oracle-specific syntax incompatibilities.
+
+(d) ETL Pipeline Rebuild. Rebuild the existing Informatica PowerCenter ETL pipelines as Snowpipe-based ingestion pipelines or as Snowflake tasks-and-streams, depending on the source system characteristics for each pipeline.
+
+(e) Data Migration and Validation. Perform full and incremental data loads from the legacy Oracle environment to Snowflake, and execute the Data Validation Plan set forth in the Architecture Specification, including row-count reconciliation, hash-based content validation on sampled tables, and reconciliation of aggregate financial reporting metrics against pre-migration baselines.
+
+(f) Cutover and Hypercare. Coordinate with the Client to schedule and execute the production cutover for each migrated workload, and provide hypercare support for thirty (30) calendar days following cutover, including incident triage, root-cause analysis, and remediation of any data integrity issues directly attributable to the migration.
+
+(g) Knowledge Transfer. Conduct knowledge transfer sessions for the Client's data engineering team and produce written runbooks documenting the migrated environment, the validation procedures, and the rollback procedures.
+
+1.3 Out-of-Scope Activities. The following are expressly out-of-scope and not included in the Project Fee, and the Provider shall have no obligation to perform any of them under this SOW:
+
+(a) Migration of any data sources other than the legacy Oracle 12c environment identified in the Discovery Report. Migration of additional source systems, if requested, requires a Change Order under Article 8.
+
+(b) Refactoring, rewriting, or modernizing the application code that connects to the migrated data. The Provider's responsibility ends at the data layer; application-side changes are the Client's responsibility.
+
+(c) Procurement, configuration, or operation of the Client's Snowflake account, including any Snowflake credit consumption charges (which the Client pays directly to Snowflake Inc.).
+
+(d) End-user training on the Snowflake platform, beyond the knowledge transfer sessions described in Section 1.2(g).
+
+(e) Migration of unstructured data, file shares, document repositories, image stores, or any data not stored in the legacy Oracle 12c environment.
+
+(f) Any work product subject to export-control restrictions under the International Traffic in Arms Regulations (ITAR) or the Export Administration Regulations (EAR).
+
+(g) Custom development of new analytics, dashboards, or reporting capabilities not present in the legacy environment.
+
+1.4 Engagement Period. The Provider shall perform the In-Scope Activities during the period beginning on the Project Start Date and ending on the Project End Date set forth in Article 3, subject to extensions agreed in any executed Change Order.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables. The Provider shall produce and deliver to the Client the following deliverables (each a "Deliverable" and collectively the "Deliverables"):
+
+(a) Discovery Report — a written report describing the existing Oracle environment, the source systems, the data volumes, the dependencies, and any risks or issues identified during the Discovery Phase. Target delivery: end of Project Week 4.
+
+(b) Architecture Specification — a written specification of the target Snowflake architecture, including the Data Validation Plan and the Cutover Plan. Target delivery: end of Project Week 8.
+
+(c) Migration Test Report — a written report documenting the results of the data validation runs against a non-production replica of the production environment, including row-count reconciliations and hash validation results. Target delivery: end of Project Week 16.
+
+(d) Production Cutover Report — a written report documenting the production cutover, including the actual cutover window, any incidents encountered, and the post-cutover validation results. Target delivery: within five (5) business days after each production cutover.
+
+(e) Hypercare Closure Report — a written report documenting the hypercare period, including any incidents reported, root-cause analyses, and remediation actions taken. Target delivery: end of Project Week 22.
+
+(f) Operational Runbooks — written runbooks documenting the migrated environment, validation procedures, and rollback procedures for the Client's data engineering team. Target delivery: end of Project Week 24.
+
+2.2 Acceptance Criteria. Acceptance criteria for each Deliverable are set forth in the table in Schedule A. Each Deliverable shall be deemed conforming if it satisfies the acceptance criteria for that Deliverable.
+
+2.3 Acceptance Period. The Client shall have a period of ten (10) business days following its receipt of each Deliverable (the "Acceptance Period") to review the Deliverable and notify the Provider in writing of either (a) the Client's acceptance of the Deliverable, or (b) the Client's rejection of the Deliverable, accompanied by a written description of the alleged non-conformity with the acceptance criteria.
+
+2.4 Cure of Non-Conformity. If the Client rejects a Deliverable, the Provider shall, at no additional charge to the Client, correct the alleged non-conformity and resubmit the corrected Deliverable to the Client within ten (10) business days of receipt of the Client's rejection notice. The Client shall then have a new Acceptance Period to review the resubmitted Deliverable. If the Provider fails to deliver a conforming Deliverable after two (2) cycles of cure, the Client may, at its option, either (i) accept the Deliverable in its then-current form with an equitable reduction in the Project Fee attributable to such Deliverable, or (ii) terminate this SOW for material breach pursuant to the termination provisions of the MSA and recover the portion of the Project Fee paid for the rejected Deliverable.
+
+2.5 No Deemed Acceptance. Notwithstanding anything to the contrary in the MSA, no Deliverable under this SOW shall be subject to deemed acceptance. Any Deliverable not affirmatively accepted by the Client in writing within the Acceptance Period shall remain unaccepted, and the passage of time alone shall not constitute acceptance. The Parties have agreed to this no-deemed-acceptance treatment in light of the regulated reporting and auditability requirements applicable to the migrated workloads.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project Start and End Dates. The Project shall commence on {{PROJECT_START_DATE}} (the "Project Start Date") and shall be substantially complete by {{PROJECT_END_DATE}} (the "Project End Date"), in each case subject to (a) the Client's timely satisfaction of its Client Responsibilities under Article 5, (b) the Assumptions in Article 6 remaining valid, and (c) any extensions agreed in an executed Change Order.
+
+3.2 Milestones. The Project shall be performed in accordance with the following milestone schedule:
+
+(a) Milestone 1 — Discovery Complete. Target completion: Project Week 4. Trigger for Milestone 1 payment under Article 7.
+
+(b) Milestone 2 — Architecture Specification Accepted. Target completion: Project Week 8. Trigger for Milestone 2 payment under Article 7.
+
+(c) Milestone 3 — Migration Test Report Accepted. Target completion: Project Week 16. Trigger for Milestone 3 payment under Article 7.
+
+(d) Milestone 4 — Production Cutover Complete. Target completion: Project Week 20. Trigger for Milestone 4 payment under Article 7.
+
+(e) Milestone 5 — Hypercare Closure and Final Acceptance. Target completion: Project Week 24. Trigger for the final retention payment under Article 7.
+
+3.3 Inter-Milestone Dependencies. Milestones 2, 3, 4, and 5 are each dependent on the prior Milestone having been completed and the corresponding Deliverable having been accepted (or, in the case of Milestone 4, the Production Cutover having been successfully executed). Slippage in any earlier Milestone shall extend the target completion date for each subsequent Milestone by a corresponding number of business days, subject to Section 3.4.
+
+3.4 Status Reporting and Schedule Slippage. The Provider shall deliver to the Client a written status report at least once per week throughout the Project, in a form mutually agreed by the Parties. The status report shall identify the activities completed during the prior week, the activities planned for the following week, any open risks or issues, and any actual or anticipated schedule slippage. If the Provider becomes aware of any actual or anticipated slippage of more than five (5) business days against any Milestone target completion date, the Provider shall promptly notify the Client in writing, identify the cause of the slippage, and propose a remediation plan. Material slippage shall be addressed through the change control procedure in Article 8.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named Key Personnel. The Provider shall assign the following individuals as Key Personnel for this Project, each of whom is named in Schedule B together with such individual's role, expected minimum allocation percentage to the Project, and the period during which such individual is expected to be allocated to the Project:
+
+(a) Project Director (minimum allocation 25% across the Project duration);
+
+(b) Data Migration Lead (minimum allocation 100% across Project Weeks 1 through 22);
+
+(c) Snowflake Solution Architect (minimum allocation 100% across Project Weeks 1 through 16);
+
+(d) Senior ETL Engineer (minimum allocation 100% across Project Weeks 4 through 20);
+
+(e) Data Validation Lead (minimum allocation 75% across Project Weeks 8 through 22).
+
+4.2 No Replacement Without Consent. The Provider shall not replace, reassign, or substantially reduce the allocation of any Key Personnel without the Client's prior written consent (which consent shall not be unreasonably withheld), except in the case of (i) the Key Personnel's resignation from the Provider, (ii) termination of the Key Personnel's employment for cause, (iii) the Key Personnel's death, disability, or extended leave of absence, or (iv) the Client's request for removal under Section 4.4. In any of the foregoing cases, the Provider shall promptly propose a replacement of comparable skills, experience, and seniority for the Client's prior approval.
+
+4.3 Background Checks and Training. All Provider personnel assigned to this Project, including Key Personnel, shall have completed the background investigations and security training required by the MSA prior to receiving access to any Client systems or Client Materials.
+
+4.4 Removal of Personnel. The Client may, at any time and without cause, request that the Provider remove any individual from the Project. The Provider shall, within ten (10) business days following receipt of such request, remove the named individual from the Project and propose a replacement of comparable skills, experience, and seniority. The Client shall not be obligated to pay for any time charged by an individual whose removal has been requested after the date of such request.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 Designated Client Personnel. The Client shall designate, prior to the Project Start Date, (a) an Executive Sponsor with authority to make Project-level decisions, (b) a Project Manager who will serve as the day-to-day point of contact for the Provider, (c) a Data Steward responsible for the accuracy and completeness of source data, and (d) such Subject Matter Experts as may be reasonably necessary for the Provider to perform the Discovery Phase and the validation activities. The names and contact information of these designated personnel shall be set forth in Schedule C.
+
+5.2 Access to Systems and Data. The Client shall provide the Provider with timely access to (a) the legacy Oracle 12c environment in read-only mode, (b) the Client's Snowflake tenant, (c) the Client's source systems and data dictionaries, (d) the Client's existing ETL documentation, and (e) such physical and logical facilities, network access, and credentials as the Provider reasonably requires to perform the In-Scope Activities. Access shall be provided no later than five (5) business days following the Project Start Date.
+
+5.3 Accuracy of Provided Materials. The Client is responsible for the accuracy and completeness of all source data, schemas, documentation, and other materials provided to the Provider in connection with the Project. The Provider shall be entitled to rely on the materials provided by the Client without independent verification, and any errors or omissions in the migrated environment that result from inaccurate or incomplete source materials shall not be deemed a non-conformity of any Deliverable.
+
+5.4 Review and Approval Turnaround. The Client shall use commercially reasonable efforts to review and respond to any Deliverable, Change Order, decision request, or status report from the Provider within five (5) business days following receipt. If the Client fails to respond within ten (10) business days following receipt of any Provider request that requires a Client decision in order for the Provider to continue the In-Scope Activities, the Provider may notify the Client in writing of the delay, and any continued delay beyond five (5) additional business days following such notice shall constitute a Client Delay under Section 5.5.
+
+5.5 Client Delays. If the Client fails to satisfy any of its responsibilities under this Article 5 in a timely manner, and such failure prevents or delays the Provider from performing the In-Scope Activities, the Provider shall be entitled to (a) an extension of the relevant Milestone target completion date and the Project End Date by a number of business days equal to the duration of the Client's delay, and (b) reimbursement of any reasonable, documented additional costs the Provider incurs as a direct result of the Client Delay (including idle-personnel costs at fifty percent (50%) of the rate card rates for the affected Provider personnel). The Provider shall notify the Client of any anticipated Client Delay promptly upon becoming aware of it.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions. The Project Fee, the Project Schedule, and the In-Scope Activities are based on each of the following assumptions (the "Assumptions"). If any Assumption proves materially incorrect, the affected impact on scope, schedule, or fees shall be addressed through the change control procedure in Article 8.
+
+(a) The legacy Oracle 12c environment contains no more than fifteen (15) production databases and a total data volume of no more than twenty (20) terabytes as of the Project Start Date. Any additional databases or data volume in excess of these thresholds shall constitute a change in scope.
+
+(b) The Client's source data is sufficiently clean and well-documented that the Provider will not be required to perform substantive data cleansing or data quality remediation as part of the In-Scope Activities. Substantive data cleansing, if required, shall constitute a change in scope.
+
+(c) The Client's existing application code that connects to the legacy Oracle environment can be repointed to the new Snowflake environment without material refactoring, by means of connection-string and driver changes only. Application-side code changes are out-of-scope per Section 1.3(b) regardless.
+
+(d) The Client's existing Informatica PowerCenter ETL pipelines are documented sufficiently for the Provider to convert them to Snowflake-native pipelines without reverse-engineering the underlying business logic.
+
+(e) The Client's Snowflake tenant is provisioned and operational prior to the Project Start Date, with sufficient credits and warehouse capacity for the test and migration runs contemplated by the Architecture Specification.
+
+(f) The Client's Subject Matter Experts will be available to the Provider for an average of eight (8) hours per week throughout the Project.
+
+(g) No regulatory examinations, audits, or supervisory actions affecting the Client's data environment will require the Provider to suspend or materially modify the In-Scope Activities during the Project.
+
+6.2 Third-Party Dependencies. The Project depends on the continued availability and proper functioning of (a) the Snowflake cloud data platform operated by Snowflake Inc., (b) any third-party connector or driver software used in the migration, and (c) any third-party data quality, lineage, or observability tools the Client requires the Provider to integrate with. The Provider shall not be responsible for any delay or failure of performance to the extent caused by the failure of any such third-party dependency.
+
+6.3 Notification of Changed Assumptions. The Client shall promptly notify the Provider in writing if it becomes aware that any Assumption has changed or is no longer valid. The Provider shall similarly notify the Client if it becomes aware during the Project that any Assumption has proven incorrect.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Project Fee. In consideration for the In-Scope Activities, the Client shall pay the Provider a fixed Project Fee of {{SOW_FEE_AMOUNT}} (the "Project Fee"). The Project Fee is exclusive of taxes (which are addressed in the MSA) and exclusive of out-of-pocket expenses (which are addressed in Section 7.4 below).
+
+7.2 Pricing Structure. The Project Fee is a firm, fixed-fee amount and is not based on time and materials. The Provider has scoped the Project, allocated the Key Personnel, and committed to the Project Schedule on the basis of this fixed-fee structure, and the Provider shall bear any cost overruns within the scope of the In-Scope Activities and within the bounds of the Assumptions. Out-of-scope activities, scope expansions resulting from incorrect Assumptions, and Client-Delay-related cost reimbursements are addressed under Articles 6, 8, and 5 respectively.
+
+7.3 Milestone-Based Payment Schedule. The Project Fee shall be invoiced and payable in accordance with the following milestone payment schedule:
+
+(a) Fifteen percent (15%) of the Project Fee shall be invoiced upon execution of this SOW and shall be due and payable within net thirty (30) days of the date of the invoice.
+
+(b) Fifteen percent (15%) of the Project Fee shall be invoiced upon the Client's acceptance of the Discovery Report (Milestone 1) and shall be due and payable within net thirty (30) days of the date of the invoice.
+
+(c) Twenty percent (20%) of the Project Fee shall be invoiced upon the Client's acceptance of the Architecture Specification (Milestone 2) and shall be due and payable within net thirty (30) days of the date of the invoice.
+
+(d) Twenty percent (20%) of the Project Fee shall be invoiced upon the Client's acceptance of the Migration Test Report (Milestone 3) and shall be due and payable within net thirty (30) days of the date of the invoice.
+
+(e) Twenty percent (20%) of the Project Fee shall be invoiced upon the Production Cutover Complete event (Milestone 4) and shall be due and payable within net thirty (30) days of the date of the invoice.
+
+(f) The remaining ten percent (10%) of the Project Fee (the "Retention Payment") shall be invoiced upon the Client's acceptance of the Hypercare Closure Report (Milestone 5) and shall be due and payable within net thirty (30) days of the date of the invoice.
+
+7.4 Expense Reimbursement. The Client shall reimburse the Provider for reasonable, documented out-of-pocket expenses (including travel, lodging, and per diem) incurred by the Provider in performing the In-Scope Activities, subject to (a) the Client's then-current vendor travel and expense policy, and (b) the requirement that any individual expense in excess of {{EXPENSE_PREAPPROVAL_THRESHOLD}} be pre-approved in writing by the Client. Expenses shall be invoiced monthly in arrears together with reasonable documentation.
+
+7.5 Disputed Invoices. If the Client disputes any invoice or any portion of an invoice in good faith, the Client shall (a) timely pay the undisputed portion of the invoice, (b) promptly notify the Provider in writing of the disputed portion together with a reasonable description of the basis for the dispute, and (c) work in good faith with the Provider to resolve the dispute. The Provider shall not suspend the In-Scope Activities on account of any disputed invoice for which the undisputed portion has been paid.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests. Either Party may at any time during the Project propose a change to the In-Scope Activities, the Deliverables, the Project Schedule, the Project Fee, or the Assumptions by submitting a written Change Request to the other Party. Each Change Request shall describe (a) the proposed change, (b) the proposed reason for the change, (c) the proposed impact on scope, schedule, and fees (to the extent then known), and (d) the proposed effective date.
+
+8.2 Impact Assessment. Within ten (10) business days following receipt of a Change Request, the Provider shall deliver to the Client a written impact assessment describing (a) the technical changes required, (b) the impact on the Project Schedule, (c) the impact on the Project Fee, and (d) any updates to the Assumptions or Client Responsibilities necessitated by the Change Request.
+
+8.3 Change Order. If the Parties agree to proceed with a proposed change, they shall execute a written change order (a "Change Order"), signed by an authorized representative of each Party, that documents the agreed change to the In-Scope Activities, the Deliverables, the Project Schedule, the Project Fee, the Assumptions, or any other affected term of this SOW. No change to this SOW shall be effective unless documented in a signed Change Order.
+
+8.4 No Oral Modifications. No oral statement, email, or other informal communication shall constitute a modification of this SOW or a waiver of any term of this SOW. Only a Change Order signed by both Parties shall modify this SOW.
+
+8.5 De Minimis Threshold. Notwithstanding the foregoing, changes to the Project that have a cumulative impact on the Project Fee of less than {{CHANGE_ORDER_THRESHOLD}} and no impact on the Project Schedule may be implemented by written email confirmation between the Parties' Project Managers without a formal Change Order.
+
+8.6 Continuing Performance Pending Resolution. If the Parties are unable to reach agreement on a Change Request, the Provider shall continue to perform the In-Scope Activities in accordance with this SOW as in effect prior to the Change Request, and either Party may escalate the dispute through the dispute resolution procedures of the MSA.
+
+8.7 Effect on Project Fee. Any agreed change in the Project Fee resulting from an executed Change Order shall be allocated across the remaining unpaid Milestones in proportion to the unpaid balance, unless the Change Order expressly provides otherwise.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT
+
+9.1 Incorporation by Reference. This SOW is issued under and is governed by the MSA, which is incorporated into this SOW by reference. All terms and conditions of the MSA shall apply to this SOW and to the In-Scope Activities, including without limitation the MSA's provisions on confidentiality, data security, intellectual property ownership, indemnification, limitation of liability, insurance, governing law, and dispute resolution.
+
+9.2 Order of Precedence. In the event of any conflict between this SOW and the MSA, the MSA shall control, except that the commercial terms expressly set forth in this SOW (including the Project Fee in Article 7, the Project Schedule in Article 3, the Acceptance Criteria referenced in Article 2, and the Key Personnel allocations in Article 4) shall control over any inconsistent provisions in the MSA solely as applied to this Engagement. Nothing in this SOW shall be construed to amend or modify the MSA's provisions on limitation of liability, indemnification, intellectual property ownership, confidentiality, or governing law, all of which shall apply to this SOW unmodified.
+
+9.3 Termination. This SOW may be terminated only as expressly provided in the MSA or in this SOW. Termination of this SOW shall not, in itself, terminate the MSA or any other Statement of Work executed under the MSA.
+
+9.4 Independent Contractor Relationship. The relationship between the Parties under this SOW remains as set forth in the MSA. Nothing in this SOW shall be construed to create any employment, partnership, joint venture, or agency relationship between the Parties or any of their respective personnel.
+
+IN WITNESS WHEREOF, the Parties have caused this Statement of Work No. 1 to be executed by their duly authorized representatives as of the SOW Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

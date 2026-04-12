@@ -1,0 +1,14 @@
+{
+  "source_template": "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07.txt",
+  "variation_index": 5,
+  "substitutions": {
+    "PROVIDER_NAME": "Fortis Cloud Inc.",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_NAME": "Evergreen Properties Inc.",
+    "CUSTOMER_STATE": "Illinois",
+    "CUSTOMER_ENTITY_TYPE": "limited partnership",
+    "VENUE_CITY": "Chicago",
+    "TERM_YEARS": "two (2)",
+    "LIABILITY_CAP_MONTHS": "six (6)"
+  }
+}

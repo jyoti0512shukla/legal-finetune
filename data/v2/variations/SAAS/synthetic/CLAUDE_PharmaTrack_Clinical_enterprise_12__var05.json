@@ -1,0 +1,19 @@
+{
+  "source_template": "CLAUDE_PharmaTrack_Clinical_enterprise_12.txt",
+  "variation_index": 5,
+  "substitutions": {
+    "PROVIDER_NAME": "Brightline Software, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "3399 Mission Avenue South, Minneapolis, Minnesota 55352",
+    "CUSTOMER_NAME": "Summit Retail Partners LLC",
+    "CUSTOMER_ADDRESS": "8489 Liberty Avenue South, Minneapolis, Minnesota 55148",
+    "EFFECTIVE_DATE": "March 12, 2024",
+    "GOVERNING_LAW_STATE": "Minnesota",
+    "VENUE_COUNTY": "Hennepin County",
+    "ANNUAL_FEE_AMOUNT": "Eighteen Thousand United States Dollars ($18,000)",
+    "TERM_YEARS": "three (3)",
+    "NOTICE_DAYS": "ninety (90)",
+    "IMPLEMENTATION_FEE": "One Hundred Fifty Thousand United States Dollars ($150,000)"
+  }
+}

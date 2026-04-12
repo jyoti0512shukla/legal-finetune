@@ -1,0 +1,283 @@
+SOFTWARE AS A SERVICE SUBSCRIPTION AGREEMENT
+
+This SOFTWARE AS A SERVICE SUBSCRIPTION AGREEMENT (hereinafter referred to as the "Agreement") is entered into as of the 1st day of November, 2023 (the "Effective Date"), by and between Riverstone Software Inc., a corporation duly organized and existing under the laws of the State of Delaware, with its principal place of business at 123 Innovation Drive, Austin, Delaware 19801 (hereinafter referred to as "Provider"), and Liberty Pharmaceuticals Inc., a limited liability partnership duly organized and existing under the laws of the State of Delaware, with its principal place of business at 456 Enterprise Avenue, Austin, Delaware 19805 (hereinafter referred to as "Customer").
+
+WHEREAS, Provider is engaged in the business of providing software solutions for human resource management and workforce optimization;
+
+WHEREAS, Customer desires to utilize Provider's software solutions to enhance its human resource management capabilities, specifically through the integration of payroll modules and compliance reporting features;
+
+WHEREAS, Provider and Customer have agreed to enter into this Agreement for the provision of such software solutions on a subscription basis, subject to the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained, the parties hereto agree as follows:
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" shall mean any entity that directly or indirectly controls, is controlled by, or is under common control with a party, where "control" means the ownership of more than fifty percent (50%) of the voting securities or equivalent interest of such entity.
+
+1.2 "Agreement" shall mean this Software as a Service Subscription Agreement, including all exhibits, schedules, annexes, and amendments hereto, as may be executed by the parties from time to time.
+
+1.3 "Authorized User" shall mean any individual who is authorized by Customer to access and use the Services, subject to the terms of this Agreement, and who has been supplied with user identifications and passwords by Customer.
+
+1.4 "Business Day" shall mean any day other than a Saturday, Sunday, or any day on which banks located in Austin, Delaware are authorized or obligated to close.
+
+1.5 "Confidential Information" shall mean any non-public information disclosed by one party to the other party, either directly or indirectly, in writing, orally, or by inspection of tangible objects, which is designated as "Confidential," "Proprietary," or some similar designation.
+
+1.6 "Customer Data" shall mean all data, information, and material provided or submitted by Customer or its Authorized Users to the Services in the course of using the Services, which shall include Personal Data and be treated as Customer's proprietary information.
+
+1.7 "Documentation" shall mean the user manuals, technical manuals, and any other materials provided by Provider, in any form or medium, that describe the functionality, components, features, or requirements of the Services, including any aspect of the installation, configuration, integration, operation, use, support, or maintenance thereof.
+
+1.8 "Effective Date" shall mean the date first written above, which is the date this Agreement becomes effective and binding upon the parties.
+
+1.9 "Force Majeure Event" shall mean any event beyond the reasonable control of a party, including but not limited to acts of God, war, terrorism, civil unrest, strikes, fires, floods, earthquakes, or other natural disasters, which prevents such party from performing its obligations under this Agreement.
+
+1.10 "Implementation Services" shall mean the services provided by Provider to configure and integrate the Services with Customer's existing systems and processes, including but not limited to the integration of payroll modules with ADP and Gusto.
+
+1.11 "Intellectual Property Rights" shall mean all rights in and to patents, copyrights, trademarks, trade secrets, and other proprietary rights recognized in any jurisdiction worldwide, whether registered or unregistered.
+
+1.12 "Order Form" shall mean the document executed by the parties that sets forth the specific details of the subscription to the Services, including the Subscription Fee, Subscription Term, and any additional terms and conditions.
+
+1.13 "Personal Data" shall mean any information relating to an identified or identifiable natural person, as defined under applicable Privacy Laws, that is processed by Provider on behalf of Customer in connection with the Services.
+
+1.14 "Platform" shall mean the software platform provided by Provider, which includes the applications and modules made available to Customer pursuant to this Agreement.
+
+1.15 "Privacy Laws" shall mean all applicable laws and regulations relating to data protection, privacy, and security, including but not limited to the General Data Protection Regulation (GDPR) and any other applicable laws governing the processing of Personal Data.
+
+1.16 "Professional Services" shall mean any consulting, training, or other professional services provided by Provider to assist Customer in the use of the Services, as may be agreed upon by the parties in writing.
+
+1.17 "Service Level Agreement" or "SLA" shall mean the service level commitments set forth by Provider, including the commitment to provide 99.9% uptime for the Services, as detailed in Exhibit A attached hereto.
+
+1.18 "Services" shall mean the software as a service offerings provided by Provider to Customer under this Agreement, including the Platform, Implementation Services, and Support Services.
+
+1.19 "Subscription Fee" shall mean the fee payable by Customer to Provider for access to and use of the Services, as specified in the Order Form, which shall be Eighteen Thousand United States Dollars ($18,000) annually, payable in monthly installments of USD 5,000.
+
+1.20 "Subscription Term" shall mean the period during which Customer is entitled to use the Services, as specified in the Order Form, which shall be a two-year term commencing on the Effective Date.
+
+1.21 "Support Services" shall mean the support and maintenance services provided by Provider to ensure the availability and performance of the Services, as further described in the Documentation.
+
+1.22 "Third-Party Applications" shall mean any software applications or services that are provided by third parties and may interoperate with the Services, including but not limited to ADP and Gusto payroll systems.
+
+ARTICLE 2 — SERVICES AND SUBSCRIPTION
+
+2.1 Provision of Services. Subject to the terms and conditions of this Agreement, Provider hereby agrees to provide Customer with access to and use of the Services during the Subscription Term. Such access and use shall be in accordance with the Documentation and the terms set forth in the applicable Order Form.
+
+2.2 License Grant. Provider hereby grants to Customer a limited, non-exclusive, non-transferable, non-sublicensable right to access and use the Services solely for Customer's internal business purposes. This license is subject to the terms and conditions of this Agreement and shall be used solely by Customer and its Authorized Users.
+
+2.3 Restrictions. Customer shall not, and shall ensure that its Authorized Users do not, reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code, object code, or underlying structure, ideas, or algorithms of the Services. Customer shall not modify, translate, or create derivative works based on the Services, or use the Services for timesharing or service bureau purposes or otherwise for the benefit of a third party.
+
+2.4 Customer Responsibilities. Customer shall be responsible for all activities that occur under its account, including ensuring that all Authorized Users comply with the terms of this Agreement. Customer shall maintain the confidentiality of all user identifications and passwords and shall promptly notify Provider of any unauthorized use of its account or any other breach of security.
+
+2.5 Suspension Rights. Provider reserves the right to suspend Customer's access to the Services in the event of any breach of this Agreement by Customer or its Authorized Users, including failure to pay the Subscription Fee. Provider shall provide notice to Customer of such suspension and shall use commercially reasonable efforts to restore access promptly upon resolution of the breach.
+
+ARTICLE 3 — IMPLEMENTATION AND PROFESSIONAL SERVICES
+
+3.1 Scope of Services. Provider shall perform the Implementation Services necessary to configure and integrate the Services with Customer's existing systems, including the integration of payroll modules with ADP and Gusto. The scope of such services shall be as set forth in the applicable Order Form.
+
+3.2 Fees for Implementation. Customer shall pay Provider the fees for Implementation Services as specified in the Order Form. Such fees shall be in addition to the Subscription Fee and shall be payable in accordance with the payment terms set forth herein.
+
+3.3 Acceptance Criteria. The Implementation Services shall be deemed accepted upon successful completion of the integration and configuration tasks as specified in the Order Form. Customer shall have ten (10) Business Days to review and test the Implementation Services, and acceptance shall be deemed given unless Customer provides written notice of any deficiencies within such period.
+
+3.4 Change Requests. Any changes to the scope of the Implementation Services shall be documented in a written change request and agreed upon by both parties. Such change requests may result in additional fees and changes to the delivery schedule.
+
+3.5 Customer Cooperation. Customer acknowledges that the timely and successful completion of the Implementation Services requires its full cooperation. Customer shall provide Provider with access to its personnel, systems, and facilities as reasonably necessary to perform the Implementation Services.
+
+ARTICLE 4 — SUBSCRIPTION FEES AND PAYMENT
+
+4.1 Fees. Customer shall pay Provider the Subscription Fee as specified in the Order Form. The Subscription Fee shall be payable in monthly installments of USD 5,000, commencing on the Effective Date.
+
+4.2 Billing Cycle. Provider shall invoice Customer on a monthly basis, and all invoices shall be payable within thirty (30) days of the invoice date. Payment shall be made in U.S. dollars by wire transfer, ACH, or other method agreed upon by the parties.
+
+4.3 Late Payment Interest. Any amounts not paid when due shall accrue interest at the lesser of one and one-half percent (1.5%) per month or the maximum rate permitted by applicable law, from the due date until paid.
+
+4.4 Taxes. All fees are exclusive of taxes, and Customer shall be responsible for all sales, use, value-added, or other taxes, duties, or charges of any kind imposed by any federal, state, or local governmental entity on the transactions contemplated by this Agreement, excluding taxes based solely on Provider's income.
+
+4.5 Fee Changes. Provider reserves the right to change the Subscription Fee upon renewal of the Subscription Term, provided that Provider gives Customer at least sixty (60) days' prior written notice of any such fee change.
+
+4.6 Audit Rights. Provider shall have the right to audit Customer's use of the Services to ensure compliance with the terms of this Agreement. Any such audit shall be conducted during regular business hours and in a manner that does not unreasonably interfere with Customer's business operations.
+
+4.7 Disputed Invoices. If Customer disputes any portion of an invoice, Customer shall notify Provider in writing within fifteen (15) days of the invoice date, specifying the nature of the dispute. The parties shall use good faith efforts to resolve the dispute promptly. Notwithstanding any dispute, Customer shall pay the undisputed portion of the invoice in accordance with the payment terms herein.
+
+ARTICLE 5 — TERM AND RENEWAL
+
+5.1 Initial Term. The initial term of this Agreement shall commence on the Effective Date and shall continue for a period of three (3) years, unless earlier terminated in accordance with the terms of this Agreement.
+
+5.2 Automatic Renewal. Upon expiration of the initial term, this Agreement shall automatically renew for successive one (1) year terms unless either party provides written notice of non-renewal at least ninety (90) days prior to the end of the then-current term.
+
+5.3 Notice of Non-Renewal. Either party may elect not to renew this Agreement by providing written notice to the other party at least ninety (90) days prior to the expiration of the then-current term.
+
+5.4 Fee Escalation Upon Renewal. Provider may increase the Subscription Fee for any renewal term by providing Customer with written notice of such increase at least sixty (60) days prior to the commencement of the renewal term.
+
+5.5 Effects of Expiration. Upon expiration or termination of this Agreement, Customer's right to access and use the Services shall immediately terminate. Customer shall cease all use of the Services and return or destroy all copies of the Documentation in its possession.
+
+ARTICLE 6 — SERVICE LEVEL AGREEMENT AND SUPPORT
+
+6.1 Uptime Commitment. Provider shall use commercially reasonable efforts to ensure that the Services are available at least 99.9% of the time, measured on a monthly basis, excluding any scheduled maintenance or Force Majeure Events.
+
+6.2 Exclusions. The uptime commitment shall not apply to any unavailability caused by Customer's use of the Services in violation of the terms of this Agreement, or any issues arising from Third-Party Applications.
+
+6.3 Measurement Methodology. Provider shall measure the uptime of the Services using industry-standard monitoring tools and shall provide Customer with access to uptime reports upon request.
+
+6.4 Service Credit Calculation. In the event that Provider fails to meet the uptime commitment, Customer shall be entitled to a service credit equal to a prorated portion of the Subscription Fee for the period of downtime, subject to the terms set forth in the SLA.
+
+6.5 Support Tiers. Provider shall offer support services in accordance with the support tiers described in the Documentation, which shall include different levels of support based on the severity of the issue reported by Customer.
+
+6.6 Response Times. Provider shall use commercially reasonable efforts to respond to support requests within the response times specified in the SLA, based on the severity of the issue.
+
+6.7 Escalation Procedures. In the event that an issue is not resolved within the specified response time, Customer may escalate the issue in accordance with the escalation procedures outlined in the SLA.
+
+6.8 Maintenance Windows. Provider shall conduct routine maintenance during scheduled maintenance windows, as specified in the SLA. Provider shall provide Customer with at least forty-eight (48) hours' notice of any scheduled maintenance that may impact the availability of the Services.
+
+ARTICLE 7 — CUSTOMER DATA AND PRIVACY
+
+7.1 Ownership of Customer Data. As between the parties, Customer shall retain all right, title, and interest in and to the Customer Data. Provider shall not acquire any rights in the Customer Data except as expressly set forth herein.
+
+7.2 License to Provider. Customer hereby grants Provider a limited, non-exclusive license to use, reproduce, and process the Customer Data solely as necessary to provide the Services to Customer in accordance with this Agreement.
+
+7.3 Data Residency. Provider shall store and process Customer Data in data centers located within the United States, unless otherwise agreed upon by the parties in writing.
+
+7.4 Security Measures. Provider shall implement and maintain reasonable administrative, physical, and technical safeguards designed to protect the security, confidentiality, and integrity of Customer Data, as further detailed in the Documentation.
+
+7.5 Breach Notification. In the event of a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Customer Data, Provider shall notify Customer without undue delay and shall provide reasonable assistance to Customer in mitigating the effects of such breach.
+
+7.6 Data Retention. Provider shall retain Customer Data for the duration of the Subscription Term. Upon expiration or termination of this Agreement, Provider shall, at Customer's election, either return or delete all Customer Data in its possession, except to the extent that retention is required by applicable law.
+
+7.7 Return/Deletion on Termination. Upon termination of this Agreement, Provider shall return or delete Customer Data in accordance with Section 7.6. Provider shall certify in writing to Customer that such return or deletion has been completed.
+
+7.8 Compliance with Privacy Laws. Provider shall comply with all applicable Privacy Laws in its processing of Customer Data. Provider shall provide reasonable assistance to Customer in complying with its obligations under applicable Privacy Laws, including responding to requests from data subjects.
+
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Provider IP Ownership. Provider shall retain all right, title, and interest in and to the Platform, Services, and any and all related Intellectual Property Rights. No rights are granted to Customer hereunder other than as expressly set forth in this Agreement.
+
+8.2 Customer IP Ownership. As between the parties, Customer shall retain all right, title, and interest in and to the Customer Data and any Intellectual Property Rights therein. Provider shall not acquire any rights in the Customer Data except as expressly set forth herein.
+
+8.3 Feedback License. Customer may, from time to time, provide suggestions, comments, or other feedback to Provider with respect to the Services. Customer hereby grants Provider a perpetual, irrevocable, worldwide, royalty-free license to use and incorporate any such feedback into the Services or any other products or services offered by Provider.
+
+8.4 No Implied Licenses. Except as expressly set forth herein, no license or other rights in or to the Services or any Intellectual Property Rights of Provider are granted to Customer, whether by implication, estoppel, or otherwise.
+
+8.5 Third-Party Components. The Services may include software or components provided by third parties. Provider shall ensure that such third-party components are licensed to Customer under terms that are consistent with this Agreement. Customer shall comply with all applicable terms and conditions governing the use of such third-party components.
+
+ARTICLE 9 — CONFIDENTIALITY
+
+9.1 Definition Reference. For the purposes of this Agreement, "Confidential Information" shall have the meaning set forth in Section 1.5 of this Agreement, encompassing all non-public information disclosed by one party to the other party.
+
+9.2 Obligations. Each party agrees to maintain the confidentiality of the other party's Confidential Information and to use such information solely for the purposes of fulfilling its obligations under this Agreement. Each party shall take all reasonable measures to protect the confidentiality of the other party's Confidential Information, which shall be no less than the measures it uses to protect its own confidential information.
+
+9.3 Exclusions. Confidential Information shall not include information that is or becomes publicly available through no breach of this Agreement by the receiving party, is already in the receiving party's possession without obligation of confidentiality, is independently developed by the receiving party without use of or reference to the disclosing party's Confidential Information, or is rightfully obtained by the receiving party from a third party without breach of any obligation of confidentiality.
+
+9.4 Compelled Disclosure. If a party is compelled by law or legal process to disclose any Confidential Information, it shall provide the other party with prompt prior notice of such requirement, to the extent legally permissible, and shall cooperate with the other party in seeking a protective order or other appropriate remedy.
+
+9.5 Return/Destruction. Upon termination of this Agreement or upon the disclosing party's request, the receiving party shall promptly return or destroy all copies of the disclosing party's Confidential Information in its possession or control and certify in writing to the disclosing party that such return or destruction has been completed.
+
+9.6 Survival Period. The obligations of confidentiality set forth in this Article 9 shall survive the expiration or termination of this Agreement for a period of three (3) years thereafter.
+
+9.7 Equitable Relief. Each party acknowledges that any breach of its obligations with respect to Confidential Information may cause the other party irreparable harm for which monetary damages would be inadequate, and agrees that the other party shall be entitled to seek equitable relief, including injunctions and specific performance, in the event of any such breach.
+
+ARTICLE 10 — REPRESENTATIONS AND WARRANTIES
+
+10.1 Provider Warranties. Provider represents and warrants that the Services will perform substantially in accordance with the Documentation under normal use and circumstances. Provider further warrants that it will provide the Services in a professional and workmanlike manner consistent with industry standards.
+
+10.2 Mutual Authority Warranty. Each party represents and warrants to the other that it has the full right, power, and authority to enter into this Agreement and to perform its obligations hereunder.
+
+10.3 Customer Warranties. Customer represents and warrants that it has the right to provide the Customer Data to Provider for the purposes contemplated by this Agreement and that such provision does not violate any applicable laws or third-party rights.
+
+10.4 Disclaimer of Implied Warranties. EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, PROVIDER DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Provider IP Indemnity. Provider shall defend, indemnify, and hold harmless Customer from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or related to any claim that the Services infringe any third-party Intellectual Property Rights, provided that Customer gives Provider prompt written notice of any such claim, allows Provider to control the defense and settlement of the claim, and cooperates with Provider in the defense of such claim.
+
+11.2 Customer Indemnity. Customer shall defend, indemnify, and hold harmless Provider from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or related to Customer's misuse of the Services or any claim that the Customer Data infringes any third-party rights, provided that Provider gives Customer prompt written notice of any such claim, allows Customer to control the defense and settlement of the claim, and cooperates with Customer in the defense of such claim.
+
+11.3 Indemnification Procedure. The indemnified party shall promptly notify the indemnifying party of any claim for which it seeks indemnification. The indemnifying party shall have the right to assume control of the defense and settlement of any such claim, provided that it does so with counsel reasonably satisfactory to the indemnified party and that any settlement includes a full release of the indemnified party.
+
+11.4 Exceptions and Limitations. The indemnification obligations set forth in this Article 11 shall not apply to the extent that a claim arises from the indemnified party's gross negligence, willful misconduct, or breach of this Agreement.
+
+11.5 Sole Remedies. The indemnification obligations set forth in this Article 11 shall be the indemnified party's sole and exclusive remedy with respect to the claims described herein.
+
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Mutual Aggregate Cap. Except for liability arising from a party's gross negligence or willful misconduct, each party's aggregate liability under this Agreement shall not exceed the total amount of Subscription Fees paid by Customer to Provider in the twenty-four (24) months preceding the event giving rise to the claim.
+
+12.2 Exclusion of Consequential and Indirect Damages. In no event shall either party be liable to the other for any indirect, incidental, consequential, special, punitive, or exemplary damages, including but not limited to loss of profits, loss of business, or loss of data, arising out of or related to this Agreement, even if advised of the possibility of such damages.
+
+12.3 Super-Cap Exceptions. The limitations set forth in this Article 12 shall not apply to liability arising from a party's indemnification obligations under Article 11, breach of confidentiality obligations under Article 9, or any liability for gross negligence or willful misconduct.
+
+12.4 Basis of the Bargain Disclaimer. The parties acknowledge and agree that the limitations of liability set forth in this Article 12 are an essential basis of the bargain and that the pricing and other terms of this Agreement reflect such allocation of risk.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+13.1 Term Reference. The term of this Agreement shall be as set forth in Article 5 herein.
+
+13.2 Termination for Material Breach. Either party may terminate this Agreement upon thirty (30) days' written notice to the other party in the event of a material breach of this Agreement by the other party, provided that such breach is not cured within the notice period.
+
+13.3 Termination for Insolvency/Bankruptcy. Either party may terminate this Agreement immediately upon written notice if the other party becomes insolvent, makes a general assignment for the benefit of creditors, or is subject to any proceeding under any bankruptcy or insolvency law.
+
+13.4 Termination for Convenience. Either party may terminate this Agreement for convenience upon ninety (90) days' prior written notice to the other party, provided that such termination shall not relieve Customer of its obligation to pay any outstanding Subscription Fees.
+
+13.5 Effects of Termination. Upon termination of this Agreement, Customer shall immediately cease all use of the Services and return or destroy all copies of the Documentation in its possession. Provider shall provide Customer with access to Customer Data for a period of thirty (30) days following termination, after which Provider shall have no obligation to maintain or provide any Customer Data.
+
+13.6 Transition Assistance. Upon Customer's request, Provider shall provide reasonable transition assistance to facilitate Customer's transition to an alternative service provider, subject to Provider's then-current rates for such services.
+
+13.7 Refund Obligations. In the event of termination by Customer for Provider's material breach, Provider shall refund to Customer any prepaid Subscription Fees covering the remainder of the Subscription Term after the effective date of termination.
+
+13.8 Survival. The provisions of Articles 1, 7, 8, 9, 11, 12, 13, 14, and 15 shall survive the expiration or termination of this Agreement.
+
+ARTICLE 14 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Choice of Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles.
+
+14.2 Escalation to Executives. In the event of any dispute arising under this Agreement, the parties shall first attempt to resolve the dispute through good faith negotiations between their respective executives.
+
+14.3 Mediation. If the parties are unable to resolve the dispute through executive negotiations, they agree to participate in non-binding mediation before a mutually agreed mediator prior to initiating any legal action.
+
+14.4 Exclusive Jurisdiction. Any legal action or proceeding arising under this Agreement shall be brought exclusively in the state or federal courts located in Austin, Delaware, and each party hereby consents to the personal jurisdiction and venue of such courts.
+
+14.5 Waiver of Jury Trial. Each party hereby waives any right to a jury trial in connection with any action or litigation in any way arising out of or related to this Agreement.
+
+14.6 Attorneys' Fees. In the event of any litigation or dispute arising from this Agreement, the prevailing party shall be entitled to recover its reasonable attorneys' fees and costs.
+
+ARTICLE 15 — GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement, including all exhibits and Order Forms, constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, and communications, whether written or oral.
+
+15.2 Amendments in Writing. No amendment or modification of this Agreement shall be valid unless in writing and signed by both parties.
+
+15.3 Severability. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+15.4 Waiver. No waiver of any provision of this Agreement shall be effective unless in writing and signed by the party against whom the waiver is to be asserted. No waiver of any breach or default shall be deemed a waiver of any subsequent breach or default.
+
+15.5 Notices. All notices required or permitted under this Agreement shall be in writing and shall be deemed given when delivered personally, sent by confirmed facsimile, sent by email with confirmation of receipt, or three (3) Business Days after being sent by prepaid certified or registered mail to the addresses set forth below:
+
+Provider:  
+Riverstone Software Inc.  
+123 Innovation Drive  
+Austin, Delaware 19801  
+
+Customer:  
+Liberty Pharmaceuticals Inc.  
+456 Enterprise Avenue  
+Austin, Delaware 19805  
+
+15.6 Assignment. Neither party may assign or transfer this Agreement, in whole or in part, without the prior written consent of the other party, except that either party may assign this Agreement to an Affiliate or in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+15.7 Force Majeure. Neither party shall be liable for any failure or delay in performance under this Agreement due to causes beyond its reasonable control, including but not limited to Force Majeure Events.
+
+15.8 Independent Contractors. The parties are independent contractors, and nothing in this Agreement shall be construed to create a partnership, joint venture, or agency relationship between the parties.
+
+15.9 No Third-Party Beneficiaries. This Agreement is for the sole benefit of the parties hereto and their respective successors and permitted assigns, and nothing herein, express or implied, is intended to or shall confer upon any other person or entity any legal or equitable right, benefit, or remedy of any nature whatsoever.
+
+15.10 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+
+Riverstone Software Inc.  
+By: ___________________________  
+Name: _________________________  
+Title: __________________________  
+Date: __________________________  
+
+Liberty Pharmaceuticals Inc.  
+By: ___________________________  
+Name: _________________________  
+Title: __________________________  
+Date: __________________________

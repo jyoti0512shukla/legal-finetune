@@ -1,0 +1,135 @@
+GPL / Commercial Dual License Agreement
+
+Licensor: {{PROVIDER_NAME}} ({{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}}, {{PROVIDER_ADDRESS}})
+Licensee: {{CUSTOMER_NAME}} ({{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}}, {{CUSTOMER_ADDRESS}})
+Effective Date: {{EFFECTIVE_DATE}}
+
+The Licensor publishes a graph database engine (the "Licensed Software") under a dual license: (a) anyone can use it under the GNU General Public License version 3 (GPLv3), or (b) commercial users who don't want the GPL's source-code-disclosure obligations can purchase a commercial license. This Agreement is the commercial license. The Licensee can embed the Licensed Software in proprietary, closed-source applications without triggering the GPL.
+
+This is the standard form. The Licensor's open-source community uses the same code under GPLv3.
+
+ARTICLE 1 — WHAT'S LICENSED
+
+1.1 Licensed Software. The Licensor licenses to the Licensee the open-source software identified in Schedule 1, in source code and binary form. The same code is also published by the Licensor under GPLv3 in the Licensor's public repository.
+
+1.2 Updates. The Licensee receives all updates released by the Licensor during the Term, including security patches, bug fixes, minor versions, and major versions in the Licensed Software's commercial release track.
+
+1.3 Documentation, drivers, integrations. The Licensee also receives the Licensed Software's official documentation, official drivers and connectors, and official integrations published under the commercial license track.
+
+ARTICLE 2 — GRANT OF LICENSE
+
+2.1 Commercial license grant. The Licensor grants the Licensee an {{LICENSE_GRANT_TYPE}}, royalty-bearing license to use, reproduce, modify, distribute, and embed the Licensed Software in proprietary, closed-source applications WITHOUT being subject to the source-code disclosure or copyleft obligations of GPLv3.
+
+2.2 What this means in practice. Under GPLv3, anyone who modifies and distributes the Licensed Software (or distributes a derivative work that links to it under copyleft terms) must release the modified source code under GPLv3. This commercial license relieves the Licensee of that obligation. The Licensee can:
+- modify the Licensed Software internally
+- embed the Licensed Software in the Licensee's proprietary product
+- distribute the Licensee's proprietary product to customers
+- run the Licensed Software as a network service for customers
+- keep the Licensee's modifications and the Licensee's product source code closed and proprietary
+
+2.3 Field of use: {{LICENSE_FIELD_OF_USE}}.
+
+2.4 Territory: {{LICENSE_TERRITORY}}.
+
+2.5 Term: {{LICENSE_TERM}}.
+
+2.6 Sublicensing: {{LICENSE_SUBLICENSE_RIGHTS}}.
+
+2.7 Reservation of rights. The Licensor retains ownership of the Licensed Software. The Licensee gets only the rights expressly granted. The Licensee's modifications belong to the Licensee, but cannot be used to re-license the underlying Licensor-owned code under more restrictive terms.
+
+ARTICLE 3 — RESTRICTIONS
+
+3.1 One license at a time. The Licensee may use the Licensed Software under either this commercial license OR the GPLv3, but not both for the same use case. If the Licensee chooses the GPLv3 for any particular use, the GPLv3 governs that use, and this commercial license does not.
+
+3.2 No fork rebranding under different OSS license. The Licensee can't fork the Licensed Software, rebrand it, and re-distribute the fork under a different name. Forking is allowed under GPLv3 (because GPLv3 allows forks), but forking has to happen under GPLv3 — not under this commercial license.
+
+3.3 No re-licensing to third parties. The Licensee can't grant sub-licenses to third parties under this commercial license. Each commercial user must purchase its own commercial license. The exception is the Licensee's right to distribute the Licensed Software embedded inside the Licensee's proprietary product (where the end users are using the Licensee's product, not the Licensed Software directly).
+
+3.4 No removal of attribution. The Licensee will preserve the Licensor's copyright notices in the Licensed Software's source files. The Licensee will include a "Powered by [Licensor]" attribution in the Licensee's product credits or About screen.
+
+3.5 No use to compete with the Licensor's hosted service. If the Licensor offers a hosted / SaaS version of the Licensed Software, the Licensee can't use this commercial license to operate a competing standalone hosted / SaaS version of the same software targeting the same customers. The Licensee's product can include the Licensed Software as a back-end component, but the Licensee's product must be substantially more than just hosting the Licensed Software.
+
+3.6 No tampering with telemetry without disclosure. If the Licensed Software includes telemetry, the Licensee may disable telemetry, but the Licensee will inform the Licensor by emailing the address in Section 9.3 if the Licensee disables telemetry across more than 50 production instances.
+
+ARTICLE 4 — FEES
+
+4.1 Annual commercial license fee. The Licensee pays an annual commercial license fee of {{LICENSE_UPFRONT_FEE}}, payable on the Effective Date and on each anniversary thereof during the Term.
+
+4.2 Per-instance pricing. The annual fee is calculated based on the number of production instances (databases, clusters, or cloud-deployed engines) the Licensee runs. The Licensee's instance count and pricing tier are recorded on the order. If the Licensee scales beyond the contracted instance tier, the Licensee will true up to the next tier within thirty (30) days.
+
+4.3 Optional support tier. The Licensee can purchase an optional 24x7 enterprise support tier at the Licensor's standard rates. Enterprise support gives the Licensee access to the Licensor's support engineers, prioritized bug fixes, and an SLA on response times.
+
+4.4 No per-end-user royalty. The fee is based on the Licensee's instance count, not on the number of the Licensee's end users or end customers.
+
+4.5 Late payment. Late payments accrue interest at one and one-half percent (1.5%) per month or the maximum permitted by law.
+
+4.6 Free re-licensing of contributions. If the Licensee contributes code back to the Licensed Software (a "Contribution"), the Licensee grants the Licensor a perpetual, royalty-free, sublicensable license to incorporate the Contribution into the Licensed Software and license it under both GPLv3 and the commercial license. The Licensee retains ownership but doesn't get a fee credit for Contributions.
+
+ARTICLE 5 — RECORDS AND AUDIT
+
+5.1 Instance count records. The Licensee will maintain accurate records of the production instances of the Licensed Software the Licensee runs.
+
+5.2 Audit right. The Licensor may, on thirty (30) days' written notice and not more than {{LICENSE_AUDIT_FREQUENCY}}, request a written self-certification from the Licensee identifying the number of production instances. The Licensor may, in addition, engage an independent auditor at the Licensor's expense (unless the audit reveals an undercount of more than 10%, in which case the Licensee bears the cost).
+
+5.3 True-up. If the audit shows more instances than the contracted tier, the Licensee pays the difference for the period of overuse plus interest.
+
+ARTICLE 6 — CONFIDENTIALITY
+
+6.1 The Licensed Software source code is open source and not confidential. The Licensee's contractual pricing and instance count are confidential.
+
+6.2 Each party will hold the other party's pricing, business terms, and roadmap in confidence and won't disclose them to third parties without consent.
+
+6.3 If the Licensor offers the Licensee any pre-release builds, the Licensee will treat them as confidential until the Licensor releases them publicly.
+
+ARTICLE 7 — WARRANTIES AND INDEMNIFICATION
+
+7.1 The Licensor's warranties. The Licensor warrants that:
+- the Licensor has the right to grant this commercial license
+- the Licensed Software, as published by the Licensor under the commercial license track, does not knowingly infringe any third-party copyright or patent
+- the Licensor will use reasonable efforts to fix critical security vulnerabilities and issue patches during the Term
+
+7.2 No warranty of merchantability. EXCEPT FOR THE WARRANTIES IN SECTION 7.1, THE LICENSED SOFTWARE IS PROVIDED "AS IS." NO IMPLIED WARRANTIES.
+
+7.3 Infringement indemnification. The Licensor will defend the Licensee against any third-party claim that the Licensed Software (as published by the Licensor under the commercial track, excluding the Licensee's modifications and any third-party plugins not published by the Licensor) infringes the third party's copyright or patent. Cap: two times (2x) the annual fee paid in the prior twelve months.
+
+7.4 Mitigation. If the Licensed Software is subject to an infringement claim, the Licensor may, at its option, (a) procure for the Licensee the right to continue using, (b) replace the infringing portion with non-infringing functionality, or (c) terminate the license and refund the prorated unused portion of the annual fee.
+
+7.5 Licensee indemnification. The Licensee will indemnify the Licensor for any claim arising from the Licensee's modifications, the Licensee's product (other than the unmodified Licensed Software), or the Licensee's use outside the licensed scope.
+
+7.6 Liability cap. Neither party's total liability under this License (other than the indemnification in Section 7.3 and willful misconduct) exceeds the annual fees paid in the prior twelve (12) months. Neither party is liable for indirect, consequential, special, or punitive damages.
+
+ARTICLE 8 — TERM AND TERMINATION OF LICENSE
+
+8.1 Term. The initial Term is one (1) year from the Effective Date, automatically renewing for successive one-year terms unless either party gives at least sixty (60) days' notice of non-renewal.
+
+8.2 Termination for material breach. Either party may terminate if the other materially breaches and doesn't cure within thirty (30) days.
+
+8.3 Termination for non-payment. The Licensor may terminate if the Licensee fails to pay the annual fee within thirty (30) days of the due date.
+
+8.4 Effect of termination. After termination:
+- the Licensee may continue to use the Licensed Software, but only under the GPLv3, meaning the Licensee will be subject to the GPL's source-code disclosure obligations
+- if the Licensee chooses not to comply with GPLv3, the Licensee will stop using the Licensed Software within ninety (90) days
+- the Licensee has a sell-off / wind-down period of six (6) months to update the Licensee's product to remove or replace the Licensed Software, or to comply with the GPLv3
+- the Licensee will pay all amounts due through the date of termination
+
+8.5 No refund. Annual fees are non-refundable except for the proration in Section 7.4(c).
+
+8.6 Survival. Articles 3.2 (no fork-rebranding), 3.5 (no competing hosted service), 6, 7, 8.4, and 9 survive termination.
+
+ARTICLE 9 — MISCELLANEOUS
+
+9.1 Governing law: {{GOVERNING_LAW_STATE}}.
+9.2 Disputes: state or federal courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+9.3 Notices to the email address on file with the Licensor.
+9.4 Assignment by Licensor to a successor permitted; otherwise requires consent.
+9.5 Entire agreement.
+9.6 No waiver.
+9.7 Counterparts and electronic signatures.
+
+Signed:
+
+{{PROVIDER_NAME}}                                    {{CUSTOMER_NAME}}
+
+________________________                            ________________________
+Name:                                                Name:
+Title:                                               Title:

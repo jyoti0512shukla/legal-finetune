@@ -1,0 +1,302 @@
+{
+  "type": "EMPLOYMENT",
+  "task": "drafting",
+  "total_examples": 83,
+  "total_contracts": 25,
+  "per_clause_type_counts": {
+    "compensation": 25,
+    "termination": 25,
+    "restrictive_covenants": 7,
+    "intellectual_property": 3,
+    "confidentiality": 4,
+    "position_duties": 6,
+    "change_in_control": 3,
+    "severance": 8,
+    "dispute_resolution": 2
+  },
+  "contracts": [
+    {
+      "template": "CLAUDE_Apex_SportsTalent_ImageRights_BigLaw_mid_market_25",
+      "industry": "sports_entertainment_talent_contract",
+      "deal_size": "mid_market",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "restrictive_covenants"
+      ]
+    },
+    {
+      "template": "CLAUDE_Atlantic_TenureTrackProf_FL_BigLaw_mid_market_19",
+      "industry": "fl_state_university_tenured_faculty",
+      "deal_size": "mid_market",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "intellectual_property"
+      ]
+    },
+    {
+      "template": "CLAUDE_BluePine_NurseOfferLetter_WA_PlainEng_smb_16",
+      "industry": "wa_nurse_unionized_hospital",
+      "deal_size": "smb",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_Boulder_GraduateEng_OfferLetter_PlainEng_smb_13",
+      "industry": "early_career_engineer_ca_offer",
+      "deal_size": "smb",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_BridgeWorks_HRMaster_OfferAddenda_ModularForm_mid_market_11",
+      "industry": "hr_master_template_with_addenda",
+      "deal_size": "mid_market",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "position_duties"
+      ]
+    },
+    {
+      "template": "CLAUDE_Cascadia_BiotechGC_BC_LetterAgreement_enterprise_03",
+      "industry": "canadian_biotech_clinical_stage",
+      "deal_size": "enterprise",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "restrictive_covenants"
+      ]
+    },
+    {
+      "template": "CLAUDE_Centurion_PE_RolloverCEO_CustomerPaper_enterprise_09",
+      "industry": "private_equity_portfolio_company_industrial",
+      "deal_size": "enterprise",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "change_in_control"
+      ]
+    },
+    {
+      "template": "CLAUDE_Driftless_RemoteDesigner_ModernTechMin_smb_08",
+      "industry": "remote_first_design_tools_saas",
+      "deal_size": "smb",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_Gridline_UtilityCOO_NERC_BigLaw_enterprise_24",
+      "industry": "investor_owned_utility_coo",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "severance",
+        "position_duties"
+      ]
+    },
+    {
+      "template": "CLAUDE_Helix_PreIPO_CPO_VestingMilestone_BigLaw_enterprise_20",
+      "industry": "ca_pre_ipo_unicorn_cpo",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "severance",
+        "change_in_control"
+      ]
+    },
+    {
+      "template": "CLAUDE_Ironclad_FedClearedExec_DC_BigLaw_enterprise_21",
+      "industry": "dc_federal_contractor_security_clearance",
+      "deal_size": "enterprise",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "position_duties"
+      ]
+    },
+    {
+      "template": "CLAUDE_Lattice_HRPlatformOffer_ClickThrough_smb_05",
+      "industry": "saas_startup_using_hr_platform",
+      "deal_size": "smb",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "position_duties"
+      ]
+    },
+    {
+      "template": "CLAUDE_Marlowe_InvestBankMD_NYC_BigLaw_enterprise_18",
+      "industry": "nyc_investment_bank_md",
+      "deal_size": "enterprise",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "restrictive_covenants"
+      ]
+    },
+    {
+      "template": "CLAUDE_Mercy_HospitalCMO_HIPAA_BigLaw_enterprise_23",
+      "industry": "hospital_chief_medical_officer",
+      "deal_size": "enterprise",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "position_duties"
+      ]
+    },
+    {
+      "template": "CLAUDE_NorthStar_FortuneRetailer_CDO_CustomerPaper_enterprise_10",
+      "industry": "fortune_500_retailer_dei",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "severance",
+        "position_duties"
+      ]
+    },
+    {
+      "template": "CLAUDE_PacificCrest_BankCEO_FixedTerm_enterprise_01",
+      "industry": "regulated_state_chartered_bank_holding",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "severance",
+        "restrictive_covenants"
+      ]
+    },
+    {
+      "template": "CLAUDE_PrairieLine_RemoteSalesRep_TX_OfferLetter_PlainEng_smb_15",
+      "industry": "tx_remote_sales_commission",
+      "deal_size": "smb",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "restrictive_covenants"
+      ]
+    },
+    {
+      "template": "CLAUDE_Quanta_AIResearcher_ClickThroughOffer_smb_06",
+      "industry": "ai_research_lab_offer",
+      "deal_size": "smb",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "intellectual_property"
+      ]
+    },
+    {
+      "template": "CLAUDE_Riverwalk_RestaurantMgr_OfferLetter_PlainEng_smb_14",
+      "industry": "ny_restaurant_nonexempt_manager",
+      "deal_size": "smb",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "dispute_resolution"
+      ]
+    },
+    {
+      "template": "CLAUDE_Sentinel_DefenseExecMaster_PerExec_ModularForm_enterprise_12",
+      "industry": "aerospace_defense_executive_master",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "severance",
+        "restrictive_covenants"
+      ]
+    },
+    {
+      "template": "CLAUDE_Skyline_AviationCFO_ArizonaPromoBumps_enterprise_04",
+      "industry": "regional_passenger_airline",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "severance",
+        "change_in_control"
+      ]
+    },
+    {
+      "template": "CLAUDE_Stripe_EarlyEngineer_ModernTechMin_smb_07",
+      "industry": "fintech_payments_startup_engineer",
+      "deal_size": "smb",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "confidentiality"
+      ]
+    },
+    {
+      "template": "CLAUDE_Tikal_IsraeliRD_Section14_BigLaw_enterprise_22",
+      "industry": "israeli_high_tech_rd_executive",
+      "deal_size": "enterprise",
+      "examples": 3,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "intellectual_property"
+      ]
+    },
+    {
+      "template": "CLAUDE_Vincenti_OilGasCEO_TexasArb_BigLaw_enterprise_17",
+      "industry": "midstream_petroleum_texas",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "severance",
+        "dispute_resolution"
+      ]
+    },
+    {
+      "template": "CLAUSE_Veridian_TechSVP_AtWill_TwoTierSeverance_enterprise_02",
+      "industry": "semiconductor_equipment_manufacturing",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "compensation",
+        "termination",
+        "severance",
+        "restrictive_covenants"
+      ]
+    }
+  ]
+}

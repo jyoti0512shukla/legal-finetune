@@ -1,0 +1,19 @@
+{
+  "source_template": "CLAUDE_ContractIQ_LegalTech_smb_13.txt",
+  "variation_index": 4,
+  "substitutions": {
+    "PROVIDER_NAME": "Fortis Cloud Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "PROVIDER_ADDRESS": "6056 Highland Street, Philadelphia, Pennsylvania 19440",
+    "CUSTOMER_NAME": "Evergreen Properties Inc.",
+    "CUSTOMER_STATE": "Pennsylvania",
+    "CUSTOMER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_ADDRESS": "8795 Summit Street, Philadelphia, Pennsylvania 19677",
+    "EFFECTIVE_DATE": "February 11, 2025",
+    "VENUE_COUNTY": "Philadelphia County",
+    "ANNUAL_FEE_AMOUNT": "Four Hundred Eighty Thousand United States Dollars ($480,000)",
+    "TERM_YEARS": "three (3)",
+    "NOTICE_DAYS": "ninety (90)"
+  }
+}

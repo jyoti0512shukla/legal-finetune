@@ -1,28 +1,35 @@
 {
-  "train_count": 248,
-  "val_count": 27,
-  "total": 275,
+  "train_count": 998,
+  "val_count": 110,
+  "total": 1108,
   "by_task": {
-    "drafting_clause": 200,
-    "drafting_full_contract": 48
+    "drafting_clause": 818,
+    "drafting_full_contract": 180
   },
   "by_contract_type": {
-    "MSA": 116,
-    "SAAS": 132
+    "NDA": 112,
+    "LICENSE": 135,
+    "DPA": 134,
+    "SAAS": 129,
+    "EMPLOYMENT": 95,
+    "MSA": 112,
+    "INDEPENDENT_CONTRACTOR": 142,
+    "SOW": 139
   },
   "by_drafting_style": {
-    "plain_english_common_paper": 28,
-    "customer_paper_negotiated": 25,
-    "biglaw_formal": 100,
-    "modern_tech_minimalist": 27,
-    "modular_order_form": 39,
-    "click_through_tos": 29
+    "biglaw_formal": 352,
+    "customer_paper_negotiated": 146,
+    "click_through_tos": 59,
+    "modern_tech_minimalist": 132,
+    "modular_order_form": 134,
+    "plain_english": 73,
+    "plain_english_common_paper": 102
   },
   "char_lens": {
-    "min": 1516,
-    "median": 3028,
-    "p95": 32250,
-    "max": 51895
+    "min": 1076,
+    "median": 2879,
+    "p95": 24044,
+    "max": 53517
   },
   "train_path": "/Users/jyotimishra/legal-finetune/data/v2/training/v2_train.jsonl",
   "val_path": "/Users/jyotimishra/legal-finetune/data/v2/training/v2_val.jsonl"

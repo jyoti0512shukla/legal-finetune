@@ -1,0 +1,191 @@
+DATA PROCESSING ADDENDUM (REGULATED BANK CUSTOMER PAPER)
+
+This Data Processing Addendum (this "DPA") is entered into as of {{EFFECTIVE_DATE}} (the "DPA Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Processor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Bank" or the "Controller"). This DPA is the Bank's standard form of data processing addendum for service-provider engagements involving Bank customer data and shall be governed by the Bank's negotiated terms set forth herein.
+
+This DPA forms part of, and is incorporated into, the {{PARENT_AGREEMENT_NAME}} between the Parties dated {{PARENT_AGREEMENT_DATE}} (the "Agreement"). All capitalized terms used but not defined in this DPA have the meanings given to them in the Agreement, in the Gramm-Leach-Bliley Act ("GLBA"), in the Interagency Guidelines, or in Article 1 below. In the event of any conflict between this DPA and the Agreement, this DPA shall control with respect to the Processing of Personal Information and Nonpublic Personal Information; the Agreement shall control with respect to all other matters not modified by this DPA.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Applicable Privacy Law" means, collectively, (a) the Gramm-Leach-Bliley Act, 15 U.S.C. §§ 6801-6809 (the "GLBA"), (b) the Interagency Guidelines Establishing Information Security Standards (12 C.F.R. Part 30, Appendix B) (the "Interagency Guidelines"), (c) the FFIEC IT Examination Handbook, (d) OCC Bulletin 2013-29 (Third-Party Relationships: Risk Management Guidance) and OCC Bulletin 2020-10, (e) the New York Department of Financial Services Cybersecurity Regulation (23 NYCRR Part 500), (f) the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act ("CCPA / CPRA"), and (g) any successor or implementing legislation, in each case as amended.
+
+1.2 "Bank Customer Data" means any Personal Information or Nonpublic Personal Information (NPI) Processed by the Processor on behalf of the Bank under the Agreement.
+
+1.3 "Nonpublic Personal Information" or "NPI" has the meaning set forth in 12 C.F.R. Part 30, Appendix B and includes any nonpublic personal information about the Bank's customers within the meaning of the GLBA.
+
+1.4 "Personal Information" has the meaning set forth in Cal. Civ. Code § 1798.140(v).
+
+1.5 "Service Provider" has the meaning set forth in Cal. Civ. Code § 1798.140(ag), and the Processor is engaged as a Service Provider with respect to Personal Information that is subject to the CCPA / CPRA.
+
+1.6 "Regulator" means the Office of the Comptroller of the Currency, the Federal Reserve System, the Federal Deposit Insurance Corporation, the Consumer Financial Protection Bureau, the Financial Crimes Enforcement Network, any state banking regulator with jurisdiction over the Bank, and any other governmental authority with examination or enforcement authority over the Bank.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES
+
+2.1 Roles. With respect to the Processing of Bank Customer Data under the Agreement, the Bank is the Controller and the Processor is the Processor (and a Service Provider for CCPA / CPRA purposes). Any Sub-processor engaged in accordance with Article 6 is a Sub-processor.
+
+2.2 Documented Instructions. The Processor shall Process Bank Customer Data only on documented instructions from the Bank, set forth in (a) the Agreement, (b) this DPA, and (c) any further documented instructions from the Bank from time to time. The Processor shall not Process Bank Customer Data for any purpose other than providing the services to the Bank as expressly set forth in the Agreement.
+
+2.3 No Sale or Secondary Use. The Processor shall not (a) Sell or Share Bank Customer Data within the meaning of the CCPA / CPRA, (b) retain, use, or disclose Bank Customer Data for any purpose other than the specific business purpose of providing the services, (c) retain, use, or disclose Bank Customer Data outside of the direct business relationship between the Bank and the Processor, (d) combine Bank Customer Data with personal information from any other source, or (e) use Bank Customer Data to train, fine-tune, or evaluate any artificial intelligence or machine learning model, in each case without the Bank's express prior written consent.
+
+2.4 Notification of Conflicting Instructions. The Processor shall promptly notify the Bank in writing if any Bank instruction would, in the Processor's reasonable opinion, violate Applicable Privacy Law.
+
+ARTICLE 3 — SCOPE OF PROCESSING
+
+3.1 Subject Matter and Duration. The subject matter is the provision of the services described in the Agreement. The duration shall be the term of the Agreement plus the wind-down period in Article 12.
+
+3.2 Nature and Purpose. The nature and purpose of the Processing are {{PROCESSING_PURPOSE}}, as more fully described in Annex I.
+
+3.3 Categories of NPI / Personal Information. The categories include {{DATA_CATEGORIES}}.
+
+3.4 Categories of Data Subjects. The categories include {{DATA_SUBJECT_CATEGORIES}}.
+
+ARTICLE 4 — PROCESSOR OBLIGATIONS
+
+4.1 Compliance. The Processor shall Process Bank Customer Data in accordance with this DPA and Applicable Privacy Law applicable to the Processor's role.
+
+4.2 Personnel Confidentiality. The Processor shall ensure that personnel authorized to Process Bank Customer Data have undergone background checks (including credit history checks where applicable to personnel handling sensitive Bank data) and are bound by confidentiality undertakings. Access shall be limited on a need-to-know basis.
+
+4.3 Onshore-Only Personnel. All Processor personnel with access to Bank Customer Data shall be physically located in the contiguous United States and shall be U.S. citizens or lawful permanent residents, unless the Bank expressly consents in writing to other locations. This restriction is material to the Bank's compliance with the Interagency Guidelines and the OCC's third-party risk management guidance.
+
+4.4 No Sale, Sharing, or Secondary Use. As set forth in Section 2.3.
+
+4.5 Cooperation with Regulators. The Processor shall cooperate with the Bank's Regulators in connection with any examination, supervisory action, or investigation that pertains to the services provided under the Agreement.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES (INTERAGENCY GUIDELINES)
+
+5.1 Information Security Program. The Processor shall develop, implement, and maintain a comprehensive written information security program containing administrative, technical, and physical safeguards appropriate to the size and complexity of the Processor and the nature and scope of its activities, in accordance with the Interagency Guidelines (12 C.F.R. Part 30, Appendix B). The program shall include the elements set forth in Annex II.
+
+5.2 Encryption. The Processor shall apply encryption to NPI both in transit (TLS 1.2 or higher) and at rest (AES-256 or stronger), as further described in Annex II.
+
+5.3 NYDFS Cybersecurity Regulation. To the extent the Processor is a "Third Party Service Provider" within the meaning of 23 NYCRR § 500.11, the Processor shall comply with the requirements applicable to Third Party Service Providers under that section, including written policies and procedures and risk assessments.
+
+5.4 Annual SOC 2 Type II audit. Annual ISO 27001 certification. Annual third-party penetration testing. Quarterly internal vulnerability scans.
+
+5.5 Documented Business Continuity Plan with stated RTO/RPO and annual testing.
+
+ARTICLE 6 — SUB-PROCESSORS
+
+6.1 Specific Authorization Required. The Bank's specific written authorization is required for any Sub-processor that Processes Bank Customer Data. The currently authorized Sub-processors are listed in Annex III.
+
+6.2 Notice and Consent. The Processor shall give the Bank at least sixty (60) days' written notice before engaging any new or replacement Sub-processor and shall obtain the Bank's prior written consent. The Bank may withhold consent in its reasonable discretion. Silence by the Bank for sixty (60) days following notice shall not be deemed consent.
+
+6.3 Right to Terminate. If the Bank withholds consent to a new Sub-processor, the Bank may terminate the affected portion of the Agreement on written notice without penalty.
+
+6.4 Sub-processor Obligations. Each Sub-processor shall be subject to a written agreement with data protection and information security obligations equivalent in substance to those imposed on the Processor under this DPA. The Processor shall, on the Bank's request, make a copy of the Sub-processor agreement available to the Bank.
+
+6.5 Primary Liability. The Processor shall remain primarily liable for the acts and omissions of its Sub-processors as if such acts and omissions were the Processor's own.
+
+ARTICLE 7 — DATA SUBJECT / CONSUMER RIGHTS
+
+7.1 GLBA Privacy Notices. The Processor shall not be responsible for the Bank's GLBA privacy notice obligations to the Bank's customers, but shall provide reasonable assistance to the Bank's GLBA privacy program on request.
+
+7.2 CCPA / CPRA Consumer Rights. The Processor shall provide reasonable assistance to the Bank in fulfilling the Bank's obligations under the CCPA / CPRA with respect to consumer rights, including the rights of access, deletion, correction, opt-out of sale or sharing, and limit use of sensitive personal information.
+
+7.3 Forwarding of Requests. If the Processor receives a Data Subject or consumer request directly, the Processor shall forward it to the Bank within five (5) business days and shall not respond directly.
+
+ARTICLE 8 — INCIDENT NOTIFICATION
+
+8.1 Notification Obligation. The Processor shall notify the Bank without unreasonable delay and in any event within {{BREACH_NOTIFICATION_HOURS}} hours after discovering any unauthorized access to, use of, or disclosure of Bank Customer Data, in accordance with the Interagency Guidelines and the Bank's incident response policies.
+
+8.2 Content of Notification. The notification shall include the categories and approximate number of Bank customers affected, the categories and approximate number of NPI records affected, the contact point at the Processor, the likely consequences, and the measures taken or proposed.
+
+8.3 Cooperation with Bank and Regulators. The Processor shall cooperate with the Bank in investigating, remediating, and reporting the incident, including any reporting required to Regulators under the Interagency Guidelines, the Computer-Security Incident Notification Requirements (12 C.F.R. § 53), and the NYDFS Cybersecurity Regulation.
+
+8.4 Records. The Processor shall maintain a record of all incidents and shall make such records available to the Bank and to Regulators on request.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS / RISK ASSESSMENTS
+
+9.1 Bank Risk Assessments. The Processor shall provide reasonable assistance to the Bank in conducting risk assessments of the services under the Bank's third-party risk management program, including the risk assessments required by the OCC's third-party risk management guidance.
+
+9.2 CCPA / CPRA Risk Assessments. The Processor shall provide reasonable assistance to the Bank in conducting privacy risk assessments under the CCPA / CPRA.
+
+ARTICLE 10 — DATA LOCATION
+
+10.1 US Data Residency. Bank Customer Data shall be Processed and stored exclusively in the contiguous United States. The Processor shall not transfer Bank Customer Data outside of the contiguous United States without the Bank's prior written consent.
+
+10.2 Data Residency Designation. Bank Customer Data is hosted in: {{DATA_RESIDENCY_REGION}}.
+
+ARTICLE 11 — AUDIT RIGHTS AND REGULATOR ACCESS
+
+11.1 Bank Audit Right. The Bank shall have the right to audit the Processor's compliance with this DPA, the Interagency Guidelines, and the OCC's third-party risk management guidance.
+
+11.2 Notice and Frequency. Audits shall be conducted no more than once per twelve (12) month period (except in connection with an incident, a Regulator directive, or reasonable grounds to believe the Processor is materially non-compliant). The Bank shall provide at least {{AUDIT_NOTICE_DAYS}} days' prior written notice, except in the case of an emergency audit.
+
+11.3 Regulator Access. The Bank's Regulators shall have the right to examine the Processor's books, records, facilities, and personnel relating to the services on substantially the same terms and to substantially the same extent as such Regulators may examine the Bank itself, in accordance with the Bank Service Company Act (12 U.S.C. § 1867) and OCC Bulletin 2013-29. The Processor shall cooperate fully with any Regulator examination at no additional charge.
+
+11.4 Third-Party Audit Reports. The Processor shall make available to the Bank, at no charge, the most recent SOC 2 Type II report, ISO 27001 certificate, and SOC 1 Type II report (if applicable).
+
+11.5 Scope Limitations. Audits shall not require disclosure of other customers' data or the Processor's trade secrets, but the Processor shall not assert such limitations to obstruct any Regulator examination.
+
+ARTICLE 12 — DELETION OR RETURN OF BANK CUSTOMER DATA
+
+12.1 End of Provision of Services. Upon the end of the provision of the services under the Agreement, the Processor shall, at the Bank's choice, delete or return all Bank Customer Data and shall delete all existing copies, unless retention is required by Applicable Privacy Law (including the Bank's records retention obligations under banking regulations).
+
+12.2 Certification. The Processor shall certify in writing to the Bank that it has deleted Bank Customer Data in accordance with this Article 12.
+
+12.3 Backup Exception. Backup or archival copies retained per the Processor's retention schedule remain subject to the confidentiality and security obligations of this DPA.
+
+12.4 Wind-Down Period. The Processor shall complete the deletion or return within thirty (30) days following the end of the provision of services.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+13.1 Term. This DPA shall commence on the DPA Effective Date and shall continue for the term of the Agreement plus the wind-down period.
+
+13.2 Termination for Material Breach. The Bank may terminate this DPA and the Agreement if the Processor has materially violated this DPA and has not cured within thirty (30) days following written notice.
+
+13.3 Survival. Articles 8, 11 (including Regulator Access), and 12 shall survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+14.1 Incorporation. This DPA is incorporated into and forms part of the Agreement.
+
+14.2 Order of Precedence. In the event of any conflict, this DPA controls with respect to the Processing of NPI and Personal Information; the Agreement controls with respect to all other matters not modified by this DPA.
+
+14.3 No Limitation of Bank Rights. Nothing in this DPA shall be construed to limit the Bank's rights under Applicable Privacy Law or the Bank's regulatory obligations.
+
+14.4 Counterparts and Execution. This DPA may be executed in counterparts.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+Parties: Bank / Controller is {{CUSTOMER_NAME}}; Processor is {{PROVIDER_NAME}}.
+Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+Categories of Personal Information / NPI: {{DATA_CATEGORIES}}.
+Sensitive Data: NPI is sensitive personal information within the meaning of the GLBA and the CCPA / CPRA.
+Frequency: continuous.
+Nature: {{PROCESSING_PURPOSE}}.
+Purpose: providing the services to the Bank in support of the Bank's customer relationships.
+Retention: for the term of the Agreement plus the wind-down period plus any retention required by banking records regulations.
+
+ANNEX II — INFORMATION SECURITY PROGRAM
+
+The Processor's information security program is consistent with the Interagency Guidelines (12 C.F.R. Part 30, Appendix B) and includes:
+
+1. Designated security officer responsible for the program.
+2. Risk assessment to identify reasonably foreseeable internal and external threats.
+3. Risk management policies and procedures, including access controls, encryption, monitoring, and incident response.
+4. Third-party service provider oversight.
+5. Periodic testing of safeguards (annual SOC 2 Type II, annual ISO 27001 surveillance, annual penetration testing, quarterly vulnerability scans).
+6. Personnel training on information security, including annual GLBA privacy training.
+7. Encryption: TLS 1.2+ in transit, AES-256 at rest.
+8. Access controls: SSO + MFA, role-based, least privilege.
+9. Network security: production / non-production segregation, WAF, DDoS protection.
+10. Personnel security: background checks (including credit history where applicable), confidentiality undertakings, US-person personnel for any access to Bank Customer Data.
+11. Data residency: hosted in {{DATA_RESIDENCY_REGION}}, contiguous US only.
+12. Incident response: documented incident response plan. Notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+The current list of authorized Sub-processors is maintained at the Processor's trust center. Each Sub-processor that may have access to Bank Customer Data is subject to specific Bank consent under Article 6.
+
+IN WITNESS WHEREOF, the Parties have executed this DPA as of the DPA Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

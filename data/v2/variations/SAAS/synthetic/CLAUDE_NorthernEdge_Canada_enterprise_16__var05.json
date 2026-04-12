@@ -1,0 +1,20 @@
+{
+  "source_template": "CLAUDE_NorthernEdge_Canada_enterprise_16.txt",
+  "variation_index": 5,
+  "substitutions": {
+    "PROVIDER_NAME": "Quantix Data Systems, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "PROVIDER_ADDRESS": "478 Northgate Street, Denver, Colorado 80413",
+    "CUSTOMER_NAME": "Pacific Trade Corporation",
+    "CUSTOMER_ENTITY_TYPE": "limited partnership",
+    "CUSTOMER_ADDRESS": "3368 Highland Street, Denver, Colorado 80398",
+    "EFFECTIVE_DATE": "May 6, 2025",
+    "GOVERNING_LAW_STATE": "Colorado",
+    "VENUE_COUNTY": "Denver County",
+    "ANNUAL_FEE_AMOUNT": "One Hundred Twenty Thousand United States Dollars ($120,000)",
+    "TERM_YEARS": "five (5)",
+    "NOTICE_DAYS": "thirty (30)",
+    "IMPLEMENTATION_FEE": "Ten Thousand United States Dollars ($10,000)"
+  }
+}

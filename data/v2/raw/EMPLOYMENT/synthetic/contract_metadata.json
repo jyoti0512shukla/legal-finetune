@@ -1,0 +1,789 @@
+{
+  "_description": "Per-contract metadata for the EMPLOYMENT bucket. Captures industry, employer type, executive vs non-executive role, jurisdiction, deal size (a proxy for compensation tier), negotiation bias, regulatory frameworks, special features, and the canonical drafting style. Read alongside entity_maps.json and the per-contract tokenized templates in ../../tokenized/EMPLOYMENT/synthetic/. Note: in this bucket the CUSTOMER slot holds the EMPLOYEE (always preserved as a special customer type) and the PROVIDER slot holds the EMPLOYER. Use party_roles to relabel for the brief — typically {provider: 'Company', customer: 'Executive'} or {provider: 'Company', customer: 'Employee'}.",
+
+  "CLAUDE_PacificCrest_BankCEO_FixedTerm_enterprise_01": {
+    "industry": "regulated_state_chartered_bank_holding",
+    "industry_label": "California state-chartered bank holding company hiring its CEO under a dual-entity structure (parent holding company + subsidiary bank)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "regulated_banking_executive_employer",
+    "agreement_label_override": "executive employment agreement (CEO of a California state-chartered bank holding company and its subsidiary bank)",
+    "party_roles": {"provider": "Company", "customer": "Executive"},
+    "regulatory_frameworks": [
+      "California Financial Code",
+      "Federal Reserve Act / FDIC examination authority",
+      "Dodd-Frank Wall Street Reform and Consumer Protection Act § 954 (clawback)",
+      "SEC executive compensation clawback rules (17 CFR § 240.10D-1)",
+      "California Business & Professions Code § 16600 (post-employment non-compete ban)",
+      "California Labor Code § 2870 (employee invention exemption)",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b) whistleblower notice)"
+    ],
+    "special_features": [
+      "two-party employer structure (Pacific Crest Bancorp as Delaware holding company, Pacific Crest Bank as California state-chartered subsidiary)",
+      "three-year fixed initial term with auto-renewal for successive one-year additional terms unless 90 days' prior non-renewal notice",
+      "Dodd-Frank § 954 banking clawback covering incentive comp recoverable on accounting restatement",
+      "separate Change in Control Agreement referenced and not superseded by this employment agreement",
+      "California 16600 acknowledgment — no post-employment non-compete; non-solicit limited to bank customers and named officers",
+      "dual-board reporting (Bancorp Board + Bank Board) with Executive Chairman supervision"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "restrictive covenants",
+      "severance"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUSE_Veridian_TechSVP_AtWill_TwoTierSeverance_enterprise_02": {
+    "industry": "semiconductor_equipment_manufacturing",
+    "industry_label": "Massachusetts public-company semiconductor and vacuum-instrumentation manufacturer hiring a Senior Vice President / General Manager",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "public_company_executive_employer",
+    "agreement_label_override": "amended and restated executive employment agreement (Massachusetts at-will senior vice president)",
+    "party_roles": {"provider": "Company", "customer": "Executive"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "Massachusetts Noncompetition Agreement Act (M.G.L. c. 149, § 24L) — 2018 reform",
+      "Internal Revenue Code § 409A (deferred compensation timing)",
+      "Internal Revenue Code § 4980D (excise tax on discriminatory health plans)",
+      "Internal Revenue Code § 280G (golden parachute excise tax)",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b) whistleblower notice)",
+      "Sarbanes-Oxley Act § 304 (forfeiture of bonuses on accounting restatement)"
+    ],
+    "special_features": [
+      "two-tier severance structure: Ordinary Severance (12 months base + 12 months COBRA contribution for termination without Cause due to business needs) and Enhanced Severance (1.5x base + 1.5x bonus + 18 months COBRA + accelerated equity vesting on CIC double-trigger)",
+      "Massachusetts Noncompetition Agreement Act compliance — non-compete signed at least 10 business days before employment commences, garden leave consideration of 50% base salary during the restricted period",
+      "IRC § 4980D carve-out preventing the Company from paying COBRA contribution if it would trigger discriminatory health plan excise tax",
+      "30-day garden-leave-lite payment if Company accelerates Employment End Date after Executive's resignation notice",
+      "no-mitigation clause: severance not reduced by post-termination earnings",
+      "separate Confidential Information, Intellectual Property and Non-Solicitation Agreement referenced as Attachment A"
+    ],
+    "primary_clause_focus": [
+      "severance",
+      "change in control",
+      "restrictive covenants"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Cascadia_BiotechGC_BC_LetterAgreement_enterprise_03": {
+    "industry": "canadian_biotech_clinical_stage",
+    "industry_label": "Canadian clinical-stage biotech hiring an Executive Vice President, General Counsel under British Columbia provincial employment law",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "canadian_executive_employer",
+    "agreement_label_override": "executive employment agreement (Canadian biotech General Counsel under British Columbia Employment Standards Act)",
+    "party_roles": {"provider": "Company", "customer": "Executive"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "British Columbia Employment Standards Act (RSBC 1996, c. 113)",
+      "British Columbia Human Rights Code",
+      "British Columbia Workers Compensation Act",
+      "Personal Information Protection Act (BC) and PIPEDA (federal Canadian)",
+      "Canada Revenue Agency tax withholding requirements",
+      "Canada Pension Plan and Employment Insurance requirements"
+    ],
+    "special_features": [
+      "letter-agreement preamble format (\"Dear [Executive]:\") rather than the formal \"THIS EMPLOYMENT AGREEMENT is made...\" structure",
+      "BC ESA pass-through with explicit acknowledgment of statutory minimum severance entitlements",
+      "\"Actively Employed\" defined-term mechanism limiting equity vesting and bonus eligibility through statutory and common-law notice periods",
+      "indefinite-term employment (no at-will doctrine in Canada; employer can terminate only for cause or with reasonable notice)",
+      "Full and Final Release of all employment-related claims included as Schedule C, executable on termination",
+      "right-to-work-in-Canada conditions precedent and background check contingency",
+      "common-law reasonable-notice acknowledgment integrated with statutory minimums under BC ESA"
+    ],
+    "primary_clause_focus": [
+      "severance",
+      "restrictive covenants",
+      "compensation"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Skyline_AviationCFO_ArizonaPromoBumps_enterprise_04": {
+    "industry": "regional_passenger_airline",
+    "industry_label": "Arizona-based US regional passenger airline hiring a Senior Vice President of Finance with a CFO promotion track",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "negotiation_bias": "provider_friendly",
+    "customer_type": "aviation_executive_employer",
+    "agreement_label_override": "executive employment agreement (regional airline SVP-Finance with CFO promotion track)",
+    "party_roles": {"provider": "Company", "customer": "Executive"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "14 CFR Part 121 (FAA air carrier certification regime)",
+      "DOT economic regulation of air carriers",
+      "Internal Revenue Code § 280G (golden parachute excise tax)",
+      "Internal Revenue Code § 4999 (excise tax on excess parachute payments)",
+      "Internal Revenue Code § 409A (deferred compensation timing)",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b) whistleblower notice)"
+    ],
+    "special_features": [
+      "promotion auto-bumps: base salary, target bonus, and annual equity grant each step up automatically on promotion to CFO or 18-month tenure anniversary",
+      "across-the-board reduction clause permitting proportional comp cuts if other officers also take cuts (no greater percentage than peer reductions)",
+      "Section 280G gross-up payment covering both the IRC § 4999 excise tax and the additional federal income tax on the gross-up itself (legacy provision)",
+      "relocation expense reimbursement with full clawback if Executive resigns or is terminated for Cause within 12 months",
+      "industry-specific perk: complimentary flight benefits on Company aircraft and reciprocal carriers for Executive and immediate family",
+      "Article-based structure (ARTICLE I, ARTICLE II, etc.) rather than flat numbered sections — common in older US executive contracts"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "change in control",
+      "position duties"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Lattice_HRPlatformOffer_ClickThrough_smb_05": {
+    "industry": "saas_startup_using_hr_platform",
+    "industry_label": "early-stage SaaS startup onboarding a sales rep through an HR platform's click-through offer letter flow",
+    "deal_size": "smb",
+    "currency": "USD",
+    "negotiation_bias": "provider_friendly",
+    "customer_type": "individual_offer_letter",
+    "agreement_label_override": "click-through offer letter for at-will employment (HR platform onboarding flow)",
+    "party_roles": {"provider": "Company", "customer": "Employee"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "Internal Revenue Code § 409A (deferred compensation timing)",
+      "Form I-9 employment eligibility verification",
+      "Form W-4 tax withholding"
+    ],
+    "special_features": [
+      "click-through I Accept flow with no signature blocks",
+      "incorporates HR platform's separate handbook and benefit plan summaries by reference",
+      "I-9 and W-4 acknowledgments built into the click flow",
+      "30-day rescission window for sign-on bonus if Employee fails background check"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "position_duties",
+      "confidentiality"
+    ],
+    "drafting_style": "click_through_tos"
+  },
+
+  "CLAUDE_Quanta_AIResearcher_ClickThroughOffer_smb_06": {
+    "industry": "ai_research_lab_offer",
+    "industry_label": "AI research lab onboarding a research scientist through a click-through offer flow with model-output IP assignment",
+    "deal_size": "smb",
+    "currency": "USD",
+    "negotiation_bias": "provider_friendly",
+    "customer_type": "individual_engineer",
+    "agreement_label_override": "click-through offer letter for an AI research scientist",
+    "party_roles": {"provider": "Lab", "customer": "Researcher"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b))",
+      "Internal Revenue Code § 83(b) election notice",
+      "Patent Act invention assignment"
+    ],
+    "special_features": [
+      "AI-specific IP assignment covering model weights, training data, prompts, and model outputs",
+      "publication policy: Lab right of first review with 60-day publication delay window",
+      "no model output sharing on social media or external benchmarks pre-release",
+      "click-through acceptance tied to access provisioning for the Lab's compute environment"
+    ],
+    "primary_clause_focus": [
+      "intellectual_property",
+      "confidentiality",
+      "compensation"
+    ],
+    "drafting_style": "click_through_tos"
+  },
+
+  "CLAUDE_Stripe_EarlyEngineer_ModernTechMin_smb_07": {
+    "industry": "fintech_payments_startup_engineer",
+    "industry_label": "early-stage fintech payments startup hiring a senior software engineer in modern tech voice",
+    "deal_size": "smb",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "individual_engineer",
+    "agreement_label_override": "modern-voice offer letter for an early-stage fintech engineer",
+    "party_roles": {"provider": "Company", "customer": "Employee"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "California Labor Code § 2870 (employee invention exemption)",
+      "California Business & Professions Code § 16600 (no post-employment non-compete)",
+      "Internal Revenue Code § 83(b) election for early-exercise stock options",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b))"
+    ],
+    "special_features": [
+      "modern Stripe-style plain voice with we and you pronouns",
+      "RSU plus early-exercise ISO mix with 1-year cliff and monthly vesting",
+      "sign-on bonus repayable on a sliding scale if Employee leaves within 24 months",
+      "explicit California 16600 acknowledgment with no post-employment non-compete"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "intellectual_property",
+      "confidentiality"
+    ],
+    "drafting_style": "modern_tech_minimalist"
+  },
+
+  "CLAUDE_Driftless_RemoteDesigner_ModernTechMin_smb_08": {
+    "industry": "remote_first_design_tools_saas",
+    "industry_label": "fully remote design-tools SaaS company hiring a senior product designer with no fixed office",
+    "deal_size": "smb",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "individual_engineer",
+    "agreement_label_override": "modern-voice offer letter for a fully-remote product designer",
+    "party_roles": {"provider": "Company", "customer": "Employee"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "multi-state employment tax withholding",
+      "California Business & Professions Code § 16600 (where applicable)",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b))"
+    ],
+    "special_features": [
+      "fully remote with no fixed office location and no relocation requirement",
+      "annual home-office stipend and laptop / monitor allowance",
+      "async collaboration norms acknowledged (core hours but no required online presence)",
+      "right to work from any US state subject to tax withholding registration in that state"
+    ],
+    "primary_clause_focus": [
+      "position_duties",
+      "compensation",
+      "confidentiality"
+    ],
+    "drafting_style": "modern_tech_minimalist"
+  },
+
+  "CLAUDE_Centurion_PE_RolloverCEO_CustomerPaper_enterprise_09": {
+    "industry": "private_equity_portfolio_company_industrial",
+    "industry_label": "private equity portfolio company in industrial manufacturing hiring a new CEO with significant rollover equity",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "customer_friendly",
+    "customer_type": "startup_founder_employer",
+    "agreement_label_override": "heavily negotiated executive employment agreement (PE portfolio company CEO with rollover equity)",
+    "party_roles": {"provider": "Company", "customer": "Executive"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "Internal Revenue Code § 280G (golden parachute excise tax)",
+      "Internal Revenue Code § 409A (deferred compensation timing)",
+      "Internal Revenue Code § 83(b) election",
+      "SEC executive compensation clawback rules (17 CFR § 240.10D-1)",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b))"
+    ],
+    "special_features": [
+      "rollover equity from prior CEO role explicitly recognized and treated as fully vested",
+      "executive-side legal fee carve-out — Company pays Executive's reasonable legal fees in negotiating this Agreement up to a cap",
+      "MFN clause — if Company grants any peer C-suite executive better severance terms, Executive's severance terms automatically match",
+      "multi-tier severance: 2x salary plus 2x bonus plus 24 months COBRA on without-Cause termination, with 24-month equity acceleration on CIC double-trigger",
+      "no clawback for SOX accounting restatements caused by predecessor management errors",
+      "retention bonus payable on three milestones: 12 months, 24 months, IPO or sale event"
+    ],
+    "primary_clause_focus": [
+      "severance",
+      "compensation",
+      "change_in_control"
+    ],
+    "drafting_style": "customer_paper_negotiated"
+  },
+
+  "CLAUDE_NorthStar_FortuneRetailer_CDO_CustomerPaper_enterprise_10": {
+    "industry": "fortune_500_retailer_dei",
+    "industry_label": "Fortune 500 retailer hiring a Chief Diversity, Equity and Inclusion Officer with public-commitment protections",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "customer_friendly",
+    "customer_type": "fortune_500_retailer",
+    "agreement_label_override": "heavily negotiated executive employment agreement (Fortune 500 retailer Chief Diversity Officer)",
+    "party_roles": {"provider": "Company", "customer": "Executive"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "Title VII of the Civil Rights Act of 1964",
+      "California Fair Employment and Housing Act (where applicable)",
+      "Internal Revenue Code § 409A",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b))"
+    ],
+    "special_features": [
+      "DEI program continuity protection — material reduction in DEI program scope or budget triggers Good Reason resignation right",
+      "post-employment endorsement and name and likeness rights — Executive retains the right to publicly discuss DEI achievements with Company on a non-disparagement basis",
+      "two-year retention bonus payable on first and second anniversaries of start date",
+      "board observer rights for the first 12 months (non-voting)",
+      "agreed protocol for board reporting cadence directly to the Compensation Committee"
+    ],
+    "primary_clause_focus": [
+      "severance",
+      "position_duties",
+      "compensation"
+    ],
+    "drafting_style": "customer_paper_negotiated"
+  },
+
+  "CLAUDE_BridgeWorks_HRMaster_OfferAddenda_ModularForm_mid_market_11": {
+    "industry": "hr_master_template_with_addenda",
+    "industry_label": "mid-market employer using a master employment template with per-hire offer addenda for at-will employees",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "individual_offer_letter",
+    "agreement_label_override": "master at-will employment agreement with per-hire offer addendum",
+    "party_roles": {"provider": "Company", "customer": "Employee"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "Internal Revenue Code § 409A",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b))",
+      "Fair Labor Standards Act (exempt vs non-exempt classification)"
+    ],
+    "special_features": [
+      "modular structure: bare master at-will employment template plus per-hire offer addendum",
+      "addendum specifies title, base salary, FLSA classification, start date, work location, reporting line, and any sign-on or equity terms",
+      "master is job-class-agnostic and reusable for engineers, sales reps, and operations roles",
+      "incorporates Company employee handbook by reference"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "position_duties",
+      "confidentiality"
+    ],
+    "drafting_style": "modular_order_form"
+  },
+
+  "CLAUDE_Sentinel_DefenseExecMaster_PerExec_ModularForm_enterprise_12": {
+    "industry": "aerospace_defense_executive_master",
+    "industry_label": "aerospace and defense contractor using a master executive employment template with per-executive Schedule A",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "prime_federal_contractor",
+    "agreement_label_override": "master executive employment agreement with per-executive Schedule A",
+    "party_roles": {"provider": "Company", "customer": "Executive"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "Internal Revenue Code § 280G",
+      "Internal Revenue Code § 409A",
+      "OFCCP affirmative action obligations (Executive Order 11246)",
+      "DFARS 252.204-7012 (cyber incident reporting)",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b))"
+    ],
+    "special_features": [
+      "modular structure: bare master executive employment terms plus per-executive Schedule A specifying title, comp, restricted covenants, and CIC severance multiples",
+      "Schedule A is the only document amended on promotions or comp adjustments — master never changes",
+      "facility security clearance requirement built into eligibility provisions",
+      "OFCCP affirmative action equal-opportunity acknowledgment",
+      "DFARS cyber incident reporting flow-down to Executive"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "restrictive_covenants",
+      "severance"
+    ],
+    "drafting_style": "modular_order_form"
+  },
+
+  "CLAUDE_Boulder_GraduateEng_OfferLetter_PlainEng_smb_13": {
+    "industry": "early_career_engineer_ca_offer",
+    "industry_label": "California Bay Area startup making a plain-language offer to a recent graduate software engineer",
+    "deal_size": "smb",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "individual_engineer",
+    "agreement_label_override": "plain-language offer letter for an entry-level software engineer (California)",
+    "party_roles": {"provider": "Company", "customer": "Employee"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "California Labor Code § 2870",
+      "California Business & Professions Code § 16600",
+      "California wage statement requirements",
+      "Form I-9 employment eligibility verification"
+    ],
+    "special_features": [
+      "California 16600 acknowledgment with no post-employment non-compete",
+      "California 2870 invention exemption notice",
+      "explicit at-will language with California carve-outs",
+      "401(k) auto-enrollment opt-in",
+      "30-day rescission window for sign-on bonus if Employee resigns within 12 months"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "position_duties",
+      "confidentiality"
+    ],
+    "drafting_style": "plain_english_common_paper"
+  },
+
+  "CLAUDE_Riverwalk_RestaurantMgr_OfferLetter_PlainEng_smb_14": {
+    "industry": "ny_restaurant_nonexempt_manager",
+    "industry_label": "New York City restaurant chain hiring a non-exempt assistant manager with hourly wage and tip pool participation",
+    "deal_size": "smb",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "individual_offer_letter",
+    "agreement_label_override": "plain-language offer letter for a non-exempt restaurant manager (New York City)",
+    "party_roles": {"provider": "Company", "customer": "Employee"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "Fair Labor Standards Act (FLSA non-exempt classification)",
+      "New York State Labor Law overtime and meal-period requirements",
+      "New York City Earned Sick and Safe Time Act",
+      "New York Hospitality Industry Wage Order"
+    ],
+    "special_features": [
+      "non-exempt FLSA classification with explicit overtime acknowledgment",
+      "tip pool participation and tip credit calculation under NY Hospitality Industry Wage Order",
+      "NYC Earned Sick and Safe Time Act paid sick leave acknowledgment",
+      "meal and rest break documentation",
+      "uniform reimbursement under NY Labor Law"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "position_duties",
+      "termination"
+    ],
+    "drafting_style": "plain_english_common_paper"
+  },
+
+  "CLAUDE_PrairieLine_RemoteSalesRep_TX_OfferLetter_PlainEng_smb_15": {
+    "industry": "tx_remote_sales_commission",
+    "industry_label": "Texas-headquartered SaaS company hiring a fully remote inside sales representative with commission structure",
+    "deal_size": "smb",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "individual_offer_letter",
+    "agreement_label_override": "plain-language offer letter for a remote sales representative (Texas)",
+    "party_roles": {"provider": "Company", "customer": "Employee"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "Fair Labor Standards Act (outside sales exemption rules)",
+      "Texas Payday Law (commission payment timing)",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b))"
+    ],
+    "special_features": [
+      "commission plan referenced as a separate Sales Compensation Plan document",
+      "draw against commissions with claw-back if Employee leaves before quota period closes",
+      "Texas Payday Law commission payment timing acknowledgment",
+      "remote work from Texas with no relocation requirement",
+      "non-solicitation of customers and prospects for 12 months post-termination (enforceable in Texas with consideration)"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "restrictive_covenants",
+      "position_duties"
+    ],
+    "drafting_style": "plain_english_common_paper"
+  },
+
+  "CLAUDE_BluePine_NurseOfferLetter_WA_PlainEng_smb_16": {
+    "industry": "wa_nurse_unionized_hospital",
+    "industry_label": "Washington State unionized hospital system hiring a registered nurse subject to a collective bargaining agreement",
+    "deal_size": "smb",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "individual_offer_letter",
+    "agreement_label_override": "plain-language offer letter for a registered nurse (Washington State, union-covered position)",
+    "party_roles": {"provider": "Hospital", "customer": "Nurse"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "Washington State Department of Health nursing license requirements",
+      "National Labor Relations Act (collective bargaining acknowledgment)",
+      "HIPAA Privacy and Security Rules",
+      "Joint Commission patient safety standards"
+    ],
+    "special_features": [
+      "union-covered position subject to a collective bargaining agreement that controls wages and conditions of employment",
+      "nursing license verification as a continuing condition of employment",
+      "HIPAA Privacy Rule training acknowledgment",
+      "Joint Commission patient safety attestation",
+      "WA State paid sick leave under Initiative 1433"
+    ],
+    "primary_clause_focus": [
+      "position_duties",
+      "compensation",
+      "confidentiality"
+    ],
+    "drafting_style": "plain_english_common_paper"
+  },
+
+  "CLAUDE_Vincenti_OilGasCEO_TexasArb_BigLaw_enterprise_17": {
+    "industry": "midstream_petroleum_texas",
+    "industry_label": "Texas-based midstream petroleum company hiring a President and CEO with binding arbitration dispute resolution",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "oil_gas_executive_employer",
+    "agreement_label_override": "executive employment agreement (Texas oil and gas CEO with binding arbitration)",
+    "party_roles": {"provider": "Company", "customer": "Executive"},
+    "regulatory_frameworks": [
+      "Texas Business and Commerce Code § 15.50 (covenants not to compete)",
+      "Texas Payday Law",
+      "Internal Revenue Code § 280G",
+      "Internal Revenue Code § 409A",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b))"
+    ],
+    "special_features": [
+      "binding arbitration through JAMS as the exclusive dispute resolution mechanism",
+      "Texas non-compete enforceable subject to consideration and reasonableness under Tex. Bus. & Com. Code § 15.50",
+      "founder rollover equity recognized and treated as vested",
+      "midstream petroleum industry context with Permian Basin and Eagle Ford operational references",
+      "family office concurrent activities carve-out for non-competing energy investments"
+    ],
+    "primary_clause_focus": [
+      "dispute_resolution",
+      "restrictive_covenants",
+      "compensation"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Marlowe_InvestBankMD_NYC_BigLaw_enterprise_18": {
+    "industry": "nyc_investment_bank_md",
+    "industry_label": "New York City bulge-bracket investment bank hiring a Managing Director in capital markets with FINRA registration and bonus pool participation",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "regulated_banking_executive_employer",
+    "agreement_label_override": "executive employment agreement (NYC investment bank Managing Director with bonus pool and garden leave)",
+    "party_roles": {"provider": "Bank", "customer": "Managing Director"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "FINRA registration and Form U4 disclosure requirements",
+      "SEC executive compensation clawback rules (17 CFR § 240.10D-1)",
+      "Federal Reserve incentive compensation guidance (12 CFR Part 252)",
+      "Sarbanes-Oxley Act § 304",
+      "Dodd-Frank Wall Street Reform and Consumer Protection Act § 954"
+    ],
+    "special_features": [
+      "bonus pool participation in the investment banking division with no individual contractual minimum",
+      "90-day garden leave period before Managing Director may join a competitor",
+      "FINRA Form U4 registration as a continuing condition of employment",
+      "two-year clawback of unvested deferred compensation on resignation to a competitor",
+      "Federal Reserve incentive compensation guidance pass-through to incentive structure"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "restrictive_covenants",
+      "severance"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Atlantic_TenureTrackProf_FL_BigLaw_mid_market_19": {
+    "industry": "fl_state_university_tenured_faculty",
+    "industry_label": "Florida state university appointing a tenured associate professor of computer science with academic freedom and IP carve-outs",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "individual_executive",
+    "agreement_label_override": "tenured faculty appointment letter (Florida state university)",
+    "party_roles": {"provider": "University", "customer": "Faculty Member"},
+    "regulatory_frameworks": [
+      "Florida public records laws (Sunshine Law)",
+      "Bayh-Dole Act (35 U.S.C. §§ 200-212)",
+      "Family Educational Rights and Privacy Act (FERPA)",
+      "Title IX of the Education Amendments of 1972"
+    ],
+    "special_features": [
+      "academic tenure with for-cause-only termination and AAUP-style due process",
+      "academic freedom acknowledgment for teaching, research, and publication",
+      "IP carve-out: faculty member retains scholarly publications; University retains rights to inventions developed using University resources under Bayh-Dole",
+      "consulting carve-out permitting up to one day per week of outside consulting subject to disclosure",
+      "FERPA training acknowledgment and student records confidentiality"
+    ],
+    "primary_clause_focus": [
+      "intellectual_property",
+      "position_duties",
+      "termination"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Helix_PreIPO_CPO_VestingMilestone_BigLaw_enterprise_20": {
+    "industry": "ca_pre_ipo_unicorn_cpo",
+    "industry_label": "California pre-IPO unicorn hiring a Chief Product Officer with IPO milestone vesting and lock-up acknowledgment",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "startup_founder_employer",
+    "agreement_label_override": "executive employment agreement (California pre-IPO unicorn CPO with IPO milestone vesting)",
+    "party_roles": {"provider": "Company", "customer": "Executive"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "California Business & Professions Code § 16600",
+      "California Labor Code § 2870",
+      "Securities Act of 1933 (lock-up restrictions)",
+      "Internal Revenue Code § 83(b) and § 409A",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b))"
+    ],
+    "special_features": [
+      "IPO milestone vesting: 25% of equity vests on IPO consummation, with the remaining 75% subject to time-based vesting",
+      "180-day lock-up acknowledgment under standard IPO underwriter arrangements",
+      "secondary sale restrictions during lock-up and tender offer windows",
+      "California Business and Professions Code § 16600 acknowledgment with no post-employment non-compete",
+      "ratchet protection for equity if subsequent funding round prices below grant date"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "change_in_control",
+      "restrictive_covenants"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Ironclad_FedClearedExec_DC_BigLaw_enterprise_21": {
+    "industry": "dc_federal_contractor_security_clearance",
+    "industry_label": "DC-area federal contractor hiring a Chief Technology Officer with active TS/SCI security clearance requirement",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "provider_friendly",
+    "customer_type": "prime_federal_contractor",
+    "agreement_label_override": "executive employment agreement (DC federal contractor CTO with TS/SCI clearance requirement)",
+    "party_roles": {"provider": "Company", "customer": "Executive"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "Department of Defense Manual 5220.22-M (NISPOM)",
+      "ITAR (22 CFR Parts 120-130)",
+      "EAR (15 CFR Parts 730-774)",
+      "OFCCP affirmative action obligations",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b))"
+    ],
+    "special_features": [
+      "active TS/SCI security clearance as a continuing condition of employment",
+      "automatic termination for clearance loss, suspension, or revocation",
+      "ITAR/EAR-cleared US person status verification",
+      "facility security clearance flow-down to Executive's direct reports",
+      "post-employment debriefing requirement under NISPOM"
+    ],
+    "primary_clause_focus": [
+      "position_duties",
+      "termination",
+      "confidentiality"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Tikal_IsraeliRD_Section14_BigLaw_enterprise_22": {
+    "industry": "israeli_high_tech_rd_executive",
+    "industry_label": "Israeli high-tech company hiring a Vice President of R&D under Israeli Severance Pay Law Section 14 arrangement",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "individual_executive",
+    "agreement_label_override": "executive employment agreement (Israeli high-tech VP of R&D with Section 14 arrangement)",
+    "party_roles": {"provider": "Company", "customer": "Employee"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "Israeli Severance Pay Law, 5723-1963 (Section 14 arrangement)",
+      "Israeli Hours of Work and Rest Law",
+      "Israeli Employment of Women Law",
+      "Israeli Patent Law (employer ownership of service inventions)",
+      "Israeli Privacy Protection Law"
+    ],
+    "special_features": [
+      "Israeli Section 14 severance arrangement: monthly severance contributions to a managers insurance policy or pension fund in lieu of statutory severance",
+      "manager status under Hours of Work and Rest Law (no overtime entitlement for senior management)",
+      "Israeli service invention assignment under the Patent Law",
+      "Israeli Privacy Protection Law data subject acknowledgment",
+      "annual recreation pay under Israeli labor practice"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "severance",
+      "intellectual_property"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Mercy_HospitalCMO_HIPAA_BigLaw_enterprise_23": {
+    "industry": "hospital_chief_medical_officer",
+    "industry_label": "regional hospital system hiring a Chief Medical Officer with HIPAA, board certification, and medical staff bylaws acknowledgment",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "regional_health_system",
+    "agreement_label_override": "executive employment agreement (regional hospital system Chief Medical Officer)",
+    "party_roles": {"provider": "Hospital System", "customer": "CMO"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "HIPAA Privacy and Security Rules",
+      "Centers for Medicare & Medicaid Services Conditions of Participation",
+      "Joint Commission patient safety standards",
+      "Stark Law (42 U.S.C. § 1395nn) physician self-referral prohibition",
+      "Anti-Kickback Statute (42 U.S.C. § 1320a-7b)",
+      "EMTALA emergency treatment requirements"
+    ],
+    "special_features": [
+      "active state medical license and board certification as continuing conditions of employment",
+      "Stark Law and Anti-Kickback Statute compliance acknowledgment",
+      "medical staff bylaws compliance and dual reporting to Medical Executive Committee",
+      "HIPAA privacy training and breach notification cooperation",
+      "tail malpractice insurance coverage on departure"
+    ],
+    "primary_clause_focus": [
+      "position_duties",
+      "termination",
+      "confidentiality"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Gridline_UtilityCOO_NERC_BigLaw_enterprise_24": {
+    "industry": "investor_owned_utility_coo",
+    "industry_label": "investor-owned electric utility hiring a Chief Operating Officer with NERC reliability and OFCCP federal contractor compliance",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "public_company_executive_employer",
+    "agreement_label_override": "executive employment agreement (investor-owned utility Chief Operating Officer)",
+    "party_roles": {"provider": "Company", "customer": "Executive"},
+    "suppress_initial_term": true,
+    "regulatory_frameworks": [
+      "NERC Critical Infrastructure Protection (CIP) Reliability Standards",
+      "Federal Energy Regulatory Commission (FERC) regulations",
+      "OFCCP affirmative action obligations (Executive Order 11246)",
+      "Internal Revenue Code § 280G",
+      "Defend Trade Secrets Act of 2016 (18 U.S.C. § 1833(b))"
+    ],
+    "special_features": [
+      "NERC CIP reliability standards compliance acknowledgment",
+      "FERC regulatory cooperation obligations",
+      "OFCCP affirmative action equal-opportunity acknowledgment as a federal contractor",
+      "physical and cybersecurity incident reporting flow-down to Executive",
+      "wildfire / catastrophic event executive accountability provisions specific to utility operations"
+    ],
+    "primary_clause_focus": [
+      "position_duties",
+      "termination",
+      "compensation"
+    ],
+    "drafting_style": "biglaw_formal"
+  },
+
+  "CLAUDE_Apex_SportsTalent_ImageRights_BigLaw_mid_market_25": {
+    "industry": "sports_entertainment_talent_contract",
+    "industry_label": "professional sports league talent contract for a head coach with name, image, and likeness rights",
+    "deal_size": "mid_market",
+    "currency": "USD",
+    "negotiation_bias": "balanced",
+    "customer_type": "individual_executive",
+    "agreement_label_override": "head coach employment agreement (professional sports league with name, image, and likeness rights)",
+    "party_roles": {"provider": "Club", "customer": "Coach"},
+    "regulatory_frameworks": [
+      "League collective bargaining agreement (CBA) pass-through",
+      "Internal Revenue Code § 409A",
+      "League conduct policy and personal conduct standards",
+      "Right of publicity (state common law and Lanham Act § 43(a))"
+    ],
+    "special_features": [
+      "fixed multi-year term with buyout provisions for both Club and Coach",
+      "name, image, and likeness rights split between Club and Coach with explicit licensing terms",
+      "League conduct policy compliance with discipline cooperation",
+      "endorsement and external media activities subject to Club approval",
+      "automatic termination for League suspension or ineligibility"
+    ],
+    "primary_clause_focus": [
+      "compensation",
+      "termination",
+      "restrictive_covenants"
+    ],
+    "drafting_style": "biglaw_formal"
+  }
+}

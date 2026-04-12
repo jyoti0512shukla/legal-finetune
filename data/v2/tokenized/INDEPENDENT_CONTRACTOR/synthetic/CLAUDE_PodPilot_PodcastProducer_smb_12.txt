@@ -1,0 +1,123 @@
+Independent Contractor Agreement — Podcast Producer
+
+Company: {{PROVIDER_NAME}} ({{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}}, {{PROVIDER_ADDRESS}})
+Producer: {{CUSTOMER_NAME}}, individual at {{CUSTOMER_ADDRESS}}
+Effective Date: {{EFFECTIVE_DATE}}
+
+This standalone agreement engages the Producer as an independent contractor to produce the Company's branded podcast on a per-episode fee basis.
+
+ARTICLE 1 — ENGAGEMENT
+
+The Company is launching a branded podcast and is engaging the Producer to produce it. The Producer's services include:
+
+- Pre-production: episode topic planning, guest research and outreach, interview prep notes, recording scheduling
+- Recording day: technical setup, recording engineering, real-time monitoring
+- Post-production: audio editing, mixing, mastering, intro/outro insertion, ad placement
+- Distribution: uploading episodes to the Company's podcast hosting platform, setting RSS metadata, scheduling distribution
+- Show notes: writing show notes for each episode (transcript optional, depending on Project Brief)
+
+The Producer will personally perform the substantive producer work. The Producer may use freelance assistants (transcribers, audio engineers) for non-creative tasks, with the Producer remaining responsible for the quality of the output.
+
+The Producer will use best efforts to deliver work consistent with professional podcast production standards.
+
+ARTICLE 2 — TERM AND TERMINATION
+
+The Term begins on the Effective Date and continues until either party terminates it.
+
+Either party can terminate for convenience on {{IC_NOTICE_DAYS_CONVENIENCE}} days' written notice. Episodes already in production will be completed under this Agreement unless the Company terminates a specific episode for cause.
+
+The Company can terminate immediately for material breach, missed delivery dates without explanation, or willful misconduct.
+
+On termination, the Producer delivers any in-progress episode files and surrenders Company podcast hosting credentials.
+
+ARTICLE 3 — FEES, EXPENSES, AND COMPENSATION
+
+Per-episode fee. The Company will pay the Producer {{IC_FIXED_FEE}} per finished episode delivered. This is the all-in fee covering pre-production, recording, post-production, distribution, and show notes for a standard episode (under 60 minutes finished).
+
+Bonus episodes (over 60 minutes finished, multi-guest, or with substantial editing complexity) are billable at the Producer's discretion at the Producer's hourly rate of {{IC_HOURLY_RATE}} per hour above the standard fee, with the Company's prior written approval.
+
+Invoicing. The Producer invoices the Company monthly for episodes delivered during the prior month. Invoices are due net 30.
+
+Expense reimbursement. The Company reimburses pre-approved expenses (paid music licenses, sound effects, premium podcast hosting fees the Producer pays on the Company's behalf, guest honoraria the Producer arranges with Company approval). Any expense over Two Hundred Fifty United States Dollars (US$250) requires written pre-approval. The Producer uses the Producer's own recording equipment, audio editing software, and microphone.
+
+ARTICLE 4 — INDEPENDENT CONTRACTOR RELATIONSHIP
+
+The Producer is an independent contractor, not an employee.
+
+No tax withholding. The Producer is responsible for all federal, state, and local income taxes, self-employment taxes, Social Security, and Medicare contributions.
+
+No employee benefits.
+
+W-9 and 1099. The Producer will provide a Form W-9. The Company will report compensation on Form 1099-NEC.
+
+The Producer determines the production workflow, schedule, equipment, and software, and is free to produce podcasts for other clients during this engagement subject to Article 7.
+
+Tax indemnification. The Producer indemnifies the Company against any tax authority claim or reclassification claim relating to the Producer's compensation under this Agreement.
+
+ARTICLE 5 — WORK PRODUCT, INTELLECTUAL PROPERTY, AND CREDIT
+
+5.1 Episode files. The Company owns the finished episodes (audio files, transcripts, show notes, episode artwork to the extent created by the Producer) once the Company has paid the per-episode fee. The Producer assigns all such Work Product to the Company.
+
+5.2 Project files. Project files (DAW project files, raw recording files, intermediate edits) belong to the Company and will be delivered to the Company on request. The Producer may keep a backup for archival purposes only.
+
+5.3 Background IP. The Producer retains all rights in pre-existing intro/outro music templates, jingles, audio effects, and editing techniques the Producer has created independently. The Producer grants the Company a non-exclusive, perpetual license to use any Background IP incorporated into the episodes.
+
+5.4 Music licensing. The Producer will use only properly licensed music and sound effects in the episodes. Default music will come from royalty-free licensed libraries. The Producer will provide license documentation to the Company on request.
+
+5.5 Producer credit. The Producer may be credited as the producer in the show notes and episode metadata, unless the Company designates the Producer's involvement as confidential. The Producer may include the Company's podcast (or short clips) in the Producer's professional portfolio with credit to the Company.
+
+5.6 Original work and rights. The Producer represents that the work will be original or properly licensed and will not infringe third-party rights.
+
+ARTICLE 6 — CONFIDENTIALITY
+
+6.1 The Producer will hold all Company Confidential Information in strict confidence during this engagement and after.
+
+6.2 Confidential Information includes pre-recorded episodes (until publication), the Company's editorial plans, guest lists, internal communications, the Company's business plans, and anything else marked confidential.
+
+6.3 The Producer will not use Confidential Information for any purpose other than the Company's podcast.
+
+6.4 The Producer will respect any pre-publication embargo on episode content.
+
+6.5 On termination, the Producer returns or deletes all Confidential Information and surrenders Company podcast hosting credentials.
+
+6.6 Injunctive relief available for breach.
+
+ARTICLE 7 — RESTRICTIVE COVENANTS
+
+7.1 The Producer is free to produce podcasts for other clients during this engagement, including clients in adjacent industries. The Producer will not, however, produce a podcast for a direct competitor of the Company in the same industry vertical that targets the same audience as the Company's podcast.
+
+7.2 During the Term and for six (6) months after, the Producer will not solicit any Company employee or contractor (including any podcast guests the Company has identified to the Producer for the Company's show).
+
+7.3 The Producer will not use any Company Confidential Information (including unaired guest interviews or unreleased episode content) when working for other clients.
+
+ARTICLE 8 — INDEMNIFICATION
+
+The Producer indemnifies the Company against any claim that the episodes infringe third-party rights (including unlicensed music or unauthorized use of guest content), in addition to the tax indemnification in Article 4.
+
+The Producer's total liability under this Agreement is capped at the total fees paid in the prior twelve (12) months, except for tax indemnification, IP infringement, willful misconduct, and fraud (uncapped).
+
+ARTICLE 9 — DISPUTE RESOLUTION AND GOVERNING LAW
+
+9.1 This Agreement is governed by the laws of {{GOVERNING_LAW_STATE}}.
+
+9.2 Any dispute will be brought in the state or federal courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+9.3 The Company can seek injunctive relief to enforce confidentiality, IP, and embargo provisions.
+
+ARTICLE 10 — MISCELLANEOUS
+
+Entire agreement, amendment in writing, no assignment by Producer, survival of Articles 4-10, counterparts and electronic signatures.
+
+Signed.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+PRODUCER: {{CUSTOMER_NAME}}
+
+Signature: _______________________________
+
+Date: _______________________________

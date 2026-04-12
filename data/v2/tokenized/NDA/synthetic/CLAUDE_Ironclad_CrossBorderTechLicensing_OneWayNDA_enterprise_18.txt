@@ -1,0 +1,111 @@
+NON-DISCLOSURE AGREEMENT FOR CROSS-BORDER TECHNOLOGY LICENSING DISCUSSIONS
+
+This NON-DISCLOSURE AGREEMENT (this "Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} with its principal place of business at {{PROVIDER_ADDRESS}} ("Licensor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_ENTITY_TYPE}} with its registered office at {{CUSTOMER_ADDRESS}} ("Prospective Licensee"). Licensor and Prospective Licensee are each referred to herein as a "Party" and collectively as the "Parties."
+
+WHEREAS, Licensor owns certain proprietary semiconductor design and manufacturing technology and is evaluating whether to grant Prospective Licensee a license to manufacture certain products using such technology (the "Potential License");
+
+WHEREAS, in connection with the evaluation of the Potential License, Licensor will disclose to Prospective Licensee certain non-public technical information, commercial terms, and other proprietary materials, some of which may constitute "technology" or "technical data" subject to the U.S. Export Administration Regulations (the "EAR");
+
+WHEREAS, Licensor's disclosure of Confidential Information is conditioned on Prospective Licensee's strict compliance with applicable export control laws of the United States, the economic sanctions administered by the Office of Foreign Assets Control (the "OFAC Sanctions"), and the foreign-investment review laws of Japan;
+
+NOW, THEREFORE, in consideration of the foregoing recitals and the mutual covenants set forth herein, the Parties, intending to be legally bound, hereby agree as follows:
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Confidential Information" means all non-public information disclosed by or on behalf of Licensor to Prospective Licensee or any of its Representatives in connection with the Purpose, in whatever form or medium, whether or not marked as confidential. Confidential Information includes, without limitation: (a) semiconductor design documents, circuit schematics, process flows, and mask data; (b) manufacturing process parameters, recipes, and yield data; (c) test and qualification data; (d) Licensor's pricing, royalty structures, and commercial terms; (e) Licensor's customer and supplier information; and (f) the existence and subject matter of the discussions between the Parties regarding the Potential License.
+
+1.2 "Controlled Technology" means any Confidential Information that constitutes "technology" or "technical data" subject to the EAR, or that is otherwise subject to any U.S. export control law.
+
+1.3 "Purpose" means Prospective Licensee's good-faith evaluation of the Potential License, including technical and commercial due diligence, and (if and only if the Parties mutually so elect) the negotiation of a definitive license agreement.
+
+1.4 "Representatives" means Prospective Licensee's directors, officers, employees, and (to the extent expressly approved in advance in writing by Licensor) outside legal counsel, in each case who have a bona fide need to know Confidential Information for the Purpose and who are bound by written obligations of confidentiality no less protective than those set forth herein. Subcontractors, joint venture partners, and third-party consultants are not "Representatives" without Licensor's specific prior written approval.
+
+1.5 "Trade Secret" means any Confidential Information that qualifies as a trade secret under the Defend Trade Secrets Act of 2016 or the laws of the State of {{GOVERNING_LAW_STATE}} or any other applicable law.
+
+ARTICLE 2 — PURPOSE
+
+2.1 Narrow Purpose. Prospective Licensee shall use Confidential Information solely for the Purpose and for no other purpose whatsoever.
+
+2.2 No Competitive Use. Prospective Licensee shall not use Confidential Information, directly or indirectly, to design, develop, manufacture, or market any product that competes with Licensor's products, or to obtain a competitive advantage against Licensor or its affiliates.
+
+2.3 No Reverse Engineering. Prospective Licensee shall not reverse engineer, disassemble, decompile, or otherwise attempt to derive the composition, structure, or methods of manufacture of any tangible item of Confidential Information, including any sample device, wafer, test chip, or prototype.
+
+2.4 Export Control Compliance. Prospective Licensee shall not export, re-export, transfer, or release any Controlled Technology to any person or destination in violation of the EAR, and shall not provide access to Controlled Technology to any national of any country subject to U.S. comprehensive sanctions. Prospective Licensee shall, upon Licensor's request, provide an end-user and end-use certification confirming (a) the identity of all Representatives who will receive Controlled Technology, (b) the specific facilities at which Controlled Technology will be stored and used, and (c) the specific products, if any, that Prospective Licensee intends to manufacture using the Controlled Technology.
+
+2.5 OFAC and Sanctions Screening. Prospective Licensee represents and warrants that neither Prospective Licensee nor any of its Affiliates, directors, officers, or Representatives appears on any OFAC Specially Designated Nationals and Blocked Persons List, the U.S. Department of Commerce Entity List, or any comparable sanctions or restricted-party list administered by the U.S. government, the European Union, the United Kingdom, or the United Nations. Prospective Licensee shall promptly notify Licensor in writing if any such listing occurs during the term of this Agreement.
+
+2.6 Japanese Foreign-Investment Review. Prospective Licensee acknowledges that a license of Controlled Technology to a Japanese licensee may be subject to prior notification under the Japanese Foreign Exchange and Foreign Trade Act ("FEFTA") and related regulations, and that any definitive license agreement will be subject to any required FEFTA filings and clearances.
+
+ARTICLE 3 — CONFIDENTIAL INFORMATION
+
+3.1 Obligations. Prospective Licensee shall: (a) hold all Confidential Information in strict confidence; (b) use Confidential Information solely for the Purpose; (c) disclose Confidential Information only to its Representatives who have a bona fide need to know in connection with the Purpose and who are bound by written obligations of confidentiality no less protective than those set forth herein; and (d) protect Confidential Information using at least the degree of care Prospective Licensee uses for its own most sensitive confidential information, but no less than a reasonable degree of care.
+
+3.2 Responsibility for Representatives. Prospective Licensee shall be responsible for any breach of this Agreement by any of its Representatives.
+
+3.3 Incident Reporting. Prospective Licensee shall notify Licensor in writing within twenty-four (24) hours after becoming aware of any actual or suspected unauthorized use, disclosure, loss, or exposure of Confidential Information, and shall cooperate fully with Licensor in investigating and remediating any such incident.
+
+ARTICLE 4 — EXCLUSIONS FROM CONFIDENTIALITY
+
+4.1 Exclusions. The obligations in Article 3 shall not apply to any information that Prospective Licensee can demonstrate by competent written evidence: (a) was in the public domain at the time of disclosure or subsequently entered the public domain through no breach of this Agreement; (b) was in Prospective Licensee's possession free of any obligation of confidence prior to disclosure; (c) was independently developed by Prospective Licensee without use of or reference to any Confidential Information; or (d) was rightfully received from a third party without any obligation of confidence to Licensor.
+
+4.2 Controlled Technology Never Excluded. Notwithstanding Section 4.1, Controlled Technology remains subject to export control restrictions for so long as it is subject to the EAR, regardless of whether any exclusion in Section 4.1 would otherwise apply.
+
+ARTICLE 5 — COMPELLED DISCLOSURE
+
+5.1 Legal Process. In the event that Prospective Licensee or any of its Representatives is requested or required to disclose any Confidential Information by legal process, Prospective Licensee shall, to the extent legally permissible, provide Licensor with prompt prior written notice so Licensor may, at its sole cost, seek a protective order or other appropriate remedy.
+
+5.2 Limitation. If a protective order is not obtained and Licensor does not waive compliance, Prospective Licensee may disclose only the minimum portion of Confidential Information that its outside legal counsel advises is legally required to be disclosed, and shall use commercially reasonable efforts to obtain assurances that confidential treatment will be accorded.
+
+ARTICLE 6 — RETURN OR DESTRUCTION
+
+6.1 Return on Request. Upon the earlier of (a) Licensor's written request, or (b) the termination of discussions between the Parties regarding the Potential License, Prospective Licensee shall, at Licensor's election, return or destroy all Confidential Information, together with all copies, extracts, and derivative materials, and shall certify such return or destruction in writing within ten (10) business days.
+
+6.2 Retention Exceptions. Prospective Licensee may retain (a) one archival copy of Confidential Information in the custody of its outside legal counsel, and (b) Confidential Information contained in automatic system backups, in each case subject to the continuing obligations of this Agreement.
+
+ARTICLE 7 — NO LICENSE OR OWNERSHIP TRANSFER
+
+7.1 Ownership Reserved. All Confidential Information shall remain the sole and exclusive property of Licensor. Nothing in this Agreement shall be construed as granting Prospective Licensee, by implication, estoppel, or otherwise, any license or other right in any patent, copyright, trademark, trade secret, or other intellectual property right of Licensor. No license is granted, whether to practice any patent, to manufacture any product, or to use any Trade Secret. Any license rights shall be granted only, if at all, under a separate definitive written license agreement executed by the Parties and approved by any required regulatory authorities.
+
+ARTICLE 8 — TERM AND SURVIVAL
+
+8.1 Term. This Agreement shall commence on the Effective Date and shall continue in full force and effect for a period of {{TERM_YEARS}} years thereafter, unless earlier terminated upon {{NOTICE_DAYS}} days' prior written notice by either Party.
+
+8.2 Survival. Prospective Licensee's obligations of confidentiality and non-use shall survive for a period of ten (10) years after the termination or expiration of this Agreement, and with respect to any Trade Secret or any item of Controlled Technology, for so long as such information remains a Trade Secret or remains subject to the EAR under applicable law. Prospective Licensee's obligations under Sections 2.4, 2.5, and 2.6 shall survive indefinitely.
+
+ARTICLE 9 — EQUITABLE REMEDIES
+
+9.1 Irreparable Harm. Prospective Licensee acknowledges that any breach of this Agreement may cause Licensor irreparable harm for which monetary damages would be inadequate.
+
+9.2 Injunctive Relief. Licensor shall be entitled, in addition to any other remedies available at law or in equity, to seek specific performance, injunctive relief, and other equitable relief in any court of competent jurisdiction, without the necessity of posting a bond or other security and without the necessity of proving actual damages.
+
+9.3 Cumulative Remedies. The rights and remedies of Licensor are cumulative and in addition to, and not in lieu of, any other rights and remedies.
+
+ARTICLE 10 — GENERAL PROVISIONS
+
+10.1 Governing Law and Language. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to conflict of laws principles. This Agreement is executed in the English language. If a Japanese-language translation is prepared for convenience, the English version shall control in any dispute.
+
+10.2 Venue. Each Party irrevocably submits to the exclusive jurisdiction of the state and federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, for any dispute arising out of or relating to this Agreement, and waives any objection to such venue on the basis of forum non conveniens.
+
+10.3 Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof.
+
+10.4 Amendments. No amendment of this Agreement shall be effective unless in writing and signed by both Parties.
+
+10.5 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party.
+
+10.6 Severability. If any provision of this Agreement is held invalid, the remaining provisions shall continue in full force and effect.
+
+10.7 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

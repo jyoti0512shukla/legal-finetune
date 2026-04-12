@@ -1,0 +1,182 @@
+DATA PROCESSING ADDENDUM (BRAZIL LGPD)
+
+This Data Processing Addendum (this "DPA") is entered into as of {{EFFECTIVE_DATE}} (the "DPA Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Operator" or "Processor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Controller"). The Operator is the operator (operador) under the Brazilian General Data Protection Law (Lei Geral de Proteção de Dados Pessoais — LGPD, Lei n° 13.709/2018), and the Controller is the controller (controlador) under the LGPD.
+
+This DPA forms part of, and is incorporated into, the {{PARENT_AGREEMENT_NAME}} between the Parties dated {{PARENT_AGREEMENT_DATE}} (the "Agreement"). All capitalized terms used but not defined in this DPA have the meanings given to them in the Agreement, in the LGPD, or in Article 1 below. In the event of any conflict between this DPA and the Agreement, this DPA shall control with respect to the Processing of Personal Data; the Agreement shall control with respect to all other matters not modified by this DPA.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Applicable Data Protection Law" means, collectively, (a) the Lei Geral de Proteção de Dados Pessoais (Lei n° 13.709/2018) (the "LGPD"), (b) the regulations issued by the National Data Protection Authority (Autoridade Nacional de Proteção de Dados — "ANPD"), (c) the EU GDPR (where the Controller is also subject to the EU GDPR through the extraterritorial scope of Article 3 GDPR), and (d) any successor or implementing legislation.
+
+1.2 "Personal Data," "Personal Data Breach," "Processing," "Controller," "Operator," "Data Subject," "Sensitive Personal Data" each have the meanings given to those terms in Article 5 of the LGPD.
+
+1.3 "DPO" or "Encarregado" has the meaning in Article 5(VIII) and Article 41 of the LGPD.
+
+1.4 "ANPD" means the Brazilian National Data Protection Authority.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES
+
+2.1 Roles. The Controller is the Controller. The Operator is the Operator. Sub-operators (sub-operadores) are sub-operators within the meaning of Article 39 of the LGPD.
+
+2.2 Documented Instructions. The Operator shall Process Personal Data only on the Controller's documented instructions, in accordance with Article 39 of the LGPD.
+
+2.3 Notification of Conflicting Instructions. The Operator shall promptly notify the Controller in writing if any Controller instruction would, in the Operator's reasonable opinion, violate the LGPD or any other Applicable Data Protection Law.
+
+2.4 No Sale or Secondary Use. The Operator shall not (a) share Personal Data with any third party except as expressly permitted by the Controller and this DPA, (b) Process Personal Data for any purpose other than providing the services, or (c) use Personal Data to train AI / ML models without the Controller's express prior written consent.
+
+ARTICLE 3 — SCOPE OF PROCESSING
+
+3.1 Subject Matter and Duration. As set forth in Annex I.
+
+3.2 Nature and Purpose. {{PROCESSING_PURPOSE}}.
+
+3.3 Categories of Personal Data. {{DATA_CATEGORIES}}.
+
+3.4 Categories of Data Subjects. {{DATA_SUBJECT_CATEGORIES}}.
+
+3.5 Lawful Basis. The Controller represents that it has a valid lawful basis under Article 7 (or, for Sensitive Personal Data, Article 11) of the LGPD for the Processing.
+
+ARTICLE 4 — OPERATOR OBLIGATIONS
+
+4.1 Compliance with LGPD. The Operator shall Process Personal Data in accordance with this DPA and the Operator's obligations under Article 39 of the LGPD.
+
+4.2 Personnel Confidentiality. Personnel with access to Personal Data are subject to confidentiality obligations and access is on a need-to-know basis.
+
+4.3 Cooperation with the ANPD. The Operator shall cooperate, on the Controller's request, with any ANPD investigation, inquiry, or enforcement action.
+
+4.4 DPO Designation. The Operator shall maintain a Data Protection Officer (Encarregado) and shall make the DPO's contact information available to the Controller and to Data Subjects, in accordance with Article 41 of the LGPD.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+5.1 Security Measures. The Operator shall implement and maintain technical and administrative security measures appropriate to protect Personal Data, in accordance with Article 46 of the LGPD and ANPD guidance, as set forth in Annex II.
+
+5.2 Encryption. TLS 1.2+ in transit. AES-256 at rest.
+
+5.3 Annual SOC 2 Type II audit. Annual ISO 27001 certification.
+
+5.4 Documented business continuity and disaster recovery plan with stated RTO/RPO and annual testing.
+
+ARTICLE 6 — SUB-OPERATORS
+
+6.1 Authorization. The Controller authorizes the Operator to use sub-operators (sub-operadores) listed in Annex III, subject to the requirements of this Article 6 and Article 39 of the LGPD.
+
+6.2 Notice of Changes. The Operator shall give the Controller at least thirty (30) days' written notice before engaging any new or replacement sub-operator.
+
+6.3 Right to Object. The Controller may object to a new sub-operator on reasonable data protection grounds within thirty (30) days. If unresolved within another thirty (30) days, the Controller may terminate the affected portion of the Agreement without penalty.
+
+6.4 Sub-operator Obligations. Each sub-operator shall be subject to a written agreement with data protection obligations equivalent to those imposed on the Operator under this DPA, in accordance with Article 39 of the LGPD.
+
+6.5 Primary Liability. The Operator remains primarily liable to the Controller for the acts and omissions of its sub-operators.
+
+ARTICLE 7 — DATA SUBJECT RIGHTS
+
+7.1 The Operator shall provide reasonable assistance to the Controller in fulfilling the Controller's obligations to respond to Data Subject requests under Article 18 of the LGPD, including the rights of confirmation, access, correction, anonymization, blocking, deletion, portability, information about sharing, information about consent, and revocation of consent.
+
+7.2 If the Operator receives a Data Subject request directly, the Operator shall forward it to the Controller within five (5) business days and shall not respond directly other than to acknowledge receipt.
+
+ARTICLE 8 — PERSONAL DATA BREACH NOTIFICATION
+
+8.1 The Operator shall notify the Controller within {{BREACH_NOTIFICATION_HOURS}} hours after becoming aware of any Personal Data Breach affecting Personal Data Processed under this DPA. This notification window is materially shorter than the timeframe required by the LGPD for the Controller's notification to the ANPD, in order to give the Controller time to investigate and report.
+
+8.2 The notification shall include the categories and approximate number of Data Subjects affected, the categories and approximate number of Personal Data records affected, the contact point at the Operator, the likely consequences, and the measures taken or proposed.
+
+8.3 ANPD Notification Cooperation. The Operator shall cooperate with the Controller in fulfilling the Controller's obligations under Article 48 of the LGPD to communicate the occurrence of an incident to the ANPD and to affected Data Subjects.
+
+8.4 Records of all Personal Data Breaches.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS
+
+9.1 The Operator shall provide reasonable assistance to the Controller in conducting Data Protection Impact Assessments (Relatório de Impacto à Proteção de Dados Pessoais) under Article 38 of the LGPD.
+
+9.2 The Operator shall provide reasonable assistance with any ANPD inquiry under Article 38.
+
+ARTICLE 10 — INTERNATIONAL TRANSFERS
+
+10.1 LGPD Article 33 Transfers. International transfers of Personal Data shall comply with Article 33 of the LGPD, which permits transfers (a) to countries with an adequate level of protection (as recognized by the ANPD), (b) under Standard Contractual Clauses approved by the ANPD, (c) under the data subject's specific consent, or (d) under one of the other Article 33 lawful bases.
+
+10.2 ANPD SCCs. To the extent the ANPD approves Standard Contractual Clauses, the Parties shall execute such ANPD SCCs as required to legitimize any international transfer.
+
+10.3 EU SCCs and UK IDTA. To the extent the Controller is also subject to the EU GDPR or UK GDPR, the EU SCCs (Commission Decision 2021/914) and the UK IDTA are incorporated by reference for transfers from the EEA or UK, with the parameters set forth in Annex IV.
+
+10.4 The Operator maintains a current Transfer Impact Assessment for any international transfers.
+
+10.5 Data Residency. Personal Data is hosted in: {{DATA_RESIDENCY_REGION}}.
+
+ARTICLE 11 — AUDIT RIGHTS AND ANPD ACCESS
+
+11.1 Controller Audit Right. The Controller shall have the right to audit the Operator's compliance with this DPA, on at least {{AUDIT_NOTICE_DAYS}} days' notice and no more than once per twelve (12) month period (except after a breach or an ANPD directive).
+
+11.2 ANPD Cooperation. The Operator shall cooperate with any ANPD inspection or audit relating to the Processing of Personal Data under this DPA.
+
+11.3 Third-Party Audit Reports. The Operator shall make available, at no charge, the most recent SOC 2 Type II report and ISO 27001 certificate.
+
+ARTICLE 12 — DELETION OR RETURN OF PERSONAL DATA
+
+12.1 End of Provision of Services. Upon the end of the provision of the services, the Operator shall, at the Controller's choice, delete or return all Personal Data, in accordance with Article 16 of the LGPD.
+
+12.2 Article 16 Exceptions. Personal Data may be retained for the limited purposes permitted by Article 16 of the LGPD, including (a) compliance with a legal or regulatory obligation, (b) study by a research body (where the data is anonymized whenever possible), (c) transfer to a third party (where the requirements of the LGPD are met), or (d) exclusive use by the Operator (only after anonymization).
+
+12.3 Certification of Deletion. The Operator shall certify in writing to the Controller that it has deleted Personal Data in accordance with this Article 12.
+
+12.4 Wind-Down Period. Deletion or return is completed within thirty (30) days following the end of services.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+13.1 Term. This DPA runs for the term of the Agreement plus the wind-down period.
+
+13.2 Survival. Articles 8, 11, and 12 survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+14.1 Incorporation. This DPA is part of the Agreement.
+
+14.2 Order of Precedence. This DPA controls on personal-data matters; the Agreement controls on commercial matters not modified by this DPA.
+
+14.3 Counterparts and Execution. This DPA may be executed in counterparts. The Portuguese version of this DPA, if any is prepared for the convenience of the Parties, shall not control over the English version in case of conflict, except where Brazilian law requires the Portuguese version to control.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+Parties: Controller is {{CUSTOMER_NAME}}; Operator is {{PROVIDER_NAME}}.
+Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+Categories of Personal Data: {{DATA_CATEGORIES}}.
+Sensitive Personal Data: as identified by the Controller; the Controller represents that any Sensitive Personal Data submitted to the Operator is supported by an Article 11 lawful basis.
+Frequency: continuous.
+Nature: {{PROCESSING_PURPOSE}}.
+Purpose: providing the services described in the Agreement.
+Retention: for the term of the Agreement plus the wind-down period and any retention permitted by Article 16 of the LGPD.
+
+ANNEX II — TECHNICAL AND ADMINISTRATIVE SECURITY MEASURES
+
+The Operator's security measures comply with Article 46 of the LGPD and include:
+
+1. Encryption: TLS 1.2+ in transit, AES-256 at rest.
+2. Access controls: SSO + MFA, role-based, least privilege.
+3. Network security: production / non-production segregation, WAF.
+4. Personnel security: background checks, confidentiality undertakings, annual data protection training.
+5. Sub-operator management: written agreements, monitoring.
+6. Regular testing: annual SOC 2 Type II, annual ISO 27001 certification, quarterly vulnerability scans, annual penetration testing.
+7. Data residency: hosted in {{DATA_RESIDENCY_REGION}}.
+8. Incident response: documented plan. Notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8.
+9. DPO (Encarregado) designation under Article 41 of the LGPD.
+
+ANNEX III — APPROVED SUB-OPERATORS
+
+Current list at the Operator's trust center.
+
+ANNEX IV — INTERNATIONAL TRANSFERS
+
+Article 33 LGPD lawful bases. EU SCCs (Module 2 and Module 3) and UK IDTA incorporated for transfers from the EEA and UK. ANPD-approved SCCs incorporated to the extent the ANPD has approved standard contractual clauses. Transfer Impact Assessment maintained on a current basis.
+
+IN WITNESS WHEREOF, the Parties have executed this DPA as of the DPA Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

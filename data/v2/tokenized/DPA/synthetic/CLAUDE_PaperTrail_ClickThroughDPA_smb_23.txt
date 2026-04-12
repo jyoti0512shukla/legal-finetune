@@ -1,0 +1,147 @@
+Data Processing Addendum (Click-Through, Self-Serve)
+
+Processor: {{PROVIDER_NAME}} ({{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}}, {{PROVIDER_ADDRESS}})
+Customer / Controller: {{CUSTOMER_NAME}} ({{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}}, {{CUSTOMER_ADDRESS}})
+DPA Effective Date: {{EFFECTIVE_DATE}}
+Parent agreement: {{PARENT_AGREEMENT_NAME}} dated {{PARENT_AGREEMENT_DATE}}
+
+By signing this DPA, by clicking "I agree" in the Processor's customer portal, or by continuing to use the Processor's services after the DPA Effective Date, the Customer agrees to the terms below. This DPA is the Processor's standard click-through DPA for self-serve customers and is part of the parent agreement above.
+
+Where this DPA conflicts with the parent agreement on personal-data matters, this DPA wins. Otherwise the parent agreement controls.
+
+ARTICLE 1 — DEFINITIONS
+
+Standard meanings from the EU GDPR, UK GDPR, and CCPA / CPRA apply.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES
+
+2.1 The Customer is the Controller. The Processor is the Processor.
+
+2.2 The Processor processes Customer Personal Data only on the Customer's documented instructions, which are: the parent agreement, this DPA, and the Customer's standard product configuration.
+
+2.3 No Sale. The Processor will not Sell or Share Customer Personal Data within the meaning of CCPA / CPRA.
+
+2.4 No Custom Instructions. This is a self-serve product. The Processor does not act on individual customer custom instructions outside of the standard product workflow. Customers needing custom Processing arrangements should contact the Processor's enterprise sales team.
+
+ARTICLE 3 — SCOPE OF PROCESSING
+
+3.1 Subject matter, nature, purpose, duration, categories of Personal Data, and categories of Data Subjects are in Annex I.
+
+3.2 Nature and purpose: {{PROCESSING_PURPOSE}}.
+
+3.3 Categories of Personal Data: {{DATA_CATEGORIES}}.
+
+3.4 Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+
+3.5 The Customer represents that it has a lawful basis for the Processing under Applicable Data Protection Law.
+
+ARTICLE 4 — PROCESSOR OBLIGATIONS
+
+4.1 Process only on instructions; personnel confidentiality; no use of Customer Personal Data for the Processor's marketing; no use for AI / ML training without consent; no combining with other data.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+5.1 The Processor implements the standard TOMs in Annex II.
+
+5.2 TLS 1.2+ in transit. AES-256 at rest. SSO + MFA for personnel access. Annual SOC 2 Type II audit.
+
+ARTICLE 6 — SUB-PROCESSORS
+
+6.1 General authorization. The Customer authorizes the Processor's standard sub-processors as listed at the Processor's trust center and in Annex III.
+
+6.2 Notice of changes. The Processor will notify the Customer of additions or replacements via the Processor's trust center, with at least 15 days' notice.
+
+6.3 Right to object. The Customer may object on reasonable data protection grounds within 15 days. If the Customer doesn't object within 15 days, the Customer is deemed to have accepted the new sub-processor.
+
+6.4 Sub-processor obligations. Each sub-processor under written agreement with data protection terms equivalent to this DPA.
+
+ARTICLE 7 — DATA SUBJECT RIGHTS
+
+7.1 The Processor provides self-service tools in the platform for the Customer to retrieve and delete Personal Data on a per-Data-Subject basis.
+
+7.2 If the Processor receives a Data Subject request directly, the Processor will forward it to the Customer within 10 business days.
+
+ARTICLE 8 — PERSONAL DATA BREACH NOTIFICATION
+
+8.1 The Processor will notify the Customer within {{BREACH_NOTIFICATION_HOURS}} hours after becoming aware of a Personal Data Breach affecting Customer Personal Data.
+
+8.2 The notification will include the categories and approximate number of Data Subjects affected, the categories and approximate number of Personal Data records affected, the contact point at the Processor, the likely consequences, and the measures taken or proposed.
+
+8.3 The Processor will cooperate with the Customer in investigating, remediating, and notifying any Supervisory Authority.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS
+
+9.1 The Processor will provide reasonable assistance with the Customer's DPIAs by sharing the Processor's standard documentation (TOMs, SOC 2 Type II report, sub-processor list, trust center information). Custom DPIA assistance is not part of this self-serve DPA.
+
+ARTICLE 10 — INTERNATIONAL TRANSFERS
+
+10.1 EU SCCs (2021/914) incorporated by reference, with Module 2 for direct transfers and Module 3 for onward transfers, general sub-processor authorization (Option 2), Irish governing law, Irish venue, Annexes referencing this DPA's Annexes I, II, and III.
+
+10.2 UK IDTA incorporated for UK transfers with the same parameters.
+
+10.3 The Processor maintains a current Transfer Impact Assessment.
+
+ARTICLE 11 — AUDIT RIGHTS
+
+11.1 The Customer's audit right is satisfied by the Processor's annual SOC 2 Type II report, available at no charge via the Processor's trust center.
+
+11.2 On-Site Audits. On-site audits are not part of the self-serve product. Customers needing on-site audit rights should contact the Processor's enterprise sales team for an enterprise agreement.
+
+ARTICLE 12 — DELETION OR RETURN OF PERSONAL DATA
+
+12.1 When the services end, the Customer can delete its data via self-service tools in the platform. Data is automatically deleted from the Processor's active systems within 30 days following service termination.
+
+12.2 Backup or archival copies retained per the Processor's standard retention schedule remain subject to this DPA's confidentiality and security obligations until they're overwritten in the ordinary course.
+
+12.3 Self-Service Export. The Customer can export Customer Personal Data via the Processor's standard data export tool prior to termination.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+This DPA runs for the term of the parent agreement plus the wind-down period. Articles 8, 11, and 12 survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+This DPA is part of the parent agreement. In any conflict, this DPA wins on personal-data matters; the parent agreement wins on commercial matters, IP, liability, governing law, and dispute resolution.
+
+By signing below or by clicking "I agree" in the customer portal, the Customer accepts this DPA.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+Parties: Controller is {{CUSTOMER_NAME}}; Processor is {{PROVIDER_NAME}}.
+Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+Categories of Personal Data: {{DATA_CATEGORIES}}.
+Sensitive Data: none beyond what's identified above.
+Frequency: continuous.
+Nature: {{PROCESSING_PURPOSE}}.
+Purpose: providing the Processor's self-serve product to the Customer.
+Retention: per the Processor's standard data retention schedule.
+
+ANNEX II — TECHNICAL AND ORGANIZATIONAL MEASURES (PROCESSOR STANDARD)
+
+Encryption: TLS 1.2+ in transit, AES-256 at rest.
+Access: SSO + MFA, role-based.
+Network: production / non-production segregation, WAF.
+Backup and recovery: Processor's standard BCDR plan.
+Personnel: background checks, confidentiality undertakings, annual security training.
+Sub-processor management: written agreements.
+Regular testing: annual SOC 2 Type II.
+Data residency: hosted in {{DATA_RESIDENCY_REGION}}.
+Incident response: documented plan, breach notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+Current list at the Processor's trust center, with notification of additions or replacements via the trust center.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+Or accepted via the customer portal on the DPA Effective Date.

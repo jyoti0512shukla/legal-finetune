@@ -1,0 +1,199 @@
+STATEMENT OF WORK — PAID MEDIA MANAGEMENT (GOOGLE ADS + META ADS)
+
+This Statement of Work (the "SOW") is dated {{EFFECTIVE_DATE}} and is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} located at {{PROVIDER_ADDRESS}} (the "Agency"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} located at {{CUSTOMER_ADDRESS}} (the "Client"). It's issued under the Agency Services Agreement we signed on {{MSA_EFFECTIVE_DATE}} (the "MSA"). Capitalized terms not defined here have the meanings given in the MSA.
+
+We're calling this engagement "{{PROJECT_NAME}}".
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 What we're doing. The Agency will manage the Client's paid media campaigns on Google Ads and Meta Ads (Facebook + Instagram) on a monthly retainer basis, with the goal of generating qualified leads for the Client's lead-gen funnel at or below the agreed cost-per-qualified-lead target. This is an ongoing engagement that runs for the engagement period in Article 3, with the option to renew on the same terms.
+
+1.2 In-scope activities. Each calendar month, the Agency will:
+
+(a) Build out and manage Google Ads campaigns (search, performance max, and remarketing) within the Client's Google Ads account.
+
+(b) Build out and manage Meta Ads campaigns (Facebook and Instagram, prospecting and retargeting) within the Client's Meta Business account.
+
+(c) Produce ad copy and creative variations for testing — up to 12 ad variations per month across the two platforms. Static creative only; video creative and animation are out of scope per Section 1.3.
+
+(d) Manage daily and weekly bid adjustments, audience targeting, and budget pacing.
+
+(e) Conduct landing page conversion-rate analysis and provide recommendations to the Client. Implementing the recommendations is the Client's responsibility (or a separate scope).
+
+(f) Set up and maintain conversion tracking for the Client's CRM events via Google Tag Manager and the Meta Conversions API.
+
+(g) Produce a monthly performance report covering spend, lead volume, cost per lead, cost per qualified lead, and recommendations for the next month.
+
+(h) Hold a monthly performance review call with the Client (60 minutes).
+
+(i) Hold a weekly check-in call with the Client (30 minutes).
+
+1.3 Out-of-scope activities. The following are not in scope. Any of these, if requested, requires a Change Order under Article 8:
+
+(a) Video production, animation, motion graphics, or photography.
+
+(b) Landing page design, copywriting, or development. The Agency provides recommendations; implementation is the Client's responsibility.
+
+(c) Email marketing, SMS marketing, organic social media, or SEO.
+
+(d) Paid media on platforms other than Google and Meta. LinkedIn, TikTok, Pinterest, Reddit, and YouTube-specific work are out of scope.
+
+(e) Brand or strategy work. This SOW is execution-focused.
+
+(f) Integration with the Client's CRM beyond the standard Google Tag Manager and Meta Conversions API setup.
+
+(g) Marketing attribution work beyond the platform-native attribution available in Google Ads and Meta Ads Manager.
+
+(h) Crisis response, reputation management, or content moderation.
+
+1.4 Engagement period. The Agency will perform the In-Scope Activities from the Project Start Date through the Project End Date set out in Article 3. The Project End Date is the end of the initial twelve (12) month engagement; after that, the engagement continues on a month-to-month basis unless either Party gives 30 days' written notice of non-renewal.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Monthly Deliverables. The Agency will deliver each calendar month:
+
+(a) Monthly Performance Report — a written report covering the prior month's spend, lead volume, cost per lead, cost per qualified lead, top-performing ads, top-performing audiences, and recommendations for the next month. Target: by the 5th business day of each month, covering the prior month.
+
+(b) Up to 12 ad variations, deployed in the live campaigns or staged for the next campaign cycle.
+
+(c) Conversion tracking confirmation — verification that the Client's tracking is firing correctly for each of the events in Schedule A.
+
+2.2 One-time Onboarding Deliverables. In the first 30 days of the engagement, the Agency will deliver:
+
+(a) Account Audit and Baseline Report — a written audit of the Client's existing Google Ads and Meta Ads accounts, baseline performance metrics, and the recommended starting account structure. Target: end of Project Week 2.
+
+(b) Conversion Tracking Implementation — Google Tag Manager and Meta Conversions API setup, with confirmation that all conversion events in Schedule A are firing correctly. Target: end of Project Week 3.
+
+(c) Initial Campaign Build — first set of campaigns built and launched. Target: end of Project Week 4.
+
+2.3 How acceptance works for monthly deliverables. The Monthly Performance Report is delivered by the 5th business day of each month. The Client has five (5) business days to either accept it or send a single consolidated written response with questions or requested changes. If the Client doesn't respond within five business days, the Monthly Performance Report is deemed accepted.
+
+2.4 How acceptance works for the onboarding deliverables. Each onboarding Deliverable has a five (5) business day acceptance period. If the Client rejects, the Agency will cure within five (5) business days at no extra charge.
+
+2.5 Performance is not "acceptance." Acceptance of a Monthly Performance Report does not constitute acceptance of the underlying campaign performance — paid media is variable, and the Agency does not guarantee specific lead volume or cost-per-lead outcomes (see Section 6.1(d)).
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project dates. The Project starts on {{PROJECT_START_DATE}} and runs through {{PROJECT_END_DATE}}, the end of the initial twelve-month engagement.
+
+3.2 Onboarding milestones (first 30 days).
+
+(a) Milestone 1 — Account Audit and Baseline Report accepted. Target: Week 2.
+
+(b) Milestone 2 — Conversion Tracking Implementation complete. Target: Week 3.
+
+(c) Milestone 3 — Initial Campaign Build complete and live. Target: Week 4.
+
+3.3 Steady-state cadence. After the initial 30-day onboarding, the Agency operates on a recurring monthly cadence with weekly check-ins (Section 1.2(i)) and monthly performance reviews (Section 1.2(h)).
+
+3.4 Status reporting. The Agency will deliver the Monthly Performance Report by the 5th business day of each month. The weekly check-in call serves as the within-month status update. If anything looks off-track between check-ins, the Agency will notify the Client by email or Slack.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Who's on the account. Named team in Schedule B:
+
+(a) Account Director (oversight, attends monthly performance reviews — minimum 15% allocation).
+
+(b) Lead Media Buyer — Google Ads (minimum 50% allocation across the engagement).
+
+(c) Lead Media Buyer — Meta Ads (minimum 50% allocation across the engagement).
+
+(d) Creative Strategist (writes ad copy, briefs creative production — minimum 25% allocation).
+
+4.2 No swap without notice. The Agency won't swap out a Lead Media Buyer without giving the Client a heads up first. If a swap is necessary, the Agency will provide a comparable replacement and brief them on the account before the next monthly cycle.
+
+4.3 Background. The Agency's people are W-2 employees and are bound by the confidentiality terms in the MSA.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 What the Agency needs from the Client. The Agency needs the Client to:
+
+(a) Designate one Client point of contact who can approve creative, approve budget changes, and join the weekly check-in.
+
+(b) Grant the Agency administrator-level access to the Client's Google Ads, Meta Business, Google Analytics, and Google Tag Manager accounts. (The Client retains ownership of these accounts.)
+
+(c) Provide the Client's brand assets (logos, colors, approved imagery) and the Client's voice-and-tone guide.
+
+(d) Fund the media spend directly to Google and Meta. The Client's credit card or billing arrangement is on the Client's account; the Agency does not pay media spend out of pocket and does not invoice the Client for media spend (see Section 7.4).
+
+(e) Provide qualified-lead feedback (which leads from the Client's CRM are qualified, which are not) on a weekly basis so the Agency can optimize for cost per qualified lead, not just cost per raw lead.
+
+(f) Respond to creative reviews and questions within two (2) business days for time-sensitive items, five (5) business days otherwise.
+
+5.2 Accuracy. The Client is responsible for the accuracy of any product or pricing claims in the ad copy. The Agency will draft based on the Client's existing marketing materials and the Client's brand guide; the Client is responsible for legal review of the final ad copy if such review is required.
+
+5.3 Compliance. The Client is responsible for the legal compliance of the offers and claims in the ads, including any industry-specific advertising rules (HIPAA marketing rules for healthcare, FTC endorsement rules, FINRA rules for financial services, etc.). The Agency will flag obviously problematic claims but is not the Client's compliance reviewer.
+
+5.4 If the Client is late. If the Client is more than three (3) business days late in providing creative approvals or qualified-lead feedback, the Agency will flag the delay in the next status update. Persistent delays may result in suboptimal cost-per-qualified-lead performance, and the Agency will not be held responsible for performance shortfalls attributable to Client delays.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions.
+
+(a) The Client's combined monthly media spend across Google and Meta is between US$25,000 and US$100,000. If monthly spend falls outside this range, the Agency may propose a fee adjustment via Change Order.
+
+(b) The Client's CRM is one of the supported CRMs in Schedule C. Integration with an unsupported CRM is billable as additional scope.
+
+(c) The Client's website supports Google Tag Manager and the Meta pixel. If the Client's website cannot accept these tags (some CMS platforms have limitations), the Agency cannot perform conversion tracking and the engagement is not viable as scoped.
+
+(d) Past paid media performance is not predictive of future performance. The Agency does not guarantee any specific lead volume, cost per lead, ROAS, or conversion rate. Performance commitments are not part of this SOW.
+
+(e) The Client's offer, pricing, and product remain materially unchanged during the engagement. Material changes to the offer (significant price changes, product line changes) may require campaign re-baselining via Change Order.
+
+(f) Google's and Meta's ad platforms remain operational and the Client's ad accounts remain in good standing. Ad account suspensions due to policy violations are addressed in Section 6.3.
+
+6.2 Third-party dependencies. The engagement depends on (a) Google Ads and Meta Ads being operational and accessible, (b) the Client's CRM accepting conversion data via the Meta Conversions API and Google Ads conversion import, and (c) the Client's website hosting environment accepting tracking tags.
+
+6.3 Ad account suspensions. If Google or Meta suspends the Client's ad account due to a policy violation, the Agency will assist with reinstatement on a commercially reasonable basis but cannot guarantee reinstatement. Repeated suspensions may make the engagement unviable.
+
+6.4 If an assumption is wrong. The Agency will let the Client know promptly if any assumption turns out to be incorrect.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Monthly retainer. The Client shall pay the Agency a monthly retainer of {{SOW_FEE_AMOUNT}} per month for the In-Scope Activities. This is a fixed monthly fee, not time-and-materials, and not a percentage of media spend.
+
+7.2 Onboarding fee. There is no separate onboarding fee. The first month's retainer covers the onboarding deliverables in Section 2.2.
+
+7.3 Invoicing. The Agency invoices the Client on the 1st of each month for the upcoming month's services. Invoices are due net 15.
+
+7.4 Media spend. Media spend is paid by the Client directly to Google and Meta. The Agency does not invoice for media spend, does not advance media spend, and does not earn a markup or commission on media spend. Total media spend during a given month is whatever the Client sets in its Google Ads and Meta Ads billing settings.
+
+7.5 Expense reimbursement. The Agency does not expect to incur reimbursable expenses on this engagement. If the Client requests creative work that requires licensed stock imagery or licensed fonts, the Agency will get pre-approval in writing for any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}}.
+
+7.6 Late payment. Invoices are due net 15. The MSA's late-payment terms apply (interest accrues, and the Agency may pause work on past-due accounts).
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 How changes work. Either Party can ask for a change at any time by sending the other Party an email describing the proposed change.
+
+8.2 Impact. The Agency will respond within three (3) business days with the impact on scope, monthly retainer, or schedule.
+
+8.3 Change Order. If the Parties agree to a change, the Agency will write up a one-page Change Order. Both Parties sign it. No change is binding until signed.
+
+8.4 De minimis. Changes that move the monthly retainer by less than {{CHANGE_ORDER_THRESHOLD}} per month and don't change the engagement scope can be done by email confirmation between the named contacts.
+
+8.5 Adding platforms. Adding a third paid media platform (LinkedIn, TikTok, etc.) is always a Change Order — the engagement scope is currently Google + Meta only.
+
+8.6 Pending changes. The Agency continues the in-scope activities while a Change Order is being negotiated.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT
+
+9.1 The MSA controls. This SOW is part of the Agency Services Agreement signed on {{MSA_EFFECTIVE_DATE}}. Everything in the MSA — confidentiality, data security, intellectual property, indemnification, limitation of liability, governing law, and dispute resolution — applies. If anything in this SOW conflicts with the MSA, the MSA wins, except for the monthly retainer, the engagement period, the deliverables, and the acceptance terms.
+
+9.2 Account ownership. The Client retains ownership of its Google Ads, Meta Business, Google Analytics, and Google Tag Manager accounts at all times. The Agency operates the accounts on the Client's behalf as an authorized administrator. On termination, the Agency relinquishes all access within five (5) business days.
+
+9.3 Termination. This SOW may be terminated only as expressly provided in the MSA or in this SOW. Either Party may terminate for convenience on thirty (30) days' written notice after the initial twelve-month commitment.
+
+Signed as of the date at the top.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

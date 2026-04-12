@@ -1,0 +1,712 @@
+{
+  "_description": "Per-contract metadata for synthetic License Agreement contracts. License agreements grant rights in IP (patent, trademark, copyright, software, trade secret, know-how) from a Licensor to a Licensee. Each entry captures industry, deal_size, customer_type, negotiation_bias, drafting_style, regulatory_frameworks, special_features, primary_clause_focus.",
+  "CLAUDE_NovaTherapeutics_PharmaCompoundPatentLicense_enterprise_01": {
+    "industry": "pharmaceutical_licensing",
+    "industry_label": "small-molecule pharmaceutical compound patent license (research → commercialization)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "biotech_licensee",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "U.S. Bankruptcy Code Section 365(n) (IP license safe harbor)",
+      "FDA New Drug Application (NDA) approval process",
+      "European Medicines Agency (EMA) approval process",
+      "Hatch-Waxman Act (data and regulatory exclusivity)",
+      "orphan drug exclusivity",
+      "pediatric exclusivity"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "upfront_plus_milestones_plus_royalties",
+    "special_features": [
+      "upfront cash payment plus development, regulatory, and sales milestones",
+      "tiered milestone payments (US$5M IND through US$100M sales milestone)",
+      "running royalty on Net Sales with country-by-country, product-by-product royalty term",
+      "royalty stacking provision (Licensee may credit 50% of Third Party royalties, floor at 50% of Section 4.3 rate)",
+      "minimum annual royalty after First Commercial Sale",
+      "field-of-use limitation (human therapeutic applications, veterinary reserved)",
+      "Section 365(n) bankruptcy safe harbor",
+      "Combination Product Net Sales calculation formula",
+      "first-right enforcement of Licensed Patents by Licensor with Licensee step-in right",
+      "Improvements clause: Licensor improvements automatically licensed; Licensee improvements granted back outside Field"
+    ],
+    "primary_clause_focus": ["license_grant", "license_royalties_payment", "license_audit_rights"]
+  },
+  "CLAUDE_LumiereMaison_FashionTrademarkLicense_enterprise_02": {
+    "industry": "fashion_apparel_trademark",
+    "industry_label": "fashion brand trademark license to apparel manufacturer",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "apparel_manufacturer_licensee",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "Lanham Act (15 U.S.C. § 1051 et seq.)",
+      "U.S. Patent and Trademark Office trademark registration practice",
+      "naked license doctrine",
+      "consumer product safety regulations"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "upfront_plus_running_royalty_plus_minimum",
+    "special_features": [
+      "strict quality control with sample approval requirement",
+      "approved-manufacturer pre-approval requirement",
+      "channel restrictions (no off-price, no jobbers, no gray market)",
+      "marketing commitment (3% of Net Sales)",
+      "naked license avoidance language",
+      "180-day sell-off period after termination",
+      "no challenge to validity covenant",
+      "$5M product liability insurance minimum",
+      "termination right for repeated quality failures",
+      "minimum annual royalty creditable against running royalties"
+    ],
+    "primary_clause_focus": ["license_quality_control", "license_grant", "license_royalties_payment"]
+  },
+  "CLAUDE_QuantumStack_EnterpriseSourceCodeLicense_enterprise_03": {
+    "industry": "enterprise_software_licensing",
+    "industry_label": "enterprise source-code license for embedding in larger platform",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "platform_oem_licensee",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "U.S. Bankruptcy Code Section 365(n) (IP license safe harbor)",
+      "U.S. Copyright Act",
+      "Defend Trade Secrets Act",
+      "Uniform Trade Secrets Act"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "perpetual_license_fee_plus_optional_maintenance",
+    "special_features": [
+      "perpetual, irrevocable source-code license",
+      "source code escrow agreement (Iron Mountain / NCC Group)",
+      "20% annual maintenance fee for Updates",
+      "no per-end-customer distribution royalty",
+      "OSS contamination prohibition",
+      "3x license-fee cap on infringement indemnification",
+      "Licensor mitigation options (procure rights / modify / refund)",
+      "Licensee owns Modifications (subject to underlying Licensor IP)",
+      "Bug Fix license-back to Licensor for general distribution",
+      "no termination for convenience",
+      "perpetual confidentiality for trade secrets"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_warranties_indemnification"]
+  },
+  "CLAUDE_AtlasRecords_MusicMasterSynchLicense_enterprise_04": {
+    "industry": "music_master_synch",
+    "industry_label": "music master use and synchronization license for film / TV production",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "film_studio_licensee",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "U.S. Copyright Act § 115 (compulsory mechanical license — inapplicable here)",
+      "AFM, AFTRA/SAG re-use payment guild rules",
+      "ASCAP / BMI / SESAC performing rights organizations",
+      "AARC neighboring rights"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "synch_fee_plus_master_use_fee_plus_box_office_steps",
+    "special_features": [
+      "combined master use + synchronization license",
+      "Most Favored Nations (MFN) on synch fee, master use fee, and credit",
+      "exclusivity period (Licensor cannot license same Master/Composition in Field during exclusivity)",
+      "step payments tied to theatrical box office (US$100M and US$250M thresholds)",
+      "soundtrack album royalty (pro rata to total recordings)",
+      "cue sheet delivery requirement",
+      "on-screen credit requirement",
+      "no re-recording / no sound-alike",
+      "no standalone distribution",
+      "performance royalties through PROs (not included in this Agreement)",
+      "perpetual term (life of copyright)"
+    ],
+    "primary_clause_focus": ["license_grant", "license_royalties_payment", "license_term_termination"]
+  },
+  "CLAUDE_FrameLibrary_StockPhotoLicense_smb_05": {
+    "industry": "stock_content",
+    "industry_label": "stock photography library — perpetual royalty-free commercial license",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "commercial_user",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [
+      "U.S. Copyright Act",
+      "right of publicity laws",
+      "model release / property release common law"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "perpetual_per_image_flat_fee",
+    "special_features": [
+      "perpetual royalty-free license",
+      "no model or property release included (Licensee responsible)",
+      "use restrictions (no tobacco / gambling / adult / political endorsement)",
+      "no template-based product use",
+      "no AI training / deepfake use carve-out is NOT included (would be added in newer revisions)",
+      "no general clawback once paid",
+      "$10K per-image cap on infringement indemnification",
+      "subscription model alongside per-image purchase"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_warranties_indemnification"]
+  },
+  "CLAUDE_GlyphForge_FontFoundryLicense_smb_06": {
+    "industry": "type_design",
+    "industry_label": "font foundry desktop license to creative agency",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "creative_agency",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [
+      "U.S. Copyright Act (font software protection)"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "per_seat_perpetual_flat_fee",
+    "special_features": [
+      "per-seat desktop license",
+      "client deliverables must be outlined (no font file sharing)",
+      "web font use requires separate license",
+      "app embedding requires separate license",
+      "ePub embedding requires separate license",
+      "no logo license without separate purchase",
+      "trade secret protection for font hinting",
+      "self-certification audit (no on-site audit)"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_audit_rights"]
+  },
+  "CLAUDE_PulseAPI_SDKClientLibraryLicense_smb_07": {
+    "industry": "developer_tools",
+    "industry_label": "API client library / SDK license for embedding in customer apps",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "app_developer",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "free_sdk_plus_paid_api",
+    "special_features": [
+      "free royalty-free SDK license (paid API agreement separate)",
+      "embed-in-customer-app permitted",
+      "no standalone SDK distribution",
+      "no competing developer tools",
+      "no API rate limit circumvention",
+      "open-source dependency disclosure",
+      "telemetry can be disabled",
+      "no SDK audit (API usage metered separately)"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_warranties_indemnification"]
+  },
+  "CLAUDE_KernelSpace_OpenSourceDualLicense_smb_08": {
+    "industry": "open_source_dual_license",
+    "industry_label": "open-source database engine / commercial license alongside AGPLv3",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "commercial_oss_user",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [
+      "GNU AGPL v3"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "annual_per_instance_subscription",
+    "special_features": [
+      "dual licensing — AGPL or commercial",
+      "commercial license relieves AGPL copyleft",
+      "per-instance pricing tier",
+      "no competing hosted service (Business Source License-style restriction)",
+      "no fork rebranding",
+      "Contribution license-back to Licensor (dual-licensable)",
+      "after termination, Licensee falls back to AGPL or stops using",
+      "self-certification audit"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_term_termination"]
+  },
+  "CLAUDE_ReelStock_StockFootageLicense_smb_09": {
+    "industry": "stock_content",
+    "industry_label": "stock video footage library — perpetual royalty-free commercial license",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "video_production_company",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [
+      "U.S. Copyright Act",
+      "right of publicity laws"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "perpetual_per_clip_flat_fee",
+    "special_features": [
+      "perpetual royalty-free license",
+      "no AI training / deepfake use",
+      "client deliverable use permitted (clips edited into productions)",
+      "no standalone redistribution",
+      "no template-based products",
+      "no model release included",
+      "$25K per-clip cap on infringement indemnification",
+      "subscription model alongside per-clip purchase"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_warranties_indemnification"]
+  },
+  "CLAUDE_BeatVault_BeatLicense_smb_10": {
+    "industry": "music_beat_licensing",
+    "industry_label": "independent music producer beat license to recording artist",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "indie_recording_artist",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [
+      "U.S. Copyright Act",
+      "PRO publishing royalty administration (BMI / ASCAP / SESAC)"
+    ],
+    "party_roles": {"provider": "Producer", "customer": "Artist"},
+    "pricing_structure": "tiered_exclusivity_per_beat",
+    "special_features": [
+      "tiered exclusivity (non-exclusive vs. exclusive)",
+      "10,000 unit cap on non-exclusive beat use",
+      "producer royalty above 50K monthly streams",
+      "publishing royalty 50/50 split",
+      "no synch use without separate license",
+      "no standalone beat distribution",
+      "producer credit required",
+      "sample disclosure if applicable"
+    ],
+    "primary_clause_focus": ["license_grant", "license_royalties_payment", "license_restrictions"]
+  },
+  "CLAUDE_HollowGrain_IndieArtworkLicense_smb_11": {
+    "industry": "independent_artwork_licensing",
+    "industry_label": "independent visual artist commercial artwork license to consumer brand",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "small_consumer_brand",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [
+      "U.S. Copyright Act"
+    ],
+    "party_roles": {"provider": "Artist", "customer": "Licensee"},
+    "pricing_structure": "upfront_plus_running_royalty_plus_minimum",
+    "special_features": [
+      "exclusive within product category, non-exclusive across categories",
+      "running royalty plus minimum annual royalty",
+      "artist retains right to sell prints / portfolio use",
+      "artist credit required",
+      "no NFT / standalone artwork distribution",
+      "no use as licensee brand mark",
+      "no derogatory use",
+      "180-day sell-off period",
+      "indie-friendly cap on artist liability"
+    ],
+    "primary_clause_focus": ["license_grant", "license_royalties_payment", "license_audit_rights"]
+  },
+  "CLAUDE_LearnLoop_CourseContentCorporateLDLicense_smb_12": {
+    "industry": "learning_and_development",
+    "industry_label": "professional development course content license to corporate L&D",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "enterprise_ld_team",
+    "negotiation_bias": "balanced",
+    "drafting_style": "plain_english",
+    "regulatory_frameworks": [
+      "GDPR / CCPA (learner data protection — separate DPA)"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "annual_per_learner_tier_subscription",
+    "special_features": [
+      "internal use only (no customer training)",
+      "SCORM / xAPI LMS-compatible delivery",
+      "no public distribution",
+      "tiered per-learner pricing",
+      "course catalog growth included",
+      "no learner data access by Licensor",
+      "no warranty of training outcomes",
+      "self-certification audit"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_term_termination"]
+  },
+  "CLAUDE_FortressGlobal_EnterprisePerpetualOnPremLicense_enterprise_13": {
+    "industry": "enterprise_software_licensing",
+    "industry_label": "enterprise perpetual on-prem software license (customer paper)",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "regulated_enterprise_customer",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "U.S. Bankruptcy Code Section 365(n)",
+      "Defend Trade Secrets Act"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Customer"},
+    "pricing_structure": "perpetual_enterprise_wide_fee",
+    "special_features": [
+      "perpetual irrevocable enterprise-wide license",
+      "no user / CPU / core / RAM metering",
+      "Affiliate use included automatically",
+      "reverse engineering carve-out for security and interoperability",
+      "source code escrow with self-maintenance license",
+      "open source disclosure required",
+      "uncapped Licensor IP infringement indemnification",
+      "Most Favored Customer pricing",
+      "Customer can terminate for any reason; perpetual license survives",
+      "10-year amortization for refund mitigation",
+      "no audit-based license fee recovery"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_warranties_indemnification"]
+  },
+  "CLAUDE_BellGravity_PatentCrossLicense_enterprise_14": {
+    "industry": "patent_cross_licensing",
+    "industry_label": "bilateral patent cross-license between two large technology companies",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "peer_technology_company",
+    "negotiation_bias": "balanced",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [],
+    "party_roles": {"provider": "Party A", "customer": "Party B"},
+    "pricing_structure": "balancing_payment_only",
+    "special_features": [
+      "bilateral cross-license — both parties act as Licensor and Licensee",
+      "Capture Period for future patents (5 years)",
+      "Have-Made Right",
+      "Excluded Technologies carve-out",
+      "mutual covenant not to sue",
+      "mutual release of pre-Effective Date claims",
+      "dismissal of pending patent litigation",
+      "balancing payment only (no running royalty)",
+      "PAE / NPE standstill",
+      "patents transferred during Term remain subject to cross-license",
+      "no termination for breach (cross-license is perpetual)",
+      "ICDR international arbitration"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_term_termination"]
+  },
+  "CLAUDE_OmegaSequencing_GenomicDatasetAILicense_enterprise_15": {
+    "industry": "genomic_data_licensing",
+    "industry_label": "human genomic dataset license for AI / ML model training",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "ai_ml_research_org",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "HIPAA Privacy Rule (Safe Harbor / Expert Determination de-identification)",
+      "Genetic Information Nondiscrimination Act (GINA)",
+      "Common Rule (45 C.F.R. Part 46)",
+      "state genetic privacy laws"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Customer"},
+    "pricing_structure": "license_fee_plus_annual_maintenance",
+    "special_features": [
+      "Secure Computing Environment requirement",
+      "no re-identification covenant",
+      "withdrawal-of-consent honoring",
+      "IRB approval required",
+      "no foundation model training without consent",
+      "no commercial use without separate license",
+      "uncapped customer indemnification for re-identification",
+      "24-hour breach notification",
+      "AES-256 / TLS 1.3 encryption requirements",
+      "indefinite confidentiality",
+      "compliance audit right"
+    ],
+    "primary_clause_focus": ["license_restrictions", "license_audit_rights", "license_grant"]
+  },
+  "CLAUDE_HoraceMercer_CelebrityNILCollabLicense_enterprise_16": {
+    "industry": "celebrity_nil_licensing",
+    "industry_label": "celebrity name, image, and likeness license for brand collaboration product",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "consumer_brand",
+    "negotiation_bias": "customer_friendly",
+    "drafting_style": "customer_paper_negotiated",
+    "regulatory_frameworks": [
+      "right of publicity laws",
+      "Lanham Act § 43(a) (false endorsement)",
+      "FTC endorsement guides"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Brand"},
+    "pricing_structure": "upfront_endorsement_fee_plus_running_royalty",
+    "special_features": [
+      "loan-out company structure (Talent not personally liable)",
+      "exclusivity within product category, free outside",
+      "morals clause (Brand's right to suspend / terminate)",
+      "reverse morals clause (Talent's right to suspend / terminate)",
+      "Talent pre-approval of photoshoot output",
+      "no deepfake / no AI training of Talent likeness",
+      "creative approval process",
+      "Talent travel rider",
+      "$5M product liability insurance",
+      "uncapped Brand indemnification",
+      "180-day sell-off period"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_quality_control"]
+  },
+  "CLAUDE_PrairieGrill_FranchiseTrademarkLicenseOrderForm_enterprise_17": {
+    "industry": "restaurant_franchising",
+    "industry_label": "restaurant franchise trademark and operating system license",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "franchisee",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "FTC Franchise Rule (16 C.F.R. Part 436)",
+      "state franchise relationship laws",
+      "naked license doctrine"
+    ],
+    "party_roles": {"provider": "Franchisor", "customer": "Franchisee"},
+    "pricing_structure": "initial_franchise_fee_plus_continuing_royalty_plus_marketing_fund",
+    "special_features": [
+      "FDD pre-disclosure compliance",
+      "weekly continuing royalty",
+      "national marketing fund contribution (2% of Gross Sales)",
+      "local marketing minimum (3% of Gross Sales)",
+      "minimum monthly royalty",
+      "approved supplier requirement",
+      "system operating manual incorporated by reference",
+      "audit penalty (10% of underreported amount)",
+      "broader audit right than commercial licenses",
+      "right of first refusal on transfer",
+      "post-term restrictive covenants in Schedule 5"
+    ],
+    "primary_clause_focus": ["license_quality_control", "license_royalties_payment", "license_audit_rights"]
+  },
+  "CLAUDE_PolaroidUniversity_BayhDolePatentLicenseOrderForm_enterprise_18": {
+    "industry": "university_tech_transfer",
+    "industry_label": "university Bayh-Dole patent license to startup",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "startup_licensee",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "Bayh-Dole Act (35 U.S.C. §§ 200-212)",
+      "37 C.F.R. Part 401 (Bayh-Dole implementing regulations)",
+      "U.S. Government march-in rights (35 U.S.C. § 203)",
+      "U.S. manufacturing preference (35 U.S.C. § 204)",
+      "iEdison reporting"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "upfront_plus_milestones_plus_running_royalty",
+    "special_features": [
+      "U.S. government reserved license",
+      "Bayh-Dole march-in rights acknowledgment",
+      "U.S. manufacturing preference",
+      "diligence milestones with extension mechanism",
+      "patent prosecution cost reimbursement",
+      "sublicense income sharing",
+      "academic publication rights preserved",
+      "reservation for academic research / collaborating institutions",
+      "uncapped Licensee indemnification (university policy)",
+      "no Licensor indemnification of Licensee"
+    ],
+    "primary_clause_focus": ["license_grant", "license_royalties_payment", "license_restrictions"]
+  },
+  "CLAUDE_AtlasRecords_LabelCatalogMasterLicenseOrderForm_enterprise_19": {
+    "industry": "music_catalog_distribution",
+    "industry_label": "record label catalog master license to digital distributor",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "music_distributor",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "U.S. Copyright Act",
+      "PRO performance royalty administration",
+      "guild re-use payments (AFM, AFTRA/SAG)"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "advance_plus_royalty_split",
+    "special_features": [
+      "master recordings only (no synch / no compositions)",
+      "DSP distribution authorized",
+      "distribution fee retained by Licensee from Net Receipts",
+      "monthly royalty reporting",
+      "recoupable upfront advance",
+      "minimum guarantee",
+      "no AI training prohibition (Licensee enforces against DSPs)",
+      "no edits / remixes / mashups",
+      "catalog withdrawal right (30 days notice)",
+      "mechanical royalties paid separately by Licensee"
+    ],
+    "primary_clause_focus": ["license_grant", "license_royalties_payment", "license_restrictions"]
+  },
+  "CLAUDE_AurelisAILab_FoundationModelWeightsEnterpriseLicense_enterprise_20": {
+    "industry": "ai_foundation_model_licensing",
+    "industry_label": "foundation model weights enterprise license for in-house deployment",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "enterprise_ai_customer",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modular_order_form",
+    "regulatory_frameworks": [
+      "EU AI Act (general principles)",
+      "applicable AI safety regulations"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "annual_license_plus_volume_royalty",
+    "special_features": [
+      "weights distributed to Licensee infrastructure",
+      "no redistribution of weights to public model registries",
+      "no re-training as competing foundation model",
+      "prohibited use cases enforced (CSAM, deepfakes, malware, biometric, etc.)",
+      "use restrictions binding on end users",
+      "no removal of safety mechanisms",
+      "Training Data IP indemnification (capped at 3x annual fee)",
+      "no output indemnification",
+      "Licensee owns fine-tunes",
+      "model card attribution",
+      "telemetry can be disabled"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_warranties_indemnification"]
+  },
+  "CLAUDE_HelixBio_PharmaRoyaltyStackingLicense_enterprise_21": {
+    "industry": "pharmaceutical_licensing",
+    "industry_label": "pharmaceutical patent license with explicit royalty stacking and floor mechanics",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "biotech_licensee",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "U.S. Bankruptcy Code Section 365(n)"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "upfront_plus_milestones_plus_stacked_royalty",
+    "special_features": [
+      "explicit royalty stacking deduction (50% credit for Third Party royalties)",
+      "Floor Royalty Rate (50% of Stated Royalty Rate)",
+      "worked example illustrating stacking math",
+      "tiered royalty by cumulative annual Net Sales",
+      "minimum annual royalty after First Commercial Sale",
+      "Combination Product Net Sales formula",
+      "disclosure of Third Party royalties with each report",
+      "Section 365(n) bankruptcy safe harbor",
+      "first-right enforcement by Licensor"
+    ],
+    "primary_clause_focus": ["license_royalties_payment", "license_audit_rights", "license_grant"]
+  },
+  "CLAUDE_PortlandRoasters_TrademarkKnowHowLicense_enterprise_22": {
+    "industry": "consumer_brand_with_proprietary_process",
+    "industry_label": "combined trademark and proprietary process know-how license",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "manufacturer_licensee",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "Lanham Act",
+      "Defend Trade Secrets Act",
+      "naked license doctrine"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "upfront_plus_running_royalty_plus_minimum",
+    "special_features": [
+      "combined trademark + know-how license",
+      "coordinated quality control + trade secret protection",
+      "Approved Specifications and recipes",
+      "no use of know-how after termination (perpetual restriction)",
+      "no generic equivalent manufacture",
+      "naked license avoidance language",
+      "trade secret confidentiality survives indefinitely",
+      "180-day sell-off period",
+      "termination for trade secret breach immediate",
+      "$5M product liability insurance"
+    ],
+    "primary_clause_focus": ["license_grant", "license_quality_control", "license_restrictions"]
+  },
+  "CLAUDE_GraphForgeOSS_GPLCommercialDualLicense_smb_23": {
+    "industry": "open_source_dual_license",
+    "industry_label": "GPLv3 / commercial dual license for graph database engine",
+    "deal_size": "smb",
+    "currency": "USD",
+    "customer_type": "commercial_oss_user",
+    "negotiation_bias": "balanced",
+    "drafting_style": "modern_tech_minimalist",
+    "regulatory_frameworks": [
+      "GNU GPL v3"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "annual_per_instance_subscription",
+    "special_features": [
+      "dual licensing — GPLv3 or commercial",
+      "commercial license relieves GPL copyleft",
+      "per-instance pricing tier",
+      "no competing standalone hosted service",
+      "no fork rebranding under different OSS name",
+      "Contribution license-back (dual-licensable)",
+      "after termination, Licensee falls back to GPLv3 or stops",
+      "self-certification audit",
+      "2x annual fee cap on infringement indemnification"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_term_termination"]
+  },
+  "CLAUDE_MIT_BayhDoleMarchInLicense_enterprise_24": {
+    "industry": "university_tech_transfer",
+    "industry_label": "university tech transfer license with detailed Bayh-Dole march-in provisions",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "startup_licensee",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "Bayh-Dole Act (35 U.S.C. §§ 200-212)",
+      "37 C.F.R. Part 401",
+      "35 U.S.C. § 203 (march-in rights)",
+      "35 U.S.C. § 204 (U.S. manufacturing preference)",
+      "37 C.F.R. § 401.6 (march-in procedures)",
+      "iEdison reporting"
+    ],
+    "party_roles": {"provider": "University", "customer": "Licensee"},
+    "pricing_structure": "upfront_plus_milestones_plus_running_royalty",
+    "special_features": [
+      "detailed march-in rights provisions",
+      "U.S. Government Reserved License",
+      "U.S. manufacturing preference with waiver mechanism",
+      "no suppression covenant",
+      "Practical Application standard from 35 U.S.C. § 201(f)",
+      "annual diligence reports shareable with Funding Agencies",
+      "Funding Agencies as third-party beneficiaries (indemnification scope)",
+      "academic publication rights preserved",
+      "iEdison reporting cooperation",
+      "uncapped university indemnification",
+      "no university indemnification of Licensee"
+    ],
+    "primary_clause_focus": ["license_grant", "license_restrictions", "license_term_termination"]
+  },
+  "CLAUDE_TelconStandards_StandardEssentialPatentFRANDLicense_enterprise_25": {
+    "industry": "standard_essential_patent_licensing",
+    "industry_label": "standard essential patent license on FRAND terms for telecom standard",
+    "deal_size": "enterprise",
+    "currency": "USD",
+    "customer_type": "implementer_licensee",
+    "negotiation_bias": "balanced",
+    "drafting_style": "biglaw_formal",
+    "regulatory_frameworks": [
+      "FRAND commitment (SSO IPR policy)",
+      "Smallest Saleable Patent-Practicing Unit (SSPPU) doctrine",
+      "EU competition law (FRAND)",
+      "U.S. antitrust law (FRAND)"
+    ],
+    "party_roles": {"provider": "Licensor", "customer": "Licensee"},
+    "pricing_structure": "frand_running_royalty_with_per_unit_cap",
+    "special_features": [
+      "FRAND commitment compliance",
+      "Most Favored FRAND Licensee mechanism",
+      "no hold-up (Licensor cannot seek injunctions except in narrow circumstances)",
+      "no hold-out (Licensee shall negotiate in good faith)",
+      "Smallest Saleable Patent-Practicing Unit (SSPPU) royalty base",
+      "per-unit royalty cap (US$5)",
+      "annual royalty cap (rather than minimum)",
+      "royalty stacking acknowledgment",
+      "Future SEPs automatically included in license",
+      "Licensee may challenge individual patents (validity)",
+      "no termination for validity challenge",
+      "ICDR FRAND adjudication"
+    ],
+    "primary_clause_focus": ["license_royalties_payment", "license_grant", "license_term_termination"]
+  }
+}

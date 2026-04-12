@@ -1,0 +1,173 @@
+PATENT CROSS-LICENSE AGREEMENT
+
+This PATENT CROSS-LICENSE AGREEMENT (this "Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} ("Party A"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} ("Party B"). Party A and Party B are collectively the "Parties." The "Licensor" with respect to a particular grant means the granting Party, and the "Licensee" with respect to that grant means the receiving Party. Each Party acts as both Licensor and Licensee under this Agreement.
+
+RECITALS
+
+WHEREAS, Party A and Party B are each global technology companies that own substantial patent portfolios in overlapping technical fields and that have, from time to time, asserted patent rights against each other and threatened patent litigation;
+
+WHEREAS, the Parties wish to resolve their pending and prospective patent disputes by entering into a bilateral patent cross-license under their respective patent portfolios on the terms and conditions set forth herein, including a mutual covenant not to sue and a mutual release of past patent claims;
+
+WHEREAS, the Parties recognize that this Agreement reflects negotiated terms reflecting both Parties' significant bargaining power and that neither Party is the customary licensor or licensee in this transaction;
+
+NOW, THEREFORE, in consideration of the mutual covenants and the mutual cross-licenses set forth herein, the Parties agree as follows.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means, with respect to a Party, any entity that controls, is controlled by, or is under common control with such Party, where "control" means at least fifty percent (50%) ownership.
+
+1.2 "Capture Period" means, with respect to each Party, the period from the Effective Date through and including the fifth (5th) anniversary of the Effective Date.
+
+1.3 "Designated Field" means, for each Party, the field of business in which such Party operates and intends to operate during the Term, as further described in Schedule A.
+
+1.4 "Excluded Technologies" means the technologies and product categories identified on Schedule B, which are excluded from the cross-license under this Agreement and which the Parties may continue to assert against each other.
+
+1.5 "Have-Made Right" means the right to have third parties manufacture products on behalf of the Licensee that practice the Licensed Patents, where the products are manufactured to the Licensee's specifications and supplied solely to the Licensee.
+
+1.6 "Licensed Patents" means, with respect to each Party, all patents and patent applications (and any reissues, reexaminations, continuations, continuations-in-part, divisionals, and foreign counterparts) that (a) are owned or controlled by such Party or its Affiliates as of the Effective Date, (b) are filed by or on behalf of such Party or its Affiliates during the Capture Period, or (c) such Party or its Affiliates acquires during the Capture Period from a third party, except for any such acquired patents subject to a pre-existing exclusion that the Party cannot lawfully override.
+
+1.7 "Licensed Products" means, for each Licensee, products and services within the Licensee's Designated Field that, but for the licenses granted herein, would infringe one or more claims of the other Party's Licensed Patents.
+
+1.8 "Released Claims" means any and all patent infringement claims, demands, causes of action, and damages, known or unknown, that either Party has or may have against the other Party arising out of acts of infringement of the Licensed Patents occurring at any time prior to the Effective Date.
+
+1.9 "Subsidiary" means a wholly-owned subsidiary of a Party.
+
+1.10 "Term" means the term set forth in Section 9.1.
+
+ARTICLE 2 — GRANT OF CROSS-LICENSE
+
+2.1 Cross-License Grant by Party A. Subject to the terms and conditions of this Agreement, Party A hereby grants to Party B and its Affiliates an {{LICENSE_GRANT_TYPE}}, royalty-free, fully paid-up, worldwide, non-transferable license, with the Have-Made Right but without the right to grant sublicenses, under the Party A Licensed Patents to make, have made, use, import, sell, offer to sell, lease, distribute, perform, and otherwise dispose of Party B's Licensed Products in Party B's Designated Field, throughout the world.
+
+2.2 Cross-License Grant by Party B. Subject to the terms and conditions of this Agreement, Party B hereby grants to Party A and its Affiliates an {{LICENSE_GRANT_TYPE}}, royalty-free, fully paid-up, worldwide, non-transferable license, with the Have-Made Right but without the right to grant sublicenses, under the Party B Licensed Patents to make, have made, use, import, sell, offer to sell, lease, distribute, perform, and otherwise dispose of Party A's Licensed Products in Party A's Designated Field, throughout the world.
+
+2.3 Mutual Covenant Not to Sue. During the Term, neither Party shall, directly or indirectly, initiate, prosecute, threaten, support, or fund any patent infringement claim against the other Party or its Affiliates with respect to (a) the Licensed Patents or (b) any patents acquired by the asserting Party that, but for the assignment of such patents, would have been Licensed Patents.
+
+2.4 Reservation of Rights. Each Party reserves all rights not expressly granted to the other Party under this Article 2. The cross-license does not extend to (a) the Excluded Technologies, (b) any patents not within the definition of Licensed Patents (e.g. patents acquired by a Party after the Capture Period), or (c) any product or service that is not within the receiving Party's Designated Field.
+
+2.5 Sublicensing. {{LICENSE_SUBLICENSE_RIGHTS}}.
+
+2.6 Term and Territory of License. {{LICENSE_TERM}} {{LICENSE_TERRITORY}}.
+
+ARTICLE 3 — RESTRICTIONS, EXCLUSIONS, AND CARVE-OUTS
+
+3.1 Excluded Technologies. The cross-licenses granted in Article 2 do not extend to the Excluded Technologies set forth on Schedule B. Each Party may continue to assert and enforce its Licensed Patents against the other Party with respect to products and services in the Excluded Technologies.
+
+3.2 No License to Open-Source-Implementing Products. The cross-licenses do not extend to any product or service that incorporates open-source software in a manner that would, by the terms of any applicable open-source license, require the receiving Party to license its Licensed Patents to third parties on a royalty-free basis. Each Party retains the right to make its Licensed Patents available under separate FRAND or open-source patent commitments outside this Agreement.
+
+3.3 No Implied Licenses. No implied licenses are granted by this Agreement. The cross-licenses do not extend to any patents not within the definition of Licensed Patents, even if such patents would be infringed by the same products as the Licensed Patents.
+
+3.4 Limited Have-Made Right. The Have-Made Right may be exercised only when the Licensee has provided detailed specifications to the third-party manufacturer, the third-party manufacturer is not entitled to use the manufactured products for any purpose other than supplying the Licensee, and the third-party manufacturer does not retain any patent license under this Agreement after the manufacturing engagement ends.
+
+3.5 Standstill. During the first three (3) years of the Term, neither Party shall (a) acquire patents from any third party for the primary purpose of asserting them against the other Party, or (b) participate in or fund any patent assertion entity (PAE) or non-practicing entity (NPE) for the purpose of asserting patents against the other Party.
+
+3.6 No Resale or Re-Licensing of Patents Subject to This Agreement. If either Party assigns or transfers any Licensed Patent to a third party during the Term, the assignment must be subject to the cross-license granted under this Agreement, and the assignee must agree in writing to honor the cross-license.
+
+ARTICLE 4 — RELEASE OF PRIOR CLAIMS
+
+4.1 Mutual Release. Each Party, on behalf of itself and its Affiliates, hereby releases and discharges the other Party and its Affiliates from all Released Claims.
+
+4.2 Dismissal of Pending Litigation. The Parties shall, within thirty (30) days of the Effective Date, file joint motions to dismiss with prejudice all pending patent infringement litigation and post-grant proceedings (including USPTO inter partes reviews, USPTO post-grant reviews, and ITC investigations) between them, identified on Schedule C.
+
+4.3 Withdrawal of Threats. Each Party shall, within fifteen (15) days of the Effective Date, withdraw any pending notice letters, demand letters, license offers, or pre-suit threats to the other Party.
+
+4.4 Allocation of Costs. The Parties shall each bear their own costs and attorneys' fees in connection with the Released Claims and the dismissal of the pending litigation.
+
+ARTICLE 5 — FINANCIAL TERMS
+
+5.1 No Royalties. The cross-licenses are royalty-free. Neither Party shall pay the other any running royalty, milestone payment, license fee, or other consideration in connection with this Agreement, other than the Balancing Payment in Section 5.2.
+
+5.2 Balancing Payment. To balance the relative value of the Licensed Patents being cross-licensed (Party A's portfolio being acknowledged as more extensive in the relevant Designated Field), Party B shall pay Party A a one-time, non-refundable balancing payment of {{LICENSE_UPFRONT_FEE}}, payable within ninety (90) days of the Effective Date. The Balancing Payment is intended to make the Parties whole for the relative imbalance and is not a license fee subject to royalty audit.
+
+5.3 No Future Payments. There are no future, recurring, or contingent payments under this Agreement.
+
+5.4 Currency. The Balancing Payment shall be paid in United States Dollars by wire transfer to the account designated by Party A in writing.
+
+ARTICLE 6 — REPRESENTATIONS, WARRANTIES, AND INDEMNIFICATION
+
+6.1 Mutual Representations. Each Party represents and warrants that (a) it is duly organized and in good standing, (b) it has the corporate power and authority to enter this Agreement, and (c) the execution of this Agreement has been duly authorized.
+
+6.2 Authority to Grant. Each Party represents and warrants that, with respect to its own Licensed Patents, (a) it has the right to grant the cross-license set forth in Article 2 with respect to all Licensed Patents owned by such Party as of the Effective Date, (b) it has not encumbered the Licensed Patents in a way that would prevent the cross-license, and (c) it will use commercially reasonable efforts to obtain the right to extend the cross-license to any acquired patents during the Capture Period to the extent such acquired patents would otherwise become Licensed Patents.
+
+6.3 No Warranty of Validity or Non-Infringement. Neither Party warrants the validity, enforceability, or scope of any Licensed Patents, and neither Party warrants that the practice of any Licensed Patents will not infringe any third-party intellectual property right. Each Party assumes all risk of validity and non-infringement with respect to the patents it receives a license under.
+
+6.4 No Indemnification. Neither Party shall indemnify the other for any third-party patent infringement claim, with the limited exception that each Party shall indemnify the other for breach of Section 6.2 (authority to grant) up to a cap equal to the Balancing Payment.
+
+6.5 Limitation of Liability. EXCEPT FOR (A) BREACHES OF CONFIDENTIALITY, (B) BREACHES OF SECTION 6.2 (AUTHORITY), AND (C) WILLFUL MISCONDUCT, NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, AND EACH PARTY'S AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED FIFTY MILLION UNITED STATES DOLLARS (US$50,000,000).
+
+ARTICLE 7 — CONFIDENTIALITY
+
+7.1 Confidentiality of Terms. The Parties shall hold the financial terms of this Agreement (including the Balancing Payment) and the contents of the Schedules in strict confidence. The mere fact that a cross-license exists between the Parties may be publicly disclosed.
+
+7.2 Permitted Disclosures. Each Party may disclose this Agreement (or excerpts thereof) (a) to its officers, directors, employees, attorneys, accountants, and professional advisors, (b) to its actual and prospective investors, lenders, and acquirers under confidentiality, (c) as required by applicable securities laws (including in registration statements, periodic reports, and proxy statements), (d) as required by court order or regulatory authority, and (e) in connection with a dispute regarding this Agreement.
+
+7.3 Joint Press Release. The Parties shall jointly draft and approve any public announcement of this Agreement. Neither Party shall issue a unilateral public announcement without the other Party's prior written consent.
+
+7.4 Survival. The confidentiality obligations under this Article 7 shall survive termination or expiration of this Agreement and shall continue indefinitely with respect to the financial terms.
+
+ARTICLE 8 — RECORDS AND AUDIT
+
+8.1 No Royalty Audit. Because the cross-licenses are royalty-free, there is no royalty audit right under this Agreement.
+
+8.2 Patent Portfolio Update. On request from either Party, but not more than {{LICENSE_AUDIT_FREQUENCY}}, the other Party shall provide a written summary of the Licensed Patents that have been added to its portfolio during the preceding twelve (12) months (i.e. patents that became Licensed Patents within the meaning of Section 1.6 during such period). The summary shall include the patent number, title, and country.
+
+ARTICLE 9 — TERM AND TERMINATION OF LICENSE
+
+9.1 Term. This Agreement shall commence on the Effective Date and shall continue until the expiration of the last-to-expire Licensed Patent, except that the cross-licenses with respect to Licensed Patents existing as of the Effective Date shall continue for the full life of those patents even after the Capture Period ends.
+
+9.2 No Termination for Breach. Neither Party may terminate this Agreement for any breach by the other Party. The Parties acknowledge that the cross-licenses and the mutual release are intended to be perpetual and are not subject to termination, and that any disputes shall be resolved through the dispute resolution provisions of Article 10 rather than termination.
+
+9.3 Termination by Mutual Agreement. The Parties may terminate this Agreement by mutual written agreement, in which case the Parties shall negotiate in good faith the consequences of termination.
+
+9.4 Survival of Cross-License. Notwithstanding any other provision of this Agreement, the cross-licenses granted in Article 2 with respect to Licensed Patents existing as of the Effective Date and the mutual release in Article 4 shall survive the expiration or termination of this Agreement, regardless of cause.
+
+9.5 Survival of Other Provisions. Articles 1, 4, 5, 6, 7, 8, 9, and 10 shall survive termination or expiration of this Agreement.
+
+ARTICLE 10 — DISPUTE RESOLUTION AND GOVERNING LAW
+
+10.1 Governing Law. This Agreement shall be governed by the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to its conflict-of-laws principles.
+
+10.2 Senior Executive Negotiation. In the event of any dispute, the Parties shall first attempt to resolve the dispute through good-faith negotiation between senior executives (vice president or above) of each Party for a period of at least sixty (60) days.
+
+10.3 Mediation. If the dispute is not resolved through senior executive negotiation, the Parties shall submit the dispute to non-binding mediation administered by JAMS in {{VENUE_CITY}}, {{GOVERNING_LAW_STATE}}, with each Party bearing its own costs.
+
+10.4 Binding Arbitration. If the dispute is not resolved through mediation within ninety (90) days, the dispute shall be submitted to final and binding arbitration administered by the International Centre for Dispute Resolution (ICDR) under its International Arbitration Rules, before a panel of three arbitrators, with the seat of arbitration in {{VENUE_CITY}}, {{GOVERNING_LAW_STATE}}.
+
+10.5 No Patent Validity in Arbitration. The arbitrators shall not have jurisdiction to determine the validity or enforceability of any patent. Validity and enforceability disputes shall be resolved exclusively in the courts of competent jurisdiction in the country of issuance of the relevant patent.
+
+10.6 No Injunctive Relief Against Other Party's Practice. Neither Party shall seek injunctive relief against the other Party's practice of the Licensed Patents within the scope of the cross-license. Disputes about scope shall be resolved through the dispute resolution procedure in this Article 10.
+
+ARTICLE 11 — MISCELLANEOUS
+
+11.1 Notices. All notices shall be in writing and shall be deemed given when delivered by hand, overnight courier, or registered mail.
+
+11.2 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, except in connection with a merger, sale of substantially all assets, or change of control. In the event of a change of control of either Party, this Agreement shall continue in effect, provided that the Capture Period for new patents shall be deemed to have ended as of the change of control with respect to the changed Party (i.e. patents acquired by the new owner of the changed Party do not automatically become Licensed Patents).
+
+11.3 Entire Agreement. This Agreement, together with the Schedules, constitutes the entire agreement between the Parties with respect to the subject matter and supersedes all prior agreements and understandings.
+
+11.4 Amendment. This Agreement may be amended only by a written instrument signed by both Parties.
+
+11.5 No Waiver.
+
+11.6 Severability.
+
+11.7 Counterparts.
+
+SCHEDULES
+
+Schedule A — Designated Fields
+Schedule B — Excluded Technologies
+Schedule C — Pending Litigation and Post-Grant Proceedings to be Dismissed
+
+IN WITNESS WHEREOF, the Parties have executed this Patent Cross-License Agreement as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title: General Counsel
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title: General Counsel

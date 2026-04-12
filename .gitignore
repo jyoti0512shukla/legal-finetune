@@ -7,3 +7,25 @@ dist/
 build/
 .ipynb_checkpoints/
 wandb/
+
+# User-local Claude Code state
+.claude/
+
+# Large external datasets — fetch separately, see data/external/README.md
+data/raw/cuad/
+data/external/cuad/
+
+# Legacy v2 pilot work — superseded by data/v2/
+data/v2_pilot/
+
+# Local zip files (extracted contents are tracked)
+data/external/acord/acord.zip
+
+# Large generated training files (>100MB, regenerate with scripts)
+# Run: python scripts/v2_build_training_dataset.py && python scripts/v2_build_multitask_dataset.py && python scripts/v2_combine_datasets.py
+data/v2/training/v2_train.jsonl
+data/v2/training/v2_val.jsonl
+data/v2/training/v2_multitask_train.jsonl
+data/v2/training/v2_multitask_val.jsonl
+data/v2/training/v2_combined_train.jsonl
+data/v2/training/v2_combined_val.jsonl

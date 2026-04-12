@@ -1,0 +1,17 @@
+=== SaaS / Plain English Common Paper style ===
+
+PROMPT:
+Draft the Limitation of Liability clause (Article 12) for a Software-as-a-Service Subscription Agreement between PulseLoop, Inc. (a Delaware corporation, the "Provider") and Saltwater Apparel Co. (a North Carolina limited liability company, the "Customer"). Effective Date: April 8, 2024. Industry: marketing technology / email and SMS automation for D2C brands. Deal size: SMB. Negotiation posture: balanced. Regulatory frameworks to address: CCPA, CPRA, CAN-SPAM, TCPA. Drafting style: Plain English / Common Paper — short sentences, "we" and "you", minimal Latin, defined terms used inline, no WHEREAS recitals. Cover the standard provisions: aggregate cap tied to fees paid in the prior 12 months, exclusion of indirect / consequential damages, TCPA class action exposure carved out from the cap, exceptions for confidentiality / indemnity / data breaches, basis-of-the-bargain language.
+
+RESPONSE (351 tokens, 85.2s):
+**ARTICLE 12 — LIMITATION OF LIABILITY**
+
+12.1 Cap. EXCEPT AS PROVIDED IN SECTION 12.3, NEITHER OF US WILL BE LIABLE TO THE OTHER FOR MORE THAN THE TOTAL FEES YOU HAVE PAID US UNDER THIS AGREEMENT IN THE twelve (12) MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM.
+
+12.2 No indirect damages. EXCEPT AS PROVIDED IN SECTION 12.3, NEITHER OF US WILL BE LIABLE TO THE OTHER FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR AGGRAVATED DAMAGES, INCLUDING LOST PROFITS, LOST REVENUE, LOST BUSINESS, OR LOSS OF DATA, EVEN IF EITHER OF US HAS BEEN ADVISED THAT THOSE DAMAGES ARE POSSIBLE.
+
+12.3 What is not capped. The cap and the exclusion in Sections 12.1 and 12.2 do not apply to (a) what we owe under Article 11, (b) breach of Article 9 (Your Data and Privacy), (c) breach of Article 7 (Your Subscription and Restrictions), (d) your obligation to pay fees, (e) gross negligence, willful misconduct, or fraud, or (f) anything the law says cannot be limited.
+
+12.4 TCPA class actions. The parties acknowledge that TCPA class actions can involve statutory damages that far exceed the fees paid under this Agreement. The parties agree that the cap in Section 12.1 does not apply to any liability arising from a TCPA class action.
+
+12.5 Why the cap. The cap reflects the price of the Service. If you need a higher cap, talk to us about a custom enterprise agreement.

@@ -1,0 +1,245 @@
+STATEMENT OF WORK NO. 3 — EHR IMPLEMENTATION (HOSPITAL SYSTEM)
+
+This Statement of Work No. 3 (this "SOW") is entered into as of {{EFFECTIVE_DATE}} (the "SOW Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Implementation Partner"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Hospital System"). This SOW is the Hospital System's standard form of engagement and is subject to the Hospital System's negotiated terms.
+
+This SOW is issued pursuant to and is governed by the Master Services Agreement between the Parties dated {{MSA_EFFECTIVE_DATE}} (the "MSA") and the Business Associate Agreement between the Parties dated {{MSA_EFFECTIVE_DATE}} (the "BAA"). All capitalized terms used but not defined in this SOW have the meanings given to them in the MSA or the BAA. In the event of any conflict between this SOW, the MSA, and the BAA, (i) the BAA shall control with respect to PHI and HIPAA matters, (ii) the MSA shall control with respect to all other framework matters, and (iii) this SOW shall control with respect to project-specific commercial terms expressly set forth herein, but only in the Hospital System's favor.
+
+The project described in this SOW is referred to as the "{{PROJECT_NAME}}" or the "Project."
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 Project Objectives. The Hospital System has engaged the Implementation Partner to support the Hospital System's enterprise rollout of a new Electronic Health Record (EHR) platform across the Hospital System's six (6) acute-care hospitals and twelve (12) ambulatory care clinics. The EHR vendor (named in Schedule A) is providing the licensed EHR software directly to the Hospital System under a separate license agreement; the Implementation Partner's role under this SOW is to provide implementation, configuration, integration, training, and post-go-live support services.
+
+1.2 In-Scope Activities. The Implementation Partner shall perform the following In-Scope Activities:
+
+(a) Workflow design sessions with the Hospital System's clinical and administrative leadership.
+
+(b) EHR module configuration covering inpatient, outpatient, ED, OR, oncology, pharmacy, lab, radiology, revenue cycle, and patient portal modules.
+
+(c) Integration interfaces with the Hospital System's existing systems: lab information system, radiology PACS, pharmacy automation, ADT feeds, and the Hospital System's HL7 interface engine.
+
+(d) Data migration of clinical and administrative data from the Hospital System's legacy EHR.
+
+(e) HIPAA security configuration in accordance with the BAA, including audit logging, access controls, encryption, and minimum-necessary access enforcement.
+
+(f) Clinical validation testing in coordination with the Hospital System's clinical informatics team.
+
+(g) End-user training for clinicians, nurses, and revenue cycle staff (estimated 4,500 end users).
+
+(h) Site-by-site go-live support across the six hospitals and twelve clinics on the rollout schedule in Schedule B.
+
+(i) 60-day post-go-live optimization and stabilization at each site.
+
+(j) Cooperation with the Hospital System's HIPAA compliance office and the Hospital System's internal audit function during any review of the EHR implementation.
+
+1.3 Out-of-Scope Activities. The following are out-of-scope. Any of the following requires a Change Order under Article 8:
+
+(a) The license fees for the EHR software (paid by the Hospital System directly to the EHR vendor).
+
+(b) The hardware costs for end-user devices, network upgrades, or infrastructure (procured separately by the Hospital System).
+
+(c) Modifications to the EHR vendor's core code base. Customization is limited to the EHR vendor's supported configuration capabilities.
+
+(d) Modifications to the Hospital System's existing lab information system, radiology PACS, or pharmacy automation systems beyond delivering and consuming HL7 messages.
+
+(e) Migration of clinical data older than the look-back period in Schedule C.
+
+(f) Any work relating to patient billing dispute resolution, payer contract negotiation, or revenue cycle outsourcing.
+
+(g) Any work relating to research workflows, clinical trials data, or data sharing with research institutions (these have separate compliance requirements and would require a separate SOW).
+
+(h) Any work product subject to U.S. export-control restrictions.
+
+(i) Translation of patient-facing materials into languages other than English and Spanish.
+
+1.4 Engagement Period. The Implementation Partner shall perform the In-Scope Activities during the period beginning on the Project Start Date and ending on the Project End Date set forth in Article 3.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables. The Implementation Partner shall produce and deliver the following deliverables:
+
+(a) Workflow Design Documents — written workflow design documentation by clinical area. Target: end of Project Week 12.
+
+(b) Configuration Build Books — written configuration documentation for each EHR module. Target: end of Project Week 22.
+
+(c) Integration Design and Test Plans — written integration design documents and test plans. Target: end of Project Week 18.
+
+(d) Data Migration Plan and Validation Report — written data migration plan and validation report covering each migration cycle. Target: per the rollout schedule in Schedule B.
+
+(e) HIPAA Security Configuration Attestation — written attestation of HIPAA security configuration for each site, signed by the Implementation Partner's HIPAA compliance lead. Target: prior to each site go-live.
+
+(f) Site-Specific Go-Live Readiness Reports — written readiness assessments prior to each site go-live, signed off by the Hospital System's clinical informatics leadership. Target: per the rollout schedule.
+
+(g) End-User Training Plan and Training Records — written training plan and per-user training completion records. Target: ongoing across the rollout.
+
+(h) Site Go-Live Cutover Reports — written cutover reports for each site documenting the cutover, any incidents, and the post-cutover validation. Target: within five (5) business days after each site go-live.
+
+(i) Site Stabilization and Optimization Reports — written reports covering the 60-day post-go-live period at each site. Target: 60 days after each site go-live.
+
+(j) Final Project Closure Report covering the entire enterprise rollout. Target: end of Project Week 88.
+
+2.2 Acceptance Criteria. Acceptance criteria are set forth in Schedule D. The Hospital System reserves the sole right to determine conformity, subject to its obligation to act reasonably.
+
+2.3 Acceptance Period. The Hospital System shall have fifteen (15) business days to review each Deliverable and notify the Implementation Partner in writing of acceptance or rejection. Acceptance Periods for site go-live readiness reports may be extended by the Hospital System if any patient-safety concerns are raised by the Hospital System's clinical informatics or quality leadership.
+
+2.4 Cure of Non-Conformity. The Implementation Partner shall correct any non-conformity within fifteen (15) business days at no additional charge. After two (2) cure cycles, the Hospital System may, at its sole option, (i) accept with an equitable Project Fee reduction, (ii) terminate this SOW for material breach, or (iii) require the Implementation Partner to engage at the Implementation Partner's expense a third-party reasonably acceptable to the Hospital System to complete the Deliverable.
+
+2.5 No Deemed Acceptance. There shall be no deemed acceptance of any Deliverable. This rule applies with particular force to clinical workflows and HIPAA security configurations.
+
+2.6 No Patient Safety Trade-Off. Notwithstanding any provision of this SOW, no Deliverable shall be deemed conforming if it creates a patient-safety risk, an incomplete HIPAA security configuration, or a violation of any applicable healthcare regulation. The Hospital System's patient-safety judgment shall control over any other consideration.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project Start and End Dates. The Project shall commence on {{PROJECT_START_DATE}} and shall be substantially complete by {{PROJECT_END_DATE}}, subject to (a) the Hospital System's Client Responsibilities, (b) the Assumptions in Article 6, (c) any extensions agreed in an executed Change Order, and (d) any extensions necessitated by patient-safety, regulatory, or operational matters.
+
+3.2 Milestones. The Project shall be performed in accordance with the milestone schedule in Schedule E, which includes:
+
+(a) Milestone 1 — Workflow Design Documents Accepted (Week 12).
+
+(b) Milestone 2 — Configuration Build Books and Integration Design Accepted (Week 22).
+
+(c) Milestone 3 — First Site Go-Live (Wave 1: Hospital A) (Week 32).
+
+(d) Milestone 4 — Wave 2 Go-Live (Hospitals B, C) (Week 44).
+
+(e) Milestone 5 — Wave 3 Go-Live (Hospitals D, E, F) (Week 56).
+
+(f) Milestone 6 — Ambulatory Wave (Twelve clinics) (Weeks 60 through 76).
+
+(g) Milestone 7 — Final Site Stabilization Complete (Week 80).
+
+(h) Milestone 8 — Project Closure Report Accepted (Week 88).
+
+3.3 Patient-Safety Pause Right. The Hospital System may, in its sole discretion, pause the rollout at any time on twenty-four (24) hours' notice if a patient-safety concern is raised. The Implementation Partner shall hold its Key Personnel available to resume work upon the Hospital System's notice. The Hospital System shall pay for time charged through the pause date but shall not pay for time during the pause period.
+
+3.4 Status Reporting. Weekly written status reports plus weekly status meetings with the Hospital System's PMO. Monthly executive readouts with the Hospital System's IT Steering Committee.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named Key Personnel. Named team in Schedule F:
+
+(a) Engagement Director.
+
+(b) Engagement Manager (100% allocation).
+
+(c) Clinical Informatics Lead (100% allocation).
+
+(d) HIPAA Compliance Lead (75% allocation).
+
+(e) Lead EHR Configuration Architect (100% allocation).
+
+(f) Senior Integration Engineers (two named, 100% allocation each).
+
+(g) Lead Trainer (100% allocation during training waves).
+
+(h) Site-Specific Go-Live Leads (one per wave, named per Schedule F).
+
+4.2 No Replacement Without Consent. The Implementation Partner shall not replace any Key Personnel during the Project without the Hospital System's prior written consent. The Hospital System reserves the right to interview and approve any proposed replacement before the replacement begins work.
+
+4.3 Background Checks and Healthcare-Specific Clearance. All Implementation Partner personnel shall complete: (i) the Hospital System's standard background checks, (ii) the Hospital System's HIPAA training and confidentiality acknowledgment, (iii) the Hospital System's required immunizations and infection-control training where personnel will be physically present at hospital sites, and (iv) the Hospital System's badging and physical security requirements. Personnel who have not completed these requirements shall not be granted access to any Hospital System site or system.
+
+4.4 OIG Exclusion Screening. The Implementation Partner shall screen all personnel assigned to this Project against the U.S. Department of Health and Human Services Office of Inspector General's List of Excluded Individuals/Entities (LEIE) and the General Services Administration's System for Award Management (SAM) exclusion list, monthly. Excluded individuals shall not be assigned to or remain assigned to this Project.
+
+4.5 Removal of Personnel. The Hospital System may, at any time and without cause, request that the Implementation Partner remove any individual. The Implementation Partner shall comply within five (5) business days.
+
+4.6 Non-Solicitation. The Implementation Partner shall not, during the Project Period and for twelve (12) months following the Project End Date, solicit for employment any Hospital System clinician with whom the Implementation Partner had material contact, subject to the customary general-solicitation carve-out.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 Designated Hospital System Personnel. The Hospital System shall designate (a) an Executive Sponsor (the Hospital System's Chief Medical Information Officer or designee), (b) a Hospital System Project Director, (c) site-level clinical informatics leads at each go-live site, and (d) such Hospital System Subject Matter Experts as the Implementation Partner reasonably requires.
+
+5.2 Access to Systems and Data. The Hospital System shall provide the Implementation Partner with timely access to the Hospital System's existing legacy EHR (in read-only mode for migration), the Hospital System's lab, radiology, pharmacy, and ADT systems for integration purposes, and such other systems as the In-Scope Activities require. All such access shall be subject to the BAA's security requirements and the Hospital System's standard access provisioning procedures.
+
+5.3 Production Access Limitations. Production access to the EHR is restricted in accordance with the Hospital System's separation-of-duties controls. Implementation Partner personnel may be granted production access only on a temporary, just-in-time basis under Hospital System supervision during go-live and stabilization events.
+
+5.4 Test Data and No Production PHI in Non-Production. The Hospital System shall provide synthetic or de-identified test data for use in non-production environments. Production PHI shall not be used in non-production environments under any circumstances. The Implementation Partner shall not extract, copy, or transmit any production PHI to any non-Hospital System system.
+
+5.5 Review and Approval Turnaround. The Hospital System shall use commercially reasonable efforts to review and respond within ten (10) business days, except that response times may be extended during patient-safety reviews or operational pressures.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions.
+
+(a) The EHR vendor's licensed software supports the Hospital System's clinical workflows without requiring custom code beyond the vendor's supported configuration capabilities.
+
+(b) The Hospital System's existing lab, radiology, pharmacy, and ADT systems support standard HL7 interfaces.
+
+(c) The Hospital System's HL7 interface engine has sufficient capacity for the additional message volume from the new EHR.
+
+(d) The Hospital System's network infrastructure has sufficient bandwidth and latency for the EHR rollout. Network upgrades, if required, are out-of-scope.
+
+(e) The Hospital System's hardware refresh for end-user devices is complete or in progress prior to each site go-live.
+
+(f) No regulatory action, accreditation review, patient-safety incident, or operational emergency materially affects the rollout schedule.
+
+(g) The Hospital System has the budget and clinical leadership commitment for the rollout schedule in Schedule B.
+
+(h) The EHR vendor's release schedule does not introduce breaking changes during the Project.
+
+6.2 Third-Party Dependencies. The Project depends on (a) the EHR vendor's continued support of the licensed software, (b) the Hospital System's lab, radiology, pharmacy, and ADT vendors' continued support, (c) the Hospital System's network infrastructure, and (d) the EHR vendor's release schedule.
+
+6.3 Notification of Changed Assumptions. The Hospital System shall promptly notify the Implementation Partner in writing if it becomes aware that any Assumption has changed.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Hybrid Pricing. The Project Fee for this SOW is structured as follows: (a) a fixed-fee component of {{SOW_FEE_AMOUNT}} covering the workflow design, configuration build, integration build, data migration, and HIPAA security configuration phases (Milestones 1-2), and (b) a time-and-materials component for the site go-live waves (Milestones 3-7) and the project closure (Milestone 8), at the rates in Schedule G, subject to a not-to-exceed cap set in the rollout-wave Change Orders for each wave. The fixed-fee component is firm; the T&M component is capped per wave.
+
+7.2 Payment Schedule for Fixed-Fee Component.
+
+(a) 10% on signature of this SOW.
+
+(b) 20% on Milestone 1 (Workflow Design Documents Accepted).
+
+(c) 35% on Milestone 2 (Configuration and Integration Accepted).
+
+(d) The remaining 35% spread across the rollout waves, with 7% per Milestone 3 through Milestone 7 inclusive.
+
+Each invoice is due net 45.
+
+7.3 Wave-Based T&M Invoicing. The wave-based T&M component is invoiced monthly during each rollout wave, with cumulative spend reported against the wave-specific not-to-exceed cap. Each wave T&M invoice is due net 45.
+
+7.4 Expense Reimbursement. The Hospital System shall reimburse out-of-pocket expenses subject to (a) the Hospital System's vendor travel policy, and (b) pre-approval of any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}}.
+
+7.5 Right of Audit. The Hospital System retains the right of audit set forth in the MSA, applied to all Project records.
+
+7.6 Disputed Invoices. If the Hospital System disputes any invoice in good faith, the Hospital System shall pay the undisputed portion and notify the Implementation Partner in writing.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests. Either Party may at any time propose a change.
+
+8.2 Impact Assessment. The Implementation Partner shall deliver an impact assessment within ten (10) business days.
+
+8.3 Change Order. Both Parties must sign a written Change Order. Change Orders that involve patient-safety implications shall be reviewed by the Hospital System's clinical leadership prior to signature.
+
+8.4 No Oral Modifications. Only signed Change Orders modify this SOW.
+
+8.5 Continuing Performance. The Implementation Partner continues working on the in-scope activities while a Change Request is being negotiated, except that no work shall continue if patient safety is implicated.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT, BAA, AND HEALTHCARE-SPECIFIC PROVISIONS
+
+9.1 Incorporation. This SOW is part of the MSA and the BAA. All terms of the MSA and the BAA apply.
+
+9.2 Order of Precedence. The BAA controls on PHI and HIPAA matters. The MSA controls on framework matters. This SOW controls on the project-specific commercial terms in the Hospital System's favor.
+
+9.3 HIPAA. The Implementation Partner is a Business Associate of the Hospital System under HIPAA and shall comply with the BAA's privacy, security, breach notification, and minimum-necessary requirements. Any PHI accessed in the course of the In-Scope Activities is governed by the BAA.
+
+9.4 EMTALA. The Implementation Partner shall not interfere with the Hospital System's compliance with the Emergency Medical Treatment and Active Labor Act (EMTALA). Any system change that could affect EMTALA-compliant patient handling shall be subject to the Hospital System's clinical leadership review.
+
+9.5 No Practice of Medicine. Nothing in this SOW shall be construed as the Implementation Partner practicing medicine or providing clinical decision support to patients. The Implementation Partner's role is technical implementation; clinical decisions are made by the Hospital System's licensed clinicians.
+
+9.6 Termination. The Hospital System may terminate this SOW at any time, with or without cause, on thirty (30) days' written notice (or shorter notice in case of patient-safety emergencies). The Hospital System shall pay for time charged through the termination date plus reasonable wind-down costs.
+
+IN WITNESS WHEREOF, the Parties have caused this Statement of Work No. 3 to be executed by their duly authorized representatives as of the SOW Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

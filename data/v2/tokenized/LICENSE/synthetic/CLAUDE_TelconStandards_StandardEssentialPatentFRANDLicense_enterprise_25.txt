@@ -1,0 +1,205 @@
+STANDARD ESSENTIAL PATENT LICENSE AGREEMENT (FRAND TERMS)
+
+This STANDARD ESSENTIAL PATENT LICENSE AGREEMENT (this "Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Licensor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Licensee"). The Licensor is a contributor to the Standard identified in Schedule A and has declared certain of its patents as potentially essential to the Standard. The Licensor has committed to license such patents on FRAND terms (fair, reasonable, and non-discriminatory). This Agreement implements that FRAND commitment.
+
+RECITALS
+
+WHEREAS, the Licensor is a member of the standard-setting organization (the "SSO") identified in Schedule A and has participated in the development of the Standard identified in Schedule A;
+
+WHEREAS, the Licensor has, in accordance with the SSO's intellectual property rights policy, declared certain of its patents and patent applications as potentially essential to the practice of the Standard, and has irrevocably committed (through a written letter of assurance to the SSO or equivalent) to grant licenses to such patents on FRAND terms;
+
+WHEREAS, the Licensee manufactures and sells products that implement the Standard and therefore may infringe one or more of the Licensor's standard essential patents in the absence of a license;
+
+WHEREAS, the Parties wish to enter into a license agreement that fulfills the Licensor's FRAND commitment and provides the Licensee with the patent rights necessary to implement the Standard, on terms that are fair, reasonable, and non-discriminatory;
+
+NOW, THEREFORE, the Parties agree as follows.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means an entity controlled by, controlling, or under common control with a Party (50% threshold).
+
+1.2 "Applicable Standard" means the technical standard identified on Schedule A, including any subsequent versions and amendments adopted by the SSO.
+
+1.3 "FRAND" means fair, reasonable, and non-discriminatory.
+
+1.4 "Future SEPs" means any patents and patent applications that the Licensor or its Affiliates own or control during the Term that become essential to the Applicable Standard during the Term, whether through standardization, claim amendment, or otherwise.
+
+1.5 "Licensed Patents" means the standard essential patents declared by the Licensor to the SSO and identified on Schedule B (the "Initial SEPs"), plus any Future SEPs.
+
+1.6 "Licensed Products" means products manufactured, used, or sold by the Licensee or its Affiliates that implement the Applicable Standard and that, but for the license granted herein, would infringe a Valid Claim of the Licensed Patents.
+
+1.7 "Net Selling Price" means the gross selling price of a Licensed Product, less the standard industry deductions (returns, allowances, taxes other than income taxes, freight, and trade discounts).
+
+1.8 "Royalty Rate" means the FRAND royalty rate set forth in Section 4.3.
+
+1.9 "Royalty-Bearing Component" means the component of a Licensed Product that practices the Licensed Patents (e.g. the baseband chip or the wireless modem in a mobile device), as further defined in Schedule C.
+
+1.10 "Smallest Saleable Patent-Practicing Unit" or "SSPPU" means the smallest commercially saleable component that includes the inventive features of the Licensed Patents, used as the royalty base under Section 4.4.
+
+1.11 "Standard Documentation" means the published technical specifications of the Applicable Standard, including all parts, releases, and amendments.
+
+1.12 "Term" means the term set forth in Section 9.1.
+
+1.13 "Valid Claim" means an issued, unexpired claim of a Licensed Patent that has not been held invalid or unenforceable.
+
+ARTICLE 2 — GRANT OF LICENSE
+
+2.1 License Grant. Subject to the terms and conditions of this Agreement, the Licensor hereby grants to the Licensee an {{LICENSE_GRANT_TYPE}}, royalty-bearing, worldwide license under the Licensed Patents to make, have made, use, sell, offer to sell, and import Licensed Products that implement the Applicable Standard. The license includes the right to use the Licensed Patents to test, certify, market, and provide aftermarket service for Licensed Products.
+
+2.2 Have-Made Right. The Licensee has the Have-Made Right to engage third-party manufacturers to manufacture Royalty-Bearing Components on the Licensee's behalf, provided that the Licensee provides specifications to the manufacturer and the manufacturer's products are supplied solely to the Licensee.
+
+2.3 Future SEPs. Any Future SEPs that become essential to the Applicable Standard during the Term shall automatically be added to the Licensed Patents and licensed to the Licensee on the same terms as the Initial SEPs, without any additional payment or further action by either Party.
+
+2.4 Reservation of Rights. The Licensor reserves all rights not expressly granted, including the right to license the Licensed Patents to third parties on FRAND terms (in fulfillment of the Licensor's FRAND commitment to other implementers) and the right to use the Licensed Patents for the Licensor's own products and services.
+
+2.5 Sublicensing. {{LICENSE_SUBLICENSE_RIGHTS}}.
+
+2.6 Term and Field. {{LICENSE_TERM}} {{LICENSE_FIELD_OF_USE}}.
+
+2.7 Worldwide License. {{LICENSE_TERRITORY}}. The license is intended to be a global license consistent with the Licensor's FRAND commitment.
+
+ARTICLE 3 — FRAND COMMITMENT AND OBLIGATIONS
+
+3.1 FRAND Compliance. The Licensor confirms that the financial terms set forth in this Agreement are fair, reasonable, and non-discriminatory in accordance with the Licensor's FRAND commitment to the SSO.
+
+3.2 Comparable Licensee Treatment. The Licensor represents and warrants that the Royalty Rate and other financial terms set forth in this Agreement are not less favorable than the terms offered by the Licensor to similarly situated licensees of the Licensed Patents. "Similarly situated" means licensees of comparable size, product mix, geographic scope, and use case.
+
+3.3 Most Favored FRAND Licensee Mechanism. If, during the Term, the Licensor enters into any other license agreement with a similarly situated licensee on terms that are more favorable than the terms in this Agreement (taking into account the entire deal — royalty rate, lump-sum payments, cross-license value, and any other consideration), the Licensor shall promptly notify the Licensee, and the Licensee shall have the option to elect the more favorable terms by giving written notice within sixty (60) days. The "more favorable" determination shall consider the entire commercial bargain, not isolated terms.
+
+3.4 No Hold-Up. The Licensor shall not seek injunctive relief to stop the Licensee's practice of the Applicable Standard, except in the case of (a) the Licensee's bad-faith refusal to negotiate or pay a FRAND royalty, (b) the Licensee's challenge to the validity of all of the Licensed Patents in bad faith with no reasonable basis, or (c) the Licensee's repudiation of this Agreement after entry. The Licensor's primary remedy for the Licensee's breach is the FRAND royalty payment, not injunctive relief.
+
+3.5 No Hold-Out. The Licensee shall negotiate the Royalty Rate in good faith and shall not seek to delay or avoid payment of FRAND royalties through tactical litigation or repeated revaluation requests. The Licensee acknowledges that it has had a reasonable opportunity to evaluate the Licensed Patents and the Royalty Rate and that the Royalty Rate is FRAND.
+
+3.6 Dispute Resolution Through FRAND Adjudication. If the Parties dispute whether the Royalty Rate or any other financial term is FRAND, the dispute shall be resolved through binding FRAND adjudication under Article 10.
+
+ARTICLE 4 — FINANCIAL TERMS
+
+4.1 Upfront Payment. The Licensee shall pay the Licensor a one-time upfront payment of {{LICENSE_UPFRONT_FEE}} within sixty (60) days of the Effective Date. The upfront payment is fully creditable against the running royalty obligations under Section 4.3 over the first three (3) years of the Term.
+
+4.2 Royalty Base. The royalty base for the running royalty calculation is the Net Selling Price of the Royalty-Bearing Component (the SSPPU) of each Licensed Product, not the entire Net Selling Price of the Licensed Product. The Parties acknowledge that the SSPPU is the appropriate base for calculating FRAND royalties for standard essential patents, consistent with the modern jurisprudence on FRAND royalty determination.
+
+4.3 Royalty Rate. The Licensee shall pay the Licensor a running royalty equal to {{LICENSE_ROYALTY_RATE}} of the Net Selling Price of the Royalty-Bearing Component of each Licensed Product. The Royalty Rate is the FRAND rate that the Parties have agreed reflects the relative contribution of the Licensed Patents to the Applicable Standard.
+
+4.4 Per-Unit Cap. Notwithstanding the percentage Royalty Rate in Section 4.3, the per-unit royalty for any Licensed Product shall not exceed Five United States Dollars (US$5.00) per unit, regardless of the Net Selling Price. This per-unit cap is intended to ensure that the running royalty remains commercially reasonable for high-value Licensed Products.
+
+4.5 Annual Cap. The aggregate running royalty payable to the Licensor in any Calendar Year shall not exceed {{LICENSE_MIN_ANNUAL_ROYALTY}}. (Note: this annual cap operates as a maximum, in contrast to the more typical "minimum" royalty in non-FRAND licenses — which is unusual but appropriate for SEP licensing.) The Parties acknowledge that this cap protects the Licensee from disproportionate royalty exposure on high-volume implementations of the Applicable Standard.
+
+4.6 Royalty Stacking Acknowledgment. The Parties acknowledge that the Licensee is likely to face royalty obligations to multiple holders of standard essential patents for the Applicable Standard, and that the cumulative royalty stack across all such holders should be reasonable in light of the value of the Applicable Standard. The Royalty Rate and the per-unit cap in this Agreement reflect the Parties' good-faith assessment of the Licensor's relative contribution to the overall royalty stack.
+
+4.7 No Patent Validity-Based Reduction. The Royalty Rate is not contingent on the validity of any particular Licensed Patent. If any individual Licensed Patent is held invalid, unenforceable, or not essential, the Royalty Rate and other financial terms shall not be retroactively adjusted, but the Parties may renegotiate in good faith for the future if a substantial portion of the Licensor's portfolio is invalidated.
+
+4.8 Royalty Reports. The Licensee shall provide the Licensor with semi-annual royalty reports showing units sold, Net Selling Price of the Royalty-Bearing Component, and royalty calculation, within sixty (60) days after the end of each half-year.
+
+4.9 Currency. All payments in United States Dollars by wire transfer.
+
+ARTICLE 5 — RECORDS AND AUDIT
+
+5.1 Records. The Licensee shall maintain complete books and records of unit sales, Net Selling Price of Royalty-Bearing Components, and royalty calculations for at least four (4) years.
+
+5.2 Audit Right. The Licensor may, on at least sixty (60) days' prior written notice and not more than {{LICENSE_AUDIT_FREQUENCY}}, engage an independent CPA to audit the Licensee's books for purposes of verifying royalty reports.
+
+5.3 Audit Costs. The Licensor bears the cost unless the audit reveals an underpayment of more than five percent (5%) for any year, in which case the Licensee bears the cost.
+
+5.4 Audit Findings. The Licensee shall pay any underreported royalties plus interest within thirty (30) days of the audit report.
+
+ARTICLE 6 — RESTRICTIONS
+
+6.1 No Use Outside the Applicable Standard. The license under Article 2 is limited to implementations of the Applicable Standard. The Licensee shall not use the Licensed Patents for any purpose unrelated to implementing the Applicable Standard.
+
+6.2 No Challenge Disincentive. The Licensee may challenge the validity, essentiality, or infringement of any Licensed Patent. The Licensee's challenge of any Licensed Patent shall not, by itself, be a breach of this Agreement, but the Licensor reserves the right to terminate the license under Section 9.3 if the Licensee challenges substantially all of the Licensed Patents in bad faith.
+
+6.3 No Use of Licensed Patents Against Licensor. During the Term, the Licensee shall not, directly or indirectly, assert any of the Licensee's own patents against the Licensor or its Affiliates with respect to the Applicable Standard or implementations thereof, on FRAND or non-FRAND terms.
+
+ARTICLE 7 — CONFIDENTIALITY
+
+7.1 The Parties shall hold the financial terms, the audit reports, and any non-public technical information disclosed under this Agreement in confidence.
+
+7.2 The mere fact of this Agreement may be disclosed publicly. The Royalty Rate and other financial terms are confidential.
+
+7.3 Permitted disclosures include those required by securities laws, court orders, regulatory authorities, and SSO disclosure obligations (where applicable to the Licensor's FRAND compliance reporting).
+
+7.4 Survival. Confidentiality obligations survive termination for ten (10) years.
+
+ARTICLE 8 — REPRESENTATIONS, WARRANTIES, AND INDEMNIFICATION
+
+8.1 Licensor Representations. The Licensor represents and warrants that (a) the Licensor has made the FRAND commitment to the SSO with respect to the Initial SEPs, (b) the Licensor has the right to grant the licenses granted herein, (c) to the Licensor's knowledge, the Initial SEPs identified on Schedule B are essential to practicing the Applicable Standard, and (d) the Licensor has not granted any conflicting license that would prevent the Licensor from honoring the cross-license under this Agreement.
+
+8.2 No Validity or Essentiality Warranty. The Licensor does not warrant the validity, enforceability, or essentiality of any individual Licensed Patent. The Licensee assumes the risk of validity and essentiality.
+
+8.3 No Indemnification. Consistent with industry practice for SEP licensing, neither Party indemnifies the other for any third-party claim.
+
+8.4 Limitation of Liability. EXCEPT FOR (A) BREACHES OF CONFIDENTIALITY, (B) THE LICENSEE'S NON-PAYMENT OF UNDISPUTED ROYALTIES, AND (C) WILLFUL MISCONDUCT, NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES. EACH PARTY'S AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE TOTAL ROYALTIES PAID UNDER THIS AGREEMENT IN THE PRIOR THREE (3) YEARS, EXCEPT FOR (A) THROUGH (C).
+
+ARTICLE 9 — TERM AND TERMINATION OF LICENSE
+
+9.1 Term. The Term commences on the Effective Date and continues until the expiration of the last Valid Claim of the Licensed Patents.
+
+9.2 Termination by Licensee. The Licensee may terminate this Agreement at any time on ninety (90) days' written notice. The Licensee shall pay all amounts accrued through the date of termination.
+
+9.3 Termination by Licensor. The Licensor may terminate this Agreement only for the Licensee's:
+
+(a) failure to pay any undisputed royalty within ninety (90) days after the due date;
+
+(b) bad-faith challenge to substantially all of the Licensed Patents (i.e. a challenge that has no reasonable basis and is brought primarily to avoid royalty payment);
+
+(c) bankruptcy, insolvency, or assignment for the benefit of creditors; or
+
+(d) material breach of confidentiality under Article 7 after notice and opportunity to cure.
+
+9.4 No Termination for Validity Challenge. As stated in Section 6.2, the Licensee's challenge of any individual Licensed Patent (or even of multiple Licensed Patents) is not, by itself, a breach. The Licensor may not terminate this Agreement merely because the Licensee has filed an inter partes review, ex parte reexamination, or court action challenging the Licensed Patents.
+
+9.5 Effect of Termination. Upon termination:
+
+(a) The Licensee shall cease all use of the Licensed Patents and shall not make, use, or sell Licensed Products that implement the Applicable Standard.
+
+(b) The Licensee shall pay all amounts due through the date of termination.
+
+(c) The Licensee shall not be entitled to a refund of the upfront payment or any prior royalties.
+
+(d) The Licensor's FRAND commitment to the SSO shall remain unaffected, and the Licensor shall not be entitled to seek injunctive relief against any third party that wishes to license the Licensed Patents on FRAND terms in the future.
+
+9.6 Survival. Articles 5, 6.3 (no use against Licensor), 7, 8 (with respect to claims arising before termination), 9.5, and 10 survive termination.
+
+ARTICLE 10 — DISPUTE RESOLUTION AND GOVERNING LAW
+
+10.1 Governing Law. This Agreement shall be governed by the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to conflict-of-laws principles.
+
+10.2 FRAND Determination. Any dispute about whether the Royalty Rate or any other financial term is FRAND shall be resolved through binding arbitration administered by the International Centre for Dispute Resolution (ICDR) in {{VENUE_CITY}}, {{GOVERNING_LAW_STATE}}, before a panel of three arbitrators with expertise in standards-essential patent licensing. The arbitrators shall determine the FRAND rate based on (a) comparable license agreements (where available and not protected by confidentiality), (b) the Licensor's relative contribution to the Applicable Standard, (c) the cumulative royalty stack across all SEP holders, and (d) any other factors the arbitrators deem relevant under modern FRAND jurisprudence.
+
+10.3 No Patent Validity Disputes in Arbitration. The arbitrators shall not have jurisdiction to determine the validity or enforceability of any Licensed Patent. Validity disputes shall be resolved exclusively in the courts of competent jurisdiction in the country of issuance.
+
+10.4 No Injunctive Relief Against Licensee. Consistent with the Licensor's FRAND commitment and the no-hold-up principle in Section 3.4, the Licensor shall not seek injunctive relief to stop the Licensee's implementation of the Applicable Standard, except in the limited circumstances set forth in Section 3.4.
+
+10.5 Equitable Relief for Confidentiality. Either Party may seek injunctive relief in any court of competent jurisdiction to enforce the confidentiality provisions of Article 7.
+
+ARTICLE 11 — MISCELLANEOUS
+
+11.1 Notices in writing.
+
+11.2 Assignment. Either Party may assign this Agreement to a successor in connection with a merger or sale of substantially all of its assets, provided that the assignee assumes the Licensor's FRAND obligations to the SSO. The Licensor's transfer of any Licensed Patent to a third party shall not affect the Licensee's license, and any such transfer shall be subject to the cross-license under this Agreement.
+
+11.3 Entire Agreement (this Agreement plus the Schedules and the Licensor's FRAND letter of assurance to the SSO).
+
+11.4 Amendment in writing.
+
+11.5 Counterparts.
+
+SCHEDULES
+
+Schedule A — Identification of the Standard and the SSO
+Schedule B — Initial SEPs (Licensed Patents)
+Schedule C — Royalty-Bearing Component (SSPPU) Definition
+
+IN WITNESS WHEREOF, the Parties have executed this Standard Essential Patent License Agreement as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

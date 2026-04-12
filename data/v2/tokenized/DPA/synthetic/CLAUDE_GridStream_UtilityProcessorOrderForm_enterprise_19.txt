@@ -1,0 +1,142 @@
+DATA PROCESSING ADDENDUM ORDER FORM (UTILITY — METER AND CUSTOMER DATA)
+
+This Data Processing Addendum Order Form (this "DPA Order Form" or "DPA") is dated {{EFFECTIVE_DATE}} and incorporates the {{PARENT_AGREEMENT_NAME}} between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}}) (the "Processor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} ({{CUSTOMER_ADDRESS}}) (the "Utility" or "Controller"), dated {{PARENT_AGREEMENT_DATE}} (the "Agreement"). This DPA Order Form is structured as a modular form. Substantive obligations are in the Annexes. Where the Annexes conflict with the body, the Annexes control. Where this DPA Order Form (including Annexes) conflicts with the Agreement on personal-data matters, this DPA Order Form controls.
+
+ARTICLE 1 — DEFINITIONS AND APPLICABLE PRIVACY LAW
+
+1.1 Standard meanings from EU GDPR / UK GDPR / CCPA / CPRA conventions.
+
+1.2 Applicable Privacy Law: state public utility commission orders applicable to customer data; state Consumer Energy Use Data privacy laws (where applicable); CCPA / CPRA; state breach notification laws; NERC CIP-011 (BCSI) where the Processing involves Bulk Electric System Cyber System Information.
+
+1.3 Annex I sets forth the parties, categories of Personal Data, categories of Data Subjects, and other details of Processing.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES (Annex IV)
+
+2.1 The Utility is the Controller. The Processor is the processor.
+
+2.2 The Processor processes Personal Data only on documented Utility instructions. No commercial use. No use for energy market trading. No combining with other data. No use for AI / ML training without consent.
+
+ARTICLE 3 — SCOPE OF PROCESSING (Annex I)
+
+3.1 Subject matter, nature, purpose, duration, categories of Personal Data, and categories of Data Subjects in Annex I.
+
+3.2 Nature and purpose: {{PROCESSING_PURPOSE}}.
+
+3.3 Categories of Personal Data: {{DATA_CATEGORIES}}.
+
+3.4 Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+
+3.5 No use of customer energy use data for energy market trading or for any party other than the Utility's regulated operations.
+
+ARTICLE 4 — PROCESSOR OBLIGATIONS (Annex IV)
+
+4.1 The Processor's obligations are in Annex IV.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES (Annex II)
+
+5.1 The Processor implements the TOMs in Annex II.
+
+5.2 NERC CIP-011 BCSI Handling. To the extent the Processor handles Bulk Electric System Cyber System Information, the Processor's TOMs comply with NERC CIP-011 BCSI handling requirements.
+
+ARTICLE 6 — SUB-PROCESSORS (Annex III + Annex IV.B)
+
+6.1 Sub-processor requirements are in Annex IV.B. Specific authorization required.
+
+6.2 Current sub-processor list is in Annex III.
+
+ARTICLE 7 — DATA SUBJECT / CUSTOMER RIGHTS (Annex IV.C)
+
+ARTICLE 8 — PERSONAL DATA BREACH NOTIFICATION (Annex IV.D)
+
+8.1 Notification within {{BREACH_NOTIFICATION_HOURS}} hours. Cooperation with the Utility's investigation and any required notification to the state public utility commission, the state attorney general, and affected customers.
+
+8.2 NERC CIP-008 Reportable Cyber Security Incident. If the incident involves NERC-regulated systems, the Processor shall cooperate with the Utility's NERC CIP-008 incident reporting obligations on an expedited (within one hour) timeline.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS (Annex IV.E)
+
+ARTICLE 10 — DATA LOCATION (Annex V)
+
+10.1 US-only data residency. Hosted in: {{DATA_RESIDENCY_REGION}}.
+
+10.2 No international transfers.
+
+10.3 NERC CIP-014 physical security considerations apply where the Processor's facilities are deemed critical to BES operations.
+
+ARTICLE 11 — AUDIT RIGHTS AND REGULATORY ACCESS (Annex IV.F)
+
+11.1 Audit rights are in Annex IV.F.
+
+11.2 Public Utility Commission Access. The Utility's public utility commission shall have audit rights to the extent required by state law and PUC orders. The Processor shall cooperate fully at no additional charge.
+
+11.3 NERC CIP audit cooperation. The Processor shall cooperate with any NERC CIP audit relating to the Processor's services as they support the Utility's BES Cyber Systems.
+
+ARTICLE 12 — DELETION OR RETURN OF PERSONAL DATA (Annex IV.G)
+
+ARTICLE 13 — TERM AND TERMINATION
+
+This DPA Order Form runs for the term of the Agreement plus the records retention period required by the Utility's records retention schedule and the public utility commission's orders.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+This DPA Order Form is part of the Agreement. In any conflict, this DPA Order Form (including Annexes) controls on personal-data matters; the Agreement controls on commercial matters, IP, liability, governing law, and dispute resolution. Counterparts allowed.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+Parties: Utility / Controller is {{CUSTOMER_NAME}}; Processor is {{PROVIDER_NAME}}.
+Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+Categories of Personal Data: {{DATA_CATEGORIES}}.
+Sensitive Data: customer meter data is sensitive under state customer-energy-use-data privacy laws.
+Frequency: continuous (interval meter data).
+Nature: {{PROCESSING_PURPOSE}}.
+Purpose: providing the Utility's customer information system services.
+Retention: per the Utility's records retention schedule and the public utility commission's orders.
+
+ANNEX II — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+Encryption: TLS 1.2+ in transit, AES-256 at rest.
+Access: SSO + MFA, role-based, least privilege. NERC CIP-005 electronic security perimeter where applicable.
+Network: production / non-production segregation, WAF.
+Personnel: background checks (including NERC CIP personnel risk assessment where applicable), confidentiality undertakings, NERC CIP training where applicable.
+Sub-processor management: written agreements, monitoring.
+Regular testing: annual SOC 2 Type II, annual ISO 27001 surveillance, quarterly vulnerability scans, annual penetration testing.
+Data residency: hosted in {{DATA_RESIDENCY_REGION}}, US-only.
+NERC CIP-011 BCSI handling: where applicable.
+Incident response: documented plan, breach notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8. NERC CIP-008 expedited incident reporting cooperation.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+Current list at the Processor's trust center, with NERC CIP-relevant sub-processors specifically identified.
+
+ANNEX IV — PROCESSOR OBLIGATIONS DETAIL
+
+A. Process only on instructions; personnel confidentiality; no commercial use; no AI training; no combining with other data; no use for energy market trading.
+
+B. Sub-processor requirements: specific written authorization required, 60-day notice, equivalent flow-down (including NERC CIP-011 flow-down for BCSI-handling sub-processors), primary liability.
+
+C. Data subject rights: assistance with the Utility's response to customer requests; forward direct requests to the Utility within 5 business days; no direct response.
+
+D. Personal data breach notification: {{BREACH_NOTIFICATION_HOURS}} hours. NERC CIP-008 expedited reporting where applicable. Cooperation with Utility investigation and any required notification.
+
+E. DPIA cooperation: reasonable assistance.
+
+F. Audit rights: {{AUDIT_NOTICE_DAYS}} days' notice. No more than once per twelve (12) month period (except after a breach, NERC CIP audit, or PUC directive). Annual SOC 2 Type II report and ISO 27001 certificate available at no charge. PUC and NERC CIP audit rights preserved.
+
+G. Deletion or return: at the end of services, delete or return at the Utility's choice subject to records retention; certification on request.
+
+ANNEX V — DATA LOCATION
+
+US-only. Hosted in: {{DATA_RESIDENCY_REGION}}. No international transfers. NERC CIP-014 considerations where the Processor's facilities support critical BES Cyber Systems.
+
+Signed.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

@@ -1,0 +1,195 @@
+STATEMENT OF WORK — QUICKBOOKS ONLINE IMPLEMENTATION AND BOOKKEEPING SETUP
+
+This Statement of Work (the "SOW") is dated {{EFFECTIVE_DATE}} and is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} located at {{PROVIDER_ADDRESS}} (the "Bookkeeper"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} located at {{CUSTOMER_ADDRESS}} (the "Client"). It's issued under the Bookkeeping Services Agreement we signed on {{MSA_EFFECTIVE_DATE}} (the "MSA"). Capitalized terms not defined here have the meanings given in the MSA.
+
+We're calling this project "{{PROJECT_NAME}}".
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 What we're doing. The Bookkeeper is going to set up the Client on QuickBooks Online (QBO), migrate the last twelve (12) months of historical transactions from the Client's existing accounting system, and configure recurring workflows so the Client can do its own day-to-day bookkeeping going forward. After this project, the Client should be able to invoice customers, record bills, reconcile bank accounts, and run standard reports on its own.
+
+1.2 In-scope activities. The Bookkeeper will:
+
+(a) Set up a new QuickBooks Online subscription on the appropriate tier for the Client's transaction volume (the Client pays the QBO subscription directly).
+
+(b) Configure the chart of accounts based on the Client's industry and the Bookkeeper's standard small-business chart of accounts template, customized to the Client's needs.
+
+(c) Set up the Client's bank feeds, credit card feeds, and merchant account integrations (Stripe, Square, PayPal, etc.) — up to four (4) financial institution connections.
+
+(d) Migrate the last twelve (12) months of transactions from the Client's existing accounting system into QBO. Migration includes recategorizing transactions to match the new chart of accounts.
+
+(e) Reconcile each migrated month against the Client's bank statements.
+
+(f) Set up recurring transactions (rent, software subscriptions, etc.) and standard recurring reports.
+
+(g) Configure sales tax tracking for the states where the Client has a sales tax obligation, based on a list provided by the Client (Schedule A).
+
+(h) Set up payroll integration with the Client's existing payroll provider, if the Client uses one (Gusto, ADP, Rippling, etc.).
+
+(i) Conduct a 90-minute training session with the Client's designated bookkeeping point of contact, covering day-to-day workflows.
+
+(j) Provide a written Client Workbook covering the day-to-day procedures the Client will follow after the project ends.
+
+1.3 Out-of-scope activities. The following are not included. Any of these, if requested, requires a Change Order under Article 8:
+
+(a) Migration of more than twelve (12) months of historical data. Migration of additional historical periods is billable.
+
+(b) Tax preparation, tax filing, or any tax advice. The Bookkeeper is not the Client's tax preparer.
+
+(c) Audit, attestation, review, or compilation services. The Bookkeeper is not engaged to perform any audit-equivalent service.
+
+(d) Sales tax registration with state revenue agencies on the Client's behalf.
+
+(e) Sales tax filing with state revenue agencies. We set up tracking; the Client (or its tax preparer) files.
+
+(f) Inventory management, manufacturing/job-cost setup, or class tracking beyond the basic configuration.
+
+(g) Custom report development or QBO API/integration work.
+
+(h) Payroll setup beyond integration with an existing payroll provider. If the Client doesn't have a payroll provider, the Client needs to pick one separately.
+
+(i) Cleanup of any historical bookkeeping errors in periods earlier than the migration window.
+
+(j) Ongoing bookkeeping after this Project ends. Ongoing services are a separate engagement under a separate SOW.
+
+1.4 Engagement period. The Bookkeeper will perform the In-Scope Activities from the Project Start Date through the Project End Date set out in Article 3.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables. The Bookkeeper will deliver:
+
+(a) Kickoff Memo — a short written kickoff memo confirming the agreed scope, the bank/credit card feeds to connect, the sales-tax states, and the chart-of-accounts customization. Target: end of Project Week 1.
+
+(b) Configured QBO Tenant — the Client's QBO tenant, with the chart of accounts, bank feeds, sales tax tracking, recurring transactions, and integrations configured per the Kickoff Memo. Target: end of Project Week 3.
+
+(c) Migration Status Report — a written status report after each migrated month is reconciled, showing the closing balances and any reconciliation discrepancies that the Bookkeeper could not clear. Target: weekly during Project Weeks 2 through 6.
+
+(d) Final Reconciliation Memo — a written memo summarizing the twelve months of migrated and reconciled data, including any unresolved discrepancies that the Client or its tax preparer needs to address. Target: end of Project Week 6.
+
+(e) Client Workbook — a written workbook covering the day-to-day procedures, with screenshots, that the Client will follow after the Project ends. Target: end of Project Week 7.
+
+(f) Training Session Recording — recording of the 90-minute training session, with timestamps and a written summary. Target: end of Project Week 7.
+
+2.2 How acceptance works. After the Bookkeeper delivers something, the Client has five (5) business days to either accept it or let us know what's wrong. If we don't hear back in five business days, we'll send a written reminder. After the reminder, if we still don't hear back in another three (3) business days, the Deliverable is deemed accepted.
+
+2.3 Cure of issues. If the Client tells us something isn't working, we'll fix it within five (5) business days at no extra charge, as long as the issue is within the original scope.
+
+2.4 Reconciliation discrepancies. The Bookkeeper will use commercially reasonable efforts to resolve reconciliation discrepancies during migration, but some discrepancies may require information that only the Client (or its prior accountant) can provide. The Final Reconciliation Memo will identify any unresolved items, and the Client is responsible for working with its tax preparer to address them.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project dates. The Project starts on {{PROJECT_START_DATE}} and is targeted to be substantially complete by {{PROJECT_END_DATE}}.
+
+3.2 Milestones.
+
+(a) Milestone 1 — Kickoff Memo accepted. Target: Week 1.
+
+(b) Milestone 2 — Configured QBO Tenant accepted. Target: Week 3.
+
+(c) Milestone 3 — Final Reconciliation Memo accepted. Target: Week 6.
+
+(d) Milestone 4 — Client Workbook accepted and Training Session complete. Target: Week 7.
+
+3.3 Status updates. The Bookkeeper will email a brief status update at the end of each week, covering progress, what's coming next, and any open questions. The Bookkeeper will let the Client know promptly if anything is going to slip more than three (3) business days against any milestone.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Who's doing the work. Named team in Schedule B:
+
+(a) Lead Bookkeeper (a QBO ProAdvisor — minimum 60% allocation across the Project).
+
+(b) Migration Specialist (handles the historical migration — minimum 80% allocation in Project Weeks 2 through 6).
+
+4.2 No swap without notice. The Bookkeeper won't swap out the Lead Bookkeeper without telling the Client. If a swap is necessary (resignation, leave), the Bookkeeper will provide a comparable replacement and brief them on the project.
+
+4.3 Background. The Bookkeeper's people are W-2 employees and are bound by the confidentiality terms in the MSA.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 What the Bookkeeper needs from the Client. To do its part, the Bookkeeper needs the Client to:
+
+(a) Designate one Client point of contact who can respond to questions and approve deliverables.
+
+(b) Provide read-only access to the Client's existing accounting system, bank accounts, credit card accounts, and merchant accounts so the Bookkeeper can pull historical transactions and set up the bank feeds.
+
+(c) Provide the last twelve (12) months of bank statements, credit card statements, and merchant statements (PDF is fine).
+
+(d) Provide the list of states for which the Client has a sales tax obligation (Schedule A).
+
+(e) Provide the Client's existing payroll provider information, if any.
+
+(f) Respond to questions and review deliverables within five (5) business days.
+
+5.2 Accuracy. The Client is responsible for the accuracy of the source data — bank statements, prior account balances, sales tax states, vendor and customer lists. The Bookkeeper will rely on what the Client provides without independent verification, and any errors that result from inaccurate or incomplete source data are not a non-conformity of any Deliverable.
+
+5.3 If the Client is late. If the Client is more than five (5) business days late on any deliverable review or any required information, the Project End Date moves out by the same number of days, and the Bookkeeper may charge a re-engagement fee at the rates in the MSA if the delay is more than fifteen (15) business days.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions.
+
+(a) The Client's transaction volume across the migration period is no more than 1,500 transactions per month on average. Higher transaction volumes are billable as additional scope.
+
+(b) The Client has no more than four (4) financial institution connections to set up (per Section 1.2(c)). Additional connections are billable.
+
+(c) The Client has no more than ten (10) sales-tax states. More than ten states is billable.
+
+(d) The Client's existing accounting system supports CSV or QBO export of transactions. If it doesn't, manual data entry is billable as additional scope.
+
+(e) The Client's bank statements for the migration period are available and complete.
+
+(f) The Client is not currently under audit by any tax authority and has no open audit issues that would require unwinding the migration.
+
+6.2 Third-party dependencies. The Project depends on (a) the QuickBooks Online platform being available and operational, (b) the Client's bank, credit card, and merchant accounts supporting QBO bank feeds, and (c) the Client's existing accounting system being accessible during the migration period.
+
+6.3 If an assumption is wrong. The Bookkeeper will let the Client know promptly if any assumption turns out to be incorrect, and the Parties will work out a Change Order.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Fixed fee. The fixed fee for this Project is {{SOW_FEE_AMOUNT}}. This is not time-and-materials. The fee covers all the In-Scope Activities and Deliverables in Articles 1 and 2, subject to the Assumptions in Article 6.
+
+7.2 Payment schedule.
+
+(a) 50% on signing. Invoice goes out on signature of this SOW; due net 15.
+
+(b) 50% on acceptance of the Final Reconciliation Memo (Milestone 3). Invoice goes out on acceptance; due net 15.
+
+7.3 Expenses. The Bookkeeper does not expect to incur reimbursable expenses on this Project. If the Client wants the Bookkeeper to license any third-party tool or pay for any subscription on the Client's behalf, the Bookkeeper will get pre-approval in writing for any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}}.
+
+7.4 QBO subscription. The QBO subscription is paid by the Client directly to Intuit. It is not part of this Project Fee.
+
+7.5 Late payment. Invoices are due net 15. The MSA's late-payment terms apply.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 How changes work. Either Party can ask for a change at any time by sending the other Party an email describing the proposed change.
+
+8.2 Impact. The Bookkeeper will respond within three (3) business days with the impact on scope, schedule, and fee.
+
+8.3 Change Order. If the Parties agree to a change, the Bookkeeper will write up a one-page Change Order. Both Parties sign it. No change is binding until it's signed.
+
+8.4 De minimis. Changes that move the fee by less than {{CHANGE_ORDER_THRESHOLD}} and don't move the end date can be done by email confirmation between the named contacts.
+
+8.5 Pending changes. The Bookkeeper continues working on the originally scoped activities while a change is being discussed.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT
+
+9.1 The MSA controls. This SOW is part of the Bookkeeping Services Agreement signed on {{MSA_EFFECTIVE_DATE}}. Everything in the MSA — confidentiality, data security, intellectual property, indemnification, limitation of liability, governing law, and dispute resolution — applies to this SOW. If anything here conflicts with the MSA, the MSA wins, except for the fee, the schedule, the deliverables, and the acceptance terms in this SOW.
+
+9.2 No tax engagement. Nothing in this SOW creates a tax-preparation or tax-advisory engagement between the Bookkeeper and the Client. The Client must engage a separate tax preparer for tax filings. Any tax advice in conversation is informational only and is not a substitute for professional tax counsel.
+
+9.3 Termination. This SOW may be terminated only as expressly provided in the MSA or in this SOW.
+
+Signed as of the date at the top.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

@@ -1,0 +1,119 @@
+MUTUAL NON-DISCLOSURE AGREEMENT FOR CYBER INCIDENT FORENSICS ENGAGEMENT
+
+This MUTUAL NON-DISCLOSURE AGREEMENT (this "Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} with its principal place of business at {{PROVIDER_ADDRESS}} ("Client"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} with its principal place of business at {{CUSTOMER_ADDRESS}} ("Forensics Firm"). Client and Forensics Firm are each referred to herein as a "Party" and collectively as the "Parties."
+
+WHEREAS, Client has experienced, or believes it may have experienced, a cybersecurity incident affecting its information systems and has engaged its outside legal counsel (the "Outside Counsel") to investigate the facts, causes, and scope of such incident;
+
+WHEREAS, Outside Counsel has directed Forensics Firm to conduct a forensic investigation on Outside Counsel's behalf to assist Outside Counsel in providing legal advice to Client, and the Parties intend that Forensics Firm's engagement, analyses, findings, and deliverables will be protected by the attorney-client privilege and the work-product doctrine;
+
+WHEREAS, Client may be subject to various legal and regulatory obligations arising from the incident, including state data breach notification statutes and the disclosure requirements of Item 1.05 of Form 8-K under the Securities Exchange Act of 1934, and Client desires to preserve the ability to comply with such obligations without waiving privilege;
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual covenants set forth herein, the Parties, intending to be legally bound, hereby agree as follows:
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Confidential Information" means all non-public information disclosed by or on behalf of one Party (the "Disclosing Party") to the other Party (the "Receiving Party") or any of its Representatives in connection with the Purpose, in whatever form or medium, including without limitation: (a) information regarding the Incident, including the existence, scope, timing, and impact of the Incident; (b) Client's information systems, networks, architecture, security controls, and vulnerabilities; (c) any potentially compromised data, including personal information and proprietary business information; (d) Forensics Firm's methodologies, tools, analyses, and findings; (e) any preliminary or final reports or deliverables prepared under this engagement; and (f) the existence and content of the engagement itself.
+
+1.2 "Incident" means the cybersecurity incident, whether confirmed or suspected, that is the subject of the forensic investigation conducted by Forensics Firm under this Agreement.
+
+1.3 "Indicator of Compromise" or "IOC" means any technical artifact (such as a file hash, IP address, domain, or malware signature) identified by Forensics Firm as evidence of the Incident.
+
+1.4 "Privileged Materials" means any materials created by Forensics Firm at the direction of Outside Counsel in the course of the engagement, including forensic analyses, preliminary findings, draft reports, final reports, and associated communications, that are intended to be protected by the attorney-client privilege or the work-product doctrine.
+
+1.5 "Purpose" means Forensics Firm's provision of forensic investigation services to assist Outside Counsel in providing legal advice to Client concerning the Incident, and nothing else.
+
+1.6 "Representatives" means, with respect to a Receiving Party, such Receiving Party's directors, officers, employees, outside legal counsel (including, in the case of Client, Outside Counsel), and, where applicable, its insurance carrier and breach coach, in each case who have a bona fide need to know Confidential Information in connection with the Purpose and who are bound by written or professional obligations of confidentiality no less protective than those set forth herein.
+
+1.7 "Trade Secret" means any Confidential Information that qualifies as a trade secret under the Defend Trade Secrets Act of 2016 or the laws of the Commonwealth of {{GOVERNING_LAW_STATE}} or any other applicable law.
+
+ARTICLE 2 — PURPOSE AND PRIVILEGE PRESERVATION
+
+2.1 Narrow Purpose. Forensics Firm shall use Confidential Information solely for the Purpose and for no other purpose. Forensics Firm shall not use Confidential Information for Forensics Firm's marketing, for industry research, for threat intelligence products, or for any other purpose outside the Purpose.
+
+2.2 Direction by Outside Counsel. Forensics Firm's engagement is directed by Outside Counsel. All assignments, requests for analysis, and review of deliverables shall be coordinated through Outside Counsel, and Forensics Firm shall direct its deliverables to Outside Counsel rather than directly to Client, to preserve the attorney-client privilege and work-product protection. The Parties intend that the engagement of Forensics Firm, Forensics Firm's analyses, and Forensics Firm's deliverables be privileged communications or work product.
+
+2.3 No Voluntary Disclosure. Forensics Firm shall not voluntarily disclose any Privileged Materials to any third party, including any regulatory authority, insurance carrier, other law firm, or threat intelligence organization, except with Client's and Outside Counsel's prior written consent.
+
+2.4 No Reverse Engineering. Each Receiving Party shall not reverse engineer, disassemble, or attempt to derive the composition, structure, or methods of manufacture of any proprietary tool, technique, or methodology disclosed by the Disclosing Party.
+
+ARTICLE 3 — CONFIDENTIAL INFORMATION AND PRIVILEGE
+
+3.1 Obligations. The Receiving Party shall: (a) hold all Confidential Information in strict confidence; (b) use Confidential Information solely for the Purpose as directed by Outside Counsel; (c) disclose Confidential Information only to its Representatives who have a bona fide need to know in connection with the Purpose and who are bound by written or professional confidentiality obligations no less protective than those set forth herein; and (d) protect Confidential Information using at least the degree of care the Receiving Party uses for its own most sensitive confidential information, but no less than a reasonable degree of care.
+
+3.2 Privilege Preservation Practices. Each Receiving Party shall take reasonable steps to preserve the privileged and work-product status of all Privileged Materials, including by: (a) marking all Privileged Materials as "Privileged and Confidential — Attorney Work Product" or with comparable markings; (b) limiting distribution of Privileged Materials to individuals who are covered by the privilege; (c) avoiding the creation of parallel, non-privileged records of the same analyses or findings; and (d) promptly notifying the other Party of any event that may compromise the privileged status of any Privileged Materials.
+
+3.3 Responsibility for Representatives. Each Receiving Party shall be responsible for any breach of this Agreement by any of its Representatives.
+
+3.4 Incident Reporting. Each Receiving Party shall notify the Disclosing Party in writing within twenty-four (24) hours after becoming aware of any actual or suspected unauthorized use, disclosure, loss, or exposure of Confidential Information.
+
+ARTICLE 4 — EXCLUSIONS FROM CONFIDENTIALITY
+
+4.1 Exclusions. The obligations in Article 3 shall not apply to any information that the Receiving Party can demonstrate by competent written evidence: (a) was in the public domain at the time of disclosure or subsequently entered the public domain through no breach of this Agreement; (b) was in the Receiving Party's possession, free of any obligation of confidence, prior to disclosure; (c) was independently developed by the Receiving Party without use of or reference to any Confidential Information; or (d) was rightfully received from a third party without any obligation of confidence to the Disclosing Party.
+
+4.2 Privileged Materials Never Excluded. Privileged Materials shall not fall within any of the exclusions in Section 4.1 solely by virtue of the fact that the Incident itself or certain technical details may later become publicly known.
+
+ARTICLE 5 — COMPELLED DISCLOSURE AND REGULATORY OBLIGATIONS
+
+5.1 Legal Process. In the event that a Receiving Party or any of its Representatives is requested or required by any court, governmental authority, or other legal process to disclose any Confidential Information, such Receiving Party shall, to the extent legally permissible, provide the Disclosing Party with prompt prior written notice so the Disclosing Party may seek a protective order or other appropriate remedy, assert any applicable privilege or work-product protection, and contest the disclosure.
+
+5.2 Assertion of Privilege. If a Receiving Party is legally compelled to disclose Privileged Materials, the Receiving Party shall assert the attorney-client privilege and the work-product doctrine, cooperate with the Disclosing Party's efforts to assert such privileges, and disclose only the minimum portion of Privileged Materials legally required to be disclosed.
+
+5.3 Client Regulatory Obligations. Client reserves the right, notwithstanding anything in this Agreement, to (a) make any disclosure that Outside Counsel advises is required by applicable data breach notification statutes, securities laws (including Item 1.05 of Form 8-K), or other regulatory requirements, and (b) provide information to any insurance carrier or breach coach in connection with Client's insurance claims and response activities. Client shall use reasonable efforts to make any such disclosure in a manner consistent with the preservation of privilege and work-product protection to the extent feasible.
+
+5.4 Forensics Firm Information Sharing. Forensics Firm shall not share IOCs, malware samples, or other threat intelligence derived from the Incident with any third-party threat intelligence organization, ISAC, or public database without Client's and Outside Counsel's prior written consent.
+
+ARTICLE 6 — RETURN OR DESTRUCTION
+
+6.1 Return on Engagement Conclusion. Upon the conclusion of the engagement or at any time upon Outside Counsel's written request, Forensics Firm shall, at Outside Counsel's election, return or destroy all Confidential Information, together with all copies, extracts, and derivative materials. Forensics Firm shall certify such return or destruction in writing to Outside Counsel within twenty (20) business days.
+
+6.2 Retention of IOCs for Regulatory Purposes. Notwithstanding Section 6.1, Forensics Firm may retain, solely at Outside Counsel's direction and subject to Outside Counsel's supervision, a minimum set of IOCs and forensic artifacts necessary for Client's regulatory disclosure, breach notification, insurance claim, or litigation support obligations. Any such retained materials shall remain subject to this Agreement for so long as they are retained.
+
+6.3 Retention Exceptions. Forensics Firm may also retain (a) one archival copy of Confidential Information in the custody of its outside legal counsel, and (b) Confidential Information contained in automatic, tamper-resistant system backups, in each case subject to the continuing obligations of this Agreement.
+
+ARTICLE 7 — NO LICENSE OR OWNERSHIP TRANSFER
+
+7.1 Ownership Reserved. All Confidential Information shall remain the sole and exclusive property of the Disclosing Party. Nothing in this Agreement shall be construed as granting the Receiving Party, by implication, estoppel, or otherwise, any license or other right in any patent, copyright, trademark, trade secret, or other intellectual property right of the Disclosing Party. Forensics Firm's proprietary forensic tools, methodologies, and know-how shall remain the exclusive property of Forensics Firm, subject to the restrictions of this Agreement. Privileged Materials are the work product of Client and Outside Counsel.
+
+ARTICLE 8 — TERM AND SURVIVAL
+
+8.1 Term. This Agreement shall commence on the Effective Date and shall continue in full force and effect for a period of {{TERM_YEARS}} years thereafter, unless earlier terminated upon {{NOTICE_DAYS}} days' prior written notice in the event of a material uncured breach.
+
+8.2 Survival. The Receiving Party's obligations of confidentiality and non-use with respect to Confidential Information shall survive for a period of ten (10) years after the termination or expiration of this Agreement, and with respect to any Trade Secret, for so long as such information remains a Trade Secret under applicable law. Obligations relating to Privileged Materials shall survive indefinitely.
+
+ARTICLE 9 — EQUITABLE REMEDIES
+
+9.1 Irreparable Harm. Each Party acknowledges that any breach of this Agreement, particularly any compromise of privilege or any unauthorized disclosure of Incident-related Confidential Information, may cause the Disclosing Party irreparable harm for which monetary damages would be inadequate.
+
+9.2 Injunctive Relief. Each Party is entitled to seek specific performance, injunctive relief, and other equitable relief in any court of competent jurisdiction, without the necessity of posting a bond or other security and without the necessity of proving actual damages, in addition to any other remedies available at law or in equity.
+
+9.3 Cumulative Remedies. Remedies are cumulative and in addition to any other rights and remedies available at law, in equity, or under any other agreement.
+
+ARTICLE 10 — GENERAL PROVISIONS
+
+10.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of {{GOVERNING_LAW_STATE}}, without regard to conflict of laws principles.
+
+10.2 Venue. Each Party irrevocably submits to the exclusive jurisdiction of the state and federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}, for any dispute arising out of or relating to this Agreement.
+
+10.3 Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof.
+
+10.4 Amendments. No amendment of this Agreement shall be effective unless in writing and signed by both Parties (and, where applicable, acknowledged by Outside Counsel).
+
+10.5 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party.
+
+10.6 Severability. If any provision of this Agreement is held invalid, the remaining provisions shall continue in full force.
+
+10.7 Counterparts. This Agreement may be executed in counterparts.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title: General Counsel
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title: Managing Director

@@ -1,0 +1,179 @@
+SOFTWARE LICENSE AGREEMENT — ENTERPRISE PERPETUAL (CUSTOMER PAPER)
+
+This SOFTWARE LICENSE AGREEMENT (this "Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Licensor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Licensee" or "Customer"). The Parties acknowledge that this Agreement reflects the Customer's standard software-procurement terms and that any conflict with the Licensor's standard end-user license agreement is resolved in favor of this Agreement.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Affiliate" means an entity that controls, is controlled by, or is under common control with the Customer, where "control" means at least fifty percent (50%) ownership.
+
+1.2 "Documentation" means the user manuals, installation guides, administrator guides, API references, and other written documentation provided by the Licensor for the Licensed Software.
+
+1.3 "Field" means {{LICENSE_FIELD_OF_USE}}.
+
+1.4 "Licensed Software" means the software products identified on Exhibit A, in object code form, including any Updates released during the Maintenance Term, and the Documentation.
+
+1.5 "Maintenance Term" means the period during which the Licensee receives Updates and support services under Article 5, beginning on the Effective Date and continuing for so long as the Licensee pays the annual maintenance fee.
+
+1.6 "Permitted Users" means the Customer's employees, contractors, agents, professional advisors, Affiliates, and the customers of the Customer accessing the Licensed Software solely as part of using a service offered by the Customer.
+
+1.7 "Production Environment" means an installation of the Licensed Software used for production data processing or business operations.
+
+1.8 "Territory" means {{LICENSE_TERRITORY}}.
+
+1.9 "Updates" means error corrections, bug fixes, security patches, and minor functional enhancements to the Licensed Software released by the Licensor during the Maintenance Term.
+
+1.10 "Upgrade" means a major version release of the Licensed Software designated by the Licensor as a new major version (typically a numbered release such as 8.0 to 9.0).
+
+ARTICLE 2 — GRANT OF LICENSE
+
+2.1 License Grant. Subject to the terms and conditions of this Agreement, the Licensor hereby grants to the Customer an {{LICENSE_GRANT_TYPE}}, perpetual, irrevocable (except for breach as set forth in Article 9), worldwide, fully paid-up, royalty-free license to:
+
+(a) install, deploy, configure, and run the Licensed Software on any number of servers, virtual machines, containers, or cloud instances that the Customer or its Affiliates own, lease, or control;
+
+(b) use the Licensed Software for the Customer's and its Affiliates' internal business purposes (including production, testing, development, training, disaster recovery, and high-availability environments);
+
+(c) make a reasonable number of backup, archival, and disaster-recovery copies of the Licensed Software;
+
+(d) permit Permitted Users to access and use the Licensed Software in the course of their work for or with the Customer or its Affiliates;
+
+(e) outsource the operation of the Licensed Software to a third-party hosting provider, managed services provider, or cloud provider, provided that the Customer remains responsible for compliance with this Agreement; and
+
+(f) reverse engineer the Licensed Software solely to the extent necessary to (i) achieve interoperability with other software the Customer uses, (ii) verify the absence of security vulnerabilities, malware, or backdoors, and (iii) comply with the Customer's regulatory and audit obligations.
+
+2.2 Affiliate Use. The Customer's Affiliates may use the Licensed Software under this Agreement on the same terms as the Customer. Each Affiliate's use shall be deemed the Customer's use, and the Customer shall remain liable for compliance.
+
+2.3 No User-Based Restrictions. The license is enterprise-wide. The Licensor shall not impose, and the Customer shall not be required to track, the number of named users, concurrent users, CPUs, cores, RAM, transactions, records, or any other usage metric.
+
+2.4 Reservation of Rights. The Licensor retains all rights, title, and interest in and to the Licensed Software not expressly granted to the Customer.
+
+2.5 Field of Use. {{LICENSE_FIELD_OF_USE}}.
+
+2.6 Sublicensing. {{LICENSE_SUBLICENSE_RIGHTS}}.
+
+ARTICLE 3 — RESTRICTIONS
+
+3.1 General Restrictions. The Customer shall not (a) distribute, sell, lease, sublicense, or transfer the Licensed Software to any third party except as permitted in Section 2.1(d) or Section 10.4 (assignment), (b) embed the Licensed Software in a product the Customer sells to third parties as standalone software, or (c) use the Licensed Software in violation of applicable law.
+
+3.2 Reverse Engineering Carve-Out. The reverse engineering rights in Section 2.1(f) are an EXCEPTION to any contrary restriction in any other agreement, EULA, or click-through. The Licensor expressly acknowledges that the Customer's regulatory environment requires the Customer to verify the security and integrity of all software used in the Customer's production environment.
+
+3.3 Open Source. The Licensor shall not include any open-source software in the Licensed Software in a manner that would (a) require the disclosure of the Licensed Software's source code under any open-source license, (b) require the Customer to license the Customer's software under any open-source license, or (c) impose any other open-source obligation on the Customer. The Licensor shall provide the Customer with a complete list of all open-source components included in the Licensed Software, the applicable licenses, and the source code (or links thereto) on request.
+
+ARTICLE 4 — FEES AND PAYMENT
+
+4.1 Perpetual License Fee. In consideration of the perpetual license granted in Article 2, the Customer shall pay the Licensor a one-time, non-refundable license fee of {{LICENSE_UPFRONT_FEE}} within sixty (60) days after delivery of the Licensed Software AND Customer's acceptance under Section 5.2.
+
+4.2 Annual Maintenance Fee. The Customer may, at the Customer's option, purchase annual maintenance and support services from the Licensor for an annual fee of twenty percent (20%) of the License Fee, paid annually in arrears. The Customer may discontinue or resume maintenance at any annual renewal point.
+
+4.3 Most Favored Customer. The Licensor represents that the License Fee and the maintenance fee are not less favorable than the fees charged to any other licensee of comparable scope, deal size, and industry. If the Licensor offers more favorable pricing to any comparable licensee during the Term, the Licensor shall promptly notify the Customer and reduce the Customer's fees correspondingly.
+
+4.4 No Audit Recovery for Inventory. The Licensor's audit rights under Section 5.4 do not include the right to assess additional license fees for the Customer's deployment of the Licensed Software on additional servers, cores, or environments — the license under Article 2 is enterprise-wide and is not metered.
+
+4.5 Payment. All payments are due net sixty (60) days from the Customer's receipt of an undisputed invoice. The Customer may withhold disputed amounts pending resolution. Late payment interest shall not exceed the lesser of one percent (1.0%) per month or the maximum rate permitted by applicable law.
+
+ARTICLE 5 — DELIVERY, ACCEPTANCE, MAINTENANCE, AND ESCROW
+
+5.1 Delivery. The Licensor shall deliver the Licensed Software, the Documentation, and any required license keys to the Customer within thirty (30) days of the Effective Date.
+
+5.2 Acceptance Testing. The Customer shall have ninety (90) days from delivery to install, configure, and test the Licensed Software in the Customer's environment to verify that the Licensed Software materially conforms to the Documentation and the Customer's documented requirements set forth in Exhibit B. If the Licensed Software does not pass acceptance testing, the Customer may, at its option, (a) reject the Licensed Software and receive a full refund of any fees paid, or (b) require the Licensor to remediate the deficiencies at no additional cost.
+
+5.3 Updates and Support. During the Maintenance Term, the Licensor shall provide the Customer with (a) all Updates released by the Licensor for general availability, (b) telephone, email, and customer-portal support during the Licensor's standard business hours (9 AM - 6 PM ET, Monday through Friday, excluding US federal holidays), (c) escalated 24x7 support for production-affecting incidents on the Licensor's enterprise support tier, and (d) access to the Licensor's customer documentation portal.
+
+5.4 Source Code Escrow. The Licensor shall, within ninety (90) days of the Effective Date, deposit a complete, current copy of the source code, build scripts, and developer Documentation for the Licensed Software with an established source code escrow agent (Iron Mountain or NCC Group) under a three-party escrow agreement. The Licensor shall update the escrow deposit within thirty (30) days after each Update or Upgrade. The escrow agreement shall provide for release of the source code to the Customer upon (a) the Licensor's bankruptcy, insolvency, or assignment for the benefit of creditors, (b) the Licensor's dissolution or cessation of operations, (c) the Licensor's material failure to provide maintenance and support after notice and a reasonable opportunity to cure, or (d) any other event that materially impairs the Licensor's ability to support the Licensed Software. Upon release, the Customer shall have a perpetual, royalty-free license to use the source code for the Customer's internal purposes (including support, modification, and self-maintenance), without any further payment.
+
+5.5 Audit Right. The Licensor may, on at least sixty (60) days' prior written notice and not more than {{LICENSE_AUDIT_FREQUENCY}}, request the Customer's certification of the Licensed Software's installations. Such certification shall be limited to a written self-certification by the Customer and shall not require the Customer to provide access to the Customer's internal systems, networks, or facilities. As stated in Section 4.4, no additional license fees shall be assessed for any deployment count, since the license is enterprise-wide.
+
+ARTICLE 6 — IMPROVEMENTS AND CUSTOMIZATIONS
+
+6.1 Customer Customizations. The Customer may make any customizations, configurations, integrations, modifications, derivative works, or extensions to the Licensed Software (collectively, "Customer Customizations") for the Customer's internal use. Customer Customizations are owned by the Customer.
+
+6.2 No License-Back to Licensor. The Customer is not required to disclose to or assign to the Licensor any Customer Customizations. The Licensor has no rights in any Customer Customization.
+
+6.3 Right to Engage Third-Party Developers. The Customer may engage third-party developers (consultants, system integrators, contractors) to make Customer Customizations on the Customer's behalf, provided that such developers do not retain any copy of the Licensed Software source code (which they would receive only if released from escrow under Section 5.4) after the engagement ends.
+
+6.4 Bug Reporting. The Customer may, at the Customer's option (but is not required to), report bugs and provide suggested fixes to the Licensor. Any such reports and fixes are not deemed Confidential Information of the Customer; the Licensor may incorporate them into the Licensed Software for the benefit of the Licensor's other customers.
+
+ARTICLE 7 — CONFIDENTIALITY
+
+7.1 The Licensor shall hold all Customer Confidential Information (including the Customer's data, configurations, deployment architecture, and business information) in strict confidence and shall use it solely for purposes of providing maintenance and support services.
+
+7.2 The Customer's use of the Licensed Software (including the Customer's deployment configuration, performance benchmarks, and integration with the Customer's systems) is the Customer's Confidential Information. The Licensor shall not use the Customer's deployment information, performance metrics, or any data observed during support engagements for any purpose other than providing services to the Customer. The Licensor shall not include the Customer in any marketing materials, case studies, or customer lists without the Customer's prior written consent.
+
+7.3 The Licensor's Confidential Information includes the source code of the Licensed Software (whether received via escrow release or otherwise), the pricing terms of this Agreement, and any non-public technical information shared with the Customer.
+
+7.4 The confidentiality obligations under this Article 7 shall survive termination or expiration of this Agreement and shall continue for as long as the relevant information remains confidential. Trade secret protection survives indefinitely.
+
+ARTICLE 8 — REPRESENTATIONS, WARRANTIES, AND INDEMNIFICATION
+
+8.1 Licensor Title. The Licensor represents and warrants that (a) the Licensor is the sole owner of the Licensed Software (excluding third-party open-source components disclosed under Section 3.3), (b) the Licensor has the right to grant the licenses granted herein, and (c) the Licensor has not granted any conflicting license.
+
+8.2 Conformity to Documentation. The Licensor warrants that the Licensed Software shall materially conform to the Documentation throughout the Maintenance Term. If the Licensed Software fails to conform, the Licensor shall promptly correct the non-conformity at no additional cost.
+
+8.3 Non-Infringement. The Licensor warrants that the Licensed Software, as delivered, does not infringe any third-party intellectual property right anywhere in the Territory.
+
+8.4 No Malware. The Licensor warrants that the Licensed Software does not contain any malicious code, virus, worm, trojan horse, time bomb, backdoor, or other hidden function designed to damage, disable, or surveil the Customer's systems.
+
+8.5 Security. The Licensor shall comply with the security requirements set forth in Exhibit C, including secure development practices, vulnerability management, and security patch obligations under Section 5.3.
+
+8.6 Licensor Infringement Indemnification. The Licensor shall defend, indemnify, and hold harmless the Customer (and its Affiliates, officers, directors, employees, and agents) from any third-party claim that the Licensed Software (excluding open-source components disclosed under Section 3.3) infringes any patent, copyright, trade secret, or other intellectual property right of a third party. The Licensor's indemnification obligation is not capped.
+
+8.7 Mitigation. If the Licensed Software becomes the subject of an infringement claim, the Licensor shall, at its option and expense, (a) procure for the Customer the right to continue using, (b) modify the Licensed Software to be non-infringing while preserving substantially equivalent functionality, or (c) refund the License Fee on a prorated basis over a ten-year amortization schedule. Option (c) is available only if neither (a) nor (b) is commercially feasible.
+
+8.8 Customer Indemnification. The Customer shall defend the Licensor against any claim that the Customer's use of the Licensed Software outside the scope of the license, the Customer's modifications, or the Customer's data violates any third party's rights. The Customer's indemnification is capped at the License Fee paid.
+
+8.9 Limitation of Liability. EXCEPT FOR (A) BREACHES OF CONFIDENTIALITY, (B) THE LICENSOR'S INDEMNIFICATION OBLIGATIONS UNDER SECTION 8.6, (C) THE LICENSOR'S BREACH OF SECTION 8.4 (NO MALWARE) OR SECTION 8.5 (SECURITY), AND (D) WILLFUL MISCONDUCT OR FRAUD, NEITHER PARTY'S AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL EXCEED THREE TIMES (3X) THE LICENSE FEE. THE FOREGOING CAP DOES NOT APPLY TO ITEMS (A) THROUGH (D), WHICH ARE UNCAPPED.
+
+ARTICLE 9 — TERM AND TERMINATION OF LICENSE
+
+9.1 Term. This Agreement and the perpetual license shall commence on the Effective Date and shall continue in perpetuity, unless terminated under Section 9.2.
+
+9.2 Termination by the Customer. The Customer may terminate this Agreement at any time, for any reason or no reason, on written notice to the Licensor. The Customer's termination shall not entitle the Customer to a refund of the License Fee.
+
+9.3 Termination by the Licensor. The Licensor may terminate this Agreement only for the Customer's material, uncured breach of Article 3 (Restrictions) or non-payment of the License Fee, after sixty (60) days' written notice and an opportunity to cure.
+
+9.4 Effect of Termination by Licensor. If the Licensor terminates this Agreement under Section 9.3, the Customer shall (a) cease using the Licensed Software in production environments within one hundred eighty (180) days after termination (the "Wind-Down Period"), (b) destroy or return all copies of the Licensed Software at the end of the Wind-Down Period, and (c) certify destruction in writing.
+
+9.5 Effect of Termination by Customer. If the Customer terminates this Agreement under Section 9.2, the perpetual license under Article 2 shall continue (the Customer's termination is effectively a termination of maintenance and support, not of the underlying license) unless the Customer expressly states that the Customer is also relinquishing the perpetual license.
+
+9.6 Survival. Articles 1, 5.4 (escrow), 6, 7, 8, 9.4, 9.5, and 10 shall survive termination.
+
+ARTICLE 10 — GOVERNING LAW AND MISCELLANEOUS
+
+10.1 Governing Law. This Agreement shall be governed by the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to its conflict-of-laws principles.
+
+10.2 Exclusive Venue. The state and federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}} shall have exclusive jurisdiction over any dispute, and the Parties consent to personal jurisdiction and venue.
+
+10.3 Notices. All notices shall be in writing and shall be deemed given when delivered by hand, overnight courier, or registered mail to the addresses in the preamble.
+
+10.4 Assignment. The Customer may freely assign this Agreement, without consent, to an Affiliate or in connection with a merger, sale of assets, or corporate reorganization. The Licensor may not assign this Agreement without the Customer's prior written consent (such consent not to be unreasonably withheld), except to a successor entity that is at least as financially capable as the Licensor.
+
+10.5 No Waiver. No failure or delay by either Party in exercising any right shall operate as a waiver.
+
+10.6 Severability. If any provision is held to be unenforceable, the remaining provisions shall continue in full force and effect.
+
+10.7 Entire Agreement. This Agreement, together with the Exhibits and the Source Code Escrow Agreement, constitutes the entire agreement between the Parties and supersedes any prior end-user license, click-through, or shrink-wrap agreement.
+
+10.8 Order of Precedence. In the event of any conflict, this Agreement controls over any Licensor click-through, click-wrap, shrink-wrap, EULA, or other terms. The Customer's purchase order terms control over the Licensor's invoice terms (except for price and payment due dates).
+
+10.9 Counterparts and Electronic Signatures. This Agreement may be executed in counterparts and by electronic signature.
+
+EXHIBITS
+
+Exhibit A — Identification of Licensed Software (modules, versions, components)
+Exhibit B — Customer's Acceptance Criteria
+Exhibit C — Security Requirements
+Exhibit D — Open Source Components and Licenses
+Exhibit E — Source Code Escrow Agreement
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title: Chief Information Officer

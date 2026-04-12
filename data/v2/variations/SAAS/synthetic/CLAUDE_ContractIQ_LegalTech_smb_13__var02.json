@@ -1,0 +1,19 @@
+{
+  "source_template": "CLAUDE_ContractIQ_LegalTech_smb_13.txt",
+  "variation_index": 2,
+  "substitutions": {
+    "PROVIDER_NAME": "Northwind Cloud Services, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "corporation",
+    "PROVIDER_ADDRESS": "9941 Madison Street NE, Atlanta, Georgia 30459",
+    "CUSTOMER_NAME": "Liberty Pharmaceuticals Inc.",
+    "CUSTOMER_STATE": "Georgia",
+    "CUSTOMER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_ADDRESS": "7314 Mission Street NE, Atlanta, Georgia 30180",
+    "EFFECTIVE_DATE": "November 20, 2024",
+    "VENUE_COUNTY": "Fulton County",
+    "ANNUAL_FEE_AMOUNT": "One Million Eight Hundred Thousand United States Dollars ($1,800,000)",
+    "TERM_YEARS": "four (4)",
+    "NOTICE_DAYS": "thirty (30)"
+  }
+}

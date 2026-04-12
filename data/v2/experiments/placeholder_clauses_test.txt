@@ -1,0 +1,64 @@
+# Placeholder-first generation test — 5 clauses
+# Each clause is written directly with {{PLACEHOLDER}} tags.
+# No raw values, no tokenization step needed.
+
+===== CLAUSE 1: INTELLECTUAL PROPERTY RIGHTS =====
+ARTICLE 8 — INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Provider Intellectual Property. As between the Parties, {{PROVIDER_NAME}} shall retain all right, title, and interest in and to the Platform, the Documentation, and all related Intellectual Property Rights, including without limitation any modifications, enhancements, derivative works, or improvements thereto, regardless of whether such modifications were created based on suggestions, feedback, or requests from {{CUSTOMER_NAME}}.
+
+8.2 Customer Data. Customer Data is and shall remain the exclusive property of {{CUSTOMER_NAME}}. {{PROVIDER_NAME}} claims no right, title, or interest in Customer Data other than the limited license granted in Article 7.
+
+8.3 Feedback. From time to time, {{CUSTOMER_NAME}} or its Authorized Users may provide {{PROVIDER_NAME}} with suggestions, comments, ideas, or feedback regarding the Platform ("Feedback"). {{CUSTOMER_NAME}} hereby grants {{PROVIDER_NAME}} a perpetual, irrevocable, royalty-free, worldwide license to use, reproduce, modify, and incorporate such Feedback into the Platform without obligation or attribution to {{CUSTOMER_NAME}}.
+
+8.4 No Implied Licenses. Except for the limited rights expressly granted in this Agreement, neither Party grants any rights or licenses to the other Party, whether by implication, estoppel, or otherwise, with respect to any of its Intellectual Property Rights.
+
+===== CLAUSE 2: LIMITATION OF LIABILITY =====
+ARTICLE 12 — LIMITATION OF LIABILITY
+
+12.1 Aggregate Cap. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT OF SUBSCRIPTION FEES PAID OR PAYABLE BY {{CUSTOMER_NAME}} TO {{PROVIDER_NAME}} DURING THE {{LIABILITY_CAP_MONTHS}} MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+12.2 Exclusion of Indirect Damages. EXCEPT AS PROVIDED IN SECTION 12.3, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, LOST REVENUE, LOST BUSINESS OPPORTUNITIES, OR LOSS OF DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+12.3 Exceptions to Limitations. The limitations set forth in Sections 12.1 and 12.2 shall not apply to (a) {{PROVIDER_NAME}}'s obligations under Article 11 (Indemnification); (b) any breach of Article 9 (Confidentiality); (c) any breach of Article 7 (Customer Data and Privacy); (d) {{CUSTOMER_NAME}}'s payment obligations under Article 4; or (e) any liability arising from a Party's gross negligence, willful misconduct, or fraud.
+
+12.4 Basis of the Bargain. The Parties acknowledge that the limitations of liability set forth in this Article 12 are an essential element of the bargain between the Parties.
+
+===== CLAUSE 3: TERMINATION =====
+ARTICLE 13 — TERMINATION
+
+13.1 Initial Term. This Agreement shall commence on the {{EFFECTIVE_DATE}} and shall continue for a period of {{TERM_YEARS}} years, unless earlier terminated in accordance with this Article 13.
+
+13.2 Termination for Material Breach. Either Party may terminate this Agreement upon thirty (30) days' prior written notice to the other Party if the other Party commits a material breach of this Agreement and fails to cure such breach within the thirty (30) day notice period. Any termination by {{CUSTOMER_NAME}} for material breach by {{PROVIDER_NAME}} shall entitle {{CUSTOMER_NAME}} to a refund of the pro-rata portion of any prepaid Subscription Fees corresponding to the period after the effective date of termination.
+
+13.3 Termination for Insolvency. Either Party may terminate this Agreement immediately upon written notice to the other Party if the other Party (a) becomes insolvent or unable to pay its debts as they become due; (b) makes a general assignment for the benefit of creditors; (c) files a voluntary petition in bankruptcy; or (d) has an involuntary petition in bankruptcy filed against it that is not dismissed within sixty (60) days.
+
+13.4 Effects of Termination. Upon expiration or termination: (a) all rights and licenses granted to {{CUSTOMER_NAME}} hereunder shall immediately cease; (b) {{CUSTOMER_NAME}} shall pay {{PROVIDER_NAME}} all Subscription Fees that have accrued through the effective date of termination; and (c) the provisions of this Agreement that by their nature are intended to survive termination shall so survive.
+
+13.5 Transition Assistance. For a period of up to {{NOTICE_DAYS}} days following the effective date of expiration or termination of this Agreement, {{PROVIDER_NAME}} shall provide {{CUSTOMER_NAME}} with reasonable transition assistance to facilitate {{CUSTOMER_NAME}}'s migration to a successor system, including the export of Customer Data in a commercially reasonable, machine-readable format.
+
+===== CLAUSE 4: CUSTOMER DATA AND HIPAA COMPLIANCE =====
+ARTICLE 7 — CUSTOMER DATA AND HIPAA COMPLIANCE
+
+7.1 Ownership of Customer Data. As between the Parties, {{CUSTOMER_NAME}} shall retain all right, title, and interest in and to Customer Data, including all Protected Health Information ("PHI") as defined under HIPAA. {{PROVIDER_NAME}} acknowledges that Customer Data is the exclusive property of {{CUSTOMER_NAME}}.
+
+7.2 Business Associate Status. The Parties acknowledge that {{PROVIDER_NAME}} shall be acting as a "business associate" of {{CUSTOMER_NAME}}, as that term is defined under the Health Insurance Portability and Accountability Act of 1996 ("HIPAA") and the regulations promulgated thereunder at 45 C.F.R. Parts 160 and 164. The Parties shall execute a Business Associate Agreement substantially in the form attached as Exhibit B simultaneously with this Agreement.
+
+7.3 Permitted Uses. {{PROVIDER_NAME}} shall use and disclose PHI only as permitted by HIPAA, the Business Associate Agreement, and this Agreement. {{PROVIDER_NAME}} shall not use PHI to train any artificial intelligence or machine learning model, to develop any commercial product, or for any purpose other than providing the Services to {{CUSTOMER_NAME}}, except as expressly permitted in writing by {{CUSTOMER_NAME}}.
+
+7.4 Security Safeguards. {{PROVIDER_NAME}} shall implement and maintain administrative, physical, and technical safeguards designed to comply with the HIPAA Security Rule (45 C.F.R. Part 164, Subpart C), including without limitation (a) encryption of PHI in transit using TLS 1.2 or higher; (b) encryption of PHI at rest using AES-256; (c) role-based access controls; (d) annual third-party penetration testing; and (e) maintenance of SOC 2 Type II certification.
+
+7.5 Breach Notification. {{PROVIDER_NAME}} shall notify {{CUSTOMER_NAME}} in writing of any "Breach" of "Unsecured Protected Health Information" (as both terms are defined under 45 C.F.R. § 164.402) without undue delay and in any event within seventy-two (72) hours of {{PROVIDER_NAME}}'s discovery thereof.
+
+7.6 State Privacy Law. In addition to HIPAA, {{PROVIDER_NAME}} shall comply with the privacy and data protection laws of the State of {{GOVERNING_LAW_STATE}} as applicable to the Services.
+
+===== CLAUSE 5: INDEMNIFICATION (state agency / sovereign immunity) =====
+ARTICLE 11 — INDEMNIFICATION
+
+11.1 Provider Indemnity. {{PROVIDER_NAME}} shall defend {{CUSTOMER_NAME}} and its officers, directors, employees, and agents against any third-party claim alleging that {{CUSTOMER_NAME}}'s use of the Platform in accordance with this Agreement infringes, misappropriates, or otherwise violates any Intellectual Property Right of such third party, and {{PROVIDER_NAME}} shall indemnify {{CUSTOMER_NAME}} for any damages, settlement amounts, and reasonable attorneys' fees finally awarded against {{CUSTOMER_NAME}} with respect to such claim. {{PROVIDER_NAME}}'s obligations under this Section 11.1 shall not apply to the extent that the claim arises out of (a) any modification of the Platform by any party other than {{PROVIDER_NAME}}; (b) any combination of the Platform with software, hardware, or data not provided by {{PROVIDER_NAME}}; or (c) any Customer Data.
+
+11.2 Customer Indemnity. {{CUSTOMER_NAME}} shall, to the extent permitted by {{CUSTOMER_STATE}} law and subject to the constitutional and statutory limitations on the authority of {{CUSTOMER_NAME}} to indemnify third parties, defend {{PROVIDER_NAME}} against any claim alleging that (a) any Customer Data infringes the Intellectual Property Rights of any third party; or (b) {{CUSTOMER_NAME}}'s use of the Platform in violation of this Agreement caused damage to such third party. The Parties acknowledge that {{CUSTOMER_NAME}}'s indemnification obligations are subject to the appropriations of the {{CUSTOMER_STATE}} Legislature and to the sovereign immunity of the State of {{CUSTOMER_STATE}}, and nothing in this Section 11.2 shall be construed as a waiver of such sovereign immunity.
+
+11.3 Indemnification Procedure. The Party seeking indemnification shall (a) provide the indemnifying Party with prompt written notice of the claim; (b) grant the indemnifying Party sole control over the defense and settlement of the claim, provided that the indemnifying Party shall not enter into any settlement that imposes any liability or obligation on the indemnified Party without prior written consent (which shall not be unreasonably withheld); and (c) provide reasonable cooperation at the indemnifying Party's expense.
+
+11.4 Sole Remedy. The provisions of this Article 11 set forth {{PROVIDER_NAME}}'s sole and exclusive liability and {{CUSTOMER_NAME}}'s sole and exclusive remedy with respect to any claim of intellectual property infringement arising out of {{CUSTOMER_NAME}}'s use of the Platform.

@@ -1,0 +1,213 @@
+DATA PROCESSING ADDENDUM AND BUSINESS ASSOCIATE AGREEMENT (HIPAA + CCPA / CPRA)
+
+This Data Processing Addendum and Business Associate Agreement (this "DPA") is entered into as of {{EFFECTIVE_DATE}} (the "DPA Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Business Associate" or "Processor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Covered Entity" or "Controller"). The Covered Entity and the Business Associate are collectively the "Parties." This DPA combines the Covered Entity's standard Business Associate Agreement (under the Health Insurance Portability and Accountability Act of 1996, as amended) and the Covered Entity's standard service-provider DPA (under the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020), and shall be governed by the Covered Entity's negotiated terms set forth herein.
+
+This DPA forms part of, and is incorporated into, the {{PARENT_AGREEMENT_NAME}} between the Parties dated {{PARENT_AGREEMENT_DATE}} (the "Agreement"). All capitalized terms used but not defined in this DPA have the meanings given to them in the Agreement, in HIPAA, in the CCPA/CPRA, or in Article 1 below. In the event of any conflict between this DPA and the Agreement, this DPA shall control with respect to PHI and the Processing of Personal Information; the Agreement shall control with respect to all other matters not modified by this DPA.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Applicable Privacy Law" means, collectively, (a) the Health Insurance Portability and Accountability Act of 1996, as amended ("HIPAA"), and the regulations promulgated thereunder (45 C.F.R. Parts 160 and 164) (the "HIPAA Rules"); (b) the Health Information Technology for Economic and Clinical Health Act, as amended (the "HITECH Act"); (c) the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (the "CCPA/CPRA") and the regulations promulgated thereunder; and (d) any other federal or state law applicable to the Processing of Personal Information or PHI under the Agreement.
+
+1.2 "Breach" has the meaning set forth in 45 C.F.R. § 164.402 with respect to PHI, and the meaning set forth in the CCPA/CPRA with respect to other Personal Information.
+
+1.3 "Business Associate" has the meaning set forth in 45 C.F.R. § 160.103.
+
+1.4 "Covered Entity" has the meaning set forth in 45 C.F.R. § 160.103.
+
+1.5 "Personal Information" has the meaning set forth in Cal. Civ. Code § 1798.140(v) and includes Controller Personal Data Processed under the Agreement that is subject to the CCPA/CPRA.
+
+1.6 "Protected Health Information" or "PHI" has the meaning set forth in 45 C.F.R. § 160.103, limited to the information that the Business Associate creates, receives, maintains, or transmits on behalf of the Covered Entity.
+
+1.7 "Required by Law" has the meaning set forth in 45 C.F.R. § 164.103.
+
+1.8 "Sale" and "Sharing" have the meanings set forth in the CCPA/CPRA.
+
+1.9 "Service Provider" has the meaning set forth in Cal. Civ. Code § 1798.140(ag), and the Business Associate is a Service Provider with respect to Personal Information Processed under the Agreement.
+
+1.10 "Subcontractor" means a person or entity to whom the Business Associate delegates a function, activity, or service involving the use or disclosure of PHI, and is also a Sub-processor for purposes of this DPA.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES
+
+2.1 Roles. With respect to the Processing of PHI under the Agreement, the Covered Entity is the Covered Entity and the Business Associate is the Business Associate. With respect to Personal Information that is not PHI, the Covered Entity is the Controller and the Business Associate is the Processor (and a Service Provider for CCPA/CPRA purposes). With respect to any Sub-processor (including any Subcontractor) engaged in accordance with Article 6, that party is the Sub-processor.
+
+2.2 Documented Instructions. The Business Associate shall use and disclose PHI and Process Personal Information only as permitted by this DPA, the HIPAA Rules, the CCPA/CPRA, and the Covered Entity's documented instructions. The Business Associate shall not use or disclose PHI in a manner that would violate Subpart E of 45 C.F.R. Part 164 if done by the Covered Entity.
+
+2.3 Notification of Conflicting Instructions. The Business Associate shall promptly notify the Covered Entity in writing if any Covered Entity instruction would, in the Business Associate's reasonable opinion, violate Applicable Privacy Law.
+
+ARTICLE 3 — SCOPE OF PROCESSING
+
+3.1 Subject Matter and Duration. The subject matter of the Processing is the provision of the healthcare software platform services described in the Agreement. The duration shall be the term of the Agreement plus the wind-down period in Article 12.
+
+3.2 Nature and Purpose. The nature and purpose of the Processing are {{PROCESSING_PURPOSE}}, which constitutes a permitted use of PHI for the Covered Entity's treatment, payment, and health care operations functions, as more fully described in Annex I.
+
+3.3 Categories of PHI / Personal Information. The categories include {{DATA_CATEGORIES}}, including PHI within the meaning of 45 C.F.R. § 160.103.
+
+3.4 Categories of Data Subjects / Patients. The categories include {{DATA_SUBJECT_CATEGORIES}}.
+
+3.5 No HIPAA Marketing or Sale. The Business Associate shall not use or disclose PHI for marketing or sale purposes within the meaning of HIPAA, and shall not Sell or Share Personal Information within the meaning of the CCPA/CPRA.
+
+ARTICLE 4 — PROCESSOR / BUSINESS ASSOCIATE OBLIGATIONS
+
+4.1 Permitted Uses and Disclosures. The Business Associate shall use and disclose PHI only as permitted by 45 C.F.R. § 164.504(e)(2), as more fully described in this Article 4 and as required to perform the services under the Agreement.
+
+4.2 Personnel Confidentiality. The Business Associate shall ensure that personnel authorized to access PHI have undergone HIPAA training and have committed to confidentiality. Access shall be limited to the minimum necessary to perform the services.
+
+4.3 No Sale or Sharing. The Business Associate shall not (a) Sell or Share Personal Information within the meaning of the CCPA/CPRA, (b) retain, use, or disclose Personal Information for any purpose other than the specific business purpose of providing the services under the Agreement, (c) retain, use, or disclose Personal Information outside of the direct business relationship between the Parties, or (d) combine Personal Information received from the Covered Entity with personal information that the Business Associate receives from any other source, except for limited, internal compatible business purposes that are consistent with the Covered Entity's reasonable expectations.
+
+4.4 Compliance with HIPAA Security Rule. The Business Associate shall comply with the HIPAA Security Rule (45 C.F.R. Part 164, Subpart C) with respect to electronic PHI (ePHI), including the administrative, physical, and technical safeguards required by §§ 164.308, 164.310, and 164.312.
+
+4.5 Compliance with HIPAA Privacy Rule. The Business Associate shall comply with the HIPAA Privacy Rule (45 C.F.R. Part 164, Subpart E) to the extent it imposes obligations on Business Associates.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES (HIPAA SAFEGUARDS)
+
+5.1 HIPAA Security Rule Implementation. The Business Associate shall implement and maintain appropriate administrative, physical, and technical safeguards as required by 45 C.F.R. §§ 164.308, 164.310, and 164.312, and shall maintain documentation of such safeguards as required by 45 C.F.R. § 164.316. The detailed safeguards are set forth in Annex II.
+
+5.2 Encryption. The Business Associate shall apply encryption to ePHI both in transit (TLS 1.2 or higher) and at rest (AES-256), as further described in Annex II. Encryption shall meet the standards specified in NIST SP 800-111 and NIST SP 800-52 to qualify for the safe harbor under 45 C.F.R. § 164.402(2).
+
+5.3 Confidentiality, Integrity, and Availability. The Business Associate shall ensure the confidentiality, integrity, and availability of ePHI as required by 45 C.F.R. § 164.306(a)(1).
+
+5.4 Restoration After Incident. The Business Associate shall maintain a documented contingency plan, including data backup, disaster recovery, and emergency mode operation procedures, as required by 45 C.F.R. § 164.308(a)(7).
+
+5.5 Regular Testing. The Business Associate shall perform a periodic risk assessment of its safeguards as required by 45 C.F.R. § 164.308(a)(1)(ii)(A) and shall regularly test and evaluate the effectiveness of the safeguards through internal audits, vulnerability scans, and annual third-party penetration testing.
+
+5.6 Workforce Training. The Business Associate shall train its workforce on HIPAA Privacy and Security Rule requirements as required by 45 C.F.R. § 164.530(b) and § 164.308(a)(5).
+
+ARTICLE 6 — SUB-PROCESSORS / SUBCONTRACTORS
+
+6.1 Authorization. The Covered Entity authorizes the Business Associate to use Subcontractors / Sub-processors that the Business Associate has identified in Annex III, subject to the requirements of this Article 6 and 45 C.F.R. § 164.502(e)(1)(ii).
+
+6.2 BAA Flow-Down Requirement. The Business Associate shall not delegate any function, activity, or service involving the use or disclosure of PHI to any Subcontractor without first obtaining written assurances from the Subcontractor (in a written subcontract that is at least as protective as this DPA and that imposes the BAA terms required by 45 C.F.R. § 164.504(e)(2)) that the Subcontractor will appropriately safeguard the PHI.
+
+6.3 Notification of New Subcontractors. The Business Associate shall notify the Covered Entity in writing at least sixty (60) days before engaging any new or replacement Subcontractor that will Process PHI.
+
+6.4 Right to Object. The Covered Entity may object to a new Subcontractor on data protection or HIPAA compliance grounds. If the Parties cannot resolve the objection, the Covered Entity may terminate the affected portion of the Agreement on written notice.
+
+6.5 Primary Liability. The Business Associate shall remain primarily liable to the Covered Entity for the acts and omissions of its Subcontractors as if such acts and omissions were the acts and omissions of the Business Associate itself.
+
+ARTICLE 7 — DATA SUBJECT / INDIVIDUAL RIGHTS
+
+7.1 HIPAA Individual Rights. The Business Associate shall provide reasonable assistance to the Covered Entity in fulfilling the Covered Entity's obligations under the HIPAA Privacy Rule with respect to: (a) an Individual's right of access to PHI under 45 C.F.R. § 164.524; (b) an Individual's right to amend PHI under 45 C.F.R. § 164.526; (c) an Individual's right to an accounting of disclosures under 45 C.F.R. § 164.528; and (d) an Individual's right to restrict use or disclosure of PHI.
+
+7.2 CCPA/CPRA Consumer Rights. The Business Associate shall provide reasonable assistance to the Covered Entity in fulfilling the Covered Entity's obligations under the CCPA/CPRA with respect to consumer rights, including the rights of access, deletion, correction, opt-out of sale or sharing, and limit use of sensitive personal information.
+
+7.3 Forwarding of Requests. If the Business Associate receives a request from an Individual or consumer directly, the Business Associate shall forward the request to the Covered Entity without undue delay and shall not respond to the requestor directly other than to acknowledge receipt and direct the requestor to the Covered Entity.
+
+7.4 No Direct Response. The Business Associate shall not respond to or fulfill any Individual or consumer request without the Covered Entity's prior written authorization, except as required by Applicable Privacy Law.
+
+ARTICLE 8 — BREACH NOTIFICATION
+
+8.1 HIPAA Breach Notification. Following the discovery of a Breach of unsecured PHI, the Business Associate shall notify the Covered Entity in writing without unreasonable delay and in any event within {{BREACH_NOTIFICATION_HOURS}} hours after discovery, in accordance with 45 C.F.R. § 164.410. The notification shall include the information required by 45 C.F.R. § 164.410(c).
+
+8.2 CCPA/CPRA Breach Notification. The Business Associate shall similarly notify the Covered Entity within {{BREACH_NOTIFICATION_HOURS}} hours after discovering any breach of the security of Personal Information under the CCPA/CPRA and shall cooperate with the Covered Entity's notification obligations under California law.
+
+8.3 Cooperation. The Business Associate shall cooperate with the Covered Entity in investigating, remediating, notifying the U.S. Department of Health and Human Services Office for Civil Rights (HHS OCR) (where required by 45 C.F.R. §§ 164.408 and 164.410), notifying affected Individuals (where required by 45 C.F.R. § 164.404), and notifying the media (where required by 45 C.F.R. § 164.406).
+
+8.4 Records. The Business Associate shall maintain a record of all Breaches affecting PHI or Personal Information.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS / RISK ASSESSMENTS
+
+9.1 Assistance with HIPAA Risk Assessments. The Business Associate shall provide reasonable assistance to the Covered Entity in conducting risk assessments under 45 C.F.R. § 164.308(a)(1)(ii)(A) with respect to the Business Associate's services.
+
+9.2 Assistance with CCPA/CPRA Risk Assessments. The Business Associate shall provide reasonable assistance to the Covered Entity in conducting privacy risk assessments under the CCPA/CPRA where applicable.
+
+9.3 Scope of Assistance. The Business Associate's assistance under this Article 9 includes providing documentation of the Business Associate's safeguards, the Business Associate's most recent HIPAA risk assessment summary, and the Business Associate's SOC 2 Type II audit reports.
+
+ARTICLE 10 — DATA LOCATION
+
+10.1 Data Residency. PHI and Personal Information shall be Processed and stored exclusively at facilities physically located in the United States, by personnel who are physically present in the United States, unless the Covered Entity expressly authorizes another location in writing.
+
+10.2 No International Transfers Without Consent. The Business Associate shall not transfer PHI or Personal Information outside of the United States without the Covered Entity's prior written consent. This restriction is material to the Covered Entity's HIPAA compliance posture.
+
+10.3 Data Residency Designation. PHI and Personal Information are hosted in: {{DATA_RESIDENCY_REGION}}.
+
+ARTICLE 11 — AUDIT RIGHTS AND HHS OCR ACCESS
+
+11.1 Covered Entity Audit Right. The Covered Entity shall have the right to audit the Business Associate's compliance with this DPA and Applicable Privacy Law, in accordance with this Article 11.
+
+11.2 Notice and Frequency. Audits shall be conducted no more than once per twelve (12) month period, except where (a) a Breach has occurred, (b) HHS OCR or another regulator directs an audit, or (c) the Covered Entity has reasonable grounds to believe the Business Associate is materially non-compliant. The Covered Entity shall provide at least {{AUDIT_NOTICE_DAYS}} days' prior written notice, except in the case of an emergency audit.
+
+11.3 Third-Party Audit Reports. The Business Associate shall make available to the Covered Entity, at no charge, the most recent SOC 2 Type II report, HITRUST CSF certification (if any), and HIPAA Security Risk Assessment summary covering the Business Associate's services.
+
+11.4 HHS OCR Access. The Business Associate shall make its internal practices, books, and records relating to the use and disclosure of PHI available to the Secretary of HHS for purposes of determining the Covered Entity's compliance with the HIPAA Privacy Rule, as required by 45 C.F.R. § 164.504(e)(2)(ii)(I).
+
+11.5 Scope Limitations. Audits shall not require disclosure of other customers' PHI or the Business Associate's trade secrets, but the Business Associate shall not assert such limitations to obstruct any HHS OCR access right.
+
+ARTICLE 12 — DELETION OR RETURN OF PHI / PERSONAL INFORMATION
+
+12.1 End of Provision of Services. Upon the end of the provision of the services under the Agreement, the Business Associate shall, if feasible, return to the Covered Entity or destroy all PHI and Personal Information that the Business Associate maintains in any form, in accordance with 45 C.F.R. § 164.504(e)(2)(ii)(J).
+
+12.2 Where Return or Destruction Is Not Feasible. If return or destruction is not feasible, the Business Associate shall extend the protections of this DPA to the PHI and Personal Information and shall limit further uses and disclosures to those purposes that make the return or destruction infeasible, for so long as the Business Associate maintains such PHI or Personal Information.
+
+12.3 Certification. The Business Associate shall certify in writing to the Covered Entity that it has destroyed PHI in accordance with this Article 12.
+
+12.4 Wind-Down Period. The Business Associate shall complete the deletion or return within thirty (30) days following the end of the provision of services.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+13.1 Term. This DPA shall commence on the DPA Effective Date and shall continue for the term of the Agreement plus the wind-down period in Article 12.
+
+13.2 Termination for Material Breach. The Covered Entity may terminate this DPA and the Agreement if the Business Associate has materially violated this DPA and the Business Associate has not cured the violation within thirty (30) days following written notice of the violation, in accordance with 45 C.F.R. § 164.504(e)(2)(iii).
+
+13.3 Survival. Articles 8 (Breach Notification — for breaches occurring during the term), 11 (HHS OCR Access — to the extent required by HIPAA), and 12 (Deletion or Return) shall survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+14.1 Incorporation. This DPA is incorporated into and forms part of the Agreement.
+
+14.2 Order of Precedence. In the event of any conflict between this DPA and the Agreement, this DPA controls with respect to PHI, Personal Information, and HIPAA / CCPA / CPRA matters. The Agreement controls with respect to all other matters not modified by this DPA.
+
+14.3 No Limitation of HIPAA. Nothing in this DPA or the Agreement shall be construed to limit the Business Associate's obligations under HIPAA or to limit the Covered Entity's rights under HIPAA.
+
+14.4 Counterparts and Execution. This DPA may be executed in counterparts.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+A. Parties.
+   (1) Covered Entity / Controller: {{CUSTOMER_NAME}}.
+   (2) Business Associate / Processor: {{PROVIDER_NAME}}.
+
+B. Description.
+   (1) Categories of Data Subjects / Individuals: {{DATA_SUBJECT_CATEGORIES}}.
+   (2) Categories of PHI / Personal Information: {{DATA_CATEGORIES}}.
+   (3) Sensitive Data: PHI is sensitive personal information by definition.
+   (4) Frequency: continuous.
+   (5) Nature: {{PROCESSING_PURPOSE}}.
+   (6) Purpose: providing healthcare software services to support the Covered Entity's treatment, payment, and health care operations.
+   (7) Retention: for the term of the Agreement plus the wind-down period in Section 12.4.
+   (8) For Subcontractor / Sub-processor disclosures: as set forth in Annex III.
+
+ANNEX II — ADMINISTRATIVE, PHYSICAL, AND TECHNICAL SAFEGUARDS
+
+The Business Associate implements and maintains the following safeguards in accordance with 45 C.F.R. §§ 164.308, 164.310, and 164.312:
+
+1. Administrative Safeguards. Documented information security management program. Designated security official. Workforce security policies. Information access management policies. Security awareness and training. Security incident procedures. Contingency planning (data backup, disaster recovery, emergency mode operation, testing, and revision). Periodic risk assessment.
+
+2. Physical Safeguards. Facility access controls. Workstation use and security policies. Device and media controls including disposal, re-use, accountability, and data backup and storage.
+
+3. Technical Safeguards. Access control with unique user identification, emergency access procedures, automatic logoff, and encryption. Audit controls. Integrity controls. Person or entity authentication. Transmission security including encryption (TLS 1.2 or higher) and integrity controls.
+
+4. Encryption Standards. AES-256 encryption at rest. TLS 1.2 or higher encryption in transit. All encryption meets NIST SP 800-111 and NIST SP 800-52 standards to qualify for the safe harbor under 45 C.F.R. § 164.402(2).
+
+5. Annual SOC 2 Type II audit. Annual HITRUST CSF assessment (where applicable). Annual third-party penetration testing.
+
+6. Data Residency. PHI hosted in: {{DATA_RESIDENCY_REGION}}.
+
+7. Incident Response. Documented incident response plan. Breach notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8 of this DPA.
+
+ANNEX III — APPROVED SUBCONTRACTORS / SUB-PROCESSORS
+
+The current list of authorized Subcontractors that may have access to PHI is maintained at the Business Associate's trust center and is appended to this DPA on the DPA Effective Date. Additions or replacements require the Covered Entity's prior written notice and right to object under Article 6.
+
+IN WITNESS WHEREOF, the Parties have executed this DPA as of the DPA Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

@@ -1,0 +1,798 @@
+{
+  "type": "SAAS",
+  "variations_per_template": 5,
+  "total_templates": 15,
+  "total_variations": 75,
+  "templates": [
+    {
+      "template": "CLAUDE_ClaimsFlow_Insurance_mid_market_14",
+      "placeholders_used": [
+        "ANNUAL_FEE_AMOUNT",
+        "CUSTOMER_ADDRESS",
+        "CUSTOMER_ENTITY_TYPE",
+        "CUSTOMER_NAME",
+        "CUSTOMER_STATE",
+        "EFFECTIVE_DATE",
+        "IMPLEMENTATION_FEE",
+        "NOTICE_DAYS",
+        "PROVIDER_ADDRESS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS",
+        "VENUE_COUNTY"
+      ],
+      "variations": [
+        {
+          "filename": "CLAUDE_ClaimsFlow_Insurance_mid_market_14__var01.txt",
+          "provider": "Quantix Data Systems, Inc.",
+          "customer": "Beacon Health Network, Inc.",
+          "jurisdiction": "",
+          "fee": "Ninety-Six Thousand United States Dollars ($96,000)"
+        },
+        {
+          "filename": "CLAUDE_ClaimsFlow_Insurance_mid_market_14__var02.txt",
+          "provider": "Brightline Software, Inc.",
+          "customer": "Heritage Financial Services, Inc.",
+          "jurisdiction": "",
+          "fee": "One Hundred Twenty Thousand United States Dollars ($120,000)"
+        },
+        {
+          "filename": "CLAUDE_ClaimsFlow_Insurance_mid_market_14__var03.txt",
+          "provider": "Streamline Cloud Inc.",
+          "customer": "Forge Industrial Holdings Inc.",
+          "jurisdiction": "",
+          "fee": "Twenty-Four Thousand United States Dollars ($24,000)"
+        },
+        {
+          "filename": "CLAUDE_ClaimsFlow_Insurance_mid_market_14__var04.txt",
+          "provider": "Quantix Data Systems, Inc.",
+          "customer": "Highland Capital Group, Inc.",
+          "jurisdiction": "",
+          "fee": "Two Hundred Forty Thousand United States Dollars ($240,000)"
+        },
+        {
+          "filename": "CLAUDE_ClaimsFlow_Insurance_mid_market_14__var05.txt",
+          "provider": "Brightline Software, Inc.",
+          "customer": "Lakeside Energy Solutions, Inc.",
+          "jurisdiction": "",
+          "fee": "Nine Hundred Sixty Thousand United States Dollars ($960,000)"
+        }
+      ]
+    },
+    {
+      "template": "CLAUDE_ContractIQ_LegalTech_smb_13",
+      "placeholders_used": [
+        "ANNUAL_FEE_AMOUNT",
+        "CUSTOMER_ADDRESS",
+        "CUSTOMER_ENTITY_TYPE",
+        "CUSTOMER_NAME",
+        "CUSTOMER_STATE",
+        "EFFECTIVE_DATE",
+        "NOTICE_DAYS",
+        "PROVIDER_ADDRESS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS",
+        "VENUE_COUNTY"
+      ],
+      "variations": [
+        {
+          "filename": "CLAUDE_ContractIQ_LegalTech_smb_13__var01.txt",
+          "provider": "Riverstone Software Inc.",
+          "customer": "Highland Capital Group, Inc.",
+          "jurisdiction": "",
+          "fee": "Eighteen Thousand United States Dollars ($18,000)"
+        },
+        {
+          "filename": "CLAUDE_ContractIQ_LegalTech_smb_13__var02.txt",
+          "provider": "Northwind Cloud Services, Inc.",
+          "customer": "Liberty Pharmaceuticals Inc.",
+          "jurisdiction": "",
+          "fee": "One Million Eight Hundred Thousand United States Dollars ($1,800,000)"
+        },
+        {
+          "filename": "CLAUDE_ContractIQ_LegalTech_smb_13__var03.txt",
+          "provider": "CrestPoint Technology Solutions, Inc.",
+          "customer": "Forge Industrial Holdings Inc.",
+          "jurisdiction": "",
+          "fee": "Twelve Thousand United States Dollars ($12,000)"
+        },
+        {
+          "filename": "CLAUDE_ContractIQ_LegalTech_smb_13__var04.txt",
+          "provider": "Fortis Cloud Inc.",
+          "customer": "Evergreen Properties Inc.",
+          "jurisdiction": "",
+          "fee": "Four Hundred Eighty Thousand United States Dollars ($480,000)"
+        },
+        {
+          "filename": "CLAUDE_ContractIQ_LegalTech_smb_13__var05.txt",
+          "provider": "BlueShift Analytics Inc.",
+          "customer": "Forge Industrial Holdings Inc.",
+          "jurisdiction": "",
+          "fee": "One Million Two Hundred Thousand United States Dollars ($1,200,000)"
+        }
+      ]
+    },
+    {
+      "template": "CLAUDE_LearnPath_Academy_Inc_mid_market_05",
+      "placeholders_used": [
+        "ANNUAL_FEE_AMOUNT",
+        "CUSTOMER_ADDRESS",
+        "CUSTOMER_ENTITY_TYPE",
+        "CUSTOMER_NAME",
+        "CUSTOMER_STATE",
+        "EFFECTIVE_DATE",
+        "IMPLEMENTATION_FEE",
+        "NOTICE_DAYS",
+        "PROVIDER_ADDRESS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS",
+        "VENUE_COUNTY"
+      ],
+      "variations": [
+        {
+          "filename": "CLAUDE_LearnPath_Academy_Inc_mid_market_05__var01.txt",
+          "provider": "Quantix Data Systems, Inc.",
+          "customer": "Westbrook Industries, LLC",
+          "jurisdiction": "",
+          "fee": "Twenty-Four Thousand United States Dollars ($24,000)"
+        },
+        {
+          "filename": "CLAUDE_LearnPath_Academy_Inc_mid_market_05__var02.txt",
+          "provider": "Meridian SaaS Holdings, Inc.",
+          "customer": "Birchwood Construction Company",
+          "jurisdiction": "",
+          "fee": "One Hundred Fifty Thousand United States Dollars ($150,000)"
+        },
+        {
+          "filename": "CLAUDE_LearnPath_Academy_Inc_mid_market_05__var03.txt",
+          "provider": "Apex Workflow Platform, Inc.",
+          "customer": "Wellington Asset Management LLC",
+          "jurisdiction": "",
+          "fee": "One Million Eight Hundred Thousand United States Dollars ($1,800,000)"
+        },
+        {
+          "filename": "CLAUDE_LearnPath_Academy_Inc_mid_market_05__var04.txt",
+          "provider": "Meridian SaaS Holdings, Inc.",
+          "customer": "Compass Insurance Group Inc.",
+          "jurisdiction": "",
+          "fee": "Seven Hundred Twenty Thousand United States Dollars ($720,000)"
+        },
+        {
+          "filename": "CLAUDE_LearnPath_Academy_Inc_mid_market_05__var05.txt",
+          "provider": "Helios Platform Inc.",
+          "customer": "Beacon Health Network, Inc.",
+          "jurisdiction": "",
+          "fee": "Eighteen Thousand United States Dollars ($18,000)"
+        }
+      ]
+    },
+    {
+      "template": "CLAUDE_MenuMaster_RestaurantPOS_smb_15",
+      "placeholders_used": [
+        "ANNUAL_FEE_AMOUNT",
+        "CUSTOMER_ADDRESS",
+        "CUSTOMER_ENTITY_TYPE",
+        "CUSTOMER_NAME",
+        "CUSTOMER_STATE",
+        "EFFECTIVE_DATE",
+        "NOTICE_DAYS",
+        "PROVIDER_ADDRESS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS",
+        "VENUE_CITY",
+        "VENUE_COUNTY"
+      ],
+      "variations": [
+        {
+          "filename": "CLAUDE_MenuMaster_RestaurantPOS_smb_15__var01.txt",
+          "provider": "Acuity Software Group, Inc.",
+          "customer": "Summit Retail Partners LLC",
+          "jurisdiction": "",
+          "fee": "One Hundred Fifty Thousand United States Dollars ($150,000)"
+        },
+        {
+          "filename": "CLAUDE_MenuMaster_RestaurantPOS_smb_15__var02.txt",
+          "provider": "Meridian SaaS Holdings, Inc.",
+          "customer": "Highland Capital Group, Inc.",
+          "jurisdiction": "",
+          "fee": "Twelve Thousand United States Dollars ($12,000)"
+        },
+        {
+          "filename": "CLAUDE_MenuMaster_RestaurantPOS_smb_15__var03.txt",
+          "provider": "Pinnacle Digital Systems, Inc.",
+          "customer": "Birchwood Construction Company",
+          "jurisdiction": "",
+          "fee": "Nine Hundred Sixty Thousand United States Dollars ($960,000)"
+        },
+        {
+          "filename": "CLAUDE_MenuMaster_RestaurantPOS_smb_15__var04.txt",
+          "provider": "PrismLogic Software Solutions, Inc.",
+          "customer": "Atlas Logistics Group, LLC",
+          "jurisdiction": "",
+          "fee": "Two Hundred Forty Thousand United States Dollars ($240,000)"
+        },
+        {
+          "filename": "CLAUDE_MenuMaster_RestaurantPOS_smb_15__var05.txt",
+          "provider": "Cascade Digital Solutions Inc.",
+          "customer": "Evergreen Properties Inc.",
+          "jurisdiction": "",
+          "fee": "Twelve Thousand United States Dollars ($12,000)"
+        }
+      ]
+    },
+    {
+      "template": "CLAUDE_NorthernEdge_Canada_enterprise_16",
+      "placeholders_used": [
+        "ANNUAL_FEE_AMOUNT",
+        "CUSTOMER_ADDRESS",
+        "CUSTOMER_ENTITY_TYPE",
+        "CUSTOMER_NAME",
+        "EFFECTIVE_DATE",
+        "GOVERNING_LAW_STATE",
+        "IMPLEMENTATION_FEE",
+        "NOTICE_DAYS",
+        "PROVIDER_ADDRESS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS",
+        "VENUE_COUNTY"
+      ],
+      "variations": [
+        {
+          "filename": "CLAUDE_NorthernEdge_Canada_enterprise_16__var01.txt",
+          "provider": "Cascade Digital Solutions Inc.",
+          "customer": "Compass Insurance Group Inc.",
+          "jurisdiction": "Illinois",
+          "fee": "Seventy-Two Thousand United States Dollars ($72,000)"
+        },
+        {
+          "filename": "CLAUDE_NorthernEdge_Canada_enterprise_16__var02.txt",
+          "provider": "CrestPoint Technology Solutions, Inc.",
+          "customer": "Summit Retail Partners LLC",
+          "jurisdiction": "Pennsylvania",
+          "fee": "Three Hundred Sixty Thousand United States Dollars ($360,000)"
+        },
+        {
+          "filename": "CLAUDE_NorthernEdge_Canada_enterprise_16__var03.txt",
+          "provider": "Zenith Platform Holdings, Inc.",
+          "customer": "Westbrook Industries, LLC",
+          "jurisdiction": "Ohio",
+          "fee": "Eighteen Thousand United States Dollars ($18,000)"
+        },
+        {
+          "filename": "CLAUDE_NorthernEdge_Canada_enterprise_16__var04.txt",
+          "provider": "Helios Platform Inc.",
+          "customer": "Compass Insurance Group Inc.",
+          "jurisdiction": "Florida",
+          "fee": "Thirty-Six Thousand United States Dollars ($36,000)"
+        },
+        {
+          "filename": "CLAUDE_NorthernEdge_Canada_enterprise_16__var05.txt",
+          "provider": "Quantix Data Systems, Inc.",
+          "customer": "Pacific Trade Corporation",
+          "jurisdiction": "Colorado",
+          "fee": "One Hundred Twenty Thousand United States Dollars ($120,000)"
+        }
+      ]
+    },
+    {
+      "template": "CLAUDE_PharmaTrack_Clinical_enterprise_12",
+      "placeholders_used": [
+        "ANNUAL_FEE_AMOUNT",
+        "CUSTOMER_ADDRESS",
+        "CUSTOMER_NAME",
+        "EFFECTIVE_DATE",
+        "GOVERNING_LAW_STATE",
+        "IMPLEMENTATION_FEE",
+        "NOTICE_DAYS",
+        "PROVIDER_ADDRESS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS",
+        "VENUE_COUNTY"
+      ],
+      "variations": [
+        {
+          "filename": "CLAUDE_PharmaTrack_Clinical_enterprise_12__var01.txt",
+          "provider": "Riverstone Software Inc.",
+          "customer": "Coastal Maritime Holdings, Inc.",
+          "jurisdiction": "Colorado",
+          "fee": "One Hundred Fifty Thousand United States Dollars ($150,000)"
+        },
+        {
+          "filename": "CLAUDE_PharmaTrack_Clinical_enterprise_12__var02.txt",
+          "provider": "Riverstone Software Inc.",
+          "customer": "Lakeside Energy Solutions, Inc.",
+          "jurisdiction": "Massachusetts",
+          "fee": "Seven Hundred Twenty Thousand United States Dollars ($720,000)"
+        },
+        {
+          "filename": "CLAUDE_PharmaTrack_Clinical_enterprise_12__var03.txt",
+          "provider": "Helios Platform Inc.",
+          "customer": "Forge Industrial Holdings Inc.",
+          "jurisdiction": "Washington",
+          "fee": "Six Hundred Thousand United States Dollars ($600,000)"
+        },
+        {
+          "filename": "CLAUDE_PharmaTrack_Clinical_enterprise_12__var04.txt",
+          "provider": "Pinnacle Digital Systems, Inc.",
+          "customer": "Highland Capital Group, Inc.",
+          "jurisdiction": "Ohio",
+          "fee": "Eighteen Thousand United States Dollars ($18,000)"
+        },
+        {
+          "filename": "CLAUDE_PharmaTrack_Clinical_enterprise_12__var05.txt",
+          "provider": "Brightline Software, Inc.",
+          "customer": "Summit Retail Partners LLC",
+          "jurisdiction": "Minnesota",
+          "fee": "Eighteen Thousand United States Dollars ($18,000)"
+        }
+      ]
+    },
+    {
+      "template": "SYNTHETIC_BuildKit_Cloud__Inc__smb_04",
+      "placeholders_used": [
+        "ANNUAL_FEE_AMOUNT",
+        "CUSTOMER_NAME",
+        "CUSTOMER_STATE",
+        "LIABILITY_CAP_MONTHS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS",
+        "VENUE_CITY"
+      ],
+      "variations": [
+        {
+          "filename": "SYNTHETIC_BuildKit_Cloud__Inc__smb_04__var01.txt",
+          "provider": "TitanSync Technologies, Inc.",
+          "customer": "Liberty Pharmaceuticals Inc.",
+          "jurisdiction": "",
+          "fee": "Nine Hundred Sixty Thousand United States Dollars ($960,000)"
+        },
+        {
+          "filename": "SYNTHETIC_BuildKit_Cloud__Inc__smb_04__var02.txt",
+          "provider": "Fortis Cloud Inc.",
+          "customer": "Evergreen Properties Inc.",
+          "jurisdiction": "",
+          "fee": "One Hundred Eighty Thousand United States Dollars ($180,000)"
+        },
+        {
+          "filename": "SYNTHETIC_BuildKit_Cloud__Inc__smb_04__var03.txt",
+          "provider": "Cascade Digital Solutions Inc.",
+          "customer": "Evergreen Properties Inc.",
+          "jurisdiction": "",
+          "fee": "Three Hundred Sixty Thousand United States Dollars ($360,000)"
+        },
+        {
+          "filename": "SYNTHETIC_BuildKit_Cloud__Inc__smb_04__var04.txt",
+          "provider": "Brightline Software, Inc.",
+          "customer": "Wellington Asset Management LLC",
+          "jurisdiction": "",
+          "fee": "Twelve Thousand United States Dollars ($12,000)"
+        },
+        {
+          "filename": "SYNTHETIC_BuildKit_Cloud__Inc__smb_04__var05.txt",
+          "provider": "Zenith Platform Holdings, Inc.",
+          "customer": "Forge Industrial Holdings Inc.",
+          "jurisdiction": "",
+          "fee": "Forty-Eight Thousand United States Dollars ($48,000)"
+        }
+      ]
+    },
+    {
+      "template": "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02",
+      "placeholders_used": [
+        "CUSTOMER_ENTITY_TYPE",
+        "CUSTOMER_NAME",
+        "CUSTOMER_STATE",
+        "LIABILITY_CAP_MONTHS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS"
+      ],
+      "variations": [
+        {
+          "filename": "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02__var01.txt",
+          "provider": "Apex Workflow Platform, Inc.",
+          "customer": "Pacific Trade Corporation",
+          "jurisdiction": "",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02__var02.txt",
+          "provider": "Vertex Cloud Software, Inc.",
+          "customer": "Summit Retail Partners LLC",
+          "jurisdiction": "",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02__var03.txt",
+          "provider": "Vertex Cloud Software, Inc.",
+          "customer": "Cardinal Manufacturing Co.",
+          "jurisdiction": "",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02__var04.txt",
+          "provider": "PrismLogic Software Solutions, Inc.",
+          "customer": "Atlas Logistics Group, LLC",
+          "jurisdiction": "",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_ClinicFlow_Health_Systems__Inc__mid_market_02__var05.txt",
+          "provider": "Meridian SaaS Holdings, Inc.",
+          "customer": "Birchwood Construction Company",
+          "jurisdiction": "",
+          "fee": ""
+        }
+      ]
+    },
+    {
+      "template": "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01",
+      "placeholders_used": [
+        "CUSTOMER_ENTITY_TYPE",
+        "CUSTOMER_NAME",
+        "CUSTOMER_STATE",
+        "GOVERNING_LAW_STATE",
+        "LIABILITY_CAP_MONTHS",
+        "NOTICE_DAYS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS",
+        "VENUE_CITY"
+      ],
+      "variations": [
+        {
+          "filename": "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01__var01.txt",
+          "provider": "Northwind Cloud Services, Inc.",
+          "customer": "Coastal Maritime Holdings, Inc.",
+          "jurisdiction": "Massachusetts",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01__var02.txt",
+          "provider": "Meridian SaaS Holdings, Inc.",
+          "customer": "Pacific Trade Corporation",
+          "jurisdiction": "Florida",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01__var03.txt",
+          "provider": "Riverstone Software Inc.",
+          "customer": "Beacon Health Network, Inc.",
+          "jurisdiction": "Illinois",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01__var04.txt",
+          "provider": "Pinnacle Digital Systems, Inc.",
+          "customer": "Coastal Maritime Holdings, Inc.",
+          "jurisdiction": "Washington",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_DataPilot_Analytics__Inc__enterprise_01__var05.txt",
+          "provider": "Riverstone Software Inc.",
+          "customer": "Wellington Asset Management LLC",
+          "jurisdiction": "Florida",
+          "fee": ""
+        }
+      ]
+    },
+    {
+      "template": "SYNTHETIC_FactoryMind_Industrial_IoT__Inc__enterprise_06",
+      "placeholders_used": [
+        "ANNUAL_FEE_AMOUNT",
+        "CUSTOMER_NAME",
+        "CUSTOMER_STATE",
+        "LIABILITY_CAP_MONTHS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS",
+        "VENUE_CITY"
+      ],
+      "variations": [
+        {
+          "filename": "SYNTHETIC_FactoryMind_Industrial_IoT__Inc__enterprise_06__var01.txt",
+          "provider": "Helios Platform Inc.",
+          "customer": "Wellington Asset Management LLC",
+          "jurisdiction": "",
+          "fee": "Forty-Eight Thousand United States Dollars ($48,000)"
+        },
+        {
+          "filename": "SYNTHETIC_FactoryMind_Industrial_IoT__Inc__enterprise_06__var02.txt",
+          "provider": "Cascade Digital Solutions Inc.",
+          "customer": "Birchwood Construction Company",
+          "jurisdiction": "",
+          "fee": "One Hundred Fifty Thousand United States Dollars ($150,000)"
+        },
+        {
+          "filename": "SYNTHETIC_FactoryMind_Industrial_IoT__Inc__enterprise_06__var03.txt",
+          "provider": "Fortis Cloud Inc.",
+          "customer": "Heritage Financial Services, Inc.",
+          "jurisdiction": "",
+          "fee": "Four Hundred Eighty Thousand United States Dollars ($480,000)"
+        },
+        {
+          "filename": "SYNTHETIC_FactoryMind_Industrial_IoT__Inc__enterprise_06__var04.txt",
+          "provider": "PrismLogic Software Solutions, Inc.",
+          "customer": "Lakeside Energy Solutions, Inc.",
+          "jurisdiction": "",
+          "fee": "Ninety-Six Thousand United States Dollars ($96,000)"
+        },
+        {
+          "filename": "SYNTHETIC_FactoryMind_Industrial_IoT__Inc__enterprise_06__var05.txt",
+          "provider": "Acuity Software Group, Inc.",
+          "customer": "Highland Capital Group, Inc.",
+          "jurisdiction": "",
+          "fee": "Seventy-Two Thousand United States Dollars ($72,000)"
+        }
+      ]
+    },
+    {
+      "template": "SYNTHETIC_LedgerCore_Financial_Software__Inc__enterprise_03",
+      "placeholders_used": [
+        "ANNUAL_FEE_AMOUNT",
+        "CUSTOMER_ENTITY_TYPE",
+        "CUSTOMER_NAME",
+        "LIABILITY_CAP_MONTHS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS",
+        "VENUE_CITY"
+      ],
+      "variations": [
+        {
+          "filename": "SYNTHETIC_LedgerCore_Financial_Software__Inc__enterprise_03__var01.txt",
+          "provider": "Zenith Platform Holdings, Inc.",
+          "customer": "Forge Industrial Holdings Inc.",
+          "jurisdiction": "",
+          "fee": "Six Hundred Thousand United States Dollars ($600,000)"
+        },
+        {
+          "filename": "SYNTHETIC_LedgerCore_Financial_Software__Inc__enterprise_03__var02.txt",
+          "provider": "PrismLogic Software Solutions, Inc.",
+          "customer": "Evergreen Properties Inc.",
+          "jurisdiction": "",
+          "fee": "Two Hundred Forty Thousand United States Dollars ($240,000)"
+        },
+        {
+          "filename": "SYNTHETIC_LedgerCore_Financial_Software__Inc__enterprise_03__var03.txt",
+          "provider": "Quantix Data Systems, Inc.",
+          "customer": "Northern Star Distribution LLC",
+          "jurisdiction": "",
+          "fee": "Nine Hundred Sixty Thousand United States Dollars ($960,000)"
+        },
+        {
+          "filename": "SYNTHETIC_LedgerCore_Financial_Software__Inc__enterprise_03__var04.txt",
+          "provider": "PrismLogic Software Solutions, Inc.",
+          "customer": "Highland Capital Group, Inc.",
+          "jurisdiction": "",
+          "fee": "Six Hundred Thousand United States Dollars ($600,000)"
+        },
+        {
+          "filename": "SYNTHETIC_LedgerCore_Financial_Software__Inc__enterprise_03__var05.txt",
+          "provider": "PrismLogic Software Solutions, Inc.",
+          "customer": "Atlas Logistics Group, LLC",
+          "jurisdiction": "",
+          "fee": "Three Hundred Sixty Thousand United States Dollars ($360,000)"
+        }
+      ]
+    },
+    {
+      "template": "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09",
+      "placeholders_used": [
+        "ANNUAL_FEE_AMOUNT",
+        "CUSTOMER_ENTITY_TYPE",
+        "CUSTOMER_NAME",
+        "LIABILITY_CAP_MONTHS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS",
+        "VENUE_CITY"
+      ],
+      "variations": [
+        {
+          "filename": "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09__var01.txt",
+          "provider": "Fortis Cloud Inc.",
+          "customer": "Beacon Health Network, Inc.",
+          "jurisdiction": "",
+          "fee": "One Hundred Fifty Thousand United States Dollars ($150,000)"
+        },
+        {
+          "filename": "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09__var02.txt",
+          "provider": "Riverstone Software Inc.",
+          "customer": "Liberty Pharmaceuticals Inc.",
+          "jurisdiction": "",
+          "fee": "Eighteen Thousand United States Dollars ($18,000)"
+        },
+        {
+          "filename": "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09__var03.txt",
+          "provider": "PrismLogic Software Solutions, Inc.",
+          "customer": "Compass Insurance Group Inc.",
+          "jurisdiction": "",
+          "fee": "One Million Eight Hundred Thousand United States Dollars ($1,800,000)"
+        },
+        {
+          "filename": "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09__var04.txt",
+          "provider": "Meridian SaaS Holdings, Inc.",
+          "customer": "Granite State Banking Corp.",
+          "jurisdiction": "",
+          "fee": "One Hundred Eighty Thousand United States Dollars ($180,000)"
+        },
+        {
+          "filename": "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09__var05.txt",
+          "provider": "Beacon Analytics Software, Inc.",
+          "customer": "Compass Insurance Group Inc.",
+          "jurisdiction": "",
+          "fee": "Ninety-Six Thousand United States Dollars ($96,000)"
+        }
+      ]
+    },
+    {
+      "template": "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07",
+      "placeholders_used": [
+        "CUSTOMER_ENTITY_TYPE",
+        "CUSTOMER_NAME",
+        "CUSTOMER_STATE",
+        "LIABILITY_CAP_MONTHS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "TERM_YEARS",
+        "VENUE_CITY"
+      ],
+      "variations": [
+        {
+          "filename": "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07__var01.txt",
+          "provider": "Apex Workflow Platform, Inc.",
+          "customer": "Heritage Financial Services, Inc.",
+          "jurisdiction": "",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07__var02.txt",
+          "provider": "Fortis Cloud Inc.",
+          "customer": "Northern Star Distribution LLC",
+          "jurisdiction": "",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07__var03.txt",
+          "provider": "Lighthouse Cloud Technologies, Inc.",
+          "customer": "Wellington Asset Management LLC",
+          "jurisdiction": "",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07__var04.txt",
+          "provider": "CrestPoint Technology Solutions, Inc.",
+          "customer": "Lonestar Energy Holdings LLC",
+          "jurisdiction": "",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_PixelBoost_Marketing_Cloud__Inc__smb_07__var05.txt",
+          "provider": "Fortis Cloud Inc.",
+          "customer": "Evergreen Properties Inc.",
+          "jurisdiction": "",
+          "fee": ""
+        }
+      ]
+    },
+    {
+      "template": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10",
+      "placeholders_used": [
+        "CUSTOMER_NAME",
+        "CUSTOMER_STATE",
+        "LIABILITY_CAP_MONTHS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "TERM_YEARS",
+        "VENUE_CITY"
+      ],
+      "variations": [
+        {
+          "filename": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10__var01.txt",
+          "provider": "Pinnacle Digital Systems, Inc.",
+          "customer": "Birchwood Construction Company",
+          "jurisdiction": "",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10__var02.txt",
+          "provider": "Apex Workflow Platform, Inc.",
+          "customer": "Liberty Pharmaceuticals Inc.",
+          "jurisdiction": "",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10__var03.txt",
+          "provider": "Acuity Software Group, Inc.",
+          "customer": "Evergreen Properties Inc.",
+          "jurisdiction": "",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10__var04.txt",
+          "provider": "Brightline Software, Inc.",
+          "customer": "Forge Industrial Holdings Inc.",
+          "jurisdiction": "",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_RouteOptima_Freight_Software__Inc__enterprise_10__var05.txt",
+          "provider": "Quantix Data Systems, Inc.",
+          "customer": "Lonestar Energy Holdings LLC",
+          "jurisdiction": "",
+          "fee": ""
+        }
+      ]
+    },
+    {
+      "template": "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08",
+      "placeholders_used": [
+        "CUSTOMER_NAME",
+        "CUSTOMER_STATE",
+        "GOVERNING_LAW_STATE",
+        "LIABILITY_CAP_MONTHS",
+        "PROVIDER_ENTITY_TYPE",
+        "PROVIDER_NAME",
+        "PROVIDER_STATE",
+        "TERM_YEARS"
+      ],
+      "variations": [
+        {
+          "filename": "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08__var01.txt",
+          "provider": "Acuity Software Group, Inc.",
+          "customer": "Coastal Maritime Holdings, Inc.",
+          "jurisdiction": "Minnesota",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08__var02.txt",
+          "provider": "Meridian SaaS Holdings, Inc.",
+          "customer": "Wellington Asset Management LLC",
+          "jurisdiction": "Georgia",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08__var03.txt",
+          "provider": "Quantix Data Systems, Inc.",
+          "customer": "Heritage Financial Services, Inc.",
+          "jurisdiction": "New York",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08__var04.txt",
+          "provider": "Fortis Cloud Inc.",
+          "customer": "Beacon Health Network, Inc.",
+          "jurisdiction": "Florida",
+          "fee": ""
+        },
+        {
+          "filename": "SYNTHETIC_ShieldNet_Cyber_Security__Inc__enterprise_08__var05.txt",
+          "provider": "Meridian SaaS Holdings, Inc.",
+          "customer": "Westbrook Industries, LLC",
+          "jurisdiction": "New York",
+          "fee": ""
+        }
+      ]
+    }
+  ]
+}

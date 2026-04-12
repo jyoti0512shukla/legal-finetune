@@ -1,0 +1,343 @@
+{
+  "type": "LICENSE",
+  "task": "drafting",
+  "total_examples": 125,
+  "total_contracts": 25,
+  "per_clause_type_counts": {
+    "license_grant": 25,
+    "license_royalties_payment": 25,
+    "license_term_termination": 25,
+    "confidentiality": 25,
+    "license_restrictions": 19,
+    "license_audit_rights": 1,
+    "license_quality_control": 3,
+    "license_warranties_indemnification": 2
+  },
+  "contracts": [
+    {
+      "template": "CLAUDE_AtlasRecords_LabelCatalogMasterLicenseOrderForm_enterprise_19",
+      "industry": "music_catalog_distribution",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_AtlasRecords_MusicMasterSynchLicense_enterprise_04",
+      "industry": "music_master_synch",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_AurelisAILab_FoundationModelWeightsEnterpriseLicense_enterprise_20",
+      "industry": "ai_foundation_model_licensing",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_BeatVault_BeatLicense_smb_10",
+      "industry": "music_beat_licensing",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_BellGravity_PatentCrossLicense_enterprise_14",
+      "industry": "patent_cross_licensing",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_FortressGlobal_EnterprisePerpetualOnPremLicense_enterprise_13",
+      "industry": "enterprise_software_licensing",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_FrameLibrary_StockPhotoLicense_smb_05",
+      "industry": "stock_content",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_GlyphForge_FontFoundryLicense_smb_06",
+      "industry": "type_design",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_GraphForgeOSS_GPLCommercialDualLicense_smb_23",
+      "industry": "open_source_dual_license",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_HelixBio_PharmaRoyaltyStackingLicense_enterprise_21",
+      "industry": "pharmaceutical_licensing",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_HollowGrain_IndieArtworkLicense_smb_11",
+      "industry": "independent_artwork_licensing",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_audit_rights"
+      ]
+    },
+    {
+      "template": "CLAUDE_HoraceMercer_CelebrityNILCollabLicense_enterprise_16",
+      "industry": "celebrity_nil_licensing",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_KernelSpace_OpenSourceDualLicense_smb_08",
+      "industry": "open_source_dual_license",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_LearnLoop_CourseContentCorporateLDLicense_smb_12",
+      "industry": "learning_and_development",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_LumiereMaison_FashionTrademarkLicense_enterprise_02",
+      "industry": "fashion_apparel_trademark",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_quality_control"
+      ]
+    },
+    {
+      "template": "CLAUDE_MIT_BayhDoleMarchInLicense_enterprise_24",
+      "industry": "university_tech_transfer",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_warranties_indemnification"
+      ]
+    },
+    {
+      "template": "CLAUDE_NovaTherapeutics_PharmaCompoundPatentLicense_enterprise_01",
+      "industry": "pharmaceutical_licensing",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_warranties_indemnification"
+      ]
+    },
+    {
+      "template": "CLAUDE_OmegaSequencing_GenomicDatasetAILicense_enterprise_15",
+      "industry": "genomic_data_licensing",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_PolaroidUniversity_BayhDolePatentLicenseOrderForm_enterprise_18",
+      "industry": "university_tech_transfer",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_PortlandRoasters_TrademarkKnowHowLicense_enterprise_22",
+      "industry": "consumer_brand_with_proprietary_process",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_quality_control"
+      ]
+    },
+    {
+      "template": "CLAUDE_PrairieGrill_FranchiseTrademarkLicenseOrderForm_enterprise_17",
+      "industry": "restaurant_franchising",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_quality_control"
+      ]
+    },
+    {
+      "template": "CLAUDE_PulseAPI_SDKClientLibraryLicense_smb_07",
+      "industry": "developer_tools",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_QuantumStack_EnterpriseSourceCodeLicense_enterprise_03",
+      "industry": "enterprise_software_licensing",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_ReelStock_StockFootageLicense_smb_09",
+      "industry": "stock_content",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    },
+    {
+      "template": "CLAUDE_TelconStandards_StandardEssentialPatentFRANDLicense_enterprise_25",
+      "industry": "standard_essential_patent_licensing",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "license_grant",
+        "license_royalties_payment",
+        "license_term_termination",
+        "confidentiality",
+        "license_restrictions"
+      ]
+    }
+  ]
+}

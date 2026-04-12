@@ -1,0 +1,253 @@
+{
+  "_description": "Hand-curated entity maps for synthetic SOW contracts. SOW-specific placeholders: MSA_EFFECTIVE_DATE, PROJECT_NAME, SOW_FEE_AMOUNT, PROJECT_START_DATE, PROJECT_END_DATE, CHANGE_ORDER_THRESHOLD, EXPENSE_PREAPPROVAL_THRESHOLD.",
+  "CLAUDE_HelioForge_DataMigration_enterprise_01": {
+    "PROVIDER_NAME": "HelioForge Data Solutions, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 HelioForge Plaza, Austin, Texas 78701",
+    "CUSTOMER_NAME": "Cascade Energy Holdings, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Cascade Energy Tower, Denver, Colorado 80202",
+    "EFFECTIVE_DATE": "March 17, 2025", "MSA_EFFECTIVE_DATE": "January 14, 2024", "PROJECT_NAME": "Project Snowdrift",
+    "PROJECT_START_DATE": "April 7, 2025", "PROJECT_END_DATE": "September 19, 2025",
+    "GOVERNING_LAW_STATE": "Delaware", "VENUE_COUNTY": "New Castle County", "VENUE_CITY": "Wilmington",
+    "SOW_FEE_AMOUNT": "Two Million Eight Hundred Fifty Thousand United States Dollars (US$2,850,000)",
+    "CHANGE_ORDER_THRESHOLD": "Twenty-Five Thousand United States Dollars (US$25,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Five Hundred United States Dollars (US$500)", "NOTICE_DAYS": "thirty (30)"
+  },
+  "CLAUDE_PrismaConsult_ProcessRedesign_enterprise_02": {
+    "PROVIDER_NAME": "Prisma Strategy Group LLP", "PROVIDER_STATE": "New York", "PROVIDER_ENTITY_TYPE": "limited liability partnership", "PROVIDER_ADDRESS": "1 Prisma Plaza, New York, New York 10022",
+    "CUSTOMER_NAME": "Meridian Industries Holdings, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Meridian Industries Center, Wilmington, Delaware 19801",
+    "EFFECTIVE_DATE": "February 24, 2025", "MSA_EFFECTIVE_DATE": "September 5, 2023", "PROJECT_NAME": "Project Compass",
+    "PROJECT_START_DATE": "March 17, 2025", "PROJECT_END_DATE": "October 24, 2025",
+    "GOVERNING_LAW_STATE": "New York", "VENUE_COUNTY": "New York County", "VENUE_CITY": "New York",
+    "SOW_FEE_AMOUNT": "One Million Six Hundred Thousand United States Dollars (US$1,600,000)",
+    "CHANGE_ORDER_THRESHOLD": "Twenty-Five Thousand United States Dollars (US$25,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Five Hundred United States Dollars (US$500)", "NOTICE_DAYS": "thirty (30)"
+  },
+  "CLAUDE_VektorBuild_FintechCoreBanking_enterprise_03": {
+    "PROVIDER_NAME": "VektorBuild Engineering, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 VektorBuild Way, Seattle, Washington 98101",
+    "CUSTOMER_NAME": "Atlantic Federal Savings Bank, N.A.", "CUSTOMER_STATE": "United States", "CUSTOMER_ENTITY_TYPE": "national banking association", "CUSTOMER_ADDRESS": "1 Atlantic Federal Plaza, Boston, Massachusetts 02109",
+    "EFFECTIVE_DATE": "January 13, 2025", "MSA_EFFECTIVE_DATE": "April 17, 2023", "PROJECT_NAME": "Project Ledgerstone",
+    "PROJECT_START_DATE": "February 3, 2025", "PROJECT_END_DATE": "December 5, 2025",
+    "GOVERNING_LAW_STATE": "New York", "VENUE_COUNTY": "New York County", "VENUE_CITY": "New York",
+    "SOW_FEE_AMOUNT": "Six Million Two Hundred Fifty Thousand United States Dollars (US$6,250,000)",
+    "CHANGE_ORDER_THRESHOLD": "Fifty Thousand United States Dollars (US$50,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Seven Hundred Fifty United States Dollars (US$750)", "NOTICE_DAYS": "thirty (30)"
+  },
+  "CLAUDE_RedstoneCyber_PenTest_mid_market_04": {
+    "PROVIDER_NAME": "Redstone Offensive Security, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 Redstone Center, Boulder, Colorado 80302",
+    "CUSTOMER_NAME": "Lattice Workflow, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Lattice Way, San Francisco, California 94107",
+    "EFFECTIVE_DATE": "May 5, 2025", "MSA_EFFECTIVE_DATE": "October 18, 2024", "PROJECT_NAME": "Project Ironwall",
+    "PROJECT_START_DATE": "May 19, 2025", "PROJECT_END_DATE": "July 21, 2025",
+    "GOVERNING_LAW_STATE": "California", "VENUE_COUNTY": "San Francisco County", "VENUE_CITY": "San Francisco",
+    "SOW_FEE_AMOUNT": "One Hundred Twenty-Five Thousand United States Dollars (US$125,000)",
+    "CHANGE_ORDER_THRESHOLD": "Ten Thousand United States Dollars (US$10,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Five Hundred United States Dollars (US$500)", "NOTICE_DAYS": "fifteen (15)"
+  },
+  "CLAUDE_NimbleStudio_BrandRedesign_smb_05": {
+    "PROVIDER_NAME": "Nimble Studio Co.", "PROVIDER_STATE": "California", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 Nimble Studio Lane, Oakland, California 94607",
+    "CUSTOMER_NAME": "Northwind Coffee Roasters, LLC", "CUSTOMER_STATE": "Oregon", "CUSTOMER_ENTITY_TYPE": "limited liability company", "CUSTOMER_ADDRESS": "1 Northwind Roastery, Portland, Oregon 97202",
+    "EFFECTIVE_DATE": "April 14, 2025", "MSA_EFFECTIVE_DATE": "April 14, 2025", "PROJECT_NAME": "Project Daybreak",
+    "PROJECT_START_DATE": "April 21, 2025", "PROJECT_END_DATE": "July 7, 2025",
+    "GOVERNING_LAW_STATE": "California", "VENUE_COUNTY": "Alameda County", "VENUE_CITY": "Oakland",
+    "SOW_FEE_AMOUNT": "Forty-Eight Thousand United States Dollars (US$48,000)",
+    "CHANGE_ORDER_THRESHOLD": "Five Thousand United States Dollars (US$5,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Two Hundred Fifty United States Dollars (US$250)", "NOTICE_DAYS": "fifteen (15)"
+  },
+  "CLAUDE_LedgerLight_QBOImplementation_smb_06": {
+    "PROVIDER_NAME": "LedgerLight Bookkeeping, LLC", "PROVIDER_STATE": "Texas", "PROVIDER_ENTITY_TYPE": "limited liability company", "PROVIDER_ADDRESS": "1 LedgerLight Office, Austin, Texas 78704",
+    "CUSTOMER_NAME": "Hilltop Boutique Fitness, Inc.", "CUSTOMER_STATE": "Texas", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Hilltop Studio, Austin, Texas 78745",
+    "EFFECTIVE_DATE": "January 27, 2025", "MSA_EFFECTIVE_DATE": "January 27, 2025", "PROJECT_NAME": "Project Onboard",
+    "PROJECT_START_DATE": "February 3, 2025", "PROJECT_END_DATE": "March 24, 2025",
+    "GOVERNING_LAW_STATE": "Texas", "VENUE_COUNTY": "Travis County", "VENUE_CITY": "Austin",
+    "SOW_FEE_AMOUNT": "Eighteen Thousand Five Hundred United States Dollars (US$18,500)",
+    "CHANGE_ORDER_THRESHOLD": "Two Thousand Five Hundred United States Dollars (US$2,500)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "One Hundred United States Dollars (US$100)", "NOTICE_DAYS": "fifteen (15)"
+  },
+  "CLAUDE_NorthArc_PaidMediaRetainer_mid_market_07": {
+    "PROVIDER_NAME": "NorthArc Performance Marketing, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 NorthArc Plaza, Brooklyn, New York 11201",
+    "CUSTOMER_NAME": "Stowmark SaaS, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Stowmark Way, Boston, Massachusetts 02110",
+    "EFFECTIVE_DATE": "March 3, 2025", "MSA_EFFECTIVE_DATE": "March 3, 2025", "PROJECT_NAME": "NorthArc / Stowmark Performance Marketing Engagement",
+    "PROJECT_START_DATE": "March 17, 2025", "PROJECT_END_DATE": "March 16, 2026",
+    "GOVERNING_LAW_STATE": "New York", "VENUE_COUNTY": "Kings County", "VENUE_CITY": "Brooklyn",
+    "SOW_FEE_AMOUNT": "Twelve Thousand Five Hundred United States Dollars (US$12,500)",
+    "CHANGE_ORDER_THRESHOLD": "Two Thousand United States Dollars (US$2,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Two Hundred Fifty United States Dollars (US$250)", "NOTICE_DAYS": "thirty (30)"
+  },
+  "CLAUDE_SwiftHire_ATSImplementation_mid_market_08": {
+    "PROVIDER_NAME": "SwiftHire Implementation Co.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 SwiftHire Office, Denver, Colorado 80202",
+    "CUSTOMER_NAME": "Vellum Robotics, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Vellum Robotics Way, Pittsburgh, Pennsylvania 15203",
+    "EFFECTIVE_DATE": "February 10, 2025", "MSA_EFFECTIVE_DATE": "December 5, 2024", "PROJECT_NAME": "Project Greenhouse Lift",
+    "PROJECT_START_DATE": "February 24, 2025", "PROJECT_END_DATE": "May 26, 2025",
+    "GOVERNING_LAW_STATE": "California", "VENUE_COUNTY": "Santa Clara County", "VENUE_CITY": "San Jose",
+    "SOW_FEE_AMOUNT": "Two Hundred Forty Thousand United States Dollars (US$240,000)",
+    "CHANGE_ORDER_THRESHOLD": "Twelve Thousand Five Hundred United States Dollars (US$12,500)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Five Hundred United States Dollars (US$500)", "NOTICE_DAYS": "thirty (30)"
+  },
+  "CLAUDE_LinearStack_DesignSystem_mid_market_09": {
+    "PROVIDER_NAME": "LinearStack Design Studio, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 LinearStack Loft, Brooklyn, New York 11211",
+    "CUSTOMER_NAME": "Plumeria Health Platform, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Plumeria Way, Mountain View, California 94043",
+    "EFFECTIVE_DATE": "March 10, 2025", "MSA_EFFECTIVE_DATE": "March 10, 2025", "PROJECT_NAME": "Project Lattice",
+    "PROJECT_START_DATE": "March 24, 2025", "PROJECT_END_DATE": "March 23, 2026",
+    "GOVERNING_LAW_STATE": "California", "VENUE_COUNTY": "Santa Clara County", "VENUE_CITY": "San Jose",
+    "SOW_FEE_AMOUNT": "Three Hundred Twenty Thousand United States Dollars (US$320,000)",
+    "CHANGE_ORDER_THRESHOLD": "Fifteen Thousand United States Dollars (US$15,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Five Hundred United States Dollars (US$500)", "NOTICE_DAYS": "thirty (30)"
+  },
+  "CLAUDE_StripeAtlas_SOC2ReadinessAssessment_smb_10": {
+    "PROVIDER_NAME": "Stripe Atlas Compliance Co.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 Stripe Atlas Office, San Francisco, California 94103",
+    "CUSTOMER_NAME": "Cinder Analytics, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Cinder Way, Seattle, Washington 98101",
+    "EFFECTIVE_DATE": "April 7, 2025", "MSA_EFFECTIVE_DATE": "April 7, 2025", "PROJECT_NAME": "Project Trust Anchor",
+    "PROJECT_START_DATE": "April 14, 2025", "PROJECT_END_DATE": "June 9, 2025",
+    "GOVERNING_LAW_STATE": "California", "VENUE_COUNTY": "San Francisco County", "VENUE_CITY": "San Francisco",
+    "SOW_FEE_AMOUNT": "Forty-Two Thousand United States Dollars (US$42,000)",
+    "CHANGE_ORDER_THRESHOLD": "Five Thousand United States Dollars (US$5,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Two Hundred Fifty United States Dollars (US$250)", "NOTICE_DAYS": "fifteen (15)"
+  },
+  "CLAUDE_BeaconAnalytics_DataMart_mid_market_11": {
+    "PROVIDER_NAME": "Beacon Analytics Engineering, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 Beacon Analytics Office, Chicago, Illinois 60607",
+    "CUSTOMER_NAME": "PineRiver Workspace, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 PineRiver Center, Minneapolis, Minnesota 55402",
+    "EFFECTIVE_DATE": "February 17, 2025", "MSA_EFFECTIVE_DATE": "August 4, 2024", "PROJECT_NAME": "Project Northstar",
+    "PROJECT_START_DATE": "March 3, 2025", "PROJECT_END_DATE": "June 16, 2025",
+    "GOVERNING_LAW_STATE": "Illinois", "VENUE_COUNTY": "Cook County", "VENUE_CITY": "Chicago",
+    "SOW_FEE_AMOUNT": "Two Hundred Eighty Thousand United States Dollars (US$280,000)",
+    "CHANGE_ORDER_THRESHOLD": "Twelve Thousand Five Hundred United States Dollars (US$12,500)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Five Hundred United States Dollars (US$500)", "NOTICE_DAYS": "thirty (30)"
+  },
+  "CLAUDE_GlideFabric_iOSAppDev_mid_market_12": {
+    "PROVIDER_NAME": "GlideFabric Mobile Studio, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 GlideFabric Lab, San Francisco, California 94110",
+    "CUSTOMER_NAME": "Halberd Operations Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Halberd Operations Way, Atlanta, Georgia 30309",
+    "EFFECTIVE_DATE": "January 20, 2025", "MSA_EFFECTIVE_DATE": "November 11, 2024", "PROJECT_NAME": "Project Aurora Mobile",
+    "PROJECT_START_DATE": "February 3, 2025", "PROJECT_END_DATE": "June 30, 2025",
+    "GOVERNING_LAW_STATE": "California", "VENUE_COUNTY": "San Francisco County", "VENUE_CITY": "San Francisco",
+    "SOW_FEE_AMOUNT": "Four Hundred Eighty Thousand United States Dollars (US$480,000)",
+    "CHANGE_ORDER_THRESHOLD": "Twenty-Five Thousand United States Dollars (US$25,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Five Hundred United States Dollars (US$500)", "NOTICE_DAYS": "thirty (30)"
+  },
+  "CLAUDE_RegalNorth_BankServicing_enterprise_13": {
+    "PROVIDER_NAME": "Regal North IT Services, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 Regal North Way, Plano, Texas 75024",
+    "CUSTOMER_NAME": "Heritage Trust Bank, N.A.", "CUSTOMER_STATE": "United States", "CUSTOMER_ENTITY_TYPE": "national banking association", "CUSTOMER_ADDRESS": "1 Heritage Trust Center, Charlotte, North Carolina 28202",
+    "EFFECTIVE_DATE": "March 31, 2025", "MSA_EFFECTIVE_DATE": "January 7, 2025", "PROJECT_NAME": "Project Vault",
+    "PROJECT_START_DATE": "April 14, 2025", "PROJECT_END_DATE": "October 13, 2025",
+    "GOVERNING_LAW_STATE": "New York", "VENUE_COUNTY": "New York County", "VENUE_CITY": "New York",
+    "SOW_FEE_AMOUNT": "Three Million Two Hundred Thousand United States Dollars (US$3,200,000)",
+    "CHANGE_ORDER_THRESHOLD": "Fifty Thousand United States Dollars (US$50,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Seven Hundred Fifty United States Dollars (US$750)", "NOTICE_DAYS": "forty-five (45)"
+  },
+  "CLAUDE_EmpireState_DigitalServices_enterprise_14": {
+    "PROVIDER_NAME": "Civic Modernization Partners, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 Civic Modernization Way, Albany, New York 12207",
+    "CUSTOMER_NAME": "New York State Department of Permits and Licensing", "CUSTOMER_STATE": "New York", "CUSTOMER_ENTITY_TYPE": "state agency", "CUSTOMER_ADDRESS": "1 Empire State Plaza, Albany, New York 12242",
+    "EFFECTIVE_DATE": "March 24, 2025", "MSA_EFFECTIVE_DATE": "January 6, 2025", "PROJECT_NAME": "Project Permit Portal",
+    "PROJECT_START_DATE": "April 7, 2025", "PROJECT_END_DATE": "May 18, 2026",
+    "GOVERNING_LAW_STATE": "New York", "VENUE_COUNTY": "Albany County", "VENUE_CITY": "Albany",
+    "SOW_FEE_AMOUNT": "Six Million Eight Hundred Thousand United States Dollars (US$6,800,000)",
+    "CHANGE_ORDER_THRESHOLD": "One Hundred Thousand United States Dollars (US$100,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Three Hundred United States Dollars (US$300)", "NOTICE_DAYS": "forty-five (45)"
+  },
+  "CLAUDE_StarHospital_EHRImplementation_enterprise_15": {
+    "PROVIDER_NAME": "StarHospital Implementation Partners LLP", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "limited liability partnership", "PROVIDER_ADDRESS": "1 StarHospital Plaza, Chicago, Illinois 60606",
+    "CUSTOMER_NAME": "Mercy Regional Health System", "CUSTOMER_STATE": "Washington", "CUSTOMER_ENTITY_TYPE": "non-profit health system", "CUSTOMER_ADDRESS": "1 Mercy Health Way, Seattle, Washington 98109",
+    "EFFECTIVE_DATE": "February 3, 2025", "MSA_EFFECTIVE_DATE": "October 14, 2024", "PROJECT_NAME": "Project Wellspring",
+    "PROJECT_START_DATE": "February 24, 2025", "PROJECT_END_DATE": "September 7, 2026",
+    "GOVERNING_LAW_STATE": "Washington", "VENUE_COUNTY": "King County", "VENUE_CITY": "Seattle",
+    "SOW_FEE_AMOUNT": "Eighteen Million United States Dollars (US$18,000,000)",
+    "CHANGE_ORDER_THRESHOLD": "Two Hundred Fifty Thousand United States Dollars (US$250,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Seven Hundred Fifty United States Dollars (US$750)", "NOTICE_DAYS": "sixty (60)"
+  },
+  "CLAUDE_NovaPharma_ClinicalAnalytics_enterprise_16": {
+    "PROVIDER_NAME": "NovaPharma Solutions LLP", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "limited liability partnership", "PROVIDER_ADDRESS": "1 NovaPharma Center, Cambridge, Massachusetts 02142",
+    "CUSTOMER_NAME": "Aurora BioPharma, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Aurora BioPharma Plaza, Princeton, New Jersey 08540",
+    "EFFECTIVE_DATE": "January 6, 2025", "MSA_EFFECTIVE_DATE": "May 6, 2024", "PROJECT_NAME": "Project Helix",
+    "PROJECT_START_DATE": "January 27, 2025", "PROJECT_END_DATE": "May 18, 2026",
+    "GOVERNING_LAW_STATE": "New Jersey", "VENUE_COUNTY": "Mercer County", "VENUE_CITY": "Princeton",
+    "SOW_FEE_AMOUNT": "Twelve Million Five Hundred Thousand United States Dollars (US$12,500,000)",
+    "CHANGE_ORDER_THRESHOLD": "One Hundred Fifty Thousand United States Dollars (US$150,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Seven Hundred Fifty United States Dollars (US$750)", "NOTICE_DAYS": "sixty (60)"
+  },
+  "CLAUDE_OmniRetail_OmnichannelImpl_enterprise_17": {
+    "PROVIDER_NAME": "OmniRetail Implementation, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 OmniRetail Way, Atlanta, Georgia 30303",
+    "CUSTOMER_NAME": "BlueHarbor Department Stores, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 BlueHarbor Avenue, Cincinnati, Ohio 45202",
+    "EFFECTIVE_DATE": "March 17, 2025", "MSA_EFFECTIVE_DATE": "September 23, 2024", "PROJECT_NAME": "Project Lighthouse",
+    "PROJECT_START_DATE": "April 7, 2025", "PROJECT_END_DATE": "March 30, 2026",
+    "GOVERNING_LAW_STATE": "Delaware", "VENUE_COUNTY": "New Castle County", "VENUE_CITY": "Wilmington",
+    "SOW_FEE_AMOUNT": "Five Million Four Hundred Thousand United States Dollars (US$5,400,000)",
+    "CHANGE_ORDER_THRESHOLD": "Seventy-Five Thousand United States Dollars (US$75,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Seven Hundred Fifty United States Dollars (US$750)", "NOTICE_DAYS": "forty-five (45)"
+  },
+  "CLAUDE_DriveMotor_ConnectedVehicleData_enterprise_18": {
+    "PROVIDER_NAME": "DriveMotor Data Engineering, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 DriveMotor Tech Park, Detroit, Michigan 48226",
+    "CUSTOMER_NAME": "Liberty Automotive Group, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Liberty Automotive Center, Dearborn, Michigan 48126",
+    "EFFECTIVE_DATE": "February 10, 2025", "MSA_EFFECTIVE_DATE": "August 19, 2024", "PROJECT_NAME": "Project Telemetry",
+    "PROJECT_START_DATE": "March 3, 2025", "PROJECT_END_DATE": "December 28, 2025",
+    "GOVERNING_LAW_STATE": "Michigan", "VENUE_COUNTY": "Wayne County", "VENUE_CITY": "Detroit",
+    "SOW_FEE_AMOUNT": "Four Million Two Hundred Thousand United States Dollars (US$4,200,000)",
+    "CHANGE_ORDER_THRESHOLD": "Seventy-Five Thousand United States Dollars (US$75,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Seven Hundred Fifty United States Dollars (US$750)", "NOTICE_DAYS": "forty-five (45)"
+  },
+  "CLAUDE_GridStream_GridModernization_enterprise_19": {
+    "PROVIDER_NAME": "GridStream Energy Engineering, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 GridStream Plaza, San Francisco, California 94107",
+    "CUSTOMER_NAME": "Pacific Northwest Electric Cooperative", "CUSTOMER_STATE": "Oregon", "CUSTOMER_ENTITY_TYPE": "electric cooperative", "CUSTOMER_ADDRESS": "1 PNW Electric Center, Portland, Oregon 97204",
+    "EFFECTIVE_DATE": "January 20, 2025", "MSA_EFFECTIVE_DATE": "September 9, 2024", "PROJECT_NAME": "Project Powergrid",
+    "PROJECT_START_DATE": "February 17, 2025", "PROJECT_END_DATE": "November 23, 2026",
+    "GOVERNING_LAW_STATE": "Oregon", "VENUE_COUNTY": "Multnomah County", "VENUE_CITY": "Portland",
+    "SOW_FEE_AMOUNT": "Twenty-Two Million United States Dollars (US$22,000,000)",
+    "CHANGE_ORDER_THRESHOLD": "Two Hundred Fifty Thousand United States Dollars (US$250,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Seven Hundred Fifty United States Dollars (US$750)", "NOTICE_DAYS": "sixty (60)"
+  },
+  "CLAUDE_AeroVantage_FlightSimUpgrade_enterprise_20": {
+    "PROVIDER_NAME": "AeroVantage Defense Systems, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 AeroVantage Drive, Huntsville, Alabama 35806",
+    "CUSTOMER_NAME": "Vanguard Aerospace Systems Corporation", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Vanguard Aerospace Plaza, Arlington, Virginia 22202",
+    "EFFECTIVE_DATE": "March 10, 2025", "MSA_EFFECTIVE_DATE": "October 7, 2024", "PROJECT_NAME": "Project Skyline",
+    "PROJECT_START_DATE": "April 7, 2025", "PROJECT_END_DATE": "August 31, 2026",
+    "GOVERNING_LAW_STATE": "Virginia", "VENUE_COUNTY": "Arlington County", "VENUE_CITY": "Arlington",
+    "SOW_FEE_AMOUNT": "Eight Million Four Hundred Thousand United States Dollars (US$8,400,000)",
+    "CHANGE_ORDER_THRESHOLD": "One Hundred Thousand United States Dollars (US$100,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Five Hundred United States Dollars (US$500)", "NOTICE_DAYS": "sixty (60)"
+  },
+  "CLAUDE_KaiserCloud_HealthSaaSImpl_enterprise_21": {
+    "PROVIDER_NAME": "Kaiser Cloud Healthcare, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 Kaiser Cloud Plaza, San Francisco, California 94105",
+    "CUSTOMER_NAME": "Riverbend Hospital Network, Inc.", "CUSTOMER_STATE": "Tennessee", "CUSTOMER_ENTITY_TYPE": "non-profit corporation", "CUSTOMER_ADDRESS": "1 Riverbend Medical Center, Nashville, Tennessee 37203",
+    "EFFECTIVE_DATE": "April 7, 2025", "MSA_EFFECTIVE_DATE": "April 7, 2025", "PROJECT_NAME": "Project Ascend",
+    "PROJECT_START_DATE": "April 21, 2025", "PROJECT_END_DATE": "July 21, 2025",
+    "GOVERNING_LAW_STATE": "California", "VENUE_COUNTY": "San Francisco County", "VENUE_CITY": "San Francisco",
+    "SOW_FEE_AMOUNT": "Three Hundred Twenty-Five Thousand United States Dollars (US$325,000)",
+    "CHANGE_ORDER_THRESHOLD": "Twenty-Five Thousand United States Dollars (US$25,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Five Hundred United States Dollars (US$500)", "NOTICE_DAYS": "thirty (30)"
+  },
+  "CLAUDE_LunaLabs_AIFineTuning_smb_22": {
+    "PROVIDER_NAME": "Luna Labs ML Consulting, LLC", "PROVIDER_STATE": "California", "PROVIDER_ENTITY_TYPE": "limited liability company", "PROVIDER_ADDRESS": "1 Luna Labs Loft, Berkeley, California 94704",
+    "CUSTOMER_NAME": "Tessera Knowledge Tools, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Tessera Way, Vancouver, Washington 98660",
+    "EFFECTIVE_DATE": "April 14, 2025", "MSA_EFFECTIVE_DATE": "April 14, 2025", "PROJECT_NAME": "Project Polaris Tuning",
+    "PROJECT_START_DATE": "April 21, 2025", "PROJECT_END_DATE": "June 16, 2025",
+    "GOVERNING_LAW_STATE": "California", "VENUE_COUNTY": "Alameda County", "VENUE_CITY": "Berkeley",
+    "SOW_FEE_AMOUNT": "Sixty-Eight Thousand United States Dollars (US$68,000)",
+    "CHANGE_ORDER_THRESHOLD": "Five Thousand United States Dollars (US$5,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Two Hundred Fifty United States Dollars (US$250)", "NOTICE_DAYS": "fifteen (15)"
+  },
+  "CLAUDE_SilverLine_eDiscovery_mid_market_23": {
+    "PROVIDER_NAME": "SilverLine eDiscovery Services LLP", "PROVIDER_STATE": "New York", "PROVIDER_ENTITY_TYPE": "limited liability partnership", "PROVIDER_ADDRESS": "1 SilverLine Center, New York, New York 10018",
+    "CUSTOMER_NAME": "Quantum Industrial Holdings, Inc.", "CUSTOMER_STATE": "Delaware", "CUSTOMER_ENTITY_TYPE": "corporation", "CUSTOMER_ADDRESS": "1 Quantum Industrial Tower, Houston, Texas 77002",
+    "EFFECTIVE_DATE": "March 3, 2025", "MSA_EFFECTIVE_DATE": "November 4, 2024", "PROJECT_NAME": "Quantum Industrial v. Riverside Holdings (eDiscovery Matter)",
+    "PROJECT_START_DATE": "March 17, 2025", "PROJECT_END_DATE": "May 19, 2025",
+    "GOVERNING_LAW_STATE": "New York", "VENUE_COUNTY": "New York County", "VENUE_CITY": "New York",
+    "SOW_FEE_AMOUNT": "Eight Hundred Sixty Thousand United States Dollars (US$860,000)",
+    "CHANGE_ORDER_THRESHOLD": "Twenty-Five Thousand United States Dollars (US$25,000)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "Five Hundred United States Dollars (US$500)", "NOTICE_DAYS": "fifteen (15)"
+  },
+  "CLAUDE_PaperTrail_ReceivablesAutomation_smb_24": {
+    "PROVIDER_NAME": "PaperTrail Automation, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 PaperTrail Plaza, Austin, Texas 78704",
+    "CUSTOMER_NAME": "Driftwood Studios, LLC", "CUSTOMER_STATE": "Colorado", "CUSTOMER_ENTITY_TYPE": "limited liability company", "CUSTOMER_ADDRESS": "1 Driftwood Studios Loft, Denver, Colorado 80203",
+    "EFFECTIVE_DATE": "May 12, 2025", "MSA_EFFECTIVE_DATE": "May 12, 2025", "PROJECT_NAME": "PaperTrail Onboarding for Driftwood",
+    "PROJECT_START_DATE": "May 12, 2025", "PROJECT_END_DATE": "June 9, 2025",
+    "GOVERNING_LAW_STATE": "Texas", "VENUE_COUNTY": "Travis County", "VENUE_CITY": "Austin",
+    "SOW_FEE_AMOUNT": "Three Thousand Five Hundred United States Dollars (US$3,500)",
+    "CHANGE_ORDER_THRESHOLD": "Five Hundred United States Dollars (US$500)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "One Hundred United States Dollars (US$100)", "NOTICE_DAYS": "fifteen (15)"
+  },
+  "CLAUDE_TrainPro_SecurityAwareness_smb_25": {
+    "PROVIDER_NAME": "TrainPro Security Education, Inc.", "PROVIDER_STATE": "Delaware", "PROVIDER_ENTITY_TYPE": "corporation", "PROVIDER_ADDRESS": "1 TrainPro Office, Tampa, Florida 33602",
+    "CUSTOMER_NAME": "Crestwood Capital Advisors, LLC", "CUSTOMER_STATE": "Florida", "CUSTOMER_ENTITY_TYPE": "limited liability company", "CUSTOMER_ADDRESS": "1 Crestwood Capital Center, Miami, Florida 33131",
+    "EFFECTIVE_DATE": "May 5, 2025", "MSA_EFFECTIVE_DATE": "May 5, 2025", "PROJECT_NAME": "TrainPro Rollout for Crestwood",
+    "PROJECT_START_DATE": "May 5, 2025", "PROJECT_END_DATE": "May 26, 2025",
+    "GOVERNING_LAW_STATE": "Florida", "VENUE_COUNTY": "Miami-Dade County", "VENUE_CITY": "Miami",
+    "SOW_FEE_AMOUNT": "Two Thousand Eight Hundred United States Dollars (US$2,800)",
+    "CHANGE_ORDER_THRESHOLD": "Five Hundred United States Dollars (US$500)",
+    "EXPENSE_PREAPPROVAL_THRESHOLD": "One Hundred United States Dollars (US$100)", "NOTICE_DAYS": "fifteen (15)"
+  }
+}

@@ -1,0 +1,259 @@
+Statement of Work — LLM Fine-Tuning Consulting
+
+Project: {{PROJECT_NAME}}
+SOW Effective Date: {{EFFECTIVE_DATE}}
+Provider: {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}})
+Client: {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} ({{CUSTOMER_ADDRESS}})
+Parent MSA: signed {{MSA_EFFECTIVE_DATE}}
+
+This SOW is part of the MSA above. The MSA controls the framework terms. This SOW controls the project-specific commercial terms.
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 What we're doing
+
+The Provider is an AI/ML consultancy. The Client has an open-source large language model that it wants to fine-tune for its specific domain (a customer support workflow for the Client's SaaS product). The Provider will help the Client (a) prepare a fine-tuning dataset from the Client's existing customer support transcripts, (b) run a fine-tuning experiment, (c) evaluate the resulting model against a held-out test set, and (d) deliver the trained model weights and the training/eval code so the Client can re-run the training in the future.
+
+This is a research-style consulting engagement, billed on a time-and-materials basis. There is no guarantee of any particular model performance — see Section 6.1.
+
+1.2 In-scope activities
+
+The Provider will:
+
+(a) Conduct a 1-hour scoping call with the Client to confirm the model, the dataset shape, and the eval criteria.
+
+(b) Help the Client prepare a fine-tuning dataset from the Client's existing customer support transcripts, including (i) data extraction from the Client's source systems, (ii) prompt-completion pair construction, (iii) data filtering and quality review, and (iv) train/validation/test split.
+
+(c) Run the fine-tuning training job (LoRA or QLoRA, as appropriate for the model and the Client's GPU budget) on infrastructure agreed at scoping.
+
+(d) Evaluate the fine-tuned model against the held-out test set, with both quantitative metrics (perplexity, exact-match, BLEU, etc.) and qualitative review of sampled outputs.
+
+(e) Deliver the trained adapter weights, the training script, the eval script, the eval results report, and a brief recommendation memo.
+
+(f) Provide one (1) round of follow-up training based on the Client's feedback on the eval results.
+
+(g) Conduct a 60-minute readout session with the Client.
+
+1.3 Out-of-scope
+
+(a) Pre-training of any base model. The Provider only fine-tunes existing open-source base models.
+
+(b) Procurement or operation of GPU infrastructure. The Provider works on infrastructure the Client provides (cloud GPU credits, the Client's own GPU cluster, or a third-party platform like Modal or Together). GPU costs are paid by the Client directly.
+
+(c) Production deployment of the fine-tuned model. The Provider delivers the model artifacts; deploying them to the Client's production environment is the Client's responsibility.
+
+(d) Inference cost optimization, model distillation, model quantization for inference, or model serving infrastructure.
+
+(e) Building any production application that consumes the fine-tuned model.
+
+(f) Reinforcement learning from human feedback (RLHF) or DPO. This SOW covers supervised fine-tuning only.
+
+(g) Data labeling at scale. The Provider works with the Client's existing transcripts; large-scale human labeling is a separate engagement.
+
+(h) Any work involving personally identifiable customer data without the Client's express written authorization and a data processing addendum to the MSA.
+
+1.4 Engagement period
+
+Start: {{PROJECT_START_DATE}}. End: {{PROJECT_END_DATE}}.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables
+
+(a) Scoping Memo — short written memo confirming the model, the dataset shape, the eval criteria, and the GPU infrastructure plan. Target: end of Project Week 1.
+
+(b) Fine-Tuning Dataset — the prompt-completion pairs in JSON Lines format, with train/val/test splits. Target: end of Project Week 3.
+
+(c) Initial Training Run Report — written report covering the first training run, including loss curves, eval metrics, and qualitative output samples. Target: end of Project Week 5.
+
+(d) Round 2 Training Run Report — written report covering the follow-up training round based on Client feedback. Target: end of Project Week 7.
+
+(e) Final Deliverable Bundle — trained adapter weights, training script, eval script, eval results report, and recommendation memo. Target: end of Project Week 8.
+
+(f) Readout Session Recording — 60-minute recorded session covering the results and next steps. Target: end of Project Week 8.
+
+2.2 Acceptance window
+
+5 business days for each Deliverable. Client either accepts in writing or sends a written rejection notice. If no response within 5 business days, the Provider sends a written reminder; if still no response 3 business days after the reminder, the Deliverable is deemed accepted.
+
+2.3 Cure of non-conformity
+
+The Provider has 5 business days to fix and re-deliver. After two cure cycles, the Client may either accept with a fee adjustment or terminate this SOW for material breach.
+
+2.4 What "conforming" means
+
+A Deliverable is conforming if it satisfies the format and content requirements in this Article 2 and the Provider has used commercially reasonable engineering judgment in producing it. A Deliverable is NOT non-conforming merely because the fine-tuned model does not achieve the eval performance the Client hoped for — see Section 6.1.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Dates
+
+Start: {{PROJECT_START_DATE}}. End: {{PROJECT_END_DATE}}.
+
+3.2 Milestones
+
+(a) M1 — Scoping Memo accepted (Week 1)
+
+(b) M2 — Fine-Tuning Dataset accepted (Week 3)
+
+(c) M3 — Initial Training Run Report accepted (Week 5)
+
+(d) M4 — Round 2 Training Run Report accepted (Week 7)
+
+(e) M5 — Final Deliverable Bundle accepted (Week 8)
+
+3.3 Status
+
+Weekly written status update via email. Provider notifies Client immediately if any milestone is anticipated to slip more than 3 business days.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named team
+
+(a) Lead ML Engineer — minimum 100% allocation across the engagement.
+
+(b) Engagement Lead — 25% allocation.
+
+4.2 No replacement without notice
+
+Provider won't swap the Lead ML Engineer during the engagement without notifying the Client.
+
+4.3 Background
+
+Provider personnel are subject to the MSA's background-check requirements.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 What we need from the Client
+
+(a) Designate a Client Project Owner who can answer scoping questions and approve deliverables.
+
+(b) Provide the source customer support transcripts (exported from the Client's existing system) in the format agreed at scoping.
+
+(c) Provide GPU infrastructure access (the Client's own infrastructure, the Client's cloud GPU credits, or a third-party platform).
+
+(d) Provide a held-out test set, OR delegate test set construction to the Provider as part of the dataset preparation.
+
+(e) Provide eval criteria the Client cares about (which metrics matter? what does "good" look like?).
+
+(f) Respond to questions and review deliverables within 5 business days.
+
+5.2 Data sensitivity
+
+The Client is responsible for ensuring that the customer support transcripts provided to the Provider do not contain any data the Client is not authorized to share, including any data that would violate the Client's customer privacy commitments. The Provider will treat the transcripts as Confidential Information under the MSA but cannot independently verify the Client's authorization to share the data.
+
+5.3 Client delays
+
+If the Client misses the 5-business-day window on deliverable reviews or required information, the Project End Date moves out by the same number of days.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 No performance guarantees
+
+This is a research-style consulting engagement. Fine-tuning outcomes depend on many factors that are inherently uncertain (data quality, base model selection, hyperparameter tuning, evaluation methodology). The Provider does not guarantee any particular eval metric, any particular qualitative model behavior, or any particular comparison against the base model. The Provider commits to commercially reasonable engineering practices and to honest reporting of results, not to specific outcomes. The Client acknowledges this uncertainty and agrees that an underwhelming result is not a basis for refund or for non-conformity.
+
+6.2 Assumptions
+
+(a) The Client has at least 5,000 customer support transcript examples available for training. With fewer examples, the engagement may not yield meaningful results — Provider will flag this in the Scoping Memo.
+
+(b) The Client's chosen base model is an open-source model with weights freely available, and the model's license permits commercial fine-tuning by the Client.
+
+(c) The Client has GPU access sufficient for training (depends on the chosen base model — Provider will estimate at scoping).
+
+(d) The Client's transcripts are reasonably clean and well-structured. Heavy data cleaning beyond what the Provider scopes in Article 2 is out-of-scope and may require a Change Order.
+
+(e) The Client has the legal right to use the transcripts for training and to retain the resulting fine-tuned model weights.
+
+(f) No regulatory or contractual obligation prohibits the Client from using its customer support transcripts for ML training.
+
+6.3 Model weights ownership
+
+The Client owns (i) the source transcripts the Client provides and (ii) the resulting fine-tuned adapter weights produced by training on those transcripts. The Provider's IP in its training/eval code is delivered to the Client under a permissive (MIT-style) license that allows the Client unrestricted use, modification, and redistribution. The Provider may reuse generic training code (not Client-specific) in other engagements.
+
+6.4 Third-party dependencies
+
+The Project depends on (a) the chosen base model remaining available, (b) the Client's GPU infrastructure being operational, and (c) any open-source ML libraries used (PyTorch, Transformers, PEFT, etc.) being available.
+
+6.5 If an assumption is wrong
+
+The Provider notifies the Client promptly upon discovering any incorrect assumption.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Time-and-materials
+
+The Provider performs the In-Scope Activities on a time-and-materials basis at the rates set out in Schedule A. Estimated total spend through the Project End Date is {{SOW_FEE_AMOUNT}}, but this is an estimate, not a not-to-exceed cap. If the Provider determines that actual spend will materially exceed the estimate, the Provider will notify the Client and propose either reducing scope or executing a Change Order.
+
+7.2 Invoicing
+
+Provider invoices monthly in arrears. Each invoice includes the hours worked by named team member by week, the activities performed, and any reimbursable expenses. Due net 30.
+
+7.3 GPU costs
+
+GPU costs are paid by the Client directly to the GPU infrastructure provider. The Provider does not invoice for GPU costs.
+
+7.4 Expenses
+
+Provider doesn't expect reimbursable expenses (the engagement is fully remote). Any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}} requires written pre-approval.
+
+7.5 Late payment
+
+Net 30. The MSA's late-payment terms apply.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests
+
+Either Party may at any time request a change in writing.
+
+8.2 Impact Assessment
+
+Provider responds within 3 business days with the proposed impact on scope, schedule, and time estimate.
+
+8.3 Change Order
+
+Both Parties must sign a written Change Order. No change is binding until signed.
+
+8.4 No oral changes
+
+Only a signed Change Order modifies this SOW.
+
+8.5 De minimis
+
+Changes that move the time estimate by less than {{CHANGE_ORDER_THRESHOLD}} and don't move milestones may be confirmed by email between the named project leads.
+
+8.6 Continuing performance
+
+Provider continues working on the in-scope activities while a Change Request is being discussed.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT
+
+9.1 Incorporation
+
+This SOW is part of the MSA. All MSA terms apply.
+
+9.2 Order of precedence
+
+MSA wins on framework terms. This SOW wins on the project-specific commercial terms.
+
+9.3 IP
+
+Client transcripts, fine-tuning datasets derived from those transcripts, and fine-tuned model weights are owned by the Client. Provider's training/eval code is delivered to the Client under an MIT-style license.
+
+9.4 Termination
+
+Termination is governed by the MSA. The Client may terminate for convenience under the MSA on the notice period set out there. On termination, the Provider invoices for hours worked through the termination date.
+
+Signed as of {{EFFECTIVE_DATE}}.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

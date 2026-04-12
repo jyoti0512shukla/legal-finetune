@@ -1,0 +1,109 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This MUTUAL NON-DISCLOSURE AGREEMENT (this "Agreement") is entered into as of {{EFFECTIVE_DATE}} (the "Effective Date"), by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} with its principal place of business at {{PROVIDER_ADDRESS}} ("Party A"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} with its principal place of business at {{CUSTOMER_ADDRESS}} ("Party B"). Party A and Party B are each referred to herein as a "Party" and collectively as the "Parties."
+
+WHEREAS, the Parties are exploring a potential collaboration, license, or asset acquisition involving a Phase 2 clinical-stage oncology program (the "Program") and related intellectual property, clinical data, manufacturing know-how, and regulatory submissions;
+
+WHEREAS, to evaluate the Program, each Party may disclose to the other certain non-public clinical, regulatory, manufacturing, and commercial information, some of which may include patient-level data and interactions with the U.S. Food and Drug Administration (the "FDA");
+
+WHEREAS, the Parties wish to establish the terms on which such Confidential Information may be exchanged while protecting the integrity of the Program and the privacy rights of any human subjects whose data may be included;
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual covenants set forth herein, the Parties, intending to be legally bound, hereby agree as follows:
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Confidential Information" means all non-public information disclosed by or on behalf of a Disclosing Party to a Receiving Party or any of its Representatives in connection with the Purpose, in whatever form or medium, whether or not marked as confidential. Confidential Information includes, without limitation: (a) pre-clinical data, including in vitro and in vivo pharmacology, toxicology, and pharmacokinetics; (b) clinical trial protocols, case report forms, statistical analysis plans, and aggregated and patient-level efficacy and safety data; (c) Chemistry, Manufacturing, and Controls ("CMC") information, including formulations, process parameters, and analytical methods; (d) regulatory correspondence and submissions, including IND and NDA materials, meeting requests, pre-submission packages, briefing documents, and FDA meeting minutes; (e) intellectual property strategy, including patent prosecution files and freedom-to-operate analyses; (f) commercial plans, including market forecasts, pricing strategy, and competitive analyses; and (g) the existence and status of the discussions between the Parties regarding the Program.
+
+1.2 "Patient-Level Data" means any Confidential Information that includes information about identifiable individual research subjects, whether in direct, de-identified, or pseudonymized form.
+
+1.3 "Purpose" means the Parties' good-faith evaluation of the Program with a view to a potential collaboration, license, or asset acquisition, and (if and only if the Parties mutually so elect) the negotiation of a definitive agreement relating thereto.
+
+1.4 "Representatives" means, with respect to a Receiving Party, such Receiving Party's directors, officers, employees, and outside professional advisors (including outside legal counsel, accountants, clinical and regulatory consultants, and scientific advisors), in each case who have a bona fide need to know Confidential Information for the Purpose and who are bound by written or professional obligations of confidentiality and non-use no less protective than those set forth herein.
+
+1.5 "Trade Secret" means any Confidential Information that qualifies as a trade secret under the Defend Trade Secrets Act of 2016 or the laws of the State of {{GOVERNING_LAW_STATE}} or any other applicable law. For the avoidance of doubt, manufacturing know-how relating to the Program is a Trade Secret.
+
+ARTICLE 2 — PURPOSE
+
+2.1 Narrow Purpose. The Receiving Party shall use Confidential Information solely for the Purpose. The Receiving Party shall not use Confidential Information (a) to file, prosecute, or maintain any patent application claiming any subject matter disclosed by the Disclosing Party, (b) to submit any regulatory filing relating to the Program or any competing therapeutic candidate, or (c) to conduct any research or development activity for any competing therapeutic candidate that targets the same molecular target as the Program.
+
+2.2 No Reverse Engineering. The Receiving Party shall not reverse engineer, de-formulate, or otherwise attempt to derive the composition, structure, or methods of manufacture of any sample of the Program compound, formulated drug product, or reference standard that may be provided for evaluation.
+
+2.3 HIPAA Safeguarding. To the extent any Patient-Level Data is disclosed, each Party acknowledges that such data may be subject to the Health Insurance Portability and Accountability Act of 1996 and implementing regulations ("HIPAA"), and shall handle such data in compliance with HIPAA and any applicable clinical trial protocols, informed consent documents, and institutional review board requirements. The Receiving Party shall not re-identify any pseudonymized or de-identified Patient-Level Data.
+
+ARTICLE 3 — CONFIDENTIAL INFORMATION
+
+3.1 Obligations. The Receiving Party shall: (a) hold all Confidential Information in strict confidence; (b) use Confidential Information solely for the Purpose; (c) disclose Confidential Information only to its Representatives who have a bona fide need to know in connection with the Purpose and who are bound by confidentiality obligations no less protective than those set forth herein; and (d) protect Confidential Information using at least the degree of care the Receiving Party uses for its own most sensitive confidential information, but no less than a reasonable degree of care.
+
+3.2 Clinical Data Room Protocol. Access to clinical data room materials shall be through a controlled virtual data room with watermarking, download restrictions, access logs, and tiered access rights. Patient-Level Data shall be provided only in pseudonymized form to Representatives who have been specifically designated by name for such access and who have confirmed compliance with the Receiving Party's privacy policies.
+
+3.3 Responsibility for Representatives. The Receiving Party shall be responsible for any breach of this Agreement by any of its Representatives.
+
+3.4 Incident Reporting. The Receiving Party shall notify the Disclosing Party in writing within forty-eight (48) hours after becoming aware of any actual or suspected unauthorized use, disclosure, loss, or exposure of Confidential Information, and shall cooperate in investigating and remediating any such incident.
+
+ARTICLE 4 — EXCLUSIONS FROM CONFIDENTIALITY
+
+4.1 Exclusions. The obligations in Article 3 shall not apply to any information that the Receiving Party can demonstrate by competent written evidence: (a) was in the public domain at the time of disclosure or subsequently entered the public domain through no breach of this Agreement (provided that published results from clinical trials conducted by the Disclosing Party shall not, by virtue of publication, cause associated Patient-Level Data or underlying statistical analysis files to be deemed public); (b) was in the Receiving Party's possession free of any obligation of confidence prior to disclosure; (c) was independently developed by the Receiving Party without use of or reference to any Confidential Information; or (d) was rightfully received from a third party without any obligation of confidence to the Disclosing Party.
+
+4.2 Patient-Level Data Never Excluded. Patient-Level Data shall not fall within any of the exclusions in Section 4.1 by virtue of aggregation with publicly available clinical data.
+
+ARTICLE 5 — COMPELLED DISCLOSURE
+
+5.1 Legal Process. In the event that the Receiving Party is requested or required by any court, governmental authority, or other legal process (including the FDA or any foreign regulatory authority) to disclose any Confidential Information, the Receiving Party shall, to the extent legally permissible, provide the Disclosing Party with prompt prior written notice so the Disclosing Party may, at its sole cost, seek a protective order or other appropriate remedy.
+
+5.2 Limitation. If a protective order is not obtained and the Disclosing Party does not waive compliance, the Receiving Party may disclose only the minimum portion of Confidential Information legally required to be disclosed and shall use commercially reasonable efforts to obtain confidential treatment.
+
+5.3 Regulator Interactions. For the avoidance of doubt, neither Party shall contact the FDA or any foreign regulatory authority concerning the Program in any capacity inconsistent with the Disclosing Party's position as the regulatory sponsor of the Program, except as required by applicable law or as expressly authorized by the Disclosing Party in writing.
+
+ARTICLE 6 — RETURN OR DESTRUCTION
+
+6.1 Return on Request. Upon the earlier of (a) the Disclosing Party's written request or (b) the termination of discussions between the Parties regarding the Program, the Receiving Party shall, at the Disclosing Party's election, return or destroy all Confidential Information, together with all copies, extracts, and derivative materials, and shall certify such return or destruction in writing within ten (10) business days.
+
+6.2 Retention Exceptions. The Receiving Party may retain (a) one archival copy of Confidential Information in the custody of its outside legal counsel, and (b) Confidential Information contained in automatic system backups, in each case subject to the continuing obligations of this Agreement.
+
+ARTICLE 7 — NO LICENSE OR OWNERSHIP TRANSFER
+
+7.1 Ownership Reserved. All Confidential Information shall remain the sole and exclusive property of the Disclosing Party. Nothing in this Agreement shall be construed as granting the Receiving Party, by implication, estoppel, or otherwise, any license or other right in any patent, copyright, trademark, trade secret, or other intellectual property right of the Disclosing Party. No license is granted to practice any patent, to manufacture, use, sell, import, or export any product, or to use any Trade Secret. Any license or collaboration rights shall be granted only, if at all, under a separate definitive written agreement executed by the Parties.
+
+7.2 No Competing Regulatory Filings. Without limiting the foregoing, neither Party shall use Confidential Information of the other Party to support any regulatory filing for a competing therapeutic candidate.
+
+ARTICLE 8 — TERM AND SURVIVAL
+
+8.1 Term. This Agreement shall commence on the Effective Date and shall continue in full force and effect for a period of {{TERM_YEARS}} years thereafter, unless earlier terminated upon {{NOTICE_DAYS}} days' prior written notice in the event of a material uncured breach.
+
+8.2 Survival. Notwithstanding any termination or expiration of this Agreement, the Receiving Party's obligations of confidentiality and non-use with respect to Confidential Information shall survive for a period of seven (7) years after such termination or expiration. With respect to any Trade Secret (including manufacturing know-how) or any Patient-Level Data, such obligations shall survive indefinitely.
+
+ARTICLE 9 — EQUITABLE REMEDIES
+
+9.1 Irreparable Harm. Each Party acknowledges that any breach of this Agreement may cause the Disclosing Party irreparable harm for which monetary damages would be inadequate, particularly with respect to clinical data, regulatory submissions, and manufacturing know-how.
+
+9.2 Injunctive Relief. Each Party is entitled to seek specific performance, injunctive relief, and other equitable relief in any court of competent jurisdiction, without posting bond and without proving actual damages, in addition to any other remedies available at law or in equity. Remedies are cumulative.
+
+ARTICLE 10 — GENERAL PROVISIONS
+
+10.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of {{GOVERNING_LAW_STATE}}, without regard to conflict of laws principles.
+
+10.2 Venue. Each Party irrevocably submits to the exclusive jurisdiction of the state and federal courts located in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+10.3 Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof.
+
+10.4 Amendments. No amendment of this Agreement shall be effective unless in writing and signed by both Parties.
+
+10.5 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, except that a Party may assign this Agreement in connection with a merger, consolidation, or sale of all or substantially all of its business or assets to which this Agreement relates.
+
+10.6 Severability. If any provision of this Agreement is held invalid, the remaining provisions shall continue in full force and effect.
+
+10.7 Counterparts. This Agreement may be executed in counterparts.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed as of the Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

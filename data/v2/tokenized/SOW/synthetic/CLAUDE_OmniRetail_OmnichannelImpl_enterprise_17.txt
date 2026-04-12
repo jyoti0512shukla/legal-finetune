@@ -1,0 +1,114 @@
+STATEMENT OF WORK ORDER FORM — OMNICHANNEL COMMERCE PLATFORM IMPLEMENTATION
+
+This Statement of Work Order Form (this "Order Form" or "SOW") is dated {{EFFECTIVE_DATE}} (the "SOW Effective Date") and incorporates the terms of the Master Services Agreement between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}}) (the "Provider"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} ({{CUSTOMER_ADDRESS}}) (the "Customer"), dated {{MSA_EFFECTIVE_DATE}} (the "MSA"). This Order Form is structured as a modular form that incorporates the MSA's framework terms by reference and uses the schedules attached hereto for the project-specific commercial terms.
+
+Project Name: {{PROJECT_NAME}}
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 Order Form Structure. This SOW Order Form is intentionally minimal. The project-specific terms — scope, deliverables, milestones, fees, key personnel, assumptions, and acceptance criteria — are set out in the attached Schedules. Where the Schedules conflict with this Order Form, the Schedules control. Where this Order Form (including its Schedules) conflicts with the MSA, the Order Form's commercial terms control as to this Engagement only.
+
+1.2 Project Description and Scope. The Provider shall implement the omnichannel commerce platform described in Schedule 1 (Project Description and Scope) for the Customer. The implementation covers the in-scope activities listed in Schedule 1 and excludes the items in Schedule 1.B (Out-of-Scope).
+
+1.3 Order of Precedence Within Order Form. In case of conflict among the Schedules, the order of precedence is: Schedule 1 (Project Description and Scope), then Schedule 2 (Deliverables and Acceptance), then Schedule 3 (Project Schedule and Milestones), then Schedule 4 (Key Personnel), then Schedule 5 (Client Responsibilities), then Schedule 6 (Assumptions), then Schedule 7 (Fees and Payment), then Schedule 8 (Change Control).
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Deliverables. The Deliverables for this Project are listed in Schedule 2 (Deliverables and Acceptance). Each Deliverable shall be delivered by the target date set forth in Schedule 2.
+
+2.2 Acceptance Criteria. Acceptance criteria for each Deliverable are set forth in Schedule 2.A.
+
+2.3 Acceptance Period. Each Deliverable is subject to a fifteen (15) business day Acceptance Period from receipt, during which the Customer shall either accept the Deliverable in writing or provide a written rejection notice with a description of the alleged non-conformity.
+
+2.4 Cure of Non-Conformity. The Provider shall correct any non-conformity within fifteen (15) business days at no additional charge and re-submit the corrected Deliverable. After two (2) cure cycles, the Customer may accept with an equitable Project Fee reduction or terminate this SOW for material breach.
+
+2.5 No Deemed Acceptance. There shall be no deemed acceptance of any Deliverable.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Project Window. The Project shall commence on {{PROJECT_START_DATE}} and shall be substantially complete by {{PROJECT_END_DATE}}.
+
+3.2 Milestones. The named milestones, target completion dates, and inter-milestone dependencies are set forth in Schedule 3 (Project Schedule and Milestones).
+
+3.3 Status Reporting and Schedule Slippage. The Provider shall deliver weekly written status reports identifying activities completed, activities planned, open risks, and any actual or anticipated milestone slippage. The Provider shall promptly notify the Customer of any slippage anticipated to exceed five (5) business days against any Milestone, together with a remediation plan.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named Key Personnel. The Provider shall assign the Key Personnel named in Schedule 4 (Key Personnel) to the Project. The Provider shall not replace any Key Personnel without the Customer's prior written consent.
+
+4.2 Background Checks. All Provider personnel assigned to the Project shall have completed the background checks required by the MSA prior to receiving access to any Customer systems.
+
+4.3 Removal of Personnel. The Customer may at any time and without cause request that the Provider remove any individual from the Project. The Provider shall comply within ten (10) business days.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 Customer Responsibilities. The Customer's responsibilities for this Project are set forth in Schedule 5 (Client Responsibilities), including the Customer's obligation to provide designated personnel, system access, source materials, and timely review and approvals.
+
+5.2 Customer Delays. If the Customer fails to satisfy its responsibilities under Schedule 5 in a timely manner, the Provider shall be entitled to an extension of the affected Milestones and Project End Date by the duration of the Customer's delay, and to recover any reasonable additional costs incurred as a direct result, subject to the Provider's notification obligations.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions. The In-Scope Activities, the Project Schedule, and the Project Fee are based on the Assumptions in Schedule 6 (Assumptions and Dependencies). If any Assumption proves materially incorrect, the affected impact shall be addressed through the change control procedure in Article 8.
+
+6.2 Third-Party Dependencies. The third-party dependencies for this Project are listed in Schedule 6.A. The Provider shall not be responsible for any delay or failure of performance to the extent caused by the failure of any third-party dependency outside the Provider's control.
+
+6.3 Notification of Changed Assumptions. The Customer shall promptly notify the Provider in writing if it becomes aware that any Assumption has changed.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Project Fee. The Customer shall pay the Provider a fixed Project Fee of {{SOW_FEE_AMOUNT}} for this Project, in accordance with the milestone-based payment schedule set forth in Schedule 7 (Fees and Payment). The Project Fee is exclusive of taxes and out-of-pocket expenses.
+
+7.2 Pricing Structure. The Project Fee is a firm, fixed-fee amount allocated across the Milestones in Schedule 3 in the proportions set forth in Schedule 7.
+
+7.3 Expense Reimbursement. The Customer shall reimburse reasonable, documented out-of-pocket expenses subject to (a) the Customer's then-current vendor travel policy and (b) the requirement that any individual expense in excess of {{EXPENSE_PREAPPROVAL_THRESHOLD}} be pre-approved in writing by the Customer.
+
+7.4 Invoicing. The Provider shall invoice the Customer per Schedule 7. Invoices are due net 45.
+
+7.5 Disputed Invoices. If the Customer disputes any invoice in good faith, the Customer shall pay the undisputed portion and notify the Provider in writing of the dispute.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change Requests. Either Party may at any time propose a change by submitting a written Change Request describing the proposed change, the reason, and the proposed effective date.
+
+8.2 Impact Assessment. The Provider shall deliver a written impact assessment within ten (10) business days, including the proposed impact on scope, schedule, and Project Fee.
+
+8.3 Change Order. If the Parties agree, they shall execute a written Change Order signed by an authorized representative of each Party. No change to this SOW shall be effective unless documented in a signed Change Order.
+
+8.4 No Oral Modifications. Only a Change Order signed by both Parties shall modify this SOW.
+
+8.5 De Minimis Threshold. Changes that have a cumulative impact on the Project Fee of less than {{CHANGE_ORDER_THRESHOLD}} and no impact on the Project Schedule may be implemented by written email confirmation between the Parties' Project Managers without a formal Change Order.
+
+8.6 Continuing Performance. The Provider continues performing the In-Scope Activities while a Change Request is being negotiated.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT
+
+9.1 Incorporation by Reference. This SOW Order Form is issued under and is governed by the MSA, which is incorporated into this Order Form by reference. All terms and conditions of the MSA apply, including without limitation the MSA's provisions on confidentiality, intellectual property, indemnification, limitation of liability, insurance, governing law, and dispute resolution.
+
+9.2 Order of Precedence with MSA. In the event of any conflict between this Order Form (and its Schedules) and the MSA, the MSA shall control, except that the project-specific commercial terms expressly set forth in this Order Form and its Schedules shall control over any inconsistent provisions in the MSA solely as applied to this Engagement.
+
+9.3 Termination. This SOW Order Form may be terminated only as expressly provided in the MSA or in this Order Form.
+
+SCHEDULES
+
+Schedule 1 — Project Description and Scope (in-scope, out-of-scope)
+Schedule 2 — Deliverables and Acceptance (Deliverables, target dates, acceptance criteria)
+Schedule 3 — Project Schedule and Milestones (named milestones with target completion dates)
+Schedule 4 — Key Personnel (named team, allocations, role descriptions)
+Schedule 5 — Client Responsibilities (designated personnel, access, materials)
+Schedule 6 — Assumptions and Dependencies (assumptions, third-party dependencies)
+Schedule 7 — Fees and Payment (milestone payment schedule)
+Schedule 8 — Change Control (change request and Change Order forms)
+
+SIGNED AS OF THE SOW EFFECTIVE DATE.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

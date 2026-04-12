@@ -1,0 +1,179 @@
+DATA PROCESSING ADDENDUM (ADTECH / MARKETING DATA PLATFORM)
+
+This Data Processing Addendum (the "DPA") is between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} based at {{PROVIDER_ADDRESS}} (the "Processor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} based at {{CUSTOMER_ADDRESS}} (the "Controller"). It is part of the {{PARENT_AGREEMENT_NAME}} we signed on {{PARENT_AGREEMENT_DATE}}.
+
+The Processor provides a marketing data platform that combines first-party data the Controller collects from its own customers with the Processor's analytics tools. This DPA reflects the heightened privacy considerations applicable to marketing and advertising data. When this DPA conflicts with the parent agreement on personal-data matters, this DPA wins. Otherwise the parent agreement controls.
+
+DPA Effective Date: {{EFFECTIVE_DATE}}.
+
+ARTICLE 1 — DEFINITIONS
+
+We use standard meanings from the EU GDPR, UK GDPR, and CCPA / CPRA.
+
+"Controller's Marketing Data" means the first-party Personal Data the Controller submits to the platform, including customer profiles, purchase history, web/app event data, and consent records.
+
+"Aggregated Insights" means non-identified analytics derived from Controller's Marketing Data that the Processor uses to provide platform-level reporting and benchmarks.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES
+
+2.1 The Controller is the controller. The Processor is the processor.
+
+2.2 The Processor processes Controller's Marketing Data only on the Controller's documented instructions: the parent agreement, this DPA, and the Controller's product configuration.
+
+2.3 If the Processor thinks an instruction would break the law, the Processor will tell the Controller before performing it.
+
+2.4 No cross-customer audience building. The Processor will not combine the Controller's Marketing Data with personal data from any other Controller for the purpose of building cross-customer audiences, look-alike audiences, or any other persistent shared audience product, except with the Controller's express written consent and only on the basis the Controller specifies.
+
+2.5 Aggregated Insights. The Processor may derive Aggregated Insights from Controller's Marketing Data for platform-level reporting, provided that (a) the Aggregated Insights do not identify any Data Subject, (b) the Aggregated Insights are derived using k-anonymity or equivalent statistical safeguards, and (c) the Aggregated Insights are not used for the Processor's own marketing.
+
+2.6 No sale or sharing under CCPA / CPRA. The Processor will not Sell or Share Controller's Marketing Data within the meaning of the CCPA / CPRA. The Processor is a Service Provider under the CCPA / CPRA.
+
+ARTICLE 3 — SCOPE OF PROCESSING
+
+3.1 Processing details are in Annex I.
+
+3.2 Nature and purpose: {{PROCESSING_PURPOSE}}.
+
+3.3 Categories of Personal Data: {{DATA_CATEGORIES}}.
+
+3.4 Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+
+3.5 The Controller represents that it has a lawful basis (consent or other) for processing Controller's Marketing Data and for sharing Controller's Marketing Data with the Processor as a service provider, including for any consent-based processing under the EU GDPR (including ePrivacy where applicable), the UK GDPR, the CCPA / CPRA, and any other Applicable Data Protection Law. The Controller has a contract-by-contract responsibility for collecting and managing valid end-user consents for marketing use.
+
+ARTICLE 4 — PROCESSOR OBLIGATIONS
+
+4.1 Processing limitation. The Processor processes Controller's Marketing Data only as the Controller instructs.
+
+4.2 Personnel access. People at the Processor with access to Controller's Marketing Data are subject to confidentiality obligations and access is need-to-know only.
+
+4.3 Consent honoring. The Processor will respect consent signals (opt-out, do-not-track, GPC, IAB TCF v2) the Controller passes through the platform and will not process any Personal Data of a Data Subject who has withdrawn consent.
+
+4.4 No model training without consent. The Processor will not use Controller's Marketing Data to train AI / ML models without the Controller's express written consent.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+5.1 The Processor implements the TOMs in Annex II. TLS 1.2+ in transit. AES-256 at rest. SSO + MFA for personnel access.
+
+5.2 Pseudonymization. The Processor pseudonymizes Controller's Marketing Data where reasonably practicable, including by hashing email addresses and phone numbers used as join keys.
+
+5.3 Annual SOC 2 Type II audit. Annual ISO 27001 surveillance. Quarterly internal vulnerability scans. Annual third-party penetration testing.
+
+5.4 Documented BCDR plan with stated RTO/RPO and annual testing.
+
+ARTICLE 6 — SUB-PROCESSORS
+
+6.1 General authorization. The Controller authorizes sub-processors subject to this Article 6.
+
+6.2 Current list at the Processor's trust center and in Annex III. The list specifically identifies any sub-processor that may have access to identifiable Personal Data versus any sub-processor that operates on Aggregated Insights only.
+
+6.3 The Processor will give the Controller at least 30 days' written notice before adding or replacing a sub-processor that may have access to identifiable Personal Data.
+
+6.4 The Controller may object on reasonable data protection grounds within 30 days. If unresolved within another 30 days, the Controller may terminate the affected portion of the parent agreement without penalty.
+
+6.5 Each sub-processor under written agreement with data protection terms at least as protective as this DPA.
+
+6.6 Primary liability for sub-processor acts and omissions.
+
+ARTICLE 7 — DATA SUBJECT RIGHTS
+
+7.1 The Processor will help the Controller respond to Data Subject requests, including by providing the Controller with self-service tools to retrieve, modify, and delete Personal Data on a per-Data-Subject basis.
+
+7.2 Suppression list management. The Processor maintains a suppression list for each Controller to ensure that Data Subjects who have opted out of marketing are not processed for marketing purposes again.
+
+7.3 If the Processor receives a Data Subject request directly, the Processor forwards it to the Controller within 5 business days.
+
+ARTICLE 8 — PERSONAL DATA BREACH NOTIFICATION
+
+8.1 The Processor will notify the Controller within {{BREACH_NOTIFICATION_HOURS}} hours after becoming aware of a Personal Data Breach affecting Controller's Marketing Data.
+
+8.2 The notification will include the categories and approximate number of Data Subjects affected, the categories and approximate number of Personal Data records affected, the contact point at the Processor, the likely consequences, and the measures taken or proposed.
+
+8.3 The Processor will cooperate with the Controller in investigating, remediating, and reporting the breach to any Supervisory Authority and any affected Data Subjects.
+
+8.4 The Processor maintains a record of all Personal Data Breaches.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS
+
+9.1 The Processor will help the Controller with Data Protection Impact Assessments (which are commonly required for AdTech use cases under Article 35 GDPR) and with prior consultations with Supervisory Authorities.
+
+9.2 The Controller is responsible for the DPIA itself.
+
+ARTICLE 10 — INTERNATIONAL TRANSFERS
+
+10.1 EU SCCs (2021/914) incorporated, Module 2 and Module 3, general sub-processor authorization (Option 2), Irish governing law and venue, Annexes referencing this DPA's Annexes I, II, and III.
+
+10.2 UK IDTA incorporated for UK transfers.
+
+10.3 The Processor maintains a current Transfer Impact Assessment.
+
+10.4 Controller may select EU-only data residency to limit international transfers.
+
+ARTICLE 11 — AUDIT RIGHTS
+
+11.1 The Controller can audit on at least {{AUDIT_NOTICE_DAYS}} days' notice and no more than once per twelve (12) month period.
+
+11.2 The Processor will share its current SOC 2 Type II report at no charge. Where the SOC 2 report adequately covers the audit scope, the Controller agrees to accept it instead of an on-site audit.
+
+11.3 Audits won't expose other customers' data or the Processor's trade secrets.
+
+ARTICLE 12 — DELETION OR RETURN OF PERSONAL DATA
+
+12.1 When the services end, the Processor will delete or return all Controller's Marketing Data at the Controller's choice and delete all existing copies, unless retention is required by law.
+
+12.2 Aggregated Insights derived from Controller's Marketing Data that no longer identify any Data Subject (and that satisfy k-anonymity or equivalent) may be retained by the Processor, but only to the extent they are not Personal Data within the meaning of Applicable Data Protection Law.
+
+12.3 Suppression list retention. The Processor will retain a hashed-identifier-only suppression list (containing no other Personal Data) after termination, solely to ensure the Processor can honor Data Subject opt-outs across re-engagements with the Controller, unless the Controller instructs otherwise.
+
+12.4 Certification of deletion on request.
+
+12.5 Deletion is completed within 30 days after the end of services.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+This DPA runs for the term of the parent agreement plus the wind-down period. Articles 8, 11, and 12 survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+This DPA is part of the parent agreement. In any conflict, this DPA wins on personal-data matters; the parent agreement wins on commercial matters, IP, liability, governing law, and dispute resolution. Counterparts allowed.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+Parties: Controller is {{CUSTOMER_NAME}}; Processor is {{PROVIDER_NAME}}.
+Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+Categories of Personal Data: {{DATA_CATEGORIES}}.
+Sensitive Data: none beyond what's identified above; the Controller agrees not to submit special category data to the platform.
+Frequency: continuous.
+Nature: {{PROCESSING_PURPOSE}}.
+Purpose: providing the marketing data platform to the Controller.
+Retention: parent agreement term plus wind-down; suppression list retained per Section 12.3.
+
+ANNEX II — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+Encryption: TLS 1.2+ in transit, AES-256 at rest.
+Pseudonymization: hashing of email addresses and phone numbers as join keys.
+Access: SSO + MFA, role-based, least privilege.
+Network: production / non-production segregation, WAF.
+Backup and recovery: documented BCDR plan, annual DR testing.
+Personnel: background checks, confidentiality undertakings, annual security and privacy training.
+Sub-processor management: written agreements, monitoring.
+Regular testing: annual SOC 2 Type II, annual ISO 27001 surveillance, quarterly vulnerability scans, annual penetration testing.
+Data residency: hosted in {{DATA_RESIDENCY_REGION}}.
+Incident response: documented plan, breach notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+Current list at the Processor's trust center, distinguishing sub-processors with identifiable-data access from those operating on Aggregated Insights only.
+
+Signed.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

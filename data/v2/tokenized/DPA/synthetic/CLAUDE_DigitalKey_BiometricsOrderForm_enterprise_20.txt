@@ -1,0 +1,161 @@
+DATA PROCESSING ADDENDUM ORDER FORM (BIOMETRIC IDENTITY VERIFICATION)
+
+This Data Processing Addendum Order Form (this "DPA Order Form" or "DPA") is dated {{EFFECTIVE_DATE}} and incorporates the {{PARENT_AGREEMENT_NAME}} between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}}) (the "Processor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} ({{CUSTOMER_ADDRESS}}) (the "Controller"), dated {{PARENT_AGREEMENT_DATE}} (the "Agreement").
+
+The Processor provides biometric identity verification services. Biometric data is sensitive personal information under most privacy laws, and the Processor is engaged on this DPA Order Form to ensure the heightened protections required by the Illinois Biometric Information Privacy Act (BIPA), Texas Capture or Use of Biometric Identifier Act (CUBI), Washington biometric law, the EU GDPR Article 9 (special category data), and other applicable laws.
+
+This DPA Order Form is structured as a modular form. Substantive obligations are in the Annexes. Where the Annexes conflict with the body, the Annexes control. Where this DPA Order Form (including Annexes) conflicts with the Agreement on personal-data matters, this DPA Order Form controls.
+
+ARTICLE 1 — DEFINITIONS AND APPLICABLE PRIVACY LAW
+
+1.1 Definitions per the EU GDPR / UK GDPR / CCPA / CPRA, plus state-specific definitions of "biometric information" and "biometric identifier" from BIPA, CUBI, and the Washington biometric statute.
+
+1.2 Applicable Privacy Law: BIPA (740 ILCS 14), CUBI (Tex. Bus. & Com. Code § 503.001), Washington biometric privacy law (RCW 19.375), EU GDPR Article 9, UK GDPR Article 9, CCPA / CPRA (sensitive personal information), state breach notification laws, and any other privacy law applicable to the Processing.
+
+1.3 Annex I sets forth the parties, categories of Personal Data, categories of Data Subjects, and other details of Processing.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES (Annex IV)
+
+2.1 The Controller is the controller. The Processor is the processor.
+
+2.2 The Processor processes Personal Data only on documented Controller instructions.
+
+2.3 No Sale or Profit. The Processor will not sell, lease, trade, or otherwise profit from biometric data within the meaning of BIPA, CUBI, or any other state biometric privacy law.
+
+2.4 No Use for Model Training Without Consent. The Processor will not use biometric data, biometric templates, or any derived data to train, fine-tune, or evaluate any AI / ML model — including the Processor's own face-matching or liveness models — except (a) using only synthetic / consented training data sets the Processor maintains separately from Controller data, or (b) with the Controller's express prior written consent and a separately documented model training arrangement.
+
+ARTICLE 3 — SCOPE OF PROCESSING (Annex I)
+
+3.1 Subject matter, nature, purpose, duration, categories of Personal Data, and categories of Data Subjects in Annex I.
+
+3.2 Nature and purpose: {{PROCESSING_PURPOSE}}.
+
+3.3 Categories of Personal Data: {{DATA_CATEGORIES}}.
+
+3.4 Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+
+3.5 Special Category Data Acknowledgment. Biometric data is special category data under Article 9 GDPR and sensitive personal information under the CCPA / CPRA. The Controller represents that it has a valid Article 9 lawful basis (typically explicit consent under Article 9(2)(a)) and any state-required written release under BIPA Section 15(b) before submitting biometric data to the Processor.
+
+ARTICLE 4 — PROCESSOR OBLIGATIONS (Annex IV)
+
+4.1 The Processor's obligations are in Annex IV.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES (Annex II)
+
+5.1 The Processor implements the TOMs in Annex II, with heightened protections for biometric data.
+
+5.2 Biometric template separation. Biometric templates and source images are stored separately from any identifying metadata, and re-association requires authenticated access through the Controller's tenant.
+
+5.3 Encryption: TLS 1.2+ in transit; AES-256 at rest; biometric templates encrypted with per-Controller encryption context.
+
+ARTICLE 6 — SUB-PROCESSORS (Annex III + Annex IV.B)
+
+6.1 Sub-processor requirements are in Annex IV.B. Specific written authorization required for any sub-processor that has access to biometric data.
+
+6.2 Current sub-processor list is in Annex III, with biometric-relevant sub-processors specifically identified.
+
+ARTICLE 7 — DATA SUBJECT RIGHTS (Annex IV.C)
+
+7.1 The Processor provides the Controller with the ability to retrieve and delete biometric data on a per-Data-Subject basis, in support of the Controller's response to data subject requests under BIPA, CUBI, GDPR, CCPA / CPRA, and any other applicable law.
+
+ARTICLE 8 — PERSONAL DATA BREACH NOTIFICATION (Annex IV.D)
+
+8.1 Notification within {{BREACH_NOTIFICATION_HOURS}} hours. The notification timeline is materially shorter than the GDPR Article 33 deadline because biometric breaches carry heightened risk and many state biometric privacy laws have aggressive notification requirements.
+
+8.2 Cooperation with the Controller's investigation, remediation, and any required notification to Supervisory Authorities, the state attorney general (where required by state law), and affected individuals.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS (Annex IV.E)
+
+9.1 The Processor will provide reasonable assistance to the Controller in conducting a Data Protection Impact Assessment under Article 35 GDPR. The Controller is required to conduct a DPIA for biometric Processing.
+
+ARTICLE 10 — INTERNATIONAL TRANSFERS (Annex V)
+
+10.1 EU SCCs and UK IDTA incorporated per Annex V.
+
+10.2 Region-locked Processing. The Controller may select the region for biometric data Processing via the Processor's region selector, in which case the Processor will Process biometric data exclusively in the selected region.
+
+10.3 No transfers to countries without adequacy or supplementary measures.
+
+ARTICLE 11 — AUDIT RIGHTS (Annex IV.F)
+
+11.1 Audit rights are in Annex IV.F. {{AUDIT_NOTICE_DAYS}} days' notice. No more than once per twelve (12) month period (except after a breach).
+
+11.2 The Processor will share its current SOC 2 Type II report and ISO/IEC 27018 certificate (if any) at no charge.
+
+11.3 NIST FRVT participation. The Processor participates in the NIST Face Recognition Vendor Test and shares its current FRVT results with the Controller on request, as evidence of the Processor's biometric algorithm performance.
+
+ARTICLE 12 — DELETION OR RETURN OF BIOMETRIC DATA (Annex IV.G)
+
+12.1 BIPA-required deletion. In addition to the general deletion-or-return obligation, the Processor shall comply with BIPA Section 15(a) by adopting a written retention schedule and guidelines for permanently destroying biometric identifiers and biometric information when the initial purpose for collecting or obtaining such identifiers or information has been satisfied or within three (3) years of the individual's last interaction with the Controller, whichever occurs first.
+
+12.2 Deletion verification. The Processor shall make its biometric data retention schedule available to the Controller and shall provide certification of deletion on request.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+This DPA Order Form runs for the term of the Agreement plus the wind-down period. Articles 8, 11, and 12 (and the corresponding Annex provisions) survive termination.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+This DPA Order Form is part of the Agreement. In any conflict, this DPA Order Form (including Annexes) controls on biometric data and personal-data matters; the Agreement controls on commercial matters, IP, liability, governing law, and dispute resolution. Counterparts allowed.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+Parties: Controller is {{CUSTOMER_NAME}}; Processor is {{PROVIDER_NAME}}.
+Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+Categories of Personal Data: {{DATA_CATEGORIES}}.
+Sensitive Data: biometric data is sensitive under BIPA, CUBI, Washington biometric law, GDPR Article 9, CCPA / CPRA, and other applicable laws.
+Frequency: per-verification event (each identity verification request).
+Nature: {{PROCESSING_PURPOSE}}.
+Purpose: providing biometric identity verification services.
+Retention: per BIPA Section 15(a) — until purpose is satisfied or 3 years from last interaction, whichever is sooner.
+
+ANNEX II — TECHNICAL AND ORGANIZATIONAL MEASURES (BIOMETRIC-SPECIFIC)
+
+Encryption: TLS 1.2+ in transit, AES-256 at rest, biometric templates with per-Controller encryption context.
+Template separation: biometric templates and source images stored separately from identifying metadata.
+Access: SSO + MFA, role-based, least privilege. Biometric data access requires elevated authorization.
+Network: production / non-production segregation, WAF, DDoS protection.
+Personnel: background checks, confidentiality undertakings, annual security and biometric privacy training.
+Sub-processor management: written agreements with biometric-data flow-down.
+Regular testing: annual SOC 2 Type II, annual ISO 27001 surveillance, ISO/IEC 27018 (cloud privacy) where applicable, NIST FRVT participation, annual third-party penetration testing including biometric template extraction testing.
+Data residency: hosted in {{DATA_RESIDENCY_REGION}}; region-locked processing available via region selector.
+Incident response: documented plan, breach notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8.
+BIPA written retention schedule: published and adhered to.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+Current list at the Processor's trust center. Sub-processors with biometric data access are specifically identified and require Controller-specific authorization.
+
+ANNEX IV — PROCESSOR OBLIGATIONS DETAIL
+
+A. Process only on instructions; personnel confidentiality; no sale or profit from biometric data; no use for model training without consent; no combining with other data.
+
+B. Sub-processor requirements: specific written authorization required for any biometric-data-handling sub-processor, 60-day notice, equivalent flow-down, primary liability.
+
+C. Data subject rights: per-Data-Subject retrieval and deletion, BIPA Section 15(d) right to written disclosure of biometric data on request.
+
+D. Personal data breach notification: {{BREACH_NOTIFICATION_HOURS}} hours, biometric-specific reporting cooperation under state biometric privacy laws.
+
+E. DPIA cooperation: reasonable assistance with the Controller's required DPIA for biometric Processing.
+
+F. Audit rights: {{AUDIT_NOTICE_DAYS}} days' notice, no more than once per twelve (12) month period (except after a breach). Annual SOC 2 Type II, ISO/IEC 27018, NIST FRVT participation evidence.
+
+G. Deletion or return: BIPA-compliant retention schedule, deletion at the end of services or per BIPA timing, certification on request.
+
+ANNEX V — INTERNATIONAL TRANSFERS
+
+EU SCCs (2021/914) incorporated, Module 2 and Module 3, general sub-processor authorization (Option 2), Irish governing law and venue. UK IDTA incorporated for UK transfers. Region-locked Processing available via the Processor's region selector. Transfer Impact Assessment maintained on a current basis with biometric-specific risk analysis.
+
+Signed.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

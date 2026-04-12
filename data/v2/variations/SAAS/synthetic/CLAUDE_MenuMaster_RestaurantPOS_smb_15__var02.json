@@ -1,0 +1,20 @@
+{
+  "source_template": "CLAUDE_MenuMaster_RestaurantPOS_smb_15.txt",
+  "variation_index": 2,
+  "substitutions": {
+    "PROVIDER_NAME": "Meridian SaaS Holdings, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "limited liability company",
+    "PROVIDER_ADDRESS": "3383 Westwood Boulevard, Columbus, Ohio 43560",
+    "CUSTOMER_NAME": "Highland Capital Group, Inc.",
+    "CUSTOMER_STATE": "Ohio",
+    "CUSTOMER_ENTITY_TYPE": "limited liability company",
+    "CUSTOMER_ADDRESS": "4755 Maple Boulevard, Columbus, Ohio 43125",
+    "EFFECTIVE_DATE": "March 12, 2024",
+    "VENUE_COUNTY": "Franklin County",
+    "VENUE_CITY": "Columbus",
+    "ANNUAL_FEE_AMOUNT": "Twelve Thousand United States Dollars ($12,000)",
+    "TERM_YEARS": "four (4)",
+    "NOTICE_DAYS": "sixty (60)"
+  }
+}

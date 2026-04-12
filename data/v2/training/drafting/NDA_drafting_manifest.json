@@ -1,0 +1,318 @@
+{
+  "type": "NDA",
+  "task": "drafting",
+  "total_examples": 100,
+  "total_contracts": 25,
+  "per_clause_type_counts": {
+    "confidentiality": 25,
+    "term_survival": 25,
+    "equitable_remedies": 25,
+    "purpose": 15,
+    "no_license": 1,
+    "return_or_destruction": 3,
+    "compelled_disclosure": 4,
+    "exclusions": 2
+  },
+  "contracts": [
+    {
+      "template": "CLAUDE_AetherLabs_ModelPreviewNDA_OneWay_smb_06",
+      "industry": "ai_model_preview_research_access",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_AtlasCompute_EmployeeConfid_OneWayNDA_enterprise_04",
+      "industry": "tech_employer_senior_engineer",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "no_license"
+      ]
+    },
+    {
+      "template": "CLAUDE_Beacon_MediaDistribution_OneWayNDA_mid_market_21",
+      "industry": "film_content_distribution_licensing",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_Bramwell_BigLaw_ClientMatter_FrameworkNDA_mid_market_11",
+      "industry": "biglaw_client_engagement_framework",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "return_or_destruction"
+      ]
+    },
+    {
+      "template": "CLAUDE_CrestWell_PharmaLicensing_MutualNDA_enterprise_19",
+      "industry": "pharma_asset_licensing_diligence",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_Crosswind_InternalInvestigation_OneWayNDA_enterprise_25",
+      "industry": "internal_investigation_attorney_client_privileged",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "compelled_disclosure"
+      ]
+    },
+    {
+      "template": "CLAUDE_DealRoomPartners_PE_MasterNDA_ModularOrderForm_enterprise_12",
+      "industry": "private_equity_dataroom_master",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_Elmwood_PE_PortfolioCoDiligence_MutualNDA_enterprise_17",
+      "industry": "pe_portfolio_company_diligence",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_ForgeSignal_APIBetaNDA_OneWay_smb_05",
+      "industry": "developer_tools_api_beta",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_GlideOps_VendorDiscovery_MutualNDA_smb_08",
+      "industry": "saas_vendor_discovery_call",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_HarborGate_CyberForensics_MutualNDA_enterprise_22",
+      "industry": "post_breach_cyber_forensics_engagement",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "compelled_disclosure"
+      ]
+    },
+    {
+      "template": "CLAUDE_Harbormate_ConsultantEngagement_OneWayNDA_mid_market_16",
+      "industry": "management_consulting_engagement",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "return_or_destruction"
+      ]
+    },
+    {
+      "template": "CLAUDE_Ironclad_CrossBorderTechLicensing_OneWayNDA_enterprise_18",
+      "industry": "cross_border_technology_licensing",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "compelled_disclosure"
+      ]
+    },
+    {
+      "template": "CLAUDE_Keystone_CanadianBank_Outsourcing_OneWayNDA_enterprise_09",
+      "industry": "canadian_bank_cloud_outsourcing_diligence",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "compelled_disclosure"
+      ]
+    },
+    {
+      "template": "CLAUDE_Ledgerline_CustomerReference_MutualNDA_smb_15",
+      "industry": "customer_reference_call_saas",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_Lighthouse_FranchiseDiligence_OneWayNDA_mid_market_23",
+      "industry": "franchisor_prospect_diligence",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_MeridianRetail_VendorEval_OneWayNDA_enterprise_02",
+      "industry": "retail_enterprise_software_procurement",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "return_or_destruction"
+      ]
+    },
+    {
+      "template": "CLAUDE_NovaBio_JointVenture_MutualNDA_enterprise_03",
+      "industry": "joint_venture_public_public_biotech",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_PinecrestVentures_StartupVCPitch_MutualNDA_smb_07",
+      "industry": "startup_vc_pitch",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_SentinelDefense_BidTeam_OneWayNDA_enterprise_10",
+      "industry": "federal_defense_contractor_bid_team",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_Silverleaf_PatentLicensing_MutualNDA_enterprise_24",
+      "industry": "standard_essential_patent_licensing_negotiation",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "exclusions"
+      ]
+    },
+    {
+      "template": "CLAUDE_Solstice_AcademicResearch_OneWayNDA_mid_market_20",
+      "industry": "academic_research_sponsored_collaboration",
+      "deal_size": "mid_market",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "exclusions"
+      ]
+    },
+    {
+      "template": "CLAUDE_StrataCore_Acquisition_MutualNDA_enterprise_01",
+      "industry": "m_and_a_strategic",
+      "deal_size": "enterprise",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_Voxly_PodcastGuest_MutualNDA_smb_14",
+      "industry": "podcast_guest_pre_interview",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    },
+    {
+      "template": "CLAUDE_Wildflower_FreelanceDesigner_OneWayNDA_smb_13",
+      "industry": "freelance_brand_designer_engagement",
+      "deal_size": "smb",
+      "examples": 4,
+      "clause_types": [
+        "confidentiality",
+        "term_survival",
+        "equitable_remedies",
+        "purpose"
+      ]
+    }
+  ]
+}

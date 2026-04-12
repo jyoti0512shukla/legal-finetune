@@ -1,0 +1,303 @@
+Statement of Work — Design System Build
+
+Project: {{PROJECT_NAME}}
+SOW Effective Date: {{EFFECTIVE_DATE}}
+Provider: {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} ({{PROVIDER_ADDRESS}})
+Client: {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} ({{CUSTOMER_ADDRESS}})
+Parent MSA: signed {{MSA_EFFECTIVE_DATE}}
+
+This SOW is part of the MSA above. The MSA controls the framework terms (confidentiality, IP, liability, etc.). This SOW controls the project-specific commercial terms (fee, schedule, deliverables, acceptance).
+
+ARTICLE 1 — PROJECT DESCRIPTION AND SCOPE
+
+1.1 What we're building
+
+The Provider is building a design system for the Client — a versioned library of design tokens, React components, and design documentation that the Client's product and engineering teams can use to ship product faster and with more visual consistency. The Project covers the initial system build (~16 weeks) followed by a 12-month optimization retainer.
+
+1.2 In-scope (Phase 1: Build)
+
+(a) Audit of the Client's existing product UI: pages screenshotted, components inventoried, inconsistencies cataloged.
+
+(b) Design tokens: color, typography, spacing, radius, shadow, motion. Tokens are delivered as a Style Dictionary build with JSON, CSS variables, Tailwind config, and Figma variables outputs.
+
+(c) ~40 core React components (button, input, select, checkbox, radio, modal, popover, tooltip, toast, table, pagination, tabs, accordion, breadcrumb, avatar, badge, card, alert, dialog, drawer, menu, command palette, etc.). Component list in Schedule A.
+
+(d) Each component includes: source code, unit tests (Jest + React Testing Library), accessibility audit (axe-core, manual screen-reader pass), Storybook stories, and design-system documentation pages.
+
+(e) Figma library mirroring the React components, with component variants matching the React API.
+
+(f) Design system website (Storybook + Docusaurus) hosted on the Client's preferred static hosting.
+
+(g) Migration playbook for the Client's product teams to start adopting the system.
+
+1.3 In-scope (Phase 2: Retainer)
+
+After the initial 16-week build, the Provider provides a 12-month optimization retainer:
+
+(a) Quarterly office hours with the Client's product designers and engineers.
+
+(b) Up to 5 net-new components per quarter (specific components agreed at the start of each quarter).
+
+(c) Ongoing maintenance: bug fixes, accessibility improvements, version upgrades.
+
+(d) Two minor releases per quarter and one major release in the year.
+
+1.4 Out-of-scope
+
+The following are not included:
+
+(a) Migration of the Client's existing product pages to use the new components. The Provider provides the playbook; the Client's teams do the migration.
+
+(b) Mobile-native components (iOS/Android). Web only.
+
+(c) Brand work — logo, brand guidelines, marketing site. The design system uses the Client's existing brand.
+
+(d) Custom illustration or icon design. The Provider integrates an existing icon library (Lucide, Phosphor, or Heroicons — Client picks).
+
+(e) Internationalization or right-to-left language support beyond the standard accessibility considerations.
+
+(f) Native dark mode. Dark mode is a Phase 2 add-on if requested.
+
+(g) Animation libraries beyond the standard motion tokens.
+
+(h) Dependency upgrades for the Client's existing product framework (Next.js / Remix / Vite version bumps, React version upgrades).
+
+1.5 Project window
+
+Start: {{PROJECT_START_DATE}}. Substantial completion of Phase 1 (Build): 16 weeks after start. End of Phase 2 (Retainer): {{PROJECT_END_DATE}}.
+
+ARTICLE 2 — DELIVERABLES AND ACCEPTANCE
+
+2.1 Phase 1 Deliverables
+
+(a) Audit Report — written audit of the Client's existing UI with inventory and recommendations. Target: end of Project Week 2.
+
+(b) Design Tokens Package — published Style Dictionary build with all token formats. Target: end of Project Week 4.
+
+(c) Component Set 1 (Foundation: 12 components) — button, input, select, checkbox, radio, label, link, divider, spinner, skeleton, badge, avatar. Target: end of Project Week 7.
+
+(d) Component Set 2 (Forms and Disclosure: 12 components) — modal, popover, tooltip, toast, alert, dialog, drawer, accordion, tabs, switch, slider, date-picker. Target: end of Project Week 11.
+
+(e) Component Set 3 (Data and Navigation: 16 components) — table, pagination, breadcrumb, menu, command palette, navbar, sidebar, treeview, calendar, file-upload, search, autocomplete, kanban, stepper, list, card. Target: end of Project Week 14.
+
+(f) Figma Library — Figma library mirroring the React components. Target: end of Project Week 15.
+
+(g) Design System Website + Migration Playbook — Storybook + Docusaurus published, migration playbook PDF. Target: end of Project Week 16.
+
+2.2 Phase 2 Deliverables
+
+(a) Quarterly Component Releases — up to 5 net-new components per quarter, agreed at the quarterly office hours. Target: end of each quarter.
+
+(b) Minor Release Notes — written release notes for each minor release. Target: with each release.
+
+(c) Major Release Notes and Migration Guide — written release notes and migration guide for the one major release in the year. Target: with the major release.
+
+2.3 Acceptance
+
+10 business days from receipt of each Phase 1 Deliverable. Client either accepts in writing or sends a single consolidated rejection notice. After 10 business days with no response, the Provider sends a written reminder; if still no response 5 business days after the reminder, the Deliverable is deemed accepted. Phase 2 quarterly releases are deemed accepted at the end of the quarter unless the Client objects in writing.
+
+2.4 Cure
+
+Provider has 10 business days to fix and re-deliver. After two cure cycles, the Client may either accept with a fee reduction or terminate this SOW for material breach.
+
+2.5 Acceptance criteria
+
+Each component is deemed conforming if it satisfies all of: (i) source code compiles cleanly with TypeScript strict mode, (ii) unit tests pass, (iii) axe-core accessibility audit shows zero critical or serious violations, (iv) Storybook stories are present for the documented variants, (v) the React API matches the Figma component variants, and (vi) the component is published to the Client's private npm registry.
+
+ARTICLE 3 — PROJECT SCHEDULE AND MILESTONES
+
+3.1 Dates
+
+Start: {{PROJECT_START_DATE}}. Phase 1 substantial completion: end of Week 16. Phase 2 end: {{PROJECT_END_DATE}}.
+
+3.2 Phase 1 Milestones
+
+(a) M1 — Audit Report accepted (Week 2)
+
+(b) M2 — Design Tokens Package accepted (Week 4)
+
+(c) M3 — Component Set 1 accepted (Week 7)
+
+(d) M4 — Component Set 2 accepted (Week 11)
+
+(e) M5 — Component Set 3 accepted (Week 14)
+
+(f) M6 — Phase 1 complete: Figma Library + Design System Website + Migration Playbook accepted (Week 16)
+
+3.3 Phase 2 quarterly cadence
+
+Q1 office hours and 5 net-new components, Q2 same, Q3 same, Q4 same, plus one major release in the year (timing agreed jointly).
+
+3.4 Status
+
+Weekly written status update from the Provider during Phase 1, monthly during Phase 2. Provider notifies Client immediately if any milestone is anticipated to slip more than 5 business days.
+
+ARTICLE 4 — KEY PERSONNEL
+
+4.1 Named team
+
+(a) Design Systems Lead — minimum 75% allocation Phase 1, 25% Phase 2.
+
+(b) Senior Frontend Engineer 1 — 100% allocation Phase 1, on-call Phase 2.
+
+(c) Senior Frontend Engineer 2 — 100% allocation Phase 1, on-call Phase 2.
+
+(d) Senior Designer — 100% allocation Weeks 1-15, 25% Phase 2.
+
+(e) Accessibility Specialist — 50% allocation Phase 1, on-call Phase 2.
+
+4.2 No replacement without consent
+
+The Design Systems Lead and the two Senior Frontend Engineers are the named Key Personnel. The Provider won't swap any of them out during Phase 1 without Client written consent.
+
+4.3 Background
+
+All Provider personnel are subject to the MSA's background-check requirements.
+
+ARTICLE 5 — CLIENT RESPONSIBILITIES
+
+5.1 What we need from the Client
+
+(a) Designate a Client Design Systems Owner (typically the Client's Head of Product Design or Engineering Manager — Frontend Platform).
+
+(b) Provide read access to the Client's existing product source code so the Provider can perform the audit.
+
+(c) Provide a private npm registry for the Provider to publish the design system packages to.
+
+(d) Provide hosting infrastructure for the design system website (the Client typically uses Vercel, Netlify, or Cloudflare Pages).
+
+(e) Provide brand assets and the Client's existing Figma library so the Provider can mirror the visual language.
+
+(f) Make the Client's product designers and engineers available for the design review sessions and the migration playbook walkthrough.
+
+(g) Respond to deliverables, code reviews, and decision requests within 5 business days.
+
+5.2 Accuracy
+
+The Client is responsible for the accuracy of the brand assets and the existing component inventory. If the Client provides incomplete or out-of-date brand assets, the Provider relies on what was provided.
+
+5.3 Client delays
+
+If the Client misses the 5-business-day window on Phase 1 reviews, the Phase 1 substantial completion date moves out by the same number of days. Persistent delays of more than 15 cumulative business days during Phase 1 entitle the Provider to a Schedule Change Order under Article 8.
+
+ARTICLE 6 — ASSUMPTIONS AND DEPENDENCIES
+
+6.1 Assumptions
+
+(a) The Client's product is built on React 18 or higher with TypeScript. The design system uses React 18 features. React 17 or below is out of scope.
+
+(b) The Client's preferred CSS approach is either Tailwind or CSS-in-JS via a popular library (Stitches, vanilla-extract, Emotion). Other approaches require Change Order assessment.
+
+(c) The Client uses Figma for design (not Sketch, XD, or Penpot).
+
+(d) The Client has a private npm registry (Verdaccio, GitHub Packages, npm Pro, or similar).
+
+(e) The Client's product has fewer than 200 unique pages and screens. Larger product surfaces may need an extended audit, billable as a Change Order.
+
+(f) Open-source components: the Provider may use existing open-source primitives (Radix UI, Headless UI, React Aria) as the underlying behavior layer for some components. The Client agrees that this is acceptable and that the resulting design system will include those primitives as dependencies. The Provider may also publish small generic utilities back to its own open-source repos under permissive licenses; nothing Client-specific or Confidential will be open-sourced. (See Section 6.4 for the open-source contribution carve-out.)
+
+(g) The Client's brand and visual language are stable enough to build tokens against. Brand changes during Phase 1 may trigger a Change Order to rebuild the affected tokens and components.
+
+6.2 Third-party dependencies
+
+The Project depends on (a) the open-source primitive libraries listed in Schedule B remaining available and maintained, (b) the Client's private npm registry being operational, (c) the Client's hosting platform supporting Storybook and Docusaurus, and (d) the Client's Figma org allowing shared library publishing.
+
+6.3 If an assumption is wrong
+
+The Provider notifies the Client promptly upon discovering any incorrect assumption.
+
+6.4 Open-source contribution carve-out
+
+The MSA's IP terms generally assign Work Product to the Client. For this Project, the Parties agree that generic utility code (not Client-specific, not based on Client business logic) that the Provider develops during the Project may be contributed back to the Provider's open-source repositories under a permissive license (MIT or Apache 2.0). This carve-out covers things like generic React hooks, accessibility helpers, and design-token build tooling — nothing that would identify the Client or expose any Client business logic. The Client retains all rights in the Client-specific assembled design system; the carve-out applies only to small, generic, decoupled utilities. The Provider will list any planned contributions in advance for Client approval.
+
+ARTICLE 7 — FEES AND PAYMENT
+
+7.1 Fee structure
+
+(a) Phase 1 (Build): fixed fee of {{SOW_FEE_AMOUNT}}, payable on the milestone schedule below.
+
+(b) Phase 2 (Retainer): a separate monthly retainer agreed in writing prior to Phase 2 start. The Phase 2 retainer is not part of this SOW Project Fee and is invoiced separately.
+
+7.2 Phase 1 payment schedule
+
+(a) 15% on signature. Invoice on signature, due net 30.
+
+(b) 10% on M1 (Audit Report accepted).
+
+(c) 10% on M2 (Design Tokens Package accepted).
+
+(d) 15% on M3 (Component Set 1 accepted).
+
+(e) 15% on M4 (Component Set 2 accepted).
+
+(f) 15% on M5 (Component Set 3 accepted).
+
+(g) 20% on M6 (Phase 1 complete).
+
+Each milestone invoice is due net 30.
+
+7.3 Expenses
+
+The Provider doesn't expect reimbursable expenses on this Project. If on-site visits are requested by the Client, travel is reimbursed under the MSA's expense policy with pre-approval for any expense over {{EXPENSE_PREAPPROVAL_THRESHOLD}}.
+
+7.4 Late payment
+
+Net 30. The MSA's late-payment terms apply.
+
+ARTICLE 8 — CHANGE CONTROL
+
+8.1 Change requests
+
+Either Party may request a change in writing.
+
+8.2 Impact assessment
+
+The Provider responds within 5 business days with the proposed impact on scope, schedule, and Project Fee.
+
+8.3 Change Order
+
+If both Parties agree, they sign a written Change Order. Both signatures required.
+
+8.4 No oral changes
+
+Only a signed Change Order modifies this SOW.
+
+8.5 De minimis
+
+Changes that move the Project Fee by less than {{CHANGE_ORDER_THRESHOLD}} and don't move milestones may be confirmed by email between the named project leads.
+
+8.6 Continuing performance
+
+The Provider continues working on the in-scope activities while a Change Request is under discussion.
+
+ARTICLE 9 — INCORPORATION OF MASTER SERVICES AGREEMENT
+
+9.1 Incorporation
+
+This SOW is incorporated into the MSA. All MSA terms apply.
+
+9.2 Order of precedence
+
+MSA wins on framework terms. This SOW wins on the project-specific commercial terms.
+
+9.3 IP
+
+IP is governed by the MSA, subject to the open-source contribution carve-out in Section 6.4.
+
+9.4 Termination
+
+Termination is governed by the MSA. If the Client terminates Phase 1 for convenience after M3, the Client owes the Provider for all work performed plus a wind-down fee equal to 15% of the unbilled Phase 1 fee.
+
+Signed as of {{EFFECTIVE_DATE}}.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:

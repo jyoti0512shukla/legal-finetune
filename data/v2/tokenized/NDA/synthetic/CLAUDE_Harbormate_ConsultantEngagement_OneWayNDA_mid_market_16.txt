@@ -1,0 +1,85 @@
+CONSULTANT CONFIDENTIALITY AGREEMENT
+
+Effective {{EFFECTIVE_DATE}}
+
+This is a plain-language confidentiality agreement between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} at {{PROVIDER_ADDRESS}} ("we" or "Client"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} at {{CUSTOMER_ADDRESS}} ("you" or "Consultant"). We're using it because we're bringing you in on a consulting engagement that will require you to see a lot of private information about our company — operations, systems, financials, customers, suppliers, and people — and we want to be clear about what you can and can't do with that information. This is a one-way NDA: we're the ones sharing, you're the one receiving. The scope of the work, the fees, and the deliverables are in a separate engagement letter.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 Confidential Information. "Confidential Information" means anything we share with you — whether by writing, email, meeting, site visit, data extract, or anything else — that isn't public and that a reasonable person in your position would understand to be confidential. It includes our financial results, operational data, customer information, supplier terms, pricing, strategic plans, internal tools, technology systems, employee information, and the nature and scope of your engagement with us.
+
+1.2 Purpose. "Purpose" means your consulting work for us on the engagement, as described in our separate engagement letter. That's it.
+
+1.3 Representatives. "Representatives" means the individuals on your consulting team who are staffed on our engagement and who have signed a written confidentiality agreement with you that's at least as protective as this one. Outside subcontractors, freelancers, or third parties aren't Representatives without our written consent in advance.
+
+ARTICLE 2 — PURPOSE
+
+2.1 Use it only for the Purpose. You'll use our Confidential Information only to do the consulting work we've engaged you for. You won't use it to pitch other clients, to benchmark other companies, to build a competing product or service, or to help any other entity in any way.
+
+2.2 Experience and skill. We recognize that as a consultant, you naturally build up general industry knowledge, frameworks, and skills over time, and that you'll continue to use that general knowledge on other engagements — that's the whole point of hiring a consultant. Nothing in this agreement is meant to prevent that. But using general knowledge is different from using our specific trade secrets, customer lists, pricing, or strategic plans. You can take the experience, you cannot take the information.
+
+2.3 No reverse engineering. If we give you access to any of our proprietary software, internal tools, or technical systems, you won't reverse engineer them or try to derive their design or source code.
+
+ARTICLE 3 — CONFIDENTIAL INFORMATION
+
+3.1 The basics. You'll: (a) keep our Confidential Information private; (b) use it only for the Purpose; (c) share it only with your Representatives who need to see it for the engagement, who are bound by at least equivalent confidentiality obligations, and whom you're responsible for; and (d) protect it with reasonable care — at least as much care as you'd use with your own sensitive information.
+
+3.2 Don't leak it. That means no posting it to cloud storage outside your consulting firm's systems, no emailing it to personal addresses, no discussing it on public video calls, no leaving printouts on shared-desk workspaces, and no discussing it with other clients or prospects.
+
+3.3 Your people, your responsibility. You're responsible for your Representatives. If any of them breaches this agreement, we'll treat that as your breach.
+
+3.4 Tell us if something leaks. If you find out our Confidential Information has been leaked, lost, or misused, tell us within two (2) business days and do what you reasonably can to help us contain and remediate the problem.
+
+ARTICLE 4 — EXCLUSIONS
+
+4.1 What's not covered. The obligations above don't apply to information that:
+  (a) is already public or becomes public without you or your Representatives breaking this agreement;
+  (b) you already knew, without any confidentiality obligation, before we shared it (and can show written evidence of that);
+  (c) you independently developed without using any of our Confidential Information; or
+  (d) you rightfully got from a third party who had no confidentiality obligation to us.
+
+4.2 Industry-general information. General industry benchmarks, published research, and public market data are not Confidential Information, even if we discuss them together. But the way we apply those benchmarks to our specific business — our targets, our gaps, our initiatives — is Confidential Information.
+
+ARTICLE 5 — COMPELLED DISCLOSURE
+
+5.1 If you're legally required to disclose our Confidential Information, let us know right away so we can ask a court for a protective order. Until we've had a chance to respond (or until a court tells you otherwise), don't disclose anything. If we can't get a protective order and we don't waive the obligation, disclose only the minimum you're legally required to disclose, and keep everything else confidential.
+
+ARTICLE 6 — RETURN OR DESTRUCTION
+
+6.1 When the engagement's done. When our engagement ends — whether the work is completed, we decide not to continue, or we terminate for any reason — you'll return or destroy our Confidential Information within ten (10) business days, including working files, notes, extracts, and any materials derived from our information. A short email confirming the destruction is fine.
+
+6.2 Retained copies. You can keep: (a) one archival copy with your legal counsel, solely to show what you agreed to and what you did, and (b) routine email and cloud-storage backups. Retained copies stay subject to this agreement for as long as you keep them.
+
+ARTICLE 7 — NO LICENSE OR OWNERSHIP TRANSFER
+
+7.1 Sharing Confidential Information doesn't transfer any ownership and doesn't grant you any license. Our data, our systems, our trademarks, and our know-how stay ours. Nothing in this agreement obligates us to give you any future engagement.
+
+ARTICLE 8 — TERM AND SURVIVAL
+
+8.1 How long this lasts. This agreement runs for {{TERM_YEARS}} years from the Effective Date. Either of us can end it earlier with {{NOTICE_DAYS}} days' written notice, though we won't terminate in a way that leaves the work in the middle of a critical phase without cause.
+
+8.2 After the agreement ends. Your confidentiality and non-use obligations continue for five (5) years after termination. Anything that qualifies as a trade secret stays protected for as long as it remains a trade secret under applicable law.
+
+ARTICLE 9 — EQUITABLE REMEDIES
+
+9.1 If you leak our Confidential Information, or if you use it in a way this agreement prohibits, damages alone probably won't make us whole — a leaked strategy could reach a competitor, a leaked customer list could get poached. So we can seek an injunction or specific performance from a court of competent jurisdiction, without having to post a bond or prove actual damages, in addition to any other remedies at law or in equity.
+
+ARTICLE 10 — GENERAL
+
+10.1 Governing law. {{GOVERNING_LAW_STATE}} law governs this agreement. Any dispute goes to the state or federal courts in {{VENUE_COUNTY}}, {{GOVERNING_LAW_STATE}}.
+
+10.2 Entire agreement. This is the whole confidentiality agreement between us. It replaces any earlier confidentiality discussions, though it doesn't replace our separate engagement letter, which governs scope, fees, and deliverables.
+
+10.3 Changes. Any changes have to be in writing, signed by both of us.
+
+10.4 Assignment. You can't assign this agreement without our written consent. We can assign this agreement in connection with a corporate transaction.
+
+10.5 Electronic signatures are fine.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________

@@ -1,0 +1,343 @@
+{
+  "type": "SOW",
+  "task": "drafting",
+  "total_examples": 125,
+  "total_contracts": 25,
+  "per_clause_type_counts": {
+    "sow_scope": 25,
+    "deliverables_acceptance": 25,
+    "fees_payment_sow": 25,
+    "milestones_schedule": 25,
+    "personnel": 9,
+    "assumptions_dependencies": 7,
+    "client_responsibilities": 5,
+    "change_control": 4
+  },
+  "contracts": [
+    {
+      "template": "CLAUDE_AeroVantage_FlightSimUpgrade_enterprise_20",
+      "industry": "defense_systems_engineering",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "personnel"
+      ]
+    },
+    {
+      "template": "CLAUDE_BeaconAnalytics_DataMart_mid_market_11",
+      "industry": "data_analytics_engineering",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "assumptions_dependencies"
+      ]
+    },
+    {
+      "template": "CLAUDE_DriveMotor_ConnectedVehicleData_enterprise_18",
+      "industry": "automotive_data_platform",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "client_responsibilities"
+      ]
+    },
+    {
+      "template": "CLAUDE_EmpireState_DigitalServices_enterprise_14",
+      "industry": "digital_services_modernization",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "personnel"
+      ]
+    },
+    {
+      "template": "CLAUDE_GlideFabric_iOSAppDev_mid_market_12",
+      "industry": "mobile_app_development",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "assumptions_dependencies"
+      ]
+    },
+    {
+      "template": "CLAUDE_GridStream_GridModernization_enterprise_19",
+      "industry": "utility_grid_modernization",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "personnel"
+      ]
+    },
+    {
+      "template": "CLAUDE_HelioForge_DataMigration_enterprise_01",
+      "industry": "it_services",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "assumptions_dependencies"
+      ]
+    },
+    {
+      "template": "CLAUDE_KaiserCloud_HealthSaaSImpl_enterprise_21",
+      "industry": "healthcare_saas_implementation",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "client_responsibilities"
+      ]
+    },
+    {
+      "template": "CLAUDE_LedgerLight_QBOImplementation_smb_06",
+      "industry": "bookkeeping",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "assumptions_dependencies"
+      ]
+    },
+    {
+      "template": "CLAUDE_LinearStack_DesignSystem_mid_market_09",
+      "industry": "design_engineering",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "personnel"
+      ]
+    },
+    {
+      "template": "CLAUDE_LunaLabs_AIFineTuning_smb_22",
+      "industry": "ai_ml_consulting",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "assumptions_dependencies"
+      ]
+    },
+    {
+      "template": "CLAUDE_NimbleStudio_BrandRedesign_smb_05",
+      "industry": "creative_agency",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "change_control"
+      ]
+    },
+    {
+      "template": "CLAUDE_NorthArc_PaidMediaRetainer_mid_market_07",
+      "industry": "marketing_agency",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "client_responsibilities"
+      ]
+    },
+    {
+      "template": "CLAUDE_NovaPharma_ClinicalAnalytics_enterprise_16",
+      "industry": "pharma_clinical_systems",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "personnel"
+      ]
+    },
+    {
+      "template": "CLAUDE_OmniRetail_OmnichannelImpl_enterprise_17",
+      "industry": "retail_systems_integration",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "change_control"
+      ]
+    },
+    {
+      "template": "CLAUDE_PaperTrail_ReceivablesAutomation_smb_24",
+      "industry": "financial_software_implementation",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "client_responsibilities"
+      ]
+    },
+    {
+      "template": "CLAUDE_PrismaConsult_ProcessRedesign_enterprise_02",
+      "industry": "management_consulting",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "change_control"
+      ]
+    },
+    {
+      "template": "CLAUDE_RedstoneCyber_PenTest_mid_market_04",
+      "industry": "cybersecurity_assessment",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "change_control"
+      ]
+    },
+    {
+      "template": "CLAUDE_RegalNorth_BankServicing_enterprise_13",
+      "industry": "it_services",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "personnel"
+      ]
+    },
+    {
+      "template": "CLAUDE_SilverLine_eDiscovery_mid_market_23",
+      "industry": "ediscovery_managed_review",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "personnel"
+      ]
+    },
+    {
+      "template": "CLAUDE_StarHospital_EHRImplementation_enterprise_15",
+      "industry": "healthcare_it_implementation",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "personnel"
+      ]
+    },
+    {
+      "template": "CLAUDE_StripeAtlas_SOC2ReadinessAssessment_smb_10",
+      "industry": "compliance_consulting",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "assumptions_dependencies"
+      ]
+    },
+    {
+      "template": "CLAUDE_SwiftHire_ATSImplementation_mid_market_08",
+      "industry": "hr_tech_implementation",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "assumptions_dependencies"
+      ]
+    },
+    {
+      "template": "CLAUDE_TrainPro_SecurityAwareness_smb_25",
+      "industry": "security_awareness_training",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "client_responsibilities"
+      ]
+    },
+    {
+      "template": "CLAUDE_VektorBuild_FintechCoreBanking_enterprise_03",
+      "industry": "custom_software_development",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "sow_scope",
+        "deliverables_acceptance",
+        "fees_payment_sow",
+        "milestones_schedule",
+        "personnel"
+      ]
+    }
+  ]
+}

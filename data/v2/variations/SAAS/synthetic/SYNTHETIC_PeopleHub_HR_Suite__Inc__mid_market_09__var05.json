@@ -1,0 +1,15 @@
+{
+  "source_template": "SYNTHETIC_PeopleHub_HR_Suite__Inc__mid_market_09.txt",
+  "variation_index": 5,
+  "substitutions": {
+    "PROVIDER_NAME": "Beacon Analytics Software, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "CUSTOMER_NAME": "Compass Insurance Group Inc.",
+    "CUSTOMER_ENTITY_TYPE": "Delaware corporation",
+    "VENUE_CITY": "Minneapolis",
+    "ANNUAL_FEE_AMOUNT": "Ninety-Six Thousand United States Dollars ($96,000)",
+    "TERM_YEARS": "three (3)",
+    "LIABILITY_CAP_MONTHS": "twelve (12)"
+  }
+}

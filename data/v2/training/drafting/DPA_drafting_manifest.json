@@ -1,0 +1,344 @@
+{
+  "type": "DPA",
+  "task": "drafting",
+  "total_examples": 125,
+  "total_contracts": 25,
+  "per_clause_type_counts": {
+    "controller_processor_roles": 25,
+    "processing_scope": 25,
+    "security_measures": 25,
+    "subprocessors": 25,
+    "deletion_return": 1,
+    "breach_notification": 5,
+    "international_transfers": 9,
+    "data_subject_rights": 4,
+    "audit_rights": 6
+  },
+  "contracts": [
+    {
+      "template": "CLAUDE_AdMosaic_AdTechMarTech_mid_market_12",
+      "industry": "adtech_martech",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "deletion_return"
+      ]
+    },
+    {
+      "template": "CLAUDE_BackupBeacon_BackupSaaS_mid_market_11",
+      "industry": "backup_saas",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "breach_notification"
+      ]
+    },
+    {
+      "template": "CLAUDE_BrightTrail_AnalyticsSaaS_smb_05",
+      "industry": "product_analytics",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "international_transfers"
+      ]
+    },
+    {
+      "template": "CLAUDE_DataMesh_JointController_enterprise_22",
+      "industry": "data_sharing_alliance",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "data_subject_rights"
+      ]
+    },
+    {
+      "template": "CLAUDE_DigitalKey_BiometricsOrderForm_enterprise_20",
+      "industry": "biometric_identity",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "breach_notification"
+      ]
+    },
+    {
+      "template": "CLAUDE_EmpireState_GovProcessor_enterprise_15",
+      "industry": "state_gov_services",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "audit_rights"
+      ]
+    },
+    {
+      "template": "CLAUDE_GridStream_UtilityProcessorOrderForm_enterprise_19",
+      "industry": "utility_grid",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "audit_rights"
+      ]
+    },
+    {
+      "template": "CLAUDE_HelpDeskHero_SupportTooling_smb_09",
+      "industry": "support_saas",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "data_subject_rights"
+      ]
+    },
+    {
+      "template": "CLAUDE_KaiserCloud_ProviderPaperDPA_enterprise_21",
+      "industry": "b2b_saas_general",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "breach_notification"
+      ]
+    },
+    {
+      "template": "CLAUDE_KalpaCloud_IndiaDPDPFintech_enterprise_04",
+      "industry": "fintech_lending",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "international_transfers"
+      ]
+    },
+    {
+      "template": "CLAUDE_LinearStripeStyle_DevTooling_smb_06",
+      "industry": "developer_tooling",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "international_transfers"
+      ]
+    },
+    {
+      "template": "CLAUDE_NorthstarCloud_EUSaasEnterprise_enterprise_01",
+      "industry": "b2b_saas_general",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "international_transfers"
+      ]
+    },
+    {
+      "template": "CLAUDE_NovaPharma_PharmaProcessor_enterprise_14",
+      "industry": "pharma_clinical_trials",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "audit_rights"
+      ]
+    },
+    {
+      "template": "CLAUDE_OmegaInsurer_InsuranceProcessor_enterprise_16",
+      "industry": "insurance",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "audit_rights"
+      ]
+    },
+    {
+      "template": "CLAUDE_OmniRetail_RetailProcessorOrderForm_enterprise_17",
+      "industry": "retail_commerce",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "international_transfers"
+      ]
+    },
+    {
+      "template": "CLAUDE_PaperTrail_ClickThroughDPA_smb_23",
+      "industry": "self_serve_saas",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "breach_notification"
+      ]
+    },
+    {
+      "template": "CLAUDE_PeoplePulse_UKHRTech_enterprise_02",
+      "industry": "hr_tech",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "data_subject_rights"
+      ]
+    },
+    {
+      "template": "CLAUDE_PortAuthority_TransportOrderForm_enterprise_18",
+      "industry": "transportation_authority",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "audit_rights"
+      ]
+    },
+    {
+      "template": "CLAUDE_PromptKit_LLMPlatform_smb_10",
+      "industry": "ai_ml_platform",
+      "deal_size": "smb",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "international_transfers"
+      ]
+    },
+    {
+      "template": "CLAUDE_QuillEdu_FERPAEdTech_mid_market_07",
+      "industry": "edtech",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "data_subject_rights"
+      ]
+    },
+    {
+      "template": "CLAUDE_RegalNorth_BankProcessor_enterprise_13",
+      "industry": "bank_processor",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "audit_rights"
+      ]
+    },
+    {
+      "template": "CLAUDE_RidgeRouter_ProcessorToProcessor_mid_market_24",
+      "industry": "infrastructure_routing",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "international_transfers"
+      ]
+    },
+    {
+      "template": "CLAUDE_TwilioStyle_CommsAPI_mid_market_08",
+      "industry": "communications_api",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "international_transfers"
+      ]
+    },
+    {
+      "template": "CLAUDE_VitalSync_HealthSaasBAA_enterprise_03",
+      "industry": "healthcare_saas",
+      "deal_size": "enterprise",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "breach_notification"
+      ]
+    },
+    {
+      "template": "CLAUDE_VoyageHorizons_LGPDBrazil_mid_market_25",
+      "industry": "travel_hospitality",
+      "deal_size": "mid_market",
+      "examples": 5,
+      "clause_types": [
+        "controller_processor_roles",
+        "processing_scope",
+        "security_measures",
+        "subprocessors",
+        "international_transfers"
+      ]
+    }
+  ]
+}

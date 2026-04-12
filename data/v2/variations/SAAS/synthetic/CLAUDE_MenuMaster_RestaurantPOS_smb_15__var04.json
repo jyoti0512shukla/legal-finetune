@@ -1,0 +1,20 @@
+{
+  "source_template": "CLAUDE_MenuMaster_RestaurantPOS_smb_15.txt",
+  "variation_index": 4,
+  "substitutions": {
+    "PROVIDER_NAME": "PrismLogic Software Solutions, Inc.",
+    "PROVIDER_STATE": "Delaware",
+    "PROVIDER_ENTITY_TYPE": "Delaware corporation",
+    "PROVIDER_ADDRESS": "7478 Stonewall Street, Denver, Colorado 80638",
+    "CUSTOMER_NAME": "Atlas Logistics Group, LLC",
+    "CUSTOMER_STATE": "Colorado",
+    "CUSTOMER_ENTITY_TYPE": "corporation",
+    "CUSTOMER_ADDRESS": "6411 Crestview Street, Denver, Colorado 80915",
+    "EFFECTIVE_DATE": "June 30, 2025",
+    "VENUE_COUNTY": "Denver County",
+    "VENUE_CITY": "Denver",
+    "ANNUAL_FEE_AMOUNT": "Two Hundred Forty Thousand United States Dollars ($240,000)",
+    "TERM_YEARS": "two (2)",
+    "NOTICE_DAYS": "one hundred eighty (180)"
+  }
+}

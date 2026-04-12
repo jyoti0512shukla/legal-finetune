@@ -1,0 +1,215 @@
+DATA PROCESSING ADDENDUM (UK GDPR / EU GDPR — HR TECH)
+
+This Data Processing Addendum (this "DPA") is entered into as of {{EFFECTIVE_DATE}} (the "DPA Effective Date") by and between {{PROVIDER_NAME}}, a {{PROVIDER_STATE}} {{PROVIDER_ENTITY_TYPE}} having its principal place of business at {{PROVIDER_ADDRESS}} (the "Processor"), and {{CUSTOMER_NAME}}, a {{CUSTOMER_STATE}} {{CUSTOMER_ENTITY_TYPE}} having its principal place of business at {{CUSTOMER_ADDRESS}} (the "Controller"). The Controller and the Processor are collectively the "Parties." This DPA is the Controller's standard form for HR-tech vendor data processing engagements and shall be governed by the Controller's negotiated terms set forth herein.
+
+This DPA forms part of, and is incorporated into, the {{PARENT_AGREEMENT_NAME}} between the Parties dated {{PARENT_AGREEMENT_DATE}} (the "Agreement"). All capitalized terms used but not defined in this DPA have the meanings given to them in the Agreement or in Article 1 below. In the event of any conflict between this DPA and the Agreement, this DPA shall control with respect to the Processing of Personal Data; the Agreement shall control with respect to all other matters not modified by this DPA.
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Applicable Data Protection Law" means, collectively, (a) the United Kingdom General Data Protection Regulation as it forms part of the law of England and Wales, Scotland, and Northern Ireland by virtue of section 3 of the European Union (Withdrawal) Act 2018 (the "UK GDPR"), (b) the Data Protection Act 2018 (United Kingdom), (c) the General Data Protection Regulation (Regulation (EU) 2016/679) (the "EU GDPR") to the extent applicable to Controller Personal Data of European Economic Area data subjects, (d) the Privacy and Electronic Communications (EC Directive) Regulations 2003 (PECR) to the extent applicable, and (e) any successor or implementing legislation, in each case as amended from time to time and applicable to the Processing of Controller Personal Data under the Agreement.
+
+1.2 "Controller Personal Data" means any Personal Data Processed by the Processor on behalf of the Controller under the Agreement, including the categories of Personal Data and Data Subjects identified in Annex I.
+
+1.3 "Data Subject," "Personal Data," "Personal Data Breach," "Processing," "Processor," "Sub-processor," "Supervisory Authority," and "Controller" each have the meanings given to those terms in Article 4 of the UK GDPR and the EU GDPR.
+
+1.4 "Employee Personal Data" means Controller Personal Data relating to current, former, or prospective employees, workers, contractors, and job applicants of the Controller, which constitutes a category of Personal Data warranting heightened protection under this DPA.
+
+1.5 "EU SCCs" means the standard contractual clauses approved by Commission Implementing Decision (EU) 2021/914.
+
+1.6 "ICO" means the Information Commissioner's Office of the United Kingdom.
+
+1.7 "UK IDTA" means the International Data Transfer Addendum to the EU SCCs issued by the ICO under section 119A of the UK Data Protection Act 2018, version B1.0, as amended.
+
+ARTICLE 2 — RELATIONSHIP OF THE PARTIES
+
+2.1 Roles. With respect to the Processing of Controller Personal Data under the Agreement, the Controller is the Controller and the Processor is the Processor. With respect to the personal data of the Processor's own employees and workforce who interact with the Controller in the ordinary course of providing the services, the Processor remains the Controller of such Processor employee data.
+
+2.2 Special Category Data Acknowledgment. The Parties acknowledge that the HR services provided under the Agreement may involve the Processing of special category data within the meaning of Article 9 of the UK GDPR (including data revealing trade union membership and data concerning health), and that the Controller has the obligation to ensure that an Article 9 lawful basis applies to all such Processing.
+
+2.3 Controller's Documented Instructions. The Processor shall Process Controller Personal Data only on documented instructions from the Controller, which instructions are set forth in (a) the Agreement, (b) this DPA, (c) the Controller's standard configuration of the HR platform, and (d) any further documented instructions provided by the Controller from time to time. The Processor shall not Process Controller Personal Data for any other purpose, including the Processor's own product analytics or service improvement purposes, without the Controller's express prior written consent.
+
+2.4 Notification of Conflicting Instructions. The Processor shall promptly notify the Controller in writing if, in the Processor's reasonable opinion, any Controller instruction infringes Applicable Data Protection Law, in which case the Processor shall not be obligated to perform the instruction until the Controller has confirmed or modified the instruction.
+
+ARTICLE 3 — SCOPE OF PROCESSING
+
+3.1 Subject Matter and Duration. The subject matter of the Processing is the provision of HR information system services to the Controller, as more fully described in the Agreement. The duration of the Processing shall be the term of the Agreement plus the wind-down period required for the Processor to delete or return Controller Personal Data in accordance with Article 12.
+
+3.2 Nature and Purpose of Processing. The nature and purpose of the Processing under this DPA are {{PROCESSING_PURPOSE}}, as more fully described in Annex I.
+
+3.3 Categories of Personal Data. The categories of Controller Personal Data Processed under this DPA include {{DATA_CATEGORIES}}, including Employee Personal Data and the special category data referenced in Section 2.2 to the extent the Controller configures the HR platform to collect such categories.
+
+3.4 Categories of Data Subjects. The categories of Data Subjects include {{DATA_SUBJECT_CATEGORIES}}.
+
+3.5 Lawful Basis. The Controller represents and warrants that it has a valid lawful basis for the Processing under Applicable Data Protection Law (including, where applicable, an Article 9 lawful basis for special category data) and that it has provided all necessary fair processing notices to its employees and other Data Subjects.
+
+ARTICLE 4 — PROCESSOR OBLIGATIONS
+
+4.1 Compliance. The Processor shall Process Controller Personal Data in accordance with this DPA and Applicable Data Protection Law applicable to the Processor's role as a Processor.
+
+4.2 Personnel Confidentiality. The Processor shall ensure that personnel authorized to Process Controller Personal Data have committed themselves to confidentiality and shall limit access to Controller Personal Data to those personnel who require such access to provide the services. Given the sensitivity of HR data, the Processor shall maintain heightened access controls (multi-factor authentication, single sign-on, role-based access) for any access to Employee Personal Data.
+
+4.3 Cooperation with Supervisory Authorities. The Processor shall cooperate, on the Controller's request, with any Supervisory Authority (including the ICO) in the performance of its tasks.
+
+4.4 No Sale, Sharing, or Secondary Use. The Processor shall not (a) sell or share Controller Personal Data within the meaning of any Applicable Data Protection Law, (b) Process Controller Personal Data for any commercial purpose other than providing the services to the Controller, (c) use Controller Personal Data to train any artificial intelligence or machine learning model except as expressly authorized by the Controller in writing, or (d) combine Controller Personal Data with personal data from any other source except as instructed by the Controller.
+
+ARTICLE 5 — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+5.1 Implementation. Taking into account the heightened sensitivity of HR Personal Data, the Processor shall implement and maintain Technical and Organizational Measures (the "TOMs") that are appropriate to the risk and at least as protective as those set forth in Annex II.
+
+5.2 Encryption. The Processor shall apply encryption to Controller Personal Data both in transit (TLS 1.2 or higher) and at rest (AES-256 or stronger), as further described in Annex II. For the most sensitive categories of HR data (including health data, salary information, and performance review data), the Processor shall apply additional pseudonymization or field-level encryption where reasonably practicable.
+
+5.3 Confidentiality, Integrity, Availability, and Resilience. The Processor shall ensure the ongoing confidentiality, integrity, availability, and resilience of the Processing systems used to Process Controller Personal Data.
+
+5.4 Restoration After Incident. The Processor shall maintain a documented business continuity and disaster recovery plan, including a recovery time objective and recovery point objective for Controller Personal Data, as set forth in Annex II.
+
+5.5 Regular Testing. The Processor shall regularly test and evaluate the effectiveness of the TOMs, including annual SOC 2 Type II audits, annual ISO 27001 surveillance audits, and annual third-party penetration testing.
+
+5.6 ICO Code of Employment Practices. The Processor's TOMs shall be consistent with the ICO's published guidance on the processing of employment data and the ICO's Employment Practices Code as updated from time to time.
+
+ARTICLE 6 — SUB-PROCESSORS
+
+6.1 Specific Authorization. The Controller's specific authorization is required for any Sub-processor that Processes Controller Personal Data. The Processor's currently authorized Sub-processors are listed in Annex III.
+
+6.2 List of Sub-processors. The Processor shall maintain a current list of its authorized Sub-processors and shall not engage any new Sub-processor without the Controller's prior written consent.
+
+6.3 Notification and Consent. The Processor shall notify the Controller in writing at least sixty (60) days before engaging any new or replacement Sub-processor, providing the name, location, role, and a description of the Sub-processor's role in the Processing. The Controller may withhold consent to a new Sub-processor on data protection grounds. Silence by the Controller for sixty (60) days following notice shall not be deemed consent.
+
+6.4 Right to Terminate. If the Controller withholds consent to a new Sub-processor that the Processor has determined is necessary to provide the services, the Controller may terminate the affected portion of the Agreement on written notice to the Processor without penalty.
+
+6.5 Sub-processor Obligations. The Processor shall enter into a written agreement with each Sub-processor that imposes data protection obligations on the Sub-processor that are equivalent in substance to those imposed on the Processor under this DPA. The Processor shall, on the Controller's request, provide a copy of the relevant Sub-processor agreement (which may be redacted to protect commercial terms) to the Controller.
+
+6.6 Primary Liability. The Processor shall remain primarily liable to the Controller for the acts and omissions of its Sub-processors as if such acts and omissions were the acts and omissions of the Processor itself.
+
+ARTICLE 7 — DATA SUBJECT RIGHTS
+
+7.1 Assistance to Controller. The Processor shall provide reasonable technical and organizational assistance to the Controller to enable the Controller to respond to Data Subject requests under Applicable Data Protection Law, including the rights of access, rectification, erasure, restriction of Processing, data portability, and objection. Such assistance shall include providing the Controller with self-service tools in the HR platform to retrieve, modify, and delete Controller Personal Data on a per-Data-Subject basis.
+
+7.2 Forwarding of Requests. If the Processor receives a Data Subject request directly, the Processor shall forward the request to the Controller without undue delay and in any event within three (3) business days, and shall not respond to the Data Subject directly other than to acknowledge receipt and direct the Data Subject to the Controller.
+
+7.3 No Direct Response. The Processor shall not respond to or fulfill any Data Subject request without the Controller's prior written authorization, except as required by Applicable Data Protection Law.
+
+ARTICLE 8 — PERSONAL DATA BREACH NOTIFICATION
+
+8.1 Notification Obligation. The Processor shall notify the Controller without undue delay and in any event within {{BREACH_NOTIFICATION_HOURS}} hours after becoming aware of a Personal Data Breach affecting Controller Personal Data. Given the heightened sensitivity of HR data, this notification window is materially shorter than the seventy-two (72) hour Article 33 deadline applicable to the Controller's notification to the ICO.
+
+8.2 Content of Notification. The Processor's notification shall describe (a) the nature of the Personal Data Breach, including the categories and approximate number of Data Subjects and Personal Data records concerned; (b) the contact point at the Processor; (c) the likely consequences of the Personal Data Breach; and (d) the measures taken or proposed to address the Personal Data Breach.
+
+8.3 Cooperation. The Processor shall cooperate with the Controller in investigating, remediating, notifying the ICO (where applicable), and communicating with affected Data Subjects.
+
+8.4 Records. The Processor shall maintain a record of all Personal Data Breaches affecting Controller Personal Data and shall make such records available to the Controller and the ICO on request.
+
+ARTICLE 9 — DATA PROTECTION IMPACT ASSESSMENTS
+
+9.1 Assistance with DPIAs. The Processor shall provide reasonable assistance to the Controller in carrying out Data Protection Impact Assessments under Article 35 of the UK GDPR (or the equivalent provision of the EU GDPR), including providing information about the Processing, the TOMs, and the Sub-processors.
+
+9.2 Prior Consultation. The Processor shall provide reasonable assistance to the Controller in connection with any prior consultation with the ICO under Article 36 of the UK GDPR (or the equivalent provision of the EU GDPR).
+
+9.3 Scope of Assistance. The Processor's assistance under this Article 9 includes providing documentation, attending meetings, and answering reasonable questions about the Processing, in each case to the extent necessary for the Controller to fulfill its DPIA and prior consultation obligations.
+
+ARTICLE 10 — INTERNATIONAL TRANSFERS
+
+10.1 Restricted Transfers. The Processor shall not transfer Controller Personal Data outside of the United Kingdom or the European Economic Area without ensuring that an appropriate transfer mechanism is in place under Chapter V of the UK GDPR or the EU GDPR.
+
+10.2 UK IDTA Incorporation. Where Controller Personal Data is transferred from the United Kingdom to a country that is not the subject of a UK adequacy regulation, the UK IDTA is hereby incorporated into this DPA, with: (a) Table 1 (Parties) reflecting the Controller and Processor as set forth in this DPA; (b) Table 2 (SCC modules) reflecting the EU SCCs Module Two (Controller to Processor) for direct Processor transfers and Module Three (Processor to Sub-processor) for onward transfers; (c) Table 3 (Appendix Information) reflecting Annexes I, II, and III of this DPA; (d) Table 4 (Ending the Addendum when the Approved Addendum Changes) being "Importer."
+
+10.3 EU SCCs Incorporation. Where Controller Personal Data is transferred from the European Economic Area, the EU SCCs are incorporated under the same modules and parameters as the UK IDTA above, with the Irish Data Protection Commission as the competent supervisory authority for purposes of Clause 13 of the EU SCCs and Irish law as the governing law under Clause 17 of the EU SCCs.
+
+10.4 Transfer Impact Assessment. The Processor has conducted, and shall maintain on a current basis, a Transfer Impact Assessment evaluating the risk to Controller Personal Data of any restricted transfer in light of the laws of the destination country. The Processor shall make the Transfer Impact Assessment available to the Controller on request.
+
+10.5 Supplementary Measures. The Processor shall implement appropriate supplementary measures where the Transfer Impact Assessment identifies risks that the EU SCCs or the UK IDTA alone do not adequately mitigate. Such supplementary measures may include encryption, pseudonymization, contractual restrictions on government access, and the right to suspend transfers.
+
+10.6 Government Access Requests. The Processor shall promptly notify the Controller of any binding legally enforceable request from a public authority in a third country to disclose Controller Personal Data, unless legally prohibited. The Processor shall challenge any such request that the Processor reasonably believes to be unlawful or overbroad and shall provide the minimum amount of Controller Personal Data necessary to comply with any request that the Processor is legally required to comply with.
+
+ARTICLE 11 — AUDIT RIGHTS
+
+11.1 Controller Audit Right. The Controller shall have the right to audit the Processor's compliance with this DPA and Applicable Data Protection Law, in accordance with this Article 11.
+
+11.2 Notice and Frequency. Audits shall be conducted no more than once per twelve (12) month period, except where (a) a Personal Data Breach affecting Controller Personal Data has occurred, (b) the ICO or another Supervisory Authority directs an audit, or (c) the Controller has reasonable grounds to believe that the Processor is materially non-compliant with this DPA. The Controller shall provide at least {{AUDIT_NOTICE_DAYS}} days' prior written notice of any audit, except in the case of an emergency audit triggered by a Personal Data Breach.
+
+11.3 Third-Party Audit Reports. The Processor shall make available to the Controller, at no charge, the most recent SOC 2 Type II report and ISO 27001 certificate covering the Processor's services. Where the third-party reports adequately address the scope of a proposed audit, the Controller will accept those reports in lieu of an on-site audit.
+
+11.4 Scope Limitations. Audits shall be conducted during normal business hours and shall not unreasonably interfere with the Processor's business. Audits shall not require disclosure of other customers' data, the Processor's trade secrets, or any information that would compromise the security of the Processor's systems.
+
+11.5 Cost. The Processor shall make third-party audit reports available at no charge. On-site audits beyond the third-party reports shall be at the Controller's expense, except where material non-compliance is identified, in which case the Processor shall reimburse the Controller's reasonable audit costs.
+
+ARTICLE 12 — DELETION OR RETURN OF PERSONAL DATA
+
+12.1 End of Provision of Services. Upon the end of the provision of the services under the Agreement, the Processor shall, at the Controller's choice, delete or return all Controller Personal Data and shall delete all existing copies, unless retention is required by Applicable Data Protection Law.
+
+12.2 Certification. The Processor shall, on the Controller's written request, certify in writing that it has deleted Controller Personal Data in accordance with this Article 12. For Employee Personal Data, the Processor shall provide the certification within thirty (30) days following the end of the provision of services.
+
+12.3 Backup and Archival Exception. Backup or archival copies retained pursuant to the Processor's documented backup retention schedule shall remain subject to the confidentiality and security obligations of this DPA until they are overwritten or deleted in the ordinary course.
+
+12.4 Wind-Down Period. The Processor shall complete the deletion or return within thirty (30) days following the end of the provision of services.
+
+ARTICLE 13 — TERM AND TERMINATION
+
+13.1 Term. This DPA shall commence on the DPA Effective Date and shall continue for the term of the Agreement plus the wind-down period in Article 12.
+
+13.2 Survival. Articles 8, 11, and 12 shall survive termination of this DPA to the extent applicable.
+
+ARTICLE 14 — INCORPORATION OF THE PARENT AGREEMENT AND ORDER OF PRECEDENCE
+
+14.1 Incorporation. This DPA is incorporated into and forms part of the Agreement. All terms of the Agreement that are not modified or superseded by this DPA continue in full force and effect.
+
+14.2 Order of Precedence. In the event of any conflict between this DPA and the Agreement, this DPA controls with respect to the Processing of Personal Data and the rights and obligations of the Parties under Applicable Data Protection Law. The Agreement controls with respect to all other matters not modified by this DPA.
+
+14.3 Counterparts and Execution. This DPA may be executed in counterparts. Execution of the Agreement on or after the DPA Effective Date shall constitute execution of this DPA.
+
+ANNEX I — SUBJECT MATTER AND DETAILS OF PROCESSING
+
+A. Parties.
+   (1) Data Exporter: {{CUSTOMER_NAME}} (Controller)
+   (2) Data Importer: {{PROVIDER_NAME}} (Processor)
+
+B. Description.
+   (1) Categories of Data Subjects: {{DATA_SUBJECT_CATEGORIES}}.
+   (2) Categories of Personal Data: {{DATA_CATEGORIES}}, including Employee Personal Data and (where the Controller configures the HR platform to collect) special category data within the meaning of Article 9 of the UK GDPR.
+   (3) Sensitive Data Acknowledgment: HR data including health data and trade union membership may constitute special category data under Article 9 UK GDPR; the Controller has the responsibility to ensure an Article 9 lawful basis applies.
+   (4) Frequency: continuous.
+   (5) Nature: {{PROCESSING_PURPOSE}}.
+   (6) Purpose: providing HR information system services to the Controller.
+   (7) Retention: for the term of the Agreement plus the wind-down period in Section 12.4.
+   (8) For Sub-processor transfers: as set forth in Annex III.
+
+C. Competent Supervisory Authority. For UK transfers under the UK IDTA: the Information Commissioner's Office. For EEA transfers under the EU SCCs: the Irish Data Protection Commission.
+
+ANNEX II — TECHNICAL AND ORGANIZATIONAL MEASURES
+
+1. Encryption. Encryption in transit (TLS 1.2 or higher). Encryption at rest (AES-256). Field-level encryption or pseudonymization for the most sensitive HR data fields where reasonably practicable.
+
+2. Access Controls. Multi-factor authentication for all personnel access. Role-based access control with the principle of least privilege. Single sign-on with the Controller's identity provider where supported. Audit logging of all access to Employee Personal Data.
+
+3. Network Security. Network segregation between production and non-production. Web application firewall. Intrusion detection and prevention systems.
+
+4. Personnel Security. All personnel with access to Employee Personal Data have completed background checks (where lawful and consistent with the ICO's Employment Practices Code), confidentiality undertakings, and annual data protection training.
+
+5. Restoration. Documented business continuity and disaster recovery plan with recovery time objectives and recovery point objectives. Geographically separate backup. Annual disaster recovery testing.
+
+6. Sub-processor Management. Each Sub-processor is subject to a written sub-processor agreement and is monitored for ongoing data protection compliance.
+
+7. Regular Testing. Annual SOC 2 Type II audit. Annual ISO 27001 surveillance audit. Annual third-party penetration testing. Quarterly internal vulnerability scans.
+
+8. Data Residency. Controller Personal Data is hosted in: {{DATA_RESIDENCY_REGION}}.
+
+9. Incident Response. Documented incident response plan. Personal Data Breach notification within {{BREACH_NOTIFICATION_HOURS}} hours per Article 8 of this DPA.
+
+10. Personnel Confidentiality. All personnel are subject to written confidentiality undertakings under their employment contracts.
+
+ANNEX III — APPROVED SUB-PROCESSORS
+
+The current list of authorized Sub-processors is maintained at the Processor's trust center and is appended to this DPA on the DPA Effective Date. Any additions or replacements require the Controller's prior written consent under Article 6 of this DPA.
+
+IN WITNESS WHEREOF, the Parties have executed this DPA as of the DPA Effective Date.
+
+{{PROVIDER_NAME}}
+
+By: _______________________________
+Name:
+Title:
+
+{{CUSTOMER_NAME}}
+
+By: _______________________________
+Name:
+Title:
