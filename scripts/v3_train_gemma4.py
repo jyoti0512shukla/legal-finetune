@@ -81,8 +81,8 @@ def main():
                         help="Linear warmup steps before cosine decay")
     parser.add_argument("--lora-r", type=int, default=64)
     parser.add_argument("--lora-alpha", type=int, default=128)
-    parser.add_argument("--save-steps", type=int, default=500,
-                        help="Save checkpoint every N steps")
+    parser.add_argument("--save-steps", type=int, default=100,
+                        help="Save checkpoint every N steps (each pushed to HF)")
     parser.add_argument("--eval-steps", type=int, default=500,
                         help="Run eval every N steps")
     parser.add_argument("--logging-steps", type=int, default=25)
@@ -203,7 +203,7 @@ def main():
     import random
     sample_idx = random.sample(range(len(train_data)), min(200, len(train_data)))
     sample_lens = [
-        len(tokenizer(train_data[i]["text"], truncation=False)["input_ids"])
+        len(tokenizer.tokenizer.encode(train_data[i]["text"]))
         for i in sample_idx
     ]
     sample_lens.sort()
@@ -228,6 +228,85 @@ def main():
     from trl import SFTTrainer
     from transformers import TrainingArguments
 
+    # ── 4a. Check for existing checkpoint to resume from ──────────────
+    resume_from = None
+    if args.push_to_hub:
+        from huggingface_hub import HfApi, list_repo_refs
+        hf_api = HfApi(token=args.hf_token)
+        try:
+            refs = list_repo_refs(args.hf_repo, token=args.hf_token)
+            branch_names = [b.name for b in refs.branches]
+            # Find checkpoint branches (checkpoint-500, checkpoint-1000, etc.)
+            ckpt_branches = sorted(
+                [b for b in branch_names if b.startswith("checkpoint-")],
+                key=lambda x: int(x.split("-")[1])
+            )
+            if ckpt_branches:
+                latest_ckpt = ckpt_branches[-1]
+                latest_step = int(latest_ckpt.split("-")[1])
+                print(f"\n  Found checkpoint on HuggingFace: {latest_ckpt} (step {latest_step})")
+                print(f"  Downloading checkpoint to resume training...")
+                # Download checkpoint from HF branch
+                ckpt_dir = Path(args.output_dir) / latest_ckpt
+                ckpt_dir.mkdir(parents=True, exist_ok=True)
+                from huggingface_hub import snapshot_download
+                snapshot_download(
+                    args.hf_repo,
+                    revision=latest_ckpt,
+                    local_dir=str(ckpt_dir),
+                    token=args.hf_token,
+                )
+                resume_from = str(ckpt_dir)
+                print(f"  ✓ Will resume from step {latest_step}")
+        except Exception as e:
+            print(f"  No existing checkpoint found ({e}) — training from scratch")
+
+    # ── 4b. Set up HuggingFace checkpoint callback ─────────────────────
+    from transformers import TrainerCallback
+
+    class PushCheckpointToHub(TrainerCallback):
+        """Push each checkpoint to HuggingFace as a separate branch.
+
+        This ensures that if the pod dies mid-training, the latest
+        checkpoint is safely on HuggingFace and can be resumed from.
+        """
+        def __init__(self, model, tokenizer, repo_id, token):
+            self.model = model
+            self.tokenizer = tokenizer
+            self.repo_id = repo_id
+            self.token = token
+            self.hf_api = HfApi(token=token)
+            # Ensure repo exists
+            try:
+                self.hf_api.create_repo(
+                    repo_id, private=True, token=token, exist_ok=True
+                )
+            except Exception:
+                pass
+
+        def on_save(self, _args, state, control, **kwargs):
+            step = state.global_step
+            branch = f"checkpoint-{step}"
+            print(f"\n  Pushing checkpoint at step {step} to HF branch '{branch}'...")
+            try:
+                self.model.push_to_hub(
+                    self.repo_id, private=True, token=self.token,
+                    revision=branch, create_pr=False,
+                )
+                self.tokenizer.push_to_hub(
+                    self.repo_id, private=True, token=self.token,
+                    revision=branch, create_pr=False,
+                )
+                print(f"  ✓ Checkpoint step {step} pushed to HF")
+            except Exception as e:
+                print(f"  ⚠ Failed to push checkpoint: {e}")
+
+    callbacks = []
+    if args.push_to_hub:
+        callbacks.append(
+            PushCheckpointToHub(model, tokenizer, args.hf_repo, args.hf_token)
+        )
+
     trainer = SFTTrainer(
         model              = model,
         tokenizer          = tokenizer,
@@ -236,6 +315,7 @@ def main():
         dataset_text_field = "text",
         max_seq_length     = args.max_seq_length,
         packing            = False,  # Don't pack — examples vary hugely in length
+        callbacks          = callbacks,
         args = TrainingArguments(
             per_device_train_batch_size  = args.batch_size,
             per_device_eval_batch_size   = args.batch_size,
@@ -264,9 +344,12 @@ def main():
 
     print()
     print("=" * 70)
-    print("Starting training...")
+    if resume_from:
+        print(f"Resuming training from {resume_from}...")
+    else:
+        print("Starting training from scratch...")
     print("=" * 70)
-    trainer_stats = trainer.train()
+    trainer_stats = trainer.train(resume_from_checkpoint=resume_from)
     print()
     print(f"✓ Training complete")
     print(f"  Total steps: {trainer_stats.global_step}")
@@ -279,9 +362,9 @@ def main():
     tokenizer.save_pretrained(str(final_dir))
     print(f"✓ Adapter saved to {final_dir}")
 
-    # ── 6. Push to HuggingFace ──────────────────────────────────────────
+    # ── 6. Push final adapter to HuggingFace (main branch) ─────────────
     if args.push_to_hub:
-        print(f"Pushing adapter to {args.hf_repo}...")
+        print(f"Pushing final adapter to {args.hf_repo} (main branch)...")
         model.push_to_hub(args.hf_repo, private=True, token=args.hf_token)
         tokenizer.push_to_hub(args.hf_repo, private=True, token=args.hf_token)
         print(f"✓ Adapter pushed to https://huggingface.co/{args.hf_repo}")
